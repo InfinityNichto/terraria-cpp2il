@@ -3,7 +3,7 @@ name: generate-site
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
@@ -36,5 +36,5 @@ jobs:
         git config user.email "u5170201@gmail.com"
         git add .
         git commit -m "Commit docs"
-        git pull origin master
+        git pull origin main
         git push
