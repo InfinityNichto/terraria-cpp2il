@@ -1,0 +1,9 @@
+<map id="Terraria.GameContent.ObjectInteractions.TileSmartInteractCandidateProvider.ReusableCandidate" name="Terraria.GameContent.ObjectInteractions.TileSmartInteractCandidateProvider.ReusableCandidate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,207,382,385"/>
+<area shape="rect" id="Node000002" href="$d5/d29/interfaceTerraria_1_1GameContent_1_1ObjectInteractions_1_1ISmartInteractCandidate.html" title=" " alt="" coords="5,5,199,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,82,198,205,193,208,124,84"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="223,5,266,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,71,247,190,242,190,242,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="363,5,393,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="379,72,371,125,363,155,351,184,345,194,341,192,346,182,358,154,366,124,374,71"/>
+</map>

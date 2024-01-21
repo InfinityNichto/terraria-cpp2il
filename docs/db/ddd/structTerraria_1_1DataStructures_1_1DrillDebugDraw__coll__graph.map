@@ -1,0 +1,17 @@
+<map id="Terraria.DataStructures.DrillDebugDraw" name="Terraria.DataStructures.DrillDebugDraw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,1223,392,1317"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,181,249,1156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1094,284,1206,279,1207,247,1095"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="252,584,262,598,270,617,276,669,272,710,262,740,257,738,267,709,271,669,264,618,257,600,248,587"/>
+<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="9,5,171,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,84,101,181,96,181,90,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="195,5,238,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="215,71,201,166,196,165,210,71"/>
+<area shape="rect" id="Node000005" href="$d0/dc1/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Color.html" title=" " alt="" coords="379,177,563,1160"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="382,1126,368,1161,343,1210,339,1208,364,1159,377,1124"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="566,578,576,591,583,611,590,669,586,714,576,746,571,744,581,713,585,669,578,613,571,594,562,581"/>
+<area shape="rect" id="Node000006" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="315,5,462,71"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="397,84,409,177,404,178,392,85"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="486,5,529,71"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="508,71,503,161,498,161,503,71"/>
+</map>

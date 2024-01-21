@@ -1,0 +1,7 @@
+<map id="Terraria.DataStructures.ItemCreationContext" name="Terraria.DataStructures.ItemCreationContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,5,335,85"/>
+<area shape="rect" id="Node000002" href="$d3/db1/classTerraria_1_1DataStructures_1_1JourneyDuplicationItemCreationContext.html" title=" " alt="" coords="5,133,243,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,98,173,135,169,131,202,94"/>
+<area shape="rect" id="Node000003" href="$db/d0c/classTerraria_1_1DataStructures_1_1RecipeItemCreationContext.html" title=" " alt="" coords="267,141,477,235"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,94,333,139,329,142,290,98"/>
+</map>

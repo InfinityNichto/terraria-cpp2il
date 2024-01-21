@@ -1,0 +1,25 @@
+<map id="Terraria.Map.PingMapLayer" name="Terraria.Map.PingMapLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,1815,361,1949"/>
+<area shape="rect" id="Node000002" href="$db/d4f/interfaceTerraria_1_1Map_1_1IMapLayer.html" title=" " alt="" coords="5,1451,207,1546"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,1558,236,1814,231,1816,127,1560"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="231,1466,290,1531"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,1532,263,1799,258,1799,258,1532"/>
+<area shape="rect" id="Node000004" href="$d2/da1/classReLogic_1_1Utilities_1_1SlotVector.html" title=" " alt="" coords="344,1260,657,1737"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="501,1738,489,1766,473,1792,454,1814,430,1832,378,1858,376,1853,428,1828,450,1810,469,1789,485,1764,496,1736"/>
+<area shape="rect" id="Node000005" href="$d2/da1/classReLogic_1_1Utilities_1_1SlotVector.html" title=" " alt="" coords="344,815,657,1183"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="503,1196,503,1260,498,1260,498,1196"/>
+<area shape="rect" id="Node000006" href="$d5/ddf/classIEnumerable.html" title=" " alt="" coords="208,665,385,745"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="334,754,375,813,370,816,329,757"/>
+<area shape="rect" id="Node000007" href="$d5/ddf/classIEnumerable.html" title=" " alt="" coords="410,672,506,737"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="467,751,476,814,471,814,462,752"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="545,5,584,71"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="565,71,521,752,517,798,512,798,515,752,560,71"/>
+<area shape="rect" id="Node000011" href="$db/dce/structReLogic_1_1Utilities_1_1SlotId.html" title=" " alt="" coords="581,192,788,565"/>
+<area shape="poly" id="edge12_Node000011_Node000008" title=" " alt="" coords="578,70,616,176,611,177,573,72"/>
+<area shape="rect" id="Node000009" href="$dc/d35/structReLogic_1_1Utilities_1_1SlotVector_1_1ItemPair.html" title=" " alt="" coords="605,657,796,752"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="671,754,637,803,633,800,667,751"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="897,346,979,411"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="937,412,922,486,907,528,886,567,845,612,799,650,795,646,842,609,881,564,902,526,917,485,932,411"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="697,566,700,641,695,641,691,566"/>
+<area shape="poly" id="edge11_Node000011_Node000011" title=" " alt="" coords="790,338,808,353,815,379,812,396,804,409,799,407,807,394,809,379,803,356,786,342"/>
+</map>

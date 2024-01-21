@@ -1,0 +1,20 @@
+<map id="Terraria.Social.Discord.DiscordRpc.RichPresence" name="Terraria.Social.Discord.DiscordRpc.RichPresence">
+<area shape="rect" id="Node000001" title=" " alt="" coords="406,569,602,773"/>
+<area shape="rect" id="Node000002" href="$df/d48/structTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresenceStruct.html" title=" " alt="" coords="170,280,386,360"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,360,289,401,300,448,317,498,341,544,366,574,395,601,392,605,362,578,337,547,312,500,295,450,284,402,278,361"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="172,5,221,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,71,184,110,181,157,185,207,200,255,207,266,202,269,195,257,180,208,176,157,179,109,186,70"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="7,5,50,71"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="23,71,13,129,8,203,10,244,16,284,27,323,44,359,77,406,116,449,160,489,206,524,303,582,392,626,390,630,300,587,203,528,156,493,112,453,73,409,39,361,22,324,11,285,5,244,3,203,8,128,18,70"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="31,71,37,173,46,222,59,254,90,265,155,284,153,289,88,270,56,258,41,224,32,174,26,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="510,5,541,71"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="544,60,559,94,567,139,567,175,559,256,544,412,526,553,520,553,539,411,554,256,562,174,562,139,554,95,539,62"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="512,56,481,96,470,119,464,140,457,180,449,218,438,237,422,258,401,276,398,272,418,254,434,234,444,216,452,179,458,139,465,117,477,93,508,53"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="367,5,410,71"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="408,70,418,94,438,181,458,301,493,553,488,553,453,302,433,182,412,95,403,72"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="369,63,347,96,333,139,330,175,327,212,316,257,312,266,307,264,311,255,322,211,324,174,328,138,342,94,365,60"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="677,287,780,353"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="713,354,661,442,596,547,589,557,585,554,591,544,657,439,708,352"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="804,287,855,353"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="830,353,823,396,810,447,789,499,758,547,728,576,693,601,619,638,617,634,690,597,725,572,754,544,785,497,805,445,818,394,824,353"/>
+</map>

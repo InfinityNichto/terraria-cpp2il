@@ -1,0 +1,23 @@
+<map id="Terraria.Lang" name="Terraria.Lang">
+<area shape="rect" id="Node000001" title=" " alt="" coords="328,1053,704,1905"/>
+<area shape="rect" id="Node000002" href="$d5/d73/classTerraria_1_1Localization_1_1LocalizedText.html" title=" " alt="" coords="5,133,243,585"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,585,162,682,181,785,207,889,239,990,277,1082,323,1173,318,1175,272,1084,233,992,202,890,176,786,157,683,142,586"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="245,316,263,333,269,359,266,378,258,392,254,389,261,376,264,359,258,335,241,320"/>
+<area shape="rect" id="Node000005" href="$d2/d2f/classTerraria_1_1UI_1_1ItemTooltip.html" title=" " alt="" coords="387,663,645,991"/>
+<area shape="poly" id="edge10_Node000005_Node000002" title=" " alt="" coords="245,512,347,637,379,673,375,676,343,640,241,515"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="77,5,171,71"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="127,71,127,117,121,117,121,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="613,5,664,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="614,45,561,55,490,72,412,98,337,136,296,165,257,200,253,196,292,161,335,131,410,94,488,67,560,50,613,40"/>
+<area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="666,52,709,84,729,106,745,132,770,197,785,253,792,305,791,355,784,405,774,458,745,586,733,626,713,663,687,697,659,727,655,724,683,693,708,660,728,624,740,585,768,457,779,404,786,354,786,305,780,254,765,198,740,135,725,110,705,88,663,56"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="519,991,519,1036,513,1036,513,991"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="647,794,664,806,671,826,669,840,661,851,657,847,664,838,666,827,660,810,644,798"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="349,319,499,399"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="414,400,402,449,393,509,391,574,401,638,404,646,399,648,396,639,386,574,388,508,397,448,409,399"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="524,327,575,392"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="550,392,532,646,526,646,544,392"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="683,327,730,392"/>
+<area shape="poly" id="edge11_Node000005_Node000008" title=" " alt="" coords="712,392,713,441,710,504,699,573,678,640,656,681,652,679,674,638,694,572,704,504,707,441,706,392"/>
+<area shape="rect" id="Node000009" href="$d5/d59/classTerraria_1_1Lang_1_1SubstitutionsObject.html" title=" " alt="" coords="743,687,929,967"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="770,968,714,1082,709,1080,765,966"/>
+</map>

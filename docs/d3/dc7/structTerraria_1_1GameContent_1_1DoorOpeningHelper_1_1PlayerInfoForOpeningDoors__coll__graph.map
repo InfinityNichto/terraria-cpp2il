@@ -1,0 +1,9 @@
+<map id="Terraria.GameContent.DoorOpeningHelper.PlayerInfoForOpeningDoors" name="Terraria.GameContent.DoorOpeningHelper.PlayerInfoForOpeningDoors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1256,297,1336"/>
+<area shape="rect" id="Node000002" href="$d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle.html" title=" " alt="" coords="271,177,493,1164"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,1123,254,1165,229,1207,201,1244,196,1241,225,1204,249,1163,268,1121"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="496,581,506,595,513,615,520,671,516,715,505,747,500,745,511,714,515,671,508,616,501,598,491,584"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="67,5,97,71"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="78,71,51,240,36,366,25,511,20,670,25,835,43,1002,57,1084,77,1163,92,1204,114,1241,109,1243,88,1206,71,1165,52,1085,37,1003,20,836,15,670,20,511,31,366,46,239,73,71"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="99,45,131,64,173,93,217,131,254,176,265,194,260,197,249,179,213,135,170,98,128,69,96,50"/>
+</map>

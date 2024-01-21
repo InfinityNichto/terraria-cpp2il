@@ -1,0 +1,13 @@
+<map id="Terraria.GameContent.VoidLensHelper" name="Terraria.GameContent.VoidLensHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="294,1185,513,1419"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,148,249,1123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1008,318,1160,322,1169,318,1172,313,1162,247,1010"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="252,551,262,565,269,584,276,635,272,676,262,706,257,704,267,675,271,635,264,585,257,568,248,554"/>
+<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="46,5,209,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,84,130,148,125,148,125,84"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="313,5,355,71"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="348,70,359,107,369,148,388,288,401,431,411,575,416,715,417,970,413,1169,407,1169,412,970,410,715,405,575,396,432,382,288,363,148,354,108,343,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="326,72,257,268,252,266,321,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="493,603,524,668"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="512,668,513,749,510,862,499,992,477,1123,463,1170,458,1169,471,1122,493,992,504,862,508,749,507,668"/>
+</map>

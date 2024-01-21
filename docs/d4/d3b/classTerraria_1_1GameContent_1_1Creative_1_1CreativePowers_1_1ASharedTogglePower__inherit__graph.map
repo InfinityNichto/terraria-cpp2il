@@ -1,0 +1,15 @@
+<map id="Terraria.GameContent.Creative.CreativePowers.ASharedTogglePower" name="Terraria.GameContent.Creative.CreativePowers.ASharedTogglePower">
+<area shape="rect" id="Node000001" title=" " alt="" coords="427,321,683,892"/>
+<area shape="rect" id="Node000004" href="$d7/ddd/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1FreezeRainPower.html" title=" " alt="" coords="5,947,263,1250"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="420,769,265,949,261,946,416,765"/>
+<area shape="rect" id="Node000005" href="$df/d37/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1FreezeTime.html" title=" " alt="" coords="287,947,544,1250"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="473,906,461,948,456,946,468,905"/>
+<area shape="rect" id="Node000006" href="$d8/df7/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1FreezeWindDirectionAndStrength.html" title=" " alt="" coords="568,940,825,1257"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="644,904,654,939,649,941,639,906"/>
+<area shape="rect" id="Node000007" href="$da/d4e/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1StopBiomeSpreadPower.html" title=" " alt="" coords="849,947,1125,1250"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="695,762,857,946,853,949,691,765"/>
+<area shape="rect" id="Node000002" href="$d4/d69/interfaceTerraria_1_1GameContent_1_1Creative_1_1ICreativePower.html" title=" " alt="" coords="316,5,565,273"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="479,286,488,320,483,322,474,288"/>
+<area shape="rect" id="Node000003" href="$d5/dea/interfaceTerraria_1_1GameContent_1_1IOnPlayerJoining.html" title=" " alt="" coords="589,99,753,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="661,193,629,322,624,321,656,192"/>
+</map>

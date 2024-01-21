@@ -1,0 +1,14 @@
+<map id="Microsoft.Xna.Framework.Graphics.PackedVector.Rgba1010102" name="Microsoft.Xna.Framework.Graphics.PackedVector.Rgba1010102">
+<area shape="rect" id="Node000001" title=" " alt="" coords="187,475,480,916"/>
+<area shape="rect" id="Node000002" href="$d6/d99/interfaceMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1IPackedVector.html" title=" " alt="" coords="88,312,261,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,423,230,473,226,476,202,425"/>
+<area shape="rect" id="Node000003" href="$d6/d99/interfaceMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1IPackedVector.html" title=" " alt="" coords="79,120,292,249"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,263,180,312,175,312,178,263"/>
+<area shape="rect" id="Node000004" href="$d5/df7/classIPackedVector.html" title=" " alt="" coords="5,5,109,71"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="53,85,46,151,45,234,54,324,64,368,78,411,100,454,126,495,188,568,184,572,122,498,95,456,74,413,59,370,48,325,39,234,41,150,47,84"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,79,131,118,127,122,93,83"/>
+<area shape="rect" id="Node000005" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="285,329,488,395"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="382,409,371,475,366,474,377,408"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="513,329,551,395"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="515,396,476,462,471,459,511,394"/>
+</map>

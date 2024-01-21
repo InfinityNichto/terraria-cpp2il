@@ -1,0 +1,7 @@
+<map id="TextureAtlasDB.SwitchEntry" name="TextureAtlasDB.SwitchEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,200,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,79,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,71,68,109,72,118,67,120,63,110,58,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="121,5,164,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,72,120,118,115,117,130,70"/>
+</map>

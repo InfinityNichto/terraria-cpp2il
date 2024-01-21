@@ -1,0 +1,9 @@
+<map id="GUIControllerMappingScheme" name="GUIControllerMappingScheme">
+<area shape="rect" id="Node000001" title=" " alt="" coords="351,5,672,1191"/>
+<area shape="rect" id="Node000002" href="$d4/d5a/classGUIControllerMappingScheme__Advanced.html" title=" " alt="" coords="5,1239,327,2037"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="349,1096,301,1239,296,1238,344,1094"/>
+<area shape="rect" id="Node000003" href="$d7/d38/classGUIControllerMappingScheme__Console.html" title=" " alt="" coords="351,1239,672,2037"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="514,1204,514,1238,509,1238,509,1204"/>
+<area shape="rect" id="Node000004" href="$d5/ddd/classGUIControllerMappingScheme__Default.html" title=" " alt="" coords="696,1239,1017,2037"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="679,1094,727,1238,722,1239,674,1096"/>
+</map>

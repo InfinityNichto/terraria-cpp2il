@@ -1,0 +1,7 @@
+<map id="Terraria.WorldBuilding.GenerationProgress" name="Terraria.WorldBuilding.GenerationProgress">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,239,357"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="43,5,94,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,71,68,110,73,153,75,161,69,162,67,154,62,111,63,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="146,5,205,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,71,149,162,144,160,165,70"/>
+</map>

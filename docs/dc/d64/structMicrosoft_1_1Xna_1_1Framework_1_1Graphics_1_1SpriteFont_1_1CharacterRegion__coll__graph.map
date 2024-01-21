@@ -1,0 +1,7 @@
+<map id="Microsoft.Xna.Framework.Graphics.SpriteFont.CharacterRegion" name="Microsoft.Xna.Framework.Graphics.SpriteFont.CharacterRegion">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,213,257"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,5,95,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,71,77,124,79,132,74,133,72,124,68,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="131,5,162,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,72,128,132,123,131,137,70"/>
+</map>

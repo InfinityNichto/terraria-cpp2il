@@ -1,0 +1,9 @@
+<map id="Terraria.IO.FavoritesFile" name="Terraria.IO.FavoritesFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,209,387"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="7,20,58,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,85,61,138,63,146,58,148,55,139,39,86"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="86,20,129,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,85,110,146,105,146,105,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="163,5,305,100"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,101,207,140,202,150,197,147,202,138,218,99"/>
+</map>

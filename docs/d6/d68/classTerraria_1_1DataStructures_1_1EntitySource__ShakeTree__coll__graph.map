@@ -1,0 +1,14 @@
+<map id="Terraria.DataStructures.EntitySource_ShakeTree" name="Terraria.DataStructures.EntitySource_ShakeTree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,599,189,708"/>
+<area shape="rect" id="Node000002" href="$d0/d8e/classTerraria_1_1DataStructures_1_1AEntitySource__Tile.html" title=" " alt="" coords="20,455,175,549"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,563,100,599,95,599,95,563"/>
+<area shape="rect" id="Node000003" href="$d9/d62/interfaceTerraria_1_1DataStructures_1_1IEntitySource.html" title=" " alt="" coords="26,237,126,303"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,316,96,454,90,455,78,316"/>
+<area shape="rect" id="Node000004" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="150,148,357,392"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="173,394,140,443,136,440,169,391"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="358,242,376,252,383,270,381,281,374,290,370,286,376,279,378,270,372,256,355,247"/>
+<area shape="rect" id="Node000005" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="124,5,271,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="211,83,226,147,221,148,206,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="295,5,326,71"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="305,71,290,132,285,131,300,70"/>
+</map>

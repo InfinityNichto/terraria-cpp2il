@@ -1,0 +1,32 @@
+<map id="Terraria.Audio.CustomSoundStyle" name="Terraria.Audio.CustomSoundStyle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,1043,452,1265"/>
+<area shape="rect" id="Node000002" href="$df/d4d/classTerraria_1_1Audio_1_1SoundStyle.html" title=" " alt="" coords="201,751,439,980"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="323,994,323,1043,317,1043,317,994"/>
+<area shape="rect" id="Node000003" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom.html" title=" " alt="" coords="11,349,216,688"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="89,688,86,759,90,834,103,908,128,979,150,1016,178,1049,174,1053,145,1019,123,981,98,910,85,834,81,759,84,688"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,687,217,725,224,736,219,739,212,728,190,690"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="150,148,181,213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="152,196,132,214,117,238,104,285,98,334,92,333,99,284,112,236,128,211,148,192"/>
+<area shape="rect" id="Node000010" href="$dd/d91/classSoundDefinition.html" title=" " alt="" coords="539,427,749,611"/>
+<area shape="poly" id="edge15_Node000010_Node000004" title=" " alt="" coords="183,213,218,278,238,306,255,323,291,340,325,345,357,342,389,336,421,329,454,326,490,331,528,347,565,376,594,411,590,415,561,379,525,352,488,336,454,332,422,334,390,341,358,348,325,350,290,345,252,328,234,309,214,280,178,215"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,148,48,213"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="29,214,30,266,39,325,41,333,35,334,33,326,25,267,23,214"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="303,148,345,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="323,214,321,238,315,349,312,519,315,688,316,734,311,734,309,688,306,519,309,349,316,237,318,213"/>
+<area shape="poly" id="edge16_Node000010_Node000006" title=" " alt="" coords="323,214,323,241,327,271,337,299,354,323,374,338,394,343,414,343,435,340,479,333,503,336,528,347,564,376,593,411,589,415,560,380,525,352,502,341,479,339,436,345,415,348,394,349,372,343,350,327,332,302,322,272,318,241,318,214"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="430,486,514,551"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="464,552,442,616,413,689,391,737,386,735,408,687,437,614,459,551"/>
+<area shape="rect" id="Node000008" href="$d7/d17/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffect.html" title=" " alt="" coords="552,763,736,967"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="553,950,459,1033,456,1029,550,946"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="608,5,659,71"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="659,38,714,44,784,61,821,75,855,94,886,117,912,146,933,184,947,222,956,262,959,302,957,343,950,384,925,467,889,547,844,623,796,692,749,753,745,749,792,689,840,620,884,544,920,465,945,383,951,343,953,302,951,262,942,224,928,186,907,150,882,121,852,98,818,80,783,66,713,50,659,43"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="609,51,579,66,544,87,511,115,486,149,480,166,479,180,487,213,503,265,524,317,575,411,570,414,520,319,498,267,481,214,474,180,475,165,482,147,507,111,541,83,576,61,607,47"/>
+<area shape="rect" id="Node000011" href="$d8/d11/classSoundGroup.html" title=" " alt="" coords="523,148,743,213"/>
+<area shape="poly" id="edge13_Node000011_Node000009" title=" " alt="" coords="636,71,636,131,631,131,631,71"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="647,611,647,747,641,747,641,611"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="637,213,643,410,638,411,632,214"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="334,5,461,71"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="452,68,567,137,565,142,449,73"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="767,148,897,213"/>
+<area shape="poly" id="edge17_Node000010_Node000013" title=" " alt="" coords="817,215,705,413,701,411,812,212"/>
+</map>

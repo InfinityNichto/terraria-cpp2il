@@ -1,0 +1,12 @@
+<map id="Terraria.Localization.LocalizedText" name="Terraria.Localization.LocalizedText">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,648,449,1100"/>
+<area shape="rect" id="Node000002" href="$d5/d73/classTerraria_1_1Localization_1_1LocalizedText.html" title=" " alt="" coords="211,133,449,585"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,586,333,632,327,632,327,586"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="451,316,468,333,475,359,472,378,464,392,459,389,467,376,470,359,464,335,447,320"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="127,5,221,71"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="128,68,93,97,79,115,67,135,40,198,21,255,11,308,8,358,13,408,24,461,67,584,92,636,125,684,162,728,201,768,197,772,158,732,120,687,88,638,62,586,19,462,8,409,3,358,6,307,16,254,35,197,62,132,74,112,90,94,125,64"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="192,70,215,117,210,120,187,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="475,5,526,71"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="521,70,534,100,544,133,571,260,579,312,584,361,583,410,577,462,564,520,544,586,529,626,509,665,461,736,457,733,504,662,524,624,539,584,559,519,572,461,578,410,578,362,574,313,565,261,539,134,529,102,516,72"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="486,72,459,123,454,121,481,70"/>
+</map>

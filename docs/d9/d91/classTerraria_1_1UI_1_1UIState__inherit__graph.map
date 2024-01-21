@@ -1,0 +1,17 @@
+<map id="Terraria.UI.UIState" name="Terraria.UI.UIState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="646,1351,779,1416"/>
+<area shape="rect" id="Node000004" href="$dc/def/classTerraria_1_1GameContent_1_1UI_1_1States_1_1UIAchievementsMenu.html" title=" " alt="" coords="5,2045,255,2527"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="632,1391,534,1398,426,1412,330,1434,294,1449,269,1466,219,1526,180,1594,150,1666,129,1743,115,1821,107,1898,104,1974,105,2045,100,2045,98,1974,101,1898,109,1820,124,1742,145,1665,175,1591,215,1523,266,1462,291,1444,328,1429,425,1407,534,1393,632,1386"/>
+<area shape="rect" id="Node000005" href="$d5/d13/classTerraria_1_1GameContent_1_1UI_1_1States_1_1UIBestiaryTest.html" title=" " alt="" coords="279,1787,543,2785"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="635,1410,592,1433,573,1448,557,1466,511,1539,474,1619,447,1702,426,1788,421,1787,442,1701,470,1617,506,1536,553,1462,570,1444,589,1429,632,1406"/>
+<area shape="rect" id="Node000006" href="$dc/dcf/classTerraria_1_1GameContent_1_1UI_1_1States_1_1UICreativePowersMenu.html" title=" " alt="" coords="568,1691,857,2881"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="715,1430,715,1691,710,1691,710,1430"/>
+<area shape="rect" id="Node000007" href="$de/d39/classTerraria_1_1GameContent_1_1UI_1_1States_1_1UIEmotesMenu.html" title=" " alt="" coords="881,1951,1117,2621"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="793,1405,836,1428,856,1444,872,1462,907,1517,937,1575,960,1636,980,1698,994,1762,1005,1826,1017,1950,1012,1951,1000,1826,989,1763,975,1700,955,1637,932,1577,903,1519,868,1466,852,1448,833,1433,791,1410"/>
+<area shape="rect" id="Node000008" href="$d8/d7b/classTerraria_1_1GameContent_1_1UI_1_1States_1_1UIVirtualKeyboard.html" title=" " alt="" coords="1141,1464,1447,3108"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="793,1387,885,1395,985,1410,1074,1432,1108,1446,1132,1462,1143,1473,1139,1477,1128,1466,1105,1450,1072,1437,984,1415,884,1401,793,1392"/>
+<area shape="rect" id="Node000002" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="573,119,852,1303"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="715,1317,715,1350,710,1350,710,1317"/>
+<area shape="rect" id="Node000003" href="$d9/d6f/classIComparable.html" title=" " alt="" coords="664,5,761,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="715,84,715,118,710,118,710,84"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="Terraria.GameContent.Creative.ICreativePower" name="Terraria.GameContent.Creative.ICreativePower">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1339,5,1588,288"/>
+<area shape="rect" id="Node000002" href="$d0/d20/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1APerPlayerSliderPower.html" title=" " alt="" coords="151,336,419,1353"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1325,166,1134,192,915,230,810,254,716,279,637,308,581,338,535,377,493,421,455,469,421,520,417,517,451,466,489,417,531,373,578,334,635,303,714,274,809,248,914,225,1133,187,1325,161"/>
+<area shape="rect" id="Node000004" href="$d5/d12/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1APerPlayerTogglePower.html" title=" " alt="" coords="592,497,865,1192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1330,278,867,716,864,712,1327,274"/>
+<area shape="rect" id="Node000007" href="$db/dce/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ASharedButtonPower.html" title=" " alt="" coords="1335,591,1592,1098"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1466,302,1466,591,1461,591,1461,302"/>
+<area shape="rect" id="Node000012" href="$d5/ddc/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ASharedSliderPower.html" title=" " alt="" coords="2385,405,2635,1284"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1601,236,2386,758,2383,762,1598,241"/>
+<area shape="rect" id="Node000017" href="$d9/d2e/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ASharedTogglePower.html" title=" " alt="" coords="3498,559,3754,1130"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1602,153,1809,171,2072,204,2215,228,2362,257,2507,292,2648,333,2770,378,2892,428,3012,484,3127,542,3335,658,3499,757,3496,762,3332,662,3124,547,3009,489,2890,433,2768,383,2647,339,2506,297,2361,262,2215,233,2071,209,1808,176,1602,158"/>
+<area shape="rect" id="Node000003" href="$de/dd5/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSliderPerPlayerPower.html" title=" " alt="" coords="5,1485,263,2232"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,1367,192,1485,187,1485,204,1367"/>
+<area shape="rect" id="Node000005" href="$d1/d17/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1FarPlacementRangePower.html" title=" " alt="" coords="287,1732,576,1985"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="626,1206,471,1732,466,1731,620,1205"/>
+<area shape="rect" id="Node000006" href="$d1/d93/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1GodmodePower.html" title=" " alt="" coords="600,1732,857,1985"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="731,1206,731,1732,726,1732,726,1206"/>
+<area shape="rect" id="Node000008" href="$d9/d2a/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1StartDayImmediately.html" title=" " alt="" coords="881,1789,1141,1929"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1330,1067,1240,1229,1156,1402,1116,1506,1081,1612,1031,1789,1026,1788,1076,1610,1111,1504,1152,1400,1235,1227,1325,1064"/>
+<area shape="rect" id="Node000009" href="$d3/d26/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1StartMidnightImmediately.html" title=" " alt="" coords="1166,1789,1457,1929"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="1426,1112,1324,1789,1319,1788,1421,1112"/>
+<area shape="rect" id="Node000010" href="$dd/d26/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1StartNightImmediately.html" title=" " alt="" coords="1481,1789,1750,1929"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="1506,1112,1608,1788,1602,1789,1501,1112"/>
+<area shape="rect" id="Node000011" href="$db/df9/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1StartNoonImmediately.html" title=" " alt="" coords="1775,1789,2043,1929"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="1601,1074,1686,1233,1764,1400,1805,1504,1841,1610,1893,1788,1888,1789,1836,1612,1800,1506,1760,1402,1681,1235,1597,1077"/>
+<area shape="rect" id="Node000013" href="$d1/d1b/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySliderPower.html" title=" " alt="" coords="2067,1401,2367,2316"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="2383,1292,2352,1402,2346,1400,2378,1290"/>
+<area shape="rect" id="Node000014" href="$da/dd3/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyRainPower.html" title=" " alt="" coords="2391,1609,2629,2109"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="2513,1298,2513,1608,2507,1608,2507,1298"/>
+<area shape="rect" id="Node000015" href="$db/de8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate.html" title=" " alt="" coords="2653,1549,2911,2168"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="2634,1296,2702,1548,2697,1550,2629,1298"/>
+<area shape="rect" id="Node000016" href="$de/d34/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyWindDirectionAndStrength.html" title=" " alt="" coords="2935,1601,3191,2116"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="2647,996,2717,1083,2791,1183,2862,1290,2924,1400,2968,1499,3003,1600,2998,1602,2963,1500,2920,1403,2857,1292,2786,1186,2713,1087,2643,999"/>
+<area shape="rect" id="Node000018" href="$d7/ddd/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1FreezeRainPower.html" title=" " alt="" coords="3216,1707,3473,2010"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="3546,1144,3389,1708,3384,1706,3541,1143"/>
+<area shape="rect" id="Node000019" href="$df/d37/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1FreezeTime.html" title=" " alt="" coords="3497,1707,3755,2010"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="3629,1144,3629,1707,3623,1707,3623,1144"/>
+<area shape="rect" id="Node000020" href="$d8/df7/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1FreezeWindDirectionAndStrength.html" title=" " alt="" coords="3779,1700,4036,2017"/>
+<area shape="poly" id="edge19_Node000017_Node000020" title=" " alt="" coords="3711,1142,3866,1699,3861,1700,3706,1144"/>
+<area shape="rect" id="Node000021" href="$da/d4e/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1StopBiomeSpreadPower.html" title=" " alt="" coords="4060,1707,4336,2010"/>
+<area shape="poly" id="edge20_Node000017_Node000021" title=" " alt="" coords="3765,995,3837,1082,3913,1182,3986,1289,4051,1400,4087,1476,4118,1555,4165,1706,4160,1708,4113,1557,4082,1478,4046,1403,3982,1292,3909,1185,3833,1086,3761,998"/>
+</map>

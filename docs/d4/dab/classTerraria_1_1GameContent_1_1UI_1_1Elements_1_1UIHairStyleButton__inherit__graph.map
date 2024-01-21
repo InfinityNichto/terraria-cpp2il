@@ -1,0 +1,9 @@
+<map id="Terraria.GameContent.UI.Elements.UIHairStyleButton" name="Terraria.GameContent.UI.Elements.UIHairStyleButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,1805,256,2237"/>
+<area shape="rect" id="Node000002" href="$df/daf/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIImageButton.html" title=" " alt="" coords="48,1351,241,1757"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,1771,147,1805,142,1805,142,1771"/>
+<area shape="rect" id="Node000003" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="5,119,284,1303"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,1316,147,1351,142,1351,142,1316"/>
+<area shape="rect" id="Node000004" href="$d9/d6f/classIComparable.html" title=" " alt="" coords="96,5,193,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,84,147,118,142,118,142,84"/>
+</map>

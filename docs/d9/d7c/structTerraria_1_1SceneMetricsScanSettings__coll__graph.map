@@ -1,0 +1,17 @@
+<map id="Terraria.SceneMetricsScanSettings" name="Terraria.SceneMetricsScanSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="423,1241,608,1321"/>
+<area shape="rect" id="Node000002" href="$d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle.html" title=" " alt="" coords="5,177,228,1164"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,973,264,1038,303,1101,346,1161,395,1215,411,1230,408,1234,391,1219,342,1164,298,1104,260,1041,226,976"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="230,582,240,596,248,616,255,671,251,714,240,745,235,744,246,713,249,671,243,617,236,599,226,585"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,5,132,71"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="119,71,119,161,114,161,114,71"/>
+<area shape="rect" id="Node000004" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="393,183,637,1158"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="518,1158,518,1225,513,1225,513,1158"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="640,584,650,599,658,618,664,671,660,712,650,743,645,741,655,711,659,671,652,619,645,601,636,587"/>
+<area shape="rect" id="Node000005" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="370,5,533,71"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="459,84,469,183,463,183,453,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="557,5,599,71"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="578,71,568,167,563,167,572,71"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="767,638,810,703"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="796,703,805,787,808,904,804,969,795,1036,780,1102,758,1165,734,1201,702,1228,664,1249,625,1263,623,1258,662,1244,699,1224,730,1197,753,1163,775,1101,790,1035,799,969,802,904,800,787,791,704"/>
+</map>

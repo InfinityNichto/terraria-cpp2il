@@ -1,0 +1,19 @@
+<map id="Microsoft.Xna.Framework.Audio.SoundEffect" name="Microsoft.Xna.Framework.Audio.SoundEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,537,189,741"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="124,5,175,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,71,139,95,128,166,121,238,104,521,99,521,116,237,123,165,133,94,138,70"/>
+<area shape="rect" id="Node000003" href="$dd/d91/classSoundDefinition.html" title=" " alt="" coords="281,291,492,475"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="147,71,144,103,144,139,150,177,164,212,184,243,210,271,269,318,265,322,206,275,180,246,159,215,145,178,139,139,139,102,141,71"/>
+<area shape="rect" id="Node000004" href="$d8/d11/classSoundGroup.html" title=" " alt="" coords="202,148,422,213"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="167,69,184,97,206,122,226,137,222,141,202,126,179,100,162,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,477,204,548,200,544,281,473"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="326,213,349,274,344,276,321,215"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="275,5,402,71"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="335,71,324,132,318,131,330,70"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="446,148,477,213"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="448,209,433,238,419,276,414,274,428,236,443,206"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="501,148,544,213"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="518,214,509,241,496,268,489,279,484,276,491,265,504,239,513,213"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="589,148,718,213"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="646,215,633,242,614,269,564,309,508,340,506,335,561,305,610,265,628,240,641,212"/>
+</map>

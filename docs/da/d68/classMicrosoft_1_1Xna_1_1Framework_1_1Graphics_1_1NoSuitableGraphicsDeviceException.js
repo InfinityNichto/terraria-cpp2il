@@ -1,0 +1,6 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1NoSuitableGraphicsDeviceException =
+[
+    [ "NoSuitableGraphicsDeviceException", "da/d68/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1NoSuitableGraphicsDeviceException_a001ccb781e6355c7750df8395fd96577.html#a001ccb781e6355c7750df8395fd96577", null ],
+    [ "NoSuitableGraphicsDeviceException", "da/d68/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1NoSuitableGraphicsDeviceException_adce97e1992eb58902432f59285d1b671.html#adce97e1992eb58902432f59285d1b671", null ],
+    [ "NoSuitableGraphicsDeviceException", "da/d68/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1NoSuitableGraphicsDeviceException_ac3e38e1cdc31db194742cd7bc98a6bbe.html#ac3e38e1cdc31db194742cd7bc98a6bbe", null ]
+];

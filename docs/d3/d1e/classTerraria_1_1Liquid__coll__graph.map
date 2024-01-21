@@ -1,0 +1,9 @@
+<map id="Terraria.Liquid" name="Terraria.Liquid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,280,321,1652"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,71,49,256,50,263,44,264,43,256,21,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="149,5,191,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,71,173,263,167,263,167,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="230,5,345,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,72,261,264,256,264,281,71"/>
+</map>

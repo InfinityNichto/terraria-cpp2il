@@ -1,0 +1,10 @@
+<map id="Terraria.Graphics.Capture.CaptureInterface.ModeChangeSettings" name="Terraria.Graphics.Capture.CaptureInterface.ModeChangeSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,371,297,748"/>
+<area shape="rect" id="Node000002" href="$d6/d83/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1CaptureInterfaceMode.html" title=" " alt="" coords="65,133,263,293"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,307,167,371,161,371,161,307"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="22,71,15,116,9,171,9,232,19,293,40,355,35,357,14,294,4,233,4,171,9,115,17,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="50,65,93,118,89,122,46,68"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="287,181,318,246"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,247,277,294,253,356,248,354,272,292,289,245"/>
+</map>

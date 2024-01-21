@@ -1,0 +1,7 @@
+<map id="Player_OldConsole" name="Player_OldConsole">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,265,227,464"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="17,71,11,150,14,196,25,241,28,249,23,251,19,242,9,197,6,150,12,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,5,239,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,71,212,150,204,197,191,242,188,251,183,249,186,241,199,195,207,149,214,71"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="Terraria.Player.OverheadMessage" name="Terraria.Player.OverheadMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="358,2275,564,2369"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="78,636,129,701"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,702,61,986,37,1201,18,1438,8,1677,9,1791,15,1899,26,1997,42,2083,66,2155,96,2210,111,2224,133,2238,194,2262,268,2282,342,2298,341,2304,266,2288,193,2267,131,2243,108,2229,92,2214,61,2157,37,2084,20,1998,10,1899,4,1791,3,1677,12,1437,32,1200,56,985,96,701"/>
+<area shape="rect" id="Node000003" href="$d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet.html" title=" " alt="" coords="178,1521,414,1928"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="107,701,118,917,132,1064,154,1213,183,1323,235,1505,230,1506,178,1325,149,1214,127,1064,113,917,102,702"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,1928,300,2008,315,2091,339,2173,374,2249,382,2261,377,2264,369,2252,334,2175,309,2092,295,2009,287,1928"/>
+<area shape="rect" id="Node000004" href="$d0/dc1/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Color.html" title=" " alt="" coords="290,177,474,1160"/>
+<area shape="poly" id="edge15_Node000001_Node000004" title=" " alt="" coords="423,1160,428,1237,452,1831,462,2258,457,2258,446,1831,422,1237,418,1160"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="368,1160,364,1214,349,1362,331,1505,325,1504,343,1361,358,1213,362,1160"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="477,577,487,591,494,611,501,669,497,715,487,746,482,745,492,713,496,669,489,612,482,593,473,580"/>
+<area shape="rect" id="Node000005" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="249,5,396,71"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="329,84,338,177,333,177,324,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="420,5,462,71"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="441,71,432,161,427,161,435,71"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="644,636,686,701"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="670,702,674,804,674,940,671,1009,663,1072,651,1124,634,1162,618,1175,594,1186,534,1202,473,1218,450,1228,434,1239,390,1298,357,1365,333,1435,316,1506,311,1505,327,1434,352,1363,385,1296,430,1235,447,1223,472,1213,532,1197,592,1181,615,1171,630,1158,646,1122,658,1071,665,1008,669,940,669,804,664,702"/>
+<area shape="rect" id="Node000009" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="539,1237,783,2212"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="668,702,666,1221,660,1221,662,702"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="224,636,266,701"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="247,702,243,916,244,1063,249,1213,259,1361,273,1504,267,1505,254,1361,244,1213,239,1063,238,916,241,702"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="541,2147,517,2213,495,2261,490,2259,512,2211,536,2145"/>
+<area shape="poly" id="edge12_Node000009_Node000009" title=" " alt="" coords="786,1640,795,1654,803,1673,810,1725,806,1765,795,1795,790,1793,801,1764,804,1725,798,1675,791,1657,781,1643"/>
+<area shape="rect" id="Node000010" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="710,636,873,701"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="789,716,724,1238,719,1237,783,715"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="912,1692,943,1757"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="940,1757,960,1845,968,1903,973,1966,970,2032,960,2097,938,2158,922,2187,903,2214,882,2232,851,2248,769,2275,674,2295,580,2310,579,2305,673,2290,768,2269,849,2243,879,2227,899,2210,918,2184,933,2156,954,2095,965,2031,967,1966,963,1904,955,1846,935,1758"/>
+</map>

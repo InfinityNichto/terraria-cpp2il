@@ -1,0 +1,16 @@
+<map id="Terraria.Map.MapOverlayDrawContext" name="Terraria.Map.MapOverlayDrawContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="283,1241,523,1587"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,183,249,1158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1109,294,1216,298,1226,293,1228,289,1218,247,1111"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="252,584,262,599,270,618,276,671,272,712,262,743,257,741,267,711,271,671,264,619,257,601,248,587"/>
+<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="46,5,209,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,84,130,183,125,183,125,84"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="313,5,355,71"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="346,70,358,120,369,177,384,318,396,462,410,748,414,1011,412,1225,406,1225,409,1011,405,748,391,463,379,319,363,178,353,121,341,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="326,72,257,283,252,281,321,70"/>
+<area shape="rect" id="Node000005" href="$d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle.html" title=" " alt="" coords="512,177,735,1164"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="514,1101,495,1165,475,1226,470,1225,490,1163,509,1100"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="737,582,747,596,755,616,761,671,757,714,747,745,742,744,752,713,756,671,750,617,742,599,733,585"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="608,5,639,71"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="626,71,626,161,621,161,621,71"/>
+</map>

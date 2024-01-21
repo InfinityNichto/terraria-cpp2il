@@ -1,0 +1,15 @@
+<map id="Terraria.GameContent.Skies.VortexSky.Bolt" name="Terraria.GameContent.Skies.VortexSky.Bolt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="347,1185,547,1265"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,148,249,1123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1065,283,1115,319,1160,335,1175,331,1179,315,1163,279,1118,247,1068"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="252,551,262,565,269,584,276,635,272,676,262,706,257,704,267,675,271,635,264,585,257,568,248,554"/>
+<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="46,5,209,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,84,130,148,125,148,125,84"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="313,5,355,71"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="348,70,370,147,391,295,399,420,399,531,395,635,391,739,391,850,399,975,419,1122,431,1169,426,1170,414,1123,394,976,386,850,386,739,390,635,394,531,394,421,385,295,365,149,343,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="326,72,257,268,252,266,321,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="483,603,513,668"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="499,668,489,860,466,1123,460,1169,454,1169,461,1122,483,860,494,668"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="542,603,585,668"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="568,668,571,749,569,863,556,993,545,1059,529,1124,517,1150,501,1174,497,1171,512,1148,523,1122,539,1058,551,993,563,863,565,749,563,668"/>
+</map>

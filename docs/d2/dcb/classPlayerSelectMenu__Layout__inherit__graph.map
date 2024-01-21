@@ -1,0 +1,5 @@
+<map id="PlayerSelectMenu_Layout" name="PlayerSelectMenu_Layout">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,628,255,1027"/>
+<area shape="rect" id="Node000002" href="$de/d11/classLayoutDefinition.html" title=" " alt="" coords="5,5,271,580"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,594,141,628,135,628,135,594"/>
+</map>

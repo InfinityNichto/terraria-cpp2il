@@ -1,0 +1,19 @@
+<map id="Terraria.Collision" name="Terraria.Collision">
+<area shape="rect" id="Node000001" title=" " alt="" coords="301,280,592,1345"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,71,34,156,43,206,57,255,105,359,164,459,228,553,293,637,289,640,224,556,160,462,100,362,52,257,37,207,29,157,23,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="110,5,149,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,71,140,155,149,206,161,255,189,334,222,412,296,560,291,562,217,414,184,336,156,257,143,207,135,156,128,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="215,5,270,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,71,253,155,268,255,299,382,294,383,263,257,248,155,241,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="347,5,394,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="372,71,371,155,375,256,375,264,370,264,369,256,366,155,367,71"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="501,5,544,71"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="522,71,503,264,498,263,517,71"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="631,5,673,71"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="653,71,645,155,629,257,599,378,594,376,624,255,640,155,648,71"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="698,5,838,71"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="765,71,748,156,719,257,664,394,602,528,597,525,659,392,713,255,742,155,760,70"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="917,5,1001,71"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="962,71,957,157,947,208,930,257,899,318,863,378,781,491,692,592,606,678,602,674,689,588,777,487,859,375,895,316,926,255,942,207,952,157,957,71"/>
+</map>

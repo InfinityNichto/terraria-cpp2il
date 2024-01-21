@@ -1,0 +1,7 @@
+<map id="Terraria.WorldGen.nextCountNode" name="Terraria.WorldGen.nextCountNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,240,263"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="77,5,107,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,71,103,124,104,132,99,133,97,124,91,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="132,5,175,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,71,139,132,134,131,145,70"/>
+</map>

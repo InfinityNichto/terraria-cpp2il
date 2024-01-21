@@ -1,0 +1,13 @@
+<map id="Terraria.GameContent.Skies.StardustSky.Star" name="Terraria.GameContent.Skies.StardustSky.Star">
+<area shape="rect" id="Node000001" title=" " alt="" coords="303,1185,503,1265"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,148,249,1123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1050,283,1107,319,1160,330,1173,326,1176,315,1163,278,1109,247,1052"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="252,551,262,565,269,584,276,635,272,676,262,706,257,704,267,675,271,635,264,585,257,568,248,554"/>
+<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="46,5,209,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,84,130,148,125,148,125,84"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="313,5,355,71"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="348,70,369,147,389,296,402,448,411,599,415,744,415,997,409,1169,404,1169,409,997,410,744,406,599,397,448,383,297,363,149,343,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="326,72,257,268,252,266,321,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="548,603,579,668"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="572,668,583,752,587,868,583,933,573,999,557,1063,531,1124,511,1153,486,1177,482,1173,507,1149,526,1121,551,1061,568,998,578,933,581,868,577,752,567,669"/>
+</map>

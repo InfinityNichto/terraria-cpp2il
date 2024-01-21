@@ -1,0 +1,16 @@
+<map id="Terraria.GameContent.Liquid.LiquidRenderer.LiquidCache" name="Terraria.GameContent.Liquid.LiquidRenderer.LiquidCache">
+<area shape="rect" id="Node000001" title=" " alt="" coords="174,601,378,681"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="16,237,58,303"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,303,16,360,8,432,9,471,16,508,28,544,47,576,63,588,89,600,158,619,157,624,88,605,61,593,43,579,23,546,10,509,4,471,3,432,11,359,24,302"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,237,221,303"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,303,187,448,188,524,191,554,198,576,205,587,200,590,193,578,186,555,182,524,181,448,193,303"/>
+<area shape="rect" id="Node000004" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="247,148,454,392"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="357,392,349,485,339,533,325,578,320,588,315,586,320,576,334,531,343,484,352,392"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="455,241,473,251,480,270,478,282,470,291,466,288,473,280,475,270,469,255,452,246"/>
+<area shape="rect" id="Node000005" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="220,5,366,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="307,83,323,147,318,148,302,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="391,5,422,71"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="401,71,386,132,381,131,396,70"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="573,237,616,303"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="592,303,578,362,552,437,534,476,512,514,486,549,455,579,426,599,395,614,392,609,423,594,451,575,482,545,507,511,529,474,547,435,573,361,587,302"/>
+</map>

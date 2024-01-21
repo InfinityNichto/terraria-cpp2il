@@ -1,0 +1,23 @@
+<map id="Terraria.GameContent.Bestiary.SortingSteps.ByStat" name="Terraria.GameContent.Bestiary.SortingSteps.ByStat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="521,507,781,740"/>
+<area shape="rect" id="Node000007" href="$de/df9/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByAttack.html" title=" " alt="" coords="5,789,311,953"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="510,698,312,796,310,792,508,693"/>
+<area shape="rect" id="Node000008" href="$d6/d0a/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByCoins.html" title=" " alt="" coords="335,789,640,953"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="569,753,544,791,539,788,564,750"/>
+<area shape="rect" id="Node000009" href="$d5/d51/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByDefense.html" title=" " alt="" coords="664,789,969,953"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="739,750,764,788,760,791,735,753"/>
+<area shape="rect" id="Node000010" href="$d5/dac/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByHP.html" title=" " alt="" coords="993,789,1299,953"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="795,693,994,792,992,797,793,698"/>
+<area shape="rect" id="Node000002" href="$d5/df2/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiarySortStep.html" title=" " alt="" coords="543,392,759,457"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="654,471,654,507,649,507,649,471"/>
+<area shape="rect" id="Node000003" href="$d0/db8/interfaceTerraria_1_1DataStructures_1_1IEntrySortStep.html" title=" " alt="" coords="413,263,628,343"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="520,357,522,406,534,456,558,505,553,508,529,458,517,407,515,357"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="575,350,619,390,615,394,571,354"/>
+<area shape="rect" id="Node000004" href="$d0/db8/interfaceTerraria_1_1DataStructures_1_1IEntrySortStep.html" title=" " alt="" coords="413,120,628,200"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="523,214,523,263,518,263,518,214"/>
+<area shape="rect" id="Node000005" href="$d7/de5/classIComparer.html" title=" " alt="" coords="461,5,581,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="523,84,523,120,518,120,518,84"/>
+<area shape="rect" id="Node000006" href="$d7/de5/classIComparer.html" title=" " alt="" coords="682,270,882,335"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="788,349,786,402,774,458,750,508,745,505,769,456,781,402,783,349"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="739,347,688,394,684,390,736,343"/>
+</map>

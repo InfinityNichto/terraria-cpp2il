@@ -1,0 +1,13 @@
+<map id="Microsoft.Xna.Framework.Input.Keyboard" name="Microsoft.Xna.Framework.Input.Keyboard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="142,148,326,361"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,76,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,69,89,122,132,168,128,172,85,126,52,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,5,196,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,70,188,132,183,134,159,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="221,5,263,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,71,238,95,236,132,231,131,233,94,235,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="351,5,490,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="417,72,408,99,394,125,369,156,341,183,337,179,365,152,389,123,403,97,412,70"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="515,5,679,71"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="546,73,458,126,342,194,339,190,455,122,544,69"/>
+</map>

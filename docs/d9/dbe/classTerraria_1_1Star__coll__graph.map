@@ -1,0 +1,15 @@
+<map id="Terraria.Star" name="Terraria.Star">
+<area shape="rect" id="Node000001" title=" " alt="" coords="363,1215,553,1429"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,148,249,1123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1085,279,1139,309,1189,353,1239,349,1243,305,1192,274,1141,247,1087"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="252,550,262,564,270,583,276,635,272,677,262,707,257,705,267,675,271,635,264,585,257,567,248,553"/>
+<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="46,5,209,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,84,130,148,125,148,125,84"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="313,5,355,71"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="348,70,369,147,390,295,400,420,402,531,400,634,398,849,404,975,419,1122,432,1198,427,1199,414,1123,399,975,393,849,395,634,397,531,394,420,384,295,363,149,343,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="326,72,257,268,252,266,321,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="531,603,561,668"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="549,668,542,861,531,991,514,1123,497,1199,492,1198,509,1122,526,991,536,861,543,668"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="619,603,662,668"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="650,668,663,761,668,825,670,895,667,970,657,1046,639,1121,611,1192,592,1222,568,1249,564,1245,588,1219,606,1189,634,1119,652,1045,661,969,664,895,663,825,658,762,644,669"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Terraria.GameContent.Biomes.DeadMansChestBiome" name="Terraria.GameContent.Biomes.DeadMansChestBiome">
+<area shape="rect" id="Node000001" title=" " alt="" coords="689,747,941,1495"/>
+<area shape="rect" id="Node000002" href="$da/d53/classTerraria_1_1WorldBuilding_1_1MicroBiome.html" title=" " alt="" coords="57,498,174,563"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,574,163,607,188,638,248,699,312,758,446,868,576,963,690,1039,687,1044,573,968,443,872,308,762,244,703,184,642,158,610,137,577"/>
+<area shape="rect" id="Node000003" href="$dd/dae/classTerraria_1_1WorldBuilding_1_1GenStructure.html" title=" " alt="" coords="19,244,212,344"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,358,118,498,113,498,113,358"/>
+<area shape="rect" id="Node000004" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="5,5,225,195"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,208,118,244,113,244,113,208"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,483,473,578"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="375,576,681,950,677,954,371,580"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="497,483,816,578"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="672,577,713,730,708,732,667,579"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="841,483,1110,578"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="965,579,924,732,919,730,960,577"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1134,483,1417,578"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1241,580,954,947,950,944,1237,576"/>
+<area shape="rect" id="Node000009" href="$d1/d32/structTerraria_1_1Utilities_1_1IntRange.html" title=" " alt="" coords="1441,421,1659,640"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1458,642,1373,725,1268,811,1158,894,957,1033,954,1029,1155,890,1265,807,1370,721,1454,638"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1535,261,1565,327"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1553,327,1553,405,1547,405,1547,327"/>
+</map>

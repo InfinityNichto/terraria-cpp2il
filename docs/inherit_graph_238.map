@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d9/dcf/classGUISettingEntry.html" title=" " alt="" coords="5,342,132,367"/>
+<area shape="rect" id="Node000001" href="$d6/d48/classGUIControllerMappingEntryBase.html" title=" " alt="" coords="180,169,412,194"/>
+<area shape="poly" id="edge115_Node000000_Node000001" title=" " alt="" coords="91,330,131,293,178,253,227,219,271,192,274,196,230,223,182,257,134,297,94,334"/>
+<area shape="rect" id="Node000008" href="$d8/de1/classGUILinkButtonSetting.html" title=" " alt="" coords="215,267,377,293"/>
+<area shape="poly" id="edge122_Node000000_Node000008" title=" " alt="" coords="105,333,179,301,221,290,222,295,181,307,107,338"/>
+<area shape="rect" id="Node000009" href="$db/d02/classGUIOpenUIButtonSetting.html" title=" " alt="" coords="205,317,387,342"/>
+<area shape="poly" id="edge123_Node000000_Node000009" title=" " alt="" coords="146,343,204,337,205,342,146,349"/>
+<area shape="rect" id="Node000011" href="$d7/df2/classGUIPulldownSetting.html" title=" " alt="" coords="221,366,371,391"/>
+<area shape="poly" id="edge125_Node000000_Node000011" title=" " alt="" coords="146,360,221,368,220,373,146,365"/>
+<area shape="rect" id="Node000013" href="$df/da4/classGUISliderSetting.html" title=" " alt="" coords="231,415,361,441"/>
+<area shape="poly" id="edge127_Node000000_Node000013" title=" " alt="" coords="108,371,181,400,232,414,230,419,179,405,106,376"/>
+<area shape="rect" id="Node000015" href="$d2/db1/classGUIToggleSetting.html" title=" " alt="" coords="229,465,363,490"/>
+<area shape="poly" id="edge129_Node000000_Node000015" title=" " alt="" coords="91,376,130,415,155,435,181,451,229,467,228,472,179,456,152,439,127,419,87,380"/>
+<area shape="rect" id="Node000002" href="$dd/d8f/classGUIControllerHardwareProfileEntry.html" title=" " alt="" coords="469,5,683,45"/>
+<area shape="poly" id="edge116_Node000001_Node000002" title=" " alt="" coords="319,157,379,106,418,79,459,55,488,43,490,48,461,60,421,83,382,110,322,161"/>
+<area shape="rect" id="Node000003" href="$d4/d01/classGUIControllerHardwarePulldown.html" title=" " alt="" coords="460,70,692,95"/>
+<area shape="poly" id="edge117_Node000001_Node000003" title=" " alt="" coords="332,160,390,131,459,104,501,93,503,98,461,109,393,136,334,165"/>
+<area shape="rect" id="Node000004" href="$d7/dc0/classGUIControllerMappingEntry.html" title=" " alt="" coords="476,119,676,145"/>
+<area shape="poly" id="edge118_Node000001_Node000004" title=" " alt="" coords="382,164,503,142,503,147,383,169"/>
+<area shape="rect" id="Node000005" href="$d0/d44/classGUIControllerPulldownEntry.html" title=" " alt="" coords="475,169,677,194"/>
+<area shape="poly" id="edge119_Node000001_Node000005" title=" " alt="" coords="426,179,475,179,475,184,426,184"/>
+<area shape="rect" id="Node000006" href="$d3/db3/classGUIControllerSliderEntry.html" title=" " alt="" coords="485,218,667,243"/>
+<area shape="poly" id="edge120_Node000001_Node000006" title=" " alt="" coords="383,194,503,215,503,221,382,199"/>
+<area shape="rect" id="Node000007" href="$d3/dd3/classGUIControllerToggleEntry.html" title=" " alt="" coords="483,267,669,293"/>
+<area shape="poly" id="edge121_Node000001_Node000007" title=" " alt="" coords="335,198,393,226,461,252,507,265,505,270,459,257,391,230,332,203"/>
+<area shape="rect" id="Node000010" href="$d2/d29/classGUIJourneyButtonSetting.html" title=" " alt="" coords="484,317,668,342"/>
+<area shape="poly" id="edge124_Node000009_Node000010" title=" " alt="" coords="401,327,484,327,484,332,401,332"/>
+<area shape="rect" id="Node000012" href="$d6/dbb/classGUIJourneyPulldownSetting.html" title=" " alt="" coords="476,366,676,391"/>
+<area shape="poly" id="edge126_Node000011_Node000012" title=" " alt="" coords="385,376,476,376,476,381,385,381"/>
+<area shape="rect" id="Node000014" href="$d6/d50/classGUIJourneySliderSetting.html" title=" " alt="" coords="487,415,665,441"/>
+<area shape="poly" id="edge128_Node000013_Node000014" title=" " alt="" coords="374,425,487,425,487,431,374,431"/>
+<area shape="rect" id="Node000016" href="$d9/dd8/classGUIJourneyToggleSetting.html" title=" " alt="" coords="485,465,667,490"/>
+<area shape="poly" id="edge130_Node000015_Node000016" title=" " alt="" coords="377,475,484,475,484,480,377,480"/>
+</map>

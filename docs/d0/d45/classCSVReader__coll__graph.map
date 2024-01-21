@@ -1,0 +1,13 @@
+<map id="CSVReader" name="CSVReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="183,148,393,452"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,144,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,69,175,157,171,160,99,73"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="168,5,211,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,70,217,123,220,131,215,133,212,125,195,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="273,5,303,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="291,71,291,131,285,131,285,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="369,5,420,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="387,72,368,125,364,134,359,132,363,123,382,70"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="444,5,548,71"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="483,72,452,126,406,183,402,179,447,122,479,70"/>
+</map>

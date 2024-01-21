@@ -1,0 +1,16 @@
+<map id="SoundDefinition" name="SoundDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,291,410,475"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="6,5,56,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="22,72,14,103,9,140,11,177,23,212,54,254,94,289,139,318,185,340,183,345,137,323,91,294,50,258,18,215,5,178,3,139,8,102,17,71"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classSoundGroup.html" title=" " alt="" coords="61,148,281,213"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="39,70,48,97,64,122,79,136,75,140,60,126,43,99,34,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,212,237,275,232,278,190,215"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="134,5,261,71"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="194,71,183,132,178,131,189,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="305,148,336,213"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="313,214,308,238,305,274,300,274,303,237,308,213"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="376,148,419,213"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="391,214,371,268,367,277,362,274,366,266,386,213"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="464,148,593,213"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="519,215,505,242,486,268,457,296,425,320,422,316,454,292,482,265,501,239,514,212"/>
+</map>

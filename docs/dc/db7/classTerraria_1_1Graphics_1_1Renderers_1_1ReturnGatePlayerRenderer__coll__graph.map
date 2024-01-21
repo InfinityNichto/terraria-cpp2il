@@ -1,0 +1,11 @@
+<map id="Terraria.Graphics.Renderers.ReturnGatePlayerRenderer" name="Terraria.Graphics.Renderers.ReturnGatePlayerRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="236,707,516,1127"/>
+<area shape="rect" id="Node000002" href="$d9/dd0/interfaceTerraria_1_1Graphics_1_1Renderers_1_1IPlayerRenderer.html" title=" " alt="" coords="5,365,285,631"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,642,262,705,258,708,223,645"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="310,465,442,531"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="379,531,379,690,373,690,373,531"/>
+<area shape="rect" id="Node000004" href="$dc/d37/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1PotionOfReturnGateInteractionChecker.html" title=" " alt="" coords="466,352,713,644"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="517,645,493,693,488,691,513,643"/>
+<area shape="rect" id="Node000005" href="$d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker.html" title=" " alt="" coords="467,5,712,303"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="592,316,592,352,587,352,587,316"/>
+</map>

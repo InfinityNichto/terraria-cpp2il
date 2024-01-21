@@ -1,0 +1,5 @@
+<map id="Terraria.Player.ItemSpaceStatus" name="Terraria.Player.ItemSpaceStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,272,307"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="117,5,160,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,71,141,131,136,131,136,71"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Controller.ControllerActionButton.RequiredButtonState" name="Controller.ControllerActionButton.RequiredButtonState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,237,460"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="43,5,107,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,71,79,124,80,131,74,132,73,124,71,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="147,5,189,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,72,154,132,149,131,160,71"/>
+</map>

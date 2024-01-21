@@ -1,0 +1,15 @@
+<map id="Exception" name="Exception">
+<area shape="rect" id="Node000001" title=" " alt="" coords="659,5,737,71"/>
+<area shape="rect" id="Node000002" href="$d8/dd8/classCpp2IlInjected_1_1AnalysisFailedException.html" title=" " alt="" coords="5,207,209,302"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="645,46,543,56,420,72,304,94,257,107,223,121,197,139,174,161,137,209,132,206,170,158,194,135,221,116,255,102,302,89,419,67,543,51,644,41"/>
+<area shape="rect" id="Node000003" href="$dc/d8f/classFileFormatException.html" title=" " alt="" coords="234,215,426,295"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="645,49,599,58,545,72,490,93,439,121,414,142,391,166,354,216,350,213,387,163,410,138,437,116,488,88,544,67,597,53,644,43"/>
+<area shape="rect" id="Node000004" href="$dc/d6f/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1MonoGameGLException.html" title=" " alt="" coords="451,207,681,302"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="674,84,597,208,592,206,669,81"/>
+<area shape="rect" id="Node000005" href="$da/d68/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1NoSuitableGraphicsDeviceException.html" title=" " alt="" coords="706,158,954,351"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="727,81,773,156,769,159,722,84"/>
+<area shape="rect" id="Node000006" href="$dc/d39/classReLogic_1_1Content_1_1AssetLoadException.html" title=" " alt="" coords="978,119,1237,391"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="751,45,854,69,912,90,967,116,979,124,976,128,965,121,910,95,853,75,750,50"/>
+<area shape="rect" id="Node000007" href="$d5/de8/classTerraria_1_1Graphics_1_1Effects_1_1MissingEffectException.html" title=" " alt="" coords="1261,207,1441,302"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="751,39,869,47,1014,62,1153,84,1209,99,1250,116,1275,135,1297,157,1330,205,1326,208,1293,161,1272,139,1247,121,1207,104,1152,89,1014,67,868,52,751,45"/>
+</map>

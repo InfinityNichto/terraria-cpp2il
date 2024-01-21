@@ -1,0 +1,41 @@
+<map id="Terraria.GameContent.Skies.AmbientSky.FadingSkyEntity" name="Terraria.GameContent.Skies.AmbientSky.FadingSkyEntity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1928,600,2148,1132"/>
+<area shape="rect" id="Node000003" href="$df/d85/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1AirBalloonSkyEntity.html" title=" " alt="" coords="5,1309,228,1502"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1914,878,1539,909,1298,934,1044,967,795,1008,567,1057,466,1085,377,1115,301,1147,242,1182,212,1209,187,1240,166,1275,150,1309,145,1307,162,1272,183,1237,209,1205,239,1178,299,1143,375,1110,464,1080,565,1052,794,1002,1043,962,1297,929,1538,903,1914,872"/>
+<area shape="rect" id="Node000004" href="$df/db3/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1AirshipSkyEntity.html" title=" " alt="" coords="253,1323,474,1487"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1914,881,1586,918,1380,947,1164,981,953,1022,761,1069,676,1095,601,1122,537,1152,488,1182,455,1212,428,1248,407,1286,390,1324,386,1322,402,1284,424,1245,451,1209,484,1178,535,1147,599,1118,674,1090,759,1064,952,1017,1163,976,1379,941,1585,913,1914,876"/>
+<area shape="rect" id="Node000005" href="$d8/d38/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BatsGroupSkyEntity.html" title=" " alt="" coords="498,1219,725,1591"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1915,887,1636,930,1465,961,1289,997,1116,1038,960,1082,830,1131,779,1156,738,1182,699,1221,695,1217,735,1178,776,1151,828,1126,958,1077,1115,1032,1287,992,1464,956,1635,925,1914,882"/>
+<area shape="rect" id="Node000006" href="$dd/d15/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BirdsPackSkyEntity.html" title=" " alt="" coords="749,1316,967,1495"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1914,876,1824,885,1718,899,1599,921,1473,951,1343,990,1215,1041,1153,1071,1093,1105,1035,1141,981,1182,951,1211,926,1245,906,1281,889,1317,884,1315,901,1279,922,1242,947,1208,978,1178,1032,1137,1090,1100,1150,1066,1213,1036,1341,985,1471,945,1598,916,1717,894,1824,880,1914,871"/>
+<area shape="rect" id="Node000007" href="$dd/dc7/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1ButterfliesSkyEntity.html" title=" " alt="" coords="992,1316,1215,1495"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1915,890,1764,925,1676,951,1584,983,1490,1021,1397,1067,1309,1120,1229,1182,1200,1212,1175,1246,1137,1317,1133,1314,1171,1243,1196,1208,1226,1178,1306,1116,1395,1062,1487,1016,1582,978,1674,946,1763,920,1914,885"/>
+<area shape="rect" id="Node000008" href="$d3/dec/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1EOCSkyEntity.html" title=" " alt="" coords="1239,1217,1479,1594"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1916,918,1817,964,1706,1024,1594,1097,1542,1138,1493,1182,1461,1218,1457,1214,1489,1178,1538,1134,1591,1092,1703,1019,1815,959,1914,913"/>
+<area shape="rect" id="Node000011" href="$d4/d09/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1GastropodGroupSkyEntity.html" title=" " alt="" coords="1503,1180,1765,1631"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1921,1004,1849,1090,1779,1182,1767,1198,1763,1195,1775,1178,1845,1087,1917,1000"/>
+<area shape="rect" id="Node000012" href="$d4/dd4/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1HellBatsGoupSkyEntity.html" title=" " alt="" coords="1789,1195,2033,1616"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1975,1146,1963,1195,1958,1194,1970,1145"/>
+<area shape="rect" id="Node000013" href="$df/df0/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1LostKiteSkyEntity.html" title=" " alt="" coords="2057,1316,2275,1495"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2107,1145,2148,1315,2142,1316,2102,1146"/>
+<area shape="rect" id="Node000014" href="$d7/dad/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1MeteorSkyEntity.html" title=" " alt="" coords="2299,1358,2521,1453"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2159,1005,2225,1090,2288,1179,2345,1272,2390,1356,2385,1359,2340,1275,2284,1181,2221,1093,2155,1009"/>
+<area shape="rect" id="Node000015" href="$d0/d9a/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1PegasusSkyEntity.html" title=" " alt="" coords="2545,1306,2766,1505"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2162,920,2250,967,2348,1026,2446,1097,2492,1136,2535,1178,2581,1239,2617,1304,2612,1307,2577,1242,2531,1182,2489,1140,2443,1101,2346,1031,2248,972,2159,925"/>
+<area shape="rect" id="Node000016" href="$d5/df8/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1PixiePosseSkyEntity.html" title=" " alt="" coords="2791,1284,3016,1527"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2162,891,2300,929,2379,956,2462,988,2546,1026,2629,1070,2708,1121,2780,1178,2823,1227,2857,1282,2852,1285,2819,1230,2776,1182,2705,1125,2626,1075,2544,1031,2460,993,2378,961,2298,934,2160,896"/>
+<area shape="rect" id="Node000017" href="$d3/dea/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SeagullsGroupSkyEntity.html" title=" " alt="" coords="3040,1180,3289,1631"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2162,876,2345,904,2455,928,2572,959,2692,998,2810,1047,2924,1107,2978,1141,3029,1178,3042,1189,3038,1193,3026,1182,2975,1145,2921,1111,2808,1052,2690,1003,2571,964,2454,933,2344,909,2162,881"/>
+<area shape="rect" id="Node000018" href="$dc/da8/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SlimeBalloonGroupSkyEntity.html" title=" " alt="" coords="3314,1229,3581,1581"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2162,866,2265,872,2391,883,2534,902,2688,930,2848,970,3007,1023,3085,1056,3160,1092,3233,1133,3302,1178,3330,1201,3355,1227,3351,1231,3326,1205,3299,1182,3230,1137,3158,1097,3082,1060,3005,1028,2846,975,2687,935,2533,907,2391,888,2265,877,2161,872"/>
+<area shape="rect" id="Node000019" href="$dd/df6/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1VultureSkyEntity.html" title=" " alt="" coords="3605,1306,3826,1505"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="2163,876,2492,913,2698,941,2914,976,3126,1016,3319,1064,3404,1090,3480,1117,3544,1147,3594,1178,3624,1205,3649,1236,3669,1270,3686,1305,3681,1307,3665,1273,3644,1239,3620,1208,3591,1182,3541,1152,3478,1122,3403,1095,3318,1069,3125,1022,2914,981,2698,946,2491,918,2162,881"/>
+<area shape="rect" id="Node000020" href="$dc/d01/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1WyvernSkyEntity.html" title=" " alt="" coords="3850,1341,4071,1470"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="2162,872,2538,903,2779,928,3034,961,3284,1002,3513,1051,3614,1079,3704,1110,3780,1142,3840,1178,3877,1212,3906,1254,3929,1298,3945,1340,3940,1341,3924,1300,3902,1257,3873,1216,3836,1182,3777,1147,3702,1115,3613,1084,3512,1056,3283,1007,3033,966,2779,934,2538,908,2162,878"/>
+<area shape="rect" id="Node000002" href="$d2/d84/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SkyEntity.html" title=" " alt="" coords="1905,5,2171,552"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2041,566,2041,600,2035,600,2035,566"/>
+<area shape="rect" id="Node000009" href="$db/dbe/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1CrimeraSkyEntity.html" title=" " alt="" coords="1126,1679,1347,1808"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1289,1608,1262,1679,1257,1678,1284,1606"/>
+<area shape="rect" id="Node000010" href="$d8/dc9/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1EOSSkyEntity.html" title=" " alt="" coords="1371,1679,1593,1808"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1435,1606,1461,1678,1456,1679,1430,1608"/>
+</map>

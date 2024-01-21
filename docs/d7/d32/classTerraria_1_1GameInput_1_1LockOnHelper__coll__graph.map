@@ -1,0 +1,9 @@
+<map id="Terraria.GameInput.LockOnHelper" name="Terraria.GameInput.LockOnHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,133,295,1013"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,70,52,121,47,122,33,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="159,5,190,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,71,177,117,172,117,172,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="337,5,421,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="369,72,304,243,299,241,364,70"/>
+</map>

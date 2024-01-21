@@ -1,0 +1,16 @@
+<map id="Terraria.ID.NPCID" name="Terraria.ID.NPCID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="255,775,471,1168"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="83,13,114,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,70,64,106,48,149,21,265,12,313,9,359,10,404,16,451,29,504,48,564,85,648,134,726,189,797,245,858,241,862,185,800,129,729,80,650,43,566,23,505,11,452,4,404,3,358,7,313,15,264,43,147,60,103,81,67"/>
+<area shape="rect" id="Node000005" href="$d2/d27/classReLogic_1_1Reflection_1_1IdDictionary.html" title=" " alt="" coords="131,148,349,565"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="116,77,141,132,136,134,111,80"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="373,317,510,397"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="439,397,413,590,392,759,386,758,408,589,433,397"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="566,324,613,389"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="596,389,602,457,602,549,591,652,580,703,562,752,528,813,484,867,480,864,524,810,557,750,574,701,586,651,597,549,596,458,591,390"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="284,565,323,758,318,759,279,566"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="146,5,289,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="223,86,226,131,221,132,217,86"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="313,13,487,78"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="386,80,357,134,353,132,381,77"/>
+</map>

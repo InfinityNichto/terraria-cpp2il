@@ -1,0 +1,11 @@
+<map id="Terraria.GameContent.DoorOpeningHelper" name="Terraria.GameContent.DoorOpeningHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="399,177,632,648"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,20,244,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,83,388,291,385,295,157,87"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="268,5,507,100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="406,99,428,161,423,163,401,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="531,5,777,100"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="638,101,615,163,610,161,634,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="805,20,836,85"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="810,87,793,120,772,155,711,230,646,298,642,295,707,226,768,152,789,118,805,84"/>
+</map>

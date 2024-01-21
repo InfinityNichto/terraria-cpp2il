@@ -1,0 +1,7 @@
+<map id="Terraria.Graphics.Renderers.IPlayerRenderer" name="Terraria.Graphics.Renderers.IPlayerRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,5,437,287"/>
+<area shape="rect" id="Node000002" href="$d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer.html" title=" " alt="" coords="5,335,285,1100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,300,250,335,245,333,254,299"/>
+<area shape="rect" id="Node000003" href="$d8/d53/classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer.html" title=" " alt="" coords="309,490,589,945"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,299,391,489,386,491,336,301"/>
+</map>

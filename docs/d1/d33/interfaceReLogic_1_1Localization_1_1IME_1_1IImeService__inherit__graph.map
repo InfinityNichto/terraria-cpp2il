@@ -1,0 +1,9 @@
+<map id="ReLogic.Localization.IME.IImeService" name="ReLogic.Localization.IME.IImeService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="152,5,357,289"/>
+<area shape="rect" id="Node000002" href="$dc/d8a/classReLogic_1_1Localization_1_1IME_1_1PlatformIme.html" title=" " alt="" coords="138,337,371,845"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,303,257,337,252,337,252,303"/>
+<area shape="rect" id="Node000003" href="$dd/d30/classReLogic_1_1Localization_1_1IME_1_1FnaIme.html" title=" " alt="" coords="5,893,243,1207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,859,171,894,166,892,176,857"/>
+<area shape="rect" id="Node000004" href="$df/d99/classReLogic_1_1Localization_1_1IME_1_1UnsupportedPlatformIme.html" title=" " alt="" coords="267,948,504,1152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="333,858,359,947,354,948,328,859"/>
+</map>

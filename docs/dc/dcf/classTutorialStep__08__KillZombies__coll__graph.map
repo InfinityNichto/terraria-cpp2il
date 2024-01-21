@@ -1,0 +1,9 @@
+<map id="TutorialStep_08_KillZombies" name="TutorialStep_08_KillZombies">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,480,392,724"/>
+<area shape="rect" id="Node000002" href="$d9/d7b/classTutorialStep.html" title=" " alt="" coords="5,5,231,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,371,232,479,227,480,187,373"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="254,149,297,215"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="278,215,278,463,273,463,273,215"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="356,149,435,215"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,215,395,324,386,391,369,457,365,466,360,464,363,455,380,390,390,323,394,215"/>
+</map>

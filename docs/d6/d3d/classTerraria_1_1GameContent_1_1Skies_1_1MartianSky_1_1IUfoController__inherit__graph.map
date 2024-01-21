@@ -1,0 +1,7 @@
+<map id="Terraria.GameContent.Skies.MartianSky.IUfoController" name="Terraria.GameContent.Skies.MartianSky.IUfoController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,5,317,140"/>
+<area shape="rect" id="Node000002" href="$d5/d0b/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1HoverBehavior.html" title=" " alt="" coords="5,198,205,367"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,153,153,199,148,197,173,151"/>
+<area shape="rect" id="Node000003" href="$db/d6a/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1ZipBehavior.html" title=" " alt="" coords="229,188,429,377"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,151,281,187,276,189,257,153"/>
+</map>

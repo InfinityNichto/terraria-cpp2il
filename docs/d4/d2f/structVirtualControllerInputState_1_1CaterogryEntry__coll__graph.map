@@ -1,0 +1,19 @@
+<map id="VirtualControllerInputState.CaterogryEntry" name="VirtualControllerInputState.CaterogryEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="237,1221,429,1301"/>
+<area shape="rect" id="Node000002" href="$de/d57/classTerraria_1_1ID_1_1ItemID.html" title=" " alt="" coords="109,775,367,1159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,1158,318,1205,312,1206,297,1160"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,317,137,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,397,66,465,67,554,76,653,86,702,99,750,105,767,100,768,94,751,81,704,71,654,62,555,61,465,65,397"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="215,324,261,389"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="241,389,241,758,235,758,235,389"/>
+<area shape="rect" id="Node000005" href="$d2/d27/classReLogic_1_1Reflection_1_1IdDictionary.html" title=" " alt="" coords="347,148,564,565"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="480,566,476,614,467,662,451,709,428,752,417,763,405,767,393,770,381,777,381,777,377,773,378,772,391,765,404,762,414,758,424,749,446,707,462,661,471,613,475,565"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="201,5,344,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="298,84,341,156,336,159,294,87"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="369,13,542,78"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="458,79,458,132,453,132,453,79"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="567,13,597,78"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="571,80,549,133,544,131,566,78"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="391,934,464,999"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="424,1000,407,1074,382,1160,362,1208,357,1206,377,1158,402,1072,419,999"/>
+</map>

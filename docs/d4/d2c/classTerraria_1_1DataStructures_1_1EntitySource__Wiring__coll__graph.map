@@ -1,0 +1,14 @@
+<map id="Terraria.DataStructures.EntitySource_Wiring" name="Terraria.DataStructures.EntitySource_Wiring">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,599,173,708"/>
+<area shape="rect" id="Node000002" href="$d0/d8e/classTerraria_1_1DataStructures_1_1AEntitySource__Tile.html" title=" " alt="" coords="12,455,167,549"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,563,92,599,87,599,87,563"/>
+<area shape="rect" id="Node000003" href="$d9/d62/interfaceTerraria_1_1DataStructures_1_1IEntitySource.html" title=" " alt="" coords="18,237,118,303"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,316,88,454,82,455,70,316"/>
+<area shape="rect" id="Node000004" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="142,148,349,392"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="165,394,132,443,128,440,161,391"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="350,242,368,252,375,270,373,281,366,290,362,286,368,279,370,270,364,256,347,247"/>
+<area shape="rect" id="Node000005" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="116,5,263,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,83,218,147,213,148,198,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="287,5,318,71"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="297,71,282,132,277,131,292,70"/>
+</map>

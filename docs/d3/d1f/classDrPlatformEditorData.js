@@ -1,0 +1,28 @@
+var classDrPlatformEditorData =
+[
+    [ "DrPlatformEditorData", "d3/d1f/classDrPlatformEditorData_a1d8c06663c363abb2fdb7e4fb85736d5.html#a1d8c06663c363abb2fdb7e4fb85736d5", null ],
+    [ "Awake", "d3/d1f/classDrPlatformEditorData_a9cec129787774a66d0acfe78a2740b62.html#a9cec129787774a66d0acfe78a2740b62", null ],
+    [ "_activeProfile", "d3/d1f/classDrPlatformEditorData_ac61d10237fadabcb23a66a46fbf3dc2c.html#ac61d10237fadabcb23a66a46fbf3dc2c", null ],
+    [ "_firstProfileAccess", "d3/d1f/classDrPlatformEditorData_a506dc369c07d49dacba6f1bccdf20a11.html#a506dc369c07d49dacba6f1bccdf20a11", null ],
+    [ "EditorForceControllerDisconnected", "d3/d1f/classDrPlatformEditorData_ab62ae92f8ca58e5f4d7098d9e0da51a9.html#ab62ae92f8ca58e5f4d7098d9e0da51a9", null ],
+    [ "EditorForceSplitScreenProfile", "d3/d1f/classDrPlatformEditorData_af0ec75d89e455e99c04e8e5044d5bc3b.html#af0ec75d89e455e99c04e8e5044d5bc3b", null ],
+    [ "EditorHasChatPermission", "d3/d1f/classDrPlatformEditorData_adc8917eb91095d9ae451c6f9bf632705.html#adc8917eb91095d9ae451c6f9bf632705", null ],
+    [ "EditorHasMultiplayerPermission", "d3/d1f/classDrPlatformEditorData_a4230509384a86de5b844fb969572e626.html#a4230509384a86de5b844fb969572e626", null ],
+    [ "EditorHasPlatformFriends", "d3/d1f/classDrPlatformEditorData_a2e3e29be90ef9fc60d7941caabbe9f60.html#a2e3e29be90ef9fc60d7941caabbe9f60", null ],
+    [ "EditorHasUGCPermission", "d3/d1f/classDrPlatformEditorData_a86bc58c7abb2678dec875e6123b2c0e7.html#a86bc58c7abb2678dec875e6123b2c0e7", null ],
+    [ "EditorIsChromebook", "d3/d1f/classDrPlatformEditorData_af90eee001e101af36347a4911809778c.html#af90eee001e101af36347a4911809778c", null ],
+    [ "EditorIsTrial", "d3/d1f/classDrPlatformEditorData_a9e67ded1be7268ce8e3c58753756a778.html#a9e67ded1be7268ce8e3c58753756a778", null ],
+    [ "EditorMouseAsTouch", "d3/d1f/classDrPlatformEditorData_a09f95f0fe30161d1a6ff4b15e8511135.html#a09f95f0fe30161d1a6ff4b15e8511135", null ],
+    [ "EditorProfiles", "d3/d1f/classDrPlatformEditorData_a7c17c3b989ad4522b19d1edf46c894e6.html#a7c17c3b989ad4522b19d1edf46c894e6", null ],
+    [ "EditorSwitchedDocked", "d3/d1f/classDrPlatformEditorData_a1f730ef808935d30ea0a1c8dec55adbb.html#a1f730ef808935d30ea0a1c8dec55adbb", null ],
+    [ "EditorSwitchJoyCon", "d3/d1f/classDrPlatformEditorData_a181a36a37a4bf28a31812e5560cc3421.html#a181a36a37a4bf28a31812e5560cc3421", null ],
+    [ "ForcedPlatform", "d3/d1f/classDrPlatformEditorData_ae5a42e664e6289c28f36540f3dd49eff.html#ae5a42e664e6289c28f36540f3dd49eff", null ],
+    [ "ForcedSKU", "d3/d1f/classDrPlatformEditorData_a53656060cc27bdad4a3b9562e28db628.html#a53656060cc27bdad4a3b9562e28db628", null ],
+    [ "ForcePlatform", "d3/d1f/classDrPlatformEditorData_a6db88e137820e04543317cb39b596d27.html#a6db88e137820e04543317cb39b596d27", null ],
+    [ "ForceSKU", "d3/d1f/classDrPlatformEditorData_aef59ce8a7d16070437bc3da9e85fa866.html#aef59ce8a7d16070437bc3da9e85fa866", null ],
+    [ "InitialEditorProfile", "d3/d1f/classDrPlatformEditorData_af16431cfd13515b37cd9b7a4215673a2.html#af16431cfd13515b37cd9b7a4215673a2", null ],
+    [ "Instance", "d3/d1f/classDrPlatformEditorData_a5fe23af83978af04cf2ac365d4e7ce44.html#a5fe23af83978af04cf2ac365d4e7ce44", null ],
+    [ "UseProfiles", "d3/d1f/classDrPlatformEditorData_af6ab0dd770164922106d55b5df0696cf.html#af6ab0dd770164922106d55b5df0696cf", null ],
+    [ "ValidateSetup", "d3/d1f/classDrPlatformEditorData_a521c62e462fbb5767ba9638e7e1d89b0.html#a521c62e462fbb5767ba9638e7e1d89b0", null ],
+    [ "ActiveProfile", "d3/d1f/classDrPlatformEditorData_abdfd7aa963f6783a19575ce6533f08bb.html#abdfd7aa963f6783a19575ce6533f08bb", null ]
+];

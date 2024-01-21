@@ -1,0 +1,9 @@
+<map id="GUIControllerMultiplayerJoin" name="GUIControllerMultiplayerJoin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="156,237,365,507"/>
+<area shape="rect" id="Node000002" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="5,5,215,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,171,193,236,188,238,154,173"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="239,50,282,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,116,263,221,258,221,258,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="389,50,420,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,116,395,163,378,214,373,224,368,222,373,212,390,162,399,115"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Microsoft.Xna.Framework.Graphics.Color" name="Microsoft.Xna.Framework.Graphics.Color">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,1369,267,2352"/>
+<area shape="rect" id="Node000002" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="5,5,152,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,85,69,258,61,523,60,837,64,1000,73,1160,95,1369,90,1369,68,1160,59,1000,54,838,55,523,64,258,73,85"/>
+<area shape="rect" id="Node000004" href="$d0/dc1/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Color.html" title=" " alt="" coords="83,177,267,1160"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="88,84,102,177,97,178,83,85"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="303,5,345,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="347,58,390,109,411,141,427,176,468,321,494,445,505,557,505,663,495,770,477,884,427,1161,399,1288,361,1415,319,1536,275,1645,271,1643,314,1534,356,1413,394,1287,421,1159,472,883,490,769,500,663,500,557,489,446,463,322,421,178,406,144,386,112,343,62"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="319,72,273,265,268,264,314,70"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,1160,177,1353,172,1353,172,1160"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="269,574,279,588,287,609,293,669,289,716,279,749,274,748,284,715,288,669,282,610,274,591,265,577"/>
+</map>

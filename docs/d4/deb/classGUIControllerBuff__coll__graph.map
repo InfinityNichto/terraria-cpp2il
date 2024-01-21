@@ -1,0 +1,7 @@
+<map id="GUIControllerBuff" name="GUIControllerBuff">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,223,287,477"/>
+<area shape="rect" id="Node000002" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="5,5,215,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,173,150,222,145,223,132,174"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="239,50,269,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,116,223,207,218,206,243,115"/>
+</map>

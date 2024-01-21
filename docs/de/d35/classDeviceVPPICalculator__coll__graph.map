@@ -1,0 +1,21 @@
+<map id="DeviceVPPICalculator" name="DeviceVPPICalculator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="355,428,590,876"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,224,137,289"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,289,74,345,81,375,94,403,117,435,145,466,207,519,275,563,342,598,339,602,273,568,204,523,141,470,113,439,89,405,76,377,68,346,66,290"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="217,224,259,289"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,290,231,344,234,374,242,403,261,443,286,480,346,547,342,551,282,484,257,446,237,405,229,375,226,344,229,289"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="431,5,474,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="433,72,410,114,391,163,381,225,380,287,385,350,395,411,390,412,380,351,374,288,376,224,386,162,405,112,429,69"/>
+<area shape="rect" id="Node000007" href="$dd/dc8/classDeviceVPPICalculator_1_1EditorMobileEmuEntry.html" title=" " alt="" coords="551,163,888,351"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="476,56,572,137,589,150,585,154,568,141,472,60"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="861,5,903,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="906,65,920,94,936,145,945,202,944,234,938,269,925,309,903,352,875,394,843,433,806,468,767,500,685,556,606,598,603,594,682,551,764,496,802,464,839,429,871,391,898,349,920,307,933,268,939,233,940,202,931,146,916,96,901,67"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="862,62,831,96,793,151,789,148,827,93,858,58"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="1041,224,1160,289"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1079,291,1024,353,992,382,957,406,868,460,776,510,607,594,604,589,774,506,866,455,954,402,989,377,1020,349,1075,288"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="663,352,601,451,596,449,659,350"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="575,5,626,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="609,70,618,103,631,138,636,148,632,150,626,140,613,105,604,72"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="651,5,681,71"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="666,71,666,104,670,138,672,146,667,147,665,139,660,104,661,71"/>
+</map>

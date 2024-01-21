@@ -1,0 +1,34 @@
+<map id="GUIJourneySliderSetting" name="GUIJourneySliderSetting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="303,2437,525,2764"/>
+<area shape="rect" id="Node000002" href="$df/da4/classGUISliderSetting.html" title=" " alt="" coords="178,2051,394,2375"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,2387,363,2436,358,2438,341,2389"/>
+<area shape="rect" id="Node000003" href="$d9/dcf/classGUISettingEntry.html" title=" " alt="" coords="469,1375,677,1530"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="562,1545,547,1630,525,1732,496,1840,459,1945,438,1988,411,2028,396,2052,392,2049,407,2025,433,1985,454,1943,491,1838,520,1731,542,1629,557,1544"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="523,606,622,671"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="575,672,575,1359,570,1359,570,672"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="589,5,620,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="611,71,624,222,637,423,643,639,637,855,615,1131,588,1360,583,1359,609,1130,631,855,638,639,631,423,619,223,605,71"/>
+<area shape="rect" id="Node000007" href="$d7/da1/classSettingsOverlayOptionCategories__Layout_1_1Setting.html" title=" " alt="" coords="305,133,536,213"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="591,53,489,126,486,122,588,48"/>
+<area shape="rect" id="Node000006" href="$da/d9d/classSettingsOverlayOptionCategories__Layout.html" title=" " alt="" coords="239,423,499,855"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="431,854,459,961,555,1359,549,1360,454,962,426,856"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="419,214,397,406,392,406,414,213"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="384,5,457,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="423,71,423,117,418,117,418,71"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="61,1420,103,1485"/>
+<area shape="poly" id="edge17_Node000001_Node000009" title=" " alt="" coords="76,1486,41,1633,24,1739,12,1860,9,1989,12,2055,19,2122,31,2187,47,2252,69,2314,96,2373,134,2428,182,2474,235,2513,290,2544,287,2549,232,2517,178,2478,130,2431,92,2376,64,2316,42,2253,26,2188,14,2122,7,2056,4,1989,7,1859,19,1739,36,1632,70,1485"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="81,1486,73,1583,72,1649,74,1722,82,1799,97,1878,120,1954,154,2025,171,2054,167,2057,149,2028,115,1956,92,1879,77,1800,69,1722,66,1649,68,1583,75,1486"/>
+<area shape="rect" id="Node000010" href="$dd/dec/classGUISlider.html" title=" " alt="" coords="127,1100,445,1805"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="289,1806,289,2034,283,2034,283,1806"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="419,2180,497,2245"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="457,2246,437,2421,432,2421,452,2245"/>
+<area shape="rect" id="Node000012" href="$df/d8e/structGUIJourneySliderSetting_1_1ColorFadeBackup.html" title=" " alt="" coords="601,2141,821,2285"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="659,2286,538,2444,533,2441,655,2283"/>
+<area shape="rect" id="Node000013" href="$d0/dc1/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Color.html" title=" " alt="" coords="701,961,885,1944"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="743,1945,724,2124,718,2124,738,1944"/>
+<area shape="poly" id="edge16_Node000013_Node000013" title=" " alt="" coords="887,1358,897,1372,905,1393,911,1453,908,1500,897,1533,892,1532,902,1499,906,1453,900,1394,892,1375,883,1361"/>
+<area shape="rect" id="Node000014" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="801,606,947,671"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="872,686,845,961,839,961,867,685"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="734,606,777,671"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="760,672,772,945,767,945,754,672"/>
+</map>

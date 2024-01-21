@@ -1,0 +1,14 @@
+<map id="Terraria.GameContent.PlayerSleepingHelper" name="Terraria.GameContent.PlayerSleepingHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,1229,387,1655"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,603,43,668"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="25,669,14,762,8,898,11,974,18,1052,33,1130,55,1204,85,1264,80,1267,50,1206,28,1131,13,1053,5,974,3,897,9,762,20,668"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="218,603,261,668"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,668,242,1213,237,1213,237,668"/>
+<area shape="rect" id="Node000004" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="285,148,529,1123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="349,1123,330,1206,328,1214,323,1213,325,1205,344,1122"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="532,550,542,564,549,583,556,635,552,677,542,707,537,705,547,675,551,635,544,585,537,567,528,553"/>
+<area shape="rect" id="Node000005" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="263,5,426,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="352,84,359,147,353,148,347,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="450,5,493,71"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="471,71,464,132,459,131,465,71"/>
+</map>

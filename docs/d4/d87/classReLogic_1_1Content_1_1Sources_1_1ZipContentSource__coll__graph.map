@@ -1,0 +1,19 @@
+<map id="ReLogic.Content.Sources.ZipContentSource" name="ReLogic.Content.Sources.ZipContentSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,493,728,1024"/>
+<area shape="rect" id="Node000002" href="$de/d36/interfaceReLogic_1_1Content_1_1Sources_1_1IContentSource.html" title=" " alt="" coords="5,163,251,431"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,427,265,429,484,639,481,643,261,433,259,430"/>
+<area shape="rect" id="Node000003" href="$d0/d07/classIDisposable.html" title=" " alt="" coords="275,264,365,329"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="339,341,380,429,430,513,485,594,480,597,426,516,375,432,334,343"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="390,264,509,329"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="463,329,513,477,508,479,458,330"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="533,257,677,337"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="608,337,608,477,603,477,603,337"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="701,264,752,329"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="721,330,682,478,677,477,716,329"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="783,264,825,329"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="802,330,789,396,767,470,738,537,733,535,761,468,784,394,797,329"/>
+<area shape="rect" id="Node000008" href="$d5/dbc/classReLogic_1_1Content_1_1RejectedAssetCollection.html" title=" " alt="" coords="849,187,1095,406"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="908,408,863,471,803,546,741,617,737,614,799,542,859,468,904,405"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="875,5,1069,100"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="975,101,975,171,969,171,969,101"/>
+</map>

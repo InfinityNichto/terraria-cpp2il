@@ -1,0 +1,14 @@
+<map id="GUISettingEntry" name="GUISettingEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,917,245,1072"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,606,104,671"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,671,66,772,75,832,91,893,93,901,88,903,85,894,70,834,60,772,53,672"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="151,5,182,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,71,146,901,141,901,163,71"/>
+<area shape="rect" id="Node000005" href="$d7/da1/classSettingsOverlayOptionCategories__Layout_1_1Setting.html" title=" " alt="" coords="186,133,417,213"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="185,62,221,108,235,121,231,125,217,111,180,66"/>
+<area shape="rect" id="Node000004" href="$da/d9d/classSettingsOverlayOptionCategories__Layout.html" title=" " alt="" coords="178,423,438,855"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,856,187,904,182,901,204,854"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="305,214,307,406,302,406,299,214"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="265,5,338,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="304,71,304,117,299,117,299,71"/>
+</map>

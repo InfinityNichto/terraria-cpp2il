@@ -1,0 +1,10 @@
+<map id="Terraria.GameContent.Bestiary.EntryIconDrawSettings" name="Terraria.GameContent.Bestiary.EntryIconDrawSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1241,223,1321"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="26,638,69,703"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,704,36,794,31,923,33,996,40,1070,53,1145,73,1216,76,1226,71,1228,67,1218,48,1146,35,1071,28,996,26,923,30,794,40,704"/>
+<area shape="rect" id="Node000003" href="$d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle.html" title=" " alt="" coords="92,177,315,1164"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,1165,154,1218,150,1228,145,1226,149,1216,164,1164"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="317,582,327,596,335,616,341,671,337,714,327,745,322,744,332,713,336,671,330,617,322,599,313,585"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="188,5,219,71"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="206,71,206,161,201,161,201,71"/>
+</map>

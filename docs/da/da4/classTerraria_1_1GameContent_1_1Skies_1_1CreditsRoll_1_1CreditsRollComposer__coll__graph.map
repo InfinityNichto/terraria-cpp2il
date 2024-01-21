@@ -1,0 +1,14 @@
+<map id="Terraria.GameContent.Skies.CreditsRoll.CreditsRollComposer" name="Terraria.GameContent.Skies.CreditsRoll.CreditsRollComposer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="283,1259,549,2185"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="27,148,271,1123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,1122,237,1234,280,1377,275,1379,232,1235,207,1124"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="274,550,284,564,292,583,298,635,294,677,284,707,279,705,289,675,293,635,286,585,279,567,270,553"/>
+<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="5,5,168,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,84,101,147,95,148,89,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,5,235,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="213,71,206,132,201,131,207,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="401,603,431,668"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="419,669,419,1242,413,1242,413,669"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="455,603,651,668"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="554,669,533,905,497,1235,496,1243,491,1242,492,1234,528,904,548,668"/>
+</map>

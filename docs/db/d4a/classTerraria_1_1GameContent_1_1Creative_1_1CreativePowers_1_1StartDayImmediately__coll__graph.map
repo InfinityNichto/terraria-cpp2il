@@ -1,0 +1,16 @@
+<map id="Terraria.GameContent.Creative.CreativePowers.StartDayImmediately" name="Terraria.GameContent.Creative.CreativePowers.StartDayImmediately">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,975,512,1115"/>
+<area shape="rect" id="Node000002" href="$db/dce/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ASharedButtonPower.html" title=" " alt="" coords="257,493,507,925"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,939,385,974,379,974,379,939"/>
+<area shape="rect" id="Node000003" href="$d4/d69/interfaceTerraria_1_1GameContent_1_1Creative_1_1ICreativePower.html" title=" " alt="" coords="5,148,255,416"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="218,427,260,497,255,499,214,430"/>
+<area shape="rect" id="Node000004" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="279,160,485,404"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="385,404,385,477,379,477,379,404"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="487,251,505,262,512,282,509,295,502,304,498,301,504,293,507,282,501,266,484,256"/>
+<area shape="rect" id="Node000005" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="251,5,398,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="338,84,356,159,351,161,333,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="423,5,453,71"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="433,71,416,145,411,144,428,70"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="605,249,655,315"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="627,316,615,364,595,417,559,482,518,544,514,542,555,479,590,415,610,363,622,314"/>
+</map>

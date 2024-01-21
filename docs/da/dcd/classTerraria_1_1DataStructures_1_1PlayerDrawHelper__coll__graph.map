@@ -1,0 +1,10 @@
+<map id="Terraria.DataStructures.PlayerDrawHelper" name="Terraria.DataStructures.PlayerDrawHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1237,279,1544"/>
+<area shape="rect" id="Node000002" href="$d0/dc1/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Color.html" title=" " alt="" coords="50,177,234,1160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,1160,145,1221,139,1221,139,1160"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="237,577,246,591,254,611,261,669,257,715,247,746,241,745,252,713,255,669,249,612,242,593,232,580"/>
+<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="10,5,157,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,84,99,177,94,177,85,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="181,5,223,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="202,71,193,161,188,161,196,71"/>
+</map>

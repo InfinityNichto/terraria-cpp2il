@@ -1,0 +1,7 @@
+<map id="Terraria.GameContent.DontStarveDarknessDamageDealer" name="Terraria.GameContent.DontStarveDarknessDamageDealer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,235,520"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="7,5,38,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="22,71,21,110,27,153,29,161,23,162,21,154,16,111,17,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="196,5,239,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,72,191,154,188,163,183,161,185,153,207,70"/>
+</map>

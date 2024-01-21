@@ -1,0 +1,18 @@
+<map id="Terraria.GameContent.Creative.CreativePowers.APerPlayerTogglePower" name="Terraria.GameContent.Creative.CreativePowers.APerPlayerTogglePower">
+<area shape="rect" id="Node000001" title=" " alt="" coords="355,493,628,1108"/>
+<area shape="rect" id="Node000002" href="$d4/d69/interfaceTerraria_1_1GameContent_1_1Creative_1_1ICreativePower.html" title=" " alt="" coords="5,148,255,416"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,426,357,603,352,606,229,429"/>
+<area shape="rect" id="Node000003" href="$d5/dea/interfaceTerraria_1_1GameContent_1_1IOnPlayerJoining.html" title=" " alt="" coords="279,242,443,322"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="376,335,416,492,411,493,371,336"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="467,249,518,315"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="495,315,495,477,489,477,490,315"/>
+<area shape="rect" id="Node000005" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="544,160,751,404"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="635,405,621,470,618,478,613,477,615,469,629,404"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="752,251,770,262,777,282,775,295,767,304,763,301,770,293,772,282,766,266,749,256"/>
+<area shape="rect" id="Node000006" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="517,5,663,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="603,84,621,159,616,161,598,85"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="688,5,719,71"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="699,71,682,145,676,144,693,70"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="870,249,913,315"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="891,316,881,365,860,417,814,491,759,560,700,623,642,679,638,675,697,619,755,556,809,488,856,415,876,363,885,315"/>
+</map>

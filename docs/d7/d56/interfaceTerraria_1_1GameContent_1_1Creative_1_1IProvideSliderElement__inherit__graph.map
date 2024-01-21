@@ -1,0 +1,19 @@
+<map id="Terraria.GameContent.Creative.IProvideSliderElement" name="Terraria.GameContent.Creative.IProvideSliderElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="321,177,541,257"/>
+<area shape="rect" id="Node000003" href="$d0/d20/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1APerPlayerSliderPower.html" title=" " alt="" coords="156,305,424,1323"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="422,271,413,306,408,304,416,270"/>
+<area shape="rect" id="Node000005" href="$d5/ddc/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ASharedSliderPower.html" title=" " alt="" coords="605,375,855,1253"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="459,268,607,562,602,564,455,271"/>
+<area shape="rect" id="Node000002" href="$d0/d13/interfaceTerraria_1_1GameContent_1_1Creative_1_1IPowerSubcategoryElement.html" title=" " alt="" coords="307,5,556,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,143,434,177,429,177,429,143"/>
+<area shape="rect" id="Node000004" href="$de/dd5/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSliderPerPlayerPower.html" title=" " alt="" coords="5,1455,263,2201"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,1337,194,1455,189,1454,207,1336"/>
+<area shape="rect" id="Node000006" href="$d1/d1b/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySliderPower.html" title=" " alt="" coords="287,1371,587,2285"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="603,1261,572,1371,566,1370,598,1260"/>
+<area shape="rect" id="Node000007" href="$da/dd3/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyRainPower.html" title=" " alt="" coords="611,1578,849,2078"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="733,1267,733,1578,727,1578,727,1267"/>
+<area shape="rect" id="Node000008" href="$db/de8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate.html" title=" " alt="" coords="873,1519,1131,2137"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="854,1266,922,1518,917,1519,849,1267"/>
+<area shape="rect" id="Node000009" href="$de/d34/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyWindDirectionAndStrength.html" title=" " alt="" coords="1155,1571,1411,2085"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="867,965,938,1052,1012,1151,1083,1259,1146,1369,1189,1468,1224,1570,1219,1571,1184,1470,1141,1372,1078,1261,1007,1154,933,1055,863,968"/>
+</map>

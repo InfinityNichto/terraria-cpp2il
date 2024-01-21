@@ -1,0 +1,5 @@
+<map id="TutorialStep_01_WelcomeDialogue" name="TutorialStep_01_WelcomeDialogue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,407,244,547"/>
+<area shape="rect" id="Node000002" href="$d9/d7b/classTutorialStep.html" title=" " alt="" coords="12,5,237,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,372,127,406,122,406,122,372"/>
+</map>

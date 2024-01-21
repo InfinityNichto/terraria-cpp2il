@@ -1,0 +1,7 @@
+<map id="Terraria.Cinematics.Film" name="Terraria.Cinematics.Film">
+<area shape="rect" id="Node000001" title=" " alt="" coords="110,5,375,740"/>
+<area shape="rect" id="Node000002" href="$da/d4c/classTerraria_1_1Cinematics_1_1DD2Film.html" title=" " alt="" coords="5,795,235,1367"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,754,172,795,167,795,174,753"/>
+<area shape="rect" id="Node000003" href="$d3/d05/classTerraria_1_1Cinematics_1_1DSTFilm.html" title=" " alt="" coords="259,788,475,1375"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="312,753,318,787,313,788,307,754"/>
+</map>

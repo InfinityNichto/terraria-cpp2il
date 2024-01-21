@@ -1,0 +1,13 @@
+<map id="Terraria.GameContent.UI.Elements.UITextBox" name="Terraria.GameContent.UI.Elements.UITextBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,2953,248,3341"/>
+<area shape="rect" id="Node000002" href="$da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel.html" title=" " alt="" coords="42,2371,247,2904"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,2918,147,2953,142,2953,142,2918"/>
+<area shape="rect" id="Node000003" href="$da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel.html" title=" " alt="" coords="42,1760,247,2308"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,2322,147,2370,142,2370,142,2322"/>
+<area shape="rect" id="Node000004" href="$d2/d10/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIPanel.html" title=" " alt="" coords="13,1353,276,1711"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,1724,147,1760,142,1760,142,1724"/>
+<area shape="rect" id="Node000005" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="5,120,284,1304"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,1317,147,1353,142,1353,142,1317"/>
+<area shape="rect" id="Node000006" href="$d9/d6f/classIComparable.html" title=" " alt="" coords="96,5,193,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,84,147,120,142,120,142,84"/>
+</map>

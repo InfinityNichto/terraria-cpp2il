@@ -1,0 +1,15 @@
+<map id="Terraria.DataStructures.MethodSequenceListItem" name="Terraria.DataStructures.MethodSequenceListItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,459,335,721"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,71,31,132,34,214,46,305,69,395,90,443,85,445,64,397,41,306,29,215,26,132,26,71"/>
+<area shape="rect" id="Node000003" href="$d9/d2b/classTerraria_1_1DataStructures_1_1MethodSequenceListItem.html" title=" " alt="" coords="213,133,499,396"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="58,55,77,68,140,107,167,118,195,131,200,134,197,139,192,136,165,123,137,112,75,73,55,60"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,398,268,445,263,443,287,395"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="501,237,519,248,526,264,523,276,516,284,512,281,518,273,521,265,515,251,498,242"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="89,5,191,71"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="140,71,137,133,130,265,130,322,137,396,146,442,141,443,132,396,124,323,124,265,132,133,135,71"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="172,69,221,119,217,123,169,73"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="507,5,549,71"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="551,60,576,92,596,132,619,207,632,269,633,299,627,330,615,362,596,397,573,428,547,455,487,500,420,534,352,558,350,553,417,529,484,495,544,451,569,424,591,395,610,360,622,328,627,299,627,270,614,208,591,134,572,95,547,63"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="509,69,468,122,464,119,504,66"/>
+</map>

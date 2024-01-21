@@ -1,0 +1,13 @@
+<map id="Telepathy.Server.ClientToken" name="Telepathy.Server.ClientToken">
+<area shape="rect" id="Node000001" title=" " alt="" coords="88,643,287,723"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,443,79,508"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,507,72,543,92,578,135,630,131,633,88,582,67,545,51,509"/>
+<area shape="rect" id="Node000003" href="$d3/dd0/classTelepathy_1_1SafeQueue.html" title=" " alt="" coords="103,371,272,580"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,580,190,626,185,626,185,580"/>
+<area shape="rect" id="Node000004" href="$d3/dd0/classTelepathy_1_1SafeQueue.html" title=" " alt="" coords="93,133,281,308"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="190,321,190,371,185,371,185,321"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="140,5,235,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="190,71,190,117,185,117,185,71"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="297,443,433,508"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="354,509,325,564,306,593,284,620,269,635,265,631,280,617,302,590,321,561,349,507"/>
+</map>

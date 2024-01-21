@@ -1,0 +1,10 @@
+<map id="ReLogic.Content.Asset&lt; T &gt;" name="ReLogic.Content.Asset&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="53,328,270,677"/>
+<area shape="rect" id="Node000002" href="$d1/d01/interfaceReLogic_1_1Content_1_1IAsset.html" title=" " alt="" coords="73,120,250,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,279,164,328,159,328,159,279"/>
+<area shape="rect" id="Node000003" href="$d0/d07/classIDisposable.html" title=" " alt="" coords="5,5,96,71"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="50,84,51,169,55,217,63,265,81,327,76,329,57,266,49,218,45,169,45,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,80,111,118,107,121,79,83"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="275,160,464,225"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="350,227,281,329,277,326,346,224"/>
+</map>

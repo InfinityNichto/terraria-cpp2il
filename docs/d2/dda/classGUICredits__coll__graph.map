@@ -1,0 +1,7 @@
+<map id="GUICredits" name="GUICredits">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,163,124,248"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,71,27,104,33,138,36,147,31,149,28,139,22,104,21,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="73,5,151,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,71,87,147,82,146,101,70"/>
+</map>

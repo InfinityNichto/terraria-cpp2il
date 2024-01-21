@@ -1,0 +1,11 @@
+<map id="Controller.ControllerActionAxis" name="Controller.ControllerActionAxis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,163,341,575"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,48,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,77,56,138,60,146,55,149,51,140,31,79"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="125,13,176,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,78,165,146,160,147,152,79"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="200,13,243,78"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,79,214,147,209,146,215,78"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="267,5,450,85"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="341,87,307,150,303,147,336,84"/>
+</map>

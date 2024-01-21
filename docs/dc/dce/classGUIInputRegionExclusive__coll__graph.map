@@ -1,0 +1,7 @@
+<map id="GUIInputRegionExclusive" name="GUIInputRegionExclusive">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,133,261,268"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,173,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,70,123,117,118,119,100,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,5,240,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,72,189,119,184,117,203,70"/>
+</map>

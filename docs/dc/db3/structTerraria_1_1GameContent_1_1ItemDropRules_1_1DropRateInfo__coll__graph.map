@@ -1,0 +1,9 @@
+<map id="Terraria.GameContent.ItemDropRules.DropRateInfo" name="Terraria.GameContent.ItemDropRules.DropRateInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,177,239,351"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,36,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,78,35,114,48,152,53,161,48,164,44,154,30,116,22,79"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,13,147,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,78,129,161,123,161,123,78"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="172,5,459,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,88,214,167,210,163,279,84"/>
+</map>

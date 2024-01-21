@@ -1,0 +1,11 @@
+<map id="Terraria.GameContent.ObjectInteractions.NPCSmartInteractCandidateProvider" name="Terraria.GameContent.ObjectInteractions.NPCSmartInteractCandidateProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,345,368,553"/>
+<area shape="rect" id="Node000002" href="$da/ddc/interfaceTerraria_1_1GameContent_1_1ObjectInteractions_1_1ISmartInteractCandidateProvider.html" title=" " alt="" coords="5,136,283,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,292,195,344,190,346,171,294"/>
+<area shape="rect" id="Node000003" href="$d4/d34/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1NPCSmartInteractCandidateProvider_1_1ReusableCandidate.html" title=" " alt="" coords="307,133,584,283"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="381,285,335,335,331,331,377,281"/>
+<area shape="rect" id="Node000004" href="$d5/d29/interfaceTerraria_1_1GameContent_1_1ObjectInteractions_1_1ISmartInteractCandidate.html" title=" " alt="" coords="281,5,474,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="398,82,418,132,413,134,393,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="498,5,529,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="503,72,484,119,479,117,498,70"/>
+</map>

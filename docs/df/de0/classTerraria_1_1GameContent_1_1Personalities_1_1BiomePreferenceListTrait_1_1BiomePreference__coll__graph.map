@@ -1,0 +1,7 @@
+<map id="Terraria.GameContent.Personalities.BiomePreferenceListTrait.BiomePreference" name="Terraria.GameContent.Personalities.BiomePreferenceListTrait.BiomePreference">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,183,307,277"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,30,112,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,94,125,167,121,170,76,97"/>
+<area shape="rect" id="Node000003" href="$de/dbd/classTerraria_1_1GameContent_1_1Personalities_1_1AShoppingBiome.html" title=" " alt="" coords="137,5,386,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,122,199,170,195,167,224,119"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="ScriptableObject" name="ScriptableObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="549,5,670,71"/>
+<area shape="rect" id="Node000002" href="$de/d69/classSingleton.html" title=" " alt="" coords="511,120,707,435"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="612,84,612,120,607,120,607,84"/>
+<area shape="rect" id="Node000003" href="$de/d69/classSingleton.html" title=" " alt="" coords="115,505,311,819"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="503,381,379,499,314,564,310,560,375,495,499,377"/>
+<area shape="rect" id="Node000005" href="$de/d69/classSingleton.html" title=" " alt="" coords="390,497,589,827"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="514,448,511,459,501,498,496,496,505,458,509,447"/>
+<area shape="rect" id="Node000007" href="$de/d69/classSingleton.html" title=" " alt="" coords="637,497,848,827"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="708,447,712,458,723,496,718,498,707,460,703,448"/>
+<area shape="rect" id="Node000009" href="$de/d69/classSingleton.html" title=" " alt="" coords="912,505,1115,819"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="721,319,773,345,827,376,879,414,925,457,958,503,953,506,921,460,875,418,824,381,770,349,719,324"/>
+<area shape="rect" id="Node000004" href="$d5/d14/classAlert.html" title=" " alt="" coords="5,876,299,1465"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,833,190,876,185,876,190,833"/>
+<area shape="rect" id="Node000006" href="$dc/d58/classController_1_1ControllerDeviceManager.html" title=" " alt="" coords="323,992,642,1349"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="490,841,488,992,482,992,484,841"/>
+<area shape="rect" id="Node000008" href="$dc/dc7/classPlatformControllerDisplay.html" title=" " alt="" coords="667,1111,875,1231"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="755,841,770,1110,765,1110,750,841"/>
+<area shape="rect" id="Node000010" href="$dd/d06/classSoundManager.html" title=" " alt="" coords="899,987,1147,1355"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1019,833,1022,987,1017,987,1014,833"/>
+</map>

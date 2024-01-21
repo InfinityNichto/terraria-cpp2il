@@ -1,0 +1,18 @@
+<map id="Terraria.Testing.ChatCommands.ArgumentListResult" name="Terraria.Testing.ChatCommands.ArgumentListResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,444,381,677"/>
+<area shape="rect" id="Node000002" href="$d5/ddf/classIEnumerable.html" title=" " alt="" coords="5,5,168,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,85,84,142,87,214,96,291,115,366,133,407,157,445,153,448,128,409,109,368,91,292,81,214,79,142,81,85"/>
+<area shape="rect" id="Node000004" href="$dd/daa/classTerraria_1_1Testing_1_1ChatCommands_1_1ArgumentListResult.html" title=" " alt="" coords="155,133,381,367"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="125,79,170,131,166,135,121,83"/>
+<area shape="rect" id="Node000003" href="$d5/ddf/classIEnumerable.html" title=" " alt="" coords="193,5,289,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,81,163,106,145,134,124,197,119,248,127,301,145,366,160,405,180,443,176,445,155,407,140,368,122,302,114,249,119,195,140,132,158,103,182,78"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="250,84,256,133,251,134,244,84"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,367,271,428,265,428,265,367"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="382,224,400,233,407,250,405,261,398,269,394,265,400,258,402,250,396,237,380,228"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="360,5,403,71"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="404,56,422,68,442,75,461,76,478,79,494,93,504,118,514,177,515,217,510,263,498,313,477,368,461,397,441,424,395,473,391,469,437,421,456,394,472,366,493,312,505,262,510,217,509,177,498,119,490,96,476,84,460,81,441,80,420,73,401,61"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="361,52,333,70,307,96,295,119,290,117,303,93,329,66,358,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="433,5,537,71"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="530,69,557,98,578,132,602,197,612,252,611,279,605,306,578,368,543,417,498,457,448,491,397,517,395,512,445,486,495,453,539,413,574,365,600,305,606,278,607,252,597,198,574,134,553,101,526,73"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="455,73,395,130,391,127,451,69"/>
+</map>

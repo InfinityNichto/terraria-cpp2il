@@ -1,0 +1,19 @@
+<map id="Terraria.WorldBuilding.ModShapes.InnerOutline" name="Terraria.WorldBuilding.ModShapes.InnerOutline">
+<area shape="rect" id="Node000001" title=" " alt="" coords="419,1027,651,1171"/>
+<area shape="rect" id="Node000002" href="$de/d40/classTerraria_1_1WorldBuilding_1_1GenModShape.html" title=" " alt="" coords="281,884,479,964"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,973,473,1025,469,1028,422,976"/>
+<area shape="rect" id="Node000003" href="$da/d11/classTerraria_1_1WorldBuilding_1_1GenShape.html" title=" " alt="" coords="271,588,489,821"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,835,383,884,377,884,377,835"/>
+<area shape="rect" id="Node000004" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="270,235,490,424"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="383,438,383,588,377,588,377,438"/>
+<area shape="rect" id="Node000005" href="$d3/d09/classTerraria_1_1WorldBuilding_1_1ShapeData.html" title=" " alt="" coords="5,133,245,525"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="123,525,130,600,146,677,172,751,189,787,209,820,235,849,268,873,265,878,232,853,205,823,184,789,167,754,141,678,125,601,117,526"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="248,506,260,524,293,572,288,575,255,527,243,509"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="52,5,199,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="128,71,128,117,123,117,123,71"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="515,297,557,362"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="539,362,537,1010,532,1010,533,362"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="542,362,543,399,539,443,527,487,517,508,503,527,485,539,465,541,447,541,430,551,412,575,408,572,426,547,446,536,465,535,483,534,499,523,512,506,522,486,534,442,538,399,537,362"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="573,891,603,957"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="581,958,564,1012,559,1010,576,956"/>
+</map>

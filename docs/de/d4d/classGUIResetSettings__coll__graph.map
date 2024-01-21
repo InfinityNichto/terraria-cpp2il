@@ -1,0 +1,11 @@
+<map id="GUIResetSettings" name="GUIResetSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,504,172,589"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="10,277,53,343"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,343,47,406,66,479,69,488,64,490,61,481,42,408,32,343"/>
+<area shape="rect" id="Node000003" href="$d0/d44/classGUIControllerModalResponse.html" title=" " alt="" coords="77,223,306,397"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,399,132,481,128,490,123,488,128,479,160,397"/>
+<area shape="rect" id="Node000004" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="5,5,215,160"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,172,163,222,158,224,140,174"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="239,50,307,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="264,117,231,208,226,206,259,115"/>
+</map>

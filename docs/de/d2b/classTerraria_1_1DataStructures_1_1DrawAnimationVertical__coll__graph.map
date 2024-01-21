@@ -1,0 +1,9 @@
+<map id="Terraria.DataStructures.DrawAnimationVertical" name="Terraria.DataStructures.DrawAnimationVertical">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,389,363,568"/>
+<area shape="rect" id="Node000002" href="$da/df1/classTerraria_1_1DataStructures_1_1DrawAnimation.html" title=" " alt="" coords="5,177,213,312"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,323,181,388,176,390,145,325"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,5,125,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,71,112,161,107,161,107,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,212,280,277"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,278,241,374,235,373,251,277"/>
+</map>

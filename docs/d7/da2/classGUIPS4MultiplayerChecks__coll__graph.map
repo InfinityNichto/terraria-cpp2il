@@ -1,0 +1,15 @@
+<map id="GUIPS4MultiplayerChecks" name="GUIPS4MultiplayerChecks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="243,251,471,480"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="25,71,23,106,25,146,34,188,53,225,89,263,133,294,180,317,229,335,227,340,178,322,130,298,86,267,48,228,29,190,19,147,17,106,19,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="222,5,253,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,71,245,143,253,185,265,226,269,235,264,237,260,228,248,186,240,144,235,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="277,5,365,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="322,71,320,143,325,226,326,234,321,235,320,227,315,143,317,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="389,5,440,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="405,72,399,95,374,235,368,234,393,94,400,70"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="495,5,534,71"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="518,71,512,145,503,187,488,228,482,238,478,236,483,226,498,186,507,144,513,71"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="607,5,686,71"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="652,71,653,105,650,147,639,189,620,228,592,260,560,286,524,308,487,326,485,322,521,304,556,282,588,256,615,225,634,187,644,146,648,105,647,71"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="GUIJourneyToggleSetting" name="GUIJourneyToggleSetting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,689,229,824"/>
+<area shape="rect" id="Node000002" href="$d2/db1/classGUIToggleSetting.html" title=" " alt="" coords="17,263,239,641"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,655,131,689,125,689,125,655"/>
+<area shape="rect" id="Node000003" href="$d9/dcf/classGUISettingEntry.html" title=" " alt="" coords="5,5,251,215"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,228,131,263,125,263,125,228"/>
+</map>

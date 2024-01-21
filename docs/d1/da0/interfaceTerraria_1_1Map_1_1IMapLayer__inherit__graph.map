@@ -1,0 +1,9 @@
+<map id="Terraria.Map.IMapLayer" name="Terraria.Map.IMapLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="273,5,475,100"/>
+<area shape="rect" id="Node000002" href="$d1/d40/classTerraria_1_1Map_1_1PingMapLayer.html" title=" " alt="" coords="5,148,247,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,111,248,156,245,152,303,107"/>
+<area shape="rect" id="Node000003" href="$d5/d94/classTerraria_1_1Map_1_1SpawnMapLayer.html" title=" " alt="" coords="271,193,477,307"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,114,377,192,371,192,371,114"/>
+<area shape="rect" id="Node000004" href="$d9/d21/classTerraria_1_1Map_1_1TeleportPylonsMapLayer.html" title=" " alt="" coords="501,185,703,315"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="445,107,492,146,534,183,531,187,488,150,441,111"/>
+</map>

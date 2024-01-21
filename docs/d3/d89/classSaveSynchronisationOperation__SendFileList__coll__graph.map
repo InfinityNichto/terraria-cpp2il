@@ -1,0 +1,14 @@
+<map id="SaveSynchronisationOperation_SendFileList" name="SaveSynchronisationOperation_SendFileList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="407,553,645,905"/>
+<area shape="rect" id="Node000002" href="$d9/de9/classSaveSynchronisationOperation.html" title=" " alt="" coords="170,133,426,476"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,487,434,552,429,554,394,490"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,199,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,70,164,118,160,122,124,73"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="223,5,266,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="246,71,249,109,250,117,245,117,243,110,241,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="450,5,493,71"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="495,65,510,94,525,175,532,287,535,413,534,537,529,537,530,413,527,287,519,176,505,96,490,67"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="452,61,420,96,402,121,398,118,416,93,448,57"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="636,272,667,337"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="649,338,637,402,619,477,600,538,595,537,614,475,632,401,644,337"/>
+</map>

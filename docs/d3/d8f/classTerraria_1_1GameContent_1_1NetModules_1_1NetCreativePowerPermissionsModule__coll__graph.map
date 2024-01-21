@@ -1,0 +1,9 @@
+<map id="Terraria.GameContent.NetModules.NetCreativePowerPermissionsModule" name="Terraria.GameContent.NetModules.NetCreativePowerPermissionsModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="142,203,413,411"/>
+<area shape="rect" id="Node000002" href="$d6/da4/classTerraria_1_1Net_1_1NetModule.html" title=" " alt="" coords="5,5,232,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,150,209,201,204,204,170,153"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="256,40,299,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,106,280,186,275,186,275,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="449,40,479,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="463,106,454,143,437,180,426,196,421,193,432,177,449,141,458,105"/>
+</map>

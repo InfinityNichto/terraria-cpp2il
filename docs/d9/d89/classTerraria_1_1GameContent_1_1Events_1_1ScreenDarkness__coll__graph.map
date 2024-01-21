@@ -1,0 +1,12 @@
+<map id="Terraria.GameContent.Events.ScreenDarkness" name="Terraria.GameContent.Events.ScreenDarkness">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,1223,224,1392"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="16,636,59,701"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="34,702,20,789,9,914,9,984,13,1057,23,1129,41,1198,45,1207,40,1209,36,1199,18,1130,8,1057,3,984,4,914,14,789,28,701"/>
+<area shape="rect" id="Node000003" href="$d0/dc1/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Color.html" title=" " alt="" coords="110,177,294,1160"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,1161,175,1199,172,1208,167,1206,170,1198,179,1159"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="296,578,306,591,314,611,320,669,316,714,306,746,301,744,311,713,315,669,308,613,301,594,292,581"/>
+<area shape="rect" id="Node000004" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="68,5,215,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,84,157,177,152,177,143,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="239,5,282,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="260,71,252,161,246,161,255,71"/>
+</map>

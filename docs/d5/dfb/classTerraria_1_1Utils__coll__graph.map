@@ -1,0 +1,20 @@
+<map id="Terraria.Utils" name="Terraria.Utils">
+<area shape="rect" id="Node000001" title=" " alt="" coords="213,484,507,1417"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,237,48,303"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,302,56,375,86,459,144,577,207,692,202,694,139,579,82,461,51,377,31,304"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="73,230,215,310"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,310,163,380,181,459,210,555,205,557,176,461,158,381,146,311"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="239,237,334,303"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="287,303,281,416,281,468,276,468,276,416,282,303"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="417,237,468,303"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="441,303,421,468,416,467,436,302"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="537,237,709,303"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="620,303,606,376,583,461,551,547,516,632,512,630,546,545,577,459,600,375,615,302"/>
+<area shape="rect" id="Node000007" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="733,148,939,392"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="805,394,774,461,718,552,654,639,587,721,521,794,517,790,582,717,649,636,713,549,770,459,800,391"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="941,241,959,251,966,270,963,282,956,291,952,288,958,280,961,270,955,255,938,246"/>
+<area shape="rect" id="Node000008" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="707,5,853,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="794,83,809,147,804,148,788,85"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="878,5,909,71"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="888,71,873,132,868,131,883,70"/>
+</map>
