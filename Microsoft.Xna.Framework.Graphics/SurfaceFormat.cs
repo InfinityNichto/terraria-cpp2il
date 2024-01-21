@@ -1,0 +1,80 @@
+using Cpp2IlInjected;
+
+namespace Microsoft.Xna.Framework.Graphics;
+
+[Cpp2IlInjected.Token(Token = "0x20002DA")]
+public enum SurfaceFormat
+{
+	[Cpp2IlInjected.Token(Token = "0x40020F9")]
+	Color = 0,
+	[Cpp2IlInjected.Token(Token = "0x40020FA")]
+	Bgr565 = 1,
+	[Cpp2IlInjected.Token(Token = "0x40020FB")]
+	Bgra5551 = 2,
+	[Cpp2IlInjected.Token(Token = "0x40020FC")]
+	Bgra4444 = 3,
+	[Cpp2IlInjected.Token(Token = "0x40020FD")]
+	Dxt1 = 4,
+	[Cpp2IlInjected.Token(Token = "0x40020FE")]
+	Dxt3 = 5,
+	[Cpp2IlInjected.Token(Token = "0x40020FF")]
+	Dxt5 = 6,
+	[Cpp2IlInjected.Token(Token = "0x4002100")]
+	NormalizedByte2 = 7,
+	[Cpp2IlInjected.Token(Token = "0x4002101")]
+	NormalizedByte4 = 8,
+	[Cpp2IlInjected.Token(Token = "0x4002102")]
+	Rgba1010102 = 9,
+	[Cpp2IlInjected.Token(Token = "0x4002103")]
+	Rg32 = 10,
+	[Cpp2IlInjected.Token(Token = "0x4002104")]
+	Rgba64 = 11,
+	[Cpp2IlInjected.Token(Token = "0x4002105")]
+	Alpha8 = 12,
+	[Cpp2IlInjected.Token(Token = "0x4002106")]
+	Single = 13,
+	[Cpp2IlInjected.Token(Token = "0x4002107")]
+	Vector2 = 14,
+	[Cpp2IlInjected.Token(Token = "0x4002108")]
+	Vector4 = 15,
+	[Cpp2IlInjected.Token(Token = "0x4002109")]
+	HalfSingle = 16,
+	[Cpp2IlInjected.Token(Token = "0x400210A")]
+	HalfVector2 = 17,
+	[Cpp2IlInjected.Token(Token = "0x400210B")]
+	HalfVector4 = 18,
+	[Cpp2IlInjected.Token(Token = "0x400210C")]
+	HdrBlendable = 19,
+	[Cpp2IlInjected.Token(Token = "0x400210D")]
+	Bgr32 = 20,
+	[Cpp2IlInjected.Token(Token = "0x400210E")]
+	Bgra32 = 21,
+	[Cpp2IlInjected.Token(Token = "0x400210F")]
+	ColorSRgb = 30,
+	[Cpp2IlInjected.Token(Token = "0x4002110")]
+	Bgr32SRgb = 31,
+	[Cpp2IlInjected.Token(Token = "0x4002111")]
+	Bgra32SRgb = 32,
+	[Cpp2IlInjected.Token(Token = "0x4002112")]
+	Dxt1SRgb = 33,
+	[Cpp2IlInjected.Token(Token = "0x4002113")]
+	Dxt3SRgb = 34,
+	[Cpp2IlInjected.Token(Token = "0x4002114")]
+	Dxt5SRgb = 35,
+	[Cpp2IlInjected.Token(Token = "0x4002115")]
+	RgbPvrtc2Bpp = 50,
+	[Cpp2IlInjected.Token(Token = "0x4002116")]
+	RgbPvrtc4Bpp = 51,
+	[Cpp2IlInjected.Token(Token = "0x4002117")]
+	RgbaPvrtc2Bpp = 52,
+	[Cpp2IlInjected.Token(Token = "0x4002118")]
+	RgbaPvrtc4Bpp = 53,
+	[Cpp2IlInjected.Token(Token = "0x4002119")]
+	RgbEtc1 = 60,
+	[Cpp2IlInjected.Token(Token = "0x400211A")]
+	Dxt1a = 70,
+	[Cpp2IlInjected.Token(Token = "0x400211B")]
+	RgbaAtcExplicitAlpha = 80,
+	[Cpp2IlInjected.Token(Token = "0x400211C")]
+	RgbaAtcInterpolatedAlpha = 81
+}
