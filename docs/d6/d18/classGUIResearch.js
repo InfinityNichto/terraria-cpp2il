@@ -8,7 +8,7 @@ var classGUIResearch =
     [ "GUIResearch", "d6/d18/classGUIResearch_af1e831ee5f33660132ad242e6f64c2df.html#af1e831ee5f33660132ad242e6f64c2df", null ],
     [ "ActionResearch", "d6/d18/classGUIResearch_a8cdd811861ebc96e29a351af2bec0179.html#a8cdd811861ebc96e29a351af2bec0179", null ],
     [ "BeginResearchAnimation", "d6/d18/classGUIResearch_a532092d8d1055be248f940078d31be6d.html#a532092d8d1055be248f940078d31be6d", null ],
-    [ "CanBeResearched", "d6/d18/classGUIResearch_ae25486a52c7ec75c03eba0c628938aef.html#ae25486a52c7ec75c03eba0c628938aef", null ],
+    [ "CanBeResearched", "d6/d18/classGUIResearch_afe2600d39525bcb61b13b0f46bfb4926.html#afe2600d39525bcb61b13b0f46bfb4926", null ],
     [ "Close", "d6/d18/classGUIResearch_af4f6a4ab78118959006c6856993ef948.html#af4f6a4ab78118959006c6856993ef948", null ],
     [ "Draw", "d6/d18/classGUIResearch_a159fffbf44e657b3a46e9854e3a0c236.html#a159fffbf44e657b3a46e9854e3a0c236", null ],
     [ "DrawBacking", "d6/d18/classGUIResearch_a9e2d32679894cc9cca4bf697c2fe2845.html#a9e2d32679894cc9cca4bf697c2fe2845", null ],

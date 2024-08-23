@@ -1,0 +1,15 @@
+<map id="System.Collections.Concurrent.ConcurrentDictionary&lt; TKey, TValue &gt;.Tables" name="System.Collections.Concurrent.ConcurrentDictionary&lt; TKey, TValue &gt;.Tables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="262,335,514,459"/>
+<area shape="rect" id="Node000002" href="$da/d99/classSystem_1_1Collections_1_1Concurrent_1_1ConcurrentDictionary_1_1Node.html" title=" " alt="" coords="45,133,264,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,270,303,322,300,326,237,275"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="265,184,283,191,291,203,282,215,278,212,285,203,280,195,264,189"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,112,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,70,108,118,104,121,75,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="136,5,195,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="166,71,163,117,158,117,161,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="310,5,341,71"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="343,61,359,94,373,151,383,211,391,318,386,318,377,211,368,153,353,96,339,64"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="311,56,240,124,236,120,308,52"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="522,170,577,235"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="531,237,505,274,461,324,457,320,501,270,527,234"/>
+</map>

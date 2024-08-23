@@ -2,11 +2,11 @@ var classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence =
 [
     [ "RichPresence", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_a87bff78e0e08a2ead9ec29c089f0a0ce.html#a87bff78e0e08a2ead9ec29c089f0a0ce", null ],
     [ "FreeMem", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_ac856dfaa97a3f0fb3fd1a7a51615e63c.html#ac856dfaa97a3f0fb3fd1a7a51615e63c", null ],
-    [ "GetStruct", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_a8646472c277c4c526124ad62ac84d8bf.html#a8646472c277c4c526124ad62ac84d8bf", null ],
+    [ "GetStruct", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_aea482ee950230600b8cc8111bad8ad77.html#aea482ee950230600b8cc8111bad8ad77", null ],
     [ "StrToPtr", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_a4d7dadc5242b100c8ba34885d40f445c.html#a4d7dadc5242b100c8ba34885d40f445c", null ],
     [ "StrToUtf8NullTerm", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_a7c879e746c5bad5df66b170f64586f96.html#a7c879e746c5bad5df66b170f64586f96", null ],
     [ "_buffers", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_a70237398dd29bcc245b9337d4d02d75a.html#a70237398dd29bcc245b9337d4d02d75a", null ],
-    [ "_presence", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_a648602bde13c071b78e481eb10149d03.html#a648602bde13c071b78e481eb10149d03", null ],
+    [ "_presence", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_a80198adc23a96425c216ce35b38d3347.html#a80198adc23a96425c216ce35b38d3347", null ],
     [ "details", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_a9b5cbcc63c317d5eb4e6eecf406eaaeb.html#a9b5cbcc63c317d5eb4e6eecf406eaaeb", null ],
     [ "endTimestamp", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_ae4c71ddbf1b9fedcc267c872006c0fb9.html#ae4c71ddbf1b9fedcc267c872006c0fb9", null ],
     [ "instance", "d3/d4b/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc_1_1RichPresence_a956a10acfdad234d14552fd5d99f8eb5.html#a956a10acfdad234d14552fd5d99f8eb5", null ],

@@ -1,0 +1,17 @@
+<map id="UnityEngine.Quaternion" name="UnityEngine.Quaternion">
+<area shape="rect" id="Node000001" title=" " alt="" coords="349,1293,609,2189"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="60,148,245,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,227,106,278,88,335,36,587,19,690,9,788,10,884,22,986,48,1099,88,1230,110,1286,138,1341,204,1445,278,1539,351,1618,347,1622,274,1542,199,1448,133,1344,106,1288,83,1232,43,1101,17,987,5,884,4,787,13,690,31,586,83,334,101,276,125,224"/>
+<area shape="rect" id="Node000006" href="$d3/d7b/structUnityEngine_1_1Quaternion.html" title=" " alt="" coords="98,335,358,1231"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="161,227,174,334,169,335,155,227"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="65,5,240,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,84,155,148,150,148,150,84"/>
+<area shape="rect" id="Node000004" href="$d7/dfc/interfaceSystem_1_1IFormattable.html" title=" " alt="" coords="496,133,732,228"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="619,242,626,412,628,657,621,941,612,1088,598,1231,589,1293,583,1293,592,1230,607,1087,616,941,623,656,620,412,614,242"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="579,241,361,580,356,578,574,238"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="283,148,326,213"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="327,186,372,205,429,235,485,277,510,304,529,334,537,358,543,394,550,498,551,631,549,778,538,1061,530,1231,527,1277,522,1277,524,1231,533,1061,543,778,546,631,544,498,538,395,532,359,524,336,506,307,482,281,426,239,370,209,325,191"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="303,214,290,318,284,318,298,213"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="348,1230,360,1277,355,1278,343,1232"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="361,706,371,719,378,736,385,783,381,819,371,846,366,844,376,818,380,783,373,738,366,721,356,709"/>
+</map>

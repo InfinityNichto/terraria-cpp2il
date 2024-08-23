@@ -1,7 +1,7 @@
 <map id="Microsoft.Xna.Framework.Graphics.ScreenShader" name="Microsoft.Xna.Framework.Graphics.ScreenShader">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,600,245,1481"/>
-<area shape="rect" id="Node000002" href="$de/d85/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Effect.html" title=" " alt="" coords="5,288,253,552"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,566,132,600,127,600,127,566"/>
-<area shape="rect" id="Node000003" href="$d0/d7e/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GraphicsResource.html" title=" " alt="" coords="11,5,248,240"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,254,132,288,127,288,127,254"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,739,245,1640"/>
+<area shape="rect" id="Node000002" href="$de/d85/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Effect.html" title=" " alt="" coords="5,357,253,691"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,704,132,739,127,739,127,704"/>
+<area shape="rect" id="Node000003" href="$d0/d7e/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GraphicsResource.html" title=" " alt="" coords="11,5,248,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,323,132,357,127,357,127,323"/>
 </map>

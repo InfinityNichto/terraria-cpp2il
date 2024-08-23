@@ -1,7 +1,7 @@
 var classTerraria_1_1Graphics_1_1Effects_1_1FilterManager =
 [
     [ "FilterManager", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a43c73574ea88c104bb1f3039de55138b.html#a43c73574ea88c104bb1f3039de55138b", null ],
-    [ "Activate", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#a2d3f5644672df2227c0b410df788dabb", null ],
+    [ "Activate", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#a224b091552cf08f4c607416929807a2b", null ],
     [ "BeginCapture", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a15f75bc2ed08874b687a46163bdbd688.html#a15f75bc2ed08874b687a46163bdbd688", null ],
     [ "Bind", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#adbf65de80e8bec0758f91537dcf1a220", null ],
     [ "CanCapture", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_ab0defb6a73459d5c658e0a4ab3464b4e.html#ab0defb6a73459d5c658e0a4ab3464b4e", null ],
@@ -23,6 +23,6 @@ var classTerraria_1_1Graphics_1_1Effects_1_1FilterManager =
     [ "_priorityThreshold", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_adcf6196091683b4944e35c89cd852860.html#adcf6196091683b4944e35c89cd852860", null ],
     [ "OPACITY_RATE", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a884c87673667591a4fc380bffc1dc999.html#a884c87673667591a4fc380bffc1dc999", null ],
     [ "IsLoaded", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#ab9b1223a55a0821e320d37aca0c561ca", null ],
-    [ "Item", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#abca861e6914e515faaf10f7616d69fd0", null ],
-    [ "OnPostDraw", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_aad371377a9e50800e210ecb81b07287d.html#aad371377a9e50800e210ecb81b07287d", null ]
+    [ "OnPostDraw", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager_a287c188406338b161a03d5ba36da8350.html#a287c188406338b161a03d5ba36da8350", null ],
+    [ "this[string key]", "d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html#a75aa67f89b65d5b2ff3a7716e21fb6e3", null ]
 ];

@@ -2,7 +2,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SlimeBalloonGroupSkyE
 [
     [ "SlimeBalloonGroupSkyEntity", "dc/da8/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SlimeBalloonGroupSkyEntity_a251d84ec6c988cfd05324a7285e551a2.html#a251d84ec6c988cfd05324a7285e551a2", null ],
     [ "CommonDraw", "dc/da8/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SlimeBalloonGroupSkyEntity.html#a2e0c86acfa2ceaf743e5cc41336bf003", null ],
-    [ "CreateGroup", "dc/da8/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SlimeBalloonGroupSkyEntity_a276263690112fc999892684a4c38c6d7.html#a276263690112fc999892684a4c38c6d7", null ],
+    [ "CreateGroup", "dc/da8/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SlimeBalloonGroupSkyEntity_aade6c62c0bd3162bd584808ee1997d82.html#aade6c62c0bd3162bd584808ee1997d82", null ],
     [ "Draw", "dc/da8/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SlimeBalloonGroupSkyEntity.html#ad284cac68e5c92d028d85b28d08d46ae", null ],
     [ "GetColor", "dc/da8/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SlimeBalloonGroupSkyEntity.html#a3f5d1bc7daa8450c37761fb09abeadd4", null ],
     [ "GetDrawPosition", "dc/da8/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SlimeBalloonGroupSkyEntity.html#a6344e087faa7eea6e427cc9b0ab94bfd", null ],

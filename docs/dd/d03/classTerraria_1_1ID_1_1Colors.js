@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1Colors =
 [
+    [ "Colors", "dd/d03/classTerraria_1_1ID_1_1Colors_ad5272af423b41a2a7df4591c52ed108f.html#ad5272af423b41a2a7df4591c52ed108f", null ],
     [ "AlphaDarken", "dd/d03/classTerraria_1_1ID_1_1Colors_a5a9fead3a76bc71107f928e73c8d5c41.html#a5a9fead3a76bc71107f928e73c8d5c41", null ],
     [ "GetSelectionGlowColor", "dd/d03/classTerraria_1_1ID_1_1Colors_a18fa42580e640f9fc4bd6342d4c2b16e.html#a18fa42580e640f9fc4bd6342d4c2b16e", null ],
     [ "_liquidColors", "dd/d03/classTerraria_1_1ID_1_1Colors_a8c59c4e6dfc5ff7e9e8616d5ae09a11f.html#a8c59c4e6dfc5ff7e9e8616d5ae09a11f", null ],

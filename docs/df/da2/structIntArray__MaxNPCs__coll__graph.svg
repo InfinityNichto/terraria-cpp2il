@@ -25,7 +25,7 @@
 <polygon fill="#999999" stroke="transparent" points="101,-214 0,-214 0,0 101,0 101,-214"/>
 <text text-anchor="start" x="5.5" y="-202" font-family="Helvetica,sans-Serif" font-size="10.00">IntArray_MaxNPCs</text>
 <text text-anchor="start" x="5" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18.5" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00">int Item</text>
+<text text-anchor="start" x="18.5" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00">int this[int x]</text>
 <text text-anchor="start" x="7.5" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="18.5" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">int i010</text>
 <text text-anchor="start" x="7.5" y="-157" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>

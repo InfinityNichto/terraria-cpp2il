@@ -1,7 +1,7 @@
 <map id="Terraria.GameContent.Shaders.BlizzardShaderData" name="Terraria.GameContent.Shaders.BlizzardShaderData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="14,1091,231,1260"/>
-<area shape="rect" id="Node000002" href="$d8/dbb/classTerraria_1_1Graphics_1_1Shaders_1_1ScreenShaderData.html" title=" " alt="" coords="5,277,240,1043"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,1057,125,1090,120,1090,120,1057"/>
-<area shape="rect" id="Node000003" href="$db/df4/classTerraria_1_1Graphics_1_1Shaders_1_1ShaderData.html" title=" " alt="" coords="15,5,230,229"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,243,125,277,120,277,120,243"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="34,1061,251,1231"/>
+<area shape="rect" id="Node000002" href="$d8/dbb/classTerraria_1_1Graphics_1_1Shaders_1_1ScreenShaderData.html" title=" " alt="" coords="5,277,280,1013"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,1027,145,1061,140,1061,140,1027"/>
+<area shape="rect" id="Node000003" href="$db/df4/classTerraria_1_1Graphics_1_1Shaders_1_1ShaderData.html" title=" " alt="" coords="35,5,250,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,243,145,277,140,277,140,243"/>
 </map>

@@ -13,6 +13,7 @@ var classTerraria_1_1GameContent_1_1Creative_1_1ItemsSacrificedUnlocksTracker =
     [ "TryGetSacrificeNumbers", "d4/d7b/classTerraria_1_1GameContent_1_1Creative_1_1ItemsSacrificedUnlocksTracker_a1f105520b75704678aca9657d07385a4.html#a1f105520b75704678aca9657d07385a4", null ],
     [ "ValidateWorld", "d4/d7b/classTerraria_1_1GameContent_1_1Creative_1_1ItemsSacrificedUnlocksTracker_a01642e6b3fbaa3a683d65c255ba769d0.html#a01642e6b3fbaa3a683d65c255ba769d0", null ],
     [ "_sacrificeCountByItemPersistentId", "d4/d7b/classTerraria_1_1GameContent_1_1Creative_1_1ItemsSacrificedUnlocksTracker_a0f568f302f6f5c922b432746ef80f757.html#a0f568f302f6f5c922b432746ef80f757", null ],
+    [ "k__BackingField", "d4/d7b/classTerraria_1_1GameContent_1_1Creative_1_1ItemsSacrificedUnlocksTracker_ae2890c378551142c2684e968eb355cd5.html#ae2890c378551142c2684e968eb355cd5", null ],
     [ "POSITIVE_SACRIFICE_COUNT_CAP", "d4/d7b/classTerraria_1_1GameContent_1_1Creative_1_1ItemsSacrificedUnlocksTracker_a983363be0c8c211cc17c57d8afb98abc.html#a983363be0c8c211cc17c57d8afb98abc", null ],
     [ "SacrificesCountByItemIdCache", "d4/d7b/classTerraria_1_1GameContent_1_1Creative_1_1ItemsSacrificedUnlocksTracker_a0c0c7cbc0ef6fd6814e80a0675a45b23.html#a0c0c7cbc0ef6fd6814e80a0675a45b23", null ],
     [ "LastEditId", "d4/d7b/classTerraria_1_1GameContent_1_1Creative_1_1ItemsSacrificedUnlocksTracker_ac135577cde0a02e5ad9e27f1839b190a.html#ac135577cde0a02e5ad9e27f1839b190a", null ]

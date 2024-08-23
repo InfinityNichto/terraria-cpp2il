@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Events_1_1BirthdayParty =
 [
     [ "BirthdayParty", "df/db4/classTerraria_1_1GameContent_1_1Events_1_1BirthdayParty_a7de09b2db42277928dd054ec3d6f39b3.html#a7de09b2db42277928dd054ec3d6f39b3", null ],
+    [ "BirthdayParty", "df/db4/classTerraria_1_1GameContent_1_1Events_1_1BirthdayParty_a5cf6494b6dc5c6d1e3daa178becfc614.html#a5cf6494b6dc5c6d1e3daa178becfc614", null ],
     [ "CanNPCParty", "df/db4/classTerraria_1_1GameContent_1_1Events_1_1BirthdayParty_a4f14aab3b39c224df7f99c9c6cbe39b7.html#a4f14aab3b39c224df7f99c9c6cbe39b7", null ],
     [ "CheckForAchievement", "df/db4/classTerraria_1_1GameContent_1_1Events_1_1BirthdayParty_aaf08382216f4669d5cc9b7a4e3024a11.html#aaf08382216f4669d5cc9b7a4e3024a11", null ],
     [ "CheckMorning", "df/db4/classTerraria_1_1GameContent_1_1Events_1_1BirthdayParty_abe0ddfd1daf6f1f0d2bc0958d64d00d9.html#abe0ddfd1daf6f1f0d2bc0958d64d00d9", null ],

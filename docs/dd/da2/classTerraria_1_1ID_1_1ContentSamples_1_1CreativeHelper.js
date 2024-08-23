@@ -62,7 +62,8 @@ var classTerraria_1_1ID_1_1ContentSamples_1_1CreativeHelper =
       [ "Material", "dd/da2/classTerraria_1_1ID_1_1ContentSamples_1_1CreativeHelper_a47eff9d3ad0193efb98965a290e64ba9.html#a47eff9d3ad0193efb98965a290e64ba9ad92a8333dd3ccb895cc65f7455b71206", null ],
       [ "EverythingElse", "dd/da2/classTerraria_1_1ID_1_1ContentSamples_1_1CreativeHelper_a47eff9d3ad0193efb98965a290e64ba9.html#a47eff9d3ad0193efb98965a290e64ba9ad3f1ce7f371f38a800952f9764bf80fe", null ]
     ] ],
-    [ "GetItemGroup", "dd/da2/classTerraria_1_1ID_1_1ContentSamples_1_1CreativeHelper_aeda3ba27a7e3723a51c21cb7e5313a52.html#aeda3ba27a7e3723a51c21cb7e5313a52", null ],
+    [ "CreativeHelper", "dd/da2/classTerraria_1_1ID_1_1ContentSamples_1_1CreativeHelper_a1ddbd2dfc2b3f6ede3430b00561ee0d0.html#a1ddbd2dfc2b3f6ede3430b00561ee0d0", null ],
+    [ "GetItemGroup", "dd/da2/classTerraria_1_1ID_1_1ContentSamples_1_1CreativeHelper_a1fa473f5cab762c3054c95f242fda0b1.html#a1fa473f5cab762c3054c95f242fda0b1", null ],
     [ "SetCreativeMenuOrder", "dd/da2/classTerraria_1_1ID_1_1ContentSamples_1_1CreativeHelper_a21105f72ae2a59a394bf5972e5eb6fdb.html#a21105f72ae2a59a394bf5972e5eb6fdb", null ],
     [ "ShouldRemoveFromList", "dd/da2/classTerraria_1_1ID_1_1ContentSamples_1_1CreativeHelper_a7792b83ec1c86f4846e8ddedb3393877.html#a7792b83ec1c86f4846e8ddedb3393877", null ],
     [ "_manualBossSpawnItemsOrder", "dd/da2/classTerraria_1_1ID_1_1ContentSamples_1_1CreativeHelper_a63e10ac63bdc872e763c416d1d2ac423.html#a63e10ac63bdc872e763c416d1d2ac423", null ],

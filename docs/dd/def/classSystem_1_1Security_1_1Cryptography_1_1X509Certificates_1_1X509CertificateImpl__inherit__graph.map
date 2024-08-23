@@ -1,0 +1,11 @@
+<map id="System.Security.Cryptography.X509Certificates.X509CertificateImpl" name="System.Security.Cryptography.X509Certificates.X509CertificateImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,119,275,721"/>
+<area shape="rect" id="Node000003" href="$da/d7f/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509Certificate2Impl.html" title=" " alt="" coords="17,769,279,1211"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,735,151,769,145,769,145,735"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="55,5,241,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,84,151,118,145,118,145,84"/>
+<area shape="rect" id="Node000004" href="$d7/d66/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509Certificate2ImplUnix.html" title=" " alt="" coords="31,1259,265,1885"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,1224,151,1259,145,1259,145,1224"/>
+<area shape="rect" id="Node000005" href="$dd/db0/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509Certificate2ImplMono.html" title=" " alt="" coords="5,1933,291,2672"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="151,1899,151,1933,145,1933,145,1899"/>
+</map>

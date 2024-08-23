@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1BuffID =
 [
     [ "Sets", "d4/d30/classTerraria_1_1ID_1_1BuffID_1_1Sets.html", "d4/d30/classTerraria_1_1ID_1_1BuffID_1_1Sets" ],
     [ "BuffID", "d0/d3e/classTerraria_1_1ID_1_1BuffID_a9aa2b994f48cd81fb22a771120cbd622.html#a9aa2b994f48cd81fb22a771120cbd622", null ],
+    [ "BuffID", "d0/d3e/classTerraria_1_1ID_1_1BuffID_acdfd80fe2be5c3c26fc53c281784eae0.html#acdfd80fe2be5c3c26fc53c281784eae0", null ],
     [ "AbigailMinion", "d0/d3e/classTerraria_1_1ID_1_1BuffID_a40473fc81da02e66897d1124232fdda8.html#a40473fc81da02e66897d1124232fdda8", null ],
     [ "AmberMinecartLeft", "d0/d3e/classTerraria_1_1ID_1_1BuffID_ab603759b318c4e751cdb9113d66e6b9d.html#ab603759b318c4e751cdb9113d66e6b9d", null ],
     [ "AmberMinecartRight", "d0/d3e/classTerraria_1_1ID_1_1BuffID_ab284258fb58f7e4be8e5d47432dc1dd1.html#ab284258fb58f7e4be8e5d47432dc1dd1", null ],

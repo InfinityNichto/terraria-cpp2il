@@ -1,0 +1,13 @@
+<map id="System.ComponentModel.BooleanConverter" name="System.ComponentModel.BooleanConverter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,859,508,1200"/>
+<area shape="rect" id="Node000002" href="$de/dda/classSystem_1_1ComponentModel_1_1TypeConverter.html" title=" " alt="" coords="100,155,364,789"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,801,334,858,329,859,314,803"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="107,5,158,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,45,57,61,32,75,12,96,8,109,12,123,28,167,47,210,94,292,89,295,42,213,23,169,7,125,3,109,7,93,28,71,54,56,106,40"/>
+<area shape="rect" id="Node000005" href="$de/dda/classSystem_1_1ComponentModel_1_1TypeConverter.html" title=" " alt="" coords="388,148,652,796"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="159,50,229,93,244,108,259,122,289,131,316,131,344,133,376,146,374,151,343,138,315,137,288,136,256,126,240,112,225,97,157,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="603,5,646,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="604,48,555,67,502,97,490,112,477,126,451,136,428,138,405,140,379,151,377,146,404,135,428,132,450,131,474,122,486,108,499,93,553,62,602,43"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="647,43,685,61,704,75,719,93,723,109,719,125,695,196,663,264,658,262,690,194,714,123,717,109,714,96,700,79,683,65,645,48"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="438,797,426,844,421,842,433,796"/>
+</map>

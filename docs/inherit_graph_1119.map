@@ -1,3 +1,39 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d7/dd5/classTerraria_1_1Map_1_1MapHelper_1_1RunLengthEncodingCompressionProfile.html" title=" " alt="" coords="5,5,256,45"/>
+<area shape="rect" id="Node000000" href="$dd/d58/interfaceSystem_1_1Collections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="18,265,226,305"/>
+<area shape="rect" id="Node000001" href="$d5/df2/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiarySortStep.html" title=" " alt="" coords="287,265,512,305"/>
+<area shape="poly" id="edge3272_Node000000_Node000001" title=" " alt="" coords="240,283,287,283,287,288,240,288"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1Alphabetical.html" title=" " alt="" coords="566,5,791,45"/>
+<area shape="poly" id="edge3283_Node000000_Node000002" title=" " alt="" coords="164,255,237,207,261,190,285,174,371,132,459,96,610,43,612,48,461,101,373,137,288,178,264,194,240,212,167,260"/>
+<area shape="rect" id="Node000004" href="$dd/df3/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByBestiaryRarity.html" title=" " alt="" coords="566,107,791,147"/>
+<area shape="poly" id="edge3284_Node000000_Node000004" title=" " alt="" coords="184,258,286,221,443,178,584,144,585,149,444,183,287,227,186,263"/>
+<area shape="rect" id="Node000005" href="$d6/df3/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByBestiarySortingId.html" title=" " alt="" coords="560,201,797,241"/>
+<area shape="poly" id="edge3285_Node000000_Node000005" title=" " alt="" coords="229,260,286,251,428,235,560,225,560,230,429,240,287,256,230,265"/>
+<area shape="rect" id="Node000006" href="$dc/d1e/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByNetId.html" title=" " alt="" coords="566,424,791,464"/>
+<area shape="poly" id="edge3286_Node000000_Node000006" title=" " alt="" coords="177,309,230,332,287,353,432,393,567,422,565,427,431,399,286,359,228,337,175,314"/>
+<area shape="rect" id="Node000007" href="$d9/daf/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByStat.html" title=" " alt="" coords="566,265,791,305"/>
+<area shape="poly" id="edge3287_Node000000_Node000007" title=" " alt="" coords="223,305,287,315,399,322,512,315,590,303,591,308,512,320,399,327,286,320,223,311"/>
+<area shape="rect" id="Node000012" href="$dc/dcf/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByUnlockState.html" title=" " alt="" coords="566,329,791,369"/>
+<area shape="poly" id="edge3288_Node000000_Node000012" title=" " alt="" coords="197,307,287,328,432,343,566,348,566,353,432,349,286,333,195,312"/>
+<area shape="poly" id="edge3273_Node000001_Node000002" title=" " alt="" coords="420,252,478,176,516,133,558,93,596,65,634,43,637,48,599,70,562,97,520,136,482,179,424,256"/>
+<area shape="poly" id="edge3274_Node000001_Node000004" title=" " alt="" coords="444,256,559,187,637,144,640,149,561,192,446,260"/>
+<area shape="poly" id="edge3275_Node000001_Node000005" title=" " alt="" coords="500,260,590,239,591,244,501,265"/>
+<area shape="poly" id="edge3276_Node000001_Node000006" title=" " alt="" coords="446,311,561,379,640,422,637,426,559,384,444,315"/>
+<area shape="poly" id="edge3277_Node000001_Node000007" title=" " alt="" coords="525,283,566,283,566,288,525,288"/>
+<area shape="poly" id="edge3282_Node000001_Node000012" title=" " alt="" coords="501,306,591,327,590,332,500,311"/>
+<area shape="rect" id="Node000008" href="$de/df9/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByAttack.html" title=" " alt="" coords="845,169,1071,209"/>
+<area shape="poly" id="edge3278_Node000007_Node000008" title=" " alt="" coords="778,258,796,251,820,235,844,219,874,207,876,212,847,224,823,240,799,256,780,263"/>
+<area shape="rect" id="Node000009" href="$d6/d0a/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByCoins.html" title=" " alt="" coords="845,233,1071,273"/>
+<area shape="poly" id="edge3279_Node000007_Node000009" title=" " alt="" coords="804,268,845,264,845,269,805,274"/>
+<area shape="rect" id="Node000010" href="$d5/d51/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByDefense.html" title=" " alt="" coords="845,297,1071,337"/>
+<area shape="poly" id="edge3280_Node000007_Node000010" title=" " alt="" coords="805,297,845,302,845,307,804,302"/>
+<area shape="rect" id="Node000011" href="$d5/dac/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByHP.html" title=" " alt="" coords="845,361,1071,401"/>
+<area shape="poly" id="edge3281_Node000007_Node000011" title=" " alt="" coords="780,307,799,315,823,331,847,347,876,359,874,364,844,352,820,335,796,320,778,312"/>
+<area shape="rect" id="Node000003" href="$d0/db8/interfaceTerraria_1_1DataStructures_1_1IEntrySortStep.html" title=" " alt="" coords="5,157,239,197"/>
+<area shape="poly" id="edge3289_Node000003_Node000001" title=" " alt="" coords="188,200,348,263,346,268,186,205"/>
+<area shape="poly" id="edge3290_Node000003_Node000002" title=" " alt="" coords="178,149,286,108,431,70,565,42,566,47,432,75,287,113,180,154"/>
+<area shape="poly" id="edge3291_Node000003_Node000004" title=" " alt="" coords="201,151,286,133,432,121,566,120,566,125,432,127,287,139,202,156"/>
+<area shape="poly" id="edge3292_Node000003_Node000005" title=" " alt="" coords="252,154,379,146,446,148,513,156,580,175,638,199,636,204,578,180,511,161,446,153,379,151,253,159"/>
+<area shape="poly" id="edge3293_Node000003_Node000006" title=" " alt="" coords="180,202,212,224,241,252,252,268,258,284,262,314,268,342,276,356,288,369,319,390,352,407,424,431,497,444,566,448,566,453,497,449,423,436,350,412,316,395,285,373,271,359,263,344,257,315,253,286,247,271,237,255,209,228,177,207"/>
+<area shape="poly" id="edge3294_Node000003_Node000007" title=" " alt="" coords="240,197,575,263,574,268,239,203"/>
+<area shape="poly" id="edge3295_Node000003_Node000012" title=" " alt="" coords="174,202,208,225,241,251,255,270,263,287,272,302,288,315,321,331,355,343,428,357,500,363,566,361,566,366,500,368,427,363,354,348,319,336,285,320,268,305,258,289,250,273,237,255,204,229,171,207"/>
 </map>

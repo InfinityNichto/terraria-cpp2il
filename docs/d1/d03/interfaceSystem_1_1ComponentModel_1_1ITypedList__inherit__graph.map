@@ -1,0 +1,13 @@
+<map id="System.ComponentModel.ITypedList" name="System.ComponentModel.ITypedList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="423,5,702,149"/>
+<area shape="rect" id="Node000002" href="$df/d2f/classNewtonsoft_1_1Json_1_1Linq_1_1JContainer.html" title=" " alt="" coords="414,197,711,2345"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="565,163,565,197,560,197,560,163"/>
+<area shape="rect" id="Node000003" href="$d4/d0b/classNewtonsoft_1_1Json_1_1Linq_1_1JArray.html" title=" " alt="" coords="5,3035,261,4061"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,1804,340,2096,276,2394,248,2554,223,2717,183,3035,178,3034,218,2716,243,2553,271,2393,335,2094,408,1802"/>
+<area shape="rect" id="Node000004" href="$d3/dc9/classNewtonsoft_1_1Json_1_1Linq_1_1JConstructor.html" title=" " alt="" coords="285,3213,541,3883"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="494,2359,438,3213,433,3213,489,2359"/>
+<area shape="rect" id="Node000005" href="$d8/d0c/classNewtonsoft_1_1Json_1_1Linq_1_1JObject.html" title=" " alt="" coords="565,2393,859,4703"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="637,2359,639,2393,634,2393,631,2359"/>
+<area shape="rect" id="Node000006" href="$d0/d7c/classNewtonsoft_1_1Json_1_1Linq_1_1JProperty.html" title=" " alt="" coords="883,3124,1139,3972"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="718,1766,801,2074,840,2234,873,2393,906,2577,934,2766,977,3124,972,3124,929,2767,901,2578,868,2394,834,2236,796,2075,713,1767"/>
+</map>

@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1NPCHeadID =
 [
     [ "Sets", "d9/df6/classTerraria_1_1ID_1_1NPCHeadID_1_1Sets.html", "d9/df6/classTerraria_1_1ID_1_1NPCHeadID_1_1Sets" ],
     [ "NPCHeadID", "db/de1/classTerraria_1_1ID_1_1NPCHeadID_ada7fc44b679fccba10da5959ad3ba4b5.html#ada7fc44b679fccba10da5959ad3ba4b5", null ],
+    [ "NPCHeadID", "db/de1/classTerraria_1_1ID_1_1NPCHeadID_a97a813127d150d3b745891147b35b841.html#a97a813127d150d3b745891147b35b841", null ],
     [ "Angler", "db/de1/classTerraria_1_1ID_1_1NPCHeadID_a0b827212b8a52ad408fbd6befe2100cd.html#a0b827212b8a52ad408fbd6befe2100cd", null ],
     [ "AnglerShimmered", "db/de1/classTerraria_1_1ID_1_1NPCHeadID_ad2cf465a1cfd5584e6636ffee7685f93.html#ad2cf465a1cfd5584e6636ffee7685f93", null ],
     [ "ArmsDealer", "db/de1/classTerraria_1_1ID_1_1NPCHeadID_a2d10a075dfd6ac6658f65d414ecdb283.html#a2d10a075dfd6ac6658f65d414ecdb283", null ],

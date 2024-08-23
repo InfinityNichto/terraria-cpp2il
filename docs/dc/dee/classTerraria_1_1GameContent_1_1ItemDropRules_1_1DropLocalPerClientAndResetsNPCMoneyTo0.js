@@ -10,5 +10,6 @@ var classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropLocalPerClientAndResets
     [ "chanceNumerator", "dc/dee/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropLocalPerClientAndResetsNPCMoneyTo0.html#a33c9332c4f3aa2325947a78c7c4d8bf0", null ],
     [ "condition", "dc/dee/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropLocalPerClientAndResetsNPCMoneyTo0_ad12b9af0536b3f4667563b8955f0290e.html#ad12b9af0536b3f4667563b8955f0290e", null ],
     [ "itemId", "dc/dee/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropLocalPerClientAndResetsNPCMoneyTo0.html#a972e202bcce578a569265347eb565e42", null ],
+    [ "k__BackingField", "dc/dee/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropLocalPerClientAndResetsNPCMoneyTo0.html#a9f9173698194a8ab2f2fa569948dd842", null ],
     [ "ChainedRules", "dc/dee/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropLocalPerClientAndResetsNPCMoneyTo0.html#af132204fe3a07a5f33b22533ef382c86", null ]
 ];

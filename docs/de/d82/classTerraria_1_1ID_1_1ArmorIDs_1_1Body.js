@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Body =
 [
     [ "Sets", "d8/d57/classTerraria_1_1ID_1_1ArmorIDs_1_1Body_1_1Sets.html", "d8/d57/classTerraria_1_1ID_1_1ArmorIDs_1_1Body_1_1Sets" ],
     [ "Body", "de/d82/classTerraria_1_1ID_1_1ArmorIDs_1_1Body_af4c95c1a874759c30daec9f7b87667c1.html#af4c95c1a874759c30daec9f7b87667c1", null ],
+    [ "Body", "de/d82/classTerraria_1_1ID_1_1ArmorIDs_1_1Body_aa4203fd07d185e80b52214c2054dfc4f.html#aa4203fd07d185e80b52214c2054dfc4f", null ],
     [ "AaronsBreastplate", "de/d82/classTerraria_1_1ID_1_1ArmorIDs_1_1Body_a113e29ce8ec1b5c27335391c95064913.html#a113e29ce8ec1b5c27335391c95064913", null ],
     [ "AdamantiteBreastplate", "de/d82/classTerraria_1_1ID_1_1ArmorIDs_1_1Body_aeb62bf2072197b783afb382ab4937137.html#aeb62bf2072197b783afb382ab4937137", null ],
     [ "AmberRobe", "de/d82/classTerraria_1_1ID_1_1ArmorIDs_1_1Body_aed1acdc7fb41e28ce73623aac1866d5a.html#aed1acdc7fb41e28ce73623aac1866d5a", null ],

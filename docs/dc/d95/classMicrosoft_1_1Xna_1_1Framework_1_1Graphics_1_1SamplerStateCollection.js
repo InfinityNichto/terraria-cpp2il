@@ -13,5 +13,5 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SamplerStateCollection =
     [ "_samplerStateLinearWrap", "dc/d95/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SamplerStateCollection_adde1e33a3a2baa3c87f7382298c462a2.html#adde1e33a3a2baa3c87f7382298c462a2", null ],
     [ "_samplerStatePointClamp", "dc/d95/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SamplerStateCollection_a1c352888c999a7b388aaa85685f93eea.html#a1c352888c999a7b388aaa85685f93eea", null ],
     [ "_samplerStatePointWrap", "dc/d95/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SamplerStateCollection_ab063722ec1f4831536929123db2a8a85.html#ab063722ec1f4831536929123db2a8a85", null ],
-    [ "Item", "dc/d95/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SamplerStateCollection_a0f37cb64b4a86015a472244803a0907c.html#a0f37cb64b4a86015a472244803a0907c", null ]
+    [ "this[int index]", "dc/d95/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SamplerStateCollection_aad6809672a5c1255ab9770b0bde48695.html#aad6809672a5c1255ab9770b0bde48695", null ]
 ];

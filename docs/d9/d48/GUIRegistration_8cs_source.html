@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.10.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>terraria-cpp2il: source/GUIRegistration.cs Source File</title>
+<title>terraria-cpp2il: source/Assembly-CSharp/GUIRegistration.cs Source File</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -31,7 +31,7 @@
   <td id="projectalign">
    <div id="projectname">terraria-cpp2il<span id="projectnumber">&#160;v1.4.4.9</span>
    </div>
-   <div id="projectbrief">Contains cpp2il injection tokens, adress, etc.</div>
+   <div id="projectbrief">See the source code of methods for useful infos (as attributes). Note: all method bodies are blank; you won&#39;t find any logic code.</div>
   </td>
  </tr>
  </tbody>
@@ -101,30 +101,38 @@ $(function(){initNavTree('d9/d48/GUIRegistration_8cs_source.html','../../'); ini
   <div class="headertitle"><div class="title">GUIRegistration.cs</div></div>
 </div><!--header-->
 <div class="contents">
-<a href="../../d9/d48/GUIRegistration_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>;</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span> </div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span>[<a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>.Token(Token = <span class="stringliteral">&quot;0x20000FC&quot;</span>)]</div>
-<div class="foldopen" id="foldopen00004" data-start="{" data-end="};">
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno"><a class="line" href="../../d6/d01/classGUIRegistration.html">    4</a></span><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">class </span><a class="code hl_class" href="../../d6/d01/classGUIRegistration.html">GUIRegistration</a></div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>{</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>    [<a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>.Token(Token = <span class="stringliteral">&quot;0x600093D&quot;</span>)]</div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    [<a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>.Address(RVA = <span class="stringliteral">&quot;0x1152C34&quot;</span>, Offset = <span class="stringliteral">&quot;0x1152C34&quot;</span>, VA = <span class="stringliteral">&quot;0x1152C34&quot;</span>)]</div>
-<div class="foldopen" id="foldopen00008" data-start="{" data-end="}">
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno"><a class="line" href="../../d6/d01/classGUIRegistration_ae37956146f9c9bc6bf83ee14944b9364.html#ae37956146f9c9bc6bf83ee14944b9364">    8</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code hl_function" href="../../d6/d01/classGUIRegistration_ae37956146f9c9bc6bf83ee14944b9364.html#ae37956146f9c9bc6bf83ee14944b9364">SetupUIObjects</a>()</div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>    {</div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>    }</div>
+<a href="../../d9/d48/GUIRegistration_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d6/d27/namespaceSystem.html">System</a>;</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d3/de2/namespaceCpp2ILInjected.html">Cpp2ILInjected</a>;</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d7/db2/namespaceCpp2ILInjected_1_1CallAnalysis.html">Cpp2ILInjected.CallAnalysis</a>;</div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="comment">// Token: 0x020000FB RID: 251</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>[global::Cpp2ILInjected.Token(Token = <span class="stringliteral">&quot;0x2000169&quot;</span>)]</div>
+<div class="foldopen" id="foldopen00007" data-start="{" data-end="};">
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno"><a class="line" href="../../d6/d01/classGUIRegistration.html">    7</a></span><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">class </span><a class="code hl_class" href="../../d6/d01/classGUIRegistration.html">GUIRegistration</a></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>{</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>    <span class="comment">// Token: 0x0600092B RID: 2347 RVA: 0x000236C6 File Offset: 0x000218C6</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>    [global::Cpp2ILInjected.Token(Token = <span class="stringliteral">&quot;0x6000A2B&quot;</span>)]</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    [global::Cpp2ILInjected.Address(RVA = <span class="stringliteral">&quot;0x981288&quot;</span>, Offset = <span class="stringliteral">&quot;0x981288&quot;</span>, Length = <span class="stringliteral">&quot;0x4&quot;</span>)]</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    [global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]</div>
+<div class="foldopen" id="foldopen00013" data-start="{" data-end="}">
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno"><a class="line" href="../../d6/d01/classGUIRegistration_ae37956146f9c9bc6bf83ee14944b9364.html#ae37956146f9c9bc6bf83ee14944b9364">   13</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code hl_function" href="../../d6/d01/classGUIRegistration_ae37956146f9c9bc6bf83ee14944b9364.html#ae37956146f9c9bc6bf83ee14944b9364">SetupUIObjects</a>()</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    {</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>        <span class="keywordflow">throw</span> <span class="keyword">null</span>;</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    }</div>
 </div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>}</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>}</div>
 </div>
-<div class="ttc" id="aclassGUIRegistration_ae37956146f9c9bc6bf83ee14944b9364_html_ae37956146f9c9bc6bf83ee14944b9364"><div class="ttname"><a href="../../d6/d01/classGUIRegistration_ae37956146f9c9bc6bf83ee14944b9364.html#ae37956146f9c9bc6bf83ee14944b9364">GUIRegistration.SetupUIObjects</a></div><div class="ttdeci">static void SetupUIObjects()</div><div class="ttdef"><b>Definition</b> <a href="#l00008">GUIRegistration.cs:8</a></div></div>
-<div class="ttc" id="aclassGUIRegistration_html"><div class="ttname"><a href="../../d6/d01/classGUIRegistration.html">GUIRegistration</a></div><div class="ttdef"><b>Definition</b> <a href="#l00004">GUIRegistration.cs:5</a></div></div>
-<div class="ttc" id="anamespaceCpp2IlInjected_html"><div class="ttname"><a href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a></div><div class="ttdef"><b>Definition</b> <a href="../../d0/d1c/AddressAttribute_8cs_source.html#l00003">AddressAttribute.cs:3</a></div></div>
+<div class="ttc" id="aclassGUIRegistration_ae37956146f9c9bc6bf83ee14944b9364_html_ae37956146f9c9bc6bf83ee14944b9364"><div class="ttname"><a href="../../d6/d01/classGUIRegistration_ae37956146f9c9bc6bf83ee14944b9364.html#ae37956146f9c9bc6bf83ee14944b9364">GUIRegistration.SetupUIObjects</a></div><div class="ttdeci">static void SetupUIObjects()</div><div class="ttdef"><b>Definition</b> <a href="#l00013">GUIRegistration.cs:13</a></div></div>
+<div class="ttc" id="aclassGUIRegistration_html"><div class="ttname"><a href="../../d6/d01/classGUIRegistration.html">GUIRegistration</a></div><div class="ttdef"><b>Definition</b> <a href="#l00007">GUIRegistration.cs:8</a></div></div>
+<div class="ttc" id="anamespaceCpp2ILInjected_1_1CallAnalysis_html"><div class="ttname"><a href="../../d7/db2/namespaceCpp2ILInjected_1_1CallAnalysis.html">Cpp2ILInjected.CallAnalysis</a></div><div class="ttdef"><b>Definition</b> <a href="../../d1/dba/____Generated_2Cpp2ILInjected_2CallAnalysis_2CallAnalysisNotSupportedAttribute_8cs_source.html#l00003">CallAnalysisNotSupportedAttribute.cs:4</a></div></div>
+<div class="ttc" id="anamespaceCpp2ILInjected_html"><div class="ttname"><a href="../../d3/de2/namespaceCpp2ILInjected.html">Cpp2ILInjected</a></div><div class="ttdef"><b>Definition</b> <a href="../../d6/d0a/____Generated_2Cpp2ILInjected_2AddressAttribute_8cs_source.html#l00003">AddressAttribute.cs:4</a></div></div>
+<div class="ttc" id="anamespaceSystem_html"><div class="ttname"><a href="../../d6/d27/namespaceSystem.html">System</a></div><div class="ttdef"><b>Definition</b> <a href="../../d4/d7b/____Il2CppComDelegate_8cs_source.html#l00005">__Il2CppComDelegate.cs:6</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html">source</a></li><li class="navelem"><a class="el" href="../../d9/d48/GUIRegistration_8cs.html">GUIRegistration.cs</a></li>
+    <li class="navelem"><a class="el" href="../../dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html">source</a></li><li class="navelem"><a class="el" href="../../dir_878d4b4f67432d41e0421d9947fe4045.html">Assembly-CSharp</a></li><li class="navelem"><a class="el" href="../../d9/d48/GUIRegistration_8cs.html">GUIRegistration.cs</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0 </li>
   </ul>
 </div>

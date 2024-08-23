@@ -1,5 +1,6 @@
 var classTerraria_1_1Program =
 [
+    [ "Program", "d9/daf/classTerraria_1_1Program_a2ece6861fc4edbe7f26c222d168b9553.html#a2ece6861fc4edbe7f26c222d168b9553", null ],
     [ "DisplayException", "d9/daf/classTerraria_1_1Program_afcb7f6498f275936d3726819c95c6798.html#afcb7f6498f275936d3726819c95c6798", null ],
     [ "ForceJITOnAssembly", "d9/daf/classTerraria_1_1Program_a58b7e9a70e6080c747712716a663ee1d.html#a58b7e9a70e6080c747712716a663ee1d", null ],
     [ "ForceLoadAssembly", "d9/daf/classTerraria_1_1Program_a1aefc12b0c587eaf571769eeac16310e.html#a1aefc12b0c587eaf571769eeac16310e", null ],

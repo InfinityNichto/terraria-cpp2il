@@ -20,6 +20,8 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1RandomizedFrameParticle =
     [ "FadeInNormalizedTime", "df/dd2/classTerraria_1_1Graphics_1_1Renderers_1_1RandomizedFrameParticle_a9e13a7b048b8b858d5635e9954fbfa8d.html#a9e13a7b048b8b858d5635e9954fbfa8d", null ],
     [ "FadeOutNormalizedTime", "df/dd2/classTerraria_1_1Graphics_1_1Renderers_1_1RandomizedFrameParticle_a5f9e29174317f75fc0e78f1856df3dc2.html#a5f9e29174317f75fc0e78f1856df3dc2", null ],
     [ "GameFramesPerAnimationFrame", "df/dd2/classTerraria_1_1Graphics_1_1Renderers_1_1RandomizedFrameParticle_aff1db2f41c315869500c01d02af79d31.html#aff1db2f41c315869500c01d02af79d31", null ],
+    [ "k__BackingField", "df/dd2/classTerraria_1_1Graphics_1_1Renderers_1_1RandomizedFrameParticle.html#ac8614fc67db36e9087e4b4a3f0d59240", null ],
+    [ "k__BackingField", "df/dd2/classTerraria_1_1Graphics_1_1Renderers_1_1RandomizedFrameParticle.html#ad8ca4ee16e33f953b1d92f556adb8d85", null ],
     [ "LocalPosition", "df/dd2/classTerraria_1_1Graphics_1_1Renderers_1_1RandomizedFrameParticle.html#a0de37b58f2ae916a5089fd67d6c86189", null ],
     [ "Rotation", "df/dd2/classTerraria_1_1Graphics_1_1Renderers_1_1RandomizedFrameParticle.html#a742071d057f2d77d7cad514d998c1f00", null ],
     [ "RotationAcceleration", "df/dd2/classTerraria_1_1Graphics_1_1Renderers_1_1RandomizedFrameParticle.html#a0de4f3ffb5dcaf54a9afb970b4a29139", null ],

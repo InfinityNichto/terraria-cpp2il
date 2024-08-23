@@ -1,0 +1,18 @@
+<map id="UnityEngine.AsyncOperation" name="UnityEngine.AsyncOperation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,1235,448,1375"/>
+<area shape="rect" id="Node000002" href="$de/dfc/classUnityEngine_1_1YieldInstruction.html" title=" " alt="" coords="5,627,145,693"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,706,72,797,80,917,90,983,106,1048,129,1111,159,1171,188,1207,224,1239,220,1243,184,1211,154,1173,124,1114,101,1050,85,984,75,918,67,798,69,706"/>
+<area shape="rect" id="Node000003" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="169,148,501,1172"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,1172,338,1218,333,1218,333,1172"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="504,579,521,612,528,660,524,698,513,727,508,726,519,697,523,660,516,613,499,581"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="31,5,221,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="146,97,172,172,167,174,141,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="245,5,425,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="338,99,338,148,333,148,333,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="450,13,613,78"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="524,79,506,133,501,132,519,77"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="595,620,787,700"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="696,700,696,792,691,851,683,916,669,983,649,1050,621,1115,584,1174,559,1202,529,1226,464,1263,462,1259,526,1222,555,1198,580,1170,616,1112,644,1048,664,982,678,915,686,851,690,792,691,700"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="664,13,719,78"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="694,92,694,620,689,620,689,92"/>
+</map>

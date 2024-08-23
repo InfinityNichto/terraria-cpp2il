@@ -16,6 +16,8 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1FlameParticle =
     [ "_timeTolive", "d7/dc8/classTerraria_1_1Graphics_1_1Renderers_1_1FlameParticle_a8a1ef17517d99bb20e7f25816c256cd1.html#a8a1ef17517d99bb20e7f25816c256cd1", null ],
     [ "AccelerationPerFrame", "d7/dc8/classTerraria_1_1Graphics_1_1Renderers_1_1FlameParticle.html#a5cc80500cc837f8ae8a33401f9aa223f", null ],
     [ "FadeOutNormalizedTime", "d7/dc8/classTerraria_1_1Graphics_1_1Renderers_1_1FlameParticle_ab2e8d218b7f646a5ea5e51b8073230ca.html#ab2e8d218b7f646a5ea5e51b8073230ca", null ],
+    [ "k__BackingField", "d7/dc8/classTerraria_1_1Graphics_1_1Renderers_1_1FlameParticle.html#ac8614fc67db36e9087e4b4a3f0d59240", null ],
+    [ "k__BackingField", "d7/dc8/classTerraria_1_1Graphics_1_1Renderers_1_1FlameParticle.html#ad8ca4ee16e33f953b1d92f556adb8d85", null ],
     [ "LocalPosition", "d7/dc8/classTerraria_1_1Graphics_1_1Renderers_1_1FlameParticle.html#a0de37b58f2ae916a5089fd67d6c86189", null ],
     [ "Rotation", "d7/dc8/classTerraria_1_1Graphics_1_1Renderers_1_1FlameParticle.html#a742071d057f2d77d7cad514d998c1f00", null ],
     [ "RotationAcceleration", "d7/dc8/classTerraria_1_1Graphics_1_1Renderers_1_1FlameParticle.html#a0de4f3ffb5dcaf54a9afb970b4a29139", null ],

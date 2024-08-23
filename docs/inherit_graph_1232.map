@@ -1,25 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$dc/d25/interfaceTerraria_1_1UI_1_1Chat_1_1ITagHandler.html" title=" " alt="" coords="5,260,209,285"/>
-<area shape="rect" id="Node000001" href="$d5/d73/classControlsAxisTagHandler.html" title=" " alt="" coords="276,5,453,31"/>
-<area shape="poly" id="edge1157_Node000000_Node000001" title=" " alt="" coords="115,246,134,200,164,144,204,88,229,62,256,40,277,28,280,33,259,44,232,66,209,91,169,147,139,203,120,248"/>
-<area shape="rect" id="Node000002" href="$d9/df3/classControlsButtonTagHandler.html" title=" " alt="" coords="269,55,461,80"/>
-<area shape="poly" id="edge1158_Node000000_Node000002" title=" " alt="" coords="120,246,141,211,172,168,210,125,256,89,280,78,282,82,259,94,214,129,176,171,146,214,124,249"/>
-<area shape="rect" id="Node000003" href="$df/d5b/classControlsKeyboardTagHandler.html" title=" " alt="" coords="259,104,470,129"/>
-<area shape="poly" id="edge1159_Node000000_Node000003" title=" " alt="" coords="126,248,181,192,217,163,256,138,285,127,287,132,259,143,220,167,184,196,130,251"/>
-<area shape="rect" id="Node000004" href="$d1/dc9/classControlsTouchAxisHandler.html" title=" " alt="" coords="269,153,461,179"/>
-<area shape="poly" id="edge1160_Node000000_Node000004" title=" " alt="" coords="138,250,192,218,256,188,293,176,295,181,258,192,194,223,140,255"/>
-<area shape="rect" id="Node000005" href="$d2/dd1/classControlsTouchTagHandler.html" title=" " alt="" coords="271,203,458,228"/>
-<area shape="poly" id="edge1161_Node000000_Node000005" title=" " alt="" coords="178,254,306,225,308,231,179,260"/>
-<area shape="rect" id="Node000006" href="$dc/d11/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1AchievementTagHandler.html" title=" " alt="" coords="257,253,472,293"/>
-<area shape="poly" id="edge1162_Node000000_Node000006" title=" " alt="" coords="223,270,257,270,257,275,223,275"/>
-<area shape="rect" id="Node000007" href="$d2/d75/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ColorTagHandler.html" title=" " alt="" coords="271,317,458,357"/>
-<area shape="poly" id="edge1163_Node000000_Node000007" title=" " alt="" coords="173,286,284,314,283,319,172,291"/>
-<area shape="rect" id="Node000008" href="$dc/d17/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler.html" title=" " alt="" coords="271,381,458,421"/>
-<area shape="poly" id="edge1164_Node000000_Node000008" title=" " alt="" coords="137,291,192,329,258,366,288,378,286,383,256,371,189,334,134,296"/>
-<area shape="rect" id="Node000009" href="$de/dd7/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler.html" title=" " alt="" coords="271,445,458,485"/>
-<area shape="poly" id="edge1165_Node000000_Node000009" title=" " alt="" coords="127,295,180,362,217,399,259,430,282,442,280,447,256,435,214,403,176,366,123,298"/>
-<area shape="rect" id="Node000010" href="$d7/d98/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1NameTagHandler.html" title=" " alt="" coords="271,509,458,549"/>
-<area shape="poly" id="edge1166_Node000000_Node000010" title=" " alt="" coords="121,297,141,340,171,393,210,448,233,473,259,494,279,506,276,511,256,499,230,477,206,451,166,396,136,343,116,299"/>
-<area shape="rect" id="Node000011" href="$d0/d06/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1PlainTagHandler.html" title=" " alt="" coords="271,573,458,613"/>
-<area shape="poly" id="edge1167_Node000000_Node000011" title=" " alt="" coords="117,298,134,353,162,423,203,496,229,529,259,559,277,570,274,575,256,563,225,533,199,499,157,426,129,355,112,300"/>
+<area shape="rect" id="Node000000" href="$d2/dc4/classSystem_1_1Collections_1_1Generic_1_1List.html" title=" " alt="" coords="5,5,364,75"/>
 </map>

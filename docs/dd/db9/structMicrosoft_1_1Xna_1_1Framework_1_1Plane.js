@@ -12,6 +12,7 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Plane =
     [ "DotNormal", "dd/db9/structMicrosoft_1_1Xna_1_1Framework_1_1Plane_a20cf60eaba09a34ae2f2d36f2dcace77.html#a20cf60eaba09a34ae2f2d36f2dcace77", null ],
     [ "Equals", "dd/db9/structMicrosoft_1_1Xna_1_1Framework_1_1Plane_a50ef9856cb962450dac072ea721300de.html#a50ef9856cb962450dac072ea721300de", null ],
     [ "Equals", "dd/db9/structMicrosoft_1_1Xna_1_1Framework_1_1Plane_a6efe9ae0546c19884600827994dfa1eb.html#a6efe9ae0546c19884600827994dfa1eb", null ],
+    [ "Equals", "dd/db9/structMicrosoft_1_1Xna_1_1Framework_1_1Plane.html#adcb517a2c4a75f107b1b3d704b343c16", null ],
     [ "GetHashCode", "dd/db9/structMicrosoft_1_1Xna_1_1Framework_1_1Plane_a07b051923c6316936133ed0bfbd30aad.html#a07b051923c6316936133ed0bfbd30aad", null ],
     [ "Normalize", "dd/db9/structMicrosoft_1_1Xna_1_1Framework_1_1Plane_a604c43103f71640c96ed7eb945bbe89c.html#a604c43103f71640c96ed7eb945bbe89c", null ],
     [ "Normalize", "dd/db9/structMicrosoft_1_1Xna_1_1Framework_1_1Plane_aa4cba28aa97f6c2ff7b7060621b0c52b.html#aa4cba28aa97f6c2ff7b7060621b0c52b", null ],

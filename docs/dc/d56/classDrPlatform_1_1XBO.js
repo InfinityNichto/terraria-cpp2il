@@ -9,5 +9,7 @@ var classDrPlatform_1_1XBO =
     [ "StartSession", "dc/d56/classDrPlatform_1_1XBO_a263903ccbde9106673ec9cc59d3aaafd.html#a263903ccbde9106673ec9cc59d3aaafd", null ],
     [ "Suspending", "dc/d56/classDrPlatform_1_1XBO_a982b724b71923a544b90ab5fc1d529b3.html#a982b724b71923a544b90ab5fc1d529b3", null ],
     [ "Update", "dc/d56/classDrPlatform_1_1XBO_a23c90d520d6138bcdbc539b4c8737b16.html#a23c90d520d6138bcdbc539b4c8737b16", null ],
-    [ "_setup", "dc/d56/classDrPlatform_1_1XBO_add4f255b6815e8504d71349153f772cb.html#add4f255b6815e8504d71349153f772cb", null ]
+    [ "_setup", "dc/d56/classDrPlatform_1_1XBO_add4f255b6815e8504d71349153f772cb.html#add4f255b6815e8504d71349153f772cb", null ],
+    [ "networkReachability", "dc/d56/classDrPlatform_1_1XBO_ad74f3edf245f4f8b58530bb970639224.html#ad74f3edf245f4f8b58530bb970639224", null ],
+    [ "SCID", "dc/d56/classDrPlatform_1_1XBO_ac003e125641bb77b6f8cea8ff40af291.html#ac003e125641bb77b6f8cea8ff40af291", null ]
 ];

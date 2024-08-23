@@ -23,7 +23,7 @@ var classGUIControllerDresser =
     [ "Item", "d9/df7/classGUIControllerDresser_a55d64124cbc6afc800cc42c6b7550456.html#a55d64124cbc6afc800cc42c6b7550456", null ],
     [ "PageCategory", "d9/df7/classGUIControllerDresser.html#a43062258eedaa09d7f979d563b7c93c6", null ],
     [ "ResearchButton", "d9/df7/classGUIControllerDresser.html#a1272df945b1d0eba45fdae7869900ff6", null ],
-    [ "selectedControl", "d9/df7/classGUIControllerDresser_ac7979a633ef3cb2e49f833d4ea40a8b5.html#ac7979a633ef3cb2e49f833d4ea40a8b5", null ],
+    [ "selectedControl", "d9/df7/classGUIControllerDresser_af65716a3a61de7a065cffbda44d4656b.html#af65716a3a61de7a065cffbda44d4656b", null ],
     [ "SettingCategory", "d9/df7/classGUIControllerDresser.html#aa0e56d44ebf36a2f38d260265a9f4644", null ],
     [ "ParentGrouping", "d9/df7/classGUIControllerDresser.html#a30861f06e3a2a32f26b9e19f6a99dd73", null ]
 ];

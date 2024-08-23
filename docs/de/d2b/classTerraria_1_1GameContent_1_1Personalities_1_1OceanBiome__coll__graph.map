@@ -1,5 +1,9 @@
 <map id="Terraria.GameContent.Personalities.OceanBiome" name="Terraria.GameContent.Personalities.OceanBiome">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,255,268"/>
-<area shape="rect" id="Node000002" href="$de/dbd/classTerraria_1_1GameContent_1_1Personalities_1_1AShoppingBiome.html" title=" " alt="" coords="44,5,216,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,119,133,153,127,153,127,119"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,411,255,525"/>
+<area shape="rect" id="Node000002" href="$de/dbd/classTerraria_1_1GameContent_1_1Personalities_1_1AShoppingBiome.html" title=" " alt="" coords="44,261,216,361"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,375,133,410,127,410,127,375"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="58,133,202,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,199,133,245,127,245,127,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="105,5,155,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,85,133,133,127,133,127,85"/>
 </map>

@@ -1,0 +1,12 @@
+<map id="System.Xml.XmlTextReaderImpl.DtdParserProxy" name="System.Xml.XmlTextReaderImpl.DtdParserProxy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,1109,337,2212"/>
+<area shape="rect" id="Node000002" href="$da/db2/interfaceSystem_1_1Xml_1_1IDtdParserAdapterV1.html" title=" " alt="" coords="87,956,289,1061"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,1075,191,1109,185,1109,185,1075"/>
+<area shape="rect" id="Node000003" href="$d2/d8c/interfaceSystem_1_1Xml_1_1IDtdParserAdapterWithValidation.html" title=" " alt="" coords="175,808,401,908"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="301,922,304,956,307,1009,304,1062,299,1109,294,1109,299,1061,302,1009,299,956,295,922"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,921,225,957,220,954,245,918"/>
+<area shape="rect" id="Node000004" href="$dc/d1f/interfaceSystem_1_1Xml_1_1IDtdParserAdapter.html" title=" " alt="" coords="5,5,269,760"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="92,774,77,956,76,1032,79,1109,74,1109,71,1032,72,956,86,773"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="150,773,165,908,175,955,170,956,160,908,145,774"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="264,773,275,807,270,809,259,774"/>
+</map>

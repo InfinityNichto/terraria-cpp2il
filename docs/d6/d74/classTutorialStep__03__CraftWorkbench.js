@@ -7,7 +7,7 @@ var classTutorialStep__03__CraftWorkbench =
     ] ],
     [ "TutorialStep_03_CraftWorkbench", "d6/d74/classTutorialStep__03__CraftWorkbench_abd13a84d22c107493dda0b57d49d507d.html#abd13a84d22c107493dda0b57d49d507d", null ],
     [ "Begin", "d6/d74/classTutorialStep__03__CraftWorkbench.html#ae7b36833ed674651c836c42b57bdfa7c", null ],
-    [ "GetGuideState", "d6/d74/classTutorialStep__03__CraftWorkbench_add166976b9dd78e32731f7a922e85d75.html#add166976b9dd78e32731f7a922e85d75", null ],
+    [ "GetGuideState", "d6/d74/classTutorialStep__03__CraftWorkbench_aab90199c35bb8b0f56b6980143c3242a.html#aab90199c35bb8b0f56b6980143c3242a", null ],
     [ "GetGuideString", "d6/d74/classTutorialStep__03__CraftWorkbench_a5537923798eefa16f7adde6f107f2bcd.html#a5537923798eefa16f7adde6f107f2bcd", null ],
     [ "GiveItem", "d6/d74/classTutorialStep__03__CraftWorkbench.html#ac38e5ac4261d7aca8a148210f3a82d04", null ],
     [ "OnGuideDialogueOpen", "d6/d74/classTutorialStep__03__CraftWorkbench_a48fa58587f0a96b00cd8e75466eb71e2.html#a48fa58587f0a96b00cd8e75466eb71e2", null ],

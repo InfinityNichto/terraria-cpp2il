@@ -1,6 +1,7 @@
 var classiOS__UserManager =
 [
     [ "iOS_UserManager", "d5/dd2/classiOS__UserManager_a45c91f4b3e7f5373cad5f4cadda47ed6.html#a45c91f4b3e7f5373cad5f4cadda47ed6", null ],
+    [ "iOS_UserManager", "d5/dd2/classiOS__UserManager_a5d6290a1fb64369cbb69e9844383f690.html#a5d6290a1fb64369cbb69e9844383f690", null ],
     [ "AttemptSignIn", "d5/dd2/classiOS__UserManager_a2ec251a304d4c2c10d50471435c52689.html#a2ec251a304d4c2c10d50471435c52689", null ],
     [ "ClearCache", "d5/dd2/classiOS__UserManager_ada4c9468d288d66e1bc6fe0ec685a199.html#ada4c9468d288d66e1bc6fe0ec685a199", null ],
     [ "PlayerAuthenticated", "d5/dd2/classiOS__UserManager_a47ebd24945158c803b9f61205542f31e.html#a47ebd24945158c803b9f61205542f31e", null ],

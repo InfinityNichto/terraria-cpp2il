@@ -14,7 +14,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1VortexSky =
     [ "Reset", "d5/d65/classTerraria_1_1GameContent_1_1Skies_1_1VortexSky_ac4350343bc7c67ade0708eb253f90995.html#ac4350343bc7c67ade0708eb253f90995", null ],
     [ "Update", "d5/d65/classTerraria_1_1GameContent_1_1Skies_1_1VortexSky_aa2b7d9f8a4265d600e514b15c2af7e59.html#aa2b7d9f8a4265d600e514b15c2af7e59", null ],
     [ "_bgTexture", "d5/d65/classTerraria_1_1GameContent_1_1Skies_1_1VortexSky_ac31395000900cf5d267c2eb94532f2e3.html#ac31395000900cf5d267c2eb94532f2e3", null ],
-    [ "_bolts", "d5/d65/classTerraria_1_1GameContent_1_1Skies_1_1VortexSky_a4de35db878478fca5443ccba4b7597ad.html#a4de35db878478fca5443ccba4b7597ad", null ],
+    [ "_bolts", "d5/d65/classTerraria_1_1GameContent_1_1Skies_1_1VortexSky_a6b12ffbc0576dbb8dde833387ace861a.html#a6b12ffbc0576dbb8dde833387ace861a", null ],
     [ "_boltTexture", "d5/d65/classTerraria_1_1GameContent_1_1Skies_1_1VortexSky_a798c9039e61bebc1e737784610aac8f5.html#a798c9039e61bebc1e737784610aac8f5", null ],
     [ "_fadeOpacity", "d5/d65/classTerraria_1_1GameContent_1_1Skies_1_1VortexSky_a44a4bf6dac3c72e61dcc46c9bc43e4b5.html#a44a4bf6dac3c72e61dcc46c9bc43e4b5", null ],
     [ "_flashTexture", "d5/d65/classTerraria_1_1GameContent_1_1Skies_1_1VortexSky_af9a294e7a130c77fae35548d0b08d813.html#af9a294e7a130c77fae35548d0b08d813", null ],

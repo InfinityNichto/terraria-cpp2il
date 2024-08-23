@@ -2,6 +2,7 @@ var classTerraria_1_1Audio_1_1CustomSoundStyle =
 [
     [ "CustomSoundStyle", "da/da4/classTerraria_1_1Audio_1_1CustomSoundStyle_a29e4ad9a1e7032b20eb381e64b9cbb3a.html#a29e4ad9a1e7032b20eb381e64b9cbb3a", null ],
     [ "CustomSoundStyle", "da/da4/classTerraria_1_1Audio_1_1CustomSoundStyle_a6cb4def0ed668eccc13c69b9208e6a39.html#a6cb4def0ed668eccc13c69b9208e6a39", null ],
+    [ "CustomSoundStyle", "da/da4/classTerraria_1_1Audio_1_1CustomSoundStyle_ae8465e49e8476a593e4ac71b1c0b39c7.html#ae8465e49e8476a593e4ac71b1c0b39c7", null ],
     [ "GetRandomPitch", "da/da4/classTerraria_1_1Audio_1_1CustomSoundStyle.html#a839c77c149702ea14fe711a6b47da46a", null ],
     [ "GetRandomSound", "da/da4/classTerraria_1_1Audio_1_1CustomSoundStyle_a27aafce8cbe7284ea6303a19bcc35f12.html#a27aafce8cbe7284ea6303a19bcc35f12", null ],
     [ "_pitchVariance", "da/da4/classTerraria_1_1Audio_1_1CustomSoundStyle.html#af8f383d44d876267cdad6cb323fe91fc", null ],

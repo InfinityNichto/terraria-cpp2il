@@ -1,7 +1,7 @@
 var classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabase =
 [
     [ "BestiaryDatabase", "de/df4/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabase_ae9baed91e7741fbe92a46e997e4c019f.html#ae9baed91e7741fbe92a46e997e4c019f", null ],
-    [ "ApplyPass", "de/df4/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabase_a3c3030601fb66115ab31c190ae757047.html#a3c3030601fb66115ab31c190ae757047", null ],
+    [ "ApplyPass", "de/df4/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabase_a8e6d6aa6eafe762a09dd500efda3096f.html#a8e6d6aa6eafe762a09dd500efda3096f", null ],
     [ "BestiaryEntriesPass", "de/df4/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabase_a3d2595990c6f6c220c7e3c7a53f78d99.html#a3d2595990c6f6c220c7e3c7a53f78d99", null ],
     [ "ExtractDropsForNPC", "de/df4/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabase_a46b7e82092a5d89783e67e82ac01a59c.html#a46b7e82092a5d89783e67e82ac01a59c", null ],
     [ "FindEntryByNPCID", "de/df4/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabase_ace0f2495c5d71364cbd5882aabf27b97.html#ace0f2495c5d71364cbd5882aabf27b97", null ],

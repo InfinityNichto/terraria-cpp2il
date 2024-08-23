@@ -1,5 +1,5 @@
 <map id="Microsoft.Xna.Framework.GameServiceContainer" name="Microsoft.Xna.Framework.GameServiceContainer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,195,317"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="40,5,160,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,85,103,118,97,118,97,85"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,133,203,332"/>
+<area shape="rect" id="Node000002" href="$d7/d65/interfaceSystem_1_1IServiceProvider.html" title=" " alt="" coords="5,5,211,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,99,111,133,105,133,105,99"/>
 </map>

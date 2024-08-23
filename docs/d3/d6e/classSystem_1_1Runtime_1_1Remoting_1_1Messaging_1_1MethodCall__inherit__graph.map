@@ -1,0 +1,18 @@
+<map id="System.Runtime.Remoting.Messaging.MethodCall" name="System.Runtime.Remoting.Messaging.MethodCall">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,549,466,1685"/>
+<area shape="rect" id="Node000007" href="$d0/dfe/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1ConstructionCall.html" title=" " alt="" coords="65,1733,466,2516"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="268,1699,268,1733,263,1733,263,1699"/>
+<area shape="rect" id="Node000002" href="$d7/df4/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMethodCallMessage.html" title=" " alt="" coords="77,426,227,491"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,504,170,548,165,549,157,505"/>
+<area shape="rect" id="Node000003" href="$d6/dbf/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMethodMessage.html" title=" " alt="" coords="146,133,347,368"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="252,382,256,549,250,549,247,382"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,382,169,427,164,425,185,380"/>
+<area shape="rect" id="Node000004" href="$d0/d5e/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMessage.html" title=" " alt="" coords="5,5,211,85"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="102,99,83,242,67,416,64,459,67,501,75,549,70,550,61,502,58,459,61,416,78,241,97,98"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="113,99,120,222,136,368,147,425,142,426,131,368,115,222,107,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,95,169,132,165,135,140,98"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="303,419,494,499"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="391,513,383,550,378,549,385,512"/>
+<area shape="rect" id="Node000006" href="$dd/d4d/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IInternalMessage.html" title=" " alt="" coords="519,416,692,501"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="580,515,468,730,464,727,575,512"/>
+</map>

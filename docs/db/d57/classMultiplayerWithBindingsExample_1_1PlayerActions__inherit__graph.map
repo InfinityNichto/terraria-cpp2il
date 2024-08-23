@@ -1,0 +1,7 @@
+<map id="MultiplayerWithBindingsExample.PlayerActions" name="MultiplayerWithBindingsExample.PlayerActions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,1681,248,2005"/>
+<area shape="rect" id="Node000003" href="$dc/d07/classMultiplayerWithBindingsExample_1_1PlayerActions.html" title=" " alt="" coords="13,2068,248,2392"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,2019,133,2068,128,2068,128,2019"/>
+<area shape="rect" id="Node000002" href="$d6/d0a/classInControl_1_1PlayerActionSet.html" title=" " alt="" coords="5,5,256,1632"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,1646,133,1681,128,1681,128,1646"/>
+</map>

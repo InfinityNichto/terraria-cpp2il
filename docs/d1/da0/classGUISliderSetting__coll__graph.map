@@ -1,20 +1,16 @@
 <map id="GUISliderSetting" name="GUISliderSetting">
-<area shape="rect" id="Node000001" title=" " alt="" coords="183,1715,399,2039"/>
-<area shape="rect" id="Node000002" href="$d9/dcf/classGUISettingEntry.html" title=" " alt="" coords="37,1193,245,1347"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,1361,253,1714,248,1715,161,1362"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,606,104,671"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="61,671,91,893,131,1176,125,1177,85,894,56,672"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="151,5,182,71"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="169,71,146,1176,141,1176,163,71"/>
-<area shape="rect" id="Node000006" href="$d7/da1/classSettingsOverlayOptionCategories__Layout_1_1Setting.html" title=" " alt="" coords="186,133,417,213"/>
-<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="185,62,221,108,235,121,231,125,217,111,180,66"/>
-<area shape="rect" id="Node000005" href="$da/d9d/classSettingsOverlayOptionCategories__Layout.html" title=" " alt="" coords="178,423,438,855"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="254,856,168,1177,163,1176,248,854"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="305,214,307,406,302,406,299,214"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="265,5,338,71"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="304,71,304,117,299,117,299,71"/>
-<area shape="rect" id="Node000008" title=" " alt="" coords="269,1237,312,1303"/>
-<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="293,1303,293,1698,288,1698,288,1303"/>
-<area shape="rect" id="Node000009" href="$dd/dec/classGUISlider.html" title=" " alt="" coords="336,917,653,1623"/>
-<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="452,1624,428,1692,410,1729,405,1726,423,1690,447,1622"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,1473,401,1827"/>
+<area shape="rect" id="Node000002" href="$d9/dcf/classGUISettingEntry.html" title=" " alt="" coords="40,929,248,1084"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,1097,255,1473,250,1474,162,1098"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,255,104,320"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="61,320,135,912,130,913,56,321"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="129,255,159,320"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="147,320,147,913,141,913,141,320"/>
+<area shape="rect" id="Node000005" href="$da/d9d/classSettingsOverlayOptionCategories__Layout.html" title=" " alt="" coords="184,5,517,569"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="272,570,173,914,168,913,267,569"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="519,239,537,259,544,287,541,308,532,324,527,321,536,306,539,287,533,261,515,243"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="272,974,315,1039"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="296,1039,296,1457,291,1457,291,1039"/>
+<area shape="rect" id="Node000007" href="$dd/dec/classGUISlider.html" title=" " alt="" coords="339,632,789,1381"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="460,1383,430,1450,412,1486,407,1483,426,1448,455,1381"/>
 </map>

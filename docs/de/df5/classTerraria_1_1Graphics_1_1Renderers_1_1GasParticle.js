@@ -20,6 +20,8 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1GasParticle =
     [ "FadeOutNormalizedTime", "de/df5/classTerraria_1_1Graphics_1_1Renderers_1_1GasParticle_ae2811b6f8191401cfb78e62cafe787f4.html#ae2811b6f8191401cfb78e62cafe787f4", null ],
     [ "FadeOutStart", "de/df5/classTerraria_1_1Graphics_1_1Renderers_1_1GasParticle_a2e314ec102d164a176de1e077220ec1b.html#a2e314ec102d164a176de1e077220ec1b", null ],
     [ "InitialScale", "de/df5/classTerraria_1_1Graphics_1_1Renderers_1_1GasParticle_a0fcc08463784a935292f2dcc08182ff0.html#a0fcc08463784a935292f2dcc08182ff0", null ],
+    [ "k__BackingField", "de/df5/classTerraria_1_1Graphics_1_1Renderers_1_1GasParticle.html#ac8614fc67db36e9087e4b4a3f0d59240", null ],
+    [ "k__BackingField", "de/df5/classTerraria_1_1Graphics_1_1Renderers_1_1GasParticle.html#ad8ca4ee16e33f953b1d92f556adb8d85", null ],
     [ "LightColorTint", "de/df5/classTerraria_1_1Graphics_1_1Renderers_1_1GasParticle_a289fe8634ec9139d0f5fa62da1118dab.html#a289fe8634ec9139d0f5fa62da1118dab", null ],
     [ "LocalPosition", "de/df5/classTerraria_1_1Graphics_1_1Renderers_1_1GasParticle.html#a0de37b58f2ae916a5089fd67d6c86189", null ],
     [ "Opacity", "de/df5/classTerraria_1_1Graphics_1_1Renderers_1_1GasParticle_a2bbed5cfd61455ebab8ed55d7f665eac.html#a2bbed5cfd61455ebab8ed55d7f665eac", null ],

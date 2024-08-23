@@ -9,5 +9,5 @@ var classTerraria_1_1Utilities_1_1MultiTimer =
     [ "_ticksBetweenPrint", "d1/d75/classTerraria_1_1Utilities_1_1MultiTimer_a31926f242e5c05fa578fed2a1844215e.html#a31926f242e5c05fa578fed2a1844215e", null ],
     [ "_ticksElapsedForPrint", "d1/d75/classTerraria_1_1Utilities_1_1MultiTimer_a43315ddd69187b8817c2b06543afe8ae.html#a43315ddd69187b8817c2b06543afe8ae", null ],
     [ "_timer", "d1/d75/classTerraria_1_1Utilities_1_1MultiTimer_a0fbf57b889f5c90ae72d21a047848bdd.html#a0fbf57b889f5c90ae72d21a047848bdd", null ],
-    [ "_timerDataMap", "d1/d75/classTerraria_1_1Utilities_1_1MultiTimer_abeb69ea76a12d608e86f7582bb7079de.html#abeb69ea76a12d608e86f7582bb7079de", null ]
+    [ "_timerDataMap", "d1/d75/classTerraria_1_1Utilities_1_1MultiTimer_a15b34e4952486cab2ecc99ac9b2be8ed.html#a15b34e4952486cab2ecc99ac9b2be8ed", null ]
 ];

@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1TownNPCProfiles =
 [
     [ "TownNPCProfiles", "d7/df3/classTerraria_1_1GameContent_1_1TownNPCProfiles_aca9f91f50734eb94b6c646bfb00e497c.html#aca9f91f50734eb94b6c646bfb00e497c", null ],
+    [ "TownNPCProfiles", "d7/df3/classTerraria_1_1GameContent_1_1TownNPCProfiles_a92f4f990e1615781a2fb35b0eeddfd88.html#a92f4f990e1615781a2fb35b0eeddfd88", null ],
     [ "GetHeadIndexSafe", "d7/df3/classTerraria_1_1GameContent_1_1TownNPCProfiles_a6841a3c07bfec84a2a3431a1d81ee8f0.html#a6841a3c07bfec84a2a3431a1d81ee8f0", null ],
     [ "GetProfile", "d7/df3/classTerraria_1_1GameContent_1_1TownNPCProfiles_a420ffff4f8902ada3dbca062a03a9789.html#a420ffff4f8902ada3dbca062a03a9789", null ],
     [ "LegacyWithSimpleShimmer", "d7/df3/classTerraria_1_1GameContent_1_1TownNPCProfiles_af8e3041c480537073ba817dde4c74227.html#af8e3041c480537073ba817dde4c74227", null ],

@@ -13,5 +13,5 @@ var classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1Accessories =
     [ "GetDisplay", "de/d72/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1Accessories_a60f63224a85f82c618c22bef16a51cba.html#a60f63224a85f82c618c22bef16a51cba", null ],
     [ "GetDisplayNameKey", "de/d72/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1Accessories_a456ce76c6de8edbd545d715ee7eb9779.html#a456ce76c6de8edbd545d715ee7eb9779", null ],
     [ "GetImage", "de/d72/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1Accessories_aff3e42dce59dbe5940a48ec88ff34e9c.html#aff3e42dce59dbe5940a48ec88ff34e9c", null ],
-    [ "IsAnAccessoryOfType", "de/d72/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1Accessories.html#ac85f241ee3db0ca62adcaf3008ec6e77", null ]
+    [ "IsAnAccessoryOfType", "de/d72/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1Accessories.html#af7deaf530a00261b94ec2d8646d7c62e", null ]
 ];

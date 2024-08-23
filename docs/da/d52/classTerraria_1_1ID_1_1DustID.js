@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1DustID =
 [
+    [ "DustID", "da/d52/classTerraria_1_1ID_1_1DustID_ae459de4fb008f1ebf43efdb60336c545.html#ae459de4fb008f1ebf43efdb60336c545", null ],
     [ "AmberBolt", "da/d52/classTerraria_1_1ID_1_1DustID_a9d2adf2b77303576a9e2a4a4ff818db8.html#a9d2adf2b77303576a9e2a4a4ff818db8", null ],
     [ "AncientLight", "da/d52/classTerraria_1_1ID_1_1DustID_a2abe79d8001ecf641b22a3b8234c39ab.html#a2abe79d8001ecf641b22a3b8234c39ab", null ],
     [ "ApprenticeStorm", "da/d52/classTerraria_1_1ID_1_1DustID_a86db71d00deaba9f1592d75e0ef6756c.html#a86db71d00deaba9f1592d75e0ef6756c", null ],

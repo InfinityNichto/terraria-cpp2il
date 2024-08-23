@@ -1,0 +1,13 @@
+<map id="Newtonsoft.Json.Converters.XElementWrapper" name="Newtonsoft.Json.Converters.XElementWrapper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,967,310,1300"/>
+<area shape="rect" id="Node000002" href="$d2/d4d/classNewtonsoft_1_1Json_1_1Converters_1_1XContainerWrapper.html" title=" " alt="" coords="84,695,313,919"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,933,201,967,196,967,196,933"/>
+<area shape="rect" id="Node000003" href="$da/d7c/classNewtonsoft_1_1Json_1_1Converters_1_1XObjectWrapper.html" title=" " alt="" coords="84,273,326,647"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,661,203,694,198,694,198,660"/>
+<area shape="rect" id="Node000004" href="$d2/d20/interfaceNewtonsoft_1_1Json_1_1Converters_1_1IXmlNode.html" title=" " alt="" coords="93,5,317,225"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="92,238,74,274,43,368,22,449,11,523,9,593,15,664,28,738,74,918,91,965,86,967,69,919,23,740,10,664,3,593,5,523,17,448,38,366,69,272,87,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,239,208,273,202,273,202,239"/>
+<area shape="rect" id="Node000005" href="$d8/d03/interfaceNewtonsoft_1_1Json_1_1Converters_1_1IXmlElement.html" title=" " alt="" coords="337,749,558,864"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="319,236,341,272,368,335,390,401,421,533,440,655,448,749,443,749,434,655,416,534,385,402,363,337,336,275,315,238"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="398,876,313,988,308,984,394,873"/>
+</map>

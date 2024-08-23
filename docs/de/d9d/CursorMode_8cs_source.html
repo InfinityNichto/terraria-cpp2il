@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.10.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>terraria-cpp2il: source/Terraria.GameInput/CursorMode.cs Source File</title>
+<title>terraria-cpp2il: source/Assembly-CSharp/Terraria/GameInput/CursorMode.cs Source File</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -31,7 +31,7 @@
   <td id="projectalign">
    <div id="projectname">terraria-cpp2il<span id="projectnumber">&#160;v1.4.4.9</span>
    </div>
-   <div id="projectbrief">Contains cpp2il injection tokens, adress, etc.</div>
+   <div id="projectbrief">See the source code of methods for useful infos (as attributes). Note: all method bodies are blank; you won&#39;t find any logic code.</div>
   </td>
  </tr>
  </tbody>
@@ -101,33 +101,39 @@ $(function(){initNavTree('de/d9d/CursorMode_8cs_source.html','../../'); initResi
   <div class="headertitle"><div class="title">CursorMode.cs</div></div>
 </div><!--header-->
 <div class="contents">
-<a href="../../de/d9d/CursorMode_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>;</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span> </div>
-<div class="foldopen" id="foldopen00003" data-start="{" data-end="}">
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno"><a class="line" href="../../d9/da4/namespaceTerraria_1_1GameInput.html">    3</a></span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../d9/da4/namespaceTerraria_1_1GameInput.html">Terraria.GameInput</a>;</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>[<a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>.Token(Token = <span class="stringliteral">&quot;0x20004B6&quot;</span>)]</div>
-<div class="foldopen" id="foldopen00006" data-start="{" data-end="};">
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno"><a class="line" href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70">    6</a></span><span class="keyword">public</span> <span class="keyword">enum</span> <a class="code hl_enumeration" href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70">CursorMode</a></div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>{</div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>    [<a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>.Token(Token = <span class="stringliteral">&quot;0x40065FC&quot;</span>)]</div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>    <a class="code hl_enumvalue" href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70af2a47c6809d88e175dade0ef7b16aa13">Mouse</a>,</div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>    [<a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>.Token(Token = <span class="stringliteral">&quot;0x40065FD&quot;</span>)]</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    <a class="code hl_enumvalue" href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70a221f6781b4faa2d321ca0d928f518d6e">Gamepad</a></div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>}</div>
+<a href="../../de/d9d/CursorMode_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d6/d27/namespaceSystem.html">System</a>;</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d3/de2/namespaceCpp2ILInjected.html">Cpp2ILInjected</a>;</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
+<div class="foldopen" id="foldopen00004" data-start="{" data-end="}">
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno"><a class="line" href="../../d9/da4/namespaceTerraria_1_1GameInput.html">    4</a></span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../d9/da4/namespaceTerraria_1_1GameInput.html">Terraria.GameInput</a></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>{</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>    <span class="comment">// Token: 0x020004B3 RID: 1203</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    [global::Cpp2ILInjected.Token(Token = <span class="stringliteral">&quot;0x20006CB&quot;</span>)]</div>
+<div class="foldopen" id="foldopen00008" data-start="{" data-end="};">
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno"><a class="line" href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70">    8</a></span>    <span class="keyword">public</span> <span class="keyword">enum</span> <a class="code hl_enumeration" href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70">CursorMode</a></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>    {</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>        <span class="comment">// Token: 0x040065FB RID: 26107</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>        [global::Cpp2ILInjected.Token(Token = <span class="stringliteral">&quot;0x4007A18&quot;</span>)]</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>        <a class="code hl_enumvalue" href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70af2a47c6809d88e175dade0ef7b16aa13">Mouse</a>,</div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>        <span class="comment">// Token: 0x040065FC RID: 26108</span></div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>        [global::Cpp2ILInjected.Token(Token = <span class="stringliteral">&quot;0x4007A19&quot;</span>)]</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>        <a class="code hl_enumvalue" href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70a221f6781b4faa2d321ca0d928f518d6e">Gamepad</a></div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    }</div>
 </div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>}</div>
 </div>
-<div class="ttc" id="anamespaceCpp2IlInjected_html"><div class="ttname"><a href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a></div><div class="ttdef"><b>Definition</b> <a href="../../d0/d1c/AddressAttribute_8cs_source.html#l00003">AddressAttribute.cs:3</a></div></div>
-<div class="ttc" id="anamespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70_html_a0fd6604c8409abe0923ed2e4498c2a70"><div class="ttname"><a href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70">Terraria.GameInput.CursorMode</a></div><div class="ttdeci">CursorMode</div><div class="ttdef"><b>Definition</b> <a href="#l00006">CursorMode.cs:7</a></div></div>
+<div class="ttc" id="anamespaceCpp2ILInjected_html"><div class="ttname"><a href="../../d3/de2/namespaceCpp2ILInjected.html">Cpp2ILInjected</a></div><div class="ttdef"><b>Definition</b> <a href="../../d6/d0a/____Generated_2Cpp2ILInjected_2AddressAttribute_8cs_source.html#l00003">AddressAttribute.cs:4</a></div></div>
+<div class="ttc" id="anamespaceSystem_html"><div class="ttname"><a href="../../d6/d27/namespaceSystem.html">System</a></div><div class="ttdef"><b>Definition</b> <a href="../../d4/d7b/____Il2CppComDelegate_8cs_source.html#l00005">__Il2CppComDelegate.cs:6</a></div></div>
+<div class="ttc" id="anamespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70_html_a0fd6604c8409abe0923ed2e4498c2a70"><div class="ttname"><a href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70">Terraria.GameInput.CursorMode</a></div><div class="ttdeci">CursorMode</div><div class="ttdef"><b>Definition</b> <a href="#l00008">CursorMode.cs:9</a></div></div>
 <div class="ttc" id="anamespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70_html_a0fd6604c8409abe0923ed2e4498c2a70a221f6781b4faa2d321ca0d928f518d6e"><div class="ttname"><a href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70a221f6781b4faa2d321ca0d928f518d6e">Terraria.GameInput.CursorMode.Gamepad</a></div><div class="ttdeci">@ Gamepad</div></div>
 <div class="ttc" id="anamespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70_html_a0fd6604c8409abe0923ed2e4498c2a70af2a47c6809d88e175dade0ef7b16aa13"><div class="ttname"><a href="../../d9/da4/namespaceTerraria_1_1GameInput_a0fd6604c8409abe0923ed2e4498c2a70.html#a0fd6604c8409abe0923ed2e4498c2a70af2a47c6809d88e175dade0ef7b16aa13">Terraria.GameInput.CursorMode.Mouse</a></div><div class="ttdeci">@ Mouse</div></div>
-<div class="ttc" id="anamespaceTerraria_1_1GameInput_html"><div class="ttname"><a href="../../d9/da4/namespaceTerraria_1_1GameInput.html">Terraria.GameInput</a></div><div class="ttdef"><b>Definition</b> <a href="#l00003">CursorMode.cs:3</a></div></div>
+<div class="ttc" id="anamespaceTerraria_1_1GameInput_html"><div class="ttname"><a href="../../d9/da4/namespaceTerraria_1_1GameInput.html">Terraria.GameInput</a></div><div class="ttdef"><b>Definition</b> <a href="#l00004">CursorMode.cs:5</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html">source</a></li><li class="navelem"><a class="el" href="../../dir_fcf8d4b9e1ee12c3447baf3ecaf025f3.html">Terraria.GameInput</a></li><li class="navelem"><a class="el" href="../../de/d9d/CursorMode_8cs.html">CursorMode.cs</a></li>
+    <li class="navelem"><a class="el" href="../../dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html">source</a></li><li class="navelem"><a class="el" href="../../dir_878d4b4f67432d41e0421d9947fe4045.html">Assembly-CSharp</a></li><li class="navelem"><a class="el" href="../../dir_da97c4bbd22c69322aa5e05a8a64256d.html">Terraria</a></li><li class="navelem"><a class="el" href="../../dir_ac21ec6fa1828ee461789231151290dc.html">GameInput</a></li><li class="navelem"><a class="el" href="../../de/d9d/CursorMode_8cs.html">CursorMode.cs</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0 </li>
   </ul>
 </div>

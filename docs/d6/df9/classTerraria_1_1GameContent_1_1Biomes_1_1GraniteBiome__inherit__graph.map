@@ -1,5 +1,5 @@
 <map id="Terraria.GameContent.Biomes.GraniteBiome" name="Terraria.GameContent.Biomes.GraniteBiome">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,504,249,1024"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,504,249,1073"/>
 <area shape="rect" id="Node000002" href="$da/d53/classTerraria_1_1WorldBuilding_1_1MicroBiome.html" title=" " alt="" coords="69,391,186,456"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,470,130,504,125,504,125,470"/>
 <area shape="rect" id="Node000003" href="$dd/dae/classTerraria_1_1WorldBuilding_1_1GenStructure.html" title=" " alt="" coords="31,243,224,343"/>

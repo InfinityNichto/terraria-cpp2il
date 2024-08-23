@@ -1,3 +1,17 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d8/dfc/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1DesertHive_1_1ClusterGroup.html" title=" " alt="" coords="5,5,236,45"/>
+<area shape="rect" id="Node000000" href="$d2/d9a/classNewtonsoft_1_1Json_1_1Linq_1_1JsonPath_1_1PathFilter.html" title=" " alt="" coords="5,197,195,237"/>
+<area shape="rect" id="Node000001" href="$dd/dc5/classNewtonsoft_1_1Json_1_1Linq_1_1JsonPath_1_1ArrayIndexFilter.html" title=" " alt="" coords="253,5,443,45"/>
+<area shape="poly" id="edge3196_Node000000_Node000001" title=" " alt="" coords="119,184,170,119,203,85,241,55,264,43,266,48,244,60,207,89,174,122,124,187"/>
+<area shape="rect" id="Node000002" href="$d8/d2b/classNewtonsoft_1_1Json_1_1Linq_1_1JsonPath_1_1ArrayMultipleIndexFilter.html" title=" " alt="" coords="243,69,453,109"/>
+<area shape="poly" id="edge3197_Node000000_Node000002" title=" " alt="" coords="135,187,184,152,241,119,271,107,273,112,244,124,187,156,138,191"/>
+<area shape="rect" id="Node000003" href="$d3/d90/classNewtonsoft_1_1Json_1_1Linq_1_1JsonPath_1_1ArraySliceFilter.html" title=" " alt="" coords="253,133,443,173"/>
+<area shape="poly" id="edge3198_Node000000_Node000003" title=" " alt="" coords="191,191,269,171,271,176,192,196"/>
+<area shape="rect" id="Node000004" href="$df/d78/classNewtonsoft_1_1Json_1_1Linq_1_1JsonPath_1_1FieldFilter.html" title=" " alt="" coords="253,197,443,237"/>
+<area shape="poly" id="edge3199_Node000000_Node000004" title=" " alt="" coords="208,215,253,215,253,220,208,220"/>
+<area shape="rect" id="Node000005" href="$da/d22/classNewtonsoft_1_1Json_1_1Linq_1_1JsonPath_1_1FieldMultipleFilter.html" title=" " alt="" coords="253,261,443,301"/>
+<area shape="poly" id="edge3200_Node000000_Node000005" title=" " alt="" coords="192,238,271,259,269,264,191,243"/>
+<area shape="rect" id="Node000006" href="$d6/dcf/classNewtonsoft_1_1Json_1_1Linq_1_1JsonPath_1_1QueryFilter.html" title=" " alt="" coords="253,325,443,365"/>
+<area shape="poly" id="edge3201_Node000000_Node000006" title=" " alt="" coords="138,244,187,278,244,311,273,323,271,328,241,316,184,283,135,248"/>
+<area shape="rect" id="Node000007" href="$d3/d87/classNewtonsoft_1_1Json_1_1Linq_1_1JsonPath_1_1ScanFilter.html" title=" " alt="" coords="253,389,443,429"/>
+<area shape="poly" id="edge3202_Node000000_Node000007" title=" " alt="" coords="124,247,174,312,207,346,244,375,266,387,264,391,241,380,203,350,170,316,119,251"/>
 </map>

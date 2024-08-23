@@ -2,6 +2,7 @@ var classTerraria_1_1GameContent_1_1Generation_1_1PassLegacy =
 [
     [ "PassLegacy", "de/d87/classTerraria_1_1GameContent_1_1Generation_1_1PassLegacy_a19220424c69f24ab34ae45ace83a8056.html#a19220424c69f24ab34ae45ace83a8056", null ],
     [ "PassLegacy", "de/d87/classTerraria_1_1GameContent_1_1Generation_1_1PassLegacy_ab73c2def707c4257c81b2d489b316f83.html#ab73c2def707c4257c81b2d489b316f83", null ],
+    [ "PassLegacy", "de/d87/classTerraria_1_1GameContent_1_1Generation_1_1PassLegacy_a3a553255beffe92bf783a4ece9a0aab5.html#a3a553255beffe92bf783a4ece9a0aab5", null ],
     [ "Apply", "de/d87/classTerraria_1_1GameContent_1_1Generation_1_1PassLegacy.html#ab9f5a85262f066cda0f1fab31160b6cd", null ],
     [ "ApplyPass", "de/d87/classTerraria_1_1GameContent_1_1Generation_1_1PassLegacy_a674316b4accff9dd4ca9b903a109919e.html#a674316b4accff9dd4ca9b903a109919e", null ],
     [ "CustomPerUnitAction", "de/d87/classTerraria_1_1GameContent_1_1Generation_1_1PassLegacy.html#acbb468772a7f91f5482962e31e7f66d8", null ],

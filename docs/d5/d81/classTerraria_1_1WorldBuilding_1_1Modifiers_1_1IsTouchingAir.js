@@ -1,6 +1,7 @@
 var classTerraria_1_1WorldBuilding_1_1Modifiers_1_1IsTouchingAir =
 [
     [ "IsTouchingAir", "d5/d81/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1IsTouchingAir_a9ac60e3a1ccddcd14b0f3271f80d9781.html#a9ac60e3a1ccddcd14b0f3271f80d9781", null ],
+    [ "IsTouchingAir", "d5/d81/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1IsTouchingAir_a7eb8b2e13b336fab24f40553733e8486.html#a7eb8b2e13b336fab24f40553733e8486", null ],
     [ "Apply", "d5/d81/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1IsTouchingAir_a9ad5cfd5d3437183d886036aed897650.html#a9ad5cfd5d3437183d886036aed897650", null ],
     [ "CustomPerUnitAction", "d5/d81/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1IsTouchingAir.html#acbb468772a7f91f5482962e31e7f66d8", null ],
     [ "Fail", "d5/d81/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1IsTouchingAir.html#a7b1c5db5513e916930fd7e5d08c623aa", null ],

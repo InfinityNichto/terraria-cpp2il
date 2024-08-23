@@ -1,5 +1,6 @@
 var classTerraria_1_1Wiring =
 [
+    [ "Wiring", "da/d8a/classTerraria_1_1Wiring_a4de44a8e26f77d9b39bd780ca8c78103.html#a4de44a8e26f77d9b39bd780ca8c78103", null ],
     [ "Actuate", "da/d8a/classTerraria_1_1Wiring_a0a3e4c5fefb138d627acd2a16a17bf00.html#a0a3e4c5fefb138d627acd2a16a17bf00", null ],
     [ "ActuateForced", "da/d8a/classTerraria_1_1Wiring_a8f7dc5c79e1ea25aa5f519eaf3c3c5bd.html#a8f7dc5c79e1ea25aa5f519eaf3c3c5bd", null ],
     [ "CheckLogicGate", "da/d8a/classTerraria_1_1Wiring_aadc42d34b0b021ff455e0cfcc3840095.html#aadc42d34b0b021ff455e0cfcc3840095", null ],

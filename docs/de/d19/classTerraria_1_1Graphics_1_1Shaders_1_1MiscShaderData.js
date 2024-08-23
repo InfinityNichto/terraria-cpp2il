@@ -2,8 +2,8 @@ var classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData =
 [
     [ "MiscShaderData", "de/d19/classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData_aea837d62765362be2bd5ab4ca9ffbea5.html#aea837d62765362be2bd5ab4ca9ffbea5", null ],
     [ "Apply", "de/d19/classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData.html#af9ab60e3e82d5fb346da65e084582276", null ],
-    [ "Apply", "de/d19/classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData_a56d37095158d6ae7a119f008d6c0588b.html#a56d37095158d6ae7a119f008d6c0588b", null ],
-    [ "Apply", "de/d19/classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData_ad362e2436b500b3d7515196c281cd8d7.html#ad362e2436b500b3d7515196c281cd8d7", null ],
+    [ "Apply", "de/d19/classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData_a8c0156abde4e15bcbeb36d627eebacba.html#a8c0156abde4e15bcbeb36d627eebacba", null ],
+    [ "Apply", "de/d19/classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData_a2e51b5552bab7919cdf20ec6dffb2c10.html#a2e51b5552bab7919cdf20ec6dffb2c10", null ],
     [ "GetSecondaryShader", "de/d19/classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData_a8cfb3f289937201e37f81f4f5155d47f.html#a8cfb3f289937201e37f81f4f5155d47f", null ],
     [ "IsPowerOfTwo", "de/d19/classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData_a2877c732b320b19059313c2ed16cfd26.html#a2877c732b320b19059313c2ed16cfd26", null ],
     [ "UseColor", "de/d19/classTerraria_1_1Graphics_1_1Shaders_1_1MiscShaderData_a8d6d93a13c8389e49c0a527763a01301.html#a8d6d93a13c8389e49c0a527763a01301", null ],

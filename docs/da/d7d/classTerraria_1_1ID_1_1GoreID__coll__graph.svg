@@ -45,7 +45,8 @@
 <text text-anchor="start" x="19.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="32.5" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">const int MoonLordHeart3</text>
 <text text-anchor="start" x="32.5" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 704 more...</text>
-<text text-anchor="start" x="95" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="22" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="32.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">static GoreID()</text>
 <polygon fill="#666666" stroke="#666666" points="15.5,-181.5 15.5,-181.5 178.5,-181.5 178.5,-181.5 15.5,-181.5"/>
 <polygon fill="#666666" stroke="#666666" points="15.5,-16.5 15.5,-16.5 30.5,-16.5 30.5,-16.5 15.5,-16.5"/>
 <polygon fill="#666666" stroke="#666666" points="30.5,-16.5 30.5,-16.5 178.5,-16.5 178.5,-16.5 30.5,-16.5"/>

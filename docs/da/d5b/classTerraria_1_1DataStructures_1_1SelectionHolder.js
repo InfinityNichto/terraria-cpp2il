@@ -13,6 +13,7 @@ var classTerraria_1_1DataStructures_1_1SelectionHolder =
     [ "Wrapped_Configuration_OnLoad", "da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder_a11b17e8bd55e1b550a1eec7d8eac593a.html#a11b17e8bd55e1b550a1eec7d8eac593a", null ],
     [ "ActiveSelection", "da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder_a5ad65807602a20e8e409b07f2bbf5248.html#a5ad65807602a20e8e409b07f2bbf5248", null ],
     [ "ActiveSelectionConfigKey", "da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder_aa484b0db557f0c4b8c1489ccb8c0b3c5.html#aa484b0db557f0c4b8c1489ccb8c0b3c5", null ],
+    [ "k__BackingField", "da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder_a624e187c2845a21af2231ff0d3159336.html#a624e187c2845a21af2231ff0d3159336", null ],
     [ "LoadedContent", "da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder_a9c819613d9fbc9ad230883d945a316d3.html#a9c819613d9fbc9ad230883d945a316d3", null ],
     [ "Options", "da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder_a93de2ec90565a05e1433a71662646dfb.html#a93de2ec90565a05e1433a71662646dfb", null ],
     [ "ActiveSelectionKeyName", "da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder_a060f38b620b6c718968df38b0ccee28e.html#a060f38b620b6c718968df38b0ccee28e", null ]

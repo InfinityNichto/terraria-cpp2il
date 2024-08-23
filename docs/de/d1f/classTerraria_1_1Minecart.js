@@ -10,6 +10,7 @@ var classTerraria_1_1Minecart =
       [ "OnFront", "de/d1f/classTerraria_1_1Minecart_a0b221e6e1ecd3d5c8e7324169dde748a.html#a0b221e6e1ecd3d5c8e7324169dde748aaf50e87f21b25f2381589b8d776fe997d", null ],
       [ "OnBack", "de/d1f/classTerraria_1_1Minecart_a0b221e6e1ecd3d5c8e7324169dde748a.html#a0b221e6e1ecd3d5c8e7324169dde748aacc0e2e638dbaf4492ac5bdbf94561fe9", null ]
     ] ],
+    [ "Minecart", "de/d1f/classTerraria_1_1Minecart_ab50ad7e0d0ff77e89819941f03b3cb19.html#ab50ad7e0d0ff77e89819941f03b3cb19", null ],
     [ "BackTrack", "de/d1f/classTerraria_1_1Minecart_acf6c99d653a4f1f74807ec76b166798f.html#acf6c99d653a4f1f74807ec76b166798f", null ],
     [ "BackTrack", "de/d1f/classTerraria_1_1Minecart_ae7f30cc81125fcae1486f3cad19d81a3.html#ae7f30cc81125fcae1486f3cad19d81a3", null ],
     [ "CanSwitchTrack", "de/d1f/classTerraria_1_1Minecart_a36565131abf5a6704b9fc643ab987ff7.html#a36565131abf5a6704b9fc643ab987ff7", null ],

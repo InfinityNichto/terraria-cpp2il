@@ -1,0 +1,15 @@
+<map id="UnityEngine.UICharInfo" name="UnityEngine.UICharInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="365,1163,532,1228"/>
+<area shape="rect" id="Node000002" href="$d2/d53/structUnityEngine_1_1Vector2.html" title=" " alt="" coords="183,335,389,1100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="392,1020,435,1146,430,1148,387,1022"/>
+<area shape="poly" id="edge6_Node000002_Node000002" title=" " alt="" coords="391,646,401,657,409,673,416,717,412,751,403,775,398,773,407,750,411,717,404,675,397,660,387,650"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="11,148,174,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,225,185,429,180,431,106,227"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,84,95,148,90,148,90,84"/>
+<area shape="rect" id="Node000005" href="$d7/dfc/interfaceSystem_1_1IFormattable.html" title=" " alt="" coords="199,133,435,228"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="316,242,311,335,305,334,311,242"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="525,148,567,213"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="570,205,584,227,595,251,598,281,595,311,600,432,614,538,646,720,653,806,648,895,639,942,625,992,604,1045,578,1101,556,1131,528,1155,525,1151,552,1128,573,1099,600,1043,620,990,634,941,643,894,648,806,640,720,608,539,595,433,590,311,593,281,590,253,580,229,565,208"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="526,195,489,219,453,254,425,297,399,343,394,341,420,294,449,250,486,215,523,191"/>
+</map>

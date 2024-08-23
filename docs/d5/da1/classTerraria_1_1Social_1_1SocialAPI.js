@@ -1,6 +1,6 @@
 var classTerraria_1_1Social_1_1SocialAPI =
 [
-    [ "Initialize", "d5/da1/classTerraria_1_1Social_1_1SocialAPI_a95b3b3949c1f22bbffa9757850018fba.html#a95b3b3949c1f22bbffa9757850018fba", null ],
+    [ "Initialize", "d5/da1/classTerraria_1_1Social_1_1SocialAPI_af673ac48d695a5dfd11abbccec10817a.html#af673ac48d695a5dfd11abbccec10817a", null ],
     [ "LoadDiscord", "d5/da1/classTerraria_1_1Social_1_1SocialAPI_ad532171472e64256edd31fa40c192140.html#ad532171472e64256edd31fa40c192140", null ],
     [ "LoadModule< T >", "d5/da1/classTerraria_1_1Social_1_1SocialAPI_a454162d30b89b024d7cac7cb04234596.html#a454162d30b89b024d7cac7cb04234596", null ],
     [ "LoadModule< T >", "d5/da1/classTerraria_1_1Social_1_1SocialAPI_a914083f7180d1fca97a06175a05c7456.html#a914083f7180d1fca97a06175a05c7456", null ],

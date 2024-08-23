@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 202;
+var viewWidth = 259;
 var viewHeight = 603;
 var sectionId = 'dynsection-0';
 </script>
@@ -90,13 +90,13 @@ var sectionId = 'dynsection-0';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../de/d2f/interfaceTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1NPCs_1_1INPCAction.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="178.5,-265 113.5,-265 113.5,-216 178.5,-216 178.5,-265"/>
-<text text-anchor="start" x="119" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">INPCAction</text>
-<text text-anchor="start" x="144.5" y="-237.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="144.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="114,-247.5 114,-247.5 179,-247.5 179,-247.5 114,-247.5"/>
-<polygon fill="#666666" stroke="#666666" points="114,-232.5 114,-232.5 179,-232.5 179,-232.5 114,-232.5"/>
-<polygon fill="none" stroke="#666666" points="113.5,-216 113.5,-265 178.5,-265 178.5,-216 113.5,-216"/>
+<polygon fill="white" stroke="transparent" points="251,-265 113,-265 113,-216 251,-216 251,-265"/>
+<text text-anchor="start" x="118" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">Actions::NPCs::INPCAction</text>
+<text text-anchor="start" x="180" y="-237.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="180" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#666666" stroke="#666666" points="113,-247.5 113,-247.5 251,-247.5 251,-247.5 113,-247.5"/>
+<polygon fill="#666666" stroke="#666666" points="113,-232.5 113,-232.5 251,-232.5 251,-232.5 113,-232.5"/>
+<polygon fill="none" stroke="#666666" points="113,-216 113,-265 251,-265 251,-216 113,-216"/>
 </a>
 </g>
 </g>
@@ -104,8 +104,8 @@ var sectionId = 'dynsection-0';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M135.1,-206.34C132.38,-198.07 129.33,-188.81 126.18,-179.22"/>
-<polygon fill="none" stroke="#63b8ff" points="131.79,-207.48 138.24,-215.89 138.44,-205.3 131.79,-207.48"/>
+<path fill="none" stroke="#63b8ff" d="M163.55,-207.16C158.71,-198.68 153.26,-189.12 147.61,-179.22"/>
+<polygon fill="none" stroke="#63b8ff" points="160.54,-208.94 168.53,-215.89 166.62,-205.47 160.54,-208.94"/>
 </a>
 </g>
 </g>
@@ -147,8 +147,8 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node3&#45;&gt;Node2</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M125.44,-292.28C129.37,-282.58 133.15,-273.22 136.39,-265.24"/>
-<polygon fill="none" stroke="#63b8ff" points="122.15,-291.06 121.64,-301.65 128.64,-293.69 122.15,-291.06"/>
+<path fill="none" stroke="#63b8ff" d="M145.7,-293.18C152.74,-283.16 159.54,-273.47 165.32,-265.24"/>
+<polygon fill="none" stroke="#63b8ff" points="142.63,-291.45 139.75,-301.65 148.36,-295.47 142.63,-291.45"/>
 </a>
 </g>
 </g>

@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Back =
 [
     [ "Sets", "db/d3f/classTerraria_1_1ID_1_1ArmorIDs_1_1Back_1_1Sets.html", "db/d3f/classTerraria_1_1ID_1_1ArmorIDs_1_1Back_1_1Sets" ],
     [ "Back", "d3/d40/classTerraria_1_1ID_1_1ArmorIDs_1_1Back_a65ba801ded7239f00d4782385171ab1e.html#a65ba801ded7239f00d4782385171ab1e", null ],
+    [ "Back", "d3/d40/classTerraria_1_1ID_1_1ArmorIDs_1_1Back_a63ed654fe80b45d86e1be2809afef212.html#a63ed654fe80b45d86e1be2809afef212", null ],
     [ "AnglerTackleBag", "d3/d40/classTerraria_1_1ID_1_1ArmorIDs_1_1Back_ac4d3a1ef72c299c2a8070bc31c41b491.html#ac4d3a1ef72c299c2a8070bc31c41b491", null ],
     [ "ApprenticeDark", "d3/d40/classTerraria_1_1ID_1_1ArmorIDs_1_1Back_ad4de79bfa2a0314ff091add35b46c2b7.html#ad4de79bfa2a0314ff091add35b46c2b7", null ],
     [ "ArchitectGizmoPack", "d3/d40/classTerraria_1_1ID_1_1ArmorIDs_1_1Back_a3fa43735351e1b8dc39e99279f186d66.html#a3fa43735351e1b8dc39e99279f186d66", null ],

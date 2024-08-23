@@ -61,7 +61,7 @@ var sectionId = 'dynsection-0';
 <polygon fill="#999999" stroke="transparent" points="202,-578 0,-578 0,0 202,0 202,-578"/>
 <text text-anchor="start" x="60" y="-566" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.BitsByte</text>
 <text text-anchor="start" x="4" y="-551" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17" y="-551" font-family="Helvetica,sans-Serif" font-size="10.00">bool Item</text>
+<text text-anchor="start" x="17" y="-551" font-family="Helvetica,sans-Serif" font-size="10.00">bool this[int key]</text>
 <text text-anchor="start" x="4" y="-536" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-536" font-family="Helvetica,sans-Serif" font-size="10.00">BitsByte(bool b1=false,</text>
 <text text-anchor="start" x="17" y="-525" font-family="Helvetica,sans-Serif" font-size="10.00"> bool b2=false, bool b3</text>

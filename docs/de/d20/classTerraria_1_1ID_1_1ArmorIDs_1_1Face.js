@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Face =
 [
     [ "Sets", "d9/dab/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_1_1Sets.html", "d9/dab/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_1_1Sets" ],
     [ "Face", "de/d20/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_aa6303bbd6182d8feac6c4d8260211c7e.html#aa6303bbd6182d8feac6c4d8260211c7e", null ],
+    [ "Face", "de/d20/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_abfdcbe6188436fc5741cbc9978201957.html#abfdcbe6188436fc5741cbc9978201957", null ],
     [ "AngelHalo", "de/d20/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_a9a5ee3d32c41fea013c2e60b6e775de8.html#a9a5ee3d32c41fea013c2e60b6e775de8", null ],
     [ "ArcaneFlower", "de/d20/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_a4835e68d908caa18b58be7de30c319d4.html#a4835e68d908caa18b58be7de30c319d4", null ],
     [ "ArcticDivingGear", "de/d20/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_aeba7123f94e9b5df4c92002c5ffc6ef5.html#aeba7123f94e9b5df4c92002c5ffc6ef5", null ],

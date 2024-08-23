@@ -1,0 +1,20 @@
+<map id="System.Xml.Linq.XNode" name="System.Xml.Linq.XNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,768,408,997"/>
+<area shape="rect" id="Node000002" href="$da/d14/classSystem_1_1Xml_1_1Linq_1_1XObject.html" title=" " alt="" coords="256,133,485,427"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="384,441,384,570,380,639,372,706,358,769,352,767,367,705,375,638,379,570,379,441"/>
+<area shape="rect" id="Node000004" href="$d3/d03/classSystem_1_1Xml_1_1Linq_1_1XNode.html" title=" " alt="" coords="5,768,195,997"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="245,336,200,363,157,395,119,433,89,477,74,512,64,548,55,624,59,699,70,768,65,768,54,699,50,624,59,547,69,510,84,475,115,430,154,391,197,358,242,332"/>
+<area shape="rect" id="Node000005" href="$d3/d03/classSystem_1_1Xml_1_1Linq_1_1XNode.html" title=" " alt="" coords="99,476,288,705"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="283,440,261,477,256,475,278,437"/>
+<area shape="rect" id="Node000003" href="$d1/d96/classSystem_1_1Xml_1_1Linq_1_1XContainer.html" title=" " alt="" coords="367,1119,601,1621"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,1118,436,800,397,451,396,443,402,443,403,450,442,799,469,1118"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,1007,369,1220,365,1223,196,1010"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="243,705,262,752,258,754,238,707"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="159,706,144,753,139,751,154,705"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="290,565,307,574,315,590,312,602,305,609,301,606,307,599,309,591,304,578,287,569"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="419,5,474,71"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="426,72,413,96,405,119,400,117,408,94,421,70"/>
+<area shape="poly" id="edge8_Node000003_Node000006" title=" " alt="" coords="476,57,493,73,506,93,525,142,529,183,525,279,525,884,523,993,516,1102,510,1102,517,993,520,884,520,279,524,184,519,144,502,96,489,77,472,61"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="561,850,679,915"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="614,916,561,1104,556,1102,609,915"/>
+</map>

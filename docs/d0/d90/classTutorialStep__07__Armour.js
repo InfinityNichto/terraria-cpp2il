@@ -7,7 +7,7 @@ var classTutorialStep__07__Armour =
     ] ],
     [ "TutorialStep_07_Armour", "d0/d90/classTutorialStep__07__Armour_a735b761718d9aee7c32c0d0613f8dc7c.html#a735b761718d9aee7c32c0d0613f8dc7c", null ],
     [ "Begin", "d0/d90/classTutorialStep__07__Armour.html#ae7b36833ed674651c836c42b57bdfa7c", null ],
-    [ "GetGuideState", "d0/d90/classTutorialStep__07__Armour_a6123dd00f194c4d937335a8f435e270c.html#a6123dd00f194c4d937335a8f435e270c", null ],
+    [ "GetGuideState", "d0/d90/classTutorialStep__07__Armour_aa1556f4b90caa766a781084cb171728c.html#aa1556f4b90caa766a781084cb171728c", null ],
     [ "GetGuideString", "d0/d90/classTutorialStep__07__Armour_a35d3c1d20f54c48af030f831fb392061.html#a35d3c1d20f54c48af030f831fb392061", null ],
     [ "GiveItem", "d0/d90/classTutorialStep__07__Armour.html#ac38e5ac4261d7aca8a148210f3a82d04", null ],
     [ "OnGuideDialogueOpen", "d0/d90/classTutorialStep__07__Armour_acd33f83f98c3ca88501b465a9a4fb317.html#acd33f83f98c3ca88501b465a9a4fb317", null ],

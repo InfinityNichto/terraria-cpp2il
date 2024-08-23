@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1InvasionID =
 [
+    [ "InvasionID", "dd/db3/classTerraria_1_1ID_1_1InvasionID_afa487e64a12ba288445d3d111fa8c08e.html#afa487e64a12ba288445d3d111fa8c08e", null ],
     [ "CachedFrostMoon", "dd/db3/classTerraria_1_1ID_1_1InvasionID_a52b5a1e784021986c57c04794079ec31.html#a52b5a1e784021986c57c04794079ec31", null ],
     [ "CachedInvasions", "dd/db3/classTerraria_1_1ID_1_1InvasionID_a9dbfa2ee4dbf51668be052bf72fd3341.html#a9dbfa2ee4dbf51668be052bf72fd3341", null ],
     [ "CachedOldOnesArmy", "dd/db3/classTerraria_1_1ID_1_1InvasionID_ab200c06712d582ebf5e776ed3c8b6b82.html#ab200c06712d582ebf5e776ed3c8b6b82", null ],

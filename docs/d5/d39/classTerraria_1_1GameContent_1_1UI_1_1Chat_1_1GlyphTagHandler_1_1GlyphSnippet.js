@@ -7,7 +7,7 @@ var classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_1_1GlyphSnippe
     [ "OnClick", "d5/d39/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_1_1GlyphSnippet.html#ac91ed6c84eca5618d641d89c9bb137e8", null ],
     [ "OnHover", "d5/d39/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_1_1GlyphSnippet.html#a40f1317cf3f045dcb3a8bb37fa14c21f", null ],
     [ "ToString", "d5/d39/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_1_1GlyphSnippet.html#add04e255303899165ab0cda818c3011d", null ],
-    [ "UniqueDraw", "d5/d39/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_1_1GlyphSnippet_a49b5c2ae4c45b4d221731ecab6787e2b.html#a49b5c2ae4c45b4d221731ecab6787e2b", null ],
+    [ "UniqueDraw", "d5/d39/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_1_1GlyphSnippet_a6c9a571ea5f10771fb9b2db97e8e5589.html#a6c9a571ea5f10771fb9b2db97e8e5589", null ],
     [ "Update", "d5/d39/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_1_1GlyphSnippet.html#a4baf57ddf262c9535fdb7919c48b8c6b", null ],
     [ "_glyphIndex", "d5/d39/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_1_1GlyphSnippet_a513d0c8fb1eab2c57a4be1724b30c36e.html#a513d0c8fb1eab2c57a4be1724b30c36e", null ],
     [ "CheckForHover", "d5/d39/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_1_1GlyphSnippet.html#a87fa3e0127e5f641aef3fb0047cd7a1c", null ],

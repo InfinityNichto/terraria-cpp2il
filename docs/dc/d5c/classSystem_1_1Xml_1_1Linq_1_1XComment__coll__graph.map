@@ -1,0 +1,21 @@
+<map id="System.Xml.Linq.XComment" name="System.Xml.Linq.XComment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,513,220,702"/>
+<area shape="rect" id="Node000002" href="$d3/d03/classSystem_1_1Xml_1_1Linq_1_1XNode.html" title=" " alt="" coords="189,5,378,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,248,148,513,143,512,236,247"/>
+<area shape="rect" id="Node000004" href="$d1/d96/classSystem_1_1Xml_1_1Linq_1_1XContainer.html" title=" " alt="" coords="503,356,736,859"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="389,232,439,292,486,354,505,384,500,386,481,358,435,295,385,235"/>
+<area shape="rect" id="Node000003" href="$da/d14/classSystem_1_1Xml_1_1Linq_1_1XObject.html" title=" " alt="" coords="295,921,525,1215"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,908,377,859,295,235,300,235,382,858,389,908"/>
+<area shape="rect" id="Node000007" href="$d3/d03/classSystem_1_1Xml_1_1Linq_1_1XNode.html" title=" " alt="" coords="179,1264,369,1493"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="343,1228,327,1265,322,1263,338,1226"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="507,860,486,908,481,905,503,858"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="429,87,484,153"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="449,153,423,244,410,300,401,356,389,501,386,646,390,784,397,905,392,905,385,784,381,646,384,500,395,356,405,299,418,243,444,152"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="470,152,533,339,528,341,465,154"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="560,87,679,153"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="622,153,622,340,617,340,617,153"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="272,1264,280,251,285,251,278,1264"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="370,1353,388,1362,395,1378,393,1390,386,1397,382,1394,388,1387,390,1379,384,1366,368,1357"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="87,87,138,153"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="115,153,115,496,110,496,110,153"/>
+</map>

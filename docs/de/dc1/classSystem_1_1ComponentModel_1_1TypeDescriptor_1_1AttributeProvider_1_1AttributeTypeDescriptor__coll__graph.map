@@ -1,0 +1,11 @@
+<map id="System.ComponentModel.TypeDescriptor.AttributeProvider.AttributeTypeDescriptor" name="System.ComponentModel.TypeDescriptor.AttributeProvider.AttributeTypeDescriptor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="274,1913,529,2072"/>
+<area shape="rect" id="Node000002" href="$d6/d39/classSystem_1_1ComponentModel_1_1CustomTypeDescriptor.html" title=" " alt="" coords="123,925,367,1455"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,1468,389,1913,383,1914,297,1469"/>
+<area shape="rect" id="Node000003" href="$d8/d25/interfaceSystem_1_1ComponentModel_1_1ICustomTypeDescriptor.html" title=" " alt="" coords="5,13,229,459"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="152,473,212,924,207,925,146,474"/>
+<area shape="rect" id="Node000004" href="$d8/d25/interfaceSystem_1_1ComponentModel_1_1ICustomTypeDescriptor.html" title=" " alt="" coords="253,5,493,467"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="345,467,286,909,280,908,340,467"/>
+<area shape="rect" id="Node000005" href="$d1/d05/classSystem_1_1Attribute.html" title=" " alt="" coords="392,529,725,1851"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="432,1852,422,1898,417,1897,426,1851"/>
+</map>

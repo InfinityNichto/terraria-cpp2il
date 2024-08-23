@@ -1,10 +1,12 @@
 <map id="Terraria.GameContent.Creative.CreativePowersHelper.CreativePowerIconLocations" name="Terraria.GameContent.Creative.CreativePowersHelper.CreativePowerIconLocations">
-<area shape="rect" id="Node000001" title=" " alt="" coords="6,601,263,1127"/>
-<area shape="rect" id="Node000002" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="31,148,238,392"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,392,137,585,132,585,132,392"/>
-<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="239,241,257,251,265,270,262,282,254,291,250,288,257,280,259,270,253,255,237,246"/>
-<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="5,5,152,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,83,108,147,103,148,87,85"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="177,5,207,71"/>
-<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="187,71,172,132,166,131,182,70"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,749,281,1309"/>
+<area shape="rect" id="Node000002" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="49,276,256,540"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,540,155,733,150,733,150,540"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="257,377,275,388,283,408,280,421,273,430,268,427,275,419,277,408,271,392,255,382"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="13,133,173,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,212,122,275,117,276,101,213"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,85,95,133,90,133,90,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="197,133,228,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="207,200,192,260,187,259,202,198"/>
 </map>

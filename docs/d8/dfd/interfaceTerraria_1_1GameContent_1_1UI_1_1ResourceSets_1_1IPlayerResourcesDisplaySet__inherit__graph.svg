@@ -77,36 +77,42 @@ var sectionId = 'dynsection-0';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../d4/db4/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1ClassicPlayerResourcesDisplaySet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="195,-510.5 0,-510.5 0,-297.5 195,-297.5 195,-510.5"/>
-<text text-anchor="start" x="5.5" y="-498" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.UI.</text>
-<text text-anchor="start" x="5.5" y="-487" font-family="Helvetica,sans-Serif" font-size="10.00">ResourceSets.ClassicPlayerResources</text>
-<text text-anchor="start" x="71.5" y="-476" font-family="Helvetica,sans-Serif" font-size="10.00">DisplaySet</text>
-<text text-anchor="start" x="9.5" y="-461" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-461" font-family="Helvetica,sans-Serif" font-size="10.00">string NameKey</text>
-<text text-anchor="start" x="9.5" y="-446" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-446" font-family="Helvetica,sans-Serif" font-size="10.00">string ConfigKey</text>
-<text text-anchor="start" x="12" y="-431" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="27.5" y="-431" font-family="Helvetica,sans-Serif" font-size="10.00">int UIDisplay_ManaPerStar</text>
-<text text-anchor="start" x="12" y="-416" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="27.5" y="-416" font-family="Helvetica,sans-Serif" font-size="10.00">float UIDisplay_LifePerHeart</text>
-<text text-anchor="start" x="12" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="27.5" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00">int UI_ScreenAnchorX</text>
-<text text-anchor="start" x="9.5" y="-386" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-386" font-family="Helvetica,sans-Serif" font-size="10.00">ClassicPlayerResourcesDisplay</text>
-<text text-anchor="start" x="27.5" y="-375" font-family="Helvetica,sans-Serif" font-size="10.00">Set(string nameKey, string</text>
-<text text-anchor="start" x="27.5" y="-364" font-family="Helvetica,sans-Serif" font-size="10.00"> configKey)</text>
-<text text-anchor="start" x="9.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">void Draw()</text>
-<text text-anchor="start" x="9.5" y="-334" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-334" font-family="Helvetica,sans-Serif" font-size="10.00">void TryToHover()</text>
-<text text-anchor="start" x="12" y="-319" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="27.5" y="-319" font-family="Helvetica,sans-Serif" font-size="10.00">void DrawLife()</text>
-<text text-anchor="start" x="12" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="27.5" y="-304" font-family="Helvetica,sans-Serif" font-size="10.00">void DrawMana()</text>
-<polygon fill="#666666" stroke="#666666" points="0.5,-471 0.5,-471 195.5,-471 195.5,-471 0.5,-471"/>
-<polygon fill="#666666" stroke="#666666" points="0.5,-396 0.5,-396 25.5,-396 25.5,-396 0.5,-396"/>
-<polygon fill="#666666" stroke="#666666" points="25.5,-396 25.5,-396 195.5,-396 195.5,-396 25.5,-396"/>
-<polygon fill="none" stroke="#666666" points="0,-297.5 0,-510.5 195,-510.5 195,-297.5 0,-297.5"/>
+<polygon fill="white" stroke="transparent" points="195,-536.5 0,-536.5 0,-271.5 195,-271.5 195,-536.5"/>
+<text text-anchor="start" x="5.5" y="-524" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.UI.</text>
+<text text-anchor="start" x="5.5" y="-513" font-family="Helvetica,sans-Serif" font-size="10.00">ResourceSets.ClassicPlayerResources</text>
+<text text-anchor="start" x="71.5" y="-502" font-family="Helvetica,sans-Serif" font-size="10.00">DisplaySet</text>
+<text text-anchor="start" x="9.5" y="-487" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="27.5" y="-487" font-family="Helvetica,sans-Serif" font-size="10.00">string NameKey</text>
+<text text-anchor="start" x="9.5" y="-472" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="27.5" y="-472" font-family="Helvetica,sans-Serif" font-size="10.00">string ConfigKey</text>
+<text text-anchor="start" x="12" y="-457" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="27.5" y="-457" font-family="Helvetica,sans-Serif" font-size="10.00">int UIDisplay_ManaPerStar</text>
+<text text-anchor="start" x="12" y="-442" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="27.5" y="-442" font-family="Helvetica,sans-Serif" font-size="10.00">float UIDisplay_LifePerHeart</text>
+<text text-anchor="start" x="12" y="-427" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="27.5" y="-427" font-family="Helvetica,sans-Serif" font-size="10.00">int UI_ScreenAnchorX</text>
+<text text-anchor="start" x="12" y="-412" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="27.5" y="-412" font-family="Helvetica,sans-Serif" font-size="10.00">string&lt; NameKey &gt; k</text>
+<text text-anchor="start" x="27.5" y="-401" font-family="Helvetica,sans-Serif" font-size="10.00">__BackingField</text>
+<text text-anchor="start" x="12" y="-386" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="27.5" y="-386" font-family="Helvetica,sans-Serif" font-size="10.00">string&lt; ConfigKey &gt;</text>
+<text text-anchor="start" x="27.5" y="-375" font-family="Helvetica,sans-Serif" font-size="10.00"> k__BackingField</text>
+<text text-anchor="start" x="9.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="27.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00">ClassicPlayerResourcesDisplay</text>
+<text text-anchor="start" x="27.5" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00">Set(string nameKey, string</text>
+<text text-anchor="start" x="27.5" y="-338" font-family="Helvetica,sans-Serif" font-size="10.00"> configKey)</text>
+<text text-anchor="start" x="9.5" y="-323" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="27.5" y="-323" font-family="Helvetica,sans-Serif" font-size="10.00">void Draw()</text>
+<text text-anchor="start" x="9.5" y="-308" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="27.5" y="-308" font-family="Helvetica,sans-Serif" font-size="10.00">void TryToHover()</text>
+<text text-anchor="start" x="12" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="27.5" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">void DrawLife()</text>
+<text text-anchor="start" x="12" y="-278" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="27.5" y="-278" font-family="Helvetica,sans-Serif" font-size="10.00">void DrawMana()</text>
+<polygon fill="#666666" stroke="#666666" points="0.5,-497 0.5,-497 195.5,-497 195.5,-497 0.5,-497"/>
+<polygon fill="#666666" stroke="#666666" points="0.5,-370 0.5,-370 25.5,-370 25.5,-370 0.5,-370"/>
+<polygon fill="#666666" stroke="#666666" points="25.5,-370 25.5,-370 195.5,-370 195.5,-370 25.5,-370"/>
+<polygon fill="none" stroke="#666666" points="0,-271.5 0,-536.5 195,-536.5 195,-271.5 0,-271.5"/>
 </a>
 </g>
 </g>
@@ -114,7 +120,7 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
 <g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M252.51,-848.84C234.5,-837.96 217.25,-824.44 204.5,-808 137.97,-722.18 112.67,-598.58 103.12,-510.92"/>
+<path fill="none" stroke="#63b8ff" d="M252.51,-848.84C234.5,-837.96 217.25,-824.44 204.5,-808 144.29,-730.34 117.85,-621.72 106.29,-536.81"/>
 <polygon fill="none" stroke="#63b8ff" points="250.99,-852.01 261.4,-853.98 254.49,-845.94 250.99,-852.01"/>
 </a>
 </g>
@@ -151,7 +157,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="230.5" y="-594" font-family="Helvetica,sans-Serif" font-size="10.00">int _lastStarFillingIndex</text>
 <text text-anchor="start" x="220" y="-579" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="230.5" y="-579" font-family="Helvetica,sans-Serif" font-size="10.00">float _manaPerStar</text>
-<text text-anchor="start" x="230.5" y="-564" font-family="Helvetica,sans-Serif" font-size="10.00">and 16 more...</text>
+<text text-anchor="start" x="230.5" y="-564" font-family="Helvetica,sans-Serif" font-size="10.00">and 18 more...</text>
 <text text-anchor="start" x="217.5" y="-549" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="230.5" y="-549" font-family="Helvetica,sans-Serif" font-size="10.00">FancyClassicPlayerResources</text>
 <text text-anchor="start" x="230.5" y="-538" font-family="Helvetica,sans-Serif" font-size="10.00">DisplaySet(string nameKey,</text>
@@ -258,7 +264,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="498" y="-594" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="508.5" y="-594" font-family="Helvetica,sans-Serif" font-size="10.00">Asset&lt; Texture2D &gt;</text>
 <text text-anchor="start" x="508.5" y="-583" font-family="Helvetica,sans-Serif" font-size="10.00"> _hpFill</text>
-<text text-anchor="start" x="508.5" y="-568" font-family="Helvetica,sans-Serif" font-size="10.00">and 7 more...</text>
+<text text-anchor="start" x="508.5" y="-568" font-family="Helvetica,sans-Serif" font-size="10.00">and 9 more...</text>
 <text text-anchor="start" x="495.5" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="508.5" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">HorizontalBarsPlayerResources</text>
 <text text-anchor="start" x="508.5" y="-542" font-family="Helvetica,sans-Serif" font-size="10.00">DisplaySet(string nameKey,</text>

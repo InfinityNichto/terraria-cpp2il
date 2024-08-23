@@ -1,6 +1,7 @@
 var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader =
 [
     [ "ScreenShader", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader_a43c10cff14982f3372eca79256cdecdf.html#a43c10cff14982f3372eca79256cdecdf", null ],
+    [ "ScreenShader", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader_a38be9395431c90bc4ac9afec1d877196.html#a38be9395431c90bc4ac9afec1d877196", null ],
     [ "ApplyValuesToMaterial", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader_a167c27f7613b4d7f897ba043d8c3023e.html#a167c27f7613b4d7f897ba043d8c3023e", null ],
     [ "Clone", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#ad1ff0e32cdc924e382e538e2c7c09762", null ],
     [ "Clone", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#aed3bcbdb09f5ad7a1291d847fc9e81d1", null ],
@@ -41,8 +42,10 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader =
     [ "_uZoom", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader_a9d05f2aaa1f2fd2c6a8990803986e9cc.html#a9d05f2aaa1f2fd2c6a8990803986e9cc", null ],
     [ "_Zoom", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader_ab702fb3121972aaff259c0b2d7cae08d.html#ab702fb3121972aaff259c0b2d7cae08d", null ],
     [ "graphicsDevice", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#aface84a9f5668723af51de00fe9c8e05", null ],
+    [ "k__BackingField", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#ada601dd3cbeffa9e614594772f582087", null ],
+    [ "k__BackingField", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#a644f8c9efc2d7fa2aa057d5caa8a678b", null ],
     [ "CurrentTechnique", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#aa729f5ff6f541bda623ffc4989d0275a", null ],
-    [ "Disposing", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#a1c65b8ccd067c23aaf35c476f17b27d9", null ],
+    [ "Disposing", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#a2b70d6536692f4b0a23ceba9e77cc28c", null ],
     [ "Effect", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader_ad97f8a8cee9789c92a7f86c1786ec741.html#ad97f8a8cee9789c92a7f86c1786ec741", null ],
     [ "GraphicsDevice", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#a28226ae3e3f7cdb8e507e1ceee36d185", null ],
     [ "Name", "db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html#a1ce12831dc9f1f18d4132bea55205480", null ],

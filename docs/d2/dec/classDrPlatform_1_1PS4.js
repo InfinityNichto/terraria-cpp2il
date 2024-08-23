@@ -2,6 +2,7 @@ var classDrPlatform_1_1PS4 =
 [
     [ "User", "df/dad/classDrPlatform_1_1PS4_1_1User.html", "df/dad/classDrPlatform_1_1PS4_1_1User" ],
     [ "PS4", "d2/dec/classDrPlatform_1_1PS4_a224d736024ca7f66397939bb42d8c3c3.html#a224d736024ca7f66397939bb42d8c3c3", null ],
+    [ "PS4", "d2/dec/classDrPlatform_1_1PS4_a75cbd6f37bbf64879c111bcca4c2400c.html#a75cbd6f37bbf64879c111bcca4c2400c", null ],
     [ "NotfityMultiplayerRealTimeUsage", "d2/dec/classDrPlatform_1_1PS4_a7d32c270d823dcea0e30b04422b69f77.html#a7d32c270d823dcea0e30b04422b69f77", null ],
     [ "Setup", "d2/dec/classDrPlatform_1_1PS4_a54b5cb8fb6e87b8560e46ae7a5895bb1.html#a54b5cb8fb6e87b8560e46ae7a5895bb1", null ],
     [ "Start", "d2/dec/classDrPlatform_1_1PS4_a3033d756f77ee19151555229afa95dd9.html#a3033d756f77ee19151555229afa95dd9", null ],
@@ -13,14 +14,14 @@ var classDrPlatform_1_1PS4 =
     [ "_setup", "d2/dec/classDrPlatform_1_1PS4_abddebee85b611dd27126ed32a1fc6e28.html#abddebee85b611dd27126ed32a1fc6e28", null ],
     [ "_socketsTimer", "d2/dec/classDrPlatform_1_1PS4_a29cbc9d8fbea355a35e89a494b436274.html#a29cbc9d8fbea355a35e89a494b436274", null ],
     [ "DisablePlatformChecks", "d2/dec/classDrPlatform_1_1PS4_a1a87e25323aa464748c59477a73f831f.html#a1a87e25323aa464748c59477a73f831f", null ],
-    [ "lastUnityMousePosition", "d2/dec/classDrPlatform_1_1PS4_af1b028b3f1cfdefd186977939d48d00f.html#af1b028b3f1cfdefd186977939d48d00f", null ],
+    [ "lastUnityMousePosition", "d2/dec/classDrPlatform_1_1PS4_a9c742e7f5352d468a8b08471104285d2.html#a9c742e7f5352d468a8b08471104285d2", null ],
     [ "MouseButton0", "d2/dec/classDrPlatform_1_1PS4_a03bfdab73ca1b3b59f71aeb665ca8717.html#a03bfdab73ca1b3b59f71aeb665ca8717", null ],
     [ "MouseButton1", "d2/dec/classDrPlatform_1_1PS4_a0ca9bfa0fba533fabbb70dcf9eedc4f8.html#a0ca9bfa0fba533fabbb70dcf9eedc4f8", null ],
     [ "MouseButton2", "d2/dec/classDrPlatform_1_1PS4_a70f14f49e313e75b9e3ac63f66dd0b7a.html#a70f14f49e313e75b9e3ac63f66dd0b7a", null ],
     [ "MouseButtonPrev0", "d2/dec/classDrPlatform_1_1PS4_aad8e962d9f623606cc5cf52e89cddbd4.html#aad8e962d9f623606cc5cf52e89cddbd4", null ],
     [ "MouseButtonPrev1", "d2/dec/classDrPlatform_1_1PS4_ad850800b26054bd4b5517432b01f8991.html#ad850800b26054bd4b5517432b01f8991", null ],
     [ "MouseButtonPrev2", "d2/dec/classDrPlatform_1_1PS4_a475735cc8f113831ad3675c9dcae23e7.html#a475735cc8f113831ad3675c9dcae23e7", null ],
-    [ "MousePosition", "d2/dec/classDrPlatform_1_1PS4_ae49345ea290083ac7b9c141a8c508f48.html#ae49345ea290083ac7b9c141a8c508f48", null ],
+    [ "MousePosition", "d2/dec/classDrPlatform_1_1PS4_abb11cdff1a1750eac9abc877acd06f13.html#abb11cdff1a1750eac9abc877acd06f13", null ],
     [ "SOCKET_CLEANUP_TIME", "d2/dec/classDrPlatform_1_1PS4_a7ce5f1b93a6e0936f283a8caaf9a6c0e.html#a7ce5f1b93a6e0936f283a8caaf9a6c0e", null ],
     [ "wasMouseConnected", "d2/dec/classDrPlatform_1_1PS4_a84e40989a80eade8d3eedff3f438e781.html#a84e40989a80eade8d3eedff3f438e781", null ]
 ];

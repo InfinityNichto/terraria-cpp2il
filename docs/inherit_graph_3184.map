@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d5/d3e/interfaceTerraria_1_1Social_1_1ISocialModule.html" title=" " alt="" coords="5,301,215,326"/>
+<area shape="rect" id="Node000001" href="$d3/df9/classTerraria_1_1Social_1_1Base_1_1AchievementsSocialModule.html" title=" " alt="" coords="263,5,509,45"/>
+<area shape="poly" id="edge4486_Node000000_Node000001" title=" " alt="" coords="117,287,135,237,165,174,207,110,232,81,261,55,281,43,284,48,264,59,236,84,211,113,169,177,140,239,122,288"/>
+<area shape="rect" id="Node000002" href="$da/d03/classTerraria_1_1Social_1_1Base_1_1CloudSocialModule.html" title=" " alt="" coords="291,69,481,109"/>
+<area shape="poly" id="edge4487_Node000000_Node000002" title=" " alt="" coords="122,287,143,250,175,204,214,158,261,119,289,105,291,110,264,124,218,162,179,207,148,252,126,290"/>
+<area shape="rect" id="Node000003" href="$d7/dc8/classTerraria_1_1Social_1_1Base_1_1FriendsSocialModule.html" title=" " alt="" coords="285,133,487,173"/>
+<area shape="poly" id="edge4488_Node000000_Node000003" title=" " alt="" coords="130,289,186,236,222,207,261,183,289,171,292,176,264,188,225,212,189,240,134,293"/>
+<area shape="rect" id="Node000004" href="$d0/db4/classTerraria_1_1Social_1_1Base_1_1NetSocialModule.html" title=" " alt="" coords="297,197,475,237"/>
+<area shape="poly" id="edge4489_Node000000_Node000004" title=" " alt="" coords="150,292,262,247,301,235,302,240,264,252,152,297"/>
+<area shape="rect" id="Node000005" href="$d9/dde/classTerraria_1_1Social_1_1Base_1_1OverlaySocialModule.html" title=" " alt="" coords="283,261,489,301"/>
+<area shape="poly" id="edge4490_Node000000_Node000005" title=" " alt="" coords="228,297,283,291,283,296,229,302"/>
+<area shape="rect" id="Node000006" href="$db/deb/classTerraria_1_1Social_1_1Base_1_1PlatformSocialModule.html" title=" " alt="" coords="281,325,491,365"/>
+<area shape="poly" id="edge4491_Node000000_Node000006" title=" " alt="" coords="229,324,281,330,280,336,228,330"/>
+<area shape="rect" id="Node000007" href="$dd/d46/classTerraria_1_1Social_1_1Discord_1_1CoreSocialModule.html" title=" " alt="" coords="301,389,471,429"/>
+<area shape="poly" id="edge4492_Node000000_Node000007" title=" " alt="" coords="152,329,264,375,302,387,301,392,262,380,150,334"/>
+<area shape="rect" id="Node000008" href="$de/d04/classTerraria_1_1Social_1_1Discord_1_1JoinRequestSocialModule.html" title=" " alt="" coords="293,453,479,493"/>
+<area shape="poly" id="edge4493_Node000000_Node000008" title=" " alt="" coords="134,334,189,387,225,415,264,439,293,451,291,456,261,444,222,419,186,391,130,338"/>
+<area shape="rect" id="Node000009" href="$d8/de8/classTerraria_1_1Social_1_1Discord_1_1RichPresenceSocialModule.html" title=" " alt="" coords="288,517,484,557"/>
+<area shape="poly" id="edge4494_Node000000_Node000009" title=" " alt="" coords="126,337,148,374,179,419,218,465,264,503,289,516,286,521,261,508,214,469,175,423,143,377,122,340"/>
+<area shape="rect" id="Node000010" href="$df/d71/classTerraria_1_1Social_1_1Steam_1_1CoreSocialModule.html" title=" " alt="" coords="289,581,483,621"/>
+<area shape="poly" id="edge4495_Node000000_Node000010" title=" " alt="" coords="122,338,140,387,169,450,211,513,236,542,264,567,289,581,287,586,261,572,232,546,207,517,165,452,135,390,117,340"/>
+</map>

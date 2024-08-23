@@ -1,6 +1,7 @@
 var classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance =
 [
     [ "SoundEffectInstance", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_acf3a0c351c881033d0f0f5c516cfba8a.html#acf3a0c351c881033d0f0f5c516cfba8a", null ],
+    [ "SoundEffectInstance", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a15009e456cb4149ffadd156a49596a0c.html#a15009e456cb4149ffadd156a49596a0c", null ],
     [ "Pause", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a386b7297f4d25126b21cd60095347788.html#a386b7297f4d25126b21cd60095347788", null ],
     [ "Play", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a9f6b200d01348cbad1977035d0889aef.html#a9f6b200d01348cbad1977035d0889aef", null ],
     [ "PlayOnMainThread", "d6/d9e/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1SoundEffectInstance_a789820e6599c5cbab3038e5eb88934a8.html#a789820e6599c5cbab3038e5eb88934a8", null ],

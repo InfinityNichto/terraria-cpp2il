@@ -2,8 +2,9 @@ var classTerraria_1_1Net_1_1NetManager =
 [
     [ "PacketTypeStorage", "da/d10/classTerraria_1_1Net_1_1NetManager_1_1PacketTypeStorage.html", "da/d10/classTerraria_1_1Net_1_1NetManager_1_1PacketTypeStorage" ],
     [ "NetManager", "de/d3b/classTerraria_1_1Net_1_1NetManager_aa893b1548b6fbc97c572e0c33f8b8630.html#aa893b1548b6fbc97c572e0c33f8b8630", null ],
-    [ "Broadcast", "de/d3b/classTerraria_1_1Net_1_1NetManager_a9824e13fb32cc1a4b299e99bbd923db5.html#a9824e13fb32cc1a4b299e99bbd923db5", null ],
+    [ "NetManager", "de/d3b/classTerraria_1_1Net_1_1NetManager_a2693319012257fbad0bf259c8cf05c64.html#a2693319012257fbad0bf259c8cf05c64", null ],
     [ "Broadcast", "de/d3b/classTerraria_1_1Net_1_1NetManager_a216f3e855a8d70b2aa070502a21f63af.html#a216f3e855a8d70b2aa070502a21f63af", null ],
+    [ "Broadcast", "de/d3b/classTerraria_1_1Net_1_1NetManager_a772b3b50f5516455081a1cacac6a5e49.html#a772b3b50f5516455081a1cacac6a5e49", null ],
     [ "BroadcastCondition", "de/d3b/classTerraria_1_1Net_1_1NetManager_a65b9e7edab0b609bdca1ffd536570ecf.html#a65b9e7edab0b609bdca1ffd536570ecf", null ],
     [ "BroadcastOrLoopback", "de/d3b/classTerraria_1_1Net_1_1NetManager_a0c09e08d41a708f20b888deee8c0d26d.html#a0c09e08d41a708f20b888deee8c0d26d", null ],
     [ "GetId< T >", "de/d3b/classTerraria_1_1Net_1_1NetManager_aeccc8411a3f27a8bee8b1a1c1dfb3c90.html#aeccc8411a3f27a8bee8b1a1c1dfb3c90", null ],

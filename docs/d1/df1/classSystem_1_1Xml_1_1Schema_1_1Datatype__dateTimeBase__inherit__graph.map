@@ -1,0 +1,33 @@
+<map id="System.Xml.Schema.Datatype_dateTimeBase" name="System.Xml.Schema.Datatype_dateTimeBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1375,3073,1637,3608"/>
+<area shape="rect" id="Node000005" href="$d6/d71/classSystem_1_1Xml_1_1Schema_1_1Datatype__date.html" title=" " alt="" coords="5,3663,255,3743"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1362,3378,875,3495,572,3574,268,3659,244,3666,243,3661,267,3653,570,3568,874,3490,1361,3372"/>
+<area shape="rect" id="Node000006" href="$d2/d98/classSystem_1_1Xml_1_1Schema_1_1Datatype__dateTime.html" title=" " alt="" coords="279,3663,493,3743"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1362,3387,974,3505,739,3580,506,3659,486,3666,484,3661,504,3653,738,3575,972,3500,1360,3382"/>
+<area shape="rect" id="Node000007" href="$df/db4/classSystem_1_1Xml_1_1Schema_1_1Datatype__dateTimeNoTimeZone.html" title=" " alt="" coords="517,3656,730,3751"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1363,3403,731,3661,729,3656,1361,3398"/>
+<area shape="rect" id="Node000008" href="$d9/d00/classSystem_1_1Xml_1_1Schema_1_1Datatype__dateTimeTimeZone.html" title=" " alt="" coords="755,3663,988,3743"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1364,3426,941,3666,938,3661,1361,3421"/>
+<area shape="rect" id="Node000009" href="$d4/db9/classSystem_1_1Xml_1_1Schema_1_1Datatype__day.html" title=" " alt="" coords="1012,3663,1256,3743"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1366,3481,1176,3665,1172,3661,1362,3477"/>
+<area shape="rect" id="Node000010" href="$d3/d84/classSystem_1_1Xml_1_1Schema_1_1Datatype__month.html" title=" " alt="" coords="1281,3656,1494,3751"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1416,3622,1405,3657,1400,3655,1411,3620"/>
+<area shape="rect" id="Node000011" href="$dc/dcd/classSystem_1_1Xml_1_1Schema_1_1Datatype__monthDay.html" title=" " alt="" coords="1518,3656,1731,3751"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1601,3620,1612,3655,1607,3657,1596,3622"/>
+<area shape="rect" id="Node000012" href="$d2/dd1/classSystem_1_1Xml_1_1Schema_1_1Datatype__time.html" title=" " alt="" coords="1755,3663,2006,3743"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1649,3476,1842,3661,1838,3665,1645,3480"/>
+<area shape="rect" id="Node000013" href="$d5/dcc/classSystem_1_1Xml_1_1Schema_1_1Datatype__timeNoTimeZone.html" title=" " alt="" coords="2031,3663,2251,3743"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1651,3421,2074,3661,2071,3666,1648,3426"/>
+<area shape="rect" id="Node000014" href="$dc/da8/classSystem_1_1Xml_1_1Schema_1_1Datatype__timeTimeZone.html" title=" " alt="" coords="2275,3663,2489,3743"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1651,3399,2289,3661,2287,3666,1649,3404"/>
+<area shape="rect" id="Node000015" href="$db/d0c/classSystem_1_1Xml_1_1Schema_1_1Datatype__year.html" title=" " alt="" coords="2513,3663,2763,3743"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1651,3384,2501,3653,2524,3661,2522,3666,2500,3659,1650,3389"/>
+<area shape="rect" id="Node000016" href="$d7/d92/classSystem_1_1Xml_1_1Schema_1_1Datatype__yearMonth.html" title=" " alt="" coords="2787,3656,3001,3751"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1651,3369,1871,3417,2152,3482,2464,3562,2776,3653,2788,3657,2786,3662,2775,3659,2463,3568,2151,3487,1870,3422,1650,3374"/>
+<area shape="rect" id="Node000002" href="$d4/dd4/classSystem_1_1Xml_1_1Schema_1_1Datatype__anySimpleType.html" title=" " alt="" coords="1377,2520,1635,3025"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1509,3039,1509,3073,1503,3073,1503,3039"/>
+<area shape="rect" id="Node000003" href="$d5/d91/classSystem_1_1Xml_1_1Schema_1_1DatatypeImplementation.html" title=" " alt="" coords="1328,589,1684,2472"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1509,2486,1509,2520,1503,2520,1503,2486"/>
+<area shape="rect" id="Node000004" href="$d0/d13/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaDatatype.html" title=" " alt="" coords="1365,5,1647,541"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1509,555,1509,589,1503,589,1503,555"/>
+</map>

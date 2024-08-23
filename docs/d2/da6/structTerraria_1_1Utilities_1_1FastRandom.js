@@ -12,6 +12,7 @@ var structTerraria_1_1Utilities_1_1FastRandom =
     [ "NextSeed", "d2/da6/structTerraria_1_1Utilities_1_1FastRandom_a57c4bc90e47ef5466a28b7801afc71d6.html#a57c4bc90e47ef5466a28b7801afc71d6", null ],
     [ "WithModifier", "d2/da6/structTerraria_1_1Utilities_1_1FastRandom_a614828b8cc182ca7ed3cecbf5fd51f49.html#a614828b8cc182ca7ed3cecbf5fd51f49", null ],
     [ "WithModifier", "d2/da6/structTerraria_1_1Utilities_1_1FastRandom_a9bceca0a85180bbf5512551ea00885ec.html#a9bceca0a85180bbf5512551ea00885ec", null ],
+    [ "k__BackingField", "d2/da6/structTerraria_1_1Utilities_1_1FastRandom_a01376882e87f445987e22197eaef65fa.html#a01376882e87f445987e22197eaef65fa", null ],
     [ "RANDOM_ADD", "d2/da6/structTerraria_1_1Utilities_1_1FastRandom_a9341a634b7dfceb65c5acbd989bd7bf7.html#a9341a634b7dfceb65c5acbd989bd7bf7", null ],
     [ "RANDOM_MASK", "d2/da6/structTerraria_1_1Utilities_1_1FastRandom_a90e9a59071c5e3c8b68ba5869443b110.html#a90e9a59071c5e3c8b68ba5869443b110", null ],
     [ "RANDOM_MULTIPLIER", "d2/da6/structTerraria_1_1Utilities_1_1FastRandom_aacd73b52cbd917940998385a04aa1c8e.html#aacd73b52cbd917940998385a04aa1c8e", null ],

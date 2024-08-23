@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1HandOff =
 [
     [ "Sets", "d9/dd6/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOff_1_1Sets.html", "d9/dd6/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOff_1_1Sets" ],
     [ "HandOff", "d3/d93/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOff_a9e57991ba3018e07d743375e5fccdacd.html#a9e57991ba3018e07d743375e5fccdacd", null ],
+    [ "HandOff", "d3/d93/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOff_aae7226327185e8af08450195a8badea1.html#aae7226327185e8af08450195a8badea1", null ],
     [ "BersekerGlove", "d3/d93/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOff_a6a160e44f73e369c225658dc173bb45c.html#a6a160e44f73e369c225658dc173bb45c", null ],
     [ "BoneGlove", "d3/d93/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOff_a82844270f07e501a171d1a77ecc4da8b.html#a82844270f07e501a171d1a77ecc4da8b", null ],
     [ "CelestialCuffs", "d3/d93/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOff_aad2b90d2a792f0f1bc978f672d44ba80.html#aad2b90d2a792f0f1bc978f672d44ba80", null ],

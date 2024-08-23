@@ -2,6 +2,7 @@ var classTerraria_1_1UI_1_1UserInterface =
 [
     [ "InputPointerCache", "dd/d9a/classTerraria_1_1UI_1_1UserInterface_1_1InputPointerCache.html", "dd/d9a/classTerraria_1_1UI_1_1UserInterface_1_1InputPointerCache" ],
     [ "UserInterface", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a2ebdf8235dcda0f0de1e5f0e33beff82.html#a2ebdf8235dcda0f0de1e5f0e33beff82", null ],
+    [ "UserInterface", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_aba9ad628c6d249570418d31c6d41eb28.html#aba9ad628c6d249570418d31c6d41eb28", null ],
     [ "AddToHistory", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a55c8c67209f0a24361ad382cd714f0e0.html#a55c8c67209f0a24361ad382cd714f0e0", null ],
     [ "ClearPointers", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_acfe538a1d130b3508ff7e95a8678e967.html#acfe538a1d130b3508ff7e95a8678e967", null ],
     [ "Draw", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a5ab4e3c3b894e8228528a535f624d90e.html#a5ab4e3c3b894e8228528a535f624d90e", null ],
@@ -10,7 +11,7 @@ var classTerraria_1_1UI_1_1UserInterface =
     [ "GetDimensions", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_af1df38079c1c3550e041458b43a9aceb.html#af1df38079c1c3550e041458b43a9aceb", null ],
     [ "GetMousePosition", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_afd497e75a0f15df007150576920ee8d9.html#afd497e75a0f15df007150576920ee8d9", null ],
     [ "GoBack", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_aead303b76d389bd4c72d5c6c00bd1f17.html#aead303b76d389bd4c72d5c6c00bd1f17", null ],
-    [ "HandleClick", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_ade7eb30ee3fec42dbacce78ca05ce874.html#ade7eb30ee3fec42dbacce78ca05ce874", null ],
+    [ "HandleClick", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a36be12979b13989e8e9071089669a4dd.html#a36be12979b13989e8e9071089669a4dd", null ],
     [ "ImmediatelyUpdateInputPointers", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_ab378b5b38fb675be20df690581fe0d52.html#ab378b5b38fb675be20df690581fe0d52", null ],
     [ "IsElementUnderMouse", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a65207d2f7304432ce45c6c4c90a093a2.html#a65207d2f7304432ce45c6c4c90a093a2", null ],
     [ "MouseElementEvent", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_ae98a3aa4a43469b445699246f4ee29b9.html#ae98a3aa4a43469b445699246f4ee29b9", null ],
@@ -30,10 +31,10 @@ var classTerraria_1_1UI_1_1UserInterface =
     [ "DOUBLE_CLICK_TIME", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_aef0f4dc5078757cc9d64335daa6c5193.html#aef0f4dc5078757cc9d64335daa6c5193", null ],
     [ "HISTORY_PRUNE_SIZE", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a04bca8f0194c72a029a61b44d1eae6a3.html#a04bca8f0194c72a029a61b44d1eae6a3", null ],
     [ "IsVisible", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a97962c7a7acee8b4f789d230a568e4e9.html#a97962c7a7acee8b4f789d230a568e4e9", null ],
-    [ "LeftMouse", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_af6ad2694a733bbcf051577e1b47129ec.html#af6ad2694a733bbcf051577e1b47129ec", null ],
+    [ "LeftMouse", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a714b221846a04edf8b1153c629d56ff1.html#a714b221846a04edf8b1153c629d56ff1", null ],
     [ "MAX_HISTORY_SIZE", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a69f6571623875536109cb69f53ccd9de.html#a69f6571623875536109cb69f53ccd9de", null ],
     [ "MousePosition", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a8887255d6bc05ee466a98bd2ce505d58.html#a8887255d6bc05ee466a98bd2ce505d58", null ],
-    [ "RightMouse", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_aa25933443b1b4906f23e3eaa6f987727.html#aa25933443b1b4906f23e3eaa6f987727", null ],
+    [ "RightMouse", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a5bfff68219f27cc2ec3834d252817d51.html#a5bfff68219f27cc2ec3834d252817d51", null ],
     [ "STATE_CHANGE_CLICK_DISABLE_TIME", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_a54a59737a71840d5620079f4f45c20c5.html#a54a59737a71840d5620079f4f45c20c5", null ],
     [ "CurrentState", "dc/dc4/classTerraria_1_1UI_1_1UserInterface_adc7646de007f419b41c79b1efe2a7ed7.html#adc7646de007f419b41c79b1efe2a7ed7", null ]
 ];

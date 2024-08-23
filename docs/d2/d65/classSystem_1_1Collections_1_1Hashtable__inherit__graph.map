@@ -1,0 +1,26 @@
+<map id="System.Collections.Hashtable" name="System.Collections.Hashtable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="513,604,814,2391"/>
+<area shape="rect" id="Node000008" href="$d6/d31/classSystem_1_1Collections_1_1Hashtable_1_1SyncHashtable.html" title=" " alt="" coords="5,2439,407,3197"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="511,1947,340,2439,335,2437,506,1945"/>
+<area shape="rect" id="Node000009" href="$d7/d11/classSystem_1_1ComponentModel_1_1WeakHashtable.html" title=" " alt="" coords="431,2686,653,2950"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="583,2405,557,2686,551,2686,577,2404"/>
+<area shape="rect" id="Node000010" href="$d5/d1b/classSystem_1_1Configuration_1_1SettingsAttributeDictionary.html" title=" " alt="" coords="678,2753,894,2883"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="750,2404,783,2753,777,2753,745,2405"/>
+<area shape="rect" id="Node000011" href="$d6/d5e/classSystem_1_1Configuration_1_1SettingsContext.html" title=" " alt="" coords="918,2778,1129,2858"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="820,2063,1015,2777,1010,2778,815,2064"/>
+<area shape="rect" id="Node000002" href="$d7/d23/interfaceSystem_1_1Collections_1_1IDictionary.html" title=" " alt="" coords="365,301,559,556"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="491,570,515,698,510,699,486,571"/>
+<area shape="rect" id="Node000003" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="457,119,624,253"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="567,266,574,301,597,450,616,603,610,604,592,451,569,302,562,268"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,267,506,302,501,300,512,266"/>
+<area shape="rect" id="Node000004" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="309,5,530,71"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="407,84,379,183,365,242,355,302,347,373,343,429,346,485,355,556,385,703,423,852,468,996,515,1130,510,1132,463,997,418,853,379,705,350,556,340,485,338,429,342,373,350,301,360,241,373,182,402,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="427,84,451,301,445,301,422,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="456,79,488,117,483,120,452,83"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="635,389,825,469"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="729,483,722,604,716,604,724,482"/>
+<area shape="rect" id="Node000006" href="$d0/d59/classglobal_1_1SystemRuntime_1_1Serialization_1_1IDeserializationCallback.html" title=" " alt="" coords="850,381,1063,476"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="943,490,817,949,811,948,938,489"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1088,396,1268,461"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="1159,475,816,1185,812,1183,1154,473"/>
+</map>

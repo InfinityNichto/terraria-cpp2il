@@ -10,6 +10,8 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1ABasicParticle =
     [ "_origin", "d4/d57/classTerraria_1_1Graphics_1_1Renderers_1_1ABasicParticle_ac2d27caf1ddf4bca402c998158968c7c.html#ac2d27caf1ddf4bca402c998158968c7c", null ],
     [ "_texture", "d4/d57/classTerraria_1_1Graphics_1_1Renderers_1_1ABasicParticle_adbed323160d9e157fa1aa192cb71171f.html#adbed323160d9e157fa1aa192cb71171f", null ],
     [ "AccelerationPerFrame", "d4/d57/classTerraria_1_1Graphics_1_1Renderers_1_1ABasicParticle_a5cc80500cc837f8ae8a33401f9aa223f.html#a5cc80500cc837f8ae8a33401f9aa223f", null ],
+    [ "k__BackingField", "d4/d57/classTerraria_1_1Graphics_1_1Renderers_1_1ABasicParticle_ac8614fc67db36e9087e4b4a3f0d59240.html#ac8614fc67db36e9087e4b4a3f0d59240", null ],
+    [ "k__BackingField", "d4/d57/classTerraria_1_1Graphics_1_1Renderers_1_1ABasicParticle_ad8ca4ee16e33f953b1d92f556adb8d85.html#ad8ca4ee16e33f953b1d92f556adb8d85", null ],
     [ "LocalPosition", "d4/d57/classTerraria_1_1Graphics_1_1Renderers_1_1ABasicParticle_a0de37b58f2ae916a5089fd67d6c86189.html#a0de37b58f2ae916a5089fd67d6c86189", null ],
     [ "Rotation", "d4/d57/classTerraria_1_1Graphics_1_1Renderers_1_1ABasicParticle_a742071d057f2d77d7cad514d998c1f00.html#a742071d057f2d77d7cad514d998c1f00", null ],
     [ "RotationAcceleration", "d4/d57/classTerraria_1_1Graphics_1_1Renderers_1_1ABasicParticle_a0de4f3ffb5dcaf54a9afb970b4a29139.html#a0de4f3ffb5dcaf54a9afb970b4a29139", null ],

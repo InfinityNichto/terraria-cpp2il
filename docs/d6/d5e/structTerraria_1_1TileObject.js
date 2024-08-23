@@ -1,6 +1,7 @@
 var structTerraria_1_1TileObject =
 [
-    [ "CanPlace", "d6/d5e/structTerraria_1_1TileObject_a209f66aaa5cb8a7484579af2a3f5d2b9.html#a209f66aaa5cb8a7484579af2a3f5d2b9", null ],
+    [ "TileObject", "d6/d5e/structTerraria_1_1TileObject_a5a3df30e71b52dddaa805db9bce14c2e.html#a5a3df30e71b52dddaa805db9bce14c2e", null ],
+    [ "CanPlace", "d6/d5e/structTerraria_1_1TileObject_a2f83b2e5cc66ed66add4052c5f215d55.html#a2f83b2e5cc66ed66add4052c5f215d55", null ],
     [ "DrawPreview", "d6/d5e/structTerraria_1_1TileObject_a3c6d8de94de622d35f23881b0e217185.html#a3c6d8de94de622d35f23881b0e217185", null ],
     [ "Place", "d6/d5e/structTerraria_1_1TileObject_a1eb17e4544ff3dc50458391af5705f21.html#a1eb17e4544ff3dc50458391af5705f21", null ],
     [ "alternate", "d6/d5e/structTerraria_1_1TileObject_afd2b51b889ca737dca3816d2b7fb9d90.html#afd2b51b889ca737dca3816d2b7fb9d90", null ],

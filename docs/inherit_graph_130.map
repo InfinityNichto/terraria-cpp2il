@@ -1,3 +1,14 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$de/d33/classGUIControllerMappings.html" title=" " alt="" coords="5,5,179,31"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="10,69,251,109"/>
+<area shape="rect" id="Node000001" href="$d1/d2b/interfaceSystem_1_1Runtime_1_1Remoting_1_1Activation_1_1IConstructionCallMessage.html" title=" " alt="" coords="313,55,516,110"/>
+<area shape="poly" id="edge2462_Node000000_Node000001" title=" " alt="" coords="265,84,313,82,313,88,265,89"/>
+<area shape="rect" id="Node000004" href="$df/dac/interfaceSystem_1_1Runtime_1_1Remoting_1_1Activation_1_1IConstructionReturnMessage.html" title=" " alt="" coords="304,134,525,189"/>
+<area shape="poly" id="edge2463_Node000000_Node000004" title=" " alt="" coords="224,110,307,131,306,137,223,115"/>
+<area shape="rect" id="Node000002" href="$d9/d0f/classglobal_1_1SystemRuntime_1_1Remoting_1_1Messaging_1_1IMethodCallMessage.html" title=" " alt="" coords="10,5,251,45"/>
+<area shape="poly" id="edge2464_Node000002_Node000001" title=" " alt="" coords="244,45,314,60,313,65,243,51"/>
+<area shape="rect" id="Node000003" href="$d4/da6/classglobal_1_1SystemRuntime_1_1Remoting_1_1Messaging_1_1IMethodMessage.html" title=" " alt="" coords="10,133,251,173"/>
+<area shape="poly" id="edge2465_Node000003_Node000001" title=" " alt="" coords="224,127,313,105,314,110,226,133"/>
+<area shape="poly" id="edge2466_Node000003_Node000004" title=" " alt="" coords="265,154,304,156,304,161,265,160"/>
+<area shape="rect" id="Node000005" href="$da/d39/classglobal_1_1SystemRuntime_1_1Remoting_1_1Messaging_1_1IMethodReturnMessage.html" title=" " alt="" coords="5,197,256,237"/>
+<area shape="poly" id="edge2467_Node000005_Node000004" title=" " alt="" coords="245,192,303,181,304,186,246,197"/>
 </map>

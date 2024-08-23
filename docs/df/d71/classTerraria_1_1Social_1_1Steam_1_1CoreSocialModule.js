@@ -15,5 +15,5 @@ var classTerraria_1_1Social_1_1Steam_1_1CoreSocialModule =
     [ "_steamTickLock", "df/d71/classTerraria_1_1Social_1_1Steam_1_1CoreSocialModule_a522087d7003f3e6994e4fe22bde4da6e.html#a522087d7003f3e6994e4fe22bde4da6e", null ],
     [ "IsSteamValid", "df/d71/classTerraria_1_1Social_1_1Steam_1_1CoreSocialModule_aa4fea0fa101871ec5ab1f19bd8b162c5.html#aa4fea0fa101871ec5ab1f19bd8b162c5", null ],
     [ "SteamAppId", "df/d71/classTerraria_1_1Social_1_1Steam_1_1CoreSocialModule_a5ce7d3fc71de84347d4ec2689dccc3d1.html#a5ce7d3fc71de84347d4ec2689dccc3d1", null ],
-    [ "OnTick", "df/d71/classTerraria_1_1Social_1_1Steam_1_1CoreSocialModule_ab335f6a219c1275407ee3cd5aa3cb459.html#ab335f6a219c1275407ee3cd5aa3cb459", null ]
+    [ "OnTick", "df/d71/classTerraria_1_1Social_1_1Steam_1_1CoreSocialModule_ad54d96a40b05c724d7c0f0f42016b8cd.html#ad54d96a40b05c724d7c0f0f42016b8cd", null ]
 ];

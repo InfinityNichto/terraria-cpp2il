@@ -1,15 +1,6 @@
 <map id="Terraria.GameContent.UI.WiresUI" name="Terraria.GameContent.UI.WiresUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="305,1541,502,1656"/>
-<area shape="rect" id="Node000002" href="$d4/d90/classTerraria_1_1GameContent_1_1UI_1_1WiresUI_1_1WiresRadial.html" title=" " alt="" coords="294,1200,513,1479"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,1479,406,1525,401,1525,401,1479"/>
-<area shape="rect" id="Node000003" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,148,249,1123"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,1007,319,1175,323,1184,318,1186,314,1177,247,1009"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="252,550,262,564,270,583,276,635,272,677,262,707,257,705,267,675,271,635,264,585,257,567,248,553"/>
-<area shape="rect" id="Node000004" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="46,5,209,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,84,130,148,125,148,125,84"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="313,5,355,71"/>
-<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="348,70,359,107,369,148,379,237,388,353,399,636,404,933,406,1184,401,1184,399,933,393,636,382,353,374,237,363,148,354,108,343,71"/>
-<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="326,72,257,268,252,266,321,70"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="518,603,561,668"/>
-<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="543,669,543,749,539,863,527,993,516,1059,502,1123,482,1185,477,1183,497,1122,511,1058,521,992,534,862,538,749,538,669"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,203,337"/>
+<area shape="rect" id="Node000002" href="$d1/d06/classTerraria_1_1GameContent_1_1UI_1_1WiresUI.html" title=" " alt="" coords="5,5,203,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,140,107,186,101,186,101,140"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="204,54,222,60,229,72,227,81,220,86,217,82,222,78,224,73,219,64,202,59"/>
 </map>

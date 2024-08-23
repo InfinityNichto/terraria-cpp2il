@@ -48,7 +48,7 @@ var classTerraria_1_1Cinematics_1_1DD2Film =
     [ "_nextSequenceAppendTime", "da/d4c/classTerraria_1_1Cinematics_1_1DD2Film.html#a9bc356278720dd07e9f8f228b45c2287", null ],
     [ "_ogre", "da/d4c/classTerraria_1_1Cinematics_1_1DD2Film_a8b68b20fc1b11a345683c06254c347e6.html#a8b68b20fc1b11a345683c06254c347e6", null ],
     [ "_portal", "da/d4c/classTerraria_1_1Cinematics_1_1DD2Film_ac9e5f6e2d4658e1d0211a29b431144b6.html#ac9e5f6e2d4658e1d0211a29b431144b6", null ],
-    [ "_sequences", "da/d4c/classTerraria_1_1Cinematics_1_1DD2Film.html#a27c9cc09e7e3157c452f2d8c2ca81f98", null ],
+    [ "_sequences", "da/d4c/classTerraria_1_1Cinematics_1_1DD2Film.html#a82241e95f71d9d587e67787e0874b869", null ],
     [ "_startPoint", "da/d4c/classTerraria_1_1Cinematics_1_1DD2Film_a99758367f5b083d0487d11dc1343515a.html#a99758367f5b083d0487d11dc1343515a", null ],
     [ "AppendPoint", "da/d4c/classTerraria_1_1Cinematics_1_1DD2Film.html#aff57d2959a3dff0c8d945aab22a762b6", null ],
     [ "Frame", "da/d4c/classTerraria_1_1Cinematics_1_1DD2Film.html#af9c635b0b87d4800308c6ef453093e12", null ],

@@ -7,6 +7,7 @@ var classCachedFile =
     ] ],
     [ "CachedFile", "d7/d46/classCachedFile_ae7d567f7e85bf3a517aae65b06afe4bc.html#ae7d567f7e85bf3a517aae65b06afe4bc", null ],
     [ "Filename", "d7/d46/classCachedFile_a124e174b2654b96c2b8ee61ea29cbc41.html#a124e174b2654b96c2b8ee61ea29cbc41", null ],
-    [ "ModificationFlag", "d7/d46/classCachedFile_a8805c5431a7258751f2a1844c95ec713.html#a8805c5431a7258751f2a1844c95ec713", null ],
+    [ "k__BackingField", "d7/d46/classCachedFile_a06f2dde8436466fbb3bec16b899536e3.html#a06f2dde8436466fbb3bec16b899536e3", null ],
+    [ "ModificationFlag", "d7/d46/classCachedFile_a4bde21a147a20b9c8272f73315796545.html#a4bde21a147a20b9c8272f73315796545", null ],
     [ "Data", "d7/d46/classCachedFile_a1b305ce6c6c30da4aa74498e89cbd9f0.html#a1b305ce6c6c30da4aa74498e89cbd9f0", null ]
 ];

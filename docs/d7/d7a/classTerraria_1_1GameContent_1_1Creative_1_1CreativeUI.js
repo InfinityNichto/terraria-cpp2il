@@ -16,7 +16,7 @@ var classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI =
     [ "ProvideItemSlotElement", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_ab0030afc64576542c7bc468681cc5320.html#ab0030afc64576542c7bc468681cc5320", null ],
     [ "RefreshAvailableInfiniteItemsList", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_a630512207aae73c87b5c9950517f29fb.html#a630512207aae73c87b5c9950517f29fb", null ],
     [ "Reset", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_adf00477d0fc28a15b0645c3cc27d56df.html#adf00477d0fc28a15b0645c3cc27d56df", null ],
-    [ "SacrificeItem", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_a13eef963541a131d2720beb0c4e5f6ad.html#a13eef963541a131d2720beb0c4e5f6ad", null ],
+    [ "SacrificeItem", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_a24a2febbb1fbc5b251236e21f2a6f4e3.html#a24a2febbb1fbc5b251236e21f2a6f4e3", null ],
     [ "SacrificeItemInSacrificeSlot", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_a31977ddfd02cdcb3c28c03c989584c5d.html#a31977ddfd02cdcb3c28c03c989584c5d", null ],
     [ "SetItembyIndex", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_aba7462274da5302e01d87c48f1ec3e3c.html#aba7462274da5302e01d87c48f1ec3e3c", null ],
     [ "ShouldDrawSacrificeArea", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_a9a6e03d9522933aecbb163ead37c5e48.html#a9a6e03d9522933aecbb163ead37c5e48", null ],
@@ -35,6 +35,7 @@ var classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI =
     [ "GamepadPointIdForInfiniteItemSearchHack", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_a899b6d00b4d51683c31f00df5ee25798.html#a899b6d00b4d51683c31f00df5ee25798", null ],
     [ "ItemSlotIndexes_Count", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_af58d81aa8618ba09a45913aa4167c001.html#af58d81aa8618ba09a45913aa4167c001", null ],
     [ "ItemSlotIndexes_SacrificeItem", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_af275908dfde6033d0447d207cdfec4f9.html#af275908dfde6033d0447d207cdfec4f9", null ],
+    [ "k__BackingField", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_aa38a5ac7be0c371a10ece7ae82b285b2.html#aa38a5ac7be0c371a10ece7ae82b285b2", null ],
     [ "Blocked", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_ab9390add1ab50489ac8e1e30344b8810.html#ab9390add1ab50489ac8e1e30344b8810", null ],
     [ "Enabled", "d7/d7a/classTerraria_1_1GameContent_1_1Creative_1_1CreativeUI_aac49a267b6c4750cbf59ab8a1d66441c.html#aac49a267b6c4750cbf59ab8a1d66441c", null ]
 ];

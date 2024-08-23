@@ -1,0 +1,15 @@
+<map id="System.UInt32" name="System.UInt32">
+<area shape="rect" id="Node000001" title=" " alt="" coords="489,133,805,1655"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,200,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,88,491,645,486,648,128,91"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="225,13,415,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="340,90,491,482,486,484,335,92"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="440,13,635,78"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="546,91,551,133,546,134,541,92"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="659,5,853,85"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="752,100,747,134,742,133,747,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="878,5,1058,85"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="951,99,807,478,802,476,946,97"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1083,13,1309,78"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1170,91,807,651,802,648,1166,88"/>
+</map>

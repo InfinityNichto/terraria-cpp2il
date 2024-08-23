@@ -1,0 +1,15 @@
+<map id="System.Security.Cryptography.AsnEncodedData" name="System.Security.Cryptography.AsnEncodedData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="362,5,623,596"/>
+<area shape="rect" id="Node000002" href="$d5/dba/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X500DistinguishedName.html" title=" " alt="" coords="190,644,491,987"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,610,394,644,389,643,399,608"/>
+<area shape="rect" id="Node000003" href="$de/d29/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509Extension.html" title=" " alt="" coords="515,706,777,925"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="587,609,616,705,611,707,582,610"/>
+<area shape="rect" id="Node000004" href="$d9/db2/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509BasicConstraintsExtension.html" title=" " alt="" coords="5,1138,321,1645"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="565,937,536,965,505,989,480,1001,458,1008,416,1010,376,1014,356,1022,334,1037,289,1084,252,1139,248,1136,285,1081,331,1033,353,1017,375,1009,416,1005,457,1002,478,996,502,984,533,961,561,933"/>
+<area shape="rect" id="Node000005" href="$df/d3f/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509EnhancedKeyUsageExtension.html" title=" " alt="" coords="345,1223,635,1560"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="616,939,538,1223,533,1222,610,937"/>
+<area shape="rect" id="Node000006" href="$d7/d6c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509KeyUsageExtension.html" title=" " alt="" coords="659,1165,945,1617"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="682,937,743,1164,738,1165,676,938"/>
+<area shape="rect" id="Node000007" href="$d9/df0/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509SubjectKeyIdentifierExtension.html" title=" " alt="" coords="970,1035,1263,1748"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="790,891,879,954,922,992,960,1033,972,1048,968,1051,956,1036,918,996,876,959,787,895"/>
+</map>

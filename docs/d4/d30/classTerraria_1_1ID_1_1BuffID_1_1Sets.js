@@ -2,7 +2,8 @@ var classTerraria_1_1ID_1_1BuffID_1_1Sets =
 [
     [ "BuffMountData", "d4/de4/classTerraria_1_1ID_1_1BuffID_1_1Sets_1_1BuffMountData.html", "d4/de4/classTerraria_1_1ID_1_1BuffID_1_1Sets_1_1BuffMountData" ],
     [ "Sets", "d4/d30/classTerraria_1_1ID_1_1BuffID_1_1Sets_af99ad2e0b0cf1e967be6152afbcc4ac7.html#af99ad2e0b0cf1e967be6152afbcc4ac7", null ],
-    [ "BasicMountData", "d4/d30/classTerraria_1_1ID_1_1BuffID_1_1Sets_a8fd97a86ae30122725f44bdbdafb36ef.html#a8fd97a86ae30122725f44bdbdafb36ef", null ],
+    [ "Sets", "d4/d30/classTerraria_1_1ID_1_1BuffID_1_1Sets_a4c17f86fca1493eff67dbaeb29bf8fdf.html#a4c17f86fca1493eff67dbaeb29bf8fdf", null ],
+    [ "BasicMountData", "d4/d30/classTerraria_1_1ID_1_1BuffID_1_1Sets_a476bc329712379b277e14d60b905574f.html#a476bc329712379b277e14d60b905574f", null ],
     [ "CanBeRemovedByNetMessage", "d4/d30/classTerraria_1_1ID_1_1BuffID_1_1Sets_a7fa3e861a0ad2fadf18aea48cfd7b68d.html#a7fa3e861a0ad2fadf18aea48cfd7b68d", null ],
     [ "Factory", "d4/d30/classTerraria_1_1ID_1_1BuffID_1_1Sets_a190d54d8c7aa97dc9971ed707b35a6e5.html#a190d54d8c7aa97dc9971ed707b35a6e5", null ],
     [ "IsAFlaskBuff", "d4/d30/classTerraria_1_1ID_1_1BuffID_1_1Sets_a30b38b002489d641fd5642118a7f36e9.html#a30b38b002489d641fd5642118a7f36e9", null ],

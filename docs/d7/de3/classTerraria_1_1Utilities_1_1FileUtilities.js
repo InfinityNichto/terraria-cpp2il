@@ -1,5 +1,6 @@
 var classTerraria_1_1Utilities_1_1FileUtilities =
 [
+    [ "FileUtilities", "d7/de3/classTerraria_1_1Utilities_1_1FileUtilities_a72a9393ecbcbc43bd99b119d4607ee6e.html#a72a9393ecbcbc43bd99b119d4607ee6e", null ],
     [ "CleanSwitchPath", "d7/de3/classTerraria_1_1Utilities_1_1FileUtilities_aa3a422015ecd301e43f5b36f8f09b999.html#aa3a422015ecd301e43f5b36f8f09b999", null ],
     [ "Copy", "d7/de3/classTerraria_1_1Utilities_1_1FileUtilities_a14b3a3c21b62d1f19b01c25fd6640125.html#a14b3a3c21b62d1f19b01c25fd6640125", null ],
     [ "CreateDirectory", "d7/de3/classTerraria_1_1Utilities_1_1FileUtilities_ab1f9495da12b2a09f0f9afbc6f7f76f4.html#ab1f9495da12b2a09f0f9afbc6f7f76f4", null ],

@@ -1,5 +1,5 @@
 <map id="Terraria.Graphics.Renderers.ReturnGatePlayerRenderer" name="Terraria.Graphics.Renderers.ReturnGatePlayerRenderer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,320,285,775"/>
-<area shape="rect" id="Node000002" href="$d9/dd0/interfaceTerraria_1_1Graphics_1_1Renderers_1_1IPlayerRenderer.html" title=" " alt="" coords="5,5,285,272"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,286,148,320,143,320,143,286"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,320,287,775"/>
+<area shape="rect" id="Node000002" href="$d9/dd0/interfaceTerraria_1_1Graphics_1_1Renderers_1_1IPlayerRenderer.html" title=" " alt="" coords="5,5,287,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,286,149,320,143,320,143,286"/>
 </map>

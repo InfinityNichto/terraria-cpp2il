@@ -86,7 +86,7 @@ var sectionId = 'dynsection-1';
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d8/daa/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1AArmor.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="160,-276 0,-276 0,-190 160,-190 160,-276"/>
-<text text-anchor="start" x="61.5" y="-264" font-family="Helvetica,sans-Serif" font-size="10.00">AArmor</text>
+<text text-anchor="start" x="32" y="-264" font-family="Helvetica,sans-Serif" font-size="10.00">ItemFilters::AArmor</text>
 <text text-anchor="start" x="78" y="-249" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <text text-anchor="start" x="4" y="-234" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-234" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsAnArmorThatMatches</text>

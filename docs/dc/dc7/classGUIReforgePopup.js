@@ -1,6 +1,7 @@
 var classGUIReforgePopup =
 [
     [ "GUIReforgePopup", "dc/dc7/classGUIReforgePopup_a09838c916075d3bfb6c5c7ad31550c76.html#a09838c916075d3bfb6c5c7ad31550c76", null ],
+    [ "GUIReforgePopup", "dc/dc7/classGUIReforgePopup_a57e75305615bdd1a3ddd23caccd0d012.html#a57e75305615bdd1a3ddd23caccd0d012", null ],
     [ "ClosePopup", "dc/dc7/classGUIReforgePopup_a215c377c36f1a0ea3cada7d12ce3abf2.html#a215c377c36f1a0ea3cada7d12ce3abf2", null ],
     [ "Draw", "dc/dc7/classGUIReforgePopup_aec9bf957133cd3e70d187c719103afa6.html#aec9bf957133cd3e70d187c719103afa6", null ],
     [ "DrawItem", "dc/dc7/classGUIReforgePopup_a8f22001559ed6d41edc61d1b5961bd18.html#a8f22001559ed6d41edc61d1b5961bd18", null ],

@@ -1,0 +1,14 @@
+<map id="Ionic.Zip.ZipCrypto" name="Ionic.Zip.ZipCrypto">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,836,223,1139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="96,5,135,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,71,107,163,102,334,101,468,107,773,109,819,103,819,102,773,95,468,96,334,102,163,109,71"/>
+<area shape="rect" id="Node000003" href="$dc/d52/classIonic_1_1Crc_1_1CRC32.html" title=" " alt="" coords="165,163,375,773"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="129,70,162,159,157,161,124,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,774,167,821,162,819,176,773"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="249,5,280,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="268,71,269,146,263,147,262,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="371,5,414,71"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="386,71,364,148,359,146,381,70"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="519,5,562,71"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="531,72,500,140,446,230,387,316,383,313,441,228,496,137,527,70"/>
+</map>

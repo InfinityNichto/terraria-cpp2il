@@ -1,11 +1,11 @@
 <map id="Terraria.DataStructures.SelectionHolder&lt; TCycleType &gt;" name="Terraria.DataStructures.SelectionHolder&lt; TCycleType &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="187,5,443,512"/>
-<area shape="rect" id="Node000002" href="$da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder.html" title=" " alt="" coords="48,597,304,1103"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,526,238,597,233,596,250,525"/>
-<area shape="rect" id="Node000004" href="$da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder.html" title=" " alt="" coords="356,589,612,1111"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="394,525,412,588,407,590,388,526"/>
-<area shape="rect" id="Node000003" href="$d9/d5c/classTerraria_1_1GameContent_1_1UI_1_1Minimap_1_1MinimapFrameManager.html" title=" " alt="" coords="5,1160,317,1507"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,1117,169,1160,164,1160,165,1117"/>
-<area shape="rect" id="Node000005" href="$d6/d57/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1PlayerResourceSetsManager2.html" title=" " alt="" coords="341,1214,653,1453"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="494,1124,497,1214,491,1214,489,1125"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="187,5,443,547"/>
+<area shape="rect" id="Node000002" href="$da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder.html" title=" " alt="" coords="48,631,304,1173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,561,239,632,233,630,249,560"/>
+<area shape="rect" id="Node000004" href="$da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder.html" title=" " alt="" coords="356,624,612,1180"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="394,560,411,623,406,624,389,561"/>
+<area shape="rect" id="Node000003" href="$d9/d5c/classTerraria_1_1GameContent_1_1UI_1_1Minimap_1_1MinimapFrameManager.html" title=" " alt="" coords="5,1229,317,1576"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,1186,169,1229,164,1229,165,1186"/>
+<area shape="rect" id="Node000005" href="$d6/d57/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1PlayerResourceSetsManager2.html" title=" " alt="" coords="341,1283,653,1522"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="494,1193,497,1283,492,1283,489,1194"/>
 </map>

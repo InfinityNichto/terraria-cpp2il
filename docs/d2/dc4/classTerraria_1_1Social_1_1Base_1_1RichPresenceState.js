@@ -9,6 +9,7 @@ var classTerraria_1_1Social_1_1Base_1_1RichPresenceState =
     ] ],
     [ "RichPresenceState", "d2/dc4/classTerraria_1_1Social_1_1Base_1_1RichPresenceState_a07d2af727bab4fd2ac8f4a2ce0fbbefe.html#a07d2af727bab4fd2ac8f4a2ce0fbbefe", null ],
     [ "Equals", "d2/dc4/classTerraria_1_1Social_1_1Base_1_1RichPresenceState_a3860bf8452f130bcd3c507866baa6574.html#a3860bf8452f130bcd3c507866baa6574", null ],
+    [ "Equals", "d2/dc4/classTerraria_1_1Social_1_1Base_1_1RichPresenceState.html#adcb517a2c4a75f107b1b3d704b343c16", null ],
     [ "GetCurrentState", "d2/dc4/classTerraria_1_1Social_1_1Base_1_1RichPresenceState_a14881cf7544fc918627d6287c0c3f35a.html#a14881cf7544fc918627d6287c0c3f35a", null ],
-    [ "GameMode", "d2/dc4/classTerraria_1_1Social_1_1Base_1_1RichPresenceState_a00f50bab0dfea61fb9bc96e06c482974.html#a00f50bab0dfea61fb9bc96e06c482974", null ]
+    [ "GameMode", "d2/dc4/classTerraria_1_1Social_1_1Base_1_1RichPresenceState_aa233177369867d2f0ce50afcbed5a57e.html#aa233177369867d2f0ce50afcbed5a57e", null ]
 ];

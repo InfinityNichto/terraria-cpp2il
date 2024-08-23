@@ -13,6 +13,8 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1LittleFlyingCritterParticle =
     [ "_neverGoBelowThis", "d1/d7c/classTerraria_1_1Graphics_1_1Renderers_1_1LittleFlyingCritterParticle_a7d2b54878aeb88ddfb2689cf76dd3680.html#a7d2b54878aeb88ddfb2689cf76dd3680", null ],
     [ "_spawnPosition", "d1/d7c/classTerraria_1_1Graphics_1_1Renderers_1_1LittleFlyingCritterParticle_a9b2ae054c700829c7fb2774345c16174.html#a9b2ae054c700829c7fb2774345c16174", null ],
     [ "_velocity", "d1/d7c/classTerraria_1_1Graphics_1_1Renderers_1_1LittleFlyingCritterParticle_aa40dafac117a1169455843970253b285.html#aa40dafac117a1169455843970253b285", null ],
+    [ "k__BackingField", "d1/d7c/classTerraria_1_1Graphics_1_1Renderers_1_1LittleFlyingCritterParticle_a7718cbbfb06b66b76a5cbd398e888251.html#a7718cbbfb06b66b76a5cbd398e888251", null ],
+    [ "k__BackingField", "d1/d7c/classTerraria_1_1Graphics_1_1Renderers_1_1LittleFlyingCritterParticle_a19aa2361ab5bd9cf108cf5761d07d251.html#a19aa2361ab5bd9cf108cf5761d07d251", null ],
     [ "IsRestingInPool", "d1/d7c/classTerraria_1_1Graphics_1_1Renderers_1_1LittleFlyingCritterParticle_a9bb0f2c5317d1b761d01cfee50afe1ef.html#a9bb0f2c5317d1b761d01cfee50afe1ef", null ],
     [ "ShouldBeRemovedFromRenderer", "d1/d7c/classTerraria_1_1Graphics_1_1Renderers_1_1LittleFlyingCritterParticle_ad59ee51db56729ae4829983019c1c34e.html#ad59ee51db56729ae4829983019c1c34e", null ]
 ];

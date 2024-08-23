@@ -3,7 +3,7 @@ var classGUISafeRegionEdit =
     [ "GUISafeRegionEdit", "db/d16/classGUISafeRegionEdit_aa0ba99f505ef319804ede7ac5f47120a.html#aa0ba99f505ef319804ede7ac5f47120a", null ],
     [ "Draw", "db/d16/classGUISafeRegionEdit_ac5d83949320aa3dbb3c8d6cd57df0286.html#ac5d83949320aa3dbb3c8d6cd57df0286", null ],
     [ "DrawBacking", "db/d16/classGUISafeRegionEdit_af0ea6a0bf56dde751c103c382f139496.html#af0ea6a0bf56dde751c103c382f139496", null ],
-    [ "UpdateCursor", "db/d16/classGUISafeRegionEdit_af4fa8472cd49aa7acd0f35e126156c43.html#af4fa8472cd49aa7acd0f35e126156c43", null ],
+    [ "UpdateCursor", "db/d16/classGUISafeRegionEdit_a9a4064ae89650d114a8b0ec0de88f424.html#a9a4064ae89650d114a8b0ec0de88f424", null ],
     [ "UpdateCursorDragging", "db/d16/classGUISafeRegionEdit_a5a60f990b41146e696e3b50a63cd521f.html#a5a60f990b41146e696e3b50a63cd521f", null ],
     [ "UpdateEdit", "db/d16/classGUISafeRegionEdit_a61443aba451b3f3c7e1ebcd818c654b9.html#a61443aba451b3f3c7e1ebcd818c654b9", null ],
     [ "_inputLayer", "db/d16/classGUISafeRegionEdit_a3d300edefca9cc17bc5b250718969251.html#a3d300edefca9cc17bc5b250718969251", null ],

@@ -8,7 +8,7 @@ var classTerraria_1_1UI_1_1Chat_1_1TextSnippet =
     [ "OnClick", "d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet_ac91ed6c84eca5618d641d89c9bb137e8.html#ac91ed6c84eca5618d641d89c9bb137e8", null ],
     [ "OnHover", "d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet_a40f1317cf3f045dcb3a8bb37fa14c21f.html#a40f1317cf3f045dcb3a8bb37fa14c21f", null ],
     [ "ToString", "d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet_add04e255303899165ab0cda818c3011d.html#add04e255303899165ab0cda818c3011d", null ],
-    [ "UniqueDraw", "d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet_a6e0b14baa8c35d4e0b8362345c36ee5c.html#a6e0b14baa8c35d4e0b8362345c36ee5c", null ],
+    [ "UniqueDraw", "d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet_ab96d64e62f69c874525d5ee84303e7b7.html#ab96d64e62f69c874525d5ee84303e7b7", null ],
     [ "Update", "d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet_a4baf57ddf262c9535fdb7919c48b8c6b.html#a4baf57ddf262c9535fdb7919c48b8c6b", null ],
     [ "CheckForHover", "d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet_a87fa3e0127e5f641aef3fb0047cd7a1c.html#a87fa3e0127e5f641aef3fb0047cd7a1c", null ],
     [ "Color", "d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet_a667f9eb04c9b1785f88a16470975fb01.html#a667f9eb04c9b1785f88a16470975fb01", null ],

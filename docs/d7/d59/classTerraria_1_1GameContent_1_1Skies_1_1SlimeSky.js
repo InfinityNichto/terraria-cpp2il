@@ -19,7 +19,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky =
     [ "_isLoaded", "d7/d59/classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky.html#a40880abec1e79b3c3dec330238ee0f09", null ],
     [ "_priority", "d7/d59/classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky.html#a143aae521c814f60433f73f3724b50ec", null ],
     [ "_random", "d7/d59/classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky_a4581c30581e26880868da25372333379.html#a4581c30581e26880868da25372333379", null ],
-    [ "_slimes", "d7/d59/classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky_a3ede8fd18ad6b3cd81cc318fd2798ea0.html#a3ede8fd18ad6b3cd81cc318fd2798ea0", null ],
+    [ "_slimes", "d7/d59/classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky_a8ba515431ffce3114b0e6d76455b6dfc.html#a8ba515431ffce3114b0e6d76455b6dfc", null ],
     [ "_slimesRemaining", "d7/d59/classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky_a97c1930519ef6083143e993930ec7cf6.html#a97c1930519ef6083143e993930ec7cf6", null ],
     [ "_textures", "d7/d59/classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky_ada8d3280ab7c76e6f3bda14131e525ed.html#ada8d3280ab7c76e6f3bda14131e525ed", null ],
     [ "Opacity", "d7/d59/classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky.html#ad87e515d34d0e191480777fdf7ae7a04", null ],

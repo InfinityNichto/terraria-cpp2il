@@ -1,6 +1,7 @@
 var classPlayer__OldSwitch =
 [
     [ "Player_OldSwitch", "dd/dae/classPlayer__OldSwitch_a3f2e0046a9feceedac5f0fdece0afa58.html#a3f2e0046a9feceedac5f0fdece0afa58", null ],
+    [ "Player_OldSwitch", "dd/dae/classPlayer__OldSwitch_ae1855051112e12b5a6ba66b99ba1bf23.html#ae1855051112e12b5a6ba66b99ba1bf23", null ],
     [ "GivePlayerCoins", "dd/dae/classPlayer__OldSwitch_a2fa09c83ce75cb5213f7acc7e22b04d7.html#a2fa09c83ce75cb5213f7acc7e22b04d7", null ],
     [ "LoadPlayer", "dd/dae/classPlayer__OldSwitch_ad663e52a968df3f6bb0249d7ee3cb6b3.html#ad663e52a968df3f6bb0249d7ee3cb6b3", null ],
     [ "ReadItemID", "dd/dae/classPlayer__OldSwitch_af515108da6b571cebabcb6155bb4e983.html#af515108da6b571cebabcb6155bb4e983", null ],

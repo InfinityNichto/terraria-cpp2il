@@ -1,5 +1,5 @@
 <map id="Terraria.GameContent.UI.Chat.ItemTagHandler.ItemSnippet" name="Terraria.GameContent.UI.Chat.ItemTagHandler.ItemSnippet">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,560,241,788"/>
-<area shape="rect" id="Node000002" href="$d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet.html" title=" " alt="" coords="5,5,241,512"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,526,126,560,121,560,121,526"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,560,239,788"/>
+<area shape="rect" id="Node000002" href="$d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet.html" title=" " alt="" coords="5,5,239,512"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,526,125,560,119,560,119,526"/>
 </map>

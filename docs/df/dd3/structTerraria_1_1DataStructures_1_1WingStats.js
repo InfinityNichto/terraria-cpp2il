@@ -1,6 +1,7 @@
 var structTerraria_1_1DataStructures_1_1WingStats =
 [
     [ "WingStats", "df/dd3/structTerraria_1_1DataStructures_1_1WingStats_a5a4988d5c7dc44a4b886e4513c61fdca.html#a5a4988d5c7dc44a4b886e4513c61fdca", null ],
+    [ "WingStats", "df/dd3/structTerraria_1_1DataStructures_1_1WingStats_acd54c05f5211503d96d382d5e54cea9e.html#acd54c05f5211503d96d382d5e54cea9e", null ],
     [ "WithSpeedBoost", "df/dd3/structTerraria_1_1DataStructures_1_1WingStats_a8f817a27ee1384ee972a18b8c7074333.html#a8f817a27ee1384ee972a18b8c7074333", null ],
     [ "AccRunAccelerationMult", "df/dd3/structTerraria_1_1DataStructures_1_1WingStats_a220164dd6817b6a8346a0a60d6ea56cf.html#a220164dd6817b6a8346a0a60d6ea56cf", null ],
     [ "AccRunSpeedOverride", "df/dd3/structTerraria_1_1DataStructures_1_1WingStats_a6669c7df93001f7db688988a17ea9a59.html#a6669c7df93001f7db688988a17ea9a59", null ],

@@ -1,6 +1,6 @@
 var classGUIControllerStaticGridNavigator =
 [
-    [ "GUIControllerStaticGridNavigator", "d2/dea/classGUIControllerStaticGridNavigator_af6f74bc74fd7a41cfb46fc91ebf9e768.html#af6f74bc74fd7a41cfb46fc91ebf9e768", null ],
+    [ "GUIControllerStaticGridNavigator", "d2/dea/classGUIControllerStaticGridNavigator_a7da1067d44d6c73f6664ed717517d232.html#a7da1067d44d6c73f6664ed717517d232", null ],
     [ "Activate", "d2/dea/classGUIControllerStaticGridNavigator_ad8d60db3d90d348d47e3ee28cc08f93e.html#ad8d60db3d90d348d47e3ee28cc08f93e", null ],
     [ "ClampMenu", "d2/dea/classGUIControllerStaticGridNavigator_af2e92207052abe02cd3c5797913386b0.html#af2e92207052abe02cd3c5797913386b0", null ],
     [ "ClampPosition", "d2/dea/classGUIControllerStaticGridNavigator_a6a307a07138aac7f329fb32ee48ece61.html#a6a307a07138aac7f329fb32ee48ece61", null ],
@@ -17,10 +17,10 @@ var classGUIControllerStaticGridNavigator =
     [ "NavigateMenuOutOfGrid", "d2/dea/classGUIControllerStaticGridNavigator_ae85f4eb02440a2f96849360dfe7e0138.html#ae85f4eb02440a2f96849360dfe7e0138", null ],
     [ "NavigateUpOutOfGrid", "d2/dea/classGUIControllerStaticGridNavigator_a7d518bbceeacd89e2805212e0e6ef638.html#a7d518bbceeacd89e2805212e0e6ef638", null ],
     [ "_controller", "d2/dea/classGUIControllerStaticGridNavigator_a46146f5af4eb9985b50dc6075e88076a.html#a46146f5af4eb9985b50dc6075e88076a", null ],
-    [ "_displayItemCount", "d2/dea/classGUIControllerStaticGridNavigator_a702b9c26ab9b0090318ca40b5bb7af44.html#a702b9c26ab9b0090318ca40b5bb7af44", null ],
-    [ "_grid", "d2/dea/classGUIControllerStaticGridNavigator_a25413f199f9ad1c61b3a99d89ea62d55.html#a25413f199f9ad1c61b3a99d89ea62d55", null ],
-    [ "_itemScale", "d2/dea/classGUIControllerStaticGridNavigator_a61141e5fdb9d8f242b78ad2ba4fb1306.html#a61141e5fdb9d8f242b78ad2ba4fb1306", null ],
-    [ "_menuItemCount", "d2/dea/classGUIControllerStaticGridNavigator_ae80ac78c6cc170dbb4fafaf1db452a9f.html#ae80ac78c6cc170dbb4fafaf1db452a9f", null ],
+    [ "_displayItemCount", "d2/dea/classGUIControllerStaticGridNavigator_a09a16a90e58e1670b03112a6df38f6a6.html#a09a16a90e58e1670b03112a6df38f6a6", null ],
+    [ "_grid", "d2/dea/classGUIControllerStaticGridNavigator_af92bded69d6af2cddb6035333e429537.html#af92bded69d6af2cddb6035333e429537", null ],
+    [ "_itemScale", "d2/dea/classGUIControllerStaticGridNavigator_a1d15eb67f0ead645bc391b1342008863.html#a1d15eb67f0ead645bc391b1342008863", null ],
+    [ "_menuItemCount", "d2/dea/classGUIControllerStaticGridNavigator_a1136a9c3aac54bc48a8c3e8a28043c74.html#a1136a9c3aac54bc48a8c3e8a28043c74", null ],
     [ "itemColumn", "d2/dea/classGUIControllerStaticGridNavigator_a2f9e77e71bb370fb1548fc9d764e44c5.html#a2f9e77e71bb370fb1548fc9d764e44c5", null ],
     [ "itemRow", "d2/dea/classGUIControllerStaticGridNavigator_a0473253c30994c58242fac65eb61bd3d.html#a0473253c30994c58242fac65eb61bd3d", null ],
     [ "menuRow", "d2/dea/classGUIControllerStaticGridNavigator_ab392a42b0ef92a03eecf8e452b91d183.html#ab392a42b0ef92a03eecf8e452b91d183", null ],

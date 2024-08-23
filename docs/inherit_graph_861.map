@@ -1,5 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel.html" title=" " alt="" coords="5,5,192,60"/>
-<area shape="rect" id="Node000001" href="$d5/dec/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextBox.html" title=" " alt="" coords="240,13,427,53"/>
-<area shape="poly" id="edge1058_Node000000_Node000001" title=" " alt="" coords="205,30,240,30,240,35,205,35"/>
+<area shape="rect" id="Node000000" href="$d9/de9/classSaveSynchronisationOperation.html" title=" " alt="" coords="5,77,228,102"/>
+<area shape="rect" id="Node000001" href="$da/dd5/classSaveSynchronisationOperation__ReceiveFile.html" title=" " alt="" coords="276,5,499,45"/>
+<area shape="poly" id="edge3253_Node000000_Node000001" title=" " alt="" coords="184,71,301,43,303,48,185,76"/>
+<area shape="rect" id="Node000002" href="$df/d8f/classSaveSynchronisationOperation__SendFile.html" title=" " alt="" coords="276,69,499,109"/>
+<area shape="poly" id="edge3254_Node000000_Node000002" title=" " alt="" coords="242,87,276,87,276,92,242,92"/>
+<area shape="rect" id="Node000003" href="$d2/da7/classSaveSynchronisationOperation__SendFileList.html" title=" " alt="" coords="276,133,499,173"/>
+<area shape="poly" id="edge3255_Node000000_Node000003" title=" " alt="" coords="185,103,303,131,301,136,184,108"/>
 </map>

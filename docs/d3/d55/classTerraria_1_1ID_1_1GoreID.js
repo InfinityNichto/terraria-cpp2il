@@ -1,6 +1,7 @@
 var classTerraria_1_1ID_1_1GoreID =
 [
     [ "Sets", "d3/d43/classTerraria_1_1ID_1_1GoreID_1_1Sets.html", "d3/d43/classTerraria_1_1ID_1_1GoreID_1_1Sets" ],
+    [ "GoreID", "d3/d55/classTerraria_1_1ID_1_1GoreID_ad4ab39dbae1cbc234b4c8b7f4e3de9a3.html#ad4ab39dbae1cbc234b4c8b7f4e3de9a3", null ],
     [ "AmbientAirborneCloud1", "d3/d55/classTerraria_1_1ID_1_1GoreID_af88cdcb904e27c7d4056a8aac378b7dd.html#af88cdcb904e27c7d4056a8aac378b7dd", null ],
     [ "AmbientAirborneCloud2", "d3/d55/classTerraria_1_1ID_1_1GoreID_a6db43a4ec7af0534cfae7280b421de08.html#a6db43a4ec7af0534cfae7280b421de08", null ],
     [ "AmbientAirborneCloud3", "d3/d55/classTerraria_1_1ID_1_1GoreID_adc122b3b8b169ff7dbf06887c2ab3423.html#adc122b3b8b169ff7dbf06887c2ab3423", null ],

@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ProjectileID =
 [
     [ "Sets", "da/ddd/classTerraria_1_1ID_1_1ProjectileID_1_1Sets.html", "da/ddd/classTerraria_1_1ID_1_1ProjectileID_1_1Sets" ],
     [ "ProjectileID", "d5/d05/classTerraria_1_1ID_1_1ProjectileID_a6f01e9cb39c2686722dad5b3b1a4b32f.html#a6f01e9cb39c2686722dad5b3b1a4b32f", null ],
+    [ "ProjectileID", "d5/d05/classTerraria_1_1ID_1_1ProjectileID_a3f06049de6bd8273d9a7cd9a0fd24164.html#a3f06049de6bd8273d9a7cd9a0fd24164", null ],
     [ "AbigailCounter", "d5/d05/classTerraria_1_1ID_1_1ProjectileID_a0990a43c7943c3ed1e18a292ee0cfb6f.html#a0990a43c7943c3ed1e18a292ee0cfb6f", null ],
     [ "AbigailMinion", "d5/d05/classTerraria_1_1ID_1_1ProjectileID_ac5247c3a004820774f4f48028b6ed6a1.html#ac5247c3a004820774f4f48028b6ed6a1", null ],
     [ "AdamantiteChainsaw", "d5/d05/classTerraria_1_1ID_1_1ProjectileID_a3f71f397aa4bb514273772c8456bb7ba.html#a3f71f397aa4bb514273772c8456bb7ba", null ],

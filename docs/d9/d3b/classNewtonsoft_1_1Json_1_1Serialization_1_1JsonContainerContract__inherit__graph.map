@@ -1,0 +1,13 @@
+<map id="Newtonsoft.Json.Serialization.JsonContainerContract" name="Newtonsoft.Json.Serialization.JsonContainerContract">
+<area shape="rect" id="Node000001" title=" " alt="" coords="431,1333,667,1765"/>
+<area shape="rect" id="Node000003" href="$da/dce/classNewtonsoft_1_1Json_1_1Serialization_1_1JsonArrayContract.html" title=" " alt="" coords="5,1909,263,2699"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="422,1650,344,1726,308,1769,276,1815,251,1861,229,1910,224,1908,246,1859,272,1812,303,1766,340,1722,418,1646"/>
+<area shape="rect" id="Node000004" href="$de/def/classNewtonsoft_1_1Json_1_1Serialization_1_1JsonDictionaryContract.html" title=" " alt="" coords="287,1863,544,2745"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="511,1780,496,1863,491,1862,506,1779"/>
+<area shape="rect" id="Node000005" href="$d7/dc6/classNewtonsoft_1_1Json_1_1Serialization_1_1JsonISerializableContract.html" title=" " alt="" coords="568,2225,799,2383"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="592,1778,672,2224,667,2225,587,1779"/>
+<area shape="rect" id="Node000006" href="$d1/d3f/classNewtonsoft_1_1Json_1_1Serialization_1_1JsonObjectContract.html" title=" " alt="" coords="823,1813,1064,2795"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="679,1652,751,1726,785,1768,814,1812,825,1832,820,1835,809,1815,780,1771,747,1729,675,1655"/>
+<area shape="rect" id="Node000002" href="$db/daf/classNewtonsoft_1_1Json_1_1Serialization_1_1JsonContract.html" title=" " alt="" coords="398,5,699,1285"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="551,1299,551,1333,546,1333,546,1299"/>
+</map>

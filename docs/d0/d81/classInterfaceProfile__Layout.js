@@ -30,7 +30,7 @@ var classInterfaceProfile__Layout =
     [ "OpenUI", "d0/d81/classInterfaceProfile__Layout_a08ea4037aad46d33e6124e0e5cf4be15.html#a08ea4037aad46d33e6124e0e5cf4be15", null ],
     [ "RefreshAllItems", "d0/d81/classInterfaceProfile__Layout_ac08f1499defc8f5471b81216ba79ac71.html#ac08f1499defc8f5471b81216ba79ac71", null ],
     [ "SetCollapsed", "d0/d81/classInterfaceProfile__Layout_a3b8d571800b022c194d40df9a66f09b7.html#a3b8d571800b022c194d40df9a66f09b7", null ],
-    [ "_minResolution", "d0/d81/classInterfaceProfile__Layout_a995f24e97971f655791b2dc6eb170581.html#a995f24e97971f655791b2dc6eb170581", null ],
+    [ "_minResolution", "d0/d81/classInterfaceProfile__Layout_ab589f52c9caa9f0ad0e50ee94069e879.html#ab589f52c9caa9f0ad0e50ee94069e879", null ],
     [ "forceEquipmentExpanded", "d0/d81/classInterfaceProfile__Layout_ababb96326472c68bb9abbf786aa3e069.html#ababb96326472c68bb9abbf786aa3e069", null ],
     [ "GroupsCollapsed", "d0/d81/classInterfaceProfile__Layout_a288ff5bbc9bfe25c2ff21eb3d7604966.html#a288ff5bbc9bfe25c2ff21eb3d7604966", null ],
     [ "LeftGroupings", "d0/d81/classInterfaceProfile__Layout_a4867ff94d2a4b2262f54242e5cae4ed4.html#a4867ff94d2a4b2262f54242e5cae4ed4", null ],

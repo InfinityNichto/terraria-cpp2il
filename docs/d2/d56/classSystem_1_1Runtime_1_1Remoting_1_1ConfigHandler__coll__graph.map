@@ -1,0 +1,15 @@
+<map id="System.Runtime.Remoting.ConfigHandler" name="System.Runtime.Remoting.ConfigHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="421,557,674,1640"/>
+<area shape="rect" id="Node000002" href="$d4/dc8/interfaceMono_1_1Xml_1_1SmallXmlParser_1_1IContentHandler.html" title=" " alt="" coords="5,177,231,495"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,505,423,872,418,874,211,508"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="257,5,344,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,71,287,147,279,252,278,373,283,434,293,494,315,585,345,676,379,763,416,846,411,848,375,765,340,677,310,586,287,495,278,435,273,373,273,252,282,146,293,70"/>
+<area shape="rect" id="Node000004" href="$db/da0/classSystem_1_1Runtime_1_1Remoting_1_1ChannelData.html" title=" " alt="" coords="439,237,655,435"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="308,70,322,113,333,133,348,151,365,162,382,164,401,166,422,175,450,197,474,222,470,226,446,201,419,180,400,171,382,170,363,167,344,155,328,136,317,115,303,72"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="550,436,550,541,545,541,545,436"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="571,5,622,71"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="624,45,658,63,674,77,687,93,693,109,692,123,687,154,683,324,670,495,665,541,660,541,665,494,677,324,682,153,687,123,687,110,682,96,670,80,655,68,621,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="572,47,530,64,510,78,495,96,483,125,479,157,482,189,491,221,486,222,477,190,474,156,478,124,490,93,507,74,527,60,570,43"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="837,303,879,369"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="854,370,840,429,821,496,755,665,683,827,679,825,750,663,815,494,835,427,849,369"/>
+</map>

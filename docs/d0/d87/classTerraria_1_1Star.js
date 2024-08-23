@@ -1,6 +1,7 @@
 var classTerraria_1_1Star =
 [
     [ "Star", "d0/d87/classTerraria_1_1Star_a039fdce119ab20087219ab46c80dc06a.html#a039fdce119ab20087219ab46c80dc06a", null ],
+    [ "Star", "d0/d87/classTerraria_1_1Star_a34633985c920b445ed9e956afad20fd6.html#a34633985c920b445ed9e956afad20fd6", null ],
     [ "Fall", "d0/d87/classTerraria_1_1Star_a52ea378062aa41f95abca54043f16b05.html#a52ea378062aa41f95abca54043f16b05", null ],
     [ "NightSetup", "d0/d87/classTerraria_1_1Star_a133bd863ec0f9670875e7793bce5fb35.html#a133bd863ec0f9670875e7793bce5fb35", null ],
     [ "SpawnStars", "d0/d87/classTerraria_1_1Star_a5c889b2abca22ec202e3b822b1e8ffb3.html#a5c889b2abca22ec202e3b822b1e8ffb3", null ],

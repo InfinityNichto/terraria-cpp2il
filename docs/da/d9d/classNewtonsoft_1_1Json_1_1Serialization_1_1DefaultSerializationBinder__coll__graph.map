@@ -1,0 +1,20 @@
+<map id="Newtonsoft.Json.Serialization.DefaultSerializationBinder" name="Newtonsoft.Json.Serialization.DefaultSerializationBinder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,991,363,1204"/>
+<area shape="rect" id="Node000002" href="$d0/d75/classSystem_1_1Runtime_1_1Serialization_1_1SerializationBinder.html" title=" " alt="" coords="5,439,244,617"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,631,74,699,64,774,65,852,71,890,82,927,97,959,117,989,113,992,92,961,77,929,66,891,59,853,58,774,69,698,85,630"/>
+<area shape="rect" id="Node000003" href="$d6/d31/classNewtonsoft_1_1Json_1_1Serialization_1_1DefaultSerializationBinder.html" title=" " alt="" coords="92,715,363,928"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="163,630,193,714,188,716,158,631"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,928,230,974,225,974,225,928"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="364,798,382,807,389,821,387,831,380,838,376,834,382,828,384,822,378,810,362,802"/>
+<area shape="rect" id="Node000004" href="$d1/d18/classNewtonsoft_1_1Json_1_1Utilities_1_1ThreadSafeStore.html" title=" " alt="" coords="303,404,640,652"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="502,652,509,718,508,790,498,862,487,896,472,929,454,958,431,984,379,1027,375,1023,428,980,450,955,468,927,482,894,492,860,503,789,503,719,497,653"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="370,654,328,704,324,700,366,650"/>
+<area shape="rect" id="Node000005" href="$d1/d18/classNewtonsoft_1_1Json_1_1Utilities_1_1ThreadSafeStore.html" title=" " alt="" coords="368,148,575,297"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="474,311,474,404,469,404,469,311"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="295,13,349,78"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="351,77,400,134,396,137,347,80"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="374,13,569,78"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="474,78,474,132,469,132,469,78"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="593,5,749,85"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="629,87,569,139,566,135,625,83"/>
+</map>

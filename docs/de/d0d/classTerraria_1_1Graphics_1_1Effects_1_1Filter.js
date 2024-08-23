@@ -1,7 +1,7 @@
 var classTerraria_1_1Graphics_1_1Effects_1_1Filter =
 [
     [ "Filter", "de/d0d/classTerraria_1_1Graphics_1_1Effects_1_1Filter_ab27295a4e91ec30d33636801f68cf890.html#ab27295a4e91ec30d33636801f68cf890", null ],
-    [ "Activate", "de/d0d/classTerraria_1_1Graphics_1_1Effects_1_1Filter_a15b98c6877893a40e6b5fd51ec7ed656.html#a15b98c6877893a40e6b5fd51ec7ed656", null ],
+    [ "Activate", "de/d0d/classTerraria_1_1Graphics_1_1Effects_1_1Filter_a678b7bfc59331e44f365f3d0262d09cf.html#a678b7bfc59331e44f365f3d0262d09cf", null ],
     [ "Apply", "de/d0d/classTerraria_1_1Graphics_1_1Effects_1_1Filter_a2146892ce7e519a60c8d3d94cf91b648.html#a2146892ce7e519a60c8d3d94cf91b648", null ],
     [ "Deactivate", "de/d0d/classTerraria_1_1Graphics_1_1Effects_1_1Filter_a2252bf2d4ffbef0306f1babcb371eae9.html#a2252bf2d4ffbef0306f1babcb371eae9", null ],
     [ "GetShader", "de/d0d/classTerraria_1_1Graphics_1_1Effects_1_1Filter_a14537587d3b05e63d4538aae16260408.html#a14537587d3b05e63d4538aae16260408", null ],

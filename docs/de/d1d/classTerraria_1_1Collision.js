@@ -2,6 +2,7 @@ var classTerraria_1_1Collision =
 [
     [ "HurtTile", "d5/daf/structTerraria_1_1Collision_1_1HurtTile.html", "d5/daf/structTerraria_1_1Collision_1_1HurtTile" ],
     [ "Collision", "de/d1d/classTerraria_1_1Collision_a2fc7748aef7ba1fbb27c5dab1a1587e9.html#a2fc7748aef7ba1fbb27c5dab1a1587e9", null ],
+    [ "Collision", "de/d1d/classTerraria_1_1Collision_a577ff0cadf15b74bc16c8b73a8e74fc7.html#a577ff0cadf15b74bc16c8b73a8e74fc7", null ],
     [ "AdvancedTileCollision", "de/d1d/classTerraria_1_1Collision_a80559de5d771fdd7991ff2d218461eef.html#a80559de5d771fdd7991ff2d218461eef", null ],
     [ "AimingLaserScan", "de/d1d/classTerraria_1_1Collision_a4004b31abf5dd1a5d42e15c6d4512a94.html#a4004b31abf5dd1a5d42e15c6d4512a94", null ],
     [ "AnyCollision", "de/d1d/classTerraria_1_1Collision_ac5017ed5e5bd7365f709f99c702f1685.html#ac5017ed5e5bd7365f709f99c702f1685", null ],
@@ -38,7 +39,7 @@ var classTerraria_1_1Collision =
     [ "GetWaterLineIterate", "de/d1d/classTerraria_1_1Collision_a31b8f99b4f34f8f0850bee5314526d72.html#a31b8f99b4f34f8f0850bee5314526d72", null ],
     [ "HitTiles", "de/d1d/classTerraria_1_1Collision_a365e6e4cc7f126d04c5674d2e6d8b285.html#a365e6e4cc7f126d04c5674d2e6d8b285", null ],
     [ "HitWallSubstep", "de/d1d/classTerraria_1_1Collision_af51030a0f0b51ff0dd5c17f9215215fd.html#af51030a0f0b51ff0dd5c17f9215215fd", null ],
-    [ "HurtTiles", "de/d1d/classTerraria_1_1Collision_a6c2d21dab55f1f94607e6e9d7f77d66e.html#a6c2d21dab55f1f94607e6e9d7f77d66e", null ],
+    [ "HurtTiles", "de/d1d/classTerraria_1_1Collision_a9c90136d7d61777551b53523434dff3e.html#a9c90136d7d61777551b53523434dff3e", null ],
     [ "InTileBounds", "de/d1d/classTerraria_1_1Collision_a1104a0d74088cc50a62ea175d882bafa.html#a1104a0d74088cc50a62ea175d882bafa", null ],
     [ "IsClearSpotTest", "de/d1d/classTerraria_1_1Collision_adebf5e71425ce4a698e93ec7a6532023.html#adebf5e71425ce4a698e93ec7a6532023", null ],
     [ "IsWorldPointSolid", "de/d1d/classTerraria_1_1Collision_a5b100b96bb77bdfe6bb8ed6c21b52741.html#a5b100b96bb77bdfe6bb8ed6c21b52741", null ],

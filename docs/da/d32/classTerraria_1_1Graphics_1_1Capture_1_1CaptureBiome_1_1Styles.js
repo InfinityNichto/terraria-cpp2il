@@ -1,6 +1,7 @@
 var classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_1_1Styles =
 [
     [ "Styles", "da/d32/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_1_1Styles_a66ff2290964c8fbaf4d6d1587f51e82b.html#a66ff2290964c8fbaf4d6d1587f51e82b", null ],
+    [ "Styles", "da/d32/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_1_1Styles_a04065e42929a6e76d646716a19913a5a.html#a04065e42929a6e76d646716a19913a5a", null ],
     [ "BloodMoon", "da/d32/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_1_1Styles_aff90c9576e4978d1d138f7c801dce777.html#aff90c9576e4978d1d138f7c801dce777", null ],
     [ "Corruption", "da/d32/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_1_1Styles_a3f6b23df60e2d0f7bdfa8e84df7373f2.html#a3f6b23df60e2d0f7bdfa8e84df7373f2", null ],
     [ "Crimson", "da/d32/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_1_1Styles_a532777be63e0bb3c10f748d1c9a9bd47.html#a532777be63e0bb3c10f748d1c9a9bd47", null ],

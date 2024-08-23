@@ -82,55 +82,55 @@ var sectionId = 'dynsection-0';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d1/d46/classTerraria_1_1UI_1_1Chat_1_1TextSnippet.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="177.5,-550 0.5,-550 0.5,-170 177.5,-170 177.5,-550"/>
+<polygon fill="white" stroke="transparent" points="176.5,-550 1.5,-550 1.5,-170 176.5,-170 176.5,-550"/>
 <text text-anchor="start" x="60.5" y="-538" font-family="Helvetica,sans-Serif" font-size="10.00">TextSnippet</text>
-<text text-anchor="start" x="5" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00">string Text</text>
-<text text-anchor="start" x="5" y="-508" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-508" font-family="Helvetica,sans-Serif" font-size="10.00">string TextOriginal</text>
-<text text-anchor="start" x="5" y="-493" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-493" font-family="Helvetica,sans-Serif" font-size="10.00">Color Color</text>
-<text text-anchor="start" x="5" y="-478" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-478" font-family="Helvetica,sans-Serif" font-size="10.00">float Scale</text>
-<text text-anchor="start" x="5" y="-463" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-463" font-family="Helvetica,sans-Serif" font-size="10.00">bool CheckForHover</text>
-<text text-anchor="start" x="5" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00">bool DeleteWhole</text>
-<text text-anchor="start" x="5" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00">TextSnippet(string</text>
-<text text-anchor="start" x="18" y="-422" font-family="Helvetica,sans-Serif" font-size="10.00"> text=&quot;&quot;)</text>
-<text text-anchor="start" x="5" y="-407" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-407" font-family="Helvetica,sans-Serif" font-size="10.00">TextSnippet(string</text>
-<text text-anchor="start" x="18" y="-396" font-family="Helvetica,sans-Serif" font-size="10.00"> text, Color color,</text>
-<text text-anchor="start" x="18" y="-385" font-family="Helvetica,sans-Serif" font-size="10.00"> float scale=1f)</text>
-<text text-anchor="start" x="5" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Update()</text>
-<text text-anchor="start" x="5" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnHover()</text>
-<text text-anchor="start" x="5" y="-340" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-340" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnClick()</text>
-<text text-anchor="start" x="5" y="-325" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-325" font-family="Helvetica,sans-Serif" font-size="10.00">virtual Color GetVisible</text>
-<text text-anchor="start" x="18" y="-314" font-family="Helvetica,sans-Serif" font-size="10.00">Color()</text>
-<text text-anchor="start" x="5" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">virtual bool UniqueDraw</text>
-<text text-anchor="start" x="18" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">(bool justCheckingString,</text>
-<text text-anchor="start" x="18" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00"> out Vector2 size, SpriteBatch</text>
-<text text-anchor="start" x="18" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch, [Optional] Vector2</text>
-<text text-anchor="start" x="18" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00"> position, [Optional] Color color,</text>
-<text text-anchor="start" x="18" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00"> float scale=1f)</text>
-<text text-anchor="start" x="5" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">virtual TextSnippet</text>
-<text text-anchor="start" x="18" y="-218" font-family="Helvetica,sans-Serif" font-size="10.00"> CopyMorph(string newText)</text>
-<text text-anchor="start" x="5" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">virtual float GetStringLength</text>
-<text text-anchor="start" x="18" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">(SpriteFont font)</text>
-<text text-anchor="start" x="5" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00">override string ToString()</text>
-<polygon fill="#666666" stroke="#666666" points="1,-533 1,-533 178,-533 178,-533 1,-533"/>
-<polygon fill="#666666" stroke="#666666" points="1,-443 1,-443 16,-443 16,-443 1,-443"/>
-<polygon fill="#666666" stroke="#666666" points="16,-443 16,-443 178,-443 178,-443 16,-443"/>
-<polygon fill="none" stroke="#666666" points="0.5,-170 0.5,-550 177.5,-550 177.5,-170 0.5,-170"/>
+<text text-anchor="start" x="6" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00">string Text</text>
+<text text-anchor="start" x="6" y="-508" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-508" font-family="Helvetica,sans-Serif" font-size="10.00">string TextOriginal</text>
+<text text-anchor="start" x="6" y="-493" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-493" font-family="Helvetica,sans-Serif" font-size="10.00">Color Color</text>
+<text text-anchor="start" x="6" y="-478" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-478" font-family="Helvetica,sans-Serif" font-size="10.00">float Scale</text>
+<text text-anchor="start" x="6" y="-463" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-463" font-family="Helvetica,sans-Serif" font-size="10.00">bool CheckForHover</text>
+<text text-anchor="start" x="6" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00">bool DeleteWhole</text>
+<text text-anchor="start" x="6" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00">TextSnippet(string</text>
+<text text-anchor="start" x="19" y="-422" font-family="Helvetica,sans-Serif" font-size="10.00"> text=&quot;&quot;)</text>
+<text text-anchor="start" x="6" y="-407" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-407" font-family="Helvetica,sans-Serif" font-size="10.00">TextSnippet(string</text>
+<text text-anchor="start" x="19" y="-396" font-family="Helvetica,sans-Serif" font-size="10.00"> text, Color color,</text>
+<text text-anchor="start" x="19" y="-385" font-family="Helvetica,sans-Serif" font-size="10.00"> float scale=1f)</text>
+<text text-anchor="start" x="6" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Update()</text>
+<text text-anchor="start" x="6" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnHover()</text>
+<text text-anchor="start" x="6" y="-340" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-340" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnClick()</text>
+<text text-anchor="start" x="6" y="-325" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-325" font-family="Helvetica,sans-Serif" font-size="10.00">virtual Color GetVisible</text>
+<text text-anchor="start" x="19" y="-314" font-family="Helvetica,sans-Serif" font-size="10.00">Color()</text>
+<text text-anchor="start" x="6" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">virtual bool UniqueDraw</text>
+<text text-anchor="start" x="19" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">(bool justCheckingString,</text>
+<text text-anchor="start" x="19" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00"> out Vector2 size, SpriteBatch</text>
+<text text-anchor="start" x="19" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch, Vector2 position</text>
+<text text-anchor="start" x="19" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">=default(Vector2), Color color</text>
+<text text-anchor="start" x="19" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">=default(Color), float scale=1f)</text>
+<text text-anchor="start" x="6" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">virtual TextSnippet</text>
+<text text-anchor="start" x="19" y="-218" font-family="Helvetica,sans-Serif" font-size="10.00"> CopyMorph(string newText)</text>
+<text text-anchor="start" x="6" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">virtual float GetStringLength</text>
+<text text-anchor="start" x="19" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">(SpriteFont font)</text>
+<text text-anchor="start" x="6" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="19" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00">override string ToString()</text>
+<polygon fill="#666666" stroke="#666666" points="2,-533 2,-533 177,-533 177,-533 2,-533"/>
+<polygon fill="#666666" stroke="#666666" points="2,-443 2,-443 17,-443 17,-443 2,-443"/>
+<polygon fill="#666666" stroke="#666666" points="17,-443 17,-443 177,-443 177,-443 17,-443"/>
+<polygon fill="none" stroke="#666666" points="1.5,-170 1.5,-550 176.5,-550 176.5,-170 1.5,-170"/>
 </a>
 </g>
 </g>

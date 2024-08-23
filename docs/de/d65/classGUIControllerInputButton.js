@@ -42,13 +42,13 @@ var classGUIControllerInputButton =
       [ "View", "de/d65/classGUIControllerInputButton_a71c579142a43e0be925c461ef6699293.html#a71c579142a43e0be925c461ef6699293a4351cfebe4b61d8aa5efa1d020710005", null ],
       [ "Options", "de/d65/classGUIControllerInputButton_a71c579142a43e0be925c461ef6699293.html#a71c579142a43e0be925c461ef6699293adae8ace18bdcbcc6ae5aece263e14fe8", null ]
     ] ],
-    [ "GetAxisTexureInformation", "de/d65/classGUIControllerInputButton_a56b8ac7acf73949fb2f39c14a010ad8f.html#a56b8ac7acf73949fb2f39c14a010ad8f", null ],
-    [ "GetButtonTexureInformation", "de/d65/classGUIControllerInputButton_a08808bca0f5b4fd9ab2544d4d9fcd737.html#a08808bca0f5b4fd9ab2544d4d9fcd737", null ],
-    [ "GetShoulderButtonTexureInformation", "de/d65/classGUIControllerInputButton_af0a4b28b852b7d31ec692fde55b6b846.html#af0a4b28b852b7d31ec692fde55b6b846", null ],
+    [ "GetAxisTexureInformation", "de/d65/classGUIControllerInputButton_ad5c9d5828111edee522c0bda9320d9c8.html#ad5c9d5828111edee522c0bda9320d9c8", null ],
+    [ "GetButtonTexureInformation", "de/d65/classGUIControllerInputButton_af8d070a90c1b80cfc368f5a8a9a68bcc.html#af8d070a90c1b80cfc368f5a8a9a68bcc", null ],
+    [ "GetShoulderButtonTexureInformation", "de/d65/classGUIControllerInputButton_a797d71d0992f73fbc82ecdce5f399a75.html#a797d71d0992f73fbc82ecdce5f399a75", null ],
     [ "LoadContent", "de/d65/classGUIControllerInputButton_a3d3da9da77604b13b28c2ea5d837d86f.html#a3d3da9da77604b13b28c2ea5d837d86f", null ],
-    [ "AxisControls", "de/d65/classGUIControllerInputButton_a7f39fd1c3cacd6776c96cb26afb35ec0.html#a7f39fd1c3cacd6776c96cb26afb35ec0", null ],
-    [ "ButtonControls", "de/d65/classGUIControllerInputButton_aaeb541140d9783833b6cb135b48d4685.html#aaeb541140d9783833b6cb135b48d4685", null ],
+    [ "AxisControls", "de/d65/classGUIControllerInputButton_ae5192e089314aef3d88365cb9d327755.html#ae5192e089314aef3d88365cb9d327755", null ],
+    [ "ButtonControls", "de/d65/classGUIControllerInputButton_af4ec424a75f3e030c50bd68b87524b51.html#af4ec424a75f3e030c50bd68b87524b51", null ],
     [ "defaultScheme", "de/d65/classGUIControllerInputButton_a6f782bfdfbf99e87fa98dbc416fa5e87.html#a6f782bfdfbf99e87fa98dbc416fa5e87", null ],
-    [ "PS4TouchPad", "de/d65/classGUIControllerInputButton_a8b71e76240c15e545ddc00ee4cb946f9.html#a8b71e76240c15e545ddc00ee4cb946f9", null ],
-    [ "ShoulderButtonControls", "de/d65/classGUIControllerInputButton_a08f85445247beb69b2b11f26e9fb80f6.html#a08f85445247beb69b2b11f26e9fb80f6", null ]
+    [ "PS4TouchPad", "de/d65/classGUIControllerInputButton_ab997848d839d896873e96d5519b29994.html#ab997848d839d896873e96d5519b29994", null ],
+    [ "ShoulderButtonControls", "de/d65/classGUIControllerInputButton_ad6dbb5789e2364a7707fb54badb43dac.html#ad6dbb5789e2364a7707fb54badb43dac", null ]
 ];

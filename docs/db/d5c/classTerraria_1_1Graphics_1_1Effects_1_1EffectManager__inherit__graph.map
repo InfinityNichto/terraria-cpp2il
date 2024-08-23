@@ -1,15 +1,15 @@
 <map id="Terraria.Graphics.Effects.EffectManager&lt; T &gt;" name="Terraria.Graphics.Effects.EffectManager&lt; T &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="267,5,478,383"/>
-<area shape="rect" id="Node000002" href="$db/d00/classTerraria_1_1Graphics_1_1Effects_1_1EffectManager.html" title=" " alt="" coords="31,445,237,823"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,396,239,446,234,444,261,394"/>
-<area shape="rect" id="Node000004" href="$db/d00/classTerraria_1_1Graphics_1_1Effects_1_1EffectManager.html" title=" " alt="" coords="269,445,476,823"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="375,396,375,445,370,445,370,396"/>
-<area shape="rect" id="Node000006" href="$db/d00/classTerraria_1_1Graphics_1_1Effects_1_1EffectManager.html" title=" " alt="" coords="505,445,715,823"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="483,394,510,444,506,446,479,396"/>
-<area shape="rect" id="Node000003" href="$d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html" title=" " alt="" coords="5,887,247,1373"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,837,133,887,127,887,128,837"/>
-<area shape="rect" id="Node000005" href="$d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html" title=" " alt="" coords="271,996,475,1264"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="375,836,375,996,370,996,370,836"/>
-<area shape="rect" id="Node000007" href="$dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager.html" title=" " alt="" coords="499,872,727,1388"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="614,837,614,872,609,872,608,837"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,5,473,397"/>
+<area shape="rect" id="Node000002" href="$db/d00/classTerraria_1_1Graphics_1_1Effects_1_1EffectManager.html" title=" " alt="" coords="36,460,237,852"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,409,240,463,235,460,263,407"/>
+<area shape="rect" id="Node000004" href="$db/d00/classTerraria_1_1Graphics_1_1Effects_1_1EffectManager.html" title=" " alt="" coords="272,460,473,852"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="375,411,375,460,370,460,370,411"/>
+<area shape="rect" id="Node000006" href="$db/d00/classTerraria_1_1Graphics_1_1Effects_1_1EffectManager.html" title=" " alt="" coords="503,460,714,852"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="482,406,509,459,505,461,477,409"/>
+<area shape="rect" id="Node000003" href="$d6/d63/classTerraria_1_1Graphics_1_1Effects_1_1FilterManager.html" title=" " alt="" coords="5,926,247,1413"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,866,134,926,128,926,130,866"/>
+<area shape="rect" id="Node000005" href="$d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html" title=" " alt="" coords="271,1035,475,1303"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="375,866,375,1035,370,1035,370,866"/>
+<area shape="rect" id="Node000007" href="$dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager.html" title=" " alt="" coords="499,901,727,1437"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="613,866,613,901,608,901,608,866"/>
 </map>

@@ -13,5 +13,5 @@ var classTerraria_1_1GameContent_1_1UI_1_1WiresUI_1_1Settings =
     [ "DrawToolModeUI", "d2/d4b/classTerraria_1_1GameContent_1_1UI_1_1WiresUI_1_1Settings_a0f888070a086b0fcc44accf316695faf.html#a0f888070a086b0fcc44accf316695faf", null ],
     [ "DrawWires", "d2/d4b/classTerraria_1_1GameContent_1_1UI_1_1WiresUI_1_1Settings_a5cac2efaa4647a50cc764269cbf7d1c9.html#a5cac2efaa4647a50cc764269cbf7d1c9", null ],
     [ "HideWires", "d2/d4b/classTerraria_1_1GameContent_1_1UI_1_1WiresUI_1_1Settings_af4a958ef01be73752aeb72b5975264a2.html#af4a958ef01be73752aeb72b5975264a2", null ],
-    [ "ToolMode", "d2/d4b/classTerraria_1_1GameContent_1_1UI_1_1WiresUI_1_1Settings_a1658982ad224c071d851031b80f7673a.html#a1658982ad224c071d851031b80f7673a", null ]
+    [ "ToolMode", "d2/d4b/classTerraria_1_1GameContent_1_1UI_1_1WiresUI_1_1Settings_aa8468dcc19529a9e997b97c81e8d1e07.html#aa8468dcc19529a9e997b97c81e8d1e07", null ]
 ];

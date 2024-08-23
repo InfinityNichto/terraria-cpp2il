@@ -1,0 +1,9 @@
+<map id="System.ComponentModel.TypeDescriptionProvider.EmptyCustomTypeDescriptor" name="System.ComponentModel.TypeDescriptionProvider.EmptyCustomTypeDescriptor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,1109,364,1204"/>
+<area shape="rect" id="Node000002" href="$d6/d39/classSystem_1_1ComponentModel_1_1CustomTypeDescriptor.html" title=" " alt="" coords="123,529,367,1060"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,1074,248,1109,243,1109,243,1074"/>
+<area shape="rect" id="Node000003" href="$d8/d25/interfaceSystem_1_1ComponentModel_1_1ICustomTypeDescriptor.html" title=" " alt="" coords="5,13,229,459"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,472,187,528,182,530,169,474"/>
+<area shape="rect" id="Node000004" href="$d8/d25/interfaceSystem_1_1ComponentModel_1_1ICustomTypeDescriptor.html" title=" " alt="" coords="253,5,493,467"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="323,467,312,514,307,513,318,466"/>
+</map>

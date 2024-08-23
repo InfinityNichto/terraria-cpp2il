@@ -110,13 +110,13 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="4.5" y="-88" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-88" font-family="Helvetica,sans-Serif" font-size="10.00">static LocalizedText</text>
 <text text-anchor="start" x="17.5" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00"> SelectRandom(LanguageSearch</text>
-<text text-anchor="start" x="17.5" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Filter filter, [Optional]</text>
-<text text-anchor="start" x="17.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00"> UnifiedRandom random)</text>
+<text text-anchor="start" x="17.5" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Filter filter, UnifiedRandom</text>
+<text text-anchor="start" x="17.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00"> random=null)</text>
 <text text-anchor="start" x="4.5" y="-40" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-40" font-family="Helvetica,sans-Serif" font-size="10.00">static LocalizedText</text>
 <text text-anchor="start" x="17.5" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00"> RandomFromCategory(string</text>
-<text text-anchor="start" x="17.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00"> categoryName, [Optional]</text>
-<text text-anchor="start" x="17.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> UnifiedRandom random)</text>
+<text text-anchor="start" x="17.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00"> categoryName, UnifiedRandom</text>
+<text text-anchor="start" x="17.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> random=null)</text>
 <polygon fill="#666666" stroke="#666666" points="0.5,-517 0.5,-517 183.5,-517 183.5,-517 0.5,-517"/>
 <polygon fill="#666666" stroke="#666666" points="0.5,-491 0.5,-491 15.5,-491 15.5,-491 0.5,-491"/>
 <polygon fill="#666666" stroke="#666666" points="15.5,-491 15.5,-491 183.5,-491 183.5,-491 15.5,-491"/>

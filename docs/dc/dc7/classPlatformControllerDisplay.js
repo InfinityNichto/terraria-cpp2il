@@ -12,7 +12,7 @@ var classPlatformControllerDisplay =
     [ "Create", "dc/dc7/classPlatformControllerDisplay.html#a5781b0d76ab66b7a4dbeb6db53159ca1", null ],
     [ "CreateOnMainThread", "dc/dc7/classPlatformControllerDisplay.html#a05136cd9ad945b7db1568c1b58e79235", null ],
     [ "Destroy", "dc/dc7/classPlatformControllerDisplay.html#afe9290f2313ae9321fabd7fc567c2219", null ],
-    [ "DisplayedController", "dc/dc7/classPlatformControllerDisplay_a2a22c77b2eb3c9a68476772a7c94a918.html#a2a22c77b2eb3c9a68476772a7c94a918", null ],
+    [ "DisplayedController", "dc/dc7/classPlatformControllerDisplay_a7ab80c4b873cf009cab9f42aea71c5f9.html#a7ab80c4b873cf009cab9f42aea71c5f9", null ],
     [ "Init", "dc/dc7/classPlatformControllerDisplay.html#a703cfb9ce45915a326ca326fa7ea4ab9", null ],
     [ "OnDisable", "dc/dc7/classPlatformControllerDisplay.html#adb47b039be05cdc12206f58bd0ee8134", null ],
     [ "OnEnable", "dc/dc7/classPlatformControllerDisplay.html#a4d6eabc43c957e9bbf2b1ebcf725051d", null ],

@@ -8,7 +8,7 @@ var classTerraria_1_1DataStructures_1_1AnchoredEntitiesCollection =
     [ "ClearPlayerAnchors", "d2/d6e/classTerraria_1_1DataStructures_1_1AnchoredEntitiesCollection_a985a2de40d1942952e4454010e3fd140.html#a985a2de40d1942952e4454010e3fd140", null ],
     [ "GetEntitiesInCoords", "d2/d6e/classTerraria_1_1DataStructures_1_1AnchoredEntitiesCollection_a0602114a06cff50596904cc030e323b7.html#a0602114a06cff50596904cc030e323b7", null ],
     [ "GetNextPlayerStackIndexInCoords", "d2/d6e/classTerraria_1_1DataStructures_1_1AnchoredEntitiesCollection_a803cf2e8083b51844058d8b5ca01f177.html#a803cf2e8083b51844058d8b5ca01f177", null ],
-    [ "_anchoredNPCs", "d2/d6e/classTerraria_1_1DataStructures_1_1AnchoredEntitiesCollection_a463165ff903c4d1946996f5115cefeb6.html#a463165ff903c4d1946996f5115cefeb6", null ],
-    [ "_anchoredPlayers", "d2/d6e/classTerraria_1_1DataStructures_1_1AnchoredEntitiesCollection_aaf6d7111606734d447abf841e03796e7.html#aaf6d7111606734d447abf841e03796e7", null ],
+    [ "_anchoredNPCs", "d2/d6e/classTerraria_1_1DataStructures_1_1AnchoredEntitiesCollection_aadbd8584c1a99b0bfcf791bedd858d94.html#aadbd8584c1a99b0bfcf791bedd858d94", null ],
+    [ "_anchoredPlayers", "d2/d6e/classTerraria_1_1DataStructures_1_1AnchoredEntitiesCollection_a3e986331a5fd252f3a318dfbdcd705ef.html#a3e986331a5fd252f3a318dfbdcd705ef", null ],
     [ "AnchoredPlayersAmount", "d2/d6e/classTerraria_1_1DataStructures_1_1AnchoredEntitiesCollection_a2ea73616d0082040de526d07ac6e7619.html#a2ea73616d0082040de526d07ac6e7619", null ]
 ];

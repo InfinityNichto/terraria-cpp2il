@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1ProjectileSourceID =
 [
+    [ "ProjectileSourceID", "da/da9/classTerraria_1_1ID_1_1ProjectileSourceID_a0d057b6b2f6463bc76fb4bf13b70c91d.html#a0d057b6b2f6463bc76fb4bf13b70c91d", null ],
     [ "AbigailTierSwap", "da/da9/classTerraria_1_1ID_1_1ProjectileSourceID_ab35754745108f45325bed83682bc7f62.html#ab35754745108f45325bed83682bc7f62", null ],
     [ "Count", "da/da9/classTerraria_1_1ID_1_1ProjectileSourceID_a616e490fa43a7e1ee0627150ef77326f.html#a616e490fa43a7e1ee0627150ef77326f", null ],
     [ "FallingStar", "da/da9/classTerraria_1_1ID_1_1ProjectileSourceID_acc35e82cebbd205d7f57fc250c2b8f79.html#acc35e82cebbd205d7f57fc250c2b8f79", null ],

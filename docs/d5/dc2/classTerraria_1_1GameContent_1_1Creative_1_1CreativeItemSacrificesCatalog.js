@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Creative_1_1CreativeItemSacrificesCatalog =
 [
     [ "CreativeItemSacrificesCatalog", "d5/dc2/classTerraria_1_1GameContent_1_1Creative_1_1CreativeItemSacrificesCatalog_ad531f7cdf57e5ea4af1075058db46fa7.html#ad531f7cdf57e5ea4af1075058db46fa7", null ],
+    [ "CreativeItemSacrificesCatalog", "d5/dc2/classTerraria_1_1GameContent_1_1Creative_1_1CreativeItemSacrificesCatalog_a993f51eba7669e84c98e3fcc37c81862.html#a993f51eba7669e84c98e3fcc37c81862", null ],
     [ "Initialize", "d5/dc2/classTerraria_1_1GameContent_1_1Creative_1_1CreativeItemSacrificesCatalog_afefc10f7690fdd1f8ca41aaafe60c11d.html#afefc10f7690fdd1f8ca41aaafe60c11d", null ],
     [ "TryGetSacrificeCountCapToUnlockInfiniteItems", "d5/dc2/classTerraria_1_1GameContent_1_1Creative_1_1CreativeItemSacrificesCatalog_af9d93771d1b40e8a2dbd1c9c9b211865.html#af9d93771d1b40e8a2dbd1c9c9b211865", null ],
     [ "_sacrificeCountNeededByItemId", "d5/dc2/classTerraria_1_1GameContent_1_1Creative_1_1CreativeItemSacrificesCatalog_adc896c9ae86006c833ce8c2636f07669.html#adc896c9ae86006c833ce8c2636f07669", null ],

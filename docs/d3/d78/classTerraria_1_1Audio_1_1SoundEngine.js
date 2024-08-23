@@ -9,7 +9,7 @@ var classTerraria_1_1Audio_1_1SoundEngine =
     [ "PlaySound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a65b4b1502c673e839c9bd620e23b2c94.html#a65b4b1502c673e839c9bd620e23b2c94", null ],
     [ "PlaySound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ab9718fa561de4732cf7eafc3a6ae99b6.html#ab9718fa561de4732cf7eafc3a6ae99b6", null ],
     [ "PlaySound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a13c9f6a1796ba7f8b3aefd591930a4b6.html#a13c9f6a1796ba7f8b3aefd591930a4b6", null ],
-    [ "PlayTrackedLoopedSound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ab993c59ee3db375704ce344da8e392f1.html#ab993c59ee3db375704ce344da8e392f1", null ],
+    [ "PlayTrackedLoopedSound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a1fcb95a4855f72cc0d47abc2daed7ebd.html#a1fcb95a4855f72cc0d47abc2daed7ebd", null ],
     [ "PlayTrackedSound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af011f84bade5e385bfb0b3b67570eb57.html#af011f84bade5e385bfb0b3b67570eb57", null ],
     [ "PlayTrackedSound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a60780f059789de8541120c6cdb85954d.html#a60780f059789de8541120c6cdb85954d", null ],
     [ "Reload", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ac39cfa59a02dbd31643ace619c391161.html#ac39cfa59a02dbd31643ace619c391161", null ],
@@ -18,6 +18,7 @@ var classTerraria_1_1Audio_1_1SoundEngine =
     [ "TestAudioSupport", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a098be025b0ec6bf3bc2545e7daefdcce.html#a098be025b0ec6bf3bc2545e7daefdcce", null ],
     [ "Update", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ab5943bb7fb36bdd669ae95cfc28393dc.html#ab5943bb7fb36bdd669ae95cfc28393dc", null ],
     [ "AreSoundsPaused", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af2fc5cd6f7dfd0705ed6d63538571258.html#af2fc5cd6f7dfd0705ed6d63538571258", null ],
+    [ "k__BackingField", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_aaf65dc32fa91eb3ace7f827392240849.html#aaf65dc32fa91eb3ace7f827392240849", null ],
     [ "LegacySoundPlayer", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a89c0a29173b1de6b393fb42cb713387e.html#a89c0a29173b1de6b393fb42cb713387e", null ],
     [ "SoundPlayer", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a134ca697ce4e0d578a3d38ee20eab9e3.html#a134ca697ce4e0d578a3d38ee20eab9e3", null ],
     [ "IsAudioSupported", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a449c228bdee48275095a470326bf800d.html#a449c228bdee48275095a470326bf800d", null ]

@@ -1,0 +1,9 @@
+<map id="System.Net.NetworkInformation.MacOsNetworkInterfaceAPI" name="System.Net.NetworkInformation.MacOsNetworkInterfaceAPI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,387,305,536"/>
+<area shape="rect" id="Node000002" href="$d3/db8/classSystem_1_1Net_1_1NetworkInformation_1_1UnixNetworkInterfaceAPI.html" title=" " alt="" coords="19,189,221,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,336,167,385,162,387,145,338"/>
+<area shape="rect" id="Node000003" href="$d6/dbc/classSystem_1_1Net_1_1NetworkInformation_1_1NetworkInterfaceFactory.html" title=" " alt="" coords="5,5,235,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,154,123,189,117,189,117,154"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="246,224,277,289"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,290,224,372,219,370,248,289"/>
+</map>

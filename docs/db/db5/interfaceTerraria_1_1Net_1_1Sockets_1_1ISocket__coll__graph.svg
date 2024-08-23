@@ -36,12 +36,12 @@
 <text text-anchor="start" x="17" y="-184.5" font-family="Helvetica,sans-Serif" font-size="10.00">void AsyncSend(byte</text>
 <text text-anchor="start" x="17" y="-173.5" font-family="Helvetica,sans-Serif" font-size="10.00">[] data, int offset,</text>
 <text text-anchor="start" x="17" y="-162.5" font-family="Helvetica,sans-Serif" font-size="10.00"> int size, SocketSendCallback</text>
-<text text-anchor="start" x="17" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00"> callback, [Optional] object state)</text>
+<text text-anchor="start" x="17" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00"> callback, object state=null)</text>
 <text text-anchor="start" x="4" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">void AsyncReceive(byte</text>
 <text text-anchor="start" x="17" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">[] data, int offset, int</text>
 <text text-anchor="start" x="17" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00"> size, SocketReceiveCallback</text>
-<text text-anchor="start" x="17" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> callback, [Optional] object state)</text>
+<text text-anchor="start" x="17" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> callback, object state=null)</text>
 <text text-anchor="start" x="4" y="-88.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-88.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsDataAvailable()</text>
 <text text-anchor="start" x="4" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

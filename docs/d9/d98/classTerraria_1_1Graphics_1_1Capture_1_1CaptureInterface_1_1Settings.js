@@ -1,5 +1,6 @@
 var classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1Settings =
 [
+    [ "Settings", "d9/d98/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1Settings_ac04299a998fafbd45312f5a3b7657fec.html#ac04299a998fafbd45312f5a3b7657fec", null ],
     [ "BiomeChoiceIndex", "d9/d98/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1Settings_aba9b730db257feebf347c64f3fa032ae.html#aba9b730db257feebf347c64f3fa032ae", null ],
     [ "IncludeEntities", "d9/d98/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1Settings_ad65b6251b4fb23bec805c16b79213e1a.html#ad65b6251b4fb23bec805c16b79213e1a", null ],
     [ "MarkedAreaColor", "d9/d98/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1Settings_a344c135c4d5d47184ca3d9ca0a07f925.html#a344c135c4d5d47184ca3d9ca0a07f925", null ],

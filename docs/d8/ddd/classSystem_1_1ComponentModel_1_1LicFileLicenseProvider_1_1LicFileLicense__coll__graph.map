@@ -1,0 +1,15 @@
+<map id="System.ComponentModel.LicFileLicenseProvider.LicFileLicense" name="System.ComponentModel.LicFileLicenseProvider.LicFileLicense">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,473,395,588"/>
+<area shape="rect" id="Node000002" href="$df/d90/classSystem_1_1ComponentModel_1_1License.html" title=" " alt="" coords="5,261,148,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,356,161,409,221,471,217,475,157,412,114,359"/>
+<area shape="rect" id="Node000003" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="15,37,138,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,116,79,261,74,261,74,116"/>
+<area shape="rect" id="Node000004" href="$d6/d9d/classSystem_1_1ComponentModel_1_1LicFileLicenseProvider.html" title=" " alt="" coords="172,197,384,411"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,411,281,457,275,457,275,411"/>
+<area shape="rect" id="Node000005" href="$d9/d3c/classSystem_1_1ComponentModel_1_1LicenseProvider.html" title=" " alt="" coords="175,5,381,135"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,149,281,197,275,197,275,149"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="407,271,562,337"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="461,338,397,412,349,463,345,459,393,409,457,335"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="459,37,510,103"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="487,117,487,271,482,271,482,117"/>
+</map>

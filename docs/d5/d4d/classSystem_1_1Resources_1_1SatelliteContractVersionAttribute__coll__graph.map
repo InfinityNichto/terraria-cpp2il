@@ -1,0 +1,9 @@
+<map id="System.Resources.SatelliteContractVersionAttribute" name="System.Resources.SatelliteContractVersionAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,261,207,356"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,173,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,212,106,261,101,262,93,212"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="198,133,381,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,201,184,253,181,249,248,197"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="264,5,315,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,85,292,133,287,133,287,85"/>
+</map>

@@ -13,8 +13,8 @@ var classTerraria_1_1Localization_1_1Language =
     [ "GetTextValue", "d4/d8f/classTerraria_1_1Localization_1_1Language_a083336184ceb991681fd8b9a8769c78c.html#a083336184ceb991681fd8b9a8769c78c", null ],
     [ "GetTextValueWith", "d4/d8f/classTerraria_1_1Localization_1_1Language_aee1558e43a43c3c4a8bcbfd1d84ffe43.html#aee1558e43a43c3c4a8bcbfd1d84ffe43", null ],
     [ "GetTextValueWith", "d4/d8f/classTerraria_1_1Localization_1_1Language_a85dfea64fdb8fb655cbcd946381ca901.html#a85dfea64fdb8fb655cbcd946381ca901", null ],
-    [ "RandomFromCategory", "d4/d8f/classTerraria_1_1Localization_1_1Language_a800be9739aa1587375b504f87df9bb09.html#a800be9739aa1587375b504f87df9bb09", null ],
-    [ "SelectRandom", "d4/d8f/classTerraria_1_1Localization_1_1Language_ac27de3e8cd88a761ab34eb9cccc9d6f9.html#ac27de3e8cd88a761ab34eb9cccc9d6f9", null ],
+    [ "RandomFromCategory", "d4/d8f/classTerraria_1_1Localization_1_1Language_a1c732b4e1059234d4bc459d76dd7825b.html#a1c732b4e1059234d4bc459d76dd7825b", null ],
+    [ "SelectRandom", "d4/d8f/classTerraria_1_1Localization_1_1Language_a5ab9b894e128c508ebdcc03cc8d1aac5.html#a5ab9b894e128c508ebdcc03cc8d1aac5", null ],
     [ "NodeKeySeperator", "d4/d8f/classTerraria_1_1Localization_1_1Language_a0d6597a28adfcf4d0f7dc6019c7f6311.html#a0d6597a28adfcf4d0f7dc6019c7f6311", null ],
     [ "ActiveCulture", "d4/d8f/classTerraria_1_1Localization_1_1Language_a637cc73bcffa57c925d11175571b8994.html#a637cc73bcffa57c925d11175571b8994", null ]
 ];

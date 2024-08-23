@@ -1,8 +1,8 @@
 <map id="MPSessionManager" name="MPSessionManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="130,515,419,947"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="422,689,439,705,446,731,443,748,435,762,430,759,438,746,441,731,435,708,418,693"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,515,413,961"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="415,694,433,711,440,738,437,756,429,771,424,768,432,755,435,738,429,714,412,698"/>
 <area shape="rect" id="Node000002" href="$dd/dc8/interfaceMPSession.html" title=" " alt="" coords="5,5,256,423"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="191,422,213,498,207,499,186,424"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="191,422,212,498,206,499,185,424"/>
 <area shape="rect" id="Node000003" href="$dd/db2/interfaceMPSessionAPI.html" title=" " alt="" coords="280,75,557,353"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="383,353,342,500,337,498,378,352"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="383,354,343,500,338,498,378,352"/>
 </map>

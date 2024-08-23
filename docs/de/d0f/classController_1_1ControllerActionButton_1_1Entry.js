@@ -10,7 +10,7 @@ var classController_1_1ControllerActionButton_1_1Entry =
     [ "Button", "de/d0f/classController_1_1ControllerActionButton_1_1Entry_a217ea13919422bb8c2d3666c6aad2034.html#a217ea13919422bb8c2d3666c6aad2034", null ],
     [ "IgnoreOthersIfExists", "de/d0f/classController_1_1ControllerActionButton_1_1Entry_a51e1ab44661ef5db92dfb5d803ecde2c.html#a51e1ab44661ef5db92dfb5d803ecde2c", null ],
     [ "InputKey", "de/d0f/classController_1_1ControllerActionButton_1_1Entry_a27538e9f94f2c617c43f96566bca0324.html#a27538e9f94f2c617c43f96566bca0324", null ],
-    [ "MappingType", "de/d0f/classController_1_1ControllerActionButton_1_1Entry_aec75ad7b6a0ca84dc665b12e1e6c8622.html#aec75ad7b6a0ca84dc665b12e1e6c8622", null ],
-    [ "RequiredState", "de/d0f/classController_1_1ControllerActionButton_1_1Entry_a4d1edda0745f02248bc92cbe8105f642.html#a4d1edda0745f02248bc92cbe8105f642", null ],
+    [ "MappingType", "de/d0f/classController_1_1ControllerActionButton_1_1Entry_a189d99e164dae2f732a82d15b73c4dfc.html#a189d99e164dae2f732a82d15b73c4dfc", null ],
+    [ "RequiredState", "de/d0f/classController_1_1ControllerActionButton_1_1Entry_ad6e2a5d2ffe7bf4d47b4a30648488d76.html#ad6e2a5d2ffe7bf4d47b4a30648488d76", null ],
     [ "Threshold", "de/d0f/classController_1_1ControllerActionButton_1_1Entry_add92b1ca40373f32e5427d607b49f8d5.html#add92b1ca40373f32e5427d607b49f8d5", null ]
 ];

@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Head =
 [
     [ "Sets", "da/de0/classTerraria_1_1ID_1_1ArmorIDs_1_1Head_1_1Sets.html", "da/de0/classTerraria_1_1ID_1_1ArmorIDs_1_1Head_1_1Sets" ],
     [ "Head", "d7/da3/classTerraria_1_1ID_1_1ArmorIDs_1_1Head_a7c4c0daf4551018a9c2f797dba34a3ac.html#a7c4c0daf4551018a9c2f797dba34a3ac", null ],
+    [ "Head", "d7/da3/classTerraria_1_1ID_1_1ArmorIDs_1_1Head_a3c10234b8901b978aa145d2fffb1c49c.html#a3c10234b8901b978aa145d2fffb1c49c", null ],
     [ "_0x33sAviators", "d7/da3/classTerraria_1_1ID_1_1ArmorIDs_1_1Head_a5f69296c5f800bd6ae3fd466c25abe1b.html#a5f69296c5f800bd6ae3fd466c25abe1b", null ],
     [ "AaronsHelmet", "d7/da3/classTerraria_1_1ID_1_1ArmorIDs_1_1Head_adf2f406ab8836b42fbf5543798e7e5c7.html#adf2f406ab8836b42fbf5543798e7e5c7", null ],
     [ "AdamantiteHeadgear", "d7/da3/classTerraria_1_1ID_1_1ArmorIDs_1_1Head_a818b144fda0e32ac12172301ed83f2e3.html#a818b144fda0e32ac12172301ed83f2e3", null ],

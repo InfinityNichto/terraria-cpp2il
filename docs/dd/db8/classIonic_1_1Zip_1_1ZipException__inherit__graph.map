@@ -1,0 +1,17 @@
+<map id="Ionic.Zip.ZipException" name="Ionic.Zip.ZipException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,1565,731,1700"/>
+<area shape="rect" id="Node000004" href="$dd/d96/classIonic_1_1Zip_1_1BadCrcException.html" title=" " alt="" coords="5,1773,189,1873"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="449,1667,326,1702,263,1724,203,1750,161,1775,158,1770,200,1746,261,1719,325,1697,448,1662"/>
+<area shape="rect" id="Node000005" href="$d2/db0/classIonic_1_1Zip_1_1BadPasswordException.html" title=" " alt="" coords="213,1748,437,1897"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="491,1710,433,1750,430,1746,488,1706"/>
+<area shape="rect" id="Node000006" href="$d7/d7f/classIonic_1_1Zip_1_1BadReadException.html" title=" " alt="" coords="461,1755,731,1890"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="599,1714,599,1755,593,1755,593,1714"/>
+<area shape="rect" id="Node000007" href="$db/d05/classIonic_1_1Zip_1_1BadStateException.html" title=" " alt="" coords="755,1748,960,1897"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="701,1706,756,1746,753,1750,698,1710"/>
+<area shape="rect" id="Node000008" href="$d0/d1a/classIonic_1_1Zip_1_1SfxGenerationException.html" title=" " alt="" coords="985,1773,1215,1873"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="745,1668,858,1702,973,1746,1022,1770,1020,1775,971,1750,856,1707,743,1673"/>
+<area shape="rect" id="Node000002" href="$db/d78/classSystem_1_1Exception.html" title=" " alt="" coords="395,133,797,1517"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="599,1531,599,1565,593,1565,593,1531"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="501,5,691,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="599,99,599,133,593,133,593,99"/>
+</map>

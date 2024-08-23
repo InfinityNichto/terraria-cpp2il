@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['keys_0',['Keys',['../de/d03/namespaceMicrosoft_1_1Xna_1_1Framework_1_1Input_a9e25e9680456f428a10e71481db580fd.html#a9e25e9680456f428a10e71481db580fd',1,'Microsoft::Xna::Framework::Input']]],
-  ['keystate_1',['KeyState',['../d8/d7b/classTerraria_1_1GameContent_1_1UI_1_1States_1_1UIVirtualKeyboard_a69fc39e63bb9aad3969b3bb290c04e1b.html#a69fc39e63bb9aad3969b3bb290c04e1b',1,'Terraria.GameContent.UI.States.UIVirtualKeyboard.KeyState'],['../de/d03/namespaceMicrosoft_1_1Xna_1_1Framework_1_1Input_a3d68e931663dbdbc1ff15e612521e67d.html#a3d68e931663dbdbc1ff15e612521e67d',1,'Microsoft.Xna.Framework.Input.KeyState']]]
+  ['jsoncontainertype_0',['JsonContainerType',['../d4/d34/namespaceNewtonsoft_1_1Json_aac773b118e6f28069c2b9e3cfc2803ea.html#aac773b118e6f28069c2b9e3cfc2803ea',1,'Newtonsoft::Json']]],
+  ['jsoncontracttype_1',['JsonContractType',['../d5/d85/namespaceNewtonsoft_1_1Json_1_1Serialization_a87481e2daefbf39c8a67ff1cf874f1a9.html#a87481e2daefbf39c8a67ff1cf874f1a9',1,'Newtonsoft::Json::Serialization']]],
+  ['jsontoken_2',['JsonToken',['../d4/d34/namespaceNewtonsoft_1_1Json_a45c15a85999865f929623f5f8169c1bf.html#a45c15a85999865f929623f5f8169c1bf',1,'Newtonsoft::Json']]],
+  ['jtokentype_3',['JTokenType',['../da/da5/namespaceNewtonsoft_1_1Json_1_1Linq_aea17b92a9899808a5af23de0768c5537.html#aea17b92a9899808a5af23de0768c5537',1,'Newtonsoft::Json::Linq']]]
 ];

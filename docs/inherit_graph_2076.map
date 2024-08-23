@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d2/d02/classSystem_1_1Runtime_1_1Remoting_1_1Identity.html" title=" " alt="" coords="5,37,207,77"/>
+<area shape="rect" id="Node000001" href="$d5/d69/classSystem_1_1Runtime_1_1Remoting_1_1ClientIdentity.html" title=" " alt="" coords="255,5,456,45"/>
+<area shape="poly" id="edge3648_Node000000_Node000001" title=" " alt="" coords="220,40,254,36,255,41,221,45"/>
+<area shape="rect" id="Node000002" href="$db/ded/classSystem_1_1Runtime_1_1Remoting_1_1ServerIdentity.html" title=" " alt="" coords="255,69,456,109"/>
+<area shape="poly" id="edge3649_Node000000_Node000002" title=" " alt="" coords="221,69,255,74,254,79,220,75"/>
+<area shape="rect" id="Node000003" href="$dc/d7b/classSystem_1_1Runtime_1_1Remoting_1_1ClientActivatedIdentity.html" title=" " alt="" coords="504,5,705,45"/>
+<area shape="poly" id="edge3650_Node000002_Node000003" title=" " alt="" coords="446,63,526,43,527,48,448,68"/>
+<area shape="rect" id="Node000004" href="$de/d57/classSystem_1_1Runtime_1_1Remoting_1_1SingleCallIdentity.html" title=" " alt="" coords="504,69,705,109"/>
+<area shape="poly" id="edge3651_Node000002_Node000004" title=" " alt="" coords="470,87,504,87,504,92,470,92"/>
+<area shape="rect" id="Node000005" href="$da/d53/classSystem_1_1Runtime_1_1Remoting_1_1SingletonIdentity.html" title=" " alt="" coords="504,133,705,173"/>
+<area shape="poly" id="edge3652_Node000002_Node000005" title=" " alt="" coords="448,110,527,131,526,136,446,115"/>
+</map>

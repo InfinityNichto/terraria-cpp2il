@@ -4,5 +4,5 @@ var structTerraria_1_1Utilities_1_1Bits64 =
     [ "operator ulong", "d5/d15/structTerraria_1_1Utilities_1_1Bits64_a28f1f296cdbfb141dc637b5192c53cc9.html#a28f1f296cdbfb141dc637b5192c53cc9", null ],
     [ "v", "d5/d15/structTerraria_1_1Utilities_1_1Bits64_ae7db78585486b7f783089458ad255fa8.html#ae7db78585486b7f783089458ad255fa8", null ],
     [ "IsEmpty", "d5/d15/structTerraria_1_1Utilities_1_1Bits64_aad2bd02df0c57a1f1f580db8832e77ec.html#aad2bd02df0c57a1f1f580db8832e77ec", null ],
-    [ "Item", "d5/d15/structTerraria_1_1Utilities_1_1Bits64_a3d40951f48e1b9f1ed3ef4f1eb8f0e0e.html#a3d40951f48e1b9f1ed3ef4f1eb8f0e0e", null ]
+    [ "this[int i]", "d5/d15/structTerraria_1_1Utilities_1_1Bits64_ab56b9b5d455b18063ecea8a89b8d8610.html#ab56b9b5d455b18063ecea8a89b8d8610", null ]
 ];

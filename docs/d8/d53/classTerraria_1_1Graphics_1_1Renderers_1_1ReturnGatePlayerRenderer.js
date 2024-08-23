@@ -1,8 +1,8 @@
 var classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer =
 [
     [ "ReturnGatePlayerRenderer", "d8/d53/classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer_ad50cc8df2229fda63959f8c8b50533a3.html#ad50cc8df2229fda63959f8c8b50533a3", null ],
-    [ "DrawPlayer", "d8/d53/classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer_aed09c27632ef14cbb1706551cb7a30c9.html#aed09c27632ef14cbb1706551cb7a30c9", null ],
-    [ "DrawPlayerHead", "d8/d53/classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer_a56ac1ae84befa16851204e1ca5a232ab.html#a56ac1ae84befa16851204e1ca5a232ab", null ],
+    [ "DrawPlayer", "d8/d53/classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer_adac6586d80f968b2620cd4e665b5117e.html#adac6586d80f968b2620cd4e665b5117e", null ],
+    [ "DrawPlayerHead", "d8/d53/classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer_aac8af40334ab7edc6832d98b1b30984b.html#aac8af40334ab7edc6832d98b1b30984b", null ],
     [ "DrawPlayers", "d8/d53/classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer_a0f4bf1c594331c527b98276d7377d404.html#a0f4bf1c594331c527b98276d7377d404", null ],
     [ "DrawReturnGateInMap", "d8/d53/classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer_aa54ab7670556d74e785396bb832c2978.html#aa54ab7670556d74e785396bb832c2978", null ],
     [ "DrawReturnGateInWorld", "d8/d53/classTerraria_1_1Graphics_1_1Renderers_1_1ReturnGatePlayerRenderer_a6ccdb07c568994b4ad6f80f7d7bc67bc.html#a6ccdb07c568994b4ad6f80f7d7bc67bc", null ],

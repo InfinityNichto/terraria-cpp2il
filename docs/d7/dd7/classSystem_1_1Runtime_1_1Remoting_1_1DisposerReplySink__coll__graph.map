@@ -1,0 +1,9 @@
+<map id="System.Runtime.Remoting.DisposerReplySink" name="System.Runtime.Remoting.DisposerReplySink">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,163,414,444"/>
+<area shape="rect" id="Node000002" href="$de/d7b/classglobal_1_1SystemRuntime_1_1Remoting_1_1Messaging_1_1IMessageSink.html" title=" " alt="" coords="5,5,172,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,111,153,161,149,164,120,113"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,20,266,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,85,234,146,229,146,229,85"/>
+<area shape="rect" id="Node000004" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="291,20,433,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="348,87,315,149,310,146,343,84"/>
+</map>

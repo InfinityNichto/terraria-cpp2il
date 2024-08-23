@@ -20,5 +20,5 @@ var classGUIControllerHairStylist =
     [ "maxRowColumn", "d7/daf/classGUIControllerHairStylist_a948acbea3207b5ba3bbd5e02c7b7b7ac.html#a948acbea3207b5ba3bbd5e02c7b7b7ac", null ],
     [ "maxRowIndex", "d7/daf/classGUIControllerHairStylist_a23bc1b1dacaf4099ed190d98581e92f0.html#a23bc1b1dacaf4099ed190d98581e92f0", null ],
     [ "scrollOffset", "d7/daf/classGUIControllerHairStylist_a8576ec315212802a01f4c01658e9263d.html#a8576ec315212802a01f4c01658e9263d", null ],
-    [ "selectedControl", "d7/daf/classGUIControllerHairStylist_ab11a613c74b35c1d6e0afdfc3caf8f30.html#ab11a613c74b35c1d6e0afdfc3caf8f30", null ]
+    [ "selectedControl", "d7/daf/classGUIControllerHairStylist_a3b2b4a58110e859ceaf05786dbd7de34.html#a3b2b4a58110e859ceaf05786dbd7de34", null ]
 ];

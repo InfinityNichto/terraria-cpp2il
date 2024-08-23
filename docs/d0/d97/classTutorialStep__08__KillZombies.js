@@ -7,7 +7,7 @@ var classTutorialStep__08__KillZombies =
     ] ],
     [ "TutorialStep_08_KillZombies", "d0/d97/classTutorialStep__08__KillZombies_a14110f923ab222c8226d10c2915bb951.html#a14110f923ab222c8226d10c2915bb951", null ],
     [ "Begin", "d0/d97/classTutorialStep__08__KillZombies.html#ae7b36833ed674651c836c42b57bdfa7c", null ],
-    [ "GetGuideState", "d0/d97/classTutorialStep__08__KillZombies_a4166fcc16f04ff869518bbd3397c3d7d.html#a4166fcc16f04ff869518bbd3397c3d7d", null ],
+    [ "GetGuideState", "d0/d97/classTutorialStep__08__KillZombies_a49187e439412e3c6ddbe9cce8b703105.html#a49187e439412e3c6ddbe9cce8b703105", null ],
     [ "GetGuideString", "d0/d97/classTutorialStep__08__KillZombies_ae5851770b98e734f8957c69a32dcdafd.html#ae5851770b98e734f8957c69a32dcdafd", null ],
     [ "GiveItem", "d0/d97/classTutorialStep__08__KillZombies.html#ac38e5ac4261d7aca8a148210f3a82d04", null ],
     [ "OnGuideDialogueOpen", "d0/d97/classTutorialStep__08__KillZombies_a170502bd3b7f5d63b80a72ca7c645793.html#a170502bd3b7f5d63b80a72ca7c645793", null ],

@@ -1,6 +1,7 @@
 var structMicrosoft_1_1Xna_1_1Framework_1_1Matrix =
 [
     [ "Matrix", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_a11d18382a1cb086fb083445e03a474eb.html#a11d18382a1cb086fb083445e03a474eb", null ],
+    [ "Matrix", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_a6ecd418e90845179db825498f780c1a2.html#a6ecd418e90845179db825498f780c1a2", null ],
     [ "Add", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_a5f57f7a87f698929d9a4d147260b5866.html#a5f57f7a87f698929d9a4d147260b5866", null ],
     [ "Add", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_a31144558b3b79860c680f6ce6c55104c.html#a31144558b3b79860c680f6ce6c55104c", null ],
     [ "CreateBillboard", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_ab626e1dae2693578ed44e96b8274fa25.html#ab626e1dae2693578ed44e96b8274fa25", null ],
@@ -55,6 +56,7 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Matrix =
     [ "Divide", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_af6d4ccf3cfe488c1737d4fe88154ebc9.html#af6d4ccf3cfe488c1737d4fe88154ebc9", null ],
     [ "Equals", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_aab01a31c1bff976f669592d386c0b28c.html#aab01a31c1bff976f669592d386c0b28c", null ],
     [ "Equals", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_a9428f02679cad432a23ae4c80d22e89a.html#a9428f02679cad432a23ae4c80d22e89a", null ],
+    [ "Equals", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix.html#adcb517a2c4a75f107b1b3d704b343c16", null ],
     [ "GetHashCode", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_aeed4140472726e394c2c61b249f25875.html#aeed4140472726e394c2c61b249f25875", null ],
     [ "Invert", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_a71e8560d21ef1250b18ba87e1cadcaa8.html#a71e8560d21ef1250b18ba87e1cadcaa8", null ],
     [ "Invert", "d4/d72/structMicrosoft_1_1Xna_1_1Framework_1_1Matrix_a80781a33b5cedb427143b6a681db4b8c.html#a80781a33b5cedb427143b6a681db4b8c", null ],

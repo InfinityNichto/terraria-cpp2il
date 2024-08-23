@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy =
 [
     [ "TETrainingDummy", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy_aa2b7622a395341001ba775c4d759d356.html#aa2b7622a395341001ba775c4d759d356", null ],
+    [ "TETrainingDummy", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy_a1ad9f265337121d9b5ea6a5e2ffc76c8.html#a1ad9f265337121d9b5ea6a5e2ffc76c8", null ],
     [ "Activate", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy_a2228abd175ace290797961c1f80a72fd.html#a2228abd175ace290797961c1f80a72fd", null ],
     [ "AssignNewID", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#a2900f8106c689792a513dbcd2e572c8a", null ],
     [ "BasicOpenCloseInteraction", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#a295675c600c448988e81080cece91e29", null ],
@@ -54,7 +55,7 @@ var classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy =
     [ "Position", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#a0dfd03fa3e2ccd2927208152ee10826a", null ],
     [ "TileEntitiesNextID", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#a754073f7668e01bf4af3324ce930e62c", null ],
     [ "type", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#a2926a8aa28bed9a097bc213b325db55b", null ],
-    [ "_UpdateEnd", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#aa77def30a1e2a8fc965f5ef047d1471d", null ],
-    [ "_UpdateStart", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#a8f040d287cc899854f3e068b0b23d84a", null ],
+    [ "_UpdateEnd", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#ab90b317c0302c05938306a1dc8e5e66a", null ],
+    [ "_UpdateStart", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#a693a4f83a34aaaa6b9ac90c3fc0c35c7", null ],
     [ "PositionKey", "d1/dea/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TETrainingDummy.html#abc92534881febd5243772d9a2c899ab2", null ]
 ];

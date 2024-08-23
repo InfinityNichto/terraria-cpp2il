@@ -1,8 +1,10 @@
 var classTerraria_1_1TileData =
 [
     [ "TileData", "d2/d25/classTerraria_1_1TileData_a9582cb6854485037debcab58a72b32ab.html#a9582cb6854485037debcab58a72b32ab", null ],
+    [ "TileData", "d2/d25/classTerraria_1_1TileData_aa9ebf08a9833c1e115ed8235b3b0c473.html#aa9ebf08a9833c1e115ed8235b3b0c473", null ],
     [ "AddFreeEntry", "d2/d25/classTerraria_1_1TileData_a0b0be67aa585fea8d1e70bf286d5e0b5.html#a0b0be67aa585fea8d1e70bf286d5e0b5", null ],
-    [ "Allocate", "d2/d25/classTerraria_1_1TileData_a22a13bd8f9584ac71d87aa58c27cb9ec.html#a22a13bd8f9584ac71d87aa58c27cb9ec", null ],
+    [ "Allocate", "d2/d25/classTerraria_1_1TileData_a5c027c79f3562b74d68eecf8d463ed1c.html#a5c027c79f3562b74d68eecf8d463ed1c", null ],
+    [ "CalculateStorageSize", "d2/d25/classTerraria_1_1TileData_ad2781fc307a4af96c006f80b85cec3e7.html#ad2781fc307a4af96c006f80b85cec3e7", null ],
     [ "CalculateWorldTileSize", "d2/d25/classTerraria_1_1TileData_a5935909ebddd584e5050f055d665c983.html#a5935909ebddd584e5050f055d665c983", null ],
     [ "ClearEverything", "d2/d25/classTerraria_1_1TileData_a47eaa4160bdf86c9ac02a52fd0a8b312.html#a47eaa4160bdf86c9ac02a52fd0a8b312", null ],
     [ "ConfirmWidthHeight", "d2/d25/classTerraria_1_1TileData_a81095e8c09239cf2e951fc80a7fa1910.html#a81095e8c09239cf2e951fc80a7fa1910", null ],
@@ -28,7 +30,7 @@ var classTerraria_1_1TileData =
     [ "ReleaseTileDefinition", "d2/d25/classTerraria_1_1TileData_ae2913653f6acc2dae5cee08bc884222b.html#ae2913653f6acc2dae5cee08bc884222b", null ],
     [ "ReregisterTile", "d2/d25/classTerraria_1_1TileData_ac114e6030052f93eb12a189d38ab18c2.html#ac114e6030052f93eb12a189d38ab18c2", null ],
     [ "Safe", "d2/d25/classTerraria_1_1TileData_a6cc638faa218115c5ca71a0f9150a093.html#a6cc638faa218115c5ca71a0f9150a093", null ],
-    [ "SetBHeader", "d2/d25/classTerraria_1_1TileData_ab63e642051fdddbf444ce7d4c5d9df96.html#ab63e642051fdddbf444ce7d4c5d9df96", null ],
+    [ "SetBHeader", "d2/d25/classTerraria_1_1TileData_a518bb58b56506036c56b7bfb981e39b3.html#a518bb58b56506036c56b7bfb981e39b3", null ],
     [ "SetBHeader2", "d2/d25/classTerraria_1_1TileData_ad5952c50c139d7247b615fec3e3d6141.html#ad5952c50c139d7247b615fec3e3d6141", null ],
     [ "SetBHeader3", "d2/d25/classTerraria_1_1TileData_ad86d252e6c8d4f6faf1f36b89c8d5c19.html#ad86d252e6c8d4f6faf1f36b89c8d5c19", null ],
     [ "SetCheckingLiquid", "d2/d25/classTerraria_1_1TileData_af2a0e0f47ea3c3675a866da3e3f4be7d.html#af2a0e0f47ea3c3675a866da3e3f4be7d", null ],
@@ -45,7 +47,10 @@ var classTerraria_1_1TileData =
     [ "SetWall", "d2/d25/classTerraria_1_1TileData_a9d1516326896efb8dc3a229817284325.html#a9d1516326896efb8dc3a229817284325", null ],
     [ "_height", "d2/d25/classTerraria_1_1TileData_abb3020cb62bff1aefece3b9754cd8066.html#abb3020cb62bff1aefece3b9754cd8066", null ],
     [ "_width", "d2/d25/classTerraria_1_1TileData_aed8ec38c520c6c8d3cfdaab6703a61ae.html#aed8ec38c520c6c8d3cfdaab6703a61ae", null ],
+    [ "actualBufferSize", "d2/d25/classTerraria_1_1TileData_a3b5e407a4ddeff8dfcccf87df289aa42.html#a3b5e407a4ddeff8dfcccf87df289aa42", null ],
+    [ "bufferSize", "d2/d25/classTerraria_1_1TileData_a526c3f65f8afa4789b059050c4acd916.html#a526c3f65f8afa4789b059050c4acd916", null ],
     [ "FreeTiles", "d2/d25/classTerraria_1_1TileData_ad9fef618d98e46d95a706db9e7f1fe60.html#ad9fef618d98e46d95a706db9e7f1fe60", null ],
+    [ "memorybuffer", "d2/d25/classTerraria_1_1TileData_a5842fac098ee80e31c8f72d055c6e7b9.html#a5842fac098ee80e31c8f72d055c6e7b9", null ],
     [ "NPCState", "d2/d25/classTerraria_1_1TileData_a74eb7edb4a2cd7ffa565460c618f812d.html#a74eb7edb4a2cd7ffa565460c618f812d", null ],
     [ "TileBHeader", "d2/d25/classTerraria_1_1TileData_af35b882ac0629dfcebed18be1c0e2a17.html#af35b882ac0629dfcebed18be1c0e2a17", null ],
     [ "TileBHeader2", "d2/d25/classTerraria_1_1TileData_a507cf24262ec92c75964a1eff3634f60.html#a507cf24262ec92c75964a1eff3634f60", null ],
@@ -73,5 +78,5 @@ var classTerraria_1_1TileData =
     [ "TileWall", "d2/d25/classTerraria_1_1TileData_a68e061739cc1720af1732eab1f76e311.html#a68e061739cc1720af1732eab1f76e311", null ],
     [ "tileWallDataPtr", "d2/d25/classTerraria_1_1TileData_abab62fbc08a2c7b147f1ca72bf4cf904.html#abab62fbc08a2c7b147f1ca72bf4cf904", null ],
     [ "TotalTileCount", "d2/d25/classTerraria_1_1TileData_ab2df7dadb546d68f8c8ffcdfe2ce7aee.html#ab2df7dadb546d68f8c8ffcdfe2ce7aee", null ],
-    [ "Item", "d2/d25/classTerraria_1_1TileData_a86eed9b3c2d14f0d4a7259093c6546a5.html#a86eed9b3c2d14f0d4a7259093c6546a5", null ]
+    [ "this[int x, int y]", "d2/d25/classTerraria_1_1TileData_a7f9e4e2acf55a6f60100a7997e42c371.html#a7f9e4e2acf55a6f60100a7997e42c371", null ]
 ];

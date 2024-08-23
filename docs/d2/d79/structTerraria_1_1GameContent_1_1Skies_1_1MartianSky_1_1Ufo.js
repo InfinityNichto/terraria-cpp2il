@@ -1,10 +1,11 @@
 var structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo =
 [
     [ "Ufo", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a7d872e15cd334dc1ae2b9094b21c4534.html#a7d872e15cd334dc1ae2b9094b21c4534", null ],
+    [ "Ufo", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_ab146234718ed534e898c8bf96da0ea62.html#ab146234718ed534e898c8bf96da0ea62", null ],
     [ "AssignNewBehavior", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a8d8203cd590b1901f9babe7dce6ee58b.html#a8d8203cd590b1901f9babe7dce6ee58b", null ],
     [ "GetSourceRectangle", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_ad44acd39e10cb3369cc60711f25d1385.html#ad44acd39e10cb3369cc60711f25d1385", null ],
     [ "Update", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_abee077fcf9c2c1b590fcbe55d78982b3.html#abee077fcf9c2c1b590fcbe55d78982b3", null ],
-    [ "_controller", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a922794652f135976eed92bd2bccbbe12.html#a922794652f135976eed92bd2bccbbe12", null ],
+    [ "_controller", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_abf9f2699aa9fd8f743abfda8c52a3fb1.html#abf9f2699aa9fd8f743abfda8c52a3fb1", null ],
     [ "_frame", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a3dc95965a6713323d052f74c4f410a9a.html#a3dc95965a6713323d052f74c4f410a9a", null ],
     [ "_texture", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a675d55be26d8f71a0ee53fb1aabd2bb4.html#a675d55be26d8f71a0ee53fb1aabd2bb4", null ],
     [ "Depth", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_ae1493d438979de10eb60fd39e5b52c2b.html#ae1493d438979de10eb60fd39e5b52c2b", null ],
@@ -19,7 +20,7 @@ var structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo =
     [ "Random", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a5f701c2d9cfd1cdd331f7a7027f3ab1d.html#a5f701c2d9cfd1cdd331f7a7027f3ab1d", null ],
     [ "Rotation", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a32cee86f071586d82c159cf03aef38be.html#a32cee86f071586d82c159cf03aef38be", null ],
     [ "Scale", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_ad9924cccd979fc372193ee28367853ce.html#ad9924cccd979fc372193ee28367853ce", null ],
-    [ "Controller", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a94764f40d901164b5ebdf3a62c5b4374.html#a94764f40d901164b5ebdf3a62c5b4374", null ],
+    [ "Controller", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a31a1131c4976bd6d1b7338bc9a24ae09.html#a31a1131c4976bd6d1b7338bc9a24ae09", null ],
     [ "Frame", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_a0ba2df8e2804e84d3c4079c1d1799b0f.html#a0ba2df8e2804e84d3c4079c1d1799b0f", null ],
     [ "Texture", "d2/d79/structTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1Ufo_ad5c6a508a737baefd8a39a19ccfd8e59.html#ad5c6a508a737baefd8a39a19ccfd8e59", null ]
 ];

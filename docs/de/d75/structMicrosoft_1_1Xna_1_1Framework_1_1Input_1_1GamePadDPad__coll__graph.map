@@ -1,3 +1,11 @@
 <map id="Microsoft.Xna.Framework.Input.GamePadDPad" name="Microsoft.Xna.Framework.Input.GamePadDPad">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,261,397"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,133,475,525"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,164,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,69,210,173,206,177,111,73"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="188,5,333,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,70,287,117,282,118,268,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="358,5,513,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,72,414,118,409,117,423,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="537,5,675,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="580,73,488,175,484,171,576,69"/>
 </map>

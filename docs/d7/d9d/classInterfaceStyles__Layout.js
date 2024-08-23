@@ -1,6 +1,7 @@
 var classInterfaceStyles__Layout =
 [
     [ "InterfaceStyles_Layout", "d7/d9d/classInterfaceStyles__Layout_a17c4f823f4488c6ec621639bab94b4ed.html#a17c4f823f4488c6ec621639bab94b4ed", null ],
+    [ "InterfaceStyles_Layout", "d7/d9d/classInterfaceStyles__Layout_a441a82bac38f9dd68b5dcce109de26f5.html#a441a82bac38f9dd68b5dcce109de26f5", null ],
     [ "Awake", "d7/d9d/classInterfaceStyles__Layout_afdf140a1400906d7d77ceb13a8628002.html#afdf140a1400906d7d77ceb13a8628002", null ],
     [ "GetDefaultProfile", "d7/d9d/classInterfaceStyles__Layout_aeabcaa876e851ac27d88000716ee210d.html#aeabcaa876e851ac27d88000716ee210d", null ],
     [ "IsList", "d7/d9d/classInterfaceStyles__Layout.html#ab49b1ae676fc9e7e58f21ea4c8ee2e67", null ],
@@ -10,9 +11,9 @@ var classInterfaceStyles__Layout =
     [ "LoadReleaseLayout", "d7/d9d/classInterfaceStyles__Layout.html#a5660c9c1485c8032950a2698bf7795b8", null ],
     [ "LoadReleaseLayout", "d7/d9d/classInterfaceStyles__Layout.html#a1a9250f2cc98bc57b73a71c655dbaeb1", null ],
     [ "LoadUIResolution", "d7/d9d/classInterfaceStyles__Layout_a599d965d1b002209f67e204c8df6e71f.html#a599d965d1b002209f67e204c8df6e71f", null ],
-    [ "RefreshFields", "d7/d9d/classInterfaceStyles__Layout.html#abdcf4e3514f4037608fb5fece7c66113", null ],
+    [ "RefreshFields", "d7/d9d/classInterfaceStyles__Layout.html#a620c5798a507cd9500017ff09b3a3220", null ],
     [ "RefreshProfileNames", "d7/d9d/classInterfaceStyles__Layout_a94c246c3f756a584d580e89e5fed1432.html#a94c246c3f756a584d580e89e5fed1432", null ],
-    [ "RefreshStyles", "d7/d9d/classInterfaceStyles__Layout.html#aa627f6fcdc89fba0b5b9120fc6a23ba7", null ],
+    [ "RefreshStyles", "d7/d9d/classInterfaceStyles__Layout.html#a659b7b9e7aec221d4e64099f7c99c91f", null ],
     [ "Save", "d7/d9d/classInterfaceStyles__Layout.html#a86d9af8d8414d86746a9e5cdcd7e6a51", null ],
     [ "SaveConfiguration", "d7/d9d/classInterfaceStyles__Layout_ae7e66de0800f9aacce2399530cf4e8ae.html#ae7e66de0800f9aacce2399530cf4e8ae", null ],
     [ "SaveFields", "d7/d9d/classInterfaceStyles__Layout.html#ab1f3e096ae000a06054b1ae43d0f1421", null ],

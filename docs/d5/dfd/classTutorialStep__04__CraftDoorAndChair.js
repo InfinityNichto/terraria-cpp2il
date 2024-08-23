@@ -7,7 +7,7 @@ var classTutorialStep__04__CraftDoorAndChair =
     ] ],
     [ "TutorialStep_04_CraftDoorAndChair", "d5/dfd/classTutorialStep__04__CraftDoorAndChair_ae39c7d9f3b9adcfcadfa58e7a722a1ec.html#ae39c7d9f3b9adcfcadfa58e7a722a1ec", null ],
     [ "Begin", "d5/dfd/classTutorialStep__04__CraftDoorAndChair.html#ae7b36833ed674651c836c42b57bdfa7c", null ],
-    [ "GetGuideState", "d5/dfd/classTutorialStep__04__CraftDoorAndChair_a879d5e5e18a80bf792637804fbc96606.html#a879d5e5e18a80bf792637804fbc96606", null ],
+    [ "GetGuideState", "d5/dfd/classTutorialStep__04__CraftDoorAndChair_aec2e6845ec48d7b613120387d49a66c5.html#aec2e6845ec48d7b613120387d49a66c5", null ],
     [ "GetGuideString", "d5/dfd/classTutorialStep__04__CraftDoorAndChair_a3281866bb0c87dd825e08a0d820eb723.html#a3281866bb0c87dd825e08a0d820eb723", null ],
     [ "GiveItem", "d5/dfd/classTutorialStep__04__CraftDoorAndChair.html#ac38e5ac4261d7aca8a148210f3a82d04", null ],
     [ "OnGuideDialogueOpen", "d5/dfd/classTutorialStep__04__CraftDoorAndChair_a59913a0a6adf7e0a31433cef98ea92d8.html#a59913a0a6adf7e0a31433cef98ea92d8", null ],

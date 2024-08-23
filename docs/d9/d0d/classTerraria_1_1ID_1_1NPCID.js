@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1NPCID =
 [
     [ "Sets", "d3/d00/classTerraria_1_1ID_1_1NPCID_1_1Sets.html", "d3/d00/classTerraria_1_1ID_1_1NPCID_1_1Sets" ],
     [ "NPCID", "d9/d0d/classTerraria_1_1ID_1_1NPCID_a455a50ed7824614ba63f5699b2e6832d.html#a455a50ed7824614ba63f5699b2e6832d", null ],
+    [ "NPCID", "d9/d0d/classTerraria_1_1ID_1_1NPCID_a475107da4b7772e7e555e02a294100e7.html#a475107da4b7772e7e555e02a294100e7", null ],
     [ "FromLegacyName", "d9/d0d/classTerraria_1_1ID_1_1NPCID_ac78c9a5bff949568070b1103f3a91133.html#ac78c9a5bff949568070b1103f3a91133", null ],
     [ "FromNetId", "d9/d0d/classTerraria_1_1ID_1_1NPCID_a1a4ff57a4e00bc212571c6180d66a901.html#a1a4ff57a4e00bc212571c6180d66a901", null ],
     [ "AncientCultistSquidhead", "d9/d0d/classTerraria_1_1ID_1_1NPCID_ad760a5f1c468946e2c62a498437410c2.html#ad760a5f1c468946e2c62a498437410c2", null ],

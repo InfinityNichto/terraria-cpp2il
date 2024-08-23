@@ -1,0 +1,13 @@
+<map id="System.Net.NetworkInformation.UnixNetworkInterfaceAPI" name="System.Net.NetworkInformation.UnixNetworkInterfaceAPI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="263,188,492,337"/>
+<area shape="rect" id="Node000003" href="$da/d7f/classSystem_1_1Net_1_1NetworkInformation_1_1AixNetworkInterfaceAPI.html" title=" " alt="" coords="5,385,235,831"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,349,249,387,237,402,233,399,245,384,279,345"/>
+<area shape="rect" id="Node000004" href="$d7/dc1/classSystem_1_1Net_1_1NetworkInformation_1_1LinuxNetworkInterfaceAPI.html" title=" " alt="" coords="259,516,496,700"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="380,351,380,516,375,516,375,351"/>
+<area shape="rect" id="Node000005" href="$d7/dc8/classSystem_1_1Net_1_1NetworkInformation_1_1MacOsNetworkInterfaceAPI.html" title=" " alt="" coords="520,533,749,683"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="476,345,510,384,561,458,602,532,597,534,556,461,506,387,472,349"/>
+<area shape="rect" id="Node000002" href="$d6/dbc/classSystem_1_1Net_1_1NetworkInformation_1_1NetworkInterfaceFactory.html" title=" " alt="" coords="263,5,492,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="380,154,380,188,375,188,375,154"/>
+<area shape="rect" id="Node000006" href="$d5/dad/classSystem_1_1Net_1_1NetworkInformation_1_1FreeBSDNetworkInterfaceAPI.html" title=" " alt="" coords="520,879,749,973"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="637,696,637,878,632,878,632,696"/>
+</map>

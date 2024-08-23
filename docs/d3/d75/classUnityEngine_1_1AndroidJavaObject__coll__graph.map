@@ -1,0 +1,19 @@
+<map id="UnityEngine.AndroidJavaObject" name="UnityEngine.AndroidJavaObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,1467,303,2763"/>
+<area shape="rect" id="Node000002" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="5,1279,128,1345"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,1358,90,1466,85,1467,70,1358"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="187,627,229,693"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,693,191,1235,186,1450,181,1450,185,1235,204,693"/>
+<area shape="rect" id="Node000004" href="$de/d0e/classUnityEngine_1_1GlobalJavaObjectRef.html" title=" " alt="" coords="334,1235,570,1389"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="207,693,201,781,204,904,212,972,225,1041,246,1108,276,1171,297,1201,323,1228,319,1231,293,1204,271,1173,241,1110,220,1042,206,973,198,904,196,781,201,693"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,1391,311,1730,306,1728,423,1389"/>
+<area shape="rect" id="Node000005" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="286,148,618,1172"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="455,1172,455,1218,449,1218,449,1172"/>
+<area shape="poly" id="edge9_Node000005_Node000005" title=" " alt="" coords="620,579,638,612,645,660,641,698,630,727,625,726,636,697,639,660,633,613,616,581"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="147,5,338,85"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="263,97,288,172,283,174,258,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="362,5,542,85"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="455,99,455,148,449,148,449,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="567,13,729,78"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="640,79,623,133,618,132,635,77"/>
+</map>

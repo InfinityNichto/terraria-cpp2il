@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1ItemSourceID =
 [
+    [ "ItemSourceID", "dd/d33/classTerraria_1_1ID_1_1ItemSourceID_acca5ffe7e617caa0da0c936feb432431.html#acca5ffe7e617caa0da0c936feb432431", null ],
     [ "Count", "dd/d33/classTerraria_1_1ID_1_1ItemSourceID_af93bceadd4c9c95ab6067eae130358ea.html#af93bceadd4c9c95ab6067eae130358ea", null ],
     [ "Digesting", "dd/d33/classTerraria_1_1ID_1_1ItemSourceID_a39ea5eb12469b157944e729583051b6e.html#a39ea5eb12469b157944e729583051b6e", null ],
     [ "GrandDesignOrMultiColorWrench", "dd/d33/classTerraria_1_1ID_1_1ItemSourceID_a1afc4f7d71dd4cfb00f5f6521b4c0c5d.html#a1afc4f7d71dd4cfb00f5f6521b4c0c5d", null ],

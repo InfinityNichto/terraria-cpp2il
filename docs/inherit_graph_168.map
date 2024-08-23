@@ -1,3 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d6/d74/classGUIInputRegionManager.html" title=" " alt="" coords="5,5,187,31"/>
+<area shape="rect" id="Node000000" href="$db/d94/classGUIControllerMappingScheme.html" title=" " alt="" coords="5,77,224,102"/>
+<area shape="rect" id="Node000001" href="$d4/d5a/classGUIControllerMappingScheme__Advanced.html" title=" " alt="" coords="272,5,491,45"/>
+<area shape="poly" id="edge2572_Node000000_Node000001" title=" " alt="" coords="182,71,297,43,298,48,183,76"/>
+<area shape="rect" id="Node000002" href="$d7/d38/classGUIControllerMappingScheme__Console.html" title=" " alt="" coords="272,69,491,109"/>
+<area shape="poly" id="edge2573_Node000000_Node000002" title=" " alt="" coords="238,87,272,87,272,92,238,92"/>
+<area shape="rect" id="Node000003" href="$d5/ddd/classGUIControllerMappingScheme__Default.html" title=" " alt="" coords="272,133,491,173"/>
+<area shape="poly" id="edge2574_Node000000_Node000003" title=" " alt="" coords="183,103,298,131,297,136,182,108"/>
 </map>

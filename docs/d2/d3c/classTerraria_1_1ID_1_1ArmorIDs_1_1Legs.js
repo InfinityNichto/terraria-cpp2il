@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Legs =
 [
     [ "Sets", "db/d21/classTerraria_1_1ID_1_1ArmorIDs_1_1Legs_1_1Sets.html", "db/d21/classTerraria_1_1ID_1_1ArmorIDs_1_1Legs_1_1Sets" ],
     [ "Legs", "d2/d3c/classTerraria_1_1ID_1_1ArmorIDs_1_1Legs_a07bc1a020707fde70fba4ed3ffd66014.html#a07bc1a020707fde70fba4ed3ffd66014", null ],
+    [ "Legs", "d2/d3c/classTerraria_1_1ID_1_1ArmorIDs_1_1Legs_a218038485552c22c9aa02ee8d9be7020.html#a218038485552c22c9aa02ee8d9be7020", null ],
     [ "AaronsLeggings", "d2/d3c/classTerraria_1_1ID_1_1ArmorIDs_1_1Legs_a98dc8b1237cbf00b9a13d00fe9cd4817.html#a98dc8b1237cbf00b9a13d00fe9cd4817", null ],
     [ "AdamantiteLeggings", "d2/d3c/classTerraria_1_1ID_1_1ArmorIDs_1_1Legs_a94491c4cd5ab8ee776799ca679f9f373.html#a94491c4cd5ab8ee776799ca679f9f373", null ],
     [ "AmberRobe", "d2/d3c/classTerraria_1_1ID_1_1ArmorIDs_1_1Legs_a408ea3cde6df1a4cb3816831012670c1.html#a408ea3cde6df1a4cb3816831012670c1", null ],

@@ -9,6 +9,6 @@ var classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1DesertHive =
     ] ],
     [ "AddTileVariance", "d4/d72/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1DesertHive_afb9a8399119c3bebf2210dd84bb11e55.html#afb9a8399119c3bebf2210dd84bb11e55", null ],
     [ "Place", "d4/d72/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1DesertHive_a5183ec082b87d892c2f9bd69c829b1e3.html#a5183ec082b87d892c2f9bd69c829b1e3", null ],
-    [ "PlaceClusters", "d4/d72/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1DesertHive_af8c92913eee3e49ca7a6ded1fea94c7e.html#af8c92913eee3e49ca7a6ded1fea94c7e", null ],
-    [ "PlaceClustersArea", "d4/d72/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1DesertHive_acba6e3dd613b4e5251035ee21f2c9281.html#acba6e3dd613b4e5251035ee21f2c9281", null ]
+    [ "PlaceClusters", "d4/d72/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1DesertHive_a24a8b59365093754f57e0a34dda11d20.html#a24a8b59365093754f57e0a34dda11d20", null ],
+    [ "PlaceClustersArea", "d4/d72/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1DesertHive_a485b145995b145a8f311b7812e22c696.html#a485b145995b145a8f311b7812e22c696", null ]
 ];

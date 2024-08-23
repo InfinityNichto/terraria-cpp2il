@@ -1,6 +1,7 @@
 var structTerraria_1_1DataStructures_1_1AnchorData =
 [
     [ "AnchorData", "d9/d91/structTerraria_1_1DataStructures_1_1AnchorData_af098251992c89664900acadb9809dfb2.html#af098251992c89664900acadb9809dfb2", null ],
+    [ "AnchorData", "d9/d91/structTerraria_1_1DataStructures_1_1AnchorData_ae39f6e3afdf48c9615f5633f527fed49.html#ae39f6e3afdf48c9615f5633f527fed49", null ],
     [ "Equals", "d9/d91/structTerraria_1_1DataStructures_1_1AnchorData_a07bf1d40ca29257ba9be30fb6f81682b.html#a07bf1d40ca29257ba9be30fb6f81682b", null ],
     [ "GetHashCode", "d9/d91/structTerraria_1_1DataStructures_1_1AnchorData_acbaf63c3e2d9f6d281c7f5f09db6ca59.html#acbaf63c3e2d9f6d281c7f5f09db6ca59", null ],
     [ "operator!=", "d9/d91/structTerraria_1_1DataStructures_1_1AnchorData_a0d891bdbcc85fad3a0037b49f5e6632b.html#a0d891bdbcc85fad3a0037b49f5e6632b", null ],

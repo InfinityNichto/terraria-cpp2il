@@ -24,7 +24,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1MartianSky =
     [ "_maxUfos", "da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky_a4ad86c1e269435a42fef2e9cd81a686a.html#a4ad86c1e269435a42fef2e9cd81a686a", null ],
     [ "_priority", "da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky.html#a143aae521c814f60433f73f3724b50ec", null ],
     [ "_random", "da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky_ac09e52c831397bd3b4636158c28ce760.html#ac09e52c831397bd3b4636158c28ce760", null ],
-    [ "_ufos", "da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky_ac2f0ebedf27e6b043892398476feeb00.html#ac2f0ebedf27e6b043892398476feeb00", null ],
+    [ "_ufos", "da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky_a0e048ba41ea250ca1648abcf8ef476a0.html#a0e048ba41ea250ca1648abcf8ef476a0", null ],
     [ "Opacity", "da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky.html#ad87e515d34d0e191480777fdf7ae7a04", null ],
     [ "IsLoaded", "da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky.html#abe14fd7997240378347e73438e71517e", null ],
     [ "Priority", "da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky.html#af800b0ebaa0d932ca9d1d28845120599", null ]

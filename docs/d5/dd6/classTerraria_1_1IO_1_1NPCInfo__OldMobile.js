@@ -9,5 +9,5 @@ var classTerraria_1_1IO_1_1NPCInfo__OldMobile =
     [ "downedAnyBoss", "d5/dd6/classTerraria_1_1IO_1_1NPCInfo__OldMobile_a3b258d1bff650969051277283b42b8d6.html#a3b258d1bff650969051277283b42b8d6", null ],
     [ "downedRabbit", "d5/dd6/classTerraria_1_1IO_1_1NPCInfo__OldMobile_a497925d91bdd3fe3ce9ae23ab0986743.html#a497925d91bdd3fe3ce9ae23ab0986743", null ],
     [ "downedTurkor", "d5/dd6/classTerraria_1_1IO_1_1NPCInfo__OldMobile_a78ecd766ff4de30003bc0d2be5497f8e.html#a78ecd766ff4de30003bc0d2be5497f8e", null ],
-    [ "npcEntries", "d5/dd6/classTerraria_1_1IO_1_1NPCInfo__OldMobile_a104acf285fdba5e6c8b1f06f5ec4f7f3.html#a104acf285fdba5e6c8b1f06f5ec4f7f3", null ]
+    [ "npcEntries", "d5/dd6/classTerraria_1_1IO_1_1NPCInfo__OldMobile_a2a69bcc2407641cf5bc0350fca166287.html#a2a69bcc2407641cf5bc0350fca166287", null ]
 ];

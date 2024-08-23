@@ -1,6 +1,7 @@
 var classTerraria_1_1UI_1_1InGameNotificationsTracker =
 [
     [ "InGameNotificationsTracker", "df/d1b/classTerraria_1_1UI_1_1InGameNotificationsTracker_a0878919150a31c4a8bd1d0fe19d84424.html#a0878919150a31c4a8bd1d0fe19d84424", null ],
+    [ "InGameNotificationsTracker", "df/d1b/classTerraria_1_1UI_1_1InGameNotificationsTracker_a40f9fd583efcddac880cce3b5755b625.html#a40f9fd583efcddac880cce3b5755b625", null ],
     [ "AddCompleted", "df/d1b/classTerraria_1_1UI_1_1InGameNotificationsTracker_a1559430124cdb7e6dbf620bbe0a01bac.html#a1559430124cdb7e6dbf620bbe0a01bac", null ],
     [ "AddJoinRequest", "df/d1b/classTerraria_1_1UI_1_1InGameNotificationsTracker_a9000d525da523ca9a723ebdbb73104f4.html#a9000d525da523ca9a723ebdbb73104f4", null ],
     [ "Clear", "df/d1b/classTerraria_1_1UI_1_1InGameNotificationsTracker_a292854d3d5092a4bbafd98b6dd42e917.html#a292854d3d5092a4bbafd98b6dd42e917", null ],

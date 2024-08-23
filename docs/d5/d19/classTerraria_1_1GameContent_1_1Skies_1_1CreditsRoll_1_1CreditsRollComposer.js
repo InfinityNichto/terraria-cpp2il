@@ -24,7 +24,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1CreditsRoll_1_1CreditsRollComposer 
     [ "PlaySegment_GuideEmotingAtRainbowPanel", "d5/d19/classTerraria_1_1GameContent_1_1Skies_1_1CreditsRoll_1_1CreditsRollComposer_a3c2d29d9998be6a199e089f1f40fead5.html#a3c2d29d9998be6a199e089f1f40fead5", null ],
     [ "PlaySegment_PrincessAndEveryoneThanksPlayer", "d5/d19/classTerraria_1_1GameContent_1_1Skies_1_1CreditsRoll_1_1CreditsRollComposer_afcf01547651e91e2569b10ef58445161.html#afcf01547651e91e2569b10ef58445161", null ],
     [ "PlaySegment_SantaItemExample", "d5/d19/classTerraria_1_1GameContent_1_1Skies_1_1CreditsRoll_1_1CreditsRollComposer_a38834c9d6a0ef243753def799b807cc4.html#a38834c9d6a0ef243753def799b807cc4", null ],
-    [ "PlaySegment_TextRoll", "d5/d19/classTerraria_1_1GameContent_1_1Skies_1_1CreditsRoll_1_1CreditsRollComposer_ad10a777134808f8238f9cca6e7ee594e.html#ad10a777134808f8238f9cca6e7ee594e", null ],
+    [ "PlaySegment_TextRoll", "d5/d19/classTerraria_1_1GameContent_1_1Skies_1_1CreditsRoll_1_1CreditsRollComposer_a5eab40f42a185fc597d4f13bd1319919.html#a5eab40f42a185fc597d4f13bd1319919", null ],
     [ "PlaySegment_TinkererAndMechanic", "d5/d19/classTerraria_1_1GameContent_1_1Skies_1_1CreditsRoll_1_1CreditsRollComposer_a206292a245ee5703a6088c1c4a9a10b6.html#a206292a245ee5703a6088c1c4a9a10b6", null ],
     [ "_backgroundOffset", "d5/d19/classTerraria_1_1GameContent_1_1Skies_1_1CreditsRoll_1_1CreditsRollComposer_abec1e7a0bfda942aed7f3e221d9b581f.html#abec1e7a0bfda942aed7f3e221d9b581f", null ],
     [ "_emoteBubbleOffsetWhenOnLeft", "d5/d19/classTerraria_1_1GameContent_1_1Skies_1_1CreditsRoll_1_1CreditsRollComposer_ae68ae5aeab2703c173555bf9e75d799b.html#ae68ae5aeab2703c173555bf9e75d799b", null ],

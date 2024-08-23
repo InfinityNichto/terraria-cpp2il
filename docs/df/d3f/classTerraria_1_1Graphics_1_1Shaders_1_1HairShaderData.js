@@ -2,8 +2,8 @@ var classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData =
 [
     [ "HairShaderData", "df/d3f/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData_acd79cdee943ab618f548b78038713d4c.html#acd79cdee943ab618f548b78038713d4c", null ],
     [ "Apply", "df/d3f/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData.html#af9ab60e3e82d5fb346da65e084582276", null ],
-    [ "Apply", "df/d3f/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData.html#a5e8c48c5dc19fece6a4402d75d2df35f", null ],
-    [ "Apply", "df/d3f/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData_a2bf83c50e8252af9c8e870195e3586a7.html#a2bf83c50e8252af9c8e870195e3586a7", null ],
+    [ "Apply", "df/d3f/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData.html#a52d1b32d5e4929c15b3c6b0e6237b410", null ],
+    [ "Apply", "df/d3f/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData_a82c47af3d9b868c296a0628032c297e4.html#a82c47af3d9b868c296a0628032c297e4", null ],
     [ "GetColor", "df/d3f/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData_a08535d3543a836f24ca15ff0964de763.html#a08535d3543a836f24ca15ff0964de763", null ],
     [ "UseColor", "df/d3f/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData_a1adeea98882f6eca8eec5b08cc100b89.html#a1adeea98882f6eca8eec5b08cc100b89", null ],
     [ "UseColor", "df/d3f/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderData_ab1357d0e0c87d9449d141aeb2b553d62.html#ab1357d0e0c87d9449d141aeb2b553d62", null ],

@@ -16,7 +16,7 @@
 <text text-anchor="start" x="11" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.Skies.</text>
 <text text-anchor="start" x="53.5" y="-293.5" font-family="Helvetica,sans-Serif" font-size="10.00">MartianSky</text>
 <text text-anchor="start" x="13" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="24" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">Ufo[] _ufos</text>
+<text text-anchor="start" x="24" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">MartianSky.Ufo[] _ufos</text>
 <text text-anchor="start" x="13" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="24" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">UnifiedRandom _random</text>
 <text text-anchor="start" x="13" y="-248.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>

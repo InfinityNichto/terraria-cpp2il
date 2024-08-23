@@ -90,11 +90,11 @@
 <text text-anchor="start" x="11" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="24" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00">static int _worldHeight</text>
 <text text-anchor="start" x="11" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="24" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
-<text text-anchor="start" x="24" y="-422" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
-<text text-anchor="start" x="24" y="-411" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
-<text text-anchor="start" x="11" y="-396" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="24" y="-396" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="24" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="11" y="-418" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="24" y="-418" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
+<text text-anchor="start" x="24" y="-407" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
+<text text-anchor="start" x="24" y="-396" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
 <polygon fill="#666666" stroke="#666666" points="7,-514 7,-514 172,-514 172,-514 7,-514"/>
 <polygon fill="#666666" stroke="#666666" points="7,-443 7,-443 22,-443 22,-443 7,-443"/>
 <polygon fill="#666666" stroke="#666666" points="22,-443 22,-443 172,-443 172,-443 22,-443"/>

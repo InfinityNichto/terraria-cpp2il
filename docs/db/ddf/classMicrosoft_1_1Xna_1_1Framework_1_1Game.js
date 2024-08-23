@@ -1,6 +1,7 @@
 var classMicrosoft_1_1Xna_1_1Framework_1_1Game =
 [
     [ "Game", "db/ddf/classMicrosoft_1_1Xna_1_1Framework_1_1Game_a52c69dd7373b2be177021a89b9841940.html#a52c69dd7373b2be177021a89b9841940", null ],
+    [ "Game", "db/ddf/classMicrosoft_1_1Xna_1_1Framework_1_1Game_a157a9164eceab26cdac4d01a862478ae.html#a157a9164eceab26cdac4d01a862478ae", null ],
     [ "Begin", "db/ddf/classMicrosoft_1_1Xna_1_1Framework_1_1Game_ae1852d6065a6fd4952c6cf38f7510810.html#ae1852d6065a6fd4952c6cf38f7510810", null ],
     [ "Dispose", "db/ddf/classMicrosoft_1_1Xna_1_1Framework_1_1Game_a474d2052a07baa980d34e8979ec79acf.html#a474d2052a07baa980d34e8979ec79acf", null ],
     [ "Draw", "db/ddf/classMicrosoft_1_1Xna_1_1Framework_1_1Game_ad3b8f6777b48c10b5ba488ebc765685d.html#ad3b8f6777b48c10b5ba488ebc765685d", null ],

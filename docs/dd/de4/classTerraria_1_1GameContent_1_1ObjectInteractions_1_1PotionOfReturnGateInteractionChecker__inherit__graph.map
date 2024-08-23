@@ -1,5 +1,5 @@
 <map id="Terraria.GameContent.ObjectInteractions.PotionOfReturnGateInteractionChecker" name="Terraria.GameContent.ObjectInteractions.PotionOfReturnGateInteractionChecker">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,351,252,643"/>
-<area shape="rect" id="Node000002" href="$d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker.html" title=" " alt="" coords="6,5,251,303"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,316,131,351,126,351,126,316"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,365,252,657"/>
+<area shape="rect" id="Node000002" href="$d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker.html" title=" " alt="" coords="6,5,251,317"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,331,131,365,126,365,126,331"/>
 </map>

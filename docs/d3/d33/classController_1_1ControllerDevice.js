@@ -46,7 +46,7 @@ var classController_1_1ControllerDevice =
     [ "_PreviousKeyState", "d3/d33/classController_1_1ControllerDevice_ab91c3b5058f16553abc8b28adc9ac572.html#ab91c3b5058f16553abc8b28adc9ac572", null ],
     [ "AxisValue", "d3/d33/classController_1_1ControllerDevice_a5a102f9a66e6ba2ff4b5187e00df8316.html#a5a102f9a66e6ba2ff4b5187e00df8316", null ],
     [ "AxisValueScaled", "d3/d33/classController_1_1ControllerDevice_a017c5664543f35ea0f0ff654f41c3d71.html#a017c5664543f35ea0f0ff654f41c3d71", null ],
-    [ "Controls", "d3/d33/classController_1_1ControllerDevice_a98f6d54cbc6e3e590a55c2f387755293.html#a98f6d54cbc6e3e590a55c2f387755293", null ],
+    [ "Controls", "d3/d33/classController_1_1ControllerDevice_aeb721e663388c319293b232e97913c1e.html#aeb721e663388c319293b232e97913c1e", null ],
     [ "Device", "d3/d33/classController_1_1ControllerDevice_adabb9d227cb0e4ec302a57f30127478c.html#adabb9d227cb0e4ec302a57f30127478c", null ],
     [ "Device2", "d3/d33/classController_1_1ControllerDevice_a9e697cdec56b45fcce2c19815a40236f.html#a9e697cdec56b45fcce2c19815a40236f", null ],
     [ "PreviousAxisValue", "d3/d33/classController_1_1ControllerDevice_a4d8007e90b24585085a53ea5d45faa60.html#a4d8007e90b24585085a53ea5d45faa60", null ],

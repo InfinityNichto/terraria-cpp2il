@@ -5,6 +5,7 @@ var classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropBasedOnMasterAndExpertM
     [ "ReportDroprates", "d5/df0/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropBasedOnMasterAndExpertMode_aeaa532860aaeba5aa1c0642dcc676e65.html#aeaa532860aaeba5aa1c0642dcc676e65", null ],
     [ "TryDroppingItem", "d5/df0/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropBasedOnMasterAndExpertMode_a5b59565850db9311211c5d5f31abb083.html#a5b59565850db9311211c5d5f31abb083", null ],
     [ "TryDroppingItem", "d5/df0/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropBasedOnMasterAndExpertMode_a0b122f37d01090fbc3da0a37b1484758.html#a0b122f37d01090fbc3da0a37b1484758", null ],
+    [ "k__BackingField", "d5/df0/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropBasedOnMasterAndExpertMode_a3eb68cedefa3f8cccec1e334e7c64ad0.html#a3eb68cedefa3f8cccec1e334e7c64ad0", null ],
     [ "ruleForDefault", "d5/df0/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropBasedOnMasterAndExpertMode_a6e4028110e2adaa7df80b8a202203b6e.html#a6e4028110e2adaa7df80b8a202203b6e", null ],
     [ "ruleForExpertmode", "d5/df0/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropBasedOnMasterAndExpertMode_af831cd4df4e3b7406415afb9c7d16021.html#af831cd4df4e3b7406415afb9c7d16021", null ],
     [ "ruleForMasterMode", "d5/df0/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropBasedOnMasterAndExpertMode_a4ee5820c9c6caeab1ea06ac70bc0c558.html#a4ee5820c9c6caeab1ea06ac70bc0c558", null ],

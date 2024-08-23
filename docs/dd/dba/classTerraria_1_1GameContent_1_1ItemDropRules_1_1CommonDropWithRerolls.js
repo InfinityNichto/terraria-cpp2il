@@ -9,6 +9,7 @@ var classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropWithRerolls =
     [ "chanceDenominator", "dd/dba/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropWithRerolls.html#af68eded46e0cee87bbd81469e5d93db6", null ],
     [ "chanceNumerator", "dd/dba/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropWithRerolls.html#a33c9332c4f3aa2325947a78c7c4d8bf0", null ],
     [ "itemId", "dd/dba/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropWithRerolls.html#a972e202bcce578a569265347eb565e42", null ],
+    [ "k__BackingField", "dd/dba/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropWithRerolls.html#a9f9173698194a8ab2f2fa569948dd842", null ],
     [ "timesToRoll", "dd/dba/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropWithRerolls_ac91bb87efd2af144ce6bc4d56404241b.html#ac91bb87efd2af144ce6bc4d56404241b", null ],
     [ "ChainedRules", "dd/dba/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropWithRerolls.html#af132204fe3a07a5f33b22533ef382c86", null ]
 ];

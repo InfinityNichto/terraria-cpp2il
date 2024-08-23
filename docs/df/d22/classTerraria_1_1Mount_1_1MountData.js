@@ -17,7 +17,7 @@ var classTerraria_1_1Mount_1_1MountData =
     [ "dashingFrameDelay", "df/d22/classTerraria_1_1Mount_1_1MountData_abfb3ed39e549c379b341913e3afd50a4.html#abfb3ed39e549c379b341913e3afd50a4", null ],
     [ "dashingFrameStart", "df/d22/classTerraria_1_1Mount_1_1MountData_a0f953096bf6995ec40ffe51eccf09b47.html#a0f953096bf6995ec40ffe51eccf09b47", null ],
     [ "dashSpeed", "df/d22/classTerraria_1_1Mount_1_1MountData_a92b7cbf911692e47e8c8ea82111fafdf.html#a92b7cbf911692e47e8c8ea82111fafdf", null ],
-    [ "delegations", "df/d22/classTerraria_1_1Mount_1_1MountData_a92adb4ddd1693415f8d3737a1a801c59.html#a92adb4ddd1693415f8d3737a1a801c59", null ],
+    [ "delegations", "df/d22/classTerraria_1_1Mount_1_1MountData_afa5da3849b68d18a0e666104c9aa4e39.html#afa5da3849b68d18a0e666104c9aa4e39", null ],
     [ "emitsLight", "df/d22/classTerraria_1_1Mount_1_1MountData_a63d8d4cc320ca8a04e2face35485c576.html#a63d8d4cc320ca8a04e2face35485c576", null ],
     [ "extraBuff", "df/d22/classTerraria_1_1Mount_1_1MountData_a93d17e123dc33e7cfeb291c2a8cbe291.html#a93d17e123dc33e7cfeb291c2a8cbe291", null ],
     [ "fallDamage", "df/d22/classTerraria_1_1Mount_1_1MountData_ac970472a0f5c5cb33d97f4876512ec1d.html#ac970472a0f5c5cb33d97f4876512ec1d", null ],

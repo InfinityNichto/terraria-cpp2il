@@ -1,3 +1,13 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d8/d6b/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectParameter.html" title=" " alt="" coords="5,5,197,45"/>
+<area shape="rect" id="Node000000" href="$dd/d5c/classInControl_1_1InputDevice.html" title=" " alt="" coords="5,120,168,145"/>
+<area shape="rect" id="Node000001" href="$df/d1c/classInControl_1_1NativeInputDevice.html" title=" " alt="" coords="220,5,427,31"/>
+<area shape="poly" id="edge2601_Node000000_Node000001" title=" " alt="" coords="111,109,157,74,215,41,251,28,253,33,217,46,160,78,114,113"/>
+<area shape="rect" id="Node000002" href="$da/dee/classInControl_1_1OuyaEverywhereDevice.html" title=" " alt="" coords="225,55,421,95"/>
+<area shape="poly" id="edge2602_Node000000_Node000002" title=" " alt="" coords="153,114,240,93,241,98,154,119"/>
+<area shape="rect" id="Node000003" href="$d1/d44/classInControl_1_1TouchInputDevice.html" title=" " alt="" coords="223,120,423,145"/>
+<area shape="poly" id="edge2603_Node000000_Node000003" title=" " alt="" coords="182,130,223,130,223,135,182,135"/>
+<area shape="rect" id="Node000004" href="$dd/dd3/classInControl_1_1UnityInputDevice.html" title=" " alt="" coords="224,169,423,195"/>
+<area shape="poly" id="edge2604_Node000000_Node000004" title=" " alt="" coords="162,146,262,167,261,172,161,151"/>
+<area shape="rect" id="Node000005" href="$db/d2b/classVirtualDeviceExample_1_1VirtualDevice.html" title=" " alt="" coords="216,219,431,259"/>
+<area shape="poly" id="edge2605_Node000000_Node000005" title=" " alt="" coords="120,150,165,177,217,204,251,217,250,222,215,208,163,182,117,155"/>
 </map>

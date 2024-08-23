@@ -1,6 +1,7 @@
 var classTerraria_1_1RecipeGroup =
 [
     [ "RecipeGroup", "d7/d5b/classTerraria_1_1RecipeGroup_ae20cc1188dd12167c313e00a2d095722.html#ae20cc1188dd12167c313e00a2d095722", null ],
+    [ "RecipeGroup", "d7/d5b/classTerraria_1_1RecipeGroup_a00fe06f6786a7ea431cab83390cb2dc5.html#a00fe06f6786a7ea431cab83390cb2dc5", null ],
     [ "CountUsableItems", "d7/d5b/classTerraria_1_1RecipeGroup_a237e481e96827db7a82bd480abd41a51.html#a237e481e96827db7a82bd480abd41a51", null ],
     [ "GetGroupFakeItemId", "d7/d5b/classTerraria_1_1RecipeGroup_afb7a64bbbb6c16bc65995a3ed13f950d.html#afb7a64bbbb6c16bc65995a3ed13f950d", null ],
     [ "RegisterGroup", "d7/d5b/classTerraria_1_1RecipeGroup_ae0eee8bce9c8ab9205f22a90e5ed0ed3.html#ae0eee8bce9c8ab9205f22a90e5ed0ed3", null ],

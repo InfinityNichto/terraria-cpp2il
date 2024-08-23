@@ -26,7 +26,7 @@ var classControlsButtonTagHandler =
     [ "DrawButtonControl", "d9/df3/classControlsButtonTagHandler_ac063bf576d5bec3ffa7c16d42a20644c.html#ac063bf576d5bec3ffa7c16d42a20644c", null ],
     [ "MeasureInline", "d9/df3/classControlsButtonTagHandler_aada7d2c7a22d5458a88b865a2a272ddf.html#aada7d2c7a22d5458a88b865a2a272ddf", null ],
     [ "MeasureInlineMapping", "d9/df3/classControlsButtonTagHandler_a92a5120b7a8a7f91114d9b051891600c.html#a92a5120b7a8a7f91114d9b051891600c", null ],
-    [ "Parse", "d9/df3/classControlsButtonTagHandler_ac8f983d80df0adf1b8783ddefa771562.html#ac8f983d80df0adf1b8783ddefa771562", null ],
+    [ "Parse", "d9/df3/classControlsButtonTagHandler_ab0178957c28c93ccde92a98a17a9266e.html#ab0178957c28c93ccde92a98a17a9266e", null ],
     [ "PrintInline", "d9/df3/classControlsButtonTagHandler_a40e13094251ec9194ced2eacd43a1d95.html#a40e13094251ec9194ced2eacd43a1d95", null ],
     [ "PrintInlineMapping", "d9/df3/classControlsButtonTagHandler_a83e94c77f7077cb2ad50bf17d16ec428.html#a83e94c77f7077cb2ad50bf17d16ec428", null ]
 ];

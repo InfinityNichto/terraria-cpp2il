@@ -7,5 +7,6 @@ var classTerraria_1_1GameContent_1_1ItemDropRules_1_1OneFromOptionsNotScaledWith
     [ "chanceDenominator", "de/d38/classTerraria_1_1GameContent_1_1ItemDropRules_1_1OneFromOptionsNotScaledWithLuckDropRule_a18b4df57dfb7614c00bf01ed1ad5c0c0.html#a18b4df57dfb7614c00bf01ed1ad5c0c0", null ],
     [ "chanceNumerator", "de/d38/classTerraria_1_1GameContent_1_1ItemDropRules_1_1OneFromOptionsNotScaledWithLuckDropRule_a1b5bef4c031f826f095005a06923768f.html#a1b5bef4c031f826f095005a06923768f", null ],
     [ "dropIds", "de/d38/classTerraria_1_1GameContent_1_1ItemDropRules_1_1OneFromOptionsNotScaledWithLuckDropRule_a8df69ba1c99f0b4b783c507ea2bf47ff.html#a8df69ba1c99f0b4b783c507ea2bf47ff", null ],
+    [ "k__BackingField", "de/d38/classTerraria_1_1GameContent_1_1ItemDropRules_1_1OneFromOptionsNotScaledWithLuckDropRule_a561ab5ba7dc7e2ebfa88e619133102cf.html#a561ab5ba7dc7e2ebfa88e619133102cf", null ],
     [ "ChainedRules", "de/d38/classTerraria_1_1GameContent_1_1ItemDropRules_1_1OneFromOptionsNotScaledWithLuckDropRule_adce97868e00efa7cec934099085baf33.html#adce97868e00efa7cec934099085baf33", null ]
 ];

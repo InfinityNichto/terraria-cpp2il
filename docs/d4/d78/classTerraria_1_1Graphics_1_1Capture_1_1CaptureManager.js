@@ -1,6 +1,7 @@
 var classTerraria_1_1Graphics_1_1Capture_1_1CaptureManager =
 [
     [ "CaptureManager", "d4/d78/classTerraria_1_1Graphics_1_1Capture_1_1CaptureManager_a072dd786394e06326ac21da16aa56f56.html#a072dd786394e06326ac21da16aa56f56", null ],
+    [ "CaptureManager", "d4/d78/classTerraria_1_1Graphics_1_1Capture_1_1CaptureManager_a47b9f43c8ee9059e647ed85a24463b97.html#a47b9f43c8ee9059e647ed85a24463b97", null ],
     [ "Capture", "d4/d78/classTerraria_1_1Graphics_1_1Capture_1_1CaptureManager_aea66ae91f13d19398a46202ca7fff627.html#aea66ae91f13d19398a46202ca7fff627", null ],
     [ "Capture", "d4/d78/classTerraria_1_1Graphics_1_1Capture_1_1CaptureManager_adbcee71952a4d29dce2680367b205a8e.html#adbcee71952a4d29dce2680367b205a8e", null ],
     [ "Dispose", "d4/d78/classTerraria_1_1Graphics_1_1Capture_1_1CaptureManager_a4a8bcc0c6759ea61358e6a6b2c1761f0.html#a4a8bcc0c6759ea61358e6a6b2c1761f0", null ],

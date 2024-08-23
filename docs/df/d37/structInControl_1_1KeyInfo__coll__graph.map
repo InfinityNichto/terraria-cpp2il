@@ -1,0 +1,15 @@
+<map id="InControl.KeyInfo" name="InControl.KeyInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,415,491,619"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="58,5,157,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,72,56,108,37,149,19,206,9,254,9,276,13,299,22,324,36,351,56,377,79,400,132,438,191,467,251,488,249,493,189,472,130,443,75,404,52,380,32,353,17,326,7,301,3,277,3,253,14,205,32,147,51,105,77,69"/>
+<area shape="rect" id="Node000005" href="$d6/daa/structInControl_1_1KeyInfo.html" title=" " alt="" coords="80,148,306,352"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="123,70,148,132,143,134,118,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="508,5,558,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="536,71,533,126,527,197,512,276,489,353,465,401,460,399,484,351,507,275,521,196,528,125,530,71"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="509,58,401,126,321,175,318,171,398,122,506,53"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="296,5,439,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="392,70,402,94,407,121,406,148,410,250,406,352,401,399,396,398,401,352,405,250,401,148,401,121,397,95,387,72"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="343,72,290,137,286,133,339,69"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="266,351,300,399,296,402,262,354"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="307,226,325,235,332,250,330,260,323,267,319,263,325,257,327,250,321,238,305,231"/>
+</map>

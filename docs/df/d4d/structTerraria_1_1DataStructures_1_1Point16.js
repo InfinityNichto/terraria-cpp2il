@@ -3,6 +3,7 @@ var structTerraria_1_1DataStructures_1_1Point16 =
     [ "Point16", "df/d4d/structTerraria_1_1DataStructures_1_1Point16_a089ae1be306ce575a29d38a8d1dd8321.html#a089ae1be306ce575a29d38a8d1dd8321", null ],
     [ "Point16", "df/d4d/structTerraria_1_1DataStructures_1_1Point16_ad53be67331866a5761a5f34e31f62891.html#ad53be67331866a5761a5f34e31f62891", null ],
     [ "Point16", "df/d4d/structTerraria_1_1DataStructures_1_1Point16_a7b4bcd15ab71f3c6002b262946cfd8b9.html#a7b4bcd15ab71f3c6002b262946cfd8b9", null ],
+    [ "Point16", "df/d4d/structTerraria_1_1DataStructures_1_1Point16_a104f2dfd7f00331506689e8812cebc80.html#a104f2dfd7f00331506689e8812cebc80", null ],
     [ "Equals", "df/d4d/structTerraria_1_1DataStructures_1_1Point16_a91a77792891bf6af963a197cda9732dd.html#a91a77792891bf6af963a197cda9732dd", null ],
     [ "GetHashCode", "df/d4d/structTerraria_1_1DataStructures_1_1Point16_abacd369ffabd309b19f9a147a513c0a6.html#abacd369ffabd309b19f9a147a513c0a6", null ],
     [ "Max", "df/d4d/structTerraria_1_1DataStructures_1_1Point16_af9058f24179242b8ef4f3852dcf3d870.html#af9058f24179242b8ef4f3852dcf3d870", null ],

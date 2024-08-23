@@ -1,0 +1,7 @@
+<map id="System.Net.EndPoint" name="System.Net.EndPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,5,355,155"/>
+<area shape="rect" id="Node000002" href="$d0/ddf/classSystem_1_1Net_1_1DnsEndPoint.html" title=" " alt="" coords="5,280,224,599"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,168,172,281,167,279,206,167"/>
+<area shape="rect" id="Node000003" href="$d2/db6/classSystem_1_1Net_1_1IPEndPoint.html" title=" " alt="" coords="248,203,480,676"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,167,284,202,279,203,266,168"/>
+</map>

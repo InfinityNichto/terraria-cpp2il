@@ -56,7 +56,7 @@ var classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEWeaponsRack =
     [ "Position", "d6/db4/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEWeaponsRack.html#a0dfd03fa3e2ccd2927208152ee10826a", null ],
     [ "TileEntitiesNextID", "d6/db4/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEWeaponsRack.html#a754073f7668e01bf4af3324ce930e62c", null ],
     [ "type", "d6/db4/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEWeaponsRack.html#a2926a8aa28bed9a097bc213b325db55b", null ],
-    [ "_UpdateEnd", "d6/db4/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEWeaponsRack.html#aa77def30a1e2a8fc965f5ef047d1471d", null ],
-    [ "_UpdateStart", "d6/db4/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEWeaponsRack.html#a8f040d287cc899854f3e068b0b23d84a", null ],
+    [ "_UpdateEnd", "d6/db4/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEWeaponsRack.html#ab90b317c0302c05938306a1dc8e5e66a", null ],
+    [ "_UpdateStart", "d6/db4/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEWeaponsRack.html#a693a4f83a34aaaa6b9ac90c3fc0c35c7", null ],
     [ "PositionKey", "d6/db4/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEWeaponsRack.html#abc92534881febd5243772d9a2c899ab2", null ]
 ];

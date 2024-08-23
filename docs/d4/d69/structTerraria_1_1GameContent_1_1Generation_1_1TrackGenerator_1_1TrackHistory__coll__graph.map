@@ -1,9 +1,12 @@
 <map id="Terraria.GameContent.Generation.TrackGenerator.TrackHistory" name="Terraria.GameContent.Generation.TrackGenerator.TrackHistory">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,243,243"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="11,5,58,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,70,91,132,87,135,51,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="82,5,166,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,71,127,131,121,131,121,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="190,5,274,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,72,184,125,176,136,171,133,179,123,212,70"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,953,243,1063"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="73,487,119,552"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,552,123,937,117,937,95,552"/>
+<area shape="rect" id="Node000003" href="$db/d97/classTerraria_1_1GameContent_1_1Generation_1_1TrackGenerator.html" title=" " alt="" coords="144,163,453,876"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,877,151,939,146,937,168,876"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="456,458,473,483,480,519,477,547,467,568,462,565,471,545,475,519,468,485,451,462"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="214,5,269,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,71,245,139,246,146,241,146,240,139,238,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="342,5,373,71"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="356,71,347,147,342,146,351,70"/>
 </map>

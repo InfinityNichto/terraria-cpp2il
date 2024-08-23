@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d2/d18/classSystem_1_1Text_1_1DecoderFallbackBuffer.html" title=" " alt="" coords="5,101,219,141"/>
+<area shape="rect" id="Node000001" href="$dc/da0/classSystem_1_1Text_1_1DecoderExceptionFallbackBuffer.html" title=" " alt="" coords="278,5,502,45"/>
+<area shape="poly" id="edge3694_Node000000_Node000001" title=" " alt="" coords="168,93,266,55,305,43,306,48,268,60,170,98"/>
+<area shape="rect" id="Node000002" href="$d8/d05/classSystem_1_1Text_1_1DecoderReplacementFallbackBuffer.html" title=" " alt="" coords="267,69,513,109"/>
+<area shape="poly" id="edge3695_Node000000_Node000002" title=" " alt="" coords="232,105,266,101,267,106,233,110"/>
+<area shape="rect" id="Node000003" href="$dc/dba/classSystem_1_1Text_1_1InternalDecoderBestFitFallbackBuffer.html" title=" " alt="" coords="285,133,495,173"/>
+<area shape="poly" id="edge3696_Node000000_Node000003" title=" " alt="" coords="233,133,285,139,284,144,232,138"/>
+<area shape="rect" id="Node000004" href="$dd/d6e/classSystem_1_1Text_1_1UTF7Encoding_1_1DecoderUTF7FallbackBuffer.html" title=" " alt="" coords="289,197,491,237"/>
+<area shape="poly" id="edge3697_Node000000_Node000004" title=" " alt="" coords="170,144,268,183,306,195,305,200,266,188,168,149"/>
+</map>

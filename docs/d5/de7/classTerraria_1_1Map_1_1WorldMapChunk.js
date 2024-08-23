@@ -1,11 +1,12 @@
 var classTerraria_1_1Map_1_1WorldMapChunk =
 [
     [ "WorldMapChunk", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_acba8bb7040b80bfb27db5b0abf016f3f.html#acba8bb7040b80bfb27db5b0abf016f3f", null ],
+    [ "WorldMapChunk", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_ae3c70afe7dfc08d98b4c8227201ecfe2.html#ae3c70afe7dfc08d98b4c8227201ecfe2", null ],
     [ "Compress", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_a7ece0f2d06e5e350cad39ab62dba2ec1.html#a7ece0f2d06e5e350cad39ab62dba2ec1", null ],
     [ "Decompress", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_a2a7211d734e5fe858aa3404568d00cde.html#a2a7211d734e5fe858aa3404568d00cde", null ],
-    [ "LoadTiles", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_abb68d6e4ae614b5acb04dcacc8e0f14d.html#abb68d6e4ae614b5acb04dcacc8e0f14d", null ],
+    [ "LoadTiles", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_aebc3cbabafc1ab2064370e35e4aa1d92.html#aebc3cbabafc1ab2064370e35e4aa1d92", null ],
     [ "Reset", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_ac924c7c93ff7e833721ac2c8d0c479b3.html#ac924c7c93ff7e833721ac2c8d0c479b3", null ],
-    [ "SaveCompressed", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_a21374a2af3aad527370ea66eb0b8bc48.html#a21374a2af3aad527370ea66eb0b8bc48", null ],
+    [ "SaveCompressed", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_a7a29e979e446915d3728a02520545451.html#a7a29e979e446915d3728a02520545451", null ],
     [ "biggestChunk", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_aa6a5040cee5f8e91c2da59b3e557ad23.html#aa6a5040cee5f8e91c2da59b3e557ad23", null ],
     [ "BlockBuffer", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_aa81001be44eb72be7fa79f42b9e64496.html#aa81001be44eb72be7fa79f42b9e64496", null ],
     [ "ClearData", "d5/de7/classTerraria_1_1Map_1_1WorldMapChunk_a108972264e9ec7c6e83a33699b1b4ad5.html#a108972264e9ec7c6e83a33699b1b4ad5", null ],

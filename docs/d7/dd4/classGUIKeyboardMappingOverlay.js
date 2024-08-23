@@ -24,5 +24,5 @@ var classGUIKeyboardMappingOverlay =
     [ "_overlayOffset", "d7/dd4/classGUIKeyboardMappingOverlay_a1963bfff86076b6a5d0b93137a9bf8d0.html#a1963bfff86076b6a5d0b93137a9bf8d0", null ],
     [ "_overlayRegion", "d7/dd4/classGUIKeyboardMappingOverlay_a05571de026a5cfb1922e2d7076374d56.html#a05571de026a5cfb1922e2d7076374d56", null ],
     [ "_selectedItem", "d7/dd4/classGUIKeyboardMappingOverlay_a455ac28a9d530ae0639d23d7b5d64c42.html#a455ac28a9d530ae0639d23d7b5d64c42", null ],
-    [ "selectedControl", "d7/dd4/classGUIKeyboardMappingOverlay_afdf82131db0cc42be05f5b95a96a1e25.html#afdf82131db0cc42be05f5b95a96a1e25", null ]
+    [ "selectedControl", "d7/dd4/classGUIKeyboardMappingOverlay_aae041a9a16c430b32626328d545c064f.html#aae041a9a16c430b32626328d545c064f", null ]
 ];

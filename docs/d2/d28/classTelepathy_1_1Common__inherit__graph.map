@@ -1,7 +1,7 @@
 <map id="Telepathy.Common" name="Telepathy.Common">
-<area shape="rect" id="Node000001" title=" " alt="" coords="120,5,368,545"/>
-<area shape="rect" id="Node000002" href="$d9/df4/classTelepathy_1_1Client.html" title=" " alt="" coords="5,593,243,1007"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,559,174,594,169,593,177,558"/>
-<area shape="rect" id="Node000003" href="$db/de6/classTelepathy_1_1Server.html" title=" " alt="" coords="267,603,463,997"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="312,558,322,603,317,604,307,559"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,5,368,565"/>
+<area shape="rect" id="Node000002" href="$d9/df4/classTelepathy_1_1Client.html" title=" " alt="" coords="5,613,243,1061"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,579,175,614,170,613,178,578"/>
+<area shape="rect" id="Node000003" href="$db/de6/classTelepathy_1_1Server.html" title=" " alt="" coords="267,641,463,1034"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,578,325,640,320,641,306,579"/>
 </map>

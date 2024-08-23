@@ -1,15 +1,15 @@
 <map id="Terraria.Achievements.AchievementTracker&lt; T &gt;" name="Terraria.Achievements.AchievementTracker&lt; T &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="141,195,392,623"/>
-<area shape="rect" id="Node000003" href="$d2/d5f/classTerraria_1_1Achievements_1_1AchievementTracker.html" title=" " alt="" coords="5,685,256,1113"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,637,193,686,187,685,201,635"/>
-<area shape="rect" id="Node000005" href="$d2/d5f/classTerraria_1_1Achievements_1_1AchievementTracker.html" title=" " alt="" coords="280,685,531,1113"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="333,635,347,685,342,686,328,637"/>
-<area shape="rect" id="Node000002" href="$d2/d17/interfaceTerraria_1_1Achievements_1_1IAchievementTracker.html" title=" " alt="" coords="158,5,375,145"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,159,269,194,264,194,264,159"/>
-<area shape="rect" id="Node000004" href="$d2/d00/classTerraria_1_1Achievements_1_1ConditionFloatTracker.html" title=" " alt="" coords="17,1163,244,1317"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,1127,133,1162,128,1162,128,1127"/>
-<area shape="rect" id="Node000006" href="$d8/db5/classTerraria_1_1Achievements_1_1ConditionIntTracker.html" title=" " alt="" coords="292,1163,519,1317"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="408,1127,408,1162,403,1162,403,1127"/>
-<area shape="rect" id="Node000007" href="$dc/dc9/classTerraria_1_1Achievements_1_1ConditionsCompletedTracker.html" title=" " alt="" coords="280,1367,531,1551"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="408,1331,408,1366,403,1366,403,1331"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,195,439,637"/>
+<area shape="rect" id="Node000003" href="$d2/d5f/classTerraria_1_1Achievements_1_1AchievementTracker.html" title=" " alt="" coords="5,700,287,1143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,651,215,701,210,699,225,650"/>
+<area shape="rect" id="Node000005" href="$d2/d5f/classTerraria_1_1Achievements_1_1AchievementTracker.html" title=" " alt="" coords="311,700,592,1143"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="372,650,387,699,382,701,367,651"/>
+<area shape="rect" id="Node000002" href="$d2/d17/interfaceTerraria_1_1Achievements_1_1IAchievementTracker.html" title=" " alt="" coords="189,5,407,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,159,301,194,295,194,295,159"/>
+<area shape="rect" id="Node000004" href="$d2/d00/classTerraria_1_1Achievements_1_1ConditionFloatTracker.html" title=" " alt="" coords="33,1192,259,1347"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,1156,149,1192,143,1192,143,1156"/>
+<area shape="rect" id="Node000006" href="$d8/db5/classTerraria_1_1Achievements_1_1ConditionIntTracker.html" title=" " alt="" coords="338,1192,565,1347"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="454,1156,454,1192,449,1192,449,1156"/>
+<area shape="rect" id="Node000007" href="$dc/dc9/classTerraria_1_1Achievements_1_1ConditionsCompletedTracker.html" title=" " alt="" coords="326,1396,577,1580"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="454,1360,454,1396,449,1396,449,1360"/>
 </map>

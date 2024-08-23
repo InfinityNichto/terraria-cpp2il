@@ -35,7 +35,8 @@
 <text text-anchor="start" x="17" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">static bool[] Sandstone</text>
 <text text-anchor="start" x="4" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">static bool[] Thorn</text>
-<text text-anchor="start" x="65" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="6.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">static Conversion()</text>
 <polygon fill="#666666" stroke="#666666" points="0,-92 0,-92 134,-92 134,-92 0,-92"/>
 <polygon fill="#666666" stroke="#666666" points="0,-17 0,-17 15,-17 15,-17 0,-17"/>
 <polygon fill="#666666" stroke="#666666" points="15,-17 15,-17 134,-17 134,-17 15,-17"/>

@@ -1,5 +1,6 @@
 var classDrPlatform_1_1User =
 [
+    [ "User", "d8/d40/classDrPlatform_1_1User_aa4f29773cbb06f81b39d7f3f5e1dee6f.html#aa4f29773cbb06f81b39d7f3f5e1dee6f", null ],
     [ "CanChatWith", "d8/d40/classDrPlatform_1_1User_a3220e6bc058d717e59e696cef1521eea.html#a3220e6bc058d717e59e696cef1521eea", null ],
     [ "FilterText", "d8/d40/classDrPlatform_1_1User_abb5751746a23537f068a803049e02e16.html#abb5751746a23537f068a803049e02e16", null ],
     [ "OnPlatformUserChanged", "d8/d40/classDrPlatform_1_1User_af0e3471709feac362462ffbf812d2f20.html#af0e3471709feac362462ffbf812d2f20", null ],
@@ -17,5 +18,5 @@ var classDrPlatform_1_1User =
     [ "IsAgeRestricted", "d8/d40/classDrPlatform_1_1User_a9800ad0e7a20046fd5ff629532a30be8.html#a9800ad0e7a20046fd5ff629532a30be8", null ],
     [ "IsPatchRequired", "d8/d40/classDrPlatform_1_1User_a7609da7cac2bbf906b429125e279029d.html#a7609da7cac2bbf906b429125e279029d", null ],
     [ "PermissionsFetchFailed", "d8/d40/classDrPlatform_1_1User_ac3674f1627a6d4265d286d69da14bf9a.html#ac3674f1627a6d4265d286d69da14bf9a", null ],
-    [ "PlatformUserChanged", "d8/d40/classDrPlatform_1_1User_a873f001622f05ccf6a44e4057cb5e375.html#a873f001622f05ccf6a44e4057cb5e375", null ]
+    [ "PlatformUserChanged", "d8/d40/classDrPlatform_1_1User_a7bf310c0de4fb3bb10f85a188bc8df77.html#a7bf310c0de4fb3bb10f85a188bc8df77", null ]
 ];

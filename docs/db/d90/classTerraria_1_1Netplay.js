@@ -1,6 +1,7 @@
 var classTerraria_1_1Netplay =
 [
     [ "Netplay", "db/d90/classTerraria_1_1Netplay_a6dee89178892111bdc17bf4fff0a0caa.html#a6dee89178892111bdc17bf4fff0a0caa", null ],
+    [ "Netplay", "db/d90/classTerraria_1_1Netplay_ab4f5bd7e21e52abfc92333dbbe7b1b7b.html#ab4f5bd7e21e52abfc92333dbbe7b1b7b", null ],
     [ "AddBan", "db/d90/classTerraria_1_1Netplay_ad0d9f4342790f8bf93c89ddda134c226.html#ad0d9f4342790f8bf93c89ddda134c226", null ],
     [ "AddCurrentServerToRecentList", "db/d90/classTerraria_1_1Netplay_aff093151c38db368deaf5eb056c48095.html#aff093151c38db368deaf5eb056c48095", null ],
     [ "BroadcastThread", "db/d90/classTerraria_1_1Netplay_a87c399f8cba32df81f3e5ee40462cafa.html#a87c399f8cba32df81f3e5ee40462cafa", null ],
@@ -61,5 +62,5 @@ var classTerraria_1_1Netplay =
     [ "ServerPassword", "db/d90/classTerraria_1_1Netplay_abdd76463a9dfd97b9f26698f11e7c462.html#abdd76463a9dfd97b9f26698f11e7c462", null ],
     [ "SpamCheck", "db/d90/classTerraria_1_1Netplay_a8856d7bdf77070437264b4684e7d83aa.html#a8856d7bdf77070437264b4684e7d83aa", null ],
     [ "UseUPNP", "db/d90/classTerraria_1_1Netplay_a3fe45205d36260323702aa177f32506a.html#a3fe45205d36260323702aa177f32506a", null ],
-    [ "OnDisconnect", "db/d90/classTerraria_1_1Netplay_a87b354bb86f3125ce247815f31d740ad.html#a87b354bb86f3125ce247815f31d740ad", null ]
+    [ "OnDisconnect", "db/d90/classTerraria_1_1Netplay_a77d703836cb96b804342e4deb665f177.html#a77d703836cb96b804342e4deb665f177", null ]
 ];

@@ -1,6 +1,7 @@
 var classTerraria_1_1ID_1_1ArmorIDs_1_1Face_1_1Sets =
 [
     [ "Sets", "d9/dab/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_1_1Sets_a27f6f26209fe0a7fcac3deb8e569db66.html#a27f6f26209fe0a7fcac3deb8e569db66", null ],
+    [ "Sets", "d9/dab/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_1_1Sets_acd742c6dffa26a86787005af60401b0f.html#acd742c6dffa26a86787005af60401b0f", null ],
     [ "AltFaceHead", "d9/dab/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_1_1Sets_abafdf862aab760710e683c3ac39c05a4.html#abafdf862aab760710e683c3ac39c05a4", null ],
     [ "DrawInFaceFlowerLayer", "d9/dab/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_1_1Sets_a3bdd3690253618503436f75e5adfcc51.html#a3bdd3690253618503436f75e5adfcc51", null ],
     [ "DrawInFaceHeadLayer", "d9/dab/classTerraria_1_1ID_1_1ArmorIDs_1_1Face_1_1Sets_a905ec6fbdd135043df585d5b1aa4358f.html#a905ec6fbdd135043df585d5b1aa4358f", null ],

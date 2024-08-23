@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon =
 [
     [ "Sets", "d0/d37/classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon_1_1Sets.html", "d0/d37/classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon_1_1Sets" ],
     [ "Balloon", "d0/d2e/classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon_a7064978317b807a4a1c8cc6fc3a507aa.html#a7064978317b807a4a1c8cc6fc3a507aa", null ],
+    [ "Balloon", "d0/d2e/classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon_aedcc4fb3c5876f396f7c4906e6aca816.html#aedcc4fb3c5876f396f7c4906e6aca816", null ],
     [ "AmberHorseshoeBalloon", "d0/d2e/classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon_a83765b79da1a4bf22e3fcb7d605e1da2.html#a83765b79da1a4bf22e3fcb7d605e1da2", null ],
     [ "BalloonAnimal", "d0/d2e/classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon_a767c01b69538412281a4a2429510f06d.html#a767c01b69538412281a4a2429510f06d", null ],
     [ "BalloonPufferfish", "d0/d2e/classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon_addb367166f53f053ff001dc9ca65b3bb.html#addb367166f53f053ff001dc9ca65b3bb", null ],

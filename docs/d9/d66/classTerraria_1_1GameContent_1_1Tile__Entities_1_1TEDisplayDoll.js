@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll =
 [
     [ "TEDisplayDoll", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll_accfe1264848a2f2925bd7fdda2cf5a44.html#accfe1264848a2f2925bd7fdda2cf5a44", null ],
+    [ "TEDisplayDoll", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll_a0eb0ea6ce8465313cb2e214a5760d622.html#a0eb0ea6ce8465313cb2e214a5760d622", null ],
     [ "AssignNewID", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#a2900f8106c689792a513dbcd2e572c8a", null ],
     [ "BasicOpenCloseInteraction", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#a295675c600c448988e81080cece91e29", null ],
     [ "Clear", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#a3aaa7ad46476eb5b1a9ac0445a3f32d7", null ],
@@ -65,7 +66,7 @@ var classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll =
     [ "Position", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#a0dfd03fa3e2ccd2927208152ee10826a", null ],
     [ "TileEntitiesNextID", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#a754073f7668e01bf4af3324ce930e62c", null ],
     [ "type", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#a2926a8aa28bed9a097bc213b325db55b", null ],
-    [ "_UpdateEnd", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#aa77def30a1e2a8fc965f5ef047d1471d", null ],
-    [ "_UpdateStart", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#a8f040d287cc899854f3e068b0b23d84a", null ],
+    [ "_UpdateEnd", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#ab90b317c0302c05938306a1dc8e5e66a", null ],
+    [ "_UpdateStart", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#a693a4f83a34aaaa6b9ac90c3fc0c35c7", null ],
     [ "PositionKey", "d9/d66/classTerraria_1_1GameContent_1_1Tile__Entities_1_1TEDisplayDoll.html#abc92534881febd5243772d9a2c899ab2", null ]
 ];

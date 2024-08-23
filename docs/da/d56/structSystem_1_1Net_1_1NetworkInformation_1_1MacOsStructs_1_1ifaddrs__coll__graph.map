@@ -1,0 +1,16 @@
+<map id="System.Net.NetworkInformation.MacOsStructs.ifaddrs" name="System.Net.NetworkInformation.MacOsStructs.ifaddrs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="481,1293,710,1373"/>
+<area shape="rect" id="Node000002" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1172"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,1171,467,1221,499,1268,511,1281,507,1284,495,1271,462,1224,434,1174"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="478,579,496,612,503,660,499,698,488,727,483,726,494,697,497,660,491,613,474,581"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,97,146,172,141,174,116,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="498,79,481,133,476,132,493,77"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="570,627,621,693"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="598,693,598,1277,593,1277,593,693"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="684,627,723,693"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="713,692,730,794,737,864,740,942,738,1025,728,1109,708,1192,676,1271,669,1283,664,1280,672,1268,703,1191,723,1108,733,1024,735,942,731,864,724,795,708,693"/>
+</map>

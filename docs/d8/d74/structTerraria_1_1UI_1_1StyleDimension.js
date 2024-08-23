@@ -1,6 +1,7 @@
 var structTerraria_1_1UI_1_1StyleDimension =
 [
     [ "StyleDimension", "d8/d74/structTerraria_1_1UI_1_1StyleDimension_aa443ecdcb3b3f8237c37aac947d9ef9d.html#aa443ecdcb3b3f8237c37aac947d9ef9d", null ],
+    [ "StyleDimension", "d8/d74/structTerraria_1_1UI_1_1StyleDimension_a7934b8ae6ae94a1cef4aa36c9b15867c.html#a7934b8ae6ae94a1cef4aa36c9b15867c", null ],
     [ "FromPercent", "d8/d74/structTerraria_1_1UI_1_1StyleDimension_aaff4bceaa8740904df7a0c7d832f0354.html#aaff4bceaa8740904df7a0c7d832f0354", null ],
     [ "FromPixels", "d8/d74/structTerraria_1_1UI_1_1StyleDimension_a401bd71d865c34b2d50a55dcc1a67384.html#a401bd71d865c34b2d50a55dcc1a67384", null ],
     [ "FromPixelsAndPercent", "d8/d74/structTerraria_1_1UI_1_1StyleDimension_ad650694a90519412f5f2ba2dd5569b44.html#ad650694a90519412f5f2ba2dd5569b44", null ],

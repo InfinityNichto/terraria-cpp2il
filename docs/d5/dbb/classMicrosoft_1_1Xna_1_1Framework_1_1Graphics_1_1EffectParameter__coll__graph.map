@@ -1,5 +1,9 @@
 <map id="Microsoft.Xna.Framework.Graphics.EffectParameter" name="Microsoft.Xna.Framework.Graphics.EffectParameter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,247,565"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="105,5,147,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,71,129,117,123,117,123,71"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,261,258,679"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,125,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,199,69,237,71,245,65,246,64,238,61,199"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="40,5,91,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,85,68,133,63,133,63,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="189,133,232,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,200,194,246,189,245,200,198"/>
 </map>

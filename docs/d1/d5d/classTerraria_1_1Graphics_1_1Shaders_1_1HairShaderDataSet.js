@@ -1,7 +1,7 @@
 var classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderDataSet =
 [
     [ "HairShaderDataSet", "d1/d5d/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderDataSet_a7cca3d6dfeeeb6dba77376e4f9b0beee.html#a7cca3d6dfeeeb6dba77376e4f9b0beee", null ],
-    [ "Apply", "d1/d5d/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderDataSet_ac33daab1482d332d77a8e109ad3db3f9.html#ac33daab1482d332d77a8e109ad3db3f9", null ],
+    [ "Apply", "d1/d5d/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderDataSet_a4b5f10893f03c9d3265c52a681a2f01b.html#a4b5f10893f03c9d3265c52a681a2f01b", null ],
     [ "BindShader< T >", "d1/d5d/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderDataSet_a92c6a14a4c141607b34c0c68ffe42d9b.html#a92c6a14a4c141607b34c0c68ffe42d9b", null ],
     [ "GetColor", "d1/d5d/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderDataSet_aa1bd4c2217f8d467030971b2e2a2148b.html#aa1bd4c2217f8d467030971b2e2a2148b", null ],
     [ "GetShaderFromItemId", "d1/d5d/classTerraria_1_1Graphics_1_1Shaders_1_1HairShaderDataSet_af3f6df8901b66c3cb5c6f56b3ee0fbfc.html#af3f6df8901b66c3cb5c6f56b3ee0fbfc", null ],

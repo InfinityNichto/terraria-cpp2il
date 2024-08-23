@@ -6,6 +6,6 @@ var classReLogic_1_1Utilities_1_1SlotVector_1_1Enumerator =
     [ "Reset", "d0/d24/classReLogic_1_1Utilities_1_1SlotVector_1_1Enumerator_ad9b698ed6200271a3e487e43d670a586.html#ad9b698ed6200271a3e487e43d670a586", null ],
     [ "_index", "d0/d24/classReLogic_1_1Utilities_1_1SlotVector_1_1Enumerator_a6e47d41d1c8fca7c59bb92dd4696fb51.html#a6e47d41d1c8fca7c59bb92dd4696fb51", null ],
     [ "_slotVector", "d0/d24/classReLogic_1_1Utilities_1_1SlotVector_1_1Enumerator_ac9b66925f55f3a899af4fcfc714a44ce.html#ac9b66925f55f3a899af4fcfc714a44ce", null ],
-    [ "Current", "d0/d24/classReLogic_1_1Utilities_1_1SlotVector_1_1Enumerator_ace1f35a4af6b293dde8170f003ed2f37.html#ace1f35a4af6b293dde8170f003ed2f37", null ],
-    [ "System_002ECollections_002EGeneric_002EIEnumerator_003CReLogic_002EUtilities_002ESlotVector_003CT_003E_002EItemPair_003E_002ECurrent", "d0/d24/classReLogic_1_1Utilities_1_1SlotVector_1_1Enumerator_ac29957e88e6f79b0b8638d51277f16c4.html#ac29957e88e6f79b0b8638d51277f16c4", null ]
+    [ "Current", "d0/d24/classReLogic_1_1Utilities_1_1SlotVector_1_1Enumerator_a5dc8d1e590699727e62bc8a3f84de504.html#a5dc8d1e590699727e62bc8a3f84de504", null ],
+    [ "Current", "d0/d24/classReLogic_1_1Utilities_1_1SlotVector_1_1Enumerator_a1eec90c2e8ae3b5bb9a68d2ec0ea1c76.html#a1eec90c2e8ae3b5bb9a68d2ec0ea1c76", null ]
 ];

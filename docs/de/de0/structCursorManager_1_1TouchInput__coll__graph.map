@@ -1,9 +1,16 @@
 <map id="CursorManager.TouchInput" name="CursorManager.TouchInput">
-<area shape="rect" id="Node000001" title=" " alt="" coords="6,133,227,228"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,70,48,108,56,119,52,122,44,111,26,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="85,5,148,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,71,119,117,114,117,114,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="177,5,328,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,72,238,92,225,111,213,124,209,121,221,108,233,89,242,70"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,1313,301,1408"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="16,731,46,796"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,797,15,880,8,996,11,1060,19,1126,35,1189,60,1249,78,1277,102,1301,99,1305,74,1280,55,1252,30,1191,14,1127,6,1061,3,996,9,880,22,796"/>
+<area shape="rect" id="Node000003" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="70,276,314,1251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,1251,195,1297,190,1297,190,1251"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="317,679,327,693,334,712,341,763,337,804,327,834,322,832,332,803,336,763,329,713,322,696,312,682"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="27,133,190,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,212,126,275,121,276,112,213"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="21,5,196,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="111,85,111,133,106,133,106,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="214,133,256,199"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="235,199,231,260,226,259,230,199"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="444,731,594,796"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="525,796,530,883,529,940,524,1003,513,1068,496,1133,470,1196,434,1252,410,1278,381,1300,317,1331,315,1327,378,1295,406,1274,430,1249,465,1193,491,1132,508,1067,518,1002,523,940,524,883,520,797"/>
 </map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d2/d8b/interfaceSystem_1_1Xml_1_1Schema_1_1IXmlSchemaInfo.html" title=" " alt="" coords="5,31,273,56"/>
+<area shape="rect" id="Node000001" href="$d8/d8a/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaInfo.html" title=" " alt="" coords="321,5,585,31"/>
+<area shape="poly" id="edge3756_Node000000_Node000001" title=" " alt="" coords="287,29,321,26,321,31,287,34"/>
+<area shape="rect" id="Node000002" href="$d2/dd0/classSystem_1_1Xml_1_1XmlName.html" title=" " alt="" coords="368,55,539,80"/>
+<area shape="poly" id="edge3757_Node000000_Node000002" title=" " alt="" coords="287,52,368,58,367,63,287,57"/>
+<area shape="rect" id="Node000003" href="$d1/dd1/classSystem_1_1Xml_1_1XmlNameEx.html" title=" " alt="" coords="633,55,820,80"/>
+<area shape="poly" id="edge3758_Node000002_Node000003" title=" " alt="" coords="552,65,633,65,633,70,552,70"/>
+</map>

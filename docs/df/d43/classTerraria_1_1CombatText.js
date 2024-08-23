@@ -1,6 +1,7 @@
 var classTerraria_1_1CombatText =
 [
     [ "CombatText", "df/d43/classTerraria_1_1CombatText_ac3b601aa38efe2eb6ee629892151464d.html#ac3b601aa38efe2eb6ee629892151464d", null ],
+    [ "CombatText", "df/d43/classTerraria_1_1CombatText_afd28057d5028577c9cdb6f39fbb085f6.html#afd28057d5028577c9cdb6f39fbb085f6", null ],
     [ "clearAll", "df/d43/classTerraria_1_1CombatText_a55205d49e38e3d40eba5b1ff16dc896e.html#a55205d49e38e3d40eba5b1ff16dc896e", null ],
     [ "NewText", "df/d43/classTerraria_1_1CombatText_a8e71088902a18576a9f669d8e03fd7c6.html#a8e71088902a18576a9f669d8e03fd7c6", null ],
     [ "NewText", "df/d43/classTerraria_1_1CombatText_a8244eea7d5a8287fbe3da508183e608d.html#a8244eea7d5a8287fbe3da508183e608d", null ],

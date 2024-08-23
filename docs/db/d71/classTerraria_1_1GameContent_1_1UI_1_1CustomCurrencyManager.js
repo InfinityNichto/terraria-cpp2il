@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1UI_1_1CustomCurrencyManager =
 [
     [ "CustomCurrencyManager", "db/d71/classTerraria_1_1GameContent_1_1UI_1_1CustomCurrencyManager_a0e431d393060c6a3054ea2f774c16c2b.html#a0e431d393060c6a3054ea2f774c16c2b", null ],
+    [ "CustomCurrencyManager", "db/d71/classTerraria_1_1GameContent_1_1UI_1_1CustomCurrencyManager_ace774988d95b1146894a75a87dfe18e0.html#ace774988d95b1146894a75a87dfe18e0", null ],
     [ "BuyItem", "db/d71/classTerraria_1_1GameContent_1_1UI_1_1CustomCurrencyManager_ac6b2b6acb682baf61e32461a009e1650.html#ac6b2b6acb682baf61e32461a009e1650", null ],
     [ "CanAffordItem", "db/d71/classTerraria_1_1GameContent_1_1UI_1_1CustomCurrencyManager_afe8864b2f273dc9ad14cb89e15070f25.html#afe8864b2f273dc9ad14cb89e15070f25", null ],
     [ "DrawSavings", "db/d71/classTerraria_1_1GameContent_1_1UI_1_1CustomCurrencyManager_a8ab1a045386b52a5800af8099e3d0b39.html#a8ab1a045386b52a5800af8099e3d0b39", null ],

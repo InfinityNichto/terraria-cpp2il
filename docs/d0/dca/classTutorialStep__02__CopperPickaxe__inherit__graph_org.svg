@@ -17,8 +17,8 @@
 <text text-anchor="start" x="7" y="-129.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="17.5" y="-129.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool givenAxe</text>
 <text text-anchor="start" x="4.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="17.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="17.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="17.5" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="4.5" y="-88.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-88.5" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="17.5" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -42,40 +42,40 @@
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d9/d7b/classTutorialStep.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="175,-458 6,-458 6,-193 175,-193 175,-458"/>
+<polygon fill="white" stroke="transparent" points="178,-458 3,-458 3,-193 178,-193 178,-458"/>
 <text text-anchor="start" x="62" y="-445.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep</text>
 <text text-anchor="start" x="89" y="-430.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="10.5" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="23.5" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Reset()</text>
-<text text-anchor="start" x="10.5" y="-400.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="23.5" y="-400.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Begin()</text>
-<text text-anchor="start" x="10.5" y="-385.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="23.5" y="-385.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual bool Update()</text>
-<text text-anchor="start" x="10.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="23.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual GuideOverLoadState</text>
-<text text-anchor="start" x="23.5" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
-<text text-anchor="start" x="10.5" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="23.5" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual string GetGuideString()</text>
-<text text-anchor="start" x="10.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="23.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnGuideDialogue</text>
-<text text-anchor="start" x="23.5" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">Open()</text>
-<text text-anchor="start" x="10.5" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="23.5" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnItemPlaced</text>
-<text text-anchor="start" x="23.5" y="-292.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int itemId, int tileType)</text>
-<text text-anchor="start" x="10.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="23.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep()</text>
-<text text-anchor="start" x="10.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="23.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetTime(int hour,</text>
-<text text-anchor="start" x="23.5" y="-251.5" font-family="Helvetica,sans-Serif" font-size="10.00"> int min, bool freeze)</text>
-<text text-anchor="start" x="10.5" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="23.5" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetSpawnRate(float</text>
-<text text-anchor="start" x="23.5" y="-225.5" font-family="Helvetica,sans-Serif" font-size="10.00"> spawnRate)</text>
-<text text-anchor="start" x="10.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="23.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">void GiveItem(short</text>
-<text text-anchor="start" x="23.5" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00"> item, int stackCount)</text>
-<polygon fill="#666666" stroke="#666666" points="6.5,-440.5 6.5,-440.5 175.5,-440.5 175.5,-440.5 6.5,-440.5"/>
-<polygon fill="#666666" stroke="#666666" points="6.5,-425.5 6.5,-425.5 175.5,-425.5 175.5,-425.5 6.5,-425.5"/>
-<polygon fill="none" stroke="#666666" points="6,-193 6,-458 175,-458 175,-193 6,-193"/>
+<text text-anchor="start" x="7.5" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Reset()</text>
+<text text-anchor="start" x="7.5" y="-400.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-400.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Begin()</text>
+<text text-anchor="start" x="7.5" y="-385.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-385.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual bool Update()</text>
+<text text-anchor="start" x="7.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual TutorialStep.Guide</text>
+<text text-anchor="start" x="20.5" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
+<text text-anchor="start" x="7.5" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual string GetGuideString()</text>
+<text text-anchor="start" x="7.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-329.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnGuideDialogue</text>
+<text text-anchor="start" x="20.5" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">Open()</text>
+<text text-anchor="start" x="7.5" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnItemPlaced</text>
+<text text-anchor="start" x="20.5" y="-292.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int itemId, int tileType)</text>
+<text text-anchor="start" x="7.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-277.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep()</text>
+<text text-anchor="start" x="7.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="20.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetTime(int hour,</text>
+<text text-anchor="start" x="20.5" y="-251.5" font-family="Helvetica,sans-Serif" font-size="10.00"> int min, bool freeze)</text>
+<text text-anchor="start" x="7.5" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="20.5" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetSpawnRate(float</text>
+<text text-anchor="start" x="20.5" y="-225.5" font-family="Helvetica,sans-Serif" font-size="10.00"> spawnRate)</text>
+<text text-anchor="start" x="7.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="20.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">void GiveItem(short</text>
+<text text-anchor="start" x="20.5" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00"> item, int stackCount)</text>
+<polygon fill="#666666" stroke="#666666" points="3.5,-440.5 3.5,-440.5 178.5,-440.5 178.5,-440.5 3.5,-440.5"/>
+<polygon fill="#666666" stroke="#666666" points="3.5,-425.5 3.5,-425.5 178.5,-425.5 178.5,-425.5 3.5,-425.5"/>
+<polygon fill="none" stroke="#666666" points="3,-193 3,-458 178,-458 178,-193 3,-193"/>
 </a>
 </g>
 </g>

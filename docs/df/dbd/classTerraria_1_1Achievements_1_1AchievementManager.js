@@ -2,6 +2,7 @@ var classTerraria_1_1Achievements_1_1AchievementManager =
 [
     [ "StoredAchievement", "d1/d70/classTerraria_1_1Achievements_1_1AchievementManager_1_1StoredAchievement.html", "d1/d70/classTerraria_1_1Achievements_1_1AchievementManager_1_1StoredAchievement" ],
     [ "AchievementManager", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_aa1d77358e57e8c0151f3ba463a5c0a14.html#aa1d77358e57e8c0151f3ba463a5c0a14", null ],
+    [ "AchievementManager", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_a2eb2f6e1e16deb15cfeaf184ebbef12d.html#a2eb2f6e1e16deb15cfeaf184ebbef12d", null ],
     [ "AchievementCompleted", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_aa516d4bb2391371305462863fff9fb60.html#aa516d4bb2391371305462863fff9fb60", null ],
     [ "ClearAll", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_a05ce3bc2870b7be54700930e0bd6b8c6.html#a05ce3bc2870b7be54700930e0bd6b8c6", null ],
     [ "CreateAchievementsList", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_a756e33b508430a780e1193cea6551a7f.html#a756e33b508430a780e1193cea6551a7f", null ],
@@ -25,5 +26,5 @@ var classTerraria_1_1Achievements_1_1AchievementManager =
     [ "_savePath", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_a14cbe45953c28b33a3aa6ee72c09ce26.html#a14cbe45953c28b33a3aa6ee72c09ce26", null ],
     [ "_serializerSettings", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_a5982f0d069b0d0ba45ad9239ef879863.html#a5982f0d069b0d0ba45ad9239ef879863", null ],
     [ "User", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_aba7ba5901d8addf031df7903c809bea5.html#aba7ba5901d8addf031df7903c809bea5", null ],
-    [ "OnAchievementCompleted", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_a9d37c0ac93690534189ce715eecd296d.html#a9d37c0ac93690534189ce715eecd296d", null ]
+    [ "OnAchievementCompleted", "df/dbd/classTerraria_1_1Achievements_1_1AchievementManager_a884bf9025adc43a2f95206fec0baff6a.html#a884bf9025adc43a2f95206fec0baff6a", null ]
 ];

@@ -1,16 +1,18 @@
 <map id="Terraria.GameContent.Liquid.LiquidRenderer.LiquidCache" name="Terraria.GameContent.Liquid.LiquidRenderer.LiquidCache">
-<area shape="rect" id="Node000001" title=" " alt="" coords="174,601,378,681"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="16,237,58,303"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,303,16,360,8,432,9,471,16,508,28,544,47,576,63,588,89,600,158,619,157,624,88,605,61,593,43,579,23,546,10,509,4,471,3,432,11,359,24,302"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="178,237,221,303"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,303,187,448,188,524,191,554,198,576,205,587,200,590,193,578,186,555,182,524,181,448,193,303"/>
-<area shape="rect" id="Node000004" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="247,148,454,392"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="357,392,349,485,339,533,325,578,320,588,315,586,320,576,334,531,343,484,352,392"/>
-<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="455,241,473,251,480,270,478,282,470,291,466,288,473,280,475,270,469,255,452,246"/>
-<area shape="rect" id="Node000005" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="220,5,366,71"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="307,83,323,147,318,148,302,85"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="391,5,422,71"/>
-<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="401,71,386,132,381,131,396,70"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="573,237,616,303"/>
-<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="592,303,578,362,552,437,534,476,512,514,486,549,455,579,426,599,395,614,392,609,423,594,451,575,482,545,507,511,529,474,547,435,573,361,587,302"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,749,379,829"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="17,375,60,441"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,441,17,500,8,575,9,614,16,653,28,690,48,724,65,736,91,748,159,767,158,772,89,753,62,741,44,727,23,693,11,655,4,615,3,575,11,499,25,440"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="180,375,222,441"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,441,188,591,188,670,192,701,199,724,206,735,202,738,195,726,187,702,183,670,182,591,194,441"/>
+<area shape="rect" id="Node000004" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="248,276,455,540"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,540,350,633,340,681,326,726,322,736,317,734,321,724,335,679,345,632,353,540"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="456,377,474,388,482,408,479,421,471,430,467,427,474,419,476,408,470,392,454,382"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="192,133,352,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="289,211,310,275,305,276,284,213"/>
+<area shape="rect" id="Node000006" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="184,5,359,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="274,85,274,133,269,133,269,85"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="376,133,407,199"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="389,200,379,260,374,259,384,199"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="574,375,617,441"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="594,441,581,502,556,580,538,620,516,660,489,696,457,727,428,747,395,763,393,758,425,743,454,723,485,692,511,657,533,618,551,578,575,501,588,440"/>
 </map>

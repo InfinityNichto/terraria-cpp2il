@@ -1,6 +1,7 @@
 var classTerraria_1_1DataStructures_1_1TileEntity =
 [
     [ "TileEntity", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_aca0933ec463d8f3106af186a5a4af915.html#aca0933ec463d8f3106af186a5a4af915", null ],
+    [ "TileEntity", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a6d2c6a249f9e6adbcce882cf333b3893.html#a6d2c6a249f9e6adbcce882cf333b3893", null ],
     [ "AssignNewID", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a2900f8106c689792a513dbcd2e572c8a.html#a2900f8106c689792a513dbcd2e572c8a", null ],
     [ "BasicOpenCloseInteraction", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a295675c600c448988e81080cece91e29.html#a295675c600c448988e81080cece91e29", null ],
     [ "Clear", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a3aaa7ad46476eb5b1a9ac0445a3f32d7.html#a3aaa7ad46476eb5b1a9ac0445a3f32d7", null ],
@@ -39,7 +40,7 @@ var classTerraria_1_1DataStructures_1_1TileEntity =
     [ "Position", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a0dfd03fa3e2ccd2927208152ee10826a.html#a0dfd03fa3e2ccd2927208152ee10826a", null ],
     [ "TileEntitiesNextID", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a754073f7668e01bf4af3324ce930e62c.html#a754073f7668e01bf4af3324ce930e62c", null ],
     [ "type", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a2926a8aa28bed9a097bc213b325db55b.html#a2926a8aa28bed9a097bc213b325db55b", null ],
-    [ "_UpdateEnd", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_aa77def30a1e2a8fc965f5ef047d1471d.html#aa77def30a1e2a8fc965f5ef047d1471d", null ],
-    [ "_UpdateStart", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a8f040d287cc899854f3e068b0b23d84a.html#a8f040d287cc899854f3e068b0b23d84a", null ],
+    [ "_UpdateEnd", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_ab90b317c0302c05938306a1dc8e5e66a.html#ab90b317c0302c05938306a1dc8e5e66a", null ],
+    [ "_UpdateStart", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a693a4f83a34aaaa6b9ac90c3fc0c35c7.html#a693a4f83a34aaaa6b9ac90c3fc0c35c7", null ],
     [ "PositionKey", "db/d56/classTerraria_1_1DataStructures_1_1TileEntity_abc92534881febd5243772d9a2c899ab2.html#abc92534881febd5243772d9a2c899ab2", null ]
 ];

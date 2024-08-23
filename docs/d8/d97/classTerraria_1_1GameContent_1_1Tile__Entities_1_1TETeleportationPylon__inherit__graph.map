@@ -1,5 +1,5 @@
 <map id="Terraria.GameContent.Tile_Entities.TETeleportationPylon" name="Terraria.GameContent.Tile_Entities.TETeleportationPylon">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,1520,253,2396"/>
-<area shape="rect" id="Node000002" href="$db/d56/classTerraria_1_1DataStructures_1_1TileEntity.html" title=" " alt="" coords="9,5,250,1472"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,1486,132,1520,127,1520,127,1486"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1540,253,2416"/>
+<area shape="rect" id="Node000002" href="$db/d56/classTerraria_1_1DataStructures_1_1TileEntity.html" title=" " alt="" coords="9,5,250,1492"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,1506,132,1540,127,1540,127,1506"/>
 </map>

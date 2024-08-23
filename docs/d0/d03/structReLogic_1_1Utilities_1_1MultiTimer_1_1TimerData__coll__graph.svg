@@ -30,8 +30,8 @@
 <text text-anchor="start" x="4" y="-69.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-69.5" font-family="Helvetica,sans-Serif" font-size="10.00">TimerData(double startTime)</text>
 <text text-anchor="start" x="4" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00">TimerData AddTick(double</text>
-<text text-anchor="start" x="17" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00"> time)</text>
+<text text-anchor="start" x="17" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00">MultiTimer.TimerData</text>
+<text text-anchor="start" x="17" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00"> AddTick(double time)</text>
 <text text-anchor="start" x="6.5" y="-28.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="17" y="-28.5" font-family="Helvetica,sans-Serif" font-size="10.00">TimerData(double min,</text>
 <text text-anchor="start" x="17" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00"> double max, double ticks,</text>

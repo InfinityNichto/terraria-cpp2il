@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d8/d9b/classSystem_1_1Security_1_1Cryptography_1_1AsnEncodedData.html" title=" " alt="" coords="5,95,225,135"/>
+<area shape="rect" id="Node000001" href="$d5/dba/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X500DistinguishedName.html" title=" " alt="" coords="273,63,568,103"/>
+<area shape="poly" id="edge3672_Node000000_Node000001" title=" " alt="" coords="239,100,273,96,273,101,239,105"/>
+<area shape="rect" id="Node000002" href="$de/d29/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509Extension.html" title=" " alt="" coords="305,127,536,167"/>
+<area shape="poly" id="edge3673_Node000000_Node000002" title=" " alt="" coords="239,126,305,133,305,138,239,131"/>
+<area shape="rect" id="Node000003" href="$d9/db2/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509BasicConstraintsExtension.html" title=" " alt="" coords="627,5,901,60"/>
+<area shape="poly" id="edge3674_Node000002_Node000003" title=" " alt="" coords="548,122,567,113,581,103,590,92,600,80,615,69,639,58,641,63,617,74,603,84,594,95,585,107,569,118,550,126"/>
+<area shape="rect" id="Node000004" href="$df/d3f/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509EnhancedKeyUsageExtension.html" title=" " alt="" coords="637,84,891,139"/>
+<area shape="poly" id="edge3675_Node000002_Node000004" title=" " alt="" coords="549,131,637,122,637,127,550,136"/>
+<area shape="rect" id="Node000005" href="$d7/d6c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509KeyUsageExtension.html" title=" " alt="" coords="617,163,911,203"/>
+<area shape="poly" id="edge3676_Node000002_Node000005" title=" " alt="" coords="550,158,617,165,616,171,550,163"/>
+<area shape="rect" id="Node000006" href="$d9/df0/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509SubjectKeyIdentifierExtension.html" title=" " alt="" coords="616,228,912,283"/>
+<area shape="poly" id="edge3677_Node000002_Node000006" title=" " alt="" coords="490,170,617,213,659,225,658,231,615,218,488,175"/>
+</map>

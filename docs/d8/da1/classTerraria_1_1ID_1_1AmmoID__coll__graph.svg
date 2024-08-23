@@ -38,7 +38,8 @@
 <text text-anchor="start" x="17" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">static int StyngerBolt</text>
 <text text-anchor="start" x="4" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">static int Stake</text>
-<text text-anchor="start" x="60" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="6.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">static AmmoID()</text>
 <polygon fill="#666666" stroke="#666666" points="0,-121.5 0,-121.5 124,-121.5 124,-121.5 0,-121.5"/>
 <polygon fill="#666666" stroke="#666666" points="0,-16.5 0,-16.5 15,-16.5 15,-16.5 0,-16.5"/>
 <polygon fill="#666666" stroke="#666666" points="15,-16.5 15,-16.5 124,-16.5 124,-16.5 15,-16.5"/>

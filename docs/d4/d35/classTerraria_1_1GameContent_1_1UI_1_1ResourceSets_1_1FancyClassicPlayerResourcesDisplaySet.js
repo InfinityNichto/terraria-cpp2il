@@ -38,6 +38,8 @@ var classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1FancyClassicPlayerReso
     [ "_starMiddle", "d4/d35/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1FancyClassicPlayerResourcesDisplaySet_a1c4ae5f55d7e55fff19e1aac3cf30ea2.html#a1c4ae5f55d7e55fff19e1aac3cf30ea2", null ],
     [ "_starSingle", "d4/d35/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1FancyClassicPlayerResourcesDisplaySet_a902686a2c6241fcd42d12285d8697788.html#a902686a2c6241fcd42d12285d8697788", null ],
     [ "_starTop", "d4/d35/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1FancyClassicPlayerResourcesDisplaySet_a1455c5d385149904c95135b0fe735b7d.html#a1455c5d385149904c95135b0fe735b7d", null ],
+    [ "k__BackingField", "d4/d35/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1FancyClassicPlayerResourcesDisplaySet_af85b6e50c1807ec1580065a7040faef7.html#af85b6e50c1807ec1580065a7040faef7", null ],
+    [ "k__BackingField", "d4/d35/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1FancyClassicPlayerResourcesDisplaySet_a2aa33dc472f629300dea74762846b8d7.html#a2aa33dc472f629300dea74762846b8d7", null ],
     [ "ConfigKey", "d4/d35/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1FancyClassicPlayerResourcesDisplaySet_a8c5c6cacd4d6799321302edae0405e1e.html#a8c5c6cacd4d6799321302edae0405e1e", null ],
     [ "NameKey", "d4/d35/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1FancyClassicPlayerResourcesDisplaySet_a405f74f20eebfbd6eb374f69746f87fa.html#a405f74f20eebfbd6eb374f69746f87fa", null ]
 ];

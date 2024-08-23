@@ -7,7 +7,7 @@ var classTexturePackerTileCompare =
       [ "YFlip", "d9/dcf/classTexturePackerTileCompare_a20687d6d738b1cb134006b67049e0b47.html#a20687d6d738b1cb134006b67049e0b47a1fc1a45f9ecce68a963882bdb354c706", null ],
       [ "XYFlip", "d9/dcf/classTexturePackerTileCompare_a20687d6d738b1cb134006b67049e0b47.html#a20687d6d738b1cb134006b67049e0b47a9272420ebb73eb20ff003f565d3fd9fb", null ]
     ] ],
-    [ "Compare", "d9/dcf/classTexturePackerTileCompare_a8436baa0a8005cdb878529951660dee6.html#a8436baa0a8005cdb878529951660dee6", null ],
+    [ "Compare", "d9/dcf/classTexturePackerTileCompare_a77fae8813c4bdd9435c801956b2b6a52.html#a77fae8813c4bdd9435c801956b2b6a52", null ],
     [ "CompareIdentical", "d9/dcf/classTexturePackerTileCompare_aa30743c25f626cdde7a49ed7b836814d.html#aa30743c25f626cdde7a49ed7b836814d", null ],
     [ "CompareXFlip", "d9/dcf/classTexturePackerTileCompare_a2e00aa59b6c824f9ce71592cb5583f7a.html#a2e00aa59b6c824f9ce71592cb5583f7a", null ],
     [ "CompareXYFlip", "d9/dcf/classTexturePackerTileCompare_a2300b106a1ecee00a1a6311a82fb39db.html#a2300b106a1ecee00a1a6311a82fb39db", null ],

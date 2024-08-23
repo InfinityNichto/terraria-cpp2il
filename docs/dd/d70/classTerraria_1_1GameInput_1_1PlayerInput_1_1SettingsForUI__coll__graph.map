@@ -1,3 +1,9 @@
 <map id="Terraria.GameInput.PlayerInput.SettingsForUI" name="Terraria.GameInput.PlayerInput.SettingsForUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,247,383"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="36,291,277,668"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,148,164,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,228,109,274,103,276,92,229"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="189,148,378,228"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,229,248,276,243,274,264,227"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="268,5,299,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="286,84,286,148,281,148,281,84"/>
 </map>

@@ -1,15 +1,6 @@
 <map id="Terraria.GameContent.Ambience.AmbientSkyDrawCache" name="Terraria.GameContent.Ambience.AmbientSkyDrawCache">
-<area shape="rect" id="Node000001" title=" " alt="" coords="138,532,369,711"/>
-<area shape="rect" id="Node000002" href="$df/dec/classTerraria_1_1GameContent_1_1Ambience_1_1AmbientSkyDrawCache.html" title=" " alt="" coords="138,291,369,469"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,470,256,515,251,515,251,470"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="370,358,388,366,395,380,393,389,386,395,382,392,388,386,390,380,384,370,368,363"/>
-<area shape="rect" id="Node000003" href="$dd/dab/structTerraria_1_1GameContent_1_1Ambience_1_1AmbientSkyDrawCache_1_1UnderworldCache.html" title=" " alt="" coords="5,148,291,228"/>
-<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="89,230,60,258,38,292,20,340,13,381,19,421,38,468,55,494,76,518,126,558,122,562,72,522,51,498,34,471,13,423,7,381,15,339,34,289,56,255,86,226"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="172,227,193,265,199,275,194,278,188,268,167,230"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="279,5,321,71"/>
-<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="280,62,201,139,198,135,276,59"/>
-<area shape="rect" id="Node000005" href="$d6/d56/structTerraria_1_1GameContent_1_1Ambience_1_1AmbientSkyDrawCache_1_1OceanLineCache.html" title=" " alt="" coords="315,148,594,228"/>
-<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="323,58,404,134,400,138,320,62"/>
-<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="486,227,496,251,500,259,507,261,529,256,553,246,575,239,583,242,587,250,578,285,544,355,478,471,459,498,437,522,384,562,381,558,433,518,455,494,474,468,539,352,573,283,581,250,580,246,575,244,555,251,530,262,507,266,497,263,491,253,481,229"/>
-<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="412,230,386,254,357,281,354,277,382,250,408,226"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,296,236,495"/>
+<area shape="rect" id="Node000002" href="$df/dec/classTerraria_1_1GameContent_1_1Ambience_1_1AmbientSkyDrawCache.html" title=" " alt="" coords="5,5,236,204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,204,123,280,118,280,118,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="238,79,256,88,263,104,260,115,253,123,249,119,255,113,257,105,252,92,235,84"/>
 </map>

@@ -1,0 +1,21 @@
+<map id="Newtonsoft.Json.Utilities.Base64Encoder" name="Newtonsoft.Json.Utilities.Base64Encoder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,1048,377,1261"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,527,66,592"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,593,24,673,15,726,10,784,9,845,15,907,29,967,54,1023,75,1051,101,1075,131,1096,162,1112,159,1117,128,1100,98,1079,71,1055,50,1025,24,969,10,908,3,846,4,784,10,726,19,672,38,591"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="189,13,232,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,78,203,217,197,433,202,691,211,825,225,956,241,1032,235,1033,220,956,205,825,196,692,192,433,198,217,205,78"/>
+<area shape="rect" id="Node000004" href="$d8/d05/classSystem_1_1IO_1_1TextWriter.html" title=" " alt="" coords="313,163,543,956"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="223,77,238,108,258,137,267,144,277,148,287,152,297,161,306,173,302,176,293,164,284,157,275,153,265,149,254,140,233,110,219,79"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,957,310,1032,305,1031,324,956"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="545,487,555,498,563,515,569,559,566,594,556,619,551,617,560,593,564,559,557,516,550,501,541,490"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="256,5,459,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="367,99,376,162,371,163,362,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="483,13,669,78"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="566,92,545,163,540,162,560,91"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="693,13,744,78"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="695,75,659,115,622,164,553,284,548,282,618,161,655,112,691,71"/>
+<area shape="rect" id="Node000008" href="$d8/d62/interfaceSystem_1_1IFormatProvider.html" title=" " alt="" coords="768,5,971,85"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="843,88,815,117,780,141,757,150,735,153,697,150,660,148,642,153,621,165,586,196,554,232,550,229,582,192,618,160,640,148,660,143,697,144,735,147,755,145,777,136,811,113,839,84"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="632,527,675,592"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="662,592,672,663,675,757,671,809,662,861,646,911,622,957,601,987,575,1013,517,1059,455,1094,393,1121,391,1116,452,1090,514,1054,572,1010,596,983,618,955,641,909,657,860,666,808,670,757,667,663,657,593"/>
+</map>

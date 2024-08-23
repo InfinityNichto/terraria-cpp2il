@@ -1,4 +1,0 @@
-var BestiaryPortraitBackgroundBasedOnWorldEvilProviderPreferenceInfoElement_8cs =
-[
-    [ "Terraria.GameContent.Bestiary.BestiaryPortraitBackgroundBasedOnWorldEvilProviderPreferenceInfoElement", "d1/dda/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryPortraitBackgroundBasedOnWorldEvilProviderPreferenceInfoElement.html", "d1/dda/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryPortraitBackgroundBasedOnWorldEvilProviderPreferenceInfoElement" ]
-];

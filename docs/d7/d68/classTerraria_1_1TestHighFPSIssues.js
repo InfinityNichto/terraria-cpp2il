@@ -1,6 +1,7 @@
 var classTerraria_1_1TestHighFPSIssues =
 [
     [ "TestHighFPSIssues", "d7/d68/classTerraria_1_1TestHighFPSIssues_af147ce40b6369ba2ee4578a46e552c9c.html#af147ce40b6369ba2ee4578a46e552c9c", null ],
+    [ "TestHighFPSIssues", "d7/d68/classTerraria_1_1TestHighFPSIssues_a6e7a1bf3337126408b7c41f5cd25b3e3.html#a6e7a1bf3337126408b7c41f5cd25b3e3", null ],
     [ "TapDraw", "d7/d68/classTerraria_1_1TestHighFPSIssues_a07ebe3e129bd3cd03d120fc93c111b2c.html#a07ebe3e129bd3cd03d120fc93c111b2c", null ],
     [ "TapUpdate", "d7/d68/classTerraria_1_1TestHighFPSIssues_acb6023dff4ba6db2a568ebea692fd0eb.html#acb6023dff4ba6db2a568ebea692fd0eb", null ],
     [ "TapUpdateEnd", "d7/d68/classTerraria_1_1TestHighFPSIssues_a3fe58e58a06da401bb9fa69d8606eaee.html#a3fe58e58a06da401bb9fa69d8606eaee", null ],

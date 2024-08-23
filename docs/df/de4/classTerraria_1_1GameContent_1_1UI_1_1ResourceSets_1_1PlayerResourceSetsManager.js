@@ -15,5 +15,6 @@ var classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1PlayerResourceSetsMana
     [ "_activeSetConfigKey", "df/de4/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1PlayerResourceSetsManager_a6bb1ff8a322ab65fff8448f2e7ee6eb9.html#a6bb1ff8a322ab65fff8448f2e7ee6eb9", null ],
     [ "_loadedContent", "df/de4/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1PlayerResourceSetsManager_a6c219be70fd47109f77a38f40d1f8c16.html#a6c219be70fd47109f77a38f40d1f8c16", null ],
     [ "_sets", "df/de4/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1PlayerResourceSetsManager_ac2edf94ad8de24bea4478bab3dc7308a.html#ac2edf94ad8de24bea4478bab3dc7308a", null ],
+    [ "k__BackingField", "df/de4/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1PlayerResourceSetsManager_a64c3930e658d4f61ae394cd7bab0c555.html#a64c3930e658d4f61ae394cd7bab0c555", null ],
     [ "ActiveSetKeyName", "df/de4/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1PlayerResourceSetsManager_a1b429f1b971bb79f196f8c229e1357ef.html#a1b429f1b971bb79f196f8c229e1357ef", null ]
 ];

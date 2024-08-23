@@ -193,14 +193,15 @@ var sectionId = 'dynsection-0';
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="../../d0/d07/classIDisposable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="155,-1033 87,-1033 87,-984 155,-984 155,-1033"/>
+<g id="a_Node000003"><a xlink:href="../../d6/d32/interfaceSystem_1_1IDisposable.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="167,-1033 75,-1033 75,-984 167,-984 167,-1033"/>
 <text text-anchor="start" x="92" y="-1020.5" font-family="Helvetica,sans-Serif" font-size="10.00">IDisposable</text>
 <text text-anchor="start" x="119" y="-1005.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="119" y="-990.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="87,-1015.5 87,-1015.5 155,-1015.5 155,-1015.5 87,-1015.5"/>
-<polygon fill="#666666" stroke="#666666" points="87,-1000.5 87,-1000.5 155,-1000.5 155,-1000.5 87,-1000.5"/>
-<polygon fill="none" stroke="#666666" points="87,-984 87,-1033 155,-1033 155,-984 87,-984"/>
+<text text-anchor="start" x="79" y="-990.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="92" y="-990.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Dispose()</text>
+<polygon fill="#666666" stroke="#666666" points="75,-1015.5 75,-1015.5 167,-1015.5 167,-1015.5 75,-1015.5"/>
+<polygon fill="#666666" stroke="#666666" points="75,-1000.5 75,-1000.5 167,-1000.5 167,-1000.5 75,-1000.5"/>
+<polygon fill="none" stroke="#666666" points="75,-984 75,-1033 167,-1033 167,-984 75,-984"/>
 </a>
 </g>
 </g>

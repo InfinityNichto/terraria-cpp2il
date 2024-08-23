@@ -1,0 +1,9 @@
+<map id="Mono.Security.Protocol.Ntlm.MessageBase" name="Mono.Security.Protocol.Ntlm.MessageBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,5,435,324"/>
+<area shape="rect" id="Node000002" href="$d3/d81/classMono_1_1Security_1_1Protocol_1_1Ntlm_1_1Type1Message.html" title=" " alt="" coords="5,511,208,706"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,337,222,373,154,512,149,510,218,371,236,335"/>
+<area shape="rect" id="Node000003" href="$d2/d71/classMono_1_1Security_1_1Protocol_1_1Ntlm_1_1Type2Message.html" title=" " alt="" coords="232,474,435,743"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="336,338,336,474,331,474,331,338"/>
+<area shape="rect" id="Node000004" href="$d8/dc7/classMono_1_1Security_1_1Protocol_1_1Ntlm_1_1Type3Message.html" title=" " alt="" coords="459,372,685,845"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="430,335,449,371,461,394,457,396,444,373,425,338"/>
+</map>

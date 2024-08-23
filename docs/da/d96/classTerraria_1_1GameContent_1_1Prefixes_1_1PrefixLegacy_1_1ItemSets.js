@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1ItemSets =
 [
     [ "ItemSets", "da/d96/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1ItemSets_a28f8026cc3736a07b28bb7c4c85e2b6a.html#a28f8026cc3736a07b28bb7c4c85e2b6a", null ],
+    [ "ItemSets", "da/d96/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1ItemSets_ab167541eee5b481449a4896abe8813fc.html#ab167541eee5b481449a4896abe8813fc", null ],
     [ "BoomerangsChakrams", "da/d96/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1ItemSets_a96b264dfe0476a631404f7c8e2dd67c3.html#a96b264dfe0476a631404f7c8e2dd67c3", null ],
     [ "Factory", "da/d96/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1ItemSets_a449e6feef5ab862514beb9527edae689.html#a449e6feef5ab862514beb9527edae689", null ],
     [ "GunsBows", "da/d96/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1ItemSets_a1f34a1bf092a9da799345bbed910a2a8.html#a1f34a1bf092a9da799345bbed910a2a8", null ],

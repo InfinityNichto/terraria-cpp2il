@@ -11,10 +11,10 @@
 <!-- Node0 -->
 <g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_Node000000"><a xlink:href="d4/d00/classAssets_1_1Scripts_1_1TerrariaStatics_1_1Sandstorm.html" target="_top" xlink:title=" ">
+<g id="a_Node000000"><a xlink:href="db/dbb/classAssets_1_1Scripts_1_1TerrariaStatics_1_1ScreenObstruction.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="161,-30 0,-30 0,0 161,0 161,-30"/>
 <text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Assets.Scripts.TerrariaStatics.</text>
-<text text-anchor="middle" x="80.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Sandstorm</text>
+<text text-anchor="middle" x="80.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">ScreenObstruction</text>
 </a>
 </g>
 </g>

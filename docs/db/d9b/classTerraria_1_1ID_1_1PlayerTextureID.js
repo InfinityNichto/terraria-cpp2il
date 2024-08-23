@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1PlayerTextureID =
 [
+    [ "PlayerTextureID", "db/d9b/classTerraria_1_1ID_1_1PlayerTextureID_a3c7ce721964483acf7bb9d5e07681d23.html#a3c7ce721964483acf7bb9d5e07681d23", null ],
     [ "ArmHand", "db/d9b/classTerraria_1_1ID_1_1PlayerTextureID_aa75125d7624b330893eb84eac6360b9d.html#aa75125d7624b330893eb84eac6360b9d", null ],
     [ "ArmShirt", "db/d9b/classTerraria_1_1ID_1_1PlayerTextureID_a8bffcd4c00e167c2bdab368442153be7.html#a8bffcd4c00e167c2bdab368442153be7", null ],
     [ "ArmSkin", "db/d9b/classTerraria_1_1ID_1_1PlayerTextureID_a338600b2cb601541014645a502825ba2.html#a338600b2cb601541014645a502825ba2", null ],

@@ -1,7 +1,7 @@
 <map id="GUISliderSetting" name="GUISliderSetting">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,263,243,696"/>
-<area shape="rect" id="Node000003" href="$d6/d50/classGUIJourneySliderSetting.html" title=" " alt="" coords="17,744,239,1125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,710,131,744,125,744,125,710"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,263,243,725"/>
+<area shape="rect" id="Node000003" href="$d6/d50/classGUIJourneySliderSetting.html" title=" " alt="" coords="11,773,245,1175"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,739,131,773,125,773,125,739"/>
 <area shape="rect" id="Node000002" href="$d9/dcf/classGUISettingEntry.html" title=" " alt="" coords="5,5,251,215"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,228,131,263,125,263,125,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,229,131,263,125,263,125,229"/>
 </map>

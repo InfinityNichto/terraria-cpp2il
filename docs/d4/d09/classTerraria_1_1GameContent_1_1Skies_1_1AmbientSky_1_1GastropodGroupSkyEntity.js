@@ -2,7 +2,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1GastropodGroupSkyEnti
 [
     [ "GastropodGroupSkyEntity", "d4/d09/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1GastropodGroupSkyEntity_a70256679f9310a10d6e1359d1de6ada5.html#a70256679f9310a10d6e1359d1de6ada5", null ],
     [ "CommonDraw", "d4/d09/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1GastropodGroupSkyEntity.html#a2e0c86acfa2ceaf743e5cc41336bf003", null ],
-    [ "CreateGroup", "d4/d09/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1GastropodGroupSkyEntity_a29aaae33ba31dcc1efd105e5e0d25fc2.html#a29aaae33ba31dcc1efd105e5e0d25fc2", null ],
+    [ "CreateGroup", "d4/d09/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1GastropodGroupSkyEntity_aa902326f9d6af911ba76355c50b4694a.html#aa902326f9d6af911ba76355c50b4694a", null ],
     [ "Draw", "d4/d09/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1GastropodGroupSkyEntity_a0b42c625270287d052680c7cae8e99e5.html#a0b42c625270287d052680c7cae8e99e5", null ],
     [ "GetColor", "d4/d09/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1GastropodGroupSkyEntity_a30bc96e189364c5a405cd4e62b9a8e1c.html#a30bc96e189364c5a405cd4e62b9a8e1c", null ],
     [ "GetDrawPosition", "d4/d09/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1GastropodGroupSkyEntity.html#a6344e087faa7eea6e427cc9b0ab94bfd", null ],

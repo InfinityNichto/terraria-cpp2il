@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 245;
+var viewWidth = 253;
 var viewHeight = 558;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,32 +58,32 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="231,-205 56,-205 56,0 231,0 231,-205"/>
-<text text-anchor="start" x="80.5" y="-192.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep_04_CraftDoor</text>
-<text text-anchor="start" x="121.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">AndChair</text>
-<text text-anchor="start" x="142" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="60.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="73.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="73.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
-<text text-anchor="start" x="60.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="73.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
-<text text-anchor="start" x="73.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
-<text text-anchor="start" x="60.5" y="-99.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="73.5" y="-99.5" font-family="Helvetica,sans-Serif" font-size="10.00">override void Reset()</text>
-<text text-anchor="start" x="60.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="73.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">override void OnGuideDialogue</text>
-<text text-anchor="start" x="73.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">Open()</text>
-<text text-anchor="start" x="60.5" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="73.5" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">override void OnItemPlaced</text>
-<text text-anchor="start" x="73.5" y="-47.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int itemId, int tileId)</text>
-<text text-anchor="start" x="60.5" y="-32.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="73.5" y="-32.5" font-family="Helvetica,sans-Serif" font-size="10.00">override bool Update()</text>
-<text text-anchor="start" x="60.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="73.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep_04_CraftDoor</text>
-<text text-anchor="start" x="73.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">AndChair()</text>
-<polygon fill="#666666" stroke="#666666" points="56.5,-176.5 56.5,-176.5 231.5,-176.5 231.5,-176.5 56.5,-176.5"/>
-<polygon fill="#666666" stroke="#666666" points="56.5,-161.5 56.5,-161.5 231.5,-161.5 231.5,-161.5 56.5,-161.5"/>
-<polygon fill="none" stroke="#666666" points="56,0 56,-205 231,-205 231,0 56,0"/>
+<polygon fill="#999999" stroke="transparent" points="236,-205 61,-205 61,0 236,0 236,-205"/>
+<text text-anchor="start" x="85.5" y="-192.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep_04_CraftDoor</text>
+<text text-anchor="start" x="126.5" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">AndChair</text>
+<text text-anchor="start" x="147" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="65.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="78.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="78.5" y="-140.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
+<text text-anchor="start" x="65.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="78.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
+<text text-anchor="start" x="78.5" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
+<text text-anchor="start" x="65.5" y="-99.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="78.5" y="-99.5" font-family="Helvetica,sans-Serif" font-size="10.00">override void Reset()</text>
+<text text-anchor="start" x="65.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="78.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">override void OnGuideDialogue</text>
+<text text-anchor="start" x="78.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">Open()</text>
+<text text-anchor="start" x="65.5" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="78.5" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">override void OnItemPlaced</text>
+<text text-anchor="start" x="78.5" y="-47.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int itemId, int tileId)</text>
+<text text-anchor="start" x="65.5" y="-32.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="78.5" y="-32.5" font-family="Helvetica,sans-Serif" font-size="10.00">override bool Update()</text>
+<text text-anchor="start" x="65.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="78.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep_04_CraftDoor</text>
+<text text-anchor="start" x="78.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">AndChair()</text>
+<polygon fill="#666666" stroke="#666666" points="61.5,-176.5 61.5,-176.5 236.5,-176.5 236.5,-176.5 61.5,-176.5"/>
+<polygon fill="#666666" stroke="#666666" points="61.5,-161.5 61.5,-161.5 236.5,-161.5 236.5,-161.5 61.5,-161.5"/>
+<polygon fill="none" stroke="#666666" points="61,0 61,-205 236,-205 236,0 61,0"/>
 </a>
 </g>
 </g>
@@ -91,9 +91,9 @@ var sectionId = 'dynsection-1';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d9/d7b/classTutorialStep.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="169,-550 0,-550 0,-285 169,-285 169,-550"/>
-<text text-anchor="start" x="56" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep</text>
-<text text-anchor="start" x="83" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="transparent" points="175,-550 0,-550 0,-285 175,-285 175,-550"/>
+<text text-anchor="start" x="59" y="-537.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep</text>
+<text text-anchor="start" x="86" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <text text-anchor="start" x="4.5" y="-507.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-507.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Reset()</text>
 <text text-anchor="start" x="4.5" y="-492.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -101,8 +101,8 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="4.5" y="-477.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-477.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual bool Update()</text>
 <text text-anchor="start" x="4.5" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual GuideOverLoadState</text>
-<text text-anchor="start" x="17.5" y="-451.5" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="17.5" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual TutorialStep.Guide</text>
+<text text-anchor="start" x="17.5" y="-451.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="4.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-436.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual string GetGuideString()</text>
 <text text-anchor="start" x="4.5" y="-421.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -122,9 +122,9 @@ var sectionId = 'dynsection-1';
 <text text-anchor="start" x="4.5" y="-302.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="17.5" y="-302.5" font-family="Helvetica,sans-Serif" font-size="10.00">void GiveItem(short</text>
 <text text-anchor="start" x="17.5" y="-291.5" font-family="Helvetica,sans-Serif" font-size="10.00"> item, int stackCount)</text>
-<polygon fill="#666666" stroke="#666666" points="0.5,-532.5 0.5,-532.5 169.5,-532.5 169.5,-532.5 0.5,-532.5"/>
-<polygon fill="#666666" stroke="#666666" points="0.5,-517.5 0.5,-517.5 169.5,-517.5 169.5,-517.5 0.5,-517.5"/>
-<polygon fill="none" stroke="#666666" points="0,-285 0,-550 169,-550 169,-285 0,-285"/>
+<polygon fill="#666666" stroke="#666666" points="0.5,-532.5 0.5,-532.5 175.5,-532.5 175.5,-532.5 0.5,-532.5"/>
+<polygon fill="#666666" stroke="#666666" points="0.5,-517.5 0.5,-517.5 175.5,-517.5 175.5,-517.5 0.5,-517.5"/>
+<polygon fill="none" stroke="#666666" points="0,-285 0,-550 175,-550 175,-285 0,-285"/>
 </a>
 </g>
 </g>
@@ -132,8 +132,8 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M111.24,-274.67C115.65,-251.25 120.15,-227.4 124.33,-205.22"/>
-<polygon fill="none" stroke="#63b8ff" points="107.76,-274.19 109.35,-284.67 114.64,-275.49 107.76,-274.19"/>
+<path fill="none" stroke="#63b8ff" d="M115.14,-274.67C119.7,-251.25 124.35,-227.4 128.68,-205.22"/>
+<polygon fill="none" stroke="#63b8ff" points="111.67,-274.18 113.19,-284.67 118.54,-275.52 111.67,-274.18"/>
 </a>
 </g>
 </g>
@@ -141,13 +141,13 @@ var sectionId = 'dynsection-1';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="218.5,-442 186.5,-442 186.5,-393 218.5,-393 218.5,-442"/>
-<text text-anchor="start" x="191.5" y="-429.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool</text>
-<text text-anchor="start" x="200.5" y="-414.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="200.5" y="-399.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="186.5,-424.5 186.5,-424.5 218.5,-424.5 218.5,-424.5 186.5,-424.5"/>
-<polygon fill="#666666" stroke="#666666" points="186.5,-409.5 186.5,-409.5 218.5,-409.5 218.5,-409.5 186.5,-409.5"/>
-<polygon fill="none" stroke="#666666" points="186.5,-393 186.5,-442 218.5,-442 218.5,-393 186.5,-393"/>
+<polygon fill="white" stroke="transparent" points="225.5,-442 193.5,-442 193.5,-393 225.5,-393 225.5,-442"/>
+<text text-anchor="start" x="198.5" y="-429.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool</text>
+<text text-anchor="start" x="207.5" y="-414.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="207.5" y="-399.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#666666" stroke="#666666" points="193.5,-424.5 193.5,-424.5 225.5,-424.5 225.5,-424.5 193.5,-424.5"/>
+<polygon fill="#666666" stroke="#666666" points="193.5,-409.5 193.5,-409.5 225.5,-409.5 225.5,-409.5 193.5,-409.5"/>
+<polygon fill="none" stroke="#666666" points="193.5,-393 193.5,-442 225.5,-442 225.5,-393 193.5,-393"/>
 </a>
 </g>
 </g>
@@ -155,14 +155,14 @@ var sectionId = 'dynsection-1';
 <g id="edge2_Node000001_Node000003" class="edge">
 <title>Node3&#45;&gt;Node1</title>
 <g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M198.07,-392.97C191.06,-355.83 177,-281.23 164.91,-217.07"/>
-<polygon fill="none" stroke="#63b8ff" points="164.9,-217.01 159.85,-211.86 162.67,-205.22 167.72,-210.37 164.9,-217.01"/>
+<path fill="none" stroke="#63b8ff" d="M205.04,-392.73C200.08,-366.39 191.81,-322.64 184.5,-285 180.24,-263.08 175.64,-239.68 171.2,-217.23"/>
+<polygon fill="none" stroke="#63b8ff" points="171.16,-217 166.07,-211.89 168.82,-205.23 173.91,-210.33 171.16,-217"/>
 </a>
 </g>
-<text text-anchor="middle" x="204.5" y="-259" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &#45;chairPlaced</text>
-<text text-anchor="middle" x="204.5" y="-248" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;complete</text>
-<text text-anchor="middle" x="204.5" y="-237" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;doorPlaced</text>
-<text text-anchor="middle" x="204.5" y="-226" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;tablePlaced</text>
+<text text-anchor="middle" x="212.5" y="-259" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &#45;chairPlaced</text>
+<text text-anchor="middle" x="212.5" y="-248" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;complete</text>
+<text text-anchor="middle" x="212.5" y="-237" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;doorPlaced</text>
+<text text-anchor="middle" x="212.5" y="-226" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;tablePlaced</text>
 </g>
 </g>
 </svg>

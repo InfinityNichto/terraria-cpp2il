@@ -12,5 +12,7 @@ var Terraria_2WorldGen_8cs =
     [ "Terraria.WorldGen.GrowTreeSettings", "dd/dc3/structTerraria_1_1WorldGen_1_1GrowTreeSettings.html", "dd/dc3/structTerraria_1_1WorldGen_1_1GrowTreeSettings" ],
     [ "Terraria.WorldGen.GrowTreeSettings.Profiles", "d6/d5c/classTerraria_1_1WorldGen_1_1GrowTreeSettings_1_1Profiles.html", "d6/d5c/classTerraria_1_1WorldGen_1_1GrowTreeSettings_1_1Profiles" ],
     [ "Terraria.WorldGen.CheckTreeSettings", "d0/db2/structTerraria_1_1WorldGen_1_1CheckTreeSettings.html", "d0/db2/structTerraria_1_1WorldGen_1_1CheckTreeSettings" ],
-    [ "Terraria.WorldGen.TileMergeCullCache", "dc/d2d/structTerraria_1_1WorldGen_1_1TileMergeCullCache.html", "dc/d2d/structTerraria_1_1WorldGen_1_1TileMergeCullCache" ]
+    [ "Terraria.WorldGen.TileMergeCullCache", "dc/d2d/structTerraria_1_1WorldGen_1_1TileMergeCullCache.html", "dc/d2d/structTerraria_1_1WorldGen_1_1TileMergeCullCache" ],
+    [ "Terraria.WorldGen.c__DisplayClass277_0", "d3/dfc/structTerraria_1_1WorldGen_1_1c____DisplayClass277__0.html", "d3/dfc/structTerraria_1_1WorldGen_1_1c____DisplayClass277__0" ],
+    [ "Terraria.WorldGen.c__DisplayClass277_2", "da/dfb/structTerraria_1_1WorldGen_1_1c____DisplayClass277__2.html", "da/dfb/structTerraria_1_1WorldGen_1_1c____DisplayClass277__2" ]
 ];

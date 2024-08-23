@@ -1,9 +1,0 @@
-<map id="XBOMultiplayerSessionManager" name="XBOMultiplayerSessionManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="43,221,267,376"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,84,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,71,53,131,61,164,72,196,77,206,73,208,68,198,56,166,48,132,42,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="133,5,177,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,71,158,205,153,205,153,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="265,5,307,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="288,71,281,132,272,166,259,199,253,209,248,206,254,196,267,164,276,131,283,71"/>
-</map>

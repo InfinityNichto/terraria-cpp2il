@@ -17,5 +17,5 @@ var classTerraria_1_1GameContent_1_1Bestiary_1_1NPCStatsReportInfoElement =
     [ "LifeMax", "d4/dbf/classTerraria_1_1GameContent_1_1Bestiary_1_1NPCStatsReportInfoElement_a2457c49847d257746a62a652a6dcfb78.html#a2457c49847d257746a62a652a6dcfb78", null ],
     [ "MonetaryValue", "d4/dbf/classTerraria_1_1GameContent_1_1Bestiary_1_1NPCStatsReportInfoElement_a34a75407dd9296c83c72a30e727ea195.html#a34a75407dd9296c83c72a30e727ea195", null ],
     [ "NpcId", "d4/dbf/classTerraria_1_1GameContent_1_1Bestiary_1_1NPCStatsReportInfoElement_ade671de9e8828b7b15b51e8a0a93b28c.html#ade671de9e8828b7b15b51e8a0a93b28c", null ],
-    [ "OnRefreshStats", "d4/dbf/classTerraria_1_1GameContent_1_1Bestiary_1_1NPCStatsReportInfoElement_a73f760c90ee0e4946d9c86e2c1cfe256.html#a73f760c90ee0e4946d9c86e2c1cfe256", null ]
+    [ "OnRefreshStats", "d4/dbf/classTerraria_1_1GameContent_1_1Bestiary_1_1NPCStatsReportInfoElement_ab796d45599cc7a97ad0c164e18172ce9.html#ab796d45599cc7a97ad0c164e18172ce9", null ]
 ];

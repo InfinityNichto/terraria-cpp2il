@@ -1,0 +1,122 @@
+<map id="source/Assembly&#45;CSharp" name="source/Assembly&#45;CSharp">
+<area shape="rect" id="node4" href="dir_f354ac840799f99926eea5f33f8c4208.html" title="TerrariaStatics" alt="" coords="12476,105,12591,131"/>
+<area shape="rect" id="node5" href="dir_354910c85141cc6a4d0a7d19049bdb3f.html" title="Controller" alt="" coords="507,105,594,131"/>
+<area shape="rect" id="node7" href="dir_c758b2f08f052068e5f26213e79c6de4.html" title="CallAnalysis" alt="" coords="12109,105,12211,131"/>
+<area shape="rect" id="node8" href="dir_c27ed7e3aacc7b82dd23db24c760dc9c.html" title="Extensions" alt="" coords="389,105,483,131"/>
+<area shape="rect" id="node12" href="dir_2537cc09166067522695679056097373.html" title="Audio" alt="" coords="11631,105,11689,131"/>
+<area shape="rect" id="node13" href="dir_442909f514e5dea710ed768e6072fe0c.html" title="Content" alt="" coords="11533,105,11606,131"/>
+<area shape="rect" id="node15" href="dir_5d4e8fc3847b43c71ff9e07ac41657e0.html" title="PackedVector" alt="" coords="11833,105,11941,131"/>
+<area shape="rect" id="node16" href="dir_d5c4644c1e7fea5c06064c1846bb87e2.html" title="Input" alt="" coords="11454,105,11509,131"/>
+<area shape="rect" id="node18" href="dir_ea0f61b3245f046e68ef94469031044b.html" title="OpenGL" alt="" coords="11049,105,11122,131"/>
+<area shape="rect" id="node19" href="dir_efde466d257b170aeb70bfa850a8e5ad.html" title="Properties" alt="" coords="277,105,365,131"/>
+<area shape="rect" id="node20" href="dir_3338f26b8744d8abbc1eede01bcd1d87.html" title="PS4Keyboard" alt="" coords="147,105,253,131"/>
+<area shape="rect" id="node23" href="dir_7677375fc4ff68227659b23ad17fb5aa.html" title="Readers" alt="" coords="10832,105,10907,131"/>
+<area shape="rect" id="node24" href="dir_202a14a69c6e7cf5f3e1d6ca11494440.html" title="Sources" alt="" coords="10734,105,10807,131"/>
+<area shape="rect" id="node25" href="dir_11fe35ccfc34b41c94c165fd5342daa8.html" title="Graphics" alt="" coords="9803,105,9882,131"/>
+<area shape="rect" id="node26" href="dir_8aa85744e00789a0f04215ee3e998514.html" title="IO" alt="" coords="9741,105,9779,131"/>
+<area shape="rect" id="node29" href="dir_acc142d27a2c09a8a80379108c0b3b27.html" title="Windows" alt="" coords="10538,105,10619,131"/>
+<area shape="rect" id="node31" href="dir_76b3e87353f9266c56546505e8e5fba9.html" title="Base" alt="" coords="10263,105,10318,131"/>
+<area shape="rect" id="node32" href="dir_5cc5cf89fe900ecbc1d41c2e122104ff.html" title="Linux" alt="" coords="10182,105,10239,131"/>
+<area shape="rect" id="node33" href="dir_5f08f8cd55366434e16a60d95dd226a6.html" title="OSX" alt="" coords="10109,105,10158,131"/>
+<area shape="rect" id="node34" href="dir_d2d129bb82bac005f129a12da5b1c974.html" title="Windows" alt="" coords="10003,105,10085,131"/>
+<area shape="rect" id="node35" href="dir_3331929b27486a8928ad8a57fa89eb80.html" title="Reflection" alt="" coords="9630,105,9717,131"/>
+<area shape="rect" id="node36" href="dir_609d3524887dd4677e988726e91b890e.html" title="Text" alt="" coords="9557,105,9606,131"/>
+<area shape="rect" id="node37" href="dir_c41342011ffad223e3a551a620547cf2.html" title="Threading" alt="" coords="9446,105,9533,131"/>
+<area shape="rect" id="node38" href="dir_f44f42588ca6cb62c5dbab81a2914e8a.html" title="Utilities" alt="" coords="9349,105,9422,131"/>
+<area shape="rect" id="node39" href="dir_d7760922f9881fb05779f02203e86602.html" title="Telepathy" alt="" coords="37,105,123,131"/>
+<area shape="rect" id="node41" href="dir_d8ba625ce7748d5e825da4b7932b9765.html" title="Achievements" alt="" coords="2779,105,2893,131"/>
+<area shape="rect" id="node42" href="dir_42a063500078bb2289e6b44c62423793.html" title="Audio" alt="" coords="2696,105,2755,131"/>
+<area shape="rect" id="node44" href="dir_10e28c4bc61e5db83537b62ced80854e.html" title="Commands" alt="" coords="9132,105,9228,131"/>
+<area shape="rect" id="node45" href="dir_4b46ff4f86a63b42e23d6f591acffde6.html" title="Cinematics" alt="" coords="2577,105,2671,131"/>
+<area shape="rect" id="node46" href="dir_0a41468f057879cf3b6a72e03d0a4524.html" title="DataStructures" alt="" coords="2434,105,2553,131"/>
+<area shape="rect" id="node47" href="dir_41260a0fde33ec57a12ec8745350fb04.html" title="Enums" alt="" coords="2343,105,2409,131"/>
+<area shape="rect" id="node49" href="dir_399d62b46e86a19a176940c138f13021.html" title="Achievements" alt="" coords="7207,105,7321,131"/>
+<area shape="rect" id="node50" href="dir_7563c9996827ee28e9a4f005df3da029.html" title="Ambience" alt="" coords="7095,105,7182,131"/>
+<area shape="rect" id="node51" href="dir_8d37ff26ea906169e192698f39ea4563.html" title="Animations" alt="" coords="6975,105,7071,131"/>
+<area shape="rect" id="node52" href="dir_7402fbce0c6105b13f638ada820dad2c.html" title="Bestiary" alt="" coords="6874,105,6950,131"/>
+<area shape="rect" id="node54" href="dir_f523d96fc0d94798f84b481cd4a0f36d.html" title="CaveHouse" alt="" coords="8897,105,8993,131"/>
+<area shape="rect" id="node55" href="dir_491d49ccd7307f4c62a40e77c08a2936.html" title="Desert" alt="" coords="8807,105,8873,131"/>
+<area shape="rect" id="node56" href="dir_041b8f4d0c0ef7e23e83b124e878072b.html" title="Creative" alt="" coords="6772,105,6849,131"/>
+<area shape="rect" id="node57" href="dir_d46730a8d53d290cb97baac34b5fd8af.html" title="Drawing" alt="" coords="6671,105,6747,131"/>
+<area shape="rect" id="node58" href="dir_469bf6cb12759fb985aeec8bd8f316af.html" title="Dyes" alt="" coords="6593,105,6647,131"/>
+<area shape="rect" id="node59" href="dir_80c2d812fb2626eccc2a2d05dee7c01c.html" title="Events" alt="" coords="6501,105,6568,131"/>
+<area shape="rect" id="node60" href="dir_92844f84bf7685c394d461d895f7f335.html" title="Generation" alt="" coords="6382,105,6477,131"/>
+<area shape="rect" id="node61" href="dir_fc34a87ffbd392b56274e20945dd2a7e.html" title="Golf" alt="" coords="6309,105,6358,131"/>
+<area shape="rect" id="node62" href="dir_97ce5c794487cc2ce01acb991fb9d374.html" title="ItemDropRules" alt="" coords="6166,105,6285,131"/>
+<area shape="rect" id="node63" href="dir_fba0b40420cbc14e7c589ecf110eb977.html" title="Items" alt="" coords="6083,105,6141,131"/>
+<area shape="rect" id="node64" href="dir_26e4d24023fcf554ba287100700cf949.html" title="Liquid" alt="" coords="5997,105,6059,131"/>
+<area shape="rect" id="node66" href="dir_473195913b06eed353f4ea0b794e3ec9.html" title="LootSimulatorConditionSetter\lTypes" alt="" coords="8415,98,8630,138"/>
+<area shape="rect" id="node67" href="dir_9649dc2e2273ff02c4cff498405e614a.html" title="Metadata" alt="" coords="5889,105,5973,131"/>
+<area shape="rect" id="node68" href="dir_cb84cbec5372a87389ed7f391523a881.html" title="NetModules" alt="" coords="5765,105,5865,131"/>
+<area shape="rect" id="node69" href="dir_1704254036f3a756700521f595a0ca76.html" title="ObjectInteractions" alt="" coords="5599,105,5740,131"/>
+<area shape="rect" id="node70" href="dir_a45e7d8b25e6699dad9b932e409c4276.html" title="Personalities" alt="" coords="5468,105,5575,131"/>
+<area shape="rect" id="node71" href="dir_881e9818f60c95231281a1832cc25f54.html" title="Prefixes" alt="" coords="5370,105,5443,131"/>
+<area shape="rect" id="node72" href="dir_a01c089ea5f621644c5959375f0c46b6.html" title="RGB" alt="" coords="5295,105,5345,131"/>
+<area shape="rect" id="node73" href="dir_32d23e21cfbf76bd06831a4a8a4f511a.html" title="Shaders" alt="" coords="5196,105,5271,131"/>
+<area shape="rect" id="node75" href="dir_fdc175a215f6a3257ad9ade55a2321d2.html" title="CreditsRoll" alt="" coords="8207,105,8300,131"/>
+<area shape="rect" id="node76" href="dir_50f5f997045c0c4985fecbaa0ea500b3.html" title="Tile_Entities" alt="" coords="5069,105,5171,131"/>
+<area shape="rect" id="node78" href="dir_b7c377ccc8521c03cd0c80148b82b0d7.html" title="BigProgressBar" alt="" coords="7990,105,8111,131"/>
+<area shape="rect" id="node79" href="dir_bfddf089656b9ee1d1fcd2d60276e96d.html" title="Chat" alt="" coords="7914,105,7966,131"/>
+<area shape="rect" id="node80" href="dir_cc262169c11b3fa6f9411b8fe6ff4d71.html" title="Elements" alt="" coords="7807,105,7889,131"/>
+<area shape="rect" id="node81" href="dir_4c05ad7c509ed17ee8d99d9cb887a4c2.html" title="Minimap" alt="" coords="7703,105,7782,131"/>
+<area shape="rect" id="node82" href="dir_7d962c3eac7e7cf2567fa17ecad9b08a.html" title="ResourceSets" alt="" coords="7569,105,7679,131"/>
+<area shape="rect" id="node83" href="dir_ba79cd9678661d752f6affc4a373072a.html" title="States" alt="" coords="7482,105,7545,131"/>
+<area shape="rect" id="node84" href="dir_ac21ec6fa1828ee461789231151290dc.html" title="GameInput" alt="" coords="2223,105,2318,131"/>
+<area shape="rect" id="node86" href="dir_ccce7dce2570a6e5a02d04e46c73eaf4.html" title="CameraModifiers" alt="" coords="4799,105,4932,131"/>
+<area shape="rect" id="node87" href="dir_5b4c21b55caf7e647fefcfdc63ddc7c0.html" title="Capture" alt="" coords="4701,105,4774,131"/>
+<area shape="rect" id="node88" href="dir_d3e935c7539651a4c9afd4af11db3e39.html" title="Effects" alt="" coords="4609,105,4676,131"/>
+<area shape="rect" id="node89" href="dir_38bf14daee76d6c4d4529c5f1f4060fb.html" title="Light" alt="" coords="4530,105,4585,131"/>
+<area shape="rect" id="node90" href="dir_d3419084c43dbe3c9a868ef260b4f91f.html" title="Renderers" alt="" coords="4417,105,4505,131"/>
+<area shape="rect" id="node91" href="dir_e98beff4cbaceb9a698eb5950e95fd7f.html" title="Shaders" alt="" coords="4319,105,4393,131"/>
+<area shape="rect" id="node92" href="dir_734937e22b787874e1f83ae7322a7a38.html" title="ID" alt="" coords="2161,105,2199,131"/>
+<area shape="rect" id="node93" href="dir_cc270d7905e34059cb3b77e202a7c22f.html" title="Initializers" alt="" coords="2045,105,2136,131"/>
+<area shape="rect" id="node94" href="dir_6cd3dab45c4f94011b9473646b63c5ec.html" title="IO" alt="" coords="1982,105,2021,131"/>
+<area shape="rect" id="node95" href="dir_88d841eb8c044ca2c688d0216cc3dde9.html" title="Localization" alt="" coords="1858,105,1958,131"/>
+<area shape="rect" id="node96" href="dir_6a89321af7985c2516acf1130a457d11.html" title="Map" alt="" coords="1783,105,1833,131"/>
+<area shape="rect" id="node97" href="dir_9aff88aba574e1a388be5f3f838c95ef.html" title="Modules" alt="" coords="1681,105,1759,131"/>
+<area shape="rect" id="node99" href="dir_dedab28724dbf2e6f213b1f4509c2016.html" title="Sockets" alt="" coords="4145,105,4217,131"/>
+<area shape="rect" id="node100" href="dir_0f0a74f1bde9b469f3bbce3f78e582b4.html" title="ObjectData" alt="" coords="1562,105,1657,131"/>
+<area shape="rect" id="node101" href="dir_34d3c7d96b0ffd107a2c267598c2b9eb.html" title="Physics" alt="" coords="1467,105,1538,131"/>
+<area shape="rect" id="node102" href="dir_b7816d360de13b32b1bc67812e2392cc.html" title="Properties" alt="" coords="1355,105,1443,131"/>
+<area shape="rect" id="node103" href="dir_d1e034a58e5dfb059e22cff402f6508c.html" title="Server" alt="" coords="1267,105,1331,131"/>
+<area shape="rect" id="node105" href="dir_275297a3f62b420c7d98723883f8c5a3.html" title="Base" alt="" coords="3973,105,4027,131"/>
+<area shape="rect" id="node106" href="dir_79fdcf931797517222cf9b151c4c42fa.html" title="Discord" alt="" coords="3878,105,3949,131"/>
+<area shape="rect" id="node107" href="dir_a56c676d2d157f64098496d9eb4b65b1.html" title="iOS" alt="" coords="3810,105,3854,131"/>
+<area shape="rect" id="node108" href="dir_f5516d289eae6ea18bb4a2765a29758c.html" title="Steam" alt="" coords="3721,105,3785,131"/>
+<area shape="rect" id="node110" href="dir_f7fa4dafc06a28f881f21b05d21ad4c5.html" title="ChatCommands" alt="" coords="3470,105,3597,131"/>
+<area shape="rect" id="node112" href="dir_7bbe8ee23726acc65877707081d970d2.html" title="Chat" alt="" coords="3322,105,3374,131"/>
+<area shape="rect" id="node115" href="dir_d11d71ce1baa0ffbcefced51e028aeef.html" title="Utilities" alt="" coords="3110,105,3183,131"/>
+<area shape="rect" id="node116" href="dir_ff680b3785d0a8c75c378cc9b8243648.html" title="WorldBuilding" alt="" coords="1131,105,1243,131"/>
+<area shape="rect" id="node119" href="dir_98fa5b7046d9d60dd0ebf09159a0f4e5.html" title="CompilerServices" alt="" coords="861,105,997,131"/>
+<area shape="rect" id="clust4" href="dir_c1946878d0c0c4af50a512ba587a84bc.html" alt="" coords="12465,95,12692,141"/>
+<area shape="rect" id="clust3" href="dir_4d8d369cdd12fdd18e6f33673307a65a.html" alt="" coords="12375,84,12703,152"/>
+<area shape="rect" id="clust5" href="dir_f22de8b9b50dff615ae8c963a47b6caa.html" alt="" coords="12097,95,12364,141"/>
+<area shape="rect" id="clust9" href="dir_bb73367471d509ed00a33426cc6d6f97.html" alt="" coords="11821,95,12055,141"/>
+<area shape="rect" id="clust8" href="dir_6a8dd20adb9f2e9c2706869978d22d48.html" alt="" coords="11443,84,12065,152"/>
+<area shape="rect" id="clust7" href="dir_ab2195b75ee7e74c10038f6f42c0bc9d.html" alt="" coords="11372,73,12076,163"/>
+<area shape="rect" id="clust6" href="dir_4f8bafb466eaeb171c37b6311a3c4ee8.html" alt="" coords="11265,63,12087,173"/>
+<area shape="rect" id="clust10" href="dir_57acce4aefc66fc8b4e013b75d7d7c42.html" alt="" coords="11037,95,11255,141"/>
+<area shape="rect" id="clust12" href="dir_14070dd3dbb7a5ba3e3eda4d23a92686.html" alt="" coords="10723,95,11016,141"/>
+<area shape="rect" id="clust14" href="dir_b6774a2f19d230367a0ec955ada40743.html" alt="" coords="10527,95,10701,141"/>
+<area shape="rect" id="clust13" href="dir_c445978e10ab669145334b298f3185d6.html" alt="" coords="10404,84,10712,152"/>
+<area shape="rect" id="clust15" href="dir_175c847ba34892c1a54c2ec938122795.html" alt="" coords="9992,95,10393,141"/>
+<area shape="rect" id="clust11" href="dir_4b3509b4eb059c33882dad68698c179e.html" alt="" coords="9337,73,11027,163"/>
+<area shape="rect" id="clust17" href="dir_2e067983d706d6a6573390d178239db5.html" alt="" coords="9121,95,9316,141"/>
+<area shape="rect" id="clust19" href="dir_e03fc6a59bfebc52f0bad5d11cdc3850.html" alt="" coords="8796,95,9100,141"/>
+<area shape="rect" id="clust20" href="dir_2da145ae0a55ec9857ebaf19968c9cbb.html" alt="" coords="8404,87,8785,149"/>
+<area shape="rect" id="clust21" href="dir_acf97fd23430dabd2f02b2d04383144d.html" alt="" coords="8196,95,8393,141"/>
+<area shape="rect" id="clust22" href="dir_569f72ab6288460ad5ce5a61624f2f4e.html" alt="" coords="7471,95,8185,141"/>
+<area shape="rect" id="clust18" href="dir_ae81b8c5a79c5cbca85e251cb8ea6219.html" alt="" coords="5057,77,9111,159"/>
+<area shape="rect" id="clust23" href="dir_118bd63be638d245a8132afb02989e4c.html" alt="" coords="4308,95,5047,141"/>
+<area shape="rect" id="clust24" href="dir_029e09d5b8d411c4371a97bb38c6363f.html" alt="" coords="4135,95,4297,141"/>
+<area shape="rect" id="clust25" href="dir_e5f0d6db4a45c47a01fcffc1e821f771.html" alt="" coords="3711,95,4124,141"/>
+<area shape="rect" id="clust26" href="dir_a7cc285dd6206c1636ab6e356d94ea59.html" alt="" coords="3459,95,3700,141"/>
+<area shape="rect" id="clust27" href="dir_eb26adde84f93f333bf6254dd9eeea6e.html" alt="" coords="3311,95,3448,141"/>
+<area shape="rect" id="clust29" href="dir_907ec11f95905273866ae023d65524c7.html" alt="" coords="3099,95,3289,141"/>
+<area shape="rect" id="clust28" href="dir_854cc986f274874af370c62ad7fc2b5c.html" alt="" coords="3001,84,3300,152"/>
+<area shape="rect" id="clust16" href="dir_da97c4bbd22c69322aa5e05a8a64256d.html" alt="" coords="1120,66,9327,170"/>
+<area shape="rect" id="clust31" href="dir_a8e74df979fb923dd8f2401b5437655c.html" alt="" coords="851,95,1099,141"/>
+<area shape="rect" id="clust30" href="dir_f2e9152f67d4b2d30c68740b149c939f.html" alt="" coords="768,84,1109,152"/>
+<area shape="rect" id="clust2" href="dir_878d4b4f67432d41e0421d9947fe4045.html" alt="" coords="27,52,12713,184"/>
+<area shape="rect" id="clust1" href="dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html" title="source" alt="" coords="16,16,12724,195"/>
+</map>

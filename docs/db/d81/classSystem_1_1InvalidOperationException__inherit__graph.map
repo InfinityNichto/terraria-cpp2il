@@ -1,0 +1,9 @@
+<map id="System.InvalidOperationException" name="System.InvalidOperationException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,119,524,332"/>
+<area shape="rect" id="Node000003" href="$de/d3b/classSystem_1_1Net_1_1ProtocolViolationException.html" title=" " alt="" coords="5,683,311,961"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,346,199,684,194,682,288,344"/>
+<area shape="rect" id="Node000004" href="$d2/d02/classSystem_1_1Net_1_1WebException.html" title=" " alt="" coords="335,380,645,1264"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,345,369,379,364,380,354,346"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="211,5,435,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,85,326,118,321,118,321,85"/>
+</map>

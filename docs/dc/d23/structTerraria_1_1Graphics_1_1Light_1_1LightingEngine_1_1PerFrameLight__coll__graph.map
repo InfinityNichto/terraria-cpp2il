@@ -1,17 +1,20 @@
 <map id="Terraria.Graphics.Light.LightingEngine.PerFrameLight" name="Terraria.Graphics.Light.LightingEngine.PerFrameLight">
-<area shape="rect" id="Node000001" title=" " alt="" coords="180,1444,388,1539"/>
-<area shape="rect" id="Node000002" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="9,650,215,894"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,893,272,1428,267,1429,138,895"/>
-<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="218,664,228,680,235,704,242,772,238,827,227,866,222,864,233,826,237,772,230,705,223,683,213,666"/>
-<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="5,5,152,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,84,109,650,104,650,78,84"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="177,5,207,71"/>
-<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="191,71,130,634,124,633,186,70"/>
-<area shape="rect" id="Node000005" href="$dc/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Vector3.html" title=" " alt="" coords="334,163,578,1381"/>
-<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="359,1383,342,1421,337,1432,332,1429,338,1419,354,1380"/>
-<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="581,668,590,685,598,708,605,772,601,824,589,862,584,860,595,823,599,772,593,710,586,687,576,671"/>
-<area shape="rect" id="Node000006" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="280,5,443,71"/>
-<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="370,84,380,162,375,163,364,84"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="467,5,509,71"/>
-<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="489,71,486,146,481,146,484,71"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,1557,385,1652"/>
+<area shape="rect" id="Node000002" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="5,761,212,1025"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,1024,268,1541,263,1542,138,1026"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="214,786,224,802,232,826,239,893,235,947,223,985,218,984,229,946,233,893,227,827,219,804,210,788"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="10,133,170,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,212,108,761,103,761,88,212"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="123,5,297,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,83,122,135,118,131,168,79"/>
+<area shape="rect" id="Node000007" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="250,133,413,199"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="252,79,303,131,299,135,248,83"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="195,133,225,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="208,199,132,745,127,744,203,199"/>
+<area shape="rect" id="Node000006" href="$dc/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Vector3.html" title=" " alt="" coords="331,291,575,1495"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="354,1496,338,1534,333,1545,328,1542,333,1532,349,1494"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="577,790,587,807,595,830,601,893,597,944,586,981,581,980,592,943,596,893,590,831,582,809,573,793"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="341,212,355,290,349,291,336,213"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="437,133,479,199"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="460,199,460,274,455,274,455,199"/>
 </map>

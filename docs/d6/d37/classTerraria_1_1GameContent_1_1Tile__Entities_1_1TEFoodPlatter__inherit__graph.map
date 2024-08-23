@@ -1,7 +1,7 @@
 <map id="Terraria.GameContent.Tile_Entities.TEFoodPlatter" name="Terraria.GameContent.Tile_Entities.TEFoodPlatter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="125,1520,356,2323"/>
-<area shape="rect" id="Node000002" href="$db/d56/classTerraria_1_1DataStructures_1_1TileEntity.html" title=" " alt="" coords="5,5,247,1472"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,1485,204,1519,199,1520,196,1486"/>
-<area shape="rect" id="Node000003" href="$db/dc7/interfaceTerraria_1_1DataStructures_1_1IFixLoadedData.html" title=" " alt="" coords="271,706,439,771"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="354,785,282,1520,277,1520,348,785"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,1540,356,2343"/>
+<area shape="rect" id="Node000002" href="$db/d56/classTerraria_1_1DataStructures_1_1TileEntity.html" title=" " alt="" coords="5,5,247,1492"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,1505,205,1539,199,1540,196,1506"/>
+<area shape="rect" id="Node000003" href="$db/dc7/interfaceTerraria_1_1DataStructures_1_1IFixLoadedData.html" title=" " alt="" coords="271,716,439,781"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="354,795,282,1540,277,1540,348,795"/>
 </map>

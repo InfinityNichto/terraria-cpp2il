@@ -1,25 +1,42 @@
 <map id="Terraria.GameContent.UI.Minimap.MinimapFrame.Button" name="Terraria.GameContent.UI.Minimap.MinimapFrame.Button">
-<area shape="rect" id="Node000001" title=" " alt="" coords="234,1792,514,2020"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="12,1209,55,1275"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,1275,15,1360,10,1416,8,1477,12,1542,22,1607,40,1670,69,1728,99,1766,136,1799,177,1827,220,1850,218,1855,175,1832,133,1804,95,1770,65,1731,35,1672,17,1608,6,1543,3,1478,5,1416,10,1359,24,1274"/>
-<area shape="rect" id="Node000003" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="80,755,324,1729"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,1729,336,1767,338,1775,333,1777,331,1769,321,1730"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="326,1158,336,1172,344,1191,350,1242,346,1283,336,1312,331,1311,341,1281,345,1242,339,1192,331,1174,322,1161"/>
-<area shape="rect" id="Node000004" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="56,470,219,535"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,549,162,754,157,755,139,550"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="243,470,286,535"/>
-<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="264,536,247,738,242,738,259,535"/>
-<area shape="rect" id="Node000006" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="453,1043,670,1441"/>
-<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="521,1442,486,1584,444,1730,428,1778,423,1776,439,1729,481,1583,516,1441"/>
-<area shape="rect" id="Node000007" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="453,328,670,677"/>
-<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="564,691,564,1042,559,1042,559,691"/>
-<area shape="rect" id="Node000008" href="$d1/d01/interfaceReLogic_1_1Content_1_1IAsset.html" title=" " alt="" coords="473,120,650,265"/>
-<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="564,279,564,328,559,328,559,279"/>
-<area shape="rect" id="Node000009" href="$d0/d07/classIDisposable.html" title=" " alt="" coords="406,5,496,71"/>
-<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="451,84,452,169,456,217,464,265,483,327,477,328,459,266,451,218,447,169,446,84"/>
-<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="484,80,512,118,507,121,480,83"/>
-<area shape="rect" id="Node000010" title=" " alt="" coords="675,160,864,225"/>
-<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="750,227,682,329,677,326,746,224"/>
-<area shape="rect" id="Node000011" title=" " alt="" coords="694,1209,749,1275"/>
-<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="731,1274,744,1360,749,1416,750,1478,745,1543,734,1608,715,1672,685,1731,654,1770,616,1804,574,1832,530,1855,527,1851,571,1828,612,1800,650,1767,681,1728,710,1670,729,1607,740,1542,744,1478,743,1416,739,1360,726,1275"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="624,2180,904,2408"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="31,114,73,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,180,23,315,12,402,8,491,8,1631,12,1689,25,1744,44,1796,71,1846,103,1893,140,1937,181,1979,226,2018,322,2088,422,2148,520,2197,610,2235,608,2240,518,2202,420,2152,319,2093,222,2022,177,1983,136,1941,99,1896,66,1849,40,1799,20,1746,7,1690,3,1631,3,491,7,402,18,314,42,179"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="43,459,186,525"/>
+<area shape="poly" id="edge17_Node000015_Node000002" title=" " alt="" coords="63,192,112,459,106,460,58,193"/>
+<area shape="rect" id="Node000003" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="770,1143,1014,2117"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="812,2118,804,2157,802,2165,797,2164,799,2155,807,2117"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="1017,1546,1027,1560,1034,1579,1041,1630,1037,1671,1026,1700,1021,1699,1032,1669,1035,1630,1029,1580,1022,1562,1012,1549"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="811,848,973,913"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="895,927,895,1142,889,1142,889,927"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="1389,459,1563,525"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1484,539,1483,573,1478,609,1465,645,1442,674,1412,684,1359,688,1214,689,1069,688,1016,691,987,698,969,713,953,730,928,770,911,812,901,849,895,847,906,810,923,768,949,727,965,709,984,694,1015,686,1069,683,1214,683,1359,683,1411,679,1438,670,1460,642,1473,608,1478,572,1478,539"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="997,848,1040,913"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="1016,914,980,1127,975,1126,1011,913"/>
+<area shape="rect" id="Node000007" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="529,1341,746,1919"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="658,1918,675,2038,703,2155,705,2164,700,2165,697,2157,670,2039,652,1919"/>
+<area shape="rect" id="Node000008" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="529,696,746,1065"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="640,1079,640,1341,635,1341,635,1079"/>
+<area shape="rect" id="Node000009" href="$d1/d01/interfaceReLogic_1_1Content_1_1IAsset.html" title=" " alt="" coords="274,419,451,565"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="424,574,531,725,526,728,419,577"/>
+<area shape="rect" id="Node000010" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="215,114,337,179"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="263,193,241,279,231,333,224,392,222,454,227,515,240,576,264,632,287,669,316,703,349,733,384,760,458,806,530,839,527,844,456,810,381,765,345,737,312,706,283,672,259,635,235,577,222,516,217,454,219,392,225,333,235,278,258,192"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="290,192,347,418,342,420,285,193"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="476,459,665,525"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="579,524,606,680,600,680,573,525"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="689,459,809,525"/>
+<area shape="poly" id="edge13_Node000008_Node000012" title=" " alt="" coords="743,526,698,681,693,680,738,524"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="724,114,775,179"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="752,193,752,459,747,459,747,193"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="834,459,982,525"/>
+<area shape="poly" id="edge15_Node000008_Node000014" title=" " alt="" coords="898,526,868,596,823,674,801,698,759,744,755,741,797,694,819,670,863,593,894,524"/>
+<area shape="poly" id="edge16_Node000008_Node000015" title=" " alt="" coords="104,526,94,558,88,596,91,635,96,654,105,671,143,716,189,755,240,787,295,812,352,833,408,848,513,867,512,873,407,853,350,838,293,817,238,791,186,759,139,720,100,673,91,656,85,636,83,596,89,557,99,524"/>
+<area shape="rect" id="Node000016" href="$de/d36/interfaceReLogic_1_1Content_1_1Sources_1_1IContentSource.html" title=" " alt="" coords="1007,351,1252,633"/>
+<area shape="poly" id="edge18_Node000008_Node000016" title=" " alt="" coords="1008,624,997,635,976,657,952,674,930,683,909,686,874,685,839,685,821,689,800,698,760,726,757,722,797,694,819,684,839,680,874,680,909,681,928,677,949,670,973,653,993,631,1005,620"/>
+<area shape="rect" id="Node000017" href="$de/d36/interfaceReLogic_1_1Content_1_1Sources_1_1IContentSource.html" title=" " alt="" coords="1007,5,1252,288"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="1132,302,1132,351,1127,351,1127,302"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1276,459,1364,525"/>
+<area shape="poly" id="edge20_Node000008_Node000018" title=" " alt="" coords="1319,526,1302,582,1287,611,1266,635,1244,651,1224,662,1185,670,1143,671,1092,675,1027,678,943,679,860,684,826,690,800,698,760,724,757,720,798,694,825,684,860,679,943,674,1027,673,1092,669,1143,665,1184,665,1222,657,1241,647,1262,631,1283,608,1297,580,1313,524"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1143,1597,1198,1663"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="1181,1662,1195,1748,1200,1805,1201,1867,1197,1932,1186,1998,1166,2061,1134,2119,1114,2145,1091,2168,1038,2207,980,2237,921,2260,919,2255,978,2232,1035,2202,1087,2164,1110,2141,1130,2116,1161,2059,1181,1997,1192,1932,1196,1867,1195,1805,1189,1749,1175,1663"/>
 </map>

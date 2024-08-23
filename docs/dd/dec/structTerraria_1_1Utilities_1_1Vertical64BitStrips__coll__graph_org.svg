@@ -16,7 +16,7 @@
 <text text-anchor="start" x="6" y="-104" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utilities.Vertical64</text>
 <text text-anchor="start" x="50" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00">BitStrips</text>
 <text text-anchor="start" x="4" y="-78" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17" y="-78" font-family="Helvetica,sans-Serif" font-size="10.00">Bits64 Item</text>
+<text text-anchor="start" x="17" y="-78" font-family="Helvetica,sans-Serif" font-size="10.00">Bits64 this[int x]</text>
 <text text-anchor="start" x="4" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00">Vertical64BitStrips</text>
 <text text-anchor="start" x="17" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">(int len)</text>
@@ -40,7 +40,7 @@
 <polygon fill="white" stroke="transparent" points="137.5,-264 4.5,-264 4.5,-163 137.5,-163 137.5,-264"/>
 <text text-anchor="start" x="15.5" y="-251.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utilities.Bits64</text>
 <text text-anchor="start" x="9" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="22" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Item</text>
+<text text-anchor="start" x="22" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool this[int i]</text>
 <text text-anchor="start" x="9" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="22" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsEmpty</text>
 <text text-anchor="start" x="9" y="-206.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -69,7 +69,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:title=" ">
+<g id="a_Node000003"><a xlink:href="../../d7/d2d/classulong.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="90,-360 52,-360 52,-311 90,-311 90,-360"/>
 <text text-anchor="start" x="57" y="-347.5" font-family="Helvetica,sans-Serif" font-size="10.00">ulong</text>
 <text text-anchor="start" x="69" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>

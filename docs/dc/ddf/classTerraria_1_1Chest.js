@@ -1,6 +1,7 @@
 var classTerraria_1_1Chest =
 [
     [ "Chest", "dc/ddf/classTerraria_1_1Chest_a3ea566cb6aef3308dad824429fe9796b.html#a3ea566cb6aef3308dad824429fe9796b", null ],
+    [ "Chest", "dc/ddf/classTerraria_1_1Chest_aea4eff470ad2201b83fb16a22932ba55.html#aea4eff470ad2201b83fb16a22932ba55", null ],
     [ "AddItemToShop", "dc/ddf/classTerraria_1_1Chest_a411a502edce8e51ae49ee6000989ce25.html#a411a502edce8e51ae49ee6000989ce25", null ],
     [ "AfterPlacement_Hook", "dc/ddf/classTerraria_1_1Chest_aacacd916ca3b0a53e4a689c5f4cf89e6.html#aacacd916ca3b0a53e4a689c5f4cf89e6", null ],
     [ "AskForChestToEatItem", "dc/ddf/classTerraria_1_1Chest_a36448dc23971f0d3677877791ee12802.html#a36448dc23971f0d3677877791ee12802", null ],

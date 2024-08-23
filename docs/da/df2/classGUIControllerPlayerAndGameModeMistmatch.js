@@ -8,5 +8,5 @@ var classGUIControllerPlayerAndGameModeMistmatch =
     [ "GetNavigationOutDirs", "da/df2/classGUIControllerPlayerAndGameModeMistmatch_ac0269d6f229e6be209c0003be55030e0.html#ac0269d6f229e6be209c0003be55030e0", null ],
     [ "GetSelectedItemRegion", "da/df2/classGUIControllerPlayerAndGameModeMistmatch_a7b4020de01676cdceae37dc9e9a4eb84.html#a7b4020de01676cdceae37dc9e9a4eb84", null ],
     [ "Navigate", "da/df2/classGUIControllerPlayerAndGameModeMistmatch_a82ea9eb804454edd9b8de6d1285781ce.html#a82ea9eb804454edd9b8de6d1285781ce", null ],
-    [ "selectedControl", "da/df2/classGUIControllerPlayerAndGameModeMistmatch_a31123e704bb90340755bebe98230d062.html#a31123e704bb90340755bebe98230d062", null ]
+    [ "selectedControl", "da/df2/classGUIControllerPlayerAndGameModeMistmatch_aeac3699ea1d255f1bbe219d73ee8fc41.html#aeac3699ea1d255f1bbe219d73ee8fc41", null ]
 ];

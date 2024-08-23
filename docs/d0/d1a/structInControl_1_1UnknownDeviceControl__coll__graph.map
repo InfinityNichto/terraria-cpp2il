@@ -1,0 +1,20 @@
+<map id="InControl.UnknownDeviceControl" name="InControl.UnknownDeviceControl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,829,441,1305"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="188,133,392,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,226,217,257,199,292,177,361,164,421,157,474,157,526,162,577,171,632,199,766,216,828,211,830,194,767,166,633,157,578,152,526,152,474,158,420,172,359,194,290,212,254,236,222"/>
+<area shape="rect" id="Node000004" href="$dc/d12/structInControl_1_1UnknownDeviceControl.html" title=" " alt="" coords="209,291,441,767"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="298,227,304,290,299,291,293,227"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="203,5,377,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="293,84,293,133,287,133,287,84"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="327,767,327,813,322,813,322,767"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="443,483,461,500,467,529,464,548,456,563,452,561,459,547,462,529,456,503,439,487"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,141,129,206"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="64,207,51,304,42,445,43,524,50,606,64,688,87,766,109,814,136,860,200,943,195,946,131,863,104,816,82,768,59,689,45,607,38,524,37,445,45,303,59,206"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="93,205,201,353,197,356,88,208"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="592,141,711,206"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="678,205,693,237,694,252,693,267,691,344,693,411,698,525,696,579,687,636,669,698,639,768,602,829,556,886,506,936,455,980,452,975,502,932,552,882,598,826,634,765,664,696,682,635,691,579,693,525,688,411,686,344,687,266,689,252,687,238,673,207"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="620,208,535,293,454,381,450,377,531,289,616,204"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="495,141,538,206"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="536,206,546,237,546,267,547,343,551,409,562,521,563,574,560,631,549,694,529,768,496,844,453,916,448,913,491,842,523,766,544,693,554,630,558,574,556,521,546,409,542,343,541,267,541,238,531,207"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="497,204,474,239,451,278,446,275,469,236,493,201"/>
+</map>

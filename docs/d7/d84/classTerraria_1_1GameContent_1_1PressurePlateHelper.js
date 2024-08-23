@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1PressurePlateHelper =
 [
     [ "PressurePlateHelper", "d7/d84/classTerraria_1_1GameContent_1_1PressurePlateHelper_ab1ef221850ed7b76418dff97bead2c30.html#ab1ef221850ed7b76418dff97bead2c30", null ],
+    [ "PressurePlateHelper", "d7/d84/classTerraria_1_1GameContent_1_1PressurePlateHelper_aec08fdf98b15f82385460d9e01f07d86.html#aec08fdf98b15f82385460d9e01f07d86", null ],
     [ "DestroyPlate", "d7/d84/classTerraria_1_1GameContent_1_1PressurePlateHelper_af0dae1622bd4b6db096d105ca96c5cfc.html#af0dae1622bd4b6db096d105ca96c5cfc", null ],
     [ "MoveAwayFrom", "d7/d84/classTerraria_1_1GameContent_1_1PressurePlateHelper_a70d28b9530c8f2f4f5060e23dd218ee2.html#a70d28b9530c8f2f4f5060e23dd218ee2", null ],
     [ "MoveInto", "d7/d84/classTerraria_1_1GameContent_1_1PressurePlateHelper_ae535b8a3df096247de0f836768b749b7.html#ae535b8a3df096247de0f836768b749b7", null ],

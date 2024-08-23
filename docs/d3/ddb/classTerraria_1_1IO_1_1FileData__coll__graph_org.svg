@@ -155,7 +155,7 @@
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="../../d7/d2d/classulong.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="229,-609 191,-609 191,-560 229,-560 229,-609"/>
 <text text-anchor="start" x="196" y="-596.5" font-family="Helvetica,sans-Serif" font-size="10.00">ulong</text>
 <text text-anchor="start" x="208" y="-581.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>

@@ -1,6 +1,7 @@
 var classPlatformAwardNotifierUtility =
 [
     [ "PlatformAwardNotifierUtility", "d3/d38/classPlatformAwardNotifierUtility_a10cb0296c1547fdcc3b62cf4aa85572b.html#a10cb0296c1547fdcc3b62cf4aa85572b", null ],
+    [ "PlatformAwardNotifierUtility", "d3/d38/classPlatformAwardNotifierUtility_ae23509814fc9de792828505e473745ea.html#ae23509814fc9de792828505e473745ea", null ],
     [ "GetAchievementIDFromTileID", "d3/d38/classPlatformAwardNotifierUtility_a064a048fcd03802da0dd4dd5df154fe0.html#a064a048fcd03802da0dd4dd5df154fe0", null ],
     [ "GetBossStatIDFromNetID", "d3/d38/classPlatformAwardNotifierUtility_a54d4c569e72e79a66c9d801b32c7bd39.html#a54d4c569e72e79a66c9d801b32c7bd39", null ],
     [ "GetSlimeStatIDFromNetID", "d3/d38/classPlatformAwardNotifierUtility_a021efc9352754d12f37fb7df3332c6cc.html#a021efc9352754d12f37fb7df3332c6cc", null ],

@@ -1,0 +1,7 @@
+<map id="System.Threading.SynchronizationContext" name="System.Threading.SynchronizationContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,5,440,768"/>
+<area shape="rect" id="Node000002" href="$df/d28/classSystem_1_1Threading_1_1OSSpecificSynchronizationContext.html" title=" " alt="" coords="5,816,272,1375"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,782,205,817,200,815,207,781"/>
+<area shape="rect" id="Node000003" href="$d5/d4d/classUnityEngine_1_1UnitySynchronizationContext.html" title=" " alt="" coords="296,827,627,1363"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="393,781,403,826,398,828,387,782"/>
+</map>

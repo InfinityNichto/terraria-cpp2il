@@ -1,6 +1,6 @@
 <map id="Terraria.GameContent.MinecartDiggerHelper" name="Terraria.GameContent.MinecartDiggerHelper">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,701,337,1335"/>
-<area shape="rect" id="Node000002" href="$d2/dbf/classTerraria_1_1GameContent_1_1MinecartDiggerHelper.html" title=" " alt="" coords="5,5,337,639"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,639,174,684,169,684,169,639"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="339,269,357,291,364,322,361,345,351,363,347,361,356,343,359,322,352,293,335,273"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,721,337,1375"/>
+<area shape="rect" id="Node000002" href="$d2/dbf/classTerraria_1_1GameContent_1_1MinecartDiggerHelper.html" title=" " alt="" coords="5,5,337,659"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,659,174,705,169,705,169,659"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="340,278,357,300,364,332,361,356,351,374,347,372,356,354,359,332,352,302,335,281"/>
 </map>

@@ -18,18 +18,19 @@ var classTerraria_1_1GameContent_1_1DoorOpeningHelper =
       [ "DoorIsInvalidated", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a6b3655635e766369846a2ec1ee5faacd.html#a6b3655635e766369846a2ec1ee5faacda22cbeabebb50937a6d0850f4e8d4cd3f", null ]
     ] ],
     [ "DoorOpeningHelper", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a91c35bcaeb74008b9acc359be69dd29f.html#a91c35bcaeb74008b9acc359be69dd29f", null ],
+    [ "DoorOpeningHelper", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a7208214223861fa79b162a6495ea84db.html#a7208214223861fa79b162a6495ea84db", null ],
     [ "AllowOpeningDoorsByVelocityAloneForATime", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a2cfa80b33cc3656ce32f51f2837f7970.html#a2cfa80b33cc3656ce32f51f2837f7970", null ],
     [ "CyclePreferences", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a4f03af6a2bac4e77d8b9a34c8992bab5.html#a4f03af6a2bac4e77d8b9a34c8992bab5", null ],
-    [ "GetPlayerInfoForClosingDoor", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_abf2c5d3772b964b1a864201af275ea95.html#abf2c5d3772b964b1a864201af275ea95", null ],
-    [ "GetPlayerInfoForOpeningDoor", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a1d9cd2e0b41b8c025958973b50e5c221.html#a1d9cd2e0b41b8c025958973b50e5c221", null ],
+    [ "GetPlayerInfoForClosingDoor", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a5372a51791cad2180e467af05cd058d6.html#a5372a51791cad2180e467af05cd058d6", null ],
+    [ "GetPlayerInfoForOpeningDoor", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a7d3b7b6ff02c22ab36926424bc9a6ff6.html#a7d3b7b6ff02c22ab36926424bc9a6ff6", null ],
     [ "LookForDoorsToClose", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_ae73a037ffa53780baffe081c7a035f26.html#ae73a037ffa53780baffe081c7a035f26", null ],
     [ "LookForDoorsToOpen", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a6756f2269eab99370b7190eefdc26c64.html#a6756f2269eab99370b7190eefdc26c64", null ],
     [ "ShouldTryOpeningDoors", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a65395781d78a6244ac6e18023adf6180.html#a65395781d78a6244ac6e18023adf6180", null ],
-    [ "TryAutoOpeningDoor", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a7aad9b9b3a05f7e709b19fb40ff96b37.html#a7aad9b9b3a05f7e709b19fb40ff96b37", null ],
-    [ "TryGetHandler", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_ab2438f775182d9ebc0efdc6aa155645f.html#ab2438f775182d9ebc0efdc6aa155645f", null ],
+    [ "TryAutoOpeningDoor", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_ab222b7571ef902042833f0ed7195bac1.html#ab222b7571ef902042833f0ed7195bac1", null ],
+    [ "TryGetHandler", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_aa3688ee661caf3e77765f46be2cad7ec.html#aa3688ee661caf3e77765f46be2cad7ec", null ],
     [ "Update", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a484e5fc149d513a98207b9664c0b1daf.html#a484e5fc149d513a98207b9664c0b1daf", null ],
-    [ "_handlerByTileType", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a8b0bec4c8be416b3b1f973407fa71644.html#a8b0bec4c8be416b3b1f973407fa71644", null ],
-    [ "_ongoingOpenDoors", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_ab4ba537c60ba6b82c0d47c2c999825e7.html#ab4ba537c60ba6b82c0d47c2c999825e7", null ],
+    [ "_handlerByTileType", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_adf97a66666a74c0bda24463fb1ad468d.html#adf97a66666a74c0bda24463fb1ad468d", null ],
+    [ "_ongoingOpenDoors", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_ac47340ea145cbc6cc0e04c98568c8c92.html#ac47340ea145cbc6cc0e04c98568c8c92", null ],
     [ "_timeWeCanOpenDoorsUsingVelocityAlone", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_ac11b29949def94be7df309605fce08f7.html#ac11b29949def94be7df309605fce08f7", null ],
-    [ "PreferenceSettings", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_a130109d3b4530d27f91f8fed2378afb6.html#a130109d3b4530d27f91f8fed2378afb6", null ]
+    [ "PreferenceSettings", "d8/def/classTerraria_1_1GameContent_1_1DoorOpeningHelper_af96fe93387c69fd0dfc544e22ebc5837.html#af96fe93387c69fd0dfc544e22ebc5837", null ]
 ];

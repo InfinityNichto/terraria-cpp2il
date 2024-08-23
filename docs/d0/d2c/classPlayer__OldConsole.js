@@ -1,6 +1,7 @@
 var classPlayer__OldConsole =
 [
     [ "Player_OldConsole", "d0/d2c/classPlayer__OldConsole_aefc70821baed6d8250315ec73d46384e.html#aefc70821baed6d8250315ec73d46384e", null ],
+    [ "Player_OldConsole", "d0/d2c/classPlayer__OldConsole_afb038d378ab2d55886e0468f9ab4cc79.html#afb038d378ab2d55886e0468f9ab4cc79", null ],
     [ "GivePlayerCoins", "d0/d2c/classPlayer__OldConsole_a4c5635cb9b6e14eabc4ae160a4fa8b98.html#a4c5635cb9b6e14eabc4ae160a4fa8b98", null ],
     [ "LoadPlayer", "d0/d2c/classPlayer__OldConsole_a5e5ed017234eb5b6108392f4b4741ced.html#a5e5ed017234eb5b6108392f4b4741ced", null ],
     [ "ReadItemID", "d0/d2c/classPlayer__OldConsole_a6feaf66d7bc609764c7b89af2962d081.html#a6feaf66d7bc609764c7b89af2962d081", null ],

@@ -1,13 +1,18 @@
 <map id="ReLogic.Utilities.SlotVector&lt; T &gt;.Enumerator" name="ReLogic.Utilities.SlotVector&lt; T &gt;.Enumerator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="206,133,541,367"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,184,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,77,221,131,218,135,146,81"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="209,5,303,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,81,311,132,306,135,278,84"/>
-<area shape="rect" id="Node000004" href="$d0/d07/classIDisposable.html" title=" " alt="" coords="328,5,419,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="376,84,376,133,371,133,371,84"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="443,5,562,71"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="486,72,456,121,451,118,481,69"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="593,5,623,71"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="595,64,555,111,542,124,538,120,551,108,591,60"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,425,560,659"/>
+<area shape="rect" id="Node000002" href="$d7/d7c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerator.html" title=" " alt="" coords="55,283,230,363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,369,270,423,267,427,200,373"/>
+<area shape="rect" id="Node000003" href="$d7/d7c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerator.html" title=" " alt="" coords="5,140,203,220"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,234,100,258,111,281,107,284,95,259,91,234"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="11,15,197,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,95,107,140,101,140,101,95"/>
+<area shape="rect" id="Node000005" href="$dd/dfa/interfaceSystem_1_1Collections_1_1IEnumerator.html" title=" " alt="" coords="237,5,374,91"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="309,104,318,224,327,293,341,362,361,424,356,426,336,363,322,294,312,224,304,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="230,101,166,142,163,138,227,96"/>
+<area shape="rect" id="Node000006" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="351,290,473,355"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="415,369,415,425,409,425,409,369"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="498,290,617,355"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="538,357,501,413,497,410,534,354"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="647,290,678,355"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="649,348,602,403,575,428,571,424,598,399,645,344"/>
 </map>

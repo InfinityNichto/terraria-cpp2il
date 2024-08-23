@@ -6,13 +6,14 @@ var classTerraria_1_1GameInput_1_1LockOnHelper =
       [ "ThreeDS", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_adaa7146b657568d0f451f39fe4afc946.html#adaa7146b657568d0f451f39fe4afc946a15c6e3cc857480186a5d47e2409e2e7d", null ]
     ] ],
     [ "LockOnHelper", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a5b825dabfbe9abc7bcb8076d973b8826.html#a5b825dabfbe9abc7bcb8076d973b8826", null ],
+    [ "LockOnHelper", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a84458f57c8f45ebd8578bb2a79a21125.html#a84458f57c8f45ebd8578bb2a79a21125", null ],
     [ "CanEnable", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a49ee3033e67db87e0db7b18f46a5d0aa.html#a49ee3033e67db87e0db7b18f46a5d0aa", null ],
     [ "CanUseLockonSystem", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a8b1da187bbb8cb8dbc19491438008ddb.html#a8b1da187bbb8cb8dbc19491438008ddb", null ],
     [ "CycleTargetFocus", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a47d471413fd70f3b2eb3a4a64890bcda.html#a47d471413fd70f3b2eb3a4a64890bcda", null ],
     [ "CycleTargetThreeDS", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_ae9729ba91498fcb055d539269c78c974.html#ae9729ba91498fcb055d539269c78c974", null ],
     [ "CycleUseModes", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_aa9928594c6c6e814595ce677261fe657.html#aa9928594c6c6e814595ce677261fe657", null ],
     [ "Draw", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a34e848685f9544a0b3b7c86c653bd1d4.html#a34e848685f9544a0b3b7c86c653bd1d4", null ],
-    [ "FindMostViableTarget", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a10408a2dd0a4bc5e8ac79d03094be3af.html#a10408a2dd0a4bc5e8ac79d03094be3af", null ],
+    [ "FindMostViableTarget", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_abfcf121b93264fd178e230cff1a9e530.html#abfcf121b93264fd178e230cff1a9e530", null ],
     [ "GetClosestTarget", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a040842e82f1191aa61a8973f7bbf7e9f.html#a040842e82f1191aa61a8973f7bbf7e9f", null ],
     [ "HandlePressing", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a3cb30ebd99ac1f861951b9420d890c7c.html#a3cb30ebd99ac1f861951b9420d890c7c", null ],
     [ "RefreshTargets", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a0e1b826ecddd81568069b5610f12544b.html#a0e1b826ecddd81568069b5610f12544b", null ],
@@ -44,5 +45,5 @@ var classTerraria_1_1GameInput_1_1LockOnHelper =
     [ "LockOnAvailable", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_aba73f5ce3cd4f0d1df188217994e33d9.html#aba73f5ce3cd4f0d1df188217994e33d9", null ],
     [ "MouseWorld", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_acea66547c0878921f1b86f3341c535bd.html#acea66547c0878921f1b86f3341c535bd", null ],
     [ "PredictedPosition", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a381d863db59d3a3b8d19c28673164d59.html#a381d863db59d3a3b8d19c28673164d59", null ],
-    [ "UseMode", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_afcb1a8fb9c7c9e4fadf6acb1598c9aa3.html#afcb1a8fb9c7c9e4fadf6acb1598c9aa3", null ]
+    [ "UseMode", "d9/dc2/classTerraria_1_1GameInput_1_1LockOnHelper_a71a3707651ace25171f95da4c3391c8f.html#a71a3707651ace25171f95da4c3391c8f", null ]
 ];

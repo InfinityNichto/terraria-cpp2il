@@ -1,0 +1,9 @@
+<map id="System.Threading.Tasks.RendezvousAwaitable&lt; TResult &gt;" name="System.Threading.Tasks.RendezvousAwaitable&lt; TResult &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,149,295,636"/>
+<area shape="rect" id="Node000003" href="$dd/dd6/classSystem_1_1Threading_1_1Tasks_1_1RendezvousAwaitable.html" title=" " alt="" coords="5,699,296,1185"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,650,153,699,148,699,148,650"/>
+<area shape="rect" id="Node000002" href="$d8/d52/classglobal_1_1SystemRuntime_1_1CompilerServices_1_1ICriticalNotifyCompletion.html" title=" " alt="" coords="53,5,248,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,114,153,149,148,149,148,114"/>
+<area shape="rect" id="Node000004" href="$d1/d7e/classSystem_1_1Threading_1_1Tasks_1_1BeginEndAwaitableAdapter.html" title=" " alt="" coords="43,1235,259,1379"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="153,1199,153,1234,148,1234,148,1199"/>
+</map>

@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition =
 [
     [ "TileDestroyedCondition", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition_ab9a3cff49473b58c2374c35974aac3c9.html#ab9a3cff49473b58c2374c35974aac3c9", null ],
+    [ "TileDestroyedCondition", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition_a496d632ef3d012b4fbe547d02a53c0a9.html#a496d632ef3d012b4fbe547d02a53c0a9", null ],
     [ "AchievementUpdate", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition.html#ac6580fe12f459e41b986307c7d220faa", null ],
     [ "Clear", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition.html#a915352f446266bd38447ac924b65810d", null ],
     [ "Complete", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition.html#a3f198905c61195fd91c52526581f30fc", null ],
@@ -20,5 +21,5 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition =
     [ "Identifier", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition_a7d766b852e56df6b6c511d5ddde94aa4.html#a7d766b852e56df6b6c511d5ddde94aa4", null ],
     [ "Name", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition.html#ab4652f96927ffad9e74b26487f4b056d", null ],
     [ "IsCompleted", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition.html#a0dd5e62f23542e858645db4db4350138", null ],
-    [ "OnComplete", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition.html#a2c8ec7258b62749a3bb0252d5255bee5", null ]
+    [ "OnComplete", "d7/dad/classTerraria_1_1GameContent_1_1Achievements_1_1TileDestroyedCondition.html#ac33fe3a8378daa49479224a1a04e2d8b", null ]
 ];

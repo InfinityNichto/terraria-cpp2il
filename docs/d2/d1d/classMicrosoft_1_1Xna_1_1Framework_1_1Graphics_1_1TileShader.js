@@ -1,6 +1,7 @@
 var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader =
 [
     [ "TileShader", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader_ade6df54621fff302f6872404bcc98045.html#ade6df54621fff302f6872404bcc98045", null ],
+    [ "TileShader", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader_a2e1c8b0986a20fb534b450d5c189439f.html#a2e1c8b0986a20fb534b450d5c189439f", null ],
     [ "ApplyValuesToMaterial", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader_a6cf9415ee7d33aa770df44984c538325.html#a6cf9415ee7d33aa770df44984c538325", null ],
     [ "Clone", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#ad1ff0e32cdc924e382e538e2c7c09762", null ],
     [ "Clone", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#aed3bcbdb09f5ad7a1291d847fc9e81d1", null ],
@@ -25,8 +26,10 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader =
     [ "_leafMinSat", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader_a6c761600a7d50daa0461c511ae75d351.html#a6c761600a7d50daa0461c511ae75d351", null ],
     [ "_leafMinSatId", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader_aadc08ac1203d3909450fb77f9c441beb.html#aadc08ac1203d3909450fb77f9c441beb", null ],
     [ "graphicsDevice", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#aface84a9f5668723af51de00fe9c8e05", null ],
+    [ "k__BackingField", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#ada601dd3cbeffa9e614594772f582087", null ],
+    [ "k__BackingField", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#a644f8c9efc2d7fa2aa057d5caa8a678b", null ],
     [ "CurrentTechnique", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#aa729f5ff6f541bda623ffc4989d0275a", null ],
-    [ "Disposing", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#a1c65b8ccd067c23aaf35c476f17b27d9", null ],
+    [ "Disposing", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#a2b70d6536692f4b0a23ceba9e77cc28c", null ],
     [ "Effect", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader_a87c32002d44ad793b041f831b4d11f2c.html#a87c32002d44ad793b041f831b4d11f2c", null ],
     [ "GraphicsDevice", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#a28226ae3e3f7cdb8e507e1ceee36d185", null ],
     [ "Name", "d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html#a1ce12831dc9f1f18d4132bea55205480", null ],

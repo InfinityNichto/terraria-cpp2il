@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_1_1CreativePowerIconLocations =
 [
     [ "CreativePowerIconLocations", "d8/dcd/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_1_1CreativePowerIconLocations_a3ee2024cc215b5ef57c68bb22f396d0b.html#a3ee2024cc215b5ef57c68bb22f396d0b", null ],
+    [ "CreativePowerIconLocations", "d8/dcd/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_1_1CreativePowerIconLocations_a14a3dc7426bc7bcc06229c91a552fef7.html#a14a3dc7426bc7bcc06229c91a552fef7", null ],
     [ "BlockPlacementRange", "d8/dcd/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_1_1CreativePowerIconLocations_a49676120344cdf7255563d046e6bc36c.html#a49676120344cdf7255563d046e6bc36c", null ],
     [ "Deprecated", "d8/dcd/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_1_1CreativePowerIconLocations_acb501ab94ae3d8acb2e866fd7e937175.html#acb501ab94ae3d8acb2e866fd7e937175", null ],
     [ "EnemySpawnRate", "d8/dcd/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_1_1CreativePowerIconLocations_ac48c6bfc066eafadf4d06de12fa71c75.html#ac48c6bfc066eafadf4d06de12fa71c75", null ],

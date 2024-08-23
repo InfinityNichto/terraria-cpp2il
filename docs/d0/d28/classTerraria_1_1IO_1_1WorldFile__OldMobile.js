@@ -1,8 +1,9 @@
 var classTerraria_1_1IO_1_1WorldFile__OldMobile =
 [
     [ "WorldFile_OldMobile", "d0/d28/classTerraria_1_1IO_1_1WorldFile__OldMobile_a4bfa5891c76172a890a906b93a51068e.html#a4bfa5891c76172a890a906b93a51068e", null ],
+    [ "WorldFile_OldMobile", "d0/d28/classTerraria_1_1IO_1_1WorldFile__OldMobile_a5c7f9eb7bf683bc95ff726f52db589d3.html#a5c7f9eb7bf683bc95ff726f52db589d3", null ],
     [ "BadMarker", "d0/d28/classTerraria_1_1IO_1_1WorldFile__OldMobile_a4104998333c8fe8b05a80e40ddc549c0.html#a4104998333c8fe8b05a80e40ddc549c0", null ],
-    [ "DecryptWorldData", "d0/d28/classTerraria_1_1IO_1_1WorldFile__OldMobile_a15e157b97a51fb16cb77c648a812d20d.html#a15e157b97a51fb16cb77c648a812d20d", null ],
+    [ "DecryptWorldData", "d0/d28/classTerraria_1_1IO_1_1WorldFile__OldMobile_a770f9bddcaf91146da08c5fc4e13688d.html#a770f9bddcaf91146da08c5fc4e13688d", null ],
     [ "GetAllMetadata", "d0/d28/classTerraria_1_1IO_1_1WorldFile__OldMobile_a0c95ecff2418157e0c2c37c1def93def.html#a0c95ecff2418157e0c2c37c1def93def", null ],
     [ "LoadSaveData", "d0/d28/classTerraria_1_1IO_1_1WorldFile__OldMobile_ac28f3d52d31ea5748cb761ec5d49997d.html#ac28f3d52d31ea5748cb761ec5d49997d", null ],
     [ "loadWorldData", "d0/d28/classTerraria_1_1IO_1_1WorldFile__OldMobile_af19395c1a6eb780264cb3f7ae2039134.html#af19395c1a6eb780264cb3f7ae2039134", null ],

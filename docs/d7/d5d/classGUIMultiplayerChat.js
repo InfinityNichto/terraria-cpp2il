@@ -24,7 +24,7 @@ var classGUIMultiplayerChat =
     [ "EmotesCloseScale", "d7/d5d/classGUIMultiplayerChat_acfea75128f210db8bdb68ebe14b88919.html#acfea75128f210db8bdb68ebe14b88919", null ],
     [ "EmotesScale", "d7/d5d/classGUIMultiplayerChat_a4eca01178a381e0fe52d5b58349193f7.html#a4eca01178a381e0fe52d5b58349193f7", null ],
     [ "miniMapWasEnabled", "d7/d5d/classGUIMultiplayerChat_aa43abeedbf982b2675986a5194d2227e.html#aa43abeedbf982b2675986a5194d2227e", null ],
-    [ "mode", "d7/d5d/classGUIMultiplayerChat_a370fe2bd1cac4b382ce70bcecc300eb2.html#a370fe2bd1cac4b382ce70bcecc300eb2", null ],
+    [ "mode", "d7/d5d/classGUIMultiplayerChat_aa7513baee3af285c8bde556dd576e84b.html#aa7513baee3af285c8bde556dd576e84b", null ],
     [ "NoficiationDisplayTime", "d7/d5d/classGUIMultiplayerChat_a521e0d78351951b8b075b7db7296ed64.html#a521e0d78351951b8b075b7db7296ed64", null ],
     [ "notificationCount", "d7/d5d/classGUIMultiplayerChat_adb8d8c7a20f9def7cd98d37ff1abe34b.html#adb8d8c7a20f9def7cd98d37ff1abe34b", null ],
     [ "oneLineSize", "d7/d5d/classGUIMultiplayerChat_a5fce963dc93cd1eebd15482430587eb5.html#a5fce963dc93cd1eebd15482430587eb5", null ],

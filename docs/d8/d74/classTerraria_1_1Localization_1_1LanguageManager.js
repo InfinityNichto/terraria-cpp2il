@@ -1,6 +1,8 @@
 var classTerraria_1_1Localization_1_1LanguageManager =
 [
     [ "LanguageManager", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a3e35bdca13be39d3fb2e3adb6683ae47.html#a3e35bdca13be39d3fb2e3adb6683ae47", null ],
+    [ "LanguageManager", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a3125bba54b5de69e078a57d84109fe80.html#a3125bba54b5de69e078a57d84109fe80", null ],
+    [ "b__27_0", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a67039b7a86dd82c31c809bb235e406d9.html#a67039b7a86dd82c31c809bb235e406d9", null ],
     [ "DelayedInit", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_aa01d8801a9f9de720bb0dc34a1e52c66.html#aa01d8801a9f9de720bb0dc34a1e52c66", null ],
     [ "EstimateWordCount", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a2b923cb9e98624c263045f814a089678.html#a2b923cb9e98624c263045f814a089678", null ],
     [ "Exists", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a3b275d30cf9d1766c79515af118e623c.html#a3b275d30cf9d1766c79515af118e623c", null ],
@@ -20,9 +22,9 @@ var classTerraria_1_1Localization_1_1LanguageManager =
     [ "LoadLanguage", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_ad50cbee9eae8dbc954caa58f4f71daa3.html#ad50cbee9eae8dbc954caa58f4f71daa3", null ],
     [ "LoadLanguageFromFileText", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a63f6ce12ca36d7d5172e857abab0c46d.html#a63f6ce12ca36d7d5172e857abab0c46d", null ],
     [ "ProcessCopyCommandsInTexts", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a02d88760f3399bd100e7b37f5136bdf9.html#a02d88760f3399bd100e7b37f5136bdf9", null ],
-    [ "RandomFromCategories", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_abd9e6422ba3dd16817b35e9f58ba02c2.html#abd9e6422ba3dd16817b35e9f58ba02c2", null ],
-    [ "RandomFromCategory", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a4fd4492f78ab19adbeeb166488752733.html#a4fd4492f78ab19adbeeb166488752733", null ],
-    [ "SelectRandom", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a80bfba4263d53f1cb3d5ce1a8a8838ab.html#a80bfba4263d53f1cb3d5ce1a8a8838ab", null ],
+    [ "RandomFromCategories", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a48dc913645128109b74d3072324d0333.html#a48dc913645128109b74d3072324d0333", null ],
+    [ "RandomFromCategory", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a6b23ac730ffed82fc9ec09af29262f17.html#a6b23ac730ffed82fc9ec09af29262f17", null ],
+    [ "SelectRandom", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_aced089f6145c3bd07d1e09b1b21347d8.html#aced089f6145c3bd07d1e09b1b21347d8", null ],
     [ "SetAllTextValuesToKeys", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_af3743a3b849bbc7cbc91c07420907334.html#af3743a3b849bbc7cbc91c07420907334", null ],
     [ "SetFallbackCulture", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_afbb89db7a1fe696952b7099f497e1f74.html#afbb89db7a1fe696952b7099f497e1f74", null ],
     [ "SetLanguage", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_aef9d3a44ffd220a03fa8236edc2da52e.html#aef9d3a44ffd220a03fa8236edc2da52e", null ],
@@ -35,7 +37,8 @@ var classTerraria_1_1Localization_1_1LanguageManager =
     [ "delayedActiveCulture", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a9a30441c443f3b3fb71c9beb57bec0a7.html#a9a30441c443f3b3fb71c9beb57bec0a7", null ],
     [ "Instance", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_aed75b828ce37c6b9b0bae5bc847d5b69.html#aed75b828ce37c6b9b0bae5bc847d5b69", null ],
     [ "intialLoadDone", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_abe39ea4d3e23f1096fcddb3e8239530a.html#abe39ea4d3e23f1096fcddb3e8239530a", null ],
+    [ "k__BackingField", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_af16879f14037b72f82705da4776f7970.html#af16879f14037b72f82705da4776f7970", null ],
     [ "ActiveCulture", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_aac89440db46350028fcfead0836478ff.html#aac89440db46350028fcfead0836478ff", null ],
-    [ "OnLanguageChanged", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a7bbe23567b29ee37d289fe14526989a8.html#a7bbe23567b29ee37d289fe14526989a8", null ],
-    [ "OnLanguageChanging", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a4a3b0e67ab73410fec42ec818b13076e.html#a4a3b0e67ab73410fec42ec818b13076e", null ]
+    [ "OnLanguageChanged", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a19d22356d18f2468e37c39fd32896eb7.html#a19d22356d18f2468e37c39fd32896eb7", null ],
+    [ "OnLanguageChanging", "d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a4c293a29856c7e16e28fd20fb5eb9046.html#a4c293a29856c7e16e28fd20fb5eb9046", null ]
 ];

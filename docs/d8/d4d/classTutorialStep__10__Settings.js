@@ -7,7 +7,7 @@ var classTutorialStep__10__Settings =
     ] ],
     [ "TutorialStep_10_Settings", "d8/d4d/classTutorialStep__10__Settings_a85e6f46ff73cd204098326b4980aa2e8.html#a85e6f46ff73cd204098326b4980aa2e8", null ],
     [ "Begin", "d8/d4d/classTutorialStep__10__Settings.html#ae7b36833ed674651c836c42b57bdfa7c", null ],
-    [ "GetGuideState", "d8/d4d/classTutorialStep__10__Settings_a6ef72670a36ef124c68f1f60cb098527.html#a6ef72670a36ef124c68f1f60cb098527", null ],
+    [ "GetGuideState", "d8/d4d/classTutorialStep__10__Settings_a7f44e8bf3d0f76d4c5d881ffcbae00b2.html#a7f44e8bf3d0f76d4c5d881ffcbae00b2", null ],
     [ "GetGuideString", "d8/d4d/classTutorialStep__10__Settings_ab544c934694a6f7da1de9b0e4d6f0a0a.html#ab544c934694a6f7da1de9b0e4d6f0a0a", null ],
     [ "GiveItem", "d8/d4d/classTutorialStep__10__Settings.html#ac38e5ac4261d7aca8a148210f3a82d04", null ],
     [ "OnGuideDialogueOpen", "d8/d4d/classTutorialStep__10__Settings_a5ad6058d2df139e1d04a06e58a0fc818.html#a5ad6058d2df139e1d04a06e58a0fc818", null ],

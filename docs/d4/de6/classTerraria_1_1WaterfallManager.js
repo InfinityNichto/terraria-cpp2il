@@ -2,6 +2,8 @@ var classTerraria_1_1WaterfallManager =
 [
     [ "WaterfallData", "d5/d6b/structTerraria_1_1WaterfallManager_1_1WaterfallData.html", "d5/d6b/structTerraria_1_1WaterfallManager_1_1WaterfallData" ],
     [ "WaterfallManager", "d4/de6/classTerraria_1_1WaterfallManager_ac026de8d613e043c4e630665af61934c.html#ac026de8d613e043c4e630665af61934c", null ],
+    [ "WaterfallManager", "d4/de6/classTerraria_1_1WaterfallManager_a5ff8c26b5cfbb08a11cdf7dc6db88cca.html#a5ff8c26b5cfbb08a11cdf7dc6db88cca", null ],
+    [ "b__21_0", "d4/de6/classTerraria_1_1WaterfallManager_a7a798713167ceb95912d798a538cca4b.html#a7a798713167ceb95912d798a538cca4b", null ],
     [ "CheckForWaterfall", "d4/de6/classTerraria_1_1WaterfallManager_a943fca58240078b1ea294e500fc85d38.html#a943fca58240078b1ea294e500fc85d38", null ],
     [ "Draw", "d4/de6/classTerraria_1_1WaterfallManager_a4f1b4633eb081b743fd02f13ac13ee73.html#a4f1b4633eb081b743fd02f13ac13ee73", null ],
     [ "DrawWaterfall", "d4/de6/classTerraria_1_1WaterfallManager_a111bcb28521a6774c374aacefaaa522e.html#a111bcb28521a6774c374aacefaaa522e", null ],
@@ -28,7 +30,7 @@ var classTerraria_1_1WaterfallManager =
     [ "snowFrameCounter", "d4/de6/classTerraria_1_1WaterfallManager_a8b7be62da327e1d099bd1a523a01cd8a.html#a8b7be62da327e1d099bd1a523a01cd8a", null ],
     [ "snowFrameForeground", "d4/de6/classTerraria_1_1WaterfallManager_aa9d03e1f6b70c8a7d442e3a0bc15f013.html#aa9d03e1f6b70c8a7d442e3a0bc15f013", null ],
     [ "waterfallDist", "d4/de6/classTerraria_1_1WaterfallManager_a0fee24eaebdc1e0e5aaa11bbeff8cc97.html#a0fee24eaebdc1e0e5aaa11bbeff8cc97", null ],
-    [ "waterfalls", "d4/de6/classTerraria_1_1WaterfallManager_aebad40b9df1e5840a04d663ad570e00e.html#aebad40b9df1e5840a04d663ad570e00e", null ],
+    [ "waterfalls", "d4/de6/classTerraria_1_1WaterfallManager_a696d1da93114c620db690aa1557ffc69.html#a696d1da93114c620db690aa1557ffc69", null ],
     [ "waterfallTexture", "d4/de6/classTerraria_1_1WaterfallManager_a737cd7f24b9748fabadf7e7f4520a9ed.html#a737cd7f24b9748fabadf7e7f4520a9ed", null ],
     [ "wFallFrCounter", "d4/de6/classTerraria_1_1WaterfallManager_a886000dad957c2a12086509647a09720.html#a886000dad957c2a12086509647a09720", null ],
     [ "wFallFrCounter2", "d4/de6/classTerraria_1_1WaterfallManager_a1aae73f3f671c941723acd7e5c569ac1.html#a1aae73f3f671c941723acd7e5c569ac1", null ]

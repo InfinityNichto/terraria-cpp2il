@@ -34,7 +34,7 @@ var classDraggableItemGrid__Layout =
     [ "OutOfBoundsOffsetLerpScale", "d3/de1/classDraggableItemGrid__Layout_a22aca047774bd9c18bf3b99af22150b3.html#a22aca047774bd9c18bf3b99af22150b3", null ],
     [ "PickingBorder", "d3/de1/classDraggableItemGrid__Layout.html#a32d0646a7dd6db8d81af596bb5dc5a82", null ],
     [ "PickingOffset", "d3/de1/classDraggableItemGrid__Layout.html#a3e7676795f1d9b33fe455c2453b731d7", null ],
-    [ "Reorder", "d3/de1/classDraggableItemGrid__Layout.html#a76aa78e785e41c8404fba1a23194b842", null ],
+    [ "Reorder", "d3/de1/classDraggableItemGrid__Layout.html#a502f523c180542225777e259a79f9c9f", null ],
     [ "RightAlign", "d3/de1/classDraggableItemGrid__Layout.html#a18fa121014300dc0658ed4d9d1ef40a2", null ],
     [ "StackCountOffset", "d3/de1/classDraggableItemGrid__Layout.html#a1f715adde52fe0a4cceae1a6ddca2a19", null ]
 ];

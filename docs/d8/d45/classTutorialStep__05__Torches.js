@@ -7,7 +7,7 @@ var classTutorialStep__05__Torches =
     ] ],
     [ "TutorialStep_05_Torches", "d8/d45/classTutorialStep__05__Torches_a8d2828f6c493bd283382ce6333c0b885.html#a8d2828f6c493bd283382ce6333c0b885", null ],
     [ "Begin", "d8/d45/classTutorialStep__05__Torches.html#ae7b36833ed674651c836c42b57bdfa7c", null ],
-    [ "GetGuideState", "d8/d45/classTutorialStep__05__Torches_abbd5ba32a1fe8004e632a84330b0eed1.html#abbd5ba32a1fe8004e632a84330b0eed1", null ],
+    [ "GetGuideState", "d8/d45/classTutorialStep__05__Torches_a7ce19b15034b790e1d00d85fbe939038.html#a7ce19b15034b790e1d00d85fbe939038", null ],
     [ "GetGuideString", "d8/d45/classTutorialStep__05__Torches_aff6d3eb0c99bc5698833a073df9ff0a8.html#aff6d3eb0c99bc5698833a073df9ff0a8", null ],
     [ "GiveItem", "d8/d45/classTutorialStep__05__Torches.html#ac38e5ac4261d7aca8a148210f3a82d04", null ],
     [ "OnGuideDialogueOpen", "d8/d45/classTutorialStep__05__Torches_a342e46c5fcf68ed7a902efd6920d1d4d.html#a342e46c5fcf68ed7a902efd6920d1d4d", null ],

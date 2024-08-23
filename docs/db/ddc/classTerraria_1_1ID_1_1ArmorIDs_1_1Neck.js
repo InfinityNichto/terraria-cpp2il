@@ -1,6 +1,7 @@
 var classTerraria_1_1ID_1_1ArmorIDs_1_1Neck =
 [
     [ "Neck", "db/ddc/classTerraria_1_1ID_1_1ArmorIDs_1_1Neck_a3f2f4c901eb08d854b3753b47d7e3b52.html#a3f2f4c901eb08d854b3753b47d7e3b52", null ],
+    [ "Neck", "db/ddc/classTerraria_1_1ID_1_1ArmorIDs_1_1Neck_a20106aa650320fb510e6e2e994519e4c.html#a20106aa650320fb510e6e2e994519e4c", null ],
     [ "ApprenticeScarf", "db/ddc/classTerraria_1_1ID_1_1ArmorIDs_1_1Neck_a1441dda66dd847fee7ef552779e64c55.html#a1441dda66dd847fee7ef552779e64c55", null ],
     [ "Count", "db/ddc/classTerraria_1_1ID_1_1ArmorIDs_1_1Neck_a67424c868bd61bfa92da90215a239c2e.html#a67424c868bd61bfa92da90215a239c2e", null ],
     [ "CrossNecklace", "db/ddc/classTerraria_1_1ID_1_1ArmorIDs_1_1Neck_a3c06d3638e7130b67dfe22ac5eeb826f.html#a3c06d3638e7130b67dfe22ac5eeb826f", null ],

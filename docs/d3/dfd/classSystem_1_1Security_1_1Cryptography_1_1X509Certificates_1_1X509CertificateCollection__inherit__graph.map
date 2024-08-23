@@ -1,0 +1,20 @@
+<map id="System.Security.Cryptography.X509Certificates.X509CertificateCollection" name="System.Security.Cryptography.X509Certificates.X509CertificateCollection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="281,1609,555,1857"/>
+<area shape="rect" id="Node000006" href="$d5/dcb/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509Certificate2Collection.html" title=" " alt="" coords="5,1920,257,2356"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="311,1870,272,1922,260,1939,255,1936,268,1918,307,1866"/>
+<area shape="rect" id="Node000007" href="$d4/d62/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateCollection.html" title=" " alt="" coords="281,2014,555,2262"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="421,1871,421,2014,415,2014,415,1871"/>
+<area shape="rect" id="Node000008" href="$d4/d62/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509CertificateCollection.html" title=" " alt="" coords="579,2014,852,2262"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="533,1867,543,1880,637,2012,633,2015,539,1883,529,1870"/>
+<area shape="rect" id="Node000002" href="$dc/d82/classSystem_1_1Collections_1_1CollectionBase.html" title=" " alt="" coords="297,637,539,1560"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,1574,421,1609,415,1609,415,1574"/>
+<area shape="rect" id="Node000003" href="$dd/d26/interfaceSystem_1_1Collections_1_1IList.html" title=" " alt="" coords="320,304,516,588"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,602,421,637,415,637,415,602"/>
+<area shape="rect" id="Node000004" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="396,120,563,255"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="521,267,531,303,544,386,548,470,546,554,538,638,533,637,540,554,543,470,538,386,526,305,515,268"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="463,269,454,305,449,303,458,268"/>
+<area shape="rect" id="Node000005" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="247,5,469,71"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="349,84,328,185,310,304,300,446,303,508,310,588,316,637,311,638,305,588,297,509,295,446,305,304,323,184,344,83"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="366,84,387,254,395,303,390,304,382,255,360,84"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="395,80,426,118,422,121,391,83"/>
+</map>

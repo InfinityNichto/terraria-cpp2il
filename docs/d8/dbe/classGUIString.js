@@ -1,5 +1,6 @@
 var classGUIString =
 [
+    [ "GUIString", "d8/dbe/classGUIString_abc652e045682477c2a5e578c53257df2.html#abc652e045682477c2a5e578c53257df2", null ],
     [ "ApplyMultiLineAlignment", "d8/dbe/classGUIString_a613c134fee5dacff0a810760742c3bb3.html#a613c134fee5dacff0a810760742c3bb3", null ],
     [ "CalculateStringPosition", "d8/dbe/classGUIString_a55e6fa7072155a81d7069767f6b79d75.html#a55e6fa7072155a81d7069767f6b79d75", null ],
     [ "Draw", "d8/dbe/classGUIString_a52893d0a7c1b8c0e9b5909e86fc38912.html#a52893d0a7c1b8c0e9b5909e86fc38912", null ],

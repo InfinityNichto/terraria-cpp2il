@@ -127,11 +127,11 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="26.5" y="-377" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="39.5" y="-377" font-family="Helvetica,sans-Serif" font-size="10.00">static int _worldHeight</text>
 <text text-anchor="start" x="26.5" y="-362" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="39.5" y="-362" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
-<text text-anchor="start" x="39.5" y="-351" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
-<text text-anchor="start" x="39.5" y="-340" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
-<text text-anchor="start" x="26.5" y="-325" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="39.5" y="-325" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="39.5" y="-362" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="26.5" y="-347" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="39.5" y="-347" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
+<text text-anchor="start" x="39.5" y="-336" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
+<text text-anchor="start" x="39.5" y="-325" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
 <polygon fill="#666666" stroke="#666666" points="22.5,-443 22.5,-443 187.5,-443 187.5,-443 22.5,-443"/>
 <polygon fill="#666666" stroke="#666666" points="22.5,-372 22.5,-372 37.5,-372 37.5,-372 22.5,-372"/>
 <polygon fill="#666666" stroke="#666666" points="37.5,-372 37.5,-372 187.5,-372 187.5,-372 37.5,-372"/>

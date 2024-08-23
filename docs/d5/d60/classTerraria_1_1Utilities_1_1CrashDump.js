@@ -28,8 +28,8 @@ var classTerraria_1_1Utilities_1_1CrashDump =
       [ "ValidTypeFlags", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_a4ac84da99baa694df545ea279659bc50.html#a4ac84da99baa694df545ea279659bc50a861e0ba2359b5f733c8d9e30c6671fb4", null ]
     ] ],
     [ "CreateDumpName", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_a520d63989b72aaa9e890a57e384c9c0d.html#a520d63989b72aaa9e890a57e384c9c0d", null ],
-    [ "Write", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_af4c15767fa9e5fe19f1ce5b5cb88a356.html#af4c15767fa9e5fe19f1ce5b5cb88a356", null ],
-    [ "Write", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_ae983c237787fa30c1d66d58b1ee48aae.html#ae983c237787fa30c1d66d58b1ee48aae", null ],
-    [ "Write", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_a06732b0ad98330bf80bfcec44c371653.html#a06732b0ad98330bf80bfcec44c371653", null ],
-    [ "WriteException", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_a833e37dc8a541bbff591b39ef8486cd6.html#a833e37dc8a541bbff591b39ef8486cd6", null ]
+    [ "Write", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_a6b3f2c311f57b9fc6a89a7b559563f4f.html#a6b3f2c311f57b9fc6a89a7b559563f4f", null ],
+    [ "Write", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_a4cf996dd2b10b17d20e8d84fc743e0ca.html#a4cf996dd2b10b17d20e8d84fc743e0ca", null ],
+    [ "Write", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_a56dcef4a425b7dca8865d1766a4f7de3.html#a56dcef4a425b7dca8865d1766a4f7de3", null ],
+    [ "WriteException", "d5/d60/classTerraria_1_1Utilities_1_1CrashDump_a5e497c5813f06c04566c91446ad4259b.html#a5e497c5813f06c04566c91446ad4259b", null ]
 ];

@@ -1,0 +1,13 @@
+<map id="System.Runtime.Serialization.Formatters.Binary.BinaryArray" name="System.Runtime.Serialization.Formatters.Binary.BinaryArray">
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,192,467,469"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="24,71,31,119,40,144,52,166,86,206,127,240,124,244,83,210,48,170,35,146,26,120,19,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="87,5,210,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,70,160,117,176,167,181,176,176,178,172,169,155,118,148,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="276,5,331,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="306,71,306,175,301,175,301,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="385,5,525,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="455,71,446,118,428,169,424,179,419,177,424,167,440,117,449,70"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="549,5,708,71"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="628,72,616,120,605,146,589,170,540,218,483,257,480,252,537,214,585,166,600,144,610,119,622,70"/>
+</map>

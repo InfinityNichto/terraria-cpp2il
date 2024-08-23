@@ -87,25 +87,25 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="17" y="-336" font-family="Helvetica,sans-Serif" font-size="10.00"> out Tile collisionTile)</text>
 <text text-anchor="start" x="6.5" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="17" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00">static bool GetCollision</text>
-<text text-anchor="start" x="17" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">PointForTile(TileEdges</text>
-<text text-anchor="start" x="17" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00"> edgesToTest, int x, int</text>
+<text text-anchor="start" x="17" y="-310" font-family="Helvetica,sans-Serif" font-size="10.00">PointForTile(BallCollision.Tile</text>
+<text text-anchor="start" x="17" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">Edges edgesToTest, int x, int</text>
 <text text-anchor="start" x="17" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00"> y, Vector2 center, ref Vector2</text>
 <text text-anchor="start" x="17" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00"> closestPointOut, ref float distanceSquaredOut)</text>
 <text text-anchor="start" x="6.5" y="-262" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="17" y="-262" font-family="Helvetica,sans-Serif" font-size="10.00">static bool GetSlopeEdge</text>
-<text text-anchor="start" x="17" y="-251" font-family="Helvetica,sans-Serif" font-size="10.00">(ref TileEdges edgesToTest,</text>
-<text text-anchor="start" x="17" y="-240" font-family="Helvetica,sans-Serif" font-size="10.00"> Tile tile, Vector2 tilePosition,</text>
-<text text-anchor="start" x="17" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00"> ref LineSegment edge)</text>
+<text text-anchor="start" x="17" y="-251" font-family="Helvetica,sans-Serif" font-size="10.00">(ref BallCollision.TileEdges</text>
+<text text-anchor="start" x="17" y="-240" font-family="Helvetica,sans-Serif" font-size="10.00"> edgesToTest, Tile tile, Vector2</text>
+<text text-anchor="start" x="17" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00"> tilePosition, ref LineSegment edge)</text>
 <text text-anchor="start" x="6.5" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="17" y="-214" font-family="Helvetica,sans-Serif" font-size="10.00">static bool GetTopOrBottom</text>
-<text text-anchor="start" x="17" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">Edge(TileEdges edgesToTest,</text>
-<text text-anchor="start" x="17" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> int x, int y, Vector2 tilePosition,</text>
-<text text-anchor="start" x="17" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00"> ref LineSegment edge)</text>
+<text text-anchor="start" x="17" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">Edge(BallCollision.TileEdges</text>
+<text text-anchor="start" x="17" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00"> edgesToTest, int x, int y,</text>
+<text text-anchor="start" x="17" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 tilePosition, ref LineSegment edge)</text>
 <text text-anchor="start" x="6.5" y="-166" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="17" y="-166" font-family="Helvetica,sans-Serif" font-size="10.00">static bool GetLeftOrRight</text>
-<text text-anchor="start" x="17" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">Edge(TileEdges edgesToTest,</text>
-<text text-anchor="start" x="17" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00"> int x, int y, Vector2 tilePosition,</text>
-<text text-anchor="start" x="17" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00"> ref LineSegment edge)</text>
+<text text-anchor="start" x="17" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">Edge(BallCollision.TileEdges</text>
+<text text-anchor="start" x="17" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00"> edgesToTest, int x, int y,</text>
+<text text-anchor="start" x="17" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 tilePosition, ref LineSegment edge)</text>
 <text text-anchor="start" x="6.5" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="17" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">static Rectangle GetTile</text>
 <text text-anchor="start" x="17" y="-107" font-family="Helvetica,sans-Serif" font-size="10.00">Bounds(Vector2 position,</text>

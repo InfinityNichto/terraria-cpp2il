@@ -1,6 +1,7 @@
 var classSaveSynchronisationState =
 [
     [ "SaveSynchronisationState", "dc/d9f/classSaveSynchronisationState_a6b9d19c5c46495503678e5be60b9768c.html#a6b9d19c5c46495503678e5be60b9768c", null ],
+    [ "SaveSynchronisationState", "dc/d9f/classSaveSynchronisationState_ae87cc2405ea00b75f6dedb1d03e52ec3.html#ae87cc2405ea00b75f6dedb1d03e52ec3", null ],
     [ "Clear", "dc/d9f/classSaveSynchronisationState_ab541af219fc122b65c32df839c930a80.html#ab541af219fc122b65c32df839c930a80", null ],
     [ "ProcessMessage", "dc/d9f/classSaveSynchronisationState_abce01b023a38ebd934f8366e3ee73122.html#abce01b023a38ebd934f8366e3ee73122", null ],
     [ "ProcessMessageResponse", "dc/d9f/classSaveSynchronisationState_a92f6a787e31dc660a0599ac24d4ca002.html#a92f6a787e31dc660a0599ac24d4ca002", null ],

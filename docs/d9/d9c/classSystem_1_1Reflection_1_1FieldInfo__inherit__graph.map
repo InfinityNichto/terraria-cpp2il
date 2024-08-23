@@ -1,0 +1,13 @@
+<map id="System.Reflection.FieldInfo" name="System.Reflection.FieldInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="165,761,482,1752"/>
+<area shape="rect" id="Node000004" href="$db/daa/classSystem_1_1Reflection_1_1Emit_1_1FieldBuilder.html" title=" " alt="" coords="5,1800,324,2280"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,1766,216,1800,211,1799,218,1765"/>
+<area shape="rect" id="Node000005" href="$d6/db7/classSystem_1_1Reflection_1_1RtFieldInfo.html" title=" " alt="" coords="348,1926,619,2154"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="430,1765,463,1925,458,1926,425,1766"/>
+<area shape="rect" id="Node000002" href="$d5/d20/classSystem_1_1Reflection_1_1MemberInfo.html" title=" " alt="" coords="194,232,453,713"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,727,326,761,321,761,321,727"/>
+<area shape="rect" id="Node000003" href="$d7/da4/interfaceSystem_1_1Reflection_1_1ICustomAttributeProvider.html" title=" " alt="" coords="194,5,453,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="326,198,326,232,321,232,321,198"/>
+<area shape="rect" id="Node000006" href="$d4/d76/classSystem_1_1Reflection_1_1RuntimeFieldInfo.html" title=" " alt="" coords="324,2328,643,3724"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="486,2168,486,2328,481,2328,481,2168"/>
+</map>

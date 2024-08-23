@@ -1,9 +1,4 @@
 <map id="SettingsOverlayOptionCategories_Layout" name="SettingsOverlayOptionCategories_Layout">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,423,265,855"/>
-<area shape="rect" id="Node000002" href="$d7/da1/classSettingsOverlayOptionCategories__Layout_1_1Setting.html" title=" " alt="" coords="20,133,251,213"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,214,138,406,133,406,133,214"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="47,5,120,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,71,83,90,87,108,92,118,87,120,82,110,78,91,77,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="173,5,204,71"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="179,72,159,119,154,117,174,70"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,339,569"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="341,203,351,218,359,237,365,287,361,327,350,358,345,356,356,326,360,287,354,239,346,221,336,206"/>
 </map>

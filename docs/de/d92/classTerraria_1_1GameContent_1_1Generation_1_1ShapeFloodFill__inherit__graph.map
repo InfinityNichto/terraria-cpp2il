@@ -1,5 +1,5 @@
 <map id="Terraria.GameContent.Generation.ShapeFloodFill" name="Terraria.GameContent.Generation.ShapeFloodFill">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,544,243,723"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,544,243,743"/>
 <area shape="rect" id="Node000002" href="$da/d11/classTerraria_1_1WorldBuilding_1_1GenShape.html" title=" " alt="" coords="15,243,233,496"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,510,127,544,121,544,121,510"/>
 <area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="14,5,234,195"/>

@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1TileID_1_1Sets_1_1RoomNeeds =
 [
+    [ "RoomNeeds", "d4/dc0/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1RoomNeeds_aadc82c2d047228757866e5c6ebf9c5f5.html#aadc82c2d047228757866e5c6ebf9c5f5", null ],
     [ "CountsAsChair", "d4/dc0/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1RoomNeeds_a1e49882d5be0353b32ef3c82851be24a.html#a1e49882d5be0353b32ef3c82851be24a", null ],
     [ "CountsAsDoor", "d4/dc0/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1RoomNeeds_a34ff0009d8197089136985853c65b3a6.html#a34ff0009d8197089136985853c65b3a6", null ],
     [ "CountsAsTable", "d4/dc0/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1RoomNeeds_a956b354ecff10c384b5fde5d68e34cc4.html#a956b354ecff10c384b5fde5d68e34cc4", null ],

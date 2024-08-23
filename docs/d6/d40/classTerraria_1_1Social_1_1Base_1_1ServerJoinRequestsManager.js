@@ -7,6 +7,6 @@ var classTerraria_1_1Social_1_1Base_1_1ServerJoinRequestsManager =
     [ "Update", "d6/d40/classTerraria_1_1Social_1_1Base_1_1ServerJoinRequestsManager_a0094f2948ef9ab504c68bdd7caaeae69.html#a0094f2948ef9ab504c68bdd7caaeae69", null ],
     [ "_requests", "d6/d40/classTerraria_1_1Social_1_1Base_1_1ServerJoinRequestsManager_ae30b3af0dd1988a8e0139703d15dc2cb.html#ae30b3af0dd1988a8e0139703d15dc2cb", null ],
     [ "CurrentRequests", "d6/d40/classTerraria_1_1Social_1_1Base_1_1ServerJoinRequestsManager_a49759eea5cbd264bb09f46cea49b94da.html#a49759eea5cbd264bb09f46cea49b94da", null ],
-    [ "OnRequestAdded", "d6/d40/classTerraria_1_1Social_1_1Base_1_1ServerJoinRequestsManager_a259cb1fab707706324187b58b333844c.html#a259cb1fab707706324187b58b333844c", null ],
-    [ "OnRequestRemoved", "d6/d40/classTerraria_1_1Social_1_1Base_1_1ServerJoinRequestsManager_a8c7c75266c64461aae6de5c14c223196.html#a8c7c75266c64461aae6de5c14c223196", null ]
+    [ "OnRequestAdded", "d6/d40/classTerraria_1_1Social_1_1Base_1_1ServerJoinRequestsManager_a368c032d5a753d341f02d1d537d845a5.html#a368c032d5a753d341f02d1d537d845a5", null ],
+    [ "OnRequestRemoved", "d6/d40/classTerraria_1_1Social_1_1Base_1_1ServerJoinRequestsManager_a8c739b20653683158747bc95ff1bd7cb.html#a8c739b20653683158747bc95ff1bd7cb", null ]
 ];

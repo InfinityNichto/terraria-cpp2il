@@ -29,13 +29,16 @@ var classTerraria_1_1Graphics_1_1Light_1_1LightMap =
     [ "_threadManager", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a396d35a9249960620e668a57f1140d31.html#a396d35a9249960620e668a57f1140d31", null ],
     [ "DEFAULT_HEIGHT", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_afa03e85c78a2e7e9f1a8ee03f6d96801.html#afa03e85c78a2e7e9f1a8ee03f6d96801", null ],
     [ "DEFAULT_WIDTH", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_ae900b4bf784c76b08c421f60e9b09d85.html#ae900b4bf784c76b08c421f60e9b09d85", null ],
+    [ "k__BackingField", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_ac55882864eb9f6d0a3208670feadc44e.html#ac55882864eb9f6d0a3208670feadc44e", null ],
+    [ "k__BackingField", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a271a8fe02d14a8aa71af89f9abfa519c.html#a271a8fe02d14a8aa71af89f9abfa519c", null ],
+    [ "k__BackingField", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a591f9efbae2a2341c5d1ba46e90ff80b.html#a591f9efbae2a2341c5d1ba46e90ff80b", null ],
     [ "ExportBatchFinishedCallback", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a669e172a5f9deb98fc9b2a60f9cc3db0.html#a669e172a5f9deb98fc9b2a60f9cc3db0", null ],
     [ "Height", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a41e6a1fbc327d0ee4965fd92f33e06de.html#a41e6a1fbc327d0ee4965fd92f33e06de", null ],
-    [ "Item", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a8d9b3a7317525bd4c527b18c3eff68c4.html#a8d9b3a7317525bd4c527b18c3eff68c4", null ],
     [ "LightDecayThroughAir", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a9beb4fbbe410e1e6435160fe4f471912.html#a9beb4fbbe410e1e6435160fe4f471912", null ],
     [ "LightDecayThroughHoney", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a52598a3c57fe50c639e27eb9f8a92aaa.html#a52598a3c57fe50c639e27eb9f8a92aaa", null ],
     [ "LightDecayThroughSolid", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a1ca16f86578165e55307687f5b561c6d.html#a1ca16f86578165e55307687f5b561c6d", null ],
     [ "LightDecayThroughWater", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a1d3ab39f7d9760919a52b24942a8210a.html#a1d3ab39f7d9760919a52b24942a8210a", null ],
     [ "NonVisiblePadding", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_ab5686869b6d0ca9973be38836394a2a2.html#ab5686869b6d0ca9973be38836394a2a2", null ],
+    [ "this[int x, int y]", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_adf3ec29775c62634612deff44921d50e.html#adf3ec29775c62634612deff44921d50e", null ],
     [ "Width", "d3/dcf/classTerraria_1_1Graphics_1_1Light_1_1LightMap_a82deaeea47d3a5c4fcc2f613bce0bf1b.html#a82deaeea47d3a5c4fcc2f613bce0bf1b", null ]
 ];

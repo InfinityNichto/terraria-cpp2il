@@ -1,5 +1,6 @@
 var classReLogic_1_1Utilities_1_1Crc32 =
 [
+    [ "Crc32", "d4/dd9/classReLogic_1_1Utilities_1_1Crc32_a229a17cf5252574878f81f6049f54834.html#a229a17cf5252574878f81f6049f54834", null ],
     [ "Calculate", "d4/dd9/classReLogic_1_1Utilities_1_1Crc32_af2b29fc4c948cf3257bd1a384e27e5c1.html#af2b29fc4c948cf3257bd1a384e27e5c1", null ],
     [ "Calculate", "d4/dd9/classReLogic_1_1Utilities_1_1Crc32_adc2e1eaa18d34ff2b72e43fa7dad5067.html#adc2e1eaa18d34ff2b72e43fa7dad5067", null ],
     [ "Calculate", "d4/dd9/classReLogic_1_1Utilities_1_1Crc32_a41eb73a653d404232ea69afa84657ebf.html#a41eb73a653d404232ea69afa84657ebf", null ],

@@ -16,6 +16,8 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1FadingParticle =
     [ "ColorTint", "d5/d71/classTerraria_1_1Graphics_1_1Renderers_1_1FadingParticle_ac8bb0216a5958092e68fa326f550d33b.html#ac8bb0216a5958092e68fa326f550d33b", null ],
     [ "FadeInNormalizedTime", "d5/d71/classTerraria_1_1Graphics_1_1Renderers_1_1FadingParticle_adad1983a1e8e5ed8702c67507de98645.html#adad1983a1e8e5ed8702c67507de98645", null ],
     [ "FadeOutNormalizedTime", "d5/d71/classTerraria_1_1Graphics_1_1Renderers_1_1FadingParticle_aabb4814da5fb842c959d74b54474ea34.html#aabb4814da5fb842c959d74b54474ea34", null ],
+    [ "k__BackingField", "d5/d71/classTerraria_1_1Graphics_1_1Renderers_1_1FadingParticle.html#ac8614fc67db36e9087e4b4a3f0d59240", null ],
+    [ "k__BackingField", "d5/d71/classTerraria_1_1Graphics_1_1Renderers_1_1FadingParticle.html#ad8ca4ee16e33f953b1d92f556adb8d85", null ],
     [ "LocalPosition", "d5/d71/classTerraria_1_1Graphics_1_1Renderers_1_1FadingParticle.html#a0de37b58f2ae916a5089fd67d6c86189", null ],
     [ "Rotation", "d5/d71/classTerraria_1_1Graphics_1_1Renderers_1_1FadingParticle.html#a742071d057f2d77d7cad514d998c1f00", null ],
     [ "RotationAcceleration", "d5/d71/classTerraria_1_1Graphics_1_1Renderers_1_1FadingParticle.html#a0de4f3ffb5dcaf54a9afb970b4a29139", null ],

@@ -2,6 +2,7 @@ var classTerraria_1_1Recipe =
 [
     [ "RequiredItemEntry", "d2/d08/structTerraria_1_1Recipe_1_1RequiredItemEntry.html", "d2/d08/structTerraria_1_1Recipe_1_1RequiredItemEntry" ],
     [ "Recipe", "d5/dda/classTerraria_1_1Recipe_ade1fefc36e934771721c59cf6e2555ae.html#ade1fefc36e934771721c59cf6e2555ae", null ],
+    [ "Recipe", "d5/dda/classTerraria_1_1Recipe_aedd53efb302e284c273eb145e66c428d.html#aedd53efb302e284c273eb145e66c428d", null ],
     [ "AcceptedByItemGroups", "d5/dda/classTerraria_1_1Recipe_a19ee9388f4e74b037b276a3c130497b0.html#a19ee9388f4e74b037b276a3c130497b0", null ],
     [ "AcceptsGroup", "d5/dda/classTerraria_1_1Recipe_ab6d2216ebf2619f88d383996316abe52.html#ab6d2216ebf2619f88d383996316abe52", null ],
     [ "AddAshWoodFurnitureArmorAndItems", "d5/dda/classTerraria_1_1Recipe_aaa53d4301d3366977e2615543f8a1e30.html#aaa53d4301d3366977e2615543f8a1e30", null ],
@@ -81,6 +82,6 @@ var classTerraria_1_1Recipe =
     [ "notDecraftable", "d5/dda/classTerraria_1_1Recipe_a69290bcd23e30c189f04109ccf0c1b89.html#a69290bcd23e30c189f04109ccf0c1b89", null ],
     [ "numRecipes", "d5/dda/classTerraria_1_1Recipe_aca1536d9c763364371cdf07184e88d47.html#aca1536d9c763364371cdf07184e88d47", null ],
     [ "requiredItem", "d5/dda/classTerraria_1_1Recipe_af22eb0593ef65eaccb70c303df9be04f.html#af22eb0593ef65eaccb70c303df9be04f", null ],
-    [ "requiredItemQuickLookup", "d5/dda/classTerraria_1_1Recipe_aee074140fb70fcb77565cbba519f87f1.html#aee074140fb70fcb77565cbba519f87f1", null ],
+    [ "requiredItemQuickLookup", "d5/dda/classTerraria_1_1Recipe_a4963c1c47939406ba8fc80d7564f828e.html#a4963c1c47939406ba8fc80d7564f828e", null ],
     [ "requiredTile", "d5/dda/classTerraria_1_1Recipe_a08dc0d2f9333c8f5625144178ac1b3c3.html#a08dc0d2f9333c8f5625144178ac1b3c3", null ]
 ];

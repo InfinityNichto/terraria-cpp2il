@@ -10,6 +10,6 @@ var classTerraria_1_1DataStructures_1_1TileDrawSorter =
     [ "Sort", "dd/d16/classTerraria_1_1DataStructures_1_1TileDrawSorter_a8d5dcfc4cb6182e9aeb698ffccecb513.html#a8d5dcfc4cb6182e9aeb698ffccecb513", null ],
     [ "_currentCacheIndex", "dd/d16/classTerraria_1_1DataStructures_1_1TileDrawSorter_a53bb29172920b7b1dabe91f2aeac3a75.html#a53bb29172920b7b1dabe91f2aeac3a75", null ],
     [ "_holderLength", "dd/d16/classTerraria_1_1DataStructures_1_1TileDrawSorter_a8b7e54d0d403953c882f90583a1e54ee.html#a8b7e54d0d403953c882f90583a1e54ee", null ],
-    [ "_tileComparer", "dd/d16/classTerraria_1_1DataStructures_1_1TileDrawSorter_a46f070b97ac70a31c871479e342c7a8c.html#a46f070b97ac70a31c871479e342c7a8c", null ],
-    [ "tilesToDraw", "dd/d16/classTerraria_1_1DataStructures_1_1TileDrawSorter_a74b00bdf27da6357595091d0038c31b0.html#a74b00bdf27da6357595091d0038c31b0", null ]
+    [ "_tileComparer", "dd/d16/classTerraria_1_1DataStructures_1_1TileDrawSorter_aed6e87fb4695cf8feb768aa682a525ef.html#aed6e87fb4695cf8feb768aa682a525ef", null ],
+    [ "tilesToDraw", "dd/d16/classTerraria_1_1DataStructures_1_1TileDrawSorter_af4e603ef30091c589f426faa91bf68a6.html#af4e603ef30091c589f426faa91bf68a6", null ]
 ];

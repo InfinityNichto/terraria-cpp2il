@@ -10,6 +10,6 @@ var structVector2Array__10 =
     [ "val7", "de/dfe/structVector2Array__10_a6e46207292ececda9b4263ec8293141b.html#a6e46207292ececda9b4263ec8293141b", null ],
     [ "val8", "de/dfe/structVector2Array__10_ac65d0d5e0f68d182ff539895378bbb4f.html#ac65d0d5e0f68d182ff539895378bbb4f", null ],
     [ "val9", "de/dfe/structVector2Array__10_a8db185498c052c47dc9b8257e98bde4f.html#a8db185498c052c47dc9b8257e98bde4f", null ],
-    [ "Item", "de/dfe/structVector2Array__10_a2945f76076420fc4adb35d77755e897f.html#a2945f76076420fc4adb35d77755e897f", null ],
-    [ "Length", "de/dfe/structVector2Array__10_a959690abe56e011aba6c8fdd722f688e.html#a959690abe56e011aba6c8fdd722f688e", null ]
+    [ "Length", "de/dfe/structVector2Array__10_a959690abe56e011aba6c8fdd722f688e.html#a959690abe56e011aba6c8fdd722f688e", null ],
+    [ "this[int index]", "de/dfe/structVector2Array__10_a519f3e29af4268246650b28bb8b91709.html#a519f3e29af4268246650b28bb8b91709", null ]
 ];

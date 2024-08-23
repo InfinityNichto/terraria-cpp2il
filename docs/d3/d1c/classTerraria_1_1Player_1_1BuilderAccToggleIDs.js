@@ -1,5 +1,6 @@
 var classTerraria_1_1Player_1_1BuilderAccToggleIDs =
 [
+    [ "BuilderAccToggleIDs", "d3/d1c/classTerraria_1_1Player_1_1BuilderAccToggleIDs_a62b83e0a41f6defff6831d2c1caa46dd.html#a62b83e0a41f6defff6831d2c1caa46dd", null ],
     [ "AutoActuate", "d3/d1c/classTerraria_1_1Player_1_1BuilderAccToggleIDs_a50dc770d5b79a5af4d107377a1701d3b.html#a50dc770d5b79a5af4d107377a1701d3b", null ],
     [ "AutoPaint", "d3/d1c/classTerraria_1_1Player_1_1BuilderAccToggleIDs_a2808bb5bac264ee6a43b5dc0209099cb.html#a2808bb5bac264ee6a43b5dc0209099cb", null ],
     [ "BlockSwap", "d3/d1c/classTerraria_1_1Player_1_1BuilderAccToggleIDs_a712cb1c9373f58b127a85cfb2c010dda.html#a712cb1c9373f58b127a85cfb2c010dda", null ],

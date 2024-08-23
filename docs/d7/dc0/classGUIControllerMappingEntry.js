@@ -2,11 +2,12 @@ var classGUIControllerMappingEntry =
 [
     [ "GUIControllerMappingEntry", "d7/dc0/classGUIControllerMappingEntry_a298e6c945b55be10763c4408135f8f6a.html#a298e6c945b55be10763c4408135f8f6a", null ],
     [ "GUIControllerMappingEntry", "d7/dc0/classGUIControllerMappingEntry_ac8eb8366327b720e21a9769886ebd26d.html#ac8eb8366327b720e21a9769886ebd26d", null ],
+    [ "GUIControllerMappingEntry", "d7/dc0/classGUIControllerMappingEntry_af499dac10960fe597721a802cf7d201b.html#af499dac10960fe597721a802cf7d201b", null ],
     [ "Draw", "d7/dc0/classGUIControllerMappingEntry_a4222552c07981bb9f9558a793349c9f4.html#a4222552c07981bb9f9558a793349c9f4", null ],
     [ "DrawOverlay", "d7/dc0/classGUIControllerMappingEntry_a3a3cee778c40e79f74a3162f77ebf161.html#a3a3cee778c40e79f74a3162f77ebf161", null ],
     [ "GetElementHeight", "d7/dc0/classGUIControllerMappingEntry_a99c89c27e09a025840d9ca9bc531d1f5.html#a99c89c27e09a025840d9ca9bc531d1f5", null ],
     [ "GetTitle", "d7/dc0/classGUIControllerMappingEntry_a326fb0acb76ab51432ee2d30addc8b2b.html#a326fb0acb76ab51432ee2d30addc8b2b", null ],
-    [ "IsOverOptions", "d7/dc0/classGUIControllerMappingEntry_a2371a50e581932d4533c7cc1f96c1c86.html#a2371a50e581932d4533c7cc1f96c1c86", null ],
+    [ "IsOverOptions", "d7/dc0/classGUIControllerMappingEntry_aa05cc5198ce3bef77d8baf508d190fdd.html#aa05cc5198ce3bef77d8baf508d190fdd", null ],
     [ "RebindAxis", "d7/dc0/classGUIControllerMappingEntry_a1cd5c380414ca414e5d476b481709366.html#a1cd5c380414ca414e5d476b481709366", null ],
     [ "RebindButton", "d7/dc0/classGUIControllerMappingEntry_a705cd24c73eacfe479f1080066260d67.html#a705cd24c73eacfe479f1080066260d67", null ],
     [ "RebindButton", "d7/dc0/classGUIControllerMappingEntry_a56ee6dc50ba28efdfcf9b5361b89e282.html#a56ee6dc50ba28efdfcf9b5361b89e282", null ],

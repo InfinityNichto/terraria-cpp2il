@@ -1,5 +1,6 @@
 var interfaceReLogic_1_1Content_1_1IAsyncAssetLoader =
 [
+    [ "Dispose", "d0/d63/interfaceReLogic_1_1Content_1_1IAsyncAssetLoader.html#a710286bfcecdda4067fe45e6c927f482", null ],
     [ "Load< T >", "d0/d63/interfaceReLogic_1_1Content_1_1IAsyncAssetLoader_aee6f466144d1c8fa258a10f82b9d111d.html#aee6f466144d1c8fa258a10f82b9d111d", null ],
     [ "Start", "d0/d63/interfaceReLogic_1_1Content_1_1IAsyncAssetLoader_acef48abcc1849cc8101f450f8e7f023b.html#acef48abcc1849cc8101f450f8e7f023b", null ],
     [ "Stop", "d0/d63/interfaceReLogic_1_1Content_1_1IAsyncAssetLoader_a371231d0808076228d5575effb5edbcc.html#a371231d0808076228d5575effb5edbcc", null ],

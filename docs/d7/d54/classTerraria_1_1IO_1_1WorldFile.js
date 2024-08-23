@@ -6,6 +6,7 @@ var classTerraria_1_1IO_1_1WorldFile =
       [ "SaveAndExit", "d7/d54/classTerraria_1_1IO_1_1WorldFile_ae990d05c1959a9991ae8cd9d81838d37.html#ae990d05c1959a9991ae8cd9d81838d37a35b43051b7d9a02095cdd7cd26cc5236", null ]
     ] ],
     [ "WorldFile", "d7/d54/classTerraria_1_1IO_1_1WorldFile_ac4b15241192ab10a5a8107e676e625a6.html#ac4b15241192ab10a5a8107e676e625a6", null ],
+    [ "WorldFile", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a59041e0496ddaa9312e5c6a3a2a3f4ce.html#a59041e0496ddaa9312e5c6a3a2a3f4ce", null ],
     [ "CacheSaveTime", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a850a62e47e95763c7108123d5eb78077.html#a850a62e47e95763c7108123d5eb78077", null ],
     [ "CheckSavedOreTiers", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a42d60ef0600142fcaea1127e3f035483.html#a42d60ef0600142fcaea1127e3f035483", null ],
     [ "ClearTempTiles", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a5e63df1daa779ba1e65200e25c7a3cc1.html#a5e63df1daa779ba1e65200e25c7a3cc1", null ],
@@ -60,8 +61,8 @@ var classTerraria_1_1IO_1_1WorldFile =
     [ "SaveTileEntities", "d7/d54/classTerraria_1_1IO_1_1WorldFile_ad1e35287980e3a7b7b0205493485b030.html#ad1e35287980e3a7b7b0205493485b030", null ],
     [ "SaveTownManager", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a571df9e6c738e81cf15c868b0b210b48.html#a571df9e6c738e81cf15c868b0b210b48", null ],
     [ "SaveWeightedPressurePlates", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a5109d5816481637f05ddd26f7173c7b3.html#a5109d5816481637f05ddd26f7173c7b3", null ],
-    [ "SaveWorld", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a416dbfd4813e5710be9fae60c8084e86.html#a416dbfd4813e5710be9fae60c8084e86", null ],
-    [ "SaveWorld", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a1d088374426d03e9c3c4b567fee8f086.html#a1d088374426d03e9c3c4b567fee8f086", null ],
+    [ "SaveWorld", "d7/d54/classTerraria_1_1IO_1_1WorldFile_ad87a2f997bde6389f7af8388b96de6c4.html#ad87a2f997bde6389f7af8388b96de6c4", null ],
+    [ "SaveWorld", "d7/d54/classTerraria_1_1IO_1_1WorldFile_abc2c937e448eb6a42a2862dc9f916377.html#abc2c937e448eb6a42a2862dc9f916377", null ],
     [ "SaveWorld_Version2", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a74808b6768d0ec2193ed60b2d12da572.html#a74808b6768d0ec2193ed60b2d12da572", null ],
     [ "SaveWorldHeader", "d7/d54/classTerraria_1_1IO_1_1WorldFile_ad1656ea525cdd1a34277c8d1c76d790d.html#ad1656ea525cdd1a34277c8d1c76d790d", null ],
     [ "SaveWorldTiles", "d7/d54/classTerraria_1_1IO_1_1WorldFile_ab505f7b94cab049fdad5496059c4de04.html#ab505f7b94cab049fdad5496059c4de04", null ],
@@ -120,5 +121,5 @@ var classTerraria_1_1IO_1_1WorldFile =
     [ "SavingWorld", "d7/d54/classTerraria_1_1IO_1_1WorldFile_afda823488aba2dedd1d180d135177e7f.html#afda823488aba2dedd1d180d135177e7f", null ],
     [ "TempPartyCelebratingNPCs", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a97a34639e21857b9b4dc522864ddfd9a.html#a97a34639e21857b9b4dc522864ddfd9a", null ],
     [ "TutorialWorldData", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a5d079c94e3fd1eb9a15f6699cc98c619.html#a5d079c94e3fd1eb9a15f6699cc98c619", null ],
-    [ "OnWorldLoad", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a598b9acb7d910029e99941390b030515.html#a598b9acb7d910029e99941390b030515", null ]
+    [ "OnWorldLoad", "d7/d54/classTerraria_1_1IO_1_1WorldFile_a53b69c67e1655c2365a6e463565a8e93.html#a53b69c67e1655c2365a6e463565a8e93", null ]
 ];

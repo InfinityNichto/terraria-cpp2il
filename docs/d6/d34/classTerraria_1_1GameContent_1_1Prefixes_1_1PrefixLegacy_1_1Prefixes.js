@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1Prefixes =
 [
     [ "Prefixes", "d6/d34/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1Prefixes_a6731c6b58b5553aa226a6a204fa2ae7d.html#a6731c6b58b5553aa226a6a204fa2ae7d", null ],
+    [ "Prefixes", "d6/d34/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1Prefixes_aa256a4de52b52a0c6da3952a24f10e02.html#aa256a4de52b52a0c6da3952a24f10e02", null ],
     [ "PrefixesForAccessories", "d6/d34/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1Prefixes_a3b1c505cdf80a35c9520b81b0697b7ac.html#a3b1c505cdf80a35c9520b81b0697b7ac", null ],
     [ "PrefixesForBoomeransAndChakrums", "d6/d34/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1Prefixes_a63f7ee6d0091caa6ce5b6a45d6a30f37.html#a63f7ee6d0091caa6ce5b6a45d6a30f37", null ],
     [ "PrefixesForBoomeransAndChakrums_TerrarianYoyo", "d6/d34/classTerraria_1_1GameContent_1_1Prefixes_1_1PrefixLegacy_1_1Prefixes_aa8e49d460875ec93c77a5620aa6f3460.html#aa8e49d460875ec93c77a5620aa6f3460", null ],

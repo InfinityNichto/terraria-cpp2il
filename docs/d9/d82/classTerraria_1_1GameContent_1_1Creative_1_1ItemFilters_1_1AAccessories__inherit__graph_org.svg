@@ -12,19 +12,19 @@
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="265.5,-286 81.5,-286 81.5,-189 265.5,-189 265.5,-286"/>
-<text text-anchor="start" x="96" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.Creative.</text>
-<text text-anchor="start" x="113" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">ItemFilters.AAccessories</text>
-<text text-anchor="start" x="171.5" y="-247.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="85.5" y="-232.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="98.5" y="-232.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsAnAccessoryOfType</text>
-<text text-anchor="start" x="98.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Item entry, AccessoriesCategory</text>
-<text text-anchor="start" x="98.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00"> categoryType)</text>
-<text text-anchor="start" x="85.5" y="-195.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="98.5" y="-195.5" font-family="Helvetica,sans-Serif" font-size="10.00">AAccessories()</text>
-<polygon fill="#666666" stroke="#666666" points="81.5,-257.5 81.5,-257.5 265.5,-257.5 265.5,-257.5 81.5,-257.5"/>
-<polygon fill="#666666" stroke="#666666" points="81.5,-242.5 81.5,-242.5 265.5,-242.5 265.5,-242.5 81.5,-242.5"/>
-<polygon fill="none" stroke="#666666" points="81.5,-189 81.5,-286 265.5,-286 265.5,-189 81.5,-189"/>
+<polygon fill="#999999" stroke="transparent" points="276,-286 71,-286 71,-189 276,-189 276,-286"/>
+<text text-anchor="start" x="96.5" y="-273.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.Creative.</text>
+<text text-anchor="start" x="113.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">ItemFilters.AAccessories</text>
+<text text-anchor="start" x="172" y="-247.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="75.5" y="-232.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="88.5" y="-232.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsAnAccessoryOfType</text>
+<text text-anchor="start" x="88.5" y="-221.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Item entry, ItemFilters.AAccessories.</text>
+<text text-anchor="start" x="88.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">AccessoriesCategory categoryType)</text>
+<text text-anchor="start" x="75.5" y="-195.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="88.5" y="-195.5" font-family="Helvetica,sans-Serif" font-size="10.00">AAccessories()</text>
+<polygon fill="#666666" stroke="#666666" points="71.5,-257.5 71.5,-257.5 276.5,-257.5 276.5,-257.5 71.5,-257.5"/>
+<polygon fill="#666666" stroke="#666666" points="71.5,-242.5 71.5,-242.5 276.5,-242.5 276.5,-242.5 71.5,-242.5"/>
+<polygon fill="none" stroke="#666666" points="71,-189 71,-286 276,-286 276,-189 71,-189"/>
 </a>
 </g>
 </g>

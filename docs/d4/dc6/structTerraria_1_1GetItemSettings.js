@@ -1,6 +1,7 @@
 var structTerraria_1_1GetItemSettings =
 [
-    [ "GetItemSettings", "d4/dc6/structTerraria_1_1GetItemSettings_a446581667ee1d9ff34ae7eb9bcd2f134.html#a446581667ee1d9ff34ae7eb9bcd2f134", null ],
+    [ "GetItemSettings", "d4/dc6/structTerraria_1_1GetItemSettings_a75462a86a9c8ff964e89d992a0131c35.html#a75462a86a9c8ff964e89d992a0131c35", null ],
+    [ "GetItemSettings", "d4/dc6/structTerraria_1_1GetItemSettings_a50317614c1b8581a8fc7e3efa19b45d3.html#a50317614c1b8581a8fc7e3efa19b45d3", null ],
     [ "HandlePostAction", "d4/dc6/structTerraria_1_1GetItemSettings_a9d024cfb59ba4d7a4339b86a157a7765.html#a9d024cfb59ba4d7a4339b86a157a7765", null ],
     [ "MakeNewAndShiny", "d4/dc6/structTerraria_1_1GetItemSettings_ad3163929ffa75346dde8a6002c0546dc.html#ad3163929ffa75346dde8a6002c0546dc", null ],
     [ "CanGoIntoVoidVault", "d4/dc6/structTerraria_1_1GetItemSettings_a336fbaf41e96b66aa323598019c47ffa.html#a336fbaf41e96b66aa323598019c47ffa", null ],

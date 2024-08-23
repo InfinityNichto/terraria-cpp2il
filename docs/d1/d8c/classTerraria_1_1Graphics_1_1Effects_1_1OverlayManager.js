@@ -1,7 +1,7 @@
 var classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager =
 [
     [ "OverlayManager", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager_a609718674acb9683def4dbaeb15b75d1.html#a609718674acb9683def4dbaeb15b75d1", null ],
-    [ "Activate", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html#a2d3f5644672df2227c0b410df788dabb", null ],
+    [ "Activate", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html#a224b091552cf08f4c607416929807a2b", null ],
     [ "Bind", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html#adbf65de80e8bec0758f91537dcf1a220", null ],
     [ "Deactivate", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html#ac5b6d021a29d4a2c7034c20794a73ccc", null ],
     [ "Draw", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager_a41ae2eaa6ea029778c4e108b24fa3644.html#a41ae2eaa6ea029778c4e108b24fa3644", null ],
@@ -16,5 +16,5 @@ var classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager =
     [ "_overlayCount", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager_a69c1bd40560e864b8dcceedd996369ea.html#a69c1bd40560e864b8dcceedd996369ea", null ],
     [ "OPACITY_RATE", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager_aa4a2b815c60a172116ce8790d57b4647.html#aa4a2b815c60a172116ce8790d57b4647", null ],
     [ "IsLoaded", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html#ab9b1223a55a0821e320d37aca0c561ca", null ],
-    [ "Item", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html#abca861e6914e515faaf10f7616d69fd0", null ]
+    [ "this[string key]", "d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html#a75aa67f89b65d5b2ff3a7716e21fb6e3", null ]
 ];

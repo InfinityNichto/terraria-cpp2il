@@ -10,6 +10,6 @@ var structIntArray__10 =
     [ "val7", "d3/d43/structIntArray__10_aff21aeb831b0199c770ef52df8fcf2e7.html#aff21aeb831b0199c770ef52df8fcf2e7", null ],
     [ "val8", "d3/d43/structIntArray__10_ae30b41297cf0532b88c7d9e17cce4ec1.html#ae30b41297cf0532b88c7d9e17cce4ec1", null ],
     [ "val9", "d3/d43/structIntArray__10_a1f880ad81e85c647a6cea9213228dea7.html#a1f880ad81e85c647a6cea9213228dea7", null ],
-    [ "Item", "d3/d43/structIntArray__10_a4b51c7a94000791c815399629fcc06b9.html#a4b51c7a94000791c815399629fcc06b9", null ],
-    [ "Length", "d3/d43/structIntArray__10_a344098c22870457ba82425999c7c4458.html#a344098c22870457ba82425999c7c4458", null ]
+    [ "Length", "d3/d43/structIntArray__10_a344098c22870457ba82425999c7c4458.html#a344098c22870457ba82425999c7c4458", null ],
+    [ "this[int index]", "d3/d43/structIntArray__10_a70bdc89e116f72fee59ee1c53b61f9ff.html#a70bdc89e116f72fee59ee1c53b61f9ff", null ]
 ];

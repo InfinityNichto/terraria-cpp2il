@@ -39,6 +39,7 @@ var classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySlid
     [ "_powerNameKey", "d1/d1b/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySliderPower.html#a87745389dad99ba303df9dc06267b6fe", null ],
     [ "_sliderCurrentValueCache", "d1/d1b/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySliderPower.html#af5581f686e3fa035b75d0f68319cd206", null ],
     [ "_syncToJoiningPlayers", "d1/d1b/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySliderPower.html#ac43bef996e2d4b77a5fe05bd9e72ecae", null ],
+    [ "k__BackingField", "d1/d1b/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySliderPower_a2aba0c116c38ff3afcd78f3461cccb33.html#a2aba0c116c38ff3afcd78f3461cccb33", null ],
     [ "CurrentPermissionLevel", "d1/d1b/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySliderPower.html#a37a265f42210c900e14dc28572125cf8", null ],
     [ "DefaultPermissionLevel", "d1/d1b/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySliderPower.html#a4dea2311d685400de6eab55ad6816414", null ],
     [ "PowerId", "d1/d1b/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1DifficultySliderPower.html#a86a770f923151344b44c40d52c5b5350", null ],

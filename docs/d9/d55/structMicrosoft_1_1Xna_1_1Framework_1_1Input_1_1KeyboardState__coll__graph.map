@@ -1,7 +1,14 @@
 <map id="Microsoft.Xna.Framework.Input.KeyboardState" name="Microsoft.Xna.Framework.Input.KeyboardState">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,251,237,920"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="19,5,114,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,71,67,142,71,227,71,234,66,235,65,227,62,143,63,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="157,5,195,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,71,159,234,154,233,170,71"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,379,322,1068"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,100,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,199,64,270,78,354,88,394,83,395,73,355,58,271,52,199"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="133,133,172,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,198,174,362,169,363,153,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="196,133,331,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="263,199,246,363,241,362,257,198"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="321,5,363,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,68,290,96,273,134,268,132,285,93,309,64"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="355,133,489,199"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="374,75,387,93,409,132,404,134,382,96,370,78"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="419,199,404,271,381,356,331,479,326,477,375,354,399,270,414,198"/>
 </map>

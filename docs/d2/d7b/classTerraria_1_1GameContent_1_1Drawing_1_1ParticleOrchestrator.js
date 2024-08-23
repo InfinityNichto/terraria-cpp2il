@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator =
 [
     [ "ParticleOrchestrator", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_a8b6922976e9c652d8ce8b82279290e0b.html#a8b6922976e9c652d8ce8b82279290e0b", null ],
+    [ "ParticleOrchestrator", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_a3528ed556945a4aa863266dac77e7f30.html#a3528ed556945a4aa863266dac77e7f30", null ],
     [ "BroadcastOrRequestParticleSpawn", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_a60735a46bedf5f74dda2923783031edf.html#a60735a46bedf5f74dda2923783031edf", null ],
     [ "BroadcastParticleSpawn", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_a8d37379c2b37f8c9457aae67db7774fb.html#a8d37379c2b37f8c9457aae67db7774fb", null ],
     [ "CopperSlimeEffect", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_a186b3ed120a18f1823ec9419dcf53d43.html#a186b3ed120a18f1823ec9419dcf53d43", null ],
@@ -13,7 +14,7 @@ var classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator =
     [ "GetNewPrettySparkleParticle", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_a30883b9f81aebeaf063714a9400ee4ec.html#a30883b9f81aebeaf063714a9400ee4ec", null ],
     [ "GetNewRandomizedFrameParticle", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_abc44c2d9c6eeff4bfd457b9307933b50.html#abc44c2d9c6eeff4bfd457b9307933b50", null ],
     [ "NerdySlimeEffect", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_aded83e093ca5bd4d393c12d709381eca.html#aded83e093ca5bd4d393c12d709381eca", null ],
-    [ "RequestParticleSpawn", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_afecdaec68cbfae52a38fde2137446815.html#afecdaec68cbfae52a38fde2137446815", null ],
+    [ "RequestParticleSpawn", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_ae2bc5afac7b43eb577d6da20efb67e30.html#ae2bc5afac7b43eb577d6da20efb67e30", null ],
     [ "Spawn_AshTreeShake", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_abdb39b381be014654272e4814c58e908.html#abdb39b381be014654272e4814c58e908", null ],
     [ "Spawn_BlackLightningHit", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_a06bccdf49f66e82f51be3e4ff221cb56.html#a06bccdf49f66e82f51be3e4ff221cb56", null ],
     [ "Spawn_BlackLightningSmall", "d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_afcacec1185b3e0085873e2cf11f8966f.html#afcacec1185b3e0085873e2cf11f8966f", null ],

@@ -37,15 +37,15 @@
 <text text-anchor="start" x="21.5" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">Microsoft.Xna.Framework.</text>
 <text text-anchor="start" x="21.5" y="-293.5" font-family="Helvetica,sans-Serif" font-size="10.00">DrawableGameComponent</text>
 <text text-anchor="start" x="4.5" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">int DrawOrder</text>
-<text text-anchor="start" x="4.5" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Visible</text>
-<text text-anchor="start" x="4.5" y="-248.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-248.5" font-family="Helvetica,sans-Serif" font-size="10.00">EventHandler&lt; EventArgs</text>
-<text text-anchor="start" x="17.5" y="-237.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &gt; DrawOrderChanged</text>
-<text text-anchor="start" x="4.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-222.5" font-family="Helvetica,sans-Serif" font-size="10.00">EventHandler&lt; EventArgs</text>
-<text text-anchor="start" x="17.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &gt; VisibleChanged</text>
+<text text-anchor="start" x="17.5" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">EventHandler&lt; EventArgs</text>
+<text text-anchor="start" x="17.5" y="-267.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &gt; DrawOrderChanged</text>
+<text text-anchor="start" x="4.5" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17.5" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">EventHandler&lt; EventArgs</text>
+<text text-anchor="start" x="17.5" y="-241.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &gt; VisibleChanged</text>
+<text text-anchor="start" x="4.5" y="-226.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17.5" y="-226.5" font-family="Helvetica,sans-Serif" font-size="10.00">int DrawOrder</text>
+<text text-anchor="start" x="4.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17.5" y="-211.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Visible</text>
 <text text-anchor="start" x="7" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="17.5" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool _isInitialized</text>
 <text text-anchor="start" x="7" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>

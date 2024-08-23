@@ -1,6 +1,7 @@
 var classLocalUser =
 [
     [ "LocalUser", "de/daf/classLocalUser_adee5a68f8818f96e2c03a880b597e6ca.html#adee5a68f8818f96e2c03a880b597e6ca", null ],
+    [ "LocalUser", "de/daf/classLocalUser_a3fa58d32f28d5376ad8c76b8ec92218a.html#a3fa58d32f28d5376ad8c76b8ec92218a", null ],
     [ "GetCamera", "de/daf/classLocalUser_aec179c21f750a1cade7887a57e31ed60.html#aec179c21f750a1cade7887a57e31ed60", null ],
     [ "GetUICamera", "de/daf/classLocalUser_acec2484fc8408a2b5fcbaae154f8463b.html#acec2484fc8408a2b5fcbaae154f8463b", null ],
     [ "GetWorldCamera", "de/daf/classLocalUser_aa6fc2c423178bb289d86057f83468bcf.html#aa6fc2c423178bb289d86057f83468bcf", null ],

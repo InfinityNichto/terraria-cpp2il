@@ -22,5 +22,5 @@ var classGUIControllerJourneyModeSettings =
     [ "_overlayOffset", "d6/dae/classGUIControllerJourneyModeSettings_a4ee180c1fc8d3129835eb47709d3dc86.html#a4ee180c1fc8d3129835eb47709d3dc86", null ],
     [ "_overlayRegion", "d6/dae/classGUIControllerJourneyModeSettings_acfbf8d6e75ee97ce45163a9f32c7fab6.html#acfbf8d6e75ee97ce45163a9f32c7fab6", null ],
     [ "_selectedItem", "d6/dae/classGUIControllerJourneyModeSettings_aac7a04277affaf456155efb2a661bf60.html#aac7a04277affaf456155efb2a661bf60", null ],
-    [ "selectedControl", "d6/dae/classGUIControllerJourneyModeSettings_a4a01dae3e2fdac90e91a10e8c3bcd1ed.html#a4a01dae3e2fdac90e91a10e8c3bcd1ed", null ]
+    [ "selectedControl", "d6/dae/classGUIControllerJourneyModeSettings_ab1bb0c138d83068a9d913557ca761526.html#ab1bb0c138d83068a9d913557ca761526", null ]
 ];

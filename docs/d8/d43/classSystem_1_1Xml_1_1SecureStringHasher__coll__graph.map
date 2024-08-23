@@ -1,0 +1,14 @@
+<map id="System.Xml.SecureStringHasher" name="System.Xml.SecureStringHasher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="206,661,435,929"/>
+<area shape="rect" id="Node000002" href="$dc/d67/interfaceSystem_1_1Collections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="462,168,643,268"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="589,280,607,330,626,406,638,468,638,498,634,529,624,563,607,600,574,648,532,689,485,722,437,750,434,745,482,718,528,684,570,644,602,597,619,561,629,528,633,498,632,469,621,407,602,331,584,281"/>
+<area shape="rect" id="Node000004" href="$d6/d19/classSystem_1_1Xml_1_1SecureStringHasher.html" title=" " alt="" coords="206,331,435,599"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="499,280,438,344,434,341,495,276"/>
+<area shape="rect" id="Node000003" href="$dc/d67/interfaceSystem_1_1Collections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="454,5,651,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="555,119,555,168,550,168,550,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,599,323,644,318,644,318,599"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="437,435,455,446,462,464,459,477,452,486,448,482,454,474,457,465,451,450,434,440"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="123,185,153,251"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="124,233,82,273,60,301,44,332,19,405,8,467,9,497,15,527,27,560,44,597,73,640,109,677,150,709,193,736,190,740,147,713,106,681,69,643,40,600,22,562,10,529,4,497,3,467,14,404,39,330,56,298,78,270,121,229"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="156,239,213,316,209,319,151,242"/>
+</map>

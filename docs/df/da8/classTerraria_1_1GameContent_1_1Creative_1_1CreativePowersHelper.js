@@ -2,6 +2,7 @@ var classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper =
 [
     [ "CreativePowerIconLocations", "d8/dcd/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_1_1CreativePowerIconLocations.html", "d8/dcd/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_1_1CreativePowerIconLocations" ],
     [ "CreativePowersHelper", "df/da8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_a57bcd62c6c9abe18a3c2ce9bcbf58db9.html#a57bcd62c6c9abe18a3c2ce9bcbf58db9", null ],
+    [ "CreativePowersHelper", "df/da8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_a17c7cecdf0366ad0ab82cc684b05f483.html#a17c7cecdf0366ad0ab82cc684b05f483", null ],
     [ "AddDescriptionIfNeeded", "df/da8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_a4c9eb38267440f59489545be6a18ef10.html#a4c9eb38267440f59489545be6a18ef10", null ],
     [ "AddPermissionTextIfNeeded", "df/da8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_a4768f270913076ce504ca3869272e4a5.html#a4768f270913076ce504ca3869272e4a5", null ],
     [ "AddUnlockTextIfNeeded", "df/da8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowersHelper_af826fd18c43f4add5fa780e4d16f453f.html#af826fd18c43f4add5fa780e4d16f453f", null ],

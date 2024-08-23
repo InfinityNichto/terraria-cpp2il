@@ -9,5 +9,6 @@ var classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropNotScalingWithLuc
     [ "chanceDenominator", "d9/d84/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropNotScalingWithLuck.html#af68eded46e0cee87bbd81469e5d93db6", null ],
     [ "chanceNumerator", "d9/d84/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropNotScalingWithLuck.html#a33c9332c4f3aa2325947a78c7c4d8bf0", null ],
     [ "itemId", "d9/d84/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropNotScalingWithLuck.html#a972e202bcce578a569265347eb565e42", null ],
+    [ "k__BackingField", "d9/d84/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropNotScalingWithLuck.html#a9f9173698194a8ab2f2fa569948dd842", null ],
     [ "ChainedRules", "d9/d84/classTerraria_1_1GameContent_1_1ItemDropRules_1_1CommonDropNotScalingWithLuck.html#af132204fe3a07a5f33b22533ef382c86", null ]
 ];

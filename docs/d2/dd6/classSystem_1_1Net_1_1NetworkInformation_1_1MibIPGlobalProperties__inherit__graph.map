@@ -1,0 +1,9 @@
+<map id="System.Net.NetworkInformation.MibIPGlobalProperties" name="System.Net.NetworkInformation.MibIPGlobalProperties">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,449,244,713"/>
+<area shape="rect" id="Node000002" href="$da/d36/classSystem_1_1Net_1_1NetworkInformation_1_1UnixIPGlobalProperties.html" title=" " alt="" coords="35,336,224,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,415,132,449,127,449,127,415"/>
+<area shape="rect" id="Node000003" href="$d5/d39/classSystem_1_1Net_1_1NetworkInformation_1_1CommonUnixIPGlobalProperties.html" title=" " alt="" coords="5,188,253,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,302,132,336,127,336,127,302"/>
+<area shape="rect" id="Node000004" href="$d3/db5/classSystem_1_1Net_1_1NetworkInformation_1_1IPGlobalProperties.html" title=" " alt="" coords="11,5,247,140"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="132,154,132,188,127,188,127,154"/>
+</map>

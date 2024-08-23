@@ -1,7 +1,11 @@
 <map id="Terraria.GameContent.Bestiary.NPCNetIdBestiaryInfoElement" name="Terraria.GameContent.Bestiary.NPCNetIdBestiaryInfoElement">
-<area shape="rect" id="Node000001" title=" " alt="" coords="121,133,347,283"/>
-<area shape="rect" id="Node000002" href="$d9/d8f/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiaryInfoElement.html" title=" " alt="" coords="5,5,231,85"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,95,183,132,179,135,152,98"/>
-<area shape="rect" id="Node000003" href="$d9/db0/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiaryEntryDisplayIndex.html" title=" " alt="" coords="255,13,445,78"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="321,91,290,135,285,132,317,88"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="237,276,463,425"/>
+<area shape="rect" id="Node000002" href="$d9/d8f/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiaryInfoElement.html" title=" " alt="" coords="5,133,231,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,220,254,274,251,278,179,224"/>
+<area shape="rect" id="Node000003" href="$d9/db0/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiaryEntryDisplayIndex.html" title=" " alt="" coords="255,141,445,206"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="353,220,353,276,347,276,347,220"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="470,141,566,206"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="489,208,434,266,430,262,486,204"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="503,5,533,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="521,84,521,140,515,140,515,84"/>
 </map>

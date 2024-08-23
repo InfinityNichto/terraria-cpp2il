@@ -17,7 +17,7 @@ var classFadeString__Layout =
     [ "MaxLines", "d7/d4a/classFadeString__Layout.html#a648855771ae5970bd10b33cefcf1d214", null ],
     [ "MultilineScale", "d7/d4a/classFadeString__Layout.html#aedde05ae65f9fabfa12a79575dadd479", null ],
     [ "MultiLineUseAlignment", "d7/d4a/classFadeString__Layout.html#af27061349b3cbae1ee7e975a67d6f38f", null ],
-    [ "RenderFont", "d7/d4a/classFadeString__Layout.html#a82b846517b1e3e969d228c55f232139e", null ],
+    [ "RenderFont", "d7/d4a/classFadeString__Layout.html#a2fd1498e273d977857283bda5223da92", null ],
     [ "Scale", "d7/d4a/classFadeString__Layout.html#a51468d1036ea012a15ca829a46195c51", null ],
     [ "WrapWidth", "d7/d4a/classFadeString__Layout.html#a9783f4006cc969031b8c9cc51f6e76c4", null ]
 ];

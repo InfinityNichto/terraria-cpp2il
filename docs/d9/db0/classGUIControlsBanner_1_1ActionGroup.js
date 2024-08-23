@@ -1,10 +1,10 @@
 var classGUIControlsBanner_1_1ActionGroup =
 [
     [ "ActionGroup", "d9/db0/classGUIControlsBanner_1_1ActionGroup_a93ada1c80ee99eca3c1e8e325e2a710b.html#a93ada1c80ee99eca3c1e8e325e2a710b", null ],
-    [ "ActionDown", "d9/db0/classGUIControlsBanner_1_1ActionGroup_a1f1c02c2d2761b8b9c017aa0a38fc8e5.html#a1f1c02c2d2761b8b9c017aa0a38fc8e5", null ],
-    [ "ActionLeft", "d9/db0/classGUIControlsBanner_1_1ActionGroup_aba8e45325d7500518972d7f784cbd3e2.html#aba8e45325d7500518972d7f784cbd3e2", null ],
-    [ "ActionRight", "d9/db0/classGUIControlsBanner_1_1ActionGroup_a34a9fbd93231b10bbb97a57a41f5ccbd.html#a34a9fbd93231b10bbb97a57a41f5ccbd", null ],
-    [ "ActionUp", "d9/db0/classGUIControlsBanner_1_1ActionGroup_a88303e70d2f01fadfc74c4c9b7e4134e.html#a88303e70d2f01fadfc74c4c9b7e4134e", null ],
+    [ "ActionDown", "d9/db0/classGUIControlsBanner_1_1ActionGroup_a844c24f3e2f240b8d12a34e89b49dabd.html#a844c24f3e2f240b8d12a34e89b49dabd", null ],
+    [ "ActionLeft", "d9/db0/classGUIControlsBanner_1_1ActionGroup_a31369b3e563aebeb2853c8bc6ef59868.html#a31369b3e563aebeb2853c8bc6ef59868", null ],
+    [ "ActionRight", "d9/db0/classGUIControlsBanner_1_1ActionGroup_a93f3a130796639c7847aa039a104cfcd.html#a93f3a130796639c7847aa039a104cfcd", null ],
+    [ "ActionUp", "d9/db0/classGUIControlsBanner_1_1ActionGroup_abd371d9ea0485ae7863cb7eae92fdf9a.html#abd371d9ea0485ae7863cb7eae92fdf9a", null ],
     [ "ScaleDown", "d9/db0/classGUIControlsBanner_1_1ActionGroup_aa851a6da617cd843cc64a403d06038d4.html#aa851a6da617cd843cc64a403d06038d4", null ],
     [ "ScaleLeft", "d9/db0/classGUIControlsBanner_1_1ActionGroup_a3dc4b2443ba7dabb42350637b9c97916.html#a3dc4b2443ba7dabb42350637b9c97916", null ],
     [ "ScaleRight", "d9/db0/classGUIControlsBanner_1_1ActionGroup_ad9b6a0260288ad477d272b2eb9ee573f.html#ad9b6a0260288ad477d272b2eb9ee573f", null ],

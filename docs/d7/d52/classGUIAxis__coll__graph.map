@@ -1,5 +1,5 @@
 <map id="GUIAxis" name="GUIAxis">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,316,645"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="139,5,182,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,71,163,117,158,117,158,71"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,445,709"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="204,5,247,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,71,228,117,223,117,223,71"/>
 </map>

@@ -7,7 +7,5 @@ var classDrPlatform_1_1XBO_1_1User =
     [ "HasChatPermissions", "d8/d1c/classDrPlatform_1_1XBO_1_1User_a5becde1ddd708a1849105f69a9b33956.html#a5becde1ddd708a1849105f69a9b33956", null ],
     [ "HasMultiplayerPermissions", "d8/d1c/classDrPlatform_1_1XBO_1_1User_a045e69f8e31d8e99ebbd9ad48b598c1d.html#a045e69f8e31d8e99ebbd9ad48b598c1d", null ],
     [ "HasUserGeneratedContentPermissions", "d8/d1c/classDrPlatform_1_1XBO_1_1User_a781b68610e8582000ae955a9577f17ae.html#a781b68610e8582000ae955a9577f17ae", null ],
-    [ "LocalUserId", "d8/d1c/classDrPlatform_1_1XBO_1_1User_a18fd2f6d31ccaa8ac07a75d3e4f378c5.html#a18fd2f6d31ccaa8ac07a75d3e4f378c5", null ],
-    [ "UserUID", "d8/d1c/classDrPlatform_1_1XBO_1_1User_a2eb23d1ba12356fd803b646c2ef4f42d.html#a2eb23d1ba12356fd803b646c2ef4f42d", null ],
-    [ "XBOGoldAccount", "d8/d1c/classDrPlatform_1_1XBO_1_1User_a0e6d22ef19276929584cedd4f8311ba6.html#a0e6d22ef19276929584cedd4f8311ba6", null ]
+    [ "UserUID", "d8/d1c/classDrPlatform_1_1XBO_1_1User_a2eb23d1ba12356fd803b646c2ef4f42d.html#a2eb23d1ba12356fd803b646c2ef4f42d", null ]
 ];

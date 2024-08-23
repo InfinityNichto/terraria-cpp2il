@@ -2,7 +2,7 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1MapHeadRenderer =
 [
     [ "MapHeadRenderer", "d9/dfd/classTerraria_1_1Graphics_1_1Renderers_1_1MapHeadRenderer_a5c3c3e2a495e5de085c935fc6b7a1ab4.html#a5c3c3e2a495e5de085c935fc6b7a1ab4", null ],
     [ "CreateOutlines", "d9/dfd/classTerraria_1_1Graphics_1_1Renderers_1_1MapHeadRenderer_a5fa2f3f50a1dc010736727897979073b.html#a5fa2f3f50a1dc010736727897979073b", null ],
-    [ "DrawPlayerHead", "d9/dfd/classTerraria_1_1Graphics_1_1Renderers_1_1MapHeadRenderer_a913e55cdfa8544a54578d630a91b0f15.html#a913e55cdfa8544a54578d630a91b0f15", null ],
+    [ "DrawPlayerHead", "d9/dfd/classTerraria_1_1Graphics_1_1Renderers_1_1MapHeadRenderer_aa17ed0d020bbbd9c528b2c1bbf793c04.html#aa17ed0d020bbbd9c528b2c1bbf793c04", null ],
     [ "PrepareRenderTarget", "d9/dfd/classTerraria_1_1Graphics_1_1Renderers_1_1MapHeadRenderer_a4011d2ad8fedc27b6abc0cd6a54c11fa.html#a4011d2ad8fedc27b6abc0cd6a54c11fa", null ],
     [ "RenderDrawData", "d9/dfd/classTerraria_1_1Graphics_1_1Renderers_1_1MapHeadRenderer_a3049f46eeecbce95c7b5fc9f12be5214.html#a3049f46eeecbce95c7b5fc9f12be5214", null ],
     [ "Reset", "d9/dfd/classTerraria_1_1Graphics_1_1Renderers_1_1MapHeadRenderer_a8282257a09f007873645fdea8c923857.html#a8282257a09f007873645fdea8c923857", null ],

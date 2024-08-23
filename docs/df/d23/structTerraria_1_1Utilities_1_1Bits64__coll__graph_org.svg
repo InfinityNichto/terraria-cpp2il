@@ -15,7 +15,7 @@
 <polygon fill="#999999" stroke="transparent" points="133,-101 0,-101 0,0 133,0 133,-101"/>
 <text text-anchor="start" x="11" y="-88.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utilities.Bits64</text>
 <text text-anchor="start" x="4.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Item</text>
+<text text-anchor="start" x="17.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool this[int i]</text>
 <text text-anchor="start" x="4.5" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsEmpty</text>
 <text text-anchor="start" x="4.5" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -34,7 +34,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="../../d7/d2d/classulong.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="85.5,-197 47.5,-197 47.5,-148 85.5,-148 85.5,-197"/>
 <text text-anchor="start" x="52.5" y="-184.5" font-family="Helvetica,sans-Serif" font-size="10.00">ulong</text>
 <text text-anchor="start" x="64.5" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>

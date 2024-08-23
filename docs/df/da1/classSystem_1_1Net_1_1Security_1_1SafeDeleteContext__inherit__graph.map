@@ -1,0 +1,11 @@
+<map id="System.Net.Security.SafeDeleteContext" name="System.Net.Security.SafeDeleteContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,779,302,943"/>
+<area shape="rect" id="Node000005" href="$d1/de0/classSystem_1_1Net_1_1Security_1_1SafeDeleteNegoContext.html" title=" " alt="" coords="64,991,313,1363"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,956,191,990,186,990,186,956"/>
+<area shape="rect" id="Node000002" href="$d5/db0/classSystem_1_1Runtime_1_1InteropServices_1_1SafeHandle.html" title=" " alt="" coords="72,148,305,731"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,745,191,779,186,779,186,745"/>
+<area shape="rect" id="Node000003" href="$dc/dcc/classglobal_1_1SystemRuntime_1_1ConstrainedExecution_1_1CriticalFinalizerObject.html" title=" " alt="" coords="5,5,172,100"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,113,116,147,111,149,102,114"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,20,383,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="281,99,268,149,263,147,276,98"/>
+</map>

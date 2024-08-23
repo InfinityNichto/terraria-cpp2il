@@ -4,5 +4,5 @@ var classTerraria_1_1GameContent_1_1ObjectInteractions_1_1PotionOfReturnSmartInt
     [ "PotionOfReturnSmartInteractCandidateProvider", "df/da8/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1PotionOfReturnSmartInteractCandidateProvider_aa16c267fd50778c9e592bb9e9040d365.html#aa16c267fd50778c9e592bb9e9040d365", null ],
     [ "ClearSelfAndPrepareForCheck", "df/da8/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1PotionOfReturnSmartInteractCandidateProvider_a9f3be94968dd1f03272e98fd844f7b8f.html#a9f3be94968dd1f03272e98fd844f7b8f", null ],
     [ "ProvideCandidate", "df/da8/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1PotionOfReturnSmartInteractCandidateProvider_ac662106f152e5eedad44a1f6278ec228.html#ac662106f152e5eedad44a1f6278ec228", null ],
-    [ "_candidate", "df/da8/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1PotionOfReturnSmartInteractCandidateProvider_a45f61d3e9d37c6c55df3327d87a5e388.html#a45f61d3e9d37c6c55df3327d87a5e388", null ]
+    [ "_candidate", "df/da8/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1PotionOfReturnSmartInteractCandidateProvider_a8461efc4ab12d446bd4141c115b8e74b.html#a8461efc4ab12d446bd4141c115b8e74b", null ]
 ];

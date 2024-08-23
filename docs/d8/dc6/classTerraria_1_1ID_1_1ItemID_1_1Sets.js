@@ -1,9 +1,10 @@
 var classTerraria_1_1ID_1_1ItemID_1_1Sets =
 [
     [ "Sets", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a5bfb46b8c995fba3858074c7eda1c3eb.html#a5bfb46b8c995fba3858074c7eda1c3eb", null ],
+    [ "Sets", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_af6d908f20a62e701167b295de5c5ec21.html#af6d908f20a62e701167b295de5c5ec21", null ],
     [ "AlsoABuildingItem", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a1395e728b1d1ca9bcc1e66129a37f34a.html#a1395e728b1d1ca9bcc1e66129a37f34a", null ],
     [ "AnimatesAsSoul", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a0df97ea721c9dee11adf9acd445316d4.html#a0df97ea721c9dee11adf9acd445316d4", null ],
-    [ "BannerStrength", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a020acadf3675ddbdfd747c21a3181f49.html#a020acadf3675ddbdfd747c21a3181f49", null ],
+    [ "BannerStrength", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a8f216c106ff1c109a5ee7e4e9fdfe64a.html#a8f216c106ff1c109a5ee7e4e9fdfe64a", null ],
     [ "BonusMeleeSpeedMultiplier", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_afd734b30166663548fa6813c8dc74af1.html#afd734b30166663548fa6813c8dc74af1", null ],
     [ "BossBag", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a3419d4d992c55e2ffc9e1db80f64e6ed.html#a3419d4d992c55e2ffc9e1db80f64e6ed", null ],
     [ "CanBePlacedOnWeaponRacks", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a0742666407fd5b5fe0ae6442fe167d2c.html#a0742666407fd5b5fe0ae6442fe167d2c", null ],
@@ -12,7 +13,7 @@ var classTerraria_1_1ID_1_1ItemID_1_1Sets =
     [ "CanGetPrefixes", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a5e4a25539977d630bf8d9ba10527b946.html#a5e4a25539977d630bf8d9ba10527b946", null ],
     [ "ColorfulDyeValues", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a0fad39daabaf96892c986b35fadee940.html#a0fad39daabaf96892c986b35fadee940", null ],
     [ "CommonCoin", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a256dc2aead7ad49f434ad638b54e619f.html#a256dc2aead7ad49f434ad638b54e619f", null ],
-    [ "DD2BannerEffect", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_aca30287e598e54ab4cc3f84f00a3f9fb.html#aca30287e598e54ab4cc3f84f00a3f9fb", null ],
+    [ "DD2BannerEffect", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_ac56f5ba4dc4d85ff639b6892ea724539.html#ac56f5ba4dc4d85ff639b6892ea724539", null ],
     [ "DefaultKillsForBannerNeeded", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_ab2ad026c0cf2373a550aa18a90462af1.html#ab2ad026c0cf2373a550aa18a90462af1", null ],
     [ "Deprecated", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_a18c0201555513e2a24239e3d0def404e.html#a18c0201555513e2a24239e3d0def404e", null ],
     [ "DrawUnsafeIndicator", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets_ac4cacab297922d4c45fc079fbcfda370.html#ac4cacab297922d4c45fc079fbcfda370", null ],

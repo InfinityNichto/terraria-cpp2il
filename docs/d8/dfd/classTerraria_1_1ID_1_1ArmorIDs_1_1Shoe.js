@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Shoe =
 [
     [ "Sets", "d3/dc4/classTerraria_1_1ID_1_1ArmorIDs_1_1Shoe_1_1Sets.html", "d3/dc4/classTerraria_1_1ID_1_1ArmorIDs_1_1Shoe_1_1Sets" ],
     [ "Shoe", "d8/dfd/classTerraria_1_1ID_1_1ArmorIDs_1_1Shoe_ada643eecb39cec16a17744e144e34a7a.html#ada643eecb39cec16a17744e144e34a7a", null ],
+    [ "Shoe", "d8/dfd/classTerraria_1_1ID_1_1ArmorIDs_1_1Shoe_aacf4ef255a605e697f642d65e039e8a0.html#aacf4ef255a605e697f642d65e039e8a0", null ],
     [ "AmphibianBoots", "d8/dfd/classTerraria_1_1ID_1_1ArmorIDs_1_1Shoe_af3226f1c677b5b47608c10eda4ce59e3.html#af3226f1c677b5b47608c10eda4ce59e3", null ],
     [ "Count", "d8/dfd/classTerraria_1_1ID_1_1ArmorIDs_1_1Shoe_a83d772d30fb888beed25bad2b4d84d19.html#a83d772d30fb888beed25bad2b4d84d19", null ],
     [ "FairyBoots", "d8/dfd/classTerraria_1_1ID_1_1ArmorIDs_1_1Shoe_a935c5e525a5e3143271e4e4282b9be7d.html#a935c5e525a5e3143271e4e4282b9be7d", null ],

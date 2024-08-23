@@ -6,10 +6,10 @@ var classGUILowMemoryPopup =
       [ "GenerateLarge", "d7/d75/classGUILowMemoryPopup_a2918ab1bc4e44a7ea079c1e0a659a149.html#a2918ab1bc4e44a7ea079c1e0a659a149a5ee5a7427cd27d7ae948d258fe5b42ef", null ]
     ] ],
     [ "GUILowMemoryPopup", "d7/d75/classGUILowMemoryPopup_a755862b2aa6d3775e72b5baab1a55a0e.html#a755862b2aa6d3775e72b5baab1a55a0e", null ],
-    [ "CheckMemoryAction", "d7/d75/classGUILowMemoryPopup_acf63be3643bdcbe9b8f48e2681b21ffd.html#acf63be3643bdcbe9b8f48e2681b21ffd", null ],
+    [ "CheckMemoryAction", "d7/d75/classGUILowMemoryPopup_a7bc80e4a3dd4c66eb86249ba94f959c3.html#a7bc80e4a3dd4c66eb86249ba94f959c3", null ],
     [ "Draw", "d7/d75/classGUILowMemoryPopup_a4e988faa666d4253270c07ef580c9b95.html#a4e988faa666d4253270c07ef580c9b95", null ],
     [ "ContinueCallback", "d7/d75/classGUILowMemoryPopup_a45b6e190fea3bb1f3ec6b683f4598176.html#a45b6e190fea3bb1f3ec6b683f4598176", null ],
-    [ "CurrentWarning", "d7/d75/classGUILowMemoryPopup_ad27125bf359dc6268835612af15bbdac.html#ad27125bf359dc6268835612af15bbdac", null ],
+    [ "CurrentWarning", "d7/d75/classGUILowMemoryPopup_ad8dd9926644d82138d298ede58ea683b.html#ad8dd9926644d82138d298ede58ea683b", null ],
     [ "DisableWarnings", "d7/d75/classGUILowMemoryPopup_a3fa4f9c4cfb45e66d614d97dc4efbbc2.html#a3fa4f9c4cfb45e66d614d97dc4efbbc2", null ],
     [ "scale0", "d7/d75/classGUILowMemoryPopup_ab8df3b73487345383b0a6656397b9506.html#ab8df3b73487345383b0a6656397b9506", null ],
     [ "scale1", "d7/d75/classGUILowMemoryPopup_ad6050e034203780954bbcb3ffdbe4fb7.html#ad6050e034203780954bbcb3ffdbe4fb7", null ],

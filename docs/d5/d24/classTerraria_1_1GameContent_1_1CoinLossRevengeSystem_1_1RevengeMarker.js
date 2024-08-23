@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1CoinLossRevengeSystem_1_1RevengeMarker =
 [
     [ "RevengeMarker", "d5/d24/classTerraria_1_1GameContent_1_1CoinLossRevengeSystem_1_1RevengeMarker_afe95814e8d159508b5e8eb9efcb5db20.html#afe95814e8d159508b5e8eb9efcb5db20", null ],
+    [ "RevengeMarker", "d5/d24/classTerraria_1_1GameContent_1_1CoinLossRevengeSystem_1_1RevengeMarker_adc4f364c29db320e8151bd1f6ed60b99.html#adc4f364c29db320e8151bd1f6ed60b99", null ],
     [ "CalculateExpirationTime", "d5/d24/classTerraria_1_1GameContent_1_1CoinLossRevengeSystem_1_1RevengeMarker_a92bd75764947d75848ee58da7dbd2cc7.html#a92bd75764947d75848ee58da7dbd2cc7", null ],
     [ "DrawMapIcon", "d5/d24/classTerraria_1_1GameContent_1_1CoinLossRevengeSystem_1_1RevengeMarker_a38a15ee2c668e5e645e893833b7cf95a.html#a38a15ee2c668e5e645e893833b7cf95a", null ],
     [ "Intersects", "d5/d24/classTerraria_1_1GameContent_1_1CoinLossRevengeSystem_1_1RevengeMarker_a76d53c6f66faf275d89d0cb2a5c183b9.html#a76d53c6f66faf275d89d0cb2a5c183b9", null ],

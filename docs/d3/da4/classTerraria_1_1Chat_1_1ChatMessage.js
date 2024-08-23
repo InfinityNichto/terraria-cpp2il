@@ -8,6 +8,9 @@ var classTerraria_1_1Chat_1_1ChatMessage =
     [ "Serialize", "d3/da4/classTerraria_1_1Chat_1_1ChatMessage_a547fce0f4eb6cfb4cde301b05a10fd77.html#a547fce0f4eb6cfb4cde301b05a10fd77", null ],
     [ "SetCommand", "d3/da4/classTerraria_1_1Chat_1_1ChatMessage_a6c330c0d5faf22e0804c29eba6cd9aa5.html#a6c330c0d5faf22e0804c29eba6cd9aa5", null ],
     [ "SetCommand< T >", "d3/da4/classTerraria_1_1Chat_1_1ChatMessage_a21be74b6c24e216e8dc1b0cd762330e2.html#a21be74b6c24e216e8dc1b0cd762330e2", null ],
+    [ "k__BackingField", "d3/da4/classTerraria_1_1Chat_1_1ChatMessage_a6f20082148ab7f0222a2ddfd8156bfb4.html#a6f20082148ab7f0222a2ddfd8156bfb4", null ],
+    [ "k__BackingField", "d3/da4/classTerraria_1_1Chat_1_1ChatMessage_aa0c070506d18f8bd5c4d0041ac7732cb.html#aa0c070506d18f8bd5c4d0041ac7732cb", null ],
+    [ "k__BackingField", "d3/da4/classTerraria_1_1Chat_1_1ChatMessage_ab6e8a25e50fbb042c6d4c2e6fb8dca80.html#ab6e8a25e50fbb042c6d4c2e6fb8dca80", null ],
     [ "CommandId", "d3/da4/classTerraria_1_1Chat_1_1ChatMessage_a6e152959baef9498ce75608896c8685e.html#a6e152959baef9498ce75608896c8685e", null ],
     [ "IsConsumed", "d3/da4/classTerraria_1_1Chat_1_1ChatMessage_a9d7541324b483f92c1570caa16853458.html#a9d7541324b483f92c1570caa16853458", null ],
     [ "Text", "d3/da4/classTerraria_1_1Chat_1_1ChatMessage_acb39da00247c6c793314b9e2e217acb7.html#acb39da00247c6c793314b9e2e217acb7", null ]

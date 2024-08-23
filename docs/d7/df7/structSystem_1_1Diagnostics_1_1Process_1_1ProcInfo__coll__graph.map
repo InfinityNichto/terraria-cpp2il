@@ -1,0 +1,18 @@
+<map id="System.Diagnostics.Process.ProcInfo" name="System.Diagnostics.Process.ProcInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="517,1264,719,1344"/>
+<area shape="rect" id="Node000002" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1172"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,1171,436,1206,461,1238,481,1256,504,1270,501,1274,478,1260,457,1242,431,1209,408,1174"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="478,579,496,612,503,660,499,698,488,727,483,726,494,697,497,660,491,613,474,581"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,97,146,172,141,174,116,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="498,79,481,133,476,132,493,77"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="569,627,600,693"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="582,693,571,787,562,923,562,1000,565,1081,574,1161,589,1239,591,1248,586,1250,583,1241,568,1162,560,1081,556,1001,557,923,566,786,577,692"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="626,627,677,693"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="653,693,625,1240,624,1248,619,1248,619,1240,647,693"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="757,627,799,693"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="787,692,801,792,806,859,806,934,801,1013,787,1092,763,1170,727,1241,717,1254,713,1251,722,1239,758,1168,782,1091,795,1012,801,934,800,859,795,792,782,693"/>
+</map>

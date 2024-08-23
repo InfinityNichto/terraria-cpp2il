@@ -1,6 +1,7 @@
 var classTerraria_1_1PopupText =
 [
     [ "PopupText", "de/d22/classTerraria_1_1PopupText_a12f3199eb0bf172431cc67be85fb28f6.html#a12f3199eb0bf172431cc67be85fb28f6", null ],
+    [ "PopupText", "de/d22/classTerraria_1_1PopupText_a043914f5415da0b9da21dac54fbd50e7.html#a043914f5415da0b9da21dac54fbd50e7", null ],
     [ "AddToCoinValue", "de/d22/classTerraria_1_1PopupText_afb39895c06957eb82de09f2bb59597d2.html#afb39895c06957eb82de09f2bb59597d2", null ],
     [ "AssignAsSonarText", "de/d22/classTerraria_1_1PopupText_a8ae5d180279d89d4629dfc96c25e12cd.html#a8ae5d180279d89d4629dfc96c25e12cd", null ],
     [ "ClearAll", "de/d22/classTerraria_1_1PopupText_a1866c0db0fd8f0b89523e9f52aeb5f47.html#a1866c0db0fd8f0b89523e9f52aeb5f47", null ],

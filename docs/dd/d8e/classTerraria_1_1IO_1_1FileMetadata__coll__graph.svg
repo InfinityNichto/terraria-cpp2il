@@ -53,7 +53,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="../../d7/d2d/classulong.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="38,-297 0,-297 0,-248 38,-248 38,-297"/>
 <text text-anchor="start" x="5" y="-284.5" font-family="Helvetica,sans-Serif" font-size="10.00">ulong</text>
 <text text-anchor="start" x="17" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>

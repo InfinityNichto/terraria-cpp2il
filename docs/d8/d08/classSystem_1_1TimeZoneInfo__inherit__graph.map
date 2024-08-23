@@ -1,0 +1,9 @@
+<map id="System.TimeZoneInfo" name="System.TimeZoneInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,148,601,3197"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,241,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,106,140,147,134,148,128,106"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="265,13,456,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="363,106,363,148,358,148,358,106"/>
+<area shape="rect" id="Node000004" href="$d0/d59/classglobal_1_1SystemRuntime_1_1Serialization_1_1IDeserializationCallback.html" title=" " alt="" coords="481,5,694,100"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="582,114,577,148,572,147,576,113"/>
+</map>

@@ -1,5 +1,6 @@
 var classTerraria_1_1DataStructures_1_1PlayerDrawLayers =
 [
+    [ "PlayerDrawLayers", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a4a7bc2c6541a3511b872ae0569e88bde.html#a4a7bc2c6541a3511b872ae0569e88bde", null ],
     [ "DrawCompositeArmorPiece", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a34d3da0d7e69f03c1352720126e57743.html#a34d3da0d7e69f03c1352720126e57743", null ],
     [ "DrawMeowcartTrail", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a136e46485e6807c0ef56f4f327f89473.html#a136e46485e6807c0ef56f4f327f89473", null ],
     [ "DrawPlayer_01_2_JimsCloak", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a5ecb2fa7a32d738e183576ff3ab1eca9.html#a5ecb2fa7a32d738e183576ff3ab1eca9", null ],
@@ -66,9 +67,9 @@ var classTerraria_1_1DataStructures_1_1PlayerDrawLayers =
     [ "DrawPlayer_Head_GetTVScreen", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a4d0254fd4f715782665d523f1d9ad411.html#a4d0254fd4f715782665d523f1d9ad411", null ],
     [ "DrawPlayer_JimsDroneRadio", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a02fedefe11f6ee550aeb309e4ed6923f.html#a02fedefe11f6ee550aeb309e4ed6923f", null ],
     [ "DrawPlayer_MakeIntoFirstFractalAfterImage", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a4a9b6cb09430186ee0a239b0bc34db28.html#a4a9b6cb09430186ee0a239b0bc34db28", null ],
-    [ "DrawPlayer_RenderAllLayers", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a55762350c47a9fa715fc5678cb3a5d6e.html#a55762350c47a9fa715fc5678cb3a5d6e", null ],
+    [ "DrawPlayer_RenderAllLayers", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a4c5ca5109febe592c7d9493abd5c75f1.html#a4c5ca5109febe592c7d9493abd5c75f1", null ],
     [ "DrawPlayer_ScaleDrawData", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a18c79110f07dd71cb4626ccdd63834c6.html#a18c79110f07dd71cb4626ccdd63834c6", null ],
-    [ "DrawPlayer_TransformDrawData", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a2a2740408f052510dcd531d04665b7ef.html#a2a2740408f052510dcd531d04665b7ef", null ],
+    [ "DrawPlayer_TransformDrawData", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a912c08d49c9be5b385bdeb5d4a470103.html#a912c08d49c9be5b385bdeb5d4a470103", null ],
     [ "DrawSittingLegs", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a9d08c7c5a44cfed00b7f669622e18ed9.html#a9d08c7c5a44cfed00b7f669622e18ed9", null ],
     [ "DrawSittingLongCoats", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_aae705496bfa7809b6a7eb4397a6d8547.html#aae705496bfa7809b6a7eb4397a6d8547", null ],
     [ "DrawStarboardRainbowTrail", "d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_a06f15485844ad5e0488818900137ea65.html#a06f15485844ad5e0488818900137ea65", null ],

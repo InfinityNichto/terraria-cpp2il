@@ -86,7 +86,7 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="17" y="-579.5" font-family="Helvetica,sans-Serif" font-size="10.00">int _lastStarFillingIndex</text>
 <text text-anchor="start" x="6.5" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="17" y="-564.5" font-family="Helvetica,sans-Serif" font-size="10.00">float _manaPerStar</text>
-<text text-anchor="start" x="17" y="-549.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 16 more...</text>
+<text text-anchor="start" x="17" y="-549.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 18 more...</text>
 <text text-anchor="start" x="4" y="-534.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-534.5" font-family="Helvetica,sans-Serif" font-size="10.00">FancyClassicPlayerResources</text>
 <text text-anchor="start" x="17" y="-523.5" font-family="Helvetica,sans-Serif" font-size="10.00">DisplaySet(string nameKey,</text>

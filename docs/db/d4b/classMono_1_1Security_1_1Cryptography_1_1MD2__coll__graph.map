@@ -1,0 +1,18 @@
+<map id="Mono.Security.Cryptography.MD2" name="Mono.Security.Cryptography.MD2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="400,1431,629,1556"/>
+<area shape="rect" id="Node000002" href="$d2/d1c/classSystem_1_1Security_1_1Cryptography_1_1HashAlgorithm.html" title=" " alt="" coords="251,445,515,1381"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,1394,503,1430,498,1431,490,1395"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,192,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,84,93,142,92,213,97,291,111,367,138,455,172,542,212,626,253,703,248,705,207,628,167,544,133,457,105,369,92,291,87,213,88,142,91,84"/>
+<area shape="rect" id="Node000004" href="$d3/dac/interfaceSystem_1_1Security_1_1Cryptography_1_1ICryptoTransform.html" title=" " alt="" coords="120,120,360,368"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="131,81,157,118,152,121,126,84"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="272,381,285,445,280,446,267,382"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="384,211,427,277"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="402,278,387,392,384,429,379,429,381,392,397,277"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="473,211,503,277"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="486,277,462,429,456,428,480,277"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="609,211,652,277"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="632,277,628,310,619,349,605,388,582,423,568,433,554,436,541,439,528,447,527,449,523,445,525,443,539,434,553,431,566,428,578,419,600,386,614,347,623,309,627,276"/>
+<area shape="rect" id="Node000008" href="$d4/d14/classglobal_1_1SystemSecurity_1_1Cryptography_1_1HashAlgorithm.html" title=" " alt="" coords="539,873,754,953"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="637,968,531,1431,526,1430,632,966"/>
+</map>

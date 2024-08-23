@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1LootSimulation_1_1SimulationConditionSetters =
 [
     [ "SimulationConditionSetters", "d8/dec/classTerraria_1_1GameContent_1_1LootSimulation_1_1SimulationConditionSetters_afea69ba4cdc5ac0ddfe00c1394203da0.html#afea69ba4cdc5ac0ddfe00c1394203da0", null ],
+    [ "SimulationConditionSetters", "d8/dec/classTerraria_1_1GameContent_1_1LootSimulation_1_1SimulationConditionSetters_ad82743568dd8a768b251d0cb4bdfd459.html#ad82743568dd8a768b251d0cb4bdfd459", null ],
     [ "BloodMoon", "d8/dec/classTerraria_1_1GameContent_1_1LootSimulation_1_1SimulationConditionSetters_a767ac4f8e96f58b20cc1093a3cca6284.html#a767ac4f8e96f58b20cc1093a3cca6284", null ],
     [ "Eclipse", "d8/dec/classTerraria_1_1GameContent_1_1LootSimulation_1_1SimulationConditionSetters_a1538ac90fbd03426b15d3c44d03ec27a.html#a1538ac90fbd03426b15d3c44d03ec27a", null ],
     [ "ExpertAndHardMode", "d8/dec/classTerraria_1_1GameContent_1_1LootSimulation_1_1SimulationConditionSetters_a2d78256a614c5a8eb3a1c49ffc87673d.html#a2d78256a614c5a8eb3a1c49ffc87673d", null ],

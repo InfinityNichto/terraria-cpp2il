@@ -1,5 +1,6 @@
 var classTerraria_1_1WorldGen_1_1SavedOreTiers =
 [
+    [ "SavedOreTiers", "d4/d20/classTerraria_1_1WorldGen_1_1SavedOreTiers_aa1335df04c0f3e0b18269bb89d0b518b.html#aa1335df04c0f3e0b18269bb89d0b518b", null ],
     [ "Adamantite", "d4/d20/classTerraria_1_1WorldGen_1_1SavedOreTiers_a894c7c6e445e384a4ba7bad0c3916f05.html#a894c7c6e445e384a4ba7bad0c3916f05", null ],
     [ "Cobalt", "d4/d20/classTerraria_1_1WorldGen_1_1SavedOreTiers_a4324ab5f25b0645ea3c3831c652f2b42.html#a4324ab5f25b0645ea3c3831c652f2b42", null ],
     [ "Copper", "d4/d20/classTerraria_1_1WorldGen_1_1SavedOreTiers_aba3845a7b490f0590cae988c66b4950d.html#aba3845a7b490f0590cae988c66b4950d", null ],

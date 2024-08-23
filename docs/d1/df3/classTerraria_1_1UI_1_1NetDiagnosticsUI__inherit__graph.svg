@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 207;
+var viewWidth = 254;
 var viewHeight = 657;
 var sectionId = 'dynsection-0';
 </script>
@@ -58,54 +58,54 @@ var sectionId = 'dynsection-0';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="199,-390 0,-390 0,0 199,0 199,-390"/>
-<text text-anchor="start" x="30.5" y="-378" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.NetDiagnosticsUI</text>
-<text text-anchor="start" x="7" y="-363" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="17.5" y="-363" font-family="Helvetica,sans-Serif" font-size="10.00">CounterForMessage[]</text>
-<text text-anchor="start" x="17.5" y="-352" font-family="Helvetica,sans-Serif" font-size="10.00"> _counterByMessageId</text>
-<text text-anchor="start" x="7" y="-337" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="17.5" y="-337" font-family="Helvetica,sans-Serif" font-size="10.00">Dictionary&lt; int, Counter</text>
-<text text-anchor="start" x="17.5" y="-326" font-family="Helvetica,sans-Serif" font-size="10.00">ForMessage &gt; _counterByModuleId</text>
-<text text-anchor="start" x="7" y="-311" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="17.5" y="-311" font-family="Helvetica,sans-Serif" font-size="10.00">int _highestFoundReadBytes</text>
-<text text-anchor="start" x="7" y="-296" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="17.5" y="-296" font-family="Helvetica,sans-Serif" font-size="10.00">int _highestFoundReadCount</text>
-<text text-anchor="start" x="4.5" y="-281" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-281" font-family="Helvetica,sans-Serif" font-size="10.00">void Reset()</text>
-<text text-anchor="start" x="4.5" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">void CountReadMessage</text>
-<text text-anchor="start" x="17.5" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">(int messageId, int message</text>
-<text text-anchor="start" x="17.5" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">Length)</text>
-<text text-anchor="start" x="4.5" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">void CountSentMessage</text>
-<text text-anchor="start" x="17.5" y="-218" font-family="Helvetica,sans-Serif" font-size="10.00">(int messageId, int message</text>
-<text text-anchor="start" x="17.5" y="-207" font-family="Helvetica,sans-Serif" font-size="10.00">Length)</text>
-<text text-anchor="start" x="4.5" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">void CountReadModuleMessage</text>
-<text text-anchor="start" x="17.5" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00">(int moduleMessageId, int</text>
-<text text-anchor="start" x="17.5" y="-170" font-family="Helvetica,sans-Serif" font-size="10.00"> messageLength)</text>
-<text text-anchor="start" x="4.5" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">void CountSentModuleMessage</text>
-<text text-anchor="start" x="17.5" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">(int moduleMessageId, int</text>
-<text text-anchor="start" x="17.5" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00"> messageLength)</text>
-<text text-anchor="start" x="4.5" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">void Draw(SpriteBatch</text>
-<text text-anchor="start" x="17.5" y="-107" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch)</text>
-<text text-anchor="start" x="4.5" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00">NetDiagnosticsUI()</text>
-<text text-anchor="start" x="7" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="17.5" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00">void DrawCounter(SpriteBatch</text>
-<text text-anchor="start" x="17.5" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch, ref CounterForMessage</text>
-<text text-anchor="start" x="17.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00"> counter, string title, Vector2</text>
-<text text-anchor="start" x="17.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00"> position)</text>
-<text text-anchor="start" x="7" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="17.5" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">void DrawText(SpriteBatch</text>
-<text text-anchor="start" x="17.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch, string text,</text>
-<text text-anchor="start" x="17.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 pos, Color color)</text>
-<polygon fill="#666666" stroke="#666666" points="0.5,-373 0.5,-373 199.5,-373 199.5,-373 0.5,-373"/>
-<polygon fill="#666666" stroke="#666666" points="0.5,-291 0.5,-291 15.5,-291 15.5,-291 0.5,-291"/>
-<polygon fill="#666666" stroke="#666666" points="15.5,-291 15.5,-291 199.5,-291 199.5,-291 15.5,-291"/>
-<polygon fill="none" stroke="#666666" points="0,0 0,-390 199,-390 199,0 0,0"/>
+<polygon fill="#999999" stroke="transparent" points="246,-390 0,-390 0,0 246,0 246,-390"/>
+<text text-anchor="start" x="53.5" y="-378" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.NetDiagnosticsUI</text>
+<text text-anchor="start" x="6.5" y="-363" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-363" font-family="Helvetica,sans-Serif" font-size="10.00">NetDiagnosticsUI.Counter</text>
+<text text-anchor="start" x="17" y="-352" font-family="Helvetica,sans-Serif" font-size="10.00">ForMessage[] _counterByMessageId</text>
+<text text-anchor="start" x="6.5" y="-337" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-337" font-family="Helvetica,sans-Serif" font-size="10.00">Dictionary&lt; int, NetDiagnostics</text>
+<text text-anchor="start" x="17" y="-326" font-family="Helvetica,sans-Serif" font-size="10.00">UI.CounterForMessage &gt; _counterByModuleId</text>
+<text text-anchor="start" x="6.5" y="-311" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-311" font-family="Helvetica,sans-Serif" font-size="10.00">int _highestFoundReadBytes</text>
+<text text-anchor="start" x="6.5" y="-296" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-296" font-family="Helvetica,sans-Serif" font-size="10.00">int _highestFoundReadCount</text>
+<text text-anchor="start" x="4" y="-281" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17" y="-281" font-family="Helvetica,sans-Serif" font-size="10.00">void Reset()</text>
+<text text-anchor="start" x="4" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17" y="-266" font-family="Helvetica,sans-Serif" font-size="10.00">void CountReadMessage</text>
+<text text-anchor="start" x="17" y="-255" font-family="Helvetica,sans-Serif" font-size="10.00">(int messageId, int message</text>
+<text text-anchor="start" x="17" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">Length)</text>
+<text text-anchor="start" x="4" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">void CountSentMessage</text>
+<text text-anchor="start" x="17" y="-218" font-family="Helvetica,sans-Serif" font-size="10.00">(int messageId, int message</text>
+<text text-anchor="start" x="17" y="-207" font-family="Helvetica,sans-Serif" font-size="10.00">Length)</text>
+<text text-anchor="start" x="4" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">void CountReadModuleMessage</text>
+<text text-anchor="start" x="17" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00">(int moduleMessageId, int</text>
+<text text-anchor="start" x="17" y="-170" font-family="Helvetica,sans-Serif" font-size="10.00"> messageLength)</text>
+<text text-anchor="start" x="4" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">void CountSentModuleMessage</text>
+<text text-anchor="start" x="17" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">(int moduleMessageId, int</text>
+<text text-anchor="start" x="17" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00"> messageLength)</text>
+<text text-anchor="start" x="4" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">void Draw(SpriteBatch</text>
+<text text-anchor="start" x="17" y="-107" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch)</text>
+<text text-anchor="start" x="4" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00">NetDiagnosticsUI()</text>
+<text text-anchor="start" x="6.5" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00">void DrawCounter(SpriteBatch</text>
+<text text-anchor="start" x="17" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch, ref NetDiagnostics</text>
+<text text-anchor="start" x="17" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">UI.CounterForMessage counter,</text>
+<text text-anchor="start" x="17" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00"> string title, Vector2 position)</text>
+<text text-anchor="start" x="6.5" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">void DrawText(SpriteBatch</text>
+<text text-anchor="start" x="17" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch, string text,</text>
+<text text-anchor="start" x="17" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 pos, Color color)</text>
+<polygon fill="#666666" stroke="#666666" points="0,-373 0,-373 246,-373 246,-373 0,-373"/>
+<polygon fill="#666666" stroke="#666666" points="0,-291 0,-291 15,-291 15,-291 0,-291"/>
+<polygon fill="#666666" stroke="#666666" points="15,-291 15,-291 246,-291 246,-291 15,-291"/>
+<polygon fill="none" stroke="#666666" points="0,0 0,-390 246,-390 246,0 0,0"/>
 </a>
 </g>
 </g>
@@ -113,33 +113,33 @@ var sectionId = 'dynsection-0';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d4/ddf/interfaceTerraria_1_1UI_1_1INetDiagnosticsUI.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="188.5,-649 10.5,-649 10.5,-426 188.5,-426 188.5,-649"/>
-<text text-anchor="start" x="55.5" y="-636.5" font-family="Helvetica,sans-Serif" font-size="10.00">INetDiagnosticsUI</text>
-<text text-anchor="start" x="97.5" y="-621.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="14.5" y="-606.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-606.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Reset()</text>
-<text text-anchor="start" x="14.5" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Draw(SpriteBatch</text>
-<text text-anchor="start" x="27.5" y="-580.5" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch)</text>
-<text text-anchor="start" x="14.5" y="-565.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-565.5" font-family="Helvetica,sans-Serif" font-size="10.00">void CountReadMessage</text>
-<text text-anchor="start" x="27.5" y="-554.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int messageId, int message</text>
-<text text-anchor="start" x="27.5" y="-543.5" font-family="Helvetica,sans-Serif" font-size="10.00">Length)</text>
-<text text-anchor="start" x="14.5" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00">void CountSentMessage</text>
-<text text-anchor="start" x="27.5" y="-517.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int messageId, int message</text>
-<text text-anchor="start" x="27.5" y="-506.5" font-family="Helvetica,sans-Serif" font-size="10.00">Length)</text>
-<text text-anchor="start" x="14.5" y="-491.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-491.5" font-family="Helvetica,sans-Serif" font-size="10.00">void CountReadModuleMessage</text>
-<text text-anchor="start" x="27.5" y="-480.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int moduleMessageId, int</text>
-<text text-anchor="start" x="27.5" y="-469.5" font-family="Helvetica,sans-Serif" font-size="10.00"> messageLength)</text>
-<text text-anchor="start" x="14.5" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="27.5" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">void CountSentModuleMessage</text>
-<text text-anchor="start" x="27.5" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int moduleMessageId, int</text>
-<text text-anchor="start" x="27.5" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00"> messageLength)</text>
-<polygon fill="#666666" stroke="#666666" points="10.5,-631.5 10.5,-631.5 188.5,-631.5 188.5,-631.5 10.5,-631.5"/>
-<polygon fill="#666666" stroke="#666666" points="10.5,-616.5 10.5,-616.5 188.5,-616.5 188.5,-616.5 10.5,-616.5"/>
-<polygon fill="none" stroke="#666666" points="10.5,-426 10.5,-649 188.5,-649 188.5,-426 10.5,-426"/>
+<polygon fill="white" stroke="transparent" points="212,-649 34,-649 34,-426 212,-426 212,-649"/>
+<text text-anchor="start" x="79" y="-636.5" font-family="Helvetica,sans-Serif" font-size="10.00">INetDiagnosticsUI</text>
+<text text-anchor="start" x="121" y="-621.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="38" y="-606.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="51" y="-606.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Reset()</text>
+<text text-anchor="start" x="38" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="51" y="-591.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Draw(SpriteBatch</text>
+<text text-anchor="start" x="51" y="-580.5" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch)</text>
+<text text-anchor="start" x="38" y="-565.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="51" y="-565.5" font-family="Helvetica,sans-Serif" font-size="10.00">void CountReadMessage</text>
+<text text-anchor="start" x="51" y="-554.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int messageId, int message</text>
+<text text-anchor="start" x="51" y="-543.5" font-family="Helvetica,sans-Serif" font-size="10.00">Length)</text>
+<text text-anchor="start" x="38" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="51" y="-528.5" font-family="Helvetica,sans-Serif" font-size="10.00">void CountSentMessage</text>
+<text text-anchor="start" x="51" y="-517.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int messageId, int message</text>
+<text text-anchor="start" x="51" y="-506.5" font-family="Helvetica,sans-Serif" font-size="10.00">Length)</text>
+<text text-anchor="start" x="38" y="-491.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="51" y="-491.5" font-family="Helvetica,sans-Serif" font-size="10.00">void CountReadModuleMessage</text>
+<text text-anchor="start" x="51" y="-480.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int moduleMessageId, int</text>
+<text text-anchor="start" x="51" y="-469.5" font-family="Helvetica,sans-Serif" font-size="10.00"> messageLength)</text>
+<text text-anchor="start" x="38" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="51" y="-454.5" font-family="Helvetica,sans-Serif" font-size="10.00">void CountSentModuleMessage</text>
+<text text-anchor="start" x="51" y="-443.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int moduleMessageId, int</text>
+<text text-anchor="start" x="51" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00"> messageLength)</text>
+<polygon fill="#666666" stroke="#666666" points="34,-631.5 34,-631.5 212,-631.5 212,-631.5 34,-631.5"/>
+<polygon fill="#666666" stroke="#666666" points="34,-616.5 34,-616.5 212,-616.5 212,-616.5 34,-616.5"/>
+<polygon fill="none" stroke="#666666" points="34,-426 34,-649 212,-649 212,-426 34,-426"/>
 </a>
 </g>
 </g>
@@ -147,8 +147,8 @@ var sectionId = 'dynsection-0';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M99.5,-415.83C99.5,-407.46 99.5,-398.91 99.5,-390.28"/>
-<polygon fill="none" stroke="#63b8ff" points="96,-415.95 99.5,-425.95 103,-415.95 96,-415.95"/>
+<path fill="none" stroke="#63b8ff" d="M123,-415.83C123,-407.46 123,-398.91 123,-390.28"/>
+<polygon fill="none" stroke="#63b8ff" points="119.5,-415.95 123,-425.95 126.5,-415.95 119.5,-415.95"/>
 </a>
 </g>
 </g>

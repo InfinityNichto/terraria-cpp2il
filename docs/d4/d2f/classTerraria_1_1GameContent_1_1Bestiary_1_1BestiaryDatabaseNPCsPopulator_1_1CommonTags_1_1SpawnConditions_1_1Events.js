@@ -1,5 +1,6 @@
 var classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Events =
 [
+    [ "Events", "d4/d2f/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Events_a3de2412312abb0a944078c7600116ede.html#a3de2412312abb0a944078c7600116ede", null ],
     [ "Blizzard", "d4/d2f/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Events_a35b050b60fce1d5044f1da9dbb51e5e0.html#a35b050b60fce1d5044f1da9dbb51e5e0", null ],
     [ "BloodMoon", "d4/d2f/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Events_abe3aaec2d2e333d56f6aabcce7549e64.html#abe3aaec2d2e333d56f6aabcce7549e64", null ],
     [ "Christmas", "d4/d2f/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Events_ada15cb369126fe5c5fdf58c95019dd17.html#ada15cb369126fe5c5fdf58c95019dd17", null ],

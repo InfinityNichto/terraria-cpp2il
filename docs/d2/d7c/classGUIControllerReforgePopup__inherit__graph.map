@@ -1,5 +1,5 @@
 <map id="GUIControllerReforgePopup" name="GUIControllerReforgePopup">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,208,223,383"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,208,223,397"/>
 <area shape="rect" id="Node000002" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="9,5,219,160"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,174,117,208,111,208,111,174"/>
 </map>

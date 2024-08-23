@@ -14,5 +14,5 @@ var classGUIControllerAchievements =
     [ "GetSelectedItemRegion", "d2/de5/classGUIControllerAchievements_ab8227390cff55256e22a9d5d94f588e6.html#ab8227390cff55256e22a9d5d94f588e6", null ],
     [ "Navigate", "d2/de5/classGUIControllerAchievements_a905cdeb2c295ea5d4e77c78540454fa3.html#a905cdeb2c295ea5d4e77c78540454fa3", null ],
     [ "UpdateScroll", "d2/de5/classGUIControllerAchievements_ad6e3ee69507faa8c74d19f2eb2602081.html#ad6e3ee69507faa8c74d19f2eb2602081", null ],
-    [ "selectedControl", "d2/de5/classGUIControllerAchievements_a528a8ab41cbd257aa62bed02619e543b.html#a528a8ab41cbd257aa62bed02619e543b", null ]
+    [ "selectedControl", "d2/de5/classGUIControllerAchievements_a84838413cfcac723491d6c948a56c1b5.html#a84838413cfcac723491d6c948a56c1b5", null ]
 ];

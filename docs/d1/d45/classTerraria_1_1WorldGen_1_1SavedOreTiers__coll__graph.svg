@@ -26,7 +26,8 @@
 <text text-anchor="start" x="5" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldGen.SavedOre</text>
 <text text-anchor="start" x="61.5" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">Tiers</text>
 <text text-anchor="start" x="72" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="72" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="9.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="23" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">static SavedOreTiers()</text>
 <polygon fill="#666666" stroke="#666666" points="0,-32 0,-32 148,-32 148,-32 0,-32"/>
 <polygon fill="#666666" stroke="#666666" points="0,-17 0,-17 148,-17 148,-17 0,-17"/>
 <polygon fill="none" stroke="#666666" points="0,0 0,-60 148,-60 148,0 0,0"/>

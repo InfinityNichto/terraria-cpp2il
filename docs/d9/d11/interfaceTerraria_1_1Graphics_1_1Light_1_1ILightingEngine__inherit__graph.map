@@ -1,7 +1,7 @@
 <map id="Terraria.Graphics.Light.ILightingEngine" name="Terraria.Graphics.Light.ILightingEngine">
 <area shape="rect" id="Node000001" title=" " alt="" coords="161,5,396,264"/>
-<area shape="rect" id="Node000002" href="$dc/d2c/classTerraria_1_1Graphics_1_1Light_1_1LegacyLighting.html" title=" " alt="" coords="5,366,259,1222"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,278,230,367,225,365,244,277"/>
-<area shape="rect" id="Node000003" href="$dc/d40/classTerraria_1_1Graphics_1_1Light_1_1LightingEngine.html" title=" " alt="" coords="283,312,570,1276"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,277,321,311,316,312,308,278"/>
+<area shape="rect" id="Node000002" href="$dc/d2c/classTerraria_1_1Graphics_1_1Light_1_1LegacyLighting.html" title=" " alt="" coords="5,346,259,1257"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,278,235,346,230,345,245,277"/>
+<area shape="rect" id="Node000003" href="$dc/d40/classTerraria_1_1Graphics_1_1Light_1_1LightingEngine.html" title=" " alt="" coords="283,312,570,1291"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,277,320,311,315,312,308,278"/>
 </map>

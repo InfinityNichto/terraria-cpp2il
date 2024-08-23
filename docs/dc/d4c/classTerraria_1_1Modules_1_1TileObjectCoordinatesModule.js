@@ -1,6 +1,6 @@
 var classTerraria_1_1Modules_1_1TileObjectCoordinatesModule =
 [
-    [ "TileObjectCoordinatesModule", "dc/d4c/classTerraria_1_1Modules_1_1TileObjectCoordinatesModule_ae581cea1122daabe39146e994683b7b8.html#ae581cea1122daabe39146e994683b7b8", null ],
+    [ "TileObjectCoordinatesModule", "dc/d4c/classTerraria_1_1Modules_1_1TileObjectCoordinatesModule_a5ae0330316ce4e8bab9ce6c58791c3ae.html#a5ae0330316ce4e8bab9ce6c58791c3ae", null ],
     [ "calculated", "dc/d4c/classTerraria_1_1Modules_1_1TileObjectCoordinatesModule_a1f0499ddfbc1195f1beff29ed63b9a90.html#a1f0499ddfbc1195f1beff29ed63b9a90", null ],
     [ "drawStyleOffset", "dc/d4c/classTerraria_1_1Modules_1_1TileObjectCoordinatesModule_a3e6652e9efd642ab06bc2adba58b1883.html#a3e6652e9efd642ab06bc2adba58b1883", null ],
     [ "heights", "dc/d4c/classTerraria_1_1Modules_1_1TileObjectCoordinatesModule_ae53b8b7cdfbdefeadfef023443b58a25.html#ae53b8b7cdfbdefeadfef023443b58a25", null ],

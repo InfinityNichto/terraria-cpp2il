@@ -1,6 +1,6 @@
 var classTerraria_1_1GameContent_1_1Bestiary_1_1UnlockableNPCEntryIcon =
 [
-    [ "UnlockableNPCEntryIcon", "d1/d0e/classTerraria_1_1GameContent_1_1Bestiary_1_1UnlockableNPCEntryIcon_aef1d9824c62761c49953abf80dc154ee.html#aef1d9824c62761c49953abf80dc154ee", null ],
+    [ "UnlockableNPCEntryIcon", "d1/d0e/classTerraria_1_1GameContent_1_1Bestiary_1_1UnlockableNPCEntryIcon_a9c165367c8341fa70a95d10ac10f64dc.html#a9c165367c8341fa70a95d10ac10f64dc", null ],
     [ "AdjustSpecialSpawnRulesForVisuals", "d1/d0e/classTerraria_1_1GameContent_1_1Bestiary_1_1UnlockableNPCEntryIcon_a1d11db603ec06ca3218b1381833dcd2b.html#a1d11db603ec06ca3218b1381833dcd2b", null ],
     [ "CreateClone", "d1/d0e/classTerraria_1_1GameContent_1_1Bestiary_1_1UnlockableNPCEntryIcon_ae8912e608ace892ef4807119a28654ec.html#ae8912e608ace892ef4807119a28654ec", null ],
     [ "Draw", "d1/d0e/classTerraria_1_1GameContent_1_1Bestiary_1_1UnlockableNPCEntryIcon_a5a26cbce11548ec2bbdc9df87a6333bd.html#a5a26cbce11548ec2bbdc9df87a6333bd", null ],

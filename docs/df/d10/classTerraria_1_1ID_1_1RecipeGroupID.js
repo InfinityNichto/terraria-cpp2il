@@ -1,6 +1,7 @@
 var classTerraria_1_1ID_1_1RecipeGroupID =
 [
     [ "RecipeGroupID", "df/d10/classTerraria_1_1ID_1_1RecipeGroupID_a23abc366567024b73522d7071adeae66.html#a23abc366567024b73522d7071adeae66", null ],
+    [ "RecipeGroupID", "df/d10/classTerraria_1_1ID_1_1RecipeGroupID_a29212a02567539dc1df0ddc5aeb13de2.html#a29212a02567539dc1df0ddc5aeb13de2", null ],
     [ "Balloons", "df/d10/classTerraria_1_1ID_1_1RecipeGroupID_a82764315a1cb73f5c83cfe85847c5aac.html#a82764315a1cb73f5c83cfe85847c5aac", null ],
     [ "Birds", "df/d10/classTerraria_1_1ID_1_1RecipeGroupID_a10edd8c9670ca60665ee124d7fdda3fc.html#a10edd8c9670ca60665ee124d7fdda3fc", null ],
     [ "BlizzardBalloons", "df/d10/classTerraria_1_1ID_1_1RecipeGroupID_ae92f744e92bab22cfd0288e43e87776f.html#ae92f744e92bab22cfd0288e43e87776f", null ],

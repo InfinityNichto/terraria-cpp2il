@@ -17,6 +17,8 @@ var classTerraria_1_1UI_1_1InGamePopups_1_1AchievementUnlockedPopup =
     [ "_ingameDisplayTimeLeft", "dc/d45/classTerraria_1_1UI_1_1InGamePopups_1_1AchievementUnlockedPopup_add1eec3a52da069ee5e94817b74e0638.html#add1eec3a52da069ee5e94817b74e0638", null ],
     [ "_theAchievement", "dc/d45/classTerraria_1_1UI_1_1InGamePopups_1_1AchievementUnlockedPopup_aac9428b09a824e6b61b595e946faf750.html#aac9428b09a824e6b61b595e946faf750", null ],
     [ "_title", "dc/d45/classTerraria_1_1UI_1_1InGamePopups_1_1AchievementUnlockedPopup_a6b33eed9035656f85327022a18496d5c.html#a6b33eed9035656f85327022a18496d5c", null ],
+    [ "k__BackingField", "dc/d45/classTerraria_1_1UI_1_1InGamePopups_1_1AchievementUnlockedPopup_a375aedbf53a27fcbc95371099d212f8f.html#a375aedbf53a27fcbc95371099d212f8f", null ],
+    [ "k__BackingField", "dc/d45/classTerraria_1_1UI_1_1InGamePopups_1_1AchievementUnlockedPopup_a877f5166e7675e73cb845853f123f3ac.html#a877f5166e7675e73cb845853f123f3ac", null ],
     [ "CreationObject", "dc/d45/classTerraria_1_1UI_1_1InGamePopups_1_1AchievementUnlockedPopup_a5fa5c3784bdd75e9f0357e9b7c512ecb.html#a5fa5c3784bdd75e9f0357e9b7c512ecb", null ],
     [ "Opacity", "dc/d45/classTerraria_1_1UI_1_1InGamePopups_1_1AchievementUnlockedPopup_a237f22754f4ad98c42b585f5561711bd.html#a237f22754f4ad98c42b585f5561711bd", null ],
     [ "Scale", "dc/d45/classTerraria_1_1UI_1_1InGamePopups_1_1AchievementUnlockedPopup_abe6d3426096f492b27252249007a203c.html#abe6d3426096f492b27252249007a203c", null ],

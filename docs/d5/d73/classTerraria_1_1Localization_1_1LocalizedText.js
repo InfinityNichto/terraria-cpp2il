@@ -1,6 +1,7 @@
 var classTerraria_1_1Localization_1_1LocalizedText =
 [
     [ "LocalizedText", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a6f3fd8538610d3c29ebb0d64ddd682ba.html#a6f3fd8538610d3c29ebb0d64ddd682ba", null ],
+    [ "LocalizedText", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a58d3c21f3add7d0bfb040f983739ead9.html#a58d3c21f3add7d0bfb040f983739ead9", null ],
     [ "CanFormatWith", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a8465a4e8662fbe15d206b2bbd0181e99.html#a8465a4e8662fbe15d206b2bbd0181e99", null ],
     [ "Format", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a4522dc8f1c444516b837f029e5ec8845.html#a4522dc8f1c444516b837f029e5ec8845", null ],
     [ "Format", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a68ef7322d70375c23a2bce051bd5ba9d.html#a68ef7322d70375c23a2bce051bd5ba9d", null ],
@@ -15,6 +16,7 @@ var classTerraria_1_1Localization_1_1LocalizedText =
     [ "ToString", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a9598543af1ef9d9b4b30547c5bdfa250.html#a9598543af1ef9d9b4b30547c5bdfa250", null ],
     [ "_substitutionRegex", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_ae78afd97e9647d5646deead2d8903b5d.html#ae78afd97e9647d5646deead2d8903b5d", null ],
     [ "Empty", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a90f4d205df306a68307327a5aa84740e.html#a90f4d205df306a68307327a5aa84740e", null ],
+    [ "k__BackingField", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_abccb54fe34fd479f8f56029d4a28bcf5.html#abccb54fe34fd479f8f56029d4a28bcf5", null ],
     [ "Key", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a99a22a5104b9a1803edecd2e6b65400b.html#a99a22a5104b9a1803edecd2e6b65400b", null ],
     [ "Value", "d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a5a17471e1f9e0fc7f825fde940e3bec8.html#a5a17471e1f9e0fc7f825fde940e3bec8", null ]
 ];

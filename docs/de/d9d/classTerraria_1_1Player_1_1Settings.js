@@ -6,5 +6,5 @@ var classTerraria_1_1Player_1_1Settings =
     ] ],
     [ "Settings", "de/d9d/classTerraria_1_1Player_1_1Settings_ae7683b82f8173352dfcb79be3127381a.html#ae7683b82f8173352dfcb79be3127381a", null ],
     [ "CycleHoverControl", "de/d9d/classTerraria_1_1Player_1_1Settings_a077c57d48ecdc9446f1d6029e02dfa89.html#a077c57d48ecdc9446f1d6029e02dfa89", null ],
-    [ "HoverControl", "de/d9d/classTerraria_1_1Player_1_1Settings_a8de7c1fc74f9ff16846aeb56b2292362.html#a8de7c1fc74f9ff16846aeb56b2292362", null ]
+    [ "HoverControl", "de/d9d/classTerraria_1_1Player_1_1Settings_af892acc4fad1525d2361e825a8102f6a.html#af892acc4fad1525d2361e825a8102f6a", null ]
 ];

@@ -12,31 +12,31 @@
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="199.5,-193 9.5,-193 9.5,0 199.5,0 199.5,-193"/>
-<text text-anchor="start" x="31" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldBuilding.Passes.</text>
-<text text-anchor="start" x="68" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">ScatterCustom</text>
-<text text-anchor="start" x="16" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="26.5" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">CustomPerUnitAction</text>
-<text text-anchor="start" x="26.5" y="-143.5" font-family="Helvetica,sans-Serif" font-size="10.00"> _perUnit</text>
-<text text-anchor="start" x="16" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="26.5" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">int _count</text>
-<text text-anchor="start" x="13.5" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="26.5" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00">ScatterCustom(string</text>
-<text text-anchor="start" x="26.5" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00"> name, double loadWeight,</text>
-<text text-anchor="start" x="26.5" y="-91.5" font-family="Helvetica,sans-Serif" font-size="10.00"> int count, [Optional] CustomPer</text>
-<text text-anchor="start" x="26.5" y="-80.5" font-family="Helvetica,sans-Serif" font-size="10.00">UnitAction perUnit)</text>
-<text text-anchor="start" x="13.5" y="-65.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="26.5" y="-65.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetCustomAction</text>
-<text text-anchor="start" x="26.5" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00">(CustomPerUnitAction</text>
-<text text-anchor="start" x="26.5" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00"> perUnit)</text>
-<text text-anchor="start" x="13.5" y="-28.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="26.5" y="-28.5" font-family="Helvetica,sans-Serif" font-size="10.00">override void ApplyPass</text>
-<text text-anchor="start" x="26.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">(GenerationProgress progress,</text>
-<text text-anchor="start" x="26.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00"> GameConfiguration configuration)</text>
-<polygon fill="#666666" stroke="#666666" points="9.5,-164.5 9.5,-164.5 199.5,-164.5 199.5,-164.5 9.5,-164.5"/>
-<polygon fill="#666666" stroke="#666666" points="9.5,-123.5 9.5,-123.5 24.5,-123.5 24.5,-123.5 9.5,-123.5"/>
-<polygon fill="#666666" stroke="#666666" points="24.5,-123.5 24.5,-123.5 199.5,-123.5 199.5,-123.5 24.5,-123.5"/>
-<polygon fill="none" stroke="#666666" points="9.5,0 9.5,-193 199.5,-193 199.5,0 9.5,0"/>
+<polygon fill="#999999" stroke="transparent" points="201,-193 8,-193 8,0 201,0 201,-193"/>
+<text text-anchor="start" x="31.5" y="-180.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldBuilding.Passes.</text>
+<text text-anchor="start" x="68.5" y="-169.5" font-family="Helvetica,sans-Serif" font-size="10.00">ScatterCustom</text>
+<text text-anchor="start" x="15" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="25.5" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase.CustomPerUnitAction</text>
+<text text-anchor="start" x="25.5" y="-143.5" font-family="Helvetica,sans-Serif" font-size="10.00"> _perUnit</text>
+<text text-anchor="start" x="15" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="25.5" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">int _count</text>
+<text text-anchor="start" x="12.5" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="25.5" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00">ScatterCustom(string</text>
+<text text-anchor="start" x="25.5" y="-102.5" font-family="Helvetica,sans-Serif" font-size="10.00"> name, double loadWeight,</text>
+<text text-anchor="start" x="25.5" y="-91.5" font-family="Helvetica,sans-Serif" font-size="10.00"> int count, GenBase.CustomPerUnit</text>
+<text text-anchor="start" x="25.5" y="-80.5" font-family="Helvetica,sans-Serif" font-size="10.00">Action perUnit=null)</text>
+<text text-anchor="start" x="12.5" y="-65.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="25.5" y="-65.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetCustomAction</text>
+<text text-anchor="start" x="25.5" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00">(GenBase.CustomPerUnitAction</text>
+<text text-anchor="start" x="25.5" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00"> perUnit)</text>
+<text text-anchor="start" x="12.5" y="-28.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="25.5" y="-28.5" font-family="Helvetica,sans-Serif" font-size="10.00">override void ApplyPass</text>
+<text text-anchor="start" x="25.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">(GenerationProgress progress,</text>
+<text text-anchor="start" x="25.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00"> GameConfiguration configuration)</text>
+<polygon fill="#666666" stroke="#666666" points="8.5,-164.5 8.5,-164.5 201.5,-164.5 201.5,-164.5 8.5,-164.5"/>
+<polygon fill="#666666" stroke="#666666" points="8.5,-123.5 8.5,-123.5 23.5,-123.5 23.5,-123.5 8.5,-123.5"/>
+<polygon fill="#666666" stroke="#666666" points="23.5,-123.5 23.5,-123.5 201.5,-123.5 201.5,-123.5 23.5,-123.5"/>
+<polygon fill="none" stroke="#666666" points="8,0 8,-193 201,-193 201,0 8,0"/>
 </a>
 </g>
 </g>
@@ -93,11 +93,11 @@
 <text text-anchor="start" x="26.5" y="-473" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="39.5" y="-473" font-family="Helvetica,sans-Serif" font-size="10.00">static int _worldHeight</text>
 <text text-anchor="start" x="26.5" y="-458" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="39.5" y="-458" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
-<text text-anchor="start" x="39.5" y="-447" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
-<text text-anchor="start" x="39.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
-<text text-anchor="start" x="26.5" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="39.5" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="39.5" y="-458" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="26.5" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="39.5" y="-443" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
+<text text-anchor="start" x="39.5" y="-432" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
+<text text-anchor="start" x="39.5" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
 <polygon fill="#666666" stroke="#666666" points="22.5,-539 22.5,-539 187.5,-539 187.5,-539 22.5,-539"/>
 <polygon fill="#666666" stroke="#666666" points="22.5,-468 22.5,-468 37.5,-468 37.5,-468 22.5,-468"/>
 <polygon fill="#666666" stroke="#666666" points="37.5,-468 37.5,-468 187.5,-468 187.5,-468 37.5,-468"/>

@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1MinecartDiggerHelper =
 [
     [ "MinecartDiggerHelper", "d2/dbf/classTerraria_1_1GameContent_1_1MinecartDiggerHelper_a16fff6490c75f0123b1af037ddb57c19.html#a16fff6490c75f0123b1af037ddb57c19", null ],
+    [ "MinecartDiggerHelper", "d2/dbf/classTerraria_1_1GameContent_1_1MinecartDiggerHelper_aa0cc6dcd3f174098f9e09fb3fc2c8b43.html#aa0cc6dcd3f174098f9e09fb3fc2c8b43", null ],
     [ "AlreadyLeadsIntoWantedTrack", "d2/dbf/classTerraria_1_1GameContent_1_1MinecartDiggerHelper_af6e6d59ec7bb0280af790f590642b1ee.html#af6e6d59ec7bb0280af790f590642b1ee", null ],
     [ "CanConsumeATrackItem", "d2/dbf/classTerraria_1_1GameContent_1_1MinecartDiggerHelper_a8951ae25dc809297b74d2a0172cd1d68.html#a8951ae25dc809297b74d2a0172cd1d68", null ],
     [ "CanGetPastTile", "d2/dbf/classTerraria_1_1GameContent_1_1MinecartDiggerHelper_a5f13fb377da1102c60f8f31810917c60.html#a5f13fb377da1102c60f8f31810917c60", null ],

@@ -2,6 +2,7 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition =
 [
     [ "ItemPickupCondition", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition_acdc4b2eec3f8ae9fa5916c8bc7c81aa9.html#acdc4b2eec3f8ae9fa5916c8bc7c81aa9", null ],
     [ "ItemPickupCondition", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition_af08705d7429f571e38b38128adfe191d.html#af08705d7429f571e38b38128adfe191d", null ],
+    [ "ItemPickupCondition", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition_a80d06e473709c4ad3b4dbbcae58f7e1b.html#a80d06e473709c4ad3b4dbbcae58f7e1b", null ],
     [ "AchievementUpdate", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition.html#ac6580fe12f459e41b986307c7d220faa", null ],
     [ "Clear", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition.html#a915352f446266bd38447ac924b65810d", null ],
     [ "Complete", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition.html#a3f198905c61195fd91c52526581f30fc", null ],
@@ -23,5 +24,5 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition =
     [ "Identifier", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition_a96b8fc4c492584f505f16810e60d6a49.html#a96b8fc4c492584f505f16810e60d6a49", null ],
     [ "Name", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition.html#ab4652f96927ffad9e74b26487f4b056d", null ],
     [ "IsCompleted", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition.html#a0dd5e62f23542e858645db4db4350138", null ],
-    [ "OnComplete", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition.html#a2c8ec7258b62749a3bb0252d5255bee5", null ]
+    [ "OnComplete", "d3/dd5/classTerraria_1_1GameContent_1_1Achievements_1_1ItemPickupCondition.html#ac33fe3a8378daa49479224a1a04e2d8b", null ]
 ];

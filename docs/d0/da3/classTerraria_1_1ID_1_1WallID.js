@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1WallID =
 [
     [ "Sets", "db/d36/classTerraria_1_1ID_1_1WallID_1_1Sets.html", "db/d36/classTerraria_1_1ID_1_1WallID_1_1Sets" ],
     [ "WallID", "d0/da3/classTerraria_1_1ID_1_1WallID_ad338371e0f4fcba66d749a55e5fec37e.html#ad338371e0f4fcba66d749a55e5fec37e", null ],
+    [ "WallID", "d0/da3/classTerraria_1_1ID_1_1WallID_ac2864b9424c8cbb24873131a8b80833e.html#ac2864b9424c8cbb24873131a8b80833e", null ],
     [ "AdamantiteBeam", "d0/da3/classTerraria_1_1ID_1_1WallID_aba8512a27d8ec94b08b68f92b5879203.html#aba8512a27d8ec94b08b68f92b5879203", null ],
     [ "AmberGemspark", "d0/da3/classTerraria_1_1ID_1_1WallID_a36d7fc16fe1577b8900aa50636265f17.html#a36d7fc16fe1577b8900aa50636265f17", null ],
     [ "AmberGemsparkOff", "d0/da3/classTerraria_1_1ID_1_1WallID_a9cb0c148a9ff0d1f2a88c85a5d772143.html#a9cb0c148a9ff0d1f2a88c85a5d772143", null ],

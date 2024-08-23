@@ -2,6 +2,8 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent =
 [
     [ "DrawableGameComponent", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_a6d09bf847a33b0f2a068e4683fc5f1ae.html#a6d09bf847a33b0f2a068e4683fc5f1ae", null ],
     [ "CompareTo", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#a4a1c7c56ddb52f3c44d4396aeae9723f", null ],
+    [ "CompareTo", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#aaa2fd05ecaf1a7b0d38a6f88558b1562", null ],
+    [ "CompareTo", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#aa8b58cbfcbb5b0f7747aa66b3269f119", null ],
     [ "Dispose", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#a5e33118b3ee7dd44bf7bf853ee1834f4", null ],
     [ "Draw", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_a34209ffaa309c949476196ec94aeccf1.html#a34209ffaa309c949476196ec94aeccf1", null ],
     [ "Initialize", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_a725c08041bf8fcbefb2dec71078123f7.html#a725c08041bf8fcbefb2dec71078123f7", null ],
@@ -20,13 +22,13 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent =
     [ "_isVisible", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_adecaa1b4cf848012f3caf22e6c7e6a08.html#adecaa1b4cf848012f3caf22e6c7e6a08", null ],
     [ "_updateOrder", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#a25d5e1506560f4428ab5d770475e7547", null ],
     [ "DrawOrder", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_a63990f37351f1bd9f0a5faae21152502.html#a63990f37351f1bd9f0a5faae21152502", null ],
-    [ "DrawOrderChanged", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_a3c2126eca50e40929e74eeb18fb1af32.html#a3c2126eca50e40929e74eeb18fb1af32", null ],
+    [ "DrawOrderChanged", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_ac96e6e302e269619eb06537bbb825bff.html#ac96e6e302e269619eb06537bbb825bff", null ],
     [ "Enabled", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#a526b36c5bfb7a99a56ed925d310d434b", null ],
-    [ "EnabledChanged", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#ac7e9180eb5c8732f997c9cedba8e0b5a", null ],
+    [ "EnabledChanged", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#a597d051ae123cbc4374afd929ea24ca2", null ],
     [ "Game", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#acf73fc3cb70bdb664e6bc8bd6ace9972", null ],
     [ "GraphicsDevice", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#ac152d21106682fdb3881ff49e58bed26", null ],
     [ "UpdateOrder", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#a95e65d07770e8d6adc48fe6b54deccf7", null ],
-    [ "UpdateOrderChanged", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#acf337a16cf95785354c0cd4097ff8b6c", null ],
+    [ "UpdateOrderChanged", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html#ae1307cea4d4627cc3fcf5fe43666e439", null ],
     [ "Visible", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_a33d89dc64db2ad5cc2c6c230ab1ae12a.html#a33d89dc64db2ad5cc2c6c230ab1ae12a", null ],
-    [ "VisibleChanged", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_a654e2e4d16951ead27d6b43ca03a49a5.html#a654e2e4d16951ead27d6b43ca03a49a5", null ]
+    [ "VisibleChanged", "df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent_a5a769bb3519f61df6d033f4a9c42b625.html#a5a769bb3519f61df6d033f4a9c42b625", null ]
 ];

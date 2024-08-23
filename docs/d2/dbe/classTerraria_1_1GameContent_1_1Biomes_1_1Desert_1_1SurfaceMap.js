@@ -7,6 +7,6 @@ var classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1SurfaceMap =
     [ "Bottom", "d2/dbe/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1SurfaceMap_ab27999bf956c9e29695bf8ffedfa1f25.html#ab27999bf956c9e29695bf8ffedfa1f25", null ],
     [ "Top", "d2/dbe/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1SurfaceMap_a81262a3d3a20e976e2f7411699a9014f.html#a81262a3d3a20e976e2f7411699a9014f", null ],
     [ "X", "d2/dbe/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1SurfaceMap_a0f0778d258fc6f1f73de023fbd71b99e.html#a0f0778d258fc6f1f73de023fbd71b99e", null ],
-    [ "Item", "d2/dbe/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1SurfaceMap_a03c97ee4413ae3c753ddcdce56419035.html#a03c97ee4413ae3c753ddcdce56419035", null ],
+    [ "this[int absoluteX]", "d2/dbe/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1SurfaceMap_a955bc647219220f5a5a65c16154b9b74.html#a955bc647219220f5a5a65c16154b9b74", null ],
     [ "Width", "d2/dbe/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1SurfaceMap_aa7808f032f4864bc090f026d8936a011.html#aa7808f032f4864bc090f026d8936a011", null ]
 ];

@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 367;
+var viewWidth = 399;
 var viewHeight = 696;
 var sectionId = 'dynsection-0';
 </script>
@@ -58,50 +58,50 @@ var sectionId = 'dynsection-0';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="234,-346 14,-346 14,0 234,0 234,-346"/>
-<text text-anchor="start" x="34" y="-334" font-family="Helvetica,sans-Serif" font-size="10.00">Microsoft.Xna.Framework.</text>
-<text text-anchor="start" x="34" y="-323" font-family="Helvetica,sans-Serif" font-size="10.00">Graphics.PackedVector.Rgba1010102</text>
-<text text-anchor="start" x="18" y="-308" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-308" font-family="Helvetica,sans-Serif" font-size="10.00">uint PackedValue</text>
-<text text-anchor="start" x="20.5" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="31" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">uint packedValue</text>
-<text text-anchor="start" x="18" y="-278" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-278" font-family="Helvetica,sans-Serif" font-size="10.00">Rgba1010102(float</text>
-<text text-anchor="start" x="31" y="-267" font-family="Helvetica,sans-Serif" font-size="10.00"> x, float y, float z,</text>
-<text text-anchor="start" x="31" y="-256" font-family="Helvetica,sans-Serif" font-size="10.00"> float w)</text>
-<text text-anchor="start" x="18" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00">Rgba1010102(Vector4</text>
-<text text-anchor="start" x="31" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00"> vector)</text>
-<text text-anchor="start" x="18" y="-215" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-215" font-family="Helvetica,sans-Serif" font-size="10.00">Vector4 ToVector4()</text>
-<text text-anchor="start" x="18" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">void IPackedVector.</text>
-<text text-anchor="start" x="31" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00"> PackFromVector4(Vector4</text>
-<text text-anchor="start" x="31" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00"> vector)</text>
-<text text-anchor="start" x="18" y="-163" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-163" font-family="Helvetica,sans-Serif" font-size="10.00">override bool Equals</text>
-<text text-anchor="start" x="31" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">(object obj)</text>
-<text text-anchor="start" x="18" y="-137" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-137" font-family="Helvetica,sans-Serif" font-size="10.00">bool Equals(Rgba1010102</text>
-<text text-anchor="start" x="31" y="-126" font-family="Helvetica,sans-Serif" font-size="10.00"> other)</text>
-<text text-anchor="start" x="18" y="-111" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-111" font-family="Helvetica,sans-Serif" font-size="10.00">override string ToString()</text>
-<text text-anchor="start" x="18" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00">override int GetHashCode()</text>
-<text text-anchor="start" x="18" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">static bool operator</text>
-<text text-anchor="start" x="31" y="-70" font-family="Helvetica,sans-Serif" font-size="10.00">==(Rgba1010102 lhs, Rgba1010102 rhs)</text>
-<text text-anchor="start" x="18" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="31" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">static bool operator!</text>
-<text text-anchor="start" x="31" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">=(Rgba1010102 lhs, Rgba1010102 rhs)</text>
-<text text-anchor="start" x="20.5" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="31" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">static uint Pack(float</text>
-<text text-anchor="start" x="31" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00"> x, float y, float z,</text>
-<text text-anchor="start" x="31" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> float w)</text>
-<polygon fill="#666666" stroke="#666666" points="14,-318 14,-318 234,-318 234,-318 14,-318"/>
-<polygon fill="#666666" stroke="#666666" points="14,-288 14,-288 29,-288 29,-288 14,-288"/>
-<polygon fill="#666666" stroke="#666666" points="29,-288 29,-288 234,-288 234,-288 29,-288"/>
-<polygon fill="none" stroke="#666666" points="14,0 14,-346 234,-346 234,0 14,0"/>
+<polygon fill="#999999" stroke="transparent" points="245,-346 25,-346 25,0 245,0 245,-346"/>
+<text text-anchor="start" x="45" y="-334" font-family="Helvetica,sans-Serif" font-size="10.00">Microsoft.Xna.Framework.</text>
+<text text-anchor="start" x="45" y="-323" font-family="Helvetica,sans-Serif" font-size="10.00">Graphics.PackedVector.Rgba1010102</text>
+<text text-anchor="start" x="29" y="-308" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-308" font-family="Helvetica,sans-Serif" font-size="10.00">uint PackedValue</text>
+<text text-anchor="start" x="31.5" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="42" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">uint packedValue</text>
+<text text-anchor="start" x="29" y="-278" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-278" font-family="Helvetica,sans-Serif" font-size="10.00">Rgba1010102(float</text>
+<text text-anchor="start" x="42" y="-267" font-family="Helvetica,sans-Serif" font-size="10.00"> x, float y, float z,</text>
+<text text-anchor="start" x="42" y="-256" font-family="Helvetica,sans-Serif" font-size="10.00"> float w)</text>
+<text text-anchor="start" x="29" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00">Rgba1010102(Vector4</text>
+<text text-anchor="start" x="42" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00"> vector)</text>
+<text text-anchor="start" x="29" y="-215" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-215" font-family="Helvetica,sans-Serif" font-size="10.00">Vector4 ToVector4()</text>
+<text text-anchor="start" x="29" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">override bool Equals</text>
+<text text-anchor="start" x="42" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00">(object obj)</text>
+<text text-anchor="start" x="29" y="-174" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-174" font-family="Helvetica,sans-Serif" font-size="10.00">bool Equals(Rgba1010102</text>
+<text text-anchor="start" x="42" y="-163" font-family="Helvetica,sans-Serif" font-size="10.00"> other)</text>
+<text text-anchor="start" x="29" y="-148" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-148" font-family="Helvetica,sans-Serif" font-size="10.00">override string ToString()</text>
+<text text-anchor="start" x="29" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-133" font-family="Helvetica,sans-Serif" font-size="10.00">override int GetHashCode()</text>
+<text text-anchor="start" x="29" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">static bool operator</text>
+<text text-anchor="start" x="42" y="-107" font-family="Helvetica,sans-Serif" font-size="10.00">==(Rgba1010102 lhs, Rgba1010102 rhs)</text>
+<text text-anchor="start" x="29" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="42" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00">static bool operator!</text>
+<text text-anchor="start" x="42" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">=(Rgba1010102 lhs, Rgba1010102 rhs)</text>
+<text text-anchor="start" x="31.5" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="42" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">void Microsoft.Xna.Framework.</text>
+<text text-anchor="start" x="42" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">Graphics.PackedVector.IPackedVector.</text>
+<text text-anchor="start" x="42" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00"> PackFromVector4(Vector4 vector)</text>
+<text text-anchor="start" x="31.5" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="42" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">static uint Pack(float</text>
+<text text-anchor="start" x="42" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00"> x, float y, float z,</text>
+<text text-anchor="start" x="42" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> float w)</text>
+<polygon fill="#666666" stroke="#666666" points="25,-318 25,-318 245,-318 245,-318 25,-318"/>
+<polygon fill="#666666" stroke="#666666" points="25,-288 25,-288 40,-288 40,-288 25,-288"/>
+<polygon fill="#666666" stroke="#666666" points="40,-288 40,-288 245,-288 245,-288 40,-288"/>
+<polygon fill="none" stroke="#666666" points="25,0 25,-346 245,-346 245,0 25,0"/>
 </a>
 </g>
 </g>
@@ -109,19 +109,19 @@ var sectionId = 'dynsection-0';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d6/d99/interfaceMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1IPackedVector.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="189,-458 59,-458 59,-383 189,-383 189,-458"/>
-<text text-anchor="start" x="69.5" y="-445.5" font-family="Helvetica,sans-Serif" font-size="10.00">IPackedVector&lt; uint &gt;</text>
-<text text-anchor="start" x="63" y="-430.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="76" y="-430.5" font-family="Helvetica,sans-Serif" font-size="10.00">TPacked PackedValue</text>
-<text text-anchor="start" x="63" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="76" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">void PackFromVector4</text>
-<text text-anchor="start" x="76" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector4 vector)</text>
-<text text-anchor="start" x="63" y="-389.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="76" y="-389.5" font-family="Helvetica,sans-Serif" font-size="10.00">Vector4 ToVector4()</text>
-<polygon fill="#666666" stroke="#666666" points="59,-440.5 59,-440.5 189,-440.5 189,-440.5 59,-440.5"/>
-<polygon fill="#666666" stroke="#666666" points="59,-425.5 59,-425.5 74,-425.5 74,-425.5 59,-425.5"/>
-<polygon fill="#666666" stroke="#666666" points="74,-425.5 74,-425.5 189,-425.5 189,-425.5 74,-425.5"/>
-<polygon fill="none" stroke="#666666" points="59,-383 59,-458 189,-458 189,-383 59,-383"/>
+<polygon fill="white" stroke="transparent" points="200,-458 70,-458 70,-383 200,-383 200,-458"/>
+<text text-anchor="start" x="80.5" y="-445.5" font-family="Helvetica,sans-Serif" font-size="10.00">IPackedVector&lt; uint &gt;</text>
+<text text-anchor="start" x="74" y="-430.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="87" y="-430.5" font-family="Helvetica,sans-Serif" font-size="10.00">TPacked PackedValue</text>
+<text text-anchor="start" x="74" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="87" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00">void PackFromVector4</text>
+<text text-anchor="start" x="87" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector4 vector)</text>
+<text text-anchor="start" x="74" y="-389.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="87" y="-389.5" font-family="Helvetica,sans-Serif" font-size="10.00">Vector4 ToVector4()</text>
+<polygon fill="#666666" stroke="#666666" points="70,-440.5 70,-440.5 200,-440.5 200,-440.5 70,-440.5"/>
+<polygon fill="#666666" stroke="#666666" points="70,-425.5 70,-425.5 85,-425.5 85,-425.5 70,-425.5"/>
+<polygon fill="#666666" stroke="#666666" points="85,-425.5 85,-425.5 200,-425.5 200,-425.5 85,-425.5"/>
+<polygon fill="none" stroke="#666666" points="70,-383 70,-458 200,-458 200,-383 70,-383"/>
 </a>
 </g>
 </g>
@@ -129,8 +129,8 @@ var sectionId = 'dynsection-0';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M124,-372.5C124,-364.37 124,-355.51 124,-346.2"/>
-<polygon fill="none" stroke="#63b8ff" points="120.5,-372.75 124,-382.75 127.5,-372.75 120.5,-372.75"/>
+<path fill="none" stroke="#63b8ff" d="M135,-372.5C135,-364.37 135,-355.51 135,-346.2"/>
+<polygon fill="none" stroke="#63b8ff" points="131.5,-372.75 135,-382.75 138.5,-372.75 131.5,-372.75"/>
 </a>
 </g>
 </g>
@@ -160,11 +160,11 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node3&#45;&gt;Node2</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="orange" d="M130.14,-494.59C129.1,-482.24 128.03,-469.53 127.09,-458.24"/>
-<polygon fill="orange" stroke="orange" points="126.67,-495.16 131,-504.84 133.65,-494.58 126.67,-495.16"/>
+<path fill="none" stroke="orange" d="M135,-494.59C135,-482.24 135,-469.53 135,-458.24"/>
+<polygon fill="orange" stroke="orange" points="131.5,-494.84 135,-504.84 138.5,-494.84 131.5,-494.84"/>
 </a>
 </g>
-<text text-anchor="middle" x="152.5" y="-479" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &lt; uint &gt;</text>
+<text text-anchor="middle" x="157.5" y="-479" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &lt; uint &gt;</text>
 </g>
 <!-- Node4 -->
 <g id="Node000004" class="node">
@@ -184,8 +184,8 @@ var sectionId = 'dynsection-0';
 <g id="edge4_Node000001_Node000004" class="edge">
 <title>Node4&#45;&gt;Node1</title>
 <g id="a_edge4_Node000001_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M37.08,-628.48C34.81,-575.48 33.24,-470.22 50,-383 52.32,-370.9 55.22,-358.57 58.52,-346.24"/>
-<polygon fill="none" stroke="#63b8ff" points="33.59,-628.84 37.55,-638.67 40.58,-628.52 33.59,-628.84"/>
+<path fill="none" stroke="#63b8ff" d="M39.74,-628.86C40.61,-596.93 42.44,-547.64 46,-505 50.55,-450.56 48.48,-436.18 61,-383 63.85,-370.92 67.15,-358.56 70.75,-346.19"/>
+<polygon fill="none" stroke="#63b8ff" points="36.23,-628.89 39.47,-638.98 43.23,-629.08 36.23,-628.89"/>
 </a>
 </g>
 </g>
@@ -201,14 +201,15 @@ var sectionId = 'dynsection-0';
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../d9/d1c/classIEquatable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="359,-445 207,-445 207,-396 359,-396 359,-445"/>
-<text text-anchor="start" x="212" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">IEquatable&lt; Rgba1010102 &gt;</text>
-<text text-anchor="start" x="281" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="281" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="207,-427.5 207,-427.5 359,-427.5 359,-427.5 207,-427.5"/>
-<polygon fill="#666666" stroke="#666666" points="207,-412.5 207,-412.5 359,-412.5 359,-412.5 207,-412.5"/>
-<polygon fill="none" stroke="#666666" points="207,-396 207,-445 359,-445 359,-396 207,-396"/>
+<g id="a_Node000005"><a xlink:href="../../d6/d43/interfaceSystem_1_1IEquatable.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="373,-445 221,-445 221,-396 373,-396 373,-445"/>
+<text text-anchor="start" x="226" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">IEquatable&lt; Rgba1010102 &gt;</text>
+<text text-anchor="start" x="295" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="233" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="254" y="-402.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Equals(T other)</text>
+<polygon fill="#666666" stroke="#666666" points="221,-427.5 221,-427.5 373,-427.5 373,-427.5 221,-427.5"/>
+<polygon fill="#666666" stroke="#666666" points="221,-412.5 221,-412.5 373,-412.5 373,-412.5 221,-412.5"/>
+<polygon fill="none" stroke="#666666" points="221,-396 221,-445 373,-445 373,-396 221,-396"/>
 </a>
 </g>
 </g>
@@ -216,10 +217,35 @@ var sectionId = 'dynsection-0';
 <g id="edge5_Node000001_Node000005" class="edge">
 <title>Node5&#45;&gt;Node1</title>
 <g id="a_edge5_Node000001_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M262.29,-387.52C254.33,-375.24 244.6,-360.21 234.01,-343.86"/>
-<polygon fill="none" stroke="#63b8ff" points="259.38,-389.47 267.75,-395.96 265.26,-385.66 259.38,-389.47"/>
+<path fill="none" stroke="#63b8ff" d="M275.86,-387.46C267.27,-374.44 256.64,-358.34 245.11,-340.87"/>
+<polygon fill="none" stroke="#63b8ff" points="273.04,-389.54 281.47,-395.96 278.88,-385.69 273.04,-389.54"/>
 </a>
 </g>
+</g>
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../d6/d43/interfaceSystem_1_1IEquatable.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="364.5,-578 233.5,-578 233.5,-529 364.5,-529 364.5,-578"/>
+<text text-anchor="start" x="239" y="-565.5" font-family="Helvetica,sans-Serif" font-size="10.00">System.IEquatable&lt; T &gt;</text>
+<text text-anchor="start" x="297.5" y="-550.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="240.5" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="256" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Equals(T other)</text>
+<polygon fill="#666666" stroke="#666666" points="234,-560.5 234,-560.5 365,-560.5 365,-560.5 234,-560.5"/>
+<polygon fill="#666666" stroke="#666666" points="234,-545.5 234,-545.5 365,-545.5 365,-545.5 234,-545.5"/>
+<polygon fill="none" stroke="#666666" points="233.5,-529 233.5,-578 364.5,-578 364.5,-529 233.5,-529"/>
+</a>
+</g>
+</g>
+<!-- Node6&#45;&gt;Node5 -->
+<g id="edge6_Node000005_Node000006" class="edge">
+<title>Node6&#45;&gt;Node5</title>
+<g id="a_edge6_Node000005_Node000006"><a xlink:title=" ">
+<path fill="none" stroke="orange" d="M298.48,-518.71C298.13,-495.61 297.67,-465.58 297.36,-445.05"/>
+<polygon fill="orange" stroke="orange" points="294.99,-518.83 298.64,-528.78 301.98,-518.72 294.99,-518.83"/>
+</a>
+</g>
+<text text-anchor="middle" x="344.5" y="-479" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &lt; Rgba1010102 &gt;</text>
 </g>
 </g>
 </svg>

@@ -2,6 +2,7 @@ var classReLogic_1_1Content_1_1Sources_1_1ZipContentSource =
 [
     [ "ZipContentSource", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_a63b9d55f21cd2854a4dc313dded7f12a.html#a63b9d55f21cd2854a4dc313dded7f12a", null ],
     [ "ZipContentSource", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_ad3298a0c26da9917eef009549e6ed1c4.html#ad3298a0c26da9917eef009549e6ed1c4", null ],
+    [ "b__14_0", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_aeb4e701cd46fa0f008dfaf4f723c3a64.html#aeb4e701cd46fa0f008dfaf4f723c3a64", null ],
     [ "BuildExtensionFreeEntryList", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_a9442aec7ca11550e300dccedfb738e11.html#a9442aec7ca11550e300dccedfb738e11", null ],
     [ "CleanZipPath", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_a050f16b9e7290d17b7ba8da3814feb93.html#a050f16b9e7290d17b7ba8da3814feb93", null ],
     [ "ClearRejections", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_ad9481eb45672bd35e160d669803c7f96.html#ad9481eb45672bd35e160d669803c7f96", null ],
@@ -18,6 +19,7 @@ var classReLogic_1_1Content_1_1Sources_1_1ZipContentSource =
     [ "_isDisposed", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_abc8af2db218002cdb1f8e20da4fa929b.html#abc8af2db218002cdb1f8e20da4fa929b", null ],
     [ "_rejections", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_a18d8825a9330606ef8528686164bb6c9.html#a18d8825a9330606ef8528686164bb6c9", null ],
     [ "_zipFile", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_ad3923547f102a2a961e2bd1a4a3cc687.html#ad3923547f102a2a961e2bd1a4a3cc687", null ],
+    [ "k__BackingField", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_a672e4ce266e0d797b172d65584665d4e.html#a672e4ce266e0d797b172d65584665d4e", null ],
     [ "ContentValidator", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_a6939662be687c232b071ea905ecfea5b.html#a6939662be687c232b071ea905ecfea5b", null ],
     [ "EntryCount", "d8/d8b/classReLogic_1_1Content_1_1Sources_1_1ZipContentSource_a6f7be4b3e3365715e12fefeec8d2a5a7.html#a6f7be4b3e3365715e12fefeec8d2a5a7", null ]
 ];

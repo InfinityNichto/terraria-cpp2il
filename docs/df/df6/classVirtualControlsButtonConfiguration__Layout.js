@@ -7,7 +7,7 @@ var classVirtualControlsButtonConfiguration__Layout =
       [ "Bad", "df/df6/classVirtualControlsButtonConfiguration__Layout_a3003fda58d4553d83b674fc748b1cea1.html#a3003fda58d4553d83b674fc748b1cea1a7ff3e75ce6aca348bc513ed3d5882946", null ]
     ] ],
     [ "VirtualControlsButtonConfiguration_Layout", "df/df6/classVirtualControlsButtonConfiguration__Layout_a3b7ba63ca369664c8a09925bf401b07c.html#a3b7ba63ca369664c8a09925bf401b07c", null ],
-    [ "GetStyle", "df/df6/classVirtualControlsButtonConfiguration__Layout_a7bdad2d55efc4287fe84c42eb2a6ef11.html#a7bdad2d55efc4287fe84c42eb2a6ef11", null ],
+    [ "GetStyle", "df/df6/classVirtualControlsButtonConfiguration__Layout_ad7ce5bc4ed125fe0036a21756ab8fb61.html#ad7ce5bc4ed125fe0036a21756ab8fb61", null ],
     [ "Validate", "df/df6/classVirtualControlsButtonConfiguration__Layout_aa79ac53f60630951c5d67076cccce202.html#aa79ac53f60630951c5d67076cccce202", null ],
     [ "BadPositionLayout", "df/df6/classVirtualControlsButtonConfiguration__Layout_ae6a68f89b193bb3cf5a7657f2cfb9de4.html#ae6a68f89b193bb3cf5a7657f2cfb9de4", null ],
     [ "BlueLayout", "df/df6/classVirtualControlsButtonConfiguration__Layout_a730cfed2af775b924e27b715f8431997.html#a730cfed2af775b924e27b715f8431997", null ],

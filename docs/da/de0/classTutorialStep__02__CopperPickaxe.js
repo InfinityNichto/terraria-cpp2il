@@ -7,7 +7,7 @@ var classTutorialStep__02__CopperPickaxe =
     ] ],
     [ "TutorialStep_02_CopperPickaxe", "da/de0/classTutorialStep__02__CopperPickaxe_a4229e2d0cf765eb232687db42381034b.html#a4229e2d0cf765eb232687db42381034b", null ],
     [ "Begin", "da/de0/classTutorialStep__02__CopperPickaxe.html#ae7b36833ed674651c836c42b57bdfa7c", null ],
-    [ "GetGuideState", "da/de0/classTutorialStep__02__CopperPickaxe_a518bf9ffd8764149d7bc16d02a44e768.html#a518bf9ffd8764149d7bc16d02a44e768", null ],
+    [ "GetGuideState", "da/de0/classTutorialStep__02__CopperPickaxe_ae74ce4618117d60e48662f652764c124.html#ae74ce4618117d60e48662f652764c124", null ],
     [ "GetGuideString", "da/de0/classTutorialStep__02__CopperPickaxe_aa4f756ad31c154435ce9bc5c6014aa13.html#aa4f756ad31c154435ce9bc5c6014aa13", null ],
     [ "GiveItem", "da/de0/classTutorialStep__02__CopperPickaxe.html#ac38e5ac4261d7aca8a148210f3a82d04", null ],
     [ "OnGuideDialogueOpen", "da/de0/classTutorialStep__02__CopperPickaxe_a09f8f2d814df203e301bb9a2898103ae.html#a09f8f2d814df203e301bb9a2898103ae", null ],

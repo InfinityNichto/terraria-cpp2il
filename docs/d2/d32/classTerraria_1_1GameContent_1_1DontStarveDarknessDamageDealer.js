@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1DontStarveDarknessDamageDealer =
 [
     [ "DontStarveDarknessDamageDealer", "d2/d32/classTerraria_1_1GameContent_1_1DontStarveDarknessDamageDealer_a097e82bb7392460a4ac2e4754a907077.html#a097e82bb7392460a4ac2e4754a907077", null ],
+    [ "DontStarveDarknessDamageDealer", "d2/d32/classTerraria_1_1GameContent_1_1DontStarveDarknessDamageDealer_ad0035fc33ef8757ae12ecf653dd852bf.html#ad0035fc33ef8757ae12ecf653dd852bf", null ],
     [ "GetDarknessDamagePerHit", "d2/d32/classTerraria_1_1GameContent_1_1DontStarveDarknessDamageDealer_a78ebfa14248ebbd242aace2a4fc40477.html#a78ebfa14248ebbd242aace2a4fc40477", null ],
     [ "GetDarknessTimeBeforeStartingHits", "d2/d32/classTerraria_1_1GameContent_1_1DontStarveDarknessDamageDealer_adbbd94e8a223b15f8d2991abd6b77be0.html#adbbd94e8a223b15f8d2991abd6b77be0", null ],
     [ "GetDarknessTimeForMessage", "d2/d32/classTerraria_1_1GameContent_1_1DontStarveDarknessDamageDealer_a691a12dbcdb6a2d886a83da7fcdf2b89.html#a691a12dbcdb6a2d886a83da7fcdf2b89", null ],

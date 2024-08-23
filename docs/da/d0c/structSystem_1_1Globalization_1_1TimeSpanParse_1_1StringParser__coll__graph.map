@@ -1,0 +1,14 @@
+<map id="System.Globalization.TimeSpanParse.StringParser" name="System.Globalization.TimeSpanParse.StringParser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="170,1484,399,1767"/>
+<area shape="rect" id="Node000002" href="$db/d2e/structSystem_1_1ReadOnlySpan.html" title=" " alt="" coords="5,781,247,1421"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,1421,235,1459,238,1467,233,1469,230,1461,218,1423"/>
+<area shape="rect" id="Node000003" href="$db/d2e/structSystem_1_1ReadOnlySpan.html" title=" " alt="" coords="5,133,247,704"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,718,129,781,123,781,123,718"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="13,5,201,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,71,111,109,112,117,106,117,106,109,105,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="247,5,277,71"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="267,71,269,95,281,482,287,865,289,1468,283,1468,282,865,276,482,263,95,262,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="248,54,228,72,211,96,199,120,194,117,206,93,224,69,244,50"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="322,1069,365,1134"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="342,1135,306,1460,305,1468,300,1467,301,1460,337,1134"/>
+</map>

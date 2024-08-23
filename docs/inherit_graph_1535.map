@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$df/d16/interfaceSystem_1_1Configuration_1_1IConfigurationSectionHandler.html" title=" " alt="" coords="5,165,263,205"/>
+<area shape="rect" id="Node000001" href="$dd/dd4/classSystem_1_1Configuration_1_1DictionarySectionHandler.html" title=" " alt="" coords="311,5,544,45"/>
+<area shape="poly" id="edge3427_Node000000_Node000001" title=" " alt="" coords="166,154,230,104,269,78,310,55,339,43,341,48,312,60,271,82,233,108,169,158"/>
+<area shape="rect" id="Node000002" href="$d4/dc5/classSystem_1_1Configuration_1_1IgnoreSectionHandler.html" title=" " alt="" coords="324,69,531,109"/>
+<area shape="poly" id="edge3428_Node000000_Node000002" title=" " alt="" coords="199,158,310,119,349,107,351,112,311,124,201,163"/>
+<area shape="rect" id="Node000003" href="$da/d40/classSystem_1_1Configuration_1_1NameValueFileSectionHandler.html" title=" " alt="" coords="325,133,530,173"/>
+<area shape="poly" id="edge3429_Node000000_Node000003" title=" " alt="" coords="276,167,324,162,325,167,277,172"/>
+<area shape="rect" id="Node000004" href="$d6/dca/classSystem_1_1Configuration_1_1NameValueSectionHandler.html" title=" " alt="" coords="325,197,530,237"/>
+<area shape="poly" id="edge3430_Node000000_Node000004" title=" " alt="" coords="277,198,325,203,324,209,276,204"/>
+<area shape="rect" id="Node000005" href="$de/d55/classSystem_1_1Configuration_1_1SingleTagSectionHandler.html" title=" " alt="" coords="324,261,531,301"/>
+<area shape="poly" id="edge3431_Node000000_Node000005" title=" " alt="" coords="201,208,311,247,351,259,349,264,310,252,199,213"/>
+<area shape="rect" id="Node000006" href="$d1/d61/classSystem_1_1Diagnostics_1_1DiagnosticsConfigurationHandler.html" title=" " alt="" coords="312,325,543,365"/>
+<area shape="poly" id="edge3432_Node000000_Node000006" title=" " alt="" coords="169,212,233,263,271,289,312,311,341,323,339,328,310,316,269,293,230,267,166,217"/>
+</map>

@@ -1,7 +1,7 @@
 <map id="GUIMultiplayerLobby.ServerInformation" name="GUIMultiplayerLobby.ServerInformation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="135,544,440,741"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,544,423,741"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="5,181,36,247"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="17,247,11,303,11,374,15,412,23,449,35,485,54,518,84,553,122,580,119,585,80,557,49,522,30,488,17,451,9,413,5,374,6,303,12,247"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="17,247,11,303,11,374,15,412,23,449,35,485,54,519,71,540,91,559,138,589,135,594,88,563,67,543,49,521,30,488,17,451,9,413,5,374,6,303,12,247"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="138,181,189,247"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,247,160,301,161,370,170,445,179,483,191,519,195,528,190,530,186,521,174,484,165,446,156,370,155,300,157,247"/>
 <area shape="rect" id="Node000004" title=" " alt="" coords="266,181,309,247"/>
@@ -9,5 +9,5 @@
 <area shape="rect" id="Node000005" title=" " alt="" coords="400,181,447,247"/>
 <area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="429,247,432,300,430,370,419,447,410,485,396,521,392,531,387,529,392,519,405,483,414,446,424,370,426,300,424,247"/>
 <area shape="rect" id="Node000006" href="$dd/dc8/interfaceMPSession.html" title=" " alt="" coords="471,5,722,423"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="565,424,543,475,513,522,486,550,455,574,452,569,483,546,509,518,539,473,560,422"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="565,424,543,475,513,522,479,556,439,584,436,580,476,552,509,518,539,473,560,422"/>
 </map>

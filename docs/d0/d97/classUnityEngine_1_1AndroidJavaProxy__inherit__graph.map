@@ -1,0 +1,15 @@
+<map id="UnityEngine.AndroidJavaProxy" name="UnityEngine.AndroidJavaProxy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="713,5,967,492"/>
+<area shape="rect" id="Node000002" href="$d2/dc5/classAndroidImmersive_1_1Listener.html" title=" " alt="" coords="5,651,203,751"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="701,294,588,334,462,389,334,458,273,498,216,542,191,567,167,595,131,652,126,649,163,592,187,564,213,538,270,494,331,454,460,384,586,329,699,289"/>
+<area shape="rect" id="Node000003" href="$d7/d1e/classUnityEngine_1_1Android_1_1AndroidAssetPacks_1_1AssetPackManagerDownloadStatusCallback.html" title=" " alt="" coords="227,560,506,841"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="705,371,519,542,499,562,496,558,515,538,701,367"/>
+<area shape="rect" id="Node000004" href="$de/d19/classUnityEngine_1_1Android_1_1AndroidAssetPacks_1_1AssetPackManagerMobileDataConfirmationCallback.html" title=" " alt="" coords="530,599,843,802"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="755,506,723,600,718,598,750,504"/>
+<area shape="rect" id="Node000005" href="$d6/d4d/classUnityEngine_1_1Android_1_1AndroidAssetPacks_1_1AssetPackManagerStatusQueryCallback.html" title=" " alt="" coords="867,540,1122,861"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="930,504,942,539,937,540,925,506"/>
+<area shape="rect" id="Node000006" href="$d4/d00/classUnityEngine_1_1Android_1_1PermissionCallbacks.html" title=" " alt="" coords="1147,567,1429,835"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="979,381,1137,538,1163,565,1159,568,1133,542,975,385"/>
+<area shape="rect" id="Node000007" href="$dc/d5b/classUnityEngine_1_1AndroidJavaRunnableProxy.html" title=" " alt="" coords="1454,636,1693,765"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="980,295,1087,338,1207,393,1329,460,1387,497,1443,538,1492,584,1533,634,1529,638,1488,588,1440,542,1384,502,1326,464,1204,398,1085,343,978,300"/>
+</map>

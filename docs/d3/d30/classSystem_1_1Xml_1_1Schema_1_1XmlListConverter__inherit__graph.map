@@ -1,0 +1,11 @@
+<map id="System.Xml.Schema.XmlListConverter" name="System.Xml.Schema.XmlListConverter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,2169,427,2807"/>
+<area shape="rect" id="Node000004" href="$df/daa/classSystem_1_1Xml_1_1Schema_1_1XmlAnyListConverter.html" title=" " alt="" coords="5,3169,279,3397"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,2821,167,3169,162,3168,231,2820"/>
+<area shape="rect" id="Node000005" href="$da/d57/classSystem_1_1Xml_1_1Schema_1_1XmlUntypedConverter.html" title=" " alt="" coords="303,2855,611,3711"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="368,2820,374,2854,369,2855,362,2821"/>
+<area shape="rect" id="Node000002" href="$d6/da1/classSystem_1_1Xml_1_1Schema_1_1XmlBaseConverter.html" title=" " alt="" coords="167,456,432,2121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,2135,302,2169,297,2169,297,2135"/>
+<area shape="rect" id="Node000003" href="$d1/d2a/classSystem_1_1Xml_1_1Schema_1_1XmlValueConverter.html" title=" " alt="" coords="201,5,398,408"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,422,302,456,297,456,297,422"/>
+</map>

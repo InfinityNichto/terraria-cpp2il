@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1TownRoomManager =
 [
     [ "TownRoomManager", "da/d75/classTerraria_1_1GameContent_1_1TownRoomManager_a384f17dda3f00ee68cc15035aa7307e5.html#a384f17dda3f00ee68cc15035aa7307e5", null ],
+    [ "TownRoomManager", "da/d75/classTerraria_1_1GameContent_1_1TownRoomManager_af557c270a23b0ad63978e8e226622a63.html#af557c270a23b0ad63978e8e226622a63", null ],
     [ "AddOccupantsToList", "da/d75/classTerraria_1_1GameContent_1_1TownRoomManager_adc0fb40554369b5ad859639d68f6240d.html#adc0fb40554369b5ad859639d68f6240d", null ],
     [ "AddOccupantsToList", "da/d75/classTerraria_1_1GameContent_1_1TownRoomManager_a499ca08ca72ce3cd185f80c3cefd8e85.html#a499ca08ca72ce3cd185f80c3cefd8e85", null ],
     [ "CanNPCsLiveWithEachOther", "da/d75/classTerraria_1_1GameContent_1_1TownRoomManager_a6e04a29ea744d245e309e2f96555ed0a.html#a6e04a29ea744d245e309e2f96555ed0a", null ],

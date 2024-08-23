@@ -1,0 +1,9 @@
+<map id="InControl.Internal.RingBuffer&lt; T &gt;" name="InControl.Internal.RingBuffer&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,243,268"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="22,5,53,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,70,80,138,85,147,80,150,75,140,46,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="77,5,171,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,71,127,146,121,146,121,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="195,5,250,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,72,170,140,165,150,160,147,166,137,203,69"/>
+</map>

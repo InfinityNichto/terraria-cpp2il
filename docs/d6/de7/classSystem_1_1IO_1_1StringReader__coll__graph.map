@@ -1,0 +1,18 @@
+<map id="System.IO.StringReader" name="System.IO.StringReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,923,500,1201"/>
+<area shape="rect" id="Node000002" href="$d1/d52/classSystem_1_1IO_1_1TextReader.html" title=" " alt="" coords="82,521,315,845"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,857,306,921,302,923,273,859"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,208,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,99,72,135,55,226,47,297,52,369,72,458,95,520,90,522,67,459,47,370,42,297,49,225,67,134,78,97"/>
+<area shape="rect" id="Node000005" href="$d1/d52/classSystem_1_1IO_1_1TextReader.html" title=" " alt="" coords="82,135,315,459"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="128,97,142,134,137,135,123,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="279,13,465,78"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="389,91,407,164,421,257,423,308,421,360,412,411,396,460,382,482,367,495,349,506,330,523,318,537,314,533,326,519,346,502,363,491,378,478,391,458,407,410,415,360,418,308,416,258,402,165,384,92"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="345,91,313,136,309,133,340,88"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="201,459,201,505,196,505,196,459"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="317,264,335,276,342,296,339,310,332,320,328,317,334,308,337,297,331,280,314,269"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="340,651,391,716"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="368,716,368,906,363,906,363,716"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="415,651,446,716"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="428,717,397,899,396,907,391,906,392,898,423,716"/>
+</map>

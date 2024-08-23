@@ -1,7 +1,7 @@
 <map id="TextureAtlasEntry.TextureAtlasEntryTiles" name="TextureAtlasEntry.TextureAtlasEntryTiles">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,261,381"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,261,416"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="41,5,87,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,70,68,109,70,117,65,119,63,110,59,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,71,68,109,70,117,65,118,63,110,59,71"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="189,5,219,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,72,181,119,176,117,191,70"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,72,183,118,178,117,192,70"/>
 </map>

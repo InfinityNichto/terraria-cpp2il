@@ -31,7 +31,7 @@
   <td id="projectalign">
    <div id="projectname">terraria-cpp2il<span id="projectnumber">&#160;v1.4.4.9</span>
    </div>
-   <div id="projectbrief">Contains cpp2il injection tokens, adress, etc.</div>
+   <div id="projectbrief">See the source code of methods for useful infos (as attributes). Note: all method bodies are blank; you won&#39;t find any logic code.</div>
   </td>
  </tr>
  </tbody>
@@ -108,14 +108,14 @@ Enumerations</h2></td></tr>
 , <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a51c45b795d5d18a3e4e0c37e8b20a141">Table</a> = 4
 , <br />
 &#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a6774590bd4e5cc8b3586ae81a8f28267">SolidSide</a> = 8
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a3b0c14770e6bd663518496da60f524da">Tree</a> = 0x10
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a65f9a75433e9715892cb4f72e9935edb">AlternateTile</a> = 0x20
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014afb18ca10ea6d998b1f915e859d7a1671">EmptyTile</a> = 0x40
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a3b0c14770e6bd663518496da60f524da">Tree</a> = 16
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a65f9a75433e9715892cb4f72e9935edb">AlternateTile</a> = 32
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014afb18ca10ea6d998b1f915e859d7a1671">EmptyTile</a> = 64
 , <br />
-&#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a4d15e3af5cb35e0d0d60655bbf69211e">SolidBottom</a> = 0x80
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a419f3742e6de8e0ec4b22cce005e7630">Platform</a> = 0x100
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014ac3a8895eb073808654a0c09662425f61">PlanterBox</a> = 0x200
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a5c2ec97650c8c105515fb757f0c90767">PlatformNonHammered</a> = 0x400
+&#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a4d15e3af5cb35e0d0d60655bbf69211e">SolidBottom</a> = 128
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a419f3742e6de8e0ec4b22cce005e7630">Platform</a> = 256
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014ac3a8895eb073808654a0c09662425f61">PlanterBox</a> = 512
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a204aa8cb535489f0ef22f6ea25eda014.html#a204aa8cb535489f0ef22f6ea25eda014a5c2ec97650c8c105515fb757f0c90767">PlatformNonHammered</a> = 1024
 <br />
  }</td></tr>
 <tr class="separator:a204aa8cb535489f0ef22f6ea25eda014"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -127,21 +127,21 @@ Enumerations</h2></td></tr>
 <tr class="memitem:a0c9097eb4b9aedc37d7ca65ba311a372" id="r_a0c9097eb4b9aedc37d7ca65ba311a372"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372">ItemRarityColor</a> { <br />
 &#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a3634a34218faeadd59af95c76e540f0d">AmberMinus11</a> = -11
 , <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a7b009e598ace58314e9920810edab7d7">TrashMinus1</a> = -1
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372ab1699518cfd30931d23b0a837bbdb129">White0</a> = 0
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a9386bb1310347c936dfd385a55af1dc5">Blue1</a> = 1
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372ab1699518cfd30931d23b0a837bbdb129">White0</a>
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a9386bb1310347c936dfd385a55af1dc5">Blue1</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372ab0d2f83d79ed18c8e87f87d407997219">Green2</a> = 2
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372ac9ae9f5e403735b7dfc79608b6e802b5">Orange3</a> = 3
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372ad7459c2d54d1e4b0881ad49a9937e864">LightRed4</a> = 4
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372af770f11783ed90d7a112d05219579b39">Pink5</a> = 5
+&#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372ab0d2f83d79ed18c8e87f87d407997219">Green2</a>
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372ac9ae9f5e403735b7dfc79608b6e802b5">Orange3</a>
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372ad7459c2d54d1e4b0881ad49a9937e864">LightRed4</a>
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372af770f11783ed90d7a112d05219579b39">Pink5</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a90d6f5f81c3dfda9c79dcdc1fb12925d">LightPurple6</a> = 6
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a7a3559c3e47879a19a95ffcc2bf53c48">Lime7</a> = 7
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372aa53f89078e9dcc9cd92b539012bc9639">Yellow8</a> = 8
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a741f5ce56cf2b6c2a0183e6e47256407">Cyan9</a> = 9
+&#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a90d6f5f81c3dfda9c79dcdc1fb12925d">LightPurple6</a>
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a7a3559c3e47879a19a95ffcc2bf53c48">Lime7</a>
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372aa53f89078e9dcc9cd92b539012bc9639">Yellow8</a>
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a741f5ce56cf2b6c2a0183e6e47256407">Cyan9</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372afced3bba0b87e645bf1b548e5b909add">StrongRed10</a> = 10
-, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a12b099dedb6423d7fcb41b6b9073400d">Purple11</a> = 11
+&#160;&#160;<a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372afced3bba0b87e645bf1b548e5b909add">StrongRed10</a>
+, <a class="el" href="../../da/d0b/namespaceTerraria_1_1Enums_a0c9097eb4b9aedc37d7ca65ba311a372.html#a0c9097eb4b9aedc37d7ca65ba311a372a12b099dedb6423d7fcb41b6b9073400d">Purple11</a>
 <br />
  }</td></tr>
 <tr class="separator:a0c9097eb4b9aedc37d7ca65ba311a372"><td class="memSeparator" colspan="2">&#160;</td></tr>

@@ -20,6 +20,8 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1PrettySparkleParticle =
     [ "FadeOutEnd", "da/d12/classTerraria_1_1Graphics_1_1Renderers_1_1PrettySparkleParticle_aa0ece49a6f34db0ae038dbcd32f32c19.html#aa0ece49a6f34db0ae038dbcd32f32c19", null ],
     [ "FadeOutNormalizedTime", "da/d12/classTerraria_1_1Graphics_1_1Renderers_1_1PrettySparkleParticle_a84c9ee163f852ad5ca03d2b63f9067f2.html#a84c9ee163f852ad5ca03d2b63f9067f2", null ],
     [ "FadeOutStart", "da/d12/classTerraria_1_1Graphics_1_1Renderers_1_1PrettySparkleParticle_a6585114b7bbd0b61297bc966e620908b.html#a6585114b7bbd0b61297bc966e620908b", null ],
+    [ "k__BackingField", "da/d12/classTerraria_1_1Graphics_1_1Renderers_1_1PrettySparkleParticle.html#ac8614fc67db36e9087e4b4a3f0d59240", null ],
+    [ "k__BackingField", "da/d12/classTerraria_1_1Graphics_1_1Renderers_1_1PrettySparkleParticle.html#ad8ca4ee16e33f953b1d92f556adb8d85", null ],
     [ "LocalPosition", "da/d12/classTerraria_1_1Graphics_1_1Renderers_1_1PrettySparkleParticle.html#a0de37b58f2ae916a5089fd67d6c86189", null ],
     [ "Opacity", "da/d12/classTerraria_1_1Graphics_1_1Renderers_1_1PrettySparkleParticle_a757571e32759fe428a6573465d41f513.html#a757571e32759fe428a6573465d41f513", null ],
     [ "Rotation", "da/d12/classTerraria_1_1Graphics_1_1Renderers_1_1PrettySparkleParticle.html#a742071d057f2d77d7cad514d998c1f00", null ],

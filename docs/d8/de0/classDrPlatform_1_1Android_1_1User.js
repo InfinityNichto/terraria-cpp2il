@@ -11,7 +11,7 @@ var classDrPlatform_1_1Android_1_1User =
     [ "Logout", "d8/de0/classDrPlatform_1_1Android_1_1User_a395470914b42e13f475fc1682bb51f6f.html#a395470914b42e13f475fc1682bb51f6f", null ],
     [ "RequestLogin", "d8/de0/classDrPlatform_1_1Android_1_1User_a9b6e4a29c3939391a0f8e065f24161c5.html#a9b6e4a29c3939391a0f8e065f24161c5", null ],
     [ "AccountProfileURL", "d8/de0/classDrPlatform_1_1Android_1_1User_afef6eeda4161fe2ebde74afaf74a63da.html#afef6eeda4161fe2ebde74afaf74a63da", null ],
-    [ "CurrentLoginState", "d8/de0/classDrPlatform_1_1Android_1_1User_ae32d4bce402cd15dfa6cce518e4f1fc9.html#ae32d4bce402cd15dfa6cce518e4f1fc9", null ],
+    [ "CurrentLoginState", "d8/de0/classDrPlatform_1_1Android_1_1User_a00e37308e2eb40c1bdb52ec87ed188b1.html#a00e37308e2eb40c1bdb52ec87ed188b1", null ],
     [ "GamerTag", "d8/de0/classDrPlatform_1_1Android_1_1User_ae99decafc5ee849dbfa8c9132fa11e29.html#ae99decafc5ee849dbfa8c9132fa11e29", null ],
     [ "SigningIn", "d8/de0/classDrPlatform_1_1Android_1_1User_ad42e139fa109c91d77044135d7f16b39.html#ad42e139fa109c91d77044135d7f16b39", null ],
     [ "UserUID", "d8/de0/classDrPlatform_1_1Android_1_1User_a72de855027b36545b831fa9ec174d96f.html#a72de855027b36545b831fa9ec174d96f", null ]

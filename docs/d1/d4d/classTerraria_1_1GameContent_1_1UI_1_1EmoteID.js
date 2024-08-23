@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1UI_1_1EmoteID =
 [
     [ "EmoteID", "d1/d4d/classTerraria_1_1GameContent_1_1UI_1_1EmoteID_ace04e4d8775479f2ddee7ad50e3f54ec.html#ace04e4d8775479f2ddee7ad50e3f54ec", null ],
+    [ "EmoteID", "d1/d4d/classTerraria_1_1GameContent_1_1UI_1_1EmoteID_a6974902211f9d187d1ff16176198792b.html#a6974902211f9d187d1ff16176198792b", null ],
     [ "BiomeBeach", "d1/d4d/classTerraria_1_1GameContent_1_1UI_1_1EmoteID_aa7c2433ea7b8cfec9c083389eb523a0f.html#aa7c2433ea7b8cfec9c083389eb523a0f", null ],
     [ "BiomeCorruption", "d1/d4d/classTerraria_1_1GameContent_1_1UI_1_1EmoteID_ac743909e46f18bc48780098a98746098.html#ac743909e46f18bc48780098a98746098", null ],
     [ "BiomeCrimson", "d1/d4d/classTerraria_1_1GameContent_1_1UI_1_1EmoteID_a62fd40f24d5b8bff8f8d4884ebd8ab2e.html#a62fd40f24d5b8bff8f8d4884ebd8ab2e", null ],

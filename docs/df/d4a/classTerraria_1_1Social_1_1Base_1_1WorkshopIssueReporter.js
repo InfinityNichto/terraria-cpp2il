@@ -13,6 +13,6 @@ var classTerraria_1_1Social_1_1Base_1_1WorkshopIssueReporter =
     [ "ReportManifestCreationProblem", "df/d4a/classTerraria_1_1Social_1_1Base_1_1WorkshopIssueReporter_a1ee07e88af7119355dfb00f6a65a50eb.html#a1ee07e88af7119355dfb00f6a65a50eb", null ],
     [ "_maxReports", "df/d4a/classTerraria_1_1Social_1_1Base_1_1WorkshopIssueReporter_a8b4139214335f3c976e55b11f21d8159.html#a8b4139214335f3c976e55b11f21d8159", null ],
     [ "_reports", "df/d4a/classTerraria_1_1Social_1_1Base_1_1WorkshopIssueReporter_a9d2f6969eeb559d207745f4226471602.html#a9d2f6969eeb559d207745f4226471602", null ],
-    [ "OnNeedToNotifyUI", "df/d4a/classTerraria_1_1Social_1_1Base_1_1WorkshopIssueReporter_a82331fcc8cc28fc7170b3d5361cf817f.html#a82331fcc8cc28fc7170b3d5361cf817f", null ],
-    [ "OnNeedToOpenUI", "df/d4a/classTerraria_1_1Social_1_1Base_1_1WorkshopIssueReporter_abd9d93221b6fafa7910d01348cac5c88.html#abd9d93221b6fafa7910d01348cac5c88", null ]
+    [ "OnNeedToNotifyUI", "df/d4a/classTerraria_1_1Social_1_1Base_1_1WorkshopIssueReporter_a1ac246ee378674d2c62bd21ca5b7746a.html#a1ac246ee378674d2c62bd21ca5b7746a", null ],
+    [ "OnNeedToOpenUI", "df/d4a/classTerraria_1_1Social_1_1Base_1_1WorkshopIssueReporter_a165a8de6011938ca16329b2f7a3230dc.html#a165a8de6011938ca16329b2f7a3230dc", null ]
 ];

@@ -1,6 +1,7 @@
 var classTerraria_1_1Lighting =
 [
     [ "Lighting", "d0/d12/classTerraria_1_1Lighting_aafdaa4704b0ad15ffb616dd26aedc345.html#aafdaa4704b0ad15ffb616dd26aedc345", null ],
+    [ "Lighting", "d0/d12/classTerraria_1_1Lighting_a042cbc3a2d771e0daaa4a79ced697e46.html#a042cbc3a2d771e0daaa4a79ced697e46", null ],
     [ "AddLight", "d0/d12/classTerraria_1_1Lighting_a432b15e6e5fb38a4976b5a9c9963b9f8.html#a432b15e6e5fb38a4976b5a9c9963b9f8", null ],
     [ "AddLight", "d0/d12/classTerraria_1_1Lighting_af06d5e20167613ef77ea87a16b9280ae.html#af06d5e20167613ef77ea87a16b9280ae", null ],
     [ "AddLight", "d0/d12/classTerraria_1_1Lighting_a26cd16322f363a71ccf8c91824f16c0c.html#a26cd16322f363a71ccf8c91824f16c0c", null ],
@@ -29,6 +30,7 @@ var classTerraria_1_1Lighting =
     [ "UpdateGlobalBrightness", "d0/d12/classTerraria_1_1Lighting_aa9ca66476779c000a7d404d5b677ae5f.html#aa9ca66476779c000a7d404d5b677ae5f", null ],
     [ "BLIND_GLOBAL_BRIGHTNESS", "d0/d12/classTerraria_1_1Lighting_a05ed84e42ce24420556476f316d16f4c.html#a05ed84e42ce24420556476f316d16f4c", null ],
     [ "DEFAULT_GLOBAL_BRIGHTNESS", "d0/d12/classTerraria_1_1Lighting_aa1a37132e45751bf39569d0682c94df9.html#aa1a37132e45751bf39569d0682c94df9", null ],
+    [ "k__BackingField", "d0/d12/classTerraria_1_1Lighting_a82610b9e526cc7ca14292e3dafa0c6a6.html#a82610b9e526cc7ca14292e3dafa0c6a6", null ],
     [ "OffScreenTiles", "d0/d12/classTerraria_1_1Lighting_ad69c78484a41def9264e2397d2301857.html#ad69c78484a41def9264e2397d2301857", null ],
     [ "_activeEngine", "d0/d12/classTerraria_1_1Lighting_a258f44689809d56ee54de6549950072c.html#a258f44689809d56ee54de6549950072c", null ],
     [ "_mode", "d0/d12/classTerraria_1_1Lighting_ad9ef0665cb596551fac25f2a715917f0.html#ad9ef0665cb596551fac25f2a715917f0", null ],

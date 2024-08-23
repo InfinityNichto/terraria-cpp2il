@@ -2,6 +2,7 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Vector2 =
 [
     [ "Vector2", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_af0241a60a6781f9fcbc649909cc64464.html#af0241a60a6781f9fcbc649909cc64464", null ],
     [ "Vector2", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_a665199e0351f657cf0dc463712d78db1.html#a665199e0351f657cf0dc463712d78db1", null ],
+    [ "Vector2", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_adc08ab2ae42965178f5a5333cf9a80d3.html#adc08ab2ae42965178f5a5333cf9a80d3", null ],
     [ "Add", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_a4ecb622533223cbcf951e438e416d1de.html#a4ecb622533223cbcf951e438e416d1de", null ],
     [ "Add", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_a7e4e291cc72e89061ec150ae8e83f70d.html#a7e4e291cc72e89061ec150ae8e83f70d", null ],
     [ "Barycentric", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_a8dc8ac35776dc098cfc89a502449b9c4.html#a8dc8ac35776dc098cfc89a502449b9c4", null ],
@@ -21,6 +22,7 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Vector2 =
     [ "Dot", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_a5e1961565b5a29f77cd27f2e2322bc98.html#a5e1961565b5a29f77cd27f2e2322bc98", null ],
     [ "Dot", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_a11d1631119a63b47d126ec8c6514158a.html#a11d1631119a63b47d126ec8c6514158a", null ],
     [ "Equals", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_a085fab7a69388875b5bb337077162411.html#a085fab7a69388875b5bb337077162411", null ],
+    [ "Equals", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html#adcb517a2c4a75f107b1b3d704b343c16", null ],
     [ "Equals", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_a0425aba4927eed9f7d1227a8701a3f98.html#a0425aba4927eed9f7d1227a8701a3f98", null ],
     [ "GetHashCode", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_af5c8022711973f4cbbe011eabe01eeeb.html#af5c8022711973f4cbbe011eabe01eeeb", null ],
     [ "Hermite", "dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2_aca62b3073db26b1561a1e905c45003ca.html#aca62b3073db26b1561a1e905c45003ca", null ],

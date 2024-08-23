@@ -31,7 +31,7 @@ var classGUIPageIconGrouping =
     [ "LoadColourState", "d2/d60/classGUIPageIconGrouping_a32e84a79efcad0fe76dd6220f70a1b2c.html#a32e84a79efcad0fe76dd6220f70a1b2c", null ],
     [ "LoadPageAnchor", "d2/d60/classGUIPageIconGrouping_ab7c7238380067dc26a51cc18776a03f9.html#ab7c7238380067dc26a51cc18776a03f9", null ],
     [ "LoadPageRegion", "d2/d60/classGUIPageIconGrouping_a78e427b9cf6b512f5353a2b80d88eade.html#a78e427b9cf6b512f5353a2b80d88eade", null ],
-    [ "LoadSettingAnchor", "d2/d60/classGUIPageIconGrouping_a4a29900a2c067a6fa19c713972f52b07.html#a4a29900a2c067a6fa19c713972f52b07", null ],
+    [ "LoadSettingAnchor", "d2/d60/classGUIPageIconGrouping_af9994ee115aeff0576df8f3fc3c9b4ce.html#af9994ee115aeff0576df8f3fc3c9b4ce", null ],
     [ "LoadTransactionButtonColour", "d2/d60/classGUIPageIconGrouping_ae32e2df482ec2a8267ca289dd10275a4.html#ae32e2df482ec2a8267ca289dd10275a4", null ],
     [ "NavigateDown", "d2/d60/classGUIPageIconGrouping_abaf75d98dbe89c7380b0ae0875c85dd5.html#abaf75d98dbe89c7380b0ae0875c85dd5", null ],
     [ "NavigateFromMenuIntoPage", "d2/d60/classGUIPageIconGrouping_a84ee1b41ef80831d116b73cfdb9bf9f7.html#a84ee1b41ef80831d116b73cfdb9bf9f7", null ],
@@ -49,7 +49,7 @@ var classGUIPageIconGrouping =
     [ "_options", "d2/d60/classGUIPageIconGrouping_ac9fd46d9baa39ab0f4854d5d2f4b01ff.html#ac9fd46d9baa39ab0f4854d5d2f4b01ff", null ],
     [ "_preHousingCategory", "d2/d60/classGUIPageIconGrouping_a8ca2300ef4bc138501ce7ad93aa13027.html#a8ca2300ef4bc138501ce7ad93aa13027", null ],
     [ "_selectedCategory", "d2/d60/classGUIPageIconGrouping_afe84704f9321fc17e40f69007f8538f6.html#afe84704f9321fc17e40f69007f8538f6", null ],
-    [ "_settings", "d2/d60/classGUIPageIconGrouping_ab6bc6bff7e283fd88f8992bf3300e565.html#ab6bc6bff7e283fd88f8992bf3300e565", null ],
+    [ "_settings", "d2/d60/classGUIPageIconGrouping_a463df36e5e21bc8e9ec7810a26e3dc78.html#a463df36e5e21bc8e9ec7810a26e3dc78", null ],
     [ "AllowedCategories", "d2/d60/classGUIPageIconGrouping_a913451c659935e34776be7267b8cb3e1.html#a913451c659935e34776be7267b8cb3e1", null ],
     [ "Anchor", "d2/d60/classGUIPageIconGrouping_a2d3ee07d0c80c718c5871066b5d59505.html#a2d3ee07d0c80c718c5871066b5d59505", null ],
     [ "AnchorControl", "d2/d60/classGUIPageIconGrouping_ad46919bebaf849b86f71b7c17e6673e7.html#ad46919bebaf849b86f71b7c17e6673e7", null ],
@@ -59,7 +59,7 @@ var classGUIPageIconGrouping =
     [ "ignoreShutdown", "d2/d60/classGUIPageIconGrouping_a20e37035954273595085f86bf96ae7bc.html#a20e37035954273595085f86bf96ae7bc", null ],
     [ "Location", "d2/d60/classGUIPageIconGrouping_a24c1c64c36ec6921642f217e359cf22a.html#a24c1c64c36ec6921642f217e359cf22a", null ],
     [ "pageButtonRegionSize", "d2/d60/classGUIPageIconGrouping_ab6d0b9fb4f681ffca570fcb215dd78ba.html#ab6d0b9fb4f681ffca570fcb215dd78ba", null ],
-    [ "SettingEntries", "d2/d60/classGUIPageIconGrouping_a87c2418b7062c907f4ef17e069beb700.html#a87c2418b7062c907f4ef17e069beb700", null ],
+    [ "SettingEntries", "d2/d60/classGUIPageIconGrouping_a0228153d9b88cc312a91fe8089c66955.html#a0228153d9b88cc312a91fe8089c66955", null ],
     [ "Sorter", "d2/d60/classGUIPageIconGrouping_a28f240596c15ef3028aa99d497464aa0.html#a28f240596c15ef3028aa99d497464aa0", null ],
     [ "LastSelectedCategory", "d2/d60/classGUIPageIconGrouping_abf5f298fffeb877922087a308d7d009a.html#abf5f298fffeb877922087a308d7d009a", null ],
     [ "LeftSideGrouping", "d2/d60/classGUIPageIconGrouping_af33b998b2a26fd9912b1f8eb819eec10.html#af33b998b2a26fd9912b1f8eb819eec10", null ],
@@ -67,5 +67,5 @@ var classGUIPageIconGrouping =
     [ "Options", "d2/d60/classGUIPageIconGrouping_adb3c5511add9ecdbf15e5ed3dc2f87a1.html#adb3c5511add9ecdbf15e5ed3dc2f87a1", null ],
     [ "PageButtonSize", "d2/d60/classGUIPageIconGrouping_a024a16a3908ba55c5bb48eec88531152.html#a024a16a3908ba55c5bb48eec88531152", null ],
     [ "SelectedCategory", "d2/d60/classGUIPageIconGrouping_a09ba83dfb18fba892f77cddc515e4d01.html#a09ba83dfb18fba892f77cddc515e4d01", null ],
-    [ "SettingList", "d2/d60/classGUIPageIconGrouping_a2e9ca969847a2718192b5242b4d7d941.html#a2e9ca969847a2718192b5242b4d7d941", null ]
+    [ "SettingList", "d2/d60/classGUIPageIconGrouping_a9f138931fd56bbf929369ce1507000ea.html#a9f138931fd56bbf929369ce1507000ea", null ]
 ];

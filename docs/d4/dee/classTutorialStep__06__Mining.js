@@ -7,7 +7,7 @@ var classTutorialStep__06__Mining =
     ] ],
     [ "TutorialStep_06_Mining", "d4/dee/classTutorialStep__06__Mining_adba98667efafc93faa33778da71eb85a.html#adba98667efafc93faa33778da71eb85a", null ],
     [ "Begin", "d4/dee/classTutorialStep__06__Mining.html#ae7b36833ed674651c836c42b57bdfa7c", null ],
-    [ "GetGuideState", "d4/dee/classTutorialStep__06__Mining_abe8d90c6f380d2a5b38d61566c22569b.html#abe8d90c6f380d2a5b38d61566c22569b", null ],
+    [ "GetGuideState", "d4/dee/classTutorialStep__06__Mining_a2d8bb2c11e343175e71244ee854c6b00.html#a2d8bb2c11e343175e71244ee854c6b00", null ],
     [ "GetGuideString", "d4/dee/classTutorialStep__06__Mining_ad0616b25bce0cb94a50b77005400797c.html#ad0616b25bce0cb94a50b77005400797c", null ],
     [ "GiveItem", "d4/dee/classTutorialStep__06__Mining.html#ac38e5ac4261d7aca8a148210f3a82d04", null ],
     [ "OnGuideDialogueOpen", "d4/dee/classTutorialStep__06__Mining_a350fcd69d6a91b61f31786b8898613cb.html#a350fcd69d6a91b61f31786b8898613cb", null ],

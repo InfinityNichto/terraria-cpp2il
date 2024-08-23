@@ -1,6 +1,7 @@
 var structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle =
 [
     [ "Rectangle", "d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle_ad4860305cd72c200554b0db21e7baf9a.html#ad4860305cd72c200554b0db21e7baf9a", null ],
+    [ "Rectangle", "d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle_a9cae6dc7995fed6b15a95e47f22e275f.html#a9cae6dc7995fed6b15a95e47f22e275f", null ],
     [ "Contains", "d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle_aa1864f4a3078bdd2f9b9e834e7b61bb2.html#aa1864f4a3078bdd2f9b9e834e7b61bb2", null ],
     [ "Contains", "d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle_a39f49c99c9de80b0e2eba934f65e5fd1.html#a39f49c99c9de80b0e2eba934f65e5fd1", null ],
     [ "Contains", "d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle_a03dc1766fcd22c58d716837c6f18a1a8.html#a03dc1766fcd22c58d716837c6f18a1a8", null ],

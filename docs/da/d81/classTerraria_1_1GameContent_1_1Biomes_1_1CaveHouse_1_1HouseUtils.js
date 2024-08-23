@@ -1,5 +1,6 @@
 var classTerraria_1_1GameContent_1_1Biomes_1_1CaveHouse_1_1HouseUtils =
 [
+    [ "HouseUtils", "da/d81/classTerraria_1_1GameContent_1_1Biomes_1_1CaveHouse_1_1HouseUtils_a53624019f542c87b813879031dceb07d.html#a53624019f542c87b813879031dceb07d", null ],
     [ "AreRoomLocationsValid", "da/d81/classTerraria_1_1GameContent_1_1Biomes_1_1CaveHouse_1_1HouseUtils_a40f73410b57554ce3cd2833cc0ee3a11.html#a40f73410b57554ce3cd2833cc0ee3a11", null ],
     [ "AreRoomsValid", "da/d81/classTerraria_1_1GameContent_1_1Biomes_1_1CaveHouse_1_1HouseUtils_a9739d6095e98ce3cb07841bd1d4dd28d.html#a9739d6095e98ce3cb07841bd1d4dd28d", null ],
     [ "CreateBuilder", "da/d81/classTerraria_1_1GameContent_1_1Biomes_1_1CaveHouse_1_1HouseUtils_a381a70f6c6834170734585e889fa768b.html#a381a70f6c6834170734585e889fa768b", null ],

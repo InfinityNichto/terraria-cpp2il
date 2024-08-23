@@ -1,0 +1,9 @@
+<map id="System.Runtime.Serialization.ObjectIDGenerator" name="System.Runtime.Serialization.ObjectIDGenerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="62,163,273,416"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,70,35,104,48,138,56,151,51,154,44,140,30,105,23,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="146,5,189,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,71,170,146,165,146,165,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="225,5,280,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,72,226,139,223,148,218,146,221,138,241,70"/>
+</map>

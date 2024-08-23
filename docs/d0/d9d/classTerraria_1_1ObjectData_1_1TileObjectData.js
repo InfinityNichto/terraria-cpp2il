@@ -1,6 +1,6 @@
 var classTerraria_1_1ObjectData_1_1TileObjectData =
 [
-    [ "TileObjectData", "d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_a8d55922933d69e63a174b42ec41db298.html#a8d55922933d69e63a174b42ec41db298", null ],
+    [ "TileObjectData", "d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_ab2a62bd6702a9518c70682a82063e611.html#ab2a62bd6702a9518c70682a82063e611", null ],
     [ "addAlternate", "d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_aa0e218beb1a91808c090b4c8125dfd3b.html#aa0e218beb1a91808c090b4c8125dfd3b", null ],
     [ "addBaseTile", "d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_acf9d8a1ce120b11111dbf141669fdd4e.html#acf9d8a1ce120b11111dbf141669fdd4e", null ],
     [ "addSubTile", "d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_a288ae0c2394dbb6a8ee1d17ad4c85a85.html#a288ae0c2394dbb6a8ee1d17ad4c85a85", null ],

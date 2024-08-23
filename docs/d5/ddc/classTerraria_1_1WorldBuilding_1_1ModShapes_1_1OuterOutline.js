@@ -1,6 +1,7 @@
 var classTerraria_1_1WorldBuilding_1_1ModShapes_1_1OuterOutline =
 [
     [ "OuterOutline", "d5/ddc/classTerraria_1_1WorldBuilding_1_1ModShapes_1_1OuterOutline_a5f26c00aa57c0e669fe7fc9c65ed75dd.html#a5f26c00aa57c0e669fe7fc9c65ed75dd", null ],
+    [ "OuterOutline", "d5/ddc/classTerraria_1_1WorldBuilding_1_1ModShapes_1_1OuterOutline_a4dab63c85814bb3ef23119fb5a4a63d7.html#a4dab63c85814bb3ef23119fb5a4a63d7", null ],
     [ "CustomPerUnitAction", "d5/ddc/classTerraria_1_1WorldBuilding_1_1ModShapes_1_1OuterOutline.html#acbb468772a7f91f5482962e31e7f66d8", null ],
     [ "Output", "d5/ddc/classTerraria_1_1WorldBuilding_1_1ModShapes_1_1OuterOutline.html#a3f4ef5308cc67d99df1fc5bfe81e6468", null ],
     [ "Perform", "d5/ddc/classTerraria_1_1WorldBuilding_1_1ModShapes_1_1OuterOutline_a2a8af542c9d108529445b630dfbb1f01.html#a2a8af542c9d108529445b630dfbb1f01", null ],

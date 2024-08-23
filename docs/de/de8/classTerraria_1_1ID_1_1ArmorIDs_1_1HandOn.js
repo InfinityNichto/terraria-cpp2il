@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1HandOn =
 [
     [ "Sets", "d5/d39/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOn_1_1Sets.html", "d5/d39/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOn_1_1Sets" ],
     [ "HandOn", "de/de8/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOn_aa0f77d2f1b28569d1eca65476a01db97.html#aa0f77d2f1b28569d1eca65476a01db97", null ],
+    [ "HandOn", "de/de8/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOn_ad5c7f9a1916bfbfa879518f5e309353e.html#ad5c7f9a1916bfbfa879518f5e309353e", null ],
     [ "BandofRegeneration", "de/de8/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOn_a29f1f15467d7bea6cb0275aca1de59e1.html#a29f1f15467d7bea6cb0275aca1de59e1", null ],
     [ "BandofStarpower", "de/de8/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOn_aa322c3539a22e2e939bb7e470bb410e9.html#aa322c3539a22e2e939bb7e470bb410e9", null ],
     [ "BersekerGlove", "de/de8/classTerraria_1_1ID_1_1ArmorIDs_1_1HandOn_a07def45e98af519bbdd72d5796c5b414.html#a07def45e98af519bbdd72d5796c5b414", null ],

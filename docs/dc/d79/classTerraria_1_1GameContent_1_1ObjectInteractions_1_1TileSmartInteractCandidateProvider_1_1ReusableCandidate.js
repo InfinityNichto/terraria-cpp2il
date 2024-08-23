@@ -10,5 +10,6 @@ var classTerraria_1_1GameContent_1_1ObjectInteractions_1_1TileSmartInteractCandi
     [ "_lx", "dc/d79/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1TileSmartInteractCandidateProvider_1_1ReusableCandidate_a57fccfe784fce5a1fc38ac472e87ed5c.html#a57fccfe784fce5a1fc38ac472e87ed5c", null ],
     [ "_ly", "dc/d79/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1TileSmartInteractCandidateProvider_1_1ReusableCandidate_af2bd8cbfd2d0db7ed26d0a99e44a7828.html#af2bd8cbfd2d0db7ed26d0a99e44a7828", null ],
     [ "_strictSettings", "dc/d79/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1TileSmartInteractCandidateProvider_1_1ReusableCandidate_a69bd1e09635e0137efd2dc3633efd71c.html#a69bd1e09635e0137efd2dc3633efd71c", null ],
+    [ "k__BackingField", "dc/d79/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1TileSmartInteractCandidateProvider_1_1ReusableCandidate_a69e73b4554a665863d43f1419ff7ec46.html#a69e73b4554a665863d43f1419ff7ec46", null ],
     [ "DistanceFromCursor", "dc/d79/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1TileSmartInteractCandidateProvider_1_1ReusableCandidate_a433e294cd8655c06ad47460341cda249.html#a433e294cd8655c06ad47460341cda249", null ]
 ];

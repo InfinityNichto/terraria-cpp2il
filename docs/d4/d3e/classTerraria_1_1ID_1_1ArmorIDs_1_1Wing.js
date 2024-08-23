@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Wing =
 [
     [ "Sets", "d9/d3d/classTerraria_1_1ID_1_1ArmorIDs_1_1Wing_1_1Sets.html", "d9/d3d/classTerraria_1_1ID_1_1ArmorIDs_1_1Wing_1_1Sets" ],
     [ "Wing", "d4/d3e/classTerraria_1_1ID_1_1ArmorIDs_1_1Wing_a95a4dc839df5754990ecfb5995d48207.html#a95a4dc839df5754990ecfb5995d48207", null ],
+    [ "Wing", "d4/d3e/classTerraria_1_1ID_1_1ArmorIDs_1_1Wing_a37857369f1f3b0ad018ba908e85da597.html#a37857369f1f3b0ad018ba908e85da597", null ],
     [ "AngelWings", "d4/d3e/classTerraria_1_1ID_1_1ArmorIDs_1_1Wing_ac310779911398ea1ac8354e31b21c382.html#ac310779911398ea1ac8354e31b21c382", null ],
     [ "ArkhalisWings", "d4/d3e/classTerraria_1_1ID_1_1ArmorIDs_1_1Wing_a34b9ab8c10e4ac000816c1f62bd18ffe.html#a34b9ab8c10e4ac000816c1f62bd18ffe", null ],
     [ "BatWings", "d4/d3e/classTerraria_1_1ID_1_1ArmorIDs_1_1Wing_ad768e188a36f3a56ecf428fd0940137e.html#ad768e188a36f3a56ecf428fd0940137e", null ],

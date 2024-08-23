@@ -1,7 +1,8 @@
 var classTerraria_1_1Graphics_1_1Effects_1_1SkyManager =
 [
     [ "SkyManager", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager_aa894b408a4bbec4b3e877c0feae1ce80.html#aa894b408a4bbec4b3e877c0feae1ce80", null ],
-    [ "Activate", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager.html#a2d3f5644672df2227c0b410df788dabb", null ],
+    [ "SkyManager", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager_a45f797f8e2f4749525359807df18d667.html#a45f797f8e2f4749525359807df18d667", null ],
+    [ "Activate", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager.html#a224b091552cf08f4c607416929807a2b", null ],
     [ "Bind", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager.html#adbf65de80e8bec0758f91537dcf1a220", null ],
     [ "Deactivate", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager.html#ac5b6d021a29d4a2c7034c20794a73ccc", null ],
     [ "Draw", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager_a351aa02ecc08581877fd669660d2581f.html#a351aa02ecc08581877fd669660d2581f", null ],
@@ -24,5 +25,5 @@ var classTerraria_1_1Graphics_1_1Effects_1_1SkyManager =
     [ "_lastDepth", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager_a986930a9a97cab33854715e859c84a0d.html#a986930a9a97cab33854715e859c84a0d", null ],
     [ "Instance", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager_ae974ca13d5ded377df9919e397d486b9.html#ae974ca13d5ded377df9919e397d486b9", null ],
     [ "IsLoaded", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager.html#ab9b1223a55a0821e320d37aca0c561ca", null ],
-    [ "Item", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager.html#abca861e6914e515faaf10f7616d69fd0", null ]
+    [ "this[string key]", "dc/dac/classTerraria_1_1Graphics_1_1Effects_1_1SkyManager.html#a75aa67f89b65d5b2ff3a7716e21fb6e3", null ]
 ];

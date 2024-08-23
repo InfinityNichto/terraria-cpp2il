@@ -1,14 +1,16 @@
 <map id="Terraria.GameContent.Skies.MartianSky.ZipBehavior" name="Terraria.GameContent.Skies.MartianSky.ZipBehavior">
-<area shape="rect" id="Node000001" title=" " alt="" coords="239,1200,439,1349"/>
-<area shape="rect" id="Node000002" href="$d8/d22/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1IUfoController.html" title=" " alt="" coords="5,575,193,695"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,709,116,796,134,901,163,1014,183,1069,207,1121,232,1161,262,1198,258,1201,228,1165,202,1124,178,1071,158,1015,129,902,110,796,101,709"/>
-<area shape="rect" id="Node000003" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="217,148,461,1123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="342,1123,342,1184,337,1184,337,1123"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="464,550,474,564,482,583,488,635,484,677,474,707,469,705,479,675,483,635,476,585,469,567,460,553"/>
-<area shape="rect" id="Node000004" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="194,5,357,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="283,84,290,147,284,148,278,85"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="381,5,423,71"/>
-<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="401,71,395,132,390,131,396,71"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="591,603,621,668"/>
-<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="616,668,630,753,636,809,638,870,635,935,626,1001,608,1064,580,1124,555,1158,525,1187,491,1211,455,1231,453,1227,488,1207,521,1183,551,1154,576,1121,603,1063,621,1000,630,935,633,870,630,809,625,753,611,669"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,1328,464,1477"/>
+<area shape="rect" id="Node000002" href="$d8/d22/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1IUfoController.html" title=" " alt="" coords="5,696,215,831"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,844,132,931,152,1035,184,1145,204,1198,228,1249,254,1290,284,1326,280,1330,249,1293,224,1252,199,1200,179,1146,147,1036,126,932,114,845"/>
+<area shape="rect" id="Node000003" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="239,276,483,1251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="363,1251,363,1312,358,1312,358,1251"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="485,678,495,692,503,711,509,763,506,805,495,835,490,833,500,803,504,763,498,713,490,695,481,681"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="195,133,358,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="286,212,295,275,289,276,280,213"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="189,5,364,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="279,85,279,133,274,133,274,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="382,133,425,199"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="404,199,399,260,394,259,398,199"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="612,731,643,796"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="637,796,652,881,657,937,659,998,657,1063,647,1129,629,1192,602,1252,577,1285,548,1313,514,1338,480,1358,477,1353,512,1333,544,1309,573,1281,597,1249,624,1191,642,1128,651,1063,654,998,652,937,646,881,632,797"/>
 </map>

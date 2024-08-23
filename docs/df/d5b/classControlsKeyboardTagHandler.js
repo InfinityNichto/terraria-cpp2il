@@ -30,6 +30,6 @@ var classControlsKeyboardTagHandler =
     [ "ControlsKeyboardTagHandler", "df/d5b/classControlsKeyboardTagHandler_ac99e4bd02ac90198d9002865b3bc0aed.html#ac99e4bd02ac90198d9002865b3bc0aed", null ],
     [ "DrawKeyboardBinding", "df/d5b/classControlsKeyboardTagHandler_a1e445a7bdfe927177ed8318596efd202.html#a1e445a7bdfe927177ed8318596efd202", null ],
     [ "MeasureInlineMapping", "df/d5b/classControlsKeyboardTagHandler_aaa77c0f7b002445c19adf3d9f5767fbe.html#aaa77c0f7b002445c19adf3d9f5767fbe", null ],
-    [ "Parse", "df/d5b/classControlsKeyboardTagHandler_a39d8e7e9ce525cfcd75a264b0fce818a.html#a39d8e7e9ce525cfcd75a264b0fce818a", null ],
+    [ "Parse", "df/d5b/classControlsKeyboardTagHandler_a2dcf87342ea6e7e81216deec7473f0c2.html#a2dcf87342ea6e7e81216deec7473f0c2", null ],
     [ "PrintInlineMapping", "df/d5b/classControlsKeyboardTagHandler_addc8415e3e212694ed8c984019dae245.html#addc8415e3e212694ed8c984019dae245", null ]
 ];

@@ -1,5 +1,5 @@
 <map id="Terraria.GameContent.Tile_Entities.TETrainingDummy" name="Terraria.GameContent.Tile_Entities.TETrainingDummy">
-<area shape="rect" id="Node000001" title=" " alt="" coords="11,1520,241,2269"/>
-<area shape="rect" id="Node000002" href="$db/d56/classTerraria_1_1DataStructures_1_1TileEntity.html" title=" " alt="" coords="5,5,247,1472"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,1486,129,1520,123,1520,123,1486"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,1540,241,2309"/>
+<area shape="rect" id="Node000002" href="$db/d56/classTerraria_1_1DataStructures_1_1TileEntity.html" title=" " alt="" coords="5,5,247,1492"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,1506,129,1540,123,1540,123,1506"/>
 </map>

@@ -1,0 +1,23 @@
+<map id="UnityEngine.UI.Graphic" name="UnityEngine.UI.Graphic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,3819,533,5571"/>
+<area shape="rect" id="Node000008" href="$d5/d12/classUnityEngine_1_1UI_1_1MaskableGraphic.html" title=" " alt="" coords="259,5619,540,6444"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="402,5584,402,5619,397,5619,397,5584"/>
+<area shape="rect" id="Node000002" href="$d4/d88/classUnityEngine_1_1EventSystems_1_1UIBehaviour.html" title=" " alt="" coords="142,3357,393,3771"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,3784,300,3818,294,3819,290,3785"/>
+<area shape="rect" id="Node000003" href="$d7/d59/classUnityEngine_1_1MonoBehaviour.html" title=" " alt="" coords="134,2181,401,3309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,3323,270,3357,265,3357,265,3323"/>
+<area shape="rect" id="Node000004" href="$d5/dca/classUnityEngine_1_1Behaviour.html" title=" " alt="" coords="173,2048,362,2133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,2147,270,2181,265,2181,265,2147"/>
+<area shape="rect" id="Node000005" href="$d7/ddf/classUnityEngine_1_1Component.html" title=" " alt="" coords="139,1455,396,2000"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="270,2014,270,2048,265,2048,265,2014"/>
+<area shape="rect" id="Node000006" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="125,5,410,1407"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="270,1420,270,1454,265,1454,265,1420"/>
+<area shape="rect" id="Node000007" href="$d9/d42/interfaceUnityEngine_1_1UI_1_1ICanvasElement.html" title=" " alt="" coords="417,3494,648,3634"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="526,3648,505,3818,500,3818,520,3648"/>
+<area shape="rect" id="Node000009" href="$d0/dd8/classUnityEngine_1_1UI_1_1Image.html" title=" " alt="" coords="5,6492,265,8457"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="287,6458,279,6493,268,6549,263,6548,274,6491,281,6457"/>
+<area shape="rect" id="Node000010" href="$da/d66/classUnityEngine_1_1UI_1_1RawImage.html" title=" " alt="" coords="289,7357,509,7592"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="402,6458,402,7357,397,7357,397,6458"/>
+<area shape="rect" id="Node000011" href="$d6/def/classUnityEngine_1_1UI_1_1Text.html" title=" " alt="" coords="533,7074,775,7875"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="517,6457,525,6492,576,6787,615,7074,609,7074,570,6788,519,6492,512,6458"/>
+</map>

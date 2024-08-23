@@ -39,7 +39,8 @@
 <text text-anchor="start" x="17" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">const int StormTigerTierSwap</text>
 <text text-anchor="start" x="4" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">const int VampireKnives</text>
-<text text-anchor="start" x="84" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="6.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">static ProjectileSourceID()</text>
 <polygon fill="#666666" stroke="#666666" points="0,-229 0,-229 172,-229 172,-229 0,-229"/>
 <polygon fill="#666666" stroke="#666666" points="0,-17 0,-17 15,-17 15,-17 0,-17"/>
 <polygon fill="#666666" stroke="#666666" points="15,-17 15,-17 172,-17 172,-17 15,-17"/>

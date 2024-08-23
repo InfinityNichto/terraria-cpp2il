@@ -4,6 +4,7 @@ var classTerraria_1_1ID_1_1TileID_1_1Sets =
     [ "ForAdvancedCollision", "dc/dbd/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1ForAdvancedCollision.html", "dc/dbd/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1ForAdvancedCollision" ],
     [ "RoomNeeds", "d4/dc0/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1RoomNeeds.html", "d4/dc0/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1RoomNeeds" ],
     [ "TileCutIgnore", "dd/dfb/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1TileCutIgnore.html", "dd/dfb/classTerraria_1_1ID_1_1TileID_1_1Sets_1_1TileCutIgnore" ],
+    [ "Sets", "de/de8/classTerraria_1_1ID_1_1TileID_1_1Sets_aadd52ac045803f5432437312fa6af3a2.html#aadd52ac045803f5432437312fa6af3a2", null ],
     [ "AllBlocksWithSmoothBordersToResolveHalfBlockIssue", "de/de8/classTerraria_1_1ID_1_1TileID_1_1Sets_a1f9fe7707b022b241ebe560006bf1513.html#a1f9fe7707b022b241ebe560006bf1513", null ],
     [ "AllowLightInWater", "de/de8/classTerraria_1_1ID_1_1TileID_1_1Sets_acf64cd0a47756808c5ec5799c61204d3.html#acf64cd0a47756808c5ec5799c61204d3", null ],
     [ "AllowsSaveCompressionBatching", "de/de8/classTerraria_1_1ID_1_1TileID_1_1Sets_aa374628e44144f3ccfa40416e356e491.html#aa374628e44144f3ccfa40416e356e491", null ],

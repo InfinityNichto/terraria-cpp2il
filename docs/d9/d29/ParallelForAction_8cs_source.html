@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.10.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>terraria-cpp2il: source/ReLogic.Threading/ParallelForAction.cs Source File</title>
+<title>terraria-cpp2il: source/Assembly-CSharp/ReLogic/Threading/ParallelForAction.cs Source File</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -31,7 +31,7 @@
   <td id="projectalign">
    <div id="projectname">terraria-cpp2il<span id="projectnumber">&#160;v1.4.4.9</span>
    </div>
-   <div id="projectbrief">Contains cpp2il injection tokens, adress, etc.</div>
+   <div id="projectbrief">See the source code of methods for useful infos (as attributes). Note: all method bodies are blank; you won&#39;t find any logic code.</div>
   </td>
  </tr>
  </tbody>
@@ -101,21 +101,27 @@ $(function(){initNavTree('d9/d29/ParallelForAction_8cs_source.html','../../'); i
   <div class="headertitle"><div class="title">ParallelForAction.cs</div></div>
 </div><!--header-->
 <div class="contents">
-<a href="../../d9/d29/ParallelForAction_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>;</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span> </div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../df/d17/namespaceReLogic_1_1Threading.html">ReLogic.Threading</a>;</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>[<a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>.Token(Token = <span class="stringliteral">&quot;0x200071A&quot;</span>)]</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno"><a class="line" href="../../df/d17/namespaceReLogic_1_1Threading_a8158aa6bbf763981ab0570f9198be2a7.html#a8158aa6bbf763981ab0570f9198be2a7">    6</a></span><span class="keyword">public</span> delegate <span class="keywordtype">void</span> <a class="code hl_function" href="../../df/d17/namespaceReLogic_1_1Threading_a8158aa6bbf763981ab0570f9198be2a7.html#a8158aa6bbf763981ab0570f9198be2a7">ParallelForAction</a>(<span class="keywordtype">int</span> fromInclusive, <span class="keywordtype">int</span> toExclusive, <span class="keywordtype">object</span> context);</div>
-<div class="ttc" id="anamespaceCpp2IlInjected_html"><div class="ttname"><a href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a></div><div class="ttdef"><b>Definition</b> <a href="../../d0/d1c/AddressAttribute_8cs_source.html#l00003">AddressAttribute.cs:3</a></div></div>
+<a href="../../d9/d29/ParallelForAction_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d6/d27/namespaceSystem.html">System</a>;</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d3/de2/namespaceCpp2ILInjected.html">Cpp2ILInjected</a>;</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../df/d17/namespaceReLogic_1_1Threading.html">ReLogic.Threading</a></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>{</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>    <span class="comment">// Token: 0x02000717 RID: 1815</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    <span class="comment">// (Invoke) Token: 0x06004667 RID: 18023</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>    [global::Cpp2ILInjected.Token(Token = <span class="stringliteral">&quot;0x2000B10&quot;</span>)]</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno"><a class="line" href="../../df/d17/namespaceReLogic_1_1Threading_a8158aa6bbf763981ab0570f9198be2a7.html#a8158aa6bbf763981ab0570f9198be2a7">    9</a></span>    <span class="keyword">public</span> <a class="code hl_property" href="../../dd/d0b/--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de.html#a2a006b6791f3f0f29cd58093f5c4d0de">delegate</a> <span class="keywordtype">void</span> <a class="code hl_function" href="../../df/d17/namespaceReLogic_1_1Threading_a8158aa6bbf763981ab0570f9198be2a7.html#a8158aa6bbf763981ab0570f9198be2a7">ParallelForAction</a>(<span class="keywordtype">int</span> <a class="code hl_property" href="../../dd/d0b/--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de.html#a2a006b6791f3f0f29cd58093f5c4d0de">fromInclusive</a>, <span class="keywordtype">int</span> <a class="code hl_property" href="../../dd/d0b/--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de.html#a2a006b6791f3f0f29cd58093f5c4d0de">toExclusive</a>, <span class="keywordtype">object</span> context);</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>}</div>
+<div class="ttc" id="a--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de_html_a2a006b6791f3f0f29cd58093f5c4d0de"><div class="ttname"><a href="../../dd/d0b/--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de.html#a2a006b6791f3f0f29cd58093f5c4d0de">j__TPar</a></div><div class="ttdeci">class f__AnonymousType0&lt;&lt; Count &gt; j__TPar</div><div class="ttdef"><b>Definition</b> <a href="../../dd/d0b/--f____AnonymousType0_8cs_source.html#l00011">--f__AnonymousType0.cs:12</a></div></div>
+<div class="ttc" id="anamespaceCpp2ILInjected_html"><div class="ttname"><a href="../../d3/de2/namespaceCpp2ILInjected.html">Cpp2ILInjected</a></div><div class="ttdef"><b>Definition</b> <a href="../../d6/d0a/____Generated_2Cpp2ILInjected_2AddressAttribute_8cs_source.html#l00003">AddressAttribute.cs:4</a></div></div>
 <div class="ttc" id="anamespaceReLogic_1_1Threading_a8158aa6bbf763981ab0570f9198be2a7_html_a8158aa6bbf763981ab0570f9198be2a7"><div class="ttname"><a href="../../df/d17/namespaceReLogic_1_1Threading_a8158aa6bbf763981ab0570f9198be2a7.html#a8158aa6bbf763981ab0570f9198be2a7">ReLogic.Threading.ParallelForAction</a></div><div class="ttdeci">delegate void ParallelForAction(int fromInclusive, int toExclusive, object context)</div></div>
-<div class="ttc" id="anamespaceReLogic_1_1Threading_html"><div class="ttname"><a href="../../df/d17/namespaceReLogic_1_1Threading.html">ReLogic.Threading</a></div><div class="ttdef"><b>Definition</b> <a href="../../d3/d22/AsyncActionDispatcher_8cs_source.html#l00007">AsyncActionDispatcher.cs:7</a></div></div>
+<div class="ttc" id="anamespaceReLogic_1_1Threading_html"><div class="ttname"><a href="../../df/d17/namespaceReLogic_1_1Threading.html">ReLogic.Threading</a></div><div class="ttdef"><b>Definition</b> <a href="../../d3/d22/AsyncActionDispatcher_8cs_source.html#l00008">AsyncActionDispatcher.cs:9</a></div></div>
+<div class="ttc" id="anamespaceSystem_html"><div class="ttname"><a href="../../d6/d27/namespaceSystem.html">System</a></div><div class="ttdef"><b>Definition</b> <a href="../../d4/d7b/____Il2CppComDelegate_8cs_source.html#l00005">__Il2CppComDelegate.cs:6</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html">source</a></li><li class="navelem"><a class="el" href="../../dir_832e310a5b5ea97c58ff4517d2119ce1.html">ReLogic.Threading</a></li><li class="navelem"><a class="el" href="../../d9/d29/ParallelForAction_8cs.html">ParallelForAction.cs</a></li>
+    <li class="navelem"><a class="el" href="../../dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html">source</a></li><li class="navelem"><a class="el" href="../../dir_878d4b4f67432d41e0421d9947fe4045.html">Assembly-CSharp</a></li><li class="navelem"><a class="el" href="../../dir_4b3509b4eb059c33882dad68698c179e.html">ReLogic</a></li><li class="navelem"><a class="el" href="../../dir_c41342011ffad223e3a551a620547cf2.html">Threading</a></li><li class="navelem"><a class="el" href="../../d9/d29/ParallelForAction_8cs.html">ParallelForAction.cs</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0 </li>
   </ul>
 </div>

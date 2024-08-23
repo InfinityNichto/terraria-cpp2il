@@ -14,5 +14,5 @@ var classTerraria_1_1GameContent_1_1UI_1_1WorldUIAnchor =
     [ "entity", "d9/d05/classTerraria_1_1GameContent_1_1UI_1_1WorldUIAnchor_a57bd46b4dee762d3d44a3334d60d3eef.html#a57bd46b4dee762d3d44a3334d60d3eef", null ],
     [ "pos", "d9/d05/classTerraria_1_1GameContent_1_1UI_1_1WorldUIAnchor_a0030d6adc0054c8bc757526191124e80.html#a0030d6adc0054c8bc757526191124e80", null ],
     [ "size", "d9/d05/classTerraria_1_1GameContent_1_1UI_1_1WorldUIAnchor_a2bf5176e7a3c3cca67259f0852ca9430.html#a2bf5176e7a3c3cca67259f0852ca9430", null ],
-    [ "type", "d9/d05/classTerraria_1_1GameContent_1_1UI_1_1WorldUIAnchor_aebe8333bf4d1aa767ac2e196267fae8b.html#aebe8333bf4d1aa767ac2e196267fae8b", null ]
+    [ "type", "d9/d05/classTerraria_1_1GameContent_1_1UI_1_1WorldUIAnchor_ab12954e896aa54a6155c85b123a10d3c.html#ab12954e896aa54a6155c85b123a10d3c", null ]
 ];

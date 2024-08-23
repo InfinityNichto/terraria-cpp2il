@@ -1,13 +1,22 @@
 <map id="Terraria.Net.TcpAddress" name="Terraria.Net.TcpAddress">
-<area shape="rect" id="Node000001" title=" " alt="" coords="179,321,398,565"/>
-<area shape="rect" id="Node000002" href="$d2/d92/classTerraria_1_1Net_1_1RemoteAddress.html" title=" " alt="" coords="5,133,199,259"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,268,199,320,194,323,155,272"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,1600,426,1844"/>
+<area shape="rect" id="Node000002" href="$d2/d92/classTerraria_1_1Net_1_1RemoteAddress.html" title=" " alt="" coords="5,780,199,905"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,919,156,1192,186,1364,221,1537,231,1575,242,1598,237,1601,226,1577,215,1538,180,1365,150,1193,109,919"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="54,5,150,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,71,105,117,99,117,99,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="223,163,274,229"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,229,258,297,259,305,254,305,253,298,247,229"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="298,163,375,229"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="333,229,318,305,313,304,328,228"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="413,163,444,229"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="422,230,395,298,390,308,385,306,390,296,417,228"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,71,105,763,99,763,99,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="245,5,295,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="273,71,287,642,313,1537,314,1584,309,1584,307,1537,282,643,268,71"/>
+<area shape="rect" id="Node000005" href="$da/d57/classSystem_1_1Net_1_1IPAddress.html" title=" " alt="" coords="368,148,599,1537"/>
+<area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="281,70,366,391,361,392,276,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="371,1452,345,1585,340,1584,365,1451"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="601,723,611,743,619,769,625,843,621,904,609,947,604,946,616,903,620,843,614,770,606,745,597,726"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="369,5,411,71"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="396,70,403,132,398,132,391,71"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="515,5,553,71"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="535,71,531,132,526,131,529,71"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="671,5,725,71"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="692,71,606,395,600,394,687,70"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="857,5,888,71"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="890,49,910,68,927,94,929,109,927,124,923,239,923,345,934,540,950,715,961,878,961,957,955,1035,943,1113,924,1193,894,1274,855,1358,803,1446,739,1539,710,1572,676,1601,639,1626,600,1648,520,1681,443,1703,441,1698,518,1676,598,1643,636,1622,673,1597,706,1568,735,1536,799,1444,850,1356,890,1272,918,1191,938,1112,950,1034,955,956,955,878,945,716,929,541,918,346,917,238,922,124,924,109,922,96,906,71,886,52"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="859,51,832,70,805,96,747,182,694,273,648,367,607,461,602,459,643,365,689,270,742,179,801,93,828,66,855,46"/>
 </map>

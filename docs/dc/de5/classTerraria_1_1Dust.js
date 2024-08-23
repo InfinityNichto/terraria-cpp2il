@@ -1,6 +1,7 @@
 var classTerraria_1_1Dust =
 [
     [ "Dust", "dc/de5/classTerraria_1_1Dust_a2e5d6724d11dd7f59347579627711747.html#a2e5d6724d11dd7f59347579627711747", null ],
+    [ "Dust", "dc/de5/classTerraria_1_1Dust_a50e940a8a49c6ad7f18685d1ec740c6d.html#a50e940a8a49c6ad7f18685d1ec740c6d", null ],
     [ "CloneDust", "dc/de5/classTerraria_1_1Dust_ad3973ffbf5ad58328409ed47a679205a.html#ad3973ffbf5ad58328409ed47a679205a", null ],
     [ "CloneDust", "dc/de5/classTerraria_1_1Dust_a2f90cbf26845a1fbcc3f1c2c9839c3cc.html#a2f90cbf26845a1fbcc3f1c2c9839c3cc", null ],
     [ "DrawDebugBox", "dc/de5/classTerraria_1_1Dust_ac44930bbd8273f18cdbb7e53919026e4.html#ac44930bbd8273f18cdbb7e53919026e4", null ],
@@ -11,9 +12,9 @@ var classTerraria_1_1Dust =
     [ "GetVisualRotation", "dc/de5/classTerraria_1_1Dust_ade7841daa4500abf1bde52f4bbc83ead.html#ade7841daa4500abf1bde52f4bbc83ead", null ],
     [ "GetVisualScale", "dc/de5/classTerraria_1_1Dust_aa158ff8a54c23e03b3eda82e26b5ad01.html#aa158ff8a54c23e03b3eda82e26b5ad01", null ],
     [ "InitAlphaTable", "dc/de5/classTerraria_1_1Dust_a60cd5b29916597e5ba96c2e4778cc112.html#a60cd5b29916597e5ba96c2e4778cc112", null ],
-    [ "NewDust", "dc/de5/classTerraria_1_1Dust_aad36a0b82b4817f44bf42ddf66c835aa.html#aad36a0b82b4817f44bf42ddf66c835aa", null ],
-    [ "NewDustDirect", "dc/de5/classTerraria_1_1Dust_aa31c96fbf4e764602e77c8a9794574b2.html#aa31c96fbf4e764602e77c8a9794574b2", null ],
-    [ "NewDustPerfect", "dc/de5/classTerraria_1_1Dust_ad9042be249c7b74df812b61ec08b65f4.html#ad9042be249c7b74df812b61ec08b65f4", null ],
+    [ "NewDust", "dc/de5/classTerraria_1_1Dust_a977a36a9376966862406a3094e3b70ab.html#a977a36a9376966862406a3094e3b70ab", null ],
+    [ "NewDustDirect", "dc/de5/classTerraria_1_1Dust_acb51111c9d1ff81d2e7f55da6ff8831f.html#acb51111c9d1ff81d2e7f55da6ff8831f", null ],
+    [ "NewDustPerfect", "dc/de5/classTerraria_1_1Dust_ac85a67b8ea46324cf328fbf3b3e227a2.html#ac85a67b8ea46324cf328fbf3b3e227a2", null ],
     [ "QuickBox", "dc/de5/classTerraria_1_1Dust_a6311b541d23f8fe6b741e62145cbe5cd.html#a6311b541d23f8fe6b741e62145cbe5cd", null ],
     [ "QuickDust", "dc/de5/classTerraria_1_1Dust_afa5d4a4540bc17a4bd017d9bd66ab42a.html#afa5d4a4540bc17a4bd017d9bd66ab42a", null ],
     [ "QuickDust", "dc/de5/classTerraria_1_1Dust_ad53d838e4da16a8c1fc9ae2ed3497461.html#ad53d838e4da16a8c1fc9ae2ed3497461", null ],

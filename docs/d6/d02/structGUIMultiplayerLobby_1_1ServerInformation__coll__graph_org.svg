@@ -12,25 +12,25 @@
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="326,-148 97,-148 97,0 326,0 326,-148"/>
-<text text-anchor="start" x="144" y="-136" font-family="Helvetica,sans-Serif" font-size="10.00">GUIMultiplayerLobby.Server</text>
-<text text-anchor="start" x="183" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">Information</text>
-<text text-anchor="start" x="101.5" y="-110" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="114.5" y="-110" font-family="Helvetica,sans-Serif" font-size="10.00">string WorldSize</text>
-<text text-anchor="start" x="101.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="114.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">ServerInformation</text>
-<text text-anchor="start" x="114.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">(string worldName, string</text>
-<text text-anchor="start" x="114.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00"> hostName, string serverIPText,</text>
-<text text-anchor="start" x="114.5" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00"> int port, int players, int</text>
-<text text-anchor="start" x="114.5" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00"> maxPlayers, int worldWidth,</text>
-<text text-anchor="start" x="114.5" y="-40" font-family="Helvetica,sans-Serif" font-size="10.00"> bool corruption, short gameMode,</text>
-<text text-anchor="start" x="114.5" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00"> bool hardMode, bool active=true,</text>
-<text text-anchor="start" x="114.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00"> bool favorite=false, int realID</text>
-<text text-anchor="start" x="114.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">=0, [Optional] MPSession existingSession)</text>
-<polygon fill="#666666" stroke="#666666" points="97.5,-120 97.5,-120 326.5,-120 326.5,-120 97.5,-120"/>
-<polygon fill="#666666" stroke="#666666" points="97.5,-105 97.5,-105 112.5,-105 112.5,-105 97.5,-105"/>
-<polygon fill="#666666" stroke="#666666" points="112.5,-105 112.5,-105 326.5,-105 326.5,-105 112.5,-105"/>
-<polygon fill="none" stroke="#666666" points="97,0 97,-148 326,-148 326,0 97,0"/>
+<polygon fill="#999999" stroke="transparent" points="313.5,-148 109.5,-148 109.5,0 313.5,0 313.5,-148"/>
+<text text-anchor="start" x="143.5" y="-136" font-family="Helvetica,sans-Serif" font-size="10.00">GUIMultiplayerLobby.Server</text>
+<text text-anchor="start" x="182.5" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">Information</text>
+<text text-anchor="start" x="113.5" y="-110" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="126.5" y="-110" font-family="Helvetica,sans-Serif" font-size="10.00">string WorldSize</text>
+<text text-anchor="start" x="113.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="126.5" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">ServerInformation</text>
+<text text-anchor="start" x="126.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">(string worldName, string</text>
+<text text-anchor="start" x="126.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00"> hostName, string serverIPText,</text>
+<text text-anchor="start" x="126.5" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00"> int port, int players, int</text>
+<text text-anchor="start" x="126.5" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00"> maxPlayers, int worldWidth,</text>
+<text text-anchor="start" x="126.5" y="-40" font-family="Helvetica,sans-Serif" font-size="10.00"> bool corruption, short gameMode,</text>
+<text text-anchor="start" x="126.5" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00"> bool hardMode, bool active=true,</text>
+<text text-anchor="start" x="126.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00"> bool favorite=false, int realID</text>
+<text text-anchor="start" x="126.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">=0, MPSession existingSession=null)</text>
+<polygon fill="#666666" stroke="#666666" points="109.5,-120 109.5,-120 313.5,-120 313.5,-120 109.5,-120"/>
+<polygon fill="#666666" stroke="#666666" points="109.5,-105 109.5,-105 124.5,-105 124.5,-105 109.5,-105"/>
+<polygon fill="#666666" stroke="#666666" points="124.5,-105 124.5,-105 313.5,-105 313.5,-105 124.5,-105"/>
+<polygon fill="none" stroke="#666666" points="109.5,0 109.5,-148 313.5,-148 313.5,0 109.5,0"/>
 </a>
 </g>
 </g>
@@ -52,8 +52,8 @@
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M7.01,-370.66C0.01,-326.16 -8.61,-229.26 34.5,-166 47.59,-146.79 66.02,-131.39 86.09,-119.13"/>
-<polygon fill="none" stroke="#63b8ff" points="86.31,-119 89.51,-112.53 96.71,-113 93.51,-119.46 86.31,-119"/>
+<path fill="none" stroke="#63b8ff" d="M7.01,-370.66C0.01,-326.16 -8.61,-229.26 34.5,-166 50.18,-142.99 73.52,-125.45 98.15,-112.22"/>
+<polygon fill="none" stroke="#63b8ff" points="98.45,-112.06 101.99,-105.78 109.15,-106.62 105.62,-112.91 98.45,-112.06"/>
 </a>
 </g>
 <text text-anchor="middle" x="76.5" y="-213" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +CurrentPlayers</text>
@@ -189,8 +189,8 @@
 <g id="edge5_Node000001_Node000006" class="edge">
 <title>Node6&#45;&gt;Node1</title>
 <g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M418.1,-238.85C408.93,-212.73 396.46,-187.25 379.5,-166 367.59,-151.08 352.54,-138.27 336.37,-127.37"/>
-<polygon fill="none" stroke="#63b8ff" points="336.28,-127.31 329.07,-127.44 326.18,-120.83 333.39,-120.71 336.28,-127.31"/>
+<path fill="none" stroke="#63b8ff" d="M418.1,-238.85C408.93,-212.73 396.46,-187.25 379.5,-166 364.63,-147.37 344.87,-132.03 324.14,-119.6"/>
+<polygon fill="none" stroke="#63b8ff" points="323.98,-119.51 316.78,-120 313.56,-113.55 320.76,-113.06 323.98,-119.51"/>
 </a>
 </g>
 <text text-anchor="middle" x="452.5" y="-191" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +ExistingSession</text>

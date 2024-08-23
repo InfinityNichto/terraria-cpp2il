@@ -1,10 +1,11 @@
 var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList =
 [
-    [ "GeometryBufferInstanceList", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_adf833bac8f2f2c472874e437812f794c.html#adf833bac8f2f2c472874e437812f794c", null ],
+    [ "GeometryBufferInstanceList", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_a5681878cbf58ce12dd4efe240a39e235.html#a5681878cbf58ce12dd4efe240a39e235", null ],
+    [ "GeometryBufferInstanceList", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_a5bd3260b61750b19ed8104c9e48e3041.html#a5bd3260b61750b19ed8104c9e48e3041", null ],
     [ "ClearInstances", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_aa8e13744b9a3fb79f37544dd3237669f.html#aa8e13744b9a3fb79f37544dd3237669f", null ],
     [ "FinaliseInstances", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_ac480eee553e50ca9814e17b6bfdde1b3.html#ac480eee553e50ca9814e17b6bfdde1b3", null ],
     [ "GetBatchInstance", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_a7c12cd8609e47ec1c7ecf688b85a6930.html#a7c12cd8609e47ec1c7ecf688b85a6930", null ],
-    [ "GetInstance", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_aaf51ab77dca572af1fe68f04884f0af0.html#aaf51ab77dca572af1fe68f04884f0af0", null ],
+    [ "GetInstance", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_a729b59f78519dfa32ded3c61776a855e.html#a729b59f78519dfa32ded3c61776a855e", null ],
     [ "GetInstance", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_a7bf8cd342230c4ab009a7ede6a7d8214.html#a7bf8cd342230c4ab009a7ede6a7d8214", null ],
     [ "SetOffset", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_a3b8f5840bfb03122e2fc642063ab9706.html#a3b8f5840bfb03122e2fc642063ab9706", null ],
     [ "SetupParent", "d0/d7d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GeometryBufferInstanceList_a1b32bdc901076dcb1a96b2a1d6538e3c.html#a1b32bdc901076dcb1a96b2a1d6538e3c", null ],

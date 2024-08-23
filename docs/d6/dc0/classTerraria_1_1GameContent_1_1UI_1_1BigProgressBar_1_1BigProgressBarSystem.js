@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1UI_1_1BigProgressBar_1_1BigProgressBarSystem =
 [
     [ "BigProgressBarSystem", "d6/dc0/classTerraria_1_1GameContent_1_1UI_1_1BigProgressBar_1_1BigProgressBarSystem_ae5d56fd0f24d7474a29a5a7cc5483b24.html#ae5d56fd0f24d7474a29a5a7cc5483b24", null ],
+    [ "BigProgressBarSystem", "d6/dc0/classTerraria_1_1GameContent_1_1UI_1_1BigProgressBar_1_1BigProgressBarSystem_a58320119e140e9ef9edeb40646d47f2d.html#a58320119e140e9ef9edeb40646d47f2d", null ],
     [ "Configuration_OnLoad", "d6/dc0/classTerraria_1_1GameContent_1_1UI_1_1BigProgressBar_1_1BigProgressBarSystem_a915cd9af3f4c5479aee86837ef5ddc54.html#a915cd9af3f4c5479aee86837ef5ddc54", null ],
     [ "Configuration_Save", "d6/dc0/classTerraria_1_1GameContent_1_1UI_1_1BigProgressBar_1_1BigProgressBarSystem_abd668d70e1742b657608206190bd47b3.html#abd668d70e1742b657608206190bd47b3", null ],
     [ "Draw", "d6/dc0/classTerraria_1_1GameContent_1_1UI_1_1BigProgressBar_1_1BigProgressBarSystem_a589a359ae3fc911f2648ff6a44b33a20.html#a589a359ae3fc911f2648ff6a44b33a20", null ],

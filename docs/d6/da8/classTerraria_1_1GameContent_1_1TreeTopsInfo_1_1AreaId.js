@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1TreeTopsInfo_1_1AreaId =
 [
     [ "AreaId", "d6/da8/classTerraria_1_1GameContent_1_1TreeTopsInfo_1_1AreaId_a2096c64932a13c4a19c2d892608c9a71.html#a2096c64932a13c4a19c2d892608c9a71", null ],
+    [ "AreaId", "d6/da8/classTerraria_1_1GameContent_1_1TreeTopsInfo_1_1AreaId_a5b88a5a85ff159881f649c9aa88e59f9.html#a5b88a5a85ff159881f649c9aa88e59f9", null ],
     [ "Corruption", "d6/da8/classTerraria_1_1GameContent_1_1TreeTopsInfo_1_1AreaId_a399d39d2e8229145cc0bb26873c05683.html#a399d39d2e8229145cc0bb26873c05683", null ],
     [ "Count", "d6/da8/classTerraria_1_1GameContent_1_1TreeTopsInfo_1_1AreaId_a62e3225c13ea49dadc174c50580e639e.html#a62e3225c13ea49dadc174c50580e639e", null ],
     [ "Crimson", "d6/da8/classTerraria_1_1GameContent_1_1TreeTopsInfo_1_1AreaId_a81cda3a465b0fcac7d3471f128ccede8.html#a81cda3a465b0fcac7d3471f128ccede8", null ],

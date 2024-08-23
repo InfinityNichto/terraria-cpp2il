@@ -1,0 +1,7 @@
+<map id="System.Net.WebConnection" name="System.Net.WebConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,120,259,1321"/>
+<area shape="rect" id="Node000003" href="$d3/da6/classSystem_1_1Net_1_1WebConnection.html" title=" " alt="" coords="5,1384,259,2600"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,1335,135,1384,129,1384,129,1335"/>
+<area shape="rect" id="Node000002" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="71,5,193,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,84,135,119,129,119,129,84"/>
+</map>

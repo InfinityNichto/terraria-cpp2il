@@ -1,0 +1,17 @@
+<map id="System.Runtime.InteropServices.ExternalException" name="System.Runtime.InteropServices.ExternalException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="337,119,638,431"/>
+<area shape="rect" id="Node000003" href="$d0/d47/classSystem_1_1ComponentModel_1_1Design_1_1CheckoutException.html" title=" " alt="" coords="94,558,329,771"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="369,443,343,480,287,559,283,556,338,477,365,440"/>
+<area shape="rect" id="Node000004" href="$da/d26/classSystem_1_1ComponentModel_1_1Win32Exception.html" title=" " alt="" coords="353,479,622,851"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="490,444,490,478,485,478,485,444"/>
+<area shape="rect" id="Node000008" href="$d2/d07/classSystem_1_1Runtime_1_1InteropServices_1_1COMException.html" title=" " alt="" coords="646,575,947,754"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="622,440,728,573,724,577,618,443"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="375,5,599,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,85,490,118,485,118,485,85"/>
+<area shape="rect" id="Node000005" href="$d4/d86/classSystem_1_1Net_1_1HttpListenerException.html" title=" " alt="" coords="5,963,311,1162"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="346,848,343,852,247,965,243,961,339,849,342,845"/>
+<area shape="rect" id="Node000006" href="$d0/db9/classSystem_1_1Net_1_1NetworkInformation_1_1NetworkInformationException.html" title=" " alt="" coords="335,998,640,1127"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="490,865,490,998,485,998,485,865"/>
+<area shape="rect" id="Node000007" href="$d1/db6/classSystem_1_1Net_1_1Sockets_1_1SocketException.html" title=" " alt="" coords="665,899,902,1227"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="633,856,667,901,662,904,628,859"/>
+</map>

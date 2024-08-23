@@ -11,10 +11,10 @@
 <!-- Node0 -->
 <g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_Node000000"><a xlink:href="d2/d6b/classTerraria_1_1IO_1_1RandomStyleInfo__OldMobile.html" target="_top" xlink:title=" ">
+<g id="a_Node000000"><a xlink:href="d7/d26/classSystem_1_1Collections_1_1Generic_1_1Dictionary.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="154,-30 0,-30 0,0 154,0 154,-30"/>
-<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.RandomStyleInfo</text>
-<text text-anchor="middle" x="77" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">_OldMobile</text>
+<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">System.Collections.Generic.</text>
+<text text-anchor="middle" x="77" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Dictionary&lt; ulong, string &gt;</text>
 </a>
 </g>
 </g>

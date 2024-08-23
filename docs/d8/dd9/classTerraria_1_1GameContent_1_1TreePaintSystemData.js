@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1TreePaintSystemData =
 [
     [ "TreePaintSystemData", "d8/dd9/classTerraria_1_1GameContent_1_1TreePaintSystemData_adbeb3bb7022982164275a77e47ad8cad.html#adbeb3bb7022982164275a77e47ad8cad", null ],
+    [ "TreePaintSystemData", "d8/dd9/classTerraria_1_1GameContent_1_1TreePaintSystemData_a6edbdfbd982ff7cbd18f0a0872047829.html#a6edbdfbd982ff7cbd18f0a0872047829", null ],
     [ "GetTileSettings", "d8/dd9/classTerraria_1_1GameContent_1_1TreePaintSystemData_aa522f981cc24d957ee419d603be6a1b1.html#aa522f981cc24d957ee419d603be6a1b1", null ],
     [ "GetTreeFoliageSettings", "d8/dd9/classTerraria_1_1GameContent_1_1TreePaintSystemData_a1c5daff989757321ddc133b7492e1fe2.html#a1c5daff989757321ddc133b7492e1fe2", null ],
     [ "GetWallSettings", "d8/dd9/classTerraria_1_1GameContent_1_1TreePaintSystemData_ab5ade2e01c5d3a709ccc05a417ad51f9.html#ab5ade2e01c5d3a709ccc05a417ad51f9", null ],

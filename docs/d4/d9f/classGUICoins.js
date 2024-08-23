@@ -4,7 +4,7 @@ var classGUICoins =
     [ "CanBeStored", "d4/d9f/classGUICoins_a9b96124a980d257f5f1c81c6f9a01ed8.html#a9b96124a980d257f5f1c81c6f9a01ed8", null ],
     [ "Draw", "d4/d9f/classGUICoins_a562c58e9ca970a284600cb025c777b46.html#a562c58e9ca970a284600cb025c777b46", null ],
     [ "GetRegion", "d4/d9f/classGUICoins_ad3dd7b6738164f7e02b7b9d229d3291a.html#ad3dd7b6738164f7e02b7b9d229d3291a", null ],
-    [ "ItemDraw", "d4/d9f/classGUICoins_a58610b015d03bb1c17471f4c6d0be572.html#a58610b015d03bb1c17471f4c6d0be572", null ],
+    [ "ItemDraw", "d4/d9f/classGUICoins_aa4a6eda0b7c04604d3d41838bdc39c78.html#aa4a6eda0b7c04604d3d41838bdc39c78", null ],
     [ "ItemOver", "d4/d9f/classGUICoins_a58fd109757988be4f1cd0187b90e2e6f.html#a58fd109757988be4f1cd0187b90e2e6f", null ],
     [ "ItemScale", "d4/d9f/classGUICoins_a436c6be70b0a08e396b84b9e58183e65.html#a436c6be70b0a08e396b84b9e58183e65", null ],
     [ "cursorOver", "d4/d9f/classGUICoins_a5d5be44049d9f3d5855d9a4905067853.html#a5d5be44049d9f3d5855d9a4905067853", null ],

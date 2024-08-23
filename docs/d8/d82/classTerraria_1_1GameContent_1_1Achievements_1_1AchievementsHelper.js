@@ -29,9 +29,9 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper =
     [ "mayhem3down", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_affba64faf439cd06f78e20379abf4803.html#affba64faf439cd06f78e20379abf4803", null ],
     [ "mayhemOK", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_abc58ce740e95230c072b9dd26b97c6cf.html#abc58ce740e95230c072b9dd26b97c6cf", null ],
     [ "CurrentlyMining", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_a338c0864ce5693e9b5ca53a91dcfea6e.html#a338c0864ce5693e9b5ca53a91dcfea6e", null ],
-    [ "OnItemCraft", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_a72d722a5ecab1f441f4af1410babd44c.html#a72d722a5ecab1f441f4af1410babd44c", null ],
-    [ "OnItemPickup", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_a3f4b6a0a4be92b7ca48ed563497b003b.html#a3f4b6a0a4be92b7ca48ed563497b003b", null ],
-    [ "OnNPCKilled", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_af467bc8d11bcb99606d3c7619a653810.html#af467bc8d11bcb99606d3c7619a653810", null ],
-    [ "OnProgressionEvent", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_aab988c6408b4b8d70969a0e32c9c8cc3.html#aab988c6408b4b8d70969a0e32c9c8cc3", null ],
-    [ "OnTileDestroyed", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_af4dcbe04ec9cd2b26e69504b567f704f.html#af4dcbe04ec9cd2b26e69504b567f704f", null ]
+    [ "OnItemCraft", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_a36b156e836c315e85c08d19775f36465.html#a36b156e836c315e85c08d19775f36465", null ],
+    [ "OnItemPickup", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_a7751abbebb799be871e530ab9faa12c7.html#a7751abbebb799be871e530ab9faa12c7", null ],
+    [ "OnNPCKilled", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_add3058e10281e4415e8c8f52d3e5e0ee.html#add3058e10281e4415e8c8f52d3e5e0ee", null ],
+    [ "OnProgressionEvent", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_a10da844be0700f57688bd47e47282ad7.html#a10da844be0700f57688bd47e47282ad7", null ],
+    [ "OnTileDestroyed", "d8/d82/classTerraria_1_1GameContent_1_1Achievements_1_1AchievementsHelper_a0ce26287196939eab0b80dada02d93e7.html#a0ce26287196939eab0b80dada02d93e7", null ]
 ];

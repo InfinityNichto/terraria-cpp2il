@@ -1,5 +1,5 @@
 <map id="Terraria.WorldBuilding.ModShapes.InnerOutline" name="Terraria.WorldBuilding.ModShapes.InnerOutline">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,672,237,851"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,672,237,871"/>
 <area shape="rect" id="Node000002" href="$de/d40/classTerraria_1_1WorldBuilding_1_1GenModShape.html" title=" " alt="" coords="22,544,221,624"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,638,124,672,119,672,119,638"/>
 <area shape="rect" id="Node000003" href="$da/d11/classTerraria_1_1WorldBuilding_1_1GenShape.html" title=" " alt="" coords="12,243,231,496"/>

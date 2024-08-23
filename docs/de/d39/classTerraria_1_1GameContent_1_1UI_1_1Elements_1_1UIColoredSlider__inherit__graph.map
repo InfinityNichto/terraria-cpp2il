@@ -1,9 +1,9 @@
 <map id="Terraria.GameContent.UI.Elements.UIColoredSlider" name="Terraria.GameContent.UI.Elements.UIColoredSlider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,1657,287,2163"/>
-<area shape="rect" id="Node000002" href="$d2/db9/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UISliderBase.html" title=" " alt="" coords="37,1351,255,1609"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,1623,149,1657,143,1657,143,1623"/>
-<area shape="rect" id="Node000003" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="7,119,285,1303"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,1316,149,1350,143,1350,143,1316"/>
-<area shape="rect" id="Node000004" href="$d9/d6f/classIComparable.html" title=" " alt="" coords="97,5,195,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,84,149,118,143,118,143,84"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1860,287,2365"/>
+<area shape="rect" id="Node000002" href="$d2/db9/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UISliderBase.html" title=" " alt="" coords="37,1553,255,1812"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,1826,149,1860,143,1860,143,1826"/>
+<area shape="rect" id="Node000003" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="7,139,285,1505"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,1519,149,1553,143,1553,143,1519"/>
+<area shape="rect" id="Node000004" href="$d3/ddf/interfaceSystem_1_1IComparable.html" title=" " alt="" coords="47,5,245,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,104,149,139,143,139,143,104"/>
 </map>

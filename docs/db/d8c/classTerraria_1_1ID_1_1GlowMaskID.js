@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1GlowMaskID =
 [
+    [ "GlowMaskID", "db/d8c/classTerraria_1_1ID_1_1GlowMaskID_abceda1263b59b4b1495dc2de4a290964.html#abceda1263b59b4b1495dc2de4a290964", null ],
     [ "ApprenticeDarkArmFlame", "db/d8c/classTerraria_1_1ID_1_1GlowMaskID_a8600d67d7b1edf59fe72e99e44326201.html#a8600d67d7b1edf59fe72e99e44326201", null ],
     [ "ApprenticeDarkHeadFlame", "db/d8c/classTerraria_1_1ID_1_1GlowMaskID_a153568640847272346374d9236288b63.html#a153568640847272346374d9236288b63", null ],
     [ "ArgonMoss", "db/d8c/classTerraria_1_1ID_1_1GlowMaskID_aa6e5645f2318bf0124ebe715734b9446.html#aa6e5645f2318bf0124ebe715734b9446", null ],

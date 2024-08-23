@@ -58,40 +58,40 @@ var sectionId = 'dynsection-0';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="1159,-589 990,-589 990,-324 1159,-324 1159,-589"/>
+<polygon fill="#999999" stroke="transparent" points="1162,-589 987,-589 987,-324 1162,-324 1162,-589"/>
 <text text-anchor="start" x="1046" y="-576.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep</text>
 <text text-anchor="start" x="1073" y="-561.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="994.5" y="-546.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1007.5" y="-546.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Reset()</text>
-<text text-anchor="start" x="994.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1007.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Begin()</text>
-<text text-anchor="start" x="994.5" y="-516.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1007.5" y="-516.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual bool Update()</text>
-<text text-anchor="start" x="994.5" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1007.5" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual GuideOverLoadState</text>
-<text text-anchor="start" x="1007.5" y="-490.5" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
-<text text-anchor="start" x="994.5" y="-475.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1007.5" y="-475.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual string GetGuideString()</text>
-<text text-anchor="start" x="994.5" y="-460.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1007.5" y="-460.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnGuideDialogue</text>
-<text text-anchor="start" x="1007.5" y="-449.5" font-family="Helvetica,sans-Serif" font-size="10.00">Open()</text>
-<text text-anchor="start" x="994.5" y="-434.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1007.5" y="-434.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnItemPlaced</text>
-<text text-anchor="start" x="1007.5" y="-423.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int itemId, int tileType)</text>
-<text text-anchor="start" x="994.5" y="-408.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1007.5" y="-408.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep()</text>
-<text text-anchor="start" x="994.5" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1007.5" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetTime(int hour,</text>
-<text text-anchor="start" x="1007.5" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00"> int min, bool freeze)</text>
-<text text-anchor="start" x="994.5" y="-367.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1007.5" y="-367.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetSpawnRate(float</text>
-<text text-anchor="start" x="1007.5" y="-356.5" font-family="Helvetica,sans-Serif" font-size="10.00"> spawnRate)</text>
-<text text-anchor="start" x="994.5" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="1007.5" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">void GiveItem(short</text>
-<text text-anchor="start" x="1007.5" y="-330.5" font-family="Helvetica,sans-Serif" font-size="10.00"> item, int stackCount)</text>
-<polygon fill="#666666" stroke="#666666" points="990.5,-571.5 990.5,-571.5 1159.5,-571.5 1159.5,-571.5 990.5,-571.5"/>
-<polygon fill="#666666" stroke="#666666" points="990.5,-556.5 990.5,-556.5 1159.5,-556.5 1159.5,-556.5 990.5,-556.5"/>
-<polygon fill="none" stroke="#666666" points="990,-324 990,-589 1159,-589 1159,-324 990,-324"/>
+<text text-anchor="start" x="991.5" y="-546.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1004.5" y="-546.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Reset()</text>
+<text text-anchor="start" x="991.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1004.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Begin()</text>
+<text text-anchor="start" x="991.5" y="-516.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1004.5" y="-516.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual bool Update()</text>
+<text text-anchor="start" x="991.5" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1004.5" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual TutorialStep.Guide</text>
+<text text-anchor="start" x="1004.5" y="-490.5" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
+<text text-anchor="start" x="991.5" y="-475.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1004.5" y="-475.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual string GetGuideString()</text>
+<text text-anchor="start" x="991.5" y="-460.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1004.5" y="-460.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnGuideDialogue</text>
+<text text-anchor="start" x="1004.5" y="-449.5" font-family="Helvetica,sans-Serif" font-size="10.00">Open()</text>
+<text text-anchor="start" x="991.5" y="-434.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1004.5" y="-434.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnItemPlaced</text>
+<text text-anchor="start" x="1004.5" y="-423.5" font-family="Helvetica,sans-Serif" font-size="10.00">(int itemId, int tileType)</text>
+<text text-anchor="start" x="991.5" y="-408.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1004.5" y="-408.5" font-family="Helvetica,sans-Serif" font-size="10.00">TutorialStep()</text>
+<text text-anchor="start" x="991.5" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="1004.5" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetTime(int hour,</text>
+<text text-anchor="start" x="1004.5" y="-382.5" font-family="Helvetica,sans-Serif" font-size="10.00"> int min, bool freeze)</text>
+<text text-anchor="start" x="991.5" y="-367.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="1004.5" y="-367.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetSpawnRate(float</text>
+<text text-anchor="start" x="1004.5" y="-356.5" font-family="Helvetica,sans-Serif" font-size="10.00"> spawnRate)</text>
+<text text-anchor="start" x="991.5" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="1004.5" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">void GiveItem(short</text>
+<text text-anchor="start" x="1004.5" y="-330.5" font-family="Helvetica,sans-Serif" font-size="10.00"> item, int stackCount)</text>
+<polygon fill="#666666" stroke="#666666" points="987.5,-571.5 987.5,-571.5 1162.5,-571.5 1162.5,-571.5 987.5,-571.5"/>
+<polygon fill="#666666" stroke="#666666" points="987.5,-556.5 987.5,-556.5 1162.5,-556.5 1162.5,-556.5 987.5,-556.5"/>
+<polygon fill="none" stroke="#666666" points="987,-324 987,-589 1162,-589 1162,-324 987,-324"/>
 </a>
 </g>
 </g>
@@ -123,8 +123,8 @@ var sectionId = 'dynsection-0';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M979.47,-446.75C778.38,-426.79 317.62,-372.94 187.5,-288 153.85,-266.04 128.65,-228.09 112.23,-196.81"/>
-<polygon fill="none" stroke="#63b8ff" points="979.42,-450.27 989.72,-447.76 980.11,-443.3 979.42,-450.27"/>
+<path fill="none" stroke="#63b8ff" d="M976.76,-446.48C774.28,-426.31 317.04,-372.56 187.5,-288 153.85,-266.04 128.65,-228.09 112.23,-196.81"/>
+<polygon fill="none" stroke="#63b8ff" points="976.5,-449.98 986.79,-447.48 977.19,-443.01 976.5,-449.98"/>
 </a>
 </g>
 </g>
@@ -137,8 +137,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="204" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="214.5" y="-195" font-family="Helvetica,sans-Serif" font-size="10.00">bool givenAxe</text>
 <text text-anchor="start" x="201.5" y="-180" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="214.5" y="-180" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="214.5" y="-169" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="214.5" y="-180" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="214.5" y="-169" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="201.5" y="-154" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="214.5" y="-154" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="214.5" y="-143" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -162,8 +162,8 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
 <g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M979.39,-453.25C838.16,-445.6 569.98,-414.08 386.5,-288 362.36,-271.41 342.3,-246.87 326.69,-222.77"/>
-<polygon fill="none" stroke="#63b8ff" points="979.58,-456.77 989.75,-453.78 979.94,-449.78 979.58,-456.77"/>
+<path fill="none" stroke="#63b8ff" d="M976.94,-453.12C835.08,-445.23 568.93,-413.35 386.5,-288 362.36,-271.41 342.3,-246.87 326.69,-222.77"/>
+<polygon fill="none" stroke="#63b8ff" points="976.77,-456.61 986.94,-453.65 977.14,-449.62 976.77,-456.61"/>
 </a>
 </g>
 </g>
@@ -180,8 +180,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="403" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="413.5" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">bool placedWorkbench</text>
 <text text-anchor="start" x="400.5" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="413.5" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="413.5" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="413.5" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="413.5" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="400.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="413.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="413.5" y="-141" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -208,8 +208,8 @@ var sectionId = 'dynsection-0';
 <g id="edge3_Node000001_Node000004" class="edge">
 <title>Node1&#45;&gt;Node4</title>
 <g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M980.02,-440.47C876.34,-420.19 709.04,-375.97 591.5,-288 577.46,-277.49 564.58,-264.49 553.05,-250.65"/>
-<polygon fill="none" stroke="#63b8ff" points="979.37,-443.91 989.85,-442.36 980.69,-437.03 979.37,-443.91"/>
+<path fill="none" stroke="#63b8ff" d="M976.81,-439.84C872.91,-419.28 707.83,-375.07 591.5,-288 577.46,-277.49 564.58,-264.49 553.05,-250.65"/>
+<polygon fill="none" stroke="#63b8ff" points="976.19,-443.28 986.67,-441.75 977.52,-436.41 976.19,-443.28"/>
 </a>
 </g>
 </g>
@@ -229,8 +229,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="608" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="618.5" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">bool complete</text>
 <text text-anchor="start" x="605.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="618.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="618.5" y="-160" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="618.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="618.5" y="-160" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="605.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="618.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="618.5" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -258,8 +258,8 @@ var sectionId = 'dynsection-0';
 <g id="edge4_Node000001_Node000005" class="edge">
 <title>Node1&#45;&gt;Node5</title>
 <g id="a_edge4_Node000001_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M980.54,-414.89C919.98,-385.6 842.07,-341.81 784.5,-288 778.27,-282.18 772.24,-275.88 766.45,-269.29"/>
-<polygon fill="none" stroke="#63b8ff" points="979.2,-418.12 989.73,-419.28 982.22,-411.81 979.2,-418.12"/>
+<path fill="none" stroke="#63b8ff" d="M977.66,-413.49C917.52,-384.21 841.16,-340.96 784.5,-288 778.27,-282.18 772.24,-275.88 766.45,-269.29"/>
+<polygon fill="none" stroke="#63b8ff" points="976.26,-416.7 986.79,-417.89 979.3,-410.39 976.26,-416.7"/>
 </a>
 </g>
 </g>
@@ -278,8 +278,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="801" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="811.5" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">bool torchesPlaced</text>
 <text text-anchor="start" x="798.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="811.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="811.5" y="-160" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="811.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="811.5" y="-160" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="798.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="811.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="811.5" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -324,8 +324,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="994" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="1004.5" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">bool givenFurnace</text>
 <text text-anchor="start" x="991.5" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1004.5" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="1004.5" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="1004.5" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="1004.5" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="991.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1004.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="1004.5" y="-141" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -380,8 +380,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="1187" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="1197.5" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00">bool complete</text>
 <text text-anchor="start" x="1184.5" y="-141" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1197.5" y="-141" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="1197.5" y="-130" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="1197.5" y="-141" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="1197.5" y="-130" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="1184.5" y="-115" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1197.5" y="-115" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="1197.5" y="-104" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -432,8 +432,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="1380" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="1390.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">DateTime killStart</text>
 <text text-anchor="start" x="1377.5" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1390.5" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="1390.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="1390.5" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="1390.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="1377.5" y="-130" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1390.5" y="-130" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="1390.5" y="-119" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -460,8 +460,8 @@ var sectionId = 'dynsection-0';
 <g id="edge8_Node000001_Node000009" class="edge">
 <title>Node1&#45;&gt;Node9</title>
 <g id="a_edge8_Node000001_Node000009"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1168.46,-414.89C1229.02,-385.6 1306.93,-341.81 1364.5,-288 1369.52,-283.3 1374.42,-278.3 1379.17,-273.07"/>
-<polygon fill="none" stroke="#63b8ff" points="1166.78,-411.81 1159.27,-419.28 1169.8,-418.12 1166.78,-411.81"/>
+<path fill="none" stroke="#63b8ff" d="M1171.34,-413.49C1231.48,-384.21 1307.84,-340.96 1364.5,-288 1369.52,-283.3 1374.42,-278.3 1379.17,-273.07"/>
+<polygon fill="none" stroke="#63b8ff" points="1169.7,-410.39 1162.21,-417.89 1172.74,-416.7 1169.7,-410.39"/>
 </a>
 </g>
 </g>
@@ -474,8 +474,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="1573" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="1583.5" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00">bool openedBestiary</text>
 <text text-anchor="start" x="1570.5" y="-188" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1583.5" y="-188" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="1583.5" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="1583.5" y="-188" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="1583.5" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="1570.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1583.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="1583.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -501,8 +501,8 @@ var sectionId = 'dynsection-0';
 <g id="edge9_Node000001_Node000010" class="edge">
 <title>Node1&#45;&gt;Node10</title>
 <g id="a_edge9_Node000001_Node000010"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1169,-441.18C1273.06,-421.49 1441.05,-377.76 1557.5,-288 1577.75,-272.39 1595.18,-251.26 1609.42,-230.03"/>
-<polygon fill="none" stroke="#63b8ff" points="1168.32,-437.74 1159.13,-443.01 1169.6,-444.63 1168.32,-437.74"/>
+<path fill="none" stroke="#63b8ff" d="M1172.21,-440.57C1276.5,-420.59 1442.25,-376.84 1557.5,-288 1577.75,-272.39 1595.18,-251.26 1609.42,-230.03"/>
+<polygon fill="none" stroke="#63b8ff" points="1171.5,-437.14 1162.32,-442.43 1172.79,-444.02 1171.5,-437.14"/>
 </a>
 </g>
 </g>
@@ -515,8 +515,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="1766" y="-208" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="1776.5" y="-208" font-family="Helvetica,sans-Serif" font-size="10.00">bool complete</text>
 <text text-anchor="start" x="1763.5" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1776.5" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="1776.5" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="1776.5" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="1776.5" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="1763.5" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1776.5" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="1776.5" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -543,8 +543,8 @@ var sectionId = 'dynsection-0';
 <g id="edge10_Node000001_Node000011" class="edge">
 <title>Node1&#45;&gt;Node11</title>
 <g id="a_edge10_Node000001_Node000011"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1169.33,-453.08C1308.71,-445.18 1571.67,-413.32 1750.5,-288 1769.97,-274.36 1786.6,-255.4 1800.29,-235.74"/>
-<polygon fill="none" stroke="#63b8ff" points="1168.9,-449.6 1159.1,-453.63 1169.28,-456.59 1168.9,-449.6"/>
+<path fill="none" stroke="#63b8ff" d="M1172.46,-452.9C1312.61,-444.7 1573,-412.39 1750.5,-288 1769.97,-274.36 1786.6,-255.4 1800.29,-235.74"/>
+<polygon fill="none" stroke="#63b8ff" points="1171.95,-449.42 1162.16,-453.47 1172.34,-456.41 1171.95,-449.42"/>
 </a>
 </g>
 </g>
@@ -557,8 +557,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="1959" y="-208" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="1969.5" y="-208" font-family="Helvetica,sans-Serif" font-size="10.00">bool complete</text>
 <text text-anchor="start" x="1956.5" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1969.5" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">override GuideOverLoadState</text>
-<text text-anchor="start" x="1969.5" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00"> GetGuideState()</text>
+<text text-anchor="start" x="1969.5" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">override TutorialStep.Guide</text>
+<text text-anchor="start" x="1969.5" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">OverLoadState GetGuideState()</text>
 <text text-anchor="start" x="1956.5" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="1969.5" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00">override string GetGuide</text>
 <text text-anchor="start" x="1969.5" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00">String()</text>
@@ -585,8 +585,8 @@ var sectionId = 'dynsection-0';
 <g id="edge11_Node000001_Node000012" class="edge">
 <title>Node1&#45;&gt;Node12</title>
 <g id="a_edge11_Node000001_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1169.15,-446.48C1367.06,-426.16 1816.81,-371.91 1943.5,-288 1963.57,-274.71 1980.51,-255.64 1994.3,-235.73"/>
-<polygon fill="none" stroke="#63b8ff" points="1168.65,-443.01 1159.05,-447.51 1169.36,-449.97 1168.65,-443.01"/>
+<path fill="none" stroke="#63b8ff" d="M1172.49,-446.13C1372.08,-425.55 1817.51,-371.44 1943.5,-288 1963.57,-274.71 1980.51,-255.64 1994.3,-235.73"/>
+<polygon fill="none" stroke="#63b8ff" points="1171.89,-442.68 1162.3,-447.18 1172.61,-449.64 1171.89,-442.68"/>
 </a>
 </g>
 </g>

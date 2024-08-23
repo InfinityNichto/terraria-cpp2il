@@ -2,6 +2,7 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition =
 [
     [ "NPCKilledCondition", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition_a3e0a23d17096aadb9ef642a2d9ef40aa.html#a3e0a23d17096aadb9ef642a2d9ef40aa", null ],
     [ "NPCKilledCondition", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition_a6a43b07d0ba19da663e25c12fe8c3f16.html#a6a43b07d0ba19da663e25c12fe8c3f16", null ],
+    [ "NPCKilledCondition", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition_a19440a0d43954a023dd6e83836d9c147.html#a19440a0d43954a023dd6e83836d9c147", null ],
     [ "AchievementUpdate", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition.html#ac6580fe12f459e41b986307c7d220faa", null ],
     [ "Clear", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition.html#a915352f446266bd38447ac924b65810d", null ],
     [ "Complete", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition.html#a3f198905c61195fd91c52526581f30fc", null ],
@@ -23,5 +24,5 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition =
     [ "Identifier", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition_a18ad563d47c4bb2057beca61214edc1e.html#a18ad563d47c4bb2057beca61214edc1e", null ],
     [ "Name", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition.html#ab4652f96927ffad9e74b26487f4b056d", null ],
     [ "IsCompleted", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition.html#a0dd5e62f23542e858645db4db4350138", null ],
-    [ "OnComplete", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition.html#a2c8ec7258b62749a3bb0252d5255bee5", null ]
+    [ "OnComplete", "d7/db0/classTerraria_1_1GameContent_1_1Achievements_1_1NPCKilledCondition.html#ac33fe3a8378daa49479224a1a04e2d8b", null ]
 ];

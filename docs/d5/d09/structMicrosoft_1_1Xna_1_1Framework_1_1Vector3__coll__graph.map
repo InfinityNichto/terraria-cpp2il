@@ -1,12 +1,14 @@
 <map id="Microsoft.Xna.Framework.Vector3" name="Microsoft.Xna.Framework.Vector3">
-<area shape="rect" id="Node000001" title=" " alt="" coords="80,1591,324,2809"/>
-<area shape="rect" id="Node000002" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="40,5,203,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,84,82,122,70,163,36,345,16,501,9,639,11,768,21,898,35,1037,70,1381,93,1590,88,1591,64,1382,30,1038,15,898,6,768,3,639,11,500,30,345,64,162,77,120,94,82"/>
-<area shape="rect" id="Node000003" href="$dc/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Vector3.html" title=" " alt="" coords="80,163,324,1381"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="129,84,138,162,132,163,124,85"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,1381,204,1574,199,1574,199,1381"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="326,666,336,683,344,707,350,772,346,825,335,863,330,862,341,824,345,772,339,708,331,686,322,668"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="338,5,380,71"/>
-<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="383,64,412,108,426,134,436,162,481,342,508,497,520,636,519,767,508,898,488,1038,436,1382,417,1497,392,1612,331,1835,326,1833,386,1611,412,1496,431,1381,483,1038,502,897,514,766,515,636,503,498,476,343,431,163,421,136,408,110,378,67"/>
-<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="355,71,330,188,325,187,350,70"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,1704,364,2908"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="290,133,453,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,207,452,244,477,290,507,380,532,464,551,543,564,616,572,686,576,753,573,883,557,1014,534,1154,506,1312,477,1495,457,1613,430,1732,367,1960,362,1958,425,1731,451,1612,472,1494,500,1311,528,1153,552,1013,568,882,571,753,567,686,559,617,546,544,527,466,502,382,472,292,448,247,416,210"/>
+<area shape="rect" id="Node000004" href="$dc/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Vector3.html" title=" " alt="" coords="120,291,364,1495"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="366,213,352,291,347,290,361,212"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="284,5,459,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,85,374,133,369,133,369,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,1495,245,1687,239,1687,239,1495"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="367,787,377,805,384,828,391,893,387,945,375,983,370,982,381,944,385,893,379,829,372,807,362,790"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="134,133,177,199"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="136,195,107,239,85,292,42,469,18,622,9,758,12,886,25,1015,43,1154,64,1311,85,1494,100,1620,120,1747,115,1747,95,1620,79,1495,59,1312,38,1155,19,1016,7,887,3,758,12,621,37,468,80,290,103,236,132,192"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="162,199,171,274,166,275,157,199"/>
 </map>

@@ -1,0 +1,22 @@
+<map id="System.Xml.Schema.ValidationEventArgs" name="System.Xml.Schema.ValidationEventArgs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="481,1056,699,1171"/>
+<area shape="rect" id="Node000002" href="$d2/d76/classSystem_1_1EventArgs.html" title=" " alt="" coords="196,681,341,767"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,778,347,882,384,939,425,992,460,1025,498,1054,495,1058,457,1029,421,995,379,942,343,885,289,781"/>
+<area shape="rect" id="Node000003" href="$d2/d76/classSystem_1_1EventArgs.html" title=" " alt="" coords="5,191,151,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,276,249,665,244,667,92,278"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="152,207,170,216,177,234,175,246,168,254,164,250,170,243,172,234,166,219,150,212"/>
+<area shape="rect" id="Node000004" href="$d2/d00/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaException.html" title=" " alt="" coords="435,455,745,993"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="593,993,593,1039,587,1039,587,993"/>
+<area shape="rect" id="Node000005" href="$d8/d7a/classSystem_1_1SystemException.html" title=" " alt="" coords="257,120,558,348"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="457,360,492,453,487,455,452,362"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="320,5,495,71"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="410,84,410,120,405,120,405,84"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="582,201,633,267"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="605,267,594,372,591,438,586,438,589,372,600,266"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="673,201,704,267"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="687,267,662,431,660,439,655,438,657,430,682,267"/>
+<area shape="rect" id="Node000009" href="$d4/d35/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaObject.html" title=" " alt="" coords="728,120,959,348"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="801,349,763,432,755,448,750,446,758,430,796,347"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="769,691,893,757"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="832,757,826,806,813,868,792,934,777,965,759,995,735,1023,707,1048,703,1044,731,1020,755,992,772,963,787,932,808,866,821,805,827,756"/>
+</map>

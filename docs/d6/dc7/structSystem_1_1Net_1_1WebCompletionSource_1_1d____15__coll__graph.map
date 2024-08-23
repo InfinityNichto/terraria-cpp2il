@@ -1,0 +1,37 @@
+<map id="System.Net.WebCompletionSource&lt; T &gt;.d__15" name="System.Net.WebCompletionSource&lt; T &gt;.d__15">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,2732,746,2847"/>
+<area shape="rect" id="Node000002" href="$d9/d46/interfaceSystem_1_1Runtime_1_1CompilerServices_1_1IAsyncStateMachine.html" title=" " alt="" coords="303,2469,566,2569"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,2579,579,2730,575,2733,473,2582"/>
+<area shape="rect" id="Node000003" href="$d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder.html" title=" " alt="" coords="353,1568,647,2276"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="567,2276,580,2368,600,2555,613,2715,607,2716,595,2556,575,2368,561,2276"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="715,411,794,477"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="756,477,751,607,739,774,718,981,699,1142,672,1302,629,1506,618,1552,613,1551,624,1505,667,1301,693,1141,712,980,733,773,746,606,751,477"/>
+<area shape="rect" id="Node000009" href="$d8/d07/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncTaskMethodBuilder.html" title=" " alt="" coords="208,797,501,1505"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="759,477,758,527,750,589,730,652,714,681,692,707,669,722,646,724,622,724,596,732,554,760,522,799,513,812,508,809,518,796,551,756,594,727,621,719,645,719,667,717,689,703,709,678,725,650,745,588,753,527,754,477"/>
+<area shape="rect" id="Node000011" href="$d3/d0f/structSystem_1_1Runtime_1_1CompilerServices_1_1ConfiguredTaskAwaitable_1_1ConfiguredTaskAwaiter.html" title=" " alt="" coords="921,971,1239,1332"/>
+<area shape="poly" id="edge16_Node000011_Node000004" title=" " alt="" coords="772,476,993,954,988,957,767,478"/>
+<area shape="rect" id="Node000005" href="$d3/d95/structSystem_1_1Runtime_1_1CompilerServices_1_1AsyncMethodBuilderCore.html" title=" " alt="" coords="289,183,679,705"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="530,705,532,729,532,773,525,1176,515,1552,510,1552,520,1176,527,773,527,729,525,706"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="439,706,425,782,420,781,434,705"/>
+<area shape="rect" id="Node000006" href="$d9/d46/interfaceSystem_1_1Runtime_1_1CompilerServices_1_1IAsyncStateMachine.html" title=" " alt="" coords="261,5,523,120"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="408,120,420,166,414,167,403,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="547,30,602,95"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="570,96,553,167,548,166,564,95"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,397,240,491"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="114,492,80,662,64,782,52,917,49,1063,57,1213,67,1288,81,1362,100,1434,124,1504,143,1547,165,1588,219,1665,280,1735,343,1795,339,1799,276,1738,215,1668,161,1590,138,1549,119,1506,95,1436,76,1363,62,1289,52,1213,44,1063,47,917,59,782,75,662,109,491"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="140,491,236,781,231,783,135,492"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="427,1518,436,1567,431,1568,421,1519"/>
+<area shape="rect" id="Node000010" href="$d0/d9b/structSystem_1_1Runtime_1_1CompilerServices_1_1ConfiguredTaskAwaitable.html" title=" " alt="" coords="735,2368,1121,2669"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="755,2672,694,2723,691,2719,751,2668"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="1157,1331,1188,1425,1219,1532,1246,1650,1265,1774,1273,1902,1269,2031,1260,2094,1247,2157,1229,2218,1205,2277,1174,2330,1135,2376,1131,2373,1170,2326,1200,2275,1224,2216,1242,2155,1255,2093,1263,2030,1268,1902,1259,1775,1240,1651,1214,1534,1183,1427,1152,1333"/>
+<area shape="rect" id="Node000014" href="$d0/d9b/structSystem_1_1Runtime_1_1CompilerServices_1_1ConfiguredTaskAwaitable.html" title=" " alt="" coords="671,1786,990,2058"/>
+<area shape="poly" id="edge19_Node000014_Node000011" title=" " alt="" coords="1024,1333,882,1771,877,1770,1019,1331"/>
+<area shape="rect" id="Node000012" href="$d5/d98/interfaceSystem_1_1Runtime_1_1CompilerServices_1_1ICriticalNotifyCompletion.html" title=" " alt="" coords="982,397,1178,491"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1077,505,1074,719,1075,970,1069,970,1069,719,1072,505"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="1088,505,1091,719,1091,970,1085,970,1086,719,1083,505"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1203,411,1245,477"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="1224,477,1212,579,1192,706,1165,832,1136,955,1130,954,1160,831,1187,705,1206,578,1218,476"/>
+<area shape="poly" id="edge18_Node000010_Node000014" title=" " alt="" coords="864,2058,888,2175,909,2300,916,2351,911,2352,904,2300,883,2176,859,2059"/>
+<area shape="poly" id="edge21_Node000010_Node000014" title=" " alt="" coords="723,2071,690,2136,668,2206,664,2241,664,2276,671,2310,684,2343,703,2367,736,2395,733,2400,700,2371,679,2345,665,2311,659,2276,658,2240,663,2205,685,2134,718,2068"/>
+<area shape="poly" id="edge20_Node000014_Node000014" title=" " alt="" coords="992,1863,1010,1887,1017,1922,1013,1948,1004,1969,999,1966,1008,1947,1011,1922,1005,1889,988,1866"/>
+</map>

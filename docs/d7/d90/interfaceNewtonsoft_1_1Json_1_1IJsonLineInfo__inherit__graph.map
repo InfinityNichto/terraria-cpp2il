@@ -1,0 +1,27 @@
+<map id="Newtonsoft.Json.IJsonLineInfo" name="Newtonsoft.Json.IJsonLineInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1149,5,1355,91"/>
+<area shape="rect" id="Node000002" href="$da/de9/classNewtonsoft_1_1Json_1_1JsonTextReader.html" title=" " alt="" coords="631,699,900,1833"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1135,69,1068,82,1003,99,948,119,928,130,914,142,868,201,830,265,798,332,772,403,752,476,736,550,726,625,719,699,714,699,721,624,731,549,746,475,767,401,793,330,825,262,864,198,910,138,925,126,946,114,1001,94,1067,77,1134,64"/>
+<area shape="rect" id="Node000003" href="$d1/dfe/classNewtonsoft_1_1Json_1_1Linq_1_1JToken.html" title=" " alt="" coords="925,140,1190,2392"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1220,103,1204,141,1193,176,1188,175,1199,139,1216,101"/>
+<area shape="rect" id="Node000012" href="$d8/dc2/classNewtonsoft_1_1Json_1_1Linq_1_1JTokenReader.html" title=" " alt="" coords="1214,997,1421,1535"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1258,104,1306,997,1300,997,1252,105"/>
+<area shape="rect" id="Node000013" href="$d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader.html" title=" " alt="" coords="1445,925,1691,1607"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1369,85,1405,108,1434,138,1488,228,1530,324,1562,424,1585,527,1600,631,1609,733,1611,832,1609,925,1604,925,1606,832,1603,733,1595,631,1580,528,1557,426,1525,326,1483,230,1430,142,1402,112,1366,89"/>
+<area shape="rect" id="Node000004" href="$df/d2f/classNewtonsoft_1_1Json_1_1Linq_1_1JContainer.html" title=" " alt="" coords="563,2441,861,4589"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="925,2322,915,2392,863,2707,858,2706,909,2392,920,2321"/>
+<area shape="rect" id="Node000009" href="$d3/da5/classNewtonsoft_1_1Json_1_1Linq_1_1JValue.html" title=" " alt="" coords="1154,2875,1387,4155"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="1168,2406,1213,2875,1207,2875,1163,2406"/>
+<area shape="rect" id="Node000005" href="$d4/d0b/classNewtonsoft_1_1Json_1_1Linq_1_1JArray.html" title=" " alt="" coords="5,5293,261,6320"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="560,3852,485,4032,408,4232,336,4442,276,4653,241,4812,212,4975,189,5137,171,5294,165,5293,183,5137,206,4974,235,4811,271,4651,331,4440,403,4230,480,4030,555,3850"/>
+<area shape="rect" id="Node000006" href="$d3/dc9/classNewtonsoft_1_1Json_1_1Linq_1_1JConstructor.html" title=" " alt="" coords="285,5472,541,6141"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="564,4590,556,4652,455,5472,450,5471,551,4652,559,4589"/>
+<area shape="rect" id="Node000007" href="$d8/d0c/classNewtonsoft_1_1Json_1_1Linq_1_1JObject.html" title=" " alt="" coords="565,4652,859,6961"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="715,4603,715,4652,709,4652,709,4603"/>
+<area shape="rect" id="Node000008" href="$d0/d7c/classNewtonsoft_1_1Json_1_1Linq_1_1JProperty.html" title=" " alt="" coords="883,5383,1139,6231"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="865,4589,873,4652,964,5382,959,5383,868,4652,860,4590"/>
+<area shape="rect" id="Node000010" href="$d0/d8c/classNewtonsoft_1_1Json_1_1Linq_1_1JRaw.html" title=" " alt="" coords="1163,5737,1379,5877"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1273,4169,1273,5737,1268,5737,1268,4169"/>
+<area shape="rect" id="Node000011" href="$d3/da5/classNewtonsoft_1_1Json_1_1Linq_1_1JValue.html" title=" " alt="" coords="1403,5159,1637,6454"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1344,4169,1452,5159,1447,5159,1339,4169"/>
+</map>

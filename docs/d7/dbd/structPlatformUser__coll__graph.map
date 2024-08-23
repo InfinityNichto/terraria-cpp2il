@@ -1,7 +1,6 @@
 <map id="PlatformUser" name="PlatformUser">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,179,263"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="17,5,68,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,71,47,109,49,118,44,119,41,110,37,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="107,5,178,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,72,120,118,115,116,130,70"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,203,277"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="204,186,222,193,229,205,227,213,220,219,217,215,222,210,224,206,218,197,202,191"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="79,5,129,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,71,107,117,101,117,101,71"/>
 </map>

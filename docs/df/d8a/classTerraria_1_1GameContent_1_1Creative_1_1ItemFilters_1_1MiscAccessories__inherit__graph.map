@@ -1,12 +1,12 @@
 <map id="Terraria.GameContent.Creative.ItemFilters.MiscAccessories" name="Terraria.GameContent.Creative.ItemFilters.MiscAccessories">
-<area shape="rect" id="Node000001" title=" " alt="" coords="178,605,398,809"/>
-<area shape="rect" id="Node000002" href="$d9/d41/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1AAccessories.html" title=" " alt="" coords="5,441,251,556"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,566,212,603,207,607,178,569"/>
-<area shape="rect" id="Node000003" href="$d4/df1/interfaceTerraria_1_1GameContent_1_1Creative_1_1IItemEntryFilter.html" title=" " alt="" coords="325,466,440,531"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="365,545,337,606,332,604,360,543"/>
-<area shape="rect" id="Node000004" href="$d1/dfd/interfaceTerraria_1_1DataStructures_1_1IEntryFilter.html" title=" " alt="" coords="197,237,411,392"/>
-<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="303,406,295,605,289,605,298,406"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="345,404,371,465,367,467,340,406"/>
-<area shape="rect" id="Node000005" href="$d1/dfd/interfaceTerraria_1_1DataStructures_1_1IEntryFilter.html" title=" " alt="" coords="197,5,411,175"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="307,189,307,237,301,237,301,189"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,605,427,809"/>
+<area shape="rect" id="Node000002" href="$d9/d41/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1AAccessories.html" title=" " alt="" coords="5,441,279,556"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,565,233,603,229,607,197,569"/>
+<area shape="rect" id="Node000003" href="$d4/df1/interfaceTerraria_1_1GameContent_1_1Creative_1_1IItemEntryFilter.html" title=" " alt="" coords="354,466,469,531"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="393,545,365,606,361,604,389,543"/>
+<area shape="rect" id="Node000004" href="$d1/dfd/interfaceTerraria_1_1DataStructures_1_1IEntryFilter.html" title=" " alt="" coords="225,237,440,392"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="332,406,323,605,318,605,326,406"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="374,404,400,465,395,467,369,406"/>
+<area shape="rect" id="Node000005" href="$d1/dfd/interfaceTerraria_1_1DataStructures_1_1IEntryFilter.html" title=" " alt="" coords="225,5,440,175"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="335,189,335,237,330,237,330,189"/>
 </map>

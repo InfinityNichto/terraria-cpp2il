@@ -1,6 +1,7 @@
 var classTerraria_1_1WorldBuilding_1_1Modifiers_1_1NotTouching =
 [
     [ "NotTouching", "d1/dc7/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1NotTouching_a99096e6130072c0992569e1c657b8db9.html#a99096e6130072c0992569e1c657b8db9", null ],
+    [ "NotTouching", "d1/dc7/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1NotTouching_a02259b95d97423559164cb2fa13c0ced.html#a02259b95d97423559164cb2fa13c0ced", null ],
     [ "Apply", "d1/dc7/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1NotTouching_a40c677d7dd4bcd9c023320f8eb13b98e.html#a40c677d7dd4bcd9c023320f8eb13b98e", null ],
     [ "CustomPerUnitAction", "d1/dc7/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1NotTouching.html#acbb468772a7f91f5482962e31e7f66d8", null ],
     [ "Fail", "d1/dc7/classTerraria_1_1WorldBuilding_1_1Modifiers_1_1NotTouching.html#a7b1c5db5513e916930fd7e5d08c623aa", null ],

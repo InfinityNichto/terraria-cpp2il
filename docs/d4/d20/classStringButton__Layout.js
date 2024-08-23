@@ -31,7 +31,7 @@ var classStringButton__Layout =
     [ "PressedBorderColour", "d4/d20/classStringButton__Layout_ae7f5459961094af626e8ff5787740877.html#ae7f5459961094af626e8ff5787740877", null ],
     [ "PressedScale", "d4/d20/classStringButton__Layout_af2d73be1ebecb76e195b41e26f801726.html#af2d73be1ebecb76e195b41e26f801726", null ],
     [ "PressedTextColour", "d4/d20/classStringButton__Layout_a6f8b038ed770b36a35734141dc74adda.html#a6f8b038ed770b36a35734141dc74adda", null ],
-    [ "RenderFont", "d4/d20/classStringButton__Layout_aa7a6bd86ccb00ef56310109154b966fc.html#aa7a6bd86ccb00ef56310109154b966fc", null ],
+    [ "RenderFont", "d4/d20/classStringButton__Layout_a4828ea464d79f60e482283ff4da10cec.html#a4828ea464d79f60e482283ff4da10cec", null ],
     [ "Scale", "d4/d20/classStringButton__Layout_a7ebde77951d75fa0cf3161f666f8ebca.html#a7ebde77951d75fa0cf3161f666f8ebca", null ],
     [ "ScaleSpeed", "d4/d20/classStringButton__Layout_a09dbe4786ba5cecb5933da30137007d4.html#a09dbe4786ba5cecb5933da30137007d4", null ],
     [ "Size", "d4/d20/classStringButton__Layout_a11b05cbea3fbf8b8136c837e8cf1f60a.html#a11b05cbea3fbf8b8136c837e8cf1f60a", null ],

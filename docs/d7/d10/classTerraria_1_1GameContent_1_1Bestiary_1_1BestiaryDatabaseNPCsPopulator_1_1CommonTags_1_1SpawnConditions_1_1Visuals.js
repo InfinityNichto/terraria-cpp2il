@@ -1,5 +1,6 @@
 var classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Visuals =
 [
+    [ "Visuals", "d7/d10/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Visuals_a7ae3c2c6ed42a9365f6af6105d8f05f7.html#a7ae3c2c6ed42a9365f6af6105d8f05f7", null ],
     [ "Blizzard", "d7/d10/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Visuals_a9df14ebee64406bacfe80121867e2ab0.html#a9df14ebee64406bacfe80121867e2ab0", null ],
     [ "EclipseSun", "d7/d10/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Visuals_aef3a7ba00837b3c892feede22bbfa764.html#aef3a7ba00837b3c892feede22bbfa764", null ],
     [ "FrostMoon", "d7/d10/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Visuals_aaff8f74d97fb6131bdd0c2c58bf2c4ba.html#aaff8f74d97fb6131bdd0c2c58bf2c4ba", null ],

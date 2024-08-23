@@ -21,7 +21,7 @@ var classGUIControllerChat =
     [ "lineSpacing", "dd/d46/classGUIControllerChat_ab60832b22fbd47cd2fb4627da61f2b47.html#ab60832b22fbd47cd2fb4627da61f2b47", null ],
     [ "maxScrollOffset", "dd/d46/classGUIControllerChat_a7d651bce4aea6930c1b3980f24dc54b7.html#a7d651bce4aea6930c1b3980f24dc54b7", null ],
     [ "SelectedColumn", "dd/d46/classGUIControllerChat_ab49b8a07268bfc6fa1fc949f4f5833fd.html#ab49b8a07268bfc6fa1fc949f4f5833fd", null ],
-    [ "selectedControl", "dd/d46/classGUIControllerChat_a5b96808aa749ae8c9c1b10a0615fe8c3.html#a5b96808aa749ae8c9c1b10a0615fe8c3", null ],
+    [ "selectedControl", "dd/d46/classGUIControllerChat_ae9222f64d05ad403f1a078d37443c0af.html#ae9222f64d05ad403f1a078d37443c0af", null ],
     [ "SelectedRow", "dd/d46/classGUIControllerChat_af8c879470742415a6c0b81644cb47e3c.html#af8c879470742415a6c0b81644cb47e3c", null ],
     [ "maxRowColumn", "dd/d46/classGUIControllerChat_a1d6b0c3b05decdffe7aa533a60bdf8b1.html#a1d6b0c3b05decdffe7aa533a60bdf8b1", null ],
     [ "maxRowIndex", "dd/d46/classGUIControllerChat_a6ba079014471280de923e3503e4fe428.html#a6ba079014471280de923e3503e4fe428", null ]

@@ -16,7 +16,7 @@ var classScreenshotSetup =
     [ "OutputFileStart", "d1/d9b/classScreenshotSetup_aa79fcddd13e5e54479486156fbeaab8c.html#aa79fcddd13e5e54479486156fbeaab8c", null ],
     [ "OutputPath", "d1/d9b/classScreenshotSetup_a1f3857364b75b991dcedebadbd685c80.html#a1f3857364b75b991dcedebadbd685c80", null ],
     [ "SafeRegion", "d1/d9b/classScreenshotSetup_a55b7a59856087c8bfd995e1093e00997.html#a55b7a59856087c8bfd995e1093e00997", null ],
-    [ "Style", "d1/d9b/classScreenshotSetup_a74a1ac261a5be80f3507c9c9116bbd0c.html#a74a1ac261a5be80f3507c9c9116bbd0c", null ],
+    [ "Style", "d1/d9b/classScreenshotSetup_a3fdcab4d5296382e2778109b7b527342.html#a3fdcab4d5296382e2778109b7b527342", null ],
     [ "Width", "d1/d9b/classScreenshotSetup_a41d119846169a5628eb564d5b3834627.html#a41d119846169a5628eb564d5b3834627", null ],
     [ "EmulationEntry", "d1/d9b/classScreenshotSetup_a5e803fa4172223cdb6b033359b94e27e.html#a5e803fa4172223cdb6b033359b94e27e", null ],
     [ "RenderTexture", "d1/d9b/classScreenshotSetup_abedf58689c246b6bbdcbe27fc5c53d1e.html#abedf58689c246b6bbdcbe27fc5c53d1e", null ],

@@ -1,6 +1,7 @@
 var classTerraria_1_1Item =
 [
     [ "Item", "db/d79/classTerraria_1_1Item_a6fda529e7933f00dc9602a761f579d7f.html#a6fda529e7933f00dc9602a761f579d7f", null ],
+    [ "Item", "db/d79/classTerraria_1_1Item_a2e05ae21485e7fd35aafa07ccfeaae93.html#a2e05ae21485e7fd35aafa07ccfeaae93", null ],
     [ "AffixName", "db/d79/classTerraria_1_1Item_a1a229fb8df3d9f92dc4366aa4cd92e3a.html#a1a229fb8df3d9f92dc4366aa4cd92e3a", null ],
     [ "AngleFrom", "db/d79/classTerraria_1_1Item.html#a741234ae10b700bbc8c300df18d8e78c", null ],
     [ "AngleTo", "db/d79/classTerraria_1_1Item.html#a42519c79ce9d529c282972787bb67ab5", null ],
@@ -99,7 +100,7 @@ var classTerraria_1_1Item =
     [ "RollAPrefix", "db/d79/classTerraria_1_1Item_adc259619fe8b796c9c7141a28feead1d.html#adc259619fe8b796c9c7141a28feead1d", null ],
     [ "sellPrice", "db/d79/classTerraria_1_1Item_a6c0dcc1430f8d2ec67024aa01691a974.html#a6c0dcc1430f8d2ec67024aa01691a974", null ],
     [ "Serialize", "db/d79/classTerraria_1_1Item_a7a7e256a972447f00a0f03e6fbe6adfc.html#a7a7e256a972447f00a0f03e6fbe6adfc", null ],
-    [ "SetDefaults", "db/d79/classTerraria_1_1Item_a209bf467653800c5e504c1cd10b143aa.html#a209bf467653800c5e504c1cd10b143aa", null ],
+    [ "SetDefaults", "db/d79/classTerraria_1_1Item_a91029fbaf8c135c7c044978e5bc50e30.html#a91029fbaf8c135c7c044978e5bc50e30", null ],
     [ "SetDefaults", "db/d79/classTerraria_1_1Item_adb2554f9d394eca69180ff503efd10d9.html#adb2554f9d394eca69180ff503efd10d9", null ],
     [ "SetDefaults1", "db/d79/classTerraria_1_1Item_ae8b5a2559719400dfa93baad5d589806.html#ae8b5a2559719400dfa93baad5d589806", null ],
     [ "SetDefaults2", "db/d79/classTerraria_1_1Item_a176abb54fd336bcdbb1984334e6cb593.html#a176abb54fd336bcdbb1984334e6cb593", null ],
@@ -193,6 +194,7 @@ var classTerraria_1_1Item =
     [ "honeyWet", "db/d79/classTerraria_1_1Item.html#a4e8a0ede883ad92be4ba491c959bd80d", null ],
     [ "instanced", "db/d79/classTerraria_1_1Item_a6e8ff63f241304e30c8d374f314108be.html#a6e8ff63f241304e30c8d374f314108be", null ],
     [ "isAShopItem", "db/d79/classTerraria_1_1Item_a0aa14c05e13989949ad892e6b35b71e7.html#a0aa14c05e13989949ad892e6b35b71e7", null ],
+    [ "k__BackingField", "db/d79/classTerraria_1_1Item_a5d9ad800263d1cabb66f15b91d4d1d49.html#a5d9ad800263d1cabb66f15b91d4d1d49", null ],
     [ "keepTime", "db/d79/classTerraria_1_1Item_ae0c9345dd04ddf28fb9ce711c9c767b9.html#ae0c9345dd04ddf28fb9ce711c9c767b9", null ],
     [ "knockBack", "db/d79/classTerraria_1_1Item_a04d919eb5002fd324cd4cfb38d3e720f.html#a04d919eb5002fd324cd4cfb38d3e720f", null ],
     [ "lavaWet", "db/d79/classTerraria_1_1Item.html#ac3d5811c51409dbf83a95f2a8f3618cc", null ],

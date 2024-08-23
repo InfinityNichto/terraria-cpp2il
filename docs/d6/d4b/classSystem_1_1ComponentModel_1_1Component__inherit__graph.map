@@ -1,0 +1,16 @@
+<map id="System.ComponentModel.Component" name="System.ComponentModel.Component">
+<area shape="rect" id="Node000001" title=" " alt="" coords="294,351,555,760"/>
+<area shape="rect" id="Node000005" href="$dc/db2/classSystem_1_1ComponentModel_1_1BackgroundWorker.html" title=" " alt="" coords="5,1718,268,2582"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="296,773,283,809,250,921,222,1037,199,1155,181,1273,155,1504,141,1718,135,1718,149,1504,175,1273,194,1154,217,1036,245,920,278,807,291,772"/>
+<area shape="rect" id="Node000006" href="$df/d53/classSystem_1_1Diagnostics_1_1Process.html" title=" " alt="" coords="293,1432,557,2868"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="427,774,427,1432,422,1432,422,774"/>
+<area shape="rect" id="Node000007" href="$dc/d5e/classSystem_1_1Net_1_1WebClient.html" title=" " alt="" coords="581,808,914,3492"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="558,771,571,807,583,843,578,845,566,809,553,773"/>
+<area shape="rect" id="Node000002" href="$d9/d0e/classSystem_1_1MarshalByRefObject.html" title=" " alt="" coords="118,119,387,303"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,314,325,349,320,352,302,316"/>
+<area shape="rect" id="Node000003" href="$d5/dbe/interfaceSystem_1_1ComponentModel_1_1IComponent.html" title=" " alt="" coords="462,178,555,243"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="500,257,477,351,472,350,495,256"/>
+<area shape="rect" id="Node000004" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="405,5,527,71"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="458,84,453,119,441,235,433,350,428,350,435,235,447,118,453,84"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="480,84,503,177,498,179,475,85"/>
+</map>

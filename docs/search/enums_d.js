@@ -1,8 +1,21 @@
 var searchData=
 [
-  ['openmainsubcategory_0',['OpenMainSubCategory',['../dc/dcf/classTerraria_1_1GameContent_1_1UI_1_1States_1_1UICreativePowersMenu_af661ab5f4d645f3fd29006ebc404257c.html#af661ab5f4d645f3fd29006ebc404257c',1,'Terraria::GameContent::UI::States::UICreativePowersMenu']]],
-  ['option_1',['Option',['../d0/dec/namespaceUnity_1_1IL2CPP_1_1CompilerServices_afe1fc52ab00ce887c3a8e9f189ff7290.html#afe1fc52ab00ce887c3a8e9f189ff7290',1,'Unity::IL2CPP::CompilerServices']]],
-  ['options_2',['Options',['../d5/d60/classTerraria_1_1Utilities_1_1CrashDump_a4ac84da99baa694df545ea279659bc50.html#a4ac84da99baa694df545ea279659bc50',1,'Terraria::Utilities::CrashDump']]],
-  ['overlaymode_3',['OverlayMode',['../d9/d88/namespaceTerraria_1_1Graphics_1_1Effects_a67ad55a6fb093831634702ec5fa9be0f.html#a67ad55a6fb093831634702ec5fa9be0f',1,'Terraria::Graphics::Effects']]],
-  ['overridestate_4',['OverrideState',['../d7/d73/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Mouse_a51b1cabf14c2c2be05aae935149919d4.html#a51b1cabf14c2c2be05aae935149919d4',1,'Microsoft::Xna::Framework::Input::Mouse']]]
+  ['namespacehandling_0',['NamespaceHandling',['../db/d38/namespaceSystem_1_1Xml_a7da460252016614818e32acfafec42b0.html#a7da460252016614818e32acfafec42b0',1,'System::Xml']]],
+  ['namespacekind_1',['NamespaceKind',['../dc/deb/classSystem_1_1Xml_1_1XmlWellFormedWriter_a15c64550955bdedb396441f236b3c111.html#a15c64550955bdedb396441f236b3c111',1,'System::Xml::XmlWellFormedWriter']]],
+  ['networkaccess_2',['NetworkAccess',['../d2/dba/namespaceSystem_1_1Net_aba96e2abc628c551837644369846bfac.html#aba96e2abc628c551837644369846bfac',1,'System::Net']]],
+  ['networkinterfacecomponent_3',['NetworkInterfaceComponent',['../d9/d82/namespaceSystem_1_1Net_1_1NetworkInformation_a4368802005d2c8e2793b1b4bf0a5d8dc.html#a4368802005d2c8e2793b1b4bf0a5d8dc',1,'System::Net::NetworkInformation']]],
+  ['networkinterfacetype_4',['NetworkInterfaceType',['../d9/d82/namespaceSystem_1_1Net_1_1NetworkInformation_abcb24f1e66ab4a5f97400f4978155050.html#abcb24f1e66ab4a5f97400f4978155050',1,'System::Net::NetworkInformation']]],
+  ['networkreachability_5',['NetworkReachability',['../de/d97/namespaceUnityEngine_afb4973d8c8c268b84244516b0e85d337.html#afb4973d8c8c268b84244516b0e85d337',1,'UnityEngine']]],
+  ['newlinehandling_6',['NewLineHandling',['../db/d38/namespaceSystem_1_1Xml_a27a65b095c584c0d8f5e996136516018.html#a27a65b095c584c0d8f5e996136516018',1,'System::Xml']]],
+  ['nfdresult_5ft_7',['nfdresult_t',['../dd/ded/classnativefiledialog_a364fae02e73c59ab753899df27b24bc1.html#a364fae02e73c59ab753899df27b24bc1',1,'nativefiledialog']]],
+  ['nodetype_8',['NodeType',['../d0/d19/classInterop_1_1Sys_a1e91cc3a895284c267d9445bec07bcda.html#a1e91cc3a895284c267d9445bec07bcda',1,'Interop::Sys']]],
+  ['normalizationcheck_9',['NormalizationCheck',['../de/d2a/namespaceSystem_1_1Text_acf64eb9c9cd99c96f9a8147ac566d922.html#acf64eb9c9cd99c96f9a8147ac566d922',1,'System::Text']]],
+  ['normalizationform_10',['NormalizationForm',['../de/d2a/namespaceSystem_1_1Text_a0e9edef1066fd6236ab1a9076fc654b8.html#a0e9edef1066fd6236ab1a9076fc654b8',1,'System::Text']]],
+  ['notifycollectionchangedaction_11',['NotifyCollectionChangedAction',['../d3/d19/namespaceSystem_1_1ComponentModel_a122d319acc9ac5cb5201f7de15b7f85f.html#a122d319acc9ac5cb5201f7de15b7f85f',1,'System::ComponentModel']]],
+  ['npctargettype_12',['NPCTargetType',['../da/d0b/namespaceTerraria_1_1Enums_ac9f96fa58ffb47f3cf7c6a6dd81518ed.html#ac9f96fa58ffb47f3cf7c6a6dd81518ed',1,'Terraria::Enums']]],
+  ['ntlmauthlevel_13',['NtlmAuthLevel',['../d6/da8/namespaceMono_1_1Security_1_1Protocol_1_1Ntlm_ab8a9d308476651851d9a5179aef6403b.html#ab8a9d308476651851d9a5179aef6403b',1,'Mono::Security::Protocol::Ntlm']]],
+  ['ntlmauthstate_14',['NtlmAuthState',['../d6/d82/classSystem_1_1Net_1_1HttpWebRequest_aed6630b3d44f805d5e8087ea46b06e60.html#aed6630b3d44f805d5e8087ea46b06e60',1,'System.Net.HttpWebRequest.NtlmAuthState'],['../da/d30/classSystem_1_1Net_1_1WebConnectionTunnel_ad130d2c7773011cb341e9a0370aefb9d.html#ad130d2c7773011cb341e9a0370aefb9d',1,'System.Net.WebConnectionTunnel.NtlmAuthState']]],
+  ['ntlmflags_15',['NtlmFlags',['../d6/da8/namespaceMono_1_1Security_1_1Protocol_1_1Ntlm_ae11ff6e85e4e6aafa1430447a7b90663.html#ae11ff6e85e4e6aafa1430447a7b90663',1,'Mono::Security::Protocol::Ntlm']]],
+  ['nullvaluehandling_16',['NullValueHandling',['../d4/d34/namespaceNewtonsoft_1_1Json_ae3b26493a5ab547add5f224be52ca4a3.html#ae3b26493a5ab547add5f224be52ca4a3',1,'Newtonsoft::Json']]],
+  ['numberstyles_17',['NumberStyles',['../df/d43/namespaceSystem_1_1Globalization_a5cb12d18c41c5fe2b47fac606ec12938.html#a5cb12d18c41c5fe2b47fac606ec12938',1,'System::Globalization']]]
 ];

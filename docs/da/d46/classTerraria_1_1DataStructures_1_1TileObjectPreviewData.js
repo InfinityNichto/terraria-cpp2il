@@ -23,10 +23,10 @@ var classTerraria_1_1DataStructures_1_1TileObjectPreviewData =
     [ "Active", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_ae981697e484351567a55e65d416a966a.html#ae981697e484351567a55e65d416a966a", null ],
     [ "Alternate", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_ac89680f784c0bfc11e49b4fc12af87e9.html#ac89680f784c0bfc11e49b4fc12af87e9", null ],
     [ "Coordinates", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_aabc5a88d3b41c7fad456256ded3287aa.html#aabc5a88d3b41c7fad456256ded3287aa", null ],
-    [ "Item", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_a2d8b68dfbcba15158f985ab681d542d7.html#a2d8b68dfbcba15158f985ab681d542d7", null ],
     [ "ObjectStart", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_a925a1a886aae3741ddab060876329a64.html#a925a1a886aae3741ddab060876329a64", null ],
     [ "Random", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_a394fea8bf575b657d8c66da3c401f0fc.html#a394fea8bf575b657d8c66da3c401f0fc", null ],
     [ "Size", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_ab0ca0266a1e8be25d57021d71914ce63.html#ab0ca0266a1e8be25d57021d71914ce63", null ],
     [ "Style", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_a6b9980525acf43f58d33feb8e21e9870.html#a6b9980525acf43f58d33feb8e21e9870", null ],
+    [ "this[int x, int y]", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_abfe70f3962448e2cdacbc1c1870437c7.html#abfe70f3962448e2cdacbc1c1870437c7", null ],
     [ "Type", "da/d46/classTerraria_1_1DataStructures_1_1TileObjectPreviewData_a840a92309ada0d76a25d106ca657ef1d.html#a840a92309ada0d76a25d106ca657ef1d", null ]
 ];

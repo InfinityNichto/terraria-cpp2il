@@ -254,9 +254,9 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="551" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">[] variantHeadIds, params</text>
 <text text-anchor="start" x="551" y="-147.5" font-family="Helvetica,sans-Serif" font-size="10.00"> string[] variantTextureNames)</text>
 <text text-anchor="start" x="538" y="-132.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="551" y="-132.5" font-family="Helvetica,sans-Serif" font-size="10.00">VariantNPCProfile SetParty</text>
-<text text-anchor="start" x="551" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">Textures(params string</text>
-<text text-anchor="start" x="551" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00">[] variantTextureNames)</text>
+<text text-anchor="start" x="551" y="-132.5" font-family="Helvetica,sans-Serif" font-size="10.00">Profiles.VariantNPCProfile</text>
+<text text-anchor="start" x="551" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00"> SetPartyTextures(params</text>
+<text text-anchor="start" x="551" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00"> string[] variantTextureNames)</text>
 <text text-anchor="start" x="538" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="551" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">int RollVariation()</text>
 <text text-anchor="start" x="538" y="-80.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

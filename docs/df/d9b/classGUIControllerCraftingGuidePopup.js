@@ -22,6 +22,6 @@ var classGUIControllerCraftingGuidePopup =
     [ "SetScrollOffset", "df/d9b/classGUIControllerCraftingGuidePopup_a3d4956f0510d720f5dc8a9680c64d7cb.html#a3d4956f0510d720f5dc8a9680c64d7cb", null ],
     [ "UpdateScroll", "df/d9b/classGUIControllerCraftingGuidePopup_aa1689172da3453e079985b90b6594545.html#aa1689172da3453e079985b90b6594545", null ],
     [ "_gridNav", "df/d9b/classGUIControllerCraftingGuidePopup_a30e114d543669e5f884230419537cc5f.html#a30e114d543669e5f884230419537cc5f", null ],
-    [ "selectedControl", "df/d9b/classGUIControllerCraftingGuidePopup_ac7da96f765c9df497d310c9683868d46.html#ac7da96f765c9df497d310c9683868d46", null ],
+    [ "selectedControl", "df/d9b/classGUIControllerCraftingGuidePopup_aa7d3897c2f513843807d0d3ff5d3c6a5.html#aa7d3897c2f513843807d0d3ff5d3c6a5", null ],
     [ "GridNav", "df/d9b/classGUIControllerCraftingGuidePopup_ab2138684bfa8a8c0ee262cf931853bf2.html#ab2138684bfa8a8c0ee262cf931853bf2", null ]
 ];

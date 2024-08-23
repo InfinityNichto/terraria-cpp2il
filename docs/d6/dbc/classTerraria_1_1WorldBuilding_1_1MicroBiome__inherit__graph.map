@@ -1,35 +1,35 @@
 <map id="Terraria.WorldBuilding.MicroBiome" name="Terraria.WorldBuilding.MicroBiome">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1677,391,1874,471"/>
-<area shape="rect" id="Node000004" href="$d4/d83/classTerraria_1_1GameContent_1_1Biomes_1_1CampsiteBiome.html" title=" " alt="" coords="5,939,220,1069"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1663,437,1301,448,838,465,617,477,430,490,295,505,253,513,233,521,192,564,161,614,138,670,123,729,113,787,109,843,109,939,104,939,104,843,108,787,118,727,133,668,156,612,188,560,230,516,252,508,294,500,429,485,617,472,838,460,1301,442,1663,432"/>
-<area shape="rect" id="Node000005" href="$df/d05/classTerraria_1_1GameContent_1_1Biomes_1_1CaveHouseBiome.html" title=" " alt="" coords="244,845,475,1163"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1663,435,1366,439,997,451,820,462,666,477,551,496,512,508,488,521,456,552,429,589,408,628,391,671,368,759,359,845,353,844,363,758,386,669,403,626,425,586,452,549,484,517,510,503,549,491,666,471,819,456,996,446,1366,433,1663,430"/>
-<area shape="rect" id="Node000006" href="$db/db8/classTerraria_1_1GameContent_1_1Biomes_1_1CorruptionPitBiome.html" title=" " alt="" coords="499,939,713,1069"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1663,437,1418,444,1125,459,986,470,866,484,777,501,746,510,728,521,687,564,656,615,633,671,618,729,608,788,603,844,603,939,598,939,598,843,603,787,613,728,628,669,651,613,683,561,724,517,744,505,775,496,866,478,986,464,1125,453,1418,438,1663,431"/>
-<area shape="rect" id="Node000007" href="$d1/d43/classTerraria_1_1GameContent_1_1Biomes_1_1DeadMansChestBiome.html" title=" " alt="" coords="738,519,994,1489"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1663,440,1483,452,1278,470,1102,493,1041,506,1007,521,996,531,993,527,1005,516,1039,501,1101,488,1277,464,1482,447,1663,435"/>
-<area shape="rect" id="Node000008" href="$d3/da9/classTerraria_1_1GameContent_1_1Biomes_1_1DesertBiome.html" title=" " alt="" coords="1019,897,1236,1111"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1663,439,1549,447,1427,463,1370,473,1320,487,1279,502,1250,521,1215,560,1187,604,1166,652,1150,703,1138,754,1131,805,1125,897,1120,897,1125,804,1133,753,1144,702,1161,650,1183,601,1211,556,1247,517,1277,497,1318,481,1369,468,1426,457,1549,442,1663,434"/>
-<area shape="rect" id="Node000009" href="$dd/d7e/classTerraria_1_1GameContent_1_1Biomes_1_1DunesBiome.html" title=" " alt="" coords="1261,823,1517,1185"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1664,451,1628,461,1593,476,1559,496,1531,521,1504,553,1481,588,1444,665,1419,745,1403,823,1398,822,1414,744,1439,663,1476,585,1500,549,1527,517,1556,491,1590,472,1626,456,1662,446"/>
-<area shape="rect" id="Node000010" href="$d2/d9f/classTerraria_1_1GameContent_1_1Biomes_1_1EnchantedSwordBiome.html" title=" " alt="" coords="1541,929,1756,1079"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1766,485,1668,930,1662,928,1761,484"/>
-<area shape="rect" id="Node000011" href="$d6/d17/classTerraria_1_1GameContent_1_1Biomes_1_1GraniteBiome.html" title=" " alt="" coords="1780,744,2024,1264"/>
-<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1789,483,1847,743,1842,745,1784,484"/>
-<area shape="rect" id="Node000012" href="$d3/d89/classTerraria_1_1GameContent_1_1Biomes_1_1HiveBiome.html" title=" " alt="" coords="2048,779,2289,1229"/>
-<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1889,442,1929,453,1968,468,2006,489,2039,517,2083,574,2116,640,2140,709,2156,778,2151,779,2135,710,2111,642,2078,577,2035,521,2003,494,1966,473,1927,458,1887,447"/>
-<area shape="rect" id="Node000013" href="$df/dca/classTerraria_1_1GameContent_1_1Biomes_1_1HoneyPatchBiome.html" title=" " alt="" coords="2313,939,2528,1069"/>
-<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1888,434,2002,442,2124,457,2182,468,2232,481,2274,497,2304,517,2344,562,2374,615,2397,672,2412,730,2422,789,2427,845,2428,939,2423,939,2422,845,2417,790,2407,732,2392,673,2369,617,2339,565,2300,521,2272,502,2231,486,2180,473,2123,463,2001,447,1887,439"/>
-<area shape="rect" id="Node000014" href="$d8/de5/classTerraria_1_1GameContent_1_1Biomes_1_1MahoganyTreeBiome.html" title=" " alt="" coords="2552,939,2767,1069"/>
-<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1888,435,2068,446,2272,464,2447,487,2508,501,2542,517,2583,561,2614,613,2637,670,2653,729,2662,788,2667,844,2667,939,2662,939,2662,844,2657,788,2647,730,2632,672,2609,616,2579,565,2539,521,2506,506,2446,492,2271,469,2067,452,1887,440"/>
-<area shape="rect" id="Node000015" href="$d9/dd8/classTerraria_1_1GameContent_1_1Biomes_1_1MarbleBiome.html" title=" " alt="" coords="2791,853,3005,1155"/>
-<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1888,432,2122,440,2402,455,2534,466,2647,480,2733,496,2762,506,2781,517,2814,550,2840,588,2862,630,2878,674,2899,765,2907,852,2901,853,2893,766,2873,676,2857,632,2836,591,2810,553,2778,521,2760,511,2731,502,2646,485,2533,471,2401,460,2122,445,1888,437"/>
-<area shape="rect" id="Node000016" href="$d5/d7c/classTerraria_1_1GameContent_1_1Biomes_1_1MiningExplosivesBiome.html" title=" " alt="" coords="3029,939,3244,1069"/>
-<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1888,430,2175,434,2530,447,2700,458,2847,473,2957,492,2995,503,3020,517,3061,561,3093,612,3116,669,3131,728,3141,787,3145,844,3145,939,3140,939,3140,844,3136,788,3126,729,3111,671,3088,615,3057,564,3016,521,2993,508,2956,497,2846,478,2699,463,2529,452,2175,439,1888,435"/>
-<area shape="rect" id="Node000017" href="$de/d40/classTerraria_1_1GameContent_1_1Biomes_1_1ThinIceBiome.html" title=" " alt="" coords="3268,939,3483,1069"/>
-<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1888,428,2226,429,2656,439,2864,450,3045,465,3182,487,3229,501,3258,517,3300,561,3332,612,3355,669,3370,728,3380,787,3384,843,3384,939,3379,939,3379,843,3375,787,3365,729,3350,670,3327,614,3296,564,3255,521,3227,506,3181,492,3045,471,2864,455,2656,444,2226,434,1888,434"/>
-<area shape="rect" id="Node000002" href="$dd/dae/classTerraria_1_1WorldBuilding_1_1GenStructure.html" title=" " alt="" coords="1679,243,1872,343"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1778,356,1778,390,1773,390,1773,356"/>
-<area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="1665,5,1885,195"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1778,209,1778,242,1773,242,1773,209"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1682,391,1879,471"/>
+<area shape="rect" id="Node000004" href="$d4/d83/classTerraria_1_1GameContent_1_1Biomes_1_1CampsiteBiome.html" title=" " alt="" coords="5,961,220,1091"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1668,437,1305,448,840,465,619,477,430,490,295,505,253,513,233,521,190,566,158,620,135,679,119,740,110,802,107,861,109,961,103,961,101,861,105,801,114,739,130,677,153,617,186,563,230,516,252,508,294,500,430,485,619,471,840,460,1305,442,1668,432"/>
+<area shape="rect" id="Node000005" href="$df/d05/classTerraria_1_1GameContent_1_1Biomes_1_1CaveHouseBiome.html" title=" " alt="" coords="244,745,485,1307"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1668,435,1373,439,1005,451,829,462,676,477,561,496,522,508,498,521,454,567,420,622,395,683,379,746,373,745,390,681,415,620,450,564,495,517,520,503,560,491,675,472,828,457,1005,446,1373,433,1668,430"/>
+<area shape="rect" id="Node000006" href="$db/db8/classTerraria_1_1GameContent_1_1Biomes_1_1CorruptionPitBiome.html" title=" " alt="" coords="509,951,724,1101"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1668,437,1425,444,1133,459,995,470,876,484,787,501,757,510,738,521,697,565,666,617,642,674,627,734,617,794,612,851,612,951,607,951,607,851,612,793,621,733,637,672,661,615,693,562,735,517,755,505,786,496,875,478,994,464,1133,453,1425,438,1668,431"/>
+<area shape="rect" id="Node000007" href="$d1/d43/classTerraria_1_1GameContent_1_1Biomes_1_1DeadMansChestBiome.html" title=" " alt="" coords="749,519,1005,1533"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1669,441,1489,452,1286,470,1111,493,1051,506,1018,521,1007,531,1003,527,1015,516,1050,501,1110,488,1285,464,1489,447,1668,435"/>
+<area shape="rect" id="Node000008" href="$d3/da9/classTerraria_1_1GameContent_1_1Biomes_1_1DesertBiome.html" title=" " alt="" coords="1029,919,1247,1133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1668,439,1555,448,1435,463,1379,474,1329,487,1289,502,1261,521,1224,562,1195,609,1173,661,1157,714,1146,769,1139,822,1134,919,1129,919,1133,822,1140,768,1152,713,1168,659,1191,607,1220,559,1258,517,1287,498,1328,482,1378,468,1434,458,1555,442,1668,434"/>
+<area shape="rect" id="Node000009" href="$dd/d7e/classTerraria_1_1GameContent_1_1Biomes_1_1DunesBiome.html" title=" " alt="" coords="1271,838,1522,1214"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1669,450,1633,461,1598,476,1565,496,1536,521,1508,554,1485,591,1448,672,1423,756,1408,838,1403,837,1418,755,1443,670,1480,589,1504,551,1532,517,1561,491,1595,471,1631,456,1668,445"/>
+<area shape="rect" id="Node000010" href="$d2/d9f/classTerraria_1_1GameContent_1_1Biomes_1_1EnchantedSwordBiome.html" title=" " alt="" coords="1547,951,1761,1101"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1772,485,1672,952,1667,951,1767,484"/>
+<area shape="rect" id="Node000011" href="$d6/d17/classTerraria_1_1GameContent_1_1Biomes_1_1GraniteBiome.html" title=" " alt="" coords="1785,741,2029,1311"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1794,484,1849,740,1844,742,1789,485"/>
+<area shape="rect" id="Node000012" href="$d3/d89/classTerraria_1_1GameContent_1_1Biomes_1_1HiveBiome.html" title=" " alt="" coords="2053,801,2295,1251"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1894,442,1934,453,1974,468,2011,489,2044,517,2069,547,2091,579,2125,650,2150,725,2165,799,2160,801,2144,726,2120,652,2086,582,2065,550,2040,521,2008,494,1972,473,1932,458,1893,447"/>
+<area shape="rect" id="Node000013" href="$df/dca/classTerraria_1_1GameContent_1_1Biomes_1_1HoneyPatchBiome.html" title=" " alt="" coords="2319,961,2533,1091"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1893,434,2007,442,2130,457,2187,468,2238,481,2280,497,2309,517,2351,565,2382,620,2405,680,2421,742,2430,804,2435,863,2434,961,2429,961,2429,863,2425,804,2415,743,2400,682,2377,623,2346,568,2306,521,2277,502,2236,486,2186,473,2129,462,2007,447,1893,439"/>
+<area shape="rect" id="Node000014" href="$d8/de5/classTerraria_1_1GameContent_1_1Biomes_1_1MahoganyTreeBiome.html" title=" " alt="" coords="2557,961,2772,1091"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1893,435,2073,446,2277,464,2452,487,2513,501,2548,517,2590,564,2622,619,2646,679,2661,741,2670,803,2675,862,2673,961,2668,961,2669,862,2665,804,2656,742,2641,681,2618,621,2586,567,2544,521,2512,506,2452,492,2277,469,2073,452,1893,440"/>
+<area shape="rect" id="Node000015" href="$d9/dd8/classTerraria_1_1GameContent_1_1Biomes_1_1MarbleBiome.html" title=" " alt="" coords="2796,867,3016,1185"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1893,432,2128,440,2407,455,2539,466,2653,480,2738,496,2768,506,2786,517,2820,552,2848,591,2870,635,2887,681,2899,728,2908,776,2916,867,2911,867,2903,777,2894,729,2882,682,2865,637,2843,594,2816,555,2783,521,2765,511,2737,501,2652,485,2538,471,2407,460,2128,445,1893,437"/>
+<area shape="rect" id="Node000016" href="$d5/d7c/classTerraria_1_1GameContent_1_1Biomes_1_1MiningExplosivesBiome.html" title=" " alt="" coords="3040,961,3255,1091"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1893,430,2181,434,2538,446,2709,457,2856,472,2968,492,3006,503,3030,517,3074,563,3106,618,3130,677,3145,740,3154,802,3158,861,3157,961,3151,961,3153,861,3149,802,3140,741,3125,679,3102,620,3069,566,3027,521,3004,508,2967,497,2856,477,2708,463,2538,452,2181,439,1893,435"/>
+<area shape="rect" id="Node000017" href="$de/d40/classTerraria_1_1GameContent_1_1Biomes_1_1ThinIceBiome.html" title=" " alt="" coords="3279,961,3493,1091"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1894,432,2244,443,2688,461,3078,486,3208,500,3248,508,3269,516,3313,563,3345,617,3369,677,3384,739,3393,801,3397,861,3395,961,3390,961,3392,861,3388,802,3379,740,3364,679,3341,620,3308,566,3266,521,3246,513,3207,505,3078,491,2687,466,2243,448,1893,438"/>
+<area shape="rect" id="Node000002" href="$dd/dae/classTerraria_1_1WorldBuilding_1_1GenStructure.html" title=" " alt="" coords="1684,243,1877,343"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1783,356,1783,390,1778,390,1778,356"/>
+<area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="1671,5,1891,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1783,209,1783,242,1778,242,1778,209"/>
 </map>

@@ -2,6 +2,7 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition =
 [
     [ "ItemCraftCondition", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition_a86b017bb436bcb56fb9dc2bc15f78c8b.html#a86b017bb436bcb56fb9dc2bc15f78c8b", null ],
     [ "ItemCraftCondition", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition_a7f7b0a7047cf96624d211cd9403128cb.html#a7f7b0a7047cf96624d211cd9403128cb", null ],
+    [ "ItemCraftCondition", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition_a5634c144cf1cea016c52d862e5406cfe.html#a5634c144cf1cea016c52d862e5406cfe", null ],
     [ "AchievementUpdate", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition.html#ac6580fe12f459e41b986307c7d220faa", null ],
     [ "Clear", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition.html#a915352f446266bd38447ac924b65810d", null ],
     [ "Complete", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition.html#a3f198905c61195fd91c52526581f30fc", null ],
@@ -23,5 +24,5 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition =
     [ "Identifier", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition_a045a912068c2b6e626ac16a71346789d.html#a045a912068c2b6e626ac16a71346789d", null ],
     [ "Name", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition.html#ab4652f96927ffad9e74b26487f4b056d", null ],
     [ "IsCompleted", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition.html#a0dd5e62f23542e858645db4db4350138", null ],
-    [ "OnComplete", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition.html#a2c8ec7258b62749a3bb0252d5255bee5", null ]
+    [ "OnComplete", "dc/d76/classTerraria_1_1GameContent_1_1Achievements_1_1ItemCraftCondition.html#ac33fe3a8378daa49479224a1a04e2d8b", null ]
 ];

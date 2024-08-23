@@ -3,6 +3,8 @@ var classTerraria_1_1GameInput_1_1PlayerInput_1_1SettingsForUI =
     [ "SetCursorMode", "d7/d52/classTerraria_1_1GameInput_1_1PlayerInput_1_1SettingsForUI_a4ce28d04035ca76014eb14fb566ca9a0.html#a4ce28d04035ca76014eb14fb566ca9a0", null ],
     [ "TryRevertingToMouseMode", "d7/d52/classTerraria_1_1GameInput_1_1PlayerInput_1_1SettingsForUI_aecedc6e81df482cfe5c68b5f63636bce.html#aecedc6e81df482cfe5c68b5f63636bce", null ],
     [ "UpdateCounters", "d7/d52/classTerraria_1_1GameInput_1_1PlayerInput_1_1SettingsForUI_a722b995fff37299dacf6a9bf45a14471.html#a722b995fff37299dacf6a9bf45a14471", null ],
+    [ "k__BackingField", "d7/d52/classTerraria_1_1GameInput_1_1PlayerInput_1_1SettingsForUI_a19de16be4d4066955aa7f3f94da63184.html#a19de16be4d4066955aa7f3f94da63184", null ],
+    [ "k__BackingField", "d7/d52/classTerraria_1_1GameInput_1_1PlayerInput_1_1SettingsForUI_a6f8126d15ecda7b603224a787c507b78.html#a6f8126d15ecda7b603224a787c507b78", null ],
     [ "AllowSecondaryGamepadAim", "d7/d52/classTerraria_1_1GameInput_1_1PlayerInput_1_1SettingsForUI_aa34d7fbc332953d77c15ab054c1c4c00.html#aa34d7fbc332953d77c15ab054c1c4c00", null ],
     [ "CurrentCursorMode", "d7/d52/classTerraria_1_1GameInput_1_1PlayerInput_1_1SettingsForUI_a594f4af69bb5d3716a01a79eba18fe1e.html#a594f4af69bb5d3716a01a79eba18fe1e", null ],
     [ "FramesSinceLastTimeInMouseMode", "d7/d52/classTerraria_1_1GameInput_1_1PlayerInput_1_1SettingsForUI_a2666dea5034e6e23e094856602974fb4.html#a2666dea5034e6e23e094856602974fb4", null ],

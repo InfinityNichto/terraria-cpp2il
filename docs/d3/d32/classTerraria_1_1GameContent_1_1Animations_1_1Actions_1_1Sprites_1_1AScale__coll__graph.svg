@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 589;
+var viewWidth = 634;
 var viewHeight = 1338;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,33 +58,33 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="288.5,-201 106.5,-201 106.5,0 288.5,0 288.5,-201"/>
-<text text-anchor="start" x="113" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.Animations.</text>
-<text text-anchor="start" x="143" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">Actions.Sprites.AScale</text>
-<text text-anchor="start" x="110.5" y="-162.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="123.5" y="-162.5" font-family="Helvetica,sans-Serif" font-size="10.00">int ExpectedLengthOfAction</text>
-<text text-anchor="start" x="123.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">InFrames</text>
-<text text-anchor="start" x="110.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="123.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">AScale(Vector2 scaleTarget)</text>
-<text text-anchor="start" x="110.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="123.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">AScale(Vector2 scaleTarget,</text>
-<text text-anchor="start" x="123.5" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00"> int duration)</text>
-<text text-anchor="start" x="110.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="123.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">void BindTo(Segments.Loose</text>
-<text text-anchor="start" x="123.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">Sprite obj)</text>
-<text text-anchor="start" x="110.5" y="-69.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="123.5" y="-69.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetDelay(float</text>
-<text text-anchor="start" x="123.5" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00"> delay)</text>
-<text text-anchor="start" x="110.5" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="123.5" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">void ApplyTo(Segments.Loose</text>
-<text text-anchor="start" x="123.5" y="-32.5" font-family="Helvetica,sans-Serif" font-size="10.00">Sprite obj, float localTimeForObj)</text>
-<text text-anchor="start" x="110.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="123.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">float GetProgress(float</text>
-<text text-anchor="start" x="123.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00"> durationInFramesToApply)</text>
-<polygon fill="#666666" stroke="#666666" points="106.5,-172.5 106.5,-172.5 288.5,-172.5 288.5,-172.5 106.5,-172.5"/>
-<polygon fill="#666666" stroke="#666666" points="106.5,-146.5 106.5,-146.5 121.5,-146.5 121.5,-146.5 106.5,-146.5"/>
-<polygon fill="#666666" stroke="#666666" points="121.5,-146.5 121.5,-146.5 288.5,-146.5 288.5,-146.5 121.5,-146.5"/>
-<polygon fill="none" stroke="#666666" points="106.5,0 106.5,-201 288.5,-201 288.5,0 106.5,0"/>
+<polygon fill="#999999" stroke="transparent" points="333.5,-201 151.5,-201 151.5,0 333.5,0 333.5,-201"/>
+<text text-anchor="start" x="158" y="-188.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.Animations.</text>
+<text text-anchor="start" x="188" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">Actions.Sprites.AScale</text>
+<text text-anchor="start" x="155.5" y="-162.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="168.5" y="-162.5" font-family="Helvetica,sans-Serif" font-size="10.00">int ExpectedLengthOfAction</text>
+<text text-anchor="start" x="168.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">InFrames</text>
+<text text-anchor="start" x="155.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="168.5" y="-136.5" font-family="Helvetica,sans-Serif" font-size="10.00">AScale(Vector2 scaleTarget)</text>
+<text text-anchor="start" x="155.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="168.5" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">AScale(Vector2 scaleTarget,</text>
+<text text-anchor="start" x="168.5" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00"> int duration)</text>
+<text text-anchor="start" x="155.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="168.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">void BindTo(Segments.Loose</text>
+<text text-anchor="start" x="168.5" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00">Sprite obj)</text>
+<text text-anchor="start" x="155.5" y="-69.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="168.5" y="-69.5" font-family="Helvetica,sans-Serif" font-size="10.00">void SetDelay(float</text>
+<text text-anchor="start" x="168.5" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00"> delay)</text>
+<text text-anchor="start" x="155.5" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="168.5" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">void ApplyTo(Segments.Loose</text>
+<text text-anchor="start" x="168.5" y="-32.5" font-family="Helvetica,sans-Serif" font-size="10.00">Sprite obj, float localTimeForObj)</text>
+<text text-anchor="start" x="155.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="168.5" y="-17.5" font-family="Helvetica,sans-Serif" font-size="10.00">float GetProgress(float</text>
+<text text-anchor="start" x="168.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00"> durationInFramesToApply)</text>
+<polygon fill="#666666" stroke="#666666" points="151.5,-172.5 151.5,-172.5 333.5,-172.5 333.5,-172.5 151.5,-172.5"/>
+<polygon fill="#666666" stroke="#666666" points="151.5,-146.5 151.5,-146.5 166.5,-146.5 166.5,-146.5 151.5,-146.5"/>
+<polygon fill="#666666" stroke="#666666" points="166.5,-146.5 166.5,-146.5 333.5,-146.5 333.5,-146.5 166.5,-146.5"/>
+<polygon fill="none" stroke="#666666" points="151.5,0 151.5,-201 333.5,-201 333.5,0 151.5,0"/>
 </a>
 </g>
 </g>
@@ -92,13 +92,14 @@ var sectionId = 'dynsection-1';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d5/d50/interfaceTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1Sprites_1_1ISpriteAction.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="168,-638 95,-638 95,-589 168,-589 168,-638"/>
-<text text-anchor="start" x="100.5" y="-625.5" font-family="Helvetica,sans-Serif" font-size="10.00">ISpriteAction</text>
-<text text-anchor="start" x="130" y="-610.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="130" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="95.5,-620.5 95.5,-620.5 168.5,-620.5 168.5,-620.5 95.5,-620.5"/>
-<polygon fill="#666666" stroke="#666666" points="95.5,-605.5 95.5,-605.5 168.5,-605.5 168.5,-605.5 95.5,-605.5"/>
-<polygon fill="none" stroke="#666666" points="95,-589 95,-638 168,-638 168,-589 95,-589"/>
+<polygon fill="white" stroke="transparent" points="212.5,-643.5 88.5,-643.5 88.5,-583.5 212.5,-583.5 212.5,-643.5"/>
+<text text-anchor="start" x="93.5" y="-631.5" font-family="Helvetica,sans-Serif" font-size="10.00">Actions::Sprites::ISprite</text>
+<text text-anchor="start" x="135" y="-620.5" font-family="Helvetica,sans-Serif" font-size="10.00">Action</text>
+<text text-anchor="start" x="148.5" y="-605.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="148.5" y="-590.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#666666" stroke="#666666" points="88.5,-615.5 88.5,-615.5 212.5,-615.5 212.5,-615.5 88.5,-615.5"/>
+<polygon fill="#666666" stroke="#666666" points="88.5,-600.5 88.5,-600.5 212.5,-600.5 212.5,-600.5 88.5,-600.5"/>
+<polygon fill="none" stroke="#666666" points="88.5,-583.5 88.5,-643.5 212.5,-643.5 212.5,-583.5 88.5,-583.5"/>
 </a>
 </g>
 </g>
@@ -106,8 +107,8 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M135.46,-578.6C143.04,-514.15 160.29,-369.53 176.5,-248 178.52,-232.85 180.74,-216.82 182.95,-201.15"/>
-<polygon fill="none" stroke="#63b8ff" points="131.98,-578.26 134.29,-588.6 138.93,-579.07 131.98,-578.26"/>
+<path fill="none" stroke="#63b8ff" d="M157.58,-573.19C171.79,-494.28 204.16,-314.46 224.58,-201.04"/>
+<polygon fill="none" stroke="#63b8ff" points="154.1,-572.73 155.78,-583.19 160.99,-573.97 154.1,-572.73"/>
 </a>
 </g>
 </g>
@@ -140,8 +141,8 @@ var sectionId = 'dynsection-1';
 <g id="edge4_Node000001_Node000003" class="edge">
 <title>Node3&#45;&gt;Node1</title>
 <g id="a_edge4_Node000001_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M74.16,-1027C44.98,-878.26 -7.69,-523.34 85.5,-248 90.99,-231.78 99.08,-215.93 108.44,-201.02"/>
-<polygon fill="none" stroke="#63b8ff" points="70.75,-1027.8 76.13,-1036.93 77.62,-1026.44 70.75,-1027.8"/>
+<path fill="none" stroke="#63b8ff" d="M69.71,-1026.85C31.4,-875.97 -39.23,-514.34 79.5,-248 94.84,-213.6 122.69,-183.89 151.08,-160.4"/>
+<polygon fill="none" stroke="#63b8ff" points="66.42,-1028.1 72.3,-1036.91 73.2,-1026.36 66.42,-1028.1"/>
 </a>
 </g>
 </g>
@@ -149,8 +150,8 @@ var sectionId = 'dynsection-1';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node3&#45;&gt;Node2</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M95.65,-1026.76C105.26,-916.26 123.36,-708.08 129.45,-638.12"/>
-<polygon fill="none" stroke="#63b8ff" points="92.16,-1026.55 94.78,-1036.82 99.13,-1027.16 92.16,-1026.55"/>
+<path fill="none" stroke="#63b8ff" d="M98.44,-1026.69C112.04,-918.99 137.35,-718.64 146.81,-643.74"/>
+<polygon fill="none" stroke="#63b8ff" points="94.94,-1026.46 97.16,-1036.82 101.89,-1027.33 94.94,-1026.46"/>
 </a>
 </g>
 </g>
@@ -193,13 +194,13 @@ var sectionId = 'dynsection-1';
 <g id="Node000005" class="node">
 <title>Node5</title>
 <g id="a_Node000005"><a xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="209,-638 186,-638 186,-589 209,-589 209,-638"/>
-<text text-anchor="start" x="191.5" y="-625.5" font-family="Helvetica,sans-Serif" font-size="10.00">int</text>
-<text text-anchor="start" x="196" y="-610.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="196" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="186.5,-620.5 186.5,-620.5 209.5,-620.5 209.5,-620.5 186.5,-620.5"/>
-<polygon fill="#666666" stroke="#666666" points="186.5,-605.5 186.5,-605.5 209.5,-605.5 209.5,-605.5 186.5,-605.5"/>
-<polygon fill="none" stroke="#666666" points="186,-589 186,-638 209,-638 209,-589 186,-589"/>
+<polygon fill="white" stroke="transparent" points="254,-638 231,-638 231,-589 254,-589 254,-638"/>
+<text text-anchor="start" x="236.5" y="-625.5" font-family="Helvetica,sans-Serif" font-size="10.00">int</text>
+<text text-anchor="start" x="241" y="-610.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="241" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#666666" stroke="#666666" points="231.5,-620.5 231.5,-620.5 254.5,-620.5 254.5,-620.5 231.5,-620.5"/>
+<polygon fill="#666666" stroke="#666666" points="231.5,-605.5 231.5,-605.5 254.5,-605.5 254.5,-605.5 231.5,-605.5"/>
+<polygon fill="none" stroke="#666666" points="231,-589 231,-638 254,-638 254,-589 231,-589"/>
 </a>
 </g>
 </g>
@@ -207,101 +208,101 @@ var sectionId = 'dynsection-1';
 <g id="edge5_Node000001_Node000005" class="edge">
 <title>Node5&#45;&gt;Node1</title>
 <g id="a_edge5_Node000001_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M197.5,-588.88C197.5,-523.25 197.5,-335.48 197.5,-213.09"/>
-<polygon fill="none" stroke="#63b8ff" points="197.5,-213.09 193.5,-207.09 197.5,-201.09 201.5,-207.09 197.5,-213.09"/>
+<path fill="none" stroke="#63b8ff" d="M242.5,-588.88C242.5,-523.25 242.5,-335.48 242.5,-213.09"/>
+<polygon fill="none" stroke="#63b8ff" points="242.5,-213.09 238.5,-207.09 242.5,-201.09 246.5,-207.09 242.5,-213.09"/>
 </a>
 </g>
-<text text-anchor="middle" x="224.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #Duration</text>
+<text text-anchor="middle" x="269.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> #Duration</text>
 </g>
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
 <g id="a_Node000006"><a xlink:href="../../dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="410,-979 227,-979 227,-248 410,-248 410,-979"/>
-<text text-anchor="start" x="255" y="-966.5" font-family="Helvetica,sans-Serif" font-size="10.00">Microsoft.Xna.Framework.</text>
-<text text-anchor="start" x="300.5" y="-955.5" font-family="Helvetica,sans-Serif" font-size="10.00">Vector2</text>
-<text text-anchor="start" x="231.5" y="-940.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-940.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Zero</text>
-<text text-anchor="start" x="231.5" y="-925.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-925.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 One</text>
-<text text-anchor="start" x="231.5" y="-910.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-910.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 UnitX</text>
-<text text-anchor="start" x="231.5" y="-895.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-895.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 UnitY</text>
-<text text-anchor="start" x="231.5" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00">Vector2(float x, float y)</text>
-<text text-anchor="start" x="231.5" y="-865.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-865.5" font-family="Helvetica,sans-Serif" font-size="10.00">Vector2(float value)</text>
-<text text-anchor="start" x="231.5" y="-850.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-850.5" font-family="Helvetica,sans-Serif" font-size="10.00">override bool Equals</text>
-<text text-anchor="start" x="244.5" y="-839.5" font-family="Helvetica,sans-Serif" font-size="10.00">(object obj)</text>
-<text text-anchor="start" x="231.5" y="-824.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-824.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Equals(Vector2</text>
-<text text-anchor="start" x="244.5" y="-813.5" font-family="Helvetica,sans-Serif" font-size="10.00"> other)</text>
-<text text-anchor="start" x="231.5" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00">override int GetHashCode()</text>
-<text text-anchor="start" x="231.5" y="-783.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-783.5" font-family="Helvetica,sans-Serif" font-size="10.00">float Length()</text>
-<text text-anchor="start" x="231.5" y="-768.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-768.5" font-family="Helvetica,sans-Serif" font-size="10.00">float LengthSquared()</text>
-<text text-anchor="start" x="231.5" y="-753.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-753.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Normalize()</text>
-<text text-anchor="start" x="231.5" y="-738.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-738.5" font-family="Helvetica,sans-Serif" font-size="10.00">override string ToString()</text>
-<text text-anchor="start" x="231.5" y="-723.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-723.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void Reflect</text>
-<text text-anchor="start" x="244.5" y="-712.5" font-family="Helvetica,sans-Serif" font-size="10.00">(ref Vector2 vector,</text>
-<text text-anchor="start" x="244.5" y="-701.5" font-family="Helvetica,sans-Serif" font-size="10.00"> ref Vector2 normal,</text>
-<text text-anchor="start" x="244.5" y="-690.5" font-family="Helvetica,sans-Serif" font-size="10.00"> out Vector2 result)</text>
-<text text-anchor="start" x="231.5" y="-675.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-675.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Reflect</text>
-<text text-anchor="start" x="244.5" y="-664.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 vector, Vector2</text>
-<text text-anchor="start" x="244.5" y="-653.5" font-family="Helvetica,sans-Serif" font-size="10.00"> normal)</text>
-<text text-anchor="start" x="231.5" y="-638.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-638.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Add</text>
-<text text-anchor="start" x="244.5" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 value1, Vector2</text>
-<text text-anchor="start" x="244.5" y="-616.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value2)</text>
-<text text-anchor="start" x="231.5" y="-601.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-601.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void Add(ref</text>
-<text text-anchor="start" x="244.5" y="-590.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value1, ref</text>
-<text text-anchor="start" x="244.5" y="-579.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value2, out</text>
-<text text-anchor="start" x="244.5" y="-568.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 result)</text>
-<text text-anchor="start" x="231.5" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Barycentric</text>
-<text text-anchor="start" x="244.5" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 value1, Vector2</text>
-<text text-anchor="start" x="244.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value2, Vector2 value3,</text>
-<text text-anchor="start" x="244.5" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00"> float amount1, float amount2)</text>
-<text text-anchor="start" x="231.5" y="-505.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-505.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void Barycentric</text>
-<text text-anchor="start" x="244.5" y="-494.5" font-family="Helvetica,sans-Serif" font-size="10.00">(ref Vector2 value1, ref</text>
-<text text-anchor="start" x="244.5" y="-483.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value2, ref Vector2</text>
-<text text-anchor="start" x="244.5" y="-472.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value3, float amount1, float</text>
-<text text-anchor="start" x="244.5" y="-461.5" font-family="Helvetica,sans-Serif" font-size="10.00"> amount2, out Vector2 result)</text>
-<text text-anchor="start" x="231.5" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 CatmullRom</text>
-<text text-anchor="start" x="244.5" y="-435.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 value1, Vector2</text>
-<text text-anchor="start" x="244.5" y="-424.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value2, Vector2 value3,</text>
-<text text-anchor="start" x="244.5" y="-413.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value4, float amount)</text>
-<text text-anchor="start" x="231.5" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void CatmullRom</text>
-<text text-anchor="start" x="244.5" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">(ref Vector2 value1, ref</text>
-<text text-anchor="start" x="244.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value2, ref Vector2</text>
-<text text-anchor="start" x="244.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value3, ref Vector2 value4,</text>
-<text text-anchor="start" x="244.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00"> float amount, out Vector2 result)</text>
-<text text-anchor="start" x="231.5" y="-339.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-339.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Clamp</text>
-<text text-anchor="start" x="244.5" y="-328.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 value1, Vector2</text>
-<text text-anchor="start" x="244.5" y="-317.5" font-family="Helvetica,sans-Serif" font-size="10.00"> min, Vector2 max)</text>
-<text text-anchor="start" x="231.5" y="-302.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="244.5" y="-302.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void Clamp(ref</text>
-<text text-anchor="start" x="244.5" y="-291.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value1, ref</text>
-<text text-anchor="start" x="244.5" y="-280.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 min, ref Vector2</text>
-<text text-anchor="start" x="244.5" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00"> max, out Vector2 result)</text>
-<text text-anchor="start" x="244.5" y="-254.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 52 more...</text>
-<polygon fill="#666666" stroke="#666666" points="227.5,-950.5 227.5,-950.5 410.5,-950.5 410.5,-950.5 227.5,-950.5"/>
-<polygon fill="#666666" stroke="#666666" points="227.5,-890.5 227.5,-890.5 242.5,-890.5 242.5,-890.5 227.5,-890.5"/>
-<polygon fill="#666666" stroke="#666666" points="242.5,-890.5 242.5,-890.5 410.5,-890.5 410.5,-890.5 242.5,-890.5"/>
-<polygon fill="none" stroke="#666666" points="227,-248 227,-979 410,-979 410,-248 227,-248"/>
+<polygon fill="white" stroke="transparent" points="455,-979 272,-979 272,-248 455,-248 455,-979"/>
+<text text-anchor="start" x="300" y="-966.5" font-family="Helvetica,sans-Serif" font-size="10.00">Microsoft.Xna.Framework.</text>
+<text text-anchor="start" x="345.5" y="-955.5" font-family="Helvetica,sans-Serif" font-size="10.00">Vector2</text>
+<text text-anchor="start" x="276.5" y="-940.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-940.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Zero</text>
+<text text-anchor="start" x="276.5" y="-925.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-925.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 One</text>
+<text text-anchor="start" x="276.5" y="-910.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-910.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 UnitX</text>
+<text text-anchor="start" x="276.5" y="-895.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-895.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 UnitY</text>
+<text text-anchor="start" x="276.5" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00">Vector2(float x, float y)</text>
+<text text-anchor="start" x="276.5" y="-865.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-865.5" font-family="Helvetica,sans-Serif" font-size="10.00">Vector2(float value)</text>
+<text text-anchor="start" x="276.5" y="-850.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-850.5" font-family="Helvetica,sans-Serif" font-size="10.00">override bool Equals</text>
+<text text-anchor="start" x="289.5" y="-839.5" font-family="Helvetica,sans-Serif" font-size="10.00">(object obj)</text>
+<text text-anchor="start" x="276.5" y="-824.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-824.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Equals(Vector2</text>
+<text text-anchor="start" x="289.5" y="-813.5" font-family="Helvetica,sans-Serif" font-size="10.00"> other)</text>
+<text text-anchor="start" x="276.5" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-798.5" font-family="Helvetica,sans-Serif" font-size="10.00">override int GetHashCode()</text>
+<text text-anchor="start" x="276.5" y="-783.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-783.5" font-family="Helvetica,sans-Serif" font-size="10.00">float Length()</text>
+<text text-anchor="start" x="276.5" y="-768.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-768.5" font-family="Helvetica,sans-Serif" font-size="10.00">float LengthSquared()</text>
+<text text-anchor="start" x="276.5" y="-753.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-753.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Normalize()</text>
+<text text-anchor="start" x="276.5" y="-738.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-738.5" font-family="Helvetica,sans-Serif" font-size="10.00">override string ToString()</text>
+<text text-anchor="start" x="276.5" y="-723.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-723.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void Reflect</text>
+<text text-anchor="start" x="289.5" y="-712.5" font-family="Helvetica,sans-Serif" font-size="10.00">(ref Vector2 vector,</text>
+<text text-anchor="start" x="289.5" y="-701.5" font-family="Helvetica,sans-Serif" font-size="10.00"> ref Vector2 normal,</text>
+<text text-anchor="start" x="289.5" y="-690.5" font-family="Helvetica,sans-Serif" font-size="10.00"> out Vector2 result)</text>
+<text text-anchor="start" x="276.5" y="-675.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-675.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Reflect</text>
+<text text-anchor="start" x="289.5" y="-664.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 vector, Vector2</text>
+<text text-anchor="start" x="289.5" y="-653.5" font-family="Helvetica,sans-Serif" font-size="10.00"> normal)</text>
+<text text-anchor="start" x="276.5" y="-638.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-638.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Add</text>
+<text text-anchor="start" x="289.5" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 value1, Vector2</text>
+<text text-anchor="start" x="289.5" y="-616.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value2)</text>
+<text text-anchor="start" x="276.5" y="-601.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-601.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void Add(ref</text>
+<text text-anchor="start" x="289.5" y="-590.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value1, ref</text>
+<text text-anchor="start" x="289.5" y="-579.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value2, out</text>
+<text text-anchor="start" x="289.5" y="-568.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 result)</text>
+<text text-anchor="start" x="276.5" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-553.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Barycentric</text>
+<text text-anchor="start" x="289.5" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 value1, Vector2</text>
+<text text-anchor="start" x="289.5" y="-531.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value2, Vector2 value3,</text>
+<text text-anchor="start" x="289.5" y="-520.5" font-family="Helvetica,sans-Serif" font-size="10.00"> float amount1, float amount2)</text>
+<text text-anchor="start" x="276.5" y="-505.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-505.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void Barycentric</text>
+<text text-anchor="start" x="289.5" y="-494.5" font-family="Helvetica,sans-Serif" font-size="10.00">(ref Vector2 value1, ref</text>
+<text text-anchor="start" x="289.5" y="-483.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value2, ref Vector2</text>
+<text text-anchor="start" x="289.5" y="-472.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value3, float amount1, float</text>
+<text text-anchor="start" x="289.5" y="-461.5" font-family="Helvetica,sans-Serif" font-size="10.00"> amount2, out Vector2 result)</text>
+<text text-anchor="start" x="276.5" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 CatmullRom</text>
+<text text-anchor="start" x="289.5" y="-435.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 value1, Vector2</text>
+<text text-anchor="start" x="289.5" y="-424.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value2, Vector2 value3,</text>
+<text text-anchor="start" x="289.5" y="-413.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value4, float amount)</text>
+<text text-anchor="start" x="276.5" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void CatmullRom</text>
+<text text-anchor="start" x="289.5" y="-387.5" font-family="Helvetica,sans-Serif" font-size="10.00">(ref Vector2 value1, ref</text>
+<text text-anchor="start" x="289.5" y="-376.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value2, ref Vector2</text>
+<text text-anchor="start" x="289.5" y="-365.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value3, ref Vector2 value4,</text>
+<text text-anchor="start" x="289.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00"> float amount, out Vector2 result)</text>
+<text text-anchor="start" x="276.5" y="-339.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-339.5" font-family="Helvetica,sans-Serif" font-size="10.00">static Vector2 Clamp</text>
+<text text-anchor="start" x="289.5" y="-328.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 value1, Vector2</text>
+<text text-anchor="start" x="289.5" y="-317.5" font-family="Helvetica,sans-Serif" font-size="10.00"> min, Vector2 max)</text>
+<text text-anchor="start" x="276.5" y="-302.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="289.5" y="-302.5" font-family="Helvetica,sans-Serif" font-size="10.00">static void Clamp(ref</text>
+<text text-anchor="start" x="289.5" y="-291.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 value1, ref</text>
+<text text-anchor="start" x="289.5" y="-280.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Vector2 min, ref Vector2</text>
+<text text-anchor="start" x="289.5" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00"> max, out Vector2 result)</text>
+<text text-anchor="start" x="289.5" y="-254.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 53 more...</text>
+<polygon fill="#666666" stroke="#666666" points="272.5,-950.5 272.5,-950.5 455.5,-950.5 455.5,-950.5 272.5,-950.5"/>
+<polygon fill="#666666" stroke="#666666" points="272.5,-890.5 272.5,-890.5 287.5,-890.5 287.5,-890.5 272.5,-890.5"/>
+<polygon fill="#666666" stroke="#666666" points="287.5,-890.5 287.5,-890.5 455.5,-890.5 455.5,-890.5 287.5,-890.5"/>
+<polygon fill="none" stroke="#666666" points="272,-248 272,-979 455,-979 455,-248 272,-248"/>
 </a>
 </g>
 </g>
@@ -309,36 +310,37 @@ var sectionId = 'dynsection-1';
 <g id="edge6_Node000001_Node000006" class="edge">
 <title>Node6&#45;&gt;Node1</title>
 <g id="a_edge6_Node000001_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M264.15,-247.91C261.4,-238.13 258.52,-228.48 255.5,-219 254.83,-216.9 254.13,-214.78 253.39,-212.67"/>
-<polygon fill="none" stroke="#63b8ff" points="253.36,-212.57 247.54,-208.32 249.22,-201.31 255.05,-205.56 253.36,-212.57"/>
+<path fill="none" stroke="#63b8ff" d="M309.15,-247.91C306.4,-238.13 303.52,-228.48 300.5,-219 299.83,-216.9 299.13,-214.78 298.39,-212.67"/>
+<polygon fill="none" stroke="#63b8ff" points="298.36,-212.57 292.54,-208.32 294.22,-201.31 300.05,-205.56 298.36,-212.57"/>
 </a>
 </g>
-<text text-anchor="middle" x="293.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &#45;_scaleTarget</text>
+<text text-anchor="middle" x="338.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &#45;_scaleTarget</text>
 </g>
 <!-- Node6&#45;&gt;Node6 -->
-<g id="edge8_Node000006_Node000006" class="edge">
+<g id="edge9_Node000006_Node000006" class="edge">
 <title>Node6&#45;&gt;Node6</title>
-<g id="a_edge8_Node000006_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M410.36,-675.59C421.05,-664.13 428,-643.43 428,-613.5 428,-590.82 424.01,-573.44 417.42,-561.36"/>
-<polygon fill="none" stroke="#63b8ff" points="417.31,-561.2 410.57,-558.62 410.36,-551.41 417.1,-553.99 417.31,-561.2"/>
+<g id="a_edge9_Node000006_Node000006"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M455.36,-675.59C466.05,-664.13 473,-643.43 473,-613.5 473,-590.82 469.01,-573.44 462.42,-561.36"/>
+<polygon fill="none" stroke="#63b8ff" points="462.31,-561.2 455.57,-558.62 455.36,-551.41 462.1,-553.99 462.31,-561.2"/>
 </a>
 </g>
-<text text-anchor="middle" x="458.5" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &#45;unitVector</text>
-<text text-anchor="middle" x="458.5" y="-616.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;unitXVector</text>
-<text text-anchor="middle" x="458.5" y="-605.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;unitYVector</text>
-<text text-anchor="middle" x="458.5" y="-594.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;zeroVector</text>
+<text text-anchor="middle" x="503.5" y="-627.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &#45;unitVector</text>
+<text text-anchor="middle" x="503.5" y="-616.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;unitXVector</text>
+<text text-anchor="middle" x="503.5" y="-605.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;unitYVector</text>
+<text text-anchor="middle" x="503.5" y="-594.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">&#45;zeroVector</text>
 </g>
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="../../d9/d1c/classIEquatable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="379.5,-1123 257.5,-1123 257.5,-1074 379.5,-1074 379.5,-1123"/>
-<text text-anchor="start" x="262.5" y="-1110.5" font-family="Helvetica,sans-Serif" font-size="10.00">IEquatable&lt; Vector2 &gt;</text>
-<text text-anchor="start" x="316.5" y="-1095.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="316.5" y="-1080.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="257.5,-1105.5 257.5,-1105.5 379.5,-1105.5 379.5,-1105.5 257.5,-1105.5"/>
-<polygon fill="#666666" stroke="#666666" points="257.5,-1090.5 257.5,-1090.5 379.5,-1090.5 379.5,-1090.5 257.5,-1090.5"/>
-<polygon fill="none" stroke="#666666" points="257.5,-1074 257.5,-1123 379.5,-1123 379.5,-1074 257.5,-1074"/>
+<g id="a_Node000007"><a xlink:href="../../d6/d43/interfaceSystem_1_1IEquatable.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="424.5,-1123 302.5,-1123 302.5,-1074 424.5,-1074 424.5,-1123"/>
+<text text-anchor="start" x="307.5" y="-1110.5" font-family="Helvetica,sans-Serif" font-size="10.00">IEquatable&lt; Vector2 &gt;</text>
+<text text-anchor="start" x="361.5" y="-1095.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="307" y="-1080.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="320.5" y="-1080.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Equals(T other)</text>
+<polygon fill="#666666" stroke="#666666" points="302.5,-1105.5 302.5,-1105.5 424.5,-1105.5 424.5,-1105.5 302.5,-1105.5"/>
+<polygon fill="#666666" stroke="#666666" points="302.5,-1090.5 302.5,-1090.5 424.5,-1090.5 424.5,-1090.5 302.5,-1090.5"/>
+<polygon fill="none" stroke="#666666" points="302.5,-1074 302.5,-1123 424.5,-1123 424.5,-1074 302.5,-1074"/>
 </a>
 </g>
 </g>
@@ -346,45 +348,70 @@ var sectionId = 'dynsection-1';
 <g id="edge7_Node000006_Node000007" class="edge">
 <title>Node7&#45;&gt;Node6</title>
 <g id="a_edge7_Node000006_Node000007"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M318.5,-1063.66C318.5,-1042.62 318.5,-1013.14 318.5,-979.24"/>
-<polygon fill="none" stroke="#63b8ff" points="315,-1063.88 318.5,-1073.88 322,-1063.88 315,-1063.88"/>
+<path fill="none" stroke="#63b8ff" d="M363.5,-1063.66C363.5,-1042.62 363.5,-1013.14 363.5,-979.24"/>
+<polygon fill="none" stroke="#63b8ff" points="360,-1063.88 363.5,-1073.88 367,-1063.88 360,-1063.88"/>
 </a>
 </g>
 </g>
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="489.5,-1123 457.5,-1123 457.5,-1074 489.5,-1074 489.5,-1123"/>
-<text text-anchor="start" x="462.5" y="-1110.5" font-family="Helvetica,sans-Serif" font-size="10.00">float</text>
-<text text-anchor="start" x="471.5" y="-1095.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="471.5" y="-1080.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="457.5,-1105.5 457.5,-1105.5 489.5,-1105.5 489.5,-1105.5 457.5,-1105.5"/>
-<polygon fill="#666666" stroke="#666666" points="457.5,-1090.5 457.5,-1090.5 489.5,-1090.5 489.5,-1090.5 457.5,-1090.5"/>
-<polygon fill="none" stroke="#666666" points="457.5,-1074 457.5,-1123 489.5,-1123 489.5,-1074 457.5,-1074"/>
+<g id="a_Node000008"><a xlink:href="../../d6/d43/interfaceSystem_1_1IEquatable.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="429,-1293 298,-1293 298,-1244 429,-1244 429,-1293"/>
+<text text-anchor="start" x="303.5" y="-1280.5" font-family="Helvetica,sans-Serif" font-size="10.00">System.IEquatable&lt; T &gt;</text>
+<text text-anchor="start" x="362" y="-1265.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="305" y="-1250.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="320.5" y="-1250.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool Equals(T other)</text>
+<polygon fill="#666666" stroke="#666666" points="298.5,-1275.5 298.5,-1275.5 429.5,-1275.5 429.5,-1275.5 298.5,-1275.5"/>
+<polygon fill="#666666" stroke="#666666" points="298.5,-1260.5 298.5,-1260.5 429.5,-1260.5 429.5,-1260.5 298.5,-1260.5"/>
+<polygon fill="none" stroke="#666666" points="298,-1244 298,-1293 429,-1293 429,-1244 298,-1244"/>
 </a>
 </g>
 </g>
-<!-- Node8&#45;&gt;Node1 -->
-<g id="edge10_Node000001_Node000008" class="edge">
-<title>Node8&#45;&gt;Node1</title>
-<g id="a_edge10_Node000001_Node000008"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M480.05,-1073.67C486.23,-1049.91 495.03,-1012.25 498.5,-979 515.36,-817.43 584.64,-385.73 498.5,-248 455.38,-179.06 369.49,-141.72 300.46,-122.03"/>
-<polygon fill="none" stroke="#63b8ff" points="300.23,-121.96 293.39,-124.23 288.66,-118.78 295.51,-116.52 300.23,-121.96"/>
+<!-- Node8&#45;&gt;Node7 -->
+<g id="edge8_Node000007_Node000008" class="edge">
+<title>Node8&#45;&gt;Node7</title>
+<g id="a_edge8_Node000007_Node000008"><a xlink:title=" ">
+<path fill="none" stroke="orange" d="M363.5,-1233.75C363.5,-1200.93 363.5,-1151.93 363.5,-1123.09"/>
+<polygon fill="orange" stroke="orange" points="360,-1233.79 363.5,-1243.79 367,-1233.79 360,-1233.79"/>
 </a>
 </g>
-<text text-anchor="middle" x="560.5" y="-611" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &#45;_delay</text>
+<text text-anchor="middle" x="395" y="-1181" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &lt; Vector2 &gt;</text>
 </g>
-<!-- Node8&#45;&gt;Node6 -->
-<g id="edge9_Node000006_Node000008" class="edge">
-<title>Node8&#45;&gt;Node6</title>
-<g id="a_edge9_Node000006_Node000008"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M465.92,-1073.88C455.53,-1041.49 435.64,-979.51 413.75,-911.3"/>
-<polygon fill="none" stroke="#63b8ff" points="413.74,-911.29 408.1,-906.79 410.07,-899.86 415.72,-904.35 413.74,-911.29"/>
+<!-- Node9 -->
+<g id="Node000009" class="node">
+<title>Node9</title>
+<g id="a_Node000009"><a xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="534.5,-1123 502.5,-1123 502.5,-1074 534.5,-1074 534.5,-1123"/>
+<text text-anchor="start" x="507.5" y="-1110.5" font-family="Helvetica,sans-Serif" font-size="10.00">float</text>
+<text text-anchor="start" x="516.5" y="-1095.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="516.5" y="-1080.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#666666" stroke="#666666" points="502.5,-1105.5 502.5,-1105.5 534.5,-1105.5 534.5,-1105.5 502.5,-1105.5"/>
+<polygon fill="#666666" stroke="#666666" points="502.5,-1090.5 502.5,-1090.5 534.5,-1090.5 534.5,-1090.5 502.5,-1090.5"/>
+<polygon fill="none" stroke="#666666" points="502.5,-1074 502.5,-1123 534.5,-1123 534.5,-1074 502.5,-1074"/>
 </a>
 </g>
-<text text-anchor="middle" x="457" y="-1011" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +X</text>
-<text text-anchor="middle" x="457" y="-1000" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+Y</text>
+</g>
+<!-- Node9&#45;&gt;Node1 -->
+<g id="edge11_Node000001_Node000009" class="edge">
+<title>Node9&#45;&gt;Node1</title>
+<g id="a_edge11_Node000001_Node000009"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M525.05,-1073.67C531.23,-1049.91 540.03,-1012.25 543.5,-979 560.36,-817.43 629.64,-385.73 543.5,-248 500.38,-179.06 414.49,-141.72 345.46,-122.03"/>
+<polygon fill="none" stroke="#63b8ff" points="345.23,-121.96 338.39,-124.23 333.66,-118.78 340.51,-116.52 345.23,-121.96"/>
+</a>
+</g>
+<text text-anchor="middle" x="605.5" y="-611" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &#45;_delay</text>
+</g>
+<!-- Node9&#45;&gt;Node6 -->
+<g id="edge10_Node000006_Node000009" class="edge">
+<title>Node9&#45;&gt;Node6</title>
+<g id="a_edge10_Node000006_Node000009"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M510.92,-1073.88C500.53,-1041.49 480.64,-979.51 458.75,-911.3"/>
+<polygon fill="none" stroke="#63b8ff" points="458.74,-911.29 453.1,-906.79 455.07,-899.86 460.72,-904.35 458.74,-911.29"/>
+</a>
+</g>
+<text text-anchor="middle" x="502" y="-1011" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +X</text>
+<text text-anchor="middle" x="502" y="-1000" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey">+Y</text>
 </g>
 </g>
 </svg>

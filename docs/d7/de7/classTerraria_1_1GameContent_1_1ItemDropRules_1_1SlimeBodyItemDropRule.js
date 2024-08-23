@@ -5,5 +5,6 @@ var classTerraria_1_1GameContent_1_1ItemDropRules_1_1SlimeBodyItemDropRule =
     [ "GetDropInfo", "d7/de7/classTerraria_1_1GameContent_1_1ItemDropRules_1_1SlimeBodyItemDropRule_adfbda997fd12f8e6624b138d5d56caa7.html#adfbda997fd12f8e6624b138d5d56caa7", null ],
     [ "ReportDroprates", "d7/de7/classTerraria_1_1GameContent_1_1ItemDropRules_1_1SlimeBodyItemDropRule_af83cafc2b8fd05b9d750ad7d9b9454c8.html#af83cafc2b8fd05b9d750ad7d9b9454c8", null ],
     [ "TryDroppingItem", "d7/de7/classTerraria_1_1GameContent_1_1ItemDropRules_1_1SlimeBodyItemDropRule_ac65f86c47b9be58f426f814d6efae2e8.html#ac65f86c47b9be58f426f814d6efae2e8", null ],
+    [ "k__BackingField", "d7/de7/classTerraria_1_1GameContent_1_1ItemDropRules_1_1SlimeBodyItemDropRule_a34c8ebd9773d6265841e644b2eb1a2dd.html#a34c8ebd9773d6265841e644b2eb1a2dd", null ],
     [ "ChainedRules", "d7/de7/classTerraria_1_1GameContent_1_1ItemDropRules_1_1SlimeBodyItemDropRule_a8706e1bdb932c2ef725ba40304265c93.html#a8706e1bdb932c2ef725ba40304265c93", null ]
 ];

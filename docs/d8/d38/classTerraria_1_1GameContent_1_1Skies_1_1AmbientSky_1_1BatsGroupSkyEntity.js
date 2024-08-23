@@ -2,7 +2,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BatsGroupSkyEntity =
 [
     [ "BatsGroupSkyEntity", "d8/d38/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BatsGroupSkyEntity_a657d7333673a07b721632ad88147c62a.html#a657d7333673a07b721632ad88147c62a", null ],
     [ "CommonDraw", "d8/d38/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BatsGroupSkyEntity.html#a2e0c86acfa2ceaf743e5cc41336bf003", null ],
-    [ "CreateGroup", "d8/d38/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BatsGroupSkyEntity_a3511ae72dd9d6142e389865948b4127c.html#a3511ae72dd9d6142e389865948b4127c", null ],
+    [ "CreateGroup", "d8/d38/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BatsGroupSkyEntity_a81214fe080aed4ab15cf469dc8b46a0c.html#a81214fe080aed4ab15cf469dc8b46a0c", null ],
     [ "Draw", "d8/d38/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BatsGroupSkyEntity.html#ad284cac68e5c92d028d85b28d08d46ae", null ],
     [ "GetColor", "d8/d38/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BatsGroupSkyEntity_a0fbeece093f0c975bcc96f2863444f02.html#a0fbeece093f0c975bcc96f2863444f02", null ],
     [ "GetDrawPosition", "d8/d38/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1BatsGroupSkyEntity.html#a6344e087faa7eea6e427cc9b0ab94bfd", null ],

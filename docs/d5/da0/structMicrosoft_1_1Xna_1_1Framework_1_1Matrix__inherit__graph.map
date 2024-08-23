@@ -1,5 +1,7 @@
 <map id="Microsoft.Xna.Framework.Matrix" name="Microsoft.Xna.Framework.Matrix">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,257,1403"/>
-<area shape="rect" id="Node000002" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="54,5,209,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,84,134,119,129,119,129,84"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,248,257,1532"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="51,133,211,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,212,134,248,129,248,129,212"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="44,5,219,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,85,134,133,129,133,129,85"/>
 </map>

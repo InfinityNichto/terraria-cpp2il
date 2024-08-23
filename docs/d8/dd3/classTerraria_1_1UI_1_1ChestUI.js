@@ -2,6 +2,7 @@ var classTerraria_1_1UI_1_1ChestUI =
 [
     [ "ButtonID", "d0/dfb/classTerraria_1_1UI_1_1ChestUI_1_1ButtonID.html", "d0/dfb/classTerraria_1_1UI_1_1ChestUI_1_1ButtonID" ],
     [ "ChestUI", "d8/dd3/classTerraria_1_1UI_1_1ChestUI_af9af35c6ffbffefd096bf9290b69824e.html#af9af35c6ffbffefd096bf9290b69824e", null ],
+    [ "ChestUI", "d8/dd3/classTerraria_1_1UI_1_1ChestUI_a59d21f62b2627b9a6d1ece9b81252f50.html#a59d21f62b2627b9a6d1ece9b81252f50", null ],
     [ "CanBeDepositied", "d8/dd3/classTerraria_1_1UI_1_1ChestUI_a434428f28ac92b220fdb4b0f64b3ab45.html#a434428f28ac92b220fdb4b0f64b3ab45", null ],
     [ "Deposit", "d8/dd3/classTerraria_1_1UI_1_1ChestUI_a3527f3d8a4493ce39d83fd7a9326a497.html#a3527f3d8a4493ce39d83fd7a9326a497", null ],
     [ "DepositAll", "d8/dd3/classTerraria_1_1UI_1_1ChestUI_a207f17ddb705954f4a4c4cb1fa1a6ce8.html#a207f17ddb705954f4a4c4cb1fa1a6ce8", null ],

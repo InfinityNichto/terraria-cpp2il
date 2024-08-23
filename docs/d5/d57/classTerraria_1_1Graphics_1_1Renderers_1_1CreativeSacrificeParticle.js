@@ -8,6 +8,7 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1CreativeSacrificeParticle =
     [ "_scale", "d5/d57/classTerraria_1_1Graphics_1_1Renderers_1_1CreativeSacrificeParticle_a6d8170710b4c90122948a701aa1299a1.html#a6d8170710b4c90122948a701aa1299a1", null ],
     [ "_texture", "d5/d57/classTerraria_1_1Graphics_1_1Renderers_1_1CreativeSacrificeParticle_af9e1289670cd32642a78d8a155028518.html#af9e1289670cd32642a78d8a155028518", null ],
     [ "AccelerationPerFrame", "d5/d57/classTerraria_1_1Graphics_1_1Renderers_1_1CreativeSacrificeParticle_ac70f4148ed5690ead84c9a7bb7a0df50.html#ac70f4148ed5690ead84c9a7bb7a0df50", null ],
+    [ "k__BackingField", "d5/d57/classTerraria_1_1Graphics_1_1Renderers_1_1CreativeSacrificeParticle_a30c1a2e890386dda798c64029d28427d.html#a30c1a2e890386dda798c64029d28427d", null ],
     [ "LocalPosition", "d5/d57/classTerraria_1_1Graphics_1_1Renderers_1_1CreativeSacrificeParticle_ad533dae93083029eef657dc0d5688d4c.html#ad533dae93083029eef657dc0d5688d4c", null ],
     [ "ScaleOffsetPerFrame", "d5/d57/classTerraria_1_1Graphics_1_1Renderers_1_1CreativeSacrificeParticle_aa96ace8752914261fe570465967ab80b.html#aa96ace8752914261fe570465967ab80b", null ],
     [ "StopWhenBelowXScale", "d5/d57/classTerraria_1_1Graphics_1_1Renderers_1_1CreativeSacrificeParticle_aa4ad2fa08f23d60952a7d8ce6fbbead3.html#aa4ad2fa08f23d60952a7d8ce6fbbead3", null ],

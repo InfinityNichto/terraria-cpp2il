@@ -1,6 +1,7 @@
 var classTerraria_1_1ID_1_1PlayerVariantID =
 [
     [ "Sets", "d1/db6/classTerraria_1_1ID_1_1PlayerVariantID_1_1Sets.html", "d1/db6/classTerraria_1_1ID_1_1PlayerVariantID_1_1Sets" ],
+    [ "PlayerVariantID", "db/dd9/classTerraria_1_1ID_1_1PlayerVariantID_a3f5510f89b46ed58689f6bf2e0f5afea.html#a3f5510f89b46ed58689f6bf2e0f5afea", null ],
     [ "Count", "db/dd9/classTerraria_1_1ID_1_1PlayerVariantID_ab2fb70634a379510a7db8cf02a051bee.html#ab2fb70634a379510a7db8cf02a051bee", null ],
     [ "FemaleCoat", "db/dd9/classTerraria_1_1ID_1_1PlayerVariantID_a77ad64fa6de1f8beaf6ada5b55830d7f.html#a77ad64fa6de1f8beaf6ada5b55830d7f", null ],
     [ "FemaleDisplayDoll", "db/dd9/classTerraria_1_1ID_1_1PlayerVariantID_adfc89573c229a7956134edd02149d9df.html#adfc89573c229a7956134edd02149d9df", null ],

@@ -1,5 +1,6 @@
 var classThreadManager =
 [
+    [ "ThreadManager", "de/d57/classThreadManager_aca830801f36ee4a35846179fddd344c4.html#aca830801f36ee4a35846179fddd344c4", null ],
     [ "CheckThreadTerminiate", "de/d57/classThreadManager_a6429111c9fb409b3354649ead016604e.html#a6429111c9fb409b3354649ead016604e", null ],
     [ "IsThreadRunning", "de/d57/classThreadManager_a976140fcaf663bad1826d0f0fdd9a704.html#a976140fcaf663bad1826d0f0fdd9a704", null ],
     [ "Run", "de/d57/classThreadManager_aa0bf09e2e420239f337c5e6403033b25.html#aa0bf09e2e420239f337c5e6403033b25", null ],

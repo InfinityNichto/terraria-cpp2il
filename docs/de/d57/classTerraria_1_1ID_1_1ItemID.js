@@ -3,6 +3,7 @@ var classTerraria_1_1ID_1_1ItemID =
     [ "BannerEffect", "db/d52/structTerraria_1_1ID_1_1ItemID_1_1BannerEffect.html", "db/d52/structTerraria_1_1ID_1_1ItemID_1_1BannerEffect" ],
     [ "Sets", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets.html", "d8/dc6/classTerraria_1_1ID_1_1ItemID_1_1Sets" ],
     [ "ItemID", "de/d57/classTerraria_1_1ID_1_1ItemID_adabd721eef4d75d4b535acb295ad9122.html#adabd721eef4d75d4b535acb295ad9122", null ],
+    [ "ItemID", "de/d57/classTerraria_1_1ID_1_1ItemID_ab47a26f0ac4119e777ccabf4a23bd6c4.html#ab47a26f0ac4119e777ccabf4a23bd6c4", null ],
     [ "FromLegacyName", "de/d57/classTerraria_1_1ID_1_1ItemID_a9e0cf3fc92b658aad42029ac6be74e20.html#a9e0cf3fc92b658aad42029ac6be74e20", null ],
     [ "FromNetId", "de/d57/classTerraria_1_1ID_1_1ItemID_a64c5c2fd541f343fa3d2753c86dd9e11.html#a64c5c2fd541f343fa3d2753c86dd9e11", null ],
     [ "GenerateLegacyItemDictionary", "de/d57/classTerraria_1_1ID_1_1ItemID_a8b87b031eb573b250e7f67569df2f845.html#a8b87b031eb573b250e7f67569df2f845", null ],

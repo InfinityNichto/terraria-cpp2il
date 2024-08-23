@@ -1,13 +1,13 @@
 <map id="Microsoft.Xna.Framework.Graphics.Effect" name="Microsoft.Xna.Framework.Graphics.Effect">
-<area shape="rect" id="Node000001" title=" " alt="" coords="386,288,634,567"/>
-<area shape="rect" id="Node000003" href="$d5/d58/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PixelShader.html" title=" " alt="" coords="5,655,247,1456"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="376,508,314,557,286,586,262,616,236,656,232,653,257,613,282,582,311,553,373,504"/>
-<area shape="rect" id="Node000004" href="$db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html" title=" " alt="" coords="271,615,503,1496"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="483,580,476,615,471,614,478,579"/>
-<area shape="rect" id="Node000005" href="$df/db8/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteEffect.html" title=" " alt="" coords="527,983,738,1127"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="542,580,621,983,616,984,537,581"/>
-<area shape="rect" id="Node000006" href="$d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html" title=" " alt="" coords="762,782,991,1329"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="647,508,704,556,752,613,776,652,797,694,830,781,825,783,792,696,771,655,748,616,700,560,644,512"/>
-<area shape="rect" id="Node000002" href="$d0/d7e/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GraphicsResource.html" title=" " alt="" coords="391,5,629,240"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="513,254,513,288,507,288,507,254"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="386,357,634,705"/>
+<area shape="rect" id="Node000003" href="$d5/d58/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PixelShader.html" title=" " alt="" coords="5,793,247,1615"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,630,315,688,286,720,262,755,239,794,234,791,257,752,282,717,311,684,373,626"/>
+<area shape="rect" id="Node000004" href="$db/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1ScreenShader.html" title=" " alt="" coords="271,753,503,1655"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="478,720,472,754,467,753,473,719"/>
+<area shape="rect" id="Node000005" href="$df/db8/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteEffect.html" title=" " alt="" coords="527,1132,738,1276"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="547,719,622,1131,617,1132,542,720"/>
+<area shape="rect" id="Node000006" href="$d2/d1d/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1TileShader.html" title=" " alt="" coords="762,921,991,1487"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="647,631,704,688,752,752,794,833,825,920,820,921,789,835,748,755,700,691,643,635"/>
+<area shape="rect" id="Node000002" href="$d0/d7e/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GraphicsResource.html" title=" " alt="" coords="391,5,629,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="513,323,513,357,507,357,507,323"/>
 </map>

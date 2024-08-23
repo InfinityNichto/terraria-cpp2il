@@ -18,11 +18,12 @@ var structTerraria_1_1GameContent_1_1PlayerEyeHelper =
     [ "BlinkBecausePlayerGotHurt", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_a2dcf5cddad404cff078e4dd08bf35137.html#a2dcf5cddad404cff078e4dd08bf35137", null ],
     [ "DoesPlayerCountAsModeratelyDamaged", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_a5c63324167c4697e0d20080d8cfe3a8e.html#a5c63324167c4697e0d20080d8cfe3a8e", null ],
     [ "SetStateByPlayerInfo", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_ac9192aac22f93614d95aebe7dca0ff59.html#ac9192aac22f93614d95aebe7dca0ff59", null ],
-    [ "SwitchToState", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_a702800e6e92883e63115ff3518a41046.html#a702800e6e92883e63115ff3518a41046", null ],
+    [ "SwitchToState", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_ac9e1e5d270fd75d3af26f91e13644f7a.html#ac9e1e5d270fd75d3af26f91e13644f7a", null ],
     [ "Update", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_a06d87c8d4d07f75c4b7b0ab9f7662926.html#a06d87c8d4d07f75c4b7b0ab9f7662926", null ],
     [ "UpdateEyeFrameToShow", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_aaa7064775217eb7eff52eb3fa08f2fad.html#aaa7064775217eb7eff52eb3fa08f2fad", null ],
-    [ "_state", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_a2b737475bfac5b32d7e2c5d870abcc74.html#a2b737475bfac5b32d7e2c5d870abcc74", null ],
+    [ "_state", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_a0b9d6ad32e91e50ddb546d16e4506458.html#a0b9d6ad32e91e50ddb546d16e4506458", null ],
     [ "_timeInState", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_a2cbb87735e69a0d99182a0c46ea6f347.html#a2cbb87735e69a0d99182a0c46ea6f347", null ],
+    [ "k__BackingField", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_ab1c7fac0ecd2454b88b1036b6ab85221.html#ab1c7fac0ecd2454b88b1036b6ab85221", null ],
     [ "TimeToActDamaged", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_a0d98f0e7897146a0335266e793b1839d.html#a0d98f0e7897146a0335266e793b1839d", null ],
     [ "EyeFrameToShow", "da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper_aa9d367f05954ba22e9bb6fa31af60bc6.html#aa9d367f05954ba22e9bb6fa31af60bc6", null ]
 ];

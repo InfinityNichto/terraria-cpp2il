@@ -2,7 +2,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SeagullsGroupSkyEntit
 [
     [ "SeagullsGroupSkyEntity", "d3/dea/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SeagullsGroupSkyEntity_a80bb5c172ee95c1347b1132f1fd39a15.html#a80bb5c172ee95c1347b1132f1fd39a15", null ],
     [ "CommonDraw", "d3/dea/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SeagullsGroupSkyEntity.html#a2e0c86acfa2ceaf743e5cc41336bf003", null ],
-    [ "CreateGroup", "d3/dea/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SeagullsGroupSkyEntity_ac15d8dfaff398c75de5b9a5e2056bddb.html#ac15d8dfaff398c75de5b9a5e2056bddb", null ],
+    [ "CreateGroup", "d3/dea/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SeagullsGroupSkyEntity_a0650c38001d056b6ef588e651a7574b0.html#a0650c38001d056b6ef588e651a7574b0", null ],
     [ "Draw", "d3/dea/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SeagullsGroupSkyEntity_ab210628e8dd9d48991f493604d22fd62.html#ab210628e8dd9d48991f493604d22fd62", null ],
     [ "GetColor", "d3/dea/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SeagullsGroupSkyEntity_ac47e8ec0e8bd0e18c32be8c1c0ac13ed.html#ac47e8ec0e8bd0e18c32be8c1c0ac13ed", null ],
     [ "GetDrawPosition", "d3/dea/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SeagullsGroupSkyEntity.html#a6344e087faa7eea6e427cc9b0ab94bfd", null ],

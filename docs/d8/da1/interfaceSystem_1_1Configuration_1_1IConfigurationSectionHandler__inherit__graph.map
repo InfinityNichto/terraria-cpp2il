@@ -1,0 +1,15 @@
+<map id="System.Configuration.IConfigurationSectionHandler" name="System.Configuration.IConfigurationSectionHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="625,5,874,115"/>
+<area shape="rect" id="Node000002" href="$dd/dd4/classSystem_1_1Configuration_1_1DictionarySectionHandler.html" title=" " alt="" coords="5,167,253,317"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="611,81,443,112,353,136,265,165,254,170,252,165,263,160,351,131,442,107,610,76"/>
+<area shape="rect" id="Node000003" href="$d4/dc5/classSystem_1_1Configuration_1_1IgnoreSectionHandler.html" title=" " alt="" coords="277,170,475,314"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="613,110,550,135,488,165,475,172,473,167,485,160,547,130,611,105"/>
+<area shape="rect" id="Node000004" href="$da/d40/classSystem_1_1Configuration_1_1NameValueFileSectionHandler.html" title=" " alt="" coords="499,177,735,307"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="704,128,667,178,662,175,699,125"/>
+<area shape="rect" id="Node000005" href="$d6/dca/classSystem_1_1Configuration_1_1NameValueSectionHandler.html" title=" " alt="" coords="759,167,1007,317"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="800,124,830,165,826,169,795,128"/>
+<area shape="rect" id="Node000006" href="$de/d55/classSystem_1_1Configuration_1_1SingleTagSectionHandler.html" title=" " alt="" coords="1031,177,1236,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="888,103,954,130,1020,160,1046,175,1043,180,1017,165,952,135,886,108"/>
+<area shape="rect" id="Node000007" href="$d1/d61/classSystem_1_1Diagnostics_1_1DiagnosticsConfigurationHandler.html" title=" " alt="" coords="1261,163,1483,321"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="888,73,971,86,1063,104,1158,129,1249,160,1261,166,1259,170,1247,165,1156,134,1062,110,970,91,887,79"/>
+</map>

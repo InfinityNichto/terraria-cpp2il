@@ -1,5 +1,6 @@
 var classTerraria_1_1GameContent_1_1RGB_1_1NoiseHelper =
 [
+    [ "NoiseHelper", "de/dbd/classTerraria_1_1GameContent_1_1RGB_1_1NoiseHelper_a616d7ac7ddccdbbe55e942bdcb0bb686.html#a616d7ac7ddccdbbe55e942bdcb0bb686", null ],
     [ "CreateStaticNoise", "de/dbd/classTerraria_1_1GameContent_1_1RGB_1_1NoiseHelper_ac70f4e920c5680e368e728055b7020f3.html#ac70f4e920c5680e368e728055b7020f3", null ],
     [ "GetDynamicNoise", "de/dbd/classTerraria_1_1GameContent_1_1RGB_1_1NoiseHelper_a7e74438cf5ce41d3fb7e3ee8b20ffbca.html#a7e74438cf5ce41d3fb7e3ee8b20ffbca", null ],
     [ "GetDynamicNoise", "de/dbd/classTerraria_1_1GameContent_1_1RGB_1_1NoiseHelper_a448ce4bea73881f8faa742c2762c6fa5.html#a448ce4bea73881f8faa742c2762c6fa5", null ],

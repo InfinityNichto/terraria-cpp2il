@@ -1,5 +1,6 @@
 var classTerraria_1_1WorldBuilding_1_1GenVars =
 [
+    [ "GenVars", "d4/dd3/classTerraria_1_1WorldBuilding_1_1GenVars_ab982a053d81aa8abec664c0a8c4e1ea5.html#ab982a053d81aa8abec664c0a8c4e1ea5", null ],
     [ "beachBordersWidth", "d4/dd3/classTerraria_1_1WorldBuilding_1_1GenVars_a49e1f6235de65b2065c0d9b2c328419b.html#a49e1f6235de65b2065c0d9b2c328419b", null ],
     [ "beachSandDungeonExtraWidth", "d4/dd3/classTerraria_1_1WorldBuilding_1_1GenVars_abcb3459c182c5f4811ab2e8224567fcd.html#abcb3459c182c5f4811ab2e8224567fcd", null ],
     [ "beachSandJungleExtraWidth", "d4/dd3/classTerraria_1_1WorldBuilding_1_1GenVars_a16c81ccf6f990d527f3656e2bc2e307b.html#a16c81ccf6f990d527f3656e2bc2e307b", null ],

@@ -2,7 +2,7 @@ var classGUIItemDuplication =
 [
     [ "GUIItemDuplication", "de/d4e/classGUIItemDuplication_ad8112f5be3905ce45a2e378944bf09e6.html#ad8112f5be3905ce45a2e378944bf09e6", null ],
     [ "CompareItemOrder", "de/d4e/classGUIItemDuplication_ad0e04e27838027af1e33460dd3579996.html#ad0e04e27838027af1e33460dd3579996", null ],
-    [ "CraftItemDraw", "de/d4e/classGUIItemDuplication_af7db337dc169c65db8c31350565a3a61.html#af7db337dc169c65db8c31350565a3a61", null ],
+    [ "CraftItemDraw", "de/d4e/classGUIItemDuplication_ac60223226c781f65ded9995c5ea08688.html#ac60223226c781f65ded9995c5ea08688", null ],
     [ "CraftItemOver", "de/d4e/classGUIItemDuplication_accf6a865d3a80221bdc5508e3a81e037.html#accf6a865d3a80221bdc5508e3a81e037", null ],
     [ "CraftItemScale", "de/d4e/classGUIItemDuplication_a4a298ac9f3c1ecff1dae019ceadc8c09.html#a4a298ac9f3c1ecff1dae019ceadc8c09", null ],
     [ "Draw", "de/d4e/classGUIItemDuplication_a1a349c0a3f63a5bc96eb8e72f6e37e2f.html#a1a349c0a3f63a5bc96eb8e72f6e37e2f", null ],
@@ -14,7 +14,7 @@ var classGUIItemDuplication =
     [ "AvailableItems", "de/d4e/classGUIItemDuplication_a205feadf8afc835a797c43785065a15a.html#a205feadf8afc835a797c43785065a15a", null ],
     [ "blankItem", "de/d4e/classGUIItemDuplication_a44f56970af86fad58474b0ed99ca1e16.html#a44f56970af86fad58474b0ed99ca1e16", null ],
     [ "CraftButtonScale", "de/d4e/classGUIItemDuplication_a9b0b356fd44f2771e29f2b7ccf6683fc.html#a9b0b356fd44f2771e29f2b7ccf6683fc", null ],
-    [ "craftDragOffset", "de/d4e/classGUIItemDuplication_a2c8800187ddb4b1526168fae215aa390.html#a2c8800187ddb4b1526168fae215aa390", null ],
+    [ "craftDragOffset", "de/d4e/classGUIItemDuplication_a94fbfa1bd950e31fb97f28142edd17bd.html#a94fbfa1bd950e31fb97f28142edd17bd", null ],
     [ "craftScrollDragging", "de/d4e/classGUIItemDuplication_a5f4df18a7943192a2e58126f6e8fd436.html#a5f4df18a7943192a2e58126f6e8fd436", null ],
     [ "craftScrollMomentum", "de/d4e/classGUIItemDuplication_ab9aede542d1bb85f926a83f346b5c5f8.html#ab9aede542d1bb85f926a83f346b5c5f8", null ],
     [ "craftScrollOffset", "de/d4e/classGUIItemDuplication_a9abdc400ed0cecf0b8094dc5eb8772aa.html#a9abdc400ed0cecf0b8094dc5eb8772aa", null ],

@@ -11,10 +11,10 @@
 <!-- Node0 -->
 <g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_Node000000"><a xlink:href="da/dc0/classTerraria_1_1Social_1_1Base_1_1WorkshopTagOption.html" target="_top" xlink:title=" ">
+<g id="a_Node000000"><a xlink:href="d2/dc4/classSystem_1_1Collections_1_1Generic_1_1List.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="164,-30 0,-30 0,0 164,0 164,-30"/>
-<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Social.Base.Workshop</text>
-<text text-anchor="middle" x="82" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">TagOption</text>
+<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">System.Collections.Generic.</text>
+<text text-anchor="middle" x="82" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">List&lt; InControl.InputControl &gt;</text>
 </a>
 </g>
 </g>

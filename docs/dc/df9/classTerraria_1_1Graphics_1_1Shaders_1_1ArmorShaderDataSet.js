@@ -1,8 +1,8 @@
 var classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderDataSet =
 [
     [ "ArmorShaderDataSet", "dc/df9/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderDataSet_ac6e7a7bb89dda069a57da43363f2347d.html#ac6e7a7bb89dda069a57da43363f2347d", null ],
-    [ "Apply", "dc/df9/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderDataSet_ab9b204983abccee798ec2b47601b3d2e.html#ab9b204983abccee798ec2b47601b3d2e", null ],
-    [ "ApplySecondary", "dc/df9/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderDataSet_aeaa1a59d0003125a4a147326f89b5acc.html#aeaa1a59d0003125a4a147326f89b5acc", null ],
+    [ "Apply", "dc/df9/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderDataSet_ac9d2133eeae57699a6d3dad08f6717a4.html#ac9d2133eeae57699a6d3dad08f6717a4", null ],
+    [ "ApplySecondary", "dc/df9/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderDataSet_aff876bd7ab14b571f915fdbd0ef8bbfb.html#aff876bd7ab14b571f915fdbd0ef8bbfb", null ],
     [ "BindShader< T >", "dc/df9/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderDataSet_a74ce124a70c07692f2776159675e2bc6.html#a74ce124a70c07692f2776159675e2bc6", null ],
     [ "GetSecondaryShader", "dc/df9/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderDataSet_a657ae03b00b34d0e37a85701550417c8.html#a657ae03b00b34d0e37a85701550417c8", null ],
     [ "GetShaderFromItemId", "dc/df9/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderDataSet_a8153d5500e7a4f310165539fbd9fd03e.html#a8153d5500e7a4f310165539fbd9fd03e", null ],

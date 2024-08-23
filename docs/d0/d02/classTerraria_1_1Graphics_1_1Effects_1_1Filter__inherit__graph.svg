@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 186;
+var viewWidth = 198;
 var viewHeight = 537;
 var sectionId = 'dynsection-0';
 </script>
@@ -58,9 +58,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="transparent" points="178,-276 0,-276 0,0 178,0 178,-276"/>
-<text text-anchor="start" x="28" y="-264" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Effects.</text>
-<text text-anchor="start" x="76.5" y="-253" font-family="Helvetica,sans-Serif" font-size="10.00">Filter</text>
+<polygon fill="#999999" stroke="transparent" points="190,-276 0,-276 0,0 190,0 190,-276"/>
+<text text-anchor="start" x="34" y="-264" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Effects.</text>
+<text text-anchor="start" x="82.5" y="-253" font-family="Helvetica,sans-Serif" font-size="10.00">Filter</text>
 <text text-anchor="start" x="4" y="-238" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-238" font-family="Helvetica,sans-Serif" font-size="10.00">bool Active</text>
 <text text-anchor="start" x="4" y="-223" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -80,8 +80,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="17" y="-115" font-family="Helvetica,sans-Serif" font-size="10.00">ScreenShaderData GetShader()</text>
 <text text-anchor="start" x="4" y="-100" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-100" font-family="Helvetica,sans-Serif" font-size="10.00">override void Activate</text>
-<text text-anchor="start" x="17" y="-89" font-family="Helvetica,sans-Serif" font-size="10.00">(Vector2 position, params</text>
-<text text-anchor="start" x="17" y="-78" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
+<text text-anchor="start" x="17" y="-89" font-family="Helvetica,sans-Serif" font-size="10.00">(Microsoft.Xna.Framework.Vector2</text>
+<text text-anchor="start" x="17" y="-78" font-family="Helvetica,sans-Serif" font-size="10.00"> position, params object[] args)</text>
 <text text-anchor="start" x="4" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00">override void Deactivate</text>
 <text text-anchor="start" x="17" y="-52" font-family="Helvetica,sans-Serif" font-size="10.00">(params object[] args)</text>
@@ -91,10 +91,10 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="17" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsActive()</text>
 <text text-anchor="start" x="4" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">override bool IsVisible()</text>
-<polygon fill="#666666" stroke="#666666" points="0,-248 0,-248 178,-248 178,-248 0,-248"/>
+<polygon fill="#666666" stroke="#666666" points="0,-248 0,-248 190,-248 190,-248 0,-248"/>
 <polygon fill="#666666" stroke="#666666" points="0,-203 0,-203 15,-203 15,-203 0,-203"/>
-<polygon fill="#666666" stroke="#666666" points="15,-203 15,-203 178,-203 178,-203 15,-203"/>
-<polygon fill="none" stroke="#666666" points="0,0 0,-276 178,-276 178,0 0,0"/>
+<polygon fill="#666666" stroke="#666666" points="15,-203 15,-203 190,-203 190,-203 15,-203"/>
+<polygon fill="none" stroke="#666666" points="0,0 0,-276 190,-276 190,0 0,0"/>
 </a>
 </g>
 </g>
@@ -102,37 +102,37 @@ var sectionId = 'dynsection-0';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d1/d23/classTerraria_1_1Graphics_1_1Effects_1_1GameEffect.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="158.5,-529 19.5,-529 19.5,-312 158.5,-312 158.5,-529"/>
-<text text-anchor="start" x="60.5" y="-516.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameEffect</text>
-<text text-anchor="start" x="24" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="37" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00">float Opacity</text>
-<text text-anchor="start" x="24" y="-486.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="37" y="-486.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsLoaded</text>
-<text text-anchor="start" x="24" y="-471.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="37" y="-471.5" font-family="Helvetica,sans-Serif" font-size="10.00">EffectPriority Priority</text>
-<text text-anchor="start" x="24" y="-456.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="37" y="-456.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool _isLoaded</text>
-<text text-anchor="start" x="24" y="-441.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="37" y="-441.5" font-family="Helvetica,sans-Serif" font-size="10.00">EffectPriority _priority</text>
-<text text-anchor="start" x="24" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="37" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Load()</text>
-<text text-anchor="start" x="24" y="-411.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="37" y="-411.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnLoad()</text>
-<text text-anchor="start" x="24" y="-396.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="37" y="-396.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsVisible()</text>
-<text text-anchor="start" x="24" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="37" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Activate(Vector2</text>
-<text text-anchor="start" x="37" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00"> position, params object</text>
-<text text-anchor="start" x="37" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">[] args)</text>
-<text text-anchor="start" x="24" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="37" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Deactivate(params</text>
-<text text-anchor="start" x="37" y="-333.5" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
-<text text-anchor="start" x="24" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
-<text text-anchor="start" x="37" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameEffect()</text>
-<polygon fill="#666666" stroke="#666666" points="20,-511.5 20,-511.5 159,-511.5 159,-511.5 20,-511.5"/>
-<polygon fill="#666666" stroke="#666666" points="20,-436.5 20,-436.5 35,-436.5 35,-436.5 20,-436.5"/>
-<polygon fill="#666666" stroke="#666666" points="35,-436.5 35,-436.5 159,-436.5 159,-436.5 35,-436.5"/>
-<polygon fill="none" stroke="#666666" points="19.5,-312 19.5,-529 158.5,-529 158.5,-312 19.5,-312"/>
+<polygon fill="white" stroke="transparent" points="164.5,-529 25.5,-529 25.5,-312 164.5,-312 164.5,-529"/>
+<text text-anchor="start" x="66.5" y="-516.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameEffect</text>
+<text text-anchor="start" x="30" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="43" y="-501.5" font-family="Helvetica,sans-Serif" font-size="10.00">float Opacity</text>
+<text text-anchor="start" x="30" y="-486.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="43" y="-486.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsLoaded</text>
+<text text-anchor="start" x="30" y="-471.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="43" y="-471.5" font-family="Helvetica,sans-Serif" font-size="10.00">EffectPriority Priority</text>
+<text text-anchor="start" x="30" y="-456.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="43" y="-456.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool _isLoaded</text>
+<text text-anchor="start" x="30" y="-441.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="43" y="-441.5" font-family="Helvetica,sans-Serif" font-size="10.00">EffectPriority _priority</text>
+<text text-anchor="start" x="30" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="43" y="-426.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Load()</text>
+<text text-anchor="start" x="30" y="-411.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="43" y="-411.5" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void OnLoad()</text>
+<text text-anchor="start" x="30" y="-396.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="43" y="-396.5" font-family="Helvetica,sans-Serif" font-size="10.00">bool IsVisible()</text>
+<text text-anchor="start" x="30" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="43" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Activate(Vector2</text>
+<text text-anchor="start" x="43" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00"> position, params object</text>
+<text text-anchor="start" x="43" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">[] args)</text>
+<text text-anchor="start" x="30" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="43" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Deactivate(params</text>
+<text text-anchor="start" x="43" y="-333.5" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
+<text text-anchor="start" x="30" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
+<text text-anchor="start" x="43" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">GameEffect()</text>
+<polygon fill="#666666" stroke="#666666" points="26,-511.5 26,-511.5 165,-511.5 165,-511.5 26,-511.5"/>
+<polygon fill="#666666" stroke="#666666" points="26,-436.5 26,-436.5 41,-436.5 41,-436.5 26,-436.5"/>
+<polygon fill="#666666" stroke="#666666" points="41,-436.5 41,-436.5 165,-436.5 165,-436.5 41,-436.5"/>
+<polygon fill="none" stroke="#666666" points="25.5,-312 25.5,-529 164.5,-529 164.5,-312 25.5,-312"/>
 </a>
 </g>
 </g>
@@ -140,8 +140,8 @@ var sectionId = 'dynsection-0';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M89,-301.6C89,-293.14 89,-284.57 89,-276.01"/>
-<polygon fill="none" stroke="#63b8ff" points="85.5,-301.85 89,-311.85 92.5,-301.85 85.5,-301.85"/>
+<path fill="none" stroke="#63b8ff" d="M95,-301.6C95,-293.14 95,-284.57 95,-276.01"/>
+<polygon fill="none" stroke="#63b8ff" points="91.5,-301.85 95,-311.85 98.5,-301.85 91.5,-301.85"/>
 </a>
 </g>
 </g>

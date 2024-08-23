@@ -18,6 +18,8 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState =
     [ "Additive", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_ac9a9231ea1051a6b86287d7997631db0.html#ac9a9231ea1051a6b86287d7997631db0", null ],
     [ "AlphaBlend", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_a3ba3d3b383c89406cad6e23f461e32f5.html#a3ba3d3b383c89406cad6e23f461e32f5", null ],
     [ "graphicsDevice", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState.html#aface84a9f5668723af51de00fe9c8e05", null ],
+    [ "k__BackingField", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState.html#a30b21ff3c2517be6872b42a6e3fd2afa", null ],
+    [ "k__BackingField", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState.html#af4ac35936dbd79e38d7b15f831410b43", null ],
     [ "NonPremultiplied", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_a3e766ba82fbaefab9571509d4a51319c.html#a3e766ba82fbaefab9571509d4a51319c", null ],
     [ "Opaque", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_a18cd0e96d0f213101fa1d90ac120b43c.html#a18cd0e96d0f213101fa1d90ac120b43c", null ],
     [ "AlphaBlendFunction", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_ac30d8e16b8d0dbe7b3464e184604b970.html#ac30d8e16b8d0dbe7b3464e184604b970", null ],
@@ -31,11 +33,11 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState =
     [ "ColorWriteChannels1", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_ae013ea112835c12aad3f9ebefd49defc.html#ae013ea112835c12aad3f9ebefd49defc", null ],
     [ "ColorWriteChannels2", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_a619f251568c31d96b3e843daa670df39.html#a619f251568c31d96b3e843daa670df39", null ],
     [ "ColorWriteChannels3", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_ad499b9ee45d7359286913e214d51ed3f.html#ad499b9ee45d7359286913e214d51ed3f", null ],
-    [ "Disposing", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState.html#a1c65b8ccd067c23aaf35c476f17b27d9", null ],
+    [ "Disposing", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState.html#a2b70d6536692f4b0a23ceba9e77cc28c", null ],
     [ "GraphicsDevice", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState.html#a28226ae3e3f7cdb8e507e1ceee36d185", null ],
     [ "IndependentBlendEnable", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_a6a086c9f146347c42b8c80a9f64b1f4e.html#a6a086c9f146347c42b8c80a9f64b1f4e", null ],
-    [ "Item", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_a614999fe53c62d883de91d09d4a4fb5e.html#a614999fe53c62d883de91d09d4a4fb5e", null ],
     [ "MultiSampleMask", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_a7c074a74240eb7f283fd0018132cdce1.html#a7c074a74240eb7f283fd0018132cdce1", null ],
     [ "Name", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState.html#a1ce12831dc9f1f18d4132bea55205480", null ],
-    [ "Tag", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState.html#abc08db6dcccec98f3654f79bb5c60577", null ]
+    [ "Tag", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState.html#abc08db6dcccec98f3654f79bb5c60577", null ],
+    [ "this[int index]", "de/dc5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1BlendState_a2ee1710a82a5b4213253062f1826e014.html#a2ee1710a82a5b4213253062f1826e014", null ]
 ];

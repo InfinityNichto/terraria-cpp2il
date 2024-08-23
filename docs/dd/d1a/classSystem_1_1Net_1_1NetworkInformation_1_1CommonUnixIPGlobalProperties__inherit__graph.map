@@ -1,0 +1,11 @@
+<map id="System.Net.NetworkInformation.CommonUnixIPGlobalProperties" name="System.Net.NetworkInformation.CommonUnixIPGlobalProperties">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,188,372,303"/>
+<area shape="rect" id="Node000003" href="$da/d36/classSystem_1_1Net_1_1NetworkInformation_1_1UnixIPGlobalProperties.html" title=" " alt="" coords="133,351,363,431"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,317,251,350,245,350,245,317"/>
+<area shape="rect" id="Node000002" href="$d3/db5/classSystem_1_1Net_1_1NetworkInformation_1_1IPGlobalProperties.html" title=" " alt="" coords="130,5,366,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,154,251,188,245,188,245,154"/>
+<area shape="rect" id="Node000004" href="$dc/df2/classSystem_1_1Net_1_1NetworkInformation_1_1MibIPGlobalProperties.html" title=" " alt="" coords="5,479,235,743"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,444,200,480,195,477,216,441"/>
+<area shape="rect" id="Node000005" href="$d1/d35/classSystem_1_1Net_1_1NetworkInformation_1_1UnixNoLibCIPGlobalProperties.html" title=" " alt="" coords="259,571,493,651"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="280,441,355,569,351,572,275,444"/>
+</map>

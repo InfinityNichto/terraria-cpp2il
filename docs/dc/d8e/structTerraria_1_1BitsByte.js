@@ -17,5 +17,5 @@ var structTerraria_1_1BitsByte =
     [ "SetAll", "dc/d8e/structTerraria_1_1BitsByte_ad0ba93608bcefeef2874764fcb494297.html#ad0ba93608bcefeef2874764fcb494297", null ],
     [ "Null", "dc/d8e/structTerraria_1_1BitsByte_ac162bd340f3cc8246f18349ee40e1dcc.html#ac162bd340f3cc8246f18349ee40e1dcc", null ],
     [ "value", "dc/d8e/structTerraria_1_1BitsByte_a116443e84fdb62bf7944e591c3895dbf.html#a116443e84fdb62bf7944e591c3895dbf", null ],
-    [ "Item", "dc/d8e/structTerraria_1_1BitsByte_a90b27c47e5eff257563e65cd8455e72b.html#a90b27c47e5eff257563e65cd8455e72b", null ]
+    [ "this[int key]", "dc/d8e/structTerraria_1_1BitsByte_a0d9dbc73f60f9865eaca8396c1812738.html#a0d9dbc73f60f9865eaca8396c1812738", null ]
 ];

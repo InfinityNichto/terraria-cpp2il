@@ -1,6 +1,7 @@
 var classTerraria_1_1ID_1_1StatusID =
 [
     [ "StatusID", "dc/d50/classTerraria_1_1ID_1_1StatusID_ac6f9b92337a10be1bf98c119c874a2c8.html#ac6f9b92337a10be1bf98c119c874a2c8", null ],
+    [ "StatusID", "dc/d50/classTerraria_1_1ID_1_1StatusID_a916d4958d821dc5f4bcb66efefe6a1c1.html#a916d4958d821dc5f4bcb66efefe6a1c1", null ],
     [ "BadFooter", "dc/d50/classTerraria_1_1ID_1_1StatusID_ab2291aeefc3179912e120cce822f8967.html#ab2291aeefc3179912e120cce822f8967", null ],
     [ "BadSectionPointer", "dc/d50/classTerraria_1_1ID_1_1StatusID_afdaaca2aef353887974f848840210cf6.html#afdaaca2aef353887974f848840210cf6", null ],
     [ "DecryptionError", "dc/d50/classTerraria_1_1ID_1_1StatusID_a0559ede074409a7d33c8cb8be96c0d9b.html#a0559ede074409a7d33c8cb8be96c0d9b", null ],

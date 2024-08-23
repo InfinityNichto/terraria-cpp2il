@@ -1,0 +1,9 @@
+<map id="System.Net.NetConfig" name="System.Net.NetConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,133,270,233"/>
+<area shape="rect" id="Node000002" href="$d0/d50/interfaceSystem_1_1ICloneable.html" title=" " alt="" coords="5,5,125,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,80,137,131,132,135,94,83"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="149,5,192,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,71,173,117,168,117,168,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="282,5,313,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="291,72,270,111,259,124,255,120,266,108,286,70"/>
+</map>

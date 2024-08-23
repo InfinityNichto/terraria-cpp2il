@@ -16,7 +16,8 @@
 <text text-anchor="start" x="5.5" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ID.TileID.Sets.</text>
 <text text-anchor="start" x="30" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">RoomNeeds</text>
 <text text-anchor="start" x="58" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="58" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="6" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="15.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">static RoomNeeds()</text>
 <polygon fill="#666666" stroke="#666666" points="0.5,-32 0.5,-32 119.5,-32 119.5,-32 0.5,-32"/>
 <polygon fill="#666666" stroke="#666666" points="0.5,-17 0.5,-17 119.5,-17 119.5,-17 0.5,-17"/>
 <polygon fill="none" stroke="#666666" points="0,0 0,-60 119,-60 119,0 0,0"/>

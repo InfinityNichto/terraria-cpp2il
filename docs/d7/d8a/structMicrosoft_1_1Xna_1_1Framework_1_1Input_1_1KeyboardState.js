@@ -3,6 +3,7 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState =
     [ "KeyboardState", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_af6bb32cdad56dffe4c8fe9b6b4afbc8b.html#af6bb32cdad56dffe4c8fe9b6b4afbc8b", null ],
     [ "KeyboardState", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a6099f2d5bd1c22ff60b37c109467d24e.html#a6099f2d5bd1c22ff60b37c109467d24e", null ],
     [ "KeyboardState", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a9bef34ac10314ef40e13824cb81c0f92.html#a9bef34ac10314ef40e13824cb81c0f92", null ],
+    [ "KeyboardState", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a7fef8c6501c2a5c4bacc9da94744e7e7.html#a7fef8c6501c2a5c4bacc9da94744e7e7", null ],
     [ "AddKeysToArray", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a60638fcac8a408d59e7ffa4ff13c0a31.html#a60638fcac8a408d59e7ffa4ff13c0a31", null ],
     [ "CountBits", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a17407263055a18fc6f2ad0578ce120ba.html#a17407263055a18fc6f2ad0578ce120ba", null ],
     [ "Equals", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a7d57fa24849fe95e05970d6735160ab8.html#a7d57fa24849fe95e05970d6735160ab8", null ],
@@ -17,6 +18,8 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState =
     [ "operator!=", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_ab8d2d40135fa2f964793ecf93abef412.html#ab8d2d40135fa2f964793ecf93abef412", null ],
     [ "operator==", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a41b5149e642838eed433debdb2991969.html#a41b5149e642838eed433debdb2991969", null ],
     [ "empty", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a16ba74bc6f05c2e21f48b8d6ef400651.html#a16ba74bc6f05c2e21f48b8d6ef400651", null ],
+    [ "k__BackingField", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_aa20ce031dfc000255621ca923d80136c.html#aa20ce031dfc000255621ca923d80136c", null ],
+    [ "k__BackingField", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a10f7c70632d43255d712accd522e0620.html#a10f7c70632d43255d712accd522e0620", null ],
     [ "keys0", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a33ba810aa4bcbbe150d9e0db99d07a1d.html#a33ba810aa4bcbbe150d9e0db99d07a1d", null ],
     [ "keys1", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a9c8eae5969164d394c4cfa263ec1af78.html#a9c8eae5969164d394c4cfa263ec1af78", null ],
     [ "keys2", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_ae8b4c47d1b82a0949dbf43a399bb34c2.html#ae8b4c47d1b82a0949dbf43a399bb34c2", null ],
@@ -34,6 +37,6 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState =
     [ "keysArray7", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_acd387836e39c7e53b925b4c4a0b3c7b5.html#acd387836e39c7e53b925b4c4a0b3c7b5", null ],
     [ "keysArray8", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a7285c80f367545735a3f119a169131e6.html#a7285c80f367545735a3f119a169131e6", null ],
     [ "CapsLock", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a2218c6523391a7b36bb6042e5f3333dc.html#a2218c6523391a7b36bb6042e5f3333dc", null ],
-    [ "Item", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a821c06a8e89792a87f5cce83fe53d595.html#a821c06a8e89792a87f5cce83fe53d595", null ],
-    [ "NumLock", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_aeedcf9d3dd4d7480cdc8360ccbfd0464.html#aeedcf9d3dd4d7480cdc8360ccbfd0464", null ]
+    [ "NumLock", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_aeedcf9d3dd4d7480cdc8360ccbfd0464.html#aeedcf9d3dd4d7480cdc8360ccbfd0464", null ],
+    [ "this[Keys key]", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a54e7a91579a249fac6373fc83b196635.html#a54e7a91579a249fac6373fc83b196635", null ]
 ];

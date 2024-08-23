@@ -61,32 +61,32 @@ var sectionId = 'dynsection-0';
 <polygon fill="#999999" stroke="transparent" points="162.5,-234 2.5,-234 2.5,0 162.5,0 162.5,-234"/>
 <text text-anchor="start" x="7.5" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldBuilding.Actions.</text>
 <text text-anchor="start" x="53.5" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00">TileScanner</text>
-<text text-anchor="start" x="18.5" y="-196" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="38.5" y="-196" font-family="Helvetica,sans-Serif" font-size="10.00">ushort[] _tileIds</text>
-<text text-anchor="start" x="18.5" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="38.5" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00">Dictionary&lt; ushort,</text>
-<text text-anchor="start" x="38.5" y="-170" font-family="Helvetica,sans-Serif" font-size="10.00"> int &gt; _tileCounts</text>
-<text text-anchor="start" x="16" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="38.5" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">TileScanner(params</text>
-<text text-anchor="start" x="38.5" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00"> ushort[] tiles)</text>
-<text text-anchor="start" x="16" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="38.5" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">override bool Apply</text>
-<text text-anchor="start" x="38.5" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">(Point origin, int x,</text>
-<text text-anchor="start" x="38.5" y="-107" font-family="Helvetica,sans-Serif" font-size="10.00"> int y, params object</text>
-<text text-anchor="start" x="38.5" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00">[] args)</text>
-<text text-anchor="start" x="16" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="38.5" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">TileScanner Output</text>
-<text text-anchor="start" x="38.5" y="-70" font-family="Helvetica,sans-Serif" font-size="10.00">(Dictionary&lt; ushort,</text>
-<text text-anchor="start" x="38.5" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00"> int &gt; resultsOutput)</text>
-<text text-anchor="start" x="16" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="38.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">Dictionary&lt; ushort,</text>
-<text text-anchor="start" x="38.5" y="-33" font-family="Helvetica,sans-Serif" font-size="10.00"> int &gt; GetResults()</text>
-<text text-anchor="start" x="16" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="38.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">int GetCount(ushort</text>
-<text text-anchor="start" x="38.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> tileId)</text>
+<text text-anchor="start" x="9.5" y="-196" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="20.5" y="-196" font-family="Helvetica,sans-Serif" font-size="10.00">ushort[] _tileIds</text>
+<text text-anchor="start" x="9.5" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="20.5" y="-181" font-family="Helvetica,sans-Serif" font-size="10.00">Dictionary&lt; ushort,</text>
+<text text-anchor="start" x="20.5" y="-170" font-family="Helvetica,sans-Serif" font-size="10.00"> int &gt; _tileCounts</text>
+<text text-anchor="start" x="7" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">TileScanner(params</text>
+<text text-anchor="start" x="20.5" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00"> ushort[] tiles)</text>
+<text text-anchor="start" x="7" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">override bool Apply</text>
+<text text-anchor="start" x="20.5" y="-118" font-family="Helvetica,sans-Serif" font-size="10.00">(Point origin, int x,</text>
+<text text-anchor="start" x="20.5" y="-107" font-family="Helvetica,sans-Serif" font-size="10.00"> int y, params object</text>
+<text text-anchor="start" x="20.5" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00">[] args)</text>
+<text text-anchor="start" x="7" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">Actions.TileScanner</text>
+<text text-anchor="start" x="20.5" y="-70" font-family="Helvetica,sans-Serif" font-size="10.00"> Output(Dictionary&lt;</text>
+<text text-anchor="start" x="20.5" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00"> ushort, int &gt; resultsOutput)</text>
+<text text-anchor="start" x="7" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">Dictionary&lt; ushort,</text>
+<text text-anchor="start" x="20.5" y="-33" font-family="Helvetica,sans-Serif" font-size="10.00"> int &gt; GetResults()</text>
+<text text-anchor="start" x="7" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="20.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">int GetCount(ushort</text>
+<text text-anchor="start" x="20.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> tileId)</text>
 <polygon fill="#666666" stroke="#666666" points="2.5,-206 2.5,-206 162.5,-206 162.5,-206 2.5,-206"/>
-<polygon fill="#666666" stroke="#666666" points="2.5,-165 2.5,-165 36.5,-165 36.5,-165 2.5,-165"/>
-<polygon fill="#666666" stroke="#666666" points="36.5,-165 36.5,-165 162.5,-165 162.5,-165 36.5,-165"/>
+<polygon fill="#666666" stroke="#666666" points="2.5,-165 2.5,-165 18.5,-165 18.5,-165 2.5,-165"/>
+<polygon fill="#666666" stroke="#666666" points="18.5,-165 18.5,-165 162.5,-165 162.5,-165 18.5,-165"/>
 <polygon fill="none" stroke="#666666" points="2.5,0 2.5,-234 162.5,-234 162.5,0 2.5,0"/>
 </a>
 </g>
@@ -152,11 +152,11 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="4.5" y="-574" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-574" font-family="Helvetica,sans-Serif" font-size="10.00">static int _worldHeight</text>
 <text text-anchor="start" x="4.5" y="-559" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-559" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
-<text text-anchor="start" x="17.5" y="-548" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
-<text text-anchor="start" x="17.5" y="-537" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
-<text text-anchor="start" x="4.5" y="-522" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-522" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="17.5" y="-559" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="4.5" y="-544" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17.5" y="-544" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
+<text text-anchor="start" x="17.5" y="-533" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
+<text text-anchor="start" x="17.5" y="-522" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
 <polygon fill="#666666" stroke="#666666" points="0.5,-640 0.5,-640 165.5,-640 165.5,-640 0.5,-640"/>
 <polygon fill="#666666" stroke="#666666" points="0.5,-569 0.5,-569 15.5,-569 15.5,-569 0.5,-569"/>
 <polygon fill="#666666" stroke="#666666" points="15.5,-569 15.5,-569 165.5,-569 165.5,-569 15.5,-569"/>

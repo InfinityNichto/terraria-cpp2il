@@ -2,6 +2,7 @@ var structReLogic_1_1Utilities_1_1Vector2D =
 [
     [ "Vector2D", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_a0ec97b221a4c2f5b6d455306497aa495.html#a0ec97b221a4c2f5b6d455306497aa495", null ],
     [ "Vector2D", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_a07c67aa6cc16c63ac412795051d74269.html#a07c67aa6cc16c63ac412795051d74269", null ],
+    [ "Vector2D", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_aba2ca478754c4814c8eec349b241a7f6.html#aba2ca478754c4814c8eec349b241a7f6", null ],
     [ "Add", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_a5e46ba3628cd749c6c0488ac886afd9a.html#a5e46ba3628cd749c6c0488ac886afd9a", null ],
     [ "Add", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_aa5a052407321f2451fa33d58e48edfb1.html#aa5a052407321f2451fa33d58e48edfb1", null ],
     [ "Barycentric", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_a0299d887834d021304095eb86c5e84f3.html#a0299d887834d021304095eb86c5e84f3", null ],
@@ -24,6 +25,7 @@ var structReLogic_1_1Utilities_1_1Vector2D =
     [ "Dot", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_a439d32c5215ec86df1b37bb721636434.html#a439d32c5215ec86df1b37bb721636434", null ],
     [ "Dot", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_af95dc61b5d61ee4c8213729fa88ac084.html#af95dc61b5d61ee4c8213729fa88ac084", null ],
     [ "Equals", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_ac1dd082b6de677d74aca46f29e3a2ff1.html#ac1dd082b6de677d74aca46f29e3a2ff1", null ],
+    [ "Equals", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D.html#adcb517a2c4a75f107b1b3d704b343c16", null ],
     [ "Equals", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_a6332d46c5d7a8b0a65f5722d6b9267b8.html#a6332d46c5d7a8b0a65f5722d6b9267b8", null ],
     [ "GetHashCode", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_a392aabceb03b5657d219f13fa65f928d.html#a392aabceb03b5657d219f13fa65f928d", null ],
     [ "Hermite", "de/d1e/structReLogic_1_1Utilities_1_1Vector2D_a5e7dee2c497f0c3e688b88232912ea5e.html#a5e7dee2c497f0c3e688b88232912ea5e", null ],

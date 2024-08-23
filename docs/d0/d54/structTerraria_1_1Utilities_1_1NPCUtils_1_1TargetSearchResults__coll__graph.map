@@ -1,9 +1,10 @@
 <map id="Terraria.Utilities.NPCUtils.TargetSearchResults" name="Terraria.Utilities.NPCUtils.TargetSearchResults">
-<area shape="rect" id="Node000001" title=" " alt="" coords="33,163,387,561"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,89,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,70,63,103,75,138,79,147,74,149,70,140,58,105,50,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="195,5,225,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,71,213,146,207,146,207,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="349,5,391,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,72,343,140,339,149,334,146,338,138,360,70"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="166,984,582,1412"/>
+<area shape="rect" id="Node000002" href="$de/df0/classTerraria_1_1Utilities_1_1NPCUtils.html" title=" " alt="" coords="209,163,540,892"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,892,377,968,372,968,372,892"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="62,5,92,71"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="71,71,40,206,25,303,13,413,8,532,14,654,22,715,34,775,50,834,70,891,87,926,108,960,157,1022,153,1025,103,963,82,929,65,893,44,836,28,777,17,716,9,655,3,532,7,413,19,303,35,205,66,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,52,141,98,193,161,202,175,198,178,188,164,137,102,91,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="564,495,606,560"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="589,560,590,623,587,706,576,800,554,893,523,970,518,968,549,891,571,799,582,706,585,622,584,560"/>
 </map>

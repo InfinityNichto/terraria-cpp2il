@@ -1,10 +1,10 @@
 <map id="ReLogic.Utilities.SlotVector&lt; T &gt;.ItemPair" name="ReLogic.Utilities.SlotVector&lt; T &gt;.ItemPair">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,628,196,723"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="18,346,101,411"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,411,95,611,89,612,61,412"/>
-<area shape="rect" id="Node000003" href="$db/dce/structReLogic_1_1Utilities_1_1SlotId.html" title=" " alt="" coords="125,192,332,565"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,567,151,605,145,615,141,613,146,603,164,564"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="334,340,352,355,359,379,356,395,348,407,343,405,351,393,353,379,347,358,330,345"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,648,196,743"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="18,356,101,421"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,421,95,631,90,632,61,422"/>
+<area shape="rect" id="Node000003" href="$db/dce/structReLogic_1_1Utilities_1_1SlotId.html" title=" " alt="" coords="125,192,332,585"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,587,151,625,146,635,141,632,146,623,164,585"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="334,349,352,363,359,389,356,406,348,419,343,416,351,404,353,389,347,366,330,353"/>
 <area shape="rect" id="Node000004" title=" " alt="" coords="209,5,248,71"/>
 <area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="231,71,231,175,226,175,226,71"/>
 </map>

@@ -11,8 +11,8 @@ var classTerraria_1_1Net_1_1NetGroupInfo =
     [ "ComposeInfo", "d7/d09/classTerraria_1_1Net_1_1NetGroupInfo_a14008d71f5f48b830a0eeab78255651a.html#a14008d71f5f48b830a0eeab78255651a", null ],
     [ "ConvertFromSafeInfo", "d7/d09/classTerraria_1_1Net_1_1NetGroupInfo_aac45c9ccbbf5216410870a8a82816758.html#aac45c9ccbbf5216410870a8a82816758", null ],
     [ "ConvertToSafeInfo", "d7/d09/classTerraria_1_1Net_1_1NetGroupInfo_a49aa7a79d6054c05cc7f7bafa4e4a22d.html#a49aa7a79d6054c05cc7f7bafa4e4a22d", null ],
-    [ "DecomposeInfo", "d7/d09/classTerraria_1_1Net_1_1NetGroupInfo_a00bbcd288ce940b5b293af81b9f7c1ce.html#a00bbcd288ce940b5b293af81b9f7c1ce", null ],
-    [ "_infoProviders", "d7/d09/classTerraria_1_1Net_1_1NetGroupInfo_a0059178a44bd937626794681785f73c4.html#a0059178a44bd937626794681785f73c4", null ],
+    [ "DecomposeInfo", "d7/d09/classTerraria_1_1Net_1_1NetGroupInfo_abf909c691bebcaacac504160fdd9c364.html#abf909c691bebcaacac504160fdd9c364", null ],
+    [ "_infoProviders", "d7/d09/classTerraria_1_1Net_1_1NetGroupInfo_a9fe10e87c5002ca3592a5a198ab23585.html#a9fe10e87c5002ca3592a5a198ab23585", null ],
     [ "_separatorBetweenIdAndInfo", "d7/d09/classTerraria_1_1Net_1_1NetGroupInfo_a8be021de1ae1822fa305859cc194c6b9.html#a8be021de1ae1822fa305859cc194c6b9", null ],
     [ "_separatorBetweenInfos", "d7/d09/classTerraria_1_1Net_1_1NetGroupInfo_a55fbbb4399692729f979985120e491db.html#a55fbbb4399692729f979985120e491db", null ]
 ];

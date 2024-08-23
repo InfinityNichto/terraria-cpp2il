@@ -1,7 +1,7 @@
 <map id="Terraria.GameContent.DoorOpeningHelper.DoorAutoHandler" name="Terraria.GameContent.DoorOpeningHelper.DoorAutoHandler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="156,5,435,228"/>
-<area shape="rect" id="Node000002" href="$de/d3a/classTerraria_1_1GameContent_1_1DoorOpeningHelper_1_1CommonDoorOpeningInfoProvider.html" title=" " alt="" coords="5,276,284,533"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,242,214,277,210,274,228,239"/>
-<area shape="rect" id="Node000003" href="$db/d4d/classTerraria_1_1GameContent_1_1DoorOpeningHelper_1_1TallGateOpeningInfoProvider.html" title=" " alt="" coords="308,276,587,533"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="363,239,382,274,377,277,358,242"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,5,551,257"/>
+<area shape="rect" id="Node000002" href="$de/d3a/classTerraria_1_1GameContent_1_1DoorOpeningHelper_1_1CommonDoorOpeningInfoProvider.html" title=" " alt="" coords="5,305,361,592"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,271,271,306,267,304,288,268"/>
+<area shape="rect" id="Node000003" href="$db/d4d/classTerraria_1_1GameContent_1_1DoorOpeningHelper_1_1TallGateOpeningInfoProvider.html" title=" " alt="" coords="385,305,741,592"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="457,268,479,304,475,306,453,270"/>
 </map>

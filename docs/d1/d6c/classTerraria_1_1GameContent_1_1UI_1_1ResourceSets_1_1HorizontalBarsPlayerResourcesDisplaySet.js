@@ -28,6 +28,8 @@ var classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1HorizontalBarsPlayerRe
     [ "_panelMiddleMP", "d1/d6c/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1HorizontalBarsPlayerResourcesDisplaySet_a254516eea0755113add3bdeed8a5b973.html#a254516eea0755113add3bdeed8a5b973", null ],
     [ "_panelRightHP", "d1/d6c/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1HorizontalBarsPlayerResourcesDisplaySet_a2e015af3f4c7481ad63974f0eafa14e5.html#a2e015af3f4c7481ad63974f0eafa14e5", null ],
     [ "_panelRightMP", "d1/d6c/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1HorizontalBarsPlayerResourcesDisplaySet_a74e3e24c8aadd007f1d3356a0ead54dc.html#a74e3e24c8aadd007f1d3356a0ead54dc", null ],
+    [ "k__BackingField", "d1/d6c/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1HorizontalBarsPlayerResourcesDisplaySet_a5616b3458e417756a5bb782c9ba99beb.html#a5616b3458e417756a5bb782c9ba99beb", null ],
+    [ "k__BackingField", "d1/d6c/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1HorizontalBarsPlayerResourcesDisplaySet_a429d12bfd1217b99321c817db812dfde.html#a429d12bfd1217b99321c817db812dfde", null ],
     [ "ConfigKey", "d1/d6c/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1HorizontalBarsPlayerResourcesDisplaySet_a955a052237bc15760a04373053771877.html#a955a052237bc15760a04373053771877", null ],
     [ "NameKey", "d1/d6c/classTerraria_1_1GameContent_1_1UI_1_1ResourceSets_1_1HorizontalBarsPlayerResourcesDisplaySet_a894ca29b1dff47efb2136b6b2c704232.html#a894ca29b1dff47efb2136b6b2c704232", null ]
 ];

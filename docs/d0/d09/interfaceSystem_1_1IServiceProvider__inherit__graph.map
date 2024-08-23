@@ -1,0 +1,27 @@
+<map id="System.IServiceProvider" name="System.IServiceProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="584,5,789,85"/>
+<area shape="rect" id="Node000002" href="$d8/d43/classMicrosoft_1_1Xna_1_1Framework_1_1GameServiceContainer.html" title=" " alt="" coords="5,233,195,432"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="570,59,472,71,368,87,276,109,241,122,215,136,191,156,170,180,138,234,133,232,166,177,187,152,212,131,239,117,275,104,367,82,471,66,570,54"/>
+<area shape="rect" id="Node000003" href="$d8/d79/classSystem_1_1ComponentModel_1_1Container_1_1Site.html" title=" " alt="" coords="360,597,637,831"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="604,96,585,114,569,134,558,191,543,311,513,597,507,596,537,311,553,191,564,132,581,110,600,92"/>
+<area shape="rect" id="Node000004" href="$d4/d9c/interfaceSystem_1_1ComponentModel_1_1Design_1_1IDesignerHost.html" title=" " alt="" coords="269,285,504,380"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="584,94,553,113,524,135,490,171,459,211,412,286,408,284,455,208,486,168,521,131,550,109,581,90"/>
+<area shape="rect" id="Node000005" href="$d5/d06/interfaceSystem_1_1ComponentModel_1_1INestedSite.html" title=" " alt="" coords="712,681,973,747"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="774,92,792,111,808,132,825,179,837,244,844,320,849,403,850,564,847,681,841,681,844,564,843,403,839,321,831,245,820,181,803,135,788,114,770,96"/>
+<area shape="rect" id="Node000006" href="$d7/d2f/classSystem_1_1ComponentModel_1_1NestedContainer_1_1Site.html" title=" " alt="" coords="553,896,796,1209"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="570,57,479,66,386,82,308,105,279,119,259,135,243,162,231,195,222,235,218,279,219,380,231,489,253,598,281,699,315,785,350,846,394,895,446,936,501,971,554,1000,552,1005,498,976,443,941,391,899,346,850,310,787,276,701,248,599,226,490,213,380,212,279,217,234,226,194,238,159,255,132,276,114,306,100,385,77,479,61,570,51"/>
+<area shape="rect" id="Node000007" href="$d4/d32/interfaceSystem_1_1ComponentModel_1_1ISite.html" title=" " alt="" coords="579,270,794,395"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="689,99,689,270,684,270,684,99"/>
+<area shape="rect" id="Node000008" href="$dd/db6/interfaceSystem_1_1ComponentModel_1_1ITypeDescriptorContext.html" title=" " alt="" coords="869,255,1094,410"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="793,90,824,109,852,131,880,159,905,191,945,254,941,257,900,194,876,163,849,135,821,113,790,94"/>
+<area shape="rect" id="Node000009" href="$dc/dfa/classSystem_1_1ComponentModel_1_1LicenseContext.html" title=" " alt="" coords="1119,226,1372,439"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="803,45,876,53,955,68,1034,93,1071,111,1107,131,1132,151,1155,173,1194,224,1190,227,1151,177,1129,155,1104,136,1069,115,1032,98,953,73,875,58,803,51"/>
+<area shape="rect" id="Node000011" href="$d3/d68/classSystem_1_1ComponentModel_1_1MarshalByValueComponent.html" title=" " alt="" coords="1396,133,1655,532"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="803,47,954,55,1123,70,1204,81,1278,95,1340,111,1385,131,1397,139,1394,143,1383,136,1338,116,1277,100,1203,86,1122,75,953,60,803,53"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="823,760,755,897,750,895,818,758"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="652,409,559,598,554,595,648,407"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="720,407,832,680,827,682,715,409"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="688,409,680,896,675,896,683,409"/>
+<area shape="rect" id="Node000010" href="$de/d41/classSystem_1_1ComponentModel_1_1Design_1_1RuntimeLicenseContext.html" title=" " alt="" coords="1120,580,1371,848"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="1248,453,1248,580,1243,580,1243,453"/>
+</map>

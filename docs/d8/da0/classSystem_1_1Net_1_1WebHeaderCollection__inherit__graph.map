@@ -1,0 +1,19 @@
+<map id="System.Net.WebHeaderCollection" name="System.Net.WebHeaderCollection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="284,2417,624,4573"/>
+<area shape="rect" id="Node000008" href="$da/d5e/classSystem_1_1Net_1_1WebHeaderCollection.html" title=" " alt="" coords="284,4636,624,6807"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="457,4587,457,4636,451,4636,451,4587"/>
+<area shape="rect" id="Node000002" href="$d9/d1b/classSystem_1_1Collections_1_1Specialized_1_1NameValueCollection.html" title=" " alt="" coords="247,1579,493,2368"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="395,2382,397,2417,392,2417,390,2382"/>
+<area shape="rect" id="Node000003" href="$d3/d62/classSystem_1_1Collections_1_1Specialized_1_1NameObjectCollectionBase.html" title=" " alt="" coords="196,304,477,1529"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,1543,360,1578,355,1579,354,1543"/>
+<area shape="rect" id="Node000004" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="5,120,172,255"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,267,199,502,193,504,113,269"/>
+<area shape="rect" id="Node000005" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="38,5,259,71"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="172,82,186,119,235,303,230,304,181,121,167,84"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="133,84,118,121,113,119,128,82"/>
+<area shape="rect" id="Node000006" href="$d6/d2f/interfaceSystem_1_1Runtime_1_1Serialization_1_1ISerializable.html" title=" " alt="" coords="449,140,659,235"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="556,248,542,1089,528,1718,509,2368,507,2417,502,2417,503,2368,522,1718,536,1088,551,248"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="530,248,518,280,480,393,475,392,513,278,525,246"/>
+<area shape="rect" id="Node000007" href="$d5/d0a/interfaceSystem_1_1Runtime_1_1Serialization_1_1IDeserializationCallback.html" title=" " alt="" coords="248,147,425,227"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="339,241,339,304,334,304,334,241"/>
+</map>

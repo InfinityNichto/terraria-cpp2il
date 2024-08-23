@@ -1,5 +1,6 @@
 var interfaceReLogic_1_1Content_1_1IAssetRepository =
 [
+    [ "Dispose", "d7/dfc/interfaceReLogic_1_1Content_1_1IAssetRepository.html#a710286bfcecdda4067fe45e6c927f482", null ],
     [ "ProcessAsyncLoad", "d7/dfc/interfaceReLogic_1_1Content_1_1IAssetRepository_af21db8358affe6f15dc2c7dc5687156e.html#af21db8358affe6f15dc2c7dc5687156e", null ],
     [ "Request< T >", "d7/dfc/interfaceReLogic_1_1Content_1_1IAssetRepository_a59be22f5aaa73b84fd3b6c2f8a0caf3a.html#a59be22f5aaa73b84fd3b6c2f8a0caf3a", null ],
     [ "SetSources", "d7/dfc/interfaceReLogic_1_1Content_1_1IAssetRepository_afadef1f9c49c883ac45577347bd14677.html#afadef1f9c49c883ac45577347bd14677", null ],

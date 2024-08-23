@@ -30,16 +30,16 @@
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d9/ded/interfaceTerraria_1_1ID_1_1TorchID_1_1ITorchLightProvider.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="137.5,-189 9.5,-189 9.5,-118 137.5,-118 137.5,-189"/>
-<text text-anchor="start" x="26.5" y="-176.5" font-family="Helvetica,sans-Serif" font-size="10.00">ITorchLightProvider</text>
+<polygon fill="white" stroke="transparent" points="146.5,-189 0.5,-189 0.5,-118 146.5,-118 146.5,-189"/>
+<text text-anchor="start" x="5.5" y="-176.5" font-family="Helvetica,sans-Serif" font-size="10.00">TorchID::ITorchLightProvider</text>
 <text text-anchor="start" x="71.5" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="13.5" y="-146.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="9" y="-146.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="26.5" y="-146.5" font-family="Helvetica,sans-Serif" font-size="10.00">void GetRGB(out float</text>
 <text text-anchor="start" x="26.5" y="-135.5" font-family="Helvetica,sans-Serif" font-size="10.00"> r, out float g, out</text>
 <text text-anchor="start" x="26.5" y="-124.5" font-family="Helvetica,sans-Serif" font-size="10.00"> float b)</text>
-<polygon fill="#666666" stroke="#666666" points="9.5,-171.5 9.5,-171.5 137.5,-171.5 137.5,-171.5 9.5,-171.5"/>
-<polygon fill="#666666" stroke="#666666" points="9.5,-156.5 9.5,-156.5 137.5,-156.5 137.5,-156.5 9.5,-156.5"/>
-<polygon fill="none" stroke="#666666" points="9.5,-118 9.5,-189 137.5,-189 137.5,-118 9.5,-118"/>
+<polygon fill="#666666" stroke="#666666" points="0.5,-171.5 0.5,-171.5 146.5,-171.5 146.5,-171.5 0.5,-171.5"/>
+<polygon fill="#666666" stroke="#666666" points="0.5,-156.5 0.5,-156.5 146.5,-156.5 146.5,-156.5 0.5,-156.5"/>
+<polygon fill="none" stroke="#666666" points="0.5,-118 0.5,-189 146.5,-189 146.5,-118 0.5,-118"/>
 </a>
 </g>
 </g>

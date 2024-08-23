@@ -2,8 +2,8 @@ var classReLogic_1_1Text_1_1WrappedTextBuilder =
 [
     [ "NonBreakingText", "d8/d4b/structReLogic_1_1Text_1_1WrappedTextBuilder_1_1NonBreakingText.html", "d8/d4b/structReLogic_1_1Text_1_1WrappedTextBuilder_1_1NonBreakingText" ],
     [ "WrappedTextBuilder", "d3/d15/classReLogic_1_1Text_1_1WrappedTextBuilder_ae99f836a35b769ea795d466ca628bf4f.html#ae99f836a35b769ea795d466ca628bf4f", null ],
-    [ "Append", "d3/d15/classReLogic_1_1Text_1_1WrappedTextBuilder_a6eed28bca7977d44bde75e085832ccb3.html#a6eed28bca7977d44bde75e085832ccb3", null ],
     [ "Append", "d3/d15/classReLogic_1_1Text_1_1WrappedTextBuilder_a8ca2ebde5e58132aabb01ee237e06b43.html#a8ca2ebde5e58132aabb01ee237e06b43", null ],
+    [ "Append", "d3/d15/classReLogic_1_1Text_1_1WrappedTextBuilder_ab7e4c229fe35e918d3c1afd8860cbdda.html#ab7e4c229fe35e918d3c1afd8860cbdda", null ],
     [ "CommitWorkingLine", "d3/d15/classReLogic_1_1Text_1_1WrappedTextBuilder_aeaa9c909ae2b4b41953bb18e1dc0f871.html#aeaa9c909ae2b4b41953bb18e1dc0f871", null ],
     [ "ToString", "d3/d15/classReLogic_1_1Text_1_1WrappedTextBuilder_a4b6d9570d2ae5d85c9c7fdbead8eb5d3.html#a4b6d9570d2ae5d85c9c7fdbead8eb5d3", null ],
     [ "_completedText", "d3/d15/classReLogic_1_1Text_1_1WrappedTextBuilder_abb4d688646c78f222011a427fedacf24.html#abb4d688646c78f222011a427fedacf24", null ],

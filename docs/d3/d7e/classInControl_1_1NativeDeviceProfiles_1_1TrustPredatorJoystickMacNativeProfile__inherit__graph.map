@@ -1,0 +1,7 @@
+<map id="InControl.NativeDeviceProfiles.TrustPredatorJoystickMacNativeProfile" name="InControl.NativeDeviceProfiles.TrustPredatorJoystickMacNativeProfile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1596,268,1711"/>
+<area shape="rect" id="Node000002" href="$df/df8/classInControl_1_1NativeDeviceProfiles_1_1Xbox360DriverMacNativeProfile.html" title=" " alt="" coords="13,1463,260,1548"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,1562,139,1596,134,1596,134,1562"/>
+<area shape="rect" id="Node000003" href="$d0/de3/classInControl_1_1InputDeviceProfile.html" title=" " alt="" coords="12,5,261,1415"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,1429,139,1463,134,1463,134,1429"/>
+</map>

@@ -1,3 +1,11 @@
 <map id="Microsoft.Xna.Framework.Input.ButtonType" name="Microsoft.Xna.Framework.Input.ButtonType">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,261,227,361"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,120,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,199,62,218,67,236,72,247,67,249,61,238,57,219,56,199"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="41,5,84,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="65,85,65,133,60,133,60,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="159,133,257,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,200,181,239,176,248,171,246,176,236,194,198"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="193,5,223,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="211,85,211,133,205,133,205,85"/>
 </map>

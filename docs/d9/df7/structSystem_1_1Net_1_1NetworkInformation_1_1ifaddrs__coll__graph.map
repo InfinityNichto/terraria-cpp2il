@@ -1,0 +1,19 @@
+<map id="System.Net.NetworkInformation.ifaddrs" name="System.Net.NetworkInformation.ifaddrs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="526,1377,801,1443"/>
+<area shape="rect" id="Node000002" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1172"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,1172,249,1210,263,1246,281,1281,303,1313,315,1325,333,1336,383,1356,445,1372,510,1385,509,1390,443,1377,382,1361,331,1341,312,1329,299,1316,276,1283,258,1248,244,1211,234,1173"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="478,579,496,612,503,660,499,698,488,727,483,726,494,697,497,660,491,613,474,581"/>
+<area shape="rect" id="Node000008" href="$d8/df3/structSystem_1_1Net_1_1NetworkInformation_1_1ifa__ifu.html" title=" " alt="" coords="407,1249,677,1315"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="479,1104,527,1233,522,1234,474,1106"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,97,146,172,141,174,116,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="498,79,481,133,476,132,493,77"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="702,1249,753,1315"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="714,1316,689,1364,685,1361,709,1314"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="796,1249,835,1315"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="807,1316,796,1336,781,1355,763,1370,759,1366,777,1351,792,1334,802,1314"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="575,1313,623,1364,620,1367,571,1317"/>
+</map>

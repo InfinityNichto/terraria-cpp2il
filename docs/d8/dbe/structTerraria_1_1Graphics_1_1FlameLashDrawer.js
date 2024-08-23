@@ -1,5 +1,6 @@
 var structTerraria_1_1Graphics_1_1FlameLashDrawer =
 [
+    [ "FlameLashDrawer", "d8/dbe/structTerraria_1_1Graphics_1_1FlameLashDrawer_a5b72cbe65dbd044a5096f5f692664f2b.html#a5b72cbe65dbd044a5096f5f692664f2b", null ],
     [ "Draw", "d8/dbe/structTerraria_1_1Graphics_1_1FlameLashDrawer_ade2fe4607873b6bd3040c095c0f8d7a8.html#ade2fe4607873b6bd3040c095c0f8d7a8", null ],
     [ "StripColors", "d8/dbe/structTerraria_1_1Graphics_1_1FlameLashDrawer_a1ac448bdf309a3b3b88566105dc632fe.html#a1ac448bdf309a3b3b88566105dc632fe", null ],
     [ "StripWidth", "d8/dbe/structTerraria_1_1Graphics_1_1FlameLashDrawer_a63568ac926db4cbb0cb2de23b3656d9a.html#a63568ac926db4cbb0cb2de23b3656d9a", null ],

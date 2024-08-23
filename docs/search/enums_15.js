@@ -1,11 +1,13 @@
 var searchData=
 [
-  ['weapondraworder_0',['WeaponDrawOrder',['../de/d78/namespaceTerraria_1_1DataStructures_a001104398ce1c86710989c8eda4e0717.html#a001104398ce1c86710989c8eda4e0717',1,'Terraria::DataStructures']]],
-  ['weathersubcategory_1',['WeatherSubcategory',['../dc/dcf/classTerraria_1_1GameContent_1_1UI_1_1States_1_1UICreativePowersMenu_a9b2ca2cfa7db96e3e30ec00cff1e2bc1.html#a9b2ca2cfa7db96e3e30ec00cff1e2bc1',1,'Terraria::GameContent::UI::States::UICreativePowersMenu']]],
-  ['winddirection_2',['WindDirection',['../dd/d7e/classTerraria_1_1GameContent_1_1Biomes_1_1DunesBiome_a66eec3a3c3269d201e8f8fcf6a745eae.html#a66eec3a3c3269d201e8f8fcf6a745eae',1,'Terraria::GameContent::Biomes::DunesBiome']]],
-  ['workshopitempublicsettingid_3',['WorkshopItemPublicSettingId',['../d8/d0d/namespaceTerraria_1_1Social_1_1Base_a6edb177570a11bee6c1a8d76d8a67eed.html#a6edb177570a11bee6c1a8d76d8a67eed',1,'Terraria::Social::Base']]],
-  ['worldpreparationstate_4',['WorldPreparationState',['../da/dd5/classTerraria_1_1Main_aa01429e63db8de77d457d67223f6d354.html#aa01429e63db8de77d457d67223f6d354',1,'Terraria::Main']]],
-  ['worldrenameoption_5',['WorldRenameOption',['../d6/dac/classGUIWorldSelectMenu_a0c8b7c4117223192862863c34402ba61.html#a0c8b7c4117223192862863c34402ba61',1,'GUIWorldSelectMenu']]],
-  ['worldsavecontext_6',['WorldSaveContext',['../d7/d54/classTerraria_1_1IO_1_1WorldFile_ae990d05c1959a9991ae8cd9d81838d37.html#ae990d05c1959a9991ae8cd9d81838d37',1,'Terraria::IO::WorldFile']]],
-  ['wrapscanmode_7',['WrapScanMode',['../d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_ac9481a2f73880beb68205a886f4ad181.html#ac9481a2f73880beb68205a886f4ad181',1,'ReLogic::Text::StringReaderWrapExtension']]]
+  ['validationtype_0',['ValidationType',['../db/d38/namespaceSystem_1_1Xml_a8696837d1de571776744c0899a33ae48.html#a8696837d1de571776744c0899a33ae48',1,'System::Xml']]],
+  ['valuefixupenum_1',['ValueFixupEnum',['../db/d02/namespaceSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_a382437aa3a75b90780716260325e188d.html#a382437aa3a75b90780716260325e188d',1,'System::Runtime::Serialization::Formatters::Binary']]],
+  ['valuetasksourceoncompletedflags_2',['ValueTaskSourceOnCompletedFlags',['../d7/db1/namespaceSystem_1_1Threading_1_1Tasks_1_1Sources_a3153f379dab7fc120d0227095e800149.html#a3153f379dab7fc120d0227095e800149',1,'System::Threading::Tasks::Sources']]],
+  ['valuetasksourcestatus_3',['ValueTaskSourceStatus',['../d7/db1/namespaceSystem_1_1Threading_1_1Tasks_1_1Sources_ab33d854a142b7f20b42bd4a1b451dd9b.html#ab33d854a142b7f20b42bd4a1b451dd9b',1,'System::Threading::Tasks::Sources']]],
+  ['varenum_4',['VarEnum',['../df/d96/namespaceSystem_1_1Runtime_1_1InteropServices_a139b4606ae806347d7091a528fbb3f45.html#a139b4606ae806347d7091a528fbb3f45',1,'System::Runtime::InteropServices']]],
+  ['vertexattribute_5',['VertexAttribute',['../df/dc0/namespaceUnityEngine_1_1Rendering_accb6c9f6881abb1ee77177dc69bb5256.html#accb6c9f6881abb1ee77177dc69bb5256',1,'UnityEngine::Rendering']]],
+  ['vertexattributeformat_6',['VertexAttributeFormat',['../df/dc0/namespaceUnityEngine_1_1Rendering_ac02bf76c0462318195a2d9806ed3b70c.html#ac02bf76c0462318195a2d9806ed3b70c',1,'UnityEngine::Rendering']]],
+  ['verticalwrapmode_7',['VerticalWrapMode',['../de/d97/namespaceUnityEngine_a9b105c4246382fab9bb734db5d5bc2ac.html#a9b105c4246382fab9bb734db5d5bc2ac',1,'UnityEngine']]],
+  ['virtualkey_8',['VirtualKey',['../d8/df3/classKeyboardInput_a97394477c23f214952aba4e8beebb85b.html#a97394477c23f214952aba4e8beebb85b',1,'KeyboardInput']]],
+  ['vrtextureusage_9',['VRTextureUsage',['../de/d97/namespaceUnityEngine_aa976ba1def976d73e07161e6715c4b95.html#aa976ba1def976d73e07161e6715c4b95',1,'UnityEngine']]]
 ];

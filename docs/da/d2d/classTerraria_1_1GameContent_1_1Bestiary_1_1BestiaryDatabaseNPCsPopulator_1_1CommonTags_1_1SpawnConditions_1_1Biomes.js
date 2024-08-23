@@ -1,5 +1,6 @@
 var classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Biomes =
 [
+    [ "Biomes", "da/d2d/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Biomes_a334f7cf24d586d5f6df009b73125f7e8.html#a334f7cf24d586d5f6df009b73125f7e8", null ],
     [ "Caverns", "da/d2d/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Biomes_a88f0d5ea0009f8c5d982dc34ff885368.html#a88f0d5ea0009f8c5d982dc34ff885368", null ],
     [ "CorruptDesert", "da/d2d/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Biomes_a914bccca55c63e119237305a809e2746.html#a914bccca55c63e119237305a809e2746", null ],
     [ "CorruptIce", "da/d2d/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Biomes_a0d5d105f4d587c9f5d08f09707638f06.html#a0d5d105f4d587c9f5d08f09707638f06", null ],

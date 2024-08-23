@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1PrefixID =
 [
     [ "Sets", "d2/d8d/classTerraria_1_1ID_1_1PrefixID_1_1Sets.html", "d2/d8d/classTerraria_1_1ID_1_1PrefixID_1_1Sets" ],
     [ "PrefixID", "da/d75/classTerraria_1_1ID_1_1PrefixID_aca134ffbaf11d608b700d1af2751d3a0.html#aca134ffbaf11d608b700d1af2751d3a0", null ],
+    [ "PrefixID", "da/d75/classTerraria_1_1ID_1_1PrefixID_a9c6caaef29ecc47a12977ca1da65c82f.html#a9c6caaef29ecc47a12977ca1da65c82f", null ],
     [ "Adept", "da/d75/classTerraria_1_1ID_1_1PrefixID_aa550c67d6d121f3da95e70a3f2bf0812.html#aa550c67d6d121f3da95e70a3f2bf0812", null ],
     [ "Agile", "da/d75/classTerraria_1_1ID_1_1PrefixID_a5d8de4ef2096c81aead361b209799afe.html#a5d8de4ef2096c81aead361b209799afe", null ],
     [ "Angry", "da/d75/classTerraria_1_1ID_1_1PrefixID_ac1c6f2557bdc4e93a5664dd888bc31e1.html#ac1c6f2557bdc4e93a5664dd888bc31e1", null ],

@@ -10,5 +10,6 @@ var classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropPerPlayerOnThePlayer =
     [ "chanceNumerator", "d1/d4a/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropPerPlayerOnThePlayer.html#a33c9332c4f3aa2325947a78c7c4d8bf0", null ],
     [ "condition", "d1/d4a/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropPerPlayerOnThePlayer_a73b82461d3e89dbc86b1ff7757e2fa2d.html#a73b82461d3e89dbc86b1ff7757e2fa2d", null ],
     [ "itemId", "d1/d4a/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropPerPlayerOnThePlayer.html#a972e202bcce578a569265347eb565e42", null ],
+    [ "k__BackingField", "d1/d4a/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropPerPlayerOnThePlayer.html#a9f9173698194a8ab2f2fa569948dd842", null ],
     [ "ChainedRules", "d1/d4a/classTerraria_1_1GameContent_1_1ItemDropRules_1_1DropPerPlayerOnThePlayer.html#af132204fe3a07a5f33b22533ef382c86", null ]
 ];

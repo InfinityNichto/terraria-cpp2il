@@ -1,3 +1,10 @@
 <map id="Microsoft.Xna.Framework.Input.GamePadTriggers" name="Microsoft.Xna.Framework.Input.GamePadTriggers">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,223,293"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,261,225,549"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,103,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,199,49,237,50,245,45,246,43,238,44,199"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="95,5,138,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,84,86,96,68,134,64,132,81,93,87,82"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="131,133,238,199"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="143,82,170,132,165,134,138,84"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,199,165,246,160,245,173,198"/>
 </map>

@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1ExtrasID =
 [
+    [ "ExtrasID", "d7/d96/classTerraria_1_1ID_1_1ExtrasID_a9e8f8a44a7e6156d87fd06e3c55a4c5b.html#a9e8f8a44a7e6156d87fd06e3c55a4c5b", null ],
     [ "AmberHookChain", "d7/d96/classTerraria_1_1ID_1_1ExtrasID_af4dd1ab5627282b91614bc956a54d94f.html#af4dd1ab5627282b91614bc956a54d94f", null ],
     [ "AmberMinecart", "d7/d96/classTerraria_1_1ID_1_1ExtrasID_ad02b529739e5fed0b9cc5557bdfed1fc.html#ad02b529739e5fed0b9cc5557bdfed1fc", null ],
     [ "AmethystMinecart", "d7/d96/classTerraria_1_1ID_1_1ExtrasID_a0180398ba9ebe1c1905477a4ff433fe4.html#a0180398ba9ebe1c1905477a4ff433fe4", null ],

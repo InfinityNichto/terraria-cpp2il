@@ -13,7 +13,7 @@ var classController_1_1ControllerActionAxis_1_1Entry =
     [ "Button1", "d0/d14/classController_1_1ControllerActionAxis_1_1Entry_aada377d91a598185ec09ab6f71b3175d.html#aada377d91a598185ec09ab6f71b3175d", null ],
     [ "Key0", "d0/d14/classController_1_1ControllerActionAxis_1_1Entry_ac872a58aed34a7a2f0df7afc4e81064c.html#ac872a58aed34a7a2f0df7afc4e81064c", null ],
     [ "Key1", "d0/d14/classController_1_1ControllerActionAxis_1_1Entry_a2a05042bd32bf33a3e68a2b44bd42c2b.html#a2a05042bd32bf33a3e68a2b44bd42c2b", null ],
-    [ "MappingType", "d0/d14/classController_1_1ControllerActionAxis_1_1Entry_aca01caa3b6fb66d54ae4269a512f1274.html#aca01caa3b6fb66d54ae4269a512f1274", null ],
+    [ "MappingType", "d0/d14/classController_1_1ControllerActionAxis_1_1Entry_a0afab567cc447d36cebdf1ed72ed7959.html#a0afab567cc447d36cebdf1ed72ed7959", null ],
     [ "RequiredState", "d0/d14/classController_1_1ControllerActionAxis_1_1Entry_a343fafb8debff594ff2490b829be946f.html#a343fafb8debff594ff2490b829be946f", null ],
     [ "Threshold", "d0/d14/classController_1_1ControllerActionAxis_1_1Entry_a4631f2a6fc41f2b01529f370394bd159.html#a4631f2a6fc41f2b01529f370394bd159", null ]
 ];

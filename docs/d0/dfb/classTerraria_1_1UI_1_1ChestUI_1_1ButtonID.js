@@ -1,6 +1,7 @@
 var classTerraria_1_1UI_1_1ChestUI_1_1ButtonID =
 [
     [ "ButtonID", "d0/dfb/classTerraria_1_1UI_1_1ChestUI_1_1ButtonID_ae0500dd07374e1f597ebca1d17919fb3.html#ae0500dd07374e1f597ebca1d17919fb3", null ],
+    [ "ButtonID", "d0/dfb/classTerraria_1_1UI_1_1ChestUI_1_1ButtonID_a440d6ba4369e9b5097542c4f0947865f.html#a440d6ba4369e9b5097542c4f0947865f", null ],
     [ "Count", "d0/dfb/classTerraria_1_1UI_1_1ChestUI_1_1ButtonID_a5550cf8e19042b772068a4b1bda61f7f.html#a5550cf8e19042b772068a4b1bda61f7f", null ],
     [ "DepositAll", "d0/dfb/classTerraria_1_1UI_1_1ChestUI_1_1ButtonID_aa8af314add87b53fefcadaeb03da97e0.html#aa8af314add87b53fefcadaeb03da97e0", null ],
     [ "LootAll", "d0/dfb/classTerraria_1_1UI_1_1ChestUI_1_1ButtonID_a11211e34c72a57ce420eb5b0ae15cc3c.html#a11211e34c72a57ce420eb5b0ae15cc3c", null ],

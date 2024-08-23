@@ -1,11 +1,13 @@
 <map id="Terraria.GameContent.Biomes.DeadMansChestBiome.WirePlacementAttempt" name="Terraria.GameContent.Biomes.DeadMansChestBiome.WirePlacementAttempt">
-<area shape="rect" id="Node000001" title=" " alt="" coords="100,455,365,579"/>
-<area shape="rect" id="Node000002" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="5,148,212,392"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,391,197,439,192,441,168,393"/>
-<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="213,242,231,252,239,270,236,281,229,290,225,286,231,279,233,270,227,256,211,247"/>
-<area shape="rect" id="Node000003" href="$d9/d1c/classIEquatable.html" title=" " alt="" coords="35,5,182,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,85,111,148,106,148,106,85"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="279,5,309,71"/>
-<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="306,70,321,131,333,212,336,303,331,349,321,393,297,442,292,440,315,391,326,348,331,302,328,213,316,132,301,72"/>
-<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="281,60,219,137,215,133,276,57"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,603,365,727"/>
+<area shape="rect" id="Node000002" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="5,276,212,540"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,539,198,587,193,589,170,541"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="213,378,231,389,239,408,236,420,228,430,224,426,231,418,233,408,227,393,211,383"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="29,133,189,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,213,111,276,106,276,106,213"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="21,5,196,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,85,111,133,106,133,106,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="279,133,309,199"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="306,199,321,262,334,348,338,396,337,445,332,494,321,541,297,590,292,588,315,539,326,493,332,445,332,396,329,349,316,264,301,200"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="281,189,222,264,218,261,276,186"/>
 </map>

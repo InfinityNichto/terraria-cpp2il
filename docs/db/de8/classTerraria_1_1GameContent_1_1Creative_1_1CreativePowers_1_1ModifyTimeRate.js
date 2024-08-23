@@ -33,6 +33,7 @@ var classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate
     [ "_powerNameKey", "db/de8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate.html#a87745389dad99ba303df9dc06267b6fe", null ],
     [ "_sliderCurrentValueCache", "db/de8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate.html#af5581f686e3fa035b75d0f68319cd206", null ],
     [ "_syncToJoiningPlayers", "db/de8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate.html#ac43bef996e2d4b77a5fe05bd9e72ecae", null ],
+    [ "k__BackingField", "db/de8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate_abb862aa04da3a49c5d711302b8a21cb6.html#abb862aa04da3a49c5d711302b8a21cb6", null ],
     [ "CurrentPermissionLevel", "db/de8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate.html#a37a265f42210c900e14dc28572125cf8", null ],
     [ "DefaultPermissionLevel", "db/de8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate.html#a4dea2311d685400de6eab55ad6816414", null ],
     [ "PowerId", "db/de8/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ModifyTimeRate.html#a86a770f923151344b44c40d52c5b5350", null ],

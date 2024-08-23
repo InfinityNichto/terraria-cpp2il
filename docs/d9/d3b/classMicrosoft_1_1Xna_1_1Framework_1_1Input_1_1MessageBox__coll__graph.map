@@ -1,3 +1,7 @@
 <map id="Microsoft.Xna.Framework.Input.MessageBox" name="Microsoft.Xna.Framework.Input.MessageBox">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,179"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,261,189,435"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="34,133,161,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,199,100,245,95,245,95,199"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="76,5,119,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,85,100,133,95,133,95,85"/>
 </map>

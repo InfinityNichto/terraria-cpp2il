@@ -1,0 +1,9 @@
+<map id="System.ArgumentException" name="System.ArgumentException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="60,119,461,544"/>
+<area shape="rect" id="Node000003" href="$dc/da8/classSystem_1_1ComponentModel_1_1InvalidAsynchronousStateException.html" title=" " alt="" coords="5,609,247,837"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,558,168,610,162,608,180,557"/>
+<area shape="rect" id="Node000004" href="$dc/d72/classSystem_1_1ComponentModel_1_1InvalidEnumArgumentException.html" title=" " alt="" coords="271,592,519,855"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="341,556,353,591,348,593,336,558"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="149,5,373,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,85,263,119,258,119,258,85"/>
+</map>

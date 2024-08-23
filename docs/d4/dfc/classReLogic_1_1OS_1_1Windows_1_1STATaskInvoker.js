@@ -1,6 +1,7 @@
 var classReLogic_1_1OS_1_1Windows_1_1STATaskInvoker =
 [
     [ "STATaskInvoker", "d4/dfc/classReLogic_1_1OS_1_1Windows_1_1STATaskInvoker_ab98d94ee4d7aacb033497aa141ca3801.html#ab98d94ee4d7aacb033497aa141ca3801", null ],
+    [ "b__11_0", "d4/dfc/classReLogic_1_1OS_1_1Windows_1_1STATaskInvoker_a1f8492a47abf33ae3f8cdfce0e867148.html#a1f8492a47abf33ae3f8cdfce0e867148", null ],
     [ "Dispose", "d4/dfc/classReLogic_1_1OS_1_1Windows_1_1STATaskInvoker_acdb3fbee8545e35ef3cbb85106e0c6a1.html#acdb3fbee8545e35ef3cbb85106e0c6a1", null ],
     [ "Dispose", "d4/dfc/classReLogic_1_1OS_1_1Windows_1_1STATaskInvoker_a3ed507e19aea83624cbf85fc7032fb6c.html#a3ed507e19aea83624cbf85fc7032fb6c", null ],
     [ "Invoke", "d4/dfc/classReLogic_1_1OS_1_1Windows_1_1STATaskInvoker_a44b863ca84f8e9a4e7e04918a33d4e6a.html#a44b863ca84f8e9a4e7e04918a33d4e6a", null ],

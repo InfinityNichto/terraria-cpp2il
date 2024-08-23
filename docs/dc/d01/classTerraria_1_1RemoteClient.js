@@ -1,6 +1,7 @@
 var classTerraria_1_1RemoteClient =
 [
     [ "RemoteClient", "dc/d01/classTerraria_1_1RemoteClient_a150272461dfbebd12e03d236e9af6287.html#a150272461dfbebd12e03d236e9af6287", null ],
+    [ "RemoteClient", "dc/d01/classTerraria_1_1RemoteClient_aba9889a69be74c0ab99e0b565d0d8292.html#aba9889a69be74c0ab99e0b565d0d8292", null ],
     [ "CheckSection", "dc/d01/classTerraria_1_1RemoteClient_a5013543b098b20a6a297bbc635b6111d.html#a5013543b098b20a6a297bbc635b6111d", null ],
     [ "Reset", "dc/d01/classTerraria_1_1RemoteClient_a23ac180a7d302d4ab2831a1b26577492.html#a23ac180a7d302d4ab2831a1b26577492", null ],
     [ "ResetSections", "dc/d01/classTerraria_1_1RemoteClient_a3d78bd7a932e1c30d3d949bd99ed0e58.html#a3d78bd7a932e1c30d3d949bd99ed0e58", null ],

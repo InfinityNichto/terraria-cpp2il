@@ -24,7 +24,8 @@ var classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome =
       [ "Corrupt", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a9156fe78656cf00486998ba34444084e.html#a9156fe78656cf00486998ba34444084ea6e25aa27fcd893613fac13b0312fe36d", null ],
       [ "Mushroom", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a9156fe78656cf00486998ba34444084e.html#a9156fe78656cf00486998ba34444084eab93c3d9029fa42815abf0551db0cec98", null ]
     ] ],
-    [ "CaptureBiome", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_ae93e8743d0078f0f9c470d0b7333886d.html#ae93e8743d0078f0f9c470d0b7333886d", null ],
+    [ "CaptureBiome", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a45c37517d53c16cbe5e68bba410f1043.html#a45c37517d53c16cbe5e68bba410f1043", null ],
+    [ "CaptureBiome", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a792cce2295b7d1aac9e28db5dc46440b.html#a792cce2295b7d1aac9e28db5dc46440b", null ],
     [ "GetBiomeByLocation", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a585f6939934ca680f838a10fd6d96f1b.html#a585f6939934ca680f838a10fd6d96f1b", null ],
     [ "GetBiomeByWater", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a448545ca8da17e86d16652ffdd83c837.html#a448545ca8da17e86d16652ffdd83c837", null ],
     [ "GetCaptureBiome", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a2c31b667d7fd1338de34eddfb8ccc3cf.html#a2c31b667d7fd1338de34eddfb8ccc3cf", null ],
@@ -32,6 +33,6 @@ var classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome =
     [ "BackgroundIndex", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_abf5481d32315b8bfc76ab88d86366265.html#abf5481d32315b8bfc76ab88d86366265", null ],
     [ "BiomesByWaterStyle", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a336289763a82226c4d3b2c9d66b9919b.html#a336289763a82226c4d3b2c9d66b9919b", null ],
     [ "DefaultPurity", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a078f598c71ffc9a4e9ce1a146695fb07.html#a078f598c71ffc9a4e9ce1a146695fb07", null ],
-    [ "TileColor", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a61bd164eea66a7e9462dc60c82f2d669.html#a61bd164eea66a7e9462dc60c82f2d669", null ],
+    [ "TileColor", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a1af4789743fbcc7aff4488a980acfd6c.html#a1af4789743fbcc7aff4488a980acfd6c", null ],
     [ "WaterStyle", "dc/d5a/classTerraria_1_1Graphics_1_1Capture_1_1CaptureBiome_a722ce3ce462a65e9c636044857be382b.html#a722ce3ce462a65e9c636044857be382b", null ]
 ];

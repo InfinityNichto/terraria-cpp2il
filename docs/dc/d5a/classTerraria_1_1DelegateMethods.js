@@ -3,6 +3,7 @@ var classTerraria_1_1DelegateMethods =
     [ "CharacterPreview", "dd/d38/classTerraria_1_1DelegateMethods_1_1CharacterPreview.html", "dd/d38/classTerraria_1_1DelegateMethods_1_1CharacterPreview" ],
     [ "Minecart", "df/d0a/classTerraria_1_1DelegateMethods_1_1Minecart.html", "df/d0a/classTerraria_1_1DelegateMethods_1_1Minecart" ],
     [ "Mount", "df/db2/classTerraria_1_1DelegateMethods_1_1Mount.html", "df/db2/classTerraria_1_1DelegateMethods_1_1Mount" ],
+    [ "DelegateMethods", "dc/d5a/classTerraria_1_1DelegateMethods_aea2ec4b021eddb94c3bac66cd3876386.html#aea2ec4b021eddb94c3bac66cd3876386", null ],
     [ "CastLightFunc", "dc/d5a/classTerraria_1_1DelegateMethods_aabb8b44b0117455cc0560739d903fc70.html#aabb8b44b0117455cc0560739d903fc70", null ],
     [ "CastLightOpen_StopForSolids", "dc/d5a/classTerraria_1_1DelegateMethods_a81171aeb7dc67e49c33b0a3c8d3fe0ac.html#a81171aeb7dc67e49c33b0a3c8d3fe0ac", null ],
     [ "CastLightOpen_StopForSolids_ScaleWithDistance", "dc/d5a/classTerraria_1_1DelegateMethods_a1d3eef7cc6ff91a965220802b9b7ce38.html#a1d3eef7cc6ff91a965220802b9b7ce38", null ],

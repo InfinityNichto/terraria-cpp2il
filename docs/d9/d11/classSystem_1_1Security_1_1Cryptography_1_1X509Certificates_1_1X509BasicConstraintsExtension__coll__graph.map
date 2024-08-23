@@ -1,0 +1,23 @@
+<map id="System.Security.Cryptography.X509Certificates.X509BasicConstraintsExtension" name="System.Security.Cryptography.X509Certificates.X509BasicConstraintsExtension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="287,1315,603,1701"/>
+<area shape="rect" id="Node000002" href="$de/d29/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509Extension.html" title=" " alt="" coords="136,1068,397,1252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,1263,348,1313,344,1316,317,1265"/>
+<area shape="rect" id="Node000003" href="$d8/d9b/classSystem_1_1Security_1_1Cryptography_1_1AsnEncodedData.html" title=" " alt="" coords="137,469,399,1005"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,1020,270,1068,264,1068,264,1020"/>
+<area shape="rect" id="Node000004" href="$da/ddd/classSystem_1_1Security_1_1Cryptography_1_1Oid.html" title=" " alt="" coords="57,148,292,407"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,406,213,453,208,454,198,407"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,56,71"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="28,71,17,163,11,276,11,1161,17,1211,34,1257,61,1298,96,1336,136,1369,181,1398,273,1446,271,1451,178,1403,133,1373,92,1340,57,1302,30,1259,12,1213,5,1161,5,276,12,163,23,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="48,70,76,123,82,133,77,135,71,125,43,72"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="151,5,225,71"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="189,71,185,132,180,132,184,71"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="316,245,359,310"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="335,311,314,453,308,453,330,310"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="424,705,467,770"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="448,770,448,1298,443,1298,443,770"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="453,770,456,819,454,881,441,947,429,978,413,1007,402,1017,390,1021,379,1024,367,1031,340,1058,336,1054,364,1027,377,1020,389,1016,399,1013,409,1004,425,976,436,945,449,881,451,820,447,770"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="645,1127,675,1193"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="653,1194,628,1253,599,1302,595,1300,623,1251,648,1192"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="741,1127,869,1193"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="806,1193,796,1242,787,1268,773,1292,740,1332,702,1367,661,1399,619,1427,616,1422,658,1395,698,1363,736,1328,768,1289,782,1266,791,1241,801,1192"/>
+</map>

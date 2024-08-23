@@ -26,7 +26,7 @@ var classGUIControllerNavigationController =
     [ "DeleteFile", "d7/d7f/classGUIControllerNavigationController_a1d7db77b36c45ab2b1df8ab4800a6e51.html#a1d7db77b36c45ab2b1df8ab4800a6e51", null ],
     [ "DisableNavigation", "d7/d7f/classGUIControllerNavigationController_a9ff9329ca214f32fc8f8dfe5d8ad9a64.html#a9ff9329ca214f32fc8f8dfe5d8ad9a64", null ],
     [ "DisableNavigationAxis", "d7/d7f/classGUIControllerNavigationController_af562bc52a48a39885d9873346a3621d7.html#af562bc52a48a39885d9873346a3621d7", null ],
-    [ "EmulatedCursor", "d7/d7f/classGUIControllerNavigationController_acb0c5552a978cfaa7cc79842fe17cc21.html#acb0c5552a978cfaa7cc79842fe17cc21", null ],
+    [ "EmulatedCursor", "d7/d7f/classGUIControllerNavigationController_a337af6023a5944415ced990a15d136e9.html#a337af6023a5944415ced990a15d136e9", null ],
     [ "FavouriteFile", "d7/d7f/classGUIControllerNavigationController_a0c5c395b552288aec4551fe8b69447bb.html#a0c5c395b552288aec4551fe8b69447bb", null ],
     [ "InitialNavigationMovement", "d7/d7f/classGUIControllerNavigationController_a6ff0695f5a6c140baf21762c9aa97e0a.html#a6ff0695f5a6c140baf21762c9aa97e0a", null ],
     [ "lastPoint", "d7/d7f/classGUIControllerNavigationController_a5f98ec48cf9fd1b417e3d2b328347bb6.html#a5f98ec48cf9fd1b417e3d2b328347bb6", null ],
@@ -48,5 +48,5 @@ var classGUIControllerNavigationController =
     [ "UIScrollAxis", "d7/d7f/classGUIControllerNavigationController_a3dffde54cd5b619e8c067765e7a8ac26.html#a3dffde54cd5b619e8c067765e7a8ac26", null ],
     [ "CurrentNavigationItem", "d7/d7f/classGUIControllerNavigationController_acea402fa8886453e4c9560ae3a7d4556.html#acea402fa8886453e4c9560ae3a7d4556", null ],
     [ "NavigationAxis", "d7/d7f/classGUIControllerNavigationController_a661cbb05736ba7455387f0bafa1ff507.html#a661cbb05736ba7455387f0bafa1ff507", null ],
-    [ "UICursor", "d7/d7f/classGUIControllerNavigationController_a10e036d0af1a99c626d599ebf99db652.html#a10e036d0af1a99c626d599ebf99db652", null ]
+    [ "UICursor", "d7/d7f/classGUIControllerNavigationController_a1890ae71f6c0bc4a169ce15dbc23143c.html#a1890ae71f6c0bc4a169ce15dbc23143c", null ]
 ];

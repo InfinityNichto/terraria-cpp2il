@@ -1,0 +1,20 @@
+<map id="System.Xml.Linq.XObject" name="System.Xml.Linq.XObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,757,385,1051"/>
+<area shape="rect" id="Node000002" href="$d1/d96/classSystem_1_1Xml_1_1Linq_1_1XContainer.html" title=" " alt="" coords="347,192,580,695"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,696,340,744,335,741,355,694"/>
+<area shape="rect" id="Node000004" href="$da/d14/classSystem_1_1Xml_1_1Linq_1_1XObject.html" title=" " alt="" coords="507,757,737,1051"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="542,694,555,732,558,741,553,743,550,734,537,696"/>
+<area shape="rect" id="Node000003" href="$d3/d03/classSystem_1_1Xml_1_1Linq_1_1XNode.html" title=" " alt="" coords="501,1392,690,1621"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,1381,486,1330,466,1250,451,1168,440,1085,433,1002,429,841,434,695,440,695,434,841,438,1002,445,1085,456,1168,471,1249,491,1329,512,1379"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="747,1042,774,1099,793,1163,801,1216,795,1268,774,1330,758,1361,738,1389,692,1438,688,1435,734,1386,754,1358,769,1328,790,1267,796,1216,788,1164,769,1101,742,1044"/>
+<area shape="rect" id="Node000006" href="$d3/d03/classSystem_1_1Xml_1_1Linq_1_1XNode.html" title=" " alt="" coords="501,1100,690,1329"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="611,1065,608,1100,602,1100,606,1064"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="436,5,491,71"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="437,51,392,70,337,100,285,141,262,166,244,193,216,259,198,329,188,401,186,474,189,546,198,616,222,741,217,742,192,616,184,547,181,474,183,401,193,328,211,258,240,191,258,162,281,137,334,95,389,65,435,46"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="466,71,466,176,461,176,461,71"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="493,55,536,93,573,138,585,161,595,191,613,261,627,334,642,480,645,619,640,741,635,741,640,619,637,480,621,334,608,262,590,193,580,163,568,141,532,97,489,59"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="598,1330,598,1375,593,1375,593,1330"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="692,1189,709,1198,717,1214,714,1226,707,1233,703,1230,709,1223,711,1215,706,1202,689,1193"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,5,124,71"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="125,60,173,82,227,112,281,148,329,190,338,199,334,203,325,194,277,152,224,116,171,87,123,65"/>
+</map>

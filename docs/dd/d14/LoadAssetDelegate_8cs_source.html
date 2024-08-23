@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.10.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>terraria-cpp2il: source/ReLogic.Content/LoadAssetDelegate.cs Source File</title>
+<title>terraria-cpp2il: source/Assembly-CSharp/ReLogic/Content/LoadAssetDelegate.cs Source File</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -31,7 +31,7 @@
   <td id="projectalign">
    <div id="projectname">terraria-cpp2il<span id="projectnumber">&#160;v1.4.4.9</span>
    </div>
-   <div id="projectbrief">Contains cpp2il injection tokens, adress, etc.</div>
+   <div id="projectbrief">See the source code of methods for useful infos (as attributes). Note: all method bodies are blank; you won&#39;t find any logic code.</div>
   </td>
  </tr>
  </tbody>
@@ -101,21 +101,28 @@ $(function(){initNavTree('dd/d14/LoadAssetDelegate_8cs_source.html','../../'); i
   <div class="headertitle"><div class="title">LoadAssetDelegate.cs</div></div>
 </div><!--header-->
 <div class="contents">
-<a href="../../dd/d14/LoadAssetDelegate_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>;</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span> </div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../d1/d4c/namespaceReLogic_1_1Content.html">ReLogic.Content</a>;</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>[<a class="code hl_namespace" href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a>.Token(Token = <span class="stringliteral">&quot;0x200074D&quot;</span>)]</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno"><a class="line" href="../../d1/d4c/namespaceReLogic_1_1Content_aa65827f2a4eccf79ce92b2284bf4bd99.html#aa65827f2a4eccf79ce92b2284bf4bd99">    6</a></span><span class="keyword">public</span> delegate <span class="keywordtype">void</span> <a class="code hl_function" href="../../d1/d4c/namespaceReLogic_1_1Content_aa65827f2a4eccf79ce92b2284bf4bd99.html#aa65827f2a4eccf79ce92b2284bf4bd99">LoadAssetDelegate&lt;T&gt;</a>(<span class="keywordtype">bool</span> loadedSuccessfully, T theAsset) where T : <span class="keyword">class</span>;</div>
-<div class="ttc" id="anamespaceCpp2IlInjected_html"><div class="ttname"><a href="../../d9/dbe/namespaceCpp2IlInjected.html">Cpp2IlInjected</a></div><div class="ttdef"><b>Definition</b> <a href="../../d0/d1c/AddressAttribute_8cs_source.html#l00003">AddressAttribute.cs:3</a></div></div>
+<a href="../../dd/d14/LoadAssetDelegate_8cs.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d6/d27/namespaceSystem.html">System</a>;</div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">using </span><a class="code hl_namespace" href="../../d3/de2/namespaceCpp2ILInjected.html">Cpp2ILInjected</a>;</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="keyword">namespace </span><a class="code hl_namespace" href="../../d1/d4c/namespaceReLogic_1_1Content.html">ReLogic.Content</a></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>{</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>    <span class="comment">// Token: 0x0200074A RID: 1866</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    <span class="comment">// (Invoke) Token: 0x0600475E RID: 18270</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>    [global::Cpp2ILInjected.Token(Token = <span class="stringliteral">&quot;0x2000B4C&quot;</span>)]</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno"><a class="line" href="../../d1/d4c/namespaceReLogic_1_1Content_aa65827f2a4eccf79ce92b2284bf4bd99.html#aa65827f2a4eccf79ce92b2284bf4bd99">    9</a></span>    <span class="keyword">public</span> <a class="code hl_property" href="../../dd/d0b/--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de.html#a2a006b6791f3f0f29cd58093f5c4d0de">delegate</a> <span class="keywordtype">void</span> <a class="code hl_function" href="../../d1/d4c/namespaceReLogic_1_1Content_aa65827f2a4eccf79ce92b2284bf4bd99.html#aa65827f2a4eccf79ce92b2284bf4bd99">LoadAssetDelegate&lt;T&gt;</a>(<span class="keywordtype">bool</span> <a class="code hl_property" href="../../dd/d0b/--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de.html#a2a006b6791f3f0f29cd58093f5c4d0de">loadedSuccessfully</a>, T <a class="code hl_property" href="../../dd/d0b/--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de.html#a2a006b6791f3f0f29cd58093f5c4d0de">theAsset</a>) <a class="code hl_property" href="../../dd/d0b/--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de.html#a2a006b6791f3f0f29cd58093f5c4d0de">where</a> <a class="code hl_enumvalue" href="../../d6/d27/namespaceSystem_aca95f49b90253ad60ca8fe35c508b3d1.html#aca95f49b90253ad60ca8fe35c508b3d1ab9ece18c950afbfa6b0fdbfa4ff731d3">T</a> : <span class="keyword">class</span>;</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>}</div>
+<div class="ttc" id="a--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de_html_a2a006b6791f3f0f29cd58093f5c4d0de"><div class="ttname"><a href="../../dd/d0b/--f____AnonymousType0_8cs_a2a006b6791f3f0f29cd58093f5c4d0de.html#a2a006b6791f3f0f29cd58093f5c4d0de">j__TPar</a></div><div class="ttdeci">class f__AnonymousType0&lt;&lt; Count &gt; j__TPar</div><div class="ttdef"><b>Definition</b> <a href="../../dd/d0b/--f____AnonymousType0_8cs_source.html#l00011">--f__AnonymousType0.cs:12</a></div></div>
+<div class="ttc" id="anamespaceCpp2ILInjected_html"><div class="ttname"><a href="../../d3/de2/namespaceCpp2ILInjected.html">Cpp2ILInjected</a></div><div class="ttdef"><b>Definition</b> <a href="../../d6/d0a/____Generated_2Cpp2ILInjected_2AddressAttribute_8cs_source.html#l00003">AddressAttribute.cs:4</a></div></div>
 <div class="ttc" id="anamespaceReLogic_1_1Content_aa65827f2a4eccf79ce92b2284bf4bd99_html_aa65827f2a4eccf79ce92b2284bf4bd99"><div class="ttname"><a href="../../d1/d4c/namespaceReLogic_1_1Content_aa65827f2a4eccf79ce92b2284bf4bd99.html#aa65827f2a4eccf79ce92b2284bf4bd99">ReLogic.Content.LoadAssetDelegate&lt; T &gt;</a></div><div class="ttdeci">delegate void LoadAssetDelegate&lt; T &gt;(bool loadedSuccessfully, T theAsset)</div></div>
-<div class="ttc" id="anamespaceReLogic_1_1Content_html"><div class="ttname"><a href="../../d1/d4c/namespaceReLogic_1_1Content.html">ReLogic.Content</a></div><div class="ttdef"><b>Definition</b> <a href="../../de/dff/IAssetReader_8cs_source.html#l00004">IAssetReader.cs:4</a></div></div>
+<div class="ttc" id="anamespaceReLogic_1_1Content_html"><div class="ttname"><a href="../../d1/d4c/namespaceReLogic_1_1Content.html">ReLogic.Content</a></div><div class="ttdef"><b>Definition</b> <a href="../../da/d52/Asset_8cs_source.html#l00007">Asset.cs:8</a></div></div>
+<div class="ttc" id="anamespaceSystem_aca95f49b90253ad60ca8fe35c508b3d1_html_aca95f49b90253ad60ca8fe35c508b3d1ab9ece18c950afbfa6b0fdbfa4ff731d3"><div class="ttname"><a href="../../d6/d27/namespaceSystem_aca95f49b90253ad60ca8fe35c508b3d1.html#aca95f49b90253ad60ca8fe35c508b3d1ab9ece18c950afbfa6b0fdbfa4ff731d3">System.ConsoleKey.T</a></div><div class="ttdeci">@ T</div></div>
+<div class="ttc" id="anamespaceSystem_html"><div class="ttname"><a href="../../d6/d27/namespaceSystem.html">System</a></div><div class="ttdef"><b>Definition</b> <a href="../../d4/d7b/____Il2CppComDelegate_8cs_source.html#l00005">__Il2CppComDelegate.cs:6</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html">source</a></li><li class="navelem"><a class="el" href="../../dir_b90c6850b3f1a35dacc8e6dd08e876f8.html">ReLogic.Content</a></li><li class="navelem"><a class="el" href="../../dd/d14/LoadAssetDelegate_8cs.html">LoadAssetDelegate.cs</a></li>
+    <li class="navelem"><a class="el" href="../../dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html">source</a></li><li class="navelem"><a class="el" href="../../dir_878d4b4f67432d41e0421d9947fe4045.html">Assembly-CSharp</a></li><li class="navelem"><a class="el" href="../../dir_4b3509b4eb059c33882dad68698c179e.html">ReLogic</a></li><li class="navelem"><a class="el" href="../../dir_14070dd3dbb7a5ba3e3eda4d23a92686.html">Content</a></li><li class="navelem"><a class="el" href="../../dd/d14/LoadAssetDelegate_8cs.html">LoadAssetDelegate.cs</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0 </li>
   </ul>
 </div>

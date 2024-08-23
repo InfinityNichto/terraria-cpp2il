@@ -38,7 +38,8 @@
 <text text-anchor="start" x="4" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">const short EventIconPumpkinMoon</text>
 <text text-anchor="start" x="17" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">and 247 more...</text>
-<text text-anchor="start" x="96" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="6.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="17" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">static ExtrasID()</text>
 <polygon fill="#666666" stroke="#666666" points="0,-215 0,-215 196,-215 196,-215 0,-215"/>
 <polygon fill="#666666" stroke="#666666" points="0,-17 0,-17 15,-17 15,-17 0,-17"/>
 <polygon fill="#666666" stroke="#666666" points="15,-17 15,-17 196,-17 196,-17 15,-17"/>

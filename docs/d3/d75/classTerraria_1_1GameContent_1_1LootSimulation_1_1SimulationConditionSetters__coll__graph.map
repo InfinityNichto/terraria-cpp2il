@@ -1,7 +1,7 @@
 <map id="Terraria.GameContent.LootSimulation.SimulationConditionSetters" name="Terraria.GameContent.LootSimulation.SimulationConditionSetters">
-<area shape="rect" id="Node000001" title=" " alt="" coords="416,856,636,951"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="416,856,636,985"/>
 <area shape="rect" id="Node000002" href="$d5/d84/classTerraria_1_1GameContent_1_1LootSimulation_1_1LootSimulatorConditionSetterTypes_1_1FastConditionSetter.html" title=" " alt="" coords="5,404,247,647"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,646,163,695,183,744,211,791,246,830,281,854,319,872,360,885,400,893,399,899,358,890,317,877,278,859,243,834,207,794,179,747,158,697,143,648"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,646,166,695,187,744,214,790,249,830,283,856,321,876,361,891,401,902,399,907,359,896,318,880,280,860,246,834,210,793,182,746,161,697,145,648"/>
 <area shape="rect" id="Node000003" href="$d4/dd9/interfaceTerraria_1_1GameContent_1_1LootSimulation_1_1ISimulationConditionSetter.html" title=" " alt="" coords="537,163,755,312"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="560,323,513,356,462,382,432,392,406,395,359,393,314,392,289,396,260,406,248,413,246,408,258,402,287,391,313,387,360,388,405,390,431,387,460,378,510,351,557,319"/>
 <area shape="rect" id="Node000006" href="$d1/dbc/classTerraria_1_1GameContent_1_1LootSimulation_1_1LootSimulatorConditionSetterTypes_1_1StackedConditionSetter.html" title=" " alt="" coords="271,411,517,639"/>
@@ -14,12 +14,12 @@
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="129,278,129,387,123,387,123,278"/>
 <area shape="rect" id="Node000005" title=" " alt="" coords="99,5,153,71"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="129,85,129,197,123,197,123,85"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="379,640,378,687,382,737,393,786,414,831,422,843,418,846,409,833,388,787,377,738,373,687,374,640"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="381,639,381,687,385,736,395,785,414,831,420,841,416,844,409,833,390,787,379,737,375,687,376,639"/>
 <area shape="rect" id="Node000007" href="$d4/dd9/interfaceTerraria_1_1GameContent_1_1LootSimulation_1_1ISimulationConditionSetter.html" title=" " alt="" coords="282,148,506,327"/>
 <area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="397,327,397,394,391,394,391,327"/>
-<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="927,633,905,685,875,739,838,791,793,834,761,855,726,872,653,893,651,887,724,867,758,850,790,830,834,787,870,737,900,683,923,631"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="925,633,902,685,872,739,835,790,792,834,760,856,725,875,653,900,651,895,723,870,757,852,788,830,831,786,868,736,897,683,920,631"/>
 <area shape="rect" id="Node000009" title=" " alt="" coords="869,205,900,270"/>
 <area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="896,269,917,350,930,402,925,403,911,351,890,271"/>
 <area shape="poly" id="edge13_Node000010_Node000009" title=" " alt="" coords="871,261,762,407,758,404,867,258"/>
-<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="683,632,681,682,675,734,661,786,638,833,628,846,624,843,633,831,656,784,669,733,676,681,678,632"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="681,632,679,681,672,733,659,785,638,833,630,845,626,842,633,831,654,783,667,732,673,681,676,632"/>
 </map>

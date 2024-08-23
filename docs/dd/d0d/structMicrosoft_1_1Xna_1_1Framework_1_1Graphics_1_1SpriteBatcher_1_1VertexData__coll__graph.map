@@ -1,7 +1,20 @@
 <map id="Microsoft.Xna.Framework.Graphics.SpriteBatcher.VertexData" name="Microsoft.Xna.Framework.Graphics.SpriteBatcher.VertexData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,148,251,228"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,99,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,71,49,97,56,123,63,134,58,137,51,125,44,98,44,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="181,5,245,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,72,186,125,180,136,175,133,182,123,203,70"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,1387,497,1467"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="84,335,328,1309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,1309,348,1362,352,1371,347,1373,344,1364,324,1311"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="331,736,341,751,348,770,355,822,351,863,340,893,335,892,346,862,349,822,343,771,336,753,326,739"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="11,148,174,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,226,122,334,117,335,98,227"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,84,95,148,90,148,90,84"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,148,241,213"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="221,214,219,318,214,318,216,214"/>
+<area shape="rect" id="Node000006" href="$d6/d77/structUnityEngine_1_1Color32.html" title=" " alt="" coords="458,688,647,956"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="566,957,565,1052,553,1158,542,1212,526,1265,505,1316,479,1364,469,1377,465,1374,474,1361,501,1314,521,1263,537,1211,548,1157,560,1052,561,956"/>
+<area shape="rect" id="Node000007" href="$d7/dfc/interfaceSystem_1_1IFormattable.html" title=" " alt="" coords="277,133,513,228"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="418,240,447,334,493,518,529,687,524,688,488,519,442,335,413,242"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="537,148,568,213"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="555,214,555,672,550,672,550,214"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="601,148,643,213"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="621,214,572,672,566,671,616,213"/>
 </map>

@@ -1,6 +1,7 @@
 var classTerraria_1_1ID_1_1AmmoID =
 [
     [ "Sets", "da/d37/classTerraria_1_1ID_1_1AmmoID_1_1Sets.html", "da/d37/classTerraria_1_1ID_1_1AmmoID_1_1Sets" ],
+    [ "AmmoID", "d1/dcd/classTerraria_1_1ID_1_1AmmoID_a5b3bf069deb3fc6203d9b330123de6f6.html#a5b3bf069deb3fc6203d9b330123de6f6", null ],
     [ "Arrow", "d1/dcd/classTerraria_1_1ID_1_1AmmoID_a6463405edf08d89e20af19da6e7e95e1.html#a6463405edf08d89e20af19da6e7e95e1", null ],
     [ "Bullet", "d1/dcd/classTerraria_1_1ID_1_1AmmoID_a162aec96195cb5e0ae882e483b342ec6.html#a162aec96195cb5e0ae882e483b342ec6", null ],
     [ "CandyCorn", "d1/dcd/classTerraria_1_1ID_1_1AmmoID_a2b209df3f0be25023fe77af40135b82a.html#a2b209df3f0be25023fe77af40135b82a", null ],

@@ -1,6 +1,7 @@
 var structTerraria_1_1GameContent_1_1Shaders_1_1WaterShaderData_1_1Ripple =
 [
     [ "Ripple", "d9/d52/structTerraria_1_1GameContent_1_1Shaders_1_1WaterShaderData_1_1Ripple_a1ed698b46bd70ac49314988ff39018ec.html#a1ed698b46bd70ac49314988ff39018ec", null ],
+    [ "Ripple", "d9/d52/structTerraria_1_1GameContent_1_1Shaders_1_1WaterShaderData_1_1Ripple_aa85945638be94f37a91224ba21c501e7.html#aa85945638be94f37a91224ba21c501e7", null ],
     [ "Position", "d9/d52/structTerraria_1_1GameContent_1_1Shaders_1_1WaterShaderData_1_1Ripple_a3bf66d045170e7d713a80d6d359d84a7.html#a3bf66d045170e7d713a80d6d359d84a7", null ],
     [ "RIPPLE_SHAPE_SOURCE_RECTS", "d9/d52/structTerraria_1_1GameContent_1_1Shaders_1_1WaterShaderData_1_1Ripple_a53caa51a911e2284650bda47f30aa291.html#a53caa51a911e2284650bda47f30aa291", null ],
     [ "Rotation", "d9/d52/structTerraria_1_1GameContent_1_1Shaders_1_1WaterShaderData_1_1Ripple_ab0abfde607c8073824dc8900714ce08c.html#ab0abfde607c8073824dc8900714ce08c", null ],

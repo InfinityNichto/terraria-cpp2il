@@ -8,5 +8,5 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteFont_1_1CharacterSo
     [ "_string", "d1/d5b/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteFont_1_1CharacterSource_a462aeca52410b84feaf6aa5b5eb60120.html#a462aeca52410b84feaf6aa5b5eb60120", null ],
     [ "_stringOffset", "d1/d5b/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteFont_1_1CharacterSource_a21e6d02b97b71cb609bd5c9bda14bea7.html#a21e6d02b97b71cb609bd5c9bda14bea7", null ],
     [ "Length", "d1/d5b/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteFont_1_1CharacterSource_aeb4dfff21efc7abdab00efd64963671c.html#aeb4dfff21efc7abdab00efd64963671c", null ],
-    [ "Item", "d1/d5b/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteFont_1_1CharacterSource_aaa0b768c9cb0e4946a333f82aa8b9098.html#aaa0b768c9cb0e4946a333f82aa8b9098", null ]
+    [ "this[int index]", "d1/d5b/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteFont_1_1CharacterSource_aeb5eef082569ecb08faf42dc52398bbf.html#aeb5eef082569ecb08faf42dc52398bbf", null ]
 ];

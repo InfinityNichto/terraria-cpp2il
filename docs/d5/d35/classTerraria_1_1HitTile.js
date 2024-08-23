@@ -1,6 +1,7 @@
 var classTerraria_1_1HitTile =
 [
     [ "HitTile", "d5/d35/classTerraria_1_1HitTile_a3bbb2264b3ffa30ba15e7528b2dcd359.html#a3bbb2264b3ffa30ba15e7528b2dcd359", null ],
+    [ "HitTile", "d5/d35/classTerraria_1_1HitTile_aeac0db9a8f70afe751b3f42a654afdf4.html#aeac0db9a8f70afe751b3f42a654afdf4", null ],
     [ "AddDamage", "d5/d35/classTerraria_1_1HitTile_a8a24aff8755bf61b362b88601b624f26.html#a8a24aff8755bf61b362b88601b624f26", null ],
     [ "Clear", "d5/d35/classTerraria_1_1HitTile_a63495572789dccf1bad01706ace7937e.html#a63495572789dccf1bad01706ace7937e", null ],
     [ "ClearAllTilesAtThisLocation", "d5/d35/classTerraria_1_1HitTile_a139eab8c859721ac4b6a4b5e5e58b48e.html#a139eab8c859721ac4b6a4b5e5e58b48e", null ],

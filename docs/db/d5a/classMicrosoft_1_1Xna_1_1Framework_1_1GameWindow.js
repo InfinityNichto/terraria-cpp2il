@@ -10,13 +10,14 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow =
     [ "OnPaint", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_af8334f21c3a342465b313828471e16c8.html#af8334f21c3a342465b313828471e16c8", null ],
     [ "OnScreenDeviceNameChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_ab72edbe493c7362da9eb269efe0cdbb6.html#ab72edbe493c7362da9eb269efe0cdbb6", null ],
     [ "SetTitle", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a904652977a064dc330623adecf28987a.html#a904652977a064dc330623adecf28987a", null ],
+    [ "k__BackingField", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_aa2e2b82f716b066cae59dfad6e053cd5.html#aa2e2b82f716b066cae59dfad6e053cd5", null ],
     [ "title", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_af457ae7eb21496d86ab8856d763a264a.html#af457ae7eb21496d86ab8856d763a264a", null ],
     [ "AllowUserResizing", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a3a52c18b42184ddf573ca584be0f6045.html#a3a52c18b42184ddf573ca584be0f6045", null ],
     [ "ClientBounds", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a144976b4594343da2e9c407edbd61a0a.html#a144976b4594343da2e9c407edbd61a0a", null ],
-    [ "ClientSizeChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_aad8fa4b079189e89592a5c9241305dd4.html#aad8fa4b079189e89592a5c9241305dd4", null ],
+    [ "ClientSizeChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a8fde59d2e8d27e3b217f08e2b76f4f8e.html#a8fde59d2e8d27e3b217f08e2b76f4f8e", null ],
     [ "CurrentOrientation", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a4bef2f10c7f6e9396b9678fd65b00972.html#a4bef2f10c7f6e9396b9678fd65b00972", null ],
     [ "Handle", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_acdcd2ae98b037d76c3cd1c4dab770ca5.html#acdcd2ae98b037d76c3cd1c4dab770ca5", null ],
     [ "ScreenDeviceName", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a6801211569f430798ef910b20611dab2.html#a6801211569f430798ef910b20611dab2", null ],
-    [ "ScreenDeviceNameChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a6c6d8ad99c4ec19a3aa8ef18bf3b766c.html#a6c6d8ad99c4ec19a3aa8ef18bf3b766c", null ],
+    [ "ScreenDeviceNameChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_ad6e3b2deb4e52a8a53f3a40d56532281.html#ad6e3b2deb4e52a8a53f3a40d56532281", null ],
     [ "Title", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a6bc8d6487c96d42c75846b315ed82a70.html#a6bc8d6487c96d42c75846b315ed82a70", null ]
 ];

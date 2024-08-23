@@ -1,0 +1,8 @@
+<map id="System.ComponentModel.Container.Site" name="System.ComponentModel.Container.Site">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,307,283,541"/>
+<area shape="rect" id="Node000002" href="$d4/d32/interfaceSystem_1_1ComponentModel_1_1ISite.html" title=" " alt="" coords="116,133,303,259"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,273,180,307,175,306,185,271"/>
+<area shape="rect" id="Node000003" href="$d7/d65/interfaceSystem_1_1IServiceProvider.html" title=" " alt="" coords="41,5,247,85"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="118,99,107,134,101,177,100,221,112,306,107,307,95,221,95,177,101,133,113,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,97,185,132,180,134,164,99"/>
+</map>

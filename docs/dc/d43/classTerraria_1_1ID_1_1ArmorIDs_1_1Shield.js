@@ -1,6 +1,7 @@
 var classTerraria_1_1ID_1_1ArmorIDs_1_1Shield =
 [
     [ "Shield", "dc/d43/classTerraria_1_1ID_1_1ArmorIDs_1_1Shield_ab993ce17254766db4997196bfcca548e.html#ab993ce17254766db4997196bfcca548e", null ],
+    [ "Shield", "dc/d43/classTerraria_1_1ID_1_1ArmorIDs_1_1Shield_a18d7882f7fc2a19b26dc500df0ff01e3.html#a18d7882f7fc2a19b26dc500df0ff01e3", null ],
     [ "AnkhShield", "dc/d43/classTerraria_1_1ID_1_1ArmorIDs_1_1Shield_aed0c5fb685b7565725cb8e20bc8f4ec3.html#aed0c5fb685b7565725cb8e20bc8f4ec3", null ],
     [ "BouncingShield", "dc/d43/classTerraria_1_1ID_1_1ArmorIDs_1_1Shield_a4e474881327bea32c7c09d4ff3fce883.html#a4e474881327bea32c7c09d4ff3fce883", null ],
     [ "CobaltShield", "dc/d43/classTerraria_1_1ID_1_1ArmorIDs_1_1Shield_a964788c45ec5f0fb9a53953ea6dd3c52.html#a964788c45ec5f0fb9a53953ea6dd3c52", null ],

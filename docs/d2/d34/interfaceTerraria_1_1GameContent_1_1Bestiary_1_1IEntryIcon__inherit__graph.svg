@@ -174,8 +174,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="232.5" y="-336" font-family="Helvetica,sans-Serif" font-size="10.00">UnlockableNPCEntryIcon</text>
 <text text-anchor="start" x="232.5" y="-325" font-family="Helvetica,sans-Serif" font-size="10.00">(int npcNetId, float ai0</text>
 <text text-anchor="start" x="232.5" y="-314" font-family="Helvetica,sans-Serif" font-size="10.00">=0f, float ai1=0f, float</text>
-<text text-anchor="start" x="232.5" y="-303" font-family="Helvetica,sans-Serif" font-size="10.00"> ai2=0f, float ai3=0f, [Optional]</text>
-<text text-anchor="start" x="232.5" y="-292" font-family="Helvetica,sans-Serif" font-size="10.00"> string overrideNameKey)</text>
+<text text-anchor="start" x="232.5" y="-303" font-family="Helvetica,sans-Serif" font-size="10.00"> ai2=0f, float ai3=0f, string</text>
+<text text-anchor="start" x="232.5" y="-292" font-family="Helvetica,sans-Serif" font-size="10.00"> overrideNameKey=null)</text>
 <text text-anchor="start" x="219.5" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="232.5" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00">IEntryIcon CreateClone()</text>
 <text text-anchor="start" x="219.5" y="-262" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

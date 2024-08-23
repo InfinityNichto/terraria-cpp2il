@@ -1,13 +1,15 @@
 <map id="Microsoft.Xna.Framework.DrawableGameComponent" name="Microsoft.Xna.Framework.DrawableGameComponent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="252,713,485,1136"/>
-<area shape="rect" id="Node000002" href="$db/df1/classMicrosoft_1_1Xna_1_1Framework_1_1GameComponent.html" title=" " alt="" coords="133,153,375,665"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="317,678,324,713,319,714,311,679"/>
-<area shape="rect" id="Node000003" href="$d8/d49/interfaceMicrosoft_1_1Xna_1_1Framework_1_1IGameComponent.html" title=" " alt="" coords="5,23,137,88"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,99,136,174,131,177,92,102"/>
-<area shape="rect" id="Node000004" href="$d2/dbd/interfaceMicrosoft_1_1Xna_1_1Framework_1_1IUpdateable.html" title=" " alt="" coords="161,5,347,105"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="257,119,257,153,251,153,251,119"/>
-<area shape="rect" id="Node000005" href="$d9/d6f/classIComparable.html" title=" " alt="" coords="371,23,612,88"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="443,99,415,126,389,155,377,172,373,169,385,152,411,122,439,96"/>
-<area shape="rect" id="Node000006" href="$d2/d6f/interfaceMicrosoft_1_1Xna_1_1Framework_1_1IDrawable.html" title=" " alt="" coords="399,359,571,459"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="473,473,419,714,414,713,468,472"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,879,543,1301"/>
+<area shape="rect" id="Node000002" href="$db/df1/classMicrosoft_1_1Xna_1_1Framework_1_1GameComponent.html" title=" " alt="" coords="133,317,375,829"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,841,358,878,353,879,341,843"/>
+<area shape="rect" id="Node000003" href="$d8/d49/interfaceMicrosoft_1_1Xna_1_1Framework_1_1IGameComponent.html" title=" " alt="" coords="5,185,137,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,262,136,338,131,340,92,265"/>
+<area shape="rect" id="Node000004" href="$d2/dbd/interfaceMicrosoft_1_1Xna_1_1Framework_1_1IUpdateable.html" title=" " alt="" coords="161,168,347,268"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="257,282,257,317,251,317,251,282"/>
+<area shape="rect" id="Node000005" href="$d3/ddf/interfaceSystem_1_1IComparable.html" title=" " alt="" coords="371,175,612,261"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="432,272,388,319,377,334,373,331,384,316,428,268"/>
+<area shape="rect" id="Node000006" href="$d3/ddf/interfaceSystem_1_1IComparable.html" title=" " alt="" coords="393,5,590,105"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="494,119,494,175,489,175,489,119"/>
+<area shape="rect" id="Node000007" href="$d2/d6f/interfaceMicrosoft_1_1Xna_1_1Framework_1_1IDrawable.html" title=" " alt="" coords="399,523,571,623"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="480,637,453,879,447,878,475,637"/>
 </map>

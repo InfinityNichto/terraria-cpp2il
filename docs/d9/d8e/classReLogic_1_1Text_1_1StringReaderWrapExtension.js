@@ -6,8 +6,9 @@ var classReLogic_1_1Text_1_1StringReaderWrapExtension =
       [ "Word", "d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_ac9481a2f73880beb68205a886f4ad181.html#ac9481a2f73880beb68205a886f4ad181a07a094a210794e74a0e5e1a1457a92ee", null ],
       [ "None", "d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_ac9481a2f73880beb68205a886f4ad181.html#ac9481a2f73880beb68205a886f4ad181a6adf97f83acf6453d4a6a4b1070f3754", null ]
     ] ],
+    [ "StringReaderWrapExtension", "d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_abc74a609bba7151239363d57e50691c6.html#abc74a609bba7151239363d57e50691c6", null ],
     [ "CanBreakBetween", "d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_a4b1d9ac99a618e7d5b5c5e5d9db426ae.html#a4b1d9ac99a618e7d5b5c5e5d9db426ae", null ],
-    [ "GetModeForCharacter", "d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_a721783fd58d3e9abe790c7cdc83c88fd.html#a721783fd58d3e9abe790c7cdc83c88fd", null ],
+    [ "GetModeForCharacter", "d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_a80d4409c98b44bd504766564c618d01b.html#a80d4409c98b44bd504766564c618d01b", null ],
     [ "IsCultureSupported", "d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_ac3ef96fff15887c28461e76f89947795.html#ac3ef96fff15887c28461e76f89947795", null ],
     [ "IsIgnoredCharacter", "d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_abbd0403e59da4ba14109a5099a85c139.html#abbd0403e59da4ba14109a5099a85c139", null ],
     [ "ReadUntilBreakable", "d9/d8e/classReLogic_1_1Text_1_1StringReaderWrapExtension_ac74b87581e7b3eba51eaa74b11a54a96.html#ac74b87581e7b3eba51eaa74b11a54a96", null ],

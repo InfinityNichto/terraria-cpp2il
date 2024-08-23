@@ -1,6 +1,7 @@
 var classUserManagement =
 [
     [ "UserManagement", "d9/d5d/classUserManagement_a4e50244362c5b124795191f09241121c.html#a4e50244362c5b124795191f09241121c", null ],
+    [ "UserManagement", "d9/d5d/classUserManagement_afc406ba186e599b563e8d4135238548b.html#afc406ba186e599b563e8d4135238548b", null ],
     [ "AddUser", "d9/d5d/classUserManagement_a6f36be77914a843ab2b54366d32c4ead.html#a6f36be77914a843ab2b54366d32c4ead", null ],
     [ "ApplyCameras", "d9/d5d/classUserManagement_a08a6bd26dd129a13c00ce1c5ee5045e8.html#a08a6bd26dd129a13c00ce1c5ee5045e8", null ],
     [ "CanControllerBeUsedForPlayer", "d9/d5d/classUserManagement_a313a882c4627aa46b141e8e55732a59f.html#a313a882c4627aa46b141e8e55732a59f", null ],

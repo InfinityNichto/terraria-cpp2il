@@ -1,0 +1,28 @@
+<map id="Newtonsoft.Json.JsonConverterCollection" name="Newtonsoft.Json.JsonConverterCollection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="689,2964,904,3044"/>
+<area shape="rect" id="Node000002" href="$d6/d7d/classSystem_1_1Collections_1_1ObjectModel_1_1Collection.html" title=" " alt="" coords="676,1804,917,2915"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="799,2928,799,2964,794,2964,794,2928"/>
+<area shape="rect" id="Node000003" href="$d6/d7d/classSystem_1_1Collections_1_1ObjectModel_1_1Collection.html" title=" " alt="" coords="676,651,917,1741"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="799,1755,799,1804,794,1804,794,1755"/>
+<area shape="rect" id="Node000004" href="$df/d68/classglobal_1_1SystemCollections_1_1Generic_1_1IList.html" title=" " alt="" coords="5,406,188,486"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,495,203,586,325,723,451,856,678,1079,674,1083,448,860,321,727,199,590,129,499"/>
+<area shape="rect" id="Node000005" href="$d1/d03/classglobal_1_1SystemCollections_1_1Generic_1_1ICollection.html" title=" " alt="" coords="213,406,399,486"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="341,496,678,1009,674,1012,337,499"/>
+<area shape="rect" id="Node000006" href="$dc/d8b/classglobal_1_1SystemCollections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="423,406,623,486"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="545,499,678,864,673,866,540,500"/>
+<area shape="rect" id="Node000007" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="626,5,847,71"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="728,84,706,185,689,304,683,390,683,476,694,650,688,651,678,477,678,389,683,304,701,184,723,83"/>
+<area shape="rect" id="Node000008" href="$dd/d26/interfaceSystem_1_1Collections_1_1IList.html" title=" " alt="" coords="699,304,895,588"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="744,84,765,254,773,303,767,304,759,255,739,85"/>
+<area shape="rect" id="Node000009" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="775,120,941,255"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="773,80,805,118,801,121,769,83"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="799,602,799,650,794,650,794,602"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="898,267,909,303,922,392,927,482,926,573,920,664,915,663,921,573,922,483,916,392,903,305,893,268"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="842,269,833,305,828,303,836,268"/>
+<area shape="rect" id="Node000010" href="$d8/d07/classglobal_1_1SystemCollections_1_1Generic_1_1IReadOnlyList.html" title=" " alt="" coords="970,406,1178,486"/>
+<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="1057,500,920,870,915,868,1052,498"/>
+<area shape="rect" id="Node000011" href="$d1/d20/classglobal_1_1SystemCollections_1_1Generic_1_1IReadOnlyCollection.html" title=" " alt="" coords="1202,406,1453,486"/>
+<area shape="poly" id="edge13_Node000003_Node000011" title=" " alt="" coords="1294,499,920,1026,915,1023,1290,496"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1477,413,1564,479"/>
+<area shape="poly" id="edge14_Node000003_Node000012" title=" " alt="" coords="1515,480,1497,533,1467,589,1407,669,1341,745,1271,818,1199,887,1058,1008,932,1104,929,1100,1054,1004,1196,883,1268,814,1338,742,1403,665,1462,587,1492,531,1510,478"/>
+</map>

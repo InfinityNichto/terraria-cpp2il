@@ -1,5 +1,6 @@
 var classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Invasions =
 [
+    [ "Invasions", "dc/d7d/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Invasions_a4aa6b63473b2e82f03f8c5d159668e68.html#a4aa6b63473b2e82f03f8c5d159668e68", null ],
     [ "FrostLegion", "dc/d7d/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Invasions_a183cb6eb38b62f76c0468ae6c5694cce.html#a183cb6eb38b62f76c0468ae6c5694cce", null ],
     [ "FrostMoon", "dc/d7d/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Invasions_abbb65be5a6078ac5304b330d509dd1f4.html#abbb65be5a6078ac5304b330d509dd1f4", null ],
     [ "Goblins", "dc/d7d/classTerraria_1_1GameContent_1_1Bestiary_1_1BestiaryDatabaseNPCsPopulator_1_1CommonTags_1_1SpawnConditions_1_1Invasions_ac4ee69f81fdf444051eb8982b366f5ea.html#ac4ee69f81fdf444051eb8982b366f5ea", null ],

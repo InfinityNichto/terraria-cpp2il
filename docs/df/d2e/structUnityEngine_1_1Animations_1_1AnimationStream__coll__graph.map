@@ -1,0 +1,14 @@
+<map id="UnityEngine.Animations.AnimationStream" name="UnityEngine.Animations.AnimationStream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,1308,319,1388"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="67,627,105,693"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,694,52,799,39,871,30,951,28,1036,35,1121,55,1205,70,1245,90,1283,98,1295,94,1298,85,1285,65,1247,50,1207,30,1122,23,1036,25,950,33,870,46,798,73,692"/>
+<area shape="rect" id="Node000003" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1172"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,1173,307,1230,283,1285,275,1297,271,1294,278,1283,302,1229,320,1171"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="478,579,496,612,503,660,499,698,488,727,483,726,494,697,497,660,491,613,474,581"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,97,146,172,141,174,116,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="498,79,481,133,476,132,493,77"/>
+</map>

@@ -21,8 +21,8 @@
 <text text-anchor="start" x="28.5" y="-91.5" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteBatch _spriteBatch</text>
 <text text-anchor="start" x="11" y="-76.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="28.5" y="-76.5" font-family="Helvetica,sans-Serif" font-size="10.00">DebugDraw(SpriteBatch</text>
-<text text-anchor="start" x="28.5" y="-65.5" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch, [Optional]</text>
-<text text-anchor="start" x="28.5" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00"> Color color)</text>
+<text text-anchor="start" x="28.5" y="-65.5" font-family="Helvetica,sans-Serif" font-size="10.00"> spriteBatch, Color color</text>
+<text text-anchor="start" x="28.5" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00">=default(Color))</text>
 <text text-anchor="start" x="11" y="-39.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="28.5" y="-39.5" font-family="Helvetica,sans-Serif" font-size="10.00">override bool Apply</text>
 <text text-anchor="start" x="28.5" y="-28.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Point origin, int x,</text>
@@ -96,11 +96,11 @@
 <text text-anchor="start" x="4.5" y="-485" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-485" font-family="Helvetica,sans-Serif" font-size="10.00">static int _worldHeight</text>
 <text text-anchor="start" x="4.5" y="-470" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-470" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
-<text text-anchor="start" x="17.5" y="-459" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
-<text text-anchor="start" x="17.5" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
-<text text-anchor="start" x="4.5" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17.5" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="17.5" y="-470" font-family="Helvetica,sans-Serif" font-size="10.00">GenBase()</text>
+<text text-anchor="start" x="4.5" y="-455" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="17.5" y="-455" font-family="Helvetica,sans-Serif" font-size="10.00">delegate bool CustomPerUnit</text>
+<text text-anchor="start" x="17.5" y="-444" font-family="Helvetica,sans-Serif" font-size="10.00">Action(int x, int y, params</text>
+<text text-anchor="start" x="17.5" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00"> object[] args)</text>
 <polygon fill="#666666" stroke="#666666" points="0.5,-551 0.5,-551 165.5,-551 165.5,-551 0.5,-551"/>
 <polygon fill="#666666" stroke="#666666" points="0.5,-480 0.5,-480 15.5,-480 15.5,-480 0.5,-480"/>
 <polygon fill="#666666" stroke="#666666" points="15.5,-480 15.5,-480 165.5,-480 165.5,-480 15.5,-480"/>

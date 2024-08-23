@@ -1,5 +1,6 @@
 var classAndroid__UserManager =
 [
+    [ "Android_UserManager", "d4/db4/classAndroid__UserManager_a21c1d66b501f8986baedf392e850a4d0.html#a21c1d66b501f8986baedf392e850a4d0", null ],
     [ "_authenticationFailedEvent", "d4/db4/classAndroid__UserManager_a697095ff2f606f6f6ed00825c8905f88.html#a697095ff2f606f6f6ed00825c8905f88", null ],
     [ "_authenticationSucceededEvent", "d4/db4/classAndroid__UserManager_a7984cf3c80339ddaf86c7c8d88195859.html#a7984cf3c80339ddaf86c7c8d88195859", null ],
     [ "AttemptSignIn", "d4/db4/classAndroid__UserManager_aa29109531dd9f7dd77da438e01efc593.html#aa29109531dd9f7dd77da438e01efc593", null ],

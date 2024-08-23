@@ -1,0 +1,13 @@
+<map id="System.Threading.Tasks.TaskFactory&lt; TResult &gt;.FromAsyncTrimPromise&lt; TInstance &gt;" name="System.Threading.Tasks.TaskFactory&lt; TResult &gt;.FromAsyncTrimPromise&lt; TInstance &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,4789,646,5204"/>
+<area shape="rect" id="Node000002" href="$da/d81/classSystem_1_1Threading_1_1Tasks_1_1Task.html" title=" " alt="" coords="243,153,682,4741"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,4755,465,4789,460,4789,460,4755"/>
+<area shape="rect" id="Node000003" href="$d6/d20/interfaceSystem_1_1Threading_1_1IThreadPoolWorkItem.html" title=" " alt="" coords="5,5,235,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,118,246,916,241,917,126,119"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="259,23,453,88"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="361,102,363,153,358,153,355,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="477,23,664,88"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="571,102,569,153,564,153,566,102"/>
+<area shape="rect" id="Node000006" href="$d6/d9c/classTask.html" title=" " alt="" coords="688,23,731,88"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="707,102,685,322,679,321,702,101"/>
+</map>

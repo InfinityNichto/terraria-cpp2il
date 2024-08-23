@@ -1,0 +1,25 @@
+<map id="System.Configuration.ConfigurationSection" name="System.Configuration.ConfigurationSection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1219,420,1483,619"/>
+<area shape="rect" id="Node000003" href="$d8/d7d/classSystem_1_1Configuration_1_1ClientSettingsSection.html" title=" " alt="" coords="5,783,235,913"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1205,528,967,542,687,567,551,585,427,608,323,636,282,652,248,669,217,693,191,722,150,785,146,782,186,718,214,689,245,664,280,647,322,631,426,603,550,580,687,562,967,536,1205,523"/>
+<area shape="rect" id="Node000004" href="$d4/d34/classSystem_1_1Configuration_1_1IgnoreSection.html" title=" " alt="" coords="259,707,523,989"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1205,537,1030,557,835,586,742,604,658,624,588,645,536,669,510,687,487,709,483,705,507,683,533,664,586,640,657,619,741,599,834,581,1029,552,1204,532"/>
+<area shape="rect" id="Node000005" href="$dd/dc1/classSystem_1_1Configuration_1_1UriSection.html" title=" " alt="" coords="547,763,792,933"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1206,536,1111,552,1007,578,902,616,852,641,806,669,780,689,756,713,717,765,713,762,752,709,776,685,802,664,850,636,900,611,1005,573,1110,547,1205,531"/>
+<area shape="rect" id="Node000006" href="$dc/d1c/classSystem_1_1Net_1_1Configuration_1_1AuthenticationModulesSection.html" title=" " alt="" coords="816,756,1064,940"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1208,585,1140,623,1078,669,1036,711,999,758,995,754,1032,708,1074,665,1137,619,1205,580"/>
+<area shape="rect" id="Node000007" href="$dc/dbd/classSystem_1_1Net_1_1Configuration_1_1ConnectionManagementSection.html" title=" " alt="" coords="1089,783,1346,913"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1308,633,1246,784,1241,782,1303,631"/>
+<area shape="rect" id="Node000008" href="$d3/de5/classSystem_1_1Net_1_1Configuration_1_1DefaultProxySection.html" title=" " alt="" coords="1371,709,1600,987"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1399,630,1431,707,1426,709,1394,632"/>
+<area shape="rect" id="Node000009" href="$db/de3/classSystem_1_1Net_1_1Configuration_1_1RequestCachingSection.html" title=" " alt="" coords="1625,684,1890,1012"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1496,586,1557,622,1614,665,1633,682,1629,686,1610,669,1554,627,1493,591"/>
+<area shape="rect" id="Node000010" href="$d1/dbf/classSystem_1_1Net_1_1Configuration_1_1SettingsSection.html" title=" " alt="" coords="1915,667,2152,1029"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1497,530,1593,545,1699,571,1806,610,1856,635,1904,664,1916,673,1913,677,1901,669,1854,640,1804,615,1698,577,1592,551,1496,535"/>
+<area shape="rect" id="Node000011" href="$dc/de0/classSystem_1_1Net_1_1Configuration_1_1SmtpSection.html" title=" " alt="" coords="2176,721,2424,975"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1497,531,1671,551,1866,580,1959,598,2043,618,2113,640,2165,664,2198,689,2227,719,2223,723,2195,693,2163,669,2111,645,2041,623,1958,603,1865,586,1671,557,1496,537"/>
+<area shape="rect" id="Node000012" href="$d5/d6d/classSystem_1_1Net_1_1Configuration_1_1WebRequestModulesSection.html" title=" " alt="" coords="2448,756,2725,940"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1497,525,1730,540,2004,567,2137,585,2259,607,2361,634,2403,648,2437,664,2465,683,2490,705,2533,754,2529,757,2487,708,2462,687,2435,669,2401,653,2360,639,2258,613,2137,590,2003,572,1729,545,1496,530"/>
+<area shape="rect" id="Node000002" href="$de/d66/classSystem_1_1Configuration_1_1ConfigurationElement.html" title=" " alt="" coords="1212,5,1489,372"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1353,386,1353,420,1348,420,1348,386"/>
+</map>

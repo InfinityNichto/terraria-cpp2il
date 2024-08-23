@@ -1,6 +1,7 @@
 var classTerraria_1_1UI_1_1Chat_1_1ChatManager =
 [
     [ "Regexes", "db/d17/classTerraria_1_1UI_1_1Chat_1_1ChatManager_1_1Regexes.html", "db/d17/classTerraria_1_1UI_1_1Chat_1_1ChatManager_1_1Regexes" ],
+    [ "ChatManager", "d7/df6/classTerraria_1_1UI_1_1Chat_1_1ChatManager_a769572e84635e160691d32b6cbf17ddb.html#a769572e84635e160691d32b6cbf17ddb", null ],
     [ "AddChatText", "d7/df6/classTerraria_1_1UI_1_1Chat_1_1ChatManager_a15d7ffb477ba1ae5c4fd44fd114d1c84.html#a15d7ffb477ba1ae5c4fd44fd114d1c84", null ],
     [ "ConvertNormalSnippets", "d7/df6/classTerraria_1_1UI_1_1Chat_1_1ChatManager_aca54469359554d1f1bd400f0bbed1194.html#aca54469359554d1f1bd400f0bbed1194", null ],
     [ "DrawColorCodedString", "d7/df6/classTerraria_1_1UI_1_1Chat_1_1ChatManager_a62279670c48906b00b03fb8f21b5c1cd.html#a62279670c48906b00b03fb8f21b5c1cd", null ],

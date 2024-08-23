@@ -1,0 +1,24 @@
+<map id="System.Threading.Tasks.ValueTask&lt; TResult &gt;.ValueTaskSourceAsTask" name="System.Threading.Tasks.ValueTask&lt; TResult &gt;.ValueTaskSourceAsTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="620,9487,881,9907"/>
+<area shape="rect" id="Node000002" href="$da/d81/classSystem_1_1Threading_1_1Tasks_1_1Task.html" title=" " alt="" coords="403,4820,842,9437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="741,9451,743,9486,737,9486,736,9451"/>
+<area shape="rect" id="Node000003" href="$d6/d20/interfaceSystem_1_1Threading_1_1IThreadPoolWorkItem.html" title=" " alt="" coords="209,5,438,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,101,164,125,138,156,115,206,94,274,76,358,60,457,35,698,19,987,10,1314,8,1669,12,2044,20,2429,46,3193,79,3885,113,4431,138,4757,160,4949,187,5145,252,5536,327,5917,406,6271,400,6272,322,5918,247,5537,182,5145,155,4950,133,4758,107,4432,74,3885,40,3193,14,2429,6,2044,3,1669,5,1313,14,987,30,698,55,457,71,357,89,272,110,204,133,153,161,121,195,96"/>
+<area shape="rect" id="Node000006" href="$da/d81/classSystem_1_1Threading_1_1Tasks_1_1Task.html" title=" " alt="" coords="147,155,586,4757"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="328,119,328,154,323,154,322,119"/>
+<area shape="rect" id="Node000008" href="$da/d81/classSystem_1_1Threading_1_1Tasks_1_1Task.html" title=" " alt="" coords="659,162,1098,4750"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="452,103,498,112,535,116,568,126,584,137,599,153,661,235,657,239,595,156,580,141,565,131,534,121,497,117,451,108"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="529,23,724,88"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="629,102,626,4820,621,4820,624,102"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="614,102,606,130,588,220,583,219,601,129,608,101"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="639,101,644,129,662,251,656,252,638,130,633,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="785,23,972,88"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="986,72,1021,84,1056,101,1087,124,1113,153,1138,203,1160,270,1180,354,1196,454,1222,694,1240,982,1249,1309,1251,1664,1247,2039,1238,2425,1210,3190,1175,3884,1140,4431,1113,4758,1091,4950,1064,5146,998,5539,923,5920,844,6275,839,6273,918,5919,993,5538,1059,5145,1086,4950,1108,4757,1134,4431,1169,3883,1205,3190,1233,2425,1242,2039,1246,1664,1243,1309,1234,982,1217,694,1191,454,1174,355,1155,272,1133,205,1108,156,1084,128,1053,106,1019,89,984,77"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="781,96,696,130,665,146,650,157,588,245,584,242,646,153,663,141,694,125,779,91"/>
+<area shape="poly" id="edge13_Node000008_Node000005" title=" " alt="" coords="881,102,881,162,876,162,876,102"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="472,4771,473,4796,474,4820,469,4820,468,4796,466,4771"/>
+<area shape="rect" id="Node000007" href="$d6/d9c/classTask.html" title=" " alt="" coords="462,23,505,88"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="484,102,482,155,476,154,479,102"/>
+<area shape="poly" id="edge14_Node000008_Node000007" title=" " alt="" coords="512,97,519,103,542,117,563,124,583,133,599,153,661,288,657,290,595,156,580,137,561,129,539,122,515,107,508,101"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="1090,4764,1113,5295,1126,5856,1127,6439,1122,6737,1113,7038,1100,7341,1082,7644,1059,7948,1030,8251,996,8553,956,8852,910,9147,857,9438,845,9487,840,9486,852,9437,905,9146,951,8851,991,8552,1025,8251,1053,7948,1077,7644,1095,7340,1108,7038,1117,6737,1122,6439,1121,5856,1108,5295,1085,4764"/>
+</map>

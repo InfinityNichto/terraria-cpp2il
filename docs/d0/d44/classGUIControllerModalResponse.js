@@ -9,5 +9,5 @@ var classGUIControllerModalResponse =
     [ "GetNavigationOutDirs", "d0/d44/classGUIControllerModalResponse_acc290d5b256f9ead6f9fb112809b27e5.html#acc290d5b256f9ead6f9fb112809b27e5", null ],
     [ "GetSelectedItemRegion", "d0/d44/classGUIControllerModalResponse_a3b362f3ab4ec8e0254985314acff9d59.html#a3b362f3ab4ec8e0254985314acff9d59", null ],
     [ "Navigate", "d0/d44/classGUIControllerModalResponse_a25a94faa41efa07dbd3f77efa2683026.html#a25a94faa41efa07dbd3f77efa2683026", null ],
-    [ "selectedControl", "d0/d44/classGUIControllerModalResponse_a1910d5e30c6192494bedb82ca48cfa44.html#a1910d5e30c6192494bedb82ca48cfa44", null ]
+    [ "selectedControl", "d0/d44/classGUIControllerModalResponse_a635528f2adbc054e08c2baf0dbac4030.html#a635528f2adbc054e08c2baf0dbac4030", null ]
 ];

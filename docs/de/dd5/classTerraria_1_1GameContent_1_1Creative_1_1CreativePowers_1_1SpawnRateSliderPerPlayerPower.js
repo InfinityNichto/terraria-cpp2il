@@ -40,6 +40,7 @@ var classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSlide
     [ "_powerNameKey", "de/dd5/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSliderPerPlayerPower.html#a0b28ce6b8fbc44f8c54480b3a680f620", null ],
     [ "_sliderCurrentValueCache", "de/dd5/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSliderPerPlayerPower.html#a365c8b5dba48a1408cdbf505a8efad39", null ],
     [ "_sliderDefaultValue", "de/dd5/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSliderPerPlayerPower.html#a9e7de176b4ab95d61b09f8999508a3c3", null ],
+    [ "k__BackingField", "de/dd5/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSliderPerPlayerPower_af1ddcbebc02373ebc2ae3aae74874c32.html#af1ddcbebc02373ebc2ae3aae74874c32", null ],
     [ "CurrentPermissionLevel", "de/dd5/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSliderPerPlayerPower.html#aac4af1ed77b6a392803ef1365a4445b8", null ],
     [ "DefaultPermissionLevel", "de/dd5/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSliderPerPlayerPower.html#aa60494b74e1b7c4e6f54ccc15a09eb31", null ],
     [ "PowerId", "de/dd5/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1SpawnRateSliderPerPlayerPower.html#a3caaf87a87b75c5d7a03e90a2c6f5e09", null ],

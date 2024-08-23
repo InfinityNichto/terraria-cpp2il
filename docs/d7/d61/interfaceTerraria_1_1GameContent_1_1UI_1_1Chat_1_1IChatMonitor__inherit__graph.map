@@ -1,9 +1,9 @@
 <map id="Terraria.GameContent.UI.Chat.IChatMonitor" name="Terraria.GameContent.UI.Chat.IChatMonitor">
-<area shape="rect" id="Node000001" title=" " alt="" coords="311,5,560,328"/>
-<area shape="rect" id="Node000002" href="$da/dfc/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1LegacyChatMonitor.html" title=" " alt="" coords="5,386,276,991"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,341,291,377,278,399,274,397,286,375,309,338"/>
-<area shape="rect" id="Node000003" href="$df/da4/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1MobileChatMonitor.html" title=" " alt="" coords="300,376,571,1001"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="438,342,438,376,433,376,433,342"/>
-<area shape="rect" id="Node000004" href="$d9/d88/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1RemadeChatMonitor.html" title=" " alt="" coords="595,435,844,942"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="563,339,584,375,616,434,611,436,580,377,558,341"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="282,5,489,313"/>
+<area shape="rect" id="Node000002" href="$da/dfc/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1LegacyChatMonitor.html" title=" " alt="" coords="5,371,243,947"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,327,257,363,245,385,240,383,252,360,273,324"/>
+<area shape="rect" id="Node000003" href="$df/da4/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1MobileChatMonitor.html" title=" " alt="" coords="267,361,504,957"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="388,327,388,361,383,361,383,327"/>
+<area shape="rect" id="Node000004" href="$d9/d88/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1RemadeChatMonitor.html" title=" " alt="" coords="529,413,770,905"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="498,324,518,360,545,412,541,414,514,363,493,327"/>
 </map>

@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1ChainID =
 [
+    [ "ChainID", "d0/dc5/classTerraria_1_1ID_1_1ChainID_ac7911e0be9feda1258ddb3253d8704f6.html#ac7911e0be9feda1258ddb3253d8704f6", null ],
     [ "Count", "d0/dc5/classTerraria_1_1ID_1_1ChainID_a4731bdd1e81ced6aa7cbf1b485b1635f.html#a4731bdd1e81ced6aa7cbf1b485b1635f", null ],
     [ "IlluminantHook", "d0/dc5/classTerraria_1_1ID_1_1ChainID_a9b575ba0b94d19500dbc540bd7556054.html#a9b575ba0b94d19500dbc540bd7556054", null ],
     [ "LunarNebula", "d0/dc5/classTerraria_1_1ID_1_1ChainID_af25e2b8b6cc0117789d4919f1638d70d.html#af25e2b8b6cc0117789d4919f1638d70d", null ],

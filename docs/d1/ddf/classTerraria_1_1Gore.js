@@ -1,6 +1,7 @@
 var classTerraria_1_1Gore =
 [
     [ "Gore", "d1/ddf/classTerraria_1_1Gore_ae369346303a6afd5ffe67b6df9f61761.html#ae369346303a6afd5ffe67b6df9f61761", null ],
+    [ "Gore", "d1/ddf/classTerraria_1_1Gore_a5431ed0765d4ac0ba23af3cfd28be3e4.html#a5431ed0765d4ac0ba23af3cfd28be3e4", null ],
     [ "ChumFloatingChunk_GetWaterLine", "d1/ddf/classTerraria_1_1Gore_ae7f7741a2ff4e244d953a8b53850facd.html#ae7f7741a2ff4e244d953a8b53850facd", null ],
     [ "DeactivateIfOutsideOfWorld", "d1/ddf/classTerraria_1_1Gore_ab75a2b8fae7afb5042b6f0a853b104b5.html#ab75a2b8fae7afb5042b6f0a853b104b5", null ],
     [ "GetAlpha", "d1/ddf/classTerraria_1_1Gore_aa6b20df61b7846d0c65d3f75962fe6b0.html#aa6b20df61b7846d0c65d3f75962fe6b0", null ],

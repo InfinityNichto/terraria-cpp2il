@@ -10,5 +10,5 @@ var structFloatArray__10 =
     [ "val7", "de/d87/structFloatArray__10_a2398c92e0334df53a73058edc1e3d16e.html#a2398c92e0334df53a73058edc1e3d16e", null ],
     [ "val8", "de/d87/structFloatArray__10_a24c7f56832a2a6b1e43800a57ea7c1f3.html#a24c7f56832a2a6b1e43800a57ea7c1f3", null ],
     [ "val9", "de/d87/structFloatArray__10_a8dfd46fd846e78920d1d1b6cb00129b5.html#a8dfd46fd846e78920d1d1b6cb00129b5", null ],
-    [ "Item", "de/d87/structFloatArray__10_a12a0ee140e28f9f034bb462adf7cabeb.html#a12a0ee140e28f9f034bb462adf7cabeb", null ]
+    [ "this[int index]", "de/d87/structFloatArray__10_a9c395bb9d6b29244e317915d2c24abeb.html#a9c395bb9d6b29244e317915d2c24abeb", null ]
 ];

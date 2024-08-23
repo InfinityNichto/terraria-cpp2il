@@ -7,7 +7,7 @@ var classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler_1_1ItemSnippet 
     [ "OnClick", "db/d80/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler_1_1ItemSnippet.html#ac91ed6c84eca5618d641d89c9bb137e8", null ],
     [ "OnHover", "db/d80/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler_1_1ItemSnippet_a6490177878e49ea66b36920c354173e1.html#a6490177878e49ea66b36920c354173e1", null ],
     [ "ToString", "db/d80/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler_1_1ItemSnippet.html#add04e255303899165ab0cda818c3011d", null ],
-    [ "UniqueDraw", "db/d80/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler_1_1ItemSnippet_a727ad77055f8542e794fd77a3fdfce2a.html#a727ad77055f8542e794fd77a3fdfce2a", null ],
+    [ "UniqueDraw", "db/d80/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler_1_1ItemSnippet_aaf6d1602e313ebea2faf562f0ba6ccee.html#aaf6d1602e313ebea2faf562f0ba6ccee", null ],
     [ "Update", "db/d80/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler_1_1ItemSnippet.html#a4baf57ddf262c9535fdb7919c48b8c6b", null ],
     [ "_item", "db/d80/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler_1_1ItemSnippet_a5411fb65bab93d8a71fb46f6096421dc.html#a5411fb65bab93d8a71fb46f6096421dc", null ],
     [ "CheckForHover", "db/d80/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1ItemTagHandler_1_1ItemSnippet.html#a87fa3e0127e5f641aef3fb0047cd7a1c", null ],

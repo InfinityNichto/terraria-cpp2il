@@ -2,7 +2,7 @@ var classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderData =
 [
     [ "ArmorShaderData", "d8/d29/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderData_a0a7cad46b486246983eaa0762b200626.html#a0a7cad46b486246983eaa0762b200626", null ],
     [ "Apply", "d8/d29/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderData.html#af9ab60e3e82d5fb346da65e084582276", null ],
-    [ "Apply", "d8/d29/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderData_acfc1d6a951f3354f23923cdfde60db08.html#acfc1d6a951f3354f23923cdfde60db08", null ],
+    [ "Apply", "d8/d29/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderData_adbaf2c51af35915d9a090e8406f70681.html#adbaf2c51af35915d9a090e8406f70681", null ],
     [ "ApplyDust", "d8/d29/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderData_a9fa044a5032d13039eddbc559629f2e0.html#a9fa044a5032d13039eddbc559629f2e0", null ],
     [ "GetDustEffect", "d8/d29/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderData_a6c5ba4e487532c5302759dbec29b409b.html#a6c5ba4e487532c5302759dbec29b409b", null ],
     [ "GetSecondaryShader", "d8/d29/classTerraria_1_1Graphics_1_1Shaders_1_1ArmorShaderData_a93ca573d4521bc7bb08c18ca507409a6.html#a93ca573d4521bc7bb08c18ca507409a6", null ],

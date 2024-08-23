@@ -1,6 +1,6 @@
 var structGUIMultiplayerLobby_1_1ServerInformation =
 [
-    [ "ServerInformation", "da/d48/structGUIMultiplayerLobby_1_1ServerInformation_ab6de497da3575783222663ca1de96801.html#ab6de497da3575783222663ca1de96801", null ],
+    [ "ServerInformation", "da/d48/structGUIMultiplayerLobby_1_1ServerInformation_af56ba6fe407f4d99cff4d66db823b165.html#af56ba6fe407f4d99cff4d66db823b165", null ],
     [ "Active", "da/d48/structGUIMultiplayerLobby_1_1ServerInformation_a95ba7fb8db81f4a55ea9d79171c91925.html#a95ba7fb8db81f4a55ea9d79171c91925", null ],
     [ "CurrentPlayers", "da/d48/structGUIMultiplayerLobby_1_1ServerInformation_a874cf2fb1a8911e3f2abe5723e400372.html#a874cf2fb1a8911e3f2abe5723e400372", null ],
     [ "ExistingSession", "da/d48/structGUIMultiplayerLobby_1_1ServerInformation_a1b847d46af0c4e5b306b071a60b84287.html#a1b847d46af0c4e5b306b071a60b84287", null ],

@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble =
 [
     [ "EmoteBubble", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_a3a7b7d891e3af241b146bc93c20783b8.html#a3a7b7d891e3af241b146bc93c20783b8", null ],
+    [ "EmoteBubble", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_aa018df34a42c7aae9ad37824f25b3d91.html#aa018df34a42c7aae9ad37824f25b3d91", null ],
     [ "AssignNewID", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_ade9723fb51f991990adfe9cc80293a9c.html#ade9723fb51f991990adfe9cc80293a9c", null ],
     [ "CheckForNPCsToReactToEmoteBubble", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_a1a54a24883263fc72d72c5610f5a7451.html#a1a54a24883263fc72d72c5610f5a7451", null ],
     [ "DeserializeNetAnchor", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_a5837ecb31f0bf0d1b0c71762b5812ca3.html#a5837ecb31f0bf0d1b0c71762b5812ca3", null ],
@@ -9,9 +10,9 @@ var classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble =
     [ "GetPosition", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_a580b38f3f3958d64987c279e27a87f49.html#a580b38f3f3958d64987c279e27a87f49", null ],
     [ "MakeLocalPlayerEmote", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_a19ae834a4e537b250080d0fea608ca38.html#a19ae834a4e537b250080d0fea608ca38", null ],
     [ "NewBubble", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_ab03636f31b43bc0acea111154e1b5000.html#ab03636f31b43bc0acea111154e1b5000", null ],
-    [ "NewBubbleNPC", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_a910e490df76b6759561ecb593f588ec1.html#a910e490df76b6759561ecb593f588ec1", null ],
+    [ "NewBubbleNPC", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_a1076e8e784c567f08a4c626c765aad38.html#a1076e8e784c567f08a4c626c765aad38", null ],
     [ "OnBubbleChange", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_ab9168a12857b24ff29d3f709675b267c.html#ab9168a12857b24ff29d3f709675b267c", null ],
-    [ "PickNPCEmote", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_a2f50e5fab931406e1e76f75125eb378a.html#a2f50e5fab931406e1e76f75125eb378a", null ],
+    [ "PickNPCEmote", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_a26971c74fa10b114e660029e8e94f587.html#a26971c74fa10b114e660029e8e94f587", null ],
     [ "ProbeBiomes", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_ae551e29820081c4257bebdad3fd89614.html#ae551e29820081c4257bebdad3fd89614", null ],
     [ "ProbeBosses", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_ae86d7bd7203d98a2e7a4c7d151985463.html#ae86d7bd7203d98a2e7a4c7d151985463", null ],
     [ "ProbeCombat", "d9/da6/classTerraria_1_1GameContent_1_1UI_1_1EmoteBubble_ae124bd9cfcc8c715902d9a01a542fd6f.html#ae124bd9cfcc8c715902d9a01a542fd6f", null ],

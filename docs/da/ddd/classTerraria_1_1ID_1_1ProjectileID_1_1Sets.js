@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1ProjectileID_1_1Sets =
 [
+    [ "Sets", "da/ddd/classTerraria_1_1ID_1_1ProjectileID_1_1Sets_a5f3601c96f00dbc07e69843ebf517766.html#a5f3601c96f00dbc07e69843ebf517766", null ],
     [ "SimpleLoop", "da/ddd/classTerraria_1_1ID_1_1ProjectileID_1_1Sets_ab946ca14cc064cb59c1729a75d53ba34.html#ab946ca14cc064cb59c1729a75d53ba34", null ],
     [ "AllowsContactDamageFromJellyfish", "da/ddd/classTerraria_1_1ID_1_1ProjectileID_1_1Sets_a45fa16ca582e5a165d21a0af3d9d99c4.html#a45fa16ca582e5a165d21a0af3d9d99c4", null ],
     [ "CanDistortWater", "da/ddd/classTerraria_1_1ID_1_1ProjectileID_1_1Sets_aa236b388222cf60d02ae76b04a6b03c7.html#aa236b388222cf60d02ae76b04a6b03c7", null ],

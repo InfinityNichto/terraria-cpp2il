@@ -12,6 +12,8 @@ var classTerraria_1_1Graphics_1_1Renderers_1_1ItemTransferParticle =
     [ "BezierHelper1", "db/d7e/classTerraria_1_1Graphics_1_1Renderers_1_1ItemTransferParticle_aa448412375efdf1f147e734eb2c49df6.html#aa448412375efdf1f147e734eb2c49df6", null ],
     [ "BezierHelper2", "db/d7e/classTerraria_1_1Graphics_1_1Renderers_1_1ItemTransferParticle_a69698f613aa2140b756e8ed9e52c4486.html#a69698f613aa2140b756e8ed9e52c4486", null ],
     [ "EndPosition", "db/d7e/classTerraria_1_1Graphics_1_1Renderers_1_1ItemTransferParticle_af02c436dda00ca5be85a45a26c061c0c.html#af02c436dda00ca5be85a45a26c061c0c", null ],
+    [ "k__BackingField", "db/d7e/classTerraria_1_1Graphics_1_1Renderers_1_1ItemTransferParticle_a01de306cb5034f0f1a04ce866181fd91.html#a01de306cb5034f0f1a04ce866181fd91", null ],
+    [ "k__BackingField", "db/d7e/classTerraria_1_1Graphics_1_1Renderers_1_1ItemTransferParticle_a3be558dd85d0a9fb6fd2ff113c8254d1.html#a3be558dd85d0a9fb6fd2ff113c8254d1", null ],
     [ "StartPosition", "db/d7e/classTerraria_1_1Graphics_1_1Renderers_1_1ItemTransferParticle_acec9b78e73ee67bb18e44da0591e1cfd.html#acec9b78e73ee67bb18e44da0591e1cfd", null ],
     [ "IsRestingInPool", "db/d7e/classTerraria_1_1Graphics_1_1Renderers_1_1ItemTransferParticle_a9ff14ea030836f92ee927a70cfc131b8.html#a9ff14ea030836f92ee927a70cfc131b8", null ],
     [ "ShouldBeRemovedFromRenderer", "db/d7e/classTerraria_1_1Graphics_1_1Renderers_1_1ItemTransferParticle_abbbb215b8024b973c061d6827e84b1a7.html#abbbb215b8024b973c061d6827e84b1a7", null ]

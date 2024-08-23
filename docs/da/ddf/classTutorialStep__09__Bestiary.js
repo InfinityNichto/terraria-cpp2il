@@ -7,7 +7,7 @@ var classTutorialStep__09__Bestiary =
     ] ],
     [ "TutorialStep_09_Bestiary", "da/ddf/classTutorialStep__09__Bestiary_ab8f6aed26fb0562d107ddfbf40a08b35.html#ab8f6aed26fb0562d107ddfbf40a08b35", null ],
     [ "Begin", "da/ddf/classTutorialStep__09__Bestiary_aa48fc12f741ff391b0c24156d8b514c7.html#aa48fc12f741ff391b0c24156d8b514c7", null ],
-    [ "GetGuideState", "da/ddf/classTutorialStep__09__Bestiary_af727da951632cea0404915e9b80cc5a8.html#af727da951632cea0404915e9b80cc5a8", null ],
+    [ "GetGuideState", "da/ddf/classTutorialStep__09__Bestiary_a16e07b6568a8e943169f8b20d63864cb.html#a16e07b6568a8e943169f8b20d63864cb", null ],
     [ "GetGuideString", "da/ddf/classTutorialStep__09__Bestiary_a57004f6ce474fd021e41cc2f3d6b9b58.html#a57004f6ce474fd021e41cc2f3d6b9b58", null ],
     [ "GiveItem", "da/ddf/classTutorialStep__09__Bestiary.html#ac38e5ac4261d7aca8a148210f3a82d04", null ],
     [ "OnGuideDialogueOpen", "da/ddf/classTutorialStep__09__Bestiary_a3cab11babb44980dcb033e57330be830.html#a3cab11babb44980dcb033e57330be830", null ],

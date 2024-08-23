@@ -1,13 +1,21 @@
 <map id="DrPlatform.IOS" name="DrPlatform.IOS">
-<area shape="rect" id="Node000001" title=" " alt="" coords="146,404,363,584"/>
-<area shape="rect" id="Node000002" href="$d4/d4a/classiOS__Mouse.html" title=" " alt="" coords="143,236,260,341"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,341,221,379,223,387,218,389,216,381,208,342"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="26,71,25,103,28,140,37,177,54,210,69,228,88,242,129,264,126,269,85,247,66,231,50,214,32,179,23,140,20,103,20,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="170,5,233,71"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="204,71,204,219,199,219,199,71"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="376,5,419,71"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="404,71,405,104,402,142,391,180,370,214,349,229,328,232,304,233,276,239,275,234,303,228,327,227,347,224,366,210,386,178,397,141,400,104,399,71"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="284,256,335,321"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="303,322,285,389,280,388,298,321"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="233,1557,451,1737"/>
+<area shape="rect" id="Node000002" href="$d4/d4a/classiOS__Mouse.html" title=" " alt="" coords="230,1389,347,1495"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,1494,309,1533,311,1541,306,1542,303,1534,295,1496"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,754,135,819"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,820,87,919,77,986,72,1061,73,1139,84,1218,105,1294,121,1330,140,1364,155,1382,173,1397,216,1419,213,1424,170,1401,151,1386,136,1367,116,1332,100,1296,78,1219,68,1139,67,1061,72,986,81,918,103,819"/>
+<area shape="rect" id="Node000004" href="$d2/d9d/structUnityEngine_1_1Vector3.html" title=" " alt="" coords="164,349,403,1224"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,1224,291,1373,285,1373,284,1224"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="405,705,415,719,423,737,429,787,426,826,415,854,410,853,420,825,424,787,418,738,410,721,401,708"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="11,148,174,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="110,226,150,349,166,400,161,402,145,350,105,227"/>
+<area shape="rect" id="Node000006" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="95,84,95,148,90,148,90,84"/>
+<area shape="rect" id="Node000007" href="$d7/dfc/interfaceSystem_1_1IFormattable.html" title=" " alt="" coords="199,133,435,228"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="316,242,310,349,305,349,311,242"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="531,148,574,213"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="576,201,594,224,609,251,613,272,613,288,609,325,613,463,625,582,654,785,661,882,656,984,648,1038,634,1096,616,1158,591,1225,568,1275,542,1310,508,1338,461,1368,436,1378,414,1382,391,1384,363,1392,362,1386,390,1379,413,1377,435,1373,458,1363,504,1334,538,1306,563,1272,586,1223,611,1156,629,1095,642,1037,651,983,656,882,649,786,620,582,608,464,603,325,607,288,608,272,603,253,590,226,572,204"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="533,196,499,220,467,254,438,298,412,346,407,344,433,296,463,250,495,216,530,192"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="371,1409,422,1475"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="391,1476,373,1542,368,1541,386,1474"/>
 </map>

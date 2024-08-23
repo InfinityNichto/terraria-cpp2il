@@ -1,7 +1,7 @@
 <map id="Terraria.GameContent.UI.Elements.UIBestiaryNPCEntryPortrait" name="Terraria.GameContent.UI.Elements.UIBestiaryNPCEntryPortrait">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,1351,339,1489"/>
-<area shape="rect" id="Node000002" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="33,119,311,1303"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,1316,175,1350,169,1350,169,1316"/>
-<area shape="rect" id="Node000003" href="$d9/d6f/classIComparable.html" title=" " alt="" coords="123,5,221,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,84,175,118,169,118,169,84"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1553,339,1727"/>
+<area shape="rect" id="Node000002" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="33,139,311,1505"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,1519,175,1553,169,1553,169,1519"/>
+<area shape="rect" id="Node000003" href="$d3/ddf/interfaceSystem_1_1IComparable.html" title=" " alt="" coords="73,5,271,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,104,175,139,169,139,169,104"/>
 </map>

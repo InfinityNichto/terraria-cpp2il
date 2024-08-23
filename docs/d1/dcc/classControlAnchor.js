@@ -39,7 +39,7 @@ var classControlAnchor =
       [ "RubbleMakerPopup", "d1/dcc/classControlAnchor_a59821ce6b47d11ba49e21bf276b5cc77.html#a59821ce6b47d11ba49e21bf276b5cc77ad59789ae2c1225f04888231188262151", null ],
       [ "MenuScreen", "d1/dcc/classControlAnchor_a59821ce6b47d11ba49e21bf276b5cc77.html#a59821ce6b47d11ba49e21bf276b5cc77aef2fdda3a0a516f508f930e9ed8cc8bd", null ]
     ] ],
-    [ "GetControlRegion", "d1/dcc/classControlAnchor_ae13a1471a8ce34bc763a44538360944e.html#ae13a1471a8ce34bc763a44538360944e", null ],
+    [ "GetControlRegion", "d1/dcc/classControlAnchor_a706f1cf9762a6baf71cb6b558a64457c.html#a706f1cf9762a6baf71cb6b558a64457c", null ],
     [ "SetButtonRegion", "d1/dcc/classControlAnchor_ac9b8b820b8a494be4044bad15cddf432.html#ac9b8b820b8a494be4044bad15cddf432", null ],
     [ "SetGridItemRegion", "d1/dcc/classControlAnchor_a8755950748f95f699952af9cbc27353c.html#a8755950748f95f699952af9cbc27353c", null ],
     [ "SetLeftPageRegion", "d1/dcc/classControlAnchor_a290f1d43d48b519bb1fa1a675426cc5b.html#a290f1d43d48b519bb1fa1a675426cc5b", null ],

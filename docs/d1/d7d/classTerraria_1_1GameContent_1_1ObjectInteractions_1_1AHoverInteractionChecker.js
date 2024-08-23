@@ -6,7 +6,7 @@ var classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionCheck
       [ "Selected", "d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker_a3436db270f00a2426219125f746553c7.html#a3436db270f00a2426219125f746553c7a91b442d385b54e1418d81adc34871053", null ]
     ] ],
     [ "AHoverInteractionChecker", "d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker_aa111d57724b455afde97d7e6dfab55fb.html#aa111d57724b455afde97d7e6dfab55fb", null ],
-    [ "AttemptInteraction", "d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker_a3139d759cf4e268b1121974dd3910ea6.html#a3139d759cf4e268b1121974dd3910ea6", null ],
+    [ "AttemptInteraction", "d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker_a318e86234fe008bc4c23cda25408d53a.html#a318e86234fe008bc4c23cda25408d53a", null ],
     [ "AttemptOverridingHoverStatus", "d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker_afb4713986523270ba63b2bba1b402099.html#afb4713986523270ba63b2bba1b402099", null ],
     [ "DoHoverEffect", "d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker_a5880d65eedcf78c3698c33224d5d0a95.html#a5880d65eedcf78c3698c33224d5d0a95", null ],
     [ "PerformInteraction", "d1/d7d/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1AHoverInteractionChecker_ab19e4d05c8689940e43c38b2f4e8b0f7.html#ab19e4d05c8689940e43c38b2f4e8b0f7", null ],

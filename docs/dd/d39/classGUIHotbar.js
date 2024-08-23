@@ -2,9 +2,9 @@ var classGUIHotbar =
 [
     [ "GUIHotbar", "dd/d39/classGUIHotbar_a34a297862108e1ec619a3df1f5d746a8.html#a34a297862108e1ec619a3df1f5d746a8", null ],
     [ "Draw", "dd/d39/classGUIHotbar_a35888b7b336a71187ddce6d99f1c4ab6.html#a35888b7b336a71187ddce6d99f1c4ab6", null ],
-    [ "DrawHotbarItem", "dd/d39/classGUIHotbar_a01b5b3fc02c6df73c365b925a8d73585.html#a01b5b3fc02c6df73c365b925a8d73585", null ],
+    [ "DrawHotbarItem", "dd/d39/classGUIHotbar_a25995b8acfa56fa943a3b6661c356712.html#a25995b8acfa56fa943a3b6661c356712", null ],
     [ "GetRegion", "dd/d39/classGUIHotbar_ae0d6f801db344926466ede66cedda9ce.html#ae0d6f801db344926466ede66cedda9ce", null ],
-    [ "ItemDraw", "dd/d39/classGUIHotbar_a478eab8ccb851e1dbe566e6725083fed.html#a478eab8ccb851e1dbe566e6725083fed", null ],
+    [ "ItemDraw", "dd/d39/classGUIHotbar_a09411527b0cc07600dda8b76a4562f7f.html#a09411527b0cc07600dda8b76a4562f7f", null ],
     [ "ItemOver", "dd/d39/classGUIHotbar_a81113a6e2b78676140c54608db45796b.html#a81113a6e2b78676140c54608db45796b", null ],
     [ "ItemScale", "dd/d39/classGUIHotbar_a0b79c61b108571a041d55708ca3eed51.html#a0b79c61b108571a041d55708ca3eed51", null ],
     [ "NextItem", "dd/d39/classGUIHotbar_a415d492cca9a65662e591570c307e96e.html#a415d492cca9a65662e591570c307e96e", null ],

@@ -1,3 +1,24 @@
 <map id="Microsoft.Xna.Framework.Input.JoystickCapabilities" name="Microsoft.Xna.Framework.Input.JoystickCapabilities">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,235,339"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="384,261,613,595"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,157,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,197,179,235,371,352,369,357,176,240,121,201"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="148,5,191,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,56,112,73,92,96,85,114,82,134,77,133,79,113,87,93,108,69,134,52"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="181,133,328,199"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="201,78,212,93,237,132,232,135,207,96,196,81"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="352,133,491,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="427,199,433,237,435,245,430,246,428,238,421,199"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="396,5,447,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="424,85,424,133,419,133,419,85"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="279,197,310,236,374,304,370,308,306,239,275,200"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="515,133,642,199"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="571,200,557,246,552,245,566,198"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="722,5,753,71"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="710,52,671,71,632,97,600,135,595,131,629,93,669,66,708,47"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="666,133,809,199"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="740,85,740,133,735,133,735,85"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="833,133,956,199"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="767,44,814,62,838,75,861,93,875,111,886,132,881,134,871,114,857,97,835,80,811,67,765,49"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="716,201,685,239,627,302,623,299,681,236,712,197"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="863,201,816,239,723,303,629,359,627,354,720,298,813,235,860,197"/>
 </map>

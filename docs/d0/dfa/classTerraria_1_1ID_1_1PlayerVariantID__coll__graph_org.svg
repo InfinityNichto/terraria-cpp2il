@@ -20,7 +20,8 @@
 <text text-anchor="start" x="19" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">const int MaleSticker</text>
 <text text-anchor="start" x="5" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="19" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">const int MaleGangster</text>
-<text text-anchor="start" x="68" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="7.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="19" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">static PlayerVariantID()</text>
 <polygon fill="#666666" stroke="#666666" points="0,-61.5 0,-61.5 140,-61.5 140,-61.5 0,-61.5"/>
 <polygon fill="#666666" stroke="#666666" points="0,-16.5 0,-16.5 17,-16.5 17,-16.5 0,-16.5"/>
 <polygon fill="#666666" stroke="#666666" points="17,-16.5 17,-16.5 140,-16.5 140,-16.5 17,-16.5"/>

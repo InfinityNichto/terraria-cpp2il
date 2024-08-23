@@ -17,7 +17,7 @@ var classTerraria_1_1IO_1_1Preferences =
     [ "_serializerSettings", "df/d93/classTerraria_1_1IO_1_1Preferences_ae70e8757a65327a5add594f1b5d0a9eb.html#ae70e8757a65327a5add594f1b5d0a9eb", null ],
     [ "AutoSave", "df/d93/classTerraria_1_1IO_1_1Preferences_a98e828c08bc6e325ced205d217ff25fa.html#a98e828c08bc6e325ced205d217ff25fa", null ],
     [ "UseBson", "df/d93/classTerraria_1_1IO_1_1Preferences_af4761c28af08abd0e0389e41fcf4b0c0.html#af4761c28af08abd0e0389e41fcf4b0c0", null ],
-    [ "OnLoad", "df/d93/classTerraria_1_1IO_1_1Preferences_a4cbeaf94da38a571c6c7823d22c6cc87.html#a4cbeaf94da38a571c6c7823d22c6cc87", null ],
-    [ "OnProcessText", "df/d93/classTerraria_1_1IO_1_1Preferences_af5b6b59c6f2267d8d733f4ceacae5717.html#af5b6b59c6f2267d8d733f4ceacae5717", null ],
-    [ "OnSave", "df/d93/classTerraria_1_1IO_1_1Preferences_a9443eed5e0fa524fd950032cf19097cc.html#a9443eed5e0fa524fd950032cf19097cc", null ]
+    [ "OnLoad", "df/d93/classTerraria_1_1IO_1_1Preferences_a8c95e444989edbbd9e1d88227b7f19d1.html#a8c95e444989edbbd9e1d88227b7f19d1", null ],
+    [ "OnProcessText", "df/d93/classTerraria_1_1IO_1_1Preferences_a30d8a191fd799c137aa47fe0c6f68e6c.html#a30d8a191fd799c137aa47fe0c6f68e6c", null ],
+    [ "OnSave", "df/d93/classTerraria_1_1IO_1_1Preferences_ad21c2ded45887ed281e3b5f0d908cff0.html#ad21c2ded45887ed281e3b5f0d908cff0", null ]
 ];

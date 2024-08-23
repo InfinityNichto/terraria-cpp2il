@@ -2,8 +2,8 @@ var classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData =
 [
     [ "TwilightHairDyeShaderData", "d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData_abc445c700e804b60d5c8e2c2f59741b9.html#abc445c700e804b60d5c8e2c2f59741b9", null ],
     [ "Apply", "d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData.html#af9ab60e3e82d5fb346da65e084582276", null ],
-    [ "Apply", "d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData.html#a5e8c48c5dc19fece6a4402d75d2df35f", null ],
-    [ "Apply", "d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData_a48161b72d5b59880fb56a5a8f2c460a5.html#a48161b72d5b59880fb56a5a8f2c460a5", null ],
+    [ "Apply", "d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData.html#a52d1b32d5e4929c15b3c6b0e6237b410", null ],
+    [ "Apply", "d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData_ad6b6b81c649b7b7e573084363a1e2c8c.html#ad6b6b81c649b7b7e573084363a1e2c8c", null ],
     [ "GetColor", "d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData.html#a08535d3543a836f24ca15ff0964de763", null ],
     [ "UseColor", "d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData.html#a1adeea98882f6eca8eec5b08cc100b89", null ],
     [ "UseColor", "d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData.html#ab1357d0e0c87d9449d141aeb2b553d62", null ],

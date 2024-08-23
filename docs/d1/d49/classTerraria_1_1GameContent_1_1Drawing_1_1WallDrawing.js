@@ -10,7 +10,7 @@ var classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing =
     [ "ProcessBatchFinished", "d1/d49/classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing_adf69ecc5f944dcea4564c258c7a055ea.html#adf69ecc5f944dcea4564c258c7a055ea", null ],
     [ "Update", "d1/d49/classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing_a9e182aef44510e660cdb031fc456c491.html#a9e182aef44510e660cdb031fc456c491", null ],
     [ "WaitDrawThreads", "d1/d49/classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing_a138b7e9d3a50cbd6502a89ab6199cd53.html#a138b7e9d3a50cbd6502a89ab6199cd53", null ],
-    [ "_currentWallDrawInfo", "d1/d49/classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing_a770a55b702b1043258b5d8fc856f9287.html#a770a55b702b1043258b5d8fc856f9287", null ],
+    [ "_currentWallDrawInfo", "d1/d49/classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing_ab00c8b136bf2021db0897595fcecc168.html#ab00c8b136bf2021db0897595fcecc168", null ],
     [ "_glowPaintColors", "d1/d49/classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing_ac4237a44cfb6a140a1dffcf95e231dc7.html#ac4237a44cfb6a140a1dffcf95e231dc7", null ],
     [ "_paintSystem", "d1/d49/classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing_a70b7dcd4d4bd6c5fbeadbd7449e7cb31.html#a70b7dcd4d4bd6c5fbeadbd7449e7cb31", null ],
     [ "_processBatchFinishedCallback", "d1/d49/classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing_a437b721d27668d38b9d60cf36e65dff6.html#a437b721d27668d38b9d60cf36e65dff6", null ],

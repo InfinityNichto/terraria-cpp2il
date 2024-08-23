@@ -33,7 +33,7 @@
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d4/d06/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1FadingSkyEntity.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="182,-521 17,-521 17,-133 182,-133 182,-521"/>
-<text text-anchor="start" x="61" y="-509" font-family="Helvetica,sans-Serif" font-size="10.00">FadingSkyEntity</text>
+<text text-anchor="start" x="29" y="-509" font-family="Helvetica,sans-Serif" font-size="10.00">AmbientSky::FadingSkyEntity</text>
 <text text-anchor="start" x="21.5" y="-494" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="34.5" y="-494" font-family="Helvetica,sans-Serif" font-size="10.00">int LifeTime</text>
 <text text-anchor="start" x="21.5" y="-479" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
@@ -100,7 +100,7 @@
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../d2/d84/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SkyEntity.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="199,-967 0,-967 0,-557 199,-557 199,-967"/>
-<text text-anchor="start" x="77" y="-955" font-family="Helvetica,sans-Serif" font-size="10.00">SkyEntity</text>
+<text text-anchor="start" x="45" y="-955" font-family="Helvetica,sans-Serif" font-size="10.00">AmbientSky::SkyEntity</text>
 <text text-anchor="start" x="4.5" y="-940" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-940" font-family="Helvetica,sans-Serif" font-size="10.00">Vector2 Position</text>
 <text text-anchor="start" x="4.5" y="-925" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

@@ -1,6 +1,7 @@
 var classTerraria_1_1ID_1_1WallID_1_1Sets =
 [
     [ "Conversion", "d2/de5/classTerraria_1_1ID_1_1WallID_1_1Sets_1_1Conversion.html", "d2/de5/classTerraria_1_1ID_1_1WallID_1_1Sets_1_1Conversion" ],
+    [ "Sets", "db/d36/classTerraria_1_1ID_1_1WallID_1_1Sets_a8736ef13fcf586fc0eae016c6d8108d7.html#a8736ef13fcf586fc0eae016c6d8108d7", null ],
     [ "AllowsPlantsToGrow", "db/d36/classTerraria_1_1ID_1_1WallID_1_1Sets_a75c74eff12ad49c5c313007c0554ff8a.html#a75c74eff12ad49c5c313007c0554ff8a", null ],
     [ "AllowsUndergroundDesertEnemiesToSpawn", "db/d36/classTerraria_1_1ID_1_1WallID_1_1Sets_a0387446b418b1d67c1611b64e13ddba7.html#a0387446b418b1d67c1611b64e13ddba7", null ],
     [ "AllowsWind", "db/d36/classTerraria_1_1ID_1_1WallID_1_1Sets_a8e3cb1f07b306a555fba1c4d06cef6ab.html#a8e3cb1f07b306a555fba1c4d06cef6ab", null ],

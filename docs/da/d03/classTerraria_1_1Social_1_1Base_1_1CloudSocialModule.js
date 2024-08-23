@@ -1,6 +1,8 @@
 var classTerraria_1_1Social_1_1Base_1_1CloudSocialModule =
 [
     [ "CloudSocialModule", "da/d03/classTerraria_1_1Social_1_1Base_1_1CloudSocialModule_a1eda0f9cc73f41af961974041cd7267e.html#a1eda0f9cc73f41af961974041cd7267e", null ],
+    [ "b__1_0", "da/d03/classTerraria_1_1Social_1_1Base_1_1CloudSocialModule_a60165a61695502e78ee48b326aef0e7b.html#a60165a61695502e78ee48b326aef0e7b", null ],
+    [ "b__1_1", "da/d03/classTerraria_1_1Social_1_1Base_1_1CloudSocialModule_a823b9383a63f7f5bfe61700d50837922.html#a823b9383a63f7f5bfe61700d50837922", null ],
     [ "Delete", "da/d03/classTerraria_1_1Social_1_1Base_1_1CloudSocialModule_a737f324a3b447c09f5887e322aaffeff.html#a737f324a3b447c09f5887e322aaffeff", null ],
     [ "Forget", "da/d03/classTerraria_1_1Social_1_1Base_1_1CloudSocialModule_a46cb2e490eeebab99f0df6777522805d.html#a46cb2e490eeebab99f0df6777522805d", null ],
     [ "GetFiles", "da/d03/classTerraria_1_1Social_1_1Base_1_1CloudSocialModule_a8a2f1898ff00033b54fb391f30533586.html#a8a2f1898ff00033b54fb391f30533586", null ],

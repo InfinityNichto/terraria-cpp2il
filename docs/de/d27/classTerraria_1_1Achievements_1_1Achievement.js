@@ -29,5 +29,5 @@ var classTerraria_1_1Achievements_1_1Achievement =
     [ "Category", "de/d27/classTerraria_1_1Achievements_1_1Achievement_afe1d136bfb58e4e5a8590c9f34da8a1d.html#afe1d136bfb58e4e5a8590c9f34da8a1d", null ],
     [ "HasTracker", "de/d27/classTerraria_1_1Achievements_1_1Achievement_a62a3ed840774799e11ffb65fe79e7725.html#a62a3ed840774799e11ffb65fe79e7725", null ],
     [ "IsCompleted", "de/d27/classTerraria_1_1Achievements_1_1Achievement_a7e51fffc4f55136ff1766c461808d084.html#a7e51fffc4f55136ff1766c461808d084", null ],
-    [ "OnCompleted", "de/d27/classTerraria_1_1Achievements_1_1Achievement_a55daccf2c8cc72194ccbc196a058f87a.html#a55daccf2c8cc72194ccbc196a058f87a", null ]
+    [ "OnCompleted", "de/d27/classTerraria_1_1Achievements_1_1Achievement_a0a4d39558675dc4ac1afa56307e539e1.html#a0a4d39558675dc4ac1afa56307e539e1", null ]
 ];

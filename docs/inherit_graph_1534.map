@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d5/d1c/interfaceSystem_1_1Configuration_1_1IApplicationSettingsProvider.html" title=" " alt="" coords="276,5,519,45"/>
+<area shape="rect" id="Node000001" href="$da/dfd/classSystem_1_1Configuration_1_1LocalFileSettingsProvider.html" title=" " alt="" coords="567,37,767,77"/>
+<area shape="poly" id="edge3424_Node000000_Node000001" title=" " alt="" coords="533,39,567,43,566,48,532,44"/>
+<area shape="rect" id="Node000003" href="$d3/d7b/classSystem_1_1Configuration_1_1Provider_1_1ProviderBase.html" title=" " alt="" coords="5,69,228,109"/>
+<area shape="rect" id="Node000002" href="$db/de4/classSystem_1_1Configuration_1_1SettingsProvider.html" title=" " alt="" coords="288,69,507,109"/>
+<area shape="poly" id="edge3425_Node000003_Node000002" title=" " alt="" coords="242,87,288,87,288,92,242,92"/>
+<area shape="poly" id="edge3426_Node000002_Node000001" title=" " alt="" coords="520,72,566,67,567,72,521,77"/>
+</map>

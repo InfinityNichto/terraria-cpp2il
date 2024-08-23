@@ -32,7 +32,7 @@ var classVirtualControlsHardwareConfigurationMapping__Layout =
     [ "IsSame", "d6/d8e/classVirtualControlsHardwareConfigurationMapping__Layout_ac5b97b8e97712011d275b22248caf656.html#ac5b97b8e97712011d275b22248caf656", null ],
     [ "Anchor", "d6/d8e/classVirtualControlsHardwareConfigurationMapping__Layout_a002e6b22881ab3c4fea0568b2a546fb2.html#a002e6b22881ab3c4fea0568b2a546fb2", null ],
     [ "AnchorControl", "d6/d8e/classVirtualControlsHardwareConfigurationMapping__Layout_a88dedbd6ea055d4a683d94ea3d423d10.html#a88dedbd6ea055d4a683d94ea3d423d10", null ],
-    [ "DefaultControl", "d6/d8e/classVirtualControlsHardwareConfigurationMapping__Layout_a242039576101f5e85b616e73ea0c2dcf.html#a242039576101f5e85b616e73ea0c2dcf", null ],
+    [ "DefaultControl", "d6/d8e/classVirtualControlsHardwareConfigurationMapping__Layout_a95aa3c04e1cfc3d9d250995edb8406d6.html#a95aa3c04e1cfc3d9d250995edb8406d6", null ],
     [ "Location", "d6/d8e/classVirtualControlsHardwareConfigurationMapping__Layout_a20b5f06de53d2d3b76bfcf8d89e80b06.html#a20b5f06de53d2d3b76bfcf8d89e80b06", null ],
     [ "SlotId", "d6/d8e/classVirtualControlsHardwareConfigurationMapping__Layout_a5df20f73af296ba2cf079e322954263c.html#a5df20f73af296ba2cf079e322954263c", null ],
     [ "Style", "d6/d8e/classVirtualControlsHardwareConfigurationMapping__Layout_a63798d4a4e8f6ff58abc45d43bf8ff57.html#a63798d4a4e8f6ff58abc45d43bf8ff57", null ]

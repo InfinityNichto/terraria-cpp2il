@@ -110,14 +110,15 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="../../d0/d07/classIDisposable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="124,-798 56,-798 56,-749 124,-749 124,-798"/>
+<g id="a_Node000002"><a xlink:href="../../d6/d32/interfaceSystem_1_1IDisposable.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="136,-798 44,-798 44,-749 136,-749 136,-798"/>
 <text text-anchor="start" x="61" y="-785.5" font-family="Helvetica,sans-Serif" font-size="10.00">IDisposable</text>
 <text text-anchor="start" x="88" y="-770.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="88" y="-755.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="56,-780.5 56,-780.5 124,-780.5 124,-780.5 56,-780.5"/>
-<polygon fill="#666666" stroke="#666666" points="56,-765.5 56,-765.5 124,-765.5 124,-765.5 56,-765.5"/>
-<polygon fill="none" stroke="#666666" points="56,-749 56,-798 124,-798 124,-749 56,-749"/>
+<text text-anchor="start" x="48" y="-755.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="61" y="-755.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Dispose()</text>
+<polygon fill="#666666" stroke="#666666" points="44,-780.5 44,-780.5 136,-780.5 136,-780.5 44,-780.5"/>
+<polygon fill="#666666" stroke="#666666" points="44,-765.5 44,-765.5 136,-765.5 136,-765.5 44,-765.5"/>
+<polygon fill="none" stroke="#666666" points="44,-749 44,-798 136,-798 136,-749 44,-749"/>
 </a>
 </g>
 </g>

@@ -1,16 +1,15 @@
 <map id="SaveSynchronisationOperation_SendFile" name="SaveSynchronisationOperation_SendFile">
-<area shape="rect" id="Node000001" title=" " alt="" coords="467,568,721,787"/>
-<area shape="rect" id="Node000002" href="$d9/de9/classSaveSynchronisationOperation.html" title=" " alt="" coords="170,133,426,476"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,475,510,566,505,570,432,478"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,199,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,70,164,118,160,122,124,73"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="423,5,466,71"/>
-<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="468,50,491,68,510,93,522,129,529,174,534,282,535,392,541,476,558,552,553,553,535,476,530,392,529,283,523,175,516,130,505,96,487,72,464,54"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="424,52,395,70,368,96,353,120,348,117,364,93,392,66,422,47"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="223,5,266,71"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="246,71,249,109,250,117,245,117,243,110,241,71"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="653,272,703,337"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="673,338,625,552,620,551,668,337"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="744,272,775,337"/>
-<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="759,338,744,433,729,490,707,545,702,555,697,553,702,543,724,489,739,432,754,337"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="377,647,677,915"/>
+<area shape="rect" id="Node000002" href="$d9/de9/classSaveSynchronisationOperation.html" title=" " alt="" coords="171,133,467,555"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,566,466,645,461,648,423,568"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="469,305,487,321,494,344,490,360,482,373,478,370,486,358,488,344,482,323,465,309"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="50,5,92,71"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="61,72,34,161,21,221,12,286,8,355,13,424,29,491,42,523,58,553,86,590,119,623,155,652,195,677,279,717,362,745,360,750,277,722,192,682,152,656,115,627,82,594,54,556,37,525,24,493,8,425,3,355,6,286,16,220,29,160,56,70"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="94,62,154,132,162,141,158,145,150,135,90,65"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="298,5,340,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="322,71,322,117,316,117,316,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="594,311,644,377"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="616,377,584,555,567,631,562,630,579,554,611,377"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="685,311,716,377"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="702,377,698,426,689,489,674,557,651,624,646,633,641,631,646,622,669,556,684,488,693,425,696,376"/>
 </map>

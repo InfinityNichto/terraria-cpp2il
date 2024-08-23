@@ -1,0 +1,29 @@
+<map id="System.Xml.Linq.XNamespace" name="System.Xml.Linq.XNamespace">
+<area shape="rect" id="Node000001" title=" " alt="" coords="289,1608,573,2243"/>
+<area shape="rect" id="Node000002" href="$de/dc4/classSystem_1_1Xml_1_1Linq_1_1XHashtable.html" title=" " alt="" coords="53,1073,289,1301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,1300,316,1591,311,1593,208,1302"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classSystem_1_1Xml_1_1Linq_1_1XHashtable.html" title=" " alt="" coords="122,567,358,780"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,794,193,805,182,873,175,943,170,1072,165,1072,169,943,176,872,188,803,191,793"/>
+<area shape="rect" id="Node000012" href="$de/dc4/classSystem_1_1Xml_1_1Linq_1_1XHashtable.html" title=" " alt="" coords="313,1073,549,1301"/>
+<area shape="poly" id="edge15_Node000012_Node000003" title=" " alt="" coords="369,776,386,803,413,869,429,939,438,1008,440,1072,434,1073,432,1009,424,940,408,871,382,805,365,779"/>
+<area shape="rect" id="Node000004" href="$db/d7b/classSystem_1_1Xml_1_1Linq_1_1XHashtable_1_1XHashtableState.html" title=" " alt="" coords="102,163,338,504"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="233,504,235,550,230,551,227,504"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="340,299,358,312,365,333,362,348,354,359,350,356,357,346,359,333,353,315,336,303"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="63,13,94,78"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="70,79,37,190,24,260,19,332,19,1188,14,1282,8,1357,9,1392,14,1428,24,1469,42,1515,64,1557,89,1599,147,1676,212,1746,278,1806,274,1810,208,1750,143,1680,84,1602,59,1560,38,1517,19,1470,9,1429,4,1392,3,1357,9,1282,13,1188,13,332,19,260,32,189,64,78"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="96,77,131,146,126,149,92,79"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="139,5,301,85"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="223,86,223,146,217,146,217,86"/>
+<area shape="rect" id="Node000007" href="$d1/d3a/classSystem_1_1WeakReference.html" title=" " alt="" coords="573,857,974,1516"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="623,1517,582,1605,577,1603,618,1515"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="583,633,774,713"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="685,726,706,857,701,857,680,727"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="697,726,724,856,718,858,691,727"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="799,641,868,706"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="832,707,816,841,811,840,827,706"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="903,641,945,706"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="921,707,895,834,892,842,887,841,889,833,916,706"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="999,1154,1049,1219"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1031,1219,1035,1278,1034,1355,1020,1438,1007,1479,989,1517,951,1574,906,1627,856,1676,803,1721,693,1797,589,1856,586,1852,690,1793,800,1717,853,1672,902,1624,947,1571,984,1515,1002,1477,1015,1437,1028,1355,1030,1278,1026,1220"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="433,1301,433,1592,428,1592,428,1301"/>
+</map>

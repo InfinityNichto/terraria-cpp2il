@@ -1,12 +1,13 @@
 var classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer =
 [
     [ "LegacyPlayerRenderer", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_acb56efb350720180214024ee228f5ece.html#acb56efb350720180214024ee228f5ece", null ],
+    [ "LegacyPlayerRenderer", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a5f886863c2ef29c3f7705fab79489783.html#a5f886863c2ef29c3f7705fab79489783", null ],
     [ "DrawGhost", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_af9b587773620d60bf1d878733772ffe6.html#af9b587773620d60bf1d878733772ffe6", null ],
-    [ "DrawPlayer", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a105ff124be8f383d92e2e76e131b70d4.html#a105ff124be8f383d92e2e76e131b70d4", null ],
+    [ "DrawPlayer", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_af48a564f4b5a39820e0a52041e898654.html#af48a564f4b5a39820e0a52041e898654", null ],
     [ "DrawPlayer_MountTransformation", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a2092185020b482533621c55138cbaf7b.html#a2092185020b482533621c55138cbaf7b", null ],
     [ "DrawPlayer_UseNormalLayers", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a21ee417a793d606276fc35020307fe88.html#a21ee417a793d606276fc35020307fe88", null ],
     [ "DrawPlayerFull", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a77e682890657822db53a76bca78c604e.html#a77e682890657822db53a76bca78c604e", null ],
-    [ "DrawPlayerHead", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_aa709703089209038dfdb9bc9ca53ee8f.html#aa709703089209038dfdb9bc9ca53ee8f", null ],
+    [ "DrawPlayerHead", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_af1a2afd94645f561b007a1dcb8ab45ba.html#af1a2afd94645f561b007a1dcb8ab45ba", null ],
     [ "DrawPlayers", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a589e145d93da157a23d35afea5a17c13.html#a589e145d93da157a23d35afea5a17c13", null ],
     [ "DrawPlayerStoned", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a82121c3151bb0ea48ae7e41d4e683ea2.html#a82121c3151bb0ea48ae7e41d4e683ea2", null ],
     [ "RenderOutlines", "d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a95fa4b5922e872c52dfff3b9abdecc50.html#a95fa4b5922e872c52dfff3b9abdecc50", null ],

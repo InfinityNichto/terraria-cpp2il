@@ -1,7 +1,7 @@
 var classTerraria_1_1RemoteServer =
 [
     [ "RemoteServer", "db/dd0/classTerraria_1_1RemoteServer_a26de1ca48e087dfe91366e2ec723fde2.html#a26de1ca48e087dfe91366e2ec723fde2", null ],
-    [ "Client", "db/dd0/classTerraria_1_1RemoteServer_a43189d74c02c72d22182d687cd623a2c.html#a43189d74c02c72d22182d687cd623a2c", null ],
+    [ "Client", "db/dd0/classTerraria_1_1RemoteServer_a15347050e373b2b10f6e01eeeb7eb350.html#a15347050e373b2b10f6e01eeeb7eb350", null ],
     [ "IsActive", "db/dd0/classTerraria_1_1RemoteServer_a0c1d072428ec02bbfae93d4a077a4550.html#a0c1d072428ec02bbfae93d4a077a4550", null ],
     [ "State", "db/dd0/classTerraria_1_1RemoteServer_aee52a59962d256e59a6d31ff76f8b350.html#aee52a59962d256e59a6d31ff76f8b350", null ],
     [ "StatusCount", "db/dd0/classTerraria_1_1RemoteServer_a4d6e3132c429656b2b740b2892e8f51b.html#a4d6e3132c429656b2b740b2892e8f51b", null ],

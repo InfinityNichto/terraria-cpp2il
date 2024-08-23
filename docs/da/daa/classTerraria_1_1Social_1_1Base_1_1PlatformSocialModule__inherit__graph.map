@@ -1,7 +1,5 @@
 <map id="Terraria.Social.Base.PlatformSocialModule" name="Terraria.Social.Base.PlatformSocialModule">
-<area shape="rect" id="Node000001" title=" " alt="" coords="10,139,213,259"/>
-<area shape="rect" id="Node000003" href="$d1/dd5/classTerraria_1_1Social_1_1Steam_1_1PlatformSocialModule.html" title=" " alt="" coords="5,307,217,427"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,272,114,306,109,306,109,272"/>
-<area shape="rect" id="Node000002" href="$d5/d3e/interfaceTerraria_1_1Social_1_1ISocialModule.html" title=" " alt="" coords="44,5,179,91"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,105,114,138,109,138,109,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,139,208,259"/>
+<area shape="rect" id="Node000002" href="$d5/d3e/interfaceTerraria_1_1Social_1_1ISocialModule.html" title=" " alt="" coords="39,5,174,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,105,109,138,104,138,104,105"/>
 </map>

@@ -1,7 +1,7 @@
 var classTerraria_1_1GameContent_1_1ShopHelper =
 [
     [ "ShopHelper", "d9/d8a/classTerraria_1_1GameContent_1_1ShopHelper_a01b0e2f34801ce89cb133e48a0416e99.html#a01b0e2f34801ce89cb133e48a0416e99", null ],
-    [ "AddHappinessReportText", "d9/d8a/classTerraria_1_1GameContent_1_1ShopHelper_a44adb68d10fa26f44fee33bdddbe79c1.html#a44adb68d10fa26f44fee33bdddbe79c1", null ],
+    [ "AddHappinessReportText", "d9/d8a/classTerraria_1_1GameContent_1_1ShopHelper_a861f26b70e1e7393a061d307a48332ac.html#a861f26b70e1e7393a061d307a48332ac", null ],
     [ "BiomeNameByKey", "d9/d8a/classTerraria_1_1GameContent_1_1ShopHelper_a28d7b0bc5f1b94fd769a461b5d9ac6f7.html#a28d7b0bc5f1b94fd769a461b5d9ac6f7", null ],
     [ "DislikeBiome", "d9/d8a/classTerraria_1_1GameContent_1_1ShopHelper_aaf62033bca4cf69a50e76408be436339.html#aaf62033bca4cf69a50e76408be436339", null ],
     [ "DislikeNPC", "d9/d8a/classTerraria_1_1GameContent_1_1ShopHelper_aade09d85d8d0768f6afd91e5fbaf727c.html#aade09d85d8d0768f6afd91e5fbaf727c", null ],

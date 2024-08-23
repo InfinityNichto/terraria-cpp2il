@@ -1,0 +1,9 @@
+<map id="System.Net.WebException" name="System.Net.WebException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,380,525,1264"/>
+<area shape="rect" id="Node000002" href="$d8/d42/classSystem_1_1InvalidOperationException.html" title=" " alt="" coords="5,119,407,332"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,345,251,379,246,380,236,346"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,5,318,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="209,85,209,118,203,118,203,85"/>
+<area shape="rect" id="Node000004" href="$d6/d2f/interfaceSystem_1_1Runtime_1_1Serialization_1_1ISerializable.html" title=" " alt="" coords="431,178,640,273"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="521,287,495,380,490,379,516,285"/>
+</map>

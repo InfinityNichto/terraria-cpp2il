@@ -17,7 +17,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1PartySky =
     [ "ResetBalloon", "de/d96/classTerraria_1_1GameContent_1_1Skies_1_1PartySky_a812513439f3f40b0951813b8919ca8b8.html#a812513439f3f40b0951813b8919ca8b8", null ],
     [ "Update", "de/d96/classTerraria_1_1GameContent_1_1Skies_1_1PartySky_a7758be406ccc5970b068549cb58e4a1e.html#a7758be406ccc5970b068549cb58e4a1e", null ],
     [ "_active", "de/d96/classTerraria_1_1GameContent_1_1Skies_1_1PartySky_afe03912971c7bdc783e3ae31ae6a7aff.html#afe03912971c7bdc783e3ae31ae6a7aff", null ],
-    [ "_balloons", "de/d96/classTerraria_1_1GameContent_1_1Skies_1_1PartySky_abe259a8c175b28d082cf24dca5b12e6e.html#abe259a8c175b28d082cf24dca5b12e6e", null ],
+    [ "_balloons", "de/d96/classTerraria_1_1GameContent_1_1Skies_1_1PartySky_ab30e9c8a79fafdfea8a1f83241254303.html#ab30e9c8a79fafdfea8a1f83241254303", null ],
     [ "_balloonsDrawing", "de/d96/classTerraria_1_1GameContent_1_1Skies_1_1PartySky_afe2e0f646789c859e723316a4f4c1861.html#afe2e0f646789c859e723316a4f4c1861", null ],
     [ "_isLoaded", "de/d96/classTerraria_1_1GameContent_1_1Skies_1_1PartySky.html#a40880abec1e79b3c3dec330238ee0f09", null ],
     [ "_leaving", "de/d96/classTerraria_1_1GameContent_1_1Skies_1_1PartySky_acc0a80236f66c1e5b2bacf5a6922edbe.html#acc0a80236f66c1e5b2bacf5a6922edbe", null ],

@@ -200,5 +200,5 @@ var structIntArray__MaxNPCs =
     [ "i197", "d4/dc5/structIntArray__MaxNPCs_a1908a32d79382b9ccfcfc3576019e9c4.html#a1908a32d79382b9ccfcfc3576019e9c4", null ],
     [ "i198", "d4/dc5/structIntArray__MaxNPCs_a66834dce83be6abda7aca333445ebe5e.html#a66834dce83be6abda7aca333445ebe5e", null ],
     [ "i199", "d4/dc5/structIntArray__MaxNPCs_a2ba44b9d5f954b4e68f6349b3f05dcab.html#a2ba44b9d5f954b4e68f6349b3f05dcab", null ],
-    [ "Item", "d4/dc5/structIntArray__MaxNPCs_aa281549ae7dc1af22fbe756d278f90cc.html#aa281549ae7dc1af22fbe756d278f90cc", null ]
+    [ "this[int x]", "d4/dc5/structIntArray__MaxNPCs_a1c0d6c391d5f3a891e913d94cdbcc250.html#a1c0d6c391d5f3a891e913d94cdbcc250", null ]
 ];

@@ -1,5 +1,6 @@
 var classTerraria_1_1ID_1_1WaterStyleID =
 [
+    [ "WaterStyleID", "d7/d8b/classTerraria_1_1ID_1_1WaterStyleID_af716ad2c326e8af532a58f6bc448e40f.html#af716ad2c326e8af532a58f6bc448e40f", null ],
     [ "Bloodmoon", "d7/d8b/classTerraria_1_1ID_1_1WaterStyleID_a6f27145228afd673366b23ab8ccab9d0.html#a6f27145228afd673366b23ab8ccab9d0", null ],
     [ "Cavern", "d7/d8b/classTerraria_1_1ID_1_1WaterStyleID_a79483312883abacb251de5434eefc464.html#a79483312883abacb251de5434eefc464", null ],
     [ "Corrupt", "d7/d8b/classTerraria_1_1ID_1_1WaterStyleID_a440ddf73e0d5af9900357b6f56d267d2.html#a440ddf73e0d5af9900357b6f56d267d2", null ],

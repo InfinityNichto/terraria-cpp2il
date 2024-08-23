@@ -79,7 +79,7 @@ var sectionId = 'dynsection-0';
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d3/dec/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1EOCSkyEntity.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="189.5,-405 9.5,-405 9.5,-133 189.5,-133 189.5,-405"/>
-<text text-anchor="start" x="66" y="-393" font-family="Helvetica,sans-Serif" font-size="10.00">EOCSkyEntity</text>
+<text text-anchor="start" x="34.5" y="-393" font-family="Helvetica,sans-Serif" font-size="10.00">AmbientSky::EOCSkyEntity</text>
 <text text-anchor="start" x="16" y="-378" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
 <text text-anchor="start" x="26.5" y="-378" font-family="Helvetica,sans-Serif" font-size="10.00">int _state</text>
 <text text-anchor="start" x="16" y="-363" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
@@ -131,7 +131,7 @@ var sectionId = 'dynsection-0';
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../d4/d06/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1FadingSkyEntity.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="182,-829 17,-829 17,-441 182,-441 182,-829"/>
-<text text-anchor="start" x="61" y="-817" font-family="Helvetica,sans-Serif" font-size="10.00">FadingSkyEntity</text>
+<text text-anchor="start" x="29" y="-817" font-family="Helvetica,sans-Serif" font-size="10.00">AmbientSky::FadingSkyEntity</text>
 <text text-anchor="start" x="21.5" y="-802" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="34.5" y="-802" font-family="Helvetica,sans-Serif" font-size="10.00">int LifeTime</text>
 <text text-anchor="start" x="21.5" y="-787" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
@@ -198,7 +198,7 @@ var sectionId = 'dynsection-0';
 <title>Node4</title>
 <g id="a_Node000004"><a xlink:href="../../d2/d84/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SkyEntity.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="199,-1275 0,-1275 0,-865 199,-865 199,-1275"/>
-<text text-anchor="start" x="77" y="-1263" font-family="Helvetica,sans-Serif" font-size="10.00">SkyEntity</text>
+<text text-anchor="start" x="45" y="-1263" font-family="Helvetica,sans-Serif" font-size="10.00">AmbientSky::SkyEntity</text>
 <text text-anchor="start" x="4.5" y="-1248" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-1248" font-family="Helvetica,sans-Serif" font-size="10.00">Vector2 Position</text>
 <text text-anchor="start" x="4.5" y="-1233" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

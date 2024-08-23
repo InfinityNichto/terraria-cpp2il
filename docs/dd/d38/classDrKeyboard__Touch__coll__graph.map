@@ -1,9 +1,21 @@
 <map id="DrKeyboard_Touch" name="DrKeyboard_Touch">
-<area shape="rect" id="Node000001" title=" " alt="" coords="167,327,483,531"/>
-<area shape="rect" id="Node000002" href="$db/de4/classDrKeyboard__Base.html" title=" " alt="" coords="5,5,279,264"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,274,264,325,259,328,227,277"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="303,102,346,167"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,168,327,310,322,310,322,168"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="395,102,551,167"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="475,168,468,233,459,269,446,304,440,314,435,312,441,302,454,267,463,232,470,168"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,2089,475,2293"/>
+<area shape="rect" id="Node000002" href="$db/de4/classDrKeyboard__Base.html" title=" " alt="" coords="5,1501,279,1760"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,1772,288,2088,283,2090,184,1774"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="318,13,361,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="342,78,321,2073,315,2073,336,78"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="358,627,569,693"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="351,91,460,627,454,628,346,92"/>
+<area shape="rect" id="Node000004" href="$d0/da9/classUnityEngine_1_1TouchScreenKeyboard.html" title=" " alt="" coords="355,1235,745,2027"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="387,2028,368,2075,363,2073,382,2026"/>
+<area shape="rect" id="Node000005" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="595,148,927,1172"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="652,1173,642,1219,637,1218,647,1172"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="929,579,947,612,953,660,949,698,939,727,934,726,944,697,948,660,942,613,924,581"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="457,5,648,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="573,97,597,169,592,171,568,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="672,5,852,85"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="765,99,764,148,759,148,759,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="877,13,1039,78"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="950,79,933,133,928,132,945,77"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="469,693,516,1218,511,1218,464,693"/>
 </map>

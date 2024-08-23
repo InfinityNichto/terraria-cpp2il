@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Front =
 [
     [ "Sets", "df/d91/classTerraria_1_1ID_1_1ArmorIDs_1_1Front_1_1Sets.html", "df/d91/classTerraria_1_1ID_1_1ArmorIDs_1_1Front_1_1Sets" ],
     [ "Front", "d2/d6b/classTerraria_1_1ID_1_1ArmorIDs_1_1Front_a53848d7ed7b5045a7d8283067c32c3fc.html#a53848d7ed7b5045a7d8283067c32c3fc", null ],
+    [ "Front", "d2/d6b/classTerraria_1_1ID_1_1ArmorIDs_1_1Front_a2e38d465138da3275ac944c1b2c3cc79.html#a2e38d465138da3275ac944c1b2c3cc79", null ],
     [ "Count", "d2/d6b/classTerraria_1_1ID_1_1ArmorIDs_1_1Front_a7d52bcf119596c81bc86316617897054.html#a7d52bcf119596c81bc86316617897054", null ],
     [ "CrimsonCloak", "d2/d6b/classTerraria_1_1ID_1_1ArmorIDs_1_1Front_ab8b957f8fa3152116858f88c1a96fb3d.html#ab8b957f8fa3152116858f88c1a96fb3d", null ],
     [ "HunterCloak", "d2/d6b/classTerraria_1_1ID_1_1ArmorIDs_1_1Front_a3681367225503ab52875eb429a84e5fe.html#a3681367225503ab52875eb429a84e5fe", null ],

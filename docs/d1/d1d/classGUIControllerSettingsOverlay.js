@@ -28,5 +28,5 @@ var classGUIControllerSettingsOverlay =
     [ "_overlayOffset", "d1/d1d/classGUIControllerSettingsOverlay_ab1ef9c12a865e3b24d654028d0bb9990.html#ab1ef9c12a865e3b24d654028d0bb9990", null ],
     [ "_overlayRegion", "d1/d1d/classGUIControllerSettingsOverlay_ae6a5442b6baf6186c17096dd2429daad.html#ae6a5442b6baf6186c17096dd2429daad", null ],
     [ "_selectedItem", "d1/d1d/classGUIControllerSettingsOverlay_a4749e902f1d3ffffc1662adb812a58d9.html#a4749e902f1d3ffffc1662adb812a58d9", null ],
-    [ "selectedControl", "d1/d1d/classGUIControllerSettingsOverlay_a78c4adc20420d3470a2dcbdc2d2a8047.html#a78c4adc20420d3470a2dcbdc2d2a8047", null ]
+    [ "selectedControl", "d1/d1d/classGUIControllerSettingsOverlay_ae4110df936b526f25d5ee4c1c25e099d.html#ae4110df936b526f25d5ee4c1c25e099d", null ]
 ];

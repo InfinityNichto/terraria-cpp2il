@@ -1,0 +1,9 @@
+<map id="System.Runtime.Remoting.Activation.AppDomainLevelActivator" name="System.Runtime.Remoting.Activation.AppDomainLevelActivator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="222,163,483,321"/>
+<area shape="rect" id="Node000002" href="$da/d14/interfaceSystem_1_1Runtime_1_1Remoting_1_1Activation_1_1IActivator.html" title=" " alt="" coords="5,13,303,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,100,271,160,268,164,203,104"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="327,20,378,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="355,86,355,146,350,146,350,86"/>
+<area shape="rect" id="Node000004" href="$da/d14/interfaceSystem_1_1Runtime_1_1Remoting_1_1Activation_1_1IActivator.html" title=" " alt="" coords="403,5,700,100"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="504,102,450,153,446,149,500,98"/>
+</map>

@@ -1,7 +1,7 @@
 <map id="Terraria.WorldBuilding.Searches.Left" name="Terraria.WorldBuilding.Searches.Left">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,520,253,620"/>
-<area shape="rect" id="Node000002" href="$df/d08/classTerraria_1_1WorldBuilding_1_1GenSearch.html" title=" " alt="" coords="27,243,232,472"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,486,132,520,127,520,127,486"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,540,253,640"/>
+<area shape="rect" id="Node000002" href="$df/d08/classTerraria_1_1WorldBuilding_1_1GenSearch.html" title=" " alt="" coords="27,243,232,492"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,506,132,540,127,540,127,506"/>
 <area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="19,5,239,195"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,208,132,242,127,242,127,208"/>
 </map>

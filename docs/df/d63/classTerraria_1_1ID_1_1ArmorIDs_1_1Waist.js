@@ -2,6 +2,7 @@ var classTerraria_1_1ID_1_1ArmorIDs_1_1Waist =
 [
     [ "Sets", "d3/db5/classTerraria_1_1ID_1_1ArmorIDs_1_1Waist_1_1Sets.html", "d3/db5/classTerraria_1_1ID_1_1ArmorIDs_1_1Waist_1_1Sets" ],
     [ "Waist", "df/d63/classTerraria_1_1ID_1_1ArmorIDs_1_1Waist_a55a473e3a97e8443562b9763c58a392b.html#a55a473e3a97e8443562b9763c58a392b", null ],
+    [ "Waist", "df/d63/classTerraria_1_1ID_1_1ArmorIDs_1_1Waist_ab48876ca5cd5f9d50a6723c548b60941.html#ab48876ca5cd5f9d50a6723c548b60941", null ],
     [ "BlackBelt", "df/d63/classTerraria_1_1ID_1_1ArmorIDs_1_1Waist_af7450d01e1c04046cc05e30ed3afff48.html#af7450d01e1c04046cc05e30ed3afff48", null ],
     [ "BlizzardinaBottle", "df/d63/classTerraria_1_1ID_1_1ArmorIDs_1_1Waist_aa56537549b5457faa4c409126b6db2bb.html#aa56537549b5457faa4c409126b6db2bb", null ],
     [ "CloudinaBottle", "df/d63/classTerraria_1_1ID_1_1ArmorIDs_1_1Waist_a43984821656a0a68dad4e16006cea806.html#a43984821656a0a68dad4e16006cea806", null ],

@@ -94,8 +94,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="187" y="-569.5" font-family="Helvetica,sans-Serif" font-size="10.00">void ApplyDust()</text>
 <text text-anchor="start" x="174" y="-554.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="187" y="-554.5" font-family="Helvetica,sans-Serif" font-size="10.00">override void Apply</text>
-<text text-anchor="start" x="187" y="-543.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Entity entity, [Optional]</text>
-<text text-anchor="start" x="187" y="-532.5" font-family="Helvetica,sans-Serif" font-size="10.00"> DrawData? drawData)</text>
+<text text-anchor="start" x="187" y="-543.5" font-family="Helvetica,sans-Serif" font-size="10.00">(Entity entity, DrawData</text>
+<text text-anchor="start" x="187" y="-532.5" font-family="Helvetica,sans-Serif" font-size="10.00">? drawData=null)</text>
 <text text-anchor="start" x="174" y="-517.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="187" y="-517.5" font-family="Helvetica,sans-Serif" font-size="10.00">ArmorShaderData UseColor</text>
 <text text-anchor="start" x="187" y="-506.5" font-family="Helvetica,sans-Serif" font-size="10.00">(float r, float g, float b)</text>
@@ -260,8 +260,8 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="197" y="-942" font-family="Helvetica,sans-Serif" font-size="10.00"> &gt; shader, string passName)</text>
 <text text-anchor="start" x="184" y="-927" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="197" y="-927" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Apply</text>
-<text text-anchor="start" x="197" y="-916" font-family="Helvetica,sans-Serif" font-size="10.00">(Entity entity, [Optional]</text>
-<text text-anchor="start" x="197" y="-905" font-family="Helvetica,sans-Serif" font-size="10.00"> DrawData? drawData)</text>
+<text text-anchor="start" x="197" y="-916" font-family="Helvetica,sans-Serif" font-size="10.00">(Entity entity, DrawData</text>
+<text text-anchor="start" x="197" y="-905" font-family="Helvetica,sans-Serif" font-size="10.00">? drawData=null)</text>
 <text text-anchor="start" x="184" y="-890" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="197" y="-890" font-family="Helvetica,sans-Serif" font-size="10.00">virtual void Apply()</text>
 <polygon fill="#666666" stroke="#666666" points="180,-1034 180,-1034 341,-1034 341,-1034 180,-1034"/>

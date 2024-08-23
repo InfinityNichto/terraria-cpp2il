@@ -15,7 +15,7 @@ var classKeyboardMappingsCategories__Layout =
       [ "Map", "d7/d0f/classKeyboardMappingsCategories__Layout_aad89d62599af3d00f6b9aaec68fa3f8f.html#aad89d62599af3d00f6b9aaec68fa3f8fa46f3ea056caa3126b91f3f70beea068c", null ]
     ] ],
     [ "KeyboardMappingsCategories_Layout", "d7/d0f/classKeyboardMappingsCategories__Layout_a4488b3a6eef837d8c43c21c53fc058a8.html#a4488b3a6eef837d8c43c21c53fc058a8", null ],
-    [ "GetCategorySetup", "d7/d0f/classKeyboardMappingsCategories__Layout_a26809f77dce9f15e434273ba9b33f161.html#a26809f77dce9f15e434273ba9b33f161", null ],
+    [ "GetCategorySetup", "d7/d0f/classKeyboardMappingsCategories__Layout_ae97205c13bc4b6d34a0d4fb90ab65d95.html#ae97205c13bc4b6d34a0d4fb90ab65d95", null ],
     [ "Backing", "d7/d0f/classKeyboardMappingsCategories__Layout_ab88f7740e7c3f40bea606e945b20e6b3.html#ab88f7740e7c3f40bea606e945b20e6b3", null ],
     [ "Chest", "d7/d0f/classKeyboardMappingsCategories__Layout_abd59abf44d7bc23b8039ef118dc1c0e4.html#abd59abf44d7bc23b8039ef118dc1c0e4", null ],
     [ "Equipment", "d7/d0f/classKeyboardMappingsCategories__Layout_a2aed81d60344571a04763213a02e2e8f.html#a2aed81d60344571a04763213a02e2e8f", null ],
@@ -24,7 +24,7 @@ var classKeyboardMappingsCategories__Layout =
     [ "GeneralSettings", "d7/d0f/classKeyboardMappingsCategories__Layout_acf892311e1108e5d2c488131a5fd110d.html#acf892311e1108e5d2c488131a5fd110d", null ],
     [ "LB", "d7/d0f/classKeyboardMappingsCategories__Layout_a09f39bef5a8aededd25cdee122cf537f.html#a09f39bef5a8aededd25cdee122cf537f", null ],
     [ "Map", "d7/d0f/classKeyboardMappingsCategories__Layout_acc8d224517ad42fdc9a4030d45c59720.html#acc8d224517ad42fdc9a4030d45c59720", null ],
-    [ "MappingSettings", "d7/d0f/classKeyboardMappingsCategories__Layout_abfd3a8d45327c01f379a789529b1c1f7.html#abfd3a8d45327c01f379a789529b1c1f7", null ],
+    [ "MappingSettings", "d7/d0f/classKeyboardMappingsCategories__Layout_a1b898a82eecc949af20e440d6a4f3d38.html#a1b898a82eecc949af20e440d6a4f3d38", null ],
     [ "Miscellaneous", "d7/d0f/classKeyboardMappingsCategories__Layout_a82377040da07e5edd64b37bbb9366e17.html#a82377040da07e5edd64b37bbb9366e17", null ],
     [ "Multiplayer", "d7/d0f/classKeyboardMappingsCategories__Layout_a9a2f7a2f86f2254a1d4cd788391bb9fa.html#a9a2f7a2f86f2254a1d4cd788391bb9fa", null ],
     [ "RB", "d7/d0f/classKeyboardMappingsCategories__Layout_a752e5b547b9c060bdb811dac376649c5.html#a752e5b547b9c060bdb811dac376649c5", null ],

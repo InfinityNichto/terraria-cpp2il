@@ -2,6 +2,7 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion =
 [
     [ "Quaternion", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_a6d61d1b86680b7adae660132fbe2bc04.html#a6d61d1b86680b7adae660132fbe2bc04", null ],
     [ "Quaternion", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_ab854c7ae2762d1da6efe780794b5cca9.html#ab854c7ae2762d1da6efe780794b5cca9", null ],
+    [ "Quaternion", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_a23033b279ff92a2002338fe8c9fe67b7.html#a23033b279ff92a2002338fe8c9fe67b7", null ],
     [ "Add", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_aa25d5cf0bd4d5b9224106496d46ab150.html#aa25d5cf0bd4d5b9224106496d46ab150", null ],
     [ "Add", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_a5f0c5c64217cbd8964f60f5e66fb1210.html#a5f0c5c64217cbd8964f60f5e66fb1210", null ],
     [ "Concatenate", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_aa8cd52df175c66f01d55ffa1e9631489.html#aa8cd52df175c66f01d55ffa1e9631489", null ],
@@ -21,6 +22,7 @@ var structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion =
     [ "Dot", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_a6fb038467897ace7e35f9aeb6024a7f6.html#a6fb038467897ace7e35f9aeb6024a7f6", null ],
     [ "Equals", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_ac39240340b5613778508d58239714da5.html#ac39240340b5613778508d58239714da5", null ],
     [ "Equals", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_a7d378964062251703ad963fad80ba6e7.html#a7d378964062251703ad963fad80ba6e7", null ],
+    [ "Equals", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion.html#adcb517a2c4a75f107b1b3d704b343c16", null ],
     [ "GetHashCode", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_a7682498929f3e7f39de07277c084adf8.html#a7682498929f3e7f39de07277c084adf8", null ],
     [ "Inverse", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_a8c75937a2720e8d96550181198a28e3b.html#a8c75937a2720e8d96550181198a28e3b", null ],
     [ "Inverse", "de/d53/structMicrosoft_1_1Xna_1_1Framework_1_1Quaternion_ade33b24773fcdc1cae2d9d96eeea4aa6.html#ade33b24773fcdc1cae2d9d96eeea4aa6", null ],

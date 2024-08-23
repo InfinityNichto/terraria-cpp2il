@@ -11,10 +11,10 @@
 <!-- Node0 -->
 <g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_Node000000"><a xlink:href="db/dcd/classTerraria_1_1Graphics_1_1Renderers_1_1ParticlePool.html" target="_top" xlink:title=" ">
+<g id="a_Node000000"><a xlink:href="d3/d4f/structSystem_1_1Collections_1_1Concurrent_1_1ConcurrentQueue_1_1Segment_1_1Slot.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="198,-30 0,-30 0,0 198,0 198,-30"/>
-<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Renderers.</text>
-<text text-anchor="middle" x="99" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">ParticlePool&lt; PrettySparkleParticle &gt;</text>
+<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">System.Collections.Concurrent.</text>
+<text text-anchor="middle" x="99" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">ConcurrentQueue&lt; T &gt;.Segment.Slot</text>
 </a>
 </g>
 </g>

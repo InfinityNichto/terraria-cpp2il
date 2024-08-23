@@ -87,10 +87,10 @@ var sectionId = 'dynsection-0';
 <text text-anchor="start" x="29.5" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00">override Color GetColor</text>
 <text text-anchor="start" x="29.5" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">(Color backgroundColor)</text>
 <text text-anchor="start" x="14.5" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="29.5" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">static List&lt; HellBatsGoup</text>
-<text text-anchor="start" x="29.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">SkyEntity &gt; CreateGroup</text>
-<text text-anchor="start" x="29.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">(Player player, FastRandom</text>
-<text text-anchor="start" x="29.5" y="-33" font-family="Helvetica,sans-Serif" font-size="10.00"> random)</text>
+<text text-anchor="start" x="29.5" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">static List&lt; AmbientSky.</text>
+<text text-anchor="start" x="29.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">HellBatsGoupSkyEntity</text>
+<text text-anchor="start" x="29.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00"> &gt; CreateGroup(Player player,</text>
+<text text-anchor="start" x="29.5" y="-33" font-family="Helvetica,sans-Serif" font-size="10.00"> FastRandom random)</text>
 <text text-anchor="start" x="14.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">~</text>
 <text text-anchor="start" x="29.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">float Helper_GetOpacityWith</text>
 <text text-anchor="start" x="29.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">AccountingForBackgroundsOff()</text>
@@ -106,7 +106,7 @@ var sectionId = 'dynsection-0';
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d4/d06/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1FadingSkyEntity.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="182,-740 17,-740 17,-352 182,-352 182,-740"/>
-<text text-anchor="start" x="61" y="-728" font-family="Helvetica,sans-Serif" font-size="10.00">FadingSkyEntity</text>
+<text text-anchor="start" x="29" y="-728" font-family="Helvetica,sans-Serif" font-size="10.00">AmbientSky::FadingSkyEntity</text>
 <text text-anchor="start" x="21.5" y="-713" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
 <text text-anchor="start" x="34.5" y="-713" font-family="Helvetica,sans-Serif" font-size="10.00">int LifeTime</text>
 <text text-anchor="start" x="21.5" y="-698" font-family="Helvetica,sans-Serif" font-size="10.00">#</text>
@@ -173,7 +173,7 @@ var sectionId = 'dynsection-0';
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../d2/d84/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1SkyEntity.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="transparent" points="199,-1186 0,-1186 0,-776 199,-776 199,-1186"/>
-<text text-anchor="start" x="77" y="-1174" font-family="Helvetica,sans-Serif" font-size="10.00">SkyEntity</text>
+<text text-anchor="start" x="45" y="-1174" font-family="Helvetica,sans-Serif" font-size="10.00">AmbientSky::SkyEntity</text>
 <text text-anchor="start" x="4.5" y="-1159" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-1159" font-family="Helvetica,sans-Serif" font-size="10.00">Vector2 Position</text>
 <text text-anchor="start" x="4.5" y="-1144" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>

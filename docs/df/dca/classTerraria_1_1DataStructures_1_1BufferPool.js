@@ -1,5 +1,6 @@
 var classTerraria_1_1DataStructures_1_1BufferPool =
 [
+    [ "BufferPool", "df/dca/classTerraria_1_1DataStructures_1_1BufferPool_a9094a5d8167e05be0df780c47608c509.html#a9094a5d8167e05be0df780c47608c509", null ],
     [ "PrintBufferSizes", "df/dca/classTerraria_1_1DataStructures_1_1BufferPool_a0a63d08714beb735b618a11f946d44c5.html#a0a63d08714beb735b618a11f946d44c5", null ],
     [ "Recycle", "df/dca/classTerraria_1_1DataStructures_1_1BufferPool_abfd69b4b57542dc3a8738b2930605a5b.html#abfd69b4b57542dc3a8738b2930605a5b", null ],
     [ "Request", "df/dca/classTerraria_1_1DataStructures_1_1BufferPool_a7b99376d1b9fbf078a5038c455780c67.html#a7b99376d1b9fbf078a5038c455780c67", null ],

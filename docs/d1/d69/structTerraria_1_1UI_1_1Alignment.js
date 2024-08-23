@@ -1,6 +1,7 @@
 var structTerraria_1_1UI_1_1Alignment =
 [
     [ "Alignment", "d1/d69/structTerraria_1_1UI_1_1Alignment_acee23e9b9162929aaddb9af236976dde.html#acee23e9b9162929aaddb9af236976dde", null ],
+    [ "Alignment", "d1/d69/structTerraria_1_1UI_1_1Alignment_a35a3a9503b164a010cbd6b9e53ddf905.html#a35a3a9503b164a010cbd6b9e53ddf905", null ],
     [ "Bottom", "d1/d69/structTerraria_1_1UI_1_1Alignment_a0a076ce2c4a00bd98d93e3dd6bec8a46.html#a0a076ce2c4a00bd98d93e3dd6bec8a46", null ],
     [ "BottomLeft", "d1/d69/structTerraria_1_1UI_1_1Alignment_af7110c4f9d8c548c5de880e3e3d8909c.html#af7110c4f9d8c548c5de880e3e3d8909c", null ],
     [ "BottomRight", "d1/d69/structTerraria_1_1UI_1_1Alignment_acc00d64db01f3679e419bd71046fd1a5.html#acc00d64db01f3679e419bd71046fd1a5", null ],

@@ -1,0 +1,29 @@
+<map id="UnityEngine.Animations.AnimationOffsetPlayable" name="UnityEngine.Animations.AnimationOffsetPlayable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="200,1956,443,2125"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="61,1408,265,1488"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,1502,151,1580,149,1680,153,1734,161,1788,173,1841,191,1892,208,1925,230,1954,226,1958,203,1927,186,1894,168,1843,155,1789,148,1734,144,1680,145,1580,152,1501"/>
+<area shape="rect" id="Node000011" href="$d0/d92/structUnityEngine_1_1Animations_1_1AnimationOffsetPlayable.html" title=" " alt="" coords="200,1724,443,1893"/>
+<area shape="poly" id="edge14_Node000011_Node000002" title=" " alt="" coords="188,1500,287,1723,282,1725,183,1502"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="100,13,274,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,89,114,117,96,149,46,296,30,362,18,424,9,539,13,649,28,761,49,881,73,1015,96,1172,107,1237,122,1302,152,1407,147,1408,117,1303,102,1238,91,1172,68,1016,44,882,23,762,8,650,3,539,13,423,25,361,41,294,91,147,110,114,134,86"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="304,627,518,693"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="238,86,264,114,287,147,318,212,344,280,364,350,381,418,402,540,411,627,406,628,397,541,375,419,359,351,339,282,313,214,282,149,260,118,234,89"/>
+<area shape="rect" id="Node000004" href="$d9/d41/structUnityEngine_1_1Playables_1_1PlayableHandle.html" title=" " alt="" coords="478,1235,776,1661"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="653,1662,649,1722,639,1782,621,1841,593,1895,566,1928,533,1957,497,1980,459,1999,457,1994,494,1975,530,1952,562,1925,589,1892,616,1839,634,1781,644,1721,648,1662"/>
+<area shape="poly" id="edge12_Node000004_Node000004" title=" " alt="" coords="778,1409,795,1425,802,1448,799,1464,792,1476,787,1473,794,1462,797,1448,791,1427,774,1413"/>
+<area shape="poly" id="edge15_Node000011_Node000004" title=" " alt="" coords="480,1626,405,1713,401,1710,476,1622"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="422,705,465,908,496,1039,532,1171,552,1234,546,1235,527,1173,491,1041,460,909,417,707"/>
+<area shape="rect" id="Node000006" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="542,148,874,1172"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="658,1173,653,1219,648,1218,653,1172"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="877,579,894,612,901,660,897,698,886,727,881,726,892,697,896,660,889,613,872,581"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="404,5,594,85"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="519,97,545,172,540,174,514,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="618,5,798,85"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="711,99,711,148,706,148,706,99"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="823,13,986,78"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="897,79,879,133,874,132,892,77"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="968,627,1006,693"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="996,693,1008,780,1013,902,1010,971,1000,1040,983,1109,957,1173,924,1226,884,1274,838,1317,791,1354,787,1350,835,1313,880,1270,920,1223,952,1171,978,1107,995,1039,1005,970,1008,902,1002,780,990,693"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="324,1893,324,1939,319,1939,319,1893"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="444,1788,462,1795,470,1808,467,1817,460,1823,456,1819,462,1814,464,1809,459,1799,442,1793"/>
+</map>

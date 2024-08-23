@@ -1,6 +1,7 @@
 var classTutorialLevel =
 [
     [ "TutorialLevel", "db/d87/classTutorialLevel_a4c2e8c2ff3730ba80b7141b90578607c.html#a4c2e8c2ff3730ba80b7141b90578607c", null ],
+    [ "TutorialLevel", "db/d87/classTutorialLevel_aff1d4f2e044ad89a7b88ed1588f35de2.html#aff1d4f2e044ad89a7b88ed1588f35de2", null ],
     [ "Begin", "db/d87/classTutorialLevel_a4440ac9987a5ca2feede2b7001f306bc.html#a4440ac9987a5ca2feede2b7001f306bc", null ],
     [ "GetGuideState", "db/d87/classTutorialLevel_a15a8ad2e5720717c605c4c9f235b1d02.html#a15a8ad2e5720717c605c4c9f235b1d02", null ],
     [ "GetGuideString", "db/d87/classTutorialLevel_a9b839d552c4645aa9e6b6c1e5bb61ec0.html#a9b839d552c4645aa9e6b6c1e5bb61ec0", null ],

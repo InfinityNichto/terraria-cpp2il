@@ -1,0 +1,16 @@
+<map id="Ionic.BZip2.BitWriter" name="Ionic.BZip2.BitWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,2013,261,2253"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,1009,64,1075"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,1075,23,1221,14,1328,9,1449,10,1581,19,1719,39,1856,54,1923,73,1989,75,1997,70,1999,67,1990,49,1925,34,1857,14,1719,4,1582,4,1449,9,1327,18,1221,37,1075"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="151,1009,181,1075"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,1075,169,1997,163,1997,163,1075"/>
+<area shape="rect" id="Node000004" href="$d6/dc1/classSystem_1_1IO_1_1Stream.html" title=" " alt="" coords="206,148,579,1936"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="341,1937,318,1991,298,2023,274,2052,270,2048,294,2020,313,1988,336,1935"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="582,910,592,934,600,965,606,1042,601,1109,589,1159,583,1158,596,1108,601,1042,594,966,587,936,577,912"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="73,5,275,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="188,98,209,191,203,192,183,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="299,13,486,78"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="395,92,395,148,390,148,390,92"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="511,13,589,78"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="548,78,539,132,534,131,542,78"/>
+</map>

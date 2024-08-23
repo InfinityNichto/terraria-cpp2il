@@ -17,9 +17,9 @@
 <text text-anchor="start" x="108" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <text text-anchor="start" x="4" y="-254" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-254" font-family="Helvetica,sans-Serif" font-size="10.00">TextSnippet Parse(string</text>
-<text text-anchor="start" x="17" y="-243" font-family="Helvetica,sans-Serif" font-size="10.00"> text, [Optional] Color</text>
-<text text-anchor="start" x="17" y="-232" font-family="Helvetica,sans-Serif" font-size="10.00"> baseColor, [Optional] string</text>
-<text text-anchor="start" x="17" y="-221" font-family="Helvetica,sans-Serif" font-size="10.00"> options)</text>
+<text text-anchor="start" x="17" y="-243" font-family="Helvetica,sans-Serif" font-size="10.00"> text, Color baseColor</text>
+<text text-anchor="start" x="17" y="-232" font-family="Helvetica,sans-Serif" font-size="10.00">=default(Color), string</text>
+<text text-anchor="start" x="17" y="-221" font-family="Helvetica,sans-Serif" font-size="10.00"> options=null)</text>
 <text text-anchor="start" x="4" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">ControlsKeyboardTagHandler()</text>
 <text text-anchor="start" x="4" y="-191" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
@@ -52,17 +52,17 @@
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../dc/d25/interfaceTerraria_1_1UI_1_1Chat_1_1ITagHandler.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="189.5,-414 30.5,-414 30.5,-332 189.5,-332 189.5,-414"/>
+<polygon fill="white" stroke="transparent" points="179.5,-414 40.5,-414 40.5,-332 179.5,-332 179.5,-414"/>
 <text text-anchor="start" x="81.5" y="-402" font-family="Helvetica,sans-Serif" font-size="10.00">ITagHandler</text>
 <text text-anchor="start" x="108.5" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="35" y="-372" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="48" y="-372" font-family="Helvetica,sans-Serif" font-size="10.00">TextSnippet Parse(string</text>
-<text text-anchor="start" x="48" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00"> text, [Optional] Color</text>
-<text text-anchor="start" x="48" y="-350" font-family="Helvetica,sans-Serif" font-size="10.00"> baseColor, [Optional] string</text>
-<text text-anchor="start" x="48" y="-339" font-family="Helvetica,sans-Serif" font-size="10.00"> options)</text>
-<polygon fill="#666666" stroke="#666666" points="31,-397 31,-397 190,-397 190,-397 31,-397"/>
-<polygon fill="#666666" stroke="#666666" points="31,-382 31,-382 190,-382 190,-382 31,-382"/>
-<polygon fill="none" stroke="#666666" points="30.5,-332 30.5,-414 189.5,-414 189.5,-332 30.5,-332"/>
+<text text-anchor="start" x="45" y="-372" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="58" y="-372" font-family="Helvetica,sans-Serif" font-size="10.00">TextSnippet Parse(string</text>
+<text text-anchor="start" x="58" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00"> text, Color baseColor</text>
+<text text-anchor="start" x="58" y="-350" font-family="Helvetica,sans-Serif" font-size="10.00">=default(Color), string</text>
+<text text-anchor="start" x="58" y="-339" font-family="Helvetica,sans-Serif" font-size="10.00"> options=null)</text>
+<polygon fill="#666666" stroke="#666666" points="41,-397 41,-397 180,-397 180,-397 41,-397"/>
+<polygon fill="#666666" stroke="#666666" points="41,-382 41,-382 180,-382 180,-382 41,-382"/>
+<polygon fill="none" stroke="#666666" points="40.5,-332 40.5,-414 179.5,-414 179.5,-332 40.5,-332"/>
 </a>
 </g>
 </g>

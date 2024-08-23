@@ -1,11 +1,8 @@
 <map id="CursorInputLayer" name="CursorInputLayer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="189,133,405,427"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,70,75,89,86,108,128,157,177,200,174,204,124,161,81,111,71,92,63,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="143,5,274,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,70,213,109,215,117,210,118,207,110,204,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="371,5,401,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="377,72,359,119,354,117,372,70"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="459,5,502,71"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="462,72,435,111,417,134,413,131,431,108,458,69"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,221,447"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="223,257,241,269,248,290,245,304,238,314,234,311,240,302,243,290,237,272,220,261"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="51,5,82,71"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="68,71,71,109,72,117,66,117,65,110,63,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,5,183,71"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,71,149,118,144,117,153,70"/>
 </map>

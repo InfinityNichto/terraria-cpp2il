@@ -1,6 +1,7 @@
 var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem =
 [
     [ "SpriteBatchItem", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a85efff63cfb645b828e408eed6ea8cb4.html#a85efff63cfb645b828e408eed6ea8cb4", null ],
+    [ "SpriteBatchItem", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_add5d18f8e2794ece6c20364acdee63fb.html#add5d18f8e2794ece6c20364acdee63fb", null ],
     [ "DisabledClipping", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_ae548b545e1d293216d4edaafc9e1d955.html#ae548b545e1d293216d4edaafc9e1d955", null ],
     [ "EnableClipping", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a077876ad45d27b12d156438c0ee8b597.html#a077876ad45d27b12d156438c0ee8b597", null ],
     [ "PopClippedImageRegion", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_ae0987ad1a5b4cf8ed48c826bab5aa181.html#ae0987ad1a5b4cf8ed48c826bab5aa181", null ],
@@ -11,6 +12,7 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem =
     [ "Set", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_ac5c5c888839d33a2321daedda845cb05.html#ac5c5c888839d33a2321daedda845cb05", null ],
     [ "Set", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_af1533543fa0f2f15c66cd0e32eccb45d.html#af1533543fa0f2f15c66cd0e32eccb45d", null ],
     [ "Set", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a5b200379331a5cc50434f86ac5df776d.html#a5b200379331a5cc50434f86ac5df776d", null ],
+    [ "SetGeometryOffset", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_af4580b2179b22441005f5282e9dffe66.html#af4580b2179b22441005f5282e9dffe66", null ],
     [ "BatchKey", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a8df2cd9a5b5264ede32c9e01749da920.html#a8df2cd9a5b5264ede32c9e01749da920", null ],
     [ "clipperObject", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a38ff65f7f8df4fbd331b8219b6aac7fa.html#a38ff65f7f8df4fbd331b8219b6aac7fa", null ],
     [ "clippingBatch", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_abcd456898a0932595be33d9d65ea2c79.html#abcd456898a0932595be33d9d65ea2c79", null ],
@@ -26,8 +28,9 @@ var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem =
     [ "clippingVerticalBackup", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_ab7c39ddaabc5614424d846e60be6d8f5.html#ab7c39ddaabc5614424d846e60be6d8f5", null ],
     [ "ColourScale", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a04d1a19d9645d327a4b3b0b6cfe71efb.html#a04d1a19d9645d327a4b3b0b6cfe71efb", null ],
     [ "EnableMaterialTrimming", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_ad7f1454f3d6f6a380f6fd36c4287f2e3.html#ad7f1454f3d6f6a380f6fd36c4287f2e3", null ],
-    [ "MaterialTrimmingMax", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a0d980cb449230a0cc4ee4a1ce8d2c275.html#a0d980cb449230a0cc4ee4a1ce8d2c275", null ],
-    [ "MaterialTrimmingMin", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a78e0d195589ba447cdf23234412914bf.html#a78e0d195589ba447cdf23234412914bf", null ],
+    [ "geometryOffsetEnabled", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_ac7af32c571155eef0d04df85faf21167.html#ac7af32c571155eef0d04df85faf21167", null ],
+    [ "MaterialTrimmingMax", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a4a916dd68ea7ed3c3830a60b7e361317.html#a4a916dd68ea7ed3c3830a60b7e361317", null ],
+    [ "MaterialTrimmingMin", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a2d4d93557e94e28ca90480d9d5dc63ab.html#a2d4d93557e94e28ca90480d9d5dc63ab", null ],
     [ "NextBatchItem", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a37c5c6a7ba3f24351bab22f9635e6f49.html#a37c5c6a7ba3f24351bab22f9635e6f49", null ],
     [ "OverloadedEffectPass", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a4a1d2a7ac46eed5bd920e8f112479326.html#a4a1d2a7ac46eed5bd920e8f112479326", null ],
     [ "Texture", "d4/dab/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatchItem_a3db00159f546c36f1b510cda2446adb9.html#a3db00159f546c36f1b510cda2446adb9", null ],

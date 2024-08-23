@@ -1,0 +1,11 @@
+<map id="UnityEngine.LightBakingOutput" name="UnityEngine.LightBakingOutput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="205,148,423,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="22,70,27,98,41,122,64,136,99,148,189,165,188,170,98,153,62,141,37,126,22,100,17,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="163,5,300,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,71,228,97,235,123,243,135,239,138,230,125,222,98,222,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="327,5,469,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="393,72,384,99,371,125,363,137,359,133,366,123,379,97,388,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="551,5,594,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="567,72,554,101,533,126,489,153,440,169,439,164,487,148,530,122,549,98,562,70"/>
+</map>

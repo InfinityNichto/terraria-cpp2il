@@ -1,6 +1,7 @@
 var classTelepathy_1_1Client =
 [
     [ "Client", "d9/df4/classTelepathy_1_1Client_ad5c35f145796ebf5953209f77dc7b34c.html#ad5c35f145796ebf5953209f77dc7b34c", null ],
+    [ "b__11_0", "d9/df4/classTelepathy_1_1Client_abab4f39ebc795b784c3a6c40a7819c16.html#abab4f39ebc795b784c3a6c40a7819c16", null ],
     [ "Connect", "d9/df4/classTelepathy_1_1Client_a32edf31800fff35062bb8c8d2a8bb609.html#a32edf31800fff35062bb8c8d2a8bb609", null ],
     [ "Disconnect", "d9/df4/classTelepathy_1_1Client_ace1241514367a306a88deb766e31de7b.html#ace1241514367a306a88deb766e31de7b", null ],
     [ "GetIPAddress", "d9/df4/classTelepathy_1_1Client_adb1ab344daae7840234ee0318562381d.html#adb1ab344daae7840234ee0318562381d", null ],

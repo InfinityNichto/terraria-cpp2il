@@ -1,6 +1,7 @@
 var classTerraria_1_1GameContent_1_1Events_1_1DD2Event =
 [
     [ "DD2Event", "dd/db5/classTerraria_1_1GameContent_1_1Events_1_1DD2Event_a4229d99f2268c10f6a939f921f66bfd4.html#a4229d99f2268c10f6a939f921f66bfd4", null ],
+    [ "DD2Event", "dd/db5/classTerraria_1_1GameContent_1_1Events_1_1DD2Event_ac2008ea1cb6be6152debda21ab37a117.html#ac2008ea1cb6be6152debda21ab37a117", null ],
     [ "AnnounceGoblinDeath", "dd/db5/classTerraria_1_1GameContent_1_1Events_1_1DD2Event_af24aa755cfd256cbc54edce44b645213.html#af24aa755cfd256cbc54edce44b645213", null ],
     [ "AttemptToSkipWaitTime", "dd/db5/classTerraria_1_1GameContent_1_1Events_1_1DD2Event_ad228f822ba4b9b704bcd4d5270b40e48.html#ad228f822ba4b9b704bcd4d5270b40e48", null ],
     [ "CanRaiseGoblinsHere", "dd/db5/classTerraria_1_1GameContent_1_1Events_1_1DD2Event_a66709e718cc0a3a6cc82129378e353d6.html#a66709e718cc0a3a6cc82129378e353d6", null ],

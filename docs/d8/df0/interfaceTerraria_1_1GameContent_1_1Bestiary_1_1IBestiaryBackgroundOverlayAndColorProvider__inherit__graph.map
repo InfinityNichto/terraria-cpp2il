@@ -1,7 +1,7 @@
 <map id="Terraria.GameContent.Bestiary.IBestiaryBackgroundOverlayAndColorProvider" name="Terraria.GameContent.Bestiary.IBestiaryBackgroundOverlayAndColorProvider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="166,5,425,149"/>
-<area shape="rect" id="Node000002" href="$d0/d2b/classTerraria_1_1GameContent_1_1Bestiary_1_1SpawnConditionBestiaryOverlayInfoElement.html" title=" " alt="" coords="5,197,287,480"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,162,229,198,225,196,245,160"/>
-<area shape="rect" id="Node000003" href="$d1/d27/classTerraria_1_1GameContent_1_1Bestiary_1_1SpawnConditionDecorativeOverlayInfoElement.html" title=" " alt="" coords="311,197,578,480"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="345,160,366,196,361,198,341,162"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="172,5,431,149"/>
+<area shape="rect" id="Node000002" href="$d0/d2b/classTerraria_1_1GameContent_1_1Bestiary_1_1SpawnConditionBestiaryOverlayInfoElement.html" title=" " alt="" coords="5,197,296,535"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,163,241,199,236,196,255,160"/>
+<area shape="rect" id="Node000003" href="$d1/d27/classTerraria_1_1GameContent_1_1Bestiary_1_1SpawnConditionDecorativeOverlayInfoElement.html" title=" " alt="" coords="320,207,587,525"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="348,160,372,206,367,208,343,163"/>
 </map>

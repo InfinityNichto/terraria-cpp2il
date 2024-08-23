@@ -29,7 +29,7 @@
 <text text-anchor="start" x="17.5" y="-126" font-family="Helvetica,sans-Serif" font-size="10.00">int? _filledStarsCount</text>
 <text text-anchor="start" x="4.5" y="-111" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-111" font-family="Helvetica,sans-Serif" font-size="10.00">NPCPortraitInfoElement</text>
-<text text-anchor="start" x="17.5" y="-100" font-family="Helvetica,sans-Serif" font-size="10.00">([Optional] int? rarityStars)</text>
+<text text-anchor="start" x="17.5" y="-100" font-family="Helvetica,sans-Serif" font-size="10.00">(int? rarityStars=null)</text>
 <text text-anchor="start" x="4.5" y="-85" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17.5" y="-85" font-family="Helvetica,sans-Serif" font-size="10.00">UIElement ProvideUIElement</text>
 <text text-anchor="start" x="17.5" y="-74" font-family="Helvetica,sans-Serif" font-size="10.00">(BestiaryUICollectionInfo info)</text>

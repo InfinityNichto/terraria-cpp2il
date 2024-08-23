@@ -387,26 +387,27 @@ var sectionId = 'dynsection-0';
 <g id="Node000015" class="node">
 <title>Node15</title>
 <g id="a_Node000015"><a xlink:href="../../d9/df7/classGUIControllerDresser.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="1501,-771.5 1302,-771.5 1302,-640.5 1501,-640.5 1501,-771.5"/>
-<text text-anchor="start" x="1350" y="-759" font-family="Helvetica,sans-Serif" font-size="10.00">GUIControllerDresser</text>
-<text text-anchor="start" x="1306.5" y="-744" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1319.5" y="-744" font-family="Helvetica,sans-Serif" font-size="10.00">Controls selectedControl</text>
-<text text-anchor="start" x="1306.5" y="-729" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1319.5" y="-729" font-family="Helvetica,sans-Serif" font-size="10.00">int Item</text>
-<text text-anchor="start" x="1306.5" y="-714" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1319.5" y="-714" font-family="Helvetica,sans-Serif" font-size="10.00">GUIControllerDresser()</text>
-<text text-anchor="start" x="1306.5" y="-699" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1319.5" y="-699" font-family="Helvetica,sans-Serif" font-size="10.00">override void Activate()</text>
-<text text-anchor="start" x="1306.5" y="-684" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1319.5" y="-684" font-family="Helvetica,sans-Serif" font-size="10.00">override GUIControllerItem</text>
-<text text-anchor="start" x="1319.5" y="-673" font-family="Helvetica,sans-Serif" font-size="10.00"> Navigate(Vector2 navigationVector)</text>
-<text text-anchor="start" x="1306.5" y="-658" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="1319.5" y="-658" font-family="Helvetica,sans-Serif" font-size="10.00">override Rectangle</text>
-<text text-anchor="start" x="1319.5" y="-647" font-family="Helvetica,sans-Serif" font-size="10.00"> GetSelectedItemRegion()</text>
-<polygon fill="#666666" stroke="#666666" points="1302.5,-754 1302.5,-754 1501.5,-754 1501.5,-754 1302.5,-754"/>
-<polygon fill="#666666" stroke="#666666" points="1302.5,-724 1302.5,-724 1317.5,-724 1317.5,-724 1302.5,-724"/>
-<polygon fill="#666666" stroke="#666666" points="1317.5,-724 1317.5,-724 1501.5,-724 1501.5,-724 1317.5,-724"/>
-<polygon fill="none" stroke="#666666" points="1302,-640.5 1302,-771.5 1501,-771.5 1501,-640.5 1302,-640.5"/>
+<polygon fill="white" stroke="transparent" points="1501,-777 1302,-777 1302,-635 1501,-635 1501,-777"/>
+<text text-anchor="start" x="1350" y="-765" font-family="Helvetica,sans-Serif" font-size="10.00">GUIControllerDresser</text>
+<text text-anchor="start" x="1306.5" y="-750" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1319.5" y="-750" font-family="Helvetica,sans-Serif" font-size="10.00">GUIControllerDresser.Controls</text>
+<text text-anchor="start" x="1319.5" y="-739" font-family="Helvetica,sans-Serif" font-size="10.00"> selectedControl</text>
+<text text-anchor="start" x="1306.5" y="-724" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1319.5" y="-724" font-family="Helvetica,sans-Serif" font-size="10.00">int Item</text>
+<text text-anchor="start" x="1306.5" y="-709" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1319.5" y="-709" font-family="Helvetica,sans-Serif" font-size="10.00">GUIControllerDresser()</text>
+<text text-anchor="start" x="1306.5" y="-694" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1319.5" y="-694" font-family="Helvetica,sans-Serif" font-size="10.00">override void Activate()</text>
+<text text-anchor="start" x="1306.5" y="-679" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1319.5" y="-679" font-family="Helvetica,sans-Serif" font-size="10.00">override GUIControllerItem</text>
+<text text-anchor="start" x="1319.5" y="-668" font-family="Helvetica,sans-Serif" font-size="10.00"> Navigate(Vector2 navigationVector)</text>
+<text text-anchor="start" x="1306.5" y="-653" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="1319.5" y="-653" font-family="Helvetica,sans-Serif" font-size="10.00">override Rectangle</text>
+<text text-anchor="start" x="1319.5" y="-642" font-family="Helvetica,sans-Serif" font-size="10.00"> GetSelectedItemRegion()</text>
+<polygon fill="#666666" stroke="#666666" points="1302.5,-760 1302.5,-760 1501.5,-760 1501.5,-760 1302.5,-760"/>
+<polygon fill="#666666" stroke="#666666" points="1302.5,-719 1302.5,-719 1317.5,-719 1317.5,-719 1302.5,-719"/>
+<polygon fill="#666666" stroke="#666666" points="1317.5,-719 1317.5,-719 1501.5,-719 1501.5,-719 1317.5,-719"/>
+<polygon fill="none" stroke="#666666" points="1302,-635 1302,-777 1501,-777 1501,-635 1302,-635"/>
 </a>
 </g>
 </g>
@@ -414,7 +415,7 @@ var sectionId = 'dynsection-0';
 <g id="edge14_Node000001_Node000015" class="edge">
 <title>Node1&#45;&gt;Node15</title>
 <g id="a_edge14_Node000001_Node000015"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M1827.14,-1076.21C1732.47,-1043.95 1600.16,-987.48 1509.5,-902 1471.2,-865.9 1443.12,-813.12 1425.2,-771.57"/>
+<path fill="none" stroke="#63b8ff" d="M1827.14,-1076.21C1732.47,-1043.95 1600.16,-987.48 1509.5,-902 1472.89,-867.49 1445.62,-817.74 1427.63,-777.13"/>
 <polygon fill="none" stroke="#63b8ff" points="1826.17,-1079.57 1836.76,-1079.44 1828.4,-1072.94 1826.17,-1079.57"/>
 </a>
 </g>

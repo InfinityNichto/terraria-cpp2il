@@ -1,6 +1,7 @@
 var classTerraria_1_1UI_1_1LegacyNetDiagnosticsUI =
 [
     [ "LegacyNetDiagnosticsUI", "d2/db7/classTerraria_1_1UI_1_1LegacyNetDiagnosticsUI_a6fbc05fe7bb3f0c4d9bb70944c33b4d5.html#a6fbc05fe7bb3f0c4d9bb70944c33b4d5", null ],
+    [ "LegacyNetDiagnosticsUI", "d2/db7/classTerraria_1_1UI_1_1LegacyNetDiagnosticsUI_a1fb58ee4863d7542ab08593d1fb16d84.html#a1fb58ee4863d7542ab08593d1fb16d84", null ],
     [ "CountReadMessage", "d2/db7/classTerraria_1_1UI_1_1LegacyNetDiagnosticsUI_a5b0014ddddd06084d28a8b20987f9533.html#a5b0014ddddd06084d28a8b20987f9533", null ],
     [ "CountReadModuleMessage", "d2/db7/classTerraria_1_1UI_1_1LegacyNetDiagnosticsUI_a169bff48d3087fd177661274ec96179e.html#a169bff48d3087fd177661274ec96179e", null ],
     [ "CountSentMessage", "d2/db7/classTerraria_1_1UI_1_1LegacyNetDiagnosticsUI_abb5a21abd2049e535c14acd8dd561c71.html#abb5a21abd2049e535c14acd8dd561c71", null ],

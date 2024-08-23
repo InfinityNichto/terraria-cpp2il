@@ -45,7 +45,7 @@
 <text text-anchor="start" x="17" y="-99.5" font-family="Helvetica,sans-Serif" font-size="10.00">void IfHas&lt; T &gt;(Action</text>
 <text text-anchor="start" x="17" y="-88.5" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; T &gt; callback)</text>
 <text text-anchor="start" x="4" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="17" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">U IfHas&lt; U, T &gt;(Func</text>
+<text text-anchor="start" x="17" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">U IfHas&lt; T, U &gt;(Func</text>
 <text text-anchor="start" x="17" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; T, U &gt; callback)</text>
 <text text-anchor="start" x="4" y="-47.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="17" y="-47.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Dispose()</text>
@@ -64,14 +64,15 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="../../d0/d07/classIDisposable.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="113,-350 45,-350 45,-301 113,-301 113,-350"/>
+<g id="a_Node000002"><a xlink:href="../../d6/d32/interfaceSystem_1_1IDisposable.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="transparent" points="125,-350 33,-350 33,-301 125,-301 125,-350"/>
 <text text-anchor="start" x="50" y="-337.5" font-family="Helvetica,sans-Serif" font-size="10.00">IDisposable</text>
 <text text-anchor="start" x="77" y="-322.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="77" y="-307.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="45,-332.5 45,-332.5 113,-332.5 113,-332.5 45,-332.5"/>
-<polygon fill="#666666" stroke="#666666" points="45,-317.5 45,-317.5 113,-317.5 113,-317.5 45,-317.5"/>
-<polygon fill="none" stroke="#666666" points="45,-301 45,-350 113,-350 113,-301 45,-301"/>
+<text text-anchor="start" x="37" y="-307.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="50" y="-307.5" font-family="Helvetica,sans-Serif" font-size="10.00">void Dispose()</text>
+<polygon fill="#666666" stroke="#666666" points="33,-332.5 33,-332.5 125,-332.5 125,-332.5 33,-332.5"/>
+<polygon fill="#666666" stroke="#666666" points="33,-317.5 33,-317.5 125,-317.5 125,-317.5 33,-317.5"/>
+<polygon fill="none" stroke="#666666" points="33,-301 33,-350 125,-350 125,-301 33,-301"/>
 </a>
 </g>
 </g>

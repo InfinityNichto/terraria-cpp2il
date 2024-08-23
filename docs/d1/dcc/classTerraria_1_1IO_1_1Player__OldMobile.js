@@ -1,6 +1,7 @@
 var classTerraria_1_1IO_1_1Player__OldMobile =
 [
-    [ "DecryptPlayerData", "d1/dcc/classTerraria_1_1IO_1_1Player__OldMobile_aabdb359c57853dbd454dc45b8a00761a.html#aabdb359c57853dbd454dc45b8a00761a", null ],
+    [ "Player_OldMobile", "d1/dcc/classTerraria_1_1IO_1_1Player__OldMobile_a9135a90c84748d6bd35cdc7c9ccf4d40.html#a9135a90c84748d6bd35cdc7c9ccf4d40", null ],
+    [ "DecryptPlayerData", "d1/dcc/classTerraria_1_1IO_1_1Player__OldMobile_a1f678c001b08d1726d3acb5ad37f9189.html#a1f678c001b08d1726d3acb5ad37f9189", null ],
     [ "GivePlayerCoins", "d1/dcc/classTerraria_1_1IO_1_1Player__OldMobile_a8007c07432b052be94e1629073fa493c.html#a8007c07432b052be94e1629073fa493c", null ],
     [ "IsValidBuff", "d1/dcc/classTerraria_1_1IO_1_1Player__OldMobile_a52f7aedf210bf4b3192044d94016addf.html#a52f7aedf210bf4b3192044d94016addf", null ],
     [ "Load", "d1/dcc/classTerraria_1_1IO_1_1Player__OldMobile_adf831c8e511d5fb5c0fda2e39a68546d.html#adf831c8e511d5fb5c0fda2e39a68546d", null ],

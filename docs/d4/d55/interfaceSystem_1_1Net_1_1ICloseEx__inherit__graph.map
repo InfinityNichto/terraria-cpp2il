@@ -1,0 +1,9 @@
+<map id="System.Net.ICloseEx" name="System.Net.ICloseEx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="392,5,596,85"/>
+<area shape="rect" id="Node000002" href="$de/d5a/classSystem_1_1Net_1_1FileWebResponse.html" title=" " alt="" coords="5,260,311,940"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="381,92,351,111,325,135,281,195,246,261,241,259,277,192,321,132,348,107,378,87"/>
+<area shape="rect" id="Node000003" href="$d0/dea/classSystem_1_1Net_1_1FileWebStream.html" title=" " alt="" coords="335,328,653,872"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="497,99,497,328,491,328,491,99"/>
+<area shape="rect" id="Node000004" href="$dc/dd8/classSystem_1_1Net_1_1FtpDataStream.html" title=" " alt="" coords="678,133,931,1067"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="610,85,641,106,668,132,680,147,676,150,664,135,638,110,607,90"/>
+</map>

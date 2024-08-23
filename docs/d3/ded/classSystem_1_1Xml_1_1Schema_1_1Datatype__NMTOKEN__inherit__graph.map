@@ -1,0 +1,17 @@
+<map id="System.Xml.Schema.Datatype_NMTOKEN" name="System.Xml.Schema.Datatype_NMTOKEN">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,3759,290,3888"/>
+<area shape="rect" id="Node000008" href="$db/dd4/classSystem_1_1Xml_1_1Schema_1_1Datatype__ENUMERATION.html" title=" " alt="" coords="77,3936,290,4031"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="186,3902,186,3936,181,3936,181,3902"/>
+<area shape="rect" id="Node000002" href="$d0/d81/classSystem_1_1Xml_1_1Schema_1_1Datatype__token.html" title=" " alt="" coords="63,3596,304,3711"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,3724,186,3758,181,3758,181,3724"/>
+<area shape="rect" id="Node000003" href="$da/d53/classSystem_1_1Xml_1_1Schema_1_1Datatype__normalizedString.html" title=" " alt="" coords="63,3433,304,3548"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,3562,186,3596,181,3596,181,3562"/>
+<area shape="rect" id="Node000004" href="$dc/d2f/classSystem_1_1Xml_1_1Schema_1_1Datatype__string.html" title=" " alt="" coords="54,3073,313,3385"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,3399,186,3433,181,3433,181,3399"/>
+<area shape="rect" id="Node000005" href="$d4/dd4/classSystem_1_1Xml_1_1Schema_1_1Datatype__anySimpleType.html" title=" " alt="" coords="54,2520,313,3025"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="186,3039,186,3073,181,3073,181,3039"/>
+<area shape="rect" id="Node000006" href="$d5/d91/classSystem_1_1Xml_1_1Schema_1_1DatatypeImplementation.html" title=" " alt="" coords="5,589,361,2472"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="186,2486,186,2520,181,2520,181,2486"/>
+<area shape="rect" id="Node000007" href="$d0/d13/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaDatatype.html" title=" " alt="" coords="43,5,324,541"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="186,555,186,589,181,589,181,555"/>
+</map>

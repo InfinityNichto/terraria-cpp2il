@@ -1,6 +1,6 @@
 var classGUIControllerPageMenuPopupGridNavigator =
 [
-    [ "GUIControllerPageMenuPopupGridNavigator", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a002509f92750d7102a4adaf3796b3570.html#a002509f92750d7102a4adaf3796b3570", null ],
+    [ "GUIControllerPageMenuPopupGridNavigator", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a650f2e030c238efd43c07a1a7ea5febb.html#a650f2e030c238efd43c07a1a7ea5febb", null ],
     [ "Activate", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a5887de2d2a72110ec5cc1c9c342d5959.html#a5887de2d2a72110ec5cc1c9c342d5959", null ],
     [ "ClampPosition", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a2e6c13c42b39dd278349223c64df214f.html#a2e6c13c42b39dd278349223c64df214f", null ],
     [ "GetCollectionCount", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a9b13c6b42abc0589b260cef546db7d1b.html#a9b13c6b42abc0589b260cef546db7d1b", null ],
@@ -9,10 +9,10 @@ var classGUIControllerPageMenuPopupGridNavigator =
     [ "GetSelectedItemRegion", "da/df5/classGUIControllerPageMenuPopupGridNavigator_aa3be7d205560ebbbff74fff54bede621.html#aa3be7d205560ebbbff74fff54bede621", null ],
     [ "Navigate", "da/df5/classGUIControllerPageMenuPopupGridNavigator_af584f3f815ee4b1d80e29741305401c3.html#af584f3f815ee4b1d80e29741305401c3", null ],
     [ "NavigateHorizontal", "da/df5/classGUIControllerPageMenuPopupGridNavigator_ae6cde24f72d62706fafb33a35fb53636.html#ae6cde24f72d62706fafb33a35fb53636", null ],
-    [ "_collectionCount", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a4c843e9ce3bba68c9c6030fe4499837f.html#a4c843e9ce3bba68c9c6030fe4499837f", null ],
+    [ "_collectionCount", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a8570a0bc0d6a42dfe74de09db001973b.html#a8570a0bc0d6a42dfe74de09db001973b", null ],
     [ "_controller", "da/df5/classGUIControllerPageMenuPopupGridNavigator_aeca7a77e0a4be35fc6cfe621aae049e0.html#aeca7a77e0a4be35fc6cfe621aae049e0", null ],
-    [ "_grid", "da/df5/classGUIControllerPageMenuPopupGridNavigator_aaf0ce8780859485d5a24a5de7b90cba6.html#aaf0ce8780859485d5a24a5de7b90cba6", null ],
-    [ "_itemScale", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a581f10f449d64fea415d07c41d392162.html#a581f10f449d64fea415d07c41d392162", null ],
+    [ "_grid", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a6072c3f7ca0763d5b68287f64ff91fff.html#a6072c3f7ca0763d5b68287f64ff91fff", null ],
+    [ "_itemScale", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a86ee0bbe7a977042dd2d728f477d0bd4.html#a86ee0bbe7a977042dd2d728f477d0bd4", null ],
     [ "itemColumn", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a7933e5e96d373277d5dd65559632d67a.html#a7933e5e96d373277d5dd65559632d67a", null ],
     [ "itemRow", "da/df5/classGUIControllerPageMenuPopupGridNavigator_abc4e65daa19244784ba40af3095ce5e1.html#abc4e65daa19244784ba40af3095ce5e1", null ],
     [ "GridLayout", "da/df5/classGUIControllerPageMenuPopupGridNavigator_a7ca7cd957765b441ef402134b4feec05.html#a7ca7cd957765b441ef402134b4feec05", null ],

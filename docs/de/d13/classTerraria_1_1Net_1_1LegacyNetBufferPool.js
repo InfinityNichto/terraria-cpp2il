@@ -1,6 +1,7 @@
 var classTerraria_1_1Net_1_1LegacyNetBufferPool =
 [
     [ "LegacyNetBufferPool", "de/d13/classTerraria_1_1Net_1_1LegacyNetBufferPool_a76659bde84e04270b88c200a47e76855.html#a76659bde84e04270b88c200a47e76855", null ],
+    [ "LegacyNetBufferPool", "de/d13/classTerraria_1_1Net_1_1LegacyNetBufferPool_a1a4048e70173956b2e2257e6e6ef76b9.html#a1a4048e70173956b2e2257e6e6ef76b9", null ],
     [ "DisplayBufferSizes", "de/d13/classTerraria_1_1Net_1_1LegacyNetBufferPool_a6916d1e70189fde38fb9a1e68f473773.html#a6916d1e70189fde38fb9a1e68f473773", null ],
     [ "PrintBufferSizes", "de/d13/classTerraria_1_1Net_1_1LegacyNetBufferPool_ae436cb1900965cd661a13c697cca07d6.html#ae436cb1900965cd661a13c697cca07d6", null ],
     [ "RequestBuffer", "de/d13/classTerraria_1_1Net_1_1LegacyNetBufferPool_aec23c11e9c61bf77e3e90641b828328b.html#aec23c11e9c61bf77e3e90641b828328b", null ],

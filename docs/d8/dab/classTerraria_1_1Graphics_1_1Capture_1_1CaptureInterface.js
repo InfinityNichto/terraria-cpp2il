@@ -6,12 +6,13 @@ var classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface =
     [ "ModeEdgeSelection", "dc/dc2/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1ModeEdgeSelection.html", "dc/dc2/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1ModeEdgeSelection" ],
     [ "Settings", "d9/d98/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1Settings.html", "d9/d98/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_1_1Settings" ],
     [ "CaptureInterface", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_adcf76199a5a60a2d19c1ea2ff4a193be.html#adcf76199a5a60a2d19c1ea2ff4a193be", null ],
+    [ "CaptureInterface", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_ae8571f5a1967f1111a6bcf54c8af0eab.html#ae8571f5a1967f1111a6bcf54c8af0eab", null ],
     [ "ConstraintPoints", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_a73094a3684f551631bfaf385015fb409.html#a73094a3684f551631bfaf385015fb409", null ],
     [ "Draw", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_adf100428702d72eca7c436219e6265ae.html#adf100428702d72eca7c436219e6265ae", null ],
     [ "DrawButtons", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_a09a36f2955cd8f279d133ddf2806a533.html#a09a36f2955cd8f279d133ddf2806a533", null ],
     [ "DrawCameraLock", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_a49c63f72c52b6fa04708cedc9446c9a0.html#a49c63f72c52b6fa04708cedc9446c9a0", null ],
     [ "EndCamera", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_a61bb6a28db5e06b0942f127ddfd18928.html#a61bb6a28db5e06b0942f127ddfd18928", null ],
-    [ "FillModes", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_af67378885d91630eb8a55ea23cffb0df.html#af67378885d91630eb8a55ea23cffb0df", null ],
+    [ "FillModes", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_a9e291bba8f08b9af00f72ccd1df922e2.html#a9e291bba8f08b9af00f72ccd1df922e2", null ],
     [ "GetArea", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_aa3732d8d056b71031a9746b7b8a8132f.html#aa3732d8d056b71031a9746b7b8a8132f", null ],
     [ "GetMapCoords", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_aeb62c059041890d6b5d60250bcf42182.html#aeb62c059041890d6b5d60250bcf42182", null ],
     [ "PointWorldClamp", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_a54114776cc86dc44f8913284b4976f64.html#a54114776cc86dc44f8913284b4976f64", null ],
@@ -38,6 +39,6 @@ var classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface =
     [ "HoveredMode", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_ad79ca67ea28f16ca46c0aa5065b1592e.html#ad79ca67ea28f16ca46c0aa5065b1592e", null ],
     [ "JustActivated", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_acfccbeab1b5dfea0d49b82df30c40b36.html#acfccbeab1b5dfea0d49b82df30c40b36", null ],
     [ "KeyToggleActiveHeld", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_a7e3e556b3de478da06db284b4992362c.html#a7e3e556b3de478da06db284b4992362c", null ],
-    [ "Modes", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_acf961965c82942557e8bc5dedcd5304d.html#acf961965c82942557e8bc5dedcd5304d", null ],
+    [ "Modes", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_aeea5b803bfd9d12c5fdf6fdce9432e2e.html#aeea5b803bfd9d12c5fdf6fdce9432e2e", null ],
     [ "SelectedMode", "d8/dab/classTerraria_1_1Graphics_1_1Capture_1_1CaptureInterface_ad0d0f3ad31d085288104295e96adddac.html#ad0d0f3ad31d085288104295e96adddac", null ]
 ];

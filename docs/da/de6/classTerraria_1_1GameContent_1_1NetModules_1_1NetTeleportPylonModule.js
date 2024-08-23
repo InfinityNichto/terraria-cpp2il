@@ -8,6 +8,6 @@ var classTerraria_1_1GameContent_1_1NetModules_1_1NetTeleportPylonModule =
     [ "NetTeleportPylonModule", "da/de6/classTerraria_1_1GameContent_1_1NetModules_1_1NetTeleportPylonModule_a05773842d9e0ca462716a2b56e737016.html#a05773842d9e0ca462716a2b56e737016", null ],
     [ "CreatePacket< T >", "da/de6/classTerraria_1_1GameContent_1_1NetModules_1_1NetTeleportPylonModule.html#aa69a50b87b0f3829866e267a0fd918f2", null ],
     [ "Deserialize", "da/de6/classTerraria_1_1GameContent_1_1NetModules_1_1NetTeleportPylonModule_a881bccc2a9493b769a65cc4e24d3cc08.html#a881bccc2a9493b769a65cc4e24d3cc08", null ],
-    [ "SerializePylonWasAddedOrRemoved", "da/de6/classTerraria_1_1GameContent_1_1NetModules_1_1NetTeleportPylonModule_a196b6e6d502dc2ae1a3ec4bfffb8fdff.html#a196b6e6d502dc2ae1a3ec4bfffb8fdff", null ],
+    [ "SerializePylonWasAddedOrRemoved", "da/de6/classTerraria_1_1GameContent_1_1NetModules_1_1NetTeleportPylonModule_a1d7bb5f002945c6bdaa375d591d4be76.html#a1d7bb5f002945c6bdaa375d591d4be76", null ],
     [ "SerializeUseRequest", "da/de6/classTerraria_1_1GameContent_1_1NetModules_1_1NetTeleportPylonModule_a39b802bf9fa13334b6472d495c5617cc.html#a39b802bf9fa13334b6472d495c5617cc", null ]
 ];

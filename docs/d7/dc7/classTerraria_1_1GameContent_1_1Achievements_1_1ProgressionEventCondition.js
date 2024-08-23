@@ -2,6 +2,7 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition =
 [
     [ "ProgressionEventCondition", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition_ab4d85ccdc72c59f8c2171fb570ce394d.html#ab4d85ccdc72c59f8c2171fb570ce394d", null ],
     [ "ProgressionEventCondition", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition_afe82112f73ad0bbf2ccb3ec502d161f3.html#afe82112f73ad0bbf2ccb3ec502d161f3", null ],
+    [ "ProgressionEventCondition", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition_acaf8f14bb3f25d0b62a4dcd46c20eb1f.html#acaf8f14bb3f25d0b62a4dcd46c20eb1f", null ],
     [ "AchievementUpdate", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition.html#ac6580fe12f459e41b986307c7d220faa", null ],
     [ "Clear", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition.html#a915352f446266bd38447ac924b65810d", null ],
     [ "Complete", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition.html#a3f198905c61195fd91c52526581f30fc", null ],
@@ -22,5 +23,5 @@ var classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition =
     [ "Identifier", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition_a4374a133a199796e44f248a7e0515782.html#a4374a133a199796e44f248a7e0515782", null ],
     [ "Name", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition.html#ab4652f96927ffad9e74b26487f4b056d", null ],
     [ "IsCompleted", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition.html#a0dd5e62f23542e858645db4db4350138", null ],
-    [ "OnComplete", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition.html#a2c8ec7258b62749a3bb0252d5255bee5", null ]
+    [ "OnComplete", "d7/dc7/classTerraria_1_1GameContent_1_1Achievements_1_1ProgressionEventCondition.html#ac33fe3a8378daa49479224a1a04e2d8b", null ]
 ];

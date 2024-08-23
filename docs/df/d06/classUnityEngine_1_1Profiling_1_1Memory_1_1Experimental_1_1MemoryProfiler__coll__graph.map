@@ -1,0 +1,13 @@
+<map id="UnityEngine.Profiling.Memory.Experimental.MemoryProfiler" name="UnityEngine.Profiling.Memory.Experimental.MemoryProfiler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="152,305,396,612"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,170,164,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,234,127,280,144,304,140,308,122,283,97,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="247,5,301,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,56,198,73,162,97,129,133,104,171,99,168,125,130,159,93,195,68,233,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="189,163,359,243"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="277,84,277,162,271,162,271,84"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="383,163,623,243"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="315,38,351,42,392,52,432,68,468,93,481,108,490,126,501,162,496,163,485,128,476,111,464,97,430,73,390,57,350,48,315,43"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,243,277,289,271,289,271,243"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="485,244,459,283,409,339,405,335,455,280,480,241"/>
+</map>

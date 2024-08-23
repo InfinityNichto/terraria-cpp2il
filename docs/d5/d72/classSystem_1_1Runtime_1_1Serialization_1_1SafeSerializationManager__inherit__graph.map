@@ -1,0 +1,7 @@
+<map id="System.Runtime.Serialization.SafeSerializationManager" name="System.Runtime.Serialization.SafeSerializationManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,148,403,717"/>
+<area shape="rect" id="Node000002" href="$d9/d5a/interfaceSystem_1_1Runtime_1_1Serialization_1_1IObjectReference.html" title=" " alt="" coords="5,13,215,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,105,141,147,136,149,123,107"/>
+<area shape="rect" id="Node000003" href="$d6/d2f/interfaceSystem_1_1Runtime_1_1Serialization_1_1ISerializable.html" title=" " alt="" coords="239,5,448,100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,114,317,149,312,147,322,112"/>
+</map>

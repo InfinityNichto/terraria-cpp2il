@@ -1,6 +1,7 @@
 var classTerraria_1_1MessageBuffer =
 [
     [ "MessageBuffer", "db/d63/classTerraria_1_1MessageBuffer_a92138aabde362af44ed20bc53d203df4.html#a92138aabde362af44ed20bc53d203df4", null ],
+    [ "MessageBuffer", "db/d63/classTerraria_1_1MessageBuffer_a44b223c745e9b4d3a86fc6b3dad6f6c9.html#a44b223c745e9b4d3a86fc6b3dad6f6c9", null ],
     [ "ProcessData", "db/d63/classTerraria_1_1MessageBuffer_ac5e4beacbac55b9beab760b141ebdb3e.html#ac5e4beacbac55b9beab760b141ebdb3e", null ],
     [ "ReadAccessoryVisibility", "db/d63/classTerraria_1_1MessageBuffer_aa75f88879d83b242eda5c4f0c7882a10.html#aa75f88879d83b242eda5c4f0c7882a10", null ],
     [ "Reset", "db/d63/classTerraria_1_1MessageBuffer_a6c854bb9f61aae2f1a33fa34f86da850.html#a6c854bb9f61aae2f1a33fa34f86da850", null ],
@@ -16,5 +17,5 @@ var classTerraria_1_1MessageBuffer =
     [ "readerStream", "db/d63/classTerraria_1_1MessageBuffer_a86e6f948f57e78c129124521a929a703.html#a86e6f948f57e78c129124521a929a703", null ],
     [ "spamCount", "db/d63/classTerraria_1_1MessageBuffer_a1a40b6ddd82d15251c233095e58f139f.html#a1a40b6ddd82d15251c233095e58f139f", null ],
     [ "whoAmI", "db/d63/classTerraria_1_1MessageBuffer_a3a7fcc1c81a3bca8546cacf5bc884746.html#a3a7fcc1c81a3bca8546cacf5bc884746", null ],
-    [ "OnTileChangeReceived", "db/d63/classTerraria_1_1MessageBuffer_a35901dd15c5c07f43900c57ee029e713.html#a35901dd15c5c07f43900c57ee029e713", null ]
+    [ "OnTileChangeReceived", "db/d63/classTerraria_1_1MessageBuffer_a2c0fdc1d954bcdeca32ced68f7226c15.html#a2c0fdc1d954bcdeca32ced68f7226c15", null ]
 ];

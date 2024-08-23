@@ -12,5 +12,6 @@ var classReLogic_1_1Content_1_1Sources_1_1XnaContentSource =
     [ "_files", "da/d00/classReLogic_1_1Content_1_1Sources_1_1XnaContentSource_a8fde16ca872feedb44aef0fd450670d7.html#a8fde16ca872feedb44aef0fd450670d7", null ],
     [ "_rejections", "da/d00/classReLogic_1_1Content_1_1Sources_1_1XnaContentSource_a38dc069b475d5c446c469c8cd6edf622.html#a38dc069b475d5c446c469c8cd6edf622", null ],
     [ "_rootDirectory", "da/d00/classReLogic_1_1Content_1_1Sources_1_1XnaContentSource_adb517f51ed9bb175dc73c189be75cbda.html#adb517f51ed9bb175dc73c189be75cbda", null ],
+    [ "k__BackingField", "da/d00/classReLogic_1_1Content_1_1Sources_1_1XnaContentSource_ab00e302d9837ec63d5661741d84f46ae.html#ab00e302d9837ec63d5661741d84f46ae", null ],
     [ "ContentValidator", "da/d00/classReLogic_1_1Content_1_1Sources_1_1XnaContentSource_afbe5fea94f6456f259aa12c5da54f3c7.html#afbe5fea94f6456f259aa12c5da54f3c7", null ]
 ];

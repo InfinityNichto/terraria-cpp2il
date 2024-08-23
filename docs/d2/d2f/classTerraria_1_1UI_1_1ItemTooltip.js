@@ -2,6 +2,7 @@ var classTerraria_1_1UI_1_1ItemTooltip =
 [
     [ "ItemTooltip", "d2/d2f/classTerraria_1_1UI_1_1ItemTooltip_a556c35321c2047401542358e8526fd9b.html#a556c35321c2047401542358e8526fd9b", null ],
     [ "ItemTooltip", "d2/d2f/classTerraria_1_1UI_1_1ItemTooltip_ac61be3c0fd9472797ed57dcfe403597e.html#ac61be3c0fd9472797ed57dcfe403597e", null ],
+    [ "ItemTooltip", "d2/d2f/classTerraria_1_1UI_1_1ItemTooltip_ad92f623424ad509ede5ab648c7e9fcde.html#ad92f623424ad509ede5ab648c7e9fcde", null ],
     [ "AddGlobalProcessor", "d2/d2f/classTerraria_1_1UI_1_1ItemTooltip_a753dfad026da2df843135f15902c8cda.html#a753dfad026da2df843135f15902c8cda", null ],
     [ "ClearGlobalProcessors", "d2/d2f/classTerraria_1_1UI_1_1ItemTooltip_aceece64879b63bb2634a1c07edc566f8.html#aceece64879b63bb2634a1c07edc566f8", null ],
     [ "FromLanguageKey", "d2/d2f/classTerraria_1_1UI_1_1ItemTooltip_a3c2f0cfcc966bcaccbfa74532f50e544.html#a3c2f0cfcc966bcaccbfa74532f50e544", null ],

@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 522;
+var viewWidth = 621;
 var viewHeight = 833;
 var sectionId = 'dynsection-1';
 </script>
@@ -190,13 +190,13 @@ var sectionId = 'dynsection-1';
 <g id="Node000004" class="node">
 <title>Node4</title>
 <g id="a_Node000004"><a xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="327.5,-825 289.5,-825 289.5,-776 327.5,-776 327.5,-825"/>
-<text text-anchor="start" x="294.5" y="-812.5" font-family="Helvetica,sans-Serif" font-size="10.00">string</text>
-<text text-anchor="start" x="306.5" y="-797.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="306.5" y="-782.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="289.5,-807.5 289.5,-807.5 327.5,-807.5 327.5,-807.5 289.5,-807.5"/>
-<polygon fill="#666666" stroke="#666666" points="289.5,-792.5 289.5,-792.5 327.5,-792.5 327.5,-792.5 289.5,-792.5"/>
-<polygon fill="none" stroke="#666666" points="289.5,-776 289.5,-825 327.5,-825 327.5,-776 289.5,-776"/>
+<polygon fill="white" stroke="transparent" points="321.5,-825 283.5,-825 283.5,-776 321.5,-776 321.5,-825"/>
+<text text-anchor="start" x="288.5" y="-812.5" font-family="Helvetica,sans-Serif" font-size="10.00">string</text>
+<text text-anchor="start" x="300.5" y="-797.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="300.5" y="-782.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="#666666" stroke="#666666" points="283.5,-807.5 283.5,-807.5 321.5,-807.5 321.5,-807.5 283.5,-807.5"/>
+<polygon fill="#666666" stroke="#666666" points="283.5,-792.5 283.5,-792.5 321.5,-792.5 321.5,-792.5 283.5,-792.5"/>
+<polygon fill="none" stroke="#666666" points="283.5,-776 283.5,-825 321.5,-825 321.5,-776 283.5,-776"/>
 </a>
 </g>
 </g>
@@ -204,7 +204,7 @@ var sectionId = 'dynsection-1';
 <g id="edge3_Node000001_Node000004" class="edge">
 <title>Node4&#45;&gt;Node1</title>
 <g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M303.41,-775.79C300.66,-762.16 297.44,-744.69 295.5,-729 275.94,-571.21 288.58,-530.18 272.5,-372 272.31,-370.09 272.11,-368.16 271.9,-366.23"/>
+<path fill="none" stroke="#63b8ff" d="M299.93,-775.7C298.51,-762.04 296.77,-744.57 295.5,-729 282.53,-570.53 288.58,-530.18 272.5,-372 272.31,-370.09 272.11,-368.16 271.9,-366.23"/>
 <polygon fill="none" stroke="#63b8ff" points="271.9,-366.18 267.27,-360.65 270.6,-354.25 275.23,-359.78 271.9,-366.18"/>
 </a>
 </g>
@@ -214,21 +214,22 @@ var sectionId = 'dynsection-1';
 <g id="Node000005" class="node">
 <title>Node5</title>
 <g id="a_Node000005"><a xlink:href="../../da/d38/structPlatformUser.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="513.5,-613.5 383.5,-613.5 383.5,-516.5 513.5,-516.5 513.5,-613.5"/>
-<text text-anchor="start" x="416" y="-601" font-family="Helvetica,sans-Serif" font-size="10.00">PlatformUser</text>
-<text text-anchor="start" x="387.5" y="-586" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="400.5" y="-586" font-family="Helvetica,sans-Serif" font-size="10.00">static PlatformUser</text>
-<text text-anchor="start" x="400.5" y="-575" font-family="Helvetica,sans-Serif" font-size="10.00"> CurrentUser</text>
-<text text-anchor="start" x="387.5" y="-560" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="400.5" y="-560" font-family="Helvetica,sans-Serif" font-size="10.00">PlatformUser(string</text>
-<text text-anchor="start" x="400.5" y="-549" font-family="Helvetica,sans-Serif" font-size="10.00"> id, Platform platform)</text>
-<text text-anchor="start" x="387.5" y="-534" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="400.5" y="-534" font-family="Helvetica,sans-Serif" font-size="10.00">static PlatformUser</text>
-<text text-anchor="start" x="400.5" y="-523" font-family="Helvetica,sans-Serif" font-size="10.00">[] GetFriends()</text>
-<polygon fill="#666666" stroke="#666666" points="383.5,-596 383.5,-596 513.5,-596 513.5,-596 383.5,-596"/>
-<polygon fill="#666666" stroke="#666666" points="383.5,-570 383.5,-570 398.5,-570 398.5,-570 383.5,-570"/>
-<polygon fill="#666666" stroke="#666666" points="398.5,-570 398.5,-570 513.5,-570 513.5,-570 398.5,-570"/>
-<polygon fill="none" stroke="#666666" points="383.5,-516.5 383.5,-613.5 513.5,-613.5 513.5,-516.5 383.5,-516.5"/>
+<polygon fill="white" stroke="transparent" points="531.5,-619 383.5,-619 383.5,-511 531.5,-511 531.5,-619"/>
+<text text-anchor="start" x="425" y="-607" font-family="Helvetica,sans-Serif" font-size="10.00">PlatformUser</text>
+<text text-anchor="start" x="387.5" y="-592" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="400.5" y="-592" font-family="Helvetica,sans-Serif" font-size="10.00">static PlatformUser</text>
+<text text-anchor="start" x="400.5" y="-581" font-family="Helvetica,sans-Serif" font-size="10.00"> CurrentUser</text>
+<text text-anchor="start" x="387.5" y="-566" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="400.5" y="-566" font-family="Helvetica,sans-Serif" font-size="10.00">PlatformUser(string</text>
+<text text-anchor="start" x="400.5" y="-555" font-family="Helvetica,sans-Serif" font-size="10.00"> id, PlatformUser.Platform</text>
+<text text-anchor="start" x="400.5" y="-544" font-family="Helvetica,sans-Serif" font-size="10.00"> platform)</text>
+<text text-anchor="start" x="387.5" y="-529" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="400.5" y="-529" font-family="Helvetica,sans-Serif" font-size="10.00">static PlatformUser</text>
+<text text-anchor="start" x="400.5" y="-518" font-family="Helvetica,sans-Serif" font-size="10.00">[] GetFriends()</text>
+<polygon fill="#666666" stroke="#666666" points="383.5,-602 383.5,-602 531.5,-602 531.5,-602 383.5,-602"/>
+<polygon fill="#666666" stroke="#666666" points="383.5,-576 383.5,-576 398.5,-576 398.5,-576 383.5,-576"/>
+<polygon fill="#666666" stroke="#666666" points="398.5,-576 398.5,-576 531.5,-576 531.5,-576 398.5,-576"/>
+<polygon fill="none" stroke="#666666" points="383.5,-511 383.5,-619 531.5,-619 531.5,-511 383.5,-511"/>
 </a>
 </g>
 </g>
@@ -236,45 +237,31 @@ var sectionId = 'dynsection-1';
 <g id="edge5_Node000005_Node000004" class="edge">
 <title>Node4&#45;&gt;Node5</title>
 <g id="a_edge5_Node000005_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M327.6,-780.26C340.45,-766.68 357.22,-747.65 369.5,-729 390.99,-696.37 410.22,-657.02 424.34,-625.16"/>
-<polygon fill="none" stroke="#63b8ff" points="424.5,-624.78 423.23,-617.68 429.3,-613.78 430.56,-620.88 424.5,-624.78"/>
+<path fill="none" stroke="#63b8ff" d="M321.55,-782.13C335.81,-768.53 355.22,-748.68 369.5,-729 391.78,-698.28 412.22,-661.24 427.78,-630.25"/>
+<polygon fill="none" stroke="#63b8ff" points="427.96,-629.88 427.04,-622.72 433.29,-619.12 434.21,-626.27 427.96,-629.88"/>
 </a>
 </g>
-<text text-anchor="middle" x="382.5" y="-750" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +PlayerId</text>
+<text text-anchor="middle" x="381.5" y="-750" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +PlayerId</text>
 </g>
 <!-- Node5&#45;&gt;Node1 -->
 <g id="edge4_Node000001_Node000005" class="edge">
 <title>Node5&#45;&gt;Node1</title>
 <g id="a_edge4_Node000001_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M426.21,-516.22C410.75,-483.54 389.44,-439.37 369.5,-401 358.97,-380.74 347.65,-359.6 336.29,-338.76"/>
-<polygon fill="none" stroke="#63b8ff" points="336.29,-338.75 329.9,-335.4 330.53,-328.22 336.92,-331.57 336.29,-338.75"/>
+<path fill="none" stroke="#63b8ff" d="M428.93,-510.69C411.8,-478.81 389.51,-437.52 369.5,-401 358.85,-381.56 347.63,-361.21 336.46,-341.03"/>
+<polygon fill="none" stroke="#63b8ff" points="336.45,-341 330.04,-337.69 330.63,-330.51 337.04,-333.82 336.45,-341"/>
 </a>
 </g>
 <text text-anchor="middle" x="396.5" y="-375" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> &#45;platformUser</text>
 </g>
-<!-- Node6 -->
-<g id="Node000006" class="node">
-<title>Node6</title>
-<g id="a_Node000006"><a xlink:title=" ">
-<polygon fill="white" stroke="transparent" points="475,-825 422,-825 422,-776 475,-776 475,-825"/>
-<text text-anchor="start" x="427.5" y="-812.5" font-family="Helvetica,sans-Serif" font-size="10.00">Platform</text>
-<text text-anchor="start" x="447" y="-797.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<text text-anchor="start" x="447" y="-782.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="422.5,-807.5 422.5,-807.5 475.5,-807.5 475.5,-807.5 422.5,-807.5"/>
-<polygon fill="#666666" stroke="#666666" points="422.5,-792.5 422.5,-792.5 475.5,-792.5 475.5,-792.5 422.5,-792.5"/>
-<polygon fill="none" stroke="#666666" points="422,-776 422,-825 475,-825 475,-776 422,-776"/>
+<!-- Node5&#45;&gt;Node5 -->
+<g id="edge6_Node000005_Node000005" class="edge">
+<title>Node5&#45;&gt;Node5</title>
+<g id="a_edge6_Node000005_Node000005"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M531.86,-596.3C542.42,-591.24 549.5,-580.8 549.5,-565 549.5,-554.88 546.59,-546.96 541.73,-541.24"/>
+<polygon fill="none" stroke="#63b8ff" points="541.4,-540.99 534.2,-540.52 531.86,-533.7 539.06,-534.17 541.4,-540.99"/>
 </a>
 </g>
-</g>
-<!-- Node6&#45;&gt;Node5 -->
-<g id="edge6_Node000005_Node000006" class="edge">
-<title>Node6&#45;&gt;Node5</title>
-<g id="a_edge6_Node000005_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M448.5,-775.83C448.5,-740.95 448.5,-674.62 448.5,-625.84"/>
-<polygon fill="none" stroke="#63b8ff" points="448.5,-625.54 444.5,-619.54 448.5,-613.54 452.5,-619.54 448.5,-625.54"/>
-</a>
-</g>
-<text text-anchor="middle" x="480" y="-750" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +PlatformId</text>
+<text text-anchor="middle" x="581" y="-562.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="grey"> +PlatformId</text>
 </g>
 </g>
 </svg>

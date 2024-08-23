@@ -2,7 +2,7 @@ var classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1HellBatsGoupSkyEntity
 [
     [ "HellBatsGoupSkyEntity", "d4/dd4/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1HellBatsGoupSkyEntity_a4c4b4796d04cc18877967196d21090c2.html#a4c4b4796d04cc18877967196d21090c2", null ],
     [ "CommonDraw", "d4/dd4/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1HellBatsGoupSkyEntity.html#a2e0c86acfa2ceaf743e5cc41336bf003", null ],
-    [ "CreateGroup", "d4/dd4/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1HellBatsGoupSkyEntity_aa82a66444501e1549a3fda28e162785c.html#aa82a66444501e1549a3fda28e162785c", null ],
+    [ "CreateGroup", "d4/dd4/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1HellBatsGoupSkyEntity_a5c3eaeac9f9eb33238f3f6045a4b5253.html#a5c3eaeac9f9eb33238f3f6045a4b5253", null ],
     [ "Draw", "d4/dd4/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1HellBatsGoupSkyEntity.html#ad284cac68e5c92d028d85b28d08d46ae", null ],
     [ "GetColor", "d4/dd4/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1HellBatsGoupSkyEntity_a5f6bd63e5aa4303a40678a7d8f1a582d.html#a5f6bd63e5aa4303a40678a7d8f1a582d", null ],
     [ "GetDrawPosition", "d4/dd4/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1HellBatsGoupSkyEntity.html#a6344e087faa7eea6e427cc9b0ab94bfd", null ],

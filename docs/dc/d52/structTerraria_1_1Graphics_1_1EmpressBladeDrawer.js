@@ -1,5 +1,6 @@
 var structTerraria_1_1Graphics_1_1EmpressBladeDrawer =
 [
+    [ "EmpressBladeDrawer", "dc/d52/structTerraria_1_1Graphics_1_1EmpressBladeDrawer_afbbd4e574db850cbc5d6efc38d9affb8.html#afbbd4e574db850cbc5d6efc38d9affb8", null ],
     [ "Draw", "dc/d52/structTerraria_1_1Graphics_1_1EmpressBladeDrawer_afd30f6a6c03cf05c5898af03ab884c6b.html#afd30f6a6c03cf05c5898af03ab884c6b", null ],
     [ "StripColors", "dc/d52/structTerraria_1_1Graphics_1_1EmpressBladeDrawer_a2e4d1f25bdc943ef365f1be17308dbf3.html#a2e4d1f25bdc943ef365f1be17308dbf3", null ],
     [ "StripWidth", "dc/d52/structTerraria_1_1Graphics_1_1EmpressBladeDrawer_a64333065184fafa6053a1be85893932d.html#a64333065184fafa6053a1be85893932d", null ],
