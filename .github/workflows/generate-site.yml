@@ -25,6 +25,9 @@ jobs:
         rm -r doxygen-1.10.0 doxygen-1.10.0.linux.bin.tar.gz
         chmod +x ./doxygen
         ./doxygen Doxyfile
+        if [ ! -d "./docs" ]; then
+          mkdir ./docs
+        fi
         rm -r ./docs doxygen
         mv html docs
 
