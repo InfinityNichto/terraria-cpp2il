@@ -1,9 +1,0 @@
-<map id="Alert" name="Alert">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,861,299,1451"/>
-<area shape="rect" id="Node000002" href="$de/d69/classSingleton.html" title=" " alt="" coords="54,497,250,812"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,826,155,861,149,861,149,826"/>
-<area shape="rect" id="Node000003" href="$de/d69/classSingleton.html" title=" " alt="" coords="54,120,250,435"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,448,155,497,149,497,149,448"/>
-<area shape="rect" id="Node000004" href="$de/de5/classScriptableObject.html" title=" " alt="" coords="91,5,213,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,84,155,120,149,120,149,84"/>
-</map>

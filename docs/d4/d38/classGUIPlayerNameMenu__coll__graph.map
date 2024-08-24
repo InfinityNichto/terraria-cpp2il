@@ -1,7 +1,0 @@
-<map id="GUIPlayerNameMenu" name="GUIPlayerNameMenu">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,184,219"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="21,5,64,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,71,42,90,47,109,51,118,46,120,41,110,37,90,36,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="121,5,172,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,72,119,119,114,117,132,70"/>
-</map>

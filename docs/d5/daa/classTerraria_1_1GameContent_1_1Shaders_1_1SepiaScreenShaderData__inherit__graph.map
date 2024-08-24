@@ -1,7 +1,0 @@
-<map id="Terraria.GameContent.Shaders.SepiaScreenShaderData" name="Terraria.GameContent.Shaders.SepiaScreenShaderData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,1091,295,1284"/>
-<area shape="rect" id="Node000002" href="$d8/dbb/classTerraria_1_1Graphics_1_1Shaders_1_1ScreenShaderData.html" title=" " alt="" coords="33,277,267,1043"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,1057,153,1091,147,1091,147,1057"/>
-<area shape="rect" id="Node000003" href="$db/df4/classTerraria_1_1Graphics_1_1Shaders_1_1ShaderData.html" title=" " alt="" coords="43,5,257,229"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,243,153,277,147,277,147,243"/>
-</map>

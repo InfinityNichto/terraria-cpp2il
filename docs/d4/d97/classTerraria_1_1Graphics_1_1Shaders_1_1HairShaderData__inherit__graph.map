@@ -1,9 +1,0 @@
-<map id="Terraria.Graphics.Shaders.HairShaderData" name="Terraria.Graphics.Shaders.HairShaderData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="152,277,381,1001"/>
-<area shape="rect" id="Node000003" href="$db/d13/classTerraria_1_1GameContent_1_1Dyes_1_1LegacyHairShaderData.html" title=" " alt="" coords="5,1049,267,1292"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,1015,168,1050,163,1048,172,1014"/>
-<area shape="rect" id="Node000004" href="$d4/dbe/classTerraria_1_1GameContent_1_1Dyes_1_1TwilightHairDyeShaderData.html" title=" " alt="" coords="291,1091,507,1250"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="363,1014,382,1091,377,1092,357,1015"/>
-<area shape="rect" id="Node000002" href="$db/df4/classTerraria_1_1Graphics_1_1Shaders_1_1ShaderData.html" title=" " alt="" coords="159,5,374,229"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,243,269,277,264,277,264,243"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Terraria.DataStructures.RejectionMenuInfo" name="Terraria.DataStructures.RejectionMenuInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="108,133,293,233"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,233,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,70,167,117,162,120,135,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="258,5,309,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,72,247,111,241,121,237,118,242,108,264,70"/>
-</map>

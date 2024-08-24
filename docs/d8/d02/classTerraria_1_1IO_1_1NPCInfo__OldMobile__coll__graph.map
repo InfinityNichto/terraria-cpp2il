@@ -1,7 +1,0 @@
-<map id="Terraria.IO.NPCInfo_OldMobile" name="Terraria.IO.NPCInfo_OldMobile">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,227,425"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="21,13,64,78"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,78,42,114,47,153,49,161,44,162,41,154,36,115,37,78"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="103,5,278,85"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,86,164,154,161,163,156,161,159,153,178,85"/>
-</map>

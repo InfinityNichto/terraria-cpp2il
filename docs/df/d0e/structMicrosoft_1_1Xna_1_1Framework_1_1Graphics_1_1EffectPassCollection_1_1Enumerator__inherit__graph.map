@@ -1,9 +1,0 @@
-<map id="Microsoft.Xna.Framework.Graphics.EffectPassCollection.Enumerator" name="Microsoft.Xna.Framework.Graphics.EffectPassCollection.Enumerator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="162,119,373,397"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,196,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,80,164,118,160,121,131,83"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="220,5,315,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,84,270,118,265,118,265,84"/>
-<area shape="rect" id="Node000004" href="$d0/d07/classIDisposable.html" title=" " alt="" coords="339,5,430,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="364,84,344,120,340,117,359,82"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Terraria.Graphics.TileBatch" name="Terraria.Graphics.TileBatch">
-<area shape="rect" id="Node000001" title=" " alt="" coords="36,2057,324,2423"/>
-<area shape="rect" id="Node000002" href="$d5/d2f/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteBatch.html" title=" " alt="" coords="5,288,355,2009"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,2023,183,2057,177,2057,177,2023"/>
-<area shape="rect" id="Node000003" href="$d0/d7e/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GraphicsResource.html" title=" " alt="" coords="61,5,299,240"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,254,183,288,177,288,177,254"/>
-</map>

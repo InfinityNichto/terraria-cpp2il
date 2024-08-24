@@ -1,9 +1,0 @@
-<map id="Microsoft.Xna.Framework.Graphics.Texture" name="Microsoft.Xna.Framework.Graphics.Texture">
-<area shape="rect" id="Node000001" title=" " alt="" coords="59,288,281,705"/>
-<area shape="rect" id="Node000003" href="$d4/de2/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Texture2D.html" title=" " alt="" coords="33,753,307,2252"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,720,173,753,167,753,167,720"/>
-<area shape="rect" id="Node000002" href="$d0/d7e/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1GraphicsResource.html" title=" " alt="" coords="51,5,289,240"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,254,173,288,167,288,167,254"/>
-<area shape="rect" id="Node000004" href="$d5/dd8/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1RenderTarget2D.html" title=" " alt="" coords="5,2300,335,3143"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="173,2266,173,2300,167,2300,167,2266"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Microsoft.Xna.Framework.Graphics.Viewport" name="Microsoft.Xna.Framework.Graphics.Viewport">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,249,669"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="72,5,103,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,71,91,153,92,161,87,161,86,153,84,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="147,5,190,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,72,158,161,153,161,163,71"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Terraria.WorldBuilding.Actions.SetTileKeepWall" name="Terraria.WorldBuilding.Actions.SetTileKeepWall">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,569,287,783"/>
-<area shape="rect" id="Node000002" href="$db/d55/classTerraria_1_1WorldBuilding_1_1GenAction.html" title=" " alt="" coords="36,243,256,521"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,535,149,569,143,569,143,535"/>
-<area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="36,5,256,195"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,208,149,243,143,243,143,208"/>
-</map>

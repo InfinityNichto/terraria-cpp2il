@@ -1,7 +1,0 @@
-<map id="KeyboardInput.KeyCodeMapping" name="KeyboardInput.KeyCodeMapping">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,231,213"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="32,5,103,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,71,67,90,71,109,75,118,71,120,66,110,62,90,61,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="129,5,211,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,72,142,119,137,117,155,70"/>
-</map>

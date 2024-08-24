@@ -1,7 +1,0 @@
-<map id="GUIJourneyPulldownSetting" name="GUIJourneyPulldownSetting">
-<area shape="rect" id="Node000001" title=" " alt="" coords="59,1303,328,1536"/>
-<area shape="rect" id="Node000002" href="$d7/df2/classGUIPulldownSetting.html" title=" " alt="" coords="5,263,381,1255"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,1268,196,1302,191,1302,191,1268"/>
-<area shape="rect" id="Node000003" href="$d9/dcf/classGUISettingEntry.html" title=" " alt="" coords="71,5,316,215"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,228,196,262,191,262,191,228"/>
-</map>

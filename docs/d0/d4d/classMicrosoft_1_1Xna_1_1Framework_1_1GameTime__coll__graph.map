@@ -1,7 +1,0 @@
-<map id="Microsoft.Xna.Framework.GameTime" name="Microsoft.Xna.Framework.GameTime">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,345,480"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="55,5,133,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,71,93,110,98,153,100,161,95,162,93,154,88,111,88,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="237,5,279,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,72,231,154,229,162,224,161,226,153,248,70"/>
-</map>

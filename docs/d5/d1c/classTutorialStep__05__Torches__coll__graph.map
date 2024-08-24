@@ -1,7 +1,0 @@
-<map id="TutorialStep_05_Torches" name="TutorialStep_05_Torches">
-<area shape="rect" id="Node000001" title=" " alt="" coords="80,465,313,709"/>
-<area shape="rect" id="Node000002" href="$d9/d7b/classTutorialStep.html" title=" " alt="" coords="5,5,231,359"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,372,176,464,170,465,152,373"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="254,149,297,215"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,216,245,359,227,450,222,449,239,358,267,215"/>
-</map>

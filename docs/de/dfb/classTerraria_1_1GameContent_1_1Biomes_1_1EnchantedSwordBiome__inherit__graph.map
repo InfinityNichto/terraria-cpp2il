@@ -1,9 +1,0 @@
-<map id="Terraria.GameContent.Biomes.EnchantedSwordBiome" name="Terraria.GameContent.Biomes.EnchantedSwordBiome">
-<area shape="rect" id="Node000001" title=" " alt="" coords="8,504,223,653"/>
-<area shape="rect" id="Node000002" href="$da/d53/classTerraria_1_1WorldBuilding_1_1MicroBiome.html" title=" " alt="" coords="57,391,174,456"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,470,118,504,113,504,113,470"/>
-<area shape="rect" id="Node000003" href="$dd/dae/classTerraria_1_1WorldBuilding_1_1GenStructure.html" title=" " alt="" coords="19,243,212,343"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,356,118,390,113,390,113,356"/>
-<area shape="rect" id="Node000004" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="5,5,225,195"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,209,118,242,113,242,113,209"/>
-</map>

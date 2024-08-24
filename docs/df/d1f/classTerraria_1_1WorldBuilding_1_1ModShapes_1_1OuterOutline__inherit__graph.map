@@ -1,9 +1,0 @@
-<map id="Terraria.WorldBuilding.ModShapes.OuterOutline" name="Terraria.WorldBuilding.ModShapes.OuterOutline">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,672,229,885"/>
-<area shape="rect" id="Node000002" href="$de/d40/classTerraria_1_1WorldBuilding_1_1GenModShape.html" title=" " alt="" coords="18,544,217,624"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,638,120,672,115,672,115,638"/>
-<area shape="rect" id="Node000003" href="$da/d11/classTerraria_1_1WorldBuilding_1_1GenShape.html" title=" " alt="" coords="8,243,227,496"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,510,120,544,115,544,115,510"/>
-<area shape="rect" id="Node000004" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="7,5,227,195"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,208,120,242,115,242,115,208"/>
-</map>

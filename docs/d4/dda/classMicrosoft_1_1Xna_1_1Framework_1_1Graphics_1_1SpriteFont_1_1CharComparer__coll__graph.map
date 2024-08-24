@@ -1,9 +1,0 @@
-<map id="Microsoft.Xna.Framework.Graphics.SpriteFont.CharComparer" name="Microsoft.Xna.Framework.Graphics.SpriteFont.CharComparer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,332,244,467"/>
-<area shape="rect" id="Node000002" href="$d1/db5/classIEqualityComparer.html" title=" " alt="" coords="46,5,193,85"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,99,126,332,121,332,117,99"/>
-<area shape="rect" id="Node000003" href="$d6/d93/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1SpriteFont_1_1CharComparer.html" title=" " alt="" coords="141,135,380,269"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="166,94,202,132,198,136,162,97"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,271,182,320,178,317,212,268"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="381,185,399,191,407,202,398,214,394,210,401,202,396,195,380,190"/>
-</map>

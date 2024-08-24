@@ -1,7 +1,0 @@
-<map id="Microsoft.Xna.Framework.Graphics.SpriteBatcher.VertexData" name="Microsoft.Xna.Framework.Graphics.SpriteBatcher.VertexData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,148,251,228"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,99,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,71,49,97,56,123,63,134,58,137,51,125,44,98,44,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="181,5,245,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,72,186,125,180,136,175,133,182,123,203,70"/>
-</map>

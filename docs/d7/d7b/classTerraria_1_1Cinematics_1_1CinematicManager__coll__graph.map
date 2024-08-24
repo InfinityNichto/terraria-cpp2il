@@ -1,9 +1,0 @@
-<map id="Terraria.Cinematics.CinematicManager" name="Terraria.Cinematics.CinematicManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="25,380,235,549"/>
-<area shape="rect" id="Node000002" href="$d8/d43/classTerraria_1_1Cinematics_1_1CinematicManager.html" title=" " alt="" coords="149,148,359,317"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,319,185,367,181,364,207,316"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="361,211,379,219,386,232,383,242,377,248,373,244,379,239,381,233,375,223,359,216"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,188,85"/>
-<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="95,86,90,148,85,233,85,270,90,317,99,363,94,364,85,318,80,270,79,233,85,148,90,85"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="132,84,174,134,170,137,128,87"/>
-</map>

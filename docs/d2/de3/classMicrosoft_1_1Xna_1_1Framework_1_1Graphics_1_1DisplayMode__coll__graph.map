@@ -1,7 +1,0 @@
-<map id="Microsoft.Xna.Framework.Graphics.DisplayMode" name="Microsoft.Xna.Framework.Graphics.DisplayMode">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,217,545"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="10,5,119,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,70,79,124,80,131,75,132,74,124,66,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="144,5,175,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,71,147,132,142,131,152,71"/>
-</map>

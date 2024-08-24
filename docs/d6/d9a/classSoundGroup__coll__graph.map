@@ -1,7 +1,0 @@
-<map id="SoundGroup" name="SoundGroup">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,225,213"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="18,5,69,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,71,40,97,47,123,54,134,50,137,42,125,35,98,35,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="125,5,252,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,72,162,125,155,136,151,133,157,123,178,70"/>
-</map>

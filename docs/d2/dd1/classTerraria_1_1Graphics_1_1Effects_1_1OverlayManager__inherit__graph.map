@@ -1,7 +1,0 @@
-<map id="Terraria.Graphics.Effects.OverlayManager" name="Terraria.Graphics.Effects.OverlayManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="9,857,213,1125"/>
-<area shape="rect" id="Node000002" href="$db/d00/classTerraria_1_1Graphics_1_1Effects_1_1EffectManager.html" title=" " alt="" coords="7,445,214,808"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,822,113,857,108,857,108,822"/>
-<area shape="rect" id="Node000003" href="$db/d00/classTerraria_1_1Graphics_1_1Effects_1_1EffectManager.html" title=" " alt="" coords="5,5,216,383"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,396,113,445,108,445,108,396"/>
-</map>

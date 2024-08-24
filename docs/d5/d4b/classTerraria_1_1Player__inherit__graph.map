@@ -1,7 +1,0 @@
-<map id="Terraria.Player" name="Terraria.Player">
-<area shape="rect" id="Node000001" title=" " alt="" coords="42,901,407,3904"/>
-<area shape="rect" id="Node000002" href="$df/df6/classTerraria_1_1Entity.html" title=" " alt="" coords="5,5,225,853"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,867,144,901,139,901,137,867"/>
-<area shape="rect" id="Node000003" href="$db/dc7/interfaceTerraria_1_1DataStructures_1_1IFixLoadedData.html" title=" " alt="" coords="250,397,418,462"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="334,476,311,901,305,901,329,475"/>
-</map>

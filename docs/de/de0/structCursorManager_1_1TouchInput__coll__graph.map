@@ -1,9 +1,0 @@
-<map id="CursorManager.TouchInput" name="CursorManager.TouchInput">
-<area shape="rect" id="Node000001" title=" " alt="" coords="6,133,227,228"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,70,48,108,56,119,52,122,44,111,26,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="85,5,148,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,71,119,117,114,117,114,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="177,5,328,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,72,238,92,225,111,213,124,209,121,221,108,233,89,242,70"/>
-</map>

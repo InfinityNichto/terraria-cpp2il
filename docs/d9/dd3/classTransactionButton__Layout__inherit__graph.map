@@ -1,7 +1,0 @@
-<map id="TransactionButton_Layout" name="TransactionButton_Layout">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,616,236,1000"/>
-<area shape="rect" id="Node000002" href="$d6/d65/classQuickActionButton__Layout.html" title=" " alt="" coords="24,288,217,568"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,582,123,616,118,616,118,582"/>
-<area shape="rect" id="Node000003" href="$df/d73/classButton__Layout.html" title=" " alt="" coords="12,5,229,240"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,254,123,288,118,288,118,254"/>
-</map>

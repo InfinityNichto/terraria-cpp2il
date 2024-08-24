@@ -1,9 +1,0 @@
-<map id="ReLogic.OS.Base.Clipboard" name="ReLogic.OS.Base.Clipboard">
-<area shape="rect" id="Node000001" title=" " alt="" coords="127,139,351,328"/>
-<area shape="rect" id="Node000003" href="$d4/df2/classReLogic_1_1OS_1_1Linux_1_1Clipboard.html" title=" " alt="" coords="5,376,228,516"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,342,159,377,154,375,175,339"/>
-<area shape="rect" id="Node000004" href="$d1/d1f/classReLogic_1_1OS_1_1OSX_1_1Clipboard.html" title=" " alt="" coords="252,386,475,506"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="304,339,331,384,326,387,300,342"/>
-<area shape="rect" id="Node000002" href="$dc/d06/interfaceReLogic_1_1OS_1_1IClipboard.html" title=" " alt="" coords="157,5,322,91"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,104,242,139,237,139,237,104"/>
-</map>

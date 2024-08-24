@@ -1,7 +1,0 @@
-<map id="PlatformAwardConstants" name="PlatformAwardConstants">
-<area shape="rect" id="Node000001" title=" " alt="" coords="34,221,235,287"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="6,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="15,72,10,100,8,133,12,166,25,196,35,209,31,212,20,199,7,167,3,133,5,100,10,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="226,5,269,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,71,246,133,236,167,221,199,210,212,206,209,216,196,231,165,240,132,246,71"/>
-</map>

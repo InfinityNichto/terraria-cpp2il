@@ -1,9 +1,0 @@
-<map id="GUIControllerRubbleMaker" name="GUIControllerRubbleMaker">
-<area shape="rect" id="Node000001" title=" " alt="" coords="155,267,367,481"/>
-<area shape="rect" id="Node000002" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="5,5,215,160"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,171,208,265,203,268,154,174"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="239,50,282,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,115,263,250,258,250,258,115"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="380,50,411,115"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="397,116,389,177,381,211,368,244,364,254,359,251,364,242,376,209,384,176,391,115"/>
-</map>

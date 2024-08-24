@@ -1,4 +1,0 @@
-var MoonLordPortraitBackgroundProviderBestiaryInfoElement_8cs =
-[
-    [ "Terraria.GameContent.Bestiary.MoonLordPortraitBackgroundProviderBestiaryInfoElement", "d5/d2b/classTerraria_1_1GameContent_1_1Bestiary_1_1MoonLordPortraitBackgroundProviderBestiaryInfoElement.html", "d5/d2b/classTerraria_1_1GameContent_1_1Bestiary_1_1MoonLordPortraitBackgroundProviderBestiaryInfoElement" ]
-];

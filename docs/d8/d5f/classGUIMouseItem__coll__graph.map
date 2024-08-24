@@ -1,7 +1,0 @@
-<map id="GUIMouseItem" name="GUIMouseItem">
-<area shape="rect" id="Node000001" title=" " alt="" coords="15,148,176,308"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="19,71,20,97,25,123,28,132,23,134,19,125,14,98,14,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="149,5,191,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,72,143,125,140,134,135,132,138,123,157,70"/>
-</map>

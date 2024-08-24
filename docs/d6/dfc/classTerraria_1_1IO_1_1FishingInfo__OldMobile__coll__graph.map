@@ -1,9 +1,0 @@
-<map id="Terraria.IO.FishingInfo_OldMobile" name="Terraria.IO.FishingInfo_OldMobile">
-<area shape="rect" id="Node000001" title=" " alt="" coords="60,133,245,248"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,52,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,70,56,108,66,120,62,123,52,111,34,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="131,5,174,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,71,155,117,150,117,150,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="286,5,390,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="332,72,324,92,311,111,287,132,261,149,258,145,284,128,307,108,319,90,328,70"/>
-</map>

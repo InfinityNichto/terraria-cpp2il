@@ -1,7 +1,0 @@
-<map id="GUIMultiplayerServerIP" name="GUIMultiplayerServerIP">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,196,219"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="7,5,50,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,71,27,90,32,108,38,119,34,121,28,110,22,91,21,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="149,5,199,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,72,147,111,141,121,137,118,142,108,160,70"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Android_UserManager" name="Android_UserManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="108,207,351,680"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,71,38,124,54,182,76,227,101,272,97,275,71,230,50,184,33,125,26,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="170,5,289,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,71,232,190,227,190,227,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="360,5,411,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="384,71,374,124,359,183,356,192,351,190,353,182,369,123,379,70"/>
-</map>

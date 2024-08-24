@@ -1,5 +1,0 @@
-<map id="Terraria.NPC" name="Terraria.NPC">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,901,295,4023"/>
-<area shape="rect" id="Node000002" href="$df/df6/classTerraria_1_1Entity.html" title=" " alt="" coords="40,5,260,853"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,867,153,901,147,901,147,867"/>
-</map>

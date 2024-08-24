@@ -1,9 +1,0 @@
-<map id="Microsoft.Xna.Framework.Graphics.EffectTechniqueCollection" name="Microsoft.Xna.Framework.Graphics.EffectTechniqueCollection">
-<area shape="rect" id="Node000001" title=" " alt="" coords="185,261,427,480"/>
-<area shape="rect" id="Node000002" href="$d5/ddf/classIEnumerable.html" title=" " alt="" coords="5,69,233,135"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,145,232,260,228,263,147,148"/>
-<area shape="rect" id="Node000003" href="$d5/ddf/classIEnumerable.html" title=" " alt="" coords="258,69,354,135"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,148,309,261,303,261,303,148"/>
-<area shape="rect" id="Node000004" href="$de/dbd/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectTechnique.html" title=" " alt="" coords="379,5,596,199"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="424,200,391,249,387,246,420,197"/>
-</map>

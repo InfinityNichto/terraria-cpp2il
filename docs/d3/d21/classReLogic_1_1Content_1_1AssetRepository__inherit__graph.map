@@ -1,8 +1,0 @@
-<map id="ReLogic.Content.AssetRepository" name="ReLogic.Content.AssetRepository">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,420,304,1445"/>
-<area shape="rect" id="Node000002" href="$d7/dfc/interfaceReLogic_1_1Content_1_1IAssetRepository.html" title=" " alt="" coords="99,119,397,372"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,386,227,420,222,419,226,385"/>
-<area shape="rect" id="Node000003" href="$d0/d07/classIDisposable.html" title=" " alt="" coords="109,5,200,71"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="112,83,99,100,89,120,68,192,54,267,48,343,48,420,42,420,42,343,49,266,62,191,84,118,94,98,107,80"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,82,193,117,188,120,172,84"/>
-</map>

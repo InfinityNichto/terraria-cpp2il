@@ -1,7 +1,0 @@
-<map id="Microsoft.Xna.Framework.Input.KeyboardState" name="Microsoft.Xna.Framework.Input.KeyboardState">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,251,237,920"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="19,5,114,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,71,67,142,71,227,71,234,66,235,65,227,62,143,63,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="157,5,195,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,71,159,234,154,233,170,71"/>
-</map>

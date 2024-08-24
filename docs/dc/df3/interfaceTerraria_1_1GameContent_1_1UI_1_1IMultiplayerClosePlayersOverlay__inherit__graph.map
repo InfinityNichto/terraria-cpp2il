@@ -1,7 +1,0 @@
-<map id="Terraria.GameContent.UI.IMultiplayerClosePlayersOverlay" name="Terraria.GameContent.UI.IMultiplayerClosePlayersOverlay">
-<area shape="rect" id="Node000001" title=" " alt="" coords="209,5,435,85"/>
-<area shape="rect" id="Node000002" href="$d8/d2f/classTerraria_1_1GameContent_1_1UI_1_1LegacyMultiplayerClosePlayersOverlay.html" title=" " alt="" coords="5,133,308,405"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,98,260,135,255,131,283,95"/>
-<area shape="rect" id="Node000003" href="$d0/dda/classTerraria_1_1GameContent_1_1UI_1_1NewMultiplayerClosePlayersOverlay.html" title=" " alt="" coords="332,133,643,405"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="361,95,389,131,384,135,357,98"/>
-</map>

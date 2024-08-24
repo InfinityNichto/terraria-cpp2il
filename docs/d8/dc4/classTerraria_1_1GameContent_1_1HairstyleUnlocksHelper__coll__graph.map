@@ -1,7 +1,0 @@
-<map id="Terraria.GameContent.HairstyleUnlocksHelper" name="Terraria.GameContent.HairstyleUnlocksHelper">
-<area shape="rect" id="Node000001" title=" " alt="" coords="23,192,243,332"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,89,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,71,42,118,45,143,51,167,56,177,51,179,46,169,39,144,37,118,39,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="198,5,241,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,71,208,118,192,169,188,178,184,176,188,167,203,117,213,70"/>
-</map>

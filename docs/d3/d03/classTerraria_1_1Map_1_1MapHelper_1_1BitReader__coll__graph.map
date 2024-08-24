@@ -1,9 +1,0 @@
-<map id="Terraria.Map.MapHelper.BitReader" name="Terraria.Map.MapHelper.BitReader">
-<area shape="rect" id="Node000001" title=" " alt="" coords="91,133,282,233"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,128,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,70,84,89,94,108,104,120,100,123,90,111,79,92,71,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="165,5,208,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,71,189,117,184,117,184,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="306,5,345,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,72,310,92,298,111,286,124,282,121,294,108,306,89,314,70"/>
-</map>

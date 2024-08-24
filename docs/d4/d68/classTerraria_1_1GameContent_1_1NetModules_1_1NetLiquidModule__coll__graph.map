@@ -1,9 +1,0 @@
-<map id="Terraria.GameContent.NetModules.NetLiquidModule" name="Terraria.GameContent.NetModules.NetLiquidModule">
-<area shape="rect" id="Node000001" title=" " alt="" coords="157,203,441,668"/>
-<area shape="rect" id="Node000002" href="$d6/da4/classTerraria_1_1Net_1_1NetModule.html" title=" " alt="" coords="5,5,232,140"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,151,185,201,180,204,155,153"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="257,40,341,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,106,301,186,296,186,296,106"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="376,18,627,127"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="492,128,474,180,451,225,447,223,470,178,487,126"/>
-</map>

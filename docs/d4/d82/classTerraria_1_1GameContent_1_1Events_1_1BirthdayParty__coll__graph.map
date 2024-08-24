@@ -1,9 +1,0 @@
-<map id="Terraria.GameContent.Events.BirthdayParty" name="Terraria.GameContent.Events.BirthdayParty">
-<area shape="rect" id="Node000001" title=" " alt="" coords="42,163,299,432"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="34,70,42,103,54,138,59,147,55,150,50,140,37,105,29,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="155,5,186,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,71,173,146,168,146,168,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="323,5,407,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="363,72,354,106,338,140,312,176,308,173,334,137,349,104,358,70"/>
-</map>

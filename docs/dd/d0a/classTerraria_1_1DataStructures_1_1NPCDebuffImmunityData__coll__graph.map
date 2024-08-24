@@ -1,7 +1,0 @@
-<map id="Terraria.DataStructures.NPCDebuffImmunityData" name="Terraria.DataStructures.NPCDebuffImmunityData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="33,163,236,263"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="23,71,21,104,30,138,37,149,33,151,26,140,16,105,17,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="227,5,258,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,72,231,106,216,140,207,152,203,149,211,137,226,104,235,70"/>
-</map>
