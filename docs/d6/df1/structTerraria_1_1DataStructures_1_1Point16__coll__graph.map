@@ -1,0 +1,9 @@
+<map id="Terraria.DataStructures.Point16" name="Terraria.DataStructures.Point16">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,657,212,1089"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="85,5,132,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,71,102,148,98,403,102,641,96,641,92,403,97,148,103,70"/>
+<area shape="rect" id="Node000003" href="$df/d4d/structTerraria_1_1DataStructures_1_1Point16.html" title=" " alt="" coords="137,148,344,580"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="124,70,149,132,144,134,119,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,581,171,642,166,641,182,580"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="346,320,364,336,371,364,368,384,359,398,355,395,363,382,365,364,359,339,342,324"/>
+</map>

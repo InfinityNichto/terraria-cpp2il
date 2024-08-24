@@ -1,0 +1,15 @@
+<map id="Terraria.Utils.ChaseResults" name="Terraria.Utils.ChaseResults">
+<area shape="rect" id="Node000001" title=" " alt="" coords="138,1328,327,1393"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="30,731,73,796"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,797,23,892,14,956,9,1025,10,1098,21,1170,43,1240,59,1272,79,1302,99,1322,124,1337,121,1341,96,1326,75,1306,54,1275,38,1242,16,1172,5,1098,3,1025,8,955,18,891,39,796"/>
+<area shape="rect" id="Node000003" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="104,276,348,1251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,1251,235,1312,229,1312,229,1251"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="351,678,360,692,368,711,375,763,371,805,360,835,355,833,366,803,369,763,363,713,356,695,346,681"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="145,133,307,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,212,229,276,223,276,223,212"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="139,5,313,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="229,85,229,133,223,133,223,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="411,133,454,199"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="447,198,470,267,499,369,528,494,552,638,559,714,563,793,562,872,557,951,545,1030,527,1107,501,1181,467,1252,444,1283,414,1307,380,1326,344,1340,342,1335,377,1321,411,1303,440,1279,462,1249,496,1179,521,1105,540,1029,551,951,557,872,558,793,554,715,546,639,523,495,494,370,465,269,442,200"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="424,200,356,396,351,394,419,198"/>
+</map>

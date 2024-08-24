@@ -1,0 +1,11 @@
+<map id="System.StringComparer" name="System.StringComparer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="277,148,551,693"/>
+<area shape="rect" id="Node000002" href="$d0/d64/classglobal_1_1SystemCollections_1_1IComparer.html" title=" " alt="" coords="5,13,188,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,101,278,259,274,263,137,105"/>
+<area shape="rect" id="Node000003" href="$d7/dbc/classglobal_1_1SystemCollections_1_1IEqualityComparer.html" title=" " alt="" coords="212,13,395,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,105,334,147,329,149,316,106"/>
+<area shape="rect" id="Node000004" href="$d4/d2d/classglobal_1_1SystemCollections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="419,13,633,93"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="513,106,500,149,495,147,508,105"/>
+<area shape="rect" id="Node000005" href="$d2/d3c/classglobal_1_1SystemCollections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="657,5,859,100"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="707,112,553,275,550,271,703,109"/>
+</map>

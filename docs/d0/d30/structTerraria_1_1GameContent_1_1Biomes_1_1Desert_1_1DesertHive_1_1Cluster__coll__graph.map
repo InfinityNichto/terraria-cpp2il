@@ -1,0 +1,5 @@
+<map id="Terraria.GameContent.Biomes.Desert.DesertHive.Cluster" name="Terraria.GameContent.Biomes.Desert.DesertHive.Cluster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,220,228"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="97,5,128,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,71,115,131,110,131,110,71"/>
+</map>

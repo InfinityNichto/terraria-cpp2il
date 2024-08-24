@@ -1,0 +1,15 @@
+<map id="Microsoft.Xna.Framework.Input.GamePadThumbSticks" name="Microsoft.Xna.Framework.Input.GamePadThumbSticks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="234,1328,538,1936"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="154,133,197,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,192,128,230,106,277,65,421,34,546,15,659,8,765,13,871,31,983,62,1107,106,1250,129,1306,157,1360,191,1412,226,1460,222,1463,186,1415,153,1363,124,1308,101,1252,57,1108,26,984,8,871,3,765,10,658,29,545,60,419,101,275,124,227,152,189"/>
+<area shape="rect" id="Node000004" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="264,276,508,1251"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="199,195,224,232,247,275,260,305,256,307,243,277,220,235,195,197"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="638,731,764,796"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="703,797,699,878,688,993,666,1123,649,1188,629,1252,593,1333,549,1411,545,1408,588,1330,624,1250,644,1187,661,1121,683,992,694,878,698,796"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="389,1251,389,1311,384,1311,384,1251"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="511,678,521,692,528,711,535,763,531,805,521,835,516,833,526,803,530,763,523,713,516,695,507,681"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="305,133,468,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="389,212,389,276,384,276,384,212"/>
+<area shape="rect" id="Node000006" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="299,5,474,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="389,85,389,133,384,133,384,85"/>
+</map>

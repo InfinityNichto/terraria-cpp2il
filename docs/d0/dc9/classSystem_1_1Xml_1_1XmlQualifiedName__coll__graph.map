@@ -1,0 +1,12 @@
+<map id="System.Xml.XmlQualifiedName" name="System.Xml.XmlQualifiedName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="118,860,365,1495"/>
+<area shape="rect" id="Node000002" href="$d3/d01/classSystem_1_1Xml_1_1XmlQualifiedName.html" title=" " alt="" coords="118,148,365,783"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,783,244,844,239,844,239,783"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="367,407,385,430,391,465,388,492,379,512,374,509,383,490,386,465,380,432,363,410"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,5,155,71"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="106,70,81,106,61,149,36,242,19,323,10,395,9,463,14,532,25,605,61,782,84,861,114,938,109,940,79,862,56,783,19,606,8,532,3,464,5,395,14,322,31,241,56,147,76,103,102,67"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="140,70,157,132,151,133,135,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="415,5,446,71"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="448,48,493,87,516,115,533,147,566,239,589,320,602,393,605,463,599,534,585,608,563,690,533,784,504,854,466,922,423,985,378,1041,374,1038,419,981,462,919,499,852,528,782,558,688,580,607,594,533,600,463,596,394,584,321,561,241,528,149,512,118,489,91,445,52"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="419,72,374,174,369,171,414,70"/>
+</map>

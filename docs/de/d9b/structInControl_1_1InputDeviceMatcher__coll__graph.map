@@ -1,0 +1,26 @@
+<map id="InControl.InputDeviceMatcher" name="InControl.InputDeviceMatcher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="519,1003,750,1232"/>
+<area shape="rect" id="Node000002" href="$dc/dcf/structInControl_1_1OptionalUInt16.html" title=" " alt="" coords="251,199,472,859"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,859,486,924,526,988,522,990,482,927,451,861"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="451,5,493,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,70,440,96,412,184,407,182,435,94,448,68"/>
+<area shape="rect" id="Node000005" href="$d1/dc8/structInControl_1_1OptionalUInt32.html" title=" " alt="" coords="5,207,227,852"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="452,52,399,73,349,84,308,90,290,94,273,102,257,115,241,135,207,193,203,190,236,132,253,112,270,98,288,89,307,84,349,79,398,68,450,47"/>
+<area shape="rect" id="Node000007" href="$d2/dfa/structInControl_1_1OptionalInputDeviceDriverType.html" title=" " alt="" coords="496,133,773,925"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="496,69,509,93,519,117,514,119,504,96,491,71"/>
+<area shape="rect" id="Node000009" href="$d9/d5b/structInControl_1_1OptionalInputDeviceTransportType.html" title=" " alt="" coords="797,133,1075,925"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="495,48,543,68,581,77,615,80,675,82,703,85,730,92,758,107,787,131,788,132,784,136,784,135,755,111,728,97,702,90,674,87,614,85,580,82,542,73,493,53"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="333,5,387,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="363,71,363,183,358,183,357,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,851,215,889,241,924,268,952,298,977,366,1021,436,1055,505,1080,503,1085,434,1060,363,1026,295,982,264,956,237,927,210,892,188,853"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="97,5,135,71"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="119,71,119,190,113,190,113,71"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="637,926,637,986,632,986,632,926"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="555,5,717,71"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="639,71,638,117,633,117,633,71"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="799,905,788,927,746,991,741,988,783,924,795,903"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="845,5,1027,71"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="939,71,939,117,933,117,933,71"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1099,497,1149,562"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="1134,562,1144,633,1147,729,1143,781,1133,832,1115,882,1089,927,1057,963,1021,994,981,1021,939,1044,850,1078,767,1100,765,1095,849,1073,936,1039,978,1017,1018,990,1054,959,1084,924,1110,880,1127,831,1138,780,1142,729,1139,634,1128,562"/>
+</map>

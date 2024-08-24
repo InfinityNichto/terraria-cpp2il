@@ -1,0 +1,18 @@
+<map id="System.Net.ProxyChain" name="System.Net.ProxyChain">
+<area shape="rect" id="Node000001" title=" " alt="" coords="205,377,486,820"/>
+<area shape="rect" id="Node000006" href="$db/d1d/classSystem_1_1Net_1_1DirectProxy.html" title=" " alt="" coords="5,917,216,1017"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="199,832,144,918,140,915,195,829"/>
+<area shape="rect" id="Node000007" href="$db/d25/classSystem_1_1Net_1_1ProxyScriptChain.html" title=" " alt="" coords="241,869,450,1064"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="348,834,348,869,343,869,343,834"/>
+<area shape="rect" id="Node000008" href="$d7/d8d/classSystem_1_1Net_1_1StaticProxy.html" title=" " alt="" coords="474,909,683,1024"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="496,830,545,908,540,910,491,833"/>
+<area shape="rect" id="Node000002" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="215,263,475,328"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,342,348,377,343,377,343,342"/>
+<area shape="rect" id="Node000003" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="215,120,475,200"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,214,348,263,343,263,343,214"/>
+<area shape="rect" id="Node000004" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="84,5,305,71"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="192,84,189,196,193,262,205,327,221,376,216,378,200,329,188,263,183,196,187,84"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,77,298,118,295,122,243,81"/>
+<area shape="rect" id="Node000005" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="500,263,623,328"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="533,341,488,403,484,400,529,338"/>
+</map>

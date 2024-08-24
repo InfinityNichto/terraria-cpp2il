@@ -1,0 +1,19 @@
+<map id="System.Collections.Generic.List&lt; T &gt;.Enumerator" name="System.Collections.Generic.List&lt; T &gt;.Enumerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="286,425,487,649"/>
+<area shape="rect" id="Node000002" href="$d7/d7c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerator.html" title=" " alt="" coords="163,283,295,348"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,358,309,423,305,426,258,361"/>
+<area shape="rect" id="Node000003" href="$d7/d7c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerator.html" title=" " alt="" coords="115,140,312,220"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,233,228,282,223,283,217,234"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,15,192,81"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="98,94,97,150,104,216,121,284,135,317,153,346,183,382,216,416,288,472,284,476,213,419,179,386,148,350,130,319,116,286,98,217,92,150,92,94"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="138,90,181,138,177,141,134,93"/>
+<area shape="rect" id="Node000005" href="$dd/dfa/interfaceSystem_1_1Collections_1_1IEnumerator.html" title=" " alt="" coords="259,5,397,91"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="337,104,376,425,371,425,332,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="284,103,250,142,246,138,280,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="387,283,461,348"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="421,349,411,410,406,409,416,348"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="486,283,517,348"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="488,347,454,412,450,410,484,345"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="577,283,599,348"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="579,340,561,371,538,403,501,443,497,439,534,400,557,368,574,338"/>
+</map>

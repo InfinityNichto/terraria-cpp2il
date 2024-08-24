@@ -1,0 +1,16 @@
+<map id="Terraria.GameContent.Creative.CreativePowers.DifficultySliderPower" name="Terraria.GameContent.Creative.CreativePowers.DifficultySliderPower">
+<area shape="rect" id="Node000001" title=" " alt="" coords="409,1588,709,2537"/>
+<area shape="rect" id="Node000002" href="$d5/ddc/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ASharedSliderPower.html" title=" " alt="" coords="296,493,545,1540"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,1553,499,1587,494,1588,489,1554"/>
+<area shape="rect" id="Node000003" href="$d4/d69/interfaceTerraria_1_1GameContent_1_1Creative_1_1ICreativePower.html" title=" " alt="" coords="5,177,255,445"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,457,298,713,294,715,188,459"/>
+<area shape="rect" id="Node000004" href="$d5/dea/interfaceTerraria_1_1GameContent_1_1IOnPlayerJoining.html" title=" " alt="" coords="279,271,443,351"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="368,365,379,493,373,493,362,365"/>
+<area shape="rect" id="Node000005" href="$d1/dfe/interfaceTerraria_1_1GameContent_1_1Creative_1_1IProvideSliderElement.html" title=" " alt="" coords="518,279,715,344"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="604,358,559,494,548,533,543,531,554,493,598,356"/>
+<area shape="rect" id="Node000006" href="$d0/d13/interfaceTerraria_1_1GameContent_1_1Creative_1_1IPowerSubcategoryElement.html" title=" " alt="" coords="424,5,673,129"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="519,143,509,178,477,334,454,493,449,493,472,333,503,177,514,142"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="572,142,610,278,605,279,567,143"/>
+<area shape="rect" id="Node000007" href="$d7/d20/interfaceTerraria_1_1GameContent_1_1IPersistentPerWorldContent.html" title=" " alt="" coords="569,917,827,1116"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="686,1130,625,1588,620,1587,681,1129"/>
+</map>

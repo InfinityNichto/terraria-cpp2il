@@ -1,0 +1,13 @@
+<map id="System.Net.DnsPermissionAttribute" name="System.Net.DnsPermissionAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,432,347,561"/>
+<area shape="rect" id="Node000002" href="$d0/d75/classSystem_1_1Security_1_1Permissions_1_1CodeAccessSecurityAttribute.html" title=" " alt="" coords="143,303,361,383"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,396,255,432,249,432,249,396"/>
+<area shape="rect" id="Node000003" href="$d8/d8d/classSystem_1_1Security_1_1Permissions_1_1SecurityAttribute.html" title=" " alt="" coords="135,133,369,253"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,267,255,302,249,302,249,267"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,173,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="135,78,191,131,188,135,131,82"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,5,306,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="255,71,255,117,249,117,249,71"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="332,5,375,71"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="345,72,326,111,319,122,315,119,322,108,340,70"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="InControl.PlayerTwoAxisAction" name="InControl.PlayerTwoAxisAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1164,251,1676"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classInControl_1_1PlayerTwoAxisAction.html" title=" " alt="" coords="5,1739,251,2265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,1690,131,1738,125,1738,125,1690"/>
+<area shape="rect" id="Node000002" href="$d6/d85/classInControl_1_1TwoAxisInputControl.html" title=" " alt="" coords="15,180,241,1115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,1128,131,1164,125,1164,125,1128"/>
+<area shape="rect" id="Node000003" href="$d4/d87/interfaceInControl_1_1IInputControl.html" title=" " alt="" coords="42,5,214,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,145,131,180,125,180,125,145"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="UnityEngine.Gradient" name="UnityEngine.Gradient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,1235,368,1484"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="44,627,213,693"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,706,243,1234,238,1235,135,707"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,13,180,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,92,129,627,124,627,93,92"/>
+<area shape="rect" id="Node000004" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="308,148,640,1172"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,1173,309,1219,304,1218,318,1171"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="642,579,660,612,667,660,663,698,652,727,647,726,658,697,661,660,655,613,638,581"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="204,5,395,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,98,331,147,326,148,312,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="419,5,599,85"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="508,99,506,148,500,147,503,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="623,13,786,78"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="695,79,648,204,643,202,690,77"/>
+</map>

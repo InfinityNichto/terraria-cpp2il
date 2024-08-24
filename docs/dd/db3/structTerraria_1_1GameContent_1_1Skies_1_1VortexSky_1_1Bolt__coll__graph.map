@@ -1,0 +1,17 @@
+<map id="Terraria.GameContent.Skies.VortexSky.Bolt" name="Terraria.GameContent.Skies.VortexSky.Bolt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="347,1313,547,1393"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,276,249,1251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1193,283,1243,319,1288,335,1303,331,1307,315,1291,279,1246,247,1196"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="252,679,262,693,269,712,276,763,272,804,262,834,257,832,267,803,271,763,264,713,257,696,248,682"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="46,133,209,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,212,130,276,125,276,125,212"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="40,5,215,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,85,130,133,125,133,125,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="313,133,355,199"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="348,198,370,275,391,423,399,548,399,659,395,763,391,867,391,978,399,1103,419,1250,431,1297,426,1298,414,1251,394,1104,386,978,386,867,390,763,394,659,394,549,385,423,365,277,343,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="326,200,257,396,252,394,321,198"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="483,731,513,796"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="499,796,489,988,466,1251,460,1297,454,1297,461,1250,483,988,494,796"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="542,731,585,796"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="568,796,571,877,569,991,556,1121,545,1187,529,1252,517,1278,501,1302,497,1299,512,1276,523,1250,539,1186,551,1121,563,991,565,877,563,796"/>
+</map>

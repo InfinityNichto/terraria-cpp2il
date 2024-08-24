@@ -1,0 +1,9 @@
+<map id="Terraria.Audio.SoundStyle" name="Terraria.Audio.SoundStyle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="308,5,545,349"/>
+<area shape="rect" id="Node000002" href="$da/da4/classTerraria_1_1Audio_1_1CustomSoundStyle.html" title=" " alt="" coords="5,549,269,861"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,363,284,413,213,550,208,547,279,411,308,360"/>
+<area shape="rect" id="Node000003" href="$dd/d46/classTerraria_1_1Audio_1_1LegacySoundStyle.html" title=" " alt="" coords="294,412,559,997"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="429,363,429,412,424,412,424,363"/>
+<area shape="rect" id="Node000004" href="$df/d4d/classTerraria_1_1Audio_1_1SoundStyle.html" title=" " alt="" coords="584,525,821,884"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="545,360,573,411,629,524,624,526,568,413,540,363"/>
+</map>

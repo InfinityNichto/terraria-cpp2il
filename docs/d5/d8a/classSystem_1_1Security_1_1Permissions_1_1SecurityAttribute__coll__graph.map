@@ -1,0 +1,9 @@
+<map id="System.Security.Permissions.SecurityAttribute" name="System.Security.Permissions.SecurityAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,133,369,268"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,173,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,79,186,131,183,135,129,82"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="198,5,306,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,71,255,117,249,117,249,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="332,5,375,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="345,72,326,111,320,121,315,118,322,108,340,70"/>
+</map>

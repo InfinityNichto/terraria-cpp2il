@@ -1,0 +1,13 @@
+<map id="System.Runtime.Remoting.Channels.CrossAppDomainChannel" name="System.Runtime.Remoting.Channels.CrossAppDomainChannel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="166,312,426,585"/>
+<area shape="rect" id="Node000002" href="$d0/d5e/interfaceSystem_1_1Runtime_1_1Remoting_1_1Channels_1_1IChannel.html" title=" " alt="" coords="108,5,269,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,81,56,106,39,123,25,141,12,169,8,194,13,219,25,248,53,290,87,327,127,358,168,385,165,390,123,363,84,331,49,293,21,251,8,221,3,194,7,168,21,139,35,119,53,102,94,77"/>
+<area shape="rect" id="Node000003" href="$dd/d64/interfaceSystem_1_1Runtime_1_1Remoting_1_1Channels_1_1IChannelSender.html" title=" " alt="" coords="35,140,342,249"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="191,104,191,140,186,140,186,104"/>
+<area shape="rect" id="Node000004" href="$dc/da7/interfaceSystem_1_1Runtime_1_1Remoting_1_1Channels_1_1IChannelReceiver.html" title=" " alt="" coords="366,155,523,235"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="279,95,355,138,380,152,378,157,352,142,276,100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,261,241,311,236,313,215,264"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="417,248,378,313,374,311,412,245"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="548,162,602,227"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="555,229,537,251,490,297,441,340,437,336,487,293,533,248,551,226"/>
+</map>

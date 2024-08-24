@@ -1,0 +1,9 @@
+<map id="System.Diagnostics.TraceListener" name="System.Diagnostics.TraceListener">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,237,376,899"/>
+<area shape="rect" id="Node000004" href="$d5/d98/classSystem_1_1Diagnostics_1_1DefaultTraceListener.html" title=" " alt="" coords="143,947,356,1483"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,912,252,946,247,946,247,912"/>
+<area shape="rect" id="Node000002" href="$d9/d0e/classSystem_1_1MarshalByRefObject.html" title=" " alt="" coords="5,5,275,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,202,175,236,170,238,162,203"/>
+<area shape="rect" id="Node000003" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="299,65,421,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,144,330,238,325,237,347,143"/>
+</map>

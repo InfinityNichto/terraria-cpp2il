@@ -1,0 +1,9 @@
+<map id="Terraria.Main.SceneArea" name="Terraria.Main.SceneArea">
+<area shape="rect" id="Node000001" title=" " alt="" coords="179,148,351,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,92,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,70,61,98,76,122,95,138,116,150,163,166,162,171,114,155,92,142,72,126,56,100,48,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="243,5,286,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,71,267,131,262,131,262,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="369,5,400,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="382,72,373,99,357,126,344,140,340,136,353,122,368,97,377,70"/>
+</map>

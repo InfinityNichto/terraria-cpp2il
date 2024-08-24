@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,252,56"/>
+<area shape="rect" id="Node000001" href="$d2/df4/classSystem_1_1DivideByZeroException.html" title=" " alt="" coords="300,5,528,31"/>
+<area shape="poly" id="edge24_Node000000_Node000001" title=" " alt="" coords="266,29,300,25,300,31,266,34"/>
+<area shape="rect" id="Node000002" href="$da/d7b/classSystem_1_1OverflowException.html" title=" " alt="" coords="315,55,513,80"/>
+<area shape="poly" id="edge25_Node000000_Node000002" title=" " alt="" coords="266,52,315,56,315,62,265,58"/>
+</map>

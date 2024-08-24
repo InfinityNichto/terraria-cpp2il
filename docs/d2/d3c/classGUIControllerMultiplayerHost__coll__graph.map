@@ -1,0 +1,9 @@
+<map id="GUIControllerMultiplayerHost" name="GUIControllerMultiplayerHost">
+<area shape="rect" id="Node000001" title=" " alt="" coords="138,223,383,452"/>
+<area shape="rect" id="Node000002" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="5,5,215,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,171,195,221,190,224,160,173"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="239,50,282,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,115,263,206,258,206,258,115"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="429,50,460,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="444,116,436,157,418,200,397,229,392,226,413,197,430,156,439,115"/>
+</map>

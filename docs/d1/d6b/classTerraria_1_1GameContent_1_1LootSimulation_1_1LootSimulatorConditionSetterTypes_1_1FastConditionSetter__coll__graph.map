@@ -1,0 +1,9 @@
+<map id="Terraria.GameContent.LootSimulation.LootSimulatorConditionSetterTypes.FastConditionSetter" name="Terraria.GameContent.LootSimulation.LootSimulatorConditionSetterTypes.FastConditionSetter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,375,256,617"/>
+<area shape="rect" id="Node000002" href="$d4/dd9/interfaceTerraria_1_1GameContent_1_1LootSimulation_1_1ISimulationConditionSetter.html" title=" " alt="" coords="5,148,223,297"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,311,128,374,123,374,118,311"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="247,183,466,263"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,264,246,363,242,360,323,261"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="329,5,384,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="359,85,359,182,354,182,354,85"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Mono.Globalization.Unicode.MSCompatUnicodeTable" name="Mono.Globalization.Unicode.MSCompatUnicodeTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,496,600,1667"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="44,5,75,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,72,30,115,17,163,8,225,10,252,17,286,41,366,70,445,103,523,140,599,220,742,299,867,295,870,215,744,135,601,98,525,65,447,36,367,12,287,5,253,3,225,12,162,25,113,42,70"/>
+<area shape="rect" id="Node000005" href="$d9/d2b/classMono_1_1Globalization_1_1Unicode_1_1TailoringInfo.html" title=" " alt="" coords="182,163,383,287"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="77,50,198,150,195,154,74,54"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="524,192,566,257"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="529,259,507,289,491,300,479,312,473,335,467,372,460,480,454,479,462,371,468,333,475,309,488,296,503,285,525,256"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="594,192,637,257"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="616,258,606,354,589,472,588,480,582,479,584,472,600,353,610,257"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="292,286,320,472,321,479,316,480,314,472,287,287"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="346,5,389,71"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="392,58,405,74,416,94,426,146,435,234,446,479,441,479,429,234,421,147,411,96,401,77,387,61"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="348,67,330,96,308,148,303,146,325,93,344,64"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="702,192,756,257"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="730,258,719,355,710,414,697,473,656,606,608,738,603,736,651,604,692,471,705,413,714,354,724,257"/>
+</map>

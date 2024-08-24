@@ -1,0 +1,18 @@
+<map id="System.Runtime.Remoting.Messaging.MethodResponse" name="System.Runtime.Remoting.Messaging.MethodResponse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,584,487,1769"/>
+<area shape="rect" id="Node000007" href="$db/d0e/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1ConstructionResponse.html" title=" " alt="" coords="136,1817,437,2099"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="289,1783,289,1817,284,1817,284,1783"/>
+<area shape="rect" id="Node000002" href="$d7/d34/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMethodReturnMessage.html" title=" " alt="" coords="55,416,249,536"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,549,175,583,170,584,163,550"/>
+<area shape="rect" id="Node000003" href="$d6/dbf/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMethodMessage.html" title=" " alt="" coords="146,133,347,368"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="260,382,263,416,271,584,266,584,257,416,255,382"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,382,179,417,175,415,189,380"/>
+<area shape="rect" id="Node000004" href="$d0/d5e/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMessage.html" title=" " alt="" coords="5,5,211,85"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="98,100,70,242,56,329,45,416,40,476,45,536,64,621,88,706,83,708,59,622,40,536,35,476,40,416,50,328,64,241,93,99"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="113,99,121,222,136,368,143,415,138,416,131,368,116,222,108,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,95,169,132,165,135,140,98"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="325,436,515,516"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="413,530,402,584,397,583,407,529"/>
+<area shape="rect" id="Node000006" href="$dd/d4d/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IInternalMessage.html" title=" " alt="" coords="540,433,713,519"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="603,532,490,764,485,762,598,530"/>
+</map>

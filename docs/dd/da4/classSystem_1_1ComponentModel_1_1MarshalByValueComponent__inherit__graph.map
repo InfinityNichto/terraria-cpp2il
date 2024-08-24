@@ -1,0 +1,10 @@
+<map id="System.ComponentModel.MarshalByValueComponent" name="System.ComponentModel.MarshalByValueComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,247,264,645"/>
+<area shape="rect" id="Node000002" href="$d5/dbe/interfaceSystem_1_1ComponentModel_1_1IComponent.html" title=" " alt="" coords="88,126,181,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,205,137,246,132,246,132,205"/>
+<area shape="rect" id="Node000003" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="31,5,153,71"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="84,84,79,119,77,182,84,246,78,247,72,182,73,118,79,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,83,126,125,121,127,106,85"/>
+<area shape="rect" id="Node000004" href="$d7/d65/interfaceSystem_1_1IServiceProvider.html" title=" " alt="" coords="205,119,411,199"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="279,212,258,248,253,245,275,209"/>
+</map>

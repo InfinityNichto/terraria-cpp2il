@@ -1,0 +1,14 @@
+<map id="System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit" name="System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,396,314,476"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,201,92,266"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,267,37,319,41,346,52,371,63,384,59,387,48,373,36,347,32,319,37,266"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="249,5,280,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,58,227,92,207,134,193,199,187,265,186,327,189,380,184,380,181,327,181,264,187,198,202,132,223,89,247,55"/>
+<area shape="rect" id="Node000004" href="$dc/d9c/classSystem_1_1Runtime_1_1Serialization_1_1Formatters_1_1Binary_1_1SerStack.html" title=" " alt="" coords="347,133,558,333"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="282,53,347,120,343,123,278,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="349,321,330,335,261,388,258,384,327,331,346,317"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="379,5,433,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,71,410,109,412,117,406,118,405,110,402,71"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="474,5,525,71"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="494,71,483,118,478,117,489,70"/>
+</map>

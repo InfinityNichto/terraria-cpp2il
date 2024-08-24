@@ -1,0 +1,22 @@
+<map id="System.Collections.ReadOnlyCollectionBase" name="System.Collections.ReadOnlyCollectionBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1335,239,1588"/>
+<area shape="rect" id="Node000002" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="244,120,411,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,229,186,262,166,282,150,305,141,328,134,362,124,463,117,595,114,747,115,1067,121,1334,115,1335,110,1067,109,747,112,595,118,462,129,362,136,326,145,303,162,279,183,258,230,225"/>
+<area shape="rect" id="Node000004" href="$df/d03/classSystem_1_1Collections_1_1ArrayList.html" title=" " alt="" coords="249,665,454,1272"/>
+<area shape="poly" id="edge8_Node000004_Node000002" title=" " alt="" coords="332,268,345,665,339,665,327,269"/>
+<area shape="rect" id="Node000005" href="$dd/d26/interfaceSystem_1_1Collections_1_1IList.html" title=" " alt="" coords="361,304,557,588"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="370,266,389,303,384,305,365,268"/>
+<area shape="rect" id="Node000003" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="310,5,531,71"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="297,45,219,58,182,68,147,83,118,101,95,124,79,152,74,186,74,970,77,1065,84,1162,104,1334,99,1335,79,1162,71,1066,69,970,69,186,74,151,90,121,114,97,145,78,180,63,218,53,296,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,84,372,121,367,118,391,81"/>
+<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="456,81,487,124,520,178,550,239,573,303,591,382,597,446,591,510,573,589,551,653,523,717,490,776,456,831,452,828,486,774,518,714,546,651,567,587,586,509,592,446,585,383,567,305,545,241,515,181,482,127,452,84"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="428,84,449,304,443,304,422,85"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="251,1191,190,1321,185,1319,246,1188"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="430,602,417,666,411,665,425,601"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="633,413,813,479"/>
+<area shape="poly" id="edge10_Node000004_Node000006" title=" " alt="" coords="704,492,665,564,616,643,537,751,456,851,452,848,533,748,612,640,660,561,699,490"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="160,413,215,479"/>
+<area shape="poly" id="edge11_Node000004_Node000007" title=" " alt="" coords="186,479,183,554,185,597,193,641,215,711,244,780,239,782,210,713,187,642,180,598,178,554,181,479"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="255,413,285,479"/>
+<area shape="poly" id="edge12_Node000004_Node000008" title=" " alt="" coords="271,479,269,553,274,641,275,649,270,649,269,642,264,553,265,479"/>
+</map>

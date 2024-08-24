@@ -1,0 +1,19 @@
+<map id="Terraria.WorldBuilding.Conditions.IsTile" name="Terraria.WorldBuilding.Conditions.IsTile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="313,860,547,989"/>
+<area shape="rect" id="Node000002" href="$d1/dc5/classTerraria_1_1WorldBuilding_1_1GenCondition.html" title=" " alt="" coords="273,573,449,797"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,810,414,859,409,861,394,811"/>
+<area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="5,5,225,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,209,57,280,47,358,47,397,52,436,62,474,78,509,95,536,116,559,166,600,220,631,274,655,272,659,218,636,163,604,112,563,91,539,73,512,57,476,46,437,42,397,42,357,52,279,70,207"/>
+<area shape="rect" id="Node000006" href="$d1/dc5/classTerraria_1_1WorldBuilding_1_1GenCondition.html" title=" " alt="" coords="87,272,274,511"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="142,208,157,271,151,273,137,209"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="482,67,525,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="506,133,505,203,499,298,483,405,457,511,437,560,432,558,451,510,478,404,493,297,500,203,501,133"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="484,128,431,185,365,250,289,314,285,309,362,246,427,182,480,124"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="368,67,399,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="388,133,394,295,393,402,389,511,384,557,379,557,383,510,388,402,388,295,383,133"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="370,125,275,260,271,257,366,122"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="256,509,286,558,281,561,251,512"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="275,363,293,373,301,391,298,403,291,412,287,408,293,401,295,392,289,377,273,368"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="473,653,528,718"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="494,719,456,845,451,843,489,717"/>
+</map>

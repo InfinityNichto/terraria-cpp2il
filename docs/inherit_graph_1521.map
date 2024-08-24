@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d2/d95/classSystem_1_1ComponentModel_1_1TypeDescriptionProvider.html" title=" " alt="" coords="5,133,229,173"/>
+<area shape="rect" id="Node000001" href="$d4/da8/classSystem_1_1ComponentModel_1_1DelegatingTypeDescriptionProvider.html" title=" " alt="" coords="277,5,543,45"/>
+<area shape="poly" id="edge3372_Node000000_Node000001" title=" " alt="" coords="156,123,211,88,276,55,311,43,313,48,278,60,214,92,159,128"/>
+<area shape="rect" id="Node000002" href="$db/dec/classSystem_1_1ComponentModel_1_1ReflectTypeDescriptionProvider.html" title=" " alt="" coords="291,69,529,109"/>
+<area shape="poly" id="edge3373_Node000000_Node000002" title=" " alt="" coords="222,128,317,107,319,112,223,133"/>
+<area shape="rect" id="Node000003" href="$df/d03/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1AttributeProvider.html" title=" " alt="" coords="298,133,522,173"/>
+<area shape="poly" id="edge3374_Node000000_Node000003" title=" " alt="" coords="243,151,298,151,298,156,243,156"/>
+<area shape="rect" id="Node000004" href="$d9/de3/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider.html" title=" " alt="" coords="291,198,529,253"/>
+<area shape="poly" id="edge3375_Node000000_Node000004" title=" " alt="" coords="213,174,299,195,298,201,212,179"/>
+<area shape="rect" id="Node000005" href="$de/d63/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1TypeDescriptionNode.html" title=" " alt="" coords="295,277,525,317"/>
+<area shape="poly" id="edge3376_Node000000_Node000005" title=" " alt="" coords="154,180,210,222,278,262,314,275,312,280,276,266,207,227,151,184"/>
+</map>

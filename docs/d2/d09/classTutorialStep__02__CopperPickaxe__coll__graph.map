@@ -1,0 +1,7 @@
+<map id="TutorialStep_02_CopperPickaxe" name="TutorialStep_02_CopperPickaxe">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,421,324,631"/>
+<area shape="rect" id="Node000002" href="$d9/d7b/classTutorialStep.html" title=" " alt="" coords="5,5,239,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,372,181,420,176,422,164,373"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="263,149,306,215"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,216,254,359,242,406,237,405,249,358,277,215"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="System.ComponentModel.WarningException" name="System.ComponentModel.WarningException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,424,531,776"/>
+<area shape="rect" id="Node000002" href="$d8/d7a/classSystem_1_1SystemException.html" title=" " alt="" coords="5,133,307,361"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,371,278,422,274,425,239,374"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="69,5,243,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,84,159,133,153,133,153,84"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="331,215,461,280"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,280,399,408,393,408,393,280"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="440,5,491,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="440,84,434,96,415,158,403,215,398,214,410,157,430,94,435,82"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="485,215,629,280"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="502,71,518,93,532,124,543,156,556,214,551,215,538,158,527,126,514,96,498,74"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="554,281,540,338,518,401,515,410,510,408,514,399,535,336,549,280"/>
+</map>

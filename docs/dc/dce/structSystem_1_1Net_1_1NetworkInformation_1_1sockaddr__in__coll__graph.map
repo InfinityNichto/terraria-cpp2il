@@ -1,0 +1,7 @@
+<map id="System.Net.NetworkInformation.sockaddr_in" name="System.Net.NetworkInformation.sockaddr_in">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,312,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="74,5,129,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,71,99,97,105,123,111,134,106,136,100,125,94,98,94,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,5,235,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,72,189,125,185,134,180,132,184,123,204,70"/>
+</map>

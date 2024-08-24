@@ -1,0 +1,7 @@
+<map id="Microsoft.Win32.SafeHandles.CriticalHandleMinusOneIsInvalid" name="Microsoft.Win32.SafeHandles.CriticalHandleMinusOneIsInvalid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,148,281,243"/>
+<area shape="rect" id="Node000003" href="$d7/d86/classSystem_1_1Net_1_1Security_1_1SafeCredentialReference.html" title=" " alt="" coords="5,291,331,455"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,257,171,291,165,291,165,257"/>
+<area shape="rect" id="Node000002" href="$da/d44/classglobal_1_1SystemRuntime_1_1InteropServices_1_1CriticalHandle.html" title=" " alt="" coords="79,5,257,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,114,171,148,165,148,165,114"/>
+</map>

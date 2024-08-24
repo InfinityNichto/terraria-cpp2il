@@ -1,0 +1,19 @@
+<map id="System.ComponentModel.ICustomTypeDescriptor" name="System.ComponentModel.ICustomTypeDescriptor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="777,5,1017,467"/>
+<area shape="rect" id="Node000002" href="$d8/d0c/classNewtonsoft_1_1Json_1_1Linq_1_1JObject.html" title=" " alt="" coords="5,515,299,2824"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="765,265,652,297,591,320,529,348,468,381,411,420,359,465,314,516,301,535,297,532,310,513,355,461,407,415,465,376,526,343,589,315,650,292,763,260"/>
+<area shape="rect" id="Node000003" href="$d6/d39/classSystem_1_1ComponentModel_1_1CustomTypeDescriptor.html" title=" " alt="" coords="323,1389,567,1949"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="767,320,716,360,666,406,620,458,582,516,534,621,497,733,468,847,448,963,435,1077,427,1188,425,1292,426,1389,421,1389,420,1292,422,1187,429,1076,443,962,463,846,492,731,529,619,578,513,615,455,662,402,713,356,764,316"/>
+<area shape="rect" id="Node000006" href="$d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor.html" title=" " alt="" coords="592,1287,885,2052"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="873,481,784,1287,778,1286,868,480"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1MergedTypeDescriptor.html" title=" " alt="" coords="909,1279,1203,2059"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="927,480,1016,1279,1010,1279,922,481"/>
+<area shape="rect" id="Node000008" href="$d5/dfe/structSystem_1_1ComponentModel_1_1TypeDescriptor_1_1TypeDescriptionNode_1_1DefaultExtendedTypeDescriptor.html" title=" " alt="" coords="1227,1287,1520,2052"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1030,316,1081,356,1132,403,1179,455,1217,513,1261,605,1297,701,1326,800,1348,900,1365,1001,1378,1099,1390,1286,1384,1286,1372,1100,1360,1001,1343,901,1321,801,1292,702,1256,607,1212,516,1175,459,1129,407,1078,360,1027,321"/>
+<area shape="rect" id="Node000009" href="$d7/d0d/structSystem_1_1ComponentModel_1_1TypeDescriptor_1_1TypeDescriptionNode_1_1DefaultTypeDescriptor.html" title=" " alt="" coords="1544,1269,1837,2069"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1032,254,1155,284,1223,306,1293,334,1361,368,1425,409,1484,457,1534,513,1589,597,1633,688,1668,783,1694,881,1712,980,1724,1079,1730,1176,1731,1269,1726,1269,1724,1176,1718,1080,1707,981,1689,882,1663,784,1629,690,1584,600,1530,516,1480,461,1422,413,1358,373,1290,339,1221,311,1154,289,1030,259"/>
+<area shape="rect" id="Node000004" href="$dc/df9/classSystem_1_1ComponentModel_1_1TypeDescriptionProvider_1_1EmptyCustomTypeDescriptor.html" title=" " alt="" coords="191,2904,428,2999"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="417,1963,317,2904,312,2904,412,1963"/>
+<area shape="rect" id="Node000005" href="$d4/df6/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1AttributeProvider_1_1AttributeTypeDescriptor.html" title=" " alt="" coords="453,2872,707,3031"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="479,1963,574,2872,569,2872,473,1963"/>
+</map>

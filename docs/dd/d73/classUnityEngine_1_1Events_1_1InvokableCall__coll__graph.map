@@ -1,0 +1,15 @@
+<map id="UnityEngine.Events.InvokableCall&lt; T1, T2, T3, T4 &gt;" name="UnityEngine.Events.InvokableCall&lt; T1, T2, T3, T4 &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,321,244,777"/>
+<area shape="rect" id="Node000002" href="$d5/df7/classUnityEngine_1_1Events_1_1BaseInvokableCall.html" title=" " alt="" coords="23,5,226,259"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,273,91,321,86,321,88,272"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="110,273,109,321,104,321,105,273"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="127,273,127,321,122,321,122,273"/>
+<area shape="poly" id="edge4_Node000001_Node000002" title=" " alt="" coords="144,273,145,321,140,321,139,273"/>
+<area shape="poly" id="edge5_Node000001_Node000002" title=" " alt="" coords="162,272,163,321,158,321,156,273"/>
+<area shape="rect" id="Node000003" href="$d5/d63/classUnityAction_3_01T1_00_01T2_01_4.html" title=" " alt="" coords="250,99,410,165"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="317,166,247,308,242,305,312,164"/>
+<area shape="rect" id="Node000004" href="$dc/d1c/classUnityAction_3_01T1_00_01T2_00_01T3_01_4.html" title=" " alt="" coords="434,92,583,172"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="487,174,458,216,424,260,342,350,258,433,254,429,338,346,420,257,454,213,482,171"/>
+<area shape="rect" id="Node000005" href="$da/df6/classUnityAction_3_01T1_00_01T2_00_01T3_00_01T4_01_4.html" title=" " alt="" coords="607,92,757,172"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="663,174,634,217,597,261,516,329,428,390,341,443,260,487,257,482,338,439,426,386,513,325,593,257,630,214,659,171"/>
+</map>

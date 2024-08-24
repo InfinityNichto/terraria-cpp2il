@@ -1,0 +1,19 @@
+<map id="System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.ValueCollection.Enumerator" name="System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.ValueCollection.Enumerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="307,425,525,644"/>
+<area shape="rect" id="Node000002" href="$d7/d7c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerator.html" title=" " alt="" coords="137,283,305,348"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,357,321,423,317,427,257,360"/>
+<area shape="rect" id="Node000003" href="$d7/d7c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerator.html" title=" " alt="" coords="115,140,312,220"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,233,222,282,217,283,214,234"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,15,192,81"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="93,94,87,149,88,215,99,284,111,316,128,346,165,392,211,430,260,463,309,488,306,493,257,467,207,435,161,395,123,350,106,319,94,285,82,216,82,149,88,94"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="138,90,181,138,177,141,134,93"/>
+<area shape="rect" id="Node000005" href="$dd/dfa/interfaceSystem_1_1Collections_1_1IEnumerator.html" title=" " alt="" coords="259,5,397,91"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="338,104,377,348,393,425,388,426,372,348,333,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="284,103,250,142,246,138,280,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="387,283,581,348"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="477,349,458,410,452,408,472,347"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="606,283,637,348"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="608,338,554,403,538,420,534,416,550,400,604,335"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="672,283,731,348"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="686,350,667,377,643,403,594,442,541,476,538,471,591,438,640,399,663,374,681,347"/>
+</map>

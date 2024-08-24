@@ -1,0 +1,9 @@
+<map id="System.Reflection.SignatureByRefType" name="System.Reflection.SignatureByRefType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,2213,285,2443"/>
+<area shape="rect" id="Node000002" href="$d1/d13/classSystem_1_1Reflection_1_1SignatureHasElementType.html" title=" " alt="" coords="53,1489,299,2165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,2179,179,2213,173,2213,173,2179"/>
+<area shape="rect" id="Node000003" href="$d2/d20/classSystem_1_1Reflection_1_1SignatureType.html" title=" " alt="" coords="5,119,347,1441"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,1455,179,1489,173,1489,173,1455"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="105,5,247,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,85,179,118,173,118,173,85"/>
+</map>

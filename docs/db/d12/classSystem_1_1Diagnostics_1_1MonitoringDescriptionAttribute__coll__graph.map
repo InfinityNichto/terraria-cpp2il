@@ -1,0 +1,16 @@
+<map id="System.Diagnostics.MonitoringDescriptionAttribute" name="System.Diagnostics.MonitoringDescriptionAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="140,2073,369,2168"/>
+<area shape="rect" id="Node000002" href="$df/d88/classSystem_1_1ComponentModel_1_1DescriptionAttribute.html" title=" " alt="" coords="132,1809,377,2024"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,2038,257,2073,252,2073,252,2038"/>
+<area shape="rect" id="Node000003" href="$d1/d05/classSystem_1_1Attribute.html" title=" " alt="" coords="5,133,339,1455"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="65,1468,70,1539,80,1610,95,1679,116,1746,130,1777,150,1808,145,1810,126,1780,111,1748,90,1680,75,1611,65,1540,60,1468"/>
+<area shape="rect" id="Node000004" href="$df/d88/classSystem_1_1ComponentModel_1_1DescriptionAttribute.html" title=" " alt="" coords="125,1517,385,1747"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="241,1468,246,1517,241,1517,236,1469"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="257,1747,257,1793,252,1793,252,1747"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="386,1607,404,1616,411,1632,409,1642,402,1650,398,1646,404,1639,406,1632,400,1620,384,1612"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="395,761,586,827"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="503,826,539,977,557,1087,571,1212,575,1346,572,1415,565,1484,554,1553,538,1620,516,1685,488,1748,469,1777,446,1804,393,1849,390,1845,443,1800,465,1774,483,1745,511,1683,532,1619,549,1552,560,1484,567,1415,569,1346,565,1212,552,1088,533,978,497,827"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="490,827,476,933,450,1090,409,1273,383,1366,353,1456,332,1504,328,1501,348,1454,378,1364,404,1271,444,1089,471,933,485,826"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="465,5,516,71"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="493,84,493,761,488,761,488,84"/>
+</map>

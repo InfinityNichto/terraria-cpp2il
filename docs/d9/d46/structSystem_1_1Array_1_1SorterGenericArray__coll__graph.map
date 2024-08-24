@@ -1,0 +1,19 @@
+<map id="System.Array.SorterGenericArray" name="System.Array.SorterGenericArray">
+<area shape="rect" id="Node000001" title=" " alt="" coords="600,3245,855,3681"/>
+<area shape="rect" id="Node000002" href="$da/d70/classSystem_1_1Array.html" title=" " alt="" coords="453,135,773,3168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="711,3168,715,3229,710,3229,706,3168"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classglobal_1_1SystemCollections_1_1ICollection.html" title=" " alt="" coords="5,5,188,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,97,455,1152,450,1154,111,99"/>
+<area shape="rect" id="Node000004" href="$da/d15/classglobal_1_1SystemCollections_1_1IEnumerable.html" title=" " alt="" coords="212,5,395,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="316,98,455,820,450,821,311,99"/>
+<area shape="rect" id="Node000005" href="$d6/d3b/classglobal_1_1SystemCollections_1_1IList.html" title=" " alt="" coords="419,5,601,85"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="516,99,518,134,513,135,511,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="625,5,808,85"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="716,99,714,135,708,134,711,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="832,5,1015,85"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="828,95,806,114,788,136,775,158,771,155,784,133,802,110,825,91"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1039,13,1219,78"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1038,85,1028,88,973,96,901,103,833,115,806,124,788,137,775,151,771,148,784,133,804,119,831,109,900,98,972,91,1027,83,1036,80"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="797,1619,884,1684"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="844,1684,846,1900,842,2264,836,2480,825,2709,810,2941,787,3168,779,3229,774,3228,782,3168,804,2940,820,2708,831,2480,837,2263,841,1900,839,1684"/>
+</map>

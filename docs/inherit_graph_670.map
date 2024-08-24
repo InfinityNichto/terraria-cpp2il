@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d1/d19/classNewtonsoft_1_1Json_1_1JsonConverter.html" title=" " alt="" coords="5,525,228,550"/>
+<area shape="rect" id="Node000001" href="$d0/d06/classNewtonsoft_1_1Json_1_1Converters_1_1BinaryConverter.html" title=" " alt="" coords="294,5,501,45"/>
+<area shape="poly" id="edge3176_Node000000_Node000001" title=" " alt="" coords="116,511,123,424,131,365,145,301,165,235,192,169,228,109,274,55,292,42,295,47,278,59,233,112,197,172,170,236,150,302,136,366,128,424,121,511"/>
+<area shape="rect" id="Node000002" href="$d6/da8/classNewtonsoft_1_1Json_1_1Converters_1_1BsonObjectIdConverter.html" title=" " alt="" coords="294,69,501,109"/>
+<area shape="poly" id="edge3177_Node000000_Node000002" title=" " alt="" coords="117,511,128,434,153,328,173,272,200,216,233,164,274,119,292,107,295,111,278,123,237,168,204,219,178,274,158,330,133,435,123,511"/>
+<area shape="rect" id="Node000003" href="$db/d02/classNewtonsoft_1_1Json_1_1Converters_1_1ColorConverter.html" title=" " alt="" coords="294,133,501,173"/>
+<area shape="poly" id="edge3178_Node000000_Node000003" title=" " alt="" coords="119,511,133,444,162,356,182,309,207,263,238,220,274,183,292,171,295,176,278,187,242,224,212,266,187,311,167,358,139,446,125,512"/>
+<area shape="rect" id="Node000004" href="$dd/dd0/classNewtonsoft_1_1Json_1_1Converters_1_1CustomCreationConverter.html" title=" " alt="" coords="283,197,512,237"/>
+<area shape="poly" id="edge3179_Node000000_Node000004" title=" " alt="" coords="122,511,140,456,170,384,215,310,243,277,274,247,293,235,296,240,278,251,246,280,219,313,175,387,145,457,127,512"/>
+<area shape="rect" id="Node000005" href="$d9/d07/classNewtonsoft_1_1Json_1_1Converters_1_1DateTimeConverterBase.html" title=" " alt="" coords="294,261,501,301"/>
+<area shape="poly" id="edge3180_Node000000_Node000005" title=" " alt="" coords="126,510,148,467,180,413,222,358,247,333,275,311,296,299,298,304,277,316,251,337,226,361,185,416,153,469,131,513"/>
+<area shape="rect" id="Node000008" href="$d1/d1c/classNewtonsoft_1_1Json_1_1Converters_1_1EnumerableVectorConverter.html" title=" " alt="" coords="276,325,519,365"/>
+<area shape="poly" id="edge3183_Node000000_Node000008" title=" " alt="" coords="133,511,191,443,230,406,275,375,300,363,302,368,277,380,234,411,194,447,137,515"/>
+<area shape="rect" id="Node000009" href="$d2/d33/classNewtonsoft_1_1Json_1_1Converters_1_1HashSetConverter.html" title=" " alt="" coords="294,389,501,429"/>
+<area shape="poly" id="edge3184_Node000000_Node000009" title=" " alt="" coords="145,515,203,476,275,439,308,427,309,432,277,444,206,481,148,519"/>
+<area shape="rect" id="Node000010" href="$d6/d44/classNewtonsoft_1_1Json_1_1Converters_1_1KeyValuePairConverter.html" title=" " alt="" coords="294,453,501,493"/>
+<area shape="poly" id="edge3185_Node000000_Node000010" title=" " alt="" coords="186,519,308,491,309,496,187,524"/>
+<area shape="rect" id="Node000011" href="$d7/d6a/classNewtonsoft_1_1Json_1_1Converters_1_1Matrix4x4Converter.html" title=" " alt="" coords="294,517,501,557"/>
+<area shape="poly" id="edge3186_Node000000_Node000011" title=" " alt="" coords="242,535,294,535,294,540,242,540"/>
+<area shape="rect" id="Node000012" href="$de/d00/classNewtonsoft_1_1Json_1_1Converters_1_1QuaternionConverter.html" title=" " alt="" coords="294,581,501,621"/>
+<area shape="poly" id="edge3187_Node000000_Node000012" title=" " alt="" coords="187,551,309,579,308,584,186,556"/>
+<area shape="rect" id="Node000013" href="$d0/dc0/classNewtonsoft_1_1Json_1_1Converters_1_1RegexConverter.html" title=" " alt="" coords="294,645,501,685"/>
+<area shape="poly" id="edge3188_Node000000_Node000013" title=" " alt="" coords="148,556,206,594,277,631,309,643,308,648,275,636,203,598,145,560"/>
+<area shape="rect" id="Node000014" href="$d9/dac/classNewtonsoft_1_1Json_1_1Converters_1_1ResolutionConverter.html" title=" " alt="" coords="294,709,501,749"/>
+<area shape="poly" id="edge3189_Node000000_Node000014" title=" " alt="" coords="137,560,194,628,234,664,277,695,302,707,300,712,275,700,230,668,191,631,133,563"/>
+<area shape="rect" id="Node000015" href="$dc/d6a/classNewtonsoft_1_1Json_1_1Converters_1_1StringEnumConverter.html" title=" " alt="" coords="294,773,501,813"/>
+<area shape="poly" id="edge3190_Node000000_Node000015" title=" " alt="" coords="131,562,153,605,185,659,226,713,251,738,277,759,298,771,296,775,275,764,247,742,222,717,180,662,148,608,126,564"/>
+<area shape="rect" id="Node000016" href="$d6/df4/classNewtonsoft_1_1Json_1_1Converters_1_1UriConverter.html" title=" " alt="" coords="294,837,501,877"/>
+<area shape="poly" id="edge3191_Node000000_Node000016" title=" " alt="" coords="127,562,145,617,175,688,219,761,246,794,278,823,296,835,293,839,274,827,243,798,215,764,170,690,140,619,122,564"/>
+<area shape="rect" id="Node000017" href="$dc/dee/classNewtonsoft_1_1Json_1_1Converters_1_1VectorConverter.html" title=" " alt="" coords="294,901,501,941"/>
+<area shape="poly" id="edge3192_Node000000_Node000017" title=" " alt="" coords="125,563,139,629,167,717,187,763,212,809,242,851,278,887,295,899,292,903,274,891,238,854,207,812,182,766,162,719,133,630,119,564"/>
+<area shape="rect" id="Node000018" href="$d5/da1/classNewtonsoft_1_1Json_1_1Converters_1_1VersionConverter.html" title=" " alt="" coords="294,965,501,1005"/>
+<area shape="poly" id="edge3193_Node000000_Node000018" title=" " alt="" coords="123,563,133,640,158,745,178,801,204,856,237,907,278,951,295,963,292,968,274,955,233,910,200,858,173,803,153,746,128,641,117,564"/>
+<area shape="rect" id="Node000019" href="$d9/d0c/classNewtonsoft_1_1Json_1_1Converters_1_1XmlNodeConverter.html" title=" " alt="" coords="294,1029,501,1069"/>
+<area shape="poly" id="edge3194_Node000000_Node000019" title=" " alt="" coords="121,564,128,651,136,709,150,772,170,838,197,903,233,963,278,1015,295,1028,292,1032,274,1019,228,966,192,905,165,840,145,774,131,710,123,651,116,564"/>
+<area shape="rect" id="Node000006" href="$db/d82/classNewtonsoft_1_1Json_1_1Converters_1_1IsoDateTimeConverter.html" title=" " alt="" coords="571,229,777,269"/>
+<area shape="poly" id="edge3181_Node000005_Node000006" title=" " alt="" coords="514,265,570,259,571,264,515,270"/>
+<area shape="rect" id="Node000007" href="$da/d08/classNewtonsoft_1_1Json_1_1Converters_1_1JavaScriptDateTimeConverter.html" title=" " alt="" coords="567,293,781,333"/>
+<area shape="poly" id="edge3182_Node000005_Node000007" title=" " alt="" coords="515,292,567,298,566,304,514,297"/>
+</map>

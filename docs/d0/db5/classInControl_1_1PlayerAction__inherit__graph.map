@@ -1,0 +1,13 @@
+<map id="InControl.PlayerAction" name="InControl.PlayerAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="317,1408,605,3065"/>
+<area shape="rect" id="Node000004" href="$dd/db7/classInControl_1_1PlayerAction.html" title=" " alt="" coords="5,3128,293,4800"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="318,3048,296,3167,291,3166,312,3047"/>
+<area shape="rect" id="Node000005" href="$dd/db7/classInControl_1_1PlayerAction.html" title=" " alt="" coords="317,3128,605,4800"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="464,3079,464,3128,459,3128,459,3079"/>
+<area shape="rect" id="Node000006" href="$dd/db7/classInControl_1_1PlayerAction.html" title=" " alt="" coords="629,3128,917,4800"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="610,3047,632,3166,627,3167,605,3048"/>
+<area shape="rect" id="Node000002" href="$dd/df6/classInControl_1_1OneAxisInputControl.html" title=" " alt="" coords="333,180,590,1359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,1373,464,1408,459,1408,459,1373"/>
+<area shape="rect" id="Node000003" href="$d4/d87/interfaceInControl_1_1IInputControl.html" title=" " alt="" coords="375,5,547,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,144,464,179,459,179,459,144"/>
+</map>

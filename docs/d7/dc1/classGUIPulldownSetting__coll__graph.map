@@ -1,0 +1,22 @@
+<map id="GUIPulldownSetting" name="GUIPulldownSetting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="817,864,1143,1632"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="1146,1184,1163,1210,1170,1248,1166,1277,1157,1299,1152,1297,1161,1275,1165,1248,1159,1212,1142,1187"/>
+<area shape="rect" id="Node000002" href="$d9/dcf/classGUISettingEntry.html" title=" " alt="" coords="511,632,719,787"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="676,797,819,1005,814,1008,672,800"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="568,255,667,320"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="620,320,618,615,613,615,614,320"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="722,255,753,320"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="739,320,739,402,743,519,756,652,767,720,781,786,814,891,808,892,776,787,762,721,751,653,738,519,734,402,734,320"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="736,320,717,432,701,501,681,570,663,618,658,616,676,568,696,500,711,431,731,320"/>
+<area shape="rect" id="Node000005" href="$da/d9d/classSettingsOverlayOptionCategories__Layout.html" title=" " alt="" coords="5,5,339,569"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="341,445,524,619,521,623,337,449"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="341,239,359,259,365,287,362,308,353,324,348,321,357,306,360,287,354,261,337,243"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="961,677,1004,742"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="985,742,984,811,984,847,978,847,979,811,979,742"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1108,255,1151,320"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="1126,321,1069,632,1037,848,1031,847,1064,632,1120,320"/>
+<area shape="rect" id="Node000008" href="$db/d77/classGUIInputRegionExclusive.html" title=" " alt="" coords="1191,635,1435,784"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="1146,319,1277,618,1272,620,1141,321"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="1270,785,1154,971,1150,968,1265,783"/>
+<area shape="poly" id="edge11_Node000008_Node000008" title=" " alt="" coords="1437,690,1455,697,1462,709,1453,722,1449,719,1457,709,1451,701,1435,695"/>
+</map>

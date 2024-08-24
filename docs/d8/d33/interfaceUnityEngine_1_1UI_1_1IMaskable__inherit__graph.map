@@ -1,0 +1,11 @@
+<map id="UnityEngine.UI.IMaskable" name="UnityEngine.UI.IMaskable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="299,5,500,71"/>
+<area shape="rect" id="Node000002" href="$d5/d12/classUnityEngine_1_1UI_1_1MaskableGraphic.html" title=" " alt="" coords="259,119,540,944"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,84,402,118,397,118,397,84"/>
+<area shape="rect" id="Node000003" href="$d0/dd8/classUnityEngine_1_1UI_1_1Image.html" title=" " alt="" coords="5,992,265,2957"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,958,279,993,268,1049,263,1048,274,991,281,957"/>
+<area shape="rect" id="Node000004" href="$da/d66/classUnityEngine_1_1UI_1_1RawImage.html" title=" " alt="" coords="289,1857,509,2092"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="402,958,402,1857,397,1857,397,958"/>
+<area shape="rect" id="Node000005" href="$d6/def/classUnityEngine_1_1UI_1_1Text.html" title=" " alt="" coords="533,1574,775,2375"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="517,957,525,992,576,1287,615,1574,609,1574,570,1288,519,992,512,958"/>
+</map>

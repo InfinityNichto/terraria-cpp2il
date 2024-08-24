@@ -1,0 +1,19 @@
+<map id="System.Security.Cryptography.TripleDES" name="System.Security.Cryptography.TripleDES">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,1105,286,1393"/>
+<area shape="rect" id="Node000002" href="$d7/d9e/classSystem_1_1Security_1_1Cryptography_1_1SymmetricAlgorithm.html" title=" " alt="" coords="335,429,587,1056"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,983,262,1106,257,1104,326,980"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="760,225,947,290"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="828,303,754,407,672,508,590,604,585,601,668,505,750,404,823,300"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="193,5,223,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="225,46,251,66,273,93,289,130,297,162,299,191,298,220,295,279,297,313,304,351,332,444,327,446,299,353,291,313,289,279,293,220,294,192,291,163,284,131,268,96,247,69,222,51"/>
+<area shape="rect" id="Node000006" href="$dd/d3b/classSystem_1_1Security_1_1Cryptography_1_1KeySizes.html" title=" " alt="" coords="5,163,235,352"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="198,72,188,96,166,148,161,146,183,94,193,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="451,225,493,290"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="472,290,465,376,464,413,459,412,460,376,466,290"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="108,352,105,376,105,405,116,589,131,773,164,1089,158,1089,126,774,111,589,100,405,100,376,102,352"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="106,352,111,379,123,404,132,412,141,417,161,418,183,418,208,427,271,477,326,535,323,538,267,481,205,432,182,424,161,424,139,422,129,417,119,407,106,381,101,353"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="518,225,610,290"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="560,291,537,406,536,414,530,413,532,405,555,290"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="635,225,736,290"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="678,291,636,406,597,491,592,489,631,404,673,289"/>
+</map>

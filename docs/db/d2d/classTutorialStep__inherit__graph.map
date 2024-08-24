@@ -1,0 +1,25 @@
+<map id="TutorialStep" name="TutorialStep">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1321,5,1555,359"/>
+<area shape="rect" id="Node000002" href="$d9/dcd/classTutorialStep__01__WelcomeDialogue.html" title=" " alt="" coords="5,529,244,669"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1308,198,1054,227,745,271,594,300,455,332,340,369,294,388,257,409,226,434,199,464,157,530,153,527,194,461,222,430,254,404,291,384,338,364,454,327,592,295,745,266,1053,221,1307,193"/>
+<area shape="rect" id="Node000003" href="$da/de0/classTutorialStep__02__CopperPickaxe.html" title=" " alt="" coords="268,494,509,703"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1308,189,1140,204,1040,219,935,240,828,269,721,306,618,352,522,409,478,448,443,495,439,492,475,445,519,405,615,347,719,301,826,264,934,235,1039,214,1139,199,1308,184"/>
+<area shape="rect" id="Node000004" href="$d6/d74/classTutorialStep__03__CraftWorkbench.html" title=" " alt="" coords="533,457,783,741"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1308,207,1192,234,1058,275,989,301,921,332,856,368,796,409,769,432,745,458,741,455,765,428,792,405,854,363,919,328,987,296,1056,270,1190,229,1307,202"/>
+<area shape="rect" id="Node000005" href="$d5/dfd/classTutorialStep__04__CraftDoorAndChair.html" title=" " alt="" coords="807,432,1040,765"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1310,242,1247,274,1180,313,1114,358,1053,409,1029,433,1025,430,1050,405,1111,354,1177,309,1244,270,1308,237"/>
+<area shape="rect" id="Node000006" href="$d8/d45/classTutorialStep__05__Torches.html" title=" " alt="" coords="1064,447,1297,751"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1324,372,1277,448,1272,445,1319,369"/>
+<area shape="rect" id="Node000007" href="$d4/dee/classTutorialStep__06__Mining.html" title=" " alt="" coords="1321,457,1555,741"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1441,372,1441,457,1435,457,1435,372"/>
+<area shape="rect" id="Node000008" href="$d0/d90/classTutorialStep__07__Armour.html" title=" " alt="" coords="1579,407,1812,791"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1556,369,1581,408,1576,411,1552,372"/>
+<area shape="rect" id="Node000009" href="$d0/d97/classTutorialStep__08__KillZombies.html" title=" " alt="" coords="1836,427,2069,771"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1568,237,1632,270,1699,309,1765,354,1826,405,1846,425,1842,428,1823,409,1762,358,1696,313,1629,274,1566,242"/>
+<area shape="rect" id="Node000010" href="$da/ddf/classTutorialStep__09__Bestiary.html" title=" " alt="" coords="2093,484,2327,713"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1569,201,1686,227,1821,268,1890,295,1958,326,2023,363,2084,405,2122,441,2153,482,2149,486,2118,444,2080,409,2020,367,1955,331,1888,300,1819,273,1685,232,1568,206"/>
+<area shape="rect" id="Node000011" href="$d8/d4d/classTutorialStep__10__Settings.html" title=" " alt="" coords="2351,477,2584,721"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1569,184,1735,200,1833,215,1936,236,2042,265,2146,301,2247,348,2341,405,2377,437,2408,475,2404,478,2373,440,2338,409,2245,352,2144,306,2040,270,1935,241,1832,220,1734,205,1568,189"/>
+<area shape="rect" id="Node000012" href="$d2/d4a/classTutorialStep__11__Complete.html" title=" " alt="" coords="2608,477,2841,721"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1569,193,1818,222,2120,267,2268,296,2403,328,2516,364,2562,384,2598,404,2636,436,2666,475,2662,478,2632,440,2595,409,2559,389,2514,369,2402,333,2267,301,2119,272,1818,227,1568,198"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Mono.Security.Cryptography.MD2Managed" name="Mono.Security.Cryptography.MD2Managed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="138,1677,342,2164"/>
+<area shape="rect" id="Node000002" href="$de/d02/classMono_1_1Security_1_1Cryptography_1_1MD2.html" title=" " alt="" coords="147,1503,333,1628"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,1642,234,1677,229,1677,230,1642"/>
+<area shape="poly" id="edge10_Node000001_Node000002" title=" " alt="" coords="250,1642,251,1677,246,1677,245,1642"/>
+<area shape="rect" id="Node000003" href="$d2/d1c/classSystem_1_1Security_1_1Cryptography_1_1HashAlgorithm.html" title=" " alt="" coords="297,445,561,1381"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,1381,260,1503,255,1502,291,1380"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="224,5,411,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="319,84,320,212,329,368,339,445,334,445,324,368,314,212,314,84"/>
+<area shape="rect" id="Node000005" href="$d3/dac/interfaceSystem_1_1Security_1_1Cryptography_1_1ICryptoTransform.html" title=" " alt="" coords="339,120,579,368"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="349,81,375,118,371,121,345,84"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="455,382,452,445,447,445,450,382"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="185,211,228,277"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="199,277,192,310,190,348,194,386,210,420,218,427,226,431,245,432,266,432,277,436,287,443,288,444,284,448,284,447,274,441,265,438,245,437,225,436,215,432,206,423,189,387,184,348,187,309,194,276"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="27,211,58,277"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="41,277,25,446,10,718,8,878,13,1045,25,1215,48,1381,64,1456,85,1531,135,1676,130,1678,80,1533,59,1457,43,1382,20,1216,7,1046,3,878,5,718,20,445,36,277"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="41,277,40,311,44,350,55,388,65,405,78,419,101,435,125,441,149,440,175,435,201,429,228,427,256,430,285,444,283,448,255,436,228,432,201,435,176,440,150,445,125,446,99,440,74,423,61,408,51,390,39,351,35,311,36,277"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="603,211,645,277"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="631,277,648,448,655,576,659,723,655,884,642,1051,616,1219,598,1302,576,1382,556,1438,533,1494,477,1601,415,1699,354,1784,350,1781,411,1696,472,1598,528,1491,551,1436,571,1381,593,1301,611,1218,636,1051,650,883,653,723,650,576,642,448,626,277"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="626,278,618,324,608,349,592,370,572,381,552,382,534,383,516,394,488,433,484,430,513,390,532,378,552,377,571,376,589,366,603,346,612,323,621,277"/>
+<area shape="rect" id="Node000009" href="$d4/d14/classglobal_1_1SystemSecurity_1_1Cryptography_1_1HashAlgorithm.html" title=" " alt="" coords="58,873,273,953"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="174,966,235,1502,230,1503,169,967"/>
+</map>

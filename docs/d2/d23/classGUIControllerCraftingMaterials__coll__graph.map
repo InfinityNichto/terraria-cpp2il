@@ -1,0 +1,33 @@
+<map id="GUIControllerCraftingMaterials" name="GUIControllerCraftingMaterials">
+<area shape="rect" id="Node000001" title=" " alt="" coords="144,2905,383,3180"/>
+<area shape="rect" id="Node000002" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="5,1491,215,1646"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,1660,164,2163,198,2500,237,2842,245,2905,240,2906,231,2843,193,2501,159,2164,115,1660"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="248,13,279,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,78,266,2889,261,2889,261,78"/>
+<area shape="rect" id="Node000004" href="$de/d55/structSystem_1_1DateTime.html" title=" " alt="" coords="1106,295,1482,2843"/>
+<area shape="poly" id="edge12_Node000004_Node000003" title=" " alt="" coords="274,78,281,109,284,157,282,195,285,231,292,249,305,269,318,279,332,282,348,284,365,292,480,390,589,497,692,611,789,729,878,849,960,968,1034,1084,1100,1193,1095,1196,1030,1086,956,971,874,852,785,732,688,614,585,500,476,394,362,297,346,289,331,287,316,284,301,272,287,252,280,232,276,195,279,157,275,110,269,79"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1108,1840,370,2893,366,2890,1104,1837"/>
+<area shape="poly" id="edge14_Node000004_Node000004" title=" " alt="" coords="1485,1383,1495,1417,1502,1460,1509,1569,1504,1666,1490,1739,1485,1738,1498,1665,1503,1569,1497,1461,1489,1418,1480,1384"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="303,13,498,78"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="429,89,440,108,1108,1244,1104,1247,436,111,425,92"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="522,13,717,78"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="641,89,1108,1142,1103,1144,636,92"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="741,13,932,78"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="853,90,1108,941,1103,943,847,92"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="956,5,1165,85"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="1071,99,1109,341,1103,342,1066,99"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1189,5,1399,85"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="1297,99,1297,295,1291,295,1291,99"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1423,5,1613,85"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="1513,99,1484,295,1479,294,1508,98"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1638,13,1865,78"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="1741,92,1485,943,1480,941,1735,90"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1889,13,1931,78"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="1890,77,1878,88,1859,96,1842,98,1826,101,1811,111,1793,142,1765,206,1687,413,1490,984,1485,982,1682,411,1760,204,1788,139,1807,107,1824,96,1841,93,1857,91,1875,83,1887,73"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1955,13,2014,78"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="1981,79,1975,110,1964,191,1957,227,1945,271,1898,402,1845,532,1729,789,1608,1029,1492,1240,1488,1238,1603,1027,1724,787,1840,530,1893,400,1939,270,1952,226,1958,191,1970,109,1976,78"/>
+<area shape="rect" id="Node000014" href="$d7/d2d/classulong.html" title=" " alt="" coords="2126,13,2177,78"/>
+<area shape="poly" id="edge15_Node000004_Node000014" title=" " alt="" coords="2154,78,2148,167,2139,220,2125,272,2063,423,1991,572,1912,719,1827,860,1740,993,1654,1117,1494,1331,1490,1328,1650,1114,1736,990,1823,857,1907,716,1987,570,2058,421,2119,270,2134,219,2143,166,2149,78"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="2298,13,2349,78"/>
+<area shape="poly" id="edge16_Node000004_Node000015" title=" " alt="" coords="2327,78,2322,167,2313,220,2296,272,2259,355,2218,438,2126,600,2023,757,1914,905,1803,1044,1694,1170,1590,1283,1496,1380,1492,1376,1586,1279,1690,1167,1799,1040,1910,902,2019,754,2121,598,2214,436,2255,353,2292,270,2308,219,2317,167,2322,78"/>
+</map>

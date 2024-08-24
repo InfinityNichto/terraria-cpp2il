@@ -1,0 +1,17 @@
+<map id="System.Xml.XmlUtf8RawTextWriter" name="System.Xml.XmlUtf8RawTextWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="287,1732,544,4028"/>
+<area shape="rect" id="Node000005" href="$de/d39/classSystem_1_1Xml_1_1HtmlUtf8RawTextWriter.html" title=" " alt="" coords="5,4076,263,5269"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="287,3714,230,4076,225,4075,282,3713"/>
+<area shape="rect" id="Node000007" href="$dc/d17/classSystem_1_1Xml_1_1TextUtf8RawTextWriter.html" title=" " alt="" coords="287,4297,544,5049"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="418,4042,418,4297,413,4297,413,4042"/>
+<area shape="rect" id="Node000008" href="$d8/d05/classSystem_1_1Xml_1_1XmlUtf8RawTextWriterIndent.html" title=" " alt="" coords="569,4239,862,5106"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="549,3663,645,4239,640,4239,544,3664"/>
+<area shape="rect" id="Node000002" href="$d2/dd1/classSystem_1_1Xml_1_1XmlRawWriter.html" title=" " alt="" coords="273,717,558,1684"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,1698,418,1732,413,1732,413,1698"/>
+<area shape="rect" id="Node000003" href="$df/d80/classSystem_1_1Xml_1_1XmlWriter.html" title=" " alt="" coords="287,119,544,669"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,683,418,717,413,717,413,683"/>
+<area shape="rect" id="Node000004" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="354,5,477,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,84,418,119,413,119,413,84"/>
+<area shape="rect" id="Node000006" href="$d7/d5d/classSystem_1_1Xml_1_1HtmlUtf8RawTextWriterIndent.html" title=" " alt="" coords="5,5317,263,5793"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="137,5283,137,5317,131,5317,131,5283"/>
+</map>

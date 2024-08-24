@@ -1,0 +1,20 @@
+<map id="ReLogic.Content.Asset&lt; T &gt;" name="ReLogic.Content.Asset&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="727,315,945,877"/>
+<area shape="rect" id="Node000004" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="5,984,299,1591"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="716,650,626,694,527,752,428,822,382,861,341,903,309,942,280,985,275,982,304,939,337,900,379,857,425,818,524,747,623,690,714,645"/>
+<area shape="rect" id="Node000005" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="323,991,583,1583"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="720,715,646,804,611,852,580,903,537,992,533,990,575,900,606,849,641,801,716,712"/>
+<area shape="rect" id="Node000006" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="607,999,825,1576"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="787,891,769,999,764,998,782,891"/>
+<area shape="rect" id="Node000007" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="849,999,1066,1576"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="898,891,900,901,917,998,911,999,895,902,893,891"/>
+<area shape="rect" id="Node000008" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="1090,999,1307,1576"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="954,766,1020,872,1081,983,1092,1005,1087,1008,1076,985,1015,874,950,769"/>
+<area shape="rect" id="Node000009" href="$da/d68/classReLogic_1_1Content_1_1Asset.html" title=" " alt="" coords="1331,991,1591,1583"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="958,668,1045,728,1141,802,1237,888,1281,934,1322,982,1333,997,1329,1001,1318,986,1277,938,1233,892,1138,807,1042,733,955,673"/>
+<area shape="rect" id="Node000002" href="$d1/d01/interfaceReLogic_1_1Content_1_1IAsset.html" title=" " alt="" coords="834,120,1011,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="907,279,899,315,894,314,902,278"/>
+<area shape="rect" id="Node000003" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="751,5,873,71"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="816,84,824,265,826,314,821,315,819,265,811,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="845,80,873,118,868,121,841,83"/>
+</map>

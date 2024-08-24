@@ -1,0 +1,19 @@
+<map id="System.Threading.Tasks.TaskScheduler" name="System.Threading.Tasks.TaskScheduler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="225,899,536,1389"/>
+<area shape="rect" id="Node000002" href="$d0/dc5/classSystem_1_1Threading_1_1Tasks_1_1TaskScheduler.html" title=" " alt="" coords="488,345,799,836"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="529,837,506,885,502,883,524,835"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="801,547,818,565,825,591,822,609,814,623,809,621,817,607,820,591,814,567,797,551"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="40,183,71,248"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="49,249,28,351,18,421,10,499,9,583,14,669,29,754,56,835,86,890,124,941,168,988,214,1029,211,1033,164,991,120,945,82,893,51,837,24,755,9,670,3,583,5,499,12,420,23,350,44,247"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="72,223,168,269,234,296,303,319,350,325,388,324,426,325,447,331,470,343,475,346,473,351,467,348,445,336,425,331,388,329,349,331,301,324,232,301,166,274,70,227"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="293,175,599,255"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="376,258,329,296,308,320,292,347,268,411,252,478,244,546,243,616,247,686,257,754,286,882,280,883,252,755,242,686,237,616,239,546,247,477,263,409,288,344,304,317,325,293,373,254"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="469,254,509,329,504,332,464,257"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="395,5,497,71"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="449,84,449,175,443,175,443,84"/>
+<area shape="rect" id="Node000006" href="$db/dc4/classSystem_1_1Threading_1_1Lock.html" title=" " alt="" coords="676,163,843,268"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="844,233,888,249,932,273,971,304,987,323,1000,344,1033,414,1058,477,1074,537,1080,594,1077,651,1063,709,1037,771,1000,837,959,893,910,941,855,983,795,1019,733,1050,671,1075,553,1112,551,1107,669,1070,731,1045,792,1015,852,979,906,937,955,889,996,835,1033,769,1058,708,1072,650,1075,594,1069,538,1053,479,1028,416,996,347,983,326,967,308,929,277,886,254,842,238"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="746,269,727,331,721,329,741,267"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="732,5,787,71"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="762,71,762,146,757,146,757,71"/>
+</map>

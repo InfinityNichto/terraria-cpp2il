@@ -1,0 +1,18 @@
+<map id="System.Security.Cryptography.RNGCryptoServiceProvider" name="System.Security.Cryptography.RNGCryptoServiceProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="187,1235,440,1844"/>
+<area shape="rect" id="Node000002" href="$d7/d63/classSystem_1_1Security_1_1Cryptography_1_1RandomNumberGenerator.html" title=" " alt="" coords="5,373,245,947"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,961,251,1234,246,1235,187,962"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="27,13,213,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,92,126,373,120,373,118,92"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="286,627,341,693"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="316,693,316,1218,311,1218,311,693"/>
+<area shape="rect" id="Node000005" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="373,148,705,1172"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="410,1173,398,1219,393,1218,405,1172"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="707,579,725,612,731,660,727,698,717,727,712,726,722,697,726,660,720,613,702,581"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="238,5,429,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="353,98,375,163,370,164,348,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="453,5,633,85"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="545,99,545,148,539,147,540,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="657,13,820,78"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="731,79,712,136,707,134,726,77"/>
+</map>

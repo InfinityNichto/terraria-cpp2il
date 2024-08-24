@@ -1,0 +1,31 @@
+<map id="System.Collections.Concurrent.ConcurrentQueue&lt; T &gt;" name="System.Collections.Concurrent.ConcurrentQueue&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="356,612,631,1571"/>
+<area shape="rect" id="Node000002" href="$d4/d40/interfaceSystem_1_1Collections_1_1Concurrent_1_1IProducerConsumerCollection.html" title=" " alt="" coords="130,387,374,507"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,520,358,724,353,726,276,521"/>
+<area shape="rect" id="Node000003" href="$dc/d8b/classglobal_1_1SystemCollections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="35,175,235,255"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="124,269,113,325,106,392,107,464,111,499,120,534,140,591,164,647,224,754,291,853,358,939,354,943,286,856,219,757,160,649,135,593,115,535,106,500,101,464,101,392,108,324,118,268"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,266,224,386,219,388,158,269"/>
+<area shape="rect" id="Node000004" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="161,5,383,71"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="149,65,113,79,79,97,49,121,25,149,10,182,10,212,25,282,38,355,53,410,100,534,124,591,152,647,217,755,288,854,358,940,354,944,284,857,213,758,147,649,119,593,95,536,48,412,33,356,20,283,4,212,5,181,20,147,46,117,77,93,111,74,147,61"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="272,84,257,387,252,387,267,84"/>
+<area shape="rect" id="Node000005" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="310,148,477,283"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="304,81,350,146,345,149,299,84"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="405,296,441,611,436,612,400,297"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="348,296,290,389,286,386,343,293"/>
+<area shape="rect" id="Node000006" href="$d1/d20/classglobal_1_1SystemCollections_1_1Generic_1_1IReadOnlyCollection.html" title=" " alt="" coords="449,407,700,487"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="571,501,557,612,551,611,565,500"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="725,415,779,480"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="742,481,639,736,634,734,737,479"/>
+<area shape="rect" id="Node000008" href="$d9/df6/classSystem_1_1Collections_1_1Concurrent_1_1ConcurrentQueue_1_1Segment.html" title=" " alt="" coords="803,360,1045,535"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="880,536,849,589,746,746,642,893,638,890,742,743,844,587,876,534"/>
+<area shape="poly" id="edge12_Node000008_Node000008" title=" " alt="" coords="1046,425,1064,433,1071,447,1069,456,1062,463,1058,459,1064,454,1066,448,1060,437,1044,430"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="869,5,899,71"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="898,71,904,94,920,224,926,344,921,344,915,224,899,95,893,72"/>
+<area shape="rect" id="Node000010" href="$dc/d64/structSystem_1_1Collections_1_1Concurrent_1_1PaddedHeadAndTail.html" title=" " alt="" coords="657,175,876,255"/>
+<area shape="poly" id="edge15_Node000010_Node000009" title=" " alt="" coords="871,64,804,163,800,160,866,61"/>
+<area shape="poly" id="edge14_Node000008_Node000010" title=" " alt="" coords="776,255,787,295,806,335,814,346,809,349,802,337,782,297,771,256"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1037,183,1080,248"/>
+<area shape="poly" id="edge16_Node000008_Node000011" title=" " alt="" coords="1042,249,985,347,980,344,1038,247"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1202,415,1350,480"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="1248,482,1192,537,1051,659,905,779,645,980,642,976,901,775,1047,655,1189,533,1244,478"/>
+</map>

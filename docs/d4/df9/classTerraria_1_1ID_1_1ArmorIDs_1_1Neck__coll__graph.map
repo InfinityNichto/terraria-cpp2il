@@ -1,0 +1,7 @@
+<map id="Terraria.ID.ArmorIDs.Neck" name="Terraria.ID.ArmorIDs.Neck">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,280,247,385"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="14,5,65,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="34,71,28,110,25,157,29,207,43,255,49,265,44,268,38,257,24,208,20,157,23,109,29,70"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="199,5,229,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,71,212,157,203,208,187,257,182,267,178,265,182,255,198,206,207,156,212,71"/>
+</map>

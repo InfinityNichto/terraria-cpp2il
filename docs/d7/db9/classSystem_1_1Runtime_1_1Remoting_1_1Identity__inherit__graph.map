@@ -1,0 +1,13 @@
+<map id="System.Runtime.Remoting.Identity" name="System.Runtime.Remoting.Identity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="354,5,643,699"/>
+<area shape="rect" id="Node000002" href="$d5/d69/classSystem_1_1Runtime_1_1Remoting_1_1ClientIdentity.html" title=" " alt="" coords="205,1011,437,1224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,713,349,1011,343,1010,413,712"/>
+<area shape="rect" id="Node000003" href="$db/ded/classSystem_1_1Runtime_1_1Remoting_1_1ServerIdentity.html" title=" " alt="" coords="461,747,893,1488"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="585,712,593,746,588,747,580,713"/>
+<area shape="rect" id="Node000004" href="$dc/d7b/classSystem_1_1Runtime_1_1Remoting_1_1ClientActivatedIdentity.html" title=" " alt="" coords="5,1536,437,1936"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="455,1485,451,1490,413,1538,409,1534,447,1486,451,1481"/>
+<area shape="rect" id="Node000005" href="$de/d57/classSystem_1_1Runtime_1_1Remoting_1_1SingleCallIdentity.html" title=" " alt="" coords="461,1588,893,1884"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="680,1502,680,1588,675,1588,675,1502"/>
+<area shape="rect" id="Node000006" href="$da/d53/classSystem_1_1Runtime_1_1Remoting_1_1SingletonIdentity.html" title=" " alt="" coords="917,1571,1349,1901"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="904,1420,1014,1569,1010,1572,900,1423"/>
+</map>

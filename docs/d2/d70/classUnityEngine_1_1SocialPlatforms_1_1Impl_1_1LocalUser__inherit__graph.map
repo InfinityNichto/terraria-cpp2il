@@ -1,0 +1,11 @@
+<map id="UnityEngine.SocialPlatforms.Impl.LocalUser" name="UnityEngine.SocialPlatforms.Impl.LocalUser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,704,278,948"/>
+<area shape="rect" id="Node000002" href="$d6/d67/classUnityEngine_1_1SocialPlatforms_1_1Impl_1_1UserProfile.html" title=" " alt="" coords="80,139,274,656"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,670,180,704,174,704,174,670"/>
+<area shape="rect" id="Node000003" href="$de/d67/interfaceUnityEngine_1_1SocialPlatforms_1_1IUserProfile.html" title=" " alt="" coords="108,5,246,91"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="99,101,83,119,70,140,39,212,20,277,10,336,9,392,16,450,29,511,70,655,90,703,85,705,65,657,24,512,11,451,4,393,5,335,14,276,34,211,65,137,79,116,96,98"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,104,180,138,174,138,174,104"/>
+<area shape="rect" id="Node000004" href="$de/d34/interfaceUnityEngine_1_1SocialPlatforms_1_1ILocalUser.html" title=" " alt="" coords="298,357,488,437"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="251,98,289,137,323,193,351,253,386,356,381,358,346,255,319,196,284,140,247,101"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="377,451,339,548,289,657,262,705,257,702,284,655,335,546,372,449"/>
+</map>

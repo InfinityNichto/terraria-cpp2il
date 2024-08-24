@@ -1,0 +1,11 @@
+<map id="System.Threading.ThreadLocal&lt; T &gt;.LinkedSlotVolatile" name="System.Threading.ThreadLocal&lt; T &gt;.LinkedSlotVolatile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,305,220,385"/>
+<area shape="rect" id="Node000002" href="$d4/d52/classSystem_1_1Threading_1_1ThreadLocal_1_1LinkedSlot.html" title=" " alt="" coords="161,133,376,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,245,165,296,162,292,213,241"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="377,171,395,177,403,188,394,199,390,196,397,188,392,181,376,176"/>
+<area shape="rect" id="Node000003" href="$d4/d8e/structSystem_1_1Threading_1_1ThreadLocal_1_1LinkedSlotVolatile.html" title=" " alt="" coords="244,305,459,385"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="260,243,261,262,267,280,275,292,270,295,262,282,256,263,255,243"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="336,306,320,268,314,258,319,255,324,265,341,304"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="257,5,280,71"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="271,71,271,117,266,117,266,71"/>
+</map>

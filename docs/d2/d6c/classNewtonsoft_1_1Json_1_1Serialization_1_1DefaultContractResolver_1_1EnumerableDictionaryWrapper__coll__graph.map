@@ -1,0 +1,15 @@
+<map id="Newtonsoft.Json.Serialization.DefaultContractResolver.EnumerableDictionaryWrapper&lt; TEnumeratorKey, TEnumeratorValue &gt;" name="Newtonsoft.Json.Serialization.DefaultContractResolver.EnumerableDictionaryWrapper&lt; TEnumeratorKey, TEnumeratorValue &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="291,464,618,687"/>
+<area shape="rect" id="Node000002" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="137,285,397,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,374,373,462,369,465,302,377"/>
+<area shape="rect" id="Node000003" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="137,120,397,200"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="269,214,269,284,264,284,264,214"/>
+<area shape="rect" id="Node000005" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="421,277,715,372"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="398,203,436,222,477,247,515,275,512,279,474,252,433,226,395,208"/>
+<area shape="rect" id="Node000004" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="5,5,227,71"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="107,84,96,145,92,219,93,258,99,297,110,335,126,371,159,415,199,453,245,486,293,512,290,517,242,490,196,457,155,419,122,373,105,337,94,299,88,259,86,219,91,144,102,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="168,77,219,118,216,122,165,81"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="549,373,514,450,509,448,545,371"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="740,292,916,357"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="782,360,633,459,630,454,779,355"/>
+</map>

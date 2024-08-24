@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d6/dc7/classUnityEngine_1_1AndroidJavaProxy.html" title=" " alt="" coords="5,188,225,213"/>
+<area shape="rect" id="Node000001" href="$d2/dc5/classAndroidImmersive_1_1Listener.html" title=" " alt="" coords="317,5,516,31"/>
+<area shape="poly" id="edge4636_Node000000_Node000001" title=" " alt="" coords="131,175,155,143,187,106,227,70,272,40,316,24,318,29,275,44,230,74,191,110,159,147,135,178"/>
+<area shape="rect" id="Node000002" href="$d7/d1e/classUnityEngine_1_1Android_1_1AndroidAssetPacks_1_1AssetPackManagerDownloadStatusCallback.html" title=" " alt="" coords="273,55,560,109"/>
+<area shape="poly" id="edge4637_Node000000_Node000002" title=" " alt="" coords="149,179,206,148,272,118,305,107,307,112,274,123,208,153,151,183"/>
+<area shape="rect" id="Node000003" href="$de/d19/classUnityEngine_1_1Android_1_1AndroidAssetPacks_1_1AssetPackManagerMobileDataConfirmationCallback.html" title=" " alt="" coords="283,133,550,188"/>
+<area shape="poly" id="edge4638_Node000000_Node000003" title=" " alt="" coords="225,184,283,176,283,181,225,189"/>
+<area shape="rect" id="Node000004" href="$d6/d4d/classUnityEngine_1_1Android_1_1AndroidAssetPacks_1_1AssetPackManagerStatusQueryCallback.html" title=" " alt="" coords="285,212,548,267"/>
+<area shape="poly" id="edge4639_Node000000_Node000004" title=" " alt="" coords="229,212,285,220,285,225,228,218"/>
+<area shape="rect" id="Node000005" href="$d4/d00/classUnityEngine_1_1Android_1_1PermissionCallbacks.html" title=" " alt="" coords="301,291,532,331"/>
+<area shape="poly" id="edge4640_Node000000_Node000005" title=" " alt="" coords="152,218,208,247,274,275,317,289,316,294,272,281,206,252,149,223"/>
+<area shape="rect" id="Node000006" href="$dc/d5b/classUnityEngine_1_1AndroidJavaRunnableProxy.html" title=" " alt="" coords="295,355,539,395"/>
+<area shape="poly" id="edge4641_Node000000_Node000006" title=" " alt="" coords="138,222,195,283,233,314,275,341,302,353,300,358,272,346,230,319,191,287,134,226"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Terraria.Modules.TileObjectCoordinatesModule" name="Terraria.Modules.TileObjectCoordinatesModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,716,317,825"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="8,331,39,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="19,397,11,456,9,532,12,573,19,614,31,654,50,691,58,703,54,706,45,693,26,656,14,615,7,574,4,532,6,456,14,397"/>
+<area shape="rect" id="Node000003" href="$df/d4d/structTerraria_1_1DataStructures_1_1Point16.html" title=" " alt="" coords="67,148,273,580"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,580,176,700,171,700,169,580"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="275,320,293,336,300,364,297,384,289,398,284,395,292,382,295,364,288,339,272,324"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="147,5,193,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="173,71,173,132,167,132,167,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="423,331,466,397"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="449,397,449,436,445,484,434,534,414,581,387,619,356,653,322,683,287,709,283,704,318,679,352,649,383,615,409,579,429,532,439,483,444,436,444,397"/>
+</map>

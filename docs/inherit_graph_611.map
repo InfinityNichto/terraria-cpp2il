@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d0/de7/classMono_1_1Security_1_1X509_1_1X509Extension.html" title=" " alt="" coords="5,109,256,134"/>
+<area shape="rect" id="Node000001" href="$d4/db6/classMono_1_1Security_1_1X509_1_1Extensions_1_1AuthorityKeyIdentifierExtension.html" title=" " alt="" coords="304,5,533,45"/>
+<area shape="poly" id="edge3112_Node000000_Node000001" title=" " alt="" coords="176,101,303,55,342,43,343,48,305,60,177,106"/>
+<area shape="rect" id="Node000002" href="$db/d80/classMono_1_1Security_1_1X509_1_1Extensions_1_1BasicConstraintsExtension.html" title=" " alt="" coords="304,69,533,109"/>
+<area shape="poly" id="edge3113_Node000000_Node000002" title=" " alt="" coords="259,104,304,99,304,105,259,110"/>
+<area shape="rect" id="Node000003" href="$d2/daa/classMono_1_1Security_1_1X509_1_1Extensions_1_1KeyUsageExtension.html" title=" " alt="" coords="304,133,533,173"/>
+<area shape="poly" id="edge3114_Node000000_Node000003" title=" " alt="" coords="259,133,304,138,304,143,259,138"/>
+<area shape="rect" id="Node000004" href="$df/daf/classMono_1_1Security_1_1X509_1_1Extensions_1_1SubjectKeyIdentifierExtension.html" title=" " alt="" coords="304,197,533,237"/>
+<area shape="poly" id="edge3115_Node000000_Node000004" title=" " alt="" coords="177,137,305,183,343,195,342,200,303,188,176,142"/>
+</map>

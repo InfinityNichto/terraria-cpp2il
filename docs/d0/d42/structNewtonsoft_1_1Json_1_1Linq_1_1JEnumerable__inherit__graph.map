@@ -1,0 +1,14 @@
+<map id="Newtonsoft.Json.Linq.JEnumerable&lt; T &gt;" name="Newtonsoft.Json.Linq.JEnumerable&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,507,312,835"/>
+<area shape="rect" id="Node000002" href="$d7/d5d/interfaceNewtonsoft_1_1Json_1_1Linq_1_1IJEnumerable.html" title=" " alt="" coords="89,377,260,457"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,471,177,506,172,506,172,471"/>
+<area shape="rect" id="Node000003" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="153,263,413,328"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="287,342,284,398,275,458,259,507,254,506,269,457,279,397,281,342"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,340,212,379,208,375,243,336"/>
+<area shape="rect" id="Node000004" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="153,120,413,200"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="285,214,285,263,280,263,280,214"/>
+<area shape="rect" id="Node000005" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="5,5,227,71"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="82,83,63,119,57,139,55,159,55,419,59,463,72,506,67,507,54,464,49,419,49,159,52,138,58,117,78,81"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="119,84,125,196,132,262,144,327,160,376,155,378,139,329,127,263,119,196,113,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="173,77,230,118,227,122,169,81"/>
+</map>

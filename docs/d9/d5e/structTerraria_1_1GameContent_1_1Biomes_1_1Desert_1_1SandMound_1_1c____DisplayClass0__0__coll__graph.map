@@ -1,0 +1,11 @@
+<map id="Terraria.GameContent.Biomes.Desert.SandMound.c__DisplayClass0_0" name="Terraria.GameContent.Biomes.Desert.SandMound.c__DisplayClass0_0">
+<area shape="rect" id="Node000001" title=" " alt="" coords="126,133,395,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,70,33,90,45,107,76,130,111,147,109,152,73,135,41,111,29,92,22,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="154,5,197,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,71,174,90,179,108,186,120,182,123,174,110,168,91,167,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="328,5,367,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,72,320,111,312,122,308,119,316,108,334,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="503,5,549,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="514,72,501,93,482,111,449,132,412,147,410,142,446,127,479,107,496,90,510,70"/>
+</map>

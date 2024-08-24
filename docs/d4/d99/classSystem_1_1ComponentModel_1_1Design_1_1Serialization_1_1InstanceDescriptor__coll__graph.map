@@ -1,0 +1,19 @@
+<map id="System.ComponentModel.Design.Serialization.InstanceDescriptor" name="System.ComponentModel.Design.Serialization.InstanceDescriptor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,1336,437,1549"/>
+<area shape="rect" id="Node000002" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="10,951,222,1100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,1099,157,1203,177,1258,202,1311,209,1321,204,1324,198,1313,172,1260,152,1204,125,1101"/>
+<area shape="rect" id="Node000003" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="10,407,222,541"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,555,119,951,113,951,113,555"/>
+<area shape="rect" id="Node000004" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="5,62,227,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,141,119,407,113,407,113,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="247,993,393,1058"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="323,1058,323,1319,317,1319,317,1058"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="299,441,341,507"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="323,520,323,993,317,993,317,520"/>
+<area shape="rect" id="Node000007" href="$d5/d20/classSystem_1_1Reflection_1_1MemberInfo.html" title=" " alt="" coords="417,777,676,1273"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="464,1275,442,1313,435,1324,431,1321,438,1311,459,1272"/>
+<area shape="rect" id="Node000008" href="$d5/d20/classSystem_1_1Reflection_1_1MemberInfo.html" title=" " alt="" coords="417,233,676,715"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="549,728,549,777,544,777,544,728"/>
+<area shape="rect" id="Node000009" href="$d7/da4/interfaceSystem_1_1Reflection_1_1ICustomAttributeProvider.html" title=" " alt="" coords="417,5,676,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="549,198,549,233,544,233,544,198"/>
+</map>

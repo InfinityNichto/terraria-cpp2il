@@ -1,0 +1,12 @@
+<map id="InControl.InputRange" name="InControl.InputRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,695,382,1076"/>
+<area shape="rect" id="Node000002" href="$d4/da4/structInControl_1_1InputRange.html" title=" " alt="" coords="122,148,382,529"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,530,254,678,249,678,249,530"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="384,300,401,315,408,339,405,355,397,367,393,364,400,353,403,339,397,318,380,305"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="153,5,196,71"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="154,52,99,90,72,117,51,149,29,203,16,250,9,293,9,335,14,377,23,422,51,529,79,607,116,683,111,685,74,609,46,530,18,423,9,378,4,335,4,293,10,249,24,201,47,147,68,114,96,86,151,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="185,71,201,132,196,133,180,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="260,5,438,71"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="440,65,469,80,497,98,522,120,542,147,569,199,586,246,595,291,595,334,590,378,578,424,542,530,514,593,479,652,438,707,395,756,391,753,434,704,474,649,510,590,537,528,573,422,584,377,590,334,589,291,581,248,564,201,537,149,518,124,494,102,466,84,437,70"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="341,72,321,133,316,132,336,70"/>
+</map>

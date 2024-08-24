@@ -1,0 +1,12 @@
+<map id="Terraria.Modules.AnchorDataModule" name="Terraria.Modules.AnchorDataModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,537,423,632"/>
+<area shape="rect" id="Node000002" href="$d9/d91/structTerraria_1_1DataStructures_1_1AnchorData.html" title=" " alt="" coords="5,148,251,431"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,430,264,512,271,523,267,526,259,515,207,433"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="252,259,270,270,277,289,275,302,267,311,263,308,270,300,272,290,266,274,250,263"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="42,5,131,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,70,99,124,100,131,95,132,93,124,87,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="155,5,186,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="168,71,157,132,152,131,163,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="356,257,399,322"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="373,323,331,522,325,521,368,322"/>
+</map>

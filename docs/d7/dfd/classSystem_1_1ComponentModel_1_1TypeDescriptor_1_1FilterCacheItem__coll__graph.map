@@ -1,0 +1,9 @@
+<map id="System.ComponentModel.TypeDescriptor.FilterCacheItem" name="System.ComponentModel.TypeDescriptor.FilterCacheItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,376,336,520"/>
+<area shape="rect" id="Node000002" href="$d5/d4c/interfaceSystem_1_1ComponentModel_1_1Design_1_1ITypeDescriptorFilterService.html" title=" " alt="" coords="5,120,243,313"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,313,185,360,180,362,161,315"/>
+<area shape="rect" id="Node000003" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="266,149,478,284"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="329,286,276,364,272,361,325,283"/>
+<area shape="rect" id="Node000004" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="261,5,483,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="375,84,375,149,369,149,369,84"/>
+</map>

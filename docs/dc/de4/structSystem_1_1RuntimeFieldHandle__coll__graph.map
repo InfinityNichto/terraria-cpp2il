@@ -1,0 +1,13 @@
+<map id="System.RuntimeFieldHandle" name="System.RuntimeFieldHandle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1235,356,1792"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="63,5,253,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,99,179,1234,174,1235,156,99"/>
+<area shape="rect" id="Node000003" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="200,148,532,1172"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="178,97,202,169,197,171,173,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,1173,247,1219,242,1218,252,1172"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="534,579,552,612,559,660,555,698,544,727,539,726,550,697,553,660,547,613,530,581"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="277,5,457,85"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="370,99,370,148,364,148,365,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="482,13,645,78"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="556,79,538,133,533,132,551,77"/>
+</map>

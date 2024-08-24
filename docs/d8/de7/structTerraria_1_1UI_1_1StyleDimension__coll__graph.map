@@ -1,0 +1,9 @@
+<map id="Terraria.UI.StyleDimension" name="Terraria.UI.StyleDimension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,513,212,801"/>
+<area shape="rect" id="Node000002" href="$d8/d74/structTerraria_1_1UI_1_1StyleDimension.html" title=" " alt="" coords="137,148,344,436"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,437,169,499,164,497,186,435"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="346,259,364,271,371,292,368,306,361,316,356,313,363,303,365,292,359,275,343,264"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="51,5,94,71"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="72,71,67,148,61,292,61,355,67,436,76,496,70,497,62,436,56,355,56,292,62,148,67,71"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="96,70,138,133,134,136,92,73"/>
+</map>

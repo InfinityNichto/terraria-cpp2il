@@ -1,0 +1,22 @@
+<map id="Terraria.GameContent.Animations.Actions.NPCs.Move" name="Terraria.GameContent.Animations.Actions.NPCs.Move">
+<area shape="rect" id="Node000001" title=" " alt="" coords="345,1511,584,1709"/>
+<area shape="rect" id="Node000002" href="$de/d2f/interfaceTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1NPCs_1_1INPCAction.html" title=" " alt="" coords="134,928,318,993"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,1007,239,1093,256,1204,286,1328,307,1389,332,1447,350,1479,372,1509,367,1512,346,1482,327,1449,302,1391,281,1329,251,1205,234,1093,225,1008"/>
+<area shape="rect" id="Node000003" href="$d1/d86/interfaceTerraria_1_1GameContent_1_1Animations_1_1IAnimationSegmentAction.html" title=" " alt="" coords="33,232,242,396"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="107,410,80,500,52,613,28,742,12,882,9,955,9,1028,14,1102,24,1175,39,1246,60,1316,88,1383,124,1447,144,1473,168,1497,224,1536,285,1564,346,1584,344,1589,283,1569,221,1541,164,1501,140,1477,119,1449,84,1385,55,1318,34,1248,18,1176,8,1103,4,1029,3,955,7,882,23,741,47,612,75,499,102,409"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,409,224,927,219,928,148,410"/>
+<area shape="rect" id="Node000004" href="$d1/d86/interfaceTerraria_1_1GameContent_1_1Animations_1_1IAnimationSegmentAction.html" title=" " alt="" coords="18,5,257,169"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="140,183,140,232,135,232,135,183"/>
+<area shape="rect" id="Node000005" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="342,473,586,1448"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="467,1448,467,1494,462,1494,462,1448"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="589,876,599,890,606,909,613,961,609,1001,599,1031,594,1029,604,1000,608,961,601,911,594,893,585,879"/>
+<area shape="rect" id="Node000006" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="383,281,546,347"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="467,360,467,473,462,473,462,360"/>
+<area shape="rect" id="Node000007" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="377,55,552,120"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="467,134,467,281,462,281,462,134"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="650,281,692,347"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="682,346,696,405,707,473,719,657,730,965,732,1126,730,1271,722,1383,715,1423,707,1449,686,1481,660,1508,631,1532,600,1553,597,1549,627,1528,656,1504,682,1477,702,1447,710,1422,717,1383,725,1270,727,1126,725,965,713,658,702,474,691,406,677,348"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="663,348,594,564,589,563,658,346"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="818,928,849,993"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="841,993,850,1076,853,1192,849,1257,840,1322,825,1387,801,1449,785,1477,765,1501,742,1522,716,1540,659,1569,600,1589,598,1584,657,1564,713,1536,738,1518,761,1497,781,1474,796,1447,820,1386,835,1321,844,1256,848,1192,845,1076,836,994"/>
+</map>

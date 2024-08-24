@@ -1,0 +1,15 @@
+<map id="System.Net.CaseInsensitiveAscii" name="System.Net.CaseInsensitiveAscii">
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,499,331,767"/>
+<area shape="rect" id="Node000002" href="$d6/de3/interfaceSystem_1_1Collections_1_1IEqualityComparer.html" title=" " alt="" coords="5,5,219,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,119,140,264,169,435,180,474,187,498,182,499,175,475,164,437,134,265,116,119"/>
+<area shape="rect" id="Node000004" href="$d1/d00/classSystem_1_1Net_1_1CaseInsensitiveAscii.html" title=" " alt="" coords="215,168,428,436"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="165,114,217,174,213,178,161,118"/>
+<area shape="rect" id="Node000003" href="$da/dff/interfaceSystem_1_1Collections_1_1IComparer.html" title=" " alt="" coords="245,15,398,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,106,226,135,205,169,191,209,181,251,174,336,178,421,190,498,185,499,173,421,168,336,176,250,186,207,200,167,222,132,250,103"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="324,110,324,168,319,168,319,110"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="284,437,271,484,266,482,279,436"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="430,272,448,283,455,302,452,314,445,323,441,320,447,312,449,302,443,287,427,277"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="505,23,548,88"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="549,87,568,128,590,210,601,294,601,334,597,372,588,407,574,437,554,467,529,494,472,540,409,575,347,600,345,596,407,570,469,535,526,490,550,464,570,435,583,405,591,371,595,334,595,294,585,211,563,130,544,89"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="507,84,441,163,437,159,503,81"/>
+</map>

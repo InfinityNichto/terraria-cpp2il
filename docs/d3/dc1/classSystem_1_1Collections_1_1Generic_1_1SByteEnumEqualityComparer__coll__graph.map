@@ -1,0 +1,18 @@
+<map id="System.Collections.Generic.SByteEnumEqualityComparer&lt; T &gt;" name="System.Collections.Generic.SByteEnumEqualityComparer&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,1113,651,1292"/>
+<area shape="rect" id="Node000002" href="$de/d4e/classSystem_1_1Collections_1_1Generic_1_1EnumEqualityComparer.html" title=" " alt="" coords="169,717,514,1064"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,1076,419,1112,414,1114,402,1078"/>
+<area shape="rect" id="Node000003" href="$df/df3/classSystem_1_1Collections_1_1Generic_1_1EqualityComparer.html" title=" " alt="" coords="170,316,433,668"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,681,327,717,321,717,318,682"/>
+<area shape="rect" id="Node000004" href="$dc/d67/interfaceSystem_1_1Collections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="5,168,187,253"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="137,263,175,314,170,317,133,266"/>
+<area shape="rect" id="Node000005" href="$dc/d67/interfaceSystem_1_1Collections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="211,168,392,253"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="304,267,304,316,299,316,299,267"/>
+<area shape="rect" id="Node000006" href="$dc/d67/interfaceSystem_1_1Collections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="203,5,400,105"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="304,119,304,168,299,168,299,119"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="417,178,626,243"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="499,245,445,313,441,310,494,242"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="457,452,647,532"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="561,545,567,644,569,774,566,846,558,920,547,994,529,1065,509,1114,504,1112,524,1063,541,992,553,919,560,846,564,774,562,644,555,546"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="528,545,435,718,431,716,523,543"/>
+</map>

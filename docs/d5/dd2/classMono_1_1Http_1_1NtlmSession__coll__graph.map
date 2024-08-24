@@ -1,0 +1,11 @@
+<map id="Mono.Http.NtlmSession" name="Mono.Http.NtlmSession">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,455,285,569"/>
+<area shape="rect" id="Node000002" href="$da/d2e/classMono_1_1Security_1_1Protocol_1_1Ntlm_1_1MessageBase.html" title=" " alt="" coords="43,133,247,392"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,392,148,438,143,438,143,392"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="39,5,81,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,70,88,108,91,117,86,119,83,110,69,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="130,5,161,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="148,71,148,117,143,117,143,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="185,5,266,71"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="217,72,199,119,194,117,212,70"/>
+</map>

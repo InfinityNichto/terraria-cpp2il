@@ -1,0 +1,12 @@
+<map id="System.Security.Cryptography.DSA" name="System.Security.Cryptography.DSA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,1236,395,2229"/>
+<area shape="rect" id="Node000002" href="$d8/d5f/classSystem_1_1Security_1_1Cryptography_1_1AsymmetricAlgorithm.html" title=" " alt="" coords="79,415,401,1187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,1200,243,1236,237,1236,237,1200"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,225,192,290"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,303,142,414,137,415,108,304"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="295,5,326,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="298,65,274,110,255,163,234,279,224,398,219,398,229,279,249,162,269,107,293,62"/>
+<area shape="rect" id="Node000005" href="$dd/d3b/classSystem_1_1Security_1_1Cryptography_1_1KeySizes.html" title=" " alt="" coords="367,163,596,352"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="328,57,400,148,395,151,324,61"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="442,353,410,426,405,424,437,351"/>
+</map>

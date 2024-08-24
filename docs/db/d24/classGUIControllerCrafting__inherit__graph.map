@@ -1,0 +1,9 @@
+<map id="GUIControllerCrafting" name="GUIControllerCrafting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,717,280,1047"/>
+<area shape="rect" id="Node000004" href="$d2/d7c/classGUIControllerCrafting4Page.html" title=" " alt="" coords="15,1095,280,1632"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,1060,150,1095,145,1095,145,1060"/>
+<area shape="rect" id="Node000002" href="$d4/d82/classGUIPageContentController.html" title=" " alt="" coords="5,208,289,669"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,683,150,717,145,717,145,683"/>
+<area shape="rect" id="Node000003" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="43,5,252,160"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,174,150,208,145,208,145,174"/>
+</map>

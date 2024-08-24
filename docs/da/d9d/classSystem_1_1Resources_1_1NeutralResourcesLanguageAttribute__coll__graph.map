@@ -1,0 +1,11 @@
+<map id="System.Resources.NeutralResourcesLanguageAttribute" name="System.Resources.NeutralResourcesLanguageAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,276,392,405"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,141,173,206"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,213,209,274,205,278,135,217"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="198,141,365,206"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,206,284,259,279,259,279,206"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="256,5,307,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="284,84,284,140,279,140,279,84"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="389,133,595,213"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="450,216,403,254,385,268,382,264,400,250,446,211"/>
+</map>

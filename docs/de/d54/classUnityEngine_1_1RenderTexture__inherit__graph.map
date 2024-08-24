@@ -1,0 +1,9 @@
+<map id="UnityEngine.RenderTexture" name="UnityEngine.RenderTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1951,337,3328"/>
+<area shape="rect" id="Node000004" href="$d0/d9d/classUnityEngine_1_1CustomRenderTexture.html" title=" " alt="" coords="75,3376,268,3456"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,3342,174,3376,169,3376,169,3342"/>
+<area shape="rect" id="Node000002" href="$d9/d09/classUnityEngine_1_1Texture.html" title=" " alt="" coords="51,1455,291,1903"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,1916,174,1951,169,1951,169,1916"/>
+<area shape="rect" id="Node000003" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="29,5,314,1407"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,1421,174,1454,169,1454,169,1421"/>
+</map>

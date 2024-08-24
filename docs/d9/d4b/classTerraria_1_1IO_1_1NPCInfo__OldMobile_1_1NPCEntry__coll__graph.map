@@ -1,0 +1,16 @@
+<map id="Terraria.IO.NPCInfo_OldMobile.NPCEntry" name="Terraria.IO.NPCInfo_OldMobile.NPCEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,1343,233,1423"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,731,56,796"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,797,19,891,12,954,8,1025,10,1099,20,1175,38,1248,68,1317,76,1329,72,1332,64,1320,33,1250,14,1176,5,1100,3,1025,7,954,14,890,31,796"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,731,178,796"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,796,159,1326,154,1326,154,796"/>
+<area shape="rect" id="Node000004" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="203,276,447,1251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,1252,243,1320,234,1332,230,1329,239,1317,272,1250"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="449,678,459,692,467,711,473,763,470,805,459,835,454,833,464,803,468,763,462,713,455,695,445,681"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="159,133,322,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,212,259,275,253,276,245,213"/>
+<area shape="rect" id="Node000006" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="153,5,328,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="243,85,243,133,238,133,238,85"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="346,133,389,199"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="368,199,364,260,358,259,363,199"/>
+</map>

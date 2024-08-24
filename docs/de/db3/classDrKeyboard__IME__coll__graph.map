@@ -1,0 +1,11 @@
+<map id="DrKeyboard_IME" name="DrKeyboard_IME">
+<area shape="rect" id="Node000001" title=" " alt="" coords="271,341,477,551"/>
+<area shape="rect" id="Node000002" href="$db/de4/classDrKeyboard__Base.html" title=" " alt="" coords="5,5,279,264"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,274,298,340,294,343,244,277"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="303,102,333,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="317,168,314,237,316,277,322,317,324,325,319,326,317,318,311,278,309,237,312,168"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="405,102,455,167"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,168,403,318,402,326,397,325,398,317,423,167"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="505,102,547,167"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="524,168,508,239,495,279,478,318,472,329,467,326,473,316,490,277,503,237,519,167"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="System.Resources.FastResourceComparer" name="System.Resources.FastResourceComparer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="299,148,529,624"/>
+<area shape="rect" id="Node000002" href="$d0/d64/classglobal_1_1SystemCollections_1_1IComparer.html" title=" " alt="" coords="5,13,188,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,101,301,263,297,267,142,105"/>
+<area shape="rect" id="Node000003" href="$d7/dbc/classglobal_1_1SystemCollections_1_1IEqualityComparer.html" title=" " alt="" coords="212,13,395,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,105,337,147,332,149,318,107"/>
+<area shape="rect" id="Node000004" href="$d4/d2d/classglobal_1_1SystemCollections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="419,13,633,93"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="511,107,497,149,492,147,506,105"/>
+<area shape="rect" id="Node000005" href="$d2/d3c/classglobal_1_1SystemCollections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="657,5,859,100"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="702,112,531,276,527,272,698,108"/>
+</map>

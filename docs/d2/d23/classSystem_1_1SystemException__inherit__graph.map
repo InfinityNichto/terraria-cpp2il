@@ -1,0 +1,21 @@
+<map id="System.SystemException" name="System.SystemException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="961,119,1262,347"/>
+<area shape="rect" id="Node000003" href="$d8/da0/classInControl_1_1OptionalTypeHasNoValueException.html" title=" " alt="" coords="5,961,263,1055"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="947,247,765,265,566,295,473,315,390,338,323,365,297,380,277,397,249,427,225,460,186,533,159,612,142,693,132,772,129,845,132,960,127,960,123,845,127,772,136,692,154,611,181,531,220,457,245,424,274,393,294,376,321,361,389,333,472,309,565,290,764,260,947,242"/>
+<area shape="rect" id="Node000004" href="$da/d71/classSystem_1_1ComponentModel_1_1LicenseException.html" title=" " alt="" coords="287,817,522,1199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="947,263,828,287,706,318,602,355,563,375,536,397,500,441,471,490,448,543,430,598,416,655,407,711,399,817,393,817,402,710,411,654,424,597,443,541,466,488,496,438,532,393,560,371,600,350,705,313,826,282,946,258"/>
+<area shape="rect" id="Node000005" href="$d9/d6b/classSystem_1_1ComponentModel_1_1WarningException.html" title=" " alt="" coords="546,797,815,1219"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="950,299,884,342,855,367,829,396,799,441,774,490,752,540,734,592,708,697,692,798,687,797,702,696,729,591,747,538,769,487,795,439,825,393,851,364,881,337,947,295"/>
+<area shape="rect" id="Node000006" href="$d2/d5f/classSystem_1_1Configuration_1_1ConfigurationException.html" title=" " alt="" coords="839,748,1085,1268"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1090,360,1015,748,1009,747,1084,359"/>
+<area shape="rect" id="Node000007" href="$da/d38/classSystem_1_1Net_1_1InternalException.html" title=" " alt="" coords="1109,951,1415,1065"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1139,360,1254,950,1248,951,1133,361"/>
+<area shape="rect" id="Node000008" href="$d0/d57/classSystem_1_1Security_1_1Authentication_1_1AuthenticationException.html" title=" " alt="" coords="1439,919,1744,1097"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1276,283,1318,304,1359,329,1396,359,1429,393,1472,455,1507,522,1534,593,1555,666,1571,736,1582,804,1592,918,1587,919,1576,804,1566,737,1550,667,1529,595,1502,525,1468,458,1425,396,1393,363,1356,334,1315,309,1273,288"/>
+<area shape="rect" id="Node000009" href="$d2/d00/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaException.html" title=" " alt="" coords="1769,661,2078,1355"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1276,253,1413,276,1555,307,1620,326,1678,346,1725,368,1758,393,1807,451,1846,517,1876,587,1897,660,1892,662,1871,589,1841,519,1803,454,1755,397,1722,373,1676,351,1618,331,1553,313,1412,282,1275,258"/>
+<area shape="rect" id="Node000010" href="$df/d0b/classSystem_1_1Xml_1_1XmlException.html" title=" " alt="" coords="2102,395,2371,1621"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1276,237,1491,251,1612,263,1733,279,1847,299,1950,324,2033,355,2066,373,2092,393,2104,404,2100,408,2088,397,2063,378,2031,360,1948,329,1846,304,1732,284,1611,268,1491,256,1275,242"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1024,5,1199,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1114,84,1114,118,1109,118,1109,84"/>
+</map>

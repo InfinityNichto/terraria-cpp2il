@@ -1,0 +1,9 @@
+<map id="System.Empty" name="System.Empty">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,381,307,565"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="55,5,246,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,99,158,381,152,381,149,99"/>
+<area shape="rect" id="Node000003" href="$da/def/classSystem_1_1Empty.html" title=" " alt="" coords="172,135,473,319"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="199,94,237,133,233,136,196,97"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,320,230,369,225,366,258,317"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="475,207,493,214,500,226,497,235,491,240,487,236,493,232,495,227,489,218,473,212"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="ReLogic.Utilities.SlotVector&lt; T &gt;" name="ReLogic.Utilities.SlotVector&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="352,392,675,865"/>
+<area shape="rect" id="Node000005" href="$d2/da1/classReLogic_1_1Utilities_1_1SlotVector.html" title=" " alt="" coords="5,987,328,1475"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="373,879,310,988,305,985,368,876"/>
+<area shape="rect" id="Node000006" href="$d2/da1/classReLogic_1_1Utilities_1_1SlotVector.html" title=" " alt="" coords="352,972,675,1489"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="516,879,516,972,511,972,511,879"/>
+<area shape="rect" id="Node000007" href="$d2/da1/classReLogic_1_1Utilities_1_1SlotVector.html" title=" " alt="" coords="699,979,1021,1482"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="686,798,719,842,749,888,792,978,787,980,744,891,715,845,681,801"/>
+<area shape="rect" id="Node000002" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="501,263,761,343"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="614,357,601,393,596,391,609,355"/>
+<area shape="rect" id="Node000003" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="501,120,761,200"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="633,214,633,263,628,263,628,214"/>
+<area shape="rect" id="Node000004" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="369,5,591,71"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="483,84,492,343,495,392,490,392,487,343,478,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="532,77,583,118,580,122,529,81"/>
+</map>

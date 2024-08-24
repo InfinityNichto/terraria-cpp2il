@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d4/d2d/classglobal_1_1SystemCollections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="9,56,199,96"/>
+<area shape="rect" id="Node000001" href="$da/db9/classMono_1_1Globalization_1_1Unicode_1_1ContractionComparer.html" title=" " alt="" coords="289,5,499,45"/>
+<area shape="poly" id="edge2379_Node000000_Node000001" title=" " alt="" coords="212,54,288,41,289,46,213,60"/>
+<area shape="rect" id="Node000002" href="$d3/da9/classSystem_1_1Resources_1_1FastResourceComparer.html" title=" " alt="" coords="278,184,510,224"/>
+<area shape="poly" id="edge2380_Node000000_Node000002" title=" " alt="" coords="195,100,204,106,220,122,229,139,237,154,252,168,279,182,277,187,249,173,233,157,224,141,216,125,201,110,192,105"/>
+<area shape="rect" id="Node000005" href="$d8/dde/classSystem_1_1StringComparer.html" title=" " alt="" coords="305,134,483,159"/>
+<area shape="poly" id="edge2381_Node000000_Node000005" title=" " alt="" coords="180,98,251,119,312,131,311,137,250,124,179,103"/>
+<area shape="rect" id="Node000007" href="$d0/d7f/structSystem_1_1Threading_1_1Timer_1_1TimerComparer.html" title=" " alt="" coords="283,69,505,109"/>
+<area shape="poly" id="edge2382_Node000000_Node000007" title=" " alt="" coords="213,78,283,82,282,87,213,84"/>
+<area shape="rect" id="Node000003" href="$d2/d3c/classglobal_1_1SystemCollections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="5,248,203,288"/>
+<area shape="poly" id="edge2383_Node000003_Node000002" title=" " alt="" coords="208,242,302,221,303,227,209,248"/>
+<area shape="poly" id="edge2385_Node000003_Node000005" title=" " alt="" coords="193,239,201,234,216,218,224,202,232,185,249,170,276,157,304,149,306,154,278,162,252,174,237,189,229,204,220,221,204,238,195,244"/>
+<area shape="rect" id="Node000004" href="$d1/d0a/classSystem_1_1Runtime_1_1InteropServices_1_1Marshal_1_1MarshalerInstanceKeyComparer.html" title=" " alt="" coords="251,248,537,288"/>
+<area shape="poly" id="edge2384_Node000003_Node000004" title=" " alt="" coords="216,265,250,265,250,271,216,271"/>
+<area shape="rect" id="Node000006" href="$d0/d64/classglobal_1_1SystemCollections_1_1IComparer.html" title=" " alt="" coords="9,120,199,160"/>
+<area shape="poly" id="edge2386_Node000006_Node000002" title=" " alt="" coords="209,160,303,181,302,187,208,166"/>
+<area shape="poly" id="edge2387_Node000006_Node000005" title=" " alt="" coords="213,140,305,142,305,147,213,145"/>
+<area shape="poly" id="edge2388_Node000006_Node000007" title=" " alt="" coords="212,118,282,106,283,111,213,124"/>
+<area shape="rect" id="Node000008" href="$d7/dbc/classglobal_1_1SystemCollections_1_1IEqualityComparer.html" title=" " alt="" coords="9,184,199,224"/>
+<area shape="poly" id="edge2389_Node000008_Node000002" title=" " alt="" coords="213,201,278,201,278,207,213,207"/>
+<area shape="poly" id="edge2390_Node000008_Node000005" title=" " alt="" coords="206,178,250,169,318,157,319,162,251,175,207,184"/>
+</map>

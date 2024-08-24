@@ -1,0 +1,11 @@
+<map id="System.Threading.CancellationTokenSource" name="System.Threading.CancellationTokenSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="271,119,588,1343"/>
+<area shape="rect" id="Node000003" href="$df/d84/classSystem_1_1Threading_1_1CancellationTokenSource_1_1Linked1CancellationTokenSource.html" title=" " alt="" coords="5,1415,272,1589"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,1166,174,1416,169,1414,263,1164"/>
+<area shape="rect" id="Node000004" href="$da/d5e/classSystem_1_1Threading_1_1CancellationTokenSource_1_1Linked2CancellationTokenSource.html" title=" " alt="" coords="296,1391,563,1613"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="432,1356,432,1390,427,1390,427,1356"/>
+<area shape="rect" id="Node000005" href="$d5/d3d/classSystem_1_1Threading_1_1CancellationTokenSource_1_1LinkedNCancellationTokenSource.html" title=" " alt="" coords="587,1433,856,1571"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="596,1162,698,1431,693,1433,591,1164"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="336,5,523,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="432,84,432,118,427,118,427,84"/>
+</map>

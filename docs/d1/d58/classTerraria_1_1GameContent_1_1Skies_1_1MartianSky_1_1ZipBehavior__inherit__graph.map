@@ -1,0 +1,5 @@
+<map id="Terraria.GameContent.Skies.MartianSky.ZipBehavior" name="Terraria.GameContent.Skies.MartianSky.ZipBehavior">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,188,213,377"/>
+<area shape="rect" id="Node000002" href="$d8/d22/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky_1_1IUfoController.html" title=" " alt="" coords="5,5,215,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,154,113,188,107,188,107,154"/>
+</map>

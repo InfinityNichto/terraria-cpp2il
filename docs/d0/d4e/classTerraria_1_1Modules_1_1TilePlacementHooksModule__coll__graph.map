@@ -1,0 +1,12 @@
+<map id="Terraria.Modules.TilePlacementHooksModule" name="Terraria.Modules.TilePlacementHooksModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,596,285,705"/>
+<area shape="rect" id="Node000002" href="$d6/dc2/structTerraria_1_1DataStructures_1_1PlacementHook.html" title=" " alt="" coords="55,177,297,489"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,490,179,579,173,579,173,490"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="298,299,316,312,323,333,320,348,313,358,309,355,316,345,318,333,312,315,295,303"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,136,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,85,116,161,111,162,83,87"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="161,13,191,78"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="179,78,179,161,173,161,173,78"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="332,13,375,78"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="351,79,342,116,326,155,308,185,304,183,322,152,337,114,346,78"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="Terraria.Graphics.VertexStrip.CustomVertexInfo" name="Terraria.Graphics.VertexStrip.CustomVertexInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="381,1572,581,1681"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="359,420,603,1395"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,1395,484,1555,479,1555,479,1395"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="606,805,616,822,623,845,630,907,626,959,614,996,609,994,621,958,625,907,618,846,611,824,601,807"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="400,133,563,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="484,213,484,420,479,420,479,213"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="394,5,569,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="484,85,484,133,479,133,479,85"/>
+<area shape="rect" id="Node000007" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="17,133,177,199"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="382,74,190,136,178,140,177,135,189,131,380,69"/>
+<area shape="rect" id="Node000010" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="743,133,905,199"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="581,73,744,132,742,137,579,78"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="647,133,689,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="663,200,610,408,605,407,657,198"/>
+<area shape="rect" id="Node000009" href="$dc/dba/structMicrosoft_1_1Xna_1_1Framework_1_1Vector3.html" title=" " alt="" coords="733,305,977,1509"/>
+<area shape="poly" id="edge15_Node000009_Node000005" title=" " alt="" coords="684,198,724,304,731,327,726,329,719,306,679,200"/>
+<area shape="rect" id="Node000006" href="$d0/dc1/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Color.html" title=" " alt="" coords="5,406,189,1409"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="192,1205,224,1283,261,1361,302,1437,349,1508,371,1535,397,1559,393,1563,367,1538,345,1511,298,1439,256,1363,219,1285,187,1207"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="192,798,202,814,209,838,216,907,212,964,201,1003,196,1001,207,963,211,907,204,839,197,816,187,801"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="100,213,100,406,95,406,95,213"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="201,133,244,199"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="220,200,188,390,182,389,215,199"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="735,1496,723,1511,697,1539,666,1562,632,1581,598,1596,596,1591,630,1576,663,1557,693,1535,719,1508,730,1493"/>
+<area shape="poly" id="edge14_Node000009_Node000009" title=" " alt="" coords="979,805,989,822,997,845,1003,907,999,959,988,996,983,994,994,958,998,907,992,846,984,824,975,807"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="829,212,832,305,827,305,823,213"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="System.Collections.Concurrent.ConcurrentDictionary&lt; TKey, TValue &gt;" name="System.Collections.Concurrent.ConcurrentDictionary&lt; TKey, TValue &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1056,725,1359,2608"/>
+<area shape="rect" id="Node000002" href="$dc/d26/classglobal_1_1SystemCollections_1_1Generic_1_1IDictionary.html" title=" " alt="" coords="5,459,188,553"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,562,201,632,430,880,663,1123,1058,1517,1054,1520,660,1127,426,884,197,635,139,566"/>
+<area shape="rect" id="Node000003" href="$d1/d03/classglobal_1_1SystemCollections_1_1Generic_1_1ICollection.html" title=" " alt="" coords="212,451,472,561"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="392,570,1058,1461,1054,1464,388,574"/>
+<area shape="rect" id="Node000004" href="$dc/d8b/classglobal_1_1SystemCollections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="496,451,756,561"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="661,572,1058,1362,1053,1365,657,574"/>
+<area shape="rect" id="Node000005" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="875,5,1097,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="999,84,1001,94,1022,236,1039,378,1086,725,1080,725,1034,379,1017,237,995,95,993,85"/>
+<area shape="rect" id="Node000006" href="$d7/d23/interfaceSystem_1_1Collections_1_1IDictionary.html" title=" " alt="" coords="830,379,1025,633"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="984,85,962,272,948,379,943,378,957,272,978,84"/>
+<area shape="rect" id="Node000007" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="781,135,948,270"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="956,83,916,137,912,134,952,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="964,646,1059,1039,1053,1040,958,647"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="841,284,829,331,821,379,812,450,808,506,810,562,821,633,840,727,865,823,923,1011,990,1191,1058,1353,1054,1355,985,1193,918,1013,859,824,835,729,815,634,805,563,802,506,806,450,815,378,824,330,836,283"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="884,283,904,378,898,379,879,284"/>
+<area shape="rect" id="Node000008" href="$d5/d33/classglobal_1_1SystemCollections_1_1Generic_1_1IReadOnlyDictionary.html" title=" " alt="" coords="1100,459,1315,553"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="1210,567,1210,725,1205,725,1205,567"/>
+<area shape="rect" id="Node000009" href="$d1/d20/classglobal_1_1SystemCollections_1_1Generic_1_1IReadOnlyCollection.html" title=" " alt="" coords="1339,451,1599,561"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="1456,575,1361,995,1356,994,1451,574"/>
+<area shape="rect" id="Node000010" href="$dd/d35/classSystem_1_1Collections_1_1Concurrent_1_1ConcurrentDictionary_1_1Tables.html" title=" " alt="" coords="1623,444,1875,568"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="1723,569,1368,1328,1363,1326,1718,567"/>
+<area shape="rect" id="Node000011" href="$da/d99/classSystem_1_1Collections_1_1Concurrent_1_1ConcurrentDictionary_1_1Node.html" title=" " alt="" coords="1343,133,1562,272"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="1522,270,1679,430,1675,434,1518,274"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="1563,184,1581,191,1589,203,1580,215,1576,212,1583,203,1578,195,1562,189"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1346,5,1453,71"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1412,70,1428,117,1423,119,1407,72"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1477,5,1535,71"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="1498,72,1483,119,1478,117,1493,70"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1751,5,1781,71"/>
+<area shape="poly" id="edge22_Node000001_Node000014" title=" " alt="" coords="1783,45,1833,77,1859,102,1879,132,1895,178,1906,238,1913,307,1915,381,1909,525,1901,586,1890,634,1845,760,1790,883,1726,1003,1656,1117,1582,1225,1509,1324,1372,1492,1368,1489,1505,1321,1578,1222,1651,1114,1721,1000,1785,881,1841,758,1885,633,1895,585,1903,524,1910,381,1907,308,1901,239,1890,180,1874,135,1855,106,1829,82,1780,49"/>
+<area shape="poly" id="edge19_Node000010_Node000014" title=" " alt="" coords="1767,71,1754,427,1749,427,1762,71"/>
+<area shape="poly" id="edge17_Node000011_Node000014" title=" " alt="" coords="1752,50,1578,140,1575,135,1749,45"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="1663,170,1717,235"/>
+<area shape="poly" id="edge18_Node000010_Node000015" title=" " alt="" coords="1689,236,1687,291,1693,354,1702,392,1715,428,1710,430,1697,393,1687,355,1682,291,1684,235"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1951,473,2037,539"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="1989,540,1966,615,1950,660,1930,703,1867,813,1799,924,1727,1031,1652,1136,1504,1327,1372,1486,1368,1483,1500,1324,1648,1132,1722,1028,1795,921,1863,811,1925,700,1945,658,1961,614,1984,538"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="2094,473,2137,539"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="2117,539,2109,616,2098,660,2082,702,2010,832,1926,956,1835,1075,1738,1187,1640,1290,1544,1384,1373,1537,1369,1533,1541,1380,1636,1287,1734,1183,1831,1072,1922,953,2005,829,2077,700,2093,658,2103,615,2112,539"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="2206,473,2382,539"/>
+<area shape="poly" id="edge23_Node000001_Node000018" title=" " alt="" coords="2295,539,2282,616,2269,661,2250,703,2206,773,2157,843,2051,976,1936,1100,1815,1216,1694,1321,1577,1415,1469,1495,1374,1562,1370,1558,1466,1491,1574,1410,1691,1317,1811,1212,1932,1097,2047,972,2153,839,2201,770,2245,700,2264,659,2277,615,2289,539"/>
+</map>

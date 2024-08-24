@@ -1,0 +1,11 @@
+<map id="System.Net.IWebRequestCreate" name="System.Net.IWebRequestCreate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="347,5,569,71"/>
+<area shape="rect" id="Node000002" href="$de/d3a/classSystem_1_1Net_1_1FileWebRequestCreator.html" title=" " alt="" coords="5,119,212,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,78,224,121,213,125,211,120,222,116,346,73"/>
+<area shape="rect" id="Node000003" href="$d0/d86/classSystem_1_1Net_1_1FtpWebRequestCreator.html" title=" " alt="" coords="236,119,443,219"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="422,83,386,120,383,117,418,79"/>
+<area shape="rect" id="Node000004" href="$d1/df1/classSystem_1_1Net_1_1HttpRequestCreator.html" title=" " alt="" coords="467,126,689,211"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="499,79,541,124,537,128,495,83"/>
+<area shape="rect" id="Node000005" href="$df/d08/classSystem_1_1Net_1_1WebRequest_1_1DesignerWebRequestCreate.html" title=" " alt="" coords="713,119,950,219"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="572,72,703,116,714,120,712,125,701,121,570,78"/>
+</map>

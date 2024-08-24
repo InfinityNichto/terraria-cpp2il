@@ -1,0 +1,13 @@
+<map id="Terraria.Entity" name="Terraria.Entity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="612,5,832,853"/>
+<area shape="rect" id="Node000002" href="$dd/dde/classTerraria_1_1GameContent_1_1Golf_1_1FancyGolfPredictionLine_1_1PredictionEntity.html" title=" " alt="" coords="5,2443,244,2538"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="602,516,512,589,416,679,371,730,328,785,290,842,258,902,214,1009,177,1121,147,1235,124,1350,106,1467,94,1583,86,1697,82,1808,83,2016,94,2197,107,2343,120,2443,115,2443,102,2343,88,2197,78,2016,77,1807,81,1696,89,1582,101,1466,119,1350,142,1233,172,1119,209,1008,253,900,285,840,323,782,366,727,413,675,509,584,599,512"/>
+<area shape="rect" id="Node000003" href="$db/d79/classTerraria_1_1Item.html" title=" " alt="" coords="268,1335,541,3646"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="610,714,580,808,555,902,513,1116,480,1336,475,1335,508,1115,550,901,575,806,605,712"/>
+<area shape="rect" id="Node000004" href="$df/d0d/classTerraria_1_1NPC.html" title=" " alt="" coords="565,1051,879,3931"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="725,867,725,1050,719,1050,719,867"/>
+<area shape="rect" id="Node000005" href="$d4/d03/classTerraria_1_1Player.html" title=" " alt="" coords="903,901,1269,4080"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="839,716,869,808,894,901,906,952,901,953,889,902,864,810,834,718"/>
+<area shape="rect" id="Node000006" href="$da/dd3/classTerraria_1_1Projectile.html" title=" " alt="" coords="1293,1330,1618,3651"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="845,493,955,563,1016,607,1076,656,1136,710,1191,769,1241,832,1283,900,1332,1002,1373,1108,1407,1218,1435,1329,1430,1330,1402,1219,1368,1110,1327,1004,1278,903,1237,835,1187,772,1132,714,1073,660,1012,611,952,568,842,498"/>
+</map>

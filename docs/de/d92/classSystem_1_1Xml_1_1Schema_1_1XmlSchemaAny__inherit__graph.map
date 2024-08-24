@@ -1,0 +1,9 @@
+<map id="System.Xml.Schema.XmlSchemaAny" name="System.Xml.Schema.XmlSchemaAny">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,643,261,852"/>
+<area shape="rect" id="Node000002" href="$d4/dc9/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaParticle.html" title=" " alt="" coords="29,380,237,595"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,608,136,643,131,643,131,608"/>
+<area shape="rect" id="Node000003" href="$d4/da0/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaAnnotated.html" title=" " alt="" coords="41,267,225,332"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,346,136,380,131,380,131,346"/>
+<area shape="rect" id="Node000004" href="$d4/d35/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaObject.html" title=" " alt="" coords="24,5,243,219"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="136,233,136,266,131,266,131,233"/>
+</map>

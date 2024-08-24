@@ -1,0 +1,19 @@
+<map id="InControl.TouchControl" name="InControl.TouchControl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="373,3357,659,4308"/>
+<area shape="rect" id="Node000006" href="$d7/da3/classInControl_1_1TouchButtonControl.html" title=" " alt="" coords="5,4573,243,5305"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="369,4102,309,4227,257,4357,223,4464,194,4574,189,4573,218,4462,252,4355,305,4225,365,4099"/>
+<area shape="rect" id="Node000007" href="$d2/d27/classInControl_1_1TouchStickControl.html" title=" " alt="" coords="267,4356,504,5523"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="461,4322,457,4356,452,4355,456,4321"/>
+<area shape="rect" id="Node000008" href="$d4/dbf/classInControl_1_1TouchSwipeControl.html" title=" " alt="" coords="528,4445,765,5434"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="576,4321,591,4444,586,4445,571,4322"/>
+<area shape="rect" id="Node000009" href="$dc/dcc/classInControl_1_1TouchTrackControl.html" title=" " alt="" coords="789,4571,1027,5308"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="667,4099,727,4225,780,4355,814,4461,842,4570,837,4571,809,4463,775,4357,723,4227,663,4102"/>
+<area shape="rect" id="Node000002" href="$d7/d59/classUnityEngine_1_1MonoBehaviour.html" title=" " alt="" coords="383,2181,649,3309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,3323,519,3357,513,3357,513,3323"/>
+<area shape="rect" id="Node000003" href="$d5/dca/classUnityEngine_1_1Behaviour.html" title=" " alt="" coords="421,2048,611,2133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="519,2147,519,2181,513,2181,513,2147"/>
+<area shape="rect" id="Node000004" href="$d7/ddf/classUnityEngine_1_1Component.html" title=" " alt="" coords="387,1455,645,2000"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="519,2014,519,2048,513,2048,513,2014"/>
+<area shape="rect" id="Node000005" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="373,5,659,1407"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="519,1420,519,1454,513,1454,513,1420"/>
+</map>

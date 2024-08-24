@@ -1,0 +1,19 @@
+<map id="System.Reflection.ManifestResourceInfo" name="System.Reflection.ManifestResourceInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="546,3671,814,3864"/>
+<area shape="rect" id="Node000002" href="$d5/d6c/classSystem_1_1Reflection_1_1Assembly.html" title=" " alt="" coords="183,1937,585,3608"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="543,3607,562,3645,568,3656,564,3658,558,3648,538,3609"/>
+<area shape="rect" id="Node000003" href="$d5/d6c/classSystem_1_1Reflection_1_1Assembly.html" title=" " alt="" coords="183,233,585,1875"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,1889,387,1937,381,1937,381,1889"/>
+<area shape="rect" id="Node000004" href="$d7/da4/interfaceSystem_1_1Reflection_1_1ICustomAttributeProvider.html" title=" " alt="" coords="5,5,264,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,197,186,282,181,283,159,198"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="289,55,479,135"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="387,148,387,233,381,233,381,148"/>
+<area shape="rect" id="Node000006" href="$d3/d6a/classglobal_1_1SystemRuntime_1_1InteropServices_1_1__Assembly.html" title=" " alt="" coords="504,55,707,135"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="596,148,576,234,571,232,591,147"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="609,2740,751,2805"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="683,2806,683,3654,677,3654,677,2806"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="655,1021,705,1087"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="683,1101,683,2740,677,2740,677,1101"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="775,2733,966,2813"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="879,2813,894,2955,899,3055,899,3167,892,3287,875,3410,846,3532,826,3591,802,3648,797,3658,792,3656,798,3646,821,3589,841,3531,870,3409,886,3286,894,3167,894,3055,889,2956,874,2813"/>
+</map>

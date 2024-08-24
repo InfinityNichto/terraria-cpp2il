@@ -1,0 +1,12 @@
+<map id="Terraria.GameInput.SmartSelectGamepadPointer" name="Terraria.GameInput.SmartSelectGamepadPointer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,1343,301,1596"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="65,276,309,1251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,1251,190,1326,185,1326,185,1251"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="312,678,322,692,330,711,336,763,332,805,322,835,317,833,327,803,331,763,324,713,317,695,308,681"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="11,133,174,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,212,113,275,107,276,97,213"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,85,95,133,90,133,90,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,133,241,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="220,199,217,260,212,259,215,199"/>
+</map>

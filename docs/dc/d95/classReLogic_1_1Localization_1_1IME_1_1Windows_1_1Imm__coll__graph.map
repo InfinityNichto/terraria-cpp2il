@@ -1,0 +1,9 @@
+<map id="ReLogic.Localization.IME.Windows.Imm" name="ReLogic.Localization.IME.Windows.Imm">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,280,438,560"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="19,71,18,110,20,158,29,208,48,255,70,285,97,313,93,317,66,289,44,257,24,210,14,159,12,110,14,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="253,5,292,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,71,275,264,270,264,270,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="459,5,513,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="491,71,491,110,488,158,478,209,459,257,450,273,445,270,454,255,473,207,483,157,486,110,486,71"/>
+</map>

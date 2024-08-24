@@ -1,0 +1,11 @@
+<map id="System.Net.Sockets.SocketException" name="System.Net.Sockets.SocketException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,869,415,1197"/>
+<area shape="rect" id="Node000002" href="$da/d26/classSystem_1_1ComponentModel_1_1Win32Exception.html" title=" " alt="" coords="161,464,431,821"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,835,299,869,293,869,293,835"/>
+<area shape="rect" id="Node000003" href="$d7/d82/classSystem_1_1Runtime_1_1InteropServices_1_1ExternalException.html" title=" " alt="" coords="5,119,307,416"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,428,232,463,227,464,214,430"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,5,268,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="159,85,159,118,153,118,153,85"/>
+<area shape="rect" id="Node000005" href="$d6/d2f/interfaceSystem_1_1Runtime_1_1Serialization_1_1ISerializable.html" title=" " alt="" coords="331,220,541,315"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="416,328,365,465,360,463,411,326"/>
+</map>

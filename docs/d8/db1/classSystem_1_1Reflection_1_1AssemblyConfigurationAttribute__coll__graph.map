@@ -1,0 +1,9 @@
+<map id="System.Reflection.AssemblyConfigurationAttribute" name="System.Reflection.AssemblyConfigurationAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,261,267,356"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,173,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,210,131,260,126,262,105,212"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,133,365,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,201,205,251,201,248,249,197"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="256,5,307,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="284,85,284,133,279,133,279,85"/>
+</map>

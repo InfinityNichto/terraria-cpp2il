@@ -1,0 +1,14 @@
+<map id="Terraria.Chat.Commands.RollCommand" name="Terraria.Chat.Commands.RollCommand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,1371,303,1540"/>
+<area shape="rect" id="Node000002" href="$de/d58/interfaceTerraria_1_1Chat_1_1Commands_1_1IChatCommand.html" title=" " alt="" coords="5,749,235,864"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,877,182,1370,177,1371,125,878"/>
+<area shape="rect" id="Node000003" href="$d0/dc1/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Color.html" title=" " alt="" coords="259,305,443,1308"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,1267,249,1309,233,1356,228,1354,244,1307,256,1266"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="445,714,455,728,463,748,469,807,466,853,455,885,450,883,460,852,464,807,458,750,450,731,441,717"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="188,133,348,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="276,212,288,305,283,305,271,213"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="181,5,355,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,85,271,133,265,133,265,85"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="372,133,415,199"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="394,199,388,289,383,289,389,199"/>
+</map>

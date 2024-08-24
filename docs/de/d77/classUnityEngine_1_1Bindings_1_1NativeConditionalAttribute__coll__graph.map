@@ -1,0 +1,13 @@
+<map id="UnityEngine.Bindings.NativeConditionalAttribute" name="UnityEngine.Bindings.NativeConditionalAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="333,1517,536,1632"/>
+<area shape="rect" id="Node000002" href="$d1/d05/classSystem_1_1Attribute.html" title=" " alt="" coords="5,133,339,1455"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,1440,353,1453,391,1516,387,1519,348,1456,342,1442"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="363,761,506,827"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="437,827,437,1501,432,1501,432,827"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="409,5,460,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="437,84,437,761,432,761,432,84"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="530,761,654,827"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="602,826,623,943,632,1024,637,1114,634,1211,622,1309,597,1405,579,1451,557,1495,549,1507,545,1504,552,1492,574,1449,592,1403,617,1308,629,1210,631,1114,627,1024,618,943,597,827"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="571,5,613,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="595,84,595,761,589,761,589,84"/>
+</map>

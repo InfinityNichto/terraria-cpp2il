@@ -1,0 +1,27 @@
+<map id="System.Net.UploadProgressChangedEventArgs" name="System.Net.UploadProgressChangedEventArgs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="466,479,783,712"/>
+<area shape="rect" id="Node000002" href="$d7/dc1/classSystem_1_1ComponentModel_1_1ProgressChangedEventArgs.html" title=" " alt="" coords="91,301,299,416"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,420,467,505,464,510,309,425"/>
+<area shape="rect" id="Node000003" href="$d2/d76/classSystem_1_1EventArgs.html" title=" " alt="" coords="5,153,151,239"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,248,156,299,152,302,114,252"/>
+<area shape="rect" id="Node000004" href="$d2/d76/classSystem_1_1EventArgs.html" title=" " alt="" coords="5,5,151,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="81,91,81,137,75,137,75,91"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="152,33,169,37,177,48,169,59,165,55,172,48,167,42,150,38"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="175,163,205,229"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="193,229,194,277,194,285,189,285,189,277,188,229"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="332,163,387,229"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="356,230,347,255,332,279,314,297,310,294,328,276,342,253,351,228"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="328,326,497,391"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="443,390,511,465,507,468,439,393"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="703,163,746,229"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="690,202,644,207,590,218,532,236,480,265,450,294,429,327,425,324,446,291,476,261,530,232,588,213,644,202,689,196"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="521,326,728,391"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="692,211,654,232,636,246,623,264,617,278,615,294,618,325,613,326,610,294,612,277,618,261,632,243,651,227,689,206"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="753,326,891,391"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="759,219,779,238,798,261,812,293,820,325,815,326,807,295,793,264,775,242,755,222"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="915,326,1102,391"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="760,202,832,224,873,240,911,260,951,291,984,324,980,327,948,295,909,265,871,245,830,229,759,207"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="627,392,627,462,622,462,622,392"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="798,393,747,456,737,468,733,464,743,453,794,390"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="968,394,877,457,799,503,797,499,874,452,965,389"/>
+</map>

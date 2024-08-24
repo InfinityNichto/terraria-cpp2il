@@ -1,0 +1,20 @@
+<map id="System.Threading.Tasks.TaskFactory&lt; TResult &gt;.CompleteOnInvokePromise" name="System.Threading.Tasks.TaskFactory&lt; TResult &gt;.CompleteOnInvokePromise">
+<area shape="rect" id="Node000001" title=" " alt="" coords="594,9487,862,9680"/>
+<area shape="rect" id="Node000002" href="$da/d81/classSystem_1_1Threading_1_1Tasks_1_1Task.html" title=" " alt="" coords="326,4820,765,9437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="721,9451,724,9486,718,9487,716,9451"/>
+<area shape="rect" id="Node000003" href="$d6/d20/interfaceSystem_1_1Threading_1_1IThreadPoolWorkItem.html" title=" " alt="" coords="5,5,235,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,119,85,751,64,1268,48,1882,41,2566,43,2926,49,3292,59,3662,74,4031,96,4398,124,4757,161,5103,211,5454,268,5799,329,6127,323,6128,263,5800,205,5455,156,5104,119,4758,91,4398,69,4032,53,3662,43,3292,38,2926,36,2566,43,1882,59,1268,79,750,113,119"/>
+<area shape="rect" id="Node000006" href="$da/d81/classSystem_1_1Threading_1_1Tasks_1_1Task.html" title=" " alt="" coords="134,155,573,4757"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="129,119,137,200,131,201,123,120"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="348,23,543,88"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="529,93,561,120,586,153,597,186,606,241,621,407,631,642,637,934,639,1643,632,2445,604,3962,587,4757,586,4820,581,4820,581,4757,599,3962,626,2445,634,1643,631,934,625,642,615,407,601,241,592,188,582,156,557,123,525,98"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="446,102,444,154,439,154,441,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="567,23,753,88"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="663,102,664,708,663,1840,654,3267,645,4019,632,4757,631,4820,625,4820,627,4757,640,4018,649,3267,658,1840,659,708,658,102"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="650,102,644,130,575,527,570,526,639,129,645,101"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="451,4771,453,4820,448,4820,446,4771"/>
+<area shape="rect" id="Node000007" href="$d6/d9c/classTask.html" title=" " alt="" coords="281,23,324,88"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="306,102,307,154,302,154,301,102"/>
+<area shape="rect" id="Node000008" href="$dc/d84/interfaceSystem_1_1Threading_1_1Tasks_1_1ITaskCompletionAction.html" title=" " alt="" coords="789,7089,1035,7169"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="917,7182,923,7516,922,7772,915,8071,899,8400,873,8746,834,9096,808,9269,779,9438,766,9487,761,9486,773,9437,803,9268,829,9095,868,8745,894,8399,909,8071,916,7772,917,7516,911,7182"/>
+</map>

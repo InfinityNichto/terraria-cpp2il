@@ -1,0 +1,9 @@
+<map id="Newtonsoft.Json.Serialization.ITraceWriter" name="Newtonsoft.Json.Serialization.ITraceWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="258,5,466,115"/>
+<area shape="rect" id="Node000002" href="$d4/dd2/classNewtonsoft_1_1Json_1_1Serialization_1_1DiagnosticsTraceWriter.html" title=" " alt="" coords="5,205,233,403"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,126,220,206,216,203,297,123"/>
+<area shape="rect" id="Node000003" href="$df/d6a/classNewtonsoft_1_1Json_1_1Serialization_1_1MemoryTraceWriter.html" title=" " alt="" coords="258,177,466,431"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="365,128,365,177,359,177,359,128"/>
+<area shape="rect" id="Node000004" href="$d8/dea/interfaceNewtonsoft_1_1Json_1_1Serialization_1_1ITraceWriter.html" title=" " alt="" coords="490,249,698,359"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,123,480,175,547,247,543,251,476,179,425,127"/>
+</map>

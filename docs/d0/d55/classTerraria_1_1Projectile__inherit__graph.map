@@ -1,0 +1,5 @@
+<map id="Terraria.Projectile" name="Terraria.Projectile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,901,331,3223"/>
+<area shape="rect" id="Node000002" href="$df/df6/classTerraria_1_1Entity.html" title=" " alt="" coords="58,5,278,853"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,867,171,901,165,901,165,867"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="PlatformControllerDisplay.PlatformControllerDisplayState" name="PlatformControllerDisplay.PlatformControllerDisplayState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,3780,223,3875"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="197,627,247,693"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,693,189,872,148,1163,128,1336,111,1519,100,1704,95,1887,95,3661,98,3714,105,3764,99,3764,93,3714,90,3661,90,1887,94,1704,106,1518,122,1336,142,1163,184,871,214,692"/>
+<area shape="rect" id="Node000003" href="$dc/dc7/classPlatformControllerDisplay.html" title=" " alt="" coords="130,3603,338,3717"/>
+<area shape="poly" id="edge16_Node000003_Node000002" title=" " alt="" coords="225,693,225,1887,225,3390,232,3586,226,3587,219,3390,219,1887,219,693"/>
+<area shape="rect" id="Node000007" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="315,1249,601,2527"/>
+<area shape="poly" id="edge13_Node000007_Node000002" title=" " alt="" coords="227,693,245,895,275,1172,292,1280,314,1390,309,1391,287,1281,270,1172,240,895,222,693"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,3719,159,3768,155,3765,191,3716"/>
+<area shape="rect" id="Node000004" href="$de/d69/classSingleton.html" title=" " alt="" coords="381,3224,591,3553"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,3514,289,3604,285,3601,369,3510"/>
+<area shape="rect" id="Node000005" href="$de/d69/classSingleton.html" title=" " alt="" coords="479,2887,675,3161"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="542,3176,530,3224,524,3223,537,3174"/>
+<area shape="rect" id="Node000006" href="$da/d87/classUnityEngine_1_1ScriptableObject.html" title=" " alt="" coords="274,2576,565,2809"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="483,2821,514,2885,509,2887,478,2823"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="429,2541,428,2576,422,2575,424,2540"/>
+<area shape="rect" id="Node000008" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="285,148,617,1172"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="457,1172,457,1233,452,1233,451,1172"/>
+<area shape="poly" id="edge11_Node000008_Node000008" title=" " alt="" coords="620,579,637,612,644,660,640,698,629,727,624,726,635,697,639,660,632,613,615,581"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="147,5,337,85"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="262,97,288,172,283,174,257,99"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="361,5,541,85"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="454,99,454,148,449,148,449,99"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="566,13,729,78"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="640,79,622,133,617,132,635,77"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="711,627,741,693"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="730,693,732,776,730,896,721,1033,702,1172,661,1344,608,1513,603,1511,656,1343,697,1172,716,1033,725,895,726,776,725,693"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="589,2660,652,2725"/>
+<area shape="poly" id="edge14_Node000005_Node000013" title=" " alt="" coords="619,2726,600,2871,594,2870,614,2725"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="689,2660,731,2725"/>
+<area shape="poly" id="edge15_Node000005_Node000014" title=" " alt="" coords="711,2726,702,2790,682,2864,678,2873,673,2871,677,2862,697,2789,705,2725"/>
+</map>

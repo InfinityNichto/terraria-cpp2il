@@ -1,0 +1,10 @@
+<map id="System.Xml.IDtdParserAdapterWithValidation" name="System.Xml.IDtdParserAdapterWithValidation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,808,305,923"/>
+<area shape="rect" id="Node000003" href="$da/db2/interfaceSystem_1_1Xml_1_1IDtdParserAdapterV1.html" title=" " alt="" coords="5,971,237,1076"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,936,149,972,144,969,161,934"/>
+<area shape="rect" id="Node000004" href="$d9/d48/classSystem_1_1Xml_1_1XmlTextReaderImpl_1_1DtdParserProxy.html" title=" " alt="" coords="48,1124,347,2227"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="240,934,252,970,257,1000,257,1023,252,1076,250,1124,244,1124,247,1076,251,1023,251,1000,247,971,235,936"/>
+<area shape="rect" id="Node000002" href="$dc/d1f/interfaceSystem_1_1Xml_1_1IDtdParserAdapter.html" title=" " alt="" coords="65,5,329,760"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,774,200,808,195,808,195,774"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="132,1089,136,1123,130,1124,126,1090"/>
+</map>

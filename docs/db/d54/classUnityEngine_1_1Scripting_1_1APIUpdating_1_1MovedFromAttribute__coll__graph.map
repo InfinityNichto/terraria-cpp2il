@@ -1,0 +1,11 @@
+<map id="UnityEngine.Scripting.APIUpdating.MovedFromAttribute" name="UnityEngine.Scripting.APIUpdating.MovedFromAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="143,1561,385,1656"/>
+<area shape="rect" id="Node000002" href="$d1/d05/classSystem_1_1Attribute.html" title=" " alt="" coords="5,177,339,1499"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,1512,261,1561,256,1561,250,1513"/>
+<area shape="rect" id="Node000003" href="$dc/d1f/structUnityEngine_1_1Scripting_1_1APIUpdating_1_1MovedFromAttributeData.html" title=" " alt="" coords="363,776,632,900"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="496,900,483,1016,457,1168,439,1251,415,1336,387,1420,353,1500,321,1550,316,1547,348,1497,382,1418,410,1335,434,1250,452,1167,478,1015,490,900"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="412,5,463,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="442,71,494,759,489,760,437,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="535,5,577,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="556,71,506,760,500,759,551,71"/>
+</map>

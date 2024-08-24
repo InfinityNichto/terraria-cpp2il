@@ -1,0 +1,18 @@
+<map id="Terraria.Social.Steam.CoreSocialModule" name="Terraria.Social.Steam.CoreSocialModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,515,399,799"/>
+<area shape="rect" id="Node000002" href="$d5/d3e/interfaceTerraria_1_1Social_1_1ISocialModule.html" title=" " alt="" coords="120,5,255,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,104,171,175,166,262,169,357,175,405,185,451,208,513,203,515,179,453,170,406,164,358,161,262,166,174,175,104"/>
+<area shape="rect" id="Node000003" href="$df/d71/classTerraria_1_1Social_1_1Steam_1_1CoreSocialModule.html" title=" " alt="" coords="195,168,399,452"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="213,103,240,167,235,169,208,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,452,299,499,294,499,294,452"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="400,279,418,290,425,310,423,323,415,333,411,330,418,321,420,310,414,293,398,283"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,15,36,81"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="19,81,14,151,15,246,21,298,30,351,45,402,66,451,89,488,118,522,183,581,179,585,114,526,85,491,61,453,40,404,25,352,15,299,10,246,9,151,14,81"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="38,63,119,142,184,203,180,207,115,146,34,67"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="647,15,690,81"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="685,80,711,152,723,198,732,248,737,301,735,354,724,405,702,453,675,489,644,521,609,548,571,572,492,609,416,634,414,629,490,604,568,567,606,544,640,517,671,486,697,451,718,404,729,353,732,301,727,249,718,199,706,153,680,82"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="649,67,414,230,411,226,646,62"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="413,15,468,81"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="470,60,501,82,516,96,527,113,540,149,547,181,552,223,554,272,548,327,534,388,510,453,491,487,467,519,413,575,409,572,463,516,486,485,505,451,529,386,543,326,548,271,547,223,542,182,534,150,522,116,512,100,498,86,467,64"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="415,77,383,116,361,155,356,152,378,113,411,74"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UnityEngine.EventSystems.IScrollHandler" name="UnityEngine.EventSystems.IScrollHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="167,119,370,213"/>
+<area shape="rect" id="Node000003" href="$da/d18/classUnityEngine_1_1EventSystems_1_1EventTrigger.html" title=" " alt="" coords="5,881,231,1461"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,227,245,262,215,420,189,581,150,881,144,880,183,580,209,419,239,261,248,226"/>
+<area shape="rect" id="Node000004" href="$d5/dee/classUnityEngine_1_1UI_1_1ScrollRect.html" title=" " alt="" coords="254,261,587,2080"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,227,286,261,280,262,275,227"/>
+<area shape="rect" id="Node000002" href="$dd/d38/interfaceUnityEngine_1_1EventSystems_1_1IEventSystemHandler.html" title=" " alt="" coords="191,5,346,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,84,271,118,266,118,266,84"/>
+</map>

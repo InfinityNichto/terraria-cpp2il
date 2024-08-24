@@ -1,0 +1,14 @@
+<map id="Terraria.GameContent.TeleportPylonInfo" name="Terraria.GameContent.TeleportPylonInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="213,643,427,737"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,324,192,404"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,416,156,495,179,538,206,578,234,611,265,641,261,644,230,615,202,582,175,541,151,498,115,418"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="11,5,186,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,84,101,324,96,324,96,84"/>
+<area shape="rect" id="Node000004" href="$df/d4d/structTerraria_1_1DataStructures_1_1Point16.html" title=" " alt="" coords="217,148,423,580"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,580,323,626,317,626,317,580"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="425,321,443,337,450,364,447,383,439,396,434,394,442,381,445,364,438,340,422,325"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="297,5,343,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="323,71,323,132,317,132,317,71"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="573,331,705,397"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="638,398,630,438,616,487,595,537,563,582,537,606,507,627,444,658,441,653,504,622,534,602,559,578,590,534,611,485,625,437,632,397"/>
+</map>

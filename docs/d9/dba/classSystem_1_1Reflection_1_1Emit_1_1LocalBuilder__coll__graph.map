@@ -1,0 +1,39 @@
+<map id="System.Reflection.Emit.LocalBuilder" name="System.Reflection.Emit.LocalBuilder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="994,5757,1198,5837"/>
+<area shape="rect" id="Node000002" href="$d9/d71/classSystem_1_1Reflection_1_1LocalVariableInfo.html" title=" " alt="" coords="752,5595,941,5680"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="925,5685,1036,5755,1033,5759,922,5689"/>
+<area shape="rect" id="Node000003" href="$da/d1b/classSystem_1_1Type.html" title=" " alt="" coords="205,2991,662,5532"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="664,5394,710,5484,762,5569,771,5581,767,5584,758,5572,706,5486,660,5396"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="665,4087,675,4121,682,4161,689,4261,684,4351,670,4420,665,4419,678,4350,683,4261,677,4162,670,4122,660,4088"/>
+<area shape="rect" id="Node000004" href="$d8/d11/classglobal_1_1SystemReflection_1_1MemberInfo.html" title=" " alt="" coords="5,2012,181,2092"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="101,2105,138,2428,196,2869,214,2990,209,2991,191,2870,133,2428,96,2106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="206,2019,285,2085"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="248,2085,250,2440,258,2700,273,2966,274,2974,269,2975,268,2967,253,2700,245,2440,242,2085"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="412,2019,455,2085"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="436,2085,436,2974,431,2974,431,2085"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="514,2019,569,2085"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="543,2085,534,2440,515,2967,514,2974,509,2974,509,2967,529,2440,538,2085"/>
+<area shape="rect" id="Node000008" href="$d0/d8f/structSystem_1_1RuntimeTypeHandle.html" title=" " alt="" coords="593,1235,943,2869"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="647,2870,631,2975,626,2974,642,2869"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="609,5,799,85"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="708,99,718,541,736,1172,738,1234,733,1235,731,1172,713,541,702,99"/>
+<area shape="rect" id="Node000010" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="746,148,1078,1172"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="724,97,748,169,743,171,719,99"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="862,1173,857,1219,852,1218,856,1172"/>
+<area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="1080,579,1098,612,1105,660,1101,698,1090,727,1085,726,1096,697,1099,660,1093,613,1076,581"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="823,5,1003,85"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="916,99,916,148,910,148,911,99"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1028,13,1191,78"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="1102,79,1084,133,1079,132,1097,77"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="979,2019,1029,2085"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="1007,2085,1006,2767,1009,3943,1020,5089,1030,5486,1037,5613,1044,5679,1054,5711,1067,5742,1063,5744,1049,5713,1039,5681,1031,5613,1025,5487,1015,5089,1004,3943,1001,2767,1001,2085"/>
+<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="1017,2084,1034,2143,1053,2226,1070,2326,1081,2437,1079,2553,1072,2611,1061,2668,1044,2723,1022,2776,993,2826,957,2871,935,2887,913,2893,890,2891,867,2886,845,2880,823,2878,801,2882,779,2895,723,2950,674,3011,670,3007,720,2947,776,2891,799,2877,822,2873,846,2875,869,2881,891,2886,912,2888,933,2883,953,2867,988,2823,1017,2774,1039,2722,1056,2667,1067,2610,1074,2553,1075,2437,1065,2326,1048,2227,1029,2144,1012,2086"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="805,4229,848,4294"/>
+<area shape="poly" id="edge16_Node000002_Node000014" title=" " alt="" coords="829,4294,821,4790,813,5556,813,5570,816,5579,811,5580,808,5571,808,5556,816,4790,823,4294"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="890,4229,945,4294"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="925,4294,951,4487,964,4634,972,4804,973,4991,962,5186,951,5284,936,5382,916,5478,891,5571,887,5581,882,5579,885,5570,910,5477,930,5381,945,5283,956,5185,967,4991,967,4804,958,4634,945,4487,920,4294"/>
+<area shape="rect" id="Node000016" href="$dc/de6/classSystem_1_1Reflection_1_1Emit_1_1ILGenerator.html" title=" " alt="" coords="1053,5605,1299,5670"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="1162,5671,1126,5744,1121,5741,1158,5669"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1323,5605,1354,5670"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="1325,5667,1312,5682,1261,5721,1207,5752,1204,5747,1258,5716,1309,5678,1321,5664"/>
+</map>

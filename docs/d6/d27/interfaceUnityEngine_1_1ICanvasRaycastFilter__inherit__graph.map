@@ -1,0 +1,11 @@
+<map id="UnityEngine.ICanvasRaycastFilter" name="UnityEngine.ICanvasRaycastFilter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="425,5,683,100"/>
+<area shape="rect" id="Node000002" href="$d7/db8/classUnityEngine_1_1CanvasGroup.html" title=" " alt="" coords="5,1061,263,1201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,73,375,85,338,101,305,122,276,150,237,202,204,259,176,319,154,381,136,445,122,510,106,640,101,766,105,882,114,982,124,1060,119,1061,108,982,99,882,96,766,100,640,117,509,131,444,149,380,171,317,199,257,233,200,272,146,301,118,335,96,373,80,411,68"/>
+<area shape="rect" id="Node000003" href="$d0/dd8/classUnityEngine_1_1UI_1_1Image.html" title=" " alt="" coords="287,148,547,2113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="549,114,545,148,539,147,544,113"/>
+<area shape="rect" id="Node000004" href="$d9/d42/classUnityEngine_1_1UI_1_1Mask.html" title=" " alt="" coords="571,939,812,1323"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="564,113,670,938,664,939,559,114"/>
+<area shape="rect" id="Node000005" href="$d6/d84/classUnityEngine_1_1UI_1_1RectMask2D.html" title=" " alt="" coords="837,740,1085,1521"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="697,70,733,82,768,99,799,120,827,146,873,211,910,280,940,354,963,430,980,508,991,587,997,664,1000,740,995,740,992,665,986,587,974,509,958,432,935,356,905,283,868,214,823,150,796,124,765,103,731,87,695,75"/>
+</map>

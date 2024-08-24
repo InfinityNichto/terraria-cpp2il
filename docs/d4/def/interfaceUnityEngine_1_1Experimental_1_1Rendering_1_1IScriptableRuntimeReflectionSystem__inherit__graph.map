@@ -1,0 +1,9 @@
+<map id="UnityEngine.Experimental.Rendering.IScriptableRuntimeReflectionSystem" name="UnityEngine.Experimental.Rendering.IScriptableRuntimeReflectionSystem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,120,449,215"/>
+<area shape="rect" id="Node000003" href="$d7/df3/classUnityEngine_1_1Experimental_1_1Rendering_1_1BuiltinRuntimeReflectionSystem.html" title=" " alt="" coords="5,277,307,516"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,228,239,279,235,276,270,225"/>
+<area shape="rect" id="Node000004" href="$d9/d8b/interfaceUnityEngine_1_1Experimental_1_1Rendering_1_1IScriptableRuntimeReflectionSystem.html" title=" " alt="" coords="331,349,605,444"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="354,225,438,347,434,350,350,228"/>
+<area shape="rect" id="Node000002" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="251,5,373,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,85,315,120,309,120,309,85"/>
+</map>

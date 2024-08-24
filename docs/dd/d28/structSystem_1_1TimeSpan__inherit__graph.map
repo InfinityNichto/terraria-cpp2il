@@ -1,0 +1,15 @@
+<map id="System.TimeSpan" name="System.TimeSpan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="415,135,713,2089"/>
+<area shape="rect" id="Node000007" href="$d2/d98/structSystem_1_1TimeSpan.html" title=" " alt="" coords="427,2152,701,4048"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="567,2103,567,2152,561,2152,561,2103"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,200,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,90,418,766,413,768,119,92"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="224,5,435,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="343,98,418,436,413,437,338,100"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="459,5,669,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="567,99,567,134,561,134,561,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="693,13,888,78"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="784,92,715,413,710,412,778,91"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="912,13,1139,78"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1009,92,715,768,710,766,1004,90"/>
+</map>

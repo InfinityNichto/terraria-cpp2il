@@ -1,0 +1,21 @@
+<map id="Mono.Security.Protocol.Ntlm.Type3Message" name="Mono.Security.Protocol.Ntlm.Type3Message">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,741,497,1035"/>
+<area shape="rect" id="Node000002" href="$da/d2e/classMono_1_1Security_1_1Protocol_1_1Ntlm_1_1MessageBase.html" title=" " alt="" coords="5,133,209,377"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,391,61,460,59,534,68,608,78,644,92,677,127,728,172,772,222,808,273,837,270,842,219,813,169,776,123,732,88,680,73,645,62,609,53,534,56,460,66,390"/>
+<area shape="rect" id="Node000008" href="$d2/d71/classMono_1_1Security_1_1Protocol_1_1Ntlm_1_1Type2Message.html" title=" " alt="" coords="102,469,305,679"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="150,390,174,468,169,470,145,391"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="239,5,282,71"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="283,40,324,48,377,65,432,92,456,110,477,132,508,174,527,214,538,251,543,289,543,369,547,469,562,576,561,622,547,680,531,718,509,755,504,752,526,716,542,678,556,621,557,576,542,470,538,370,538,289,533,252,522,215,503,177,473,135,453,114,429,96,375,70,323,53,282,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,54,215,72,189,96,171,121,167,118,185,93,211,68,238,50"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="260,71,219,454,214,453,255,70"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="12,5,43,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="42,70,59,117,54,119,37,72"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="67,5,148,71"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="110,71,110,117,105,117,105,71"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="329,541,440,607"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="387,607,387,725,382,725,382,607"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="413,223,463,288"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="446,288,455,358,463,456,465,567,455,679,445,726,440,725,450,678,460,567,458,456,450,359,441,289"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="417,290,292,458,288,455,413,287"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="266,678,294,726,289,728,261,680"/>
+</map>

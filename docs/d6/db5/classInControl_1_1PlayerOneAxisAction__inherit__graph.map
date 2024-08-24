@@ -1,0 +1,7 @@
+<map id="InControl.PlayerOneAxisAction" name="InControl.PlayerOneAxisAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,1405,257,1739"/>
+<area shape="rect" id="Node000002" href="$dd/df6/classInControl_1_1OneAxisInputControl.html" title=" " alt="" coords="5,179,263,1357"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,1371,137,1405,131,1405,131,1371"/>
+<area shape="rect" id="Node000003" href="$d4/d87/interfaceInControl_1_1IInputControl.html" title=" " alt="" coords="48,5,220,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,145,137,178,131,178,131,145"/>
+</map>

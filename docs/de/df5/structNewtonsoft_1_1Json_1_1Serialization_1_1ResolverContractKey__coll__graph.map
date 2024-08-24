@@ -1,0 +1,28 @@
+<map id="Newtonsoft.Json.Serialization.ResolverContractKey" name="Newtonsoft.Json.Serialization.ResolverContractKey">
+<area shape="rect" id="Node000001" title=" " alt="" coords="376,5609,597,5808"/>
+<area shape="rect" id="Node000002" href="$da/d1b/classSystem_1_1Type.html" title=" " alt="" coords="258,2991,715,5532"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="489,5532,489,5593,484,5593,484,5532"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="718,4086,728,4120,736,4161,742,4261,737,4351,723,4421,718,4420,732,4351,737,4261,730,4161,723,4121,713,4087"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classglobal_1_1SystemReflection_1_1MemberInfo.html" title=" " alt="" coords="5,2012,181,2092"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,2105,135,2428,163,2647,196,2869,261,3224,255,3225,191,2870,157,2648,130,2429,95,2106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="206,2019,285,2085"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,2085,245,2224,245,2441,251,2700,269,2966,270,2974,265,2975,264,2967,246,2700,239,2441,239,2224,242,2085"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="412,2019,455,2085"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="436,2085,432,2893,432,2967,432,2974,427,2974,427,2967,427,2893,430,2085"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="497,2019,551,2085"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="526,2085,515,2967,515,2974,509,2974,509,2967,521,2085"/>
+<area shape="rect" id="Node000007" href="$d0/d8f/structSystem_1_1RuntimeTypeHandle.html" title=" " alt="" coords="576,1235,925,2869"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="656,2870,643,2975,638,2974,650,2869"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="591,5,782,85"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="691,99,720,1172,722,1234,717,1235,715,1172,685,99"/>
+<area shape="rect" id="Node000009" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="729,148,1061,1172"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="707,97,731,169,726,171,702,99"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="844,1173,840,1219,834,1218,839,1172"/>
+<area shape="poly" id="edge13_Node000009_Node000009" title=" " alt="" coords="1063,579,1081,612,1087,660,1083,698,1073,727,1068,726,1078,697,1082,660,1076,613,1058,581"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="806,5,986,85"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="899,99,898,148,893,148,893,99"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1011,13,1173,78"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="1084,79,1067,133,1062,132,1079,77"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="949,2019,1000,2085"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="979,2085,983,2211,982,2405,970,2635,958,2754,940,2870,898,3070,845,3273,786,3470,723,3658,718,3657,781,3469,840,3271,892,3069,935,2869,952,2753,965,2635,976,2405,977,2211,974,2085"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="System.Xml.XmlWriter" name="System.Xml.XmlWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="569,119,827,669"/>
+<area shape="rect" id="Node000003" href="$d2/ddb/classSystem_1_1Xml_1_1XmlAsyncCheckWriter.html" title=" " alt="" coords="276,1260,531,1811"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="567,660,546,718,508,854,477,995,452,1132,434,1260,428,1259,447,1131,471,994,502,853,541,717,562,658"/>
+<area shape="rect" id="Node000004" href="$d2/dd1/classSystem_1_1Xml_1_1XmlRawWriter.html" title=" " alt="" coords="555,1052,841,2019"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="701,683,701,1051,695,1051,695,683"/>
+<area shape="rect" id="Node000018" href="$dc/deb/classSystem_1_1Xml_1_1XmlWellFormedWriter.html" title=" " alt="" coords="864,717,1148,2353"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="834,659,855,716,866,752,861,753,850,718,829,661"/>
+<area shape="rect" id="Node000002" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="637,5,759,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="701,84,701,119,695,119,695,84"/>
+<area shape="rect" id="Node000005" href="$d8/d95/classSystem_1_1Xml_1_1QueryOutputWriter.html" title=" " alt="" coords="5,2997,260,4147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="701,2033,678,2122,646,2207,602,2286,575,2322,544,2355,510,2379,475,2387,440,2385,405,2379,371,2372,337,2371,305,2380,273,2403,222,2465,180,2532,146,2604,119,2679,98,2757,83,2837,74,2917,69,2997,64,2996,69,2916,78,2836,93,2756,114,2677,141,2602,175,2529,218,2462,269,2399,302,2375,336,2366,371,2367,406,2374,441,2380,475,2382,508,2374,540,2351,570,2318,597,2283,641,2204,673,2120,696,2032"/>
+<area shape="rect" id="Node000006" href="$d9/df6/classSystem_1_1Xml_1_1XmlAutoDetectWriter.html" title=" " alt="" coords="284,2975,539,4169"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="612,2033,554,2402,515,2689,480,2975,474,2975,510,2689,549,2401,607,2032"/>
+<area shape="rect" id="Node000007" href="$d5/df5/classSystem_1_1Xml_1_1XmlEncodedRawTextWriter.html" title=" " alt="" coords="563,2401,833,4743"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="701,2032,701,2401,695,2401,695,2032"/>
+<area shape="rect" id="Node000012" href="$de/def/classSystem_1_1Xml_1_1XmlEventCache.html" title=" " alt="" coords="857,2951,1112,4193"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="789,2032,847,2401,919,2950,913,2951,842,2402,784,2033"/>
+<area shape="rect" id="Node000013" href="$d0/d34/classSystem_1_1Xml_1_1XmlUtf8RawTextWriter.html" title=" " alt="" coords="1296,2424,1553,4720"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="699,2032,721,2120,753,2204,796,2283,823,2318,853,2351,886,2374,918,2383,952,2382,986,2376,1020,2370,1055,2368,1090,2376,1125,2399,1177,2453,1223,2511,1263,2574,1298,2640,1294,2643,1259,2577,1219,2515,1173,2456,1122,2403,1088,2381,1055,2373,1021,2375,987,2381,952,2387,918,2388,883,2379,850,2355,819,2322,792,2285,748,2207,715,2122,693,2033"/>
+<area shape="rect" id="Node000008" href="$d7/d88/classSystem_1_1Xml_1_1HtmlEncodedRawTextWriter.html" title=" " alt="" coords="251,4791,521,6033"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="563,4699,553,4743,535,4791,523,4832,518,4831,530,4790,547,4742,558,4698"/>
+<area shape="rect" id="Node000010" href="$d5/dbd/classSystem_1_1Xml_1_1TextEncodedRawTextWriter.html" title=" " alt="" coords="545,5029,814,5795"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="689,4756,686,5029,681,5028,683,4756"/>
+<area shape="rect" id="Node000011" href="$d5/d5f/classSystem_1_1Xml_1_1XmlEncodedRawTextWriterIndent.html" title=" " alt="" coords="838,4979,1131,5845"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="837,4682,847,4742,891,4978,886,4979,842,4743,832,4683"/>
+<area shape="rect" id="Node000009" href="$d5/d96/classSystem_1_1Xml_1_1HtmlEncodedRawTextWriterIndent.html" title=" " alt="" coords="263,6081,509,6607"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="389,6047,389,6081,383,6081,383,6047"/>
+<area shape="rect" id="Node000014" href="$de/d39/classSystem_1_1Xml_1_1HtmlUtf8RawTextWriter.html" title=" " alt="" coords="1156,4815,1413,6009"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1339,4734,1333,4815,1327,4815,1334,4734"/>
+<area shape="rect" id="Node000016" href="$dc/d17/classSystem_1_1Xml_1_1TextUtf8RawTextWriter.html" title=" " alt="" coords="1437,5036,1695,5788"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="1517,4734,1540,5036,1534,5036,1511,4735"/>
+<area shape="rect" id="Node000017" href="$d8/d05/classSystem_1_1Xml_1_1XmlUtf8RawTextWriterIndent.html" title=" " alt="" coords="1719,4979,2013,5845"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="1559,4121,1765,4978,1760,4979,1554,4123"/>
+<area shape="rect" id="Node000015" href="$d7/d5d/classSystem_1_1Xml_1_1HtmlUtf8RawTextWriterIndent.html" title=" " alt="" coords="1156,6106,1413,6582"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1287,6023,1287,6106,1282,6106,1282,6023"/>
+</map>

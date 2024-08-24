@@ -1,0 +1,9 @@
+<map id="GUISlider.DragState" name="GUISlider.DragState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="87,163,230,228"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,70,38,105,54,137,75,157,71,161,50,140,33,106,26,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="137,5,180,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,71,161,146,156,146,156,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="219,5,306,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,71,252,106,236,140,224,153,220,150,231,137,247,104,256,70"/>
+</map>

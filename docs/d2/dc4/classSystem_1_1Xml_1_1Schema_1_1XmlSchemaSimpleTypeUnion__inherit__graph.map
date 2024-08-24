@@ -1,0 +1,9 @@
+<map id="System.Xml.Schema.XmlSchemaSimpleTypeUnion" name="System.Xml.Schema.XmlSchemaSimpleTypeUnion">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,493,242,573"/>
+<area shape="rect" id="Node000002" href="$dc/d5e/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaSimpleTypeContent.html" title=" " alt="" coords="5,380,248,445"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,459,129,493,124,493,124,459"/>
+<area shape="rect" id="Node000003" href="$d4/da0/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaAnnotated.html" title=" " alt="" coords="35,267,219,332"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,346,129,380,124,380,124,346"/>
+<area shape="rect" id="Node000004" href="$d4/d35/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaObject.html" title=" " alt="" coords="17,5,236,219"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,233,129,266,124,266,124,233"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="InControl.TwoAxisInputControl" name="InControl.TwoAxisInputControl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="400,180,627,1115"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classInControl_1_1PlayerTwoAxisAction.html" title=" " alt="" coords="5,1403,251,1915"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="396,880,328,1026,265,1178,227,1290,193,1404,188,1402,222,1289,260,1176,323,1024,392,877"/>
+<area shape="rect" id="Node000005" href="$d6/d85/classInControl_1_1TwoAxisInputControl.html" title=" " alt="" coords="275,1177,501,2141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="456,1129,450,1177,445,1177,451,1128"/>
+<area shape="rect" id="Node000006" href="$d6/d85/classInControl_1_1TwoAxisInputControl.html" title=" " alt="" coords="525,1177,752,2141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="576,1128,582,1177,576,1177,570,1129"/>
+<area shape="rect" id="Node000007" href="$d6/d85/classInControl_1_1TwoAxisInputControl.html" title=" " alt="" coords="776,1177,1003,2141"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="635,875,704,1022,766,1176,778,1210,773,1212,762,1178,699,1024,630,877"/>
+<area shape="rect" id="Node000002" href="$d4/d87/interfaceInControl_1_1IInputControl.html" title=" " alt="" coords="427,5,599,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,145,516,180,511,180,511,145"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classInControl_1_1PlayerTwoAxisAction.html" title=" " alt="" coords="5,2204,251,2731"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,1929,131,2204,125,2204,125,1929"/>
+</map>

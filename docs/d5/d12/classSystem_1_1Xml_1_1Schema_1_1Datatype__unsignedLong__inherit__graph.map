@@ -1,0 +1,21 @@
+<map id="System.Xml.Schema.Datatype_unsignedLong" name="System.Xml.Schema.Datatype_unsignedLong">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,4051,306,4487"/>
+<area shape="rect" id="Node000008" href="$d3/d4c/classSystem_1_1Xml_1_1Schema_1_1Datatype__unsignedInt.html" title=" " alt="" coords="61,4535,306,4971"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="186,4500,186,4534,181,4534,181,4500"/>
+<area shape="rect" id="Node000002" href="$d3/d6c/classSystem_1_1Xml_1_1Schema_1_1Datatype__nonNegativeInteger.html" title=" " alt="" coords="66,3819,301,4003"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,4017,186,4050,181,4050,181,4017"/>
+<area shape="rect" id="Node000003" href="$d9/d3d/classSystem_1_1Xml_1_1Schema_1_1Datatype__integer.html" title=" " alt="" coords="61,3612,306,3771"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,3784,186,3818,181,3818,181,3784"/>
+<area shape="rect" id="Node000004" href="$da/d07/classSystem_1_1Xml_1_1Schema_1_1Datatype__decimal.html" title=" " alt="" coords="54,3073,313,3564"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,3578,186,3612,181,3612,181,3578"/>
+<area shape="rect" id="Node000005" href="$d4/dd4/classSystem_1_1Xml_1_1Schema_1_1Datatype__anySimpleType.html" title=" " alt="" coords="54,2520,313,3025"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="186,3039,186,3073,181,3073,181,3039"/>
+<area shape="rect" id="Node000006" href="$d5/d91/classSystem_1_1Xml_1_1Schema_1_1DatatypeImplementation.html" title=" " alt="" coords="5,589,361,2472"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="186,2486,186,2520,181,2520,181,2486"/>
+<area shape="rect" id="Node000007" href="$d0/d13/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaDatatype.html" title=" " alt="" coords="43,5,324,541"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="186,555,186,589,181,589,181,555"/>
+<area shape="rect" id="Node000009" href="$d7/d65/classSystem_1_1Xml_1_1Schema_1_1Datatype__unsignedShort.html" title=" " alt="" coords="61,5019,306,5455"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="186,4984,186,5018,181,5018,181,4984"/>
+<area shape="rect" id="Node000010" href="$db/d11/classSystem_1_1Xml_1_1Schema_1_1Datatype__unsignedByte.html" title=" " alt="" coords="61,5503,306,5939"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="186,5468,186,5502,181,5502,181,5468"/>
+</map>

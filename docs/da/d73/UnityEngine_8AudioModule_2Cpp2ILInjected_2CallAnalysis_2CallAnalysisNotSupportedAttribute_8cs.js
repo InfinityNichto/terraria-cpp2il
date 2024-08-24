@@ -1,0 +1,4 @@
+var UnityEngine_8AudioModule_2Cpp2ILInjected_2CallAnalysis_2CallAnalysisNotSupportedAttribute_8cs =
+[
+    [ "Cpp2ILInjected.CallAnalysis.CallAnalysisNotSupportedAttribute", "d3/d27/classCpp2ILInjected_1_1CallAnalysis_1_1CallAnalysisNotSupportedAttribute.html", "d3/d27/classCpp2ILInjected_1_1CallAnalysis_1_1CallAnalysisNotSupportedAttribute" ]
+];

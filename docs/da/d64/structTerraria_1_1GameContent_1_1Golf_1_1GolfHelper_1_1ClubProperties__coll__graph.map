@@ -1,0 +1,13 @@
+<map id="Terraria.GameContent.Golf.GolfHelper.ClubProperties" name="Terraria.GameContent.Golf.GolfHelper.ClubProperties">
+<area shape="rect" id="Node000001" title=" " alt="" coords="134,1328,398,1452"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,276,249,1251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,1250,252,1311,246,1312,233,1252"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="252,678,262,692,270,711,276,763,272,805,262,835,257,833,267,803,271,763,264,713,257,695,248,681"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="46,133,209,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,212,130,276,125,276,125,212"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="40,5,215,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,85,130,133,125,133,125,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="313,133,355,199"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="348,198,360,235,369,276,389,426,399,555,403,668,402,773,392,993,388,1122,387,1274,390,1290,387,1305,380,1316,376,1313,382,1303,384,1290,382,1275,383,1122,387,993,396,773,398,668,394,555,383,427,363,276,354,236,343,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="326,200,257,396,252,394,321,198"/>
+</map>

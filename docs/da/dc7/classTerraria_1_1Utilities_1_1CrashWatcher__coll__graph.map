@@ -1,0 +1,15 @@
+<map id="Terraria.Utilities.CrashWatcher" name="Terraria.Utilities.CrashWatcher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="289,488,531,801"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,247,188,312"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,311,201,424,232,462,280,513,276,517,228,466,197,427,116,314"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="287,5,330,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,46,216,62,186,76,160,97,135,132,117,172,107,212,102,247,96,246,102,211,112,170,130,129,156,93,183,72,214,57,273,41"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="212,247,405,312"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="311,85,311,247,306,247,306,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="429,247,596,312"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="344,39,375,44,410,54,443,70,472,93,495,129,509,171,515,212,517,246,511,247,510,212,504,172,491,132,468,96,440,74,408,59,374,49,344,44"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,312,357,463,359,472,354,473,351,465,313,313"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="509,313,471,465,469,473,464,471,466,463,503,311"/>
+<area shape="rect" id="Node000006" href="$d5/d60/classTerraria_1_1Utilities_1_1CrashDump.html" title=" " alt="" coords="620,133,923,425"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="631,427,593,466,544,515,540,511,589,462,628,424"/>
+</map>

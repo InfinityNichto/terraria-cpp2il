@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$da/da5/interfaceSystem_1_1Runtime_1_1Serialization_1_1IFormatterConverter.html" title=" " alt="" coords="5,37,224,77"/>
+<area shape="rect" id="Node000001" href="$d4/d21/classNewtonsoft_1_1Json_1_1Serialization_1_1JsonFormatterConverter.html" title=" " alt="" coords="273,5,489,45"/>
+<area shape="poly" id="edge3665_Node000000_Node000001" title=" " alt="" coords="237,40,273,36,274,41,238,45"/>
+<area shape="rect" id="Node000002" href="$d0/dfb/classSystem_1_1Runtime_1_1Serialization_1_1FormatterConverter.html" title=" " alt="" coords="272,69,491,109"/>
+<area shape="poly" id="edge3666_Node000000_Node000002" title=" " alt="" coords="238,69,272,74,271,79,237,75"/>
+</map>

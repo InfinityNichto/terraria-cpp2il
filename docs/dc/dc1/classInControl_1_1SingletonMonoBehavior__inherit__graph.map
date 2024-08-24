@@ -1,0 +1,19 @@
+<map id="InControl.SingletonMonoBehavior&lt; TComponent &gt;" name="InControl.SingletonMonoBehavior&lt; TComponent &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,3363,370,3727"/>
+<area shape="rect" id="Node000006" href="$d9/dec/classInControl_1_1SingletonMonoBehavior.html" title=" " alt="" coords="9,3789,242,4153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="190,3741,187,3751,175,3790,170,3788,181,3750,185,3739"/>
+<area shape="rect" id="Node000008" href="$d9/dec/classInControl_1_1SingletonMonoBehavior.html" title=" " alt="" coords="267,3789,501,4153"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="334,3739,337,3750,348,3789,343,3790,332,3751,329,3740"/>
+<area shape="rect" id="Node000002" href="$d7/d59/classUnityEngine_1_1MonoBehaviour.html" title=" " alt="" coords="120,2185,387,3313"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,3327,256,3362,251,3362,251,3327"/>
+<area shape="rect" id="Node000003" href="$d5/dca/classUnityEngine_1_1Behaviour.html" title=" " alt="" coords="159,2051,348,2136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,2150,256,2185,251,2185,251,2150"/>
+<area shape="rect" id="Node000004" href="$d7/ddf/classUnityEngine_1_1Component.html" title=" " alt="" coords="125,1456,382,2001"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,2015,256,2050,251,2050,251,2015"/>
+<area shape="rect" id="Node000005" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="111,5,396,1407"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="256,1420,256,1456,251,1456,251,1420"/>
+<area shape="rect" id="Node000007" href="$d4/dca/classInControl_1_1InControlManager.html" title=" " alt="" coords="5,4563,240,5136"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="127,4167,126,4562,121,4562,122,4167"/>
+<area shape="rect" id="Node000009" href="$df/d04/classInControl_1_1TouchManager.html" title=" " alt="" coords="264,4203,509,5496"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="387,4167,387,4202,382,4202,382,4167"/>
+</map>

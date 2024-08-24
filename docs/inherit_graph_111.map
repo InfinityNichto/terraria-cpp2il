@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,193,184,219"/>
+<area shape="rect" id="Node000001" href="$d0/df5/classSystem_1_1AggregateException.html" title=" " alt="" coords="255,5,461,31"/>
+<area shape="poly" id="edge2405_Node000000_Node000001" title=" " alt="" coords="107,180,127,147,155,109,190,71,231,40,255,28,257,33,233,44,193,75,159,112,131,150,111,183"/>
+<area shape="rect" id="Node000002" href="$d5/d9f/classSystem_1_1ApplicationException.html" title=" " alt="" coords="252,55,464,80"/>
+<area shape="poly" id="edge2406_Node000000_Node000002" title=" " alt="" coords="114,181,164,134,196,109,231,89,261,78,263,83,233,94,199,114,167,138,118,185"/>
+<area shape="rect" id="Node000003" href="$df/dc2/classSystem_1_1InvalidTimeZoneException.html" title=" " alt="" coords="233,104,483,129"/>
+<area shape="poly" id="edge2407_Node000000_Node000003" title=" " alt="" coords="130,184,177,161,231,139,279,127,280,132,233,145,179,166,132,189"/>
+<area shape="rect" id="Node000004" href="$da/d10/classSystem_1_1Runtime_1_1AmbiguousImplementationException.html" title=" " alt="" coords="255,154,461,194"/>
+<area shape="poly" id="edge2408_Node000000_Node000004" title=" " alt="" coords="197,191,254,184,255,189,198,196"/>
+<area shape="rect" id="Node000005" href="$d1/d8d/classSystem_1_1Runtime_1_1CompilerServices_1_1RuntimeWrappedException.html" title=" " alt="" coords="232,218,484,258"/>
+<area shape="poly" id="edge2409_Node000000_Node000005" title=" " alt="" coords="198,216,232,220,232,225,197,221"/>
+<area shape="rect" id="Node000006" href="$d8/d7a/classSystem_1_1SystemException.html" title=" " alt="" coords="264,283,452,308"/>
+<area shape="poly" id="edge2410_Node000000_Node000006" title=" " alt="" coords="132,223,179,246,233,267,280,280,279,285,231,273,177,251,130,228"/>
+<area shape="rect" id="Node000015" href="$de/def/classSystem_1_1Threading_1_1LockRecursionException.html" title=" " alt="" coords="239,333,477,373"/>
+<area shape="poly" id="edge2419_Node000000_Node000015" title=" " alt="" coords="119,227,169,273,200,297,233,317,265,330,263,335,231,322,197,301,165,277,115,231"/>
+<area shape="rect" id="Node000016" href="$d3/dce/classSystem_1_1Threading_1_1Tasks_1_1TaskSchedulerException.html" title=" " alt="" coords="251,397,465,437"/>
+<area shape="poly" id="edge2420_Node000000_Node000016" title=" " alt="" coords="110,230,130,264,157,306,192,347,233,382,255,394,253,399,231,387,188,351,153,309,125,267,106,232"/>
+<area shape="rect" id="Node000007" href="$d8/da0/classInControl_1_1OptionalTypeHasNoValueException.html" title=" " alt="" coords="561,54,756,94"/>
+<area shape="poly" id="edge2411_Node000006_Node000007" title=" " alt="" coords="463,281,482,268,498,249,505,230,506,188,507,146,514,125,530,104,559,85,562,90,534,108,519,127,512,147,511,189,510,231,502,252,486,272,466,285"/>
+<area shape="rect" id="Node000008" href="$da/d71/classSystem_1_1ComponentModel_1_1LicenseException.html" title=" " alt="" coords="537,118,780,158"/>
+<area shape="poly" id="edge2412_Node000006_Node000008" title=" " alt="" coords="463,279,482,268,494,257,500,245,506,220,511,194,518,180,530,168,549,156,552,160,534,172,523,184,516,195,511,221,505,247,498,260,486,272,466,284"/>
+<area shape="rect" id="Node000009" href="$d9/d6b/classSystem_1_1ComponentModel_1_1WarningException.html" title=" " alt="" coords="535,182,782,222"/>
+<area shape="poly" id="edge2413_Node000006_Node000009" title=" " alt="" coords="459,276,483,268,497,259,506,250,516,241,531,232,561,220,563,225,533,236,519,245,510,254,500,264,485,272,461,281"/>
+<area shape="rect" id="Node000010" href="$d2/d5f/classSystem_1_1Configuration_1_1ConfigurationException.html" title=" " alt="" coords="532,246,785,286"/>
+<area shape="poly" id="edge2414_Node000006_Node000010" title=" " alt="" coords="466,282,531,276,532,281,466,287"/>
+<area shape="rect" id="Node000011" href="$da/d38/classSystem_1_1Net_1_1InternalException.html" title=" " alt="" coords="551,311,767,336"/>
+<area shape="poly" id="edge2415_Node000006_Node000011" title=" " alt="" coords="466,303,551,311,550,316,465,308"/>
+<area shape="rect" id="Node000012" href="$d0/d57/classSystem_1_1Security_1_1Authentication_1_1AuthenticationException.html" title=" " alt="" coords="544,361,773,401"/>
+<area shape="poly" id="edge2416_Node000006_Node000012" title=" " alt="" coords="455,309,485,318,509,331,533,345,572,358,570,363,531,350,507,336,483,323,453,314"/>
+<area shape="rect" id="Node000013" href="$d2/d00/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaException.html" title=" " alt="" coords="539,425,778,465"/>
+<area shape="poly" id="edge2417_Node000006_Node000013" title=" " alt="" coords="466,307,486,319,497,330,504,342,511,366,517,389,523,400,534,411,552,422,550,427,530,415,519,403,512,391,506,367,500,344,493,333,482,323,464,312"/>
+<area shape="rect" id="Node000014" href="$df/d0b/classSystem_1_1Xml_1_1XmlException.html" title=" " alt="" coords="561,489,756,515"/>
+<area shape="poly" id="edge2418_Node000006_Node000014" title=" " alt="" coords="467,306,486,319,502,338,509,358,511,399,512,438,519,457,534,475,562,492,560,496,530,479,514,459,507,439,505,399,504,359,497,341,482,323,464,310"/>
+</map>

@@ -1,0 +1,94 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,5,353,45"/>
+<area shape="rect" id="Node000001" href="$db/dac/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Alpha8.html" title=" " alt="" coords="469,77,686,117"/>
+<area shape="poly" id="edge3451_Node000000_Node000001" title=" " alt="" coords="367,44,493,75,492,80,366,49"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,213,353,253"/>
+<area shape="rect" id="Node000003" href="$d8/d6a/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Bgr565.html" title=" " alt="" coords="468,289,687,329"/>
+<area shape="poly" id="edge3452_Node000004_Node000003" title=" " alt="" coords="360,254,435,275,485,287,484,292,434,280,358,260"/>
+<area shape="rect" id="Node000007" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,149,353,189"/>
+<area shape="rect" id="Node000006" href="$db/db1/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Bgra4444.html" title=" " alt="" coords="460,225,695,265"/>
+<area shape="poly" id="edge3453_Node000007_Node000006" title=" " alt="" coords="367,189,498,223,497,228,366,195"/>
+<area shape="rect" id="Node000009" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,357,353,397"/>
+<area shape="rect" id="Node000008" href="$d9/db2/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Bgra5551.html" title=" " alt="" coords="460,357,695,397"/>
+<area shape="poly" id="edge3454_Node000009_Node000008" title=" " alt="" coords="367,375,460,375,460,380,367,380"/>
+<area shape="rect" id="Node000015" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,613,353,653"/>
+<area shape="rect" id="Node000014" href="$df/d3a/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Byte4.html" title=" " alt="" coords="472,685,683,725"/>
+<area shape="poly" id="edge3455_Node000015_Node000014" title=" " alt="" coords="368,654,435,671,486,683,485,688,434,676,367,659"/>
+<area shape="rect" id="Node000011" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,421,353,461"/>
+<area shape="rect" id="Node000010" href="$d5/d5b/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1HalfSingle.html" title=" " alt="" coords="458,421,697,461"/>
+<area shape="poly" id="edge3456_Node000011_Node000010" title=" " alt="" coords="367,439,458,439,458,444,367,444"/>
+<area shape="rect" id="Node000018" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,549,353,589"/>
+<area shape="rect" id="Node000017" href="$d5/d1f/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1HalfVector2.html" title=" " alt="" coords="453,621,701,661"/>
+<area shape="poly" id="edge3457_Node000018_Node000017" title=" " alt="" coords="367,588,493,619,492,624,366,593"/>
+<area shape="rect" id="Node000030" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,1157,353,1197"/>
+<area shape="rect" id="Node000029" href="$d9/df0/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1HalfVector4.html" title=" " alt="" coords="453,1149,701,1189"/>
+<area shape="poly" id="edge3458_Node000030_Node000029" title=" " alt="" coords="367,1172,453,1170,453,1175,367,1178"/>
+<area shape="rect" id="Node000013" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,485,353,525"/>
+<area shape="rect" id="Node000012" href="$dc/d1b/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1NormalizedByte2.html" title=" " alt="" coords="435,485,720,525"/>
+<area shape="poly" id="edge3459_Node000013_Node000012" title=" " alt="" coords="367,503,434,503,434,508,367,508"/>
+<area shape="rect" id="Node000020" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,757,353,797"/>
+<area shape="rect" id="Node000019" href="$de/db4/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1NormalizedByte4.html" title=" " alt="" coords="435,749,720,789"/>
+<area shape="poly" id="edge3460_Node000020_Node000019" title=" " alt="" coords="367,772,434,770,434,776,367,778"/>
+<area shape="rect" id="Node000022" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="197,1093,355,1133"/>
+<area shape="rect" id="Node000021" href="$de/dd3/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1NormalizedShort2.html" title=" " alt="" coords="454,1006,701,1061"/>
+<area shape="poly" id="edge3461_Node000022_Node000021" title=" " alt="" coords="365,1087,473,1058,475,1063,366,1092"/>
+<area shape="rect" id="Node000033" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="197,1221,355,1261"/>
+<area shape="rect" id="Node000032" href="$df/d65/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1NormalizedShort4.html" title=" " alt="" coords="454,1214,701,1269"/>
+<area shape="poly" id="edge3462_Node000033_Node000032" title=" " alt="" coords="369,1239,454,1239,454,1244,369,1244"/>
+<area shape="rect" id="Node000024" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,901,353,941"/>
+<area shape="rect" id="Node000023" href="$db/d94/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Rg32.html" title=" " alt="" coords="475,813,680,853"/>
+<area shape="poly" id="edge3463_Node000024_Node000023" title=" " alt="" coords="360,895,386,886,434,863,474,851,476,856,436,868,388,890,362,900"/>
+<area shape="rect" id="Node000026" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,965,353,1005"/>
+<area shape="rect" id="Node000025" href="$df/d35/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Rgba1010102.html" title=" " alt="" coords="447,877,708,917"/>
+<area shape="poly" id="edge3464_Node000026_Node000025" title=" " alt="" coords="365,958,386,951,409,939,434,927,473,915,474,920,436,932,412,943,388,956,367,963"/>
+<area shape="rect" id="Node000035" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,1429,353,1469"/>
+<area shape="rect" id="Node000034" href="$d6/d5d/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Rgba64.html" title=" " alt="" coords="467,1357,688,1397"/>
+<area shape="poly" id="edge3465_Node000035_Node000034" title=" " alt="" coords="366,1425,492,1395,493,1400,367,1430"/>
+<area shape="rect" id="Node000028" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,1029,353,1069"/>
+<area shape="rect" id="Node000027" href="$d1/d44/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Short2.html" title=" " alt="" coords="470,941,685,981"/>
+<area shape="poly" id="edge3466_Node000028_Node000027" title=" " alt="" coords="365,1022,386,1015,409,1003,434,991,473,979,474,984,436,996,412,1007,388,1020,367,1027"/>
+<area shape="rect" id="Node000037" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="199,1365,353,1405"/>
+<area shape="rect" id="Node000036" href="$d3/d6d/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1Short4.html" title=" " alt="" coords="470,1293,685,1333"/>
+<area shape="poly" id="edge3467_Node000037_Node000036" title=" " alt="" coords="367,1359,434,1343,485,1331,486,1336,435,1348,368,1365"/>
+<area shape="rect" id="Node000038" href="$d5/df7/classIPackedVector.html" title=" " alt="" coords="5,693,117,718"/>
+<area shape="rect" id="Node000002" href="$d6/d99/interfaceMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1IPackedVector.html" title=" " alt="" coords="165,678,387,733"/>
+<area shape="poly" id="edge3468_Node000038_Node000002" title=" " alt="" coords="131,703,165,703,165,708,131,708"/>
+<area shape="poly" id="edge3469_Node000002_Node000001" title=" " alt="" coords="382,667,385,664,404,635,418,607,426,579,430,552,429,500,419,447,407,393,402,337,408,277,417,245,432,212,454,181,481,155,536,115,539,120,484,159,458,185,437,215,422,247,413,278,407,337,413,392,424,446,434,499,436,553,432,580,423,608,409,637,389,667,386,670"/>
+<area shape="poly" id="edge3470_Node000002_Node000003" title=" " alt="" coords="382,667,385,664,399,643,408,623,416,583,414,544,406,504,398,464,397,424,406,384,417,364,433,344,448,330,466,320,469,325,451,334,437,347,421,367,411,386,402,425,404,464,411,503,419,543,422,584,413,625,403,646,389,667,386,671"/>
+<area shape="poly" id="edge3471_Node000002_Node000006" title=" " alt="" coords="382,667,385,664,401,639,412,614,419,590,421,565,416,517,405,469,394,421,391,373,394,349,401,324,414,300,433,275,458,256,461,261,437,279,418,303,406,326,399,350,396,373,399,420,410,468,421,516,426,565,424,590,418,616,406,641,389,667,386,671"/>
+<area shape="poly" id="edge3472_Node000002_Node000008" title=" " alt="" coords="382,667,385,664,404,631,412,600,411,568,406,536,401,504,401,472,410,440,433,407,458,389,461,393,437,411,415,442,406,472,407,503,411,535,416,567,417,600,409,633,389,667,386,670"/>
+<area shape="poly" id="edge3473_Node000002_Node000014" title=" " alt="" coords="401,703,472,703,472,708,401,708"/>
+<area shape="poly" id="edge3474_Node000002_Node000010" title=" " alt="" coords="381,667,385,664,401,640,408,616,408,592,406,568,405,544,406,520,415,495,433,471,456,455,459,459,437,475,419,498,412,521,410,544,412,568,414,592,413,617,405,642,389,667,385,671"/>
+<area shape="poly" id="edge3475_Node000002_Node000017" title=" " alt="" coords="400,676,482,659,483,664,401,682"/>
+<area shape="poly" id="edge3476_Node000002_Node000029" title=" " alt="" coords="386,740,389,744,415,786,425,827,425,867,419,906,412,945,410,985,417,1027,437,1072,456,1096,479,1116,529,1147,526,1152,476,1121,452,1099,432,1075,411,1029,405,986,407,945,414,905,419,866,420,828,410,788,385,747,382,744"/>
+<area shape="poly" id="edge3477_Node000002_Node000012" title=" " alt="" coords="376,669,385,663,400,650,410,637,433,607,490,560,543,523,546,528,493,565,437,611,414,640,404,654,388,667,379,673"/>
+<area shape="poly" id="edge3478_Node000002_Node000019" title=" " alt="" coords="401,729,483,747,482,752,400,734"/>
+<area shape="poly" id="edge3479_Node000002_Node000021" title=" " alt="" coords="386,740,389,744,409,776,417,808,416,840,412,871,408,901,408,931,416,961,437,992,455,1007,452,1011,433,995,411,964,403,932,403,901,407,870,411,839,412,809,404,778,385,747,382,744"/>
+<area shape="poly" id="edge3480_Node000002_Node000032" title=" " alt="" coords="386,741,389,744,409,774,422,804,429,833,431,862,425,920,411,976,397,1031,392,1087,395,1115,403,1143,416,1171,437,1200,455,1216,452,1220,433,1203,412,1174,398,1145,390,1116,387,1087,392,1030,406,974,420,919,426,862,424,834,417,806,404,776,385,747,382,744"/>
+<area shape="poly" id="edge3481_Node000002_Node000023" title=" " alt="" coords="379,737,388,743,404,758,413,773,421,786,436,799,476,816,473,821,433,804,417,790,408,775,399,761,385,747,376,742"/>
+<area shape="poly" id="edge3482_Node000002_Node000025" title=" " alt="" coords="384,739,389,744,401,759,408,775,412,806,417,836,424,850,436,863,454,875,451,879,433,867,420,853,412,837,407,807,403,776,396,762,385,747,380,743"/>
+<area shape="poly" id="edge3483_Node000002_Node000034" title=" " alt="" coords="386,741,389,744,402,767,411,797,419,870,417,955,411,1048,405,1139,404,1224,413,1294,423,1322,437,1344,451,1356,468,1365,465,1370,448,1361,433,1347,418,1324,408,1296,399,1224,400,1139,406,1047,412,955,413,870,406,798,397,770,384,747,382,744"/>
+<area shape="poly" id="edge3484_Node000002_Node000027" title=" " alt="" coords="385,740,389,744,405,768,412,792,412,839,410,862,412,884,420,906,437,927,452,940,471,949,469,953,450,944,433,931,415,908,407,885,405,862,407,839,407,793,400,770,385,747,381,743"/>
+<area shape="poly" id="edge3485_Node000002_Node000036" title=" " alt="" coords="386,741,389,744,401,765,409,791,416,856,416,933,411,1015,407,1097,407,1173,416,1236,424,1260,437,1280,452,1293,471,1303,468,1307,449,1297,433,1283,420,1263,410,1237,402,1173,401,1097,406,1015,410,933,411,857,404,792,396,767,384,747,382,744"/>
+<area shape="rect" id="Node000039" href="$d6/d99/interfaceMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1IPackedVector.html" title=" " alt="" coords="165,70,387,125"/>
+<area shape="poly" id="edge3486_Node000039_Node000001" title=" " alt="" coords="401,95,468,95,468,100,401,100"/>
+<area shape="rect" id="Node000016" href="$d6/d99/interfaceMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1IPackedVector.html" title=" " alt="" coords="165,822,387,877"/>
+<area shape="poly" id="edge3487_Node000016_Node000014" title=" " alt="" coords="378,813,385,807,400,790,408,772,416,753,433,735,471,717,473,722,436,739,420,756,413,774,405,793,388,811,381,817"/>
+<area shape="poly" id="edge3488_Node000016_Node000017" title=" " alt="" coords="380,812,385,808,397,791,404,774,407,740,411,705,418,688,433,671,452,658,455,663,436,675,423,691,416,707,412,740,409,775,402,793,389,811,384,816"/>
+<area shape="poly" id="edge3489_Node000016_Node000019" title=" " alt="" coords="376,815,434,799,482,787,484,792,435,804,377,820"/>
+<area shape="poly" id="edge3490_Node000016_Node000021" title=" " alt="" coords="383,883,389,887,400,901,407,915,413,941,419,967,425,979,436,991,455,1004,452,1009,433,995,421,982,414,969,408,942,402,916,396,904,385,891,380,887"/>
+<area shape="poly" id="edge3491_Node000016_Node000023" title=" " alt="" coords="400,840,474,836,475,841,401,845"/>
+<area shape="poly" id="edge3492_Node000016_Node000025" title=" " alt="" coords="401,866,452,875,451,880,400,872"/>
+<area shape="poly" id="edge3493_Node000016_Node000027" title=" " alt="" coords="375,880,388,887,412,908,422,918,436,927,471,941,469,946,433,932,418,922,409,912,385,892,373,885"/>
+<area shape="rect" id="Node000031" href="$d6/d99/interfaceMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1IPackedVector.html" title=" " alt="" coords="165,1286,387,1341"/>
+<area shape="poly" id="edge3494_Node000031_Node000029" title=" " alt="" coords="377,1277,385,1271,400,1254,408,1236,416,1218,433,1201,458,1187,460,1192,436,1205,420,1221,413,1238,405,1257,388,1275,381,1281"/>
+<area shape="poly" id="edge3495_Node000031_Node000032" title=" " alt="" coords="400,1281,462,1266,463,1271,401,1286"/>
+<area shape="poly" id="edge3496_Node000031_Node000034" title=" " alt="" coords="401,1337,483,1355,482,1360,400,1342"/>
+<area shape="poly" id="edge3497_Node000031_Node000036" title=" " alt="" coords="400,1311,470,1311,470,1316,400,1316"/>
+<area shape="rect" id="Node000005" href="$d6/d99/interfaceMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1PackedVector_1_1IPackedVector.html" title=" " alt="" coords="165,278,387,333"/>
+<area shape="poly" id="edge3498_Node000005_Node000003" title=" " alt="" coords="401,304,468,305,468,311,401,310"/>
+<area shape="poly" id="edge3499_Node000005_Node000006" title=" " alt="" coords="400,278,476,263,477,268,401,283"/>
+<area shape="poly" id="edge3500_Node000005_Node000008" title=" " alt="" coords="401,332,493,355,492,360,399,338"/>
+<area shape="poly" id="edge3501_Node000005_Node000010" title=" " alt="" coords="380,337,388,343,404,360,413,377,421,393,436,407,459,419,456,424,433,412,416,396,408,379,400,363,385,347,377,342"/>
+<area shape="poly" id="edge3502_Node000005_Node000012" title=" " alt="" coords="384,339,389,344,402,360,409,377,412,410,416,442,423,457,436,471,453,483,450,487,433,475,419,460,411,443,407,411,403,378,397,363,385,347,380,343"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="AutoPinner" name="AutoPinner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,2095,207,2215"/>
+<area shape="rect" id="Node000002" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="35,1601,158,1666"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,1680,118,2094,113,2094,96,1680"/>
+<area shape="rect" id="Node000003" href="$dc/d13/structSystem_1_1Runtime_1_1InteropServices_1_1GCHandle.html" title=" " alt="" coords="183,1235,437,2032"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,2000,172,2033,153,2080,148,2078,168,2031,180,1998"/>
+<area shape="rect" id="Node000004" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1172"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,1172,313,1218,307,1218,307,1172"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="478,579,496,612,503,660,499,698,488,727,483,726,494,697,497,660,491,613,474,581"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="121,97,146,172,141,174,116,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="498,79,481,133,476,132,493,77"/>
+</map>

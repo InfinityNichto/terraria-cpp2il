@@ -1,0 +1,7 @@
+<map id="DeviceVPPICalculator" name="DeviceVPPICalculator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,5,393,916"/>
+<area shape="rect" id="Node000002" href="$d0/dae/classXNAUICameraSettings.html" title=" " alt="" coords="5,1045,244,1699"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,930,176,1046,171,1045,189,929"/>
+<area shape="rect" id="Node000003" href="$dc/db5/classXNAWorldCameraSettings.html" title=" " alt="" coords="269,964,530,1780"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="335,929,340,963,335,964,330,930"/>
+</map>

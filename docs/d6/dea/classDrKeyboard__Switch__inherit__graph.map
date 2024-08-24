@@ -1,0 +1,7 @@
+<map id="DrKeyboard_Switch" name="DrKeyboard_Switch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="52,619,275,772"/>
+<area shape="rect" id="Node000002" href="$d0/d4e/classDrKeyboard__Touch.html" title=" " alt="" coords="5,312,321,571"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,584,166,619,161,619,161,584"/>
+<area shape="rect" id="Node000003" href="$db/de4/classDrKeyboard__Base.html" title=" " alt="" coords="27,5,300,264"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,277,166,312,161,312,161,277"/>
+</map>

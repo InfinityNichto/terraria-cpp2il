@@ -1,0 +1,10 @@
+<map id="System.ComponentModel.INotifyPropertyChanged" name="System.ComponentModel.INotifyPropertyChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,5,421,85"/>
+<area shape="rect" id="Node000002" href="$d8/d0c/classNewtonsoft_1_1Json_1_1Linq_1_1JObject.html" title=" " alt="" coords="5,133,299,2443"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,99,299,133,293,133,298,99"/>
+<area shape="rect" id="Node000003" href="$d2/dd2/classSystem_1_1Configuration_1_1ApplicationSettingsBase.html" title=" " alt="" coords="323,884,602,1692"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,98,415,883,409,884,311,99"/>
+<area shape="rect" id="Node000004" href="$d8/d86/classTerraria_1_1Properties_1_1Settings.html" title=" " alt="" coords="349,2491,576,2596"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,1706,457,2158,461,2491,456,2491,452,2158,451,1706"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="474,1706,474,2158,469,2491,464,2491,468,2158,469,1706"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="System.Security.Principal.WindowsIdentity" name="System.Security.Principal.WindowsIdentity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="359,148,691,1059"/>
+<area shape="rect" id="Node000002" href="$d5/dd1/classglobal_1_1SystemSecurity_1_1Claims_1_1ClaimsIdentity.html" title=" " alt="" coords="5,13,176,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,102,361,391,357,394,128,105"/>
+<area shape="rect" id="Node000003" href="$db/dba/interfaceSystem_1_1Security_1_1Principal_1_1IIdentity.html" title=" " alt="" coords="200,10,395,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,107,362,202,357,204,317,109"/>
+<area shape="rect" id="Node000004" href="$d0/d59/classglobal_1_1SystemRuntime_1_1Serialization_1_1IDeserializationCallback.html" title=" " alt="" coords="419,5,632,100"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="528,114,528,148,523,148,523,114"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="657,13,847,93"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="733,106,694,201,689,199,728,104"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="872,20,1059,85"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="934,98,694,397,689,393,930,94"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="System.Reflection.SignatureArrayType" name="System.Reflection.SignatureArrayType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="411,2209,629,2453"/>
+<area shape="rect" id="Node000002" href="$d1/d13/classSystem_1_1Reflection_1_1SignatureHasElementType.html" title=" " alt="" coords="234,1505,481,2147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,2159,483,2208,478,2210,462,2161"/>
+<area shape="rect" id="Node000003" href="$d2/d20/classSystem_1_1Reflection_1_1SignatureType.html" title=" " alt="" coords="5,120,347,1443"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,1456,304,1504,299,1505,291,1457"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="287,5,428,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="349,84,340,120,335,119,344,83"/>
+<area shape="rect" id="Node000005" href="$d2/d20/classSystem_1_1Reflection_1_1SignatureType.html" title=" " alt="" coords="371,120,712,1443"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="371,83,380,119,375,120,366,84"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="427,1443,419,1489,414,1488,422,1442"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="505,1793,535,1859"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="523,1859,523,2193,517,2193,517,1859"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="575,1793,617,1859"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="599,1859,592,2001,584,2093,569,2186,568,2194,562,2193,564,2185,578,2093,587,2001,593,1859"/>
+</map>

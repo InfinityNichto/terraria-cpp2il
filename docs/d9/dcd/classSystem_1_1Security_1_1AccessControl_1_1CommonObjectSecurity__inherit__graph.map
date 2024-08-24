@@ -1,0 +1,9 @@
+<map id="System.Security.AccessControl.CommonObjectSecurity" name="System.Security.AccessControl.CommonObjectSecurity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,224,199"/>
+<area shape="rect" id="Node000003" href="$d1/ddb/classSystem_1_1Security_1_1AccessControl_1_1NativeObjectSecurity.html" title=" " alt="" coords="5,247,224,327"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,212,117,246,112,246,112,212"/>
+<area shape="rect" id="Node000002" href="$dd/dae/classSystem_1_1Security_1_1AccessControl_1_1ObjectSecurity.html" title=" " alt="" coords="60,5,169,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,85,117,118,112,118,112,85"/>
+<area shape="rect" id="Node000004" href="$de/d14/classSystem_1_1Security_1_1AccessControl_1_1CryptoKeySecurity.html" title=" " alt="" coords="5,375,224,455"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,340,117,374,112,374,112,340"/>
+</map>

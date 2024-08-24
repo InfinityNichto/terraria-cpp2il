@@ -1,0 +1,16 @@
+<map id="UnityEngine.CullingGroup" name="UnityEngine.CullingGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,1427,417,1556"/>
+<area shape="rect" id="Node000002" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1172"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,1172,303,1364,306,1410,301,1410,298,1364,295,1172"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="478,579,496,612,503,660,499,698,488,727,483,726,494,697,497,660,491,613,474,581"/>
+<area shape="rect" id="Node000006" href="$d6/d0e/classUnityEngine_1_1CullingGroup.html" title=" " alt="" coords="366,1235,579,1364"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="443,1172,455,1218,450,1219,438,1173"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,97,146,172,141,174,116,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="498,79,481,133,476,132,493,77"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="420,1366,377,1416,373,1412,416,1363"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="581,1281,599,1287,606,1299,597,1312,593,1309,601,1299,595,1292,579,1286"/>
+</map>

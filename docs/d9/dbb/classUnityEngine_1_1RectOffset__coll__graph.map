@@ -1,0 +1,16 @@
+<map id="UnityEngine.RectOffset" name="UnityEngine.RectOffset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="326,1235,537,1613"/>
+<area shape="rect" id="Node000002" href="$d7/dfc/interfaceSystem_1_1IFormattable.html" title=" " alt="" coords="5,613,241,707"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,721,149,811,173,925,208,1050,230,1112,255,1171,289,1233,328,1292,323,1295,284,1236,250,1173,225,1113,203,1051,168,926,144,812,129,722"/>
+<area shape="rect" id="Node000003" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="265,148,597,1172"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="434,1172,434,1218,429,1218,429,1172"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="600,579,617,612,624,660,620,698,609,727,604,726,615,697,619,660,612,613,595,581"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="127,5,317,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,97,268,172,263,174,237,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="341,5,521,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="434,99,434,148,429,148,429,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="546,13,709,78"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="620,79,602,133,597,132,615,77"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="691,627,745,693"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="726,693,734,779,736,901,732,969,722,1039,706,1108,682,1173,656,1219,624,1263,588,1302,551,1337,548,1333,585,1298,620,1259,652,1217,677,1171,701,1106,717,1038,727,969,731,901,729,780,720,693"/>
+</map>

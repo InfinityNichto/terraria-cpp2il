@@ -1,0 +1,8 @@
+<map id="Terraria.GameContent.ItemDropRules.Conditions.PumpkinMoonDropGatingChance" name="Terraria.GameContent.ItemDropRules.Conditions.PumpkinMoonDropGatingChance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,267,259,436"/>
+<area shape="rect" id="Node000002" href="$d4/d9d/interfaceTerraria_1_1GameContent_1_1ItemDropRules_1_1IItemDropRuleCondition.html" title=" " alt="" coords="97,119,314,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,232,168,268,164,266,178,230"/>
+<area shape="rect" id="Node000003" href="$dc/d71/interfaceTerraria_1_1GameContent_1_1ItemDropRules_1_1IProvideItemConditionDescription.html" title=" " alt="" coords="13,5,251,71"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="104,84,88,119,82,156,83,194,89,231,99,266,94,267,84,232,78,194,77,156,83,118,99,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,81,180,117,175,120,154,84"/>
+</map>

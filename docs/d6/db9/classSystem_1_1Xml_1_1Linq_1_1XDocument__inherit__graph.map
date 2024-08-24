@@ -1,0 +1,9 @@
+<map id="System.Xml.Linq.XDocument" name="System.Xml.Linq.XDocument">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1329,240,1816"/>
+<area shape="rect" id="Node000002" href="$d1/d96/classSystem_1_1Xml_1_1Linq_1_1XContainer.html" title=" " alt="" coords="6,664,239,1281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,1295,125,1329,120,1329,120,1295"/>
+<area shape="rect" id="Node000003" href="$d3/d03/classSystem_1_1Xml_1_1Linq_1_1XNode.html" title=" " alt="" coords="28,387,217,616"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,630,125,664,120,664,120,630"/>
+<area shape="rect" id="Node000004" href="$da/d14/classSystem_1_1Xml_1_1Linq_1_1XObject.html" title=" " alt="" coords="8,5,237,339"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,353,125,387,120,387,120,353"/>
+</map>

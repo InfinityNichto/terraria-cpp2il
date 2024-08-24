@@ -1,0 +1,28 @@
+var classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder =
+[
+    [ "UTF32Decoder", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder_a14bd37b409ec7208c02753aad3f18238.html#a14bd37b409ec7208c02753aad3f18238", null ],
+    [ "ClearMustFlush", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#ad4ba84c7e18c4b6bbc103f69c96b7a8e", null ],
+    [ "Convert", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a2c61ae6b3cba093e0d0a65fd37aea2d9", null ],
+    [ "Convert", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a74d2ddc55e6a707eeecd5ce320e08895", null ],
+    [ "GetCharCount", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a35c3730b91656b31e193db928e32fd99", null ],
+    [ "GetCharCount", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#aede3ad4421d65c0ffd04b8fee5f1c609", null ],
+    [ "GetCharCount", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a24cd1a87ac8266c3a5371c64f45ee8b2", null ],
+    [ "GetChars", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#afc421e9a7711c3ed0a0d5e0baf55bd21", null ],
+    [ "GetChars", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#ab12e2822a3ae58c146910de6659bd1ba", null ],
+    [ "GetChars", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#abe4de7a7eef2ab248b5198cbd9ab557f", null ],
+    [ "GetChars", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a304bcccee5a8f59cbd3ef33149b45262", null ],
+    [ "Reset", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder_a5c516d11f7380dd438abfec8300e55aa.html#a5c516d11f7380dd438abfec8300e55aa", null ],
+    [ "_bytesUsed", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#ab1331c524605b2c228d323e24acd6381", null ],
+    [ "_encoding", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a6aea204da0d3b8441eb8319b78db10ed", null ],
+    [ "_fallback", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a1c7d5287283299c41ff225f593bf765a", null ],
+    [ "_fallbackBuffer", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a782e579831c5e504d3fdd7ca4b54c139", null ],
+    [ "_mustFlush", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a5d9fb7bf28904eda20f3289a4eef8780", null ],
+    [ "_throwOnOverflow", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#ad79628be30d507b7fbd3afb97cbb9ac0", null ],
+    [ "iChar", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder_ae93e84364e667033bdd2ed5ecf7086c5.html#ae93e84364e667033bdd2ed5ecf7086c5", null ],
+    [ "readByteCount", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder_a879fa9932c7eddaad767560dae9028ee.html#a879fa9932c7eddaad767560dae9028ee", null ],
+    [ "Fallback", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a218aed86356aef5ca59a9f017b7e6903", null ],
+    [ "FallbackBuffer", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#ac989d53c536cb90ce8e21022299f069a", null ],
+    [ "HasState", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder_af8a3fe3ab31fca07e40be90a6b45375b.html#af8a3fe3ab31fca07e40be90a6b45375b", null ],
+    [ "InternalHasFallbackBuffer", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#a7889f9380a7cd8efc53df19a4ce0e504", null ],
+    [ "MustFlush", "db/d44/classSystem_1_1Text_1_1UTF32Encoding_1_1UTF32Decoder.html#aa9537b83bf5fae0c27e67da9cec697d3", null ]
+];

@@ -1,0 +1,14 @@
+<map id="Terraria.DataStructures.ContainerTransferContext" name="Terraria.DataStructures.ContainerTransferContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="179,1313,403,1591"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="33,276,277,1251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,1250,263,1297,258,1298,249,1251"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="280,679,290,693,297,712,304,763,300,804,290,834,285,832,295,803,299,763,292,713,285,696,276,682"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="11,133,174,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,212,107,275,101,276,95,213"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,85,95,133,90,133,90,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,133,241,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="219,199,212,260,207,259,213,199"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="407,731,450,796"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="434,796,436,877,435,991,424,1121,413,1187,398,1251,381,1299,376,1297,393,1250,408,1186,419,1120,430,990,431,877,428,796"/>
+</map>

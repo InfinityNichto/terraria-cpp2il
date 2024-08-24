@@ -1,0 +1,23 @@
+<map id="UnityEngine.UI.ColorBlock" name="UnityEngine.UI.ColorBlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="425,1593,632,1967"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="65,653,248,718"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,732,120,874,107,971,100,1078,101,1193,113,1309,125,1366,140,1423,160,1477,184,1529,206,1564,232,1596,294,1653,361,1699,426,1734,424,1738,359,1703,291,1657,228,1600,202,1567,180,1532,155,1479,135,1424,119,1368,108,1310,95,1193,94,1078,102,970,114,873,142,731"/>
+<area shape="rect" id="Node000008" href="$db/db3/structUnityEngine_1_1UI_1_1ColorBlock.html" title=" " alt="" coords="195,1157,401,1531"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="169,731,261,1157,255,1158,164,732"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,85,85,152,86,228,100,351,118,472,152,652,147,653,113,473,94,352,81,228,80,152,85,84"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="201,148,361,213"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="147,77,240,145,236,150,144,81"/>
+<area shape="rect" id="Node000004" href="$df/d0b/structUnityEngine_1_1Color.html" title=" " alt="" coords="384,335,591,1036"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="558,1036,573,1157,581,1262,583,1344,580,1426,573,1531,568,1577,562,1577,567,1530,575,1426,578,1344,575,1262,567,1158,553,1037"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="389,1037,359,1142,353,1141,384,1036"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="301,225,386,431,381,433,296,227"/>
+<area shape="rect" id="Node000006" href="$d7/dfc/interfaceSystem_1_1IFormattable.html" title=" " alt="" coords="385,133,621,228"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="504,242,501,335,496,334,499,242"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="645,148,687,213"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="690,199,741,255,767,293,786,334,841,510,877,664,888,736,895,805,897,872,895,937,888,1003,877,1070,842,1208,790,1360,722,1532,687,1598,644,1659,640,1656,683,1595,717,1530,785,1358,837,1206,872,1068,883,1002,889,937,891,872,889,805,883,737,872,665,836,511,781,336,762,295,737,259,686,203"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="649,215,636,230,616,241,607,246,599,254,560,321,555,319,595,250,604,241,613,237,632,226,645,212"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="667,213,639,666,621,912,613,996,606,1037,569,1104,522,1165,469,1219,416,1265,412,1261,465,1215,518,1162,565,1101,601,1035,608,995,616,912,634,666,662,213"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="399,1530,424,1577,420,1580,394,1532"/>
+<area shape="poly" id="edge13_Node000008_Node000008" title=" " alt="" coords="403,1306,421,1320,428,1344,425,1361,417,1373,413,1370,420,1359,423,1344,417,1323,400,1310"/>
+</map>

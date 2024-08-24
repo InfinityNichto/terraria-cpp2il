@@ -1,0 +1,13 @@
+<map id="System.IO.MemoryStream" name="System.IO.MemoryStream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="87,2059,372,3019"/>
+<area shape="rect" id="Node000005" href="$df/df5/classSystem_1_1Net_1_1FtpWebResponse_1_1EmptyStream.html" title=" " alt="" coords="5,3067,216,3147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="129,3033,121,3067,116,3066,123,3032"/>
+<area shape="rect" id="Node000006" href="$d9/da3/classSystem_1_1Xml_1_1XmlCachedStream.html" title=" " alt="" coords="240,3067,459,3147"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="336,3032,344,3066,338,3067,331,3033"/>
+<area shape="rect" id="Node000002" href="$d6/dc1/classSystem_1_1IO_1_1Stream.html" title=" " alt="" coords="43,133,416,2011"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,2024,232,2059,227,2059,227,2024"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="19,5,221,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,99,132,133,127,133,123,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="245,13,432,78"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="336,92,332,133,327,133,331,92"/>
+</map>

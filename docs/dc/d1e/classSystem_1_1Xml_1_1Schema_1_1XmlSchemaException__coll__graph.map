@@ -1,0 +1,13 @@
+<map id="System.Xml.Schema.XmlSchemaException" name="System.Xml.Schema.XmlSchemaException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="251,455,560,993"/>
+<area shape="rect" id="Node000002" href="$d8/d7a/classSystem_1_1SystemException.html" title=" " alt="" coords="5,120,307,348"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,359,270,453,266,456,218,361"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="69,5,243,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,84,159,120,153,120,153,84"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="331,201,381,267"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="357,267,356,342,360,430,361,438,355,439,355,431,351,342,352,267"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="439,201,470,267"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="454,267,437,438,431,438,449,267"/>
+<area shape="rect" id="Node000006" href="$d4/d35/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaObject.html" title=" " alt="" coords="494,120,725,348"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="567,349,533,432,529,441,524,439,528,430,562,347"/>
+</map>

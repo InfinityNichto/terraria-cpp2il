@@ -1,0 +1,7 @@
+<map id="UnityEngine.CullingGroupEvent" name="UnityEngine.CullingGroupEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,187,228"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="33,5,63,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,71,47,97,52,123,56,133,51,135,47,125,41,97,41,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,5,165,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,72,116,133,111,132,131,70"/>
+</map>

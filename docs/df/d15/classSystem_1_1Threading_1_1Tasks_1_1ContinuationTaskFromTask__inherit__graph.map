@@ -1,0 +1,12 @@
+<map id="System.Threading.Tasks.ContinuationTaskFromTask" name="System.Threading.Tasks.ContinuationTaskFromTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,4789,493,4963"/>
+<area shape="rect" id="Node000002" href="$da/d81/classSystem_1_1Threading_1_1Tasks_1_1Task.html" title=" " alt="" coords="137,153,575,4741"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,4755,359,4789,353,4789,353,4755"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="581,2137,596,2270,602,2447,596,2634,588,2709,578,2772,573,2771,583,2709,590,2634,597,2447,591,2270,575,2137"/>
+<area shape="rect" id="Node000003" href="$d6/d20/interfaceSystem_1_1Threading_1_1IThreadPoolWorkItem.html" title=" " alt="" coords="5,5,235,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,119,139,225,134,226,124,119"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="259,23,453,88"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="359,102,359,153,353,153,353,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="477,23,664,88"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="569,102,565,153,559,153,564,101"/>
+</map>

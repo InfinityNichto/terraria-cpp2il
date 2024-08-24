@@ -1,0 +1,24 @@
+<map id="System.Net.WebException" name="System.Net.WebException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="518,969,827,1764"/>
+<area shape="rect" id="Node000002" href="$d8/d42/classSystem_1_1InvalidOperationException.html" title=" " alt="" coords="5,534,407,747"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,758,520,1124,516,1127,279,761"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="74,183,298,248"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,262,204,534,198,534,185,262"/>
+<area shape="rect" id="Node000004" href="$d6/d2f/interfaceSystem_1_1Runtime_1_1Serialization_1_1ISerializable.html" title=" " alt="" coords="323,168,532,263"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="432,276,439,393,453,551,476,728,510,906,526,969,521,970,505,907,471,729,448,551,434,394,427,277"/>
+<area shape="rect" id="Node000006" href="$d9/d91/classSystem_1_1Net_1_1WebResponse.html" title=" " alt="" coords="520,375,825,907"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="463,273,522,375,517,377,459,276"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="850,608,997,673"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="916,674,841,908,824,955,819,953,835,906,911,673"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="675,907,675,953,670,953,670,907"/>
+<area shape="rect" id="Node000007" href="$d9/d0e/classSystem_1_1MarshalByRefObject.html" title=" " alt="" coords="557,133,826,297"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="690,312,687,374,682,374,684,311"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="664,5,719,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="694,71,694,117,689,117,689,71"/>
+<area shape="rect" id="Node000009" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="850,183,973,248"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="889,261,825,376,820,373,885,258"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="997,183,1039,248"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="1013,249,1003,275,987,299,968,316,950,328,914,340,878,352,859,361,840,377,839,377,835,373,836,373,856,357,876,347,912,335,947,323,965,312,983,296,998,272,1008,247"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1021,608,1218,673"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1111,675,1072,780,1043,845,1011,908,929,1040,839,1164,835,1161,924,1037,1006,905,1039,843,1067,778,1106,673"/>
+</map>

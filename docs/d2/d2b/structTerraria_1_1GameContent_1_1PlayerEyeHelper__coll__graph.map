@@ -1,0 +1,13 @@
+<map id="Terraria.GameContent.PlayerEyeHelper" name="Terraria.GameContent.PlayerEyeHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,636,400,933"/>
+<area shape="rect" id="Node000002" href="$da/d56/structTerraria_1_1GameContent_1_1PlayerEyeHelper.html" title=" " alt="" coords="137,276,400,573"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,573,271,620,266,620,266,573"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="401,394,419,406,426,424,423,437,416,446,412,443,419,435,421,425,415,409,398,399"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="248,5,278,71"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="249,54,219,82,183,121,148,170,121,224,113,232,100,227,72,197,42,156,17,129,11,126,8,132,10,154,17,193,54,333,128,572,148,620,143,622,123,574,49,334,12,194,4,155,3,131,9,121,20,124,46,153,76,193,103,223,112,227,117,221,143,167,179,118,215,78,245,51"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="266,71,269,260,263,260,261,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="428,133,602,199"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="292,51,453,131,451,136,289,55"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="523,198,530,269,531,365,528,417,520,471,507,524,488,575,455,628,414,676,410,673,451,625,483,572,502,523,515,470,523,417,526,364,524,269,517,199"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="429,199,390,225,353,265,349,261,386,221,426,195"/>
+</map>

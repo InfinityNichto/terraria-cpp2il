@@ -1,0 +1,10 @@
+<map id="System.ComponentModel.ComponentCollection" name="System.ComponentModel.ComponentCollection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,608,267,787"/>
+<area shape="rect" id="Node000002" href="$dc/d2a/classSystem_1_1Collections_1_1ReadOnlyCollectionBase.html" title=" " alt="" coords="19,301,253,560"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,574,139,608,133,608,133,574"/>
+<area shape="rect" id="Node000003" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="114,119,281,253"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,267,171,302,166,300,175,266"/>
+<area shape="rect" id="Node000004" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="25,5,247,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="117,84,105,119,99,165,98,211,107,301,102,301,93,211,94,164,100,118,111,82"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,82,172,118,167,120,152,84"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="System.Linq.EnumerableSorter&lt; TElement &gt;" name="System.Linq.EnumerableSorter&lt; TElement &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="290,291,554,672"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,228,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,229,292,352,288,356,158,232"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="167,219,208,250,280,318,276,322,204,254,164,223"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="253,155,429,221"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,220,367,275,362,276,347,222"/>
+<area shape="rect" id="Node000004" href="$dd/d58/interfaceSystem_1_1Collections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="453,148,650,228"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="536,230,515,277,511,274,531,227"/>
+<area shape="rect" id="Node000005" href="$dd/d58/interfaceSystem_1_1Collections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="453,5,650,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="554,99,554,148,549,148,549,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="674,155,717,221"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="676,216,664,230,567,334,563,330,660,226,672,213"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="748,155,795,221"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="761,222,748,246,732,268,695,306,654,341,569,402,566,397,651,337,691,302,728,265,744,243,756,220"/>
+</map>

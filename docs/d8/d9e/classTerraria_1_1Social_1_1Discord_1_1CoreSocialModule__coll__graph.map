@@ -1,0 +1,14 @@
+<map id="Terraria.Social.Discord.CoreSocialModule" name="Terraria.Social.Discord.CoreSocialModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="374,1347,537,1487"/>
+<area shape="rect" id="Node000002" href="$d5/d3e/interfaceTerraria_1_1Social_1_1ISocialModule.html" title=" " alt="" coords="5,997,140,1082"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,1095,95,1149,116,1210,147,1270,167,1297,190,1321,233,1350,281,1373,329,1389,375,1401,373,1406,327,1394,279,1378,230,1355,187,1325,163,1300,142,1273,111,1212,90,1150,78,1096"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="165,1007,215,1072"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,1073,178,1125,177,1191,180,1225,188,1259,200,1292,217,1321,246,1350,281,1372,320,1389,358,1400,357,1405,318,1394,279,1377,243,1354,213,1324,195,1294,183,1261,175,1226,171,1191,173,1125,180,1072"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="434,1007,477,1072"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="458,1073,458,1330,453,1330,453,1073"/>
+<area shape="rect" id="Node000005" href="$d2/d72/classTerraria_1_1Social_1_1Discord_1_1DiscordHooks.html" title=" " alt="" coords="743,824,971,1255"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="744,1246,707,1288,665,1325,610,1359,553,1385,551,1380,607,1354,662,1321,703,1284,740,1242"/>
+<area shape="rect" id="Node000006" href="$d8/d1e/classTerraria_1_1Social_1_1Discord_1_1DiscordRpc.html" title=" " alt="" coords="535,5,797,688"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="663,688,650,1097,640,1250,635,1299,628,1324,613,1344,595,1361,553,1387,550,1382,591,1357,609,1340,624,1322,629,1298,635,1250,644,1096,657,688"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="763,688,796,807,791,809,758,689"/>
+</map>
