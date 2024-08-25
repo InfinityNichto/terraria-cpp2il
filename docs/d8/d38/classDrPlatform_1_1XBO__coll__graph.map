@@ -1,9 +1,0 @@
-<map id="DrPlatform.XBO" name="DrPlatform.XBO">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,269,368"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="35,5,85,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,70,88,108,91,117,86,119,83,110,69,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="116,5,159,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,71,140,117,135,117,135,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="183,5,374,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,72,227,121,222,118,255,69"/>
-</map>

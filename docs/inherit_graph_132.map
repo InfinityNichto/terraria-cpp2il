@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d7/d00/classglobal_1_1SystemRuntime_1_1Serialization_1_1ISerializationSurrogate.html" title=" " alt="" coords="5,37,264,77"/>
-<area shape="rect" id="Node000001" href="$d4/da7/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1ObjRefSurrogate.html" title=" " alt="" coords="322,5,525,45"/>
-<area shape="poly" id="edge2473_Node000000_Node000001" title=" " alt="" coords="278,39,322,34,322,39,278,44"/>
-<area shape="rect" id="Node000002" href="$d2/de6/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1RemotingSurrogate.html" title=" " alt="" coords="312,69,535,109"/>
-<area shape="poly" id="edge2474_Node000000_Node000002" title=" " alt="" coords="278,71,312,74,312,80,278,76"/>
-</map>

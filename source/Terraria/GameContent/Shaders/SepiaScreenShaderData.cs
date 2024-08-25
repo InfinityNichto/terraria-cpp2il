@@ -7,11 +7,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent.Shaders
 {
-	// Token: 0x0200058A RID: 1418
 	[global::Cpp2ILInjected.Token(Token = "0x2000824")]
 	public class SepiaScreenShaderData : ScreenShaderData
 	{
-		// Token: 0x06003BA2 RID: 15266 RVA: 0x0002CA7D File Offset: 0x0002AC7D
 		[global::Cpp2ILInjected.Token(Token = "0x60042BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7980C4", Offset = "0x7980C4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenEffectInitializer), Member = "Load", ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace Terraria.GameContent.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003BA3 RID: 15267 RVA: 0x0002CA80 File Offset: 0x0002AC80
 		[global::Cpp2ILInjected.Token(Token = "0x60042BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7980CC", Offset = "0x7980CC", Length = "0x468")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -77,7 +74,6 @@ namespace Terraria.GameContent.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003BA4 RID: 15268 RVA: 0x0002CA83 File Offset: 0x0002AC83
 		[global::Cpp2ILInjected.Token(Token = "0x60042BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x798534", Offset = "0x798534", Length = "0x248")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

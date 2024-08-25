@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000FC RID: 252
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000109")]
 	public class LogitechWingManWindowsUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000682 RID: 1666 RVA: 0x000033B3 File Offset: 0x000015B3
 		[global::Cpp2ILInjected.Token(Token = "0x600069F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A110F8", Offset = "0x1A110F8", Length = "0x874")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000683 RID: 1667 RVA: 0x000033B6 File Offset: 0x000015B6
 		[global::Cpp2ILInjected.Token(Token = "0x60006A0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A1196C", Offset = "0x1A1196C", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

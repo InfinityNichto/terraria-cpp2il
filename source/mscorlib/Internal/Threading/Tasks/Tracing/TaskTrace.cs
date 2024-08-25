@@ -8,12 +8,9 @@ using Internal.Runtime.Augments;
 
 namespace Internal.Threading.Tasks.Tracing
 {
-	// Token: 0x02000045 RID: 69
 	[global::Cpp2ILInjected.Token(Token = "0x2000060")]
 	internal static class TaskTrace
 	{
-		// Token: 0x17000032 RID: 50
-		// (get) Token: 0x060001C9 RID: 457 RVA: 0x00014B07 File Offset: 0x00012D07
 		[global::Cpp2ILInjected.Token(Token = "0x1700003A")]
 		public static bool Enabled
 		{
@@ -41,7 +38,6 @@ namespace Internal.Threading.Tasks.Tracing
 			}
 		}
 
-		// Token: 0x060001CA RID: 458 RVA: 0x00014B0A File Offset: 0x00012D0A
 		[global::Cpp2ILInjected.Token(Token = "0x6000226")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6C54", Offset = "0x1AC6C54", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.CompilerServices.TaskAwaiter), Member = "OutputWaitEtwEvents", MemberParameters = new object[]
@@ -56,7 +52,6 @@ namespace Internal.Threading.Tasks.Tracing
 			throw null;
 		}
 
-		// Token: 0x060001CB RID: 459 RVA: 0x00014B0D File Offset: 0x00012D0D
 		[global::Cpp2ILInjected.Token(Token = "0x6000227")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6CD8", Offset = "0x1AC6CD8", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "InternalWait", MemberParameters = new object[]
@@ -71,7 +66,6 @@ namespace Internal.Threading.Tasks.Tracing
 			throw null;
 		}
 
-		// Token: 0x060001CC RID: 460 RVA: 0x00014B10 File Offset: 0x00012D10
 		[global::Cpp2ILInjected.Token(Token = "0x6000228")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6D5C", Offset = "0x1AC6D5C", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "InternalWait", MemberParameters = new object[]
@@ -87,7 +81,6 @@ namespace Internal.Threading.Tasks.Tracing
 			throw null;
 		}
 
-		// Token: 0x060001CD RID: 461 RVA: 0x00014B13 File Offset: 0x00012D13
 		[global::Cpp2ILInjected.Token(Token = "0x6000229")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6DE0", Offset = "0x1AC6DE0", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.ThreadPoolTaskScheduler), Member = "QueueTask", MemberParameters = new object[] { typeof(global::System.Threading.Tasks.Task) }, ReturnType = typeof(void))]
@@ -98,7 +91,6 @@ namespace Internal.Threading.Tasks.Tracing
 			throw null;
 		}
 
-		// Token: 0x040000DC RID: 220
 		[global::Cpp2ILInjected.Token(Token = "0x400018F")]
 		private static Internal.Runtime.Augments.TaskTraceCallbacks s_callbacks;
 	}

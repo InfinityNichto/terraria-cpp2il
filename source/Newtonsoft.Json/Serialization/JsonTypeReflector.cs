@@ -16,12 +16,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Serialization
 {
-	// Token: 0x02000087 RID: 135
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000B0")]
 	internal static class JsonTypeReflector
 	{
-		// Token: 0x06000632 RID: 1586 RVA: 0x000032B1 File Offset: 0x000014B1
 		[global::Cpp2ILInjected.Token(Token = "0x60006A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158ECB4", Offset = "0x158ECB4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -42,7 +40,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000633 RID: 1587 RVA: 0x000032B4 File Offset: 0x000014B4
 		[global::Cpp2ILInjected.Token(Token = "0x60006A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D01928", Offset = "0x1D01928", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DefaultContractResolver), Member = "GetSerializableMembers", MemberParameters = new object[] { typeof(Type) }, ReturnType = typeof(List<MemberInfo>))]
@@ -70,7 +67,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000634 RID: 1588 RVA: 0x000032B7 File Offset: 0x000014B7
 		[global::Cpp2ILInjected.Token(Token = "0x60006A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D019BC", Offset = "0x1D019BC", Length = "0x238")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +95,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000635 RID: 1589 RVA: 0x000032BA File Offset: 0x000014BA
 		[global::Cpp2ILInjected.Token(Token = "0x60006A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D01BF4", Offset = "0x1D01BF4", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DefaultContractResolver), Member = "GetSerializableMembers", MemberParameters = new object[] { typeof(Type) }, ReturnType = typeof(List<MemberInfo>))]
@@ -113,7 +108,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000636 RID: 1590 RVA: 0x000032BD File Offset: 0x000014BD
 		[global::Cpp2ILInjected.Token(Token = "0x60006A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D01CE4", Offset = "0x1D01CE4", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DefaultContractResolver), Member = "ResolveContractConverter", MemberParameters = new object[] { typeof(Type) }, ReturnType = typeof(JsonConverter))]
@@ -135,7 +129,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000637 RID: 1591 RVA: 0x000032C0 File Offset: 0x000014C0
 		[global::Cpp2ILInjected.Token(Token = "0x60006A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D01DC0", Offset = "0x1D01DC0", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonContainerContract), Member = ".ctor", MemberParameters = new object[] { typeof(Type) }, ReturnType = typeof(void))]
@@ -156,7 +149,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000638 RID: 1592 RVA: 0x000032C3 File Offset: 0x000014C3
 		[global::Cpp2ILInjected.Token(Token = "0x60006AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D01E5C", Offset = "0x1D01E5C", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -179,7 +171,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000639 RID: 1593 RVA: 0x000032C6 File Offset: 0x000014C6
 		[global::Cpp2ILInjected.Token(Token = "0x60006AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D02050", Offset = "0x1D02050", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ConvertUtils), Member = "GetConverter", MemberParameters = new object[] { typeof(Type) }, ReturnType = typeof(TypeConverter))]
@@ -191,7 +182,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x0600063A RID: 1594 RVA: 0x000032C9 File Offset: 0x000014C9
 		[global::Cpp2ILInjected.Token(Token = "0x60006AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D020A8", Offset = "0x1D020A8", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonTypeReflector), Member = "GetAttribute", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { typeof(Type) }, ReturnType = "T")]
@@ -204,7 +194,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x0600063B RID: 1595 RVA: 0x000032CC File Offset: 0x000014CC
 		[global::Cpp2ILInjected.Token(Token = "0x60006AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D02120", Offset = "0x1D02120", Length = "0x248")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -238,7 +227,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x0600063C RID: 1596 RVA: 0x000032CF File Offset: 0x000014CF
 		[global::Cpp2ILInjected.Token(Token = "0x60006AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158EB60", Offset = "0x158EB60", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -251,7 +239,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x0600063D RID: 1597 RVA: 0x000032D2 File Offset: 0x000014D2
 		[global::Cpp2ILInjected.Token(Token = "0x60006AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158E844", Offset = "0x158E844", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -269,7 +256,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x0600063E RID: 1598 RVA: 0x000032D5 File Offset: 0x000014D5
 		[global::Cpp2ILInjected.Token(Token = "0x60006B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158EA20", Offset = "0x158EA20", Length = "0x140")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -291,8 +277,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x17000140 RID: 320
-		// (get) Token: 0x0600063F RID: 1599 RVA: 0x000032D8 File Offset: 0x000014D8
 		[global::Cpp2ILInjected.Token(Token = "0x17000148")]
 		public static bool DynamicCodeGeneration
 		{
@@ -313,8 +297,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x17000141 RID: 321
-		// (get) Token: 0x06000640 RID: 1600 RVA: 0x000032DB File Offset: 0x000014DB
 		[global::Cpp2ILInjected.Token(Token = "0x17000149")]
 		public static bool FullyTrusted
 		{
@@ -350,8 +332,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x17000142 RID: 322
-		// (get) Token: 0x06000641 RID: 1601 RVA: 0x000032DE File Offset: 0x000014DE
 		[global::Cpp2ILInjected.Token(Token = "0x1700014A")]
 		public static ReflectionDelegateFactory ReflectionDelegateFactory
 		{
@@ -398,7 +378,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x06000642 RID: 1602 RVA: 0x000032E1 File Offset: 0x000014E1
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60006B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D025F4", Offset = "0x1D025F4", Length = "0x17C")]
@@ -415,60 +394,46 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x04000268 RID: 616
 		[global::Cpp2ILInjected.Token(Token = "0x40002D7")]
 		private static bool? _dynamicCodeGeneration;
 
-		// Token: 0x04000269 RID: 617
 		[global::Cpp2ILInjected.Token(Token = "0x40002D8")]
 		private static bool? _fullyTrusted;
 
-		// Token: 0x0400026A RID: 618
 		[global::Cpp2ILInjected.Token(Token = "0x40002D9")]
 		public const string IdPropertyName = "$id";
 
-		// Token: 0x0400026B RID: 619
 		[global::Cpp2ILInjected.Token(Token = "0x40002DA")]
 		public const string RefPropertyName = "$ref";
 
-		// Token: 0x0400026C RID: 620
 		[global::Cpp2ILInjected.Token(Token = "0x40002DB")]
 		public const string TypePropertyName = "$type";
 
-		// Token: 0x0400026D RID: 621
 		[global::Cpp2ILInjected.Token(Token = "0x40002DC")]
 		public const string ValuePropertyName = "$value";
 
-		// Token: 0x0400026E RID: 622
 		[global::Cpp2ILInjected.Token(Token = "0x40002DD")]
 		public const string ArrayValuesPropertyName = "$values";
 
-		// Token: 0x0400026F RID: 623
 		[global::Cpp2ILInjected.Token(Token = "0x40002DE")]
 		public const string ShouldSerializePrefix = "ShouldSerialize";
 
-		// Token: 0x04000270 RID: 624
 		[global::Cpp2ILInjected.Token(Token = "0x40002DF")]
 		public const string SpecifiedPostfix = "Specified";
 
-		// Token: 0x04000271 RID: 625
 		[global::Cpp2ILInjected.Token(Token = "0x40002E0")]
 		private static readonly ThreadSafeStore<Type, Func<object[], JsonConverter>> JsonConverterCreatorCache;
 
-		// Token: 0x04000272 RID: 626
 		[global::Cpp2ILInjected.Token(Token = "0x40002E1")]
 		private static readonly ThreadSafeStore<Type, Type> AssociatedMetadataTypesCache;
 
-		// Token: 0x04000273 RID: 627
 		[global::Cpp2ILInjected.Token(Token = "0x40002E2")]
 		private static ReflectionObject _metadataTypeAttributeReflectionObject;
 
-		// Token: 0x0200011A RID: 282
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x20000B1")]
 		private sealed class <>c__DisplayClass18_0
 		{
-			// Token: 0x06000AF1 RID: 2801 RVA: 0x0000404F File Offset: 0x0000224F
 			[global::Cpp2ILInjected.Token(Token = "0x60006B5")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D01FC0", Offset = "0x1D01FC0", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -478,7 +443,6 @@ namespace Newtonsoft.Json.Serialization
 				throw null;
 			}
 
-			// Token: 0x06000AF2 RID: 2802 RVA: 0x00004052 File Offset: 0x00002252
 			[global::Cpp2ILInjected.Token(Token = "0x60006B6")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D02770", Offset = "0x1D02770", Length = "0x44C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -519,24 +483,20 @@ namespace Newtonsoft.Json.Serialization
 				throw null;
 			}
 
-			// Token: 0x040003CF RID: 975
 			[global::Cpp2ILInjected.Token(Token = "0x40002E3")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public Type converterType;
 
-			// Token: 0x040003D0 RID: 976
 			[global::Cpp2ILInjected.Token(Token = "0x40002E4")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public Func<object> defaultConstructor;
 		}
 
-		// Token: 0x0200011B RID: 283
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x20000B2")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06000AF3 RID: 2803 RVA: 0x00004055 File Offset: 0x00002255
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60006B7")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D02BBC", Offset = "0x1D02BBC", Length = "0x5C")]
@@ -548,7 +508,6 @@ namespace Newtonsoft.Json.Serialization
 				throw null;
 			}
 
-			// Token: 0x06000AF4 RID: 2804 RVA: 0x00004058 File Offset: 0x00002258
 			[global::Cpp2ILInjected.Token(Token = "0x60006B8")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D02C18", Offset = "0x1D02C18", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -558,7 +517,6 @@ namespace Newtonsoft.Json.Serialization
 				throw null;
 			}
 
-			// Token: 0x06000AF5 RID: 2805 RVA: 0x0000405B File Offset: 0x0000225B
 			[global::Cpp2ILInjected.Token(Token = "0x60006B9")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D02C20", Offset = "0x1D02C20", Length = "0xC")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -568,11 +526,9 @@ namespace Newtonsoft.Json.Serialization
 				throw null;
 			}
 
-			// Token: 0x040003D1 RID: 977
 			[global::Cpp2ILInjected.Token(Token = "0x40002E5")]
 			public static readonly JsonTypeReflector.<>c <>9;
 
-			// Token: 0x040003D2 RID: 978
 			[global::Cpp2ILInjected.Token(Token = "0x40002E6")]
 			public static Func<object, Type> <>9__18_1;
 		}

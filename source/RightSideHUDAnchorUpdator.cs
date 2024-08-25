@@ -7,13 +7,9 @@ using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.GameContent.UI.BigProgressBar;
 
-// Token: 0x0200013A RID: 314
 [global::Cpp2ILInjected.Token(Token = "0x20001B9")]
 public static class RightSideHUDAnchorUpdator
 {
-	// Token: 0x17000119 RID: 281
-	// (get) Token: 0x06000AB5 RID: 2741 RVA: 0x00023B64 File Offset: 0x00021D64
-	// (set) Token: 0x06000AB6 RID: 2742 RVA: 0x00023B67 File Offset: 0x00021D67
 	[global::Cpp2ILInjected.Token(Token = "0x17000140")]
 	public static bool UseCollpasedCoinsAmmo
 	{
@@ -71,9 +67,6 @@ public static class RightSideHUDAnchorUpdator
 		}
 	}
 
-	// Token: 0x1700011A RID: 282
-	// (get) Token: 0x06000AB7 RID: 2743 RVA: 0x00023B6A File Offset: 0x00021D6A
-	// (set) Token: 0x06000AB8 RID: 2744 RVA: 0x00023B6D File Offset: 0x00021D6D
 	[global::Cpp2ILInjected.Token(Token = "0x17000141")]
 	public static bool AllowSecondRow
 	{
@@ -96,9 +89,6 @@ public static class RightSideHUDAnchorUpdator
 		}
 	}
 
-	// Token: 0x1700011B RID: 283
-	// (get) Token: 0x06000AB9 RID: 2745 RVA: 0x00023B70 File Offset: 0x00021D70
-	// (set) Token: 0x06000ABA RID: 2746 RVA: 0x00023B73 File Offset: 0x00021D73
 	[global::Cpp2ILInjected.Token(Token = "0x17000142")]
 	public static int AllowRowHeight
 	{
@@ -121,9 +111,6 @@ public static class RightSideHUDAnchorUpdator
 		}
 	}
 
-	// Token: 0x1700011C RID: 284
-	// (get) Token: 0x06000ABB RID: 2747 RVA: 0x00023B76 File Offset: 0x00021D76
-	// (set) Token: 0x06000ABC RID: 2748 RVA: 0x00023B79 File Offset: 0x00021D79
 	[global::Cpp2ILInjected.Token(Token = "0x17000143")]
 	public static bool AllowDraw
 	{
@@ -149,9 +136,6 @@ public static class RightSideHUDAnchorUpdator
 		}
 	}
 
-	// Token: 0x1700011D RID: 285
-	// (get) Token: 0x06000ABD RID: 2749 RVA: 0x00023B7C File Offset: 0x00021D7C
-	// (set) Token: 0x06000ABE RID: 2750 RVA: 0x00023B7F File Offset: 0x00021D7F
 	[global::Cpp2ILInjected.Token(Token = "0x17000144")]
 	private static int currentFrame
 	{
@@ -173,7 +157,6 @@ public static class RightSideHUDAnchorUpdator
 		}
 	}
 
-	// Token: 0x06000ABF RID: 2751 RVA: 0x00023B82 File Offset: 0x00021D82
 	[global::Cpp2ILInjected.Token(Token = "0x6000BCE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B0D98", Offset = "0x9B0D98", Length = "0x1608")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -232,15 +215,12 @@ public static class RightSideHUDAnchorUpdator
 		throw null;
 	}
 
-	// Token: 0x04000AB8 RID: 2744
 	[global::Cpp2ILInjected.Token(Token = "0x4000EA2")]
 	public const int HUD_Height = 246;
 
-	// Token: 0x04000AB9 RID: 2745
 	[global::Cpp2ILInjected.Token(Token = "0x4000EA3")]
 	public const int HUD_Width = 220;
 
-	// Token: 0x04000ABA RID: 2746
 	[global::Cpp2ILInjected.Token(Token = "0x4000EA4")]
 	public const int HUD_Width2 = 178;
 }

@@ -11,11 +11,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005F6 RID: 1526
 	[global::Cpp2ILInjected.Token(Token = "0x20008EE")]
 	public class GraniteBiome : MicroBiome
 	{
-		// Token: 0x06003D87 RID: 15751 RVA: 0x0002CFC9 File Offset: 0x0002B1C9
 		[global::Cpp2ILInjected.Token(Token = "0x600460A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C8BC0", Offset = "0x7C8BC0", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen.<>c", Member = "<GenerateWorld>b__277_22", MemberParameters = new object[]
@@ -41,7 +39,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D88 RID: 15752 RVA: 0x0002CFCC File Offset: 0x0002B1CC
 		[global::Cpp2ILInjected.Token(Token = "0x600460B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C8CA8", Offset = "0x7C8CA8", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +78,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D89 RID: 15753 RVA: 0x0002CFCF File Offset: 0x0002B1CF
 		[global::Cpp2ILInjected.Token(Token = "0x600460C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C8E14", Offset = "0x7C8E14", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,7 +100,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D8A RID: 15754 RVA: 0x0002CFD2 File Offset: 0x0002B1D2
 		[global::Cpp2ILInjected.Token(Token = "0x600460D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C8FFC", Offset = "0x7C8FFC", Length = "0x5C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -155,7 +150,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D8B RID: 15755 RVA: 0x0002CFD5 File Offset: 0x0002B1D5
 		[global::Cpp2ILInjected.Token(Token = "0x600460E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7CA200", Offset = "0x7CA200", Length = "0x1EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -179,7 +173,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D8C RID: 15756 RVA: 0x0002CFD8 File Offset: 0x0002B1D8
 		[global::Cpp2ILInjected.Token(Token = "0x600460F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C95BC", Offset = "0x7C95BC", Length = "0x3B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -225,7 +218,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D8D RID: 15757 RVA: 0x0002CFDB File Offset: 0x0002B1DB
 		[global::Cpp2ILInjected.Token(Token = "0x6004610")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C9970", Offset = "0x7C9970", Length = "0x444")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -270,7 +262,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D8E RID: 15758 RVA: 0x0002CFDE File Offset: 0x0002B1DE
 		[global::Cpp2ILInjected.Token(Token = "0x6004611")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C9DB4", Offset = "0x7C9DB4", Length = "0x418")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -329,7 +320,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D8F RID: 15759 RVA: 0x0002CFE1 File Offset: 0x0002B1E1
 		[global::Cpp2ILInjected.Token(Token = "0x6004612")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7CA3EC", Offset = "0x7CA3EC", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -340,7 +330,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D90 RID: 15760 RVA: 0x0002CFE4 File Offset: 0x0002B1E4
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6004613")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7CA47C", Offset = "0x7CA47C", Length = "0x208")]
@@ -357,29 +346,23 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x04006BFB RID: 27643
 		[global::Cpp2ILInjected.Token(Token = "0x400825B")]
 		private const int MAX_MAGMA_ITERATIONS = 300;
 
-		// Token: 0x04006BFC RID: 27644
 		[global::Cpp2ILInjected.Token(Token = "0x400825C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private GraniteBiome.Magma[,] _sourceMagmaMap;
 
-		// Token: 0x04006BFD RID: 27645
 		[global::Cpp2ILInjected.Token(Token = "0x400825D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private GraniteBiome.Magma[,] _targetMagmaMap;
 
-		// Token: 0x04006BFE RID: 27646
 		[global::Cpp2ILInjected.Token(Token = "0x400825E")]
 		private static Vector2D[] _normalisedVectors;
 
-		// Token: 0x02000A02 RID: 2562
 		[global::Cpp2ILInjected.Token(Token = "0x20008EF")]
 		private struct Magma
 		{
-			// Token: 0x06004F55 RID: 20309 RVA: 0x0003002F File Offset: 0x0002E22F
 			[global::Cpp2ILInjected.Token(Token = "0x6004614")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7CA684", Offset = "0x7CA684", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -388,7 +371,6 @@ namespace Terraria.GameContent.Biomes
 				throw null;
 			}
 
-			// Token: 0x06004F56 RID: 20310 RVA: 0x00030032 File Offset: 0x0002E232
 			[global::Cpp2ILInjected.Token(Token = "0x6004615")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7CA1DC", Offset = "0x7CA1DC", Length = "0x14")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -397,7 +379,6 @@ namespace Terraria.GameContent.Biomes
 				throw null;
 			}
 
-			// Token: 0x06004F57 RID: 20311 RVA: 0x00030035 File Offset: 0x0002E235
 			[global::Cpp2ILInjected.Token(Token = "0x6004616")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7CA1F0", Offset = "0x7CA1F0", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -406,7 +387,6 @@ namespace Terraria.GameContent.Biomes
 				throw null;
 			}
 
-			// Token: 0x06004F58 RID: 20312 RVA: 0x00030038 File Offset: 0x0002E238
 			[global::Cpp2ILInjected.Token(Token = "0x6004617")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7CA1CC", Offset = "0x7CA1CC", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -415,17 +395,14 @@ namespace Terraria.GameContent.Biomes
 				throw null;
 			}
 
-			// Token: 0x04008D13 RID: 36115
 			[global::Cpp2ILInjected.Token(Token = "0x400825F")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public readonly double Pressure;
 
-			// Token: 0x04008D14 RID: 36116
 			[global::Cpp2ILInjected.Token(Token = "0x4008260")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			public readonly double Resistance;
 
-			// Token: 0x04008D15 RID: 36117
 			[global::Cpp2ILInjected.Token(Token = "0x4008261")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public readonly bool IsActive;

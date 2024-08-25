@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.Configuration
 {
-	// Token: 0x020001F8 RID: 504
 	[global::Cpp2ILInjected.Token(Token = "0x20002DD")]
 	internal sealed class DefaultProxySectionInternal
 	{
-		// Token: 0x060010E1 RID: 4321 RVA: 0x00005E9A File Offset: 0x0000409A
 		[global::Cpp2ILInjected.Token(Token = "0x60012DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E20CF8", Offset = "0x1E20CF8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,7 +17,6 @@ namespace System.Net.Configuration
 			throw null;
 		}
 
-		// Token: 0x060010E2 RID: 4322 RVA: 0x00005E9D File Offset: 0x0000409D
 		[global::Cpp2ILInjected.Token(Token = "0x60012DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E20D00", Offset = "0x1E20D00", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -29,8 +26,6 @@ namespace System.Net.Configuration
 			throw null;
 		}
 
-		// Token: 0x1700042E RID: 1070
-		// (get) Token: 0x060010E3 RID: 4323 RVA: 0x00005EA0 File Offset: 0x000040A0
 		[global::Cpp2ILInjected.Token(Token = "0x17000456")]
 		internal static object ClassSyncObject
 		{
@@ -52,7 +47,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x060010E4 RID: 4324 RVA: 0x00005EA3 File Offset: 0x000040A3
 		[global::Cpp2ILInjected.Token(Token = "0x60012DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E20DA0", Offset = "0x1E20DA0", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,8 +67,6 @@ namespace System.Net.Configuration
 			throw null;
 		}
 
-		// Token: 0x1700042F RID: 1071
-		// (get) Token: 0x060010E5 RID: 4325 RVA: 0x00005EA6 File Offset: 0x000040A6
 		[global::Cpp2ILInjected.Token(Token = "0x17000457")]
 		internal IWebProxy WebProxy
 		{
@@ -87,7 +79,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x060010E6 RID: 4326 RVA: 0x00005EA9 File Offset: 0x000040A9
 		[global::Cpp2ILInjected.Token(Token = "0x60012DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E20EA8", Offset = "0x1E20EA8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -97,12 +88,10 @@ namespace System.Net.Configuration
 			throw null;
 		}
 
-		// Token: 0x04000B83 RID: 2947
 		[global::Cpp2ILInjected.Token(Token = "0x4000F57")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private IWebProxy webProxy;
 
-		// Token: 0x04000B84 RID: 2948
 		[global::Cpp2ILInjected.Token(Token = "0x4000F58")]
 		private static object classSyncObject;
 	}

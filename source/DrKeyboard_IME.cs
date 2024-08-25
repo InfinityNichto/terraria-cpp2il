@@ -3,11 +3,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using UnityEngine;
 
-// Token: 0x02000017 RID: 23
 [global::Cpp2ILInjected.Token(Token = "0x200001C")]
 internal class DrKeyboard_IME : DrKeyboard_Base
 {
-	// Token: 0x06000081 RID: 129 RVA: 0x00021CFB File Offset: 0x0001FEFB
 	[global::Cpp2ILInjected.Token(Token = "0x600008D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FE3CC", Offset = "0x6FE3CC", Length = "0x78")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DrKeyboard_Base), Member = "Create", MemberParameters = new object[]
@@ -30,9 +28,6 @@ internal class DrKeyboard_IME : DrKeyboard_Base
 		throw null;
 	}
 
-	// Token: 0x17000027 RID: 39
-	// (get) Token: 0x06000082 RID: 130 RVA: 0x00021CFE File Offset: 0x0001FEFE
-	// (set) Token: 0x06000083 RID: 131 RVA: 0x00021D01 File Offset: 0x0001FF01
 	[global::Cpp2ILInjected.Token(Token = "0x17000027")]
 	public override bool active
 	{
@@ -56,8 +51,6 @@ internal class DrKeyboard_IME : DrKeyboard_Base
 		}
 	}
 
-	// Token: 0x17000028 RID: 40
-	// (get) Token: 0x06000084 RID: 132 RVA: 0x00021D04 File Offset: 0x0001FF04
 	[global::Cpp2ILInjected.Token(Token = "0x17000028")]
 	public override bool done
 	{
@@ -70,9 +63,6 @@ internal class DrKeyboard_IME : DrKeyboard_Base
 		}
 	}
 
-	// Token: 0x17000029 RID: 41
-	// (get) Token: 0x06000085 RID: 133 RVA: 0x00021D07 File Offset: 0x0001FF07
-	// (set) Token: 0x06000086 RID: 134 RVA: 0x00021D0A File Offset: 0x0001FF0A
 	[global::Cpp2ILInjected.Token(Token = "0x17000029")]
 	public override string text
 	{
@@ -92,8 +82,6 @@ internal class DrKeyboard_IME : DrKeyboard_Base
 		}
 	}
 
-	// Token: 0x1700002A RID: 42
-	// (get) Token: 0x06000087 RID: 135 RVA: 0x00021D0D File Offset: 0x0001FF0D
 	[global::Cpp2ILInjected.Token(Token = "0x1700002A")]
 	public override bool wasCanceled
 	{
@@ -106,7 +94,6 @@ internal class DrKeyboard_IME : DrKeyboard_Base
 		}
 	}
 
-	// Token: 0x06000088 RID: 136 RVA: 0x00021D10 File Offset: 0x0001FF10
 	[global::Cpp2ILInjected.Token(Token = "0x6000094")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FE6E4", Offset = "0x6FE6E4", Length = "0x1E4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -127,7 +114,6 @@ internal class DrKeyboard_IME : DrKeyboard_Base
 		throw null;
 	}
 
-	// Token: 0x06000089 RID: 137 RVA: 0x00021D13 File Offset: 0x0001FF13
 	[global::Cpp2ILInjected.Token(Token = "0x6000095")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FE99C", Offset = "0x6FE99C", Length = "0xBC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -150,22 +136,18 @@ internal class DrKeyboard_IME : DrKeyboard_Base
 		throw null;
 	}
 
-	// Token: 0x0400005C RID: 92
 	[global::Cpp2ILInjected.Token(Token = "0x4000063")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private int _lastFrame;
 
-	// Token: 0x0400005D RID: 93
 	[global::Cpp2ILInjected.Token(Token = "0x4000064")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private string _lastIME;
 
-	// Token: 0x0400005E RID: 94
 	[global::Cpp2ILInjected.Token(Token = "0x4000065")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private string _text;
 
-	// Token: 0x0400005F RID: 95
 	[global::Cpp2ILInjected.Token(Token = "0x4000066")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private bool _wasCanceled;

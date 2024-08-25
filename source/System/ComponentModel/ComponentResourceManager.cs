@@ -9,11 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x02000267 RID: 615
 	[global::Cpp2ILInjected.Token(Token = "0x200035B")]
 	public class ComponentResourceManager : ResourceManager
 	{
-		// Token: 0x0600142B RID: 5163 RVA: 0x000067B2 File Offset: 0x000049B2
 		[global::Cpp2ILInjected.Token(Token = "0x600166D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E409F4", Offset = "0x1E409F4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -24,7 +22,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600142C RID: 5164 RVA: 0x000067B5 File Offset: 0x000049B5
 		[global::Cpp2ILInjected.Token(Token = "0x600166E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E40A4C", Offset = "0x1E40A4C", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,8 +32,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x170004F6 RID: 1270
-		// (get) Token: 0x0600142D RID: 5165 RVA: 0x000067B8 File Offset: 0x000049B8
 		[global::Cpp2ILInjected.Token(Token = "0x1700051F")]
 		private CultureInfo NeutralResourcesCulture
 		{
@@ -61,7 +56,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x0600142E RID: 5166 RVA: 0x000067BB File Offset: 0x000049BB
 		[global::Cpp2ILInjected.Token(Token = "0x6001670")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E40B3C", Offset = "0x1E40B3C", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -71,7 +65,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600142F RID: 5167 RVA: 0x000067BE File Offset: 0x000049BE
 		[global::Cpp2ILInjected.Token(Token = "0x6001671")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E40B4C", Offset = "0x1E40B4C", Length = "0xA08")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +126,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x06001430 RID: 5168 RVA: 0x000067C1 File Offset: 0x000049C1
 		[global::Cpp2ILInjected.Token(Token = "0x6001672")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E41554", Offset = "0x1E41554", Length = "0x4C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -164,12 +156,10 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x04000DDE RID: 3550
 		[global::Cpp2ILInjected.Token(Token = "0x40011E1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 		private Hashtable _resourceSets;
 
-		// Token: 0x04000DDF RID: 3551
 		[global::Cpp2ILInjected.Token(Token = "0x40011E2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private CultureInfo _neutralResourcesCulture;

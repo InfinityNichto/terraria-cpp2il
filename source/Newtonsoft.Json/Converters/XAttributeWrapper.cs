@@ -6,12 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Newtonsoft.Json.Converters
 {
-	// Token: 0x020000D4 RID: 212
 	[global::Cpp2ILInjected.Token(Token = "0x200011B")]
 	internal class XAttributeWrapper : XObjectWrapper
 	{
-		// Token: 0x170001F1 RID: 497
-		// (get) Token: 0x060009C5 RID: 2501 RVA: 0x00003CCE File Offset: 0x00001ECE
 		[global::Cpp2ILInjected.Token(Token = "0x1700021E")]
 		private XAttribute Attribute
 		{
@@ -31,7 +28,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x060009C6 RID: 2502 RVA: 0x00003CD1 File Offset: 0x00001ED1
 		[global::Cpp2ILInjected.Token(Token = "0x6000B02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2D674", Offset = "0x1D2D674", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XDocumentWrapper), Member = "CreateAttribute", MemberParameters = new object[]
@@ -55,9 +51,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x170001F2 RID: 498
-		// (get) Token: 0x060009C7 RID: 2503 RVA: 0x00003CD4 File Offset: 0x00001ED4
-		// (set) Token: 0x060009C8 RID: 2504 RVA: 0x00003CD7 File Offset: 0x00001ED7
 		[global::Cpp2ILInjected.Token(Token = "0x1700021F")]
 		public override string Value
 		{
@@ -80,8 +73,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x170001F3 RID: 499
-		// (get) Token: 0x060009C9 RID: 2505 RVA: 0x00003CDA File Offset: 0x00001EDA
 		[global::Cpp2ILInjected.Token(Token = "0x17000220")]
 		public override string LocalName
 		{
@@ -95,8 +86,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x170001F4 RID: 500
-		// (get) Token: 0x060009CA RID: 2506 RVA: 0x00003CDD File Offset: 0x00001EDD
 		[global::Cpp2ILInjected.Token(Token = "0x17000221")]
 		public override string NamespaceUri
 		{
@@ -111,8 +100,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x170001F5 RID: 501
-		// (get) Token: 0x060009CB RID: 2507 RVA: 0x00003CE0 File Offset: 0x00001EE0
 		[global::Cpp2ILInjected.Token(Token = "0x17000222")]
 		public override IXmlNode ParentNode
 		{

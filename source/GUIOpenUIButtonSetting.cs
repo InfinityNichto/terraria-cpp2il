@@ -9,11 +9,9 @@ using Terraria.Audio;
 using Terraria.GameContent.Creative;
 using Terraria.Localization;
 
-// Token: 0x020001ED RID: 493
 [global::Cpp2ILInjected.Token(Token = "0x200028E")]
 public class GUIOpenUIButtonSetting : GUISettingEntry
 {
-	// Token: 0x06000E1D RID: 3613 RVA: 0x0002459C File Offset: 0x0002279C
 	[global::Cpp2ILInjected.Token(Token = "0x6000F41")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA27BB8", Offset = "0xA27BB8", Length = "0x28")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIJourneyButtonSetting), Member = ".ctor", MemberParameters = new object[] { typeof(GUISettingID) }, ReturnType = typeof(void))]
@@ -25,7 +23,6 @@ public class GUIOpenUIButtonSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E1E RID: 3614 RVA: 0x0002459F File Offset: 0x0002279F
 	[global::Cpp2ILInjected.Token(Token = "0x6000F42")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA27BE0", Offset = "0xA27BE0", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +32,6 @@ public class GUIOpenUIButtonSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E1F RID: 3615 RVA: 0x000245A2 File Offset: 0x000227A2
 	[global::Cpp2ILInjected.Token(Token = "0x6000F43")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA27C2C", Offset = "0xA27C2C", Length = "0x27C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -82,7 +78,6 @@ public class GUIOpenUIButtonSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E20 RID: 3616 RVA: 0x000245A5 File Offset: 0x000227A5
 	[global::Cpp2ILInjected.Token(Token = "0x6000F44")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA28884", Offset = "0xA28884", Length = "0x1C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -92,7 +87,6 @@ public class GUIOpenUIButtonSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E21 RID: 3617 RVA: 0x000245A8 File Offset: 0x000227A8
 	[global::Cpp2ILInjected.Token(Token = "0x6000F45")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA281C8", Offset = "0xA281C8", Length = "0x180")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -105,7 +99,6 @@ public class GUIOpenUIButtonSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E22 RID: 3618 RVA: 0x000245AB File Offset: 0x000227AB
 	[global::Cpp2ILInjected.Token(Token = "0x6000F46")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA27EA8", Offset = "0xA27EA8", Length = "0x320")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -118,7 +111,6 @@ public class GUIOpenUIButtonSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E23 RID: 3619 RVA: 0x000245AE File Offset: 0x000227AE
 	[global::Cpp2ILInjected.Token(Token = "0x6000F47")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA28348", Offset = "0xA28348", Length = "0x53C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -145,7 +137,6 @@ public class GUIOpenUIButtonSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x0400164F RID: 5711
 	[global::Cpp2ILInjected.Token(Token = "0x4001B71")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float scale;

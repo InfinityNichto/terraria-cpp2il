@@ -4,13 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine
 {
-	// Token: 0x02000002 RID: 2
 	[global::Cpp2ILInjected.Token(Token = "0x2000002")]
 	internal class GUILayoutEntry
 	{
-		// Token: 0x17000001 RID: 1
-		// (get) Token: 0x06000001 RID: 1 RVA: 0x00002050 File Offset: 0x00000250
-		// (set) Token: 0x06000002 RID: 2 RVA: 0x00002053 File Offset: 0x00000253
 		[global::Cpp2ILInjected.Token(Token = "0x17000001")]
 		public GUIStyle style
 		{
@@ -31,8 +27,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000002 RID: 2
-		// (get) Token: 0x06000003 RID: 3 RVA: 0x00002056 File Offset: 0x00000256
 		[global::Cpp2ILInjected.Token(Token = "0x17000002")]
 		public virtual int marginLeft
 		{
@@ -47,8 +41,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000003 RID: 3
-		// (get) Token: 0x06000004 RID: 4 RVA: 0x00002059 File Offset: 0x00000259
 		[global::Cpp2ILInjected.Token(Token = "0x17000003")]
 		public virtual int marginRight
 		{
@@ -63,8 +55,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000004 RID: 4
-		// (get) Token: 0x06000005 RID: 5 RVA: 0x0000205C File Offset: 0x0000025C
 		[global::Cpp2ILInjected.Token(Token = "0x17000004")]
 		public virtual int marginTop
 		{
@@ -79,8 +69,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000005 RID: 5
-		// (get) Token: 0x06000006 RID: 6 RVA: 0x0000205F File Offset: 0x0000025F
 		[global::Cpp2ILInjected.Token(Token = "0x17000005")]
 		public virtual int marginBottom
 		{
@@ -95,8 +83,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000006 RID: 6
-		// (get) Token: 0x06000007 RID: 7 RVA: 0x00002062 File Offset: 0x00000262
 		[global::Cpp2ILInjected.Token(Token = "0x17000006")]
 		public int marginHorizontal
 		{
@@ -110,8 +96,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000007 RID: 7
-		// (get) Token: 0x06000008 RID: 8 RVA: 0x00002065 File Offset: 0x00000265
 		[global::Cpp2ILInjected.Token(Token = "0x17000007")]
 		public int marginVertical
 		{
@@ -125,7 +109,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000009 RID: 9 RVA: 0x00002068 File Offset: 0x00000268
 		[global::Cpp2ILInjected.Token(Token = "0x6000009")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F94B8C", Offset = "0x1F94B8C", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -153,7 +136,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000A RID: 10 RVA: 0x0000206B File Offset: 0x0000026B
 		[global::Cpp2ILInjected.Token(Token = "0x600000A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F94D18", Offset = "0x1F94D18", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -179,7 +161,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000B RID: 11 RVA: 0x0000206E File Offset: 0x0000026E
 		[global::Cpp2ILInjected.Token(Token = "0x600000B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F94E1C", Offset = "0x1F94E1C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -188,7 +169,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000C RID: 12 RVA: 0x00002071 File Offset: 0x00000271
 		[global::Cpp2ILInjected.Token(Token = "0x600000C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F94E20", Offset = "0x1F94E20", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -197,7 +177,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000D RID: 13 RVA: 0x00002074 File Offset: 0x00000274
 		[global::Cpp2ILInjected.Token(Token = "0x600000D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F94E24", Offset = "0x1F94E24", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -208,7 +187,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000E RID: 14 RVA: 0x00002077 File Offset: 0x00000277
 		[global::Cpp2ILInjected.Token(Token = "0x600000E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F94E58", Offset = "0x1F94E58", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -219,7 +197,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000F RID: 15 RVA: 0x0000207A File Offset: 0x0000027A
 		[global::Cpp2ILInjected.Token(Token = "0x600000F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F94E8C", Offset = "0x1F94E8C", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -231,7 +208,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000010 RID: 16 RVA: 0x0000207D File Offset: 0x0000027D
 		[global::Cpp2ILInjected.Token(Token = "0x6000010")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F9506C", Offset = "0x1F9506C", Length = "0x2A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -243,7 +219,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000011 RID: 17 RVA: 0x00002080 File Offset: 0x00000280
 		[global::Cpp2ILInjected.Token(Token = "0x6000011")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F9530C", Offset = "0x1F9530C", Length = "0x52C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -272,7 +247,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000012 RID: 18 RVA: 0x00002083 File Offset: 0x00000283
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000012")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F95884", Offset = "0x1F95884", Length = "0x80")]
@@ -290,56 +264,45 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x04000001 RID: 1
 		[global::Cpp2ILInjected.Token(Token = "0x4000001")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public float minWidth;
 
-		// Token: 0x04000002 RID: 2
 		[global::Cpp2ILInjected.Token(Token = "0x4000002")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public float maxWidth;
 
-		// Token: 0x04000003 RID: 3
 		[global::Cpp2ILInjected.Token(Token = "0x4000003")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public float minHeight;
 
-		// Token: 0x04000004 RID: 4
 		[global::Cpp2ILInjected.Token(Token = "0x4000004")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		public float maxHeight;
 
-		// Token: 0x04000005 RID: 5
 		[global::Cpp2ILInjected.Token(Token = "0x4000005")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public Rect rect;
 
-		// Token: 0x04000006 RID: 6
 		[global::Cpp2ILInjected.Token(Token = "0x4000006")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		public int stretchWidth;
 
-		// Token: 0x04000007 RID: 7
 		[global::Cpp2ILInjected.Token(Token = "0x4000007")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		public int stretchHeight;
 
-		// Token: 0x04000008 RID: 8
 		[global::Cpp2ILInjected.Token(Token = "0x4000008")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		public bool consideredForMargin;
 
-		// Token: 0x04000009 RID: 9
 		[global::Cpp2ILInjected.Token(Token = "0x4000009")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private GUIStyle m_Style;
 
-		// Token: 0x0400000A RID: 10
 		[global::Cpp2ILInjected.Token(Token = "0x400000A")]
 		internal static Rect kDummyRect;
 
-		// Token: 0x0400000B RID: 11
 		[global::Cpp2ILInjected.Token(Token = "0x400000B")]
 		protected static int indent;
 	}

@@ -5,13 +5,10 @@ using UnityEngine.EventSystems;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x0200003F RID: 63
 	[ExecuteAlways]
 	[global::Cpp2ILInjected.Token(Token = "0x2000081")]
 	public abstract class BaseMeshEffect : UIBehaviour, IMeshModifier
 	{
-		// Token: 0x17000141 RID: 321
-		// (get) Token: 0x060004A3 RID: 1187 RVA: 0x00002DDF File Offset: 0x00000FDF
 		[global::Cpp2ILInjected.Token(Token = "0x17000154")]
 		protected Graphic graphic
 		{
@@ -37,7 +34,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x060004A4 RID: 1188 RVA: 0x00002DE2 File Offset: 0x00000FE2
 		[global::Cpp2ILInjected.Token(Token = "0x6000525")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1A9C", Offset = "0x1FE1A9C", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -54,7 +50,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060004A5 RID: 1189 RVA: 0x00002DE5 File Offset: 0x00000FE5
 		[global::Cpp2ILInjected.Token(Token = "0x6000526")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1B3C", Offset = "0x1FE1B3C", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,7 +67,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060004A6 RID: 1190 RVA: 0x00002DE8 File Offset: 0x00000FE8
 		[global::Cpp2ILInjected.Token(Token = "0x6000527")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1BD0", Offset = "0x1FE1BD0", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +84,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060004A7 RID: 1191 RVA: 0x00002DEB File Offset: 0x00000FEB
 		[global::Cpp2ILInjected.Token(Token = "0x6000528")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1C64", Offset = "0x1FE1C64", Length = "0x1AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,11 +96,9 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060004A8 RID: 1192
 		[global::Cpp2ILInjected.Token(Token = "0x6000529")]
 		public abstract void ModifyMesh(VertexHelper vh);
 
-		// Token: 0x060004A9 RID: 1193 RVA: 0x00002DEE File Offset: 0x00000FEE
 		[global::Cpp2ILInjected.Token(Token = "0x600052A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1E10", Offset = "0x1FE1E10", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PositionAsUV1), Member = ".ctor", ReturnType = typeof(void))]
@@ -119,7 +110,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x04000191 RID: 401
 		[global::Cpp2ILInjected.Token(Token = "0x400026A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		[NonSerialized]

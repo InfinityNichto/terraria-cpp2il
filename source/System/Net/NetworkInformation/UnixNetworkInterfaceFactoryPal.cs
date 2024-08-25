@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.NetworkInformation
 {
-	// Token: 0x020001E8 RID: 488
 	[global::Cpp2ILInjected.Token(Token = "0x20002CA")]
 	internal static class UnixNetworkInterfaceFactoryPal
 	{
-		// Token: 0x060010DE RID: 4318 RVA: 0x00005E91 File Offset: 0x00004091
 		[global::Cpp2ILInjected.Token(Token = "0x60012D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E204A8", Offset = "0x1E204A8", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

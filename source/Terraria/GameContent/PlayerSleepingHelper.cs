@@ -9,12 +9,9 @@ using Terraria.Localization;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x0200055F RID: 1375
 	[global::Cpp2ILInjected.Token(Token = "0x20007E5")]
 	public struct PlayerSleepingHelper
 	{
-		// Token: 0x1700071E RID: 1822
-		// (get) Token: 0x06003A1C RID: 14876 RVA: 0x0002C5F7 File Offset: 0x0002A7F7
 		[global::Cpp2ILInjected.Token(Token = "0x170007BE")]
 		public bool FullyFallenAsleep
 		{
@@ -29,7 +26,6 @@ namespace Terraria.GameContent
 			}
 		}
 
-		// Token: 0x06003A1D RID: 14877 RVA: 0x0002C5FA File Offset: 0x0002A7FA
 		[global::Cpp2ILInjected.Token(Token = "0x600410C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x777000", Offset = "0x777000", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +69,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A1E RID: 14878 RVA: 0x0002C5FD File Offset: 0x0002A7FD
 		[global::Cpp2ILInjected.Token(Token = "0x600410D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x777148", Offset = "0x777148", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +85,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A1F RID: 14879 RVA: 0x0002C600 File Offset: 0x0002A800
 		[global::Cpp2ILInjected.Token(Token = "0x600410E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x777248", Offset = "0x777248", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -106,7 +100,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A20 RID: 14880 RVA: 0x0002C603 File Offset: 0x0002A803
 		[global::Cpp2ILInjected.Token(Token = "0x600410F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77728C", Offset = "0x77728C", Length = "0x32C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -153,7 +146,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A21 RID: 14881 RVA: 0x0002C606 File Offset: 0x0002A806
 		[global::Cpp2ILInjected.Token(Token = "0x6004110")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7777E8", Offset = "0x7777E8", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -216,7 +208,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A22 RID: 14882 RVA: 0x0002C609 File Offset: 0x0002A809
 		[global::Cpp2ILInjected.Token(Token = "0x6004111")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7778E0", Offset = "0x7778E0", Length = "0x3BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -301,7 +292,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A23 RID: 14883 RVA: 0x0002C60C File Offset: 0x0002A80C
 		[global::Cpp2ILInjected.Token(Token = "0x6004112")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7775B8", Offset = "0x7775B8", Length = "0x230")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -340,7 +330,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A24 RID: 14884 RVA: 0x0002C60F File Offset: 0x0002A80F
 		[global::Cpp2ILInjected.Token(Token = "0x6004113")]
 		[global::Cpp2ILInjected.Address(RVA = "0x777C9C", Offset = "0x777C9C", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -364,30 +353,24 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x0400692D RID: 26925
 		[global::Cpp2ILInjected.Token(Token = "0x4007EC1")]
 		public const int BedSleepingMaxDistance = 96;
 
-		// Token: 0x0400692E RID: 26926
 		[global::Cpp2ILInjected.Token(Token = "0x4007EC2")]
 		public const int TimeToFullyFallAsleep = 120;
 
-		// Token: 0x0400692F RID: 26927
 		[global::Cpp2ILInjected.Token(Token = "0x4007EC3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public bool isSleeping;
 
-		// Token: 0x04006930 RID: 26928
 		[global::Cpp2ILInjected.Token(Token = "0x4007EC4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public int sleepingIndex;
 
-		// Token: 0x04006931 RID: 26929
 		[global::Cpp2ILInjected.Token(Token = "0x4007EC5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		public int timeSleeping;
 
-		// Token: 0x04006932 RID: 26930
 		[global::Cpp2ILInjected.Token(Token = "0x4007EC6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 		public Vector2 visualOffsetOfBedBase;

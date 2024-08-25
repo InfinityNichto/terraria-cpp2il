@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Terraria;
 
-// Token: 0x02000093 RID: 147
 [global::Cpp2ILInjected.Token(Token = "0x20000CD")]
 public class GUIControllerInventory4Page : GUIControllerInventory
 {
-	// Token: 0x06000474 RID: 1140 RVA: 0x000228A1 File Offset: 0x00020AA1
 	[global::Cpp2ILInjected.Token(Token = "0x600050E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1CB58", Offset = "0xB1CB58", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,7 +18,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		throw null;
 	}
 
-	// Token: 0x06000475 RID: 1141 RVA: 0x000228A4 File Offset: 0x00020AA4
 	[global::Cpp2ILInjected.Token(Token = "0x600050F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1CB70", Offset = "0xB1CB70", Length = "0x50")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -31,7 +28,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		throw null;
 	}
 
-	// Token: 0x06000476 RID: 1142 RVA: 0x000228A7 File Offset: 0x00020AA7
 	[global::Cpp2ILInjected.Token(Token = "0x6000510")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1CBC0", Offset = "0xB1CBC0", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -40,7 +36,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		throw null;
 	}
 
-	// Token: 0x06000477 RID: 1143 RVA: 0x000228AA File Offset: 0x00020AAA
 	[global::Cpp2ILInjected.Token(Token = "0x6000511")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1CBC8", Offset = "0xB1CBC8", Length = "0x40")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,8 +45,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		throw null;
 	}
 
-	// Token: 0x17000069 RID: 105
-	// (get) Token: 0x06000478 RID: 1144 RVA: 0x000228AD File Offset: 0x00020AAD
 	[global::Cpp2ILInjected.Token(Token = "0x1700008E")]
 	private GUIControllerPageMenuPopupGridNavigator BuilderToolNav
 	{
@@ -90,7 +83,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		}
 	}
 
-	// Token: 0x06000479 RID: 1145 RVA: 0x000228B0 File Offset: 0x00020AB0
 	[global::Cpp2ILInjected.Token(Token = "0x6000513")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1CD60", Offset = "0xB1CD60", Length = "0xA8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -103,7 +95,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		throw null;
 	}
 
-	// Token: 0x0600047A RID: 1146 RVA: 0x000228B3 File Offset: 0x00020AB3
 	[global::Cpp2ILInjected.Token(Token = "0x6000514")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1CE08", Offset = "0xB1CE08", Length = "0xE4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,7 +105,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		throw null;
 	}
 
-	// Token: 0x0600047B RID: 1147 RVA: 0x000228B6 File Offset: 0x00020AB6
 	[global::Cpp2ILInjected.Token(Token = "0x6000515")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1CEEC", Offset = "0xB1CEEC", Length = "0x1DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +123,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		throw null;
 	}
 
-	// Token: 0x0600047C RID: 1148 RVA: 0x000228B9 File Offset: 0x00020AB9
 	[global::Cpp2ILInjected.Token(Token = "0x6000516")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1D0C8", Offset = "0xB1D0C8", Length = "0x348")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -173,7 +162,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		throw null;
 	}
 
-	// Token: 0x0600047D RID: 1149 RVA: 0x000228BC File Offset: 0x00020ABC
 	[global::Cpp2ILInjected.Token(Token = "0x6000517")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1D410", Offset = "0xB1D410", Length = "0x24")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -183,7 +171,6 @@ public class GUIControllerInventory4Page : GUIControllerInventory
 		throw null;
 	}
 
-	// Token: 0x040002EA RID: 746
 	[global::Cpp2ILInjected.Token(Token = "0x4000474")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private GUIControllerPageMenuPopupGridNavigator _accessoryNav;

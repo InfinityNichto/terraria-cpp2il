@@ -4,12 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000DE RID: 222
 	[global::Cpp2ILInjected.Token(Token = "0x200010A")]
 	internal class Datatype_nonPositiveInteger : Datatype_integer
 	{
-		// Token: 0x17000258 RID: 600
-		// (get) Token: 0x060008C5 RID: 2245 RVA: 0x000048A7 File Offset: 0x00002AA7
 		[global::Cpp2ILInjected.Token(Token = "0x1700027E")]
 		internal override FacetsChecker FacetsChecker
 		{
@@ -23,8 +20,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x17000259 RID: 601
-		// (get) Token: 0x060008C6 RID: 2246 RVA: 0x000048AA File Offset: 0x00002AAA
 		[global::Cpp2ILInjected.Token(Token = "0x1700027F")]
 		public override XmlTypeCode TypeCode
 		{
@@ -37,7 +32,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x060008C7 RID: 2247 RVA: 0x000048AD File Offset: 0x00002AAD
 		[global::Cpp2ILInjected.Token(Token = "0x600095C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC27E0", Offset = "0x1DC27E0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DatatypeImplementation), Member = ".cctor", ReturnType = typeof(void))]
@@ -48,7 +42,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x060008C8 RID: 2248 RVA: 0x000048B0 File Offset: 0x00002AB0
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600095D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC27E4", Offset = "0x1DC27E4", Length = "0x108")]
@@ -69,7 +62,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x04000371 RID: 881
 		[global::Cpp2ILInjected.Token(Token = "0x40004EB")]
 		private static readonly FacetsChecker numeric10FacetsChecker;
 	}

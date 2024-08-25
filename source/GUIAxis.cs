@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using UnityEngine;
 
-// Token: 0x020000B6 RID: 182
 [global::Cpp2ILInjected.Token(Token = "0x2000102")]
 public static class GUIAxis
 {
-	// Token: 0x060005CC RID: 1484 RVA: 0x00022CA9 File Offset: 0x00020EA9
 	[global::Cpp2ILInjected.Token(Token = "0x60006A2")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1B808", Offset = "0xD1B808", Length = "0x928")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -82,7 +80,6 @@ public static class GUIAxis
 		throw null;
 	}
 
-	// Token: 0x060005CD RID: 1485 RVA: 0x00022CAC File Offset: 0x00020EAC
 	[global::Cpp2ILInjected.Token(Token = "0x60006A3")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1D78C", Offset = "0xD1D78C", Length = "0x998")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -160,7 +157,6 @@ public static class GUIAxis
 		throw null;
 	}
 
-	// Token: 0x060005CE RID: 1486 RVA: 0x00022CAF File Offset: 0x00020EAF
 	[global::Cpp2ILInjected.Token(Token = "0x60006A4")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1E124", Offset = "0xD1E124", Length = "0x280")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -201,7 +197,6 @@ public static class GUIAxis
 		throw null;
 	}
 
-	// Token: 0x060005CF RID: 1487 RVA: 0x00022CB2 File Offset: 0x00020EB2
 	[global::Cpp2ILInjected.Token(Token = "0x60006A5")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1E3A4", Offset = "0xD1E3A4", Length = "0x6F4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -248,7 +243,6 @@ public static class GUIAxis
 		throw null;
 	}
 
-	// Token: 0x060005D0 RID: 1488 RVA: 0x00022CB5 File Offset: 0x00020EB5
 	[global::Cpp2ILInjected.Token(Token = "0x60006A6")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1EA98", Offset = "0xD1EA98", Length = "0x664")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -301,7 +295,6 @@ public static class GUIAxis
 		throw null;
 	}
 
-	// Token: 0x060005D1 RID: 1489 RVA: 0x00022CB8 File Offset: 0x00020EB8
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x60006A7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1F0FC", Offset = "0xD1F0FC", Length = "0x4C")]
@@ -312,7 +305,6 @@ public static class GUIAxis
 		throw null;
 	}
 
-	// Token: 0x04000367 RID: 871
 	[global::Cpp2ILInjected.Token(Token = "0x4000526")]
 	public static float GlobalScale;
 }

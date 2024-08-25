@@ -6,11 +6,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005F8 RID: 1528
 	[global::Cpp2ILInjected.Token(Token = "0x20008F1")]
 	public class HoneyPatchBiome : MicroBiome
 	{
-		// Token: 0x06003D9B RID: 15771 RVA: 0x0002D005 File Offset: 0x0002B205
 		[global::Cpp2ILInjected.Token(Token = "0x6004622")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7CC65C", Offset = "0x7CC65C", Length = "0x814")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -121,7 +119,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D9C RID: 15772 RVA: 0x0002D008 File Offset: 0x0002B208
 		[global::Cpp2ILInjected.Token(Token = "0x6004623")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7CCE70", Offset = "0x7CCE70", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -8,11 +8,9 @@ using Mono.Net.Security;
 
 namespace Mono.Unity
 {
-	// Token: 0x02000010 RID: 16
 	[global::Cpp2ILInjected.Token(Token = "0x2000048")]
 	internal class X509ChainImplUnityTls : X509ChainImpl
 	{
-		// Token: 0x06000053 RID: 83 RVA: 0x00002F27 File Offset: 0x00001127
 		[global::Cpp2ILInjected.Token(Token = "0x60000B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D46008", Offset = "0x1D46008", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UnityTlsContext), Member = "VerifyCallback", MemberParameters = new object[]
@@ -40,8 +38,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x17000014 RID: 20
-		// (get) Token: 0x06000054 RID: 84 RVA: 0x00002F2A File Offset: 0x0000112A
 		[global::Cpp2ILInjected.Token(Token = "0x17000014")]
 		public override bool IsValid
 		{
@@ -56,8 +52,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x17000015 RID: 21
-		// (get) Token: 0x06000055 RID: 85 RVA: 0x00002F2D File Offset: 0x0000112D
 		[global::Cpp2ILInjected.Token(Token = "0x17000015")]
 		internal UnityTls.unitytls_x509list_ref NativeCertificateChain
 		{
@@ -70,8 +64,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x17000016 RID: 22
-		// (get) Token: 0x06000056 RID: 86 RVA: 0x00002F30 File Offset: 0x00001130
 		[global::Cpp2ILInjected.Token(Token = "0x17000016")]
 		public override X509ChainElementCollection ChainElements
 		{
@@ -95,7 +87,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x06000057 RID: 87 RVA: 0x00002F33 File Offset: 0x00001133
 		[global::Cpp2ILInjected.Token(Token = "0x60000B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4767C", Offset = "0x1D4767C", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -108,8 +99,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x17000017 RID: 23
-		// (get) Token: 0x06000058 RID: 88 RVA: 0x00002F36 File Offset: 0x00001136
 		[global::Cpp2ILInjected.Token(Token = "0x17000017")]
 		public override X509ChainPolicy ChainPolicy
 		{
@@ -122,7 +111,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x06000059 RID: 89 RVA: 0x00002F39 File Offset: 0x00001139
 		[global::Cpp2ILInjected.Token(Token = "0x60000B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D47788", Offset = "0x1D47788", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -131,7 +119,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x0600005A RID: 90 RVA: 0x00002F3C File Offset: 0x0000113C
 		[global::Cpp2ILInjected.Token(Token = "0x60000B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D47790", Offset = "0x1D47790", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -142,7 +129,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x0600005B RID: 91 RVA: 0x00002F3F File Offset: 0x0000113F
 		[global::Cpp2ILInjected.Token(Token = "0x60000BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D477C4", Offset = "0x1D477C4", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -153,27 +139,22 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x0400001A RID: 26
 		[global::Cpp2ILInjected.Token(Token = "0x4000096")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private X509ChainElementCollection elements;
 
-		// Token: 0x0400001B RID: 27
 		[global::Cpp2ILInjected.Token(Token = "0x4000097")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private UnityTls.unitytls_x509list_ref nativeCertificateChain;
 
-		// Token: 0x0400001C RID: 28
 		[global::Cpp2ILInjected.Token(Token = "0x4000098")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private X509ChainPolicy policy;
 
-		// Token: 0x0400001D RID: 29
 		[global::Cpp2ILInjected.Token(Token = "0x4000099")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private List<X509ChainStatus> chainStatusList;
 
-		// Token: 0x0400001E RID: 30
 		[global::Cpp2ILInjected.Token(Token = "0x400009A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private bool reverseOrder;

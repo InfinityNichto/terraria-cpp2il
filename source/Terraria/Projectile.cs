@@ -11,12 +11,14 @@ using ReLogic.Utilities;
 using Terraria.Achievements;
 using Terraria.Audio;
 using Terraria.Chat;
+using Terraria.Cinematics;
 using Terraria.DataStructures;
 using Terraria.Enums;
 using Terraria.GameContent;
 using Terraria.GameContent.Achievements;
 using Terraria.GameContent.Creative;
 using Terraria.GameContent.Drawing;
+using Terraria.GameContent.Events;
 using Terraria.GameContent.Golf;
 using Terraria.GameContent.Shaders;
 using Terraria.GameContent.UI;
@@ -34,12 +36,9 @@ using Unity.IL2CPP.CompilerServices;
 
 namespace Terraria
 {
-	// Token: 0x0200031F RID: 799
 	[global::Cpp2ILInjected.Token(Token = "0x200041D")]
 	public class Projectile : Entity
 	{
-		// Token: 0x17000520 RID: 1312
-		// (get) Token: 0x06002411 RID: 9233 RVA: 0x00028682 File Offset: 0x00026882
 		[global::Cpp2ILInjected.Token(Token = "0x17000554")]
 		public string Name
 		{
@@ -65,7 +64,6 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x06002412 RID: 9234 RVA: 0x00028685 File Offset: 0x00026885
 		[global::Cpp2ILInjected.Token(Token = "0x6002609")]
 		[global::Cpp2ILInjected.Address(RVA = "0xFFFF70", Offset = "0xFFFF70", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "Initialize_AlmostEverything", ReturnType = typeof(void))]
@@ -82,7 +80,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002413 RID: 9235 RVA: 0x00028688 File Offset: 0x00026888
 		[global::Cpp2ILInjected.Token(Token = "0x600260A")]
 		[global::Cpp2ILInjected.Address(RVA = "0xFFFFE4", Offset = "0xFFFFE4", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +96,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002414 RID: 9236 RVA: 0x0002868B File Offset: 0x0002688B
 		[global::Cpp2ILInjected.Token(Token = "0x600260B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100004C", Offset = "0x100004C", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,8 +107,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x17000521 RID: 1313
-		// (get) Token: 0x06002415 RID: 9237 RVA: 0x0002868E File Offset: 0x0002688E
 		[global::Cpp2ILInjected.Token(Token = "0x17000555")]
 		public bool WipableTurret
 		{
@@ -130,7 +124,6 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x06002416 RID: 9238 RVA: 0x00028691 File Offset: 0x00026891
 		[global::Cpp2ILInjected.Token(Token = "0x600260D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10001B0", Offset = "0x10001B0", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -142,9 +135,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x17000522 RID: 1314
-		// (get) Token: 0x06002417 RID: 9239 RVA: 0x00028694 File Offset: 0x00026894
-		// (set) Token: 0x06002418 RID: 9240 RVA: 0x00028697 File Offset: 0x00026897
 		[global::Cpp2ILInjected.Token(Token = "0x17000556")]
 		public float Opacity
 		{
@@ -200,9 +190,6 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x17000523 RID: 1315
-		// (get) Token: 0x06002419 RID: 9241 RVA: 0x0002869A File Offset: 0x0002689A
-		// (set) Token: 0x0600241A RID: 9242 RVA: 0x0002869D File Offset: 0x0002689D
 		[global::Cpp2ILInjected.Token(Token = "0x17000557")]
 		public int MaxUpdates
 		{
@@ -227,8 +214,6 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x17000524 RID: 1316
-		// (get) Token: 0x0600241B RID: 9243 RVA: 0x000286A0 File Offset: 0x000268A0
 		[global::Cpp2ILInjected.Token(Token = "0x17000558")]
 		public NPC OwnerMinionAttackTargetNPC
 		{
@@ -275,7 +260,6 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x0600241C RID: 9244 RVA: 0x000286A3 File Offset: 0x000268A3
 		[global::Cpp2ILInjected.Token(Token = "0x6002613")]
 		[global::Cpp2ILInjected.Address(RVA = "0xF6FA1C", Offset = "0xF6FA1C", Length = "0x8D84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -337,7 +321,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600241D RID: 9245 RVA: 0x000286A6 File Offset: 0x000268A6
 		[global::Cpp2ILInjected.Token(Token = "0x6002614")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1000370", Offset = "0x1000370", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -348,7 +331,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600241E RID: 9246 RVA: 0x000286A9 File Offset: 0x000268A9
 		[global::Cpp2ILInjected.Token(Token = "0x6002615")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10003AC", Offset = "0x10003AC", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -359,7 +341,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600241F RID: 9247 RVA: 0x000286AC File Offset: 0x000268AC
 		[global::Cpp2ILInjected.Token(Token = "0x6002616")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10003EC", Offset = "0x10003EC", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -371,9 +352,120 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002420 RID: 9248 RVA: 0x000286AF File Offset: 0x000268AF
 		[global::Cpp2ILInjected.Token(Token = "0x6002617")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100046C", Offset = "0x100046C", Length = "0xDC")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawWallOfStars", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "HaveDryadDoStardewAnimation", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_123_Deerclops", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnPassiveShadowHands", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_123_Deerclops_ShootRubbleUp", MemberParameters = new object[]
+		{
+			typeof(ref NPCAimedTarget),
+			typeof(ref Point),
+			typeof(int),
+			typeof(int),
+			typeof(float),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_123_Deerclops_TryMakingSpike", MemberParameters = new object[]
+		{
+			typeof(ref Point),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_121_QueenSlime", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_120_HallowBoss", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_119_Dandelion", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_117_BloodNautilus", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_005_EaterOfSouls", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_110_Betsy", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_026_Unicorns", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_107_ImprovedWalkers", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_109_DarkMage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_111_DD2LightningBug", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "checkDead", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "OnHit", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float),
+			typeof(Entity)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateBuffs", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateAbigailStatus", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateStormTigerStatus", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "SpawnHallucination", MemberParameters = new object[] { typeof(Item) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TorchAttack", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "Hurt", MemberParameters = new object[]
+		{
+			typeof(PlayerDeathReason),
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(bool),
+			typeof(bool),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(double))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ApplyNPCOnHitEffects", MemberParameters = new object[]
+		{
+			typeof(Item),
+			typeof(Rectangle),
+			typeof(int),
+			typeof(float),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_Shoot", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Item),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "SpawnMinionOnCursor", MemberParameters = new object[]
+		{
+			typeof(IEntitySource),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(float),
+			typeof(Vector2),
+			typeof(Vector2)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "CommandForbiddenStorm", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Damage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "SummonSuperStarSlash", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "SummonMonkGhast", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "HandleMovement", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "GasTrapCheck", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(Player)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_015_Flails", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_067_TigerSpecialAttack", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "BetsySharpnel", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_030", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_130_FlameBurstTower", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_134_Ballista", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_138_ExplosiveTrap", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_140_MonkStaffT1", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_142_MonkStaffT2And3", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Kill", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 80)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
 		public static int NewProjectile(IEntitySource spawnSource, Vector2 position, Vector2 velocity, int Type, int Damage, float KnockBack, int Owner = -1, float ai0 = 0f, float ai1 = 0f, float ai2 = 0f)
@@ -381,7 +473,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002421 RID: 9249 RVA: 0x000286B2 File Offset: 0x000268B2
 		[global::Cpp2ILInjected.Token(Token = "0x6002618")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1000FC4", Offset = "0x1000FC4", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -413,10 +504,289 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002422 RID: 9250 RVA: 0x000286B5 File Offset: 0x000268B5
 		[global::Cpp2ILInjected.Token(Token = "0x6002619")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1000548", Offset = "0x1000548", Length = "0xA7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnStardustMark_StardustTower", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnStardustMark_StardustWorm", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_121_QueenSlime", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "BloodNautilus_CallForHelp", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_069_DukeFishron", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_037_Destroyer", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_005_EaterOfSouls", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "StingerExplosion", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_007_TownEntities", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_003_Fighters", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_001_Slimes", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_026_Unicorns", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_084_LunaticCultist", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "DropTombstoneTownNPC", MemberParameters = new object[] { typeof(NetworkText) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "DoDeathEvents", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "HitEffect", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(double)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "FireGrapple", MemberParameters = new object[] { typeof(Item) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "OnHit", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float),
+			typeof(Entity)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateBuffs", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "BuffHandle_SpawnPetIfNeeded", MemberParameters = new object[]
+		{
+			typeof(ref bool),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "Counterweight", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(int),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateArmorSets", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "DashMovement", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TileInteractionsUse", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "LaunchMinecartHook", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "Hurt", MemberParameters = new object[]
+		{
+			typeof(PlayerDeathReason),
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(bool),
+			typeof(bool),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(double))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "DropTombstone", MemberParameters = new object[]
+		{
+			typeof(long),
+			typeof(NetworkText),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "HorsemansBlade_SpawnPumpkin", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "SporeSac", MemberParameters = new object[] { typeof(Item) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "VolatileGelatin", MemberParameters = new object[] { typeof(Item) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_OwnerOnlyCode", MemberParameters = new object[]
+		{
+			typeof(ref Player.ItemCheckContext),
+			typeof(Item),
+			typeof(int),
+			typeof(Rectangle)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_MeleeHitPVP", MemberParameters = new object[]
+		{
+			typeof(Item),
+			typeof(Rectangle),
+			typeof(int),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "Volcano_TrySpawningVolcano", MemberParameters = new object[]
+		{
+			typeof(NPC),
+			typeof(Item),
+			typeof(float),
+			typeof(float),
+			typeof(Rectangle)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TentacleSpike_TrySpiking", MemberParameters = new object[]
+		{
+			typeof(NPC),
+			typeof(Item),
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "BloodButcherer_TryButchering", MemberParameters = new object[]
+		{
+			typeof(NPC),
+			typeof(Item),
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ApplyNPCOnHitEffects", MemberParameters = new object[]
+		{
+			typeof(Item),
+			typeof(Rectangle),
+			typeof(int),
+			typeof(float),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_EmitHammushProjectiles", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Item),
+			typeof(Rectangle),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_Shoot", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Item),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "ghostHurt", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2),
+			typeof(Entity)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "ghostHeal", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2),
+			typeof(Entity)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "vampireHeal", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2),
+			typeof(Entity)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Damage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_047_MagnetSphere_TryAttacking", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_015_Flails_Old", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_100_Medusa", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_019_Spears", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_019_Spears_Old", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_148_StarSpawner", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_001", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_004", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_014", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_026", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_038", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_042", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_045", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_046", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_053", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_057", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_062", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_064", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_066", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_069", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_075", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_099_2", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "BoulderExplosion", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Kill", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mount), Member = "StartAbilityCharge", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mount), Member = "UseAbility", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(Vector2),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mount), Member = "CastSuperCartLaser", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "HitWireSingle", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "GeyserTrap", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "ExplodeMine", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckSuper", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "Check2x2", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "ShootFromCannon", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(float),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SpawnThingsFromPot", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "LaunchRocket", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "LaunchRocketSmall", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "ShakeTree", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "KillTile", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "UpdateWorld", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SpawnFallingBlockProjectile", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(Tile),
+			typeof(Tile),
+			typeof(Tile),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DSTFilm), Member = "CreateChester", MemberParameters = new object[] { typeof(FrameEventData) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PortalHelper), Member = "AddPortal", MemberParameters = new object[]
+		{
+			typeof(Projectile),
+			typeof(Vector2),
+			typeof(float),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 299)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Main), Member = "get_myPlayer", ReturnType = typeof(int))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Projectile), Member = "FindOldestProjectile", ReturnType = typeof(int))]
@@ -466,7 +836,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002423 RID: 9251 RVA: 0x000286B8 File Offset: 0x000268B8
 		[global::Cpp2ILInjected.Token(Token = "0x600261A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100109C", Offset = "0x100109C", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -494,7 +863,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002424 RID: 9252 RVA: 0x000286BB File Offset: 0x000268BB
 		[global::Cpp2ILInjected.Token(Token = "0x600261B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10011E4", Offset = "0x10011E4", Length = "0x1B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -517,7 +885,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002425 RID: 9253 RVA: 0x000286BE File Offset: 0x000268BE
 		[global::Cpp2ILInjected.Token(Token = "0x600261C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100139C", Offset = "0x100139C", Length = "0x1A20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -556,7 +923,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002426 RID: 9254 RVA: 0x000286C1 File Offset: 0x000268C1
 		[global::Cpp2ILInjected.Token(Token = "0x600261D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1002DBC", Offset = "0x1002DBC", Length = "0xD40")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -581,7 +947,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002427 RID: 9255 RVA: 0x000286C4 File Offset: 0x000268C4
 		[global::Cpp2ILInjected.Token(Token = "0x600261E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1003AFC", Offset = "0x1003AFC", Length = "0x4C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -634,7 +999,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002428 RID: 9256 RVA: 0x000286C7 File Offset: 0x000268C7
 		[global::Cpp2ILInjected.Token(Token = "0x600261F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1004034", Offset = "0x1004034", Length = "0x358")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -669,7 +1033,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002429 RID: 9257 RVA: 0x000286CA File Offset: 0x000268CA
 		[global::Cpp2ILInjected.Token(Token = "0x6002620")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100438C", Offset = "0x100438C", Length = "0x18C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -702,7 +1065,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600242A RID: 9258 RVA: 0x000286CD File Offset: 0x000268CD
 		[global::Cpp2ILInjected.Token(Token = "0x6002621")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1004518", Offset = "0x1004518", Length = "0x1464")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -733,7 +1095,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600242B RID: 9259 RVA: 0x000286D0 File Offset: 0x000268D0
 		[global::Cpp2ILInjected.Token(Token = "0x6002622")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100597C", Offset = "0x100597C", Length = "0x504")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -788,7 +1149,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600242C RID: 9260 RVA: 0x000286D3 File Offset: 0x000268D3
 		[global::Cpp2ILInjected.Token(Token = "0x6002623")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1005E80", Offset = "0x1005E80", Length = "0x7DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -868,7 +1228,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600242D RID: 9261 RVA: 0x000286D6 File Offset: 0x000268D6
 		[Il2CppSetOption(/*Failed to decode CustomAttribute blob!*/)]
 		[Il2CppSetOption(/*Failed to decode CustomAttribute blob!*/)]
 		[global::Cpp2ILInjected.Token(Token = "0x6002624")]
@@ -1326,7 +1685,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600242E RID: 9262 RVA: 0x000286D9 File Offset: 0x000268D9
 		[global::Cpp2ILInjected.Token(Token = "0x6002625")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100E7E0", Offset = "0x100E7E0", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1360,7 +1718,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600242F RID: 9263 RVA: 0x000286DC File Offset: 0x000268DC
 		[global::Cpp2ILInjected.Token(Token = "0x6002626")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100E970", Offset = "0x100E970", Length = "0x47C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1409,7 +1766,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002430 RID: 9264 RVA: 0x000286DF File Offset: 0x000268DF
 		[global::Cpp2ILInjected.Token(Token = "0x6002627")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1013B7C", Offset = "0x1013B7C", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1419,7 +1775,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002431 RID: 9265 RVA: 0x000286E2 File Offset: 0x000268E2
 		[global::Cpp2ILInjected.Token(Token = "0x6002628")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1013BC4", Offset = "0x1013BC4", Length = "0x270")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1452,7 +1807,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002432 RID: 9266 RVA: 0x000286E5 File Offset: 0x000268E5
 		[global::Cpp2ILInjected.Token(Token = "0x6002629")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1012B14", Offset = "0x1012B14", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1463,7 +1817,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002433 RID: 9267 RVA: 0x000286E8 File Offset: 0x000268E8
 		[global::Cpp2ILInjected.Token(Token = "0x600262A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1012B94", Offset = "0x1012B94", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Damage", ReturnType = typeof(void))]
@@ -1482,7 +1835,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002434 RID: 9268 RVA: 0x000286EB File Offset: 0x000268EB
 		[global::Cpp2ILInjected.Token(Token = "0x600262B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1012F40", Offset = "0x1012F40", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1501,7 +1853,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002435 RID: 9269 RVA: 0x000286EE File Offset: 0x000268EE
 		[global::Cpp2ILInjected.Token(Token = "0x600262C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1013938", Offset = "0x1013938", Length = "0x244")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1548,7 +1899,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002436 RID: 9270 RVA: 0x000286F1 File Offset: 0x000268F1
 		[global::Cpp2ILInjected.Token(Token = "0x600262D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1013440", Offset = "0x1013440", Length = "0x4F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1615,7 +1965,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002437 RID: 9271 RVA: 0x000286F4 File Offset: 0x000268F4
 		[global::Cpp2ILInjected.Token(Token = "0x600262E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100EDEC", Offset = "0x100EDEC", Length = "0xC38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1689,7 +2038,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002438 RID: 9272 RVA: 0x000286F7 File Offset: 0x000268F7
 		[global::Cpp2ILInjected.Token(Token = "0x600262F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x101478C", Offset = "0x101478C", Length = "0x36C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1734,7 +2082,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002439 RID: 9273 RVA: 0x000286FA File Offset: 0x000268FA
 		[global::Cpp2ILInjected.Token(Token = "0x6002630")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1013E34", Offset = "0x1013E34", Length = "0x168")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1752,7 +2099,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600243A RID: 9274 RVA: 0x000286FD File Offset: 0x000268FD
 		[global::Cpp2ILInjected.Token(Token = "0x6002631")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100FAC0", Offset = "0x100FAC0", Length = "0x2FDC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1938,7 +2284,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600243B RID: 9275 RVA: 0x00028700 File Offset: 0x00026900
 		[global::Cpp2ILInjected.Token(Token = "0x6002632")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10150F0", Offset = "0x10150F0", Length = "0xE48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1989,7 +2334,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600243C RID: 9276 RVA: 0x00028703 File Offset: 0x00026903
 		[global::Cpp2ILInjected.Token(Token = "0x6002633")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1015F38", Offset = "0x1015F38", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2032,7 +2376,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600243D RID: 9277 RVA: 0x00028706 File Offset: 0x00026906
 		[Il2CppSetOption(/*Failed to decode CustomAttribute blob!*/)]
 		[Il2CppSetOption(/*Failed to decode CustomAttribute blob!*/)]
 		[global::Cpp2ILInjected.Token(Token = "0x6002634")]
@@ -2196,7 +2539,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600243E RID: 9278 RVA: 0x00028709 File Offset: 0x00026909
 		[global::Cpp2ILInjected.Token(Token = "0x6002635")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10200D4", Offset = "0x10200D4", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2208,7 +2550,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600243F RID: 9279 RVA: 0x0002870C File Offset: 0x0002690C
 		[global::Cpp2ILInjected.Token(Token = "0x6002636")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1018C4C", Offset = "0x1018C4C", Length = "0x300")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2255,7 +2596,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002440 RID: 9280 RVA: 0x0002870F File Offset: 0x0002690F
 		[global::Cpp2ILInjected.Token(Token = "0x6002637")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10201BC", Offset = "0x10201BC", Length = "0xDF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2303,7 +2643,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002441 RID: 9281 RVA: 0x00028712 File Offset: 0x00026912
 		[global::Cpp2ILInjected.Token(Token = "0x6002638")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1019AD0", Offset = "0x1019AD0", Length = "0x6604")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2613,7 +2952,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002442 RID: 9282 RVA: 0x00028715 File Offset: 0x00026915
 		[global::Cpp2ILInjected.Token(Token = "0x6002639")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1012C30", Offset = "0x1012C30", Length = "0x310")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2672,7 +3010,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002443 RID: 9283 RVA: 0x00028718 File Offset: 0x00026918
 		[global::Cpp2ILInjected.Token(Token = "0x600263A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10219F0", Offset = "0x10219F0", Length = "0x464")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2723,7 +3060,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002444 RID: 9284 RVA: 0x0002871B File Offset: 0x0002691B
 		[global::Cpp2ILInjected.Token(Token = "0x600263B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10213F0", Offset = "0x10213F0", Length = "0x340")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2777,7 +3113,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002445 RID: 9285 RVA: 0x0002871E File Offset: 0x0002691E
 		[global::Cpp2ILInjected.Token(Token = "0x600263C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1021730", Offset = "0x1021730", Length = "0x2C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2809,7 +3144,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002446 RID: 9286 RVA: 0x00028721 File Offset: 0x00026921
 		[global::Cpp2ILInjected.Token(Token = "0x600263D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102261C", Offset = "0x102261C", Length = "0xEA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -2902,7 +3236,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002447 RID: 9287 RVA: 0x00028724 File Offset: 0x00026924
 		[global::Cpp2ILInjected.Token(Token = "0x600263E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1023B24", Offset = "0x1023B24", Length = "0x284")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2925,7 +3258,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002448 RID: 9288 RVA: 0x00028727 File Offset: 0x00026927
 		[global::Cpp2ILInjected.Token(Token = "0x600263F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1023DA8", Offset = "0x1023DA8", Length = "0x185C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2962,7 +3294,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002449 RID: 9289 RVA: 0x0002872A File Offset: 0x0002692A
 		[global::Cpp2ILInjected.Token(Token = "0x6002640")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1023A28", Offset = "0x1023A28", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2977,7 +3308,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600244A RID: 9290 RVA: 0x0002872D File Offset: 0x0002692D
 		[global::Cpp2ILInjected.Token(Token = "0x6002641")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1023794", Offset = "0x1023794", Length = "0x294")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2990,7 +3320,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600244B RID: 9291 RVA: 0x00028730 File Offset: 0x00026930
 		[global::Cpp2ILInjected.Token(Token = "0x6002642")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10234C4", Offset = "0x10234C4", Length = "0x2D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3029,7 +3358,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600244C RID: 9292 RVA: 0x00028733 File Offset: 0x00026933
 		[global::Cpp2ILInjected.Token(Token = "0x6002643")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1025604", Offset = "0x1025604", Length = "0x1EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3062,7 +3390,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600244D RID: 9293 RVA: 0x00028736 File Offset: 0x00026936
 		[global::Cpp2ILInjected.Token(Token = "0x6002644")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1012A9C", Offset = "0x1012A9C", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3074,7 +3401,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600244E RID: 9294 RVA: 0x00028739 File Offset: 0x00026939
 		[global::Cpp2ILInjected.Token(Token = "0x6002645")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10257F0", Offset = "0x10257F0", Length = "0x15DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3146,7 +3472,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600244F RID: 9295 RVA: 0x0002873C File Offset: 0x0002693C
 		[global::Cpp2ILInjected.Token(Token = "0x6002646")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1026DCC", Offset = "0x1026DCC", Length = "0x1A20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -3205,7 +3530,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002450 RID: 9296 RVA: 0x0002873F File Offset: 0x0002693F
 		[global::Cpp2ILInjected.Token(Token = "0x6002647")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1018F4C", Offset = "0x1018F4C", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3224,7 +3548,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002451 RID: 9297 RVA: 0x00028742 File Offset: 0x00026942
 		[global::Cpp2ILInjected.Token(Token = "0x6002648")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10287EC", Offset = "0x10287EC", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3241,7 +3564,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002452 RID: 9298 RVA: 0x00028745 File Offset: 0x00026945
 		[global::Cpp2ILInjected.Token(Token = "0x6002649")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10288BC", Offset = "0x10288BC", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3264,7 +3586,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002453 RID: 9299 RVA: 0x00028748 File Offset: 0x00026948
 		[global::Cpp2ILInjected.Token(Token = "0x600264A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1018FC4", Offset = "0x1018FC4", Length = "0x180")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3277,7 +3598,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002454 RID: 9300 RVA: 0x0002874B File Offset: 0x0002694B
 		[global::Cpp2ILInjected.Token(Token = "0x600264B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1028A18", Offset = "0x1028A18", Length = "0x564")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3361,7 +3681,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002455 RID: 9301 RVA: 0x0002874E File Offset: 0x0002694E
 		[global::Cpp2ILInjected.Token(Token = "0x600264C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1028F7C", Offset = "0x1028F7C", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3372,7 +3691,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002456 RID: 9302 RVA: 0x00028751 File Offset: 0x00026951
 		[global::Cpp2ILInjected.Token(Token = "0x600264D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1028F8C", Offset = "0x1028F8C", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3384,7 +3702,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002457 RID: 9303 RVA: 0x00028754 File Offset: 0x00026954
 		[global::Cpp2ILInjected.Token(Token = "0x600264E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1028FC0", Offset = "0x1028FC0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawWallOfStars", ReturnType = typeof(void))]
@@ -3394,7 +3711,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002458 RID: 9304 RVA: 0x00028757 File Offset: 0x00026957
 		[global::Cpp2ILInjected.Token(Token = "0x600264F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1028FC8", Offset = "0x1028FC8", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Shimmer", ReturnType = typeof(void))]
@@ -3409,9 +3725,52 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002459 RID: 9305 RVA: 0x0002875A File Offset: 0x0002695A
 		[global::Cpp2ILInjected.Token(Token = "0x6002650")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1012B38", Offset = "0x1012B38", Length = "0x5C")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Damage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "SummonSuperStarSlash", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "SummonMonkGhast", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "HandleMovement", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "InheritSource", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(IEntitySource))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_047_MagnetSphere_TryAttacking", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_015_Flails", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_015_Flails_Old", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_100_Medusa", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_019_Spears", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_019_Spears_Old", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_067_TigerSpecialAttack", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_148_StarSpawner", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "BetsySharpnel", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_001", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_004", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_014", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_026", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_030", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_038", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_042", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_045", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_046", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_053", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_057", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_062", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_064", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_066", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_069", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_075", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_099_2", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_130_FlameBurstTower", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_134_Ballista", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_138_ExplosiveTrap", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_140_MonkStaffT1", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_142_MonkStaffT2And3", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "BoulderExplosion", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Kill", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 107)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(EntitySource_Parent), Member = ".ctor", MemberParameters = new object[] { typeof(Entity) }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
@@ -3420,7 +3779,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600245A RID: 9306 RVA: 0x0002875D File Offset: 0x0002695D
 		[global::Cpp2ILInjected.Token(Token = "0x6002651")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1029024", Offset = "0x1029024", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Kill", ReturnType = typeof(void))]
@@ -3432,7 +3790,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600245B RID: 9307 RVA: 0x00028760 File Offset: 0x00026960
 		[global::Cpp2ILInjected.Token(Token = "0x6002652")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1029080", Offset = "0x1029080", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI", ReturnType = typeof(void))]
@@ -3444,7 +3801,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600245C RID: 9308 RVA: 0x00028763 File Offset: 0x00026963
 		[global::Cpp2ILInjected.Token(Token = "0x6002653")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1003FC0", Offset = "0x1003FC0", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "ghostHurt", MemberParameters = new object[]
@@ -3478,7 +3834,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600245D RID: 9309 RVA: 0x00028766 File Offset: 0x00026966
 		[global::Cpp2ILInjected.Token(Token = "0x6002654")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1013030", Offset = "0x1013030", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Damage", ReturnType = typeof(void))]
@@ -3495,7 +3850,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600245E RID: 9310 RVA: 0x00028769 File Offset: 0x00026969
 		[global::Cpp2ILInjected.Token(Token = "0x6002655")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10290DC", Offset = "0x10290DC", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "OnHit", MemberParameters = new object[]
@@ -3525,7 +3879,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600245F RID: 9311 RVA: 0x0002876C File Offset: 0x0002696C
 		[global::Cpp2ILInjected.Token(Token = "0x6002656")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10290E8", Offset = "0x10290E8", Length = "0x8F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3613,7 +3966,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002460 RID: 9312 RVA: 0x0002876F File Offset: 0x0002696F
 		[global::Cpp2ILInjected.Token(Token = "0x6002657")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10299DC", Offset = "0x10299DC", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "PrepareBombToBlow", ReturnType = typeof(void))]
@@ -3626,7 +3978,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002461 RID: 9313 RVA: 0x00028772 File Offset: 0x00026972
 		[global::Cpp2ILInjected.Token(Token = "0x6002658")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1019144", Offset = "0x1019144", Length = "0x98C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3683,7 +4034,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002462 RID: 9314 RVA: 0x00028775 File Offset: 0x00026975
 		[global::Cpp2ILInjected.Token(Token = "0x6002659")]
 		[global::Cpp2ILInjected.Address(RVA = "0xF787A0", Offset = "0xF787A0", Length = "0x2AC3C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -4441,7 +4791,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002463 RID: 9315 RVA: 0x00028778 File Offset: 0x00026978
 		[global::Cpp2ILInjected.Token(Token = "0x600265A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1029A14", Offset = "0x1029A14", Length = "0xDE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -4587,7 +4936,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002464 RID: 9316 RVA: 0x0002877B File Offset: 0x0002697B
 		[global::Cpp2ILInjected.Token(Token = "0x600265B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102A7F8", Offset = "0x102A7F8", Length = "0x3EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -4644,7 +4992,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002465 RID: 9317 RVA: 0x0002877E File Offset: 0x0002697E
 		[global::Cpp2ILInjected.Token(Token = "0x600265C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102ABE4", Offset = "0x102ABE4", Length = "0xBC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -4732,7 +5079,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002466 RID: 9318 RVA: 0x00028781 File Offset: 0x00026981
 		[global::Cpp2ILInjected.Token(Token = "0x600265D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102B7AC", Offset = "0x102B7AC", Length = "0x3A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -4799,7 +5145,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002467 RID: 9319 RVA: 0x00028784 File Offset: 0x00026984
 		[global::Cpp2ILInjected.Token(Token = "0x600265E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102BB54", Offset = "0x102BB54", Length = "0x3D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -4850,7 +5195,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002468 RID: 9320 RVA: 0x00028787 File Offset: 0x00026987
 		[global::Cpp2ILInjected.Token(Token = "0x600265F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102BF2C", Offset = "0x102BF2C", Length = "0x7DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -4930,7 +5274,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002469 RID: 9321 RVA: 0x0002878A File Offset: 0x0002698A
 		[global::Cpp2ILInjected.Token(Token = "0x6002660")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102C708", Offset = "0x102C708", Length = "0x270")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -4954,7 +5297,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600246A RID: 9322 RVA: 0x0002878D File Offset: 0x0002698D
 		[global::Cpp2ILInjected.Token(Token = "0x6002661")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102C978", Offset = "0x102C978", Length = "0x490")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5018,7 +5360,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600246B RID: 9323 RVA: 0x00028790 File Offset: 0x00026990
 		[global::Cpp2ILInjected.Token(Token = "0x6002662")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102CE08", Offset = "0x102CE08", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5034,7 +5375,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600246C RID: 9324 RVA: 0x00028793 File Offset: 0x00026993
 		[global::Cpp2ILInjected.Token(Token = "0x6002663")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102CE7C", Offset = "0x102CE7C", Length = "0x1540")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5152,7 +5492,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600246D RID: 9325 RVA: 0x00028796 File Offset: 0x00026996
 		[global::Cpp2ILInjected.Token(Token = "0x6002664")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102E3BC", Offset = "0x102E3BC", Length = "0x1B7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5291,7 +5630,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600246E RID: 9326 RVA: 0x00028799 File Offset: 0x00026999
 		[global::Cpp2ILInjected.Token(Token = "0x6002665")]
 		[global::Cpp2ILInjected.Address(RVA = "0x102FF38", Offset = "0x102FF38", Length = "0x1960")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5397,7 +5735,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600246F RID: 9327 RVA: 0x0002879C File Offset: 0x0002699C
 		[global::Cpp2ILInjected.Token(Token = "0x6002666")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1031898", Offset = "0x1031898", Length = "0x46C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5470,7 +5807,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002470 RID: 9328 RVA: 0x0002879F File Offset: 0x0002699F
 		[global::Cpp2ILInjected.Token(Token = "0x6002667")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1031D04", Offset = "0x1031D04", Length = "0xD80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5578,7 +5914,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002471 RID: 9329 RVA: 0x000287A2 File Offset: 0x000269A2
 		[global::Cpp2ILInjected.Token(Token = "0x6002668")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1032A84", Offset = "0x1032A84", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5603,7 +5938,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002472 RID: 9330 RVA: 0x000287A5 File Offset: 0x000269A5
 		[global::Cpp2ILInjected.Token(Token = "0x6002669")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1032C08", Offset = "0x1032C08", Length = "0x72C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5652,7 +5986,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002473 RID: 9331 RVA: 0x000287A8 File Offset: 0x000269A8
 		[global::Cpp2ILInjected.Token(Token = "0x600266A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1033334", Offset = "0x1033334", Length = "0x678")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5721,7 +6054,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002474 RID: 9332 RVA: 0x000287AB File Offset: 0x000269AB
 		[global::Cpp2ILInjected.Token(Token = "0x600266B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10339AC", Offset = "0x10339AC", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5733,7 +6065,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002475 RID: 9333 RVA: 0x000287AE File Offset: 0x000269AE
 		[global::Cpp2ILInjected.Token(Token = "0x600266C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1033AD8", Offset = "0x1033AD8", Length = "0x240")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5760,7 +6091,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002476 RID: 9334 RVA: 0x000287B1 File Offset: 0x000269B1
 		[global::Cpp2ILInjected.Token(Token = "0x600266D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1033D18", Offset = "0x1033D18", Length = "0xD8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5853,7 +6183,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002477 RID: 9335 RVA: 0x000287B4 File Offset: 0x000269B4
 		[global::Cpp2ILInjected.Token(Token = "0x600266E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1034AA4", Offset = "0x1034AA4", Length = "0x3C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -5913,7 +6242,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002478 RID: 9336 RVA: 0x000287B7 File Offset: 0x000269B7
 		[global::Cpp2ILInjected.Token(Token = "0x600266F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1034E6C", Offset = "0x1034E6C", Length = "0x111C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6027,7 +6355,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002479 RID: 9337 RVA: 0x000287BA File Offset: 0x000269BA
 		[global::Cpp2ILInjected.Token(Token = "0x6002670")]
 		[global::Cpp2ILInjected.Address(RVA = "0x100FA24", Offset = "0x100FA24", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6039,7 +6366,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600247A RID: 9338 RVA: 0x000287BD File Offset: 0x000269BD
 		[global::Cpp2ILInjected.Token(Token = "0x6002671")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1035F88", Offset = "0x1035F88", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6051,7 +6377,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600247B RID: 9339 RVA: 0x000287C0 File Offset: 0x000269C0
 		[global::Cpp2ILInjected.Token(Token = "0x6002672")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1036068", Offset = "0x1036068", Length = "0x9F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6150,7 +6475,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600247C RID: 9340 RVA: 0x000287C3 File Offset: 0x000269C3
 		[global::Cpp2ILInjected.Token(Token = "0x6002673")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1036A5C", Offset = "0x1036A5C", Length = "0x230")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6200,7 +6524,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600247D RID: 9341 RVA: 0x000287C6 File Offset: 0x000269C6
 		[global::Cpp2ILInjected.Token(Token = "0x6002674")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1036C8C", Offset = "0x1036C8C", Length = "0x182C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6373,7 +6696,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600247E RID: 9342 RVA: 0x000287C9 File Offset: 0x000269C9
 		[global::Cpp2ILInjected.Token(Token = "0x6002675")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10384B8", Offset = "0x10384B8", Length = "0x147C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6486,7 +6808,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600247F RID: 9343 RVA: 0x000287CC File Offset: 0x000269CC
 		[global::Cpp2ILInjected.Token(Token = "0x6002676")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1020FB0", Offset = "0x1020FB0", Length = "0x440")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6548,7 +6869,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002480 RID: 9344 RVA: 0x000287CF File Offset: 0x000269CF
 		[global::Cpp2ILInjected.Token(Token = "0x6002677")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103A2F0", Offset = "0x103A2F0", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "SetDefaults", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -6559,7 +6879,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002481 RID: 9345 RVA: 0x000287D2 File Offset: 0x000269D2
 		[global::Cpp2ILInjected.Token(Token = "0x6002678")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103A2FC", Offset = "0x103A2FC", Length = "0x1814")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6671,7 +6990,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002482 RID: 9346 RVA: 0x000287D5 File Offset: 0x000269D5
 		[global::Cpp2ILInjected.Token(Token = "0x6002679")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103C260", Offset = "0x103C260", Length = "0x1F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6703,7 +7021,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002483 RID: 9347 RVA: 0x000287D8 File Offset: 0x000269D8
 		[global::Cpp2ILInjected.Token(Token = "0x600267A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103C450", Offset = "0x103C450", Length = "0xA84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6768,7 +7085,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002484 RID: 9348 RVA: 0x000287DB File Offset: 0x000269DB
 		[global::Cpp2ILInjected.Token(Token = "0x600267B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103BB10", Offset = "0x103BB10", Length = "0x750")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6831,7 +7147,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002485 RID: 9349 RVA: 0x000287DE File Offset: 0x000269DE
 		[global::Cpp2ILInjected.Token(Token = "0x600267C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103CED4", Offset = "0x103CED4", Length = "0xE90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -6977,7 +7292,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002486 RID: 9350 RVA: 0x000287E1 File Offset: 0x000269E1
 		[global::Cpp2ILInjected.Token(Token = "0x600267D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103DD64", Offset = "0x103DD64", Length = "0x1810")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7085,7 +7399,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002487 RID: 9351 RVA: 0x000287E4 File Offset: 0x000269E4
 		[global::Cpp2ILInjected.Token(Token = "0x600267E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103F574", Offset = "0x103F574", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7108,7 +7421,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002488 RID: 9352 RVA: 0x000287E7 File Offset: 0x000269E7
 		[global::Cpp2ILInjected.Token(Token = "0x600267F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103F6D0", Offset = "0x103F6D0", Length = "0x580")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7171,7 +7483,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002489 RID: 9353 RVA: 0x000287EA File Offset: 0x000269EA
 		[global::Cpp2ILInjected.Token(Token = "0x6002680")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103FC50", Offset = "0x103FC50", Length = "0x350")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7228,7 +7539,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600248A RID: 9354 RVA: 0x000287ED File Offset: 0x000269ED
 		[global::Cpp2ILInjected.Token(Token = "0x6002681")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1040198", Offset = "0x1040198", Length = "0x280")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7268,7 +7578,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600248B RID: 9355 RVA: 0x000287F0 File Offset: 0x000269F0
 		[global::Cpp2ILInjected.Token(Token = "0x6002682")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1040418", Offset = "0x1040418", Length = "0x17C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7298,7 +7607,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600248C RID: 9356 RVA: 0x000287F3 File Offset: 0x000269F3
 		[global::Cpp2ILInjected.Token(Token = "0x6002683")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1040594", Offset = "0x1040594", Length = "0xD2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7408,7 +7716,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600248D RID: 9357 RVA: 0x000287F6 File Offset: 0x000269F6
 		[global::Cpp2ILInjected.Token(Token = "0x6002684")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10412C0", Offset = "0x10412C0", Length = "0xCDC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7496,7 +7803,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600248E RID: 9358 RVA: 0x000287F9 File Offset: 0x000269F9
 		[global::Cpp2ILInjected.Token(Token = "0x6002685")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1041F9C", Offset = "0x1041F9C", Length = "0x30C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7557,7 +7863,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600248F RID: 9359 RVA: 0x000287FC File Offset: 0x000269FC
 		[global::Cpp2ILInjected.Token(Token = "0x6002686")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10423CC", Offset = "0x10423CC", Length = "0x5D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7619,7 +7924,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002490 RID: 9360 RVA: 0x000287FF File Offset: 0x000269FF
 		[global::Cpp2ILInjected.Token(Token = "0x6002687")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10429A4", Offset = "0x10429A4", Length = "0x198")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7657,7 +7961,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002491 RID: 9361 RVA: 0x00028802 File Offset: 0x00026A02
 		[global::Cpp2ILInjected.Token(Token = "0x6002688")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1042B3C", Offset = "0x1042B3C", Length = "0x1F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7700,7 +8003,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002492 RID: 9362 RVA: 0x00028805 File Offset: 0x00026A05
 		[global::Cpp2ILInjected.Token(Token = "0x6002689")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1042D34", Offset = "0x1042D34", Length = "0x880")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7791,7 +8093,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002493 RID: 9363 RVA: 0x00028808 File Offset: 0x00026A08
 		[global::Cpp2ILInjected.Token(Token = "0x600268A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x103FFA0", Offset = "0x103FFA0", Length = "0x1F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7837,7 +8138,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002494 RID: 9364 RVA: 0x0002880B File Offset: 0x00026A0B
 		[global::Cpp2ILInjected.Token(Token = "0x600268B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10435B4", Offset = "0x10435B4", Length = "0x30C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7883,7 +8183,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002495 RID: 9365 RVA: 0x0002880E File Offset: 0x00026A0E
 		[global::Cpp2ILInjected.Token(Token = "0x600268C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1014AF8", Offset = "0x1014AF8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawProjDirect", MemberParameters = new object[]
@@ -7897,7 +8196,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002496 RID: 9366 RVA: 0x00028811 File Offset: 0x00026A11
 		[global::Cpp2ILInjected.Token(Token = "0x600268D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1014B00", Offset = "0x1014B00", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7932,7 +8230,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002497 RID: 9367 RVA: 0x00028814 File Offset: 0x00026A14
 		[global::Cpp2ILInjected.Token(Token = "0x600268E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10130A4", Offset = "0x10130A4", Length = "0x194")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -7970,7 +8267,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002498 RID: 9368 RVA: 0x00028817 File Offset: 0x00026A17
 		[global::Cpp2ILInjected.Token(Token = "0x600268F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10438C0", Offset = "0x10438C0", Length = "0x52C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8038,7 +8334,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002499 RID: 9369 RVA: 0x0002881A File Offset: 0x00026A1A
 		[global::Cpp2ILInjected.Token(Token = "0x6002690")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1043DEC", Offset = "0x1043DEC", Length = "0xCF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8168,7 +8463,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600249A RID: 9370 RVA: 0x0002881D File Offset: 0x00026A1D
 		[global::Cpp2ILInjected.Token(Token = "0x6002691")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1044CC8", Offset = "0x1044CC8", Length = "0x1828")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8298,7 +8592,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600249B RID: 9371 RVA: 0x00028820 File Offset: 0x00026A20
 		[global::Cpp2ILInjected.Token(Token = "0x6002692")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1014534", Offset = "0x1014534", Length = "0x258")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8354,7 +8647,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600249C RID: 9372 RVA: 0x00028823 File Offset: 0x00026A23
 		[global::Cpp2ILInjected.Token(Token = "0x6002693")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10464F0", Offset = "0x10464F0", Length = "0x159C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8451,7 +8743,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600249D RID: 9373 RVA: 0x00028826 File Offset: 0x00026A26
 		[global::Cpp2ILInjected.Token(Token = "0x6002694")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1047A8C", Offset = "0x1047A8C", Length = "0x480")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8525,7 +8816,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600249E RID: 9374 RVA: 0x00028829 File Offset: 0x00026A29
 		[global::Cpp2ILInjected.Token(Token = "0x6002695")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1047F94", Offset = "0x1047F94", Length = "0x348")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8581,7 +8871,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600249F RID: 9375 RVA: 0x0002882C File Offset: 0x00026A2C
 		[global::Cpp2ILInjected.Token(Token = "0x6002696")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10482DC", Offset = "0x10482DC", Length = "0x1EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8618,7 +8907,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A0 RID: 9376 RVA: 0x0002882F File Offset: 0x00026A2F
 		[global::Cpp2ILInjected.Token(Token = "0x6002697")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10484C8", Offset = "0x10484C8", Length = "0x310")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8649,7 +8937,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A1 RID: 9377 RVA: 0x00028832 File Offset: 0x00026A32
 		[global::Cpp2ILInjected.Token(Token = "0x6002698")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10487D8", Offset = "0x10487D8", Length = "0x914")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8774,7 +9061,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A2 RID: 9378 RVA: 0x00028835 File Offset: 0x00026A35
 		[global::Cpp2ILInjected.Token(Token = "0x6002699")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10490EC", Offset = "0x10490EC", Length = "0x214")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8797,7 +9083,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A3 RID: 9379 RVA: 0x00028838 File Offset: 0x00026A38
 		[global::Cpp2ILInjected.Token(Token = "0x600269A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1049300", Offset = "0x1049300", Length = "0x3C54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -8996,7 +9281,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A4 RID: 9380 RVA: 0x0002883B File Offset: 0x00026A3B
 		[global::Cpp2ILInjected.Token(Token = "0x600269B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x104D070", Offset = "0x104D070", Length = "0x3E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9039,7 +9323,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A5 RID: 9381 RVA: 0x0002883E File Offset: 0x00026A3E
 		[global::Cpp2ILInjected.Token(Token = "0x600269C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x104D450", Offset = "0x104D450", Length = "0x2D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9095,7 +9378,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A6 RID: 9382 RVA: 0x00028841 File Offset: 0x00026A41
 		[global::Cpp2ILInjected.Token(Token = "0x600269D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x104D724", Offset = "0x104D724", Length = "0x2068")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9258,7 +9540,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A7 RID: 9383 RVA: 0x00028844 File Offset: 0x00026A44
 		[global::Cpp2ILInjected.Token(Token = "0x600269E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1013F9C", Offset = "0x1013F9C", Length = "0x598")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9334,7 +9615,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A8 RID: 9384 RVA: 0x00028847 File Offset: 0x00026A47
 		[global::Cpp2ILInjected.Token(Token = "0x600269F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x104F78C", Offset = "0x104F78C", Length = "0x17C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9366,7 +9646,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024A9 RID: 9385 RVA: 0x0002884A File Offset: 0x00026A4A
 		[global::Cpp2ILInjected.Token(Token = "0x60026A0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x104F908", Offset = "0x104F908", Length = "0xB4C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9467,7 +9746,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024AA RID: 9386 RVA: 0x0002884D File Offset: 0x00026A4D
 		[global::Cpp2ILInjected.Token(Token = "0x60026A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1050454", Offset = "0x1050454", Length = "0x7B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9541,7 +9819,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024AB RID: 9387 RVA: 0x00028850 File Offset: 0x00026A50
 		[global::Cpp2ILInjected.Token(Token = "0x60026A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1050C08", Offset = "0x1050C08", Length = "0xC90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9630,7 +9907,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024AC RID: 9388 RVA: 0x00028853 File Offset: 0x00026A53
 		[global::Cpp2ILInjected.Token(Token = "0x60026A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1051898", Offset = "0x1051898", Length = "0x318")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9666,7 +9942,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024AD RID: 9389 RVA: 0x00028856 File Offset: 0x00026A56
 		[global::Cpp2ILInjected.Token(Token = "0x60026A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1044AE4", Offset = "0x1044AE4", Length = "0x1E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9700,7 +9975,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024AE RID: 9390 RVA: 0x00028859 File Offset: 0x00026A59
 		[global::Cpp2ILInjected.Token(Token = "0x60026A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1051D78", Offset = "0x1051D78", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -9709,7 +9983,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024AF RID: 9391 RVA: 0x0002885C File Offset: 0x00026A5C
 		[global::Cpp2ILInjected.Token(Token = "0x60026A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1051D80", Offset = "0x1051D80", Length = "0xA00")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -9810,7 +10083,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B0 RID: 9392 RVA: 0x0002885F File Offset: 0x00026A5F
 		[global::Cpp2ILInjected.Token(Token = "0x60026A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1052780", Offset = "0x1052780", Length = "0x4898")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10086,7 +10358,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B1 RID: 9393 RVA: 0x00028862 File Offset: 0x00026A62
 		[global::Cpp2ILInjected.Token(Token = "0x60026A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1057018", Offset = "0x1057018", Length = "0xC44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10168,7 +10439,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B2 RID: 9394 RVA: 0x00028865 File Offset: 0x00026A65
 		[global::Cpp2ILInjected.Token(Token = "0x60026A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1051BB0", Offset = "0x1051BB0", Length = "0x1C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10195,7 +10465,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B3 RID: 9395 RVA: 0x00028868 File Offset: 0x00026A68
 		[global::Cpp2ILInjected.Token(Token = "0x60026AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1057C5C", Offset = "0x1057C5C", Length = "0x350")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10213,7 +10482,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B4 RID: 9396 RVA: 0x0002886B File Offset: 0x00026A6B
 		[global::Cpp2ILInjected.Token(Token = "0x60026AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1057FAC", Offset = "0x1057FAC", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10230,7 +10498,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B5 RID: 9397 RVA: 0x0002886E File Offset: 0x00026A6E
 		[global::Cpp2ILInjected.Token(Token = "0x60026AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1058040", Offset = "0x1058040", Length = "0x14FC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10369,7 +10636,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B6 RID: 9398 RVA: 0x00028871 File Offset: 0x00026A71
 		[global::Cpp2ILInjected.Token(Token = "0x60026AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1059B68", Offset = "0x1059B68", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -10379,7 +10645,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B7 RID: 9399 RVA: 0x00028874 File Offset: 0x00026A74
 		[global::Cpp2ILInjected.Token(Token = "0x60026AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1059948", Offset = "0x1059948", Length = "0x220")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10401,7 +10666,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B8 RID: 9400 RVA: 0x00028877 File Offset: 0x00026A77
 		[global::Cpp2ILInjected.Token(Token = "0x60026AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10422A8", Offset = "0x10422A8", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10417,7 +10681,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024B9 RID: 9401 RVA: 0x0002887A File Offset: 0x00026A7A
 		[global::Cpp2ILInjected.Token(Token = "0x60026B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105953C", Offset = "0x105953C", Length = "0x40C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10456,7 +10719,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024BA RID: 9402 RVA: 0x0002887D File Offset: 0x00026A7D
 		[global::Cpp2ILInjected.Token(Token = "0x60026B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1059B74", Offset = "0x1059B74", Length = "0x101C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10587,7 +10849,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024BB RID: 9403 RVA: 0x00028880 File Offset: 0x00026A80
 		[global::Cpp2ILInjected.Token(Token = "0x60026B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105AB90", Offset = "0x105AB90", Length = "0x194")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10628,7 +10889,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024BC RID: 9404 RVA: 0x00028883 File Offset: 0x00026A83
 		[global::Cpp2ILInjected.Token(Token = "0x60026B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105AD24", Offset = "0x105AD24", Length = "0x484")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10692,7 +10952,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024BD RID: 9405 RVA: 0x00028886 File Offset: 0x00026A86
 		[global::Cpp2ILInjected.Token(Token = "0x60026B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105B1A8", Offset = "0x105B1A8", Length = "0x2E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10719,7 +10978,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024BE RID: 9406 RVA: 0x00028889 File Offset: 0x00026A89
 		[global::Cpp2ILInjected.Token(Token = "0x60026B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105B488", Offset = "0x105B488", Length = "0x3D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10785,7 +11043,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024BF RID: 9407 RVA: 0x0002888C File Offset: 0x00026A8C
 		[global::Cpp2ILInjected.Token(Token = "0x60026B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105B860", Offset = "0x105B860", Length = "0xBAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10896,7 +11153,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C0 RID: 9408 RVA: 0x0002888F File Offset: 0x00026A8F
 		[global::Cpp2ILInjected.Token(Token = "0x60026B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105C40C", Offset = "0x105C40C", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -10921,7 +11177,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C1 RID: 9409 RVA: 0x00028892 File Offset: 0x00026A92
 		[global::Cpp2ILInjected.Token(Token = "0x60026B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105C59C", Offset = "0x105C59C", Length = "0x1B84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11044,7 +11299,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C2 RID: 9410 RVA: 0x00028895 File Offset: 0x00026A95
 		[global::Cpp2ILInjected.Token(Token = "0x60026B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105E120", Offset = "0x105E120", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11057,7 +11311,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C3 RID: 9411 RVA: 0x00028898 File Offset: 0x00026A98
 		[global::Cpp2ILInjected.Token(Token = "0x60026BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105E244", Offset = "0x105E244", Length = "0xFA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11156,7 +11409,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C4 RID: 9412 RVA: 0x0002889B File Offset: 0x00026A9B
 		[global::Cpp2ILInjected.Token(Token = "0x60026BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x106194C", Offset = "0x106194C", Length = "0x370")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11195,7 +11447,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C5 RID: 9413 RVA: 0x0002889E File Offset: 0x00026A9E
 		[global::Cpp2ILInjected.Token(Token = "0x60026BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x105F1E8", Offset = "0x105F1E8", Length = "0x2764")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11306,7 +11557,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C6 RID: 9414 RVA: 0x000288A1 File Offset: 0x00026AA1
 		[global::Cpp2ILInjected.Token(Token = "0x60026BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1021E54", Offset = "0x1021E54", Length = "0x7C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11365,7 +11615,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C7 RID: 9415 RVA: 0x000288A4 File Offset: 0x00026AA4
 		[global::Cpp2ILInjected.Token(Token = "0x60026BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1061CBC", Offset = "0x1061CBC", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11376,7 +11625,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C8 RID: 9416 RVA: 0x000288A7 File Offset: 0x00026AA7
 		[global::Cpp2ILInjected.Token(Token = "0x60026BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1061CD0", Offset = "0x1061CD0", Length = "0xB44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11430,7 +11678,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024C9 RID: 9417 RVA: 0x000288AA File Offset: 0x00026AAA
 		[global::Cpp2ILInjected.Token(Token = "0x60026C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10629E8", Offset = "0x10629E8", Length = "0x680")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11495,7 +11742,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024CA RID: 9418 RVA: 0x000288AD File Offset: 0x00026AAD
 		[global::Cpp2ILInjected.Token(Token = "0x60026C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1063068", Offset = "0x1063068", Length = "0xB50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11561,7 +11807,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024CB RID: 9419 RVA: 0x000288B0 File Offset: 0x00026AB0
 		[global::Cpp2ILInjected.Token(Token = "0x60026C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1062814", Offset = "0x1062814", Length = "0x1D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11580,7 +11825,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024CC RID: 9420 RVA: 0x000288B3 File Offset: 0x00026AB3
 		[global::Cpp2ILInjected.Token(Token = "0x60026C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1063BB8", Offset = "0x1063BB8", Length = "0x1A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11619,7 +11863,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024CD RID: 9421 RVA: 0x000288B6 File Offset: 0x00026AB6
 		[global::Cpp2ILInjected.Token(Token = "0x60026C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1063D60", Offset = "0x1063D60", Length = "0x598")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11685,7 +11928,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024CE RID: 9422 RVA: 0x000288B9 File Offset: 0x00026AB9
 		[global::Cpp2ILInjected.Token(Token = "0x60026C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10642F8", Offset = "0x10642F8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI", ReturnType = typeof(void))]
@@ -11695,7 +11937,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024CF RID: 9423 RVA: 0x000288BC File Offset: 0x00026ABC
 		[global::Cpp2ILInjected.Token(Token = "0x60026C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1013238", Offset = "0x1013238", Length = "0x208")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11736,7 +11977,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D0 RID: 9424 RVA: 0x000288BF File Offset: 0x00026ABF
 		[global::Cpp2ILInjected.Token(Token = "0x60026C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10642FC", Offset = "0x10642FC", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -11753,7 +11993,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D1 RID: 9425 RVA: 0x000288C2 File Offset: 0x00026AC2
 		[global::Cpp2ILInjected.Token(Token = "0x60026C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0xFA33DC", Offset = "0xFA33DC", Length = "0x13834")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -12103,7 +12342,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D2 RID: 9426 RVA: 0x000288C5 File Offset: 0x00026AC5
 		[global::Cpp2ILInjected.Token(Token = "0x60026C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x106434C", Offset = "0x106434C", Length = "0x25CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -12201,7 +12439,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D3 RID: 9427 RVA: 0x000288C8 File Offset: 0x00026AC8
 		[global::Cpp2ILInjected.Token(Token = "0x60026CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1066918", Offset = "0x1066918", Length = "0x1E88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -12319,7 +12556,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D4 RID: 9428 RVA: 0x000288CB File Offset: 0x00026ACB
 		[global::Cpp2ILInjected.Token(Token = "0x60026CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10687A0", Offset = "0x10687A0", Length = "0xA68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -12403,7 +12639,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D5 RID: 9429 RVA: 0x000288CE File Offset: 0x00026ACE
 		[global::Cpp2ILInjected.Token(Token = "0x60026CC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1069208", Offset = "0x1069208", Length = "0x180C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -12540,7 +12775,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D6 RID: 9430 RVA: 0x000288D1 File Offset: 0x00026AD1
 		[global::Cpp2ILInjected.Token(Token = "0x60026CD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x106AA14", Offset = "0x106AA14", Length = "0xC50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -12623,7 +12857,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D7 RID: 9431 RVA: 0x000288D4 File Offset: 0x00026AD4
 		[global::Cpp2ILInjected.Token(Token = "0x60026CE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x106B664", Offset = "0x106B664", Length = "0x8C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -12684,7 +12917,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D8 RID: 9432 RVA: 0x000288D7 File Offset: 0x00026AD7
 		[global::Cpp2ILInjected.Token(Token = "0x60026CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x106BF2C", Offset = "0x106BF2C", Length = "0x10BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -12783,7 +13015,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024D9 RID: 9433 RVA: 0x000288DA File Offset: 0x00026ADA
 		[global::Cpp2ILInjected.Token(Token = "0x60026D0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x106CFE8", Offset = "0x106CFE8", Length = "0x708")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -12830,7 +13061,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024DA RID: 9434 RVA: 0x000288DD File Offset: 0x00026ADD
 		[global::Cpp2ILInjected.Token(Token = "0x60026D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x106D6F0", Offset = "0x106D6F0", Length = "0x770")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -12882,7 +13112,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024DB RID: 9435 RVA: 0x000288E0 File Offset: 0x00026AE0
 		[global::Cpp2ILInjected.Token(Token = "0x60026D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x106DE60", Offset = "0x106DE60", Length = "0x6D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -12915,7 +13144,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024DC RID: 9436 RVA: 0x000288E3 File Offset: 0x00026AE3
 		[global::Cpp2ILInjected.Token(Token = "0x60026D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x106E534", Offset = "0x106E534", Length = "0x2540")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13071,7 +13299,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024DD RID: 9437 RVA: 0x000288E6 File Offset: 0x00026AE6
 		[global::Cpp2ILInjected.Token(Token = "0x60026D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1070A74", Offset = "0x1070A74", Length = "0x3C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13158,7 +13385,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024DE RID: 9438 RVA: 0x000288E9 File Offset: 0x00026AE9
 		[global::Cpp2ILInjected.Token(Token = "0x60026D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1070E3C", Offset = "0x1070E3C", Length = "0x330")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13203,7 +13429,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024DF RID: 9439 RVA: 0x000288EC File Offset: 0x00026AEC
 		[global::Cpp2ILInjected.Token(Token = "0x60026D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107116C", Offset = "0x107116C", Length = "0x6B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13263,7 +13488,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E0 RID: 9440 RVA: 0x000288EF File Offset: 0x00026AEF
 		[global::Cpp2ILInjected.Token(Token = "0x60026D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1071824", Offset = "0x1071824", Length = "0x220")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13304,7 +13528,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E1 RID: 9441 RVA: 0x000288F2 File Offset: 0x00026AF2
 		[global::Cpp2ILInjected.Token(Token = "0x60026D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1071A44", Offset = "0x1071A44", Length = "0x1650")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13403,7 +13626,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E2 RID: 9442 RVA: 0x000288F5 File Offset: 0x00026AF5
 		[global::Cpp2ILInjected.Token(Token = "0x60026D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1073094", Offset = "0x1073094", Length = "0x4B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13449,7 +13671,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E3 RID: 9443 RVA: 0x000288F8 File Offset: 0x00026AF8
 		[global::Cpp2ILInjected.Token(Token = "0x60026DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1073548", Offset = "0x1073548", Length = "0x320")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13491,7 +13712,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E4 RID: 9444 RVA: 0x000288FB File Offset: 0x00026AFB
 		[global::Cpp2ILInjected.Token(Token = "0x60026DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1073868", Offset = "0x1073868", Length = "0x6BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13517,7 +13737,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E5 RID: 9445 RVA: 0x000288FE File Offset: 0x00026AFE
 		[global::Cpp2ILInjected.Token(Token = "0x60026DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0xFB6C10", Offset = "0xFB6C10", Length = "0xFF40")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13788,7 +14007,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E6 RID: 9446 RVA: 0x00028901 File Offset: 0x00026B01
 		[global::Cpp2ILInjected.Token(Token = "0x60026DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1073F24", Offset = "0x1073F24", Length = "0x958")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13839,7 +14057,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E7 RID: 9447 RVA: 0x00028904 File Offset: 0x00026B04
 		[global::Cpp2ILInjected.Token(Token = "0x60026DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107487C", Offset = "0x107487C", Length = "0x988")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13895,7 +14112,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E8 RID: 9448 RVA: 0x00028907 File Offset: 0x00026B07
 		[global::Cpp2ILInjected.Token(Token = "0x60026DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1075204", Offset = "0x1075204", Length = "0x1230")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -13972,7 +14188,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024E9 RID: 9449 RVA: 0x0002890A File Offset: 0x00026B0A
 		[global::Cpp2ILInjected.Token(Token = "0x60026E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1076434", Offset = "0x1076434", Length = "0xB14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14079,7 +14294,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024EA RID: 9450 RVA: 0x0002890D File Offset: 0x00026B0D
 		[global::Cpp2ILInjected.Token(Token = "0x60026E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1076F48", Offset = "0x1076F48", Length = "0x3E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14123,7 +14337,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024EB RID: 9451 RVA: 0x00028910 File Offset: 0x00026B10
 		[global::Cpp2ILInjected.Token(Token = "0x60026E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107732C", Offset = "0x107732C", Length = "0x650")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14162,7 +14375,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024EC RID: 9452 RVA: 0x00028913 File Offset: 0x00026B13
 		[global::Cpp2ILInjected.Token(Token = "0x60026E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107797C", Offset = "0x107797C", Length = "0x38C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14202,7 +14414,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024ED RID: 9453 RVA: 0x00028916 File Offset: 0x00026B16
 		[global::Cpp2ILInjected.Token(Token = "0x60026E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1077D08", Offset = "0x1077D08", Length = "0x758")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14260,7 +14471,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024EE RID: 9454 RVA: 0x00028919 File Offset: 0x00026B19
 		[global::Cpp2ILInjected.Token(Token = "0x60026E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1078460", Offset = "0x1078460", Length = "0x804")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14346,7 +14556,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024EF RID: 9455 RVA: 0x0002891C File Offset: 0x00026B1C
 		[global::Cpp2ILInjected.Token(Token = "0x60026E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1078C64", Offset = "0x1078C64", Length = "0x7BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14402,7 +14611,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F0 RID: 9456 RVA: 0x0002891F File Offset: 0x00026B1F
 		[global::Cpp2ILInjected.Token(Token = "0x60026E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1079420", Offset = "0x1079420", Length = "0x328")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14450,7 +14658,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F1 RID: 9457 RVA: 0x00028922 File Offset: 0x00026B22
 		[global::Cpp2ILInjected.Token(Token = "0x60026E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1079748", Offset = "0x1079748", Length = "0x1B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14490,7 +14697,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F2 RID: 9458 RVA: 0x00028925 File Offset: 0x00026B25
 		[global::Cpp2ILInjected.Token(Token = "0x60026E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10798F8", Offset = "0x10798F8", Length = "0xDAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14537,7 +14743,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F3 RID: 9459 RVA: 0x00028928 File Offset: 0x00026B28
 		[global::Cpp2ILInjected.Token(Token = "0x60026EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107A6A4", Offset = "0x107A6A4", Length = "0x2DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14560,7 +14765,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F4 RID: 9460 RVA: 0x0002892B File Offset: 0x00026B2B
 		[global::Cpp2ILInjected.Token(Token = "0x60026EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107A980", Offset = "0x107A980", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14579,7 +14783,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F5 RID: 9461 RVA: 0x0002892E File Offset: 0x00026B2E
 		[global::Cpp2ILInjected.Token(Token = "0x60026EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107AA38", Offset = "0x107AA38", Length = "0x648")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14641,7 +14844,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F6 RID: 9462 RVA: 0x00028931 File Offset: 0x00026B31
 		[global::Cpp2ILInjected.Token(Token = "0x60026ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107B080", Offset = "0x107B080", Length = "0x6D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14750,7 +14952,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F7 RID: 9463 RVA: 0x00028934 File Offset: 0x00026B34
 		[global::Cpp2ILInjected.Token(Token = "0x60026EE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107B754", Offset = "0x107B754", Length = "0x384")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14801,7 +15002,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F8 RID: 9464 RVA: 0x00028937 File Offset: 0x00026B37
 		[global::Cpp2ILInjected.Token(Token = "0x60026EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107BAD8", Offset = "0x107BAD8", Length = "0x958")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14867,7 +15067,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024F9 RID: 9465 RVA: 0x0002893A File Offset: 0x00026B3A
 		[global::Cpp2ILInjected.Token(Token = "0x60026F0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107C430", Offset = "0x107C430", Length = "0x600")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14918,7 +15117,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024FA RID: 9466 RVA: 0x0002893D File Offset: 0x00026B3D
 		[global::Cpp2ILInjected.Token(Token = "0x60026F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107CA30", Offset = "0x107CA30", Length = "0x994")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -14969,7 +15167,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024FB RID: 9467 RVA: 0x00028940 File Offset: 0x00026B40
 		[global::Cpp2ILInjected.Token(Token = "0x60026F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107D3C4", Offset = "0x107D3C4", Length = "0x758")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15032,7 +15229,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024FC RID: 9468 RVA: 0x00028943 File Offset: 0x00026B43
 		[global::Cpp2ILInjected.Token(Token = "0x60026F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107DB1C", Offset = "0x107DB1C", Length = "0x7AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15089,7 +15285,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024FD RID: 9469 RVA: 0x00028946 File Offset: 0x00026B46
 		[global::Cpp2ILInjected.Token(Token = "0x60026F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107E2C8", Offset = "0x107E2C8", Length = "0x770")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15150,7 +15345,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024FE RID: 9470 RVA: 0x00028949 File Offset: 0x00026B49
 		[global::Cpp2ILInjected.Token(Token = "0x60026F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107EA38", Offset = "0x107EA38", Length = "0x670")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -15208,7 +15402,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060024FF RID: 9471 RVA: 0x0002894C File Offset: 0x00026B4C
 		[global::Cpp2ILInjected.Token(Token = "0x60026F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107F0A8", Offset = "0x107F0A8", Length = "0xDE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -15301,7 +15494,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002500 RID: 9472 RVA: 0x0002894F File Offset: 0x00026B4F
 		[global::Cpp2ILInjected.Token(Token = "0x60026F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x107FE8C", Offset = "0x107FE8C", Length = "0xC34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -15353,7 +15545,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002501 RID: 9473 RVA: 0x00028952 File Offset: 0x00026B52
 		[global::Cpp2ILInjected.Token(Token = "0x60026F8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1080AC0", Offset = "0x1080AC0", Length = "0x598")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15414,7 +15605,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002502 RID: 9474 RVA: 0x00028955 File Offset: 0x00026B55
 		[global::Cpp2ILInjected.Token(Token = "0x60026F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1081058", Offset = "0x1081058", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15437,7 +15627,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002503 RID: 9475 RVA: 0x00028958 File Offset: 0x00026B58
 		[global::Cpp2ILInjected.Token(Token = "0x60026FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10811F4", Offset = "0x10811F4", Length = "0x368")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15474,7 +15663,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002504 RID: 9476 RVA: 0x0002895B File Offset: 0x00026B5B
 		[global::Cpp2ILInjected.Token(Token = "0x60026FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x108155C", Offset = "0x108155C", Length = "0x170")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15492,7 +15680,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002505 RID: 9477 RVA: 0x0002895E File Offset: 0x00026B5E
 		[global::Cpp2ILInjected.Token(Token = "0x60026FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10816CC", Offset = "0x10816CC", Length = "0x558")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15541,7 +15728,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002506 RID: 9478 RVA: 0x00028961 File Offset: 0x00026B61
 		[global::Cpp2ILInjected.Token(Token = "0x60026FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1081C24", Offset = "0x1081C24", Length = "0xD74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15623,7 +15809,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002507 RID: 9479 RVA: 0x00028964 File Offset: 0x00026B64
 		[global::Cpp2ILInjected.Token(Token = "0x60026FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1082998", Offset = "0x1082998", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15636,7 +15821,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002508 RID: 9480 RVA: 0x00028967 File Offset: 0x00026B67
 		[global::Cpp2ILInjected.Token(Token = "0x60026FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1082A30", Offset = "0x1082A30", Length = "0x5260")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -15822,7 +16006,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002509 RID: 9481 RVA: 0x0002896A File Offset: 0x00026B6A
 		[global::Cpp2ILInjected.Token(Token = "0x6002700")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1087C90", Offset = "0x1087C90", Length = "0x418")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15867,7 +16050,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600250A RID: 9482 RVA: 0x0002896D File Offset: 0x00026B6D
 		[global::Cpp2ILInjected.Token(Token = "0x6002701")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10880A8", Offset = "0x10880A8", Length = "0x770")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -15924,7 +16106,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600250B RID: 9483 RVA: 0x00028970 File Offset: 0x00026B70
 		[global::Cpp2ILInjected.Token(Token = "0x6002702")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1088818", Offset = "0x1088818", Length = "0x718")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -16001,7 +16182,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600250C RID: 9484 RVA: 0x00028973 File Offset: 0x00026B73
 		[global::Cpp2ILInjected.Token(Token = "0x6002703")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1088F30", Offset = "0x1088F30", Length = "0x2560")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -16156,7 +16336,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600250D RID: 9485 RVA: 0x00028976 File Offset: 0x00026B76
 		[global::Cpp2ILInjected.Token(Token = "0x6002704")]
 		[global::Cpp2ILInjected.Address(RVA = "0x108B490", Offset = "0x108B490", Length = "0x79C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -16233,7 +16412,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600250E RID: 9486 RVA: 0x00028979 File Offset: 0x00026B79
 		[global::Cpp2ILInjected.Token(Token = "0x6002705")]
 		[global::Cpp2ILInjected.Address(RVA = "0x108BC2C", Offset = "0x108BC2C", Length = "0x5D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -16298,7 +16476,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600250F RID: 9487 RVA: 0x0002897C File Offset: 0x00026B7C
 		[global::Cpp2ILInjected.Token(Token = "0x6002706")]
 		[global::Cpp2ILInjected.Address(RVA = "0x108C1FC", Offset = "0x108C1FC", Length = "0x5F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -16363,7 +16540,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002510 RID: 9488 RVA: 0x0002897F File Offset: 0x00026B7F
 		[global::Cpp2ILInjected.Token(Token = "0x6002707")]
 		[global::Cpp2ILInjected.Address(RVA = "0x108C7F0", Offset = "0x108C7F0", Length = "0x7AF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -16633,7 +16809,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002511 RID: 9489 RVA: 0x00028982 File Offset: 0x00026B82
 		[global::Cpp2ILInjected.Token(Token = "0x6002708")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10942E0", Offset = "0x10942E0", Length = "0xD08")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -16736,7 +16911,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002512 RID: 9490 RVA: 0x00028985 File Offset: 0x00026B85
 		[global::Cpp2ILInjected.Token(Token = "0x6002709")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1094FE8", Offset = "0x1094FE8", Length = "0x117C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -16803,7 +16977,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002513 RID: 9491 RVA: 0x00028988 File Offset: 0x00026B88
 		[global::Cpp2ILInjected.Token(Token = "0x600270A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1096164", Offset = "0x1096164", Length = "0x1614")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -16914,7 +17087,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002514 RID: 9492 RVA: 0x0002898B File Offset: 0x00026B8B
 		[global::Cpp2ILInjected.Token(Token = "0x600270B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1097778", Offset = "0x1097778", Length = "0x1838")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17028,7 +17200,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002515 RID: 9493 RVA: 0x0002898E File Offset: 0x00026B8E
 		[global::Cpp2ILInjected.Token(Token = "0x600270C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1098FB0", Offset = "0x1098FB0", Length = "0x50C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17071,7 +17242,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002516 RID: 9494 RVA: 0x00028991 File Offset: 0x00026B91
 		[global::Cpp2ILInjected.Token(Token = "0x600270D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10994BC", Offset = "0x10994BC", Length = "0x4E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17114,7 +17284,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002517 RID: 9495 RVA: 0x00028994 File Offset: 0x00026B94
 		[global::Cpp2ILInjected.Token(Token = "0x600270E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109999C", Offset = "0x109999C", Length = "0x324")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17158,7 +17327,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002518 RID: 9496 RVA: 0x00028997 File Offset: 0x00026B97
 		[global::Cpp2ILInjected.Token(Token = "0x600270F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1099CC0", Offset = "0x1099CC0", Length = "0x8FC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17231,7 +17399,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002519 RID: 9497 RVA: 0x0002899A File Offset: 0x00026B9A
 		[global::Cpp2ILInjected.Token(Token = "0x6002710")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109A5BC", Offset = "0x109A5BC", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17247,7 +17414,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600251A RID: 9498 RVA: 0x0002899D File Offset: 0x00026B9D
 		[global::Cpp2ILInjected.Token(Token = "0x6002711")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109A5F4", Offset = "0x109A5F4", Length = "0xDD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17340,7 +17506,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600251B RID: 9499 RVA: 0x000289A0 File Offset: 0x00026BA0
 		[global::Cpp2ILInjected.Token(Token = "0x6002712")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109B3C8", Offset = "0x109B3C8", Length = "0xD68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17437,7 +17602,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600251C RID: 9500 RVA: 0x000289A3 File Offset: 0x00026BA3
 		[global::Cpp2ILInjected.Token(Token = "0x6002713")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109C130", Offset = "0x109C130", Length = "0xDAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17581,7 +17745,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600251D RID: 9501 RVA: 0x000289A6 File Offset: 0x00026BA6
 		[global::Cpp2ILInjected.Token(Token = "0x6002714")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109CEDC", Offset = "0x109CEDC", Length = "0x504")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17646,7 +17809,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600251E RID: 9502 RVA: 0x000289A9 File Offset: 0x00026BA9
 		[global::Cpp2ILInjected.Token(Token = "0x6002715")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109D3E0", Offset = "0x109D3E0", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17662,7 +17824,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600251F RID: 9503 RVA: 0x000289AC File Offset: 0x00026BAC
 		[global::Cpp2ILInjected.Token(Token = "0x6002716")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109D408", Offset = "0x109D408", Length = "0x1EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17696,7 +17857,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002520 RID: 9504 RVA: 0x000289AF File Offset: 0x00026BAF
 		[global::Cpp2ILInjected.Token(Token = "0x6002717")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109D5F4", Offset = "0x109D5F4", Length = "0x1424")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17825,7 +17985,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002521 RID: 9505 RVA: 0x000289B2 File Offset: 0x00026BB2
 		[global::Cpp2ILInjected.Token(Token = "0x6002718")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109EA18", Offset = "0x109EA18", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17861,7 +18020,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002522 RID: 9506 RVA: 0x000289B5 File Offset: 0x00026BB5
 		[global::Cpp2ILInjected.Token(Token = "0x6002719")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1039934", Offset = "0x1039934", Length = "0x474")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17907,7 +18065,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002523 RID: 9507 RVA: 0x000289B8 File Offset: 0x00026BB8
 		[global::Cpp2ILInjected.Token(Token = "0x600271A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109EB60", Offset = "0x109EB60", Length = "0x424")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -17960,7 +18117,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002524 RID: 9508 RVA: 0x000289BB File Offset: 0x00026BBB
 		[global::Cpp2ILInjected.Token(Token = "0x600271B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1039DA8", Offset = "0x1039DA8", Length = "0x548")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18025,7 +18181,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002525 RID: 9509 RVA: 0x000289BE File Offset: 0x00026BBE
 		[global::Cpp2ILInjected.Token(Token = "0x600271C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x109EF84", Offset = "0x109EF84", Length = "0x1144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18143,7 +18298,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002526 RID: 9510 RVA: 0x000289C1 File Offset: 0x00026BC1
 		[global::Cpp2ILInjected.Token(Token = "0x600271D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A00C8", Offset = "0x10A00C8", Length = "0x5C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18206,7 +18360,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002527 RID: 9511 RVA: 0x000289C4 File Offset: 0x00026BC4
 		[global::Cpp2ILInjected.Token(Token = "0x600271E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A068C", Offset = "0x10A068C", Length = "0x105C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18322,7 +18475,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002528 RID: 9512 RVA: 0x000289C7 File Offset: 0x00026BC7
 		[global::Cpp2ILInjected.Token(Token = "0x600271F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A16E8", Offset = "0x10A16E8", Length = "0xDE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18451,7 +18603,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002529 RID: 9513 RVA: 0x000289CA File Offset: 0x00026BCA
 		[global::Cpp2ILInjected.Token(Token = "0x6002720")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1014C34", Offset = "0x1014C34", Length = "0x4BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18517,7 +18668,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600252A RID: 9514 RVA: 0x000289CD File Offset: 0x00026BCD
 		[global::Cpp2ILInjected.Token(Token = "0x6002721")]
 		[global::Cpp2ILInjected.Address(RVA = "0x104CF54", Offset = "0x104CF54", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18537,7 +18687,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600252B RID: 9515 RVA: 0x000289D0 File Offset: 0x00026BD0
 		[global::Cpp2ILInjected.Token(Token = "0x6002722")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1047F0C", Offset = "0x1047F0C", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawProjDirect", MemberParameters = new object[]
@@ -18567,7 +18716,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600252C RID: 9516 RVA: 0x000289D3 File Offset: 0x00026BD3
 		[global::Cpp2ILInjected.Token(Token = "0x6002723")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A24CC", Offset = "0x10A24CC", Length = "0x1C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18594,7 +18742,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600252D RID: 9517 RVA: 0x000289D6 File Offset: 0x00026BD6
 		[global::Cpp2ILInjected.Token(Token = "0x6002724")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A2690", Offset = "0x10A2690", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18606,7 +18753,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600252E RID: 9518 RVA: 0x000289D9 File Offset: 0x00026BD9
 		[global::Cpp2ILInjected.Token(Token = "0x6002725")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A2700", Offset = "0x10A2700", Length = "0x27C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18653,7 +18799,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600252F RID: 9519 RVA: 0x000289DC File Offset: 0x00026BDC
 		[global::Cpp2ILInjected.Token(Token = "0x6002726")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A297C", Offset = "0x10A297C", Length = "0x348")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18691,11 +18836,197 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002530 RID: 9520 RVA: 0x000289DF File Offset: 0x00026BDF
 		[global::Cpp2ILInjected.Token(Token = "0x6002727")]
 		[global::Cpp2ILInjected.Address(RVA = "0xFC6B50", Offset = "0xFC6B50", Length = "0x393BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawWallOfStars", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MessageBuffer), Member = "ProcessData", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "PopAllAttachedProjectilesAndTakeDamageForThem", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "DropSelectedItem_InterruptActionsThatUseAnimations", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "FireGrapple", MemberParameters = new object[] { typeof(Item) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateBuffs", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateAbigailStatus", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateStormTigerStatus", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "DashMovement", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "WOFTongue", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TileInteractionsUse", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "RemoveAllGrapplingHooks", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "RemoveAllFishingBobbers", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "Hurt", MemberParameters = new object[]
+		{
+			typeof(PlayerDeathReason),
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(bool),
+			typeof(bool),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(double))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_TryDestroyingDrones", MemberParameters = new object[] { typeof(Item) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "DestroyOldestProximityMinesOverMinesCap", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_Shoot", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Item),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_TurretAltFeatureUse", MemberParameters = new object[]
+		{
+			typeof(Item),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "FreeUpPetsAndMinions", MemberParameters = new object[] { typeof(Item) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateMaxTurrets", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "NewProjectile", MemberParameters = new object[]
+		{
+			typeof(IEntitySource),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(int),
+			typeof(int),
+			typeof(float),
+			typeof(int),
+			typeof(float),
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Damage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "KillOldestJavelin", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(Point[])
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Update", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "HandleMovement", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Interrupt", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_152_SuperStarSlash", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Shimmer", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_195_JimsDrone", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_111_DryadsWard", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_193_Flamethrower", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_192_JuminoAnimation", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_191_TrueNightsEdge", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_190_NightsEdge", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_188_LightsBane", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_189_Volcano", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_187_ShadowHand", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_186_PrincessWeapon", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_121_StardustDragon", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_182_FinalFractal", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_009_MagicMissiles", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_009_MagicMissiles_Old", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_015_Flails", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_015_Flails_Old", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_100_Medusa", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_180_FairyQueenSunDance", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_179_FairyQueenLance", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_176_EdgyLightning", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_177_IceWhipSlicer", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_178_FireExplosion", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_175_TitaniumStormShards", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_172_HallowBossRainbowPelletStorm", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_019_Spears", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_019_Spears_Old", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_168_FirstFractal", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_167_SparkleGuitar", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_162_TigerPounce", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_016", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_166_Dove", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_161_RapierStabs", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_165_Whip", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_160_Kites", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_159_PaperAirplanes", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_067_FreakingPirates", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_157_SharpTears", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_155_MysticSnakeCoil", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_154_VoidLens", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_153_ToiletPop", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_150_GolfClubHelper", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_007_GrapplingHooks", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_148_StarSpawner", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_061_FishingBobber", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_001", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_002", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_003", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_004", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_005", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_006", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_011", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_012", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_013", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_014", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_017", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_020", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_022", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_024", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_025", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_029", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_030", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_032", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_035", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_036", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_037", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_039", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_042", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_044", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_045", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_046", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_049", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_050", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_052", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_055", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_059", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_060", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_065", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_069", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_075", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_092", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_099_1", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_099_2", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_135_OgreStomp", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_136_BetsyBreath", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_139_ExplosiveTrapExplosion", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_140_MonkStaffT1", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_141_MonkStaffT1Explosion", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_142_MonkStaffT2And3", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_143_MonkStaffT2Ghast", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_144_DD2Pet", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_145_BookStaffStorm", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Kill", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PortalHelper), Member = "RemoveMyOldPortal", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PortalHelper), Member = "RemoveIntersectingPortals", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GolfHelper.ContactListener), Member = "PutBallInCup", MemberParameters = new object[]
+		{
+			typeof(Projectile),
+			typeof(BallCollisionEvent)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DD2Event), Member = "ClearAllTowersInGame", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 244)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Main), Member = "get_myPlayer", ReturnType = typeof(int))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Player), Member = "TryCancelChannel", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
@@ -19331,7 +19662,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002531 RID: 9521 RVA: 0x000289E2 File Offset: 0x00026BE2
 		[global::Cpp2ILInjected.Token(Token = "0x6002728")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A2CC4", Offset = "0x10A2CC4", Length = "0x644")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19380,7 +19710,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002532 RID: 9522 RVA: 0x000289E5 File Offset: 0x00026BE5
 		[global::Cpp2ILInjected.Token(Token = "0x6002729")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A3308", Offset = "0x10A3308", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19395,7 +19724,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002533 RID: 9523 RVA: 0x000289E8 File Offset: 0x00026BE8
 		[global::Cpp2ILInjected.Token(Token = "0x600272A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A3384", Offset = "0x10A3384", Length = "0x664")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19469,7 +19797,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002534 RID: 9524 RVA: 0x000289EB File Offset: 0x00026BEB
 		[global::Cpp2ILInjected.Token(Token = "0x600272B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A39E8", Offset = "0x10A39E8", Length = "0x188")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19487,7 +19814,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002535 RID: 9525 RVA: 0x000289EE File Offset: 0x00026BEE
 		[global::Cpp2ILInjected.Token(Token = "0x600272C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A3B70", Offset = "0x10A3B70", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19515,7 +19841,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002536 RID: 9526 RVA: 0x000289F1 File Offset: 0x00026BF1
 		[global::Cpp2ILInjected.Token(Token = "0x600272D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A3C70", Offset = "0x10A3C70", Length = "0x370")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19544,7 +19869,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002537 RID: 9527 RVA: 0x000289F4 File Offset: 0x00026BF4
 		[global::Cpp2ILInjected.Token(Token = "0x600272E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A3FE0", Offset = "0x10A3FE0", Length = "0x49C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19596,7 +19920,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002538 RID: 9528 RVA: 0x000289F7 File Offset: 0x00026BF7
 		[global::Cpp2ILInjected.Token(Token = "0x600272F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A447C", Offset = "0x10A447C", Length = "0x368")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19637,7 +19960,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002539 RID: 9529 RVA: 0x000289FA File Offset: 0x00026BFA
 		[global::Cpp2ILInjected.Token(Token = "0x6002730")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A47E4", Offset = "0x10A47E4", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19649,7 +19971,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600253A RID: 9530 RVA: 0x000289FD File Offset: 0x00026BFD
 		[global::Cpp2ILInjected.Token(Token = "0x6002731")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A4824", Offset = "0x10A4824", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19664,7 +19985,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600253B RID: 9531 RVA: 0x00028A00 File Offset: 0x00026C00
 		[global::Cpp2ILInjected.Token(Token = "0x6002732")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A484C", Offset = "0x10A484C", Length = "0x20B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19750,7 +20070,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600253C RID: 9532 RVA: 0x00028A03 File Offset: 0x00026C03
 		[global::Cpp2ILInjected.Token(Token = "0x6002733")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A6904", Offset = "0x10A6904", Length = "0x328")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19766,7 +20085,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600253D RID: 9533 RVA: 0x00028A06 File Offset: 0x00026C06
 		[global::Cpp2ILInjected.Token(Token = "0x6002734")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A6C2C", Offset = "0x10A6C2C", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "Initialize_AlmostEverything", ReturnType = typeof(void))]
@@ -19783,7 +20101,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600253E RID: 9534 RVA: 0x00028A09 File Offset: 0x00026C09
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6002735")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10A6D80", Offset = "0x10A6D80", Length = "0x130C")]
@@ -19807,463 +20124,367 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x04002BFA RID: 11258
 		[global::Cpp2ILInjected.Token(Token = "0x400330F")]
 		private static readonly uint[] perIDStaticNPCImmunity;
 
-		// Token: 0x04002BFB RID: 11259
 		[global::Cpp2ILInjected.Token(Token = "0x4003310")]
 		private static List<Tuple<int, float>> _medusaHeadTargetList;
 
-		// Token: 0x04002BFC RID: 11260
 		[global::Cpp2ILInjected.Token(Token = "0x4003311")]
 		private static List<int> _ai164_blacklistedTargets;
 
-		// Token: 0x04002BFD RID: 11261
 		[global::Cpp2ILInjected.Token(Token = "0x4003312")]
 		private static List<int> _ai158_blacklistedTargets;
 
-		// Token: 0x04002BFE RID: 11262
 		[global::Cpp2ILInjected.Token(Token = "0x4003313")]
 		private static List<int> _ai156_blacklistedTargets;
 
-		// Token: 0x04002BFF RID: 11263
 		[global::Cpp2ILInjected.Token(Token = "0x4003314")]
 		private static float[] _CompanionCubeScreamCooldown;
 
-		// Token: 0x04002C00 RID: 11264
 		[global::Cpp2ILInjected.Token(Token = "0x4003315")]
 		public const int SentryLifeTime = 36000;
 
-		// Token: 0x04002C01 RID: 11265
 		[global::Cpp2ILInjected.Token(Token = "0x4003316")]
 		public const int ArrowLifeTime = 1200;
 
-		// Token: 0x04002C02 RID: 11266
 		[global::Cpp2ILInjected.Token(Token = "0x4003317")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		public float ownerHitCheckDistance;
 
-		// Token: 0x04002C03 RID: 11267
 		[global::Cpp2ILInjected.Token(Token = "0x4003318")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 		public bool arrow;
 
-		// Token: 0x04002C04 RID: 11268
 		[global::Cpp2ILInjected.Token(Token = "0x4003319")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		public int numHits;
 
-		// Token: 0x04002C05 RID: 11269
 		[global::Cpp2ILInjected.Token(Token = "0x400331A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x64")]
 		public bool bobber;
 
-		// Token: 0x04002C06 RID: 11270
 		[global::Cpp2ILInjected.Token(Token = "0x400331B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x65")]
 		public bool netImportant;
 
-		// Token: 0x04002C07 RID: 11271
 		[global::Cpp2ILInjected.Token(Token = "0x400331C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x66")]
 		public bool noDropItem;
 
-		// Token: 0x04002C08 RID: 11272
 		[global::Cpp2ILInjected.Token(Token = "0x400331D")]
 		public static int maxAI;
 
-		// Token: 0x04002C09 RID: 11273
 		[global::Cpp2ILInjected.Token(Token = "0x400331E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x67")]
 		public bool counterweight;
 
-		// Token: 0x04002C0A RID: 11274
 		[global::Cpp2ILInjected.Token(Token = "0x400331F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		public float scale;
 
-		// Token: 0x04002C0B RID: 11275
 		[global::Cpp2ILInjected.Token(Token = "0x4003320")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x6C")]
 		public float rotation;
 
-		// Token: 0x04002C0C RID: 11276
 		[global::Cpp2ILInjected.Token(Token = "0x4003321")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		public int type;
 
-		// Token: 0x04002C0D RID: 11277
 		[global::Cpp2ILInjected.Token(Token = "0x4003322")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x74")]
 		public int alpha;
 
-		// Token: 0x04002C0E RID: 11278
 		[global::Cpp2ILInjected.Token(Token = "0x4003323")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		public bool sentry;
 
-		// Token: 0x04002C0F RID: 11279
 		[global::Cpp2ILInjected.Token(Token = "0x4003324")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x7A")]
 		public short glowMask;
 
-		// Token: 0x04002C10 RID: 11280
 		[global::Cpp2ILInjected.Token(Token = "0x4003325")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x7C")]
 		public int owner;
 
-		// Token: 0x04002C11 RID: 11281
 		[global::Cpp2ILInjected.Token(Token = "0x4003326")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 		public FloatArray_3 ai;
 
-		// Token: 0x04002C12 RID: 11282
 		[global::Cpp2ILInjected.Token(Token = "0x4003327")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8C")]
 		public FloatArray_3 localAI;
 
-		// Token: 0x04002C13 RID: 11283
 		[global::Cpp2ILInjected.Token(Token = "0x4003328")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		public float gfxOffY;
 
-		// Token: 0x04002C14 RID: 11284
 		[global::Cpp2ILInjected.Token(Token = "0x4003329")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x9C")]
 		public float stepSpeed;
 
-		// Token: 0x04002C15 RID: 11285
 		[global::Cpp2ILInjected.Token(Token = "0x400332A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 		public int aiStyle;
 
-		// Token: 0x04002C16 RID: 11286
 		[global::Cpp2ILInjected.Token(Token = "0x400332B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA4")]
 		public int timeLeft;
 
-		// Token: 0x04002C17 RID: 11287
 		[global::Cpp2ILInjected.Token(Token = "0x400332C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 		public int soundDelay;
 
-		// Token: 0x04002C18 RID: 11288
 		[global::Cpp2ILInjected.Token(Token = "0x400332D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xAC")]
 		public int damage;
 
-		// Token: 0x04002C19 RID: 11289
 		[global::Cpp2ILInjected.Token(Token = "0x400332E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 		public int originalDamage;
 
-		// Token: 0x04002C1A RID: 11290
 		[global::Cpp2ILInjected.Token(Token = "0x400332F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB4")]
 		public int spriteDirection;
 
-		// Token: 0x04002C1B RID: 11291
 		[global::Cpp2ILInjected.Token(Token = "0x4003330")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 		public bool hostile;
 
-		// Token: 0x04002C1C RID: 11292
 		[global::Cpp2ILInjected.Token(Token = "0x4003331")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB9")]
 		public bool reflected;
 
-		// Token: 0x04002C1D RID: 11293
 		[global::Cpp2ILInjected.Token(Token = "0x4003332")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xBC")]
 		public float knockBack;
 
-		// Token: 0x04002C1E RID: 11294
 		[global::Cpp2ILInjected.Token(Token = "0x4003333")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC0")]
 		public bool friendly;
 
-		// Token: 0x04002C1F RID: 11295
 		[global::Cpp2ILInjected.Token(Token = "0x4003334")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC4")]
 		public int penetrate;
 
-		// Token: 0x04002C20 RID: 11296
 		[global::Cpp2ILInjected.Token(Token = "0x4003335")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC8")]
 		private DictionaryIntArray localNPCImmunity;
 
-		// Token: 0x04002C21 RID: 11297
 		[global::Cpp2ILInjected.Token(Token = "0x4003336")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xD0")]
 		public bool usesLocalNPCImmunity;
 
-		// Token: 0x04002C22 RID: 11298
 		[global::Cpp2ILInjected.Token(Token = "0x4003337")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xD1")]
 		public bool usesIDStaticNPCImmunity;
 
-		// Token: 0x04002C23 RID: 11299
 		[global::Cpp2ILInjected.Token(Token = "0x4003338")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xD2")]
 		public bool appliesImmunityTimeOnSingleHits;
 
-		// Token: 0x04002C24 RID: 11300
 		[global::Cpp2ILInjected.Token(Token = "0x4003339")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xD4")]
 		public int maxPenetrate;
 
-		// Token: 0x04002C25 RID: 11301
 		[global::Cpp2ILInjected.Token(Token = "0x400333A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xD8")]
 		public int identity;
 
-		// Token: 0x04002C26 RID: 11302
 		[global::Cpp2ILInjected.Token(Token = "0x400333B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xDC")]
 		public float light;
 
-		// Token: 0x04002C27 RID: 11303
 		[global::Cpp2ILInjected.Token(Token = "0x400333C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xE0")]
 		public bool netUpdate;
 
-		// Token: 0x04002C28 RID: 11304
 		[global::Cpp2ILInjected.Token(Token = "0x400333D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xE1")]
 		public bool netUpdate2;
 
-		// Token: 0x04002C29 RID: 11305
 		[global::Cpp2ILInjected.Token(Token = "0x400333E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xE4")]
 		public int netSpam;
 
-		// Token: 0x04002C2A RID: 11306
 		[global::Cpp2ILInjected.Token(Token = "0x400333F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xE8")]
 		public Vector2[] oldPos;
 
-		// Token: 0x04002C2B RID: 11307
 		[global::Cpp2ILInjected.Token(Token = "0x4003340")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xF0")]
 		public float[] oldRot;
 
-		// Token: 0x04002C2C RID: 11308
 		[global::Cpp2ILInjected.Token(Token = "0x4003341")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xF8")]
 		public int[] oldSpriteDirection;
 
-		// Token: 0x04002C2D RID: 11309
 		[global::Cpp2ILInjected.Token(Token = "0x4003342")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x100")]
 		public bool minion;
 
-		// Token: 0x04002C2E RID: 11310
 		[global::Cpp2ILInjected.Token(Token = "0x4003343")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x104")]
 		public float minionSlots;
 
-		// Token: 0x04002C2F RID: 11311
 		[global::Cpp2ILInjected.Token(Token = "0x4003344")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x108")]
 		public int minionPos;
 
-		// Token: 0x04002C30 RID: 11312
 		[global::Cpp2ILInjected.Token(Token = "0x4003345")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10C")]
 		public int restrikeDelay;
 
-		// Token: 0x04002C31 RID: 11313
 		[global::Cpp2ILInjected.Token(Token = "0x4003346")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x110")]
 		public bool tileCollide;
 
-		// Token: 0x04002C32 RID: 11314
 		[global::Cpp2ILInjected.Token(Token = "0x4003347")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x114")]
 		public int extraUpdates;
 
-		// Token: 0x04002C33 RID: 11315
 		[global::Cpp2ILInjected.Token(Token = "0x4003348")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x118")]
 		public bool stopsDealingDamageAfterPenetrateHits;
 
-		// Token: 0x04002C34 RID: 11316
 		[global::Cpp2ILInjected.Token(Token = "0x4003349")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x11C")]
 		public int numUpdates;
 
-		// Token: 0x04002C35 RID: 11317
 		[global::Cpp2ILInjected.Token(Token = "0x400334A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x120")]
 		public bool ignoreWater;
 
-		// Token: 0x04002C36 RID: 11318
 		[global::Cpp2ILInjected.Token(Token = "0x400334B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x121")]
 		public bool isAPreviewDummy;
 
-		// Token: 0x04002C37 RID: 11319
 		[global::Cpp2ILInjected.Token(Token = "0x400334C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x122")]
 		public bool hide;
 
-		// Token: 0x04002C38 RID: 11320
 		[global::Cpp2ILInjected.Token(Token = "0x400334D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x123")]
 		public bool ownerHitCheck;
 
-		// Token: 0x04002C39 RID: 11321
 		[global::Cpp2ILInjected.Token(Token = "0x400334E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x124")]
 		public bool usesOwnerMeleeHitCD;
 
-		// Token: 0x04002C3A RID: 11322
 		[global::Cpp2ILInjected.Token(Token = "0x400334F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x128")]
 		public DictionaryIntArray playerImmune;
 
-		// Token: 0x04002C3B RID: 11323
 		[global::Cpp2ILInjected.Token(Token = "0x4003350")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x130")]
 		public string miscText;
 
-		// Token: 0x04002C3C RID: 11324
 		[global::Cpp2ILInjected.Token(Token = "0x4003351")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x138")]
 		public bool melee;
 
-		// Token: 0x04002C3D RID: 11325
 		[global::Cpp2ILInjected.Token(Token = "0x4003352")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x139")]
 		public bool ranged;
 
-		// Token: 0x04002C3E RID: 11326
 		[global::Cpp2ILInjected.Token(Token = "0x4003353")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x13A")]
 		public bool magic;
 
-		// Token: 0x04002C3F RID: 11327
 		[global::Cpp2ILInjected.Token(Token = "0x4003354")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x13B")]
 		public bool coldDamage;
 
-		// Token: 0x04002C40 RID: 11328
 		[global::Cpp2ILInjected.Token(Token = "0x4003355")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x13C")]
 		public bool noEnchantments;
 
-		// Token: 0x04002C41 RID: 11329
 		[global::Cpp2ILInjected.Token(Token = "0x4003356")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x13D")]
 		public bool noEnchantmentVisuals;
 
-		// Token: 0x04002C42 RID: 11330
 		[global::Cpp2ILInjected.Token(Token = "0x4003357")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x13E")]
 		public bool trap;
 
-		// Token: 0x04002C43 RID: 11331
 		[global::Cpp2ILInjected.Token(Token = "0x4003358")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x13F")]
 		public bool npcProj;
 
-		// Token: 0x04002C44 RID: 11332
 		[global::Cpp2ILInjected.Token(Token = "0x4003359")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x140")]
 		public bool originatedFromActivableTile;
 
-		// Token: 0x04002C45 RID: 11333
 		[global::Cpp2ILInjected.Token(Token = "0x400335A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x144")]
 		public int frameCounter;
 
-		// Token: 0x04002C46 RID: 11334
 		[global::Cpp2ILInjected.Token(Token = "0x400335B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		public int frame;
 
-		// Token: 0x04002C47 RID: 11335
 		[global::Cpp2ILInjected.Token(Token = "0x400335C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14C")]
 		public bool manualDirectionChange;
 
-		// Token: 0x04002C48 RID: 11336
 		[global::Cpp2ILInjected.Token(Token = "0x400335D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		public int projUUID;
 
-		// Token: 0x04002C49 RID: 11337
 		[global::Cpp2ILInjected.Token(Token = "0x400335E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x154")]
 		public bool decidesManualFallThrough;
 
-		// Token: 0x04002C4A RID: 11338
 		[global::Cpp2ILInjected.Token(Token = "0x400335F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x155")]
 		public bool shouldFallThrough;
 
-		// Token: 0x04002C4B RID: 11339
 		[global::Cpp2ILInjected.Token(Token = "0x4003360")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x158")]
 		public int localNPCHitCooldown;
 
-		// Token: 0x04002C4C RID: 11340
 		[global::Cpp2ILInjected.Token(Token = "0x4003361")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x15C")]
 		public int idStaticNPCHitCooldown;
 
-		// Token: 0x04002C4D RID: 11341
 		[global::Cpp2ILInjected.Token(Token = "0x4003362")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x160")]
 		public int bannerIdToRespondTo;
 
-		// Token: 0x04002C4E RID: 11342
 		[global::Cpp2ILInjected.Token(Token = "0x4003363")]
 		private static Conditions.IsSolid _cachedConditions_solid;
 
-		// Token: 0x04002C4F RID: 11343
 		[global::Cpp2ILInjected.Token(Token = "0x4003364")]
 		private static Conditions.NotNull _cachedConditions_notNull;
 
-		// Token: 0x04002C50 RID: 11344
 		[global::Cpp2ILInjected.Token(Token = "0x4003365")]
 		private static int[] npcCrystalDartList;
 
-		// Token: 0x04002C51 RID: 11345
 		[global::Cpp2ILInjected.Token(Token = "0x4003366")]
 		private static Point[] StardustCellMinionShotJavelins;
 
-		// Token: 0x04002C52 RID: 11346
 		[global::Cpp2ILInjected.Token(Token = "0x4003367")]
 		private static Point[] DaybreakJavelins;
 
-		// Token: 0x04002C53 RID: 11347
 		[global::Cpp2ILInjected.Token(Token = "0x4003368")]
 		private static Point[] BoneJavelinJavelins;
 
-		// Token: 0x04002C54 RID: 11348
 		[global::Cpp2ILInjected.Token(Token = "0x4003369")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x168")]
 		public List<Vector2> WhipPointsForCollision;
 
-		// Token: 0x04002C55 RID: 11349
 		[global::Cpp2ILInjected.Token(Token = "0x400336A")]
 		private static Rectangle _lanceHitboxBounds;
 
-		// Token: 0x04002C56 RID: 11350
 		[global::Cpp2ILInjected.Token(Token = "0x400336B")]
 		private static Projectile.NPCDistanceByIndexComparator _medusaTargetComparer;
 
-		// Token: 0x04002C57 RID: 11351
 		[global::Cpp2ILInjected.Token(Token = "0x400336C")]
 		public static List<int> ai92Projectiles;
 
-		// Token: 0x02000858 RID: 2136
 		[global::Cpp2ILInjected.Token(Token = "0x200041E")]
 		private class NPCDistanceByIndexComparator : IComparer<Tuple<int, float>>
 		{
-			// Token: 0x060049C2 RID: 18882 RVA: 0x0002F117 File Offset: 0x0002D317
 			[global::Cpp2ILInjected.Token(Token = "0x6002736")]
 			[global::Cpp2ILInjected.Address(RVA = "0x10C3DAC", Offset = "0x10C3DAC", Length = "0x5C")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20274,7 +20495,6 @@ namespace Terraria
 				throw null;
 			}
 
-			// Token: 0x060049C3 RID: 18883 RVA: 0x0002F11A File Offset: 0x0002D31A
 			[global::Cpp2ILInjected.Token(Token = "0x6002737")]
 			[global::Cpp2ILInjected.Address(RVA = "0x10C3E08", Offset = "0x10C3E08", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = ".cctor", ReturnType = typeof(void))]
@@ -20286,11 +20506,9 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x02000859 RID: 2137
 		[global::Cpp2ILInjected.Token(Token = "0x200041F")]
 		public struct HallowBossPelletStormInfo
 		{
-			// Token: 0x060049C4 RID: 18884 RVA: 0x0002F11D File Offset: 0x0002D31D
 			[global::Cpp2ILInjected.Token(Token = "0x6002738")]
 			[global::Cpp2ILInjected.Address(RVA = "0x10C3E10", Offset = "0x10C3E10", Length = "0x14")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -20305,7 +20523,6 @@ namespace Terraria
 				throw null;
 			}
 
-			// Token: 0x060049C5 RID: 18885 RVA: 0x0002F120 File Offset: 0x0002D320
 			[global::Cpp2ILInjected.Token(Token = "0x6002739")]
 			[global::Cpp2ILInjected.Address(RVA = "0x10C3E24", Offset = "0x10C3E24", Length = "0x2C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -20326,7 +20543,6 @@ namespace Terraria
 				throw null;
 			}
 
-			// Token: 0x060049C6 RID: 18886 RVA: 0x0002F123 File Offset: 0x0002D323
 			[global::Cpp2ILInjected.Token(Token = "0x600273A")]
 			[global::Cpp2ILInjected.Address(RVA = "0x10C3E50", Offset = "0x10C3E50", Length = "0x144")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -20364,7 +20580,6 @@ namespace Terraria
 				throw null;
 			}
 
-			// Token: 0x060049C7 RID: 18887 RVA: 0x0002F126 File Offset: 0x0002D326
 			[global::Cpp2ILInjected.Token(Token = "0x600273B")]
 			[global::Cpp2ILInjected.Address(RVA = "0x10C3F94", Offset = "0x10C3F94", Length = "0xA8")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Colliding", MemberParameters = new object[]
@@ -20389,37 +20604,30 @@ namespace Terraria
 				throw null;
 			}
 
-			// Token: 0x04007ECB RID: 32459
 			[global::Cpp2ILInjected.Token(Token = "0x400336D")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public float StartAngle;
 
-			// Token: 0x04007ECC RID: 32460
 			[global::Cpp2ILInjected.Token(Token = "0x400336E")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 			public float AnglePerBullet;
 
-			// Token: 0x04007ECD RID: 32461
 			[global::Cpp2ILInjected.Token(Token = "0x400336F")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			public int BulletsInStorm;
 
-			// Token: 0x04007ECE RID: 32462
 			[global::Cpp2ILInjected.Token(Token = "0x4003370")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 			public float BulletsProgressInStormStartNormalized;
 
-			// Token: 0x04007ECF RID: 32463
 			[global::Cpp2ILInjected.Token(Token = "0x4003371")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public float BulletsProgressInStormBonusByIndexNormalized;
 
-			// Token: 0x04007ED0 RID: 32464
 			[global::Cpp2ILInjected.Token(Token = "0x4003372")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 			public float StormTotalRange;
 
-			// Token: 0x04007ED1 RID: 32465
 			[global::Cpp2ILInjected.Token(Token = "0x4003373")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public Vector2 BulletSize;

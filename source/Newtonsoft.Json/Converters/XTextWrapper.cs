@@ -5,12 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Newtonsoft.Json.Converters
 {
-	// Token: 0x020000CF RID: 207
 	[global::Cpp2ILInjected.Token(Token = "0x2000116")]
 	internal class XTextWrapper : XObjectWrapper
 	{
-		// Token: 0x170001DD RID: 477
-		// (get) Token: 0x060009A4 RID: 2468 RVA: 0x00003C6B File Offset: 0x00001E6B
 		[global::Cpp2ILInjected.Token(Token = "0x1700020A")]
 		private XText Text
 		{
@@ -28,7 +25,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x060009A5 RID: 2469 RVA: 0x00003C6E File Offset: 0x00001E6E
 		[global::Cpp2ILInjected.Token(Token = "0x6000AE1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2DA0C", Offset = "0x1D2DA0C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XContainerWrapper), Member = "WrapNode", MemberParameters = new object[] { typeof(XObject) }, ReturnType = typeof(IXmlNode))]
@@ -40,9 +36,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x170001DE RID: 478
-		// (get) Token: 0x060009A6 RID: 2470 RVA: 0x00003C71 File Offset: 0x00001E71
-		// (set) Token: 0x060009A7 RID: 2471 RVA: 0x00003C74 File Offset: 0x00001E74
 		[global::Cpp2ILInjected.Token(Token = "0x1700020B")]
 		public override string Value
 		{
@@ -65,8 +58,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x170001DF RID: 479
-		// (get) Token: 0x060009A8 RID: 2472 RVA: 0x00003C77 File Offset: 0x00001E77
 		[global::Cpp2ILInjected.Token(Token = "0x1700020C")]
 		public override IXmlNode ParentNode
 		{

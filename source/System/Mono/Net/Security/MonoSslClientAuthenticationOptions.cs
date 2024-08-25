@@ -9,12 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Net.Security
 {
-	// Token: 0x0200001F RID: 31
 	[global::Cpp2ILInjected.Token(Token = "0x2000062")]
 	internal sealed class MonoSslClientAuthenticationOptions : MonoSslAuthenticationOptions
 	{
-		// Token: 0x17000046 RID: 70
-		// (get) Token: 0x060000EA RID: 234 RVA: 0x00003098 File Offset: 0x00001298
 		[global::Cpp2ILInjected.Token(Token = "0x17000046")]
 		public SslClientAuthenticationOptions Options
 		{
@@ -28,8 +25,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x17000047 RID: 71
-		// (get) Token: 0x060000EB RID: 235 RVA: 0x0000309B File Offset: 0x0000129B
 		[global::Cpp2ILInjected.Token(Token = "0x17000047")]
 		public override bool ServerMode
 		{
@@ -42,7 +37,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x060000EC RID: 236 RVA: 0x0000309E File Offset: 0x0000129E
 		[global::Cpp2ILInjected.Token(Token = "0x600015D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4AB3C", Offset = "0x1D4AB3C", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MobileAuthenticatedStream), Member = "AuthenticateAsClient", MemberParameters = new object[]
@@ -68,8 +62,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x17000048 RID: 72
-		// (set) Token: 0x060000ED RID: 237 RVA: 0x000030A1 File Offset: 0x000012A1
 		[global::Cpp2ILInjected.Token(Token = "0x17000048")]
 		public override X509RevocationMode CertificateRevocationCheckMode
 		{
@@ -83,8 +75,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x17000049 RID: 73
-		// (set) Token: 0x060000EE RID: 238 RVA: 0x000030A4 File Offset: 0x000012A4
 		[global::Cpp2ILInjected.Token(Token = "0x17000049")]
 		public override EncryptionPolicy EncryptionPolicy
 		{
@@ -98,9 +88,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x1700004A RID: 74
-		// (get) Token: 0x060000EF RID: 239 RVA: 0x000030A7 File Offset: 0x000012A7
-		// (set) Token: 0x060000F0 RID: 240 RVA: 0x000030AA File Offset: 0x000012AA
 		[global::Cpp2ILInjected.Token(Token = "0x1700004A")]
 		public override SslProtocols EnabledSslProtocols
 		{
@@ -120,9 +107,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x1700004B RID: 75
-		// (get) Token: 0x060000F1 RID: 241 RVA: 0x000030AD File Offset: 0x000012AD
-		// (set) Token: 0x060000F2 RID: 242 RVA: 0x000030B0 File Offset: 0x000012B0
 		[global::Cpp2ILInjected.Token(Token = "0x1700004B")]
 		public override string TargetHost
 		{
@@ -142,9 +126,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x1700004C RID: 76
-		// (get) Token: 0x060000F3 RID: 243 RVA: 0x000030B3 File Offset: 0x000012B3
-		// (set) Token: 0x060000F4 RID: 244 RVA: 0x000030B6 File Offset: 0x000012B6
 		[global::Cpp2ILInjected.Token(Token = "0x1700004C")]
 		public override bool ClientCertificateRequired
 		{
@@ -168,9 +149,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x1700004D RID: 77
-		// (get) Token: 0x060000F5 RID: 245 RVA: 0x000030B9 File Offset: 0x000012B9
-		// (set) Token: 0x060000F6 RID: 246 RVA: 0x000030BC File Offset: 0x000012BC
 		[global::Cpp2ILInjected.Token(Token = "0x1700004D")]
 		public override X509CertificateCollection ClientCertificates
 		{
@@ -190,9 +168,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x1700004E RID: 78
-		// (get) Token: 0x060000F7 RID: 247 RVA: 0x000030BF File Offset: 0x000012BF
-		// (set) Token: 0x060000F8 RID: 248 RVA: 0x000030C2 File Offset: 0x000012C2
 		[global::Cpp2ILInjected.Token(Token = "0x1700004E")]
 		public override X509Certificate ServerCertificate
 		{
@@ -216,7 +191,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x04000059 RID: 89
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000114")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]

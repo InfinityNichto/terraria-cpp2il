@@ -14,12 +14,9 @@ using UnityEngine;
 
 namespace Telepathy
 {
-	// Token: 0x02000253 RID: 595
 	[global::Cpp2ILInjected.Token(Token = "0x2000310")]
 	public class Client : Common
 	{
-		// Token: 0x170001A4 RID: 420
-		// (get) Token: 0x06001103 RID: 4355 RVA: 0x00024DEB File Offset: 0x00022FEB
 		[global::Cpp2ILInjected.Token(Token = "0x170001CC")]
 		public bool Connected
 		{
@@ -51,8 +48,6 @@ namespace Telepathy
 			}
 		}
 
-		// Token: 0x170001A5 RID: 421
-		// (get) Token: 0x06001104 RID: 4356 RVA: 0x00024DEE File Offset: 0x00022FEE
 		[global::Cpp2ILInjected.Token(Token = "0x170001CD")]
 		public bool Connecting
 		{
@@ -68,7 +63,6 @@ namespace Telepathy
 			}
 		}
 
-		// Token: 0x06001105 RID: 4357 RVA: 0x00024DF1 File Offset: 0x00022FF1
 		[global::Cpp2ILInjected.Token(Token = "0x600125A")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA77A9C", Offset = "0xA77A9C", Length = "0x358")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -105,7 +99,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001106 RID: 4358 RVA: 0x00024DF4 File Offset: 0x00022FF4
 		[global::Cpp2ILInjected.Token(Token = "0x600125B")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA77DF4", Offset = "0xA77DF4", Length = "0x770")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -159,7 +152,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001107 RID: 4359 RVA: 0x00024DF7 File Offset: 0x00022FF7
 		[global::Cpp2ILInjected.Token(Token = "0x600125C")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA78A0C", Offset = "0xA78A0C", Length = "0x45C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -175,7 +167,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001108 RID: 4360 RVA: 0x00024DFA File Offset: 0x00022FFA
 		[global::Cpp2ILInjected.Token(Token = "0x600125D")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA78E68", Offset = "0xA78E68", Length = "0x240")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationClient), Member = "Connect", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -207,7 +198,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001109 RID: 4361 RVA: 0x00024DFD File Offset: 0x00022FFD
 		[global::Cpp2ILInjected.Token(Token = "0x600125E")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA7402C", Offset = "0xA7402C", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIErrorScreen), Member = "Draw", ReturnType = typeof(void))]
@@ -229,7 +219,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x0600110A RID: 4362 RVA: 0x00024E00 File Offset: 0x00023000
 		[global::Cpp2ILInjected.Token(Token = "0x600125F")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA790B0", Offset = "0xA790B0", Length = "0x1D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -282,7 +271,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x0600110B RID: 4363 RVA: 0x00024E03 File Offset: 0x00023003
 		[global::Cpp2ILInjected.Token(Token = "0x6001260")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA79288", Offset = "0xA79288", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationClient), Member = ".ctor", ReturnType = typeof(void))]
@@ -296,7 +284,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x0600110C RID: 4364 RVA: 0x00024E06 File Offset: 0x00023006
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x6001261")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA793EC", Offset = "0xA793EC", Length = "0x68")]
@@ -307,42 +294,34 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x04001C21 RID: 7201
 		[global::Cpp2ILInjected.Token(Token = "0x40021EE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public TcpClient client;
 
-		// Token: 0x04001C22 RID: 7202
 		[global::Cpp2ILInjected.Token(Token = "0x40021EF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private Thread receiveThread;
 
-		// Token: 0x04001C23 RID: 7203
 		[global::Cpp2ILInjected.Token(Token = "0x40021F0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private Thread sendThread;
 
-		// Token: 0x04001C24 RID: 7204
 		[global::Cpp2ILInjected.Token(Token = "0x40021F1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private bool _Connecting;
 
-		// Token: 0x04001C25 RID: 7205
 		[global::Cpp2ILInjected.Token(Token = "0x40021F2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private SafeQueue<byte[]> sendQueue;
 
-		// Token: 0x04001C26 RID: 7206
 		[global::Cpp2ILInjected.Token(Token = "0x40021F3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private ManualResetEvent sendPending;
 
-		// Token: 0x0200081C RID: 2076
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000311")]
 		private sealed class <>c__DisplayClass13_0
 		{
-			// Token: 0x06004928 RID: 18728 RVA: 0x0002EF91 File Offset: 0x0002D191
 			[global::Cpp2ILInjected.Token(Token = "0x6001262")]
 			[global::Cpp2ILInjected.Address(RVA = "0xA790A8", Offset = "0xA790A8", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -352,7 +331,6 @@ namespace Telepathy
 				throw null;
 			}
 
-			// Token: 0x06004929 RID: 18729 RVA: 0x0002EF94 File Offset: 0x0002D194
 			[global::Cpp2ILInjected.Token(Token = "0x6001263")]
 			[global::Cpp2ILInjected.Address(RVA = "0xA797A4", Offset = "0xA797A4", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -366,17 +344,14 @@ namespace Telepathy
 				throw null;
 			}
 
-			// Token: 0x04007D8B RID: 32139
 			[global::Cpp2ILInjected.Token(Token = "0x40021F4")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public Client <>4__this;
 
-			// Token: 0x04007D8C RID: 32140
 			[global::Cpp2ILInjected.Token(Token = "0x40021F5")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public string ip;
 
-			// Token: 0x04007D8D RID: 32141
 			[global::Cpp2ILInjected.Token(Token = "0x40021F6")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			public int port;

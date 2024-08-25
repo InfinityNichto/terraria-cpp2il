@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x0200010F RID: 271
 	[global::Cpp2ILInjected.Token(Token = "0x2000141")]
 	public class XmlSchemaComplexType : XmlSchemaType
 	{
-		// Token: 0x06000A29 RID: 2601 RVA: 0x00004CB8 File Offset: 0x00002EB8
 		[global::Cpp2ILInjected.Token(Token = "0x6000AC3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCD36C", Offset = "0x1DCD36C", Length = "0x194")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -30,7 +28,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000A2A RID: 2602 RVA: 0x00004CBB File Offset: 0x00002EBB
 		[global::Cpp2ILInjected.Token(Token = "0x6000AC4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCD500", Offset = "0x1DCD500", Length = "0x2C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +68,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000A2B RID: 2603 RVA: 0x00004CBE File Offset: 0x00002EBE
 		[global::Cpp2ILInjected.Token(Token = "0x6000AC5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCD7C4", Offset = "0x1DCD7C4", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlSchemaComplexType), Member = ".cctor", ReturnType = typeof(void))]
@@ -84,8 +80,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x170002EC RID: 748
-		// (get) Token: 0x06000A2C RID: 2604 RVA: 0x00004CC1 File Offset: 0x00002EC1
 		[XmlIgnore]
 		[global::Cpp2ILInjected.Token(Token = "0x17000312")]
 		internal static XmlSchemaComplexType AnyType
@@ -100,8 +94,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002ED RID: 749
-		// (get) Token: 0x06000A2D RID: 2605 RVA: 0x00004CC4 File Offset: 0x00002EC4
 		[global::Cpp2ILInjected.Token(Token = "0x17000313")]
 		internal static ContentValidator AnyTypeContentValidator
 		{
@@ -116,8 +108,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002EE RID: 750
-		// (set) Token: 0x06000A2E RID: 2606 RVA: 0x00004CC7 File Offset: 0x00002EC7
 		[XmlAttribute("mixed")]
 		[DefaultValue(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000314")]
@@ -133,8 +123,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002EF RID: 751
-		// (get) Token: 0x06000A2F RID: 2607 RVA: 0x00004CCA File Offset: 0x00002ECA
 		[XmlIgnore]
 		[global::Cpp2ILInjected.Token(Token = "0x17000315")]
 		public XmlSchemaParticle ContentTypeParticle
@@ -148,7 +136,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x06000A30 RID: 2608 RVA: 0x00004CCD File Offset: 0x00002ECD
 		[global::Cpp2ILInjected.Token(Token = "0x6000ACA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCDD80", Offset = "0x1DCDD80", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -157,7 +144,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000A31 RID: 2609 RVA: 0x00004CD0 File Offset: 0x00002ED0
 		[global::Cpp2ILInjected.Token(Token = "0x6000ACB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCDD88", Offset = "0x1DCDD88", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -166,34 +152,27 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x040003E8 RID: 1000
 		[global::Cpp2ILInjected.Token(Token = "0x4000577")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		private XmlSchemaDerivationMethod block;
 
-		// Token: 0x040003E9 RID: 1001
 		[global::Cpp2ILInjected.Token(Token = "0x4000578")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private XmlSchemaParticle contentTypeParticle;
 
-		// Token: 0x040003EA RID: 1002
 		[global::Cpp2ILInjected.Token(Token = "0x4000579")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private XmlSchemaAnyAttribute attributeWildcard;
 
-		// Token: 0x040003EB RID: 1003
 		[global::Cpp2ILInjected.Token(Token = "0x400057A")]
 		private static XmlSchemaComplexType anyTypeLax;
 
-		// Token: 0x040003EC RID: 1004
 		[global::Cpp2ILInjected.Token(Token = "0x400057B")]
 		private static XmlSchemaComplexType anyTypeSkip;
 
-		// Token: 0x040003ED RID: 1005
 		[global::Cpp2ILInjected.Token(Token = "0x400057C")]
 		private static XmlSchemaComplexType untypedAnyType;
 
-		// Token: 0x040003EE RID: 1006
 		[global::Cpp2ILInjected.Token(Token = "0x400057D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private byte pvFlags;

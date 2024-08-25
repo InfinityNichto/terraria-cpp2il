@@ -12,15 +12,12 @@ using Terraria.IO;
 
 namespace Terraria.WorldBuilding
 {
-	// Token: 0x0200035C RID: 860
 	[global::Cpp2ILInjected.Token(Token = "0x20004C9")]
 	public static class ModShapes
 	{
-		// Token: 0x020008C0 RID: 2240
 		[global::Cpp2ILInjected.Token(Token = "0x20004CA")]
 		public class All : GenModShape
 		{
-			// Token: 0x06004B8D RID: 19341 RVA: 0x0002F63C File Offset: 0x0002D83C
 			[global::Cpp2ILInjected.Token(Token = "0x600301C")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12F8640", Offset = "0x12F8640", Length = "0x28")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CampsiteBiome), Member = "Place", MemberParameters = new object[]
@@ -63,7 +60,6 @@ namespace Terraria.WorldBuilding
 				throw null;
 			}
 
-			// Token: 0x06004B8E RID: 19342 RVA: 0x0002F63F File Offset: 0x0002D83F
 			[global::Cpp2ILInjected.Token(Token = "0x600301D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12F8668", Offset = "0x12F8668", Length = "0x1EC")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -86,11 +82,9 @@ namespace Terraria.WorldBuilding
 			}
 		}
 
-		// Token: 0x020008C1 RID: 2241
 		[global::Cpp2ILInjected.Token(Token = "0x20004CB")]
 		public class OuterOutline : GenModShape
 		{
-			// Token: 0x06004B8F RID: 19343 RVA: 0x0002F642 File Offset: 0x0002D842
 			[global::Cpp2ILInjected.Token(Token = "0x600301E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12F88B8", Offset = "0x12F88B8", Length = "0x40")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen.<>c", Member = "<GenerateWorld>b__277_55", MemberParameters = new object[]
@@ -111,7 +105,6 @@ namespace Terraria.WorldBuilding
 				throw null;
 			}
 
-			// Token: 0x06004B90 RID: 19344 RVA: 0x0002F645 File Offset: 0x0002D845
 			[global::Cpp2ILInjected.Token(Token = "0x600301F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12F88F8", Offset = "0x12F88F8", Length = "0x344")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -138,7 +131,6 @@ namespace Terraria.WorldBuilding
 				throw null;
 			}
 
-			// Token: 0x06004B91 RID: 19345 RVA: 0x0002F648 File Offset: 0x0002D848
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6003020")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12F8C3C", Offset = "0x12F8C3C", Length = "0x94")]
@@ -154,26 +146,21 @@ namespace Terraria.WorldBuilding
 				throw null;
 			}
 
-			// Token: 0x040080A5 RID: 32933
 			[global::Cpp2ILInjected.Token(Token = "0x40039C5")]
 			private static readonly int[] POINT_OFFSETS;
 
-			// Token: 0x040080A6 RID: 32934
 			[global::Cpp2ILInjected.Token(Token = "0x40039C6")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			private bool _useDiagonals;
 
-			// Token: 0x040080A7 RID: 32935
 			[global::Cpp2ILInjected.Token(Token = "0x40039C7")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x29")]
 			private bool _useInterior;
 		}
 
-		// Token: 0x020008C2 RID: 2242
 		[global::Cpp2ILInjected.Token(Token = "0x20004CC")]
 		public class InnerOutline : GenModShape
 		{
-			// Token: 0x06004B92 RID: 19346 RVA: 0x0002F64B File Offset: 0x0002D84B
 			[global::Cpp2ILInjected.Token(Token = "0x6003021")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12F8CD0", Offset = "0x12F8CD0", Length = "0x30")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EnchantedSwordBiome), Member = "Place", MemberParameters = new object[]
@@ -193,7 +180,6 @@ namespace Terraria.WorldBuilding
 				throw null;
 			}
 
-			// Token: 0x06004B93 RID: 19347 RVA: 0x0002F64E File Offset: 0x0002D84E
 			[global::Cpp2ILInjected.Token(Token = "0x6003022")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12F8D00", Offset = "0x12F8D00", Length = "0x28C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -220,7 +206,6 @@ namespace Terraria.WorldBuilding
 				throw null;
 			}
 
-			// Token: 0x06004B94 RID: 19348 RVA: 0x0002F651 File Offset: 0x0002D851
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6003023")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12F8F8C", Offset = "0x12F8F8C", Length = "0x94")]
@@ -236,11 +221,9 @@ namespace Terraria.WorldBuilding
 				throw null;
 			}
 
-			// Token: 0x040080A8 RID: 32936
 			[global::Cpp2ILInjected.Token(Token = "0x40039C8")]
 			private static readonly int[] POINT_OFFSETS;
 
-			// Token: 0x040080A9 RID: 32937
 			[global::Cpp2ILInjected.Token(Token = "0x40039C9")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			private bool _useDiagonals;

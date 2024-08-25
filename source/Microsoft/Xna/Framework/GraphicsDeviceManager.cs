@@ -11,12 +11,9 @@ using UnityEngine;
 
 namespace Microsoft.Xna.Framework
 {
-	// Token: 0x02000276 RID: 630
 	[global::Cpp2ILInjected.Token(Token = "0x2000337")]
 	public class GraphicsDeviceManager
 	{
-		// Token: 0x170001E7 RID: 487
-		// (get) Token: 0x0600135D RID: 4957 RVA: 0x000254CC File Offset: 0x000236CC
 		[global::Cpp2ILInjected.Token(Token = "0x1700020F")]
 		public GraphicsDevice GraphicsDevice
 		{
@@ -60,7 +57,6 @@ namespace Microsoft.Xna.Framework
 			}
 		}
 
-		// Token: 0x0600135E RID: 4958 RVA: 0x000254CF File Offset: 0x000236CF
 		[global::Cpp2ILInjected.Token(Token = "0x60014BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA96518", Offset = "0xA96518", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = ".ctor", ReturnType = typeof(void))]
@@ -71,8 +67,6 @@ namespace Microsoft.Xna.Framework
 			throw null;
 		}
 
-		// Token: 0x170001E8 RID: 488
-		// (get) Token: 0x0600135F RID: 4959 RVA: 0x000254D2 File Offset: 0x000236D2
 		[global::Cpp2ILInjected.Token(Token = "0x17000210")]
 		public bool IsFullScreen
 		{
@@ -100,7 +94,6 @@ namespace Microsoft.Xna.Framework
 			}
 		}
 
-		// Token: 0x06001360 RID: 4960 RVA: 0x000254D5 File Offset: 0x000236D5
 		[global::Cpp2ILInjected.Token(Token = "0x60014BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA96548", Offset = "0xA96548", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "ClientInitialize", ReturnType = typeof(void))]
@@ -116,7 +109,6 @@ namespace Microsoft.Xna.Framework
 			throw null;
 		}
 
-		// Token: 0x06001361 RID: 4961 RVA: 0x000254D8 File Offset: 0x000236D8
 		[global::Cpp2ILInjected.Token(Token = "0x60014BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9654C", Offset = "0xA9654C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "SetDisplayMode", MemberParameters = new object[]
@@ -131,31 +123,25 @@ namespace Microsoft.Xna.Framework
 			throw null;
 		}
 
-		// Token: 0x04001CDD RID: 7389
 		[global::Cpp2ILInjected.Token(Token = "0x40022B7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Game game;
 
-		// Token: 0x04001CDE RID: 7390
 		[global::Cpp2ILInjected.Token(Token = "0x40022B8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public bool SynchronizeWithVerticalRetrace;
 
-		// Token: 0x04001CDF RID: 7391
 		[global::Cpp2ILInjected.Token(Token = "0x40022B9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		public int PreferredBackBufferWidth;
 
-		// Token: 0x04001CE0 RID: 7392
 		[global::Cpp2ILInjected.Token(Token = "0x40022BA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public int PreferredBackBufferHeight;
 
-		// Token: 0x04001CE1 RID: 7393
 		[global::Cpp2ILInjected.Token(Token = "0x40022BB")]
 		public static int DefaultBackBufferWidth;
 
-		// Token: 0x04001CE2 RID: 7394
 		[global::Cpp2ILInjected.Token(Token = "0x40022BC")]
 		public static int DefaultBackBufferHeight;
 	}

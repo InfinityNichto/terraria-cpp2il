@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Audio;
 using Terraria;
 using Terraria.Audio;
 
-// Token: 0x020001DC RID: 476
 [global::Cpp2ILInjected.Token(Token = "0x2000278")]
 public class GUIPlayerNameMenu
 {
-	// Token: 0x06000D22 RID: 3362 RVA: 0x000242AB File Offset: 0x000224AB
 	[global::Cpp2ILInjected.Token(Token = "0x6000E41")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9FA8A0", Offset = "0x9FA8A0", Length = "0x404")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +63,6 @@ public class GUIPlayerNameMenu
 		throw null;
 	}
 
-	// Token: 0x06000D23 RID: 3363 RVA: 0x000242AE File Offset: 0x000224AE
 	[global::Cpp2ILInjected.Token(Token = "0x6000E42")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9FACA4", Offset = "0x9FACA4", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -77,12 +74,10 @@ public class GUIPlayerNameMenu
 		throw null;
 	}
 
-	// Token: 0x040014F7 RID: 5367
 	[global::Cpp2ILInjected.Token(Token = "0x4001A0C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float NewScale;
 
-	// Token: 0x040014F8 RID: 5368
 	[global::Cpp2ILInjected.Token(Token = "0x4001A0D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private string editPlayerName;

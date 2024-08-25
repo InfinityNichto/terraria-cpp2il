@@ -13,14 +13,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Linq.JsonPath
 {
-	// Token: 0x020000A7 RID: 167
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000E9")]
 	internal class FieldMultipleFilter : PathFilter
 	{
-		// Token: 0x17000196 RID: 406
-		// (get) Token: 0x06000899 RID: 2201 RVA: 0x000039BC File Offset: 0x00001BBC
-		// (set) Token: 0x0600089A RID: 2202 RVA: 0x000039BF File Offset: 0x00001BBF
 		[global::Cpp2ILInjected.Token(Token = "0x170001BD")]
 		public List<string> Names
 		{
@@ -42,7 +38,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 			}
 		}
 
-		// Token: 0x0600089B RID: 2203 RVA: 0x000039C2 File Offset: 0x00001BC2
 		[global::Cpp2ILInjected.Token(Token = "0x60009B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D202EC", Offset = "0x1D202EC", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +48,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 			throw null;
 		}
 
-		// Token: 0x0600089C RID: 2204 RVA: 0x000039C5 File Offset: 0x00001BC5
 		[global::Cpp2ILInjected.Token(Token = "0x60009B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D20398", Offset = "0x1D20398", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -63,19 +57,16 @@ namespace Newtonsoft.Json.Linq.JsonPath
 			throw null;
 		}
 
-		// Token: 0x040002C9 RID: 713
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40003BD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private List<string> <Names>k__BackingField;
 
-		// Token: 0x02000132 RID: 306
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x20000EA")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06000B8E RID: 2958 RVA: 0x00004226 File Offset: 0x00002426
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60009B2")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D203A0", Offset = "0x1D203A0", Length = "0x5C")]
@@ -87,7 +78,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x06000B8F RID: 2959 RVA: 0x00004229 File Offset: 0x00002429
 			[global::Cpp2ILInjected.Token(Token = "0x60009B3")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D203FC", Offset = "0x1D203FC", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -97,7 +87,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x06000B90 RID: 2960 RVA: 0x0000422C File Offset: 0x0000242C
 			[global::Cpp2ILInjected.Token(Token = "0x60009B4")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D20404", Offset = "0x1D20404", Length = "0x50")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -113,21 +102,17 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x04000451 RID: 1105
 			[global::Cpp2ILInjected.Token(Token = "0x40003BE")]
 			public static readonly FieldMultipleFilter.<>c <>9;
 
-			// Token: 0x04000452 RID: 1106
 			[global::Cpp2ILInjected.Token(Token = "0x40003BF")]
 			public static Func<string, string> <>9__4_0;
 		}
 
-		// Token: 0x02000133 RID: 307
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x20000EB")]
 		private sealed class <ExecuteFilter>d__4 : IEnumerable<JToken>, IEnumerable, IEnumerator<JToken>, IDisposable, IEnumerator
 		{
-			// Token: 0x06000B91 RID: 2961 RVA: 0x0000422F File Offset: 0x0000242F
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x60009B5")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D2035C", Offset = "0x1D2035C", Length = "0x3C")]
@@ -146,7 +131,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x06000B92 RID: 2962 RVA: 0x00004232 File Offset: 0x00002432
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x60009B6")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D20454", Offset = "0x1D20454", Length = "0xB0")]
@@ -161,7 +145,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x06000B93 RID: 2963 RVA: 0x00004235 File Offset: 0x00002435
 			[global::Cpp2ILInjected.Token(Token = "0x60009B7")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D20504", Offset = "0x1D20504", Length = "0x654")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -214,7 +197,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x06000B94 RID: 2964 RVA: 0x00004238 File Offset: 0x00002438
 			[global::Cpp2ILInjected.Token(Token = "0x60009B8")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D20BA8", Offset = "0x1D20BA8", Length = "0xB0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -227,7 +209,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x06000B95 RID: 2965 RVA: 0x0000423B File Offset: 0x0000243B
 			[global::Cpp2ILInjected.Token(Token = "0x60009B9")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D20B58", Offset = "0x1D20B58", Length = "0x50")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FieldMultipleFilter.<ExecuteFilter>d__4), Member = "System.IDisposable.Dispose", ReturnType = typeof(void))]
@@ -240,8 +221,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x17000237 RID: 567
-			// (get) Token: 0x06000B96 RID: 2966 RVA: 0x0000423E File Offset: 0x0000243E
 			[global::Cpp2ILInjected.Token(Token = "0x170001BE")]
 			private JToken System.Collections.Generic.IEnumerator<Newtonsoft.Json.Linq.JToken>.Current
 			{
@@ -255,7 +234,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				}
 			}
 
-			// Token: 0x06000B97 RID: 2967 RVA: 0x00004241 File Offset: 0x00002441
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x60009BB")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D20C60", Offset = "0x1D20C60", Length = "0x38")]
@@ -267,8 +245,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x17000238 RID: 568
-			// (get) Token: 0x06000B98 RID: 2968 RVA: 0x00004244 File Offset: 0x00002444
 			[global::Cpp2ILInjected.Token(Token = "0x170001BF")]
 			private object System.Collections.IEnumerator.Current
 			{
@@ -282,7 +258,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				}
 			}
 
-			// Token: 0x06000B99 RID: 2969 RVA: 0x00004247 File Offset: 0x00002447
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x60009BD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D20CA0", Offset = "0x1D20CA0", Length = "0xA4")]
@@ -298,7 +273,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x06000B9A RID: 2970 RVA: 0x0000424A File Offset: 0x0000244A
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x60009BE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D20D44", Offset = "0x1D20D44", Length = "0x4")]
@@ -309,67 +283,54 @@ namespace Newtonsoft.Json.Linq.JsonPath
 				throw null;
 			}
 
-			// Token: 0x04000453 RID: 1107
 			[global::Cpp2ILInjected.Token(Token = "0x40003C0")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private int <>1__state;
 
-			// Token: 0x04000454 RID: 1108
 			[global::Cpp2ILInjected.Token(Token = "0x40003C1")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private JToken <>2__current;
 
-			// Token: 0x04000455 RID: 1109
 			[global::Cpp2ILInjected.Token(Token = "0x40003C2")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private int <>l__initialThreadId;
 
-			// Token: 0x04000456 RID: 1110
 			[global::Cpp2ILInjected.Token(Token = "0x40003C3")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			private IEnumerable<JToken> current;
 
-			// Token: 0x04000457 RID: 1111
 			[global::Cpp2ILInjected.Token(Token = "0x40003C4")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 			public IEnumerable<JToken> <>3__current;
 
-			// Token: 0x04000458 RID: 1112
 			[global::Cpp2ILInjected.Token(Token = "0x40003C5")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 			public FieldMultipleFilter <>4__this;
 
-			// Token: 0x04000459 RID: 1113
 			[global::Cpp2ILInjected.Token(Token = "0x40003C6")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 			private JObject <o>5__1;
 
-			// Token: 0x0400045A RID: 1114
 			[global::Cpp2ILInjected.Token(Token = "0x40003C7")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 			private bool errorWhenNoMatch;
 
-			// Token: 0x0400045B RID: 1115
 			[global::Cpp2ILInjected.Token(Token = "0x40003C8")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x49")]
 			public bool <>3__errorWhenNoMatch;
 
-			// Token: 0x0400045C RID: 1116
 			[global::Cpp2ILInjected.Token(Token = "0x40003C9")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 			private string <name>5__2;
 
-			// Token: 0x0400045D RID: 1117
 			[global::Cpp2ILInjected.Token(Token = "0x40003CA")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 			private JToken <t>5__3;
 
-			// Token: 0x0400045E RID: 1118
 			[global::Cpp2ILInjected.Token(Token = "0x40003CB")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 			private IEnumerator<JToken> <>7__wrap1;
 
-			// Token: 0x0400045F RID: 1119
 			[global::Cpp2ILInjected.Token(Token = "0x40003CC")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 			private List<string>.Enumerator <>7__wrap2;

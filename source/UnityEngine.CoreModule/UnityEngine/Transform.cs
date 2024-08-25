@@ -11,7 +11,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x020000CC RID: 204
 	[RequiredByNativeCode]
 	[NativeHeader("Configuration/UnityConfigure.h")]
 	[NativeHeader("Runtime/Transform/ScriptBindings/TransformScriptBindings.h")]
@@ -19,7 +18,6 @@ namespace UnityEngine
 	[global::Cpp2ILInjected.Token(Token = "0x20000E0")]
 	public class Transform : Component, IEnumerable
 	{
-		// Token: 0x0600047E RID: 1150 RVA: 0x00002A0A File Offset: 0x00000C0A
 		[global::Cpp2ILInjected.Token(Token = "0x6000496")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F84D4C", Offset = "0x1F84D4C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -29,15 +27,65 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x170000EA RID: 234
-		// (get) Token: 0x0600047F RID: 1151 RVA: 0x00002A0D File Offset: 0x00000C0D
-		// (set) Token: 0x06000480 RID: 1152 RVA: 0x00002A10 File Offset: 0x00000C10
 		[global::Cpp2ILInjected.Token(Token = "0x170000EC")]
 		public Vector3 position
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x6000497")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F84D54", Offset = "0x1F84D54", Length = "0x5C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchButtonControl", Member = "get_ButtonPosition", ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchStickControl", Member = "get_RingPosition", ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchStickControl", Member = "get_KnobPosition", ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "ConvertScreenToWorldPoint", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "ConvertViewToWorldPoint", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "ConvertScreenToViewPoint", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchSprite", Member = "get_Position", ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LightmapperUtils), Member = "Extract", MemberParameters = new object[]
+			{
+				typeof(Light),
+				typeof(ref DirectionalLight)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LightmapperUtils), Member = "Extract", MemberParameters = new object[]
+			{
+				typeof(Light),
+				typeof(ref PointLight)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LightmapperUtils), Member = "Extract", MemberParameters = new object[]
+			{
+				typeof(Light),
+				typeof(ref SpotLight)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LightmapperUtils), Member = "Extract", MemberParameters = new object[]
+			{
+				typeof(Light),
+				typeof(ref RectangleLight)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LightmapperUtils), Member = "Extract", MemberParameters = new object[]
+			{
+				typeof(Light),
+				typeof(ref DiscLight)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.GraphicRaycaster", Member = "Raycast", MemberParameters = new object[] { "UnityEngine.EventSystems.PointerEventData", "System.Collections.Generic.List`1<RaycastResult>" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.GraphicRaycaster", Member = "Raycast", MemberParameters = new object[]
+			{
+				"UnityEngine.Canvas",
+				typeof(Camera),
+				typeof(Vector2),
+				"System.Collections.Generic.IList`1<Graphic>",
+				"System.Collections.Generic.List`1<Graphic>"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "ScreenToLocal", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.Physics2DRaycaster", Member = "Raycast", MemberParameters = new object[] { "UnityEngine.EventSystems.PointerEventData", "System.Collections.Generic.List`1<RaycastResult>" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MultiplayerWithBindingsExample.PlayerManager", Member = "RemovePlayer", MemberParameters = new object[] { "MultiplayerWithBindingsExample.Player" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MultiplayerBasicExample.PlayerManager", Member = "RemovePlayer", MemberParameters = new object[] { "MultiplayerBasicExample.Player" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InterfaceMovement.ButtonFocus", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.RectTransformUtility", Member = "ScreenPointToWorldPointInRectangle", MemberParameters = new object[]
+			{
+				typeof(RectTransform),
+				typeof(Vector2),
+				typeof(Camera),
+				typeof(ref Vector3)
+			}, ReturnType = typeof(bool))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 24)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
 			get
@@ -64,9 +112,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x170000EB RID: 235
-		// (get) Token: 0x06000481 RID: 1153 RVA: 0x00002A13 File Offset: 0x00000C13
-		// (set) Token: 0x06000482 RID: 1154 RVA: 0x00002A16 File Offset: 0x00000C16
 		[global::Cpp2ILInjected.Token(Token = "0x170000ED")]
 		public Vector3 localPosition
 		{
@@ -109,8 +154,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x170000EC RID: 236
-		// (get) Token: 0x06000483 RID: 1155 RVA: 0x00002A19 File Offset: 0x00000C19
 		[global::Cpp2ILInjected.Token(Token = "0x170000EE")]
 		public Vector3 forward
 		{
@@ -132,8 +175,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x170000ED RID: 237
-		// (get) Token: 0x06000484 RID: 1156 RVA: 0x00002A1C File Offset: 0x00000C1C
 		[global::Cpp2ILInjected.Token(Token = "0x170000EF")]
 		public Quaternion rotation
 		{
@@ -187,9 +228,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x170000EE RID: 238
-		// (get) Token: 0x06000485 RID: 1157 RVA: 0x00002A1F File Offset: 0x00000C1F
-		// (set) Token: 0x06000486 RID: 1158 RVA: 0x00002A22 File Offset: 0x00000C22
 		[global::Cpp2ILInjected.Token(Token = "0x170000F0")]
 		public Quaternion localRotation
 		{
@@ -225,9 +263,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x170000EF RID: 239
-		// (get) Token: 0x06000487 RID: 1159 RVA: 0x00002A25 File Offset: 0x00000C25
-		// (set) Token: 0x06000488 RID: 1160 RVA: 0x00002A28 File Offset: 0x00000C28
 		[global::Cpp2ILInjected.Token(Token = "0x170000F1")]
 		public Vector3 localScale
 		{
@@ -291,14 +326,69 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x170000F0 RID: 240
-		// (get) Token: 0x06000489 RID: 1161 RVA: 0x00002A2B File Offset: 0x00000C2B
-		// (set) Token: 0x0600048A RID: 1162 RVA: 0x00002A2E File Offset: 0x00000C2E
 		[global::Cpp2ILInjected.Token(Token = "0x170000F2")]
 		public Transform parent
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x60004A1")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F85344", Offset = "0x1F85344", Length = "0x3C")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "Parent", MemberParameters = new object[] { typeof(GameObject) }, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TransformExtensions", Member = "FindInParents", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { typeof(Transform) }, ReturnType = "T")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TransformExtensions", Member = "GetPath", MemberParameters = new object[] { typeof(Transform) }, ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.CanvasUpdateRegistry", Member = "ParentCount", MemberParameters = new object[] { typeof(Transform) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "SetupTemplate", MemberParameters = new object[] { "UnityEngine.Canvas" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "Show", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "CreateBlocker", MemberParameters = new object[] { "UnityEngine.Canvas" }, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "AddItem", MemberParameters = new object[]
+			{
+				"UnityEngine.UI.Dropdown.OptionData",
+				typeof(bool),
+				"UnityEngine.UI.Dropdown.DropdownItem",
+				"System.Collections.Generic.List`1<DropdownItem>"
+			}, ReturnType = "UnityEngine.UI.Dropdown.DropdownItem")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "OnSelectItem", MemberParameters = new object[] { "UnityEngine.UI.Toggle" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "Raycast", MemberParameters = new object[]
+			{
+				typeof(Vector2),
+				typeof(Camera)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "UpdateGeometry", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.AspectRatioFitter", Member = "OnEnable", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.AspectRatioFitter", Member = "OnTransformParentChanged", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.AspectRatioFitter", Member = "GetParentSize", ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.LayoutGroup", Member = "get_isRootLayoutGroup", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.LayoutRebuilder", Member = "MarkLayoutForRebuild", MemberParameters = new object[] { typeof(RectTransform) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.MaskUtilities", Member = "GetStencilDepth", MemberParameters = new object[]
+			{
+				typeof(Transform),
+				typeof(Transform)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.MaskUtilities", Member = "IsDescendantOrSelf", MemberParameters = new object[]
+			{
+				typeof(Transform),
+				typeof(Transform)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Scrollbar", Member = "UpdateCachedReferences", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ScrollRect", Member = "UpdateCachedData", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Selectable", Member = "OnCanvasGroupChanged", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Slider", Member = "UpdateCachedReferences", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.ExecuteEvents", Member = "GetEventChain", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				"System.Collections.Generic.IList`1<Transform>"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.ExecuteEvents", Member = "GetEventHandler", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { typeof(GameObject) }, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.BaseInputModule", Member = "FindCommonRoot", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(GameObject)
+			}, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.BaseInputModule", Member = "HandlePointerExitAndEnter", MemberParameters = new object[]
+			{
+				"UnityEngine.EventSystems.PointerEventData",
+				typeof(GameObject)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InterfaceMovement.Button", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InterfaceMovement.ButtonFocus", Member = "Update", ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 48)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
 			get
@@ -334,9 +424,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x170000F1 RID: 241
-		// (get) Token: 0x0600048B RID: 1163 RVA: 0x00002A31 File Offset: 0x00000C31
-		// (set) Token: 0x0600048C RID: 1164 RVA: 0x00002A34 File Offset: 0x00000C34
 		[global::Cpp2ILInjected.Token(Token = "0x170000F3")]
 		internal Transform parentInternal
 		{
@@ -358,7 +445,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x0600048D RID: 1165
 		[global::Cpp2ILInjected.Token(Token = "0x60004A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F854D0", Offset = "0x1F854D0", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -366,7 +452,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern Transform GetParent();
 
-		// Token: 0x0600048E RID: 1166 RVA: 0x00002A37 File Offset: 0x00000C37
 		[global::Cpp2ILInjected.Token(Token = "0x60004A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8550C", Offset = "0x1F8550C", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "UpdateGeometry", ReturnType = typeof(void))]
@@ -377,7 +462,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600048F RID: 1167
 		[FreeFunction("SetParent", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60004A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85554", Offset = "0x1F85554", Length = "0x54")]
@@ -400,8 +484,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void SetParent(Transform parent, bool worldPositionStays);
 
-		// Token: 0x170000F2 RID: 242
-		// (get) Token: 0x06000490 RID: 1168 RVA: 0x00002A3A File Offset: 0x00000C3A
 		[global::Cpp2ILInjected.Token(Token = "0x170000F4")]
 		public Matrix4x4 worldToLocalMatrix
 		{
@@ -418,8 +500,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x170000F3 RID: 243
-		// (get) Token: 0x06000491 RID: 1169 RVA: 0x00002A3D File Offset: 0x00000C3D
 		[global::Cpp2ILInjected.Token(Token = "0x170000F5")]
 		public Matrix4x4 localToWorldMatrix
 		{
@@ -434,7 +514,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000492 RID: 1170 RVA: 0x00002A40 File Offset: 0x00000C40
 		[NativeMethod("RotateAround")]
 		[global::Cpp2ILInjected.Token(Token = "0x60004AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85708", Offset = "0x1F85708", Length = "0x64")]
@@ -452,7 +531,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000493 RID: 1171 RVA: 0x00002A43 File Offset: 0x00000C43
 		[global::Cpp2ILInjected.Token(Token = "0x60004AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F857C0", Offset = "0x1F857C0", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -475,7 +553,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000494 RID: 1172 RVA: 0x00002A46 File Offset: 0x00000C46
 		[global::Cpp2ILInjected.Token(Token = "0x60004AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85844", Offset = "0x1F85844", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -492,7 +569,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000495 RID: 1173 RVA: 0x00002A49 File Offset: 0x00000C49
 		[global::Cpp2ILInjected.Token(Token = "0x60004AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85900", Offset = "0x1F85900", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -509,7 +585,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000496 RID: 1174 RVA: 0x00002A4C File Offset: 0x00000C4C
 		[global::Cpp2ILInjected.Token(Token = "0x60004AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F859BC", Offset = "0x1F859BC", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -535,8 +610,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x170000F4 RID: 244
-		// (get) Token: 0x06000497 RID: 1175
 		[global::Cpp2ILInjected.Token(Token = "0x170000F6")]
 		public extern int childCount
 		{
@@ -607,7 +680,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x06000498 RID: 1176
 		[global::Cpp2ILInjected.Token(Token = "0x60004B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85AB4", Offset = "0x1F85AB4", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "UpdateGeometry", ReturnType = typeof(void))]
@@ -616,7 +688,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void SetAsFirstSibling();
 
-		// Token: 0x06000499 RID: 1177
 		[global::Cpp2ILInjected.Token(Token = "0x60004B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85AF0", Offset = "0x1F85AF0", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.SingletonMonoBehavior`1.<>c", Member = "<FindInstances>b__12_0", MemberParameters = new object[] { "TComponent", "TComponent" }, ReturnType = typeof(int))]
@@ -625,7 +696,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern int GetSiblingIndex();
 
-		// Token: 0x0600049A RID: 1178
 		[FreeFunction("Internal_IsChildOrSameTransform", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60004B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85B2C", Offset = "0x1F85B2C", Length = "0x44")]
@@ -635,7 +705,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern bool IsChildOf([NotNull("ArgumentNullException")] Transform parent);
 
-		// Token: 0x0600049B RID: 1179 RVA: 0x00002A4F File Offset: 0x00000C4F
 		[global::Cpp2ILInjected.Token(Token = "0x60004B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85B70", Offset = "0x1F85B70", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -646,7 +715,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600049C RID: 1180
 		[NativeThrows]
 		[FreeFunction("GetChild", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60004B4")]
@@ -714,7 +782,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern Transform GetChild(int index);
 
-		// Token: 0x0600049D RID: 1181
 		[global::Cpp2ILInjected.Token(Token = "0x60004B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F84DB0", Offset = "0x1F84DB0", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -722,7 +789,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_position_Injected(out Vector3 ret);
 
-		// Token: 0x0600049E RID: 1182
 		[global::Cpp2ILInjected.Token(Token = "0x60004B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F84E48", Offset = "0x1F84E48", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -730,7 +796,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void set_position_Injected(ref Vector3 value);
 
-		// Token: 0x0600049F RID: 1183
 		[global::Cpp2ILInjected.Token(Token = "0x60004B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F84EE8", Offset = "0x1F84EE8", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -738,7 +803,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_localPosition_Injected(out Vector3 ret);
 
-		// Token: 0x060004A0 RID: 1184
 		[global::Cpp2ILInjected.Token(Token = "0x60004B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F84F80", Offset = "0x1F84F80", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -746,7 +810,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void set_localPosition_Injected(ref Vector3 value);
 
-		// Token: 0x060004A1 RID: 1185
 		[global::Cpp2ILInjected.Token(Token = "0x60004B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85094", Offset = "0x1F85094", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -754,7 +817,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_rotation_Injected(out Quaternion ret);
 
-		// Token: 0x060004A2 RID: 1186
 		[global::Cpp2ILInjected.Token(Token = "0x60004BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85130", Offset = "0x1F85130", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -762,7 +824,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_localRotation_Injected(out Quaternion ret);
 
-		// Token: 0x060004A3 RID: 1187
 		[global::Cpp2ILInjected.Token(Token = "0x60004BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F851C8", Offset = "0x1F851C8", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -770,7 +831,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void set_localRotation_Injected(ref Quaternion value);
 
-		// Token: 0x060004A4 RID: 1188
 		[global::Cpp2ILInjected.Token(Token = "0x60004BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85268", Offset = "0x1F85268", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -778,7 +838,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_localScale_Injected(out Vector3 ret);
 
-		// Token: 0x060004A5 RID: 1189
 		[global::Cpp2ILInjected.Token(Token = "0x60004BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85300", Offset = "0x1F85300", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -786,7 +845,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void set_localScale_Injected(ref Vector3 value);
 
-		// Token: 0x060004A6 RID: 1190
 		[global::Cpp2ILInjected.Token(Token = "0x60004BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85614", Offset = "0x1F85614", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -794,7 +852,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_worldToLocalMatrix_Injected(out Matrix4x4 ret);
 
-		// Token: 0x060004A7 RID: 1191
 		[global::Cpp2ILInjected.Token(Token = "0x60004BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F856C4", Offset = "0x1F856C4", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -802,7 +859,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_localToWorldMatrix_Injected(out Matrix4x4 ret);
 
-		// Token: 0x060004A8 RID: 1192
 		[global::Cpp2ILInjected.Token(Token = "0x60004C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8576C", Offset = "0x1F8576C", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -810,7 +866,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void RotateAroundInternal_Injected(ref Vector3 axis, float angle);
 
-		// Token: 0x060004A9 RID: 1193
 		[global::Cpp2ILInjected.Token(Token = "0x60004C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F858AC", Offset = "0x1F858AC", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -818,7 +873,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void TransformDirection_Injected(ref Vector3 direction, out Vector3 ret);
 
-		// Token: 0x060004AA RID: 1194
 		[global::Cpp2ILInjected.Token(Token = "0x60004C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85968", Offset = "0x1F85968", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -826,7 +880,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void TransformPoint_Injected(ref Vector3 position, out Vector3 ret);
 
-		// Token: 0x060004AB RID: 1195
 		[global::Cpp2ILInjected.Token(Token = "0x60004C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85A24", Offset = "0x1F85A24", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -834,11 +887,9 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void InverseTransformPoint_Injected(ref Vector3 position, out Vector3 ret);
 
-		// Token: 0x02000174 RID: 372
 		[global::Cpp2ILInjected.Token(Token = "0x20000E1")]
 		private class Enumerator : IEnumerator
 		{
-			// Token: 0x060006CC RID: 1740 RVA: 0x00002FA4 File Offset: 0x000011A4
 			[global::Cpp2ILInjected.Token(Token = "0x60004C4")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F85BD4", Offset = "0x1F85BD4", Length = "0x30")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -848,8 +899,6 @@ namespace UnityEngine
 				throw null;
 			}
 
-			// Token: 0x1700015E RID: 350
-			// (get) Token: 0x060006CD RID: 1741 RVA: 0x00002FA7 File Offset: 0x000011A7
 			[global::Cpp2ILInjected.Token(Token = "0x170000F7")]
 			public object Current
 			{
@@ -863,7 +912,6 @@ namespace UnityEngine
 				}
 			}
 
-			// Token: 0x060006CE RID: 1742 RVA: 0x00002FAA File Offset: 0x000011AA
 			[global::Cpp2ILInjected.Token(Token = "0x60004C6")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F85C8C", Offset = "0x1F85C8C", Length = "0x58")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -874,7 +922,6 @@ namespace UnityEngine
 				throw null;
 			}
 
-			// Token: 0x060006CF RID: 1743 RVA: 0x00002FAD File Offset: 0x000011AD
 			[global::Cpp2ILInjected.Token(Token = "0x60004C7")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F85CE4", Offset = "0x1F85CE4", Length = "0xC")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -883,12 +930,10 @@ namespace UnityEngine
 				throw null;
 			}
 
-			// Token: 0x04000668 RID: 1640
 			[global::Cpp2ILInjected.Token(Token = "0x40003DC")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private Transform outer;
 
-			// Token: 0x04000669 RID: 1641
 			[global::Cpp2ILInjected.Token(Token = "0x40003DD")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private int currentIndex;

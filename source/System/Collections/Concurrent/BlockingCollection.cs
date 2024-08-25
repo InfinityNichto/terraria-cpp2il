@@ -8,14 +8,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections.Concurrent
 {
-	// Token: 0x0200030D RID: 781
 	[DebuggerTypeProxy(typeof(BlockingCollectionDebugView<>))]
 	[DebuggerDisplay("Count = {Count}, Type = {_collection}")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000429")]
 	public class BlockingCollection<T> : IEnumerable<T>, IEnumerable, ICollection, IDisposable, IReadOnlyCollection<T>
 	{
-		// Token: 0x17000626 RID: 1574
-		// (get) Token: 0x060019D6 RID: 6614 RVA: 0x000076DF File Offset: 0x000058DF
 		[global::Cpp2ILInjected.Token(Token = "0x1700067B")]
 		public bool IsAddingCompleted
 		{
@@ -31,8 +28,6 @@ namespace System.Collections.Concurrent
 			}
 		}
 
-		// Token: 0x17000627 RID: 1575
-		// (get) Token: 0x060019D7 RID: 6615 RVA: 0x000076E2 File Offset: 0x000058E2
 		[global::Cpp2ILInjected.Token(Token = "0x1700067C")]
 		public bool IsCompleted
 		{
@@ -48,8 +43,6 @@ namespace System.Collections.Concurrent
 			}
 		}
 
-		// Token: 0x17000628 RID: 1576
-		// (get) Token: 0x060019D8 RID: 6616 RVA: 0x000076E5 File Offset: 0x000058E5
 		[global::Cpp2ILInjected.Token(Token = "0x1700067D")]
 		public int Count
 		{
@@ -66,8 +59,6 @@ namespace System.Collections.Concurrent
 			}
 		}
 
-		// Token: 0x17000629 RID: 1577
-		// (get) Token: 0x060019D9 RID: 6617 RVA: 0x000076E8 File Offset: 0x000058E8
 		[global::Cpp2ILInjected.Token(Token = "0x1700067E")]
 		private bool System.Collections.ICollection.IsSynchronized
 		{
@@ -82,8 +73,6 @@ namespace System.Collections.Concurrent
 			}
 		}
 
-		// Token: 0x1700062A RID: 1578
-		// (get) Token: 0x060019DA RID: 6618 RVA: 0x000076EB File Offset: 0x000058EB
 		[global::Cpp2ILInjected.Token(Token = "0x1700067F")]
 		private object System.Collections.ICollection.SyncRoot
 		{
@@ -99,7 +88,6 @@ namespace System.Collections.Concurrent
 			}
 		}
 
-		// Token: 0x060019DB RID: 6619 RVA: 0x000076EE File Offset: 0x000058EE
 		[global::Cpp2ILInjected.Token(Token = "0x6001CE4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E7D60", Offset = "0x18E7D60", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -113,7 +101,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019DC RID: 6620 RVA: 0x000076F1 File Offset: 0x000058F1
 		[global::Cpp2ILInjected.Token(Token = "0x6001CE5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E7DD4", Offset = "0x18E7DD4", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -127,7 +114,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019DD RID: 6621 RVA: 0x000076F4 File Offset: 0x000058F4
 		[global::Cpp2ILInjected.Token(Token = "0x6001CE6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E7EF8", Offset = "0x18E7EF8", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -140,7 +126,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019DE RID: 6622 RVA: 0x000076F7 File Offset: 0x000058F7
 		[global::Cpp2ILInjected.Token(Token = "0x6001CE7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E7FEC", Offset = "0x18E7FEC", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -153,7 +138,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019DF RID: 6623 RVA: 0x000076FA File Offset: 0x000058FA
 		[global::Cpp2ILInjected.Token(Token = "0x6001CE8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E8008", Offset = "0x18E8008", Length = "0x620")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -196,7 +180,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E0 RID: 6624 RVA: 0x000076FD File Offset: 0x000058FD
 		[global::Cpp2ILInjected.Token(Token = "0x6001CE9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E8628", Offset = "0x18E8628", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -211,7 +194,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E1 RID: 6625 RVA: 0x00007700 File Offset: 0x00005900
 		[global::Cpp2ILInjected.Token(Token = "0x6001CEA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E8704", Offset = "0x18E8704", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -225,7 +207,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E2 RID: 6626 RVA: 0x00007703 File Offset: 0x00005903
 		[global::Cpp2ILInjected.Token(Token = "0x6001CEB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E878C", Offset = "0x18E878C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -237,7 +218,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E3 RID: 6627 RVA: 0x00007706 File Offset: 0x00005906
 		[global::Cpp2ILInjected.Token(Token = "0x6001CEC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E87F8", Offset = "0x18E87F8", Length = "0x534")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -271,7 +251,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E4 RID: 6628 RVA: 0x00007709 File Offset: 0x00005909
 		[global::Cpp2ILInjected.Token(Token = "0x6001CED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E8D2C", Offset = "0x18E8D2C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -282,7 +261,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E5 RID: 6629 RVA: 0x0000770C File Offset: 0x0000590C
 		[global::Cpp2ILInjected.Token(Token = "0x6001CEE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E8D38", Offset = "0x18E8D38", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -297,7 +275,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E6 RID: 6630 RVA: 0x0000770F File Offset: 0x0000590F
 		[global::Cpp2ILInjected.Token(Token = "0x6001CEF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E8DA4", Offset = "0x18E8DA4", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -308,7 +285,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E7 RID: 6631 RVA: 0x00007712 File Offset: 0x00005912
 		[global::Cpp2ILInjected.Token(Token = "0x6001CF0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E8DE0", Offset = "0x18E8DE0", Length = "0x338")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -340,7 +316,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E8 RID: 6632 RVA: 0x00007715 File Offset: 0x00005915
 		[global::Cpp2ILInjected.Token(Token = "0x6001CF1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E9118", Offset = "0x18E9118", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -352,7 +327,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019E9 RID: 6633 RVA: 0x00007718 File Offset: 0x00005918
 		[global::Cpp2ILInjected.Token(Token = "0x6001CF2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E91BC", Offset = "0x18E91BC", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -364,7 +338,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019EA RID: 6634 RVA: 0x0000771B File Offset: 0x0000591B
 		[global::Cpp2ILInjected.Token(Token = "0x6001CF3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E923C", Offset = "0x18E923C", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -388,7 +361,6 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x060019EB RID: 6635 RVA: 0x0000771E File Offset: 0x0000591E
 		[global::Cpp2ILInjected.Token(Token = "0x6001CF4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18E9320", Offset = "0x18E9320", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -404,42 +376,34 @@ namespace System.Collections.Concurrent
 			throw null;
 		}
 
-		// Token: 0x04000F73 RID: 3955
 		[global::Cpp2ILInjected.Token(Token = "0x40013CC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private IProducerConsumerCollection<T> _collection;
 
-		// Token: 0x04000F74 RID: 3956
 		[global::Cpp2ILInjected.Token(Token = "0x40013CD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private int _boundedCapacity;
 
-		// Token: 0x04000F75 RID: 3957
 		[global::Cpp2ILInjected.Token(Token = "0x40013CE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private SemaphoreSlim _freeNodes;
 
-		// Token: 0x04000F76 RID: 3958
 		[global::Cpp2ILInjected.Token(Token = "0x40013CF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private SemaphoreSlim _occupiedNodes;
 
-		// Token: 0x04000F77 RID: 3959
 		[global::Cpp2ILInjected.Token(Token = "0x40013D0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private bool _isDisposed;
 
-		// Token: 0x04000F78 RID: 3960
 		[global::Cpp2ILInjected.Token(Token = "0x40013D1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private CancellationTokenSource _consumersCancellationTokenSource;
 
-		// Token: 0x04000F79 RID: 3961
 		[global::Cpp2ILInjected.Token(Token = "0x40013D2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private CancellationTokenSource _producersCancellationTokenSource;
 
-		// Token: 0x04000F7A RID: 3962
 		[global::Cpp2ILInjected.Token(Token = "0x40013D3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private int _currentAdders;

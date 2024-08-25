@@ -1,7 +1,0 @@
-<map id="Terraria.GameContent.UI.ResourceSets.PlayerResourceSetsManager2" name="Terraria.GameContent.UI.ResourceSets.PlayerResourceSetsManager2">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,1215,317,1453"/>
-<area shape="rect" id="Node000002" href="$da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder.html" title=" " alt="" coords="33,624,289,1165"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,1179,164,1214,159,1214,159,1179"/>
-<area shape="rect" id="Node000003" href="$da/d5b/classTerraria_1_1DataStructures_1_1SelectionHolder.html" title=" " alt="" coords="33,5,289,547"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,561,164,624,159,624,159,561"/>
-</map>

@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.GameContent.ObjectInteractions
 {
-	// Token: 0x020005AD RID: 1453
 	[global::Cpp2ILInjected.Token(Token = "0x200084E")]
 	public class ProjectileSmartInteractCandidateProvider : ISmartInteractCandidateProvider
 	{
-		// Token: 0x06003C05 RID: 15365 RVA: 0x0002CB85 File Offset: 0x0002AD85
 		[global::Cpp2ILInjected.Token(Token = "0x6004332")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A0AB0", Offset = "0x7A0AB0", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -22,7 +20,6 @@ namespace Terraria.GameContent.ObjectInteractions
 			throw null;
 		}
 
-		// Token: 0x06003C06 RID: 15366 RVA: 0x0002CB88 File Offset: 0x0002AD88
 		[global::Cpp2ILInjected.Token(Token = "0x6004333")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A0B04", Offset = "0x7A0B04", Length = "0x268")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +38,6 @@ namespace Terraria.GameContent.ObjectInteractions
 			throw null;
 		}
 
-		// Token: 0x06003C07 RID: 15367 RVA: 0x0002CB8B File Offset: 0x0002AD8B
 		[global::Cpp2ILInjected.Token(Token = "0x6004334")]
 		[global::Cpp2ILInjected.Address(RVA = "0x79E980", Offset = "0x79E980", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SmartInteractSystem), Member = ".ctor", ReturnType = typeof(void))]
@@ -53,18 +49,13 @@ namespace Terraria.GameContent.ObjectInteractions
 			throw null;
 		}
 
-		// Token: 0x04006B50 RID: 27472
 		[global::Cpp2ILInjected.Token(Token = "0x400815B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ProjectileSmartInteractCandidateProvider.ReusableCandidate _candidate;
 
-		// Token: 0x020009AC RID: 2476
 		[global::Cpp2ILInjected.Token(Token = "0x200084F")]
 		private class ReusableCandidate : ISmartInteractCandidate
 		{
-			// Token: 0x170008C2 RID: 2242
-			// (get) Token: 0x06004E02 RID: 19970 RVA: 0x0002FC42 File Offset: 0x0002DE42
-			// (set) Token: 0x06004E03 RID: 19971 RVA: 0x0002FC45 File Offset: 0x0002DE45
 			[global::Cpp2ILInjected.Token(Token = "0x170007C9")]
 			public float DistanceFromCursor
 			{
@@ -86,7 +77,6 @@ namespace Terraria.GameContent.ObjectInteractions
 				}
 			}
 
-			// Token: 0x06004E04 RID: 19972 RVA: 0x0002FC48 File Offset: 0x0002DE48
 			[global::Cpp2ILInjected.Token(Token = "0x6004337")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7A0D90", Offset = "0x7A0D90", Length = "0x68")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -98,7 +88,6 @@ namespace Terraria.GameContent.ObjectInteractions
 				throw null;
 			}
 
-			// Token: 0x06004E05 RID: 19973 RVA: 0x0002FC4B File Offset: 0x0002DE4B
 			[global::Cpp2ILInjected.Token(Token = "0x6004338")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7A0D6C", Offset = "0x7A0D6C", Length = "0xC")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -107,7 +96,6 @@ namespace Terraria.GameContent.ObjectInteractions
 				throw null;
 			}
 
-			// Token: 0x06004E06 RID: 19974 RVA: 0x0002FC4E File Offset: 0x0002DE4E
 			[global::Cpp2ILInjected.Token(Token = "0x6004339")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7A0D78", Offset = "0x7A0D78", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -117,13 +105,11 @@ namespace Terraria.GameContent.ObjectInteractions
 				throw null;
 			}
 
-			// Token: 0x04008CC0 RID: 36032
 			[CompilerGenerated]
 			[global::Cpp2ILInjected.Token(Token = "0x400815C")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private float <DistanceFromCursor>k__BackingField;
 
-			// Token: 0x04008CC1 RID: 36033
 			[global::Cpp2ILInjected.Token(Token = "0x400815D")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 			private int _projectileIndexToTarget;

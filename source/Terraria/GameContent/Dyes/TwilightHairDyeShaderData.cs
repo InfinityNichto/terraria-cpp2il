@@ -9,11 +9,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent.Dyes
 {
-	// Token: 0x02000585 RID: 1413
 	[global::Cpp2ILInjected.Token(Token = "0x200081F")]
 	public class TwilightHairDyeShaderData : HairShaderData
 	{
-		// Token: 0x06003B95 RID: 15253 RVA: 0x0002CA56 File Offset: 0x0002AC56
 		[global::Cpp2ILInjected.Token(Token = "0x60042B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x797518", Offset = "0x797518", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DyeInitializer), Member = "LoadHairDyes", ReturnType = typeof(void))]
@@ -28,7 +26,6 @@ namespace Terraria.GameContent.Dyes
 			throw null;
 		}
 
-		// Token: 0x06003B96 RID: 15254 RVA: 0x0002CA59 File Offset: 0x0002AC59
 		[global::Cpp2ILInjected.Token(Token = "0x60042B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x797520", Offset = "0x797520", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

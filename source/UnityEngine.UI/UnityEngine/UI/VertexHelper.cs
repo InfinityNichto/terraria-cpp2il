@@ -6,11 +6,9 @@ using UnityEngine.Pool;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x0200003D RID: 61
 	[global::Cpp2ILInjected.Token(Token = "0x200007F")]
 	public class VertexHelper : IDisposable
 	{
-		// Token: 0x0600048D RID: 1165 RVA: 0x00002DA0 File Offset: 0x00000FA0
 		[global::Cpp2ILInjected.Token(Token = "0x600050E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE07E8", Offset = "0x1FE07E8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Graphic), Member = ".cctor", ReturnType = typeof(void))]
@@ -23,7 +21,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600048E RID: 1166 RVA: 0x00002DA3 File Offset: 0x00000FA3
 		[global::Cpp2ILInjected.Token(Token = "0x600050F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE07F0", Offset = "0x1FE07F0", Length = "0x218")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BaseMeshEffect), Member = "ModifyMesh", MemberParameters = new object[] { typeof(Mesh) }, ReturnType = typeof(void))]
@@ -51,7 +48,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600048F RID: 1167 RVA: 0x00002DA6 File Offset: 0x00000FA6
 		[global::Cpp2ILInjected.Token(Token = "0x6000510")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE0A08", Offset = "0x1FE0A08", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(VertexHelper), Member = ".ctor", MemberParameters = new object[] { typeof(Mesh) }, ReturnType = typeof(void))]
@@ -101,7 +97,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000490 RID: 1168 RVA: 0x00002DA9 File Offset: 0x00000FA9
 		[global::Cpp2ILInjected.Token(Token = "0x6000511")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE0B98", Offset = "0x1FE0B98", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -116,7 +111,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000491 RID: 1169 RVA: 0x00002DAC File Offset: 0x00000FAC
 		[global::Cpp2ILInjected.Token(Token = "0x6000512")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD15D4", Offset = "0x1FD15D4", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Graphic), Member = "DoMeshGeneration", ReturnType = typeof(void))]
@@ -149,8 +143,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x1700013F RID: 319
-		// (get) Token: 0x06000492 RID: 1170 RVA: 0x00002DAF File Offset: 0x00000FAF
 		[global::Cpp2ILInjected.Token(Token = "0x17000152")]
 		public int currentVertCount
 		{
@@ -186,8 +178,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x17000140 RID: 320
-		// (get) Token: 0x06000493 RID: 1171 RVA: 0x00002DB2 File Offset: 0x00000FB2
 		[global::Cpp2ILInjected.Token(Token = "0x17000153")]
 		public int currentIndexCount
 		{
@@ -201,7 +191,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x06000494 RID: 1172 RVA: 0x00002DB5 File Offset: 0x00000FB5
 		[global::Cpp2ILInjected.Token(Token = "0x6000515")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE0DE4", Offset = "0x1FE0DE4", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PositionAsUV1), Member = "ModifyMesh", MemberParameters = new object[] { typeof(VertexHelper) }, ReturnType = typeof(void))]
@@ -216,7 +205,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000495 RID: 1173 RVA: 0x00002DB8 File Offset: 0x00000FB8
 		[global::Cpp2ILInjected.Token(Token = "0x6000516")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE0F28", Offset = "0x1FE0F28", Length = "0x140")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PositionAsUV1), Member = "ModifyMesh", MemberParameters = new object[] { typeof(VertexHelper) }, ReturnType = typeof(void))]
@@ -243,7 +231,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000496 RID: 1174 RVA: 0x00002DBB File Offset: 0x00000FBB
 		[global::Cpp2ILInjected.Token(Token = "0x6000517")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1068", Offset = "0x1FE1068", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -277,7 +264,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000497 RID: 1175 RVA: 0x00002DBE File Offset: 0x00000FBE
 		[global::Cpp2ILInjected.Token(Token = "0x6000518")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE11BC", Offset = "0x1FE11BC", Length = "0x4C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -299,7 +285,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000498 RID: 1176 RVA: 0x00002DC1 File Offset: 0x00000FC1
 		[global::Cpp2ILInjected.Token(Token = "0x6000519")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1680", Offset = "0x1FE1680", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(VertexHelper), Member = "AddVert", MemberParameters = new object[]
@@ -327,7 +312,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000499 RID: 1177 RVA: 0x00002DC4 File Offset: 0x00000FC4
 		[global::Cpp2ILInjected.Token(Token = "0x600051A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD16C8", Offset = "0x1FD16C8", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -375,7 +359,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600049A RID: 1178 RVA: 0x00002DC7 File Offset: 0x00000FC7
 		[global::Cpp2ILInjected.Token(Token = "0x600051B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1790", Offset = "0x1FE1790", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -401,7 +384,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600049B RID: 1179 RVA: 0x00002DCA File Offset: 0x00000FCA
 		[global::Cpp2ILInjected.Token(Token = "0x600051C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD17F8", Offset = "0x1FD17F8", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -447,7 +429,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600049C RID: 1180 RVA: 0x00002DCD File Offset: 0x00000FCD
 		[global::Cpp2ILInjected.Token(Token = "0x600051D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDDAD4", Offset = "0x1FDDAD4", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -479,7 +460,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600049D RID: 1181 RVA: 0x00002DD0 File Offset: 0x00000FD0
 		[global::Cpp2ILInjected.Token(Token = "0x600051E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1824", Offset = "0x1FE1824", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -503,7 +483,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600049E RID: 1182 RVA: 0x00002DD3 File Offset: 0x00000FD3
 		[global::Cpp2ILInjected.Token(Token = "0x600051F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE18C8", Offset = "0x1FE18C8", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Outline), Member = "ModifyMesh", MemberParameters = new object[] { typeof(VertexHelper) }, ReturnType = typeof(void))]
@@ -528,7 +507,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600049F RID: 1183 RVA: 0x00002DD6 File Offset: 0x00000FD6
 		[global::Cpp2ILInjected.Token(Token = "0x6000520")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1918", Offset = "0x1FE1918", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Outline), Member = "ModifyMesh", MemberParameters = new object[] { typeof(VertexHelper) }, ReturnType = typeof(void))]
@@ -553,7 +531,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060004A0 RID: 1184 RVA: 0x00002DD9 File Offset: 0x00000FD9
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000521")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1968", Offset = "0x1FE1968", Length = "0x98")]
@@ -565,60 +542,48 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x04000185 RID: 389
 		[global::Cpp2ILInjected.Token(Token = "0x400025E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private List<Vector3> m_Positions;
 
-		// Token: 0x04000186 RID: 390
 		[global::Cpp2ILInjected.Token(Token = "0x400025F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private List<Color32> m_Colors;
 
-		// Token: 0x04000187 RID: 391
 		[global::Cpp2ILInjected.Token(Token = "0x4000260")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private List<Vector4> m_Uv0S;
 
-		// Token: 0x04000188 RID: 392
 		[global::Cpp2ILInjected.Token(Token = "0x4000261")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private List<Vector4> m_Uv1S;
 
-		// Token: 0x04000189 RID: 393
 		[global::Cpp2ILInjected.Token(Token = "0x4000262")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private List<Vector4> m_Uv2S;
 
-		// Token: 0x0400018A RID: 394
 		[global::Cpp2ILInjected.Token(Token = "0x4000263")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private List<Vector4> m_Uv3S;
 
-		// Token: 0x0400018B RID: 395
 		[global::Cpp2ILInjected.Token(Token = "0x4000264")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private List<Vector3> m_Normals;
 
-		// Token: 0x0400018C RID: 396
 		[global::Cpp2ILInjected.Token(Token = "0x4000265")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private List<Vector4> m_Tangents;
 
-		// Token: 0x0400018D RID: 397
 		[global::Cpp2ILInjected.Token(Token = "0x4000266")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private List<int> m_Indices;
 
-		// Token: 0x0400018E RID: 398
 		[global::Cpp2ILInjected.Token(Token = "0x4000267")]
 		private static readonly Vector4 s_DefaultTangent;
 
-		// Token: 0x0400018F RID: 399
 		[global::Cpp2ILInjected.Token(Token = "0x4000268")]
 		private static readonly Vector3 s_DefaultNormal;
 
-		// Token: 0x04000190 RID: 400
 		[global::Cpp2ILInjected.Token(Token = "0x4000269")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private bool m_ListsInitalized;

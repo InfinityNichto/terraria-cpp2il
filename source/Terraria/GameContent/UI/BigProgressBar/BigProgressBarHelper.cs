@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.GameContent.UI.BigProgressBar
 {
-	// Token: 0x020006F9 RID: 1785
 	[global::Cpp2ILInjected.Token(Token = "0x2000AE7")]
 	public class BigProgressBarHelper
 	{
-		// Token: 0x06004586 RID: 17798 RVA: 0x0002E70F File Offset: 0x0002C90F
 		[global::Cpp2ILInjected.Token(Token = "0x60051F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x937170", Offset = "0x937170", Length = "0x3A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +66,6 @@ namespace Terraria.GameContent.UI.BigProgressBar
 			throw null;
 		}
 
-		// Token: 0x06004587 RID: 17799 RVA: 0x0002E712 File Offset: 0x0002C912
 		[global::Cpp2ILInjected.Token(Token = "0x60051FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x937514", Offset = "0x937514", Length = "0x974")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -165,7 +162,6 @@ namespace Terraria.GameContent.UI.BigProgressBar
 			throw null;
 		}
 
-		// Token: 0x06004588 RID: 17800 RVA: 0x0002E715 File Offset: 0x0002C915
 		[global::Cpp2ILInjected.Token(Token = "0x60051FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x937E88", Offset = "0x937E88", Length = "0x338")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -225,7 +221,6 @@ namespace Terraria.GameContent.UI.BigProgressBar
 			throw null;
 		}
 
-		// Token: 0x06004589 RID: 17801 RVA: 0x0002E718 File Offset: 0x0002C918
 		[global::Cpp2ILInjected.Token(Token = "0x60051FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9381C0", Offset = "0x9381C0", Length = "0xC70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -322,7 +317,6 @@ namespace Terraria.GameContent.UI.BigProgressBar
 			throw null;
 		}
 
-		// Token: 0x0600458A RID: 17802 RVA: 0x0002E71B File Offset: 0x0002C91B
 		[global::Cpp2ILInjected.Token(Token = "0x60051FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x938E30", Offset = "0x938E30", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -332,7 +326,6 @@ namespace Terraria.GameContent.UI.BigProgressBar
 			throw null;
 		}
 
-		// Token: 0x0400710D RID: 28941
 		[global::Cpp2ILInjected.Token(Token = "0x4008A5F")]
 		private const string _bossBarTexturePath = "Images/UI/UI_BossBar";
 	}

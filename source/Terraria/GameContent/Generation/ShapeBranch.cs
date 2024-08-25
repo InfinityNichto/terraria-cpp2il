@@ -11,11 +11,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Generation
 {
-	// Token: 0x020005EA RID: 1514
 	[global::Cpp2ILInjected.Token(Token = "0x20008D7")]
 	public class ShapeBranch : GenShape
 	{
-		// Token: 0x06003D32 RID: 15666 RVA: 0x0002CECA File Offset: 0x0002B0CA
 		[global::Cpp2ILInjected.Token(Token = "0x60045A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BE9D0", Offset = "0x7BE9D0", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -30,7 +28,6 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x06003D33 RID: 15667 RVA: 0x0002CECD File Offset: 0x0002B0CD
 		[global::Cpp2ILInjected.Token(Token = "0x60045A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BEA10", Offset = "0x7BEA10", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -40,7 +37,6 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x06003D34 RID: 15668 RVA: 0x0002CED0 File Offset: 0x0002B0D0
 		[global::Cpp2ILInjected.Token(Token = "0x60045A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BEA38", Offset = "0x7BEA38", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +58,6 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x06003D35 RID: 15669 RVA: 0x0002CED3 File Offset: 0x0002B0D3
 		[global::Cpp2ILInjected.Token(Token = "0x60045A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BEB04", Offset = "0x7BEB04", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -101,7 +96,6 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x06003D36 RID: 15670 RVA: 0x0002CED6 File Offset: 0x0002B0D6
 		[global::Cpp2ILInjected.Token(Token = "0x60045A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BECE8", Offset = "0x7BECE8", Length = "0x438")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -145,7 +139,6 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x06003D37 RID: 15671 RVA: 0x0002CED9 File Offset: 0x0002B0D9
 		[global::Cpp2ILInjected.Token(Token = "0x60045A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BF120", Offset = "0x7BF120", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MahoganyTreeBiome), Member = "Place", MemberParameters = new object[]
@@ -159,22 +152,18 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x04006BD4 RID: 27604
 		[global::Cpp2ILInjected.Token(Token = "0x400820B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private Point _offset;
 
-		// Token: 0x04006BD5 RID: 27605
 		[global::Cpp2ILInjected.Token(Token = "0x400820C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private List<Point> _endPoints;
 
-		// Token: 0x020009F7 RID: 2551
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x20008D8")]
 		private sealed class <>c__DisplayClass5_0
 		{
-			// Token: 0x06004F44 RID: 20292 RVA: 0x0002FFFC File Offset: 0x0002E1FC
 			[global::Cpp2ILInjected.Token(Token = "0x60045AA")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7BECE0", Offset = "0x7BECE0", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -184,7 +173,6 @@ namespace Terraria.GameContent.Generation
 				throw null;
 			}
 
-			// Token: 0x06004F45 RID: 20293 RVA: 0x0002FFFF File Offset: 0x0002E1FF
 			[global::Cpp2ILInjected.Token(Token = "0x60045AB")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7BF128", Offset = "0x7BF128", Length = "0xD8")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -203,22 +191,18 @@ namespace Terraria.GameContent.Generation
 				throw null;
 			}
 
-			// Token: 0x04008CEA RID: 36074
 			[global::Cpp2ILInjected.Token(Token = "0x400820D")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public ShapeBranch <>4__this;
 
-			// Token: 0x04008CEB RID: 36075
 			[global::Cpp2ILInjected.Token(Token = "0x400820E")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public GenAction action;
 
-			// Token: 0x04008CEC RID: 36076
 			[global::Cpp2ILInjected.Token(Token = "0x400820F")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			public Point origin;
 
-			// Token: 0x04008CED RID: 36077
 			[global::Cpp2ILInjected.Token(Token = "0x4008210")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			public Utils.TileActionAttempt <>9__0;

@@ -10,11 +10,9 @@ using Terraria.Graphics.Shaders;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000442 RID: 1090
 	[global::Cpp2ILInjected.Token(Token = "0x200063D")]
 	public class PlayerDrawHelper
 	{
-		// Token: 0x0600313F RID: 12607 RVA: 0x0002ACEF File Offset: 0x00028EEF
 		[global::Cpp2ILInjected.Token(Token = "0x600365C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DE6E4", Offset = "0x13DE6E4", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +49,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x06003140 RID: 12608 RVA: 0x0002ACF2 File Offset: 0x00028EF2
 		[global::Cpp2ILInjected.Token(Token = "0x600365D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DE6F0", Offset = "0x13DE6F0", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,7 +58,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x06003141 RID: 12609 RVA: 0x0002ACF5 File Offset: 0x00028EF5
 		[global::Cpp2ILInjected.Token(Token = "0x600365E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DE71C", Offset = "0x13DE71C", Length = "0x648")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +96,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x06003142 RID: 12610 RVA: 0x0002ACF8 File Offset: 0x00028EF8
 		[global::Cpp2ILInjected.Token(Token = "0x600365F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DED64", Offset = "0x13DED64", Length = "0x648")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -140,7 +135,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x06003143 RID: 12611 RVA: 0x0002ACFB File Offset: 0x00028EFB
 		[global::Cpp2ILInjected.Token(Token = "0x6003660")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DF3AC", Offset = "0x13DF3AC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -150,7 +144,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x06003144 RID: 12612 RVA: 0x0002ACFE File Offset: 0x00028EFE
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003661")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DF3B4", Offset = "0x13DF3B4", Length = "0x68")]
@@ -167,27 +160,20 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x04006325 RID: 25381
 		[global::Cpp2ILInjected.Token(Token = "0x400770F")]
 		public static Color DISPLAY_DOLL_DEFAULT_SKIN_COLOR;
 
-		// Token: 0x02000930 RID: 2352
 		[global::Cpp2ILInjected.Token(Token = "0x200063E")]
 		public enum ShaderConfiguration
 		{
-			// Token: 0x04008ACA RID: 35530
 			[global::Cpp2ILInjected.Token(Token = "0x4007711")]
 			ArmorShader,
-			// Token: 0x04008ACB RID: 35531
 			[global::Cpp2ILInjected.Token(Token = "0x4007712")]
 			HairShader,
-			// Token: 0x04008ACC RID: 35532
 			[global::Cpp2ILInjected.Token(Token = "0x4007713")]
 			TileShader,
-			// Token: 0x04008ACD RID: 35533
 			[global::Cpp2ILInjected.Token(Token = "0x4007714")]
 			TilePaintID,
-			// Token: 0x04008ACE RID: 35534
 			[global::Cpp2ILInjected.Token(Token = "0x4007715")]
 			Misc
 		}

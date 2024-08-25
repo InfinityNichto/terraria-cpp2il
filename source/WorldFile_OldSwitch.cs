@@ -17,11 +17,9 @@ using Terraria.ObjectData;
 using Terraria.Utilities;
 using UnityEngine;
 
-// Token: 0x02000230 RID: 560
 [global::Cpp2ILInjected.Token(Token = "0x20002E2")]
 internal class WorldFile_OldSwitch
 {
-	// Token: 0x06000FB1 RID: 4017 RVA: 0x00024A10 File Offset: 0x00022C10
 	[global::Cpp2ILInjected.Token(Token = "0x60010FA")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA5E1D8", Offset = "0xA5E1D8", Length = "0xFB8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,7 +96,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FB2 RID: 4018 RVA: 0x00024A13 File Offset: 0x00022C13
 	[global::Cpp2ILInjected.Token(Token = "0x60010FB")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA5F190", Offset = "0xA5F190", Length = "0x374")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +120,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FB3 RID: 4019 RVA: 0x00024A16 File Offset: 0x00022C16
 	[global::Cpp2ILInjected.Token(Token = "0x60010FC")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA5F504", Offset = "0xA5F504", Length = "0x3C0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -146,7 +142,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FB4 RID: 4020 RVA: 0x00024A19 File Offset: 0x00022C19
 	[global::Cpp2ILInjected.Token(Token = "0x60010FD")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6267C", Offset = "0xA6267C", Length = "0x118")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -174,7 +169,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FB5 RID: 4021 RVA: 0x00024A1C File Offset: 0x00022C1C
 	[global::Cpp2ILInjected.Token(Token = "0x60010FE")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA62794", Offset = "0xA62794", Length = "0x384")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -205,7 +199,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FB6 RID: 4022 RVA: 0x00024A1F File Offset: 0x00022C1F
 	[global::Cpp2ILInjected.Token(Token = "0x60010FF")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA62F68", Offset = "0xA62F68", Length = "0x58")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -220,7 +213,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FB7 RID: 4023 RVA: 0x00024A22 File Offset: 0x00022C22
 	[global::Cpp2ILInjected.Token(Token = "0x6001100")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA62FC0", Offset = "0xA62FC0", Length = "0x330")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -246,7 +238,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FB8 RID: 4024 RVA: 0x00024A25 File Offset: 0x00022C25
 	[global::Cpp2ILInjected.Token(Token = "0x6001101")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA62B18", Offset = "0xA62B18", Length = "0x450")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -269,7 +260,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FB9 RID: 4025 RVA: 0x00024A28 File Offset: 0x00022C28
 	[global::Cpp2ILInjected.Token(Token = "0x6001102")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA62370", Offset = "0xA62370", Length = "0x30C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -312,7 +302,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FBA RID: 4026 RVA: 0x00024A2B File Offset: 0x00022C2B
 	[global::Cpp2ILInjected.Token(Token = "0x6001103")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA67274", Offset = "0xA67274", Length = "0x154")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -335,7 +324,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FBB RID: 4027 RVA: 0x00024A2E File Offset: 0x00022C2E
 	[global::Cpp2ILInjected.Token(Token = "0x6001104")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA673C8", Offset = "0xA673C8", Length = "0x64")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile_OldSwitch), Member = "LoadWorld_Version2", MemberParameters = new object[] { typeof(BinaryReader) }, ReturnType = typeof(int))]
@@ -347,7 +335,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FBC RID: 4028 RVA: 0x00024A31 File Offset: 0x00022C31
 	[global::Cpp2ILInjected.Token(Token = "0x6001105")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA66B78", Offset = "0xA66B78", Length = "0x6FC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -403,7 +390,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FBD RID: 4029 RVA: 0x00024A34 File Offset: 0x00022C34
 	[global::Cpp2ILInjected.Token(Token = "0x6001106")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA632F0", Offset = "0xA632F0", Length = "0x304")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -424,7 +410,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FBE RID: 4030 RVA: 0x00024A37 File Offset: 0x00022C37
 	[global::Cpp2ILInjected.Token(Token = "0x6001107")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA635F4", Offset = "0xA635F4", Length = "0x1A00")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -470,7 +455,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FBF RID: 4031 RVA: 0x00024A3A File Offset: 0x00022C3A
 	[global::Cpp2ILInjected.Token(Token = "0x6001108")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA64FF4", Offset = "0xA64FF4", Length = "0x1028")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -512,7 +496,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FC0 RID: 4032 RVA: 0x00024A3D File Offset: 0x00022C3D
 	[global::Cpp2ILInjected.Token(Token = "0x6001109")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6601C", Offset = "0xA6601C", Length = "0x4E0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -536,7 +519,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FC1 RID: 4033 RVA: 0x00024A40 File Offset: 0x00022C40
 	[global::Cpp2ILInjected.Token(Token = "0x600110A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA67524", Offset = "0xA67524", Length = "0x1B4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -563,7 +545,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FC2 RID: 4034 RVA: 0x00024A43 File Offset: 0x00022C43
 	[global::Cpp2ILInjected.Token(Token = "0x600110B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA664FC", Offset = "0xA664FC", Length = "0x368")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -590,7 +571,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FC3 RID: 4035 RVA: 0x00024A46 File Offset: 0x00022C46
 	[global::Cpp2ILInjected.Token(Token = "0x600110C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA66B14", Offset = "0xA66B14", Length = "0x64")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -601,7 +581,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FC4 RID: 4036 RVA: 0x00024A49 File Offset: 0x00022C49
 	[global::Cpp2ILInjected.Token(Token = "0x600110D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA66864", Offset = "0xA66864", Length = "0x2B0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -621,7 +600,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FC5 RID: 4037 RVA: 0x00024A4C File Offset: 0x00022C4C
 	[global::Cpp2ILInjected.Token(Token = "0x600110E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6742C", Offset = "0xA6742C", Length = "0xE8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -638,7 +616,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FC6 RID: 4038 RVA: 0x00024A4F File Offset: 0x00022C4F
 	[global::Cpp2ILInjected.Token(Token = "0x600110F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA5F8C4", Offset = "0xA5F8C4", Length = "0x2AAC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -746,7 +723,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FC7 RID: 4039 RVA: 0x00024A52 File Offset: 0x00022C52
 	[global::Cpp2ILInjected.Token(Token = "0x6001110")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA67514", Offset = "0xA67514", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -756,7 +732,6 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x06000FC8 RID: 4040 RVA: 0x00024A55 File Offset: 0x00022C55
 	[global::Cpp2ILInjected.Token(Token = "0x6001111")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA676D8", Offset = "0xA676D8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -766,55 +741,42 @@ internal class WorldFile_OldSwitch
 		throw null;
 	}
 
-	// Token: 0x04001B48 RID: 6984
 	[global::Cpp2ILInjected.Token(Token = "0x40020D5")]
 	public const int WorldVersion_AddGUID = 1000;
 
-	// Token: 0x04001B49 RID: 6985
 	[global::Cpp2ILInjected.Token(Token = "0x40020D6")]
 	public const int WorldVersion_CompressWorld = 1001;
 
-	// Token: 0x04001B4A RID: 6986
 	[global::Cpp2ILInjected.Token(Token = "0x40020D7")]
 	public const int WorldVersion_StoreFrameAsRowsAndColumnsInsteadOfPixels = 1002;
 
-	// Token: 0x04001B4B RID: 6987
 	[global::Cpp2ILInjected.Token(Token = "0x40020D8")]
 	public const int WorldVersion_RemoveSectionPointers = 1003;
 
-	// Token: 0x04001B4C RID: 6988
 	[global::Cpp2ILInjected.Token(Token = "0x40020D9")]
 	public const int WorldVersion_1_3_2 = 1004;
 
-	// Token: 0x04001B4D RID: 6989
 	[global::Cpp2ILInjected.Token(Token = "0x40020DA")]
 	public const int WorldVersion_1_3_3 = 1005;
 
-	// Token: 0x04001B4E RID: 6990
 	[global::Cpp2ILInjected.Token(Token = "0x40020DB")]
 	public const int WorldVersion_1_3_4 = 1007;
 
-	// Token: 0x04001B4F RID: 6991
 	[global::Cpp2ILInjected.Token(Token = "0x40020DC")]
 	public const int WorldVersion_RemapConsoleSpecificItems = 1008;
 
-	// Token: 0x04001B50 RID: 6992
 	[global::Cpp2ILInjected.Token(Token = "0x40020DD")]
 	public const int WorldVersionOneMaxRelease = 87;
 
-	// Token: 0x04001B51 RID: 6993
 	[global::Cpp2ILInjected.Token(Token = "0x40020DE")]
 	public const int WorldFileVersion = 1008;
 
-	// Token: 0x04001B52 RID: 6994
 	[global::Cpp2ILInjected.Token(Token = "0x40020DF")]
 	public const int ApproximateWriteSize = 7000000;
 
-	// Token: 0x04001B53 RID: 6995
 	[global::Cpp2ILInjected.Token(Token = "0x40020E0")]
 	public const int MaximumWriteSize = 16777216;
 
-	// Token: 0x04001B54 RID: 6996
 	[global::Cpp2ILInjected.Token(Token = "0x40020E1")]
 	private static int versionNumber;
 }

@@ -8,11 +8,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.Desert
 {
-	// Token: 0x02000603 RID: 1539
 	[global::Cpp2ILInjected.Token(Token = "0x2000906")]
 	public static class LarvaHoleEntrance
 	{
-		// Token: 0x06003DD4 RID: 15828 RVA: 0x0002D0B0 File Offset: 0x0002B2B0
 		[global::Cpp2ILInjected.Token(Token = "0x6004676")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D9B88", Offset = "0x7D9B88", Length = "0x13C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,7 +43,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DD5 RID: 15829 RVA: 0x0002D0B3 File Offset: 0x0002B2B3
 		[global::Cpp2ILInjected.Token(Token = "0x6004677")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D9CC4", Offset = "0x7D9CC4", Length = "0x7D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

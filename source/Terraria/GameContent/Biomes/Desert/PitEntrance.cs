@@ -7,11 +7,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.Desert
 {
-	// Token: 0x02000604 RID: 1540
 	[global::Cpp2ILInjected.Token(Token = "0x2000907")]
 	public static class PitEntrance
 	{
-		// Token: 0x06003DD6 RID: 15830 RVA: 0x0002D0B6 File Offset: 0x0002B2B6
 		[global::Cpp2ILInjected.Token(Token = "0x6004678")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DA494", Offset = "0x7DA494", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -40,7 +38,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DD7 RID: 15831 RVA: 0x0002D0B9 File Offset: 0x0002B2B9
 		[global::Cpp2ILInjected.Token(Token = "0x6004679")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DA54C", Offset = "0x7DA54C", Length = "0x488")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +70,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DD8 RID: 15832 RVA: 0x0002D0BC File Offset: 0x0002B2BC
 		[global::Cpp2ILInjected.Token(Token = "0x600467A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DA9D4", Offset = "0x7DA9D4", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +80,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DD9 RID: 15833 RVA: 0x0002D0BF File Offset: 0x0002B2BF
 		[global::Cpp2ILInjected.Token(Token = "0x600467B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DAA28", Offset = "0x7DAA28", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PitEntrance), Member = "PlaceAt", MemberParameters = new object[]

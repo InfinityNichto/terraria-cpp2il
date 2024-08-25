@@ -10,11 +10,9 @@ using Terraria.ID;
 using Terraria.IO;
 using Terraria.Utilities;
 
-// Token: 0x0200022D RID: 557
 [global::Cpp2ILInjected.Token(Token = "0x20002DF")]
 internal class Player_OldConsole
 {
-	// Token: 0x06000F8F RID: 3983 RVA: 0x000249AA File Offset: 0x00022BAA
 	[global::Cpp2ILInjected.Token(Token = "0x60010D8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA4FFA4", Offset = "0xA4FFA4", Length = "0x30")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -29,7 +27,6 @@ internal class Player_OldConsole
 		throw null;
 	}
 
-	// Token: 0x06000F90 RID: 3984 RVA: 0x000249AD File Offset: 0x00022BAD
 	[global::Cpp2ILInjected.Token(Token = "0x60010D9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA4FFD4", Offset = "0xA4FFD4", Length = "0x21E0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -97,7 +94,6 @@ internal class Player_OldConsole
 		throw null;
 	}
 
-	// Token: 0x06000F91 RID: 3985 RVA: 0x000249B0 File Offset: 0x00022BB0
 	[global::Cpp2ILInjected.Token(Token = "0x60010DA")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA521B4", Offset = "0xA521B4", Length = "0x40C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,7 +110,6 @@ internal class Player_OldConsole
 		throw null;
 	}
 
-	// Token: 0x06000F92 RID: 3986 RVA: 0x000249B3 File Offset: 0x00022BB3
 	[global::Cpp2ILInjected.Token(Token = "0x60010DB")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA525C0", Offset = "0xA525C0", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -124,7 +119,6 @@ internal class Player_OldConsole
 		throw null;
 	}
 
-	// Token: 0x06000F93 RID: 3987 RVA: 0x000249B6 File Offset: 0x00022BB6
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x60010DC")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA525C8", Offset = "0xA525C8", Length = "0xA4")]
@@ -137,27 +131,21 @@ internal class Player_OldConsole
 		throw null;
 	}
 
-	// Token: 0x04001B30 RID: 6960
 	[global::Cpp2ILInjected.Token(Token = "0x40020BD")]
 	private const int PlayerFileVersion_GUID = 1000;
 
-	// Token: 0x04001B31 RID: 6961
 	[global::Cpp2ILInjected.Token(Token = "0x40020BE")]
 	private const int PlayerFileVersion_1_3_1 = 1001;
 
-	// Token: 0x04001B32 RID: 6962
 	[global::Cpp2ILInjected.Token(Token = "0x40020BF")]
 	private const int PlayerFileVersion_1_3_4 = 1002;
 
-	// Token: 0x04001B33 RID: 6963
 	[global::Cpp2ILInjected.Token(Token = "0x40020C0")]
 	private const int PlayerFileVersion_RemapENGINEItems = 1003;
 
-	// Token: 0x04001B34 RID: 6964
 	[global::Cpp2ILInjected.Token(Token = "0x40020C1")]
 	private const int PlayerFileVersion_RememberDPadShortcut = 1004;
 
-	// Token: 0x04001B35 RID: 6965
 	[global::Cpp2ILInjected.Token(Token = "0x40020C2")]
 	public static byte[] EncryptionKey;
 }

@@ -10,17 +10,55 @@ using UnityEngineInternal;
 
 namespace UnityEngine
 {
-	// Token: 0x02000092 RID: 146
 	[ExcludeFromPreset]
 	[NativeHeader("Runtime/Export/Scripting/GameObject.bindings.h")]
 	[UsedByNativeCode]
 	[global::Cpp2ILInjected.Token(Token = "0x20000A0")]
 	public sealed class GameObject : Object
 	{
-		// Token: 0x060002AC RID: 684 RVA: 0x0000259F File Offset: 0x0000079F
 		[global::Cpp2ILInjected.Token(Token = "0x60002BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158A688", Offset = "0x158A688", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Alert", Member = "GetAlertDelayObject", ReturnType = "AlertDelayer")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TransactionButtonStyleDefinitions", Member = "GetDefinition", MemberParameters = new object[] { typeof(string) }, ReturnType = "TransactionButtonStyle_Definition")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "LocalUser", Member = "GetCamera", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(Camera))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DistortionRenderTargetManager", Member = "get_Instance", ReturnType = "DistortionRenderTargetManager")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DistortionRenderTargetManager", Member = "InitialiseCamera", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "WaterRenderTargetManager", Member = "get_Instance", ReturnType = "WaterRenderTargetManager")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "WaterRenderTargetManager", Member = "InitialiseCamera", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreateUIElementRoot", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(Vector2),
+			"System.Type[]"
+		}, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreatePanel", MemberParameters = new object[] { "UnityEngine.UI.DefaultControls.Resources" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreateButton", MemberParameters = new object[] { "UnityEngine.UI.DefaultControls.Resources" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreateText", MemberParameters = new object[] { "UnityEngine.UI.DefaultControls.Resources" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreateSlider", MemberParameters = new object[] { "UnityEngine.UI.DefaultControls.Resources" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreateScrollbar", MemberParameters = new object[] { "UnityEngine.UI.DefaultControls.Resources" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreateToggle", MemberParameters = new object[] { "UnityEngine.UI.DefaultControls.Resources" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreateInputField", MemberParameters = new object[] { "UnityEngine.UI.DefaultControls.Resources" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreateDropdown", MemberParameters = new object[] { "UnityEngine.UI.DefaultControls.Resources" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "CreateScrollView", MemberParameters = new object[] { "UnityEngine.UI.DefaultControls.Resources" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "CreateBlocker", MemberParameters = new object[] { "UnityEngine.Canvas" }, ReturnType = typeof(GameObject))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "AlphaFadeList", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "SetAlpha", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "UpdateGeometry", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.AspectRatioFitter", Member = "IsComponentValidOnObject", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.BaseInputModule", Member = "HandlePointerExitAndEnter", MemberParameters = new object[]
+		{
+			"UnityEngine.EventSystems.PointerEventData",
+			typeof(GameObject)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.Physics2DRaycaster", Member = "Raycast", MemberParameters = new object[] { "UnityEngine.EventSystems.PointerEventData", "System.Collections.Generic.List`1<RaycastResult>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "VirtualDeviceExample.VirtualDeviceExample", Member = "Update", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MultiplayerWithBindingsExample.PlayerManager", Member = "CreatePlayer", MemberParameters = new object[] { "InControl.InputDevice" }, ReturnType = "MultiplayerWithBindingsExample.Player")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MultiplayerBasicExample.PlayerManager", Member = "CreatePlayer", MemberParameters = new object[] { "InControl.InputDevice" }, ReturnType = "MultiplayerBasicExample.Player")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 92)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Type), Member = "GetTypeFromHandle", MemberParameters = new object[] { typeof(RuntimeTypeHandle) }, ReturnType = typeof(Type))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(GameObject), Member = "GetComponentFastPath", MemberParameters = new object[]
@@ -34,7 +72,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002AD RID: 685
 		[TypeInferenceRule(TypeInferenceRules.TypeReferencedByFirstArgument)]
 		[FreeFunction(Name = "GameObjectBindings::GetComponentFromType", HasExplicitThis = true, ThrowsException = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60002BB")]
@@ -46,7 +83,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern Component GetComponent(Type type);
 
-		// Token: 0x060002AE RID: 686
 		[FreeFunction(Name = "GameObjectBindings::GetComponentFastPath", HasExplicitThis = true, ThrowsException = true)]
 		[NativeWritableSelf]
 		[global::Cpp2ILInjected.Token(Token = "0x60002BC")]
@@ -57,7 +93,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		internal extern void GetComponentFastPath(Type type, IntPtr oneFurtherThanResultValue);
 
-		// Token: 0x060002AF RID: 687
 		[TypeInferenceRule(TypeInferenceRules.TypeReferencedByFirstArgument)]
 		[FreeFunction(Name = "GameObjectBindings::GetComponentInChildren", HasExplicitThis = true, ThrowsException = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60002BD")]
@@ -68,7 +103,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern Component GetComponentInChildren(Type type, bool includeInactive);
 
-		// Token: 0x060002B0 RID: 688 RVA: 0x000025A2 File Offset: 0x000007A2
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x60002BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158A720", Offset = "0x158A720", Length = "0x14")]
@@ -81,7 +115,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002B1 RID: 689 RVA: 0x000025A5 File Offset: 0x000007A5
 		[global::Cpp2ILInjected.Token(Token = "0x60002BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158A734", Offset = "0x158A734", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -98,7 +131,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002B2 RID: 690
 		[TypeInferenceRule(TypeInferenceRules.TypeReferencedByFirstArgument)]
 		[FreeFunction(Name = "GameObjectBindings::GetComponentInParent", HasExplicitThis = true, ThrowsException = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60002C0")]
@@ -109,7 +141,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern Component GetComponentInParent(Type type, bool includeInactive);
 
-		// Token: 0x060002B3 RID: 691 RVA: 0x000025A8 File Offset: 0x000007A8
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x60002C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158A800", Offset = "0x158A800", Length = "0x14")]
@@ -126,7 +157,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002B4 RID: 692 RVA: 0x000025AB File Offset: 0x000007AB
 		[global::Cpp2ILInjected.Token(Token = "0x60002C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158A814", Offset = "0x158A814", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -143,7 +173,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002B5 RID: 693
 		[FreeFunction(Name = "GameObjectBindings::GetComponentsInternal", HasExplicitThis = true, ThrowsException = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60002C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A1D0", Offset = "0x1F7A1D0", Length = "0x84")]
@@ -166,7 +195,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern Array GetComponentsInternal(Type type, bool useSearchTypeAsArrayReturnType, bool recursive, bool includeInactive, bool reverse, object resultList);
 
-		// Token: 0x060002B6 RID: 694 RVA: 0x000025AE File Offset: 0x000007AE
 		[global::Cpp2ILInjected.Token(Token = "0x60002C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158A8E0", Offset = "0x158A8E0", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -192,7 +220,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002B7 RID: 695 RVA: 0x000025B1 File Offset: 0x000007B1
 		[global::Cpp2ILInjected.Token(Token = "0x60002C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158A9B8", Offset = "0x158A9B8", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -218,7 +245,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002B8 RID: 696 RVA: 0x000025B4 File Offset: 0x000007B4
 		[global::Cpp2ILInjected.Token(Token = "0x60002C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158AA60", Offset = "0x158AA60", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -239,7 +265,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002B9 RID: 697 RVA: 0x000025B7 File Offset: 0x000007B7
 		[global::Cpp2ILInjected.Token(Token = "0x60002C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158AB3C", Offset = "0x158AB3C", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -260,7 +285,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002BA RID: 698 RVA: 0x000025BA File Offset: 0x000007BA
 		[global::Cpp2ILInjected.Token(Token = "0x60002C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158AA4C", Offset = "0x158AA4C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -271,7 +295,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002BB RID: 699 RVA: 0x000025BD File Offset: 0x000007BD
 		[global::Cpp2ILInjected.Token(Token = "0x60002C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158ACB8", Offset = "0x158ACB8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -296,7 +319,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002BC RID: 700 RVA: 0x000025C0 File Offset: 0x000007C0
 		[global::Cpp2ILInjected.Token(Token = "0x60002CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158ABDC", Offset = "0x158ABDC", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -317,7 +339,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002BD RID: 701 RVA: 0x000025C3 File Offset: 0x000007C3
 		[global::Cpp2ILInjected.Token(Token = "0x60002CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158AD58", Offset = "0x158AD58", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -336,7 +357,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002BE RID: 702
 		[FreeFunction(Name = "GameObjectBindings::TryGetComponentFastPath", HasExplicitThis = true, ThrowsException = true)]
 		[NativeWritableSelf]
 		[global::Cpp2ILInjected.Token(Token = "0x60002CC")]
@@ -347,7 +367,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		internal extern void TryGetComponentFastPath(Type type, IntPtr oneFurtherThanResultValue);
 
-		// Token: 0x060002BF RID: 703
 		[FreeFunction(Name = "MonoAddComponentWithType", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60002CD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A2A8", Offset = "0x1F7A2A8", Length = "0x44")]
@@ -356,7 +375,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern Component Internal_AddComponentWithType(Type componentType);
 
-		// Token: 0x060002C0 RID: 704 RVA: 0x000025C6 File Offset: 0x000007C6
 		[TypeInferenceRule(TypeInferenceRules.TypeReferencedByFirstArgument)]
 		[global::Cpp2ILInjected.Token(Token = "0x60002CE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A2EC", Offset = "0x1F7A2EC", Length = "0x44")]
@@ -370,7 +388,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002C1 RID: 705 RVA: 0x000025C9 File Offset: 0x000007C9
 		[global::Cpp2ILInjected.Token(Token = "0x60002CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158A59C", Offset = "0x158A59C", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -397,23 +414,96 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x170000A3 RID: 163
-		// (get) Token: 0x060002C2 RID: 706
 		[global::Cpp2ILInjected.Token(Token = "0x170000A5")]
 		public extern Transform transform
 		{
 			[FreeFunction("GameObjectBindings::GetTransform", HasExplicitThis = true)]
 			[global::Cpp2ILInjected.Token(Token = "0x60002D0")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F7A330", Offset = "0x1F7A330", Length = "0x3C")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "FindInChildren", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(string)
+			}, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "FindInChildren", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { typeof(GameObject) }, ReturnType = "T")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "FindInObjectOrChildren", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { typeof(GameObject) }, ReturnType = "T")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "FindInParents", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { typeof(GameObject) }, ReturnType = "T")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "FindInObjectOrParents", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { typeof(GameObject) }, ReturnType = "T")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "SetLayer", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "InstantiatePrefabAsChild", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(GameObject)
+			}, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "GetPath", MemberParameters = new object[] { typeof(GameObject) }, ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GameObjectExtensions", Member = "Parent", MemberParameters = new object[] { typeof(GameObject) }, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.GeometryBufferInstance", Member = ".ctor", MemberParameters = new object[] { typeof(Transform) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.GeometryBufferInstanceList", Member = "SetupParent", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchSprite", Member = "CreateSpriteGameObject", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(Transform)
+			}, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchSprite", Member = "ScaleSpriteInPixels", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(SpriteRenderer),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchSprite", Member = "ScaleSpriteInPercent", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(SpriteRenderer),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchSprite", Member = "get_Position", ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchSprite", Member = "set_Position", MemberParameters = new object[] { typeof(Vector3) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "SetParentAndAlign", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(GameObject)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.DefaultControls", Member = "SetLayerRecursively", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "Show", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.GraphicRaycaster", Member = "Raycast", MemberParameters = new object[] { "UnityEngine.EventSystems.PointerEventData", "System.Collections.Generic.List`1<RaycastResult>" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "UpdateGeometry", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "GenerateCaret", MemberParameters = new object[]
+			{
+				"UnityEngine.UI.VertexHelper",
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Misc", Member = "Destroy", MemberParameters = new object[] { typeof(Object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.ExecuteEvents", Member = "GetEventChain", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				"System.Collections.Generic.IList`1<Transform>"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.ExecuteEvents", Member = "GetEventHandler", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { typeof(GameObject) }, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.BaseInputModule", Member = "FindCommonRoot", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(GameObject)
+			}, ReturnType = typeof(GameObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.EventSystems.BaseInputModule", Member = "HandlePointerExitAndEnter", MemberParameters = new object[]
+			{
+				"UnityEngine.EventSystems.PointerEventData",
+				typeof(GameObject)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "VirtualDeviceExample.VirtualDeviceExample", Member = "Update", ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 48)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
 			[MethodImpl(4096)]
 			get;
 		}
 
-		// Token: 0x170000A4 RID: 164
-		// (get) Token: 0x060002C3 RID: 707
-		// (set) Token: 0x060002C4 RID: 708
 		[global::Cpp2ILInjected.Token(Token = "0x170000A6")]
 		public extern int layer
 		{
@@ -464,7 +554,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x060002C5 RID: 709
 		[NativeMethod(Name = "SetSelfActive")]
 		[global::Cpp2ILInjected.Token(Token = "0x60002D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A3EC", Offset = "0x1F7A3EC", Length = "0x44")]
@@ -514,8 +603,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void SetActive(bool value);
 
-		// Token: 0x170000A5 RID: 165
-		// (get) Token: 0x060002C6 RID: 710
 		[global::Cpp2ILInjected.Token(Token = "0x170000A7")]
 		public extern bool activeSelf
 		{
@@ -536,8 +623,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x170000A6 RID: 166
-		// (get) Token: 0x060002C7 RID: 711
 		[global::Cpp2ILInjected.Token(Token = "0x170000A8")]
 		public extern bool activeInHierarchy
 		{
@@ -578,7 +663,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x060002C8 RID: 712
 		[FreeFunction(Name = "Scripting::SendScriptingMessage", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60002D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A4A8", Offset = "0x1F7A4A8", Length = "0x5C")]
@@ -593,7 +677,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void SendMessage(string methodName, [DefaultValue("null")] object value, [DefaultValue("SendMessageOptions.RequireReceiver")] SendMessageOptions options);
 
-		// Token: 0x060002C9 RID: 713 RVA: 0x000025CC File Offset: 0x000007CC
 		[global::Cpp2ILInjected.Token(Token = "0x60002D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A504", Offset = "0x1F7A504", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Alert", Member = "GetAlertDelayObject", ReturnType = "AlertDelayer")]
@@ -614,7 +697,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002CA RID: 714 RVA: 0x000025CF File Offset: 0x000007CF
 		[global::Cpp2ILInjected.Token(Token = "0x60002D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A5D8", Offset = "0x1F7A5D8", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -625,7 +707,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002CB RID: 715 RVA: 0x000025D2 File Offset: 0x000007D2
 		[global::Cpp2ILInjected.Token(Token = "0x60002D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A65C", Offset = "0x1F7A65C", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -643,7 +724,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002CC RID: 716
 		[FreeFunction(Name = "GameObjectBindings::Internal_CreateGameObject")]
 		[global::Cpp2ILInjected.Token(Token = "0x60002DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A594", Offset = "0x1F7A594", Length = "0x44")]
@@ -652,7 +732,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void Internal_CreateGameObject([Writable] GameObject self, string name);
 
-		// Token: 0x060002CD RID: 717
 		[FreeFunction(Name = "GameObjectBindings::Find")]
 		[global::Cpp2ILInjected.Token(Token = "0x60002DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7A754", Offset = "0x1F7A754", Length = "0x3C")]
@@ -665,8 +744,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern GameObject Find(string name);
 
-		// Token: 0x170000A7 RID: 167
-		// (get) Token: 0x060002CE RID: 718 RVA: 0x000025D5 File Offset: 0x000007D5
 		[global::Cpp2ILInjected.Token(Token = "0x170000A9")]
 		public GameObject gameObject
 		{

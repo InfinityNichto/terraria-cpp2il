@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x0200026C RID: 620
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000309")]
 	public abstract class TripleDES : SymmetricAlgorithm
 	{
-		// Token: 0x0600182A RID: 6186 RVA: 0x00018902 File Offset: 0x00016B02
 		[global::Cpp2ILInjected.Token(Token = "0x6001A44")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B117F4", Offset = "0x1B117F4", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,9 +21,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x17000285 RID: 645
-		// (get) Token: 0x0600182B RID: 6187 RVA: 0x00018905 File Offset: 0x00016B05
-		// (set) Token: 0x0600182C RID: 6188 RVA: 0x00018908 File Offset: 0x00016B08
 		[global::Cpp2ILInjected.Token(Token = "0x170002DB")]
 		public override byte[] Key
 		{
@@ -61,7 +56,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x0600182D RID: 6189 RVA: 0x0001890B File Offset: 0x00016B0B
 		[global::Cpp2ILInjected.Token(Token = "0x6001A47")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B11C60", Offset = "0x1B11C60", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MACTripleDES), Member = ".ctor", ReturnType = typeof(void))]
@@ -78,7 +72,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600182E RID: 6190 RVA: 0x0001890E File Offset: 0x00016B0E
 		[global::Cpp2ILInjected.Token(Token = "0x6001A48")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B11D34", Offset = "0x1B11D34", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -95,7 +88,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600182F RID: 6191 RVA: 0x00018911 File Offset: 0x00016B11
 		[global::Cpp2ILInjected.Token(Token = "0x6001A49")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1193C", Offset = "0x1B1193C", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -137,7 +129,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001830 RID: 6192 RVA: 0x00018914 File Offset: 0x00016B14
 		[global::Cpp2ILInjected.Token(Token = "0x6001A4A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B11E98", Offset = "0x1B11E98", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +147,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001831 RID: 6193 RVA: 0x00018917 File Offset: 0x00016B17
 		[global::Cpp2ILInjected.Token(Token = "0x6001A4B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B11DD4", Offset = "0x1B11DD4", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +156,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001832 RID: 6194 RVA: 0x0001891A File Offset: 0x00016B1A
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001A4C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B11FE4", Offset = "0x1B11FE4", Length = "0x130")]
@@ -183,11 +172,9 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x04000A5A RID: 2650
 		[global::Cpp2ILInjected.Token(Token = "0x4000D34")]
 		private static KeySizes[] s_legalBlockSizes;
 
-		// Token: 0x04000A5B RID: 2651
 		[global::Cpp2ILInjected.Token(Token = "0x4000D35")]
 		private static KeySizes[] s_legalKeySizes;
 	}

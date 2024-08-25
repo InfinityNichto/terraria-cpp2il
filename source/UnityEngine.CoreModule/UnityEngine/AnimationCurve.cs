@@ -10,7 +10,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000033 RID: 51
 	[DefaultMember("Item")]
 	[NativeHeader("Runtime/Math/AnimationCurve.bindings.h")]
 	[RequiredByNativeCode]
@@ -18,7 +17,6 @@ namespace UnityEngine
 	[StructLayout(0)]
 	public class AnimationCurve : IEquatable<AnimationCurve>
 	{
-		// Token: 0x06000047 RID: 71
 		[FreeFunction("AnimationCurveBindings::Internal_Destroy", IsThreadSafe = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x600004F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AA94", Offset = "0x1F6AA94", Length = "0x3C")]
@@ -27,7 +25,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void Internal_Destroy(IntPtr ptr);
 
-		// Token: 0x06000048 RID: 72
 		[FreeFunction("AnimationCurveBindings::Internal_Create", IsThreadSafe = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000050")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AAD0", Offset = "0x1F6AAD0", Length = "0x3C")]
@@ -36,7 +33,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern IntPtr Internal_Create(Keyframe[] keys);
 
-		// Token: 0x06000049 RID: 73
 		[FreeFunction("AnimationCurveBindings::Internal_Equals", HasExplicitThis = true, IsThreadSafe = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000051")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AB0C", Offset = "0x1F6AB0C", Length = "0x44")]
@@ -45,7 +41,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern bool Internal_Equals(IntPtr other);
 
-		// Token: 0x0600004A RID: 74 RVA: 0x000020F2 File Offset: 0x000002F2
 		[global::Cpp2ILInjected.Token(Token = "0x6000052")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AB50", Offset = "0x1F6AB50", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -57,17 +52,183 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600004B RID: 75
 		[ThreadSafe]
 		[global::Cpp2ILInjected.Token(Token = "0x6000053")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AC0C", Offset = "0x1F6AC0C", Length = "0x4C")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIAxis", Member = "IsCursorOverExpanded", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			"Axis_Layout",
+			"Microsoft.Xna.Framework.Vector2&",
+			"Microsoft.Xna.Framework.Vector2&",
+			"Microsoft.Xna.Framework.Vector2&",
+			typeof(bool),
+			typeof(ref float),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIAxis", Member = "IsCursorOver", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			"Axis_Layout",
+			"Microsoft.Xna.Framework.Vector2&",
+			"Microsoft.Xna.Framework.Vector2&",
+			"Microsoft.Xna.Framework.Vector2&",
+			typeof(bool),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISlider", Member = "Draw", MemberParameters = new object[]
+		{
+			"Slider_Layout",
+			typeof(bool),
+			typeof(ref float),
+			"GUISlider.DragState",
+			"GUISlider.DrawBackingHandler",
+			typeof(bool),
+			typeof(int),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIAmmo", Member = "ItemDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUICoins", Member = "ItemDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIDisplayDoll", Member = "ArmourDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIDisplayDoll", Member = "ArmourDyeDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIDisplayDoll", Member = "AccessoryDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIDisplayDoll", Member = "AccessoryDyeDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEquipment", Member = "ArmourDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEquipment", Member = "ArmourDyeDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEquipment", Member = "ArmourVanityDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEquipment", Member = "AccessoryDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEquipment", Member = "AccessoryDyeDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEquipment", Member = "AccessoryVanityDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEquipment", Member = "QuickSlotDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEquipment", Member = "QuickSlotDyeDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIHatRack", Member = "HatDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIHatRack", Member = "HatDyeDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPageIcons", Member = "LeftDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPageIcons", Member = "RightDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIVirtualInputController", Member = "Update", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIWorldOperationProgress", Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIZoom", Member = "GetDefaultWorldZoomScale", ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIZoom", Member = "UpdatePixelZoom", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "GetDefaultVerticalResolution", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "UpdatePixelScale", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DoDraw_UpdateCameraPosition", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchStickControl", Member = "TouchMoved", MemberParameters = new object[] { "InControl.Touch" }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 38)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
 		[MethodImpl(4096)]
 		public extern float Evaluate(float time);
 
-		// Token: 0x17000009 RID: 9
-		// (get) Token: 0x0600004C RID: 76 RVA: 0x000020F5 File Offset: 0x000002F5
 		[global::Cpp2ILInjected.Token(Token = "0x1700000B")]
 		public Keyframe[] keys
 		{
@@ -90,8 +251,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x1700000A RID: 10
-		// (get) Token: 0x0600004D RID: 77
 		[global::Cpp2ILInjected.Token(Token = "0x1700000C")]
 		public extern int length
 		{
@@ -106,7 +265,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x0600004E RID: 78
 		[FreeFunction("AnimationCurveBindings::GetKeys", HasExplicitThis = true, IsThreadSafe = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000056")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AC94", Offset = "0x1F6AC94", Length = "0x3C")]
@@ -115,7 +273,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern Keyframe[] GetKeys();
 
-		// Token: 0x0600004F RID: 79 RVA: 0x000020F8 File Offset: 0x000002F8
 		[global::Cpp2ILInjected.Token(Token = "0x6000057")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AD0C", Offset = "0x1F6AD0C", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +285,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000050 RID: 80 RVA: 0x000020FB File Offset: 0x000002FB
 		[global::Cpp2ILInjected.Token(Token = "0x6000058")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AE08", Offset = "0x1F6AE08", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -153,7 +309,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000051 RID: 81 RVA: 0x000020FE File Offset: 0x000002FE
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000059")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AE58", Offset = "0x1F6AE58", Length = "0x4C")]
@@ -168,7 +323,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000052 RID: 82 RVA: 0x00002101 File Offset: 0x00000301
 		[global::Cpp2ILInjected.Token(Token = "0x600005A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AEA4", Offset = "0x1F6AEA4", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +334,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000053 RID: 83 RVA: 0x00002104 File Offset: 0x00000304
 		[global::Cpp2ILInjected.Token(Token = "0x600005B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6AF6C", Offset = "0x1F6AF6C", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -192,7 +345,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000054 RID: 84 RVA: 0x00002107 File Offset: 0x00000307
 		[global::Cpp2ILInjected.Token(Token = "0x600005C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6B034", Offset = "0x1F6B034", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -202,7 +354,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x040000B8 RID: 184
 		[global::Cpp2ILInjected.Token(Token = "0x40000BC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal IntPtr m_Ptr;

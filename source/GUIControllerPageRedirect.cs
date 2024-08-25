@@ -4,12 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Terraria;
 
-// Token: 0x02000099 RID: 153
 [global::Cpp2ILInjected.Token(Token = "0x20000D3")]
 public class GUIControllerPageRedirect
 {
-	// Token: 0x1700006E RID: 110
-	// (get) Token: 0x060004AF RID: 1199 RVA: 0x00022952 File Offset: 0x00020B52
 	[global::Cpp2ILInjected.Token(Token = "0x17000093")]
 	public GUIControllerAmmo Ammo
 	{
@@ -48,8 +45,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x1700006F RID: 111
-	// (get) Token: 0x060004B0 RID: 1200 RVA: 0x00022955 File Offset: 0x00020B55
 	[global::Cpp2ILInjected.Token(Token = "0x17000094")]
 	public GUIControllerCoins Coins
 	{
@@ -89,14 +84,82 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000070 RID: 112
-	// (get) Token: 0x060004B1 RID: 1201 RVA: 0x00022958 File Offset: 0x00020B58
 	[global::Cpp2ILInjected.Token(Token = "0x17000095")]
 	public GUIControllerEquipment Equipment
 	{
 		[global::Cpp2ILInjected.Token(Token = "0x600054B")]
 		[global::Cpp2ILInjected.Address(RVA = "0xB1F270", Offset = "0xB1F270", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerPageRedirect), Member = "GetCategoryFromNavigationItem", MemberParameters = new object[] { typeof(GUIControllerItem) }, ReturnType = typeof(GUIPageIcons.Category))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerPageRedirect), Member = "GetItemController", MemberParameters = new object[] { typeof(GUIPageIcons.Category) }, ReturnType = typeof(GUIControllerItem))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerPageRedirect), Member = "NavigateIntoRight", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(GUIControllerItem))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfoToggles), Member = "CloseExpandedFilter", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfoToggles), Member = "DrawToggles", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIDisplayDoll), Member = "DrawUnequipButton", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "ArmourDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "ArmourDyeDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "ArmourVanityDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "AccessoryDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "AccessoryDyeDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "AccessoryVanityDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "QuickSlotDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "QuickSlotDyeDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "DrawUnequipButton", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "DrawHideShowButton", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "get_HasFocus", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentLoadout), Member = "CloseExpandedFilter", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentLoadout), Member = "DrawToggles", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHatRack), Member = "DrawUnequipButton", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InterfaceProfile_Layout), Member = "Draw", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 43)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
 		get
@@ -105,8 +168,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000071 RID: 113
-	// (get) Token: 0x060004B2 RID: 1202 RVA: 0x0002295B File Offset: 0x00020B5B
 	[global::Cpp2ILInjected.Token(Token = "0x17000096")]
 	public GUIControllerInventory Inventory
 	{
@@ -153,8 +214,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000072 RID: 114
-	// (get) Token: 0x060004B3 RID: 1203 RVA: 0x0002295E File Offset: 0x00020B5E
 	[global::Cpp2ILInjected.Token(Token = "0x17000097")]
 	public GUIControllerHousing Housing
 	{
@@ -182,8 +241,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000073 RID: 115
-	// (get) Token: 0x060004B4 RID: 1204 RVA: 0x00022961 File Offset: 0x00020B61
 	[global::Cpp2ILInjected.Token(Token = "0x17000098")]
 	public GUIControllerPVP PVP
 	{
@@ -207,8 +264,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000074 RID: 116
-	// (get) Token: 0x060004B5 RID: 1205 RVA: 0x00022964 File Offset: 0x00020B64
 	[global::Cpp2ILInjected.Token(Token = "0x17000099")]
 	public GUIControllerShop Shop
 	{
@@ -241,8 +296,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000075 RID: 117
-	// (get) Token: 0x060004B6 RID: 1206 RVA: 0x00022967 File Offset: 0x00020B67
 	[global::Cpp2ILInjected.Token(Token = "0x1700009A")]
 	public GUIControllerTrash Trash
 	{
@@ -267,8 +320,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000076 RID: 118
-	// (get) Token: 0x060004B7 RID: 1207 RVA: 0x0002296A File Offset: 0x00020B6A
 	[global::Cpp2ILInjected.Token(Token = "0x1700009B")]
 	public GUIControllerChest Chest
 	{
@@ -301,8 +352,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000077 RID: 119
-	// (get) Token: 0x060004B8 RID: 1208 RVA: 0x0002296D File Offset: 0x00020B6D
 	[global::Cpp2ILInjected.Token(Token = "0x1700009C")]
 	public GUIControllerCrafting Crafting
 	{
@@ -333,8 +382,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000078 RID: 120
-	// (get) Token: 0x060004B9 RID: 1209 RVA: 0x00022970 File Offset: 0x00020B70
 	[global::Cpp2ILInjected.Token(Token = "0x1700009D")]
 	public GUIControllerItemDuplication Duplicate
 	{
@@ -364,8 +411,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x17000079 RID: 121
-	// (get) Token: 0x060004BA RID: 1210 RVA: 0x00022973 File Offset: 0x00020B73
 	[global::Cpp2ILInjected.Token(Token = "0x1700009E")]
 	public GUIControllerDisplayDoll DisplayDoll
 	{
@@ -397,8 +442,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x1700007A RID: 122
-	// (get) Token: 0x060004BB RID: 1211 RVA: 0x00022976 File Offset: 0x00020B76
 	[global::Cpp2ILInjected.Token(Token = "0x1700009F")]
 	public GUIControllerHatRack HatRack
 	{
@@ -430,8 +473,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x1700007B RID: 123
-	// (get) Token: 0x060004BC RID: 1212 RVA: 0x00022979 File Offset: 0x00020B79
 	[global::Cpp2ILInjected.Token(Token = "0x170000A0")]
 	public GUIControllerReforge Reforge
 	{
@@ -457,8 +498,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x1700007C RID: 124
-	// (get) Token: 0x060004BD RID: 1213 RVA: 0x0002297C File Offset: 0x00020B7C
 	[global::Cpp2ILInjected.Token(Token = "0x170000A1")]
 	public GUIControllerCraftingGuide CraftingGuide
 	{
@@ -484,7 +523,6 @@ public class GUIControllerPageRedirect
 		}
 	}
 
-	// Token: 0x060004BE RID: 1214 RVA: 0x0002297F File Offset: 0x00020B7F
 	[global::Cpp2ILInjected.Token(Token = "0x6000558")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1F750", Offset = "0xB1F750", Length = "0x1A4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -496,7 +534,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004BF RID: 1215 RVA: 0x00022982 File Offset: 0x00020B82
 	[global::Cpp2ILInjected.Token(Token = "0x6000559")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1F8F4", Offset = "0xB1F8F4", Length = "0x58")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "RefreshRightItems", ReturnType = typeof(void))]
@@ -508,7 +545,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004C0 RID: 1216 RVA: 0x00022985 File Offset: 0x00020B85
 	[global::Cpp2ILInjected.Token(Token = "0x600055A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1FB1C", Offset = "0xB1FB1C", Length = "0x194")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -535,7 +571,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004C1 RID: 1217 RVA: 0x00022988 File Offset: 0x00020B88
 	[global::Cpp2ILInjected.Token(Token = "0x600055B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1F94C", Offset = "0xB1F94C", Length = "0x1D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -571,7 +606,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004C2 RID: 1218 RVA: 0x0002298B File Offset: 0x00020B8B
 	[global::Cpp2ILInjected.Token(Token = "0x600055C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1FCB0", Offset = "0xB1FCB0", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -580,7 +614,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004C3 RID: 1219 RVA: 0x0002298E File Offset: 0x00020B8E
 	[global::Cpp2ILInjected.Token(Token = "0x600055D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1FCB8", Offset = "0xB1FCB8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -589,7 +622,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004C4 RID: 1220 RVA: 0x00022991 File Offset: 0x00020B91
 	[global::Cpp2ILInjected.Token(Token = "0x600055E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1A44C", Offset = "0xB1A44C", Length = "0x4EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -615,7 +647,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004C5 RID: 1221 RVA: 0x00022994 File Offset: 0x00020B94
 	[global::Cpp2ILInjected.Token(Token = "0x600055F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1FCC0", Offset = "0xB1FCC0", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -624,7 +655,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004C6 RID: 1222 RVA: 0x00022997 File Offset: 0x00020B97
 	[global::Cpp2ILInjected.Token(Token = "0x6000560")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1FCC8", Offset = "0xB1FCC8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -633,7 +663,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004C7 RID: 1223 RVA: 0x0002299A File Offset: 0x00020B9A
 	[global::Cpp2ILInjected.Token(Token = "0x6000561")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB19A0C", Offset = "0xB19A0C", Length = "0x108")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -655,7 +684,6 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x060004C8 RID: 1224 RVA: 0x0002299D File Offset: 0x00020B9D
 	[global::Cpp2ILInjected.Token(Token = "0x6000562")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1FCD0", Offset = "0xB1FCD0", Length = "0x724")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -683,182 +711,146 @@ public class GUIControllerPageRedirect
 		throw null;
 	}
 
-	// Token: 0x040002F6 RID: 758
 	[global::Cpp2ILInjected.Token(Token = "0x4000480")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public GUIControllerLeftPageSelector LeftSelector;
 
-	// Token: 0x040002F7 RID: 759
 	[global::Cpp2ILInjected.Token(Token = "0x4000481")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public GUIControllerRightPageSelector RightSelector;
 
-	// Token: 0x040002F8 RID: 760
 	[global::Cpp2ILInjected.Token(Token = "0x4000482")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public GUIControllerAmmo AmmoNormal;
 
-	// Token: 0x040002F9 RID: 761
 	[global::Cpp2ILInjected.Token(Token = "0x4000483")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public GUIControllerAmmo4Page Ammo4Page;
 
-	// Token: 0x040002FA RID: 762
 	[global::Cpp2ILInjected.Token(Token = "0x4000484")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public GUIControllerCoins CoinsNormal;
 
-	// Token: 0x040002FB RID: 763
 	[global::Cpp2ILInjected.Token(Token = "0x4000485")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	public GUIControllerCoins4Page Coins4Page;
 
-	// Token: 0x040002FC RID: 764
 	[global::Cpp2ILInjected.Token(Token = "0x4000486")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	public GUIControllerEquipment EquipmentNormal;
 
-	// Token: 0x040002FD RID: 765
 	[global::Cpp2ILInjected.Token(Token = "0x4000487")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	public GUIControllerEquipment4Page Equipment4Page;
 
-	// Token: 0x040002FE RID: 766
 	[global::Cpp2ILInjected.Token(Token = "0x4000488")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private GUIControllerInventory InventoryNormal;
 
-	// Token: 0x040002FF RID: 767
 	[global::Cpp2ILInjected.Token(Token = "0x4000489")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private GUIControllerInventory4Page Inventory4Page;
 
-	// Token: 0x04000300 RID: 768
 	[global::Cpp2ILInjected.Token(Token = "0x400048A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private GUIControllerHousing HousingNormal;
 
-	// Token: 0x04000301 RID: 769
 	[global::Cpp2ILInjected.Token(Token = "0x400048B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private GUIControllerHousing4Page Housing4Page;
 
-	// Token: 0x04000302 RID: 770
 	[global::Cpp2ILInjected.Token(Token = "0x400048C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private GUIControllerPVP PVPNormal;
 
-	// Token: 0x04000303 RID: 771
 	[global::Cpp2ILInjected.Token(Token = "0x400048D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	private GUIControllerPVP4Page PVP4Page;
 
-	// Token: 0x04000304 RID: 772
 	[global::Cpp2ILInjected.Token(Token = "0x400048E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private GUIControllerShop ShopNormal;
 
-	// Token: 0x04000305 RID: 773
 	[global::Cpp2ILInjected.Token(Token = "0x400048F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	private GUIControllerShop4Page Shop4Page;
 
-	// Token: 0x04000306 RID: 774
 	[global::Cpp2ILInjected.Token(Token = "0x4000490")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 	private GUIControllerTrash TrashNormal;
 
-	// Token: 0x04000307 RID: 775
 	[global::Cpp2ILInjected.Token(Token = "0x4000491")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 	private GUIControllerTrash4Page Trash4Page;
 
-	// Token: 0x04000308 RID: 776
 	[global::Cpp2ILInjected.Token(Token = "0x4000492")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 	private GUIControllerChest ChestNormal;
 
-	// Token: 0x04000309 RID: 777
 	[global::Cpp2ILInjected.Token(Token = "0x4000493")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 	private GUIControllerChest4Page Chest4Page;
 
-	// Token: 0x0400030A RID: 778
 	[global::Cpp2ILInjected.Token(Token = "0x4000494")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 	private GUIControllerCrafting CraftingNormal;
 
-	// Token: 0x0400030B RID: 779
 	[global::Cpp2ILInjected.Token(Token = "0x4000495")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 	private GUIControllerCrafting4Page Crafting4Page;
 
-	// Token: 0x0400030C RID: 780
 	[global::Cpp2ILInjected.Token(Token = "0x4000496")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xC0")]
 	private GUIControllerItemDuplication DuplicateNormal;
 
-	// Token: 0x0400030D RID: 781
 	[global::Cpp2ILInjected.Token(Token = "0x4000497")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xC8")]
 	private GUIControllerItemDuplication4Page Duplicate4Page;
 
-	// Token: 0x0400030E RID: 782
 	[global::Cpp2ILInjected.Token(Token = "0x4000498")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xD0")]
 	private GUIControllerDisplayDoll DisplayDollNormal;
 
-	// Token: 0x0400030F RID: 783
 	[global::Cpp2ILInjected.Token(Token = "0x4000499")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xD8")]
 	private GUIControllerDisplayDoll4Page DisplayDoll4Page;
 
-	// Token: 0x04000310 RID: 784
 	[global::Cpp2ILInjected.Token(Token = "0x400049A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xE0")]
 	private GUIControllerHatRack HatRackNormal;
 
-	// Token: 0x04000311 RID: 785
 	[global::Cpp2ILInjected.Token(Token = "0x400049B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xE8")]
 	private GUIControllerHatRack4Page HatRack4Page;
 
-	// Token: 0x04000312 RID: 786
 	[global::Cpp2ILInjected.Token(Token = "0x400049C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xF0")]
 	private GUIControllerReforge ReforgeNormal;
 
-	// Token: 0x04000313 RID: 787
 	[global::Cpp2ILInjected.Token(Token = "0x400049D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xF8")]
 	private GUIControllerReforge4Page Reforge4Page;
 
-	// Token: 0x04000314 RID: 788
 	[global::Cpp2ILInjected.Token(Token = "0x400049E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x100")]
 	public GUIControllerResearchPage4Page ResearchPage;
 
-	// Token: 0x04000315 RID: 789
 	[global::Cpp2ILInjected.Token(Token = "0x400049F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x108")]
 	public GUIControllerDresser Dresser;
 
-	// Token: 0x04000316 RID: 790
 	[global::Cpp2ILInjected.Token(Token = "0x40004A0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x110")]
 	public GUIControllerHairStylist Hair;
 
-	// Token: 0x04000317 RID: 791
 	[global::Cpp2ILInjected.Token(Token = "0x40004A1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x118")]
 	private GUIControllerCraftingGuide CraftingGuideNormal;
 
-	// Token: 0x04000318 RID: 792
 	[global::Cpp2ILInjected.Token(Token = "0x40004A2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x120")]
 	private GUIControllerCraftingGuide4Page CraftingGuide4Page;
 
-	// Token: 0x04000319 RID: 793
 	[global::Cpp2ILInjected.Token(Token = "0x40004A3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x128")]
 	public GUIControllerChat Chat;

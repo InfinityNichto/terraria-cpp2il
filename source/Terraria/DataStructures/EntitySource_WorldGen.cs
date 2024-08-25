@@ -6,11 +6,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000462 RID: 1122
 	[global::Cpp2ILInjected.Token(Token = "0x200065E")]
 	public class EntitySource_WorldGen : IEntitySource
 	{
-		// Token: 0x060031DF RID: 12767 RVA: 0x0002AECF File Offset: 0x000290CF
 		[global::Cpp2ILInjected.Token(Token = "0x60036FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D6CC", Offset = "0x141D6CC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen.<>c", Member = "<GenerateWorld>b__277_79", MemberParameters = new object[]

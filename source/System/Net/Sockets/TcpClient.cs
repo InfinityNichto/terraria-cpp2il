@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.Sockets
 {
-	// Token: 0x02000216 RID: 534
 	[global::Cpp2ILInjected.Token(Token = "0x2000305")]
 	public class TcpClient : IDisposable
 	{
-		// Token: 0x060011D3 RID: 4563 RVA: 0x00006125 File Offset: 0x00004325
 		[global::Cpp2ILInjected.Token(Token = "0x600140C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E32A88", Offset = "0x1E32A88", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Telepathy.Client", Member = "Connect", MemberParameters = new object[]
@@ -29,7 +27,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011D4 RID: 4564 RVA: 0x00006128 File Offset: 0x00004328
 		[global::Cpp2ILInjected.Token(Token = "0x600140D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E32AA8", Offset = "0x1E32AA8", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,7 +56,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011D5 RID: 4565 RVA: 0x0000612B File Offset: 0x0000432B
 		[global::Cpp2ILInjected.Token(Token = "0x600140E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E32C10", Offset = "0x1E32C10", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpListener), Member = "AcceptTcpClient", ReturnType = typeof(TcpClient))]
@@ -71,9 +67,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x17000462 RID: 1122
-		// (get) Token: 0x060011D6 RID: 4566 RVA: 0x0000612E File Offset: 0x0000432E
-		// (set) Token: 0x060011D7 RID: 4567 RVA: 0x00006131 File Offset: 0x00004331
 		[global::Cpp2ILInjected.Token(Token = "0x1700048B")]
 		public Socket Client
 		{
@@ -93,8 +86,6 @@ namespace System.Net.Sockets
 			}
 		}
 
-		// Token: 0x17000463 RID: 1123
-		// (get) Token: 0x060011D8 RID: 4568 RVA: 0x00006134 File Offset: 0x00004334
 		[global::Cpp2ILInjected.Token(Token = "0x1700048C")]
 		public bool Connected
 		{
@@ -116,7 +107,6 @@ namespace System.Net.Sockets
 			}
 		}
 
-		// Token: 0x060011D9 RID: 4569 RVA: 0x00006137 File Offset: 0x00004337
 		[global::Cpp2ILInjected.Token(Token = "0x6001412")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E32C70", Offset = "0x1E32C70", Length = "0x668")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -162,7 +152,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011DA RID: 4570 RVA: 0x0000613A File Offset: 0x0000433A
 		[global::Cpp2ILInjected.Token(Token = "0x6001413")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E333C4", Offset = "0x1E333C4", Length = "0x198")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -186,7 +175,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011DB RID: 4571 RVA: 0x0000613D File Offset: 0x0000433D
 		[global::Cpp2ILInjected.Token(Token = "0x6001414")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E332D8", Offset = "0x1E332D8", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -212,7 +200,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011DC RID: 4572 RVA: 0x00006140 File Offset: 0x00004340
 		[global::Cpp2ILInjected.Token(Token = "0x6001415")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3355C", Offset = "0x1E3355C", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -229,7 +216,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011DD RID: 4573 RVA: 0x00006143 File Offset: 0x00004343
 		[global::Cpp2ILInjected.Token(Token = "0x6001416")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E335C0", Offset = "0x1E335C0", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -240,7 +226,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011DE RID: 4574 RVA: 0x00006146 File Offset: 0x00004346
 		[global::Cpp2ILInjected.Token(Token = "0x6001417")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E33600", Offset = "0x1E33600", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest.<CreateConnectionAsync>d__86", Member = "MoveNext", ReturnType = typeof(void))]
@@ -269,7 +254,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011DF RID: 4575 RVA: 0x00006149 File Offset: 0x00004349
 		[global::Cpp2ILInjected.Token(Token = "0x6001418")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E33764", Offset = "0x1E33764", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -325,7 +309,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011E0 RID: 4576 RVA: 0x0000614C File Offset: 0x0000434C
 		[global::Cpp2ILInjected.Token(Token = "0x6001419")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E33888", Offset = "0x1E33888", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -346,7 +329,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011E1 RID: 4577 RVA: 0x0000614F File Offset: 0x0000434F
 		[global::Cpp2ILInjected.Token(Token = "0x600141A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3392C", Offset = "0x1E3392C", Length = "0x194")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -361,7 +343,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011E2 RID: 4578 RVA: 0x00006152 File Offset: 0x00004352
 		[global::Cpp2ILInjected.Token(Token = "0x600141B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E33AC0", Offset = "0x1E33AC0", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Telepathy.Client", Member = "Disconnect", ReturnType = typeof(void))]
@@ -378,7 +359,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x060011E3 RID: 4579 RVA: 0x00006155 File Offset: 0x00004355
 		[global::Cpp2ILInjected.Token(Token = "0x600141C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E33AD0", Offset = "0x1E33AD0", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -390,8 +370,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x17000464 RID: 1124
-		// (set) Token: 0x060011E4 RID: 4580 RVA: 0x00006158 File Offset: 0x00004358
 		[global::Cpp2ILInjected.Token(Token = "0x1700048D")]
 		public int SendTimeout
 		{
@@ -415,8 +393,6 @@ namespace System.Net.Sockets
 			}
 		}
 
-		// Token: 0x17000465 RID: 1125
-		// (set) Token: 0x060011E5 RID: 4581 RVA: 0x0000615B File Offset: 0x0000435B
 		[global::Cpp2ILInjected.Token(Token = "0x1700048E")]
 		public bool NoDelay
 		{
@@ -442,7 +418,6 @@ namespace System.Net.Sockets
 			}
 		}
 
-		// Token: 0x060011E6 RID: 4582 RVA: 0x0000615E File Offset: 0x0000435E
 		[global::Cpp2ILInjected.Token(Token = "0x600141F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E32BA4", Offset = "0x1E32BA4", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = ".ctor", MemberParameters = new object[] { typeof(AddressFamily) }, ReturnType = typeof(void))]
@@ -459,27 +434,22 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x04000CD7 RID: 3287
 		[global::Cpp2ILInjected.Token(Token = "0x40010D0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Socket m_ClientSocket;
 
-		// Token: 0x04000CD8 RID: 3288
 		[global::Cpp2ILInjected.Token(Token = "0x40010D1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private bool m_Active;
 
-		// Token: 0x04000CD9 RID: 3289
 		[global::Cpp2ILInjected.Token(Token = "0x40010D2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private NetworkStream m_DataStream;
 
-		// Token: 0x04000CDA RID: 3290
 		[global::Cpp2ILInjected.Token(Token = "0x40010D3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private AddressFamily m_Family;
 
-		// Token: 0x04000CDB RID: 3291
 		[global::Cpp2ILInjected.Token(Token = "0x40010D4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		private bool m_CleanedUp;

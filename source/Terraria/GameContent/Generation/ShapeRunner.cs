@@ -9,11 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Generation
 {
-	// Token: 0x020005ED RID: 1517
 	[global::Cpp2ILInjected.Token(Token = "0x20008DB")]
 	public class ShapeRunner : GenShape
 	{
-		// Token: 0x06003D3E RID: 15678 RVA: 0x0002CEEE File Offset: 0x0002B0EE
 		[global::Cpp2ILInjected.Token(Token = "0x60045B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BFD80", Offset = "0x7BFD80", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MiningExplosivesBiome), Member = "Place", MemberParameters = new object[]
@@ -28,7 +26,6 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x06003D3F RID: 15679 RVA: 0x0002CEF1 File Offset: 0x0002B0F1
 		[global::Cpp2ILInjected.Token(Token = "0x60045B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BFDCC", Offset = "0x7BFDCC", Length = "0x644")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,17 +88,14 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x04006BDC RID: 27612
 		[global::Cpp2ILInjected.Token(Token = "0x4008217")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private double _startStrength;
 
-		// Token: 0x04006BDD RID: 27613
 		[global::Cpp2ILInjected.Token(Token = "0x4008218")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private int _steps;
 
-		// Token: 0x04006BDE RID: 27614
 		[global::Cpp2ILInjected.Token(Token = "0x4008219")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private Vector2D _startVelocity;

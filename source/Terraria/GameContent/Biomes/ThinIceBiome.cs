@@ -9,11 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005FE RID: 1534
 	[global::Cpp2ILInjected.Token(Token = "0x20008FC")]
 	public class ThinIceBiome : MicroBiome
 	{
-		// Token: 0x06003DB5 RID: 15797 RVA: 0x0002D053 File Offset: 0x0002B253
 		[global::Cpp2ILInjected.Token(Token = "0x6004650")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D4BE4", Offset = "0x7D4BE4", Length = "0x67C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -92,7 +90,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003DB6 RID: 15798 RVA: 0x0002D056 File Offset: 0x0002B256
 		[global::Cpp2ILInjected.Token(Token = "0x6004651")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D5260", Offset = "0x7D5260", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

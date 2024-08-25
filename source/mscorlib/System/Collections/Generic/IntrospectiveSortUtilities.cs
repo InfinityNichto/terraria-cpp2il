@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections.Generic
 {
-	// Token: 0x02000530 RID: 1328
 	[global::Cpp2ILInjected.Token(Token = "0x200064E")]
 	internal static class IntrospectiveSortUtilities
 	{
-		// Token: 0x06002CBE RID: 11454 RVA: 0x0001C19C File Offset: 0x0001A39C
 		[global::Cpp2ILInjected.Token(Token = "0x600314F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C15080", Offset = "0x1C15080", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +41,6 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x06002CBF RID: 11455 RVA: 0x0001C19F File Offset: 0x0001A39F
 		[global::Cpp2ILInjected.Token(Token = "0x6003150")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C150B4", Offset = "0x1C150B4", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Array.SorterObjectArray", Member = "IntrospectiveSort", MemberParameters = new object[]

@@ -4,11 +4,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 
-// Token: 0x02000064 RID: 100
 [global::Cpp2ILInjected.Token(Token = "0x2000091")]
 public class GUIControllerInterfaceEdit : GUIControllerItem
 {
-	// Token: 0x060002EB RID: 747 RVA: 0x00022412 File Offset: 0x00020612
 	[global::Cpp2ILInjected.Token(Token = "0x6000385")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9C4540", Offset = "0x9C4540", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -17,7 +15,6 @@ public class GUIControllerInterfaceEdit : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x060002EC RID: 748 RVA: 0x00022415 File Offset: 0x00020615
 	[global::Cpp2ILInjected.Token(Token = "0x6000386")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9C4548", Offset = "0x9C4548", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -26,7 +23,6 @@ public class GUIControllerInterfaceEdit : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x060002ED RID: 749 RVA: 0x00022418 File Offset: 0x00020618
 	[global::Cpp2ILInjected.Token(Token = "0x6000387")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9C4550", Offset = "0x9C4550", Length = "0x1C0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -54,7 +50,6 @@ public class GUIControllerInterfaceEdit : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x060002EE RID: 750 RVA: 0x0002241B File Offset: 0x0002061B
 	[global::Cpp2ILInjected.Token(Token = "0x6000388")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9C4710", Offset = "0x9C4710", Length = "0x520")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +65,6 @@ public class GUIControllerInterfaceEdit : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x060002EF RID: 751 RVA: 0x0002241E File Offset: 0x0002061E
 	[global::Cpp2ILInjected.Token(Token = "0x6000389")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9C4C30", Offset = "0x9C4C30", Length = "0x46C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -102,7 +96,6 @@ public class GUIControllerInterfaceEdit : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x060002F0 RID: 752 RVA: 0x00022421 File Offset: 0x00020621
 	[global::Cpp2ILInjected.Token(Token = "0x600038A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9C509C", Offset = "0x9C509C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = ".ctor", ReturnType = typeof(void))]
@@ -113,37 +106,30 @@ public class GUIControllerInterfaceEdit : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x04000243 RID: 579
 	[global::Cpp2ILInjected.Token(Token = "0x4000366")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public int EditControl;
 
-	// Token: 0x04000244 RID: 580
 	[global::Cpp2ILInjected.Token(Token = "0x4000367")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private int EditProfile;
 
-	// Token: 0x04000245 RID: 581
 	[global::Cpp2ILInjected.Token(Token = "0x4000368")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int EditTemplate;
 
-	// Token: 0x04000246 RID: 582
 	[global::Cpp2ILInjected.Token(Token = "0x4000369")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	public int AdjustColumn;
 
-	// Token: 0x04000247 RID: 583
 	[global::Cpp2ILInjected.Token(Token = "0x400036A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public int AdjustRow;
 
-	// Token: 0x04000248 RID: 584
 	[global::Cpp2ILInjected.Token(Token = "0x400036B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	public int PageColumn;
 
-	// Token: 0x04000249 RID: 585
 	[global::Cpp2ILInjected.Token(Token = "0x400036C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public int PageRow;

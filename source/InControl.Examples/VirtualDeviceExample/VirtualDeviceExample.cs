@@ -7,11 +7,9 @@ using UnityEngine;
 
 namespace VirtualDeviceExample
 {
-	// Token: 0x02000003 RID: 3
 	[global::Cpp2ILInjected.Token(Token = "0x2000003")]
 	public class VirtualDeviceExample : MonoBehaviour
 	{
-		// Token: 0x06000008 RID: 8 RVA: 0x00002065 File Offset: 0x00000265
 		[global::Cpp2ILInjected.Token(Token = "0x6000008")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198C730", Offset = "0x198C730", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -28,7 +26,6 @@ namespace VirtualDeviceExample
 			throw null;
 		}
 
-		// Token: 0x06000009 RID: 9 RVA: 0x00002068 File Offset: 0x00000268
 		[global::Cpp2ILInjected.Token(Token = "0x6000009")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198C804", Offset = "0x198C804", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -39,7 +36,6 @@ namespace VirtualDeviceExample
 			throw null;
 		}
 
-		// Token: 0x0600000A RID: 10 RVA: 0x0000206B File Offset: 0x0000026B
 		[global::Cpp2ILInjected.Token(Token = "0x600000A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198C860", Offset = "0x198C860", Length = "0x3A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,7 +68,6 @@ namespace VirtualDeviceExample
 			throw null;
 		}
 
-		// Token: 0x0600000B RID: 11 RVA: 0x0000206E File Offset: 0x0000026E
 		[global::Cpp2ILInjected.Token(Token = "0x600000B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198CC08", Offset = "0x198CC08", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -82,7 +77,6 @@ namespace VirtualDeviceExample
 			throw null;
 		}
 
-		// Token: 0x0600000C RID: 12 RVA: 0x00002071 File Offset: 0x00000271
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x600000C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198CC10", Offset = "0x198CC10", Length = "0x5C")]
@@ -94,17 +88,14 @@ namespace VirtualDeviceExample
 			throw null;
 		}
 
-		// Token: 0x04000007 RID: 7
 		[global::Cpp2ILInjected.Token(Token = "0x4000007")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public GameObject leftObject;
 
-		// Token: 0x04000008 RID: 8
 		[global::Cpp2ILInjected.Token(Token = "0x4000008")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public GameObject rightObject;
 
-		// Token: 0x04000009 RID: 9
 		[global::Cpp2ILInjected.Token(Token = "0x4000009")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private VirtualDevice virtualDevice;

@@ -5,12 +5,9 @@ using UnityEngine.SocialPlatforms;
 
 namespace UnityEngine
 {
-	// Token: 0x02000002 RID: 2
 	[global::Cpp2ILInjected.Token(Token = "0x2000002")]
 	public static class Social
 	{
-		// Token: 0x17000001 RID: 1
-		// (get) Token: 0x06000001 RID: 1 RVA: 0x00002050 File Offset: 0x00000250
 		[global::Cpp2ILInjected.Token(Token = "0x17000001")]
 		public static ISocialPlatform Active
 		{
@@ -24,8 +21,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000002 RID: 2
-		// (get) Token: 0x06000002 RID: 2 RVA: 0x00002053 File Offset: 0x00000253
 		[global::Cpp2ILInjected.Token(Token = "0x17000002")]
 		public static ILocalUser localUser
 		{

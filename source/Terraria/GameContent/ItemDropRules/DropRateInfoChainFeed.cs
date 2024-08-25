@@ -6,11 +6,9 @@ using Terraria.GameContent.Bestiary;
 
 namespace Terraria.GameContent.ItemDropRules
 {
-	// Token: 0x020005C3 RID: 1475
 	[global::Cpp2ILInjected.Token(Token = "0x200086F")]
 	public struct DropRateInfoChainFeed
 	{
-		// Token: 0x06003C69 RID: 15465 RVA: 0x0002CCA8 File Offset: 0x0002AEA8
 		[global::Cpp2ILInjected.Token(Token = "0x60043D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A723C", Offset = "0x7A723C", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -52,7 +50,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003C6A RID: 15466 RVA: 0x0002CCAB File Offset: 0x0002AEAB
 		[global::Cpp2ILInjected.Token(Token = "0x60043D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A732C", Offset = "0x7A732C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BestiaryDatabase), Member = "ExtractDropsForNPC", MemberParameters = new object[]
@@ -66,7 +63,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003C6B RID: 15467 RVA: 0x0002CCAE File Offset: 0x0002AEAE
 		[global::Cpp2ILInjected.Token(Token = "0x60043D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A7338", Offset = "0x7A7338", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DropBasedOnExpertMode), Member = "ReportDroprates", MemberParameters = new object[]
@@ -120,12 +116,10 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x04006B92 RID: 27538
 		[global::Cpp2ILInjected.Token(Token = "0x40081B4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public float parentDroprateChance;
 
-		// Token: 0x04006B93 RID: 27539
 		[global::Cpp2ILInjected.Token(Token = "0x40081B5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		public List<IItemDropRuleCondition> conditions;

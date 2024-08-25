@@ -8,11 +8,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using Terraria.GameContent.UI.BigProgressBar;
 
-// Token: 0x020000CA RID: 202
 [global::Cpp2ILInjected.Token(Token = "0x2000124")]
 public class GUIBossBar
 {
-	// Token: 0x06000694 RID: 1684 RVA: 0x00022F01 File Offset: 0x00021101
 	[global::Cpp2ILInjected.Token(Token = "0x6000787")]
 	[global::Cpp2ILInjected.Address(RVA = "0x131EF48", Offset = "0x131EF48", Length = "0x790")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -119,7 +117,6 @@ public class GUIBossBar
 		throw null;
 	}
 
-	// Token: 0x06000695 RID: 1685 RVA: 0x00022F04 File Offset: 0x00021104
 	[global::Cpp2ILInjected.Token(Token = "0x6000788")]
 	[global::Cpp2ILInjected.Address(RVA = "0x131F6D8", Offset = "0x131F6D8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]

@@ -1,9 +1,0 @@
-<map id="System.Security.Principal.GenericPrincipal" name="System.Security.Principal.GenericPrincipal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="206,168,399,263"/>
-<area shape="rect" id="Node000002" href="$de/d83/classglobal_1_1SystemSecurity_1_1Claims_1_1ClaimsPrincipal.html" title=" " alt="" coords="5,15,181,95"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,102,243,166,239,170,154,106"/>
-<area shape="rect" id="Node000003" href="$db/dba/interfaceSystem_1_1Security_1_1Principal_1_1IIdentity.html" title=" " alt="" coords="205,5,400,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="305,106,305,152,300,152,300,106"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="424,23,475,88"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="432,90,390,146,377,159,373,155,386,142,428,87"/>
-</map>

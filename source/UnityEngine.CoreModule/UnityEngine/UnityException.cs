@@ -7,13 +7,11 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200009E RID: 158
 	[RequiredByNativeCode]
 	[global::Cpp2ILInjected.Token(Token = "0x20000AD")]
 	[Serializable]
 	public class UnityException : Exception
 	{
-		// Token: 0x0600030B RID: 779 RVA: 0x00002659 File Offset: 0x00000859
 		[global::Cpp2ILInjected.Token(Token = "0x600031A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7CB3C", Offset = "0x1F7CB3C", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,7 +23,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600030C RID: 780 RVA: 0x0000265C File Offset: 0x0000085C
 		[global::Cpp2ILInjected.Token(Token = "0x600031B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6FAC8", Offset = "0x1F6FAC8", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -130,7 +127,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600030D RID: 781 RVA: 0x0000265F File Offset: 0x0000085F
 		[global::Cpp2ILInjected.Token(Token = "0x600031C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7CBBC", Offset = "0x1F7CBBC", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

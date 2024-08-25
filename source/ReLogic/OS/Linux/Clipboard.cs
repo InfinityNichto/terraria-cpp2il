@@ -7,11 +7,9 @@ using ReLogic.OS.Base;
 
 namespace ReLogic.OS.Linux
 {
-	// Token: 0x0200072B RID: 1835
 	[global::Cpp2ILInjected.Token(Token = "0x2000B2A")]
 	internal class Clipboard : Clipboard
 	{
-		// Token: 0x060046B1 RID: 18097 RVA: 0x0002EA51 File Offset: 0x0002CC51
 		[global::Cpp2ILInjected.Token(Token = "0x6005366")]
 		[global::Cpp2ILInjected.Address(RVA = "0x943BEC", Offset = "0x943BEC", Length = "0x2DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +30,6 @@ namespace ReLogic.OS.Linux
 			throw null;
 		}
 
-		// Token: 0x060046B2 RID: 18098 RVA: 0x0002EA54 File Offset: 0x0002CC54
 		[global::Cpp2ILInjected.Token(Token = "0x6005367")]
 		[global::Cpp2ILInjected.Address(RVA = "0x943EC8", Offset = "0x943EC8", Length = "0x290")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -53,7 +50,6 @@ namespace ReLogic.OS.Linux
 			throw null;
 		}
 
-		// Token: 0x060046B3 RID: 18099 RVA: 0x0002EA57 File Offset: 0x0002CC57
 		[global::Cpp2ILInjected.Token(Token = "0x6005368")]
 		[global::Cpp2ILInjected.Address(RVA = "0x944158", Offset = "0x944158", Length = "0x310")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +76,6 @@ namespace ReLogic.OS.Linux
 			throw null;
 		}
 
-		// Token: 0x060046B4 RID: 18100 RVA: 0x0002EA5A File Offset: 0x0002CC5A
 		[global::Cpp2ILInjected.Token(Token = "0x6005369")]
 		[global::Cpp2ILInjected.Address(RVA = "0x944468", Offset = "0x944468", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

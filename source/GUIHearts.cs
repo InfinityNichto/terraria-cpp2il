@@ -8,11 +8,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using UnityEngine;
 
-// Token: 0x020000E2 RID: 226
 [global::Cpp2ILInjected.Token(Token = "0x2000146")]
 public class GUIHearts
 {
-	// Token: 0x060007D9 RID: 2009 RVA: 0x000232D0 File Offset: 0x000214D0
 	[global::Cpp2ILInjected.Token(Token = "0x60008D3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x803B10", Offset = "0x803B10", Length = "0x238")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -46,8 +44,6 @@ public class GUIHearts
 		throw null;
 	}
 
-	// Token: 0x170000B9 RID: 185
-	// (get) Token: 0x060007DA RID: 2010 RVA: 0x000232D3 File Offset: 0x000214D3
 	[global::Cpp2ILInjected.Token(Token = "0x170000DE")]
 	public ItemGrid_Layout HeartsGrid
 	{
@@ -65,7 +61,6 @@ public class GUIHearts
 		}
 	}
 
-	// Token: 0x060007DB RID: 2011 RVA: 0x000232D6 File Offset: 0x000214D6
 	[global::Cpp2ILInjected.Token(Token = "0x60008D5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x803E18", Offset = "0x803E18", Length = "0x20C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,7 +99,6 @@ public class GUIHearts
 		throw null;
 	}
 
-	// Token: 0x060007DC RID: 2012 RVA: 0x000232D9 File Offset: 0x000214D9
 	[global::Cpp2ILInjected.Token(Token = "0x60008D6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80413C", Offset = "0x80413C", Length = "0x3D8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -154,7 +148,6 @@ public class GUIHearts
 		throw null;
 	}
 
-	// Token: 0x060007DD RID: 2013 RVA: 0x000232DC File Offset: 0x000214DC
 	[global::Cpp2ILInjected.Token(Token = "0x60008D7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x804514", Offset = "0x804514", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -164,7 +157,6 @@ public class GUIHearts
 		throw null;
 	}
 
-	// Token: 0x060007DE RID: 2014 RVA: 0x000232DF File Offset: 0x000214DF
 	[global::Cpp2ILInjected.Token(Token = "0x60008D8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x804560", Offset = "0x804560", Length = "0x1EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -194,7 +186,6 @@ public class GUIHearts
 		throw null;
 	}
 
-	// Token: 0x060007DF RID: 2015 RVA: 0x000232E2 File Offset: 0x000214E2
 	[global::Cpp2ILInjected.Token(Token = "0x60008D9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80474C", Offset = "0x80474C", Length = "0xD3C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -265,7 +256,6 @@ public class GUIHearts
 		throw null;
 	}
 
-	// Token: 0x060007E0 RID: 2016 RVA: 0x000232E5 File Offset: 0x000214E5
 	[global::Cpp2ILInjected.Token(Token = "0x60008DA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x804024", Offset = "0x804024", Length = "0x8C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -279,7 +269,6 @@ public class GUIHearts
 		throw null;
 	}
 
-	// Token: 0x060007E1 RID: 2017 RVA: 0x000232E8 File Offset: 0x000214E8
 	[global::Cpp2ILInjected.Token(Token = "0x60008DB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x8040B0", Offset = "0x8040B0", Length = "0x8C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -293,7 +282,6 @@ public class GUIHearts
 		throw null;
 	}
 
-	// Token: 0x060007E2 RID: 2018 RVA: 0x000232EB File Offset: 0x000214EB
 	[global::Cpp2ILInjected.Token(Token = "0x60008DC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x805488", Offset = "0x805488", Length = "0x378")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -322,127 +310,101 @@ public class GUIHearts
 		throw null;
 	}
 
-	// Token: 0x04000544 RID: 1348
 	[global::Cpp2ILInjected.Token(Token = "0x400079B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public GUIHearts.ResourceSet ActiveSet;
 
-	// Token: 0x04000545 RID: 1349
 	[global::Cpp2ILInjected.Token(Token = "0x400079C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float heartLife;
 
-	// Token: 0x04000546 RID: 1350
 	[global::Cpp2ILInjected.Token(Token = "0x400079D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int heartCountOriginal;
 
-	// Token: 0x04000547 RID: 1351
 	[global::Cpp2ILInjected.Token(Token = "0x400079E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private int heartCount;
 
-	// Token: 0x04000548 RID: 1352
 	[global::Cpp2ILInjected.Token(Token = "0x400079F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private int fruitHearts;
 
-	// Token: 0x04000549 RID: 1353
 	[global::Cpp2ILInjected.Token(Token = "0x40007A0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private int lastHeartCount;
 
-	// Token: 0x0400054A RID: 1354
 	[global::Cpp2ILInjected.Token(Token = "0x40007A1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private CachedGridLayoutSettings LayoutCache;
 
-	// Token: 0x0400054B RID: 1355
 	[global::Cpp2ILInjected.Token(Token = "0x40007A2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private Microsoft.Xna.Framework.Vector2 lastAnchorPoint;
 
-	// Token: 0x0400054C RID: 1356
 	[global::Cpp2ILInjected.Token(Token = "0x40007A3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private Rectangle HeartsRegion;
 
-	// Token: 0x0400054D RID: 1357
 	[global::Cpp2ILInjected.Token(Token = "0x40007A4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private Microsoft.Xna.Framework.Vector2 heartBackingSingleOffset;
 
-	// Token: 0x0400054E RID: 1358
 	[global::Cpp2ILInjected.Token(Token = "0x40007A5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private Microsoft.Xna.Framework.Vector2 heartBackingLeftOffset;
 
-	// Token: 0x0400054F RID: 1359
 	[global::Cpp2ILInjected.Token(Token = "0x40007A6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private Microsoft.Xna.Framework.Vector2 heartBackingRightOffset;
 
-	// Token: 0x04000550 RID: 1360
 	[global::Cpp2ILInjected.Token(Token = "0x40007A7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private Microsoft.Xna.Framework.Vector2 heartBackingRightFancyOffset;
 
-	// Token: 0x04000551 RID: 1361
 	[global::Cpp2ILInjected.Token(Token = "0x40007A8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private Microsoft.Xna.Framework.Vector2 heartBackingMidOffset;
 
-	// Token: 0x04000552 RID: 1362
 	[global::Cpp2ILInjected.Token(Token = "0x40007A9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private Microsoft.Xna.Framework.Vector2 heartBackingLeftBarOffset;
 
-	// Token: 0x04000553 RID: 1363
 	[global::Cpp2ILInjected.Token(Token = "0x40007AA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	private Microsoft.Xna.Framework.Vector2 heartBackingMidBarOffset;
 
-	// Token: 0x04000554 RID: 1364
 	[global::Cpp2ILInjected.Token(Token = "0x40007AB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private Microsoft.Xna.Framework.Vector2 heartBackingRightBarOffset;
 
-	// Token: 0x04000555 RID: 1365
 	[global::Cpp2ILInjected.Token(Token = "0x40007AC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	private float TimeSinceChange;
 
-	// Token: 0x04000556 RID: 1366
 	[global::Cpp2ILInjected.Token(Token = "0x40007AD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x8C")]
 	private int LastValue;
 
-	// Token: 0x04000557 RID: 1367
 	[global::Cpp2ILInjected.Token(Token = "0x40007AE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 	private GUIItemGrid.GetItemScaleHandler heartScale;
 
-	// Token: 0x04000558 RID: 1368
 	[global::Cpp2ILInjected.Token(Token = "0x40007AF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 	private GUIItemGrid.CursorOver heartOver;
 
-	// Token: 0x04000559 RID: 1369
 	[global::Cpp2ILInjected.Token(Token = "0x40007B0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 	private GUIItemGrid.DrawItemHandler heartDraw;
 
-	// Token: 0x020007C5 RID: 1989
 	[global::Cpp2ILInjected.Token(Token = "0x2000147")]
 	public enum ResourceSet
 	{
-		// Token: 0x04007A22 RID: 31266
 		[global::Cpp2ILInjected.Token(Token = "0x40007B2")]
 		Default,
-		// Token: 0x04007A23 RID: 31267
 		[global::Cpp2ILInjected.Token(Token = "0x40007B3")]
 		New,
-		// Token: 0x04007A24 RID: 31268
 		[global::Cpp2ILInjected.Token(Token = "0x40007B4")]
 		HorizontalBars
 	}

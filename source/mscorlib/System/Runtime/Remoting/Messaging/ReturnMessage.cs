@@ -11,12 +11,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Messaging
 {
-	// Token: 0x02000317 RID: 791
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20003BD")]
 	public class ReturnMessage : IMethodReturnMessage, IMethodMessage, IMessage, IInternalMessage
 	{
-		// Token: 0x06001C5F RID: 7263 RVA: 0x0001945D File Offset: 0x0001765D
 		[global::Cpp2ILInjected.Token(Token = "0x6001E98")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B35638", Offset = "0x1B35638", Length = "0x168")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +39,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x06001C60 RID: 7264 RVA: 0x00019460 File Offset: 0x00017660
 		[global::Cpp2ILInjected.Token(Token = "0x6001E99")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B354F0", Offset = "0x1B354F0", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -75,8 +72,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x1700039E RID: 926
-		// (get) Token: 0x06001C61 RID: 7265 RVA: 0x00019463 File Offset: 0x00017663
 		[global::Cpp2ILInjected.Token(Token = "0x170003FC")]
 		public int ArgCount
 		{
@@ -89,8 +84,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x1700039F RID: 927
-		// (get) Token: 0x06001C62 RID: 7266 RVA: 0x00019466 File Offset: 0x00017666
 		[global::Cpp2ILInjected.Token(Token = "0x170003FD")]
 		public object[] Args
 		{
@@ -103,8 +96,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003A0 RID: 928
-		// (get) Token: 0x06001C63 RID: 7267 RVA: 0x00019469 File Offset: 0x00017669
 		[global::Cpp2ILInjected.Token(Token = "0x170003FE")]
 		public LogicalCallContext LogicalCallContext
 		{
@@ -119,8 +110,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003A1 RID: 929
-		// (get) Token: 0x06001C64 RID: 7268 RVA: 0x0001946C File Offset: 0x0001766C
 		[global::Cpp2ILInjected.Token(Token = "0x170003FF")]
 		public global::System.Reflection.MethodBase MethodBase
 		{
@@ -133,8 +122,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003A2 RID: 930
-		// (get) Token: 0x06001C65 RID: 7269 RVA: 0x0001946F File Offset: 0x0001766F
 		[global::Cpp2ILInjected.Token(Token = "0x17000400")]
 		public string MethodName
 		{
@@ -153,8 +140,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003A3 RID: 931
-		// (get) Token: 0x06001C66 RID: 7270 RVA: 0x00019472 File Offset: 0x00017672
 		[global::Cpp2ILInjected.Token(Token = "0x17000401")]
 		public object MethodSignature
 		{
@@ -174,8 +159,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003A4 RID: 932
-		// (get) Token: 0x06001C67 RID: 7271 RVA: 0x00019475 File Offset: 0x00017675
 		[global::Cpp2ILInjected.Token(Token = "0x17000402")]
 		public virtual global::System.Collections.IDictionary Properties
 		{
@@ -190,8 +173,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003A5 RID: 933
-		// (get) Token: 0x06001C68 RID: 7272 RVA: 0x00019478 File Offset: 0x00017678
 		[global::Cpp2ILInjected.Token(Token = "0x17000403")]
 		public string TypeName
 		{
@@ -210,9 +191,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003A6 RID: 934
-		// (get) Token: 0x06001C69 RID: 7273 RVA: 0x0001947B File Offset: 0x0001767B
-		// (set) Token: 0x06001C6A RID: 7274 RVA: 0x0001947E File Offset: 0x0001767E
 		[global::Cpp2ILInjected.Token(Token = "0x17000404")]
 		public string Uri
 		{
@@ -232,9 +210,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003A7 RID: 935
-		// (get) Token: 0x06001C6B RID: 7275 RVA: 0x00019481 File Offset: 0x00017681
-		// (set) Token: 0x06001C6C RID: 7276 RVA: 0x00019484 File Offset: 0x00017684
 		[global::Cpp2ILInjected.Token(Token = "0x17000405")]
 		private string System.Runtime.Remoting.Messaging.IInternalMessage.Uri
 		{
@@ -254,7 +229,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x06001C6D RID: 7277 RVA: 0x00019487 File Offset: 0x00017687
 		[global::Cpp2ILInjected.Token(Token = "0x6001EA6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B4E9F4", Offset = "0x1B4E9F4", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -263,8 +237,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x170003A8 RID: 936
-		// (get) Token: 0x06001C6E RID: 7278 RVA: 0x0001948A File Offset: 0x0001768A
 		[global::Cpp2ILInjected.Token(Token = "0x17000406")]
 		public global::System.Exception Exception
 		{
@@ -277,8 +249,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003A9 RID: 937
-		// (get) Token: 0x06001C6F RID: 7279 RVA: 0x0001948D File Offset: 0x0001768D
 		[global::Cpp2ILInjected.Token(Token = "0x17000407")]
 		public object[] OutArgs
 		{
@@ -298,8 +268,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003AA RID: 938
-		// (get) Token: 0x06001C70 RID: 7280 RVA: 0x00019490 File Offset: 0x00017690
 		[global::Cpp2ILInjected.Token(Token = "0x17000408")]
 		public virtual object ReturnValue
 		{
@@ -312,9 +280,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x170003AB RID: 939
-		// (get) Token: 0x06001C71 RID: 7281 RVA: 0x00019493 File Offset: 0x00017693
-		// (set) Token: 0x06001C72 RID: 7282 RVA: 0x00019496 File Offset: 0x00017696
 		[global::Cpp2ILInjected.Token(Token = "0x17000409")]
 		private Identity System.Runtime.Remoting.Messaging.IInternalMessage.TargetIdentity
 		{
@@ -334,67 +299,54 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x04000C72 RID: 3186
 		[global::Cpp2ILInjected.Token(Token = "0x4000F61")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private object[] _outArgs;
 
-		// Token: 0x04000C73 RID: 3187
 		[global::Cpp2ILInjected.Token(Token = "0x4000F62")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private object[] _args;
 
-		// Token: 0x04000C74 RID: 3188
 		[global::Cpp2ILInjected.Token(Token = "0x4000F63")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private LogicalCallContext _callCtx;
 
-		// Token: 0x04000C75 RID: 3189
 		[global::Cpp2ILInjected.Token(Token = "0x4000F64")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private object _returnValue;
 
-		// Token: 0x04000C76 RID: 3190
 		[global::Cpp2ILInjected.Token(Token = "0x4000F65")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private string _uri;
 
-		// Token: 0x04000C77 RID: 3191
 		[global::Cpp2ILInjected.Token(Token = "0x4000F66")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private global::System.Exception _exception;
 
-		// Token: 0x04000C78 RID: 3192
 		[global::Cpp2ILInjected.Token(Token = "0x4000F67")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private global::System.Reflection.MethodBase _methodBase;
 
-		// Token: 0x04000C79 RID: 3193
 		[global::Cpp2ILInjected.Token(Token = "0x4000F68")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private string _methodName;
 
-		// Token: 0x04000C7A RID: 3194
 		[global::Cpp2ILInjected.Token(Token = "0x4000F69")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private global::System.Type[] _methodSignature;
 
-		// Token: 0x04000C7B RID: 3195
 		[global::Cpp2ILInjected.Token(Token = "0x4000F6A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private string _typeName;
 
-		// Token: 0x04000C7C RID: 3196
 		[global::Cpp2ILInjected.Token(Token = "0x4000F6B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private MethodReturnDictionary _properties;
 
-		// Token: 0x04000C7D RID: 3197
 		[global::Cpp2ILInjected.Token(Token = "0x4000F6C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private Identity _targetIdentity;
 
-		// Token: 0x04000C7E RID: 3198
 		[global::Cpp2ILInjected.Token(Token = "0x4000F6D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		private ArgInfo _inArgInfo;

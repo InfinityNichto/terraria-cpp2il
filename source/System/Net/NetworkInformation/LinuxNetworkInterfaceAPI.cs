@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.NetworkInformation
 {
-	// Token: 0x020001CF RID: 463
 	[global::Cpp2ILInjected.Token(Token = "0x20002B1")]
 	internal class LinuxNetworkInterfaceAPI : UnixNetworkInterfaceAPI
 	{
-		// Token: 0x060010B1 RID: 4273 RVA: 0x00005E16 File Offset: 0x00004016
 		[global::Cpp2ILInjected.Token(Token = "0x60012AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1E59C", Offset = "0x1E1E59C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallAnalysisNotSupported]
@@ -21,7 +19,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x060010B2 RID: 4274 RVA: 0x00005E19 File Offset: 0x00004019
 		[global::Cpp2ILInjected.Token(Token = "0x60012AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1E61C", Offset = "0x1E1E61C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallAnalysisNotSupported]
@@ -31,7 +28,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x060010B3 RID: 4275 RVA: 0x00005E1C File Offset: 0x0000401C
 		[global::Cpp2ILInjected.Token(Token = "0x60012AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1E69C", Offset = "0x1E1E69C", Length = "0xA00")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -101,7 +97,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x060010B4 RID: 4276 RVA: 0x00005E1F File Offset: 0x0000401F
 		[global::Cpp2ILInjected.Token(Token = "0x60012AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1F174", Offset = "0x1E1F174", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

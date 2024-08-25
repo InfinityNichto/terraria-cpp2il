@@ -1,4 +1,0 @@
-var MadCatzGhostReconFightingStickMacNativeProfile_8cs =
-[
-    [ "InControl.NativeDeviceProfiles.MadCatzGhostReconFightingStickMacNativeProfile", "d5/de5/classInControl_1_1NativeDeviceProfiles_1_1MadCatzGhostReconFightingStickMacNativeProfile.html", "d5/de5/classInControl_1_1NativeDeviceProfiles_1_1MadCatzGhostReconFightingStickMacNativeProfile" ]
-];

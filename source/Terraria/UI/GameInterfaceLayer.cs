@@ -8,11 +8,9 @@ using Terraria.Graphics;
 
 namespace Terraria.UI
 {
-	// Token: 0x020004C0 RID: 1216
 	[global::Cpp2ILInjected.Token(Token = "0x20006DF")]
 	public class GameInterfaceLayer
 	{
-		// Token: 0x0600358E RID: 13710 RVA: 0x0002B931 File Offset: 0x00029B31
 		[global::Cpp2ILInjected.Token(Token = "0x6003B11")]
 		[global::Cpp2ILInjected.Address(RVA = "0x147A04C", Offset = "0x147A04C", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LegacyGameInterfaceLayer), Member = ".ctor", MemberParameters = new object[]
@@ -28,7 +26,6 @@ namespace Terraria.UI
 			throw null;
 		}
 
-		// Token: 0x0600358F RID: 13711 RVA: 0x0002B934 File Offset: 0x00029B34
 		[global::Cpp2ILInjected.Token(Token = "0x6003B12")]
 		[global::Cpp2ILInjected.Address(RVA = "0x147A07C", Offset = "0x147A07C", Length = "0x328")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -58,7 +55,6 @@ namespace Terraria.UI
 			throw null;
 		}
 
-		// Token: 0x06003590 RID: 13712 RVA: 0x0002B937 File Offset: 0x00029B37
 		[global::Cpp2ILInjected.Token(Token = "0x6003B13")]
 		[global::Cpp2ILInjected.Address(RVA = "0x147A3A4", Offset = "0x147A3A4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -67,12 +63,10 @@ namespace Terraria.UI
 			throw null;
 		}
 
-		// Token: 0x0400668F RID: 26255
 		[global::Cpp2ILInjected.Token(Token = "0x4007AF1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public readonly string Name;
 
-		// Token: 0x04006690 RID: 26256
 		[global::Cpp2ILInjected.Token(Token = "0x4007AF2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public InterfaceScaleType ScaleType;

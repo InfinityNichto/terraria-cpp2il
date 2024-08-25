@@ -1,4 +1,0 @@
-var interfaceSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1IContributeServerContextSink =
-[
-    [ "GetServerContextSink", "d4/d7f/interfaceSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1IContributeServerContextSink_a5a1d66470790cb29a60e12cfd33b982d.html#a5a1d66470790cb29a60e12cfd33b982d", null ]
-];

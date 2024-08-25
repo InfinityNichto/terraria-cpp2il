@@ -1,9 +1,0 @@
-<map id="UnityEngine.EventSystems.IUpdateSelectedHandler" name="UnityEngine.EventSystems.IUpdateSelectedHandler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="142,119,353,213"/>
-<area shape="rect" id="Node000003" href="$da/d18/classUnityEngine_1_1EventSystems_1_1EventTrigger.html" title=" " alt="" coords="5,974,231,1554"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,227,155,974,149,973,238,227"/>
-<area shape="rect" id="Node000004" href="$d7/d66/classUnityEngine_1_1UI_1_1InputField.html" title=" " alt="" coords="255,261,501,2267"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,226,261,261,256,261,252,227"/>
-<area shape="rect" id="Node000002" href="$dd/d38/interfaceUnityEngine_1_1EventSystems_1_1IEventSystemHandler.html" title=" " alt="" coords="170,5,325,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,84,250,118,245,118,245,84"/>
-</map>

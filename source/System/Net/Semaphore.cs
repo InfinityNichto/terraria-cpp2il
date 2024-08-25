@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000167 RID: 359
 	[global::Cpp2ILInjected.Token(Token = "0x20001FD")]
 	internal sealed class Semaphore : WaitHandle
 	{
-		// Token: 0x06000B49 RID: 2889 RVA: 0x00004E3E File Offset: 0x0000303E
 		[global::Cpp2ILInjected.Token(Token = "0x6000C7C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F28388", Offset = "0x1F28388", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B4A RID: 2890 RVA: 0x00004E41 File Offset: 0x00003041
 		[global::Cpp2ILInjected.Token(Token = "0x6000C7D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F284D8", Offset = "0x1F284D8", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

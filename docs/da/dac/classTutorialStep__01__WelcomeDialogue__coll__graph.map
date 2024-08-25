@@ -1,7 +1,0 @@
-<map id="TutorialStep_01_WelcomeDialogue" name="TutorialStep_01_WelcomeDialogue">
-<area shape="rect" id="Node000001" title=" " alt="" coords="84,421,323,561"/>
-<area shape="rect" id="Node000002" href="$d9/d7b/classTutorialStep.html" title=" " alt="" coords="5,5,239,359"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,372,188,420,183,422,170,373"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="263,149,306,215"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,215,272,282,254,359,239,407,234,405,249,358,266,281,278,214"/>
-</map>

@@ -5,16 +5,13 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria.Map;
 using Terraria.UI;
+using Terraria.Utilities;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000476 RID: 1142
 	[global::Cpp2ILInjected.Token(Token = "0x2000677")]
 	public struct SpriteFrame
 	{
-		// Token: 0x17000628 RID: 1576
-		// (get) Token: 0x06003213 RID: 12819 RVA: 0x0002AF50 File Offset: 0x00029150
-		// (set) Token: 0x06003214 RID: 12820 RVA: 0x0002AF53 File Offset: 0x00029153
 		[global::Cpp2ILInjected.Token(Token = "0x170006AA")]
 		public byte CurrentColumn
 		{
@@ -34,9 +31,6 @@ namespace Terraria.DataStructures
 			}
 		}
 
-		// Token: 0x17000629 RID: 1577
-		// (get) Token: 0x06003215 RID: 12821 RVA: 0x0002AF56 File Offset: 0x00029156
-		// (set) Token: 0x06003216 RID: 12822 RVA: 0x0002AF59 File Offset: 0x00029159
 		[global::Cpp2ILInjected.Token(Token = "0x170006AB")]
 		public byte CurrentRow
 		{
@@ -56,17 +50,125 @@ namespace Terraria.DataStructures
 			}
 		}
 
-		// Token: 0x06003217 RID: 12823 RVA: 0x0002AF5C File Offset: 0x0002915C
 		[global::Cpp2ILInjected.Token(Token = "0x600373D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141E3D4", Offset = "0x141E3D4", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = "set_numFrames", MemberParameters = new object[] { typeof(byte) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = "NewGore", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(Vector2),
+			typeof(int),
+			typeof(float)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MapOverlayDrawContext), Member = "Draw", MemberParameters = new object[]
+		{
+			typeof(Texture2D),
+			typeof(Vector2),
+			typeof(Alignment)
+		}, ReturnType = typeof(MapOverlayDrawContext.DrawResult))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PingMapLayer), Member = "Draw", MemberParameters = new object[]
+		{
+			typeof(ref MapOverlayDrawContext),
+			typeof(ref string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.ButterfliesSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.LostKiteSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.PegasusSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.VultureSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.PixiePosseSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.BirdsPackSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.SeagullsGroupSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.GastropodGroupSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.SlimeBalloonGroupSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.HellBatsGoupSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.BatsGroupSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.WyvernSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.AirshipSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.AirBalloonSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.CrimeraSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.EOSSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.EOCSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.MeteorSkyEntity", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(FastRandom)
+		}, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 28)]
 		public SpriteFrame(byte columns, byte rows)
 		{
 			throw null;
 		}
 
-		// Token: 0x06003218 RID: 12824 RVA: 0x0002AF5F File Offset: 0x0002915F
 		[global::Cpp2ILInjected.Token(Token = "0x600373E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141E3EC", Offset = "0x141E3EC", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +183,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x06003219 RID: 12825 RVA: 0x0002AF62 File Offset: 0x00029162
 		[global::Cpp2ILInjected.Token(Token = "0x600373F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141E408", Offset = "0x141E408", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,7 +192,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x0600321A RID: 12826 RVA: 0x0002AF65 File Offset: 0x00029165
 		[global::Cpp2ILInjected.Token(Token = "0x6003740")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141E428", Offset = "0x141E428", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -131,32 +231,26 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x04006433 RID: 25651
 		[global::Cpp2ILInjected.Token(Token = "0x400782C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public int PaddingX;
 
-		// Token: 0x04006434 RID: 25652
 		[global::Cpp2ILInjected.Token(Token = "0x400782D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public int PaddingY;
 
-		// Token: 0x04006435 RID: 25653
 		[global::Cpp2ILInjected.Token(Token = "0x400782E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private byte _currentColumn;
 
-		// Token: 0x04006436 RID: 25654
 		[global::Cpp2ILInjected.Token(Token = "0x400782F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x9")]
 		private byte _currentRow;
 
-		// Token: 0x04006437 RID: 25655
 		[global::Cpp2ILInjected.Token(Token = "0x4007830")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA")]
 		public readonly byte ColumnCount;
 
-		// Token: 0x04006438 RID: 25656
 		[global::Cpp2ILInjected.Token(Token = "0x4007831")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB")]
 		public readonly byte RowCount;

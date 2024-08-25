@@ -6,11 +6,9 @@ using Mono.Security.Cryptography;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000277 RID: 631
 	[global::Cpp2ILInjected.Token(Token = "0x2000314")]
 	internal class RC2Transform : Mono.Security.Cryptography.SymmetricTransform
 	{
-		// Token: 0x060018AA RID: 6314 RVA: 0x00018A82 File Offset: 0x00016C82
 		[global::Cpp2ILInjected.Token(Token = "0x6001AC4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B19FE0", Offset = "0x1B19FE0", Length = "0x400")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -55,7 +53,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060018AB RID: 6315 RVA: 0x00018A85 File Offset: 0x00016C85
 		[global::Cpp2ILInjected.Token(Token = "0x6001AC5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1A3E0", Offset = "0x1B1A3E0", Length = "0x5E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +62,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060018AC RID: 6316 RVA: 0x00018A88 File Offset: 0x00016C88
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001AC6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1A9C0", Offset = "0x1B1A9C0", Length = "0x94")]
@@ -81,37 +77,30 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x04000AC7 RID: 2759
 		[global::Cpp2ILInjected.Token(Token = "0x4000DA1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private ushort R0;
 
-		// Token: 0x04000AC8 RID: 2760
 		[global::Cpp2ILInjected.Token(Token = "0x4000DA2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5A")]
 		private ushort R1;
 
-		// Token: 0x04000AC9 RID: 2761
 		[global::Cpp2ILInjected.Token(Token = "0x4000DA3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 		private ushort R2;
 
-		// Token: 0x04000ACA RID: 2762
 		[global::Cpp2ILInjected.Token(Token = "0x4000DA4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5E")]
 		private ushort R3;
 
-		// Token: 0x04000ACB RID: 2763
 		[global::Cpp2ILInjected.Token(Token = "0x4000DA5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private ushort[] K;
 
-		// Token: 0x04000ACC RID: 2764
 		[global::Cpp2ILInjected.Token(Token = "0x4000DA6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private int j;
 
-		// Token: 0x04000ACD RID: 2765
 		[global::Cpp2ILInjected.Token(Token = "0x4000DA7")]
 		private static readonly byte[] pitable;
 	}

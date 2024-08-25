@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000033 RID: 51
 	[global::Cpp2ILInjected.Token(Token = "0x200007D")]
 	internal static class PasteArguments
 	{
-		// Token: 0x06000159 RID: 345 RVA: 0x000031D6 File Offset: 0x000013D6
 		[global::Cpp2ILInjected.Token(Token = "0x60001DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EA10F8", Offset = "0x1EA10F8", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -31,7 +29,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600015A RID: 346 RVA: 0x000031D9 File Offset: 0x000013D9
 		[global::Cpp2ILInjected.Token(Token = "0x60001E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EA12C8", Offset = "0x1EA12C8", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

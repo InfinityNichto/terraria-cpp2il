@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine
 {
-	// Token: 0x020000CE RID: 206
 	[global::Cpp2ILInjected.Token(Token = "0x20000E3")]
 	public struct DrivenRectTransformTracker
 	{
-		// Token: 0x060004AC RID: 1196 RVA: 0x00002A52 File Offset: 0x00000C52
 		[global::Cpp2ILInjected.Token(Token = "0x60004C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85CF0", Offset = "0x1F85CF0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.AspectRatioFitter", Member = "UpdateRect", ReturnType = typeof(void))]
@@ -39,7 +37,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060004AD RID: 1197 RVA: 0x00002A55 File Offset: 0x00000C55
 		[global::Cpp2ILInjected.Token(Token = "0x60004C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F85CF4", Offset = "0x1F85CF4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.AspectRatioFitter", Member = "OnDisable", ReturnType = typeof(void))]

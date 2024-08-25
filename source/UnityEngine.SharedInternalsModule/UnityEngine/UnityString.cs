@@ -6,12 +6,10 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine
 {
-	// Token: 0x02000007 RID: 7
 	[VisibleToOtherModules]
 	[global::Cpp2ILInjected.Token(Token = "0x2000007")]
 	internal sealed class UnityString
 	{
-		// Token: 0x06000009 RID: 9 RVA: 0x00002068 File Offset: 0x00000268
 		[global::Cpp2ILInjected.Token(Token = "0x6000009")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA3A4C", Offset = "0x1FA3A4C", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

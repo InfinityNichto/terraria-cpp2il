@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000DA RID: 218
 	[UnityInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000E7")]
 	public class RazerServalForgeTVUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x0600063E RID: 1598 RVA: 0x000032E7 File Offset: 0x000014E7
 		[global::Cpp2ILInjected.Token(Token = "0x600065B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19FA28C", Offset = "0x19FA28C", Length = "0x9DC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x0600063F RID: 1599 RVA: 0x000032EA File Offset: 0x000014EA
 		[global::Cpp2ILInjected.Token(Token = "0x600065C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19FAC68", Offset = "0x19FAC68", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

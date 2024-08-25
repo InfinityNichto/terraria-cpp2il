@@ -6,11 +6,9 @@ using Mono.Security;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000A7 RID: 167
 	[global::Cpp2ILInjected.Token(Token = "0x2000104")]
 	public sealed class X509BasicConstraintsExtension : X509Extension
 	{
-		// Token: 0x06000507 RID: 1287 RVA: 0x00003C9E File Offset: 0x00001E9E
 		[global::Cpp2ILInjected.Token(Token = "0x60005AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED1854", Offset = "0x1ED1854", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509Certificate2), Member = "CreateCustomExtensionIfAny", MemberParameters = new object[] { typeof(Oid) }, ReturnType = typeof(X509Extension))]
@@ -23,7 +21,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000508 RID: 1288 RVA: 0x00003CA1 File Offset: 0x00001EA1
 		[global::Cpp2ILInjected.Token(Token = "0x60005AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED04D0", Offset = "0x1ED04D0", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AsnEncodedData), Member = "BasicConstraintsExtension", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(string))]
@@ -37,7 +34,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000509 RID: 1289 RVA: 0x00003CA4 File Offset: 0x00001EA4
 		[global::Cpp2ILInjected.Token(Token = "0x60005AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED1A9C", Offset = "0x1ED1A9C", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -52,8 +48,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x17000111 RID: 273
-		// (get) Token: 0x0600050A RID: 1290 RVA: 0x00003CA7 File Offset: 0x00001EA7
 		[global::Cpp2ILInjected.Token(Token = "0x17000117")]
 		public bool CertificateAuthority
 		{
@@ -70,8 +64,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x17000112 RID: 274
-		// (get) Token: 0x0600050B RID: 1291 RVA: 0x00003CAA File Offset: 0x00001EAA
 		[global::Cpp2ILInjected.Token(Token = "0x17000118")]
 		public bool HasPathLengthConstraint
 		{
@@ -88,8 +80,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x17000113 RID: 275
-		// (get) Token: 0x0600050C RID: 1292 RVA: 0x00003CAD File Offset: 0x00001EAD
 		[global::Cpp2ILInjected.Token(Token = "0x17000119")]
 		public int PathLengthConstraint
 		{
@@ -106,7 +96,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x0600050D RID: 1293 RVA: 0x00003CB0 File Offset: 0x00001EB0
 		[global::Cpp2ILInjected.Token(Token = "0x60005B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED1E3C", Offset = "0x1ED1E3C", Length = "0x1C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +117,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x0600050E RID: 1294 RVA: 0x00003CB3 File Offset: 0x00001EB3
 		[global::Cpp2ILInjected.Token(Token = "0x60005B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED18F4", Offset = "0x1ED18F4", Length = "0x1A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -149,7 +137,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x0600050F RID: 1295 RVA: 0x00003CB6 File Offset: 0x00001EB6
 		[global::Cpp2ILInjected.Token(Token = "0x60005B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED1BD0", Offset = "0x1ED1BD0", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509BasicConstraintsExtension), Member = ".ctor", MemberParameters = new object[]
@@ -174,7 +161,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000510 RID: 1296 RVA: 0x00003CB9 File Offset: 0x00001EB9
 		[global::Cpp2ILInjected.Token(Token = "0x60005B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED2004", Offset = "0x1ED2004", Length = "0x288")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -200,30 +186,24 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x04000386 RID: 902
 		[global::Cpp2ILInjected.Token(Token = "0x40004EF")]
 		internal const string oid = "2.5.29.19";
 
-		// Token: 0x04000387 RID: 903
 		[global::Cpp2ILInjected.Token(Token = "0x40004F0")]
 		internal const string friendlyName = "Basic Constraints";
 
-		// Token: 0x04000388 RID: 904
 		[global::Cpp2ILInjected.Token(Token = "0x40004F1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x21")]
 		private bool _certificateAuthority;
 
-		// Token: 0x04000389 RID: 905
 		[global::Cpp2ILInjected.Token(Token = "0x40004F2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x22")]
 		private bool _hasPathLengthConstraint;
 
-		// Token: 0x0400038A RID: 906
 		[global::Cpp2ILInjected.Token(Token = "0x40004F3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private int _pathLengthConstraint;
 
-		// Token: 0x0400038B RID: 907
 		[global::Cpp2ILInjected.Token(Token = "0x40004F4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private AsnDecodeStatus _status;

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x02000034 RID: 52
 	[global::Cpp2ILInjected.Token(Token = "0x2000037")]
 	public class XmlParserContext
 	{
-		// Token: 0x060001C4 RID: 452 RVA: 0x0000349D File Offset: 0x0000169D
 		[global::Cpp2ILInjected.Token(Token = "0x60001D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D675F4", Offset = "0x1D675F4", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlLoader), Member = "ParseDocumentType", MemberParameters = new object[]
@@ -38,7 +36,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060001C5 RID: 453 RVA: 0x000034A0 File Offset: 0x000016A0
 		[global::Cpp2ILInjected.Token(Token = "0x60001D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D67620", Offset = "0x1D67620", Length = "0x1B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -67,8 +64,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x1700003B RID: 59
-		// (get) Token: 0x060001C6 RID: 454 RVA: 0x000034A3 File Offset: 0x000016A3
 		[global::Cpp2ILInjected.Token(Token = "0x17000040")]
 		public XmlNameTable NameTable
 		{
@@ -81,8 +76,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x1700003C RID: 60
-		// (get) Token: 0x060001C7 RID: 455 RVA: 0x000034A6 File Offset: 0x000016A6
 		[global::Cpp2ILInjected.Token(Token = "0x17000041")]
 		public XmlNamespaceManager NamespaceManager
 		{
@@ -95,8 +88,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x1700003D RID: 61
-		// (get) Token: 0x060001C8 RID: 456 RVA: 0x000034A9 File Offset: 0x000016A9
 		[global::Cpp2ILInjected.Token(Token = "0x17000042")]
 		public string DocTypeName
 		{
@@ -109,8 +100,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x1700003E RID: 62
-		// (get) Token: 0x060001C9 RID: 457 RVA: 0x000034AC File Offset: 0x000016AC
 		[global::Cpp2ILInjected.Token(Token = "0x17000043")]
 		public string PublicId
 		{
@@ -123,8 +112,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x1700003F RID: 63
-		// (get) Token: 0x060001CA RID: 458 RVA: 0x000034AF File Offset: 0x000016AF
 		[global::Cpp2ILInjected.Token(Token = "0x17000044")]
 		public string SystemId
 		{
@@ -137,8 +124,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000040 RID: 64
-		// (get) Token: 0x060001CB RID: 459 RVA: 0x000034B2 File Offset: 0x000016B2
 		[global::Cpp2ILInjected.Token(Token = "0x17000045")]
 		public string BaseURI
 		{
@@ -151,8 +136,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000041 RID: 65
-		// (get) Token: 0x060001CC RID: 460 RVA: 0x000034B5 File Offset: 0x000016B5
 		[global::Cpp2ILInjected.Token(Token = "0x17000046")]
 		public string InternalSubset
 		{
@@ -165,8 +148,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000042 RID: 66
-		// (get) Token: 0x060001CD RID: 461 RVA: 0x000034B8 File Offset: 0x000016B8
 		[global::Cpp2ILInjected.Token(Token = "0x17000047")]
 		public string XmlLang
 		{
@@ -179,8 +160,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000043 RID: 67
-		// (get) Token: 0x060001CE RID: 462 RVA: 0x000034BB File Offset: 0x000016BB
 		[global::Cpp2ILInjected.Token(Token = "0x17000048")]
 		public XmlSpace XmlSpace
 		{
@@ -193,8 +172,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000044 RID: 68
-		// (get) Token: 0x060001CF RID: 463 RVA: 0x000034BE File Offset: 0x000016BE
 		[global::Cpp2ILInjected.Token(Token = "0x17000049")]
 		public Encoding Encoding
 		{
@@ -207,8 +184,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000045 RID: 69
-		// (get) Token: 0x060001D0 RID: 464 RVA: 0x000034C1 File Offset: 0x000016C1
 		[global::Cpp2ILInjected.Token(Token = "0x1700004A")]
 		internal bool HasDtdInfo
 		{
@@ -237,52 +212,42 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x040000B3 RID: 179
 		[global::Cpp2ILInjected.Token(Token = "0x40000D3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private XmlNameTable _nt;
 
-		// Token: 0x040000B4 RID: 180
 		[global::Cpp2ILInjected.Token(Token = "0x40000D4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private XmlNamespaceManager _nsMgr;
 
-		// Token: 0x040000B5 RID: 181
 		[global::Cpp2ILInjected.Token(Token = "0x40000D5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string _docTypeName;
 
-		// Token: 0x040000B6 RID: 182
 		[global::Cpp2ILInjected.Token(Token = "0x40000D6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private string _pubId;
 
-		// Token: 0x040000B7 RID: 183
 		[global::Cpp2ILInjected.Token(Token = "0x40000D7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private string _sysId;
 
-		// Token: 0x040000B8 RID: 184
 		[global::Cpp2ILInjected.Token(Token = "0x40000D8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private string _internalSubset;
 
-		// Token: 0x040000B9 RID: 185
 		[global::Cpp2ILInjected.Token(Token = "0x40000D9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private string _xmlLang;
 
-		// Token: 0x040000BA RID: 186
 		[global::Cpp2ILInjected.Token(Token = "0x40000DA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private XmlSpace _xmlSpace;
 
-		// Token: 0x040000BB RID: 187
 		[global::Cpp2ILInjected.Token(Token = "0x40000DB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private string _baseURI;
 
-		// Token: 0x040000BC RID: 188
 		[global::Cpp2ILInjected.Token(Token = "0x40000DC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private Encoding _encoding;

@@ -7,11 +7,9 @@ using UnityEngine;
 
 namespace MultiplayerBasicExample
 {
-	// Token: 0x02000009 RID: 9
 	[global::Cpp2ILInjected.Token(Token = "0x2000009")]
 	public class PlayerManager : MonoBehaviour
 	{
-		// Token: 0x0600002F RID: 47 RVA: 0x000020DA File Offset: 0x000002DA
 		[global::Cpp2ILInjected.Token(Token = "0x600002F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198E874", Offset = "0x198E874", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -27,7 +25,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x06000030 RID: 48 RVA: 0x000020DD File Offset: 0x000002DD
 		[global::Cpp2ILInjected.Token(Token = "0x6000030")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198E918", Offset = "0x198E918", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -41,7 +38,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x06000031 RID: 49 RVA: 0x000020E0 File Offset: 0x000002E0
 		[global::Cpp2ILInjected.Token(Token = "0x6000031")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198E9A4", Offset = "0x198E9A4", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerManager), Member = "Update", ReturnType = typeof(void))]
@@ -56,7 +52,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x06000032 RID: 50 RVA: 0x000020E3 File Offset: 0x000002E3
 		[global::Cpp2ILInjected.Token(Token = "0x6000032")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198EC98", Offset = "0x198EC98", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +65,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x06000033 RID: 51 RVA: 0x000020E6 File Offset: 0x000002E6
 		[global::Cpp2ILInjected.Token(Token = "0x6000033")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198EA18", Offset = "0x198EA18", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerManager), Member = "Update", ReturnType = typeof(void))]
@@ -87,7 +81,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x06000034 RID: 52 RVA: 0x000020E9 File Offset: 0x000002E9
 		[global::Cpp2ILInjected.Token(Token = "0x6000034")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198ED4C", Offset = "0x198ED4C", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -103,7 +96,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x06000035 RID: 53 RVA: 0x000020EC File Offset: 0x000002EC
 		[global::Cpp2ILInjected.Token(Token = "0x6000035")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198EA94", Offset = "0x198EA94", Length = "0x204")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -124,7 +116,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x06000036 RID: 54 RVA: 0x000020EF File Offset: 0x000002EF
 		[global::Cpp2ILInjected.Token(Token = "0x6000036")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198EDE8", Offset = "0x198EDE8", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -144,7 +135,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x06000037 RID: 55 RVA: 0x000020F2 File Offset: 0x000002F2
 		[global::Cpp2ILInjected.Token(Token = "0x6000037")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198EECC", Offset = "0x198EECC", Length = "0x198")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -175,7 +165,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x06000038 RID: 56 RVA: 0x000020F5 File Offset: 0x000002F5
 		[global::Cpp2ILInjected.Token(Token = "0x6000038")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198F064", Offset = "0x198F064", Length = "0x28C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -189,21 +178,17 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x0400001E RID: 30
 		[global::Cpp2ILInjected.Token(Token = "0x400001E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public GameObject playerPrefab;
 
-		// Token: 0x0400001F RID: 31
 		[global::Cpp2ILInjected.Token(Token = "0x400001F")]
 		private const int maxPlayers = 4;
 
-		// Token: 0x04000020 RID: 32
 		[global::Cpp2ILInjected.Token(Token = "0x4000020")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private List<Vector3> playerPositions;
 
-		// Token: 0x04000021 RID: 33
 		[global::Cpp2ILInjected.Token(Token = "0x4000021")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private List<Player> players;

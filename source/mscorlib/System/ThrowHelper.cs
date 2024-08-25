@@ -4,23 +4,380 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Globalization;
+using System.IO;
+using System.IO.Enumeration;
 using System.Runtime.CompilerServices;
 using System.Runtime.Serialization;
+using System.Security.Cryptography;
 using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using System.Threading.Tasks.Sources;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Mono.Math;
 
 namespace System
 {
-	// Token: 0x020000FB RID: 251
 	[global::System.Diagnostics.StackTraceHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x200012D")]
 	internal static class ThrowHelper
 	{
-		// Token: 0x06000AF7 RID: 2807 RVA: 0x000164D8 File Offset: 0x000146D8
 		[global::Cpp2ILInjected.Token(Token = "0x6000B9F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C462C0", Offset = "0x1C462C0", Length = "0x24")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ArraySegment<>), Member = ".ctor", MemberParameters = new object[] { "T[]" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ArraySegment<>), Member = ".cctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.BitConverter), Member = "ToInt16", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(short))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.BitConverter), Member = "ToInt32", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.BitConverter), Member = "ToInt64", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(long))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.BitConverter), Member = "ToString", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.BitConverter), Member = "ToString", MemberParameters = new object[] { typeof(byte[]) }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(byte), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(byte))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(byte), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(byte))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider),
+			typeof(global::System.Globalization.DateTimeStyles)
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "ParseExact", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "ParseExact", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string),
+			typeof(global::System.IFormatProvider),
+			typeof(global::System.Globalization.DateTimeStyles)
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "ParseExact", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string[]),
+			typeof(global::System.IFormatProvider),
+			typeof(global::System.Globalization.DateTimeStyles)
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeOffset), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(global::System.DateTimeOffset))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeOffset), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider),
+			typeof(global::System.Globalization.DateTimeStyles)
+		}, ReturnType = typeof(global::System.DateTimeOffset))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeOffset), Member = "ParseExact", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string),
+			typeof(global::System.IFormatProvider),
+			typeof(global::System.Globalization.DateTimeStyles)
+		}, ReturnType = typeof(global::System.DateTimeOffset))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(double), Member = "Parse", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(double))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(double), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(double))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(double), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(double))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(short), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(short))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(short), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(short))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(int), Member = "Parse", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(int), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(int), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(int), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(long), Member = "Parse", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(long))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(long), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(long))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(long), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(long))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(sbyte), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(sbyte))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(sbyte), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(sbyte))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(float), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(float), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.OrdinalComparer), Member = "GetHashCode", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.OrdinalCaseSensitiveComparer), Member = "GetHashCode", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.OrdinalIgnoreCaseComparer), Member = "GetHashCode", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeSpan), Member = "Parse", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(global::System.TimeSpan))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeSpan), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(global::System.TimeSpan))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ushort), Member = "Parse", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(ushort))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ushort), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(ushort))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ushort), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(ushort))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(uint), Member = "Parse", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(uint))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(uint), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(uint))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(uint), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(uint))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ulong), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(ulong))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ulong), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(ulong))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "IfNullAndNullsAreIllegalThenThrow", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(global::System.ExceptionArgument)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(decimal), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(decimal))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(decimal), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(decimal))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.TaskCompletionSource<>), Member = "TrySetException", MemberParameters = new object[] { typeof(global::System.Exception) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.ValueTask), Member = ".ctor", MemberParameters = new object[] { typeof(global::System.Threading.Tasks.Task) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.ValueTask), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(global::System.Threading.Tasks.Sources.IValueTaskSource),
+			typeof(short)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.ValueTask<>), Member = ".ctor", MemberParameters = new object[] { "System.Threading.Tasks.Task`1<TResult>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.ValueTask<>), Member = ".ctor", MemberParameters = new object[]
+		{
+			"System.Threading.Tasks.Sources.IValueTaskSource`1<TResult>",
+			typeof(short)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.CompilerServices.AsyncValueTaskMethodBuilder<>), Member = "get_Task", ReturnType = "System.Threading.Tasks.ValueTask`1<TResult>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "ReadAsync", MemberParameters = new object[]
+		{
+			typeof(global::System.Memory<byte>),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask<int>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "WriteAsync", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlyMemory<byte>),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "ReadAsync", MemberParameters = new object[]
+		{
+			typeof(global::System.Memory<byte>),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask<int>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "WriteAsync", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlyMemory<byte>),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.NullStream", Member = "WriteAsync", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlyMemory<byte>),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Stream), Member = "ReadAsync", MemberParameters = new object[]
+		{
+			typeof(global::System.Memory<byte>),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask<int>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Stream), Member = "WriteAsync", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlyMemory<byte>),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = ".ctor", MemberParameters = new object[] { "System.Collections.Generic.IList`1<T>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "System.Collections.ICollection.CopyTo", MemberParameters = new object[]
+		{
+			typeof(global::System.Array),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = ".ctor", MemberParameters = new object[] { "System.Collections.Generic.IList`1<T>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.ICollection.CopyTo", MemberParameters = new object[]
+		{
+			typeof(global::System.Array),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.KeyCollection), Member = ".ctor", MemberParameters = new object[] { "System.Collections.Generic.Dictionary`2<TKey, TValue>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.KeyCollection), Member = "CopyTo", MemberParameters = new object[]
+		{
+			"TKey[]",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.KeyCollection), Member = "System.Collections.ICollection.CopyTo", MemberParameters = new object[]
+		{
+			typeof(global::System.Array),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.ValueCollection), Member = ".ctor", MemberParameters = new object[] { "System.Collections.Generic.Dictionary`2<TKey, TValue>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.ValueCollection), Member = "CopyTo", MemberParameters = new object[]
+		{
+			"TValue[]",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.ValueCollection), Member = "System.Collections.ICollection.CopyTo", MemberParameters = new object[]
+		{
+			typeof(global::System.Array),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = ".ctor", MemberParameters = new object[] { "System.Collections.Generic.IDictionary`2<TKey, TValue>", "System.Collections.Generic.IEqualityComparer`1<TKey>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "CopyTo", MemberParameters = new object[]
+		{
+			"System.Collections.Generic.KeyValuePair`2<TKey, TValue>[]",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "GetObjectData", MemberParameters = new object[]
+		{
+			typeof(global::System.Runtime.Serialization.SerializationInfo),
+			typeof(global::System.Runtime.Serialization.StreamingContext)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "System.Collections.ICollection.CopyTo", MemberParameters = new object[]
+		{
+			typeof(global::System.Array),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "System.Collections.IDictionary.set_Item", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "IsCompatibleKey", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "System.Collections.IDictionary.Add", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.List<>), Member = ".ctor", MemberParameters = new object[] { "System.Collections.Generic.IEnumerable`1<T>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.List<>), Member = "Find", MemberParameters = new object[] { "System.Predicate`1<T>" }, ReturnType = "T")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.List<>), Member = "ForEach", MemberParameters = new object[] { "System.Action`1<T>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.List<>), Member = "InsertRange", MemberParameters = new object[]
+		{
+			typeof(int),
+			"System.Collections.Generic.IEnumerable`1<T>"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.List<>), Member = "RemoveAll", MemberParameters = new object[] { "System.Predicate`1<T>" }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.List<>), Member = "Sort", MemberParameters = new object[] { "System.Comparison`1<T>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs", Member = "ReceiveAsync", MemberParameters = new object[] { "System.Net.Sockets.Socket" }, ReturnType = "System.Threading.Tasks.ValueTask`1<Int32>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs", Member = "SendAsyncForNetworkStream", MemberParameters = new object[] { "System.Net.Sockets.Socket" }, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "ReceiveAsync", MemberParameters = new object[]
+		{
+			"System.Memory`1<Byte>",
+			"System.Net.Sockets.SocketFlags",
+			typeof(bool),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = "System.Threading.Tasks.ValueTask`1<Int32>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "SendAsyncForNetworkStream", MemberParameters = new object[]
+		{
+			"System.ReadOnlyMemory`1<Byte>",
+			"System.Net.Sockets.SocketFlags",
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 96)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.ThrowHelper), Member = "CreateArgumentNullException", MemberParameters = new object[] { typeof(global::System.ExceptionArgument) }, ReturnType = typeof(global::System.Exception))]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
@@ -29,7 +386,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000AF8 RID: 2808 RVA: 0x000164DB File Offset: 0x000146DB
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C54F60", Offset = "0x1C54F60", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowArgumentNullException", MemberParameters = new object[] { typeof(global::System.ExceptionArgument) }, ReturnType = typeof(void))]
@@ -43,7 +399,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000AF9 RID: 2809 RVA: 0x000164DE File Offset: 0x000146DE
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55004", Offset = "0x1C55004", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -54,7 +409,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000AFA RID: 2810 RVA: 0x000164E1 File Offset: 0x000146E1
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55028", Offset = "0x1C55028", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowArrayTypeMismatchException", ReturnType = typeof(void))]
@@ -67,7 +421,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000AFB RID: 2811 RVA: 0x000164E4 File Offset: 0x000146E4
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5507C", Offset = "0x1C5507C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ReadOnlySpan<>), Member = "CopyTo", MemberParameters = new object[] { "System.Span`1<T>" }, ReturnType = typeof(void))]
@@ -80,7 +433,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000AFC RID: 2812 RVA: 0x000164E7 File Offset: 0x000146E7
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C550A0", Offset = "0x1C550A0", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowArgumentException_DestinationTooShort", ReturnType = typeof(void))]
@@ -93,7 +445,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000AFD RID: 2813 RVA: 0x000164EA File Offset: 0x000146EA
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5510C", Offset = "0x1C5510C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mono.Math.BigInteger), Member = "ToString", MemberParameters = new object[]
@@ -142,7 +493,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000AFE RID: 2814 RVA: 0x000164ED File Offset: 0x000146ED
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55130", Offset = "0x1C55130", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowIndexOutOfRangeException", ReturnType = typeof(void))]
@@ -155,18 +505,505 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000AFF RID: 2815 RVA: 0x000164F0 File Offset: 0x000146F0
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55184", Offset = "0x1C55184", Length = "0x24")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::Interop.Sys.DirectoryEntry), Member = "GetName", MemberParameters = new object[] { typeof(global::System.Span<char>) }, ReturnType = typeof(global::System.ReadOnlySpan<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "ReplaceHelper", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(string),
+			typeof(global::System.ReadOnlySpan<int>)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.BitConverter.<>c", Member = "<ToString>b__38_0", MemberParameters = new object[]
+		{
+			typeof(global::System.Span<char>),
+			typeof(global::System.ValueTuple<byte[], int, int>)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(bool), Member = "TrimWhiteSpaceAndNull", MemberParameters = new object[] { typeof(global::System.ReadOnlySpan<char>) }, ReturnType = typeof(global::System.ReadOnlySpan<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Convert), Member = "ToBase64String", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(global::System.Base64FormattingOptions)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Convert), Member = "TryFromBase64Chars", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Span<byte>),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Convert), Member = "FromBase64CharPtr", MemberParameters = new object[]
+		{
+			typeof(char*),
+			typeof(int)
+		}, ReturnType = typeof(byte[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeFormat), Member = "Format", MemberParameters = new object[]
+		{
+			typeof(global::System.DateTime),
+			typeof(string),
+			typeof(global::System.IFormatProvider),
+			typeof(global::System.TimeSpan)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeFormat), Member = "TryFormatO", MemberParameters = new object[]
+		{
+			typeof(global::System.DateTime),
+			typeof(global::System.TimeSpan),
+			typeof(global::System.Span<char>),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "MatchWord", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(string)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "MatchAbbreviatedMonthName", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(global::System.Globalization.DateTimeFormatInfo),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "MatchMonthName", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(global::System.Globalization.DateTimeFormatInfo),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "MatchAbbreviatedDayName", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(global::System.Globalization.DateTimeFormatInfo),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "MatchDayName", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(global::System.Globalization.DateTimeFormatInfo),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "MatchEraName", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(global::System.Globalization.DateTimeFormatInfo),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "MatchTimeMark", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(global::System.Globalization.DateTimeFormatInfo),
+			typeof(ref global::System.DateTimeParse.TM)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "ParseByFormat", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(ref global::System.__DTString),
+			typeof(ref global::System.ParsingInfo),
+			typeof(global::System.Globalization.DateTimeFormatInfo),
+			typeof(ref global::System.DateTimeResult)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.__DTString), Member = "MatchSpecifiedWord", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.__DTString), Member = "MatchSpecifiedWords", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(bool),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.__DTString), Member = "Match", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.__DTString), Member = "TrimTail", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.__DTString), Member = "RemoveTrailingInQuoteSpaces", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.__DTString), Member = "RemoveLeadingInQuoteSpaces", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Guid), Member = "TryParseGuidWithHexPrefix", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(ref global::System.Guid.GuidResult)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Guid), Member = "EatAllWhitespace", MemberParameters = new object[] { typeof(global::System.ReadOnlySpan<char>) }, ReturnType = typeof(global::System.ReadOnlySpan<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Guid), Member = "ToString", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.IFormatProvider)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Memory<>), Member = ".ctor", MemberParameters = new object[]
+		{
+			"T[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Memory<>), Member = "Slice", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = "System.Memory`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Memory<>), Member = "get_Span", ReturnType = "System.Span`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "AsSpan", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[]
+		{
+			"T[]",
+			typeof(int)
+		}, ReturnType = "System.Span`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "TrimStart", MemberParameters = new object[] { typeof(global::System.ReadOnlySpan<char>) }, ReturnType = typeof(global::System.ReadOnlySpan<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "TrimEnd", MemberParameters = new object[] { typeof(global::System.ReadOnlySpan<char>) }, ReturnType = typeof(global::System.ReadOnlySpan<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "AsSpan", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[]
+		{
+			"T[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = "System.Span`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "FormatFixed", MemberParameters = new object[]
+		{
+			typeof(ref global::System.Text.ValueStringBuilder),
+			typeof(ref global::System.Number.NumberBuffer),
+			typeof(int),
+			typeof(int),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(int[]),
+			typeof(string),
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "TryParseInt32IntegerStyle", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref int),
+			typeof(ref bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "TryParseInt64IntegerStyle", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref long),
+			typeof(ref bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "TryParseUInt32IntegerStyle", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref uint),
+			typeof(ref bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "TryParseUInt64IntegerStyle", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref ulong),
+			typeof(ref bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ReadOnlyMemory<>), Member = ".ctor", MemberParameters = new object[]
+		{
+			"T[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ReadOnlyMemory<>), Member = "get_Span", ReturnType = "System.ReadOnlySpan`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ReadOnlySpan<>), Member = ".ctor", MemberParameters = new object[]
+		{
+			"T[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ReadOnlySpan<>), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(void*),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ReadOnlySpan<>), Member = "Slice", MemberParameters = new object[] { typeof(int) }, ReturnType = "System.ReadOnlySpan`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ReadOnlySpan<>), Member = "Slice", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = "System.ReadOnlySpan`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Span<>), Member = ".ctor", MemberParameters = new object[]
+		{
+			"T[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Span<>), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(void*),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Span<>), Member = "Slice", MemberParameters = new object[] { typeof(int) }, ReturnType = "System.Span`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Span<>), Member = "Slice", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = "System.Span`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.SpanHelpers), Member = "EndsWithOrdinalIgnoreCaseHelper", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.ReadOnlySpan<char>)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Version), Member = "ParseVersion", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(bool)
+		}, ReturnType = typeof(global::System.Version))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "AppendCore", MemberParameters = new object[]
+		{
+			typeof(global::System.Text.StringBuilder),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(global::System.Text.StringBuilder))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "AppendFormatHelper", MemberParameters = new object[]
+		{
+			typeof(global::System.IFormatProvider),
+			typeof(string),
+			typeof(global::System.ParamsArray)
+		}, ReturnType = typeof(global::System.Text.StringBuilder))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "get_RemainingCurrentChunk", ReturnType = typeof(global::System.Span<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ValueStringBuilder), Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ValueStringBuilder), Member = "TryCopyTo", MemberParameters = new object[]
+		{
+			typeof(global::System.Span<char>),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ValueStringBuilder), Member = "AppendSlow", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ValueStringBuilder), Member = "Append", MemberParameters = new object[]
+		{
+			typeof(char),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ValueStringBuilder), Member = "Append", MemberParameters = new object[]
+		{
+			typeof(char*),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ValueStringBuilder), Member = "AppendSpan", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(global::System.Span<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ValueUtf8Converter), Member = "ConvertAndTerminateString", MemberParameters = new object[] { typeof(global::System.ReadOnlySpan<char>) }, ReturnType = typeof(global::System.Span<byte>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.Rfc2898DeriveBytes), Member = "Func", ReturnType = typeof(byte[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.CryptoStream.<ReadAsyncCore>d__42", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.CryptoStream.<WriteAsyncCore>d__49", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.DSA), Member = "TrySignData", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<byte>),
+			typeof(global::System.Span<byte>),
+			typeof(global::System.Security.Cryptography.HashAlgorithmName),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.DSA), Member = "VerifyData", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<byte>),
+			typeof(global::System.ReadOnlySpan<byte>),
+			typeof(global::System.Security.Cryptography.HashAlgorithmName)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.RandomNumberGenerator), Member = "GetBytes", MemberParameters = new object[] { typeof(global::System.Span<byte>) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.RandomNumberGenerator), Member = "GetNonZeroBytes", MemberParameters = new object[] { typeof(global::System.Span<byte>) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.RSA), Member = "TrySignData", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<byte>),
+			typeof(global::System.Span<byte>),
+			typeof(global::System.Security.Cryptography.HashAlgorithmName),
+			typeof(global::System.Security.Cryptography.RSASignaturePadding),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.RSA), Member = "VerifyData", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<byte>),
+			typeof(global::System.ReadOnlySpan<byte>),
+			typeof(global::System.Security.Cryptography.HashAlgorithmName),
+			typeof(global::System.Security.Cryptography.RSASignaturePadding)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "Read", MemberParameters = new object[] { typeof(global::System.Span<byte>) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "Write", MemberParameters = new object[] { typeof(global::System.ReadOnlySpan<byte>) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.PathInternal), Member = "TrimEndingDirectorySeparator", MemberParameters = new object[] { typeof(global::System.ReadOnlySpan<char>) }, ReturnType = typeof(global::System.ReadOnlySpan<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.StreamReader), Member = "Read", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.StreamReader), Member = "ReadSpan", MemberParameters = new object[] { typeof(global::System.Span<char>) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.StreamReader), Member = "ReadBuffer", MemberParameters = new object[]
+		{
+			typeof(global::System.Span<char>),
+			typeof(ref bool)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.StreamWriter), Member = "Write", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "Read", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "Write", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.File), Member = "ReadAllBytesUnknownLength", MemberParameters = new object[] { typeof(global::System.IO.FileStream) }, ReturnType = typeof(byte[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.<<ReadAsync>g__FinishReadAsync|44_0>d", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Stream), Member = "Read", MemberParameters = new object[] { typeof(global::System.Span<byte>) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Path.<>c", Member = "<JoinInternal>b__56_0", MemberParameters = new object[]
+		{
+			typeof(global::System.Span<char>),
+			typeof(global::System.ValueTuple<global::System.IntPtr, int, global::System.IntPtr, int, bool>)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Path.<>c", Member = "<JoinInternal>b__57_0", MemberParameters = new object[]
+		{
+			typeof(global::System.Span<char>),
+			typeof(global::System.ValueTuple<global::System.IntPtr, int, global::System.IntPtr, int, global::System.IntPtr, int, bool, global::System.ValueTuple<bool>>)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Path), Member = "GetFileName", MemberParameters = new object[] { typeof(global::System.ReadOnlySpan<char>) }, ReturnType = typeof(global::System.ReadOnlySpan<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Path), Member = "TryJoin", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Span<char>),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Enumeration.FileSystemEntry), Member = "get_FullPath", ReturnType = typeof(global::System.ReadOnlySpan<char>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Enumeration.FileSystemEntry), Member = "ToSpecifiedFullPath", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.CompareInfo), Member = "GetIgnoreCaseHash", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.DateTimeFormatInfo), Member = "Tokenize", MemberParameters = new object[]
+		{
+			typeof(global::System.TokenType),
+			typeof(ref global::System.TokenType),
+			typeof(ref int),
+			typeof(ref global::System.__DTString)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanTokenizer", Member = "GetNextToken", ReturnType = "System.Globalization.TimeSpanParse.TimeSpanToken")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.ValueListBuilder<>), Member = "AsSpan", ReturnType = "System.ReadOnlySpan`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IPv4AddressHelper", Member = "ParseCanonicalName", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(ref bool)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IPv6AddressHelper", Member = "Parse", MemberParameters = new object[]
+		{
+			"System.ReadOnlySpan`1<Char>",
+			"System.UInt16*",
+			typeof(int),
+			typeof(ref string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IPv6AddressHelper", Member = "ParseCanonicalName", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(ref bool),
+			typeof(ref string)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.IPAddressParser", Member = "AppendSections", MemberParameters = new object[]
+		{
+			"System.UInt16[]",
+			typeof(int),
+			typeof(int),
+			typeof(global::System.Text.StringBuilder)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebClient.<DownloadBitsAsync>d__150", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebClient.<UploadBitsAsync>d__152", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.SocketAddress", Member = ".ctor", MemberParameters = new object[] { "System.Net.IPAddress" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.NetworkStream", Member = "ReadAsync", MemberParameters = new object[]
+		{
+			"System.Byte[]",
+			typeof(int),
+			typeof(int),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = "System.Threading.Tasks.Task`1<Int32>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.NetworkStream", Member = "WriteAsync", MemberParameters = new object[]
+		{
+			"System.Byte[]",
+			typeof(int),
+			typeof(int),
+			typeof(global::System.Threading.CancellationToken)
+		}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket.<>c", Member = "<ReceiveAsyncApm>b__15_1", MemberParameters = new object[] { typeof(global::System.IAsyncResult) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket.<>c", Member = "<.cctor>b__367_11", MemberParameters = new object[] { "System.IOAsyncResult" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Receive", MemberParameters = new object[]
+		{
+			"System.Memory`1<Byte>",
+			typeof(int),
+			typeof(int),
+			"System.Net.Sockets.SocketFlags",
+			"System.Net.Sockets.SocketError&"
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "ReceiveFrom", MemberParameters = new object[]
+		{
+			"System.Memory`1<Byte>",
+			typeof(int),
+			typeof(int),
+			"System.Net.Sockets.SocketFlags",
+			"System.Net.EndPoint&",
+			"System.Net.Sockets.SocketError&"
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "BeginSendCallback", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SocketAsyncResult",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Collections.Generic.ValueListBuilder`1", Member = "AsSpan", ReturnType = "System.ReadOnlySpan`1<T>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.DeflateStream", Member = "ReadCore", MemberParameters = new object[] { "System.Span`1<Byte>" }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Numerics.BigInteger", Member = ".ctor", MemberParameters = new object[]
+		{
+			"System.ReadOnlySpan`1<Byte>",
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Numerics.BigNumber", Member = "FormatBigIntegerToHex", MemberParameters = new object[]
+		{
+			typeof(bool),
+			"System.Numerics.BigInteger",
+			typeof(char),
+			typeof(int),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			"System.Span`1<Char>",
+			typeof(ref int),
+			typeof(ref bool)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Numerics.BigNumber", Member = "FormatBigInteger", MemberParameters = new object[]
+		{
+			typeof(bool),
+			"System.Numerics.BigInteger",
+			typeof(string),
+			"System.ReadOnlySpan`1<Char>",
+			typeof(global::System.Globalization.NumberFormatInfo),
+			"System.Span`1<Char>",
+			typeof(ref int),
+			typeof(ref bool)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Text.ValueStringBuilder", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Text.ValueStringBuilder", Member = "TryCopyTo", MemberParameters = new object[]
+		{
+			"System.Span`1<Char>",
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Text.ValueStringBuilder", Member = "Insert", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(char),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Text.ValueStringBuilder", Member = "AppendSlow", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Text.ValueStringBuilder", Member = "Append", MemberParameters = new object[]
+		{
+			typeof(char),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Text.ValueStringBuilder", Member = "Append", MemberParameters = new object[]
+		{
+			"System.Char*",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Text.ValueStringBuilder", Member = "AppendSpan", MemberParameters = new object[] { typeof(int) }, ReturnType = "System.Span`1<Char>")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 217)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.ThrowHelper), Member = "CreateArgumentOutOfRangeException", ReturnType = typeof(global::System.Exception))]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
-		internal static void ThrowArgumentOutOfRangeException()
+		internal unsafe static void ThrowArgumentOutOfRangeException()
 		{
 			throw null;
 		}
 
-		// Token: 0x06000B00 RID: 2816 RVA: 0x000164F3 File Offset: 0x000146F3
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C551A8", Offset = "0x1C551A8", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowArgumentOutOfRangeException", ReturnType = typeof(void))]
@@ -179,7 +1016,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B01 RID: 2817 RVA: 0x000164F6 File Offset: 0x000146F6
 		[global::Cpp2ILInjected.Token(Token = "0x6000BA9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C551FC", Offset = "0x1C551FC", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "ReplaceHelper", MemberParameters = new object[]
@@ -274,7 +1110,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B02 RID: 2818 RVA: 0x000164F9 File Offset: 0x000146F9
 		[global::Cpp2ILInjected.Token(Token = "0x6000BAA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55220", Offset = "0x1C55220", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowArgumentOutOfRangeException", MemberParameters = new object[] { typeof(global::System.ExceptionArgument) }, ReturnType = typeof(void))]
@@ -288,7 +1123,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B03 RID: 2819 RVA: 0x000164FC File Offset: 0x000146FC
 		[global::Cpp2ILInjected.Token(Token = "0x6000BAB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C552C4", Offset = "0x1C552C4", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ArraySegment<>), Member = "System.Collections.Generic.IList<T>.Insert", MemberParameters = new object[]
@@ -308,7 +1142,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B04 RID: 2820 RVA: 0x000164FF File Offset: 0x000146FF
 		[global::Cpp2ILInjected.Token(Token = "0x6000BAC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C552E8", Offset = "0x1C552E8", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowNotSupportedException", ReturnType = typeof(void))]
@@ -321,7 +1154,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B05 RID: 2821 RVA: 0x00016502 File Offset: 0x00014702
 		[global::Cpp2ILInjected.Token(Token = "0x6000BAD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5533C", Offset = "0x1C5533C", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "System.Collections.IDictionary.set_Item", MemberParameters = new object[]
@@ -351,7 +1183,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B06 RID: 2822 RVA: 0x00016505 File Offset: 0x00014705
 		[global::Cpp2ILInjected.Token(Token = "0x6000BAE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C553E8", Offset = "0x1C553E8", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "System.Collections.IList.set_Item", MemberParameters = new object[]
@@ -403,7 +1234,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B07 RID: 2823 RVA: 0x00016508 File Offset: 0x00014708
 		[global::Cpp2ILInjected.Token(Token = "0x6000BAF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55494", Offset = "0x1C55494", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "System.Collections.ICollection.CopyTo", MemberParameters = new object[]
@@ -488,7 +1318,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B08 RID: 2824 RVA: 0x0001650B File Offset: 0x0001470B
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55770", Offset = "0x1C55770", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "Compare", MemberParameters = new object[]
@@ -564,7 +1393,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B09 RID: 2825 RVA: 0x0001650E File Offset: 0x0001470E
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55958", Offset = "0x1C55958", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.BitConverter), Member = "ToInt16", MemberParameters = new object[]
@@ -626,7 +1454,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B0A RID: 2826 RVA: 0x00016511 File Offset: 0x00014711
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C559F4", Offset = "0x1C559F4", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ArraySegment<>), Member = "GetEnumerator", ReturnType = "Enumerator<T>")]
@@ -655,7 +1482,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B0B RID: 2827 RVA: 0x00016514 File Offset: 0x00014714
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55A44", Offset = "0x1C55A44", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "OnDeserialization", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
@@ -669,9 +1495,63 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B0C RID: 2828 RVA: 0x00016517 File Offset: 0x00014717
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55A94", Offset = "0x1C55A94", Length = "0x50")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "set_Item", MemberParameters = new object[]
+		{
+			typeof(int),
+			"T"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "Add", MemberParameters = new object[] { "T" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "Clear", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "Insert", MemberParameters = new object[]
+		{
+			typeof(int),
+			"T"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "Remove", MemberParameters = new object[] { "T" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "RemoveAt", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "System.Collections.IList.Add", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "System.Collections.IList.Insert", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "System.Collections.IList.Remove", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.Generic.IList<T>.set_Item", MemberParameters = new object[]
+		{
+			typeof(int),
+			"T"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.Generic.ICollection<T>.Add", MemberParameters = new object[] { "T" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.Generic.ICollection<T>.Clear", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.Generic.IList<T>.Insert", MemberParameters = new object[]
+		{
+			typeof(int),
+			"T"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.Generic.ICollection<T>.Remove", MemberParameters = new object[] { "T" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.Generic.IList<T>.RemoveAt", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.IList.set_Item", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.IList.Add", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.IList.Clear", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.IList.Insert", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.IList.Remove", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.ReadOnlyCollection<>), Member = "System.Collections.IList.RemoveAt", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.KeyCollection), Member = "System.Collections.Generic.ICollection<TKey>.Add", MemberParameters = new object[] { "TKey" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.KeyCollection), Member = "System.Collections.Generic.ICollection<TKey>.Clear", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.KeyCollection), Member = "System.Collections.Generic.ICollection<TKey>.Remove", MemberParameters = new object[] { "TKey" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.ValueCollection), Member = "System.Collections.Generic.ICollection<TValue>.Add", MemberParameters = new object[] { "TValue" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.ValueCollection), Member = "System.Collections.Generic.ICollection<TValue>.Remove", MemberParameters = new object[] { "TValue" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.ValueCollection), Member = "System.Collections.Generic.ICollection<TValue>.Clear", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 27)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.ThrowHelper), Member = "GetResourceName", MemberParameters = new object[] { typeof(global::System.ExceptionResource) }, ReturnType = typeof(string))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.Environment), Member = "GetResourceString", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(string))]
@@ -682,7 +1562,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B0D RID: 2829 RVA: 0x0001651A File Offset: 0x0001471A
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55AE4", Offset = "0x1C55AE4", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >.Enumerator), Member = "MoveNext", ReturnType = typeof(bool))]
@@ -703,7 +1582,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B0E RID: 2830 RVA: 0x0001651D File Offset: 0x0001471D
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55B30", Offset = "0x1C55B30", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Runtime.CompilerServices.ConditionalWeakTable`2.Enumerator", Member = "get_Current", ReturnType = "System.Collections.Generic.KeyValuePair`2<TKey, TValue>")]
@@ -722,7 +1600,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B0F RID: 2831 RVA: 0x00016520 File Offset: 0x00014720
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55B7C", Offset = "0x1C55B7C", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ArraySegment<>.Enumerator), Member = "get_Current", ReturnType = "T")]
@@ -734,7 +1611,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B10 RID: 2832 RVA: 0x00016523 File Offset: 0x00014723
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55BC8", Offset = "0x1C55BC8", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ArraySegment<>.Enumerator), Member = "get_Current", ReturnType = "T")]
@@ -746,7 +1622,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B11 RID: 2833 RVA: 0x00016526 File Offset: 0x00014726
 		[global::Cpp2ILInjected.Token(Token = "0x6000BB9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55C14", Offset = "0x1C55C14", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Nullable<>), Member = "get_Value", ReturnType = "T")]
@@ -758,7 +1633,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B12 RID: 2834 RVA: 0x00016529 File Offset: 0x00014729
 		[global::Cpp2ILInjected.Token(Token = "0x6000BBA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55C60", Offset = "0x1C55C60", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowArgumentOutOfRange_IndexException", ReturnType = typeof(void))]
@@ -776,7 +1650,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B13 RID: 2835 RVA: 0x0001652C File Offset: 0x0001472C
 		[global::Cpp2ILInjected.Token(Token = "0x6000BBB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55CDC", Offset = "0x1C55CDC", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ArraySegment<>), Member = "System.Collections.Generic.IList<T>.get_Item", MemberParameters = new object[] { typeof(int) }, ReturnType = "T")]
@@ -821,7 +1694,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B14 RID: 2836 RVA: 0x0001652F File Offset: 0x0001472F
 		[global::Cpp2ILInjected.Token(Token = "0x6000BBC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55D14", Offset = "0x1C55D14", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "System.Collections.ICollection.CopyTo", MemberParameters = new object[]
@@ -892,7 +1764,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B15 RID: 2837 RVA: 0x00016532 File Offset: 0x00014732
 		[global::Cpp2ILInjected.Token(Token = "0x6000BBD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55D4C", Offset = "0x1C55D4C", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.ObjectModel.Collection<>), Member = "System.Collections.ICollection.CopyTo", MemberParameters = new object[]
@@ -933,7 +1804,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B16 RID: 2838 RVA: 0x00016535 File Offset: 0x00014735
 		[global::Cpp2ILInjected.Token(Token = "0x6000BBE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55D98", Offset = "0x1C55D98", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowAddingDuplicateWithKeyArgumentException", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
@@ -950,7 +1820,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B17 RID: 2839 RVA: 0x00016538 File Offset: 0x00014738
 		[global::Cpp2ILInjected.Token(Token = "0x6000BBF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55E28", Offset = "0x1C55E28", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "TryInsert", MemberParameters = new object[]
@@ -967,7 +1836,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B18 RID: 2840 RVA: 0x0001653B File Offset: 0x0001473B
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55E4C", Offset = "0x1C55E4C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -985,7 +1853,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B19 RID: 2841 RVA: 0x0001653E File Offset: 0x0001473E
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55EB8", Offset = "0x1C55EB8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "get_Item", MemberParameters = new object[] { "TKey" }, ReturnType = "TValue")]
@@ -996,7 +1863,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B1A RID: 2842 RVA: 0x00016541 File Offset: 0x00014741
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55EC0", Offset = "0x1C55EC0", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1012,7 +1878,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B1B RID: 2843 RVA: 0x00016544 File Offset: 0x00014744
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55F20", Offset = "0x1C55F20", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.Dictionary<, >), Member = "FindEntry", MemberParameters = new object[] { "TKey" }, ReturnType = typeof(int))]
@@ -1030,7 +1895,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B1C RID: 2844 RVA: 0x00016547 File Offset: 0x00014747
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55F50", Offset = "0x1C55F50", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowInvalidOperationException_ConcurrentOperationsNotSupported", ReturnType = typeof(void))]
@@ -1042,7 +1906,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B1D RID: 2845 RVA: 0x0001654A File Offset: 0x0001474A
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55FAC", Offset = "0x1C55FAC", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ArraySegment<>), Member = ".ctor", MemberParameters = new object[]
@@ -1064,7 +1927,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B1E RID: 2846 RVA: 0x0001654D File Offset: 0x0001474D
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C55FD0", Offset = "0x1C55FD0", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "ThrowArraySegmentCtorValidationFailedExceptions", MemberParameters = new object[]
@@ -1085,7 +1947,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B1F RID: 2847 RVA: 0x00016550 File Offset: 0x00014750
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C56124", Offset = "0x1C56124", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "GetArraySegmentCtorValidationFailedException", MemberParameters = new object[]
@@ -1103,7 +1964,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B20 RID: 2848 RVA: 0x00016553 File Offset: 0x00014753
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C56000", Offset = "0x1C56000", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1115,7 +1975,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B21 RID: 2849 RVA: 0x00016556 File Offset: 0x00014756
 		[global::Cpp2ILInjected.Token(Token = "0x6000BC9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A1400", Offset = "0x15A1400", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -1126,7 +1985,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B22 RID: 2850 RVA: 0x00016559 File Offset: 0x00014759
 		[global::Cpp2ILInjected.Token(Token = "0x6000BCA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C557D4", Offset = "0x1C557D4", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1158,7 +2016,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B23 RID: 2851 RVA: 0x0001655C File Offset: 0x0001475C
 		[global::Cpp2ILInjected.Token(Token = "0x6000BCB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5606C", Offset = "0x1C5606C", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "GetArraySegmentCtorValidationFailedException", MemberParameters = new object[]
@@ -1181,7 +2038,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B24 RID: 2852 RVA: 0x0001655F File Offset: 0x0001475F
 		[global::Cpp2ILInjected.Token(Token = "0x6000BCC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C554E4", Offset = "0x1C554E4", Length = "0x28C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

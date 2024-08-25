@@ -8,13 +8,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x020000DB RID: 219
 	[global::Cpp2ILInjected.Token(Token = "0x2000142")]
 	[Serializable]
 	public class IPEndPoint : EndPoint
 	{
-		// Token: 0x17000194 RID: 404
-		// (get) Token: 0x0600070B RID: 1803 RVA: 0x00004274 File Offset: 0x00002474
 		[global::Cpp2ILInjected.Token(Token = "0x1700019E")]
 		public override AddressFamily AddressFamily
 		{
@@ -28,7 +25,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x0600070C RID: 1804 RVA: 0x00004277 File Offset: 0x00002477
 		[global::Cpp2ILInjected.Token(Token = "0x60007D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EEA984", Offset = "0x1EEA984", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +39,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600070D RID: 1805 RVA: 0x0000427A File Offset: 0x0000247A
 		[global::Cpp2ILInjected.Token(Token = "0x60007D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EEAA4C", Offset = "0x1EEAA4C", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -106,9 +101,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000195 RID: 405
-		// (get) Token: 0x0600070E RID: 1806 RVA: 0x0000427D File Offset: 0x0000247D
-		// (set) Token: 0x0600070F RID: 1807 RVA: 0x00004280 File Offset: 0x00002480
 		[global::Cpp2ILInjected.Token(Token = "0x1700019F")]
 		public IPAddress Address
 		{
@@ -128,9 +120,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000196 RID: 406
-		// (get) Token: 0x06000710 RID: 1808 RVA: 0x00004283 File Offset: 0x00002483
-		// (set) Token: 0x06000711 RID: 1809 RVA: 0x00004286 File Offset: 0x00002486
 		[global::Cpp2ILInjected.Token(Token = "0x170001A0")]
 		public int Port
 		{
@@ -153,7 +142,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000712 RID: 1810 RVA: 0x00004289 File Offset: 0x00002489
 		[global::Cpp2ILInjected.Token(Token = "0x60007D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EEAB7C", Offset = "0x1EEAB7C", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -172,7 +160,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000713 RID: 1811 RVA: 0x0000428C File Offset: 0x0000248C
 		[global::Cpp2ILInjected.Token(Token = "0x60007D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EEAC30", Offset = "0x1EEAC30", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -187,7 +174,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000714 RID: 1812 RVA: 0x0000428F File Offset: 0x0000248F
 		[global::Cpp2ILInjected.Token(Token = "0x60007DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EEAC98", Offset = "0x1EEAC98", Length = "0x1C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -220,7 +206,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000715 RID: 1813 RVA: 0x00004292 File Offset: 0x00002492
 		[global::Cpp2ILInjected.Token(Token = "0x60007DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EEAE5C", Offset = "0x1EEAE5C", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -231,7 +216,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000716 RID: 1814 RVA: 0x00004295 File Offset: 0x00002495
 		[global::Cpp2ILInjected.Token(Token = "0x60007DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EEAF04", Offset = "0x1EEAF04", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -241,7 +225,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000717 RID: 1815 RVA: 0x00004298 File Offset: 0x00002498
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60007DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EEAF2C", Offset = "0x1EEAF2C", Length = "0xC8")]
@@ -257,33 +240,26 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040004C1 RID: 1217
 		[global::Cpp2ILInjected.Token(Token = "0x4000647")]
 		public const int MinPort = 0;
 
-		// Token: 0x040004C2 RID: 1218
 		[global::Cpp2ILInjected.Token(Token = "0x4000648")]
 		public const int MaxPort = 65535;
 
-		// Token: 0x040004C3 RID: 1219
 		[global::Cpp2ILInjected.Token(Token = "0x4000649")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private IPAddress _address;
 
-		// Token: 0x040004C4 RID: 1220
 		[global::Cpp2ILInjected.Token(Token = "0x400064A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int _port;
 
-		// Token: 0x040004C5 RID: 1221
 		[global::Cpp2ILInjected.Token(Token = "0x400064B")]
 		internal const int AnyPort = 0;
 
-		// Token: 0x040004C6 RID: 1222
 		[global::Cpp2ILInjected.Token(Token = "0x400064C")]
 		internal static IPEndPoint Any;
 
-		// Token: 0x040004C7 RID: 1223
 		[global::Cpp2ILInjected.Token(Token = "0x400064D")]
 		internal static IPEndPoint IPv6Any;
 	}

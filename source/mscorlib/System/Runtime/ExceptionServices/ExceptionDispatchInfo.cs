@@ -3,6 +3,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 using System.Threading.Tasks;
 using Cpp2ILInjected;
@@ -11,11 +12,9 @@ using Internal.Runtime.Augments;
 
 namespace System.Runtime.ExceptionServices
 {
-	// Token: 0x020003AF RID: 943
 	[global::Cpp2ILInjected.Token(Token = "0x200045C")]
 	public sealed class ExceptionDispatchInfo
 	{
-		// Token: 0x06001F9E RID: 8094 RVA: 0x00019D8A File Offset: 0x00017F8A
 		[global::Cpp2ILInjected.Token(Token = "0x60021E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B72D48", Offset = "0x1B72D48", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExceptionDispatchInfo), Member = "Capture", MemberParameters = new object[] { typeof(global::System.Exception) }, ReturnType = typeof(ExceptionDispatchInfo))]
@@ -41,8 +40,6 @@ namespace System.Runtime.ExceptionServices
 			throw null;
 		}
 
-		// Token: 0x17000402 RID: 1026
-		// (get) Token: 0x06001F9F RID: 8095 RVA: 0x00019D8D File Offset: 0x00017F8D
 		[global::Cpp2ILInjected.Token(Token = "0x17000460")]
 		internal object BinaryStackTraceArray
 		{
@@ -55,7 +52,6 @@ namespace System.Runtime.ExceptionServices
 			}
 		}
 
-		// Token: 0x06001FA0 RID: 8096 RVA: 0x00019D90 File Offset: 0x00017F90
 		[global::Cpp2ILInjected.Token(Token = "0x60021E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B7292C", Offset = "0x1B7292C", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Internal.Runtime.Augments.RuntimeAugments), Member = "ReportUnhandledException", MemberParameters = new object[] { typeof(global::System.Exception) }, ReturnType = typeof(void))]
@@ -118,8 +114,6 @@ namespace System.Runtime.ExceptionServices
 			throw null;
 		}
 
-		// Token: 0x17000403 RID: 1027
-		// (get) Token: 0x06001FA1 RID: 8097 RVA: 0x00019D93 File Offset: 0x00017F93
 		[global::Cpp2ILInjected.Token(Token = "0x17000461")]
 		public global::System.Exception SourceException
 		{
@@ -132,10 +126,46 @@ namespace System.Runtime.ExceptionServices
 			}
 		}
 
-		// Token: 0x06001FA2 RID: 8098 RVA: 0x00019D96 File Offset: 0x00017F96
 		[global::System.Diagnostics.StackTraceHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x60021EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B729EC", Offset = "0x1B729EC", Length = "0x34")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Internal.Runtime.Augments.RuntimeAugments), Member = "ReportUnhandledException", MemberParameters = new object[] { typeof(global::System.Exception) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.RendezvousAwaitable<>), Member = "GetResult", ReturnType = "TResult")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.InteropServices.Marshal), Member = "GetCustomMarshalerInstance", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(string)
+		}, ReturnType = typeof(global::System.Runtime.InteropServices.ICustomMarshaler))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExceptionDispatchInfo), Member = "Throw", MemberParameters = new object[] { typeof(global::System.Exception) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.CompilerServices.TaskAwaiter), Member = "ThrowForNonSuccess", MemberParameters = new object[] { typeof(global::System.Threading.Tasks.Task) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c", Member = "<ThrowAsync>b__7_0", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c", Member = "<ThrowAsync>b__7_1", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.SynchronousAsyncResult", Member = "ThrowIfError", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.SynchronousAsyncResult", Member = "EndRead", MemberParameters = new object[] { typeof(global::System.IAsyncResult) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.SynchronousAsyncResult", Member = "EndWrite", MemberParameters = new object[] { typeof(global::System.IAsyncResult) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream.<ProcessAuthentication>d__48", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream.<StartOperation>d__57", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "CheckThrow", MemberParameters = new object[]
+		{
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "ProcessHandshake", MemberParameters = new object[]
+		{
+			"Mono.Net.Security.AsyncOperationStatus",
+			typeof(bool)
+		}, ReturnType = "Mono.Net.Security.AsyncOperationStatus")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "ProcessRead", MemberParameters = new object[] { "Mono.Net.Security.BufferOffsetSize" }, ReturnType = "System.ValueTuple`2<Int32, Boolean>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "ProcessWrite", MemberParameters = new object[] { "Mono.Net.Security.BufferOffsetSize" }, ReturnType = "System.ValueTuple`2<Int32, Boolean>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "get_InternalLocalCertificate", ReturnType = typeof(global::System.Security.Cryptography.X509Certificates.X509Certificate))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebCompletionSource`1.<WaitForCompletion>d__15", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebCompletionSource`1", Member = "ThrowOnError", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebOperation", Member = "CheckThrowDisposed", MemberParameters = new object[]
+		{
+			typeof(bool),
+			typeof(ref ExceptionDispatchInfo)
+		}, ReturnType = typeof(ExceptionDispatchInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<WriteAsyncInner>d__33", Member = "MoveNext", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 22)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.Exception), Member = "RestoreExceptionDispatchInfo", MemberParameters = new object[] { typeof(ExceptionDispatchInfo) }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
@@ -144,7 +174,6 @@ namespace System.Runtime.ExceptionServices
 			throw null;
 		}
 
-		// Token: 0x06001FA3 RID: 8099 RVA: 0x00019D99 File Offset: 0x00017F99
 		[global::System.Diagnostics.StackTraceHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x60021EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B72E64", Offset = "0x1B72E64", Length = "0xC")]
@@ -174,12 +203,10 @@ namespace System.Runtime.ExceptionServices
 			throw null;
 		}
 
-		// Token: 0x04000F9E RID: 3998
 		[global::Cpp2ILInjected.Token(Token = "0x4001295")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private global::System.Exception m_Exception;
 
-		// Token: 0x04000F9F RID: 3999
 		[global::Cpp2ILInjected.Token(Token = "0x4001296")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private object m_stackTrace;

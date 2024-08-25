@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x020000C6 RID: 198
 	[global::Cpp2ILInjected.Token(Token = "0x2000127")]
 	internal static class HttpValidationHelpers
 	{
-		// Token: 0x0600063B RID: 1595 RVA: 0x00004004 File Offset: 0x00002204
 		[global::Cpp2ILInjected.Token(Token = "0x60006EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE12EC", Offset = "0x1EE12EC", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -26,7 +24,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600063C RID: 1596 RVA: 0x00004007 File Offset: 0x00002207
 		[global::Cpp2ILInjected.Token(Token = "0x60006EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE14BC", Offset = "0x1EE14BC", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -39,7 +36,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600063D RID: 1597 RVA: 0x0000400A File Offset: 0x0000220A
 		[global::Cpp2ILInjected.Token(Token = "0x60006EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE1538", Offset = "0x1EE1538", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -52,7 +48,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600063E RID: 1598 RVA: 0x0000400D File Offset: 0x0000220D
 		[global::Cpp2ILInjected.Token(Token = "0x60006ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE15C8", Offset = "0x1EE15C8", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +68,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600063F RID: 1599 RVA: 0x00004010 File Offset: 0x00002210
 		[global::Cpp2ILInjected.Token(Token = "0x60006EE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE13C4", Offset = "0x1EE13C4", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -87,7 +81,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000640 RID: 1600 RVA: 0x00004013 File Offset: 0x00002213
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60006EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE1798", Offset = "0x1EE1798", Length = "0x94")]
@@ -103,7 +96,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040003F1 RID: 1009
 		[global::Cpp2ILInjected.Token(Token = "0x4000566")]
 		private static readonly char[] s_httpTrimCharacters;
 	}

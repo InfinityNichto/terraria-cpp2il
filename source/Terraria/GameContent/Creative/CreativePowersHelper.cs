@@ -14,11 +14,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.Creative
 {
-	// Token: 0x0200067F RID: 1663
 	[global::Cpp2ILInjected.Token(Token = "0x2000A0F")]
 	public class CreativePowersHelper
 	{
-		// Token: 0x06004171 RID: 16753 RVA: 0x0002DB30 File Offset: 0x0002BD30
 		[global::Cpp2ILInjected.Token(Token = "0x6004C02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B4E2C", Offset = "0x8B4E2C", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -30,7 +28,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x06004172 RID: 16754 RVA: 0x0002DB33 File Offset: 0x0002BD33
 		[global::Cpp2ILInjected.Token(Token = "0x6004C03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B4F1C", Offset = "0x8B4F1C", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerTogglePower), Member = "ProvidePowerButtons", MemberParameters = new object[]
@@ -83,7 +80,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x06004173 RID: 16755 RVA: 0x0002DB36 File Offset: 0x0002BD36
 		[global::Cpp2ILInjected.Token(Token = "0x6004C04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B5040", Offset = "0x8B5040", Length = "0x210")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +129,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x06004174 RID: 16756 RVA: 0x0002DB39 File Offset: 0x0002BD39
 		[global::Cpp2ILInjected.Token(Token = "0x6004C05")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B5250", Offset = "0x8B5250", Length = "0x1AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -178,7 +173,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x06004175 RID: 16757 RVA: 0x0002DB3C File Offset: 0x0002BD3C
 		[global::Cpp2ILInjected.Token(Token = "0x6004C06")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15792E8", Offset = "0x15792E8", Length = "0x1B8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -214,7 +208,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x06004176 RID: 16758 RVA: 0x0002DB3F File Offset: 0x0002BD3F
 		[global::Cpp2ILInjected.Token(Token = "0x6004C07")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B53FC", Offset = "0x8B53FC", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerTogglePower), Member = "button_OnUpdate", MemberParameters = new object[] { typeof(UIElement) }, ReturnType = typeof(void))]
@@ -247,7 +240,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x06004177 RID: 16759 RVA: 0x0002DB42 File Offset: 0x0002BD42
 		[global::Cpp2ILInjected.Token(Token = "0x6004C08")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B5610", Offset = "0x8B5610", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerTogglePower), Member = "button_OnUpdate", MemberParameters = new object[] { typeof(UIElement) }, ReturnType = typeof(void))]
@@ -274,7 +266,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x06004178 RID: 16760 RVA: 0x0002DB45 File Offset: 0x0002BD45
 		[global::Cpp2ILInjected.Token(Token = "0x6004C09")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B56A8", Offset = "0x8B56A8", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerTogglePower), Member = "button_OnUpdate", MemberParameters = new object[] { typeof(UIElement) }, ReturnType = typeof(void))]
@@ -296,7 +287,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x06004179 RID: 16761 RVA: 0x0002DB48 File Offset: 0x0002BD48
 		[global::Cpp2ILInjected.Token(Token = "0x6004C0A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B5724", Offset = "0x8B5724", Length = "0x140")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.ModifyTimeRate), Member = "ProvideSlider", ReturnType = typeof(UIElement))]
@@ -323,7 +313,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x0600417A RID: 16762 RVA: 0x0002DB4B File Offset: 0x0002BD4B
 		[global::Cpp2ILInjected.Token(Token = "0x6004C0B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B5864", Offset = "0x8B5864", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -334,7 +323,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x0600417B RID: 16763 RVA: 0x0002DB4E File Offset: 0x0002BD4E
 		[global::Cpp2ILInjected.Token(Token = "0x6004C0C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B58CC", Offset = "0x8B58CC", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerTogglePower), Member = "ProvidePowerButtons", MemberParameters = new object[]
@@ -388,7 +376,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x0600417C RID: 16764 RVA: 0x0002DB51 File Offset: 0x0002BD51
 		[global::Cpp2ILInjected.Token(Token = "0x6004C0D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B54EC", Offset = "0x8B54EC", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -458,7 +445,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x0600417D RID: 16765 RVA: 0x0002DB54 File Offset: 0x0002BD54
 		[global::Cpp2ILInjected.Token(Token = "0x6004C0E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B59E4", Offset = "0x8B59E4", Length = "0x3D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -482,7 +468,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x0600417E RID: 16766 RVA: 0x0002DB57 File Offset: 0x0002BD57
 		[global::Cpp2ILInjected.Token(Token = "0x6004C0F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B5DB8", Offset = "0x8B5DB8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -492,7 +477,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x0600417F RID: 16767 RVA: 0x0002DB5A File Offset: 0x0002BD5A
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6004C10")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B5DC0", Offset = "0x8B5DC0", Length = "0x68")]
@@ -509,23 +493,18 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x04006DB9 RID: 28089
 		[global::Cpp2ILInjected.Token(Token = "0x4008620")]
 		public const int TextureIconColumns = 21;
 
-		// Token: 0x04006DBA RID: 28090
 		[global::Cpp2ILInjected.Token(Token = "0x4008621")]
 		public const int TextureIconRows = 1;
 
-		// Token: 0x04006DBB RID: 28091
 		[global::Cpp2ILInjected.Token(Token = "0x4008622")]
 		public static Color CommonSelectedColor;
 
-		// Token: 0x02000A6F RID: 2671
 		[global::Cpp2ILInjected.Token(Token = "0x2000A10")]
 		public class CreativePowerIconLocations
 		{
-			// Token: 0x060050BD RID: 20669 RVA: 0x000303D4 File Offset: 0x0002E5D4
 			[global::Cpp2ILInjected.Token(Token = "0x6004C11")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8B5E28", Offset = "0x8B5E28", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -535,7 +514,6 @@ namespace Terraria.GameContent.Creative
 				throw null;
 			}
 
-			// Token: 0x060050BE RID: 20670 RVA: 0x000303D7 File Offset: 0x0002E5D7
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6004C12")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8B5E30", Offset = "0x8B5E30", Length = "0x3DC")]
@@ -551,105 +529,80 @@ namespace Terraria.GameContent.Creative
 				throw null;
 			}
 
-			// Token: 0x04008E80 RID: 36480
 			[global::Cpp2ILInjected.Token(Token = "0x4008623")]
 			public static readonly Point Unassigned;
 
-			// Token: 0x04008E81 RID: 36481
 			[global::Cpp2ILInjected.Token(Token = "0x4008624")]
 			public static readonly Point Deprecated;
 
-			// Token: 0x04008E82 RID: 36482
 			[global::Cpp2ILInjected.Token(Token = "0x4008625")]
 			public static readonly Point ItemDuplication;
 
-			// Token: 0x04008E83 RID: 36483
 			[global::Cpp2ILInjected.Token(Token = "0x4008626")]
 			public static readonly Point ItemResearch;
 
-			// Token: 0x04008E84 RID: 36484
 			[global::Cpp2ILInjected.Token(Token = "0x4008627")]
 			public static readonly Point TimeCategory;
 
-			// Token: 0x04008E85 RID: 36485
 			[global::Cpp2ILInjected.Token(Token = "0x4008628")]
 			public static readonly Point WeatherCategory;
 
-			// Token: 0x04008E86 RID: 36486
 			[global::Cpp2ILInjected.Token(Token = "0x4008629")]
 			public static readonly Point EnemyStrengthSlider;
 
-			// Token: 0x04008E87 RID: 36487
 			[global::Cpp2ILInjected.Token(Token = "0x400862A")]
 			public static readonly Point GameEvents;
 
-			// Token: 0x04008E88 RID: 36488
 			[global::Cpp2ILInjected.Token(Token = "0x400862B")]
 			public static readonly Point Godmode;
 
-			// Token: 0x04008E89 RID: 36489
 			[global::Cpp2ILInjected.Token(Token = "0x400862C")]
 			public static readonly Point BlockPlacementRange;
 
-			// Token: 0x04008E8A RID: 36490
 			[global::Cpp2ILInjected.Token(Token = "0x400862D")]
 			public static readonly Point StopBiomeSpread;
 
-			// Token: 0x04008E8B RID: 36491
 			[global::Cpp2ILInjected.Token(Token = "0x400862E")]
 			public static readonly Point EnemySpawnRate;
 
-			// Token: 0x04008E8C RID: 36492
 			[global::Cpp2ILInjected.Token(Token = "0x400862F")]
 			public static readonly Point FreezeTime;
 
-			// Token: 0x04008E8D RID: 36493
 			[global::Cpp2ILInjected.Token(Token = "0x4008630")]
 			public static readonly Point TimeDawn;
 
-			// Token: 0x04008E8E RID: 36494
 			[global::Cpp2ILInjected.Token(Token = "0x4008631")]
 			public static readonly Point TimeNoon;
 
-			// Token: 0x04008E8F RID: 36495
 			[global::Cpp2ILInjected.Token(Token = "0x4008632")]
 			public static readonly Point TimeDusk;
 
-			// Token: 0x04008E90 RID: 36496
 			[global::Cpp2ILInjected.Token(Token = "0x4008633")]
 			public static readonly Point TimeMidnight;
 
-			// Token: 0x04008E91 RID: 36497
 			[global::Cpp2ILInjected.Token(Token = "0x4008634")]
 			public static readonly Point WindDirection;
 
-			// Token: 0x04008E92 RID: 36498
 			[global::Cpp2ILInjected.Token(Token = "0x4008635")]
 			public static readonly Point WindFreeze;
 
-			// Token: 0x04008E93 RID: 36499
 			[global::Cpp2ILInjected.Token(Token = "0x4008636")]
 			public static readonly Point RainStrength;
 
-			// Token: 0x04008E94 RID: 36500
 			[global::Cpp2ILInjected.Token(Token = "0x4008637")]
 			public static readonly Point RainFreeze;
 
-			// Token: 0x04008E95 RID: 36501
 			[global::Cpp2ILInjected.Token(Token = "0x4008638")]
 			public static readonly Point ModifyTime;
 
-			// Token: 0x04008E96 RID: 36502
 			[global::Cpp2ILInjected.Token(Token = "0x4008639")]
 			public static readonly Point PersonalCategory;
 		}
 
-		// Token: 0x02000A70 RID: 2672
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000A11")]
 		private sealed class <>c__DisplayClass14_0
 		{
-			// Token: 0x060050BF RID: 20671 RVA: 0x000303DA File Offset: 0x0002E5DA
 			[global::Cpp2ILInjected.Token(Token = "0x6004C13")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8B59DC", Offset = "0x8B59DC", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -659,7 +612,6 @@ namespace Terraria.GameContent.Creative
 				throw null;
 			}
 
-			// Token: 0x060050C0 RID: 20672 RVA: 0x000303DD File Offset: 0x0002E5DD
 			[global::Cpp2ILInjected.Token(Token = "0x6004C14")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8B620C", Offset = "0x8B620C", Length = "0x68")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -675,17 +627,14 @@ namespace Terraria.GameContent.Creative
 				throw null;
 			}
 
-			// Token: 0x04008E97 RID: 36503
 			[global::Cpp2ILInjected.Token(Token = "0x400863A")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public ICreativePower power;
 
-			// Token: 0x04008E98 RID: 36504
 			[global::Cpp2ILInjected.Token(Token = "0x400863B")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public Color colorWhenSelected;
 
-			// Token: 0x04008E99 RID: 36505
 			[global::Cpp2ILInjected.Token(Token = "0x400863C")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			public IGroupOptionButton asButton;

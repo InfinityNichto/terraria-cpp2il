@@ -1,7 +1,0 @@
-<map id="Terraria.Player.RandomTeleportationAttemptSettings" name="Terraria.Player.RandomTeleportationAttemptSettings">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,192,256,287"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="33,5,76,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,71,48,118,51,143,58,167,64,177,59,180,54,169,46,144,43,118,46,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="191,5,222,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,72,196,118,180,169,175,179,170,177,175,167,191,117,200,70"/>
-</map>

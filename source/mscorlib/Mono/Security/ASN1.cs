@@ -9,12 +9,10 @@ using Mono.Security.Cryptography;
 
 namespace Mono.Security
 {
-	// Token: 0x0200002A RID: 42
 	[global::System.Reflection.DefaultMember("Item")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000040")]
 	internal class ASN1
 	{
-		// Token: 0x060000C5 RID: 197 RVA: 0x00014816 File Offset: 0x00012A16
 		[global::Cpp2ILInjected.Token(Token = "0x6000107")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB5C34", Offset = "0x1AB5C34", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mono.Security.Cryptography.PKCS1), Member = "Encode_v15", MemberParameters = new object[]
@@ -30,7 +28,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x060000C6 RID: 198 RVA: 0x00014819 File Offset: 0x00012A19
 		[global::Cpp2ILInjected.Token(Token = "0x6000108")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB5C60", Offset = "0x1AB5C60", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mono.Security.Cryptography.PKCS1), Member = "Encode_v15", MemberParameters = new object[]
@@ -46,7 +43,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x060000C7 RID: 199 RVA: 0x0001481C File Offset: 0x00012A1C
 		[global::Cpp2ILInjected.Token(Token = "0x6000109")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB5C90", Offset = "0x1AB5C90", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,8 +75,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x1700000F RID: 15
-		// (get) Token: 0x060000C8 RID: 200 RVA: 0x0001481F File Offset: 0x00012A1F
 		[global::Cpp2ILInjected.Token(Token = "0x17000017")]
 		public int Count
 		{
@@ -94,8 +88,6 @@ namespace Mono.Security
 			}
 		}
 
-		// Token: 0x17000010 RID: 16
-		// (get) Token: 0x060000C9 RID: 201 RVA: 0x00014822 File Offset: 0x00012A22
 		[global::Cpp2ILInjected.Token(Token = "0x17000018")]
 		public byte[] Value
 		{
@@ -112,7 +104,6 @@ namespace Mono.Security
 			}
 		}
 
-		// Token: 0x060000CA RID: 202 RVA: 0x00014825 File Offset: 0x00012A25
 		[global::Cpp2ILInjected.Token(Token = "0x600010C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB5F98", Offset = "0x1AB5F98", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,7 +127,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x060000CB RID: 203 RVA: 0x00014828 File Offset: 0x00012A28
 		[global::Cpp2ILInjected.Token(Token = "0x600010D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB601C", Offset = "0x1AB601C", Length = "0x5C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +146,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x060000CC RID: 204 RVA: 0x0001482B File Offset: 0x00012A2B
 		[global::Cpp2ILInjected.Token(Token = "0x600010E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB5DD8", Offset = "0x1AB5DD8", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -190,7 +179,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x060000CD RID: 205 RVA: 0x0001482E File Offset: 0x00012A2E
 		[global::Cpp2ILInjected.Token(Token = "0x600010F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB65E4", Offset = "0x1AB65E4", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -215,7 +203,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x060000CE RID: 206 RVA: 0x00014831 File Offset: 0x00012A31
 		[global::Cpp2ILInjected.Token(Token = "0x6000110")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB66D8", Offset = "0x1AB66D8", Length = "0x278")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -247,17 +234,14 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x0400008E RID: 142
 		[global::Cpp2ILInjected.Token(Token = "0x400013B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private byte m_nTag;
 
-		// Token: 0x0400008F RID: 143
 		[global::Cpp2ILInjected.Token(Token = "0x400013C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private byte[] m_aValue;
 
-		// Token: 0x04000090 RID: 144
 		[global::Cpp2ILInjected.Token(Token = "0x400013D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private global::System.Collections.ArrayList elist;

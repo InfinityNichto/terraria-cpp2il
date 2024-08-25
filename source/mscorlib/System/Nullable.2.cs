@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x020000B4 RID: 180
 	[global::Cpp2ILInjected.Token(Token = "0x20000E4")]
 	public static class Nullable
 	{
-		// Token: 0x060007B3 RID: 1971 RVA: 0x00015B90 File Offset: 0x00013D90
 		[global::Cpp2ILInjected.Token(Token = "0x6000858")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C377F0", Offset = "0x1C377F0", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

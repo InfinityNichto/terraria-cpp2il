@@ -7,12 +7,10 @@ using Terraria.Localization;
 
 namespace Terraria.Chat.Commands
 {
-	// Token: 0x02000538 RID: 1336
 	[ChatCommand("Help")]
 	[global::Cpp2ILInjected.Token(Token = "0x20007A5")]
 	public class HelpCommand : IChatCommand
 	{
-		// Token: 0x06003926 RID: 14630 RVA: 0x0002C342 File Offset: 0x0002A542
 		[global::Cpp2ILInjected.Token(Token = "0x6003FD2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74AD48", Offset = "0x74AD48", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -30,7 +28,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x06003927 RID: 14631 RVA: 0x0002C345 File Offset: 0x0002A545
 		[global::Cpp2ILInjected.Token(Token = "0x6003FD3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74ADE4", Offset = "0x74ADE4", Length = "0x278")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +73,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x06003928 RID: 14632 RVA: 0x0002C348 File Offset: 0x0002A548
 		[global::Cpp2ILInjected.Token(Token = "0x6003FD4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74B05C", Offset = "0x74B05C", Length = "0x338")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -118,7 +114,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x06003929 RID: 14633 RVA: 0x0002C34B File Offset: 0x0002A54B
 		[global::Cpp2ILInjected.Token(Token = "0x6003FD5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74B394", Offset = "0x74B394", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -127,7 +122,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x0600392A RID: 14634 RVA: 0x0002C34E File Offset: 0x0002A54E
 		[global::Cpp2ILInjected.Token(Token = "0x6003FD6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74B398", Offset = "0x74B398", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -137,7 +131,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x0600392B RID: 14635 RVA: 0x0002C351 File Offset: 0x0002A551
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003FD7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74B3A0", Offset = "0x74B3A0", Length = "0x68")]
@@ -154,7 +147,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x040068A1 RID: 26785
 		[global::Cpp2ILInjected.Token(Token = "0x4007DD3")]
 		private static readonly Color RESPONSE_COLOR;
 	}

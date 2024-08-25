@@ -9,7 +9,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000077 RID: 119
 	[UsedByNativeCode]
 	[NativeHeader("Modules/IMGUI/GUIStyle.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000084")]
@@ -17,7 +16,6 @@ namespace UnityEngine
 	[StructLayout(0)]
 	public class RectOffset : IFormattable
 	{
-		// Token: 0x0600021F RID: 543 RVA: 0x0000245B File Offset: 0x0000065B
 		[global::Cpp2ILInjected.Token(Token = "0x600022D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F76FDC", Offset = "0x1F76FDC", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -30,7 +28,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000220 RID: 544 RVA: 0x0000245E File Offset: 0x0000065E
 		[VisibleToOtherModules(new string[] { "UnityEngine.IMGUIModule" })]
 		[global::Cpp2ILInjected.Token(Token = "0x600022E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7704C", Offset = "0x1F7704C", Length = "0x2C")]
@@ -43,7 +40,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000221 RID: 545 RVA: 0x00002461 File Offset: 0x00000661
 		[global::Cpp2ILInjected.Token(Token = "0x600022F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F77078", Offset = "0x1F77078", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +52,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000222 RID: 546 RVA: 0x00002464 File Offset: 0x00000664
 		[global::Cpp2ILInjected.Token(Token = "0x6000230")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F771B8", Offset = "0x1F771B8", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -65,7 +60,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000223 RID: 547 RVA: 0x00002467 File Offset: 0x00000667
 		[global::Cpp2ILInjected.Token(Token = "0x6000231")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F771C4", Offset = "0x1F771C4", Length = "0x260")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -87,7 +81,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000224 RID: 548 RVA: 0x0000246A File Offset: 0x0000066A
 		[global::Cpp2ILInjected.Token(Token = "0x6000232")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F77118", Offset = "0x1F77118", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,7 +97,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000225 RID: 549
 		[ThreadAndSerializationSafe]
 		[global::Cpp2ILInjected.Token(Token = "0x6000233")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F77024", Offset = "0x1F77024", Length = "0x28")]
@@ -113,7 +105,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern IntPtr InternalCreate();
 
-		// Token: 0x06000226 RID: 550
 		[ThreadAndSerializationSafe]
 		[global::Cpp2ILInjected.Token(Token = "0x6000234")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F77514", Offset = "0x1F77514", Length = "0x3C")]
@@ -122,8 +113,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void InternalDestroy(IntPtr ptr);
 
-		// Token: 0x17000072 RID: 114
-		// (get) Token: 0x06000227 RID: 551
 		[NativeProperty("left", false, TargetType.Field)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000074")]
 		public extern int left
@@ -164,8 +153,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000073 RID: 115
-		// (get) Token: 0x06000228 RID: 552
 		[NativeProperty("right", false, TargetType.Field)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000075")]
 		public extern int right
@@ -186,8 +173,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000074 RID: 116
-		// (get) Token: 0x06000229 RID: 553
 		[NativeProperty("top", false, TargetType.Field)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000076")]
 		public extern int top
@@ -224,8 +209,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000075 RID: 117
-		// (get) Token: 0x0600022A RID: 554
 		[NativeProperty("bottom", false, TargetType.Field)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000077")]
 		public extern int bottom
@@ -246,8 +229,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000076 RID: 118
-		// (get) Token: 0x0600022B RID: 555
 		[global::Cpp2ILInjected.Token(Token = "0x17000078")]
 		public extern int horizontal
 		{
@@ -278,8 +259,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000077 RID: 119
-		// (get) Token: 0x0600022C RID: 556
 		[global::Cpp2ILInjected.Token(Token = "0x17000079")]
 		public extern int vertical
 		{
@@ -309,14 +288,12 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x040002EA RID: 746
 		[VisibleToOtherModules(new string[] { "UnityEngine.IMGUIModule" })]
 		[global::Cpp2ILInjected.Token(Token = "0x4000315")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		[NonSerialized]
 		internal IntPtr m_Ptr;
 
-		// Token: 0x040002EB RID: 747
 		[global::Cpp2ILInjected.Token(Token = "0x4000316")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly object m_SourceStyle;

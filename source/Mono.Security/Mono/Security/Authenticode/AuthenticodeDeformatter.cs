@@ -8,11 +8,9 @@ using Mono.Security.X509;
 
 namespace Mono.Security.Authenticode
 {
-	// Token: 0x02000042 RID: 66
 	[global::Cpp2ILInjected.Token(Token = "0x2000060")]
 	public class AuthenticodeDeformatter : AuthenticodeBase
 	{
-		// Token: 0x0600022D RID: 557 RVA: 0x000035A3 File Offset: 0x000017A3
 		[global::Cpp2ILInjected.Token(Token = "0x600029F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AA3060", Offset = "0x1AA3060", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AuthenticodeDeformatter), Member = ".ctor", MemberParameters = new object[] { typeof(byte[]) }, ReturnType = typeof(void))]
@@ -25,7 +23,6 @@ namespace Mono.Security.Authenticode
 			throw null;
 		}
 
-		// Token: 0x0600022E RID: 558 RVA: 0x000035A6 File Offset: 0x000017A6
 		[global::Cpp2ILInjected.Token(Token = "0x60002A0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AA30E4", Offset = "0x1AA30E4", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.X509PalImpl", Member = "GetCertContentType", MemberParameters = new object[] { typeof(byte[]) }, ReturnType = typeof(X509ContentType))]
@@ -42,8 +39,6 @@ namespace Mono.Security.Authenticode
 			throw null;
 		}
 
-		// Token: 0x1700009C RID: 156
-		// (set) Token: 0x0600022F RID: 559 RVA: 0x000035A9 File Offset: 0x000017A9
 		[global::Cpp2ILInjected.Token(Token = "0x170000BD")]
 		public byte[] RawData
 		{
@@ -60,8 +55,6 @@ namespace Mono.Security.Authenticode
 			}
 		}
 
-		// Token: 0x1700009D RID: 157
-		// (get) Token: 0x06000230 RID: 560 RVA: 0x000035AC File Offset: 0x000017AC
 		[global::Cpp2ILInjected.Token(Token = "0x170000BE")]
 		public Mono.Security.X509.X509Certificate SigningCertificate
 		{
@@ -74,7 +67,6 @@ namespace Mono.Security.Authenticode
 			}
 		}
 
-		// Token: 0x06000231 RID: 561 RVA: 0x000035AF File Offset: 0x000017AF
 		[global::Cpp2ILInjected.Token(Token = "0x60002A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AA3274", Offset = "0x1AA3274", Length = "0x2A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,7 +106,6 @@ namespace Mono.Security.Authenticode
 			throw null;
 		}
 
-		// Token: 0x06000232 RID: 562 RVA: 0x000035B2 File Offset: 0x000017B2
 		[global::Cpp2ILInjected.Token(Token = "0x60002A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AA3EC0", Offset = "0x1AA3EC0", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -140,7 +131,6 @@ namespace Mono.Security.Authenticode
 			throw null;
 		}
 
-		// Token: 0x06000233 RID: 563 RVA: 0x000035B5 File Offset: 0x000017B5
 		[global::Cpp2ILInjected.Token(Token = "0x60002A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AA351C", Offset = "0x1AA351C", Length = "0x9A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -194,7 +184,6 @@ namespace Mono.Security.Authenticode
 			throw null;
 		}
 
-		// Token: 0x06000234 RID: 564 RVA: 0x000035B8 File Offset: 0x000017B8
 		[global::Cpp2ILInjected.Token(Token = "0x60002A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AA3F94", Offset = "0x1AA3F94", Length = "0x974")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -252,7 +241,6 @@ namespace Mono.Security.Authenticode
 			throw null;
 		}
 
-		// Token: 0x06000235 RID: 565 RVA: 0x000035BB File Offset: 0x000017BB
 		[global::Cpp2ILInjected.Token(Token = "0x60002A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AA31DC", Offset = "0x1AA31DC", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -265,67 +253,54 @@ namespace Mono.Security.Authenticode
 			throw null;
 		}
 
-		// Token: 0x0400024E RID: 590
 		[global::Cpp2ILInjected.Token(Token = "0x4000283")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private string filename;
 
-		// Token: 0x0400024F RID: 591
 		[global::Cpp2ILInjected.Token(Token = "0x4000284")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private byte[] rawdata;
 
-		// Token: 0x04000250 RID: 592
 		[global::Cpp2ILInjected.Token(Token = "0x4000285")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private byte[] hash;
 
-		// Token: 0x04000251 RID: 593
 		[global::Cpp2ILInjected.Token(Token = "0x4000286")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private Mono.Security.X509.X509CertificateCollection coll;
 
-		// Token: 0x04000252 RID: 594
 		[global::Cpp2ILInjected.Token(Token = "0x4000287")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private ASN1 signedHash;
 
-		// Token: 0x04000253 RID: 595
 		[global::Cpp2ILInjected.Token(Token = "0x4000288")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private DateTime timestamp;
 
-		// Token: 0x04000254 RID: 596
 		[global::Cpp2ILInjected.Token(Token = "0x4000289")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		private Mono.Security.X509.X509Certificate signingCertificate;
 
-		// Token: 0x04000255 RID: 597
 		[global::Cpp2ILInjected.Token(Token = "0x400028A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		private int reason;
 
-		// Token: 0x04000256 RID: 598
 		[global::Cpp2ILInjected.Token(Token = "0x400028B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x7C")]
 		private bool trustedRoot;
 
-		// Token: 0x04000257 RID: 599
 		[global::Cpp2ILInjected.Token(Token = "0x400028C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x7D")]
 		private bool trustedTimestampRoot;
 
-		// Token: 0x04000258 RID: 600
 		[global::Cpp2ILInjected.Token(Token = "0x400028D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 		private byte[] entry;
 
-		// Token: 0x04000259 RID: 601
 		[global::Cpp2ILInjected.Token(Token = "0x400028E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 		private Mono.Security.X509.X509Chain signerChain;
 
-		// Token: 0x0400025A RID: 602
 		[global::Cpp2ILInjected.Token(Token = "0x400028F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private Mono.Security.X509.X509Chain timestampChain;

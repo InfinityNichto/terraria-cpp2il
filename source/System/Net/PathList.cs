@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000175 RID: 373
 	[global::Cpp2ILInjected.Token(Token = "0x2000217")]
 	[Serializable]
 	internal class PathList
 	{
-		// Token: 0x06000BED RID: 3053 RVA: 0x00005027 File Offset: 0x00003227
 		[global::Cpp2ILInjected.Token(Token = "0x6000D48")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F332B4", Offset = "0x1F332B4", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CookieContainer), Member = "Add", MemberParameters = new object[]
@@ -29,8 +27,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x170002AA RID: 682
-		// (get) Token: 0x06000BEE RID: 3054 RVA: 0x0000502A File Offset: 0x0000322A
 		[global::Cpp2ILInjected.Token(Token = "0x170002C5")]
 		public int Count
 		{
@@ -44,7 +40,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000BEF RID: 3055 RVA: 0x0000502D File Offset: 0x0000322D
 		[global::Cpp2ILInjected.Token(Token = "0x6000D4A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F33354", Offset = "0x1F33354", Length = "0x400")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -66,8 +61,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x170002AB RID: 683
-		// (get) Token: 0x06000BF0 RID: 3056 RVA: 0x00005030 File Offset: 0x00003230
 		[global::Cpp2ILInjected.Token(Token = "0x170002C6")]
 		public ICollection Values
 		{
@@ -81,7 +74,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002AC RID: 684
 		[global::Cpp2ILInjected.Token(Token = "0x170002C7")]
 		public object this[string s]
 		{
@@ -115,7 +107,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000BF3 RID: 3059 RVA: 0x00005039 File Offset: 0x00003239
 		[global::Cpp2ILInjected.Token(Token = "0x6000D4E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F354BC", Offset = "0x1F354BC", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -125,8 +116,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x170002AD RID: 685
-		// (get) Token: 0x06000BF4 RID: 3060 RVA: 0x0000503C File Offset: 0x0000323C
 		[global::Cpp2ILInjected.Token(Token = "0x170002C8")]
 		public object SyncRoot
 		{
@@ -140,17 +129,14 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x040008E2 RID: 2274
 		[global::Cpp2ILInjected.Token(Token = "0x4000B4E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private SortedList m_list;
 
-		// Token: 0x02000409 RID: 1033
 		[global::Cpp2ILInjected.Token(Token = "0x2000218")]
 		[Serializable]
 		private class PathListComparer : IComparer
 		{
-			// Token: 0x06001DFF RID: 7679 RVA: 0x000082D0 File Offset: 0x000064D0
 			[global::Cpp2ILInjected.Token(Token = "0x6000D50")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F35C7C", Offset = "0x1F35C7C", Length = "0x15C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -168,7 +154,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001E00 RID: 7680 RVA: 0x000082D3 File Offset: 0x000064D3
 			[global::Cpp2ILInjected.Token(Token = "0x6000D51")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F35DD8", Offset = "0x1F35DD8", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -178,7 +163,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001E01 RID: 7681 RVA: 0x000082D6 File Offset: 0x000064D6
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6000D52")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F35DE0", Offset = "0x1F35DE0", Length = "0x5C")]
@@ -190,7 +174,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x04001218 RID: 4632
 			[global::Cpp2ILInjected.Token(Token = "0x4000B4F")]
 			internal static readonly PathList.PathListComparer StaticInstance;
 		}

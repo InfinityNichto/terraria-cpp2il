@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Channels
 {
-	// Token: 0x020002D4 RID: 724
 	[global::Cpp2ILInjected.Token(Token = "0x2000377")]
 	[global::System.Serializable]
 	internal class CrossAppDomainChannel : IChannel, IChannelSender, IChannelReceiver
 	{
-		// Token: 0x06001B00 RID: 6912 RVA: 0x000190B8 File Offset: 0x000172B8
 		[global::Cpp2ILInjected.Token(Token = "0x6001D2D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B40044", Offset = "0x1B40044", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -31,8 +29,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x17000313 RID: 787
-		// (get) Token: 0x06001B01 RID: 6913 RVA: 0x000190BB File Offset: 0x000172BB
 		[global::Cpp2ILInjected.Token(Token = "0x1700036B")]
 		public virtual string ChannelName
 		{
@@ -46,8 +42,6 @@ namespace System.Runtime.Remoting.Channels
 			}
 		}
 
-		// Token: 0x17000314 RID: 788
-		// (get) Token: 0x06001B02 RID: 6914 RVA: 0x000190BE File Offset: 0x000172BE
 		[global::Cpp2ILInjected.Token(Token = "0x1700036C")]
 		public virtual int ChannelPriority
 		{
@@ -60,8 +54,6 @@ namespace System.Runtime.Remoting.Channels
 			}
 		}
 
-		// Token: 0x17000315 RID: 789
-		// (get) Token: 0x06001B03 RID: 6915 RVA: 0x000190C1 File Offset: 0x000172C1
 		[global::Cpp2ILInjected.Token(Token = "0x1700036D")]
 		public virtual object ChannelData
 		{
@@ -77,7 +69,6 @@ namespace System.Runtime.Remoting.Channels
 			}
 		}
 
-		// Token: 0x06001B04 RID: 6916 RVA: 0x000190C4 File Offset: 0x000172C4
 		[global::Cpp2ILInjected.Token(Token = "0x6001D31")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B40230", Offset = "0x1B40230", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -86,7 +77,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x06001B05 RID: 6917 RVA: 0x000190C7 File Offset: 0x000172C7
 		[global::Cpp2ILInjected.Token(Token = "0x6001D32")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B40234", Offset = "0x1B40234", Length = "0x17C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -105,7 +95,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x06001B06 RID: 6918 RVA: 0x000190CA File Offset: 0x000172CA
 		[global::Cpp2ILInjected.Token(Token = "0x6001D33")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B4017C", Offset = "0x1B4017C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -115,7 +104,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x06001B07 RID: 6919 RVA: 0x000190CD File Offset: 0x000172CD
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001D34")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B40624", Offset = "0x1B40624", Length = "0x70")]
@@ -127,7 +115,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x04000BD5 RID: 3029
 		[global::Cpp2ILInjected.Token(Token = "0x4000EBE")]
 		private static object s_lock;
 	}

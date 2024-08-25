@@ -6,13 +6,9 @@ using ReLogic.Content;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006E3 RID: 1763
 	[global::Cpp2ILInjected.Token(Token = "0x2000ACC")]
 	public class UISelectableTextPanel<T> : UITextPanel<T>
 	{
-		// Token: 0x170007CC RID: 1996
-		// (get) Token: 0x060044EE RID: 17646 RVA: 0x0002E565 File Offset: 0x0002C765
-		// (set) Token: 0x060044EF RID: 17647 RVA: 0x0002E568 File Offset: 0x0002C768
 		[global::Cpp2ILInjected.Token(Token = "0x170008CD")]
 		public Func<UISelectableTextPanel<T>, bool> IsSelected
 		{
@@ -34,7 +30,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x060044F0 RID: 17648 RVA: 0x0002E56B File Offset: 0x0002C76B
 		[global::Cpp2ILInjected.Token(Token = "0x6005153")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1894A5C", Offset = "0x1894A5C", Length = "0x1F8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -46,7 +41,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060044F1 RID: 17649 RVA: 0x0002E56E File Offset: 0x0002C76E
 		[global::Cpp2ILInjected.Token(Token = "0x6005154")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1894C54", Offset = "0x1894C54", Length = "0x318")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -83,17 +77,14 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04007098 RID: 28824
 		[global::Cpp2ILInjected.Token(Token = "0x40089E4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly Asset<Texture2D> _BasePanelTexture;
 
-		// Token: 0x04007099 RID: 28825
 		[global::Cpp2ILInjected.Token(Token = "0x40089E5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly Asset<Texture2D> _hoveredBorderTexture;
 
-		// Token: 0x0400709A RID: 28826
 		[global::Cpp2ILInjected.Token(Token = "0x40089E6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private Func<UISelectableTextPanel<T>, bool> _isSelected;

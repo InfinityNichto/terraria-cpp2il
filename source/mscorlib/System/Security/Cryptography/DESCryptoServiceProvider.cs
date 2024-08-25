@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000238 RID: 568
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002D5")]
 	public sealed class DESCryptoServiceProvider : DES
 	{
-		// Token: 0x06001656 RID: 5718 RVA: 0x000183BC File Offset: 0x000165BC
 		[global::Cpp2ILInjected.Token(Token = "0x6001870")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFB128", Offset = "0x1AFB128", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DES), Member = "Create", ReturnType = typeof(DES))]
@@ -34,7 +32,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001657 RID: 5719 RVA: 0x000183BF File Offset: 0x000165BF
 		[global::Cpp2ILInjected.Token(Token = "0x6001871")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFB410", Offset = "0x1AFB410", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -59,7 +56,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001658 RID: 5720 RVA: 0x000183C2 File Offset: 0x000165C2
 		[global::Cpp2ILInjected.Token(Token = "0x6001872")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFB540", Offset = "0x1AFB540", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -84,7 +80,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001659 RID: 5721 RVA: 0x000183C5 File Offset: 0x000165C5
 		[global::Cpp2ILInjected.Token(Token = "0x6001873")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFB670", Offset = "0x1AFB670", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,7 +93,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600165A RID: 5722 RVA: 0x000183C8 File Offset: 0x000165C8
 		[global::Cpp2ILInjected.Token(Token = "0x6001874")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFB76C", Offset = "0x1AFB76C", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

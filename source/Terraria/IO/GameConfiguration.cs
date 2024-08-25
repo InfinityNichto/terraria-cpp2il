@@ -6,11 +6,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.IO
 {
-	// Token: 0x020003BD RID: 957
 	[global::Cpp2ILInjected.Token(Token = "0x2000561")]
 	public class GameConfiguration
 	{
-		// Token: 0x06002F13 RID: 12051 RVA: 0x0002A683 File Offset: 0x00028883
 		[global::Cpp2ILInjected.Token(Token = "0x6003378")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133C020", Offset = "0x133C020", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGenConfiguration), Member = ".ctor", MemberParameters = new object[] { typeof(JObject) }, ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F14 RID: 12052 RVA: 0x0002A686 File Offset: 0x00028886
 		[global::Cpp2ILInjected.Token(Token = "0x6003379")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158A524", Offset = "0x158A524", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -44,7 +41,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x04003290 RID: 12944
 		[global::Cpp2ILInjected.Token(Token = "0x4003C45")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly JObject _root;

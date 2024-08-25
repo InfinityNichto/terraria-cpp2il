@@ -1,8 +1,0 @@
-<map id="System.Collections.IDictionary" name="System.Collections.IDictionary">
-<area shape="rect" id="Node000001" title=" " alt="" coords="9,301,223,556"/>
-<area shape="rect" id="Node000002" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="94,119,261,253"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,267,151,302,146,300,154,266"/>
-<area shape="rect" id="Node000003" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="5,5,227,71"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="97,84,85,119,79,165,79,211,88,301,82,301,73,211,74,164,80,118,91,82"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,82,152,118,147,120,132,84"/>
-</map>

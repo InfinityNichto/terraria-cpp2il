@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Security.X509
 {
-	// Token: 0x0200000F RID: 15
 	[global::Cpp2ILInjected.Token(Token = "0x2000016")]
 	public class X509CertificateBuilder : X509Builder
 	{
-		// Token: 0x060000B8 RID: 184 RVA: 0x00003168 File Offset: 0x00001368
 		[global::Cpp2ILInjected.Token(Token = "0x60000EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A8FCA4", Offset = "0x1A8FCA4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,7 +17,6 @@ namespace Mono.Security.X509
 			throw null;
 		}
 
-		// Token: 0x060000B9 RID: 185 RVA: 0x0000316B File Offset: 0x0000136B
 		[global::Cpp2ILInjected.Token(Token = "0x60000EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A8FCAC", Offset = "0x1A8FCAC", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -33,9 +30,6 @@ namespace Mono.Security.X509
 			throw null;
 		}
 
-		// Token: 0x17000032 RID: 50
-		// (get) Token: 0x060000BA RID: 186 RVA: 0x0000316E File Offset: 0x0000136E
-		// (set) Token: 0x060000BB RID: 187 RVA: 0x00003171 File Offset: 0x00001371
 		[global::Cpp2ILInjected.Token(Token = "0x17000049")]
 		public byte Version
 		{
@@ -55,9 +49,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x17000033 RID: 51
-		// (get) Token: 0x060000BC RID: 188 RVA: 0x00003174 File Offset: 0x00001374
-		// (set) Token: 0x060000BD RID: 189 RVA: 0x00003177 File Offset: 0x00001377
 		[global::Cpp2ILInjected.Token(Token = "0x1700004A")]
 		public byte[] SerialNumber
 		{
@@ -77,9 +68,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x17000034 RID: 52
-		// (get) Token: 0x060000BE RID: 190 RVA: 0x0000317A File Offset: 0x0000137A
-		// (set) Token: 0x060000BF RID: 191 RVA: 0x0000317D File Offset: 0x0000137D
 		[global::Cpp2ILInjected.Token(Token = "0x1700004B")]
 		public string IssuerName
 		{
@@ -99,9 +87,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x17000035 RID: 53
-		// (get) Token: 0x060000C0 RID: 192 RVA: 0x00003180 File Offset: 0x00001380
-		// (set) Token: 0x060000C1 RID: 193 RVA: 0x00003183 File Offset: 0x00001383
 		[global::Cpp2ILInjected.Token(Token = "0x1700004C")]
 		public DateTime NotBefore
 		{
@@ -121,9 +106,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x17000036 RID: 54
-		// (get) Token: 0x060000C2 RID: 194 RVA: 0x00003186 File Offset: 0x00001386
-		// (set) Token: 0x060000C3 RID: 195 RVA: 0x00003189 File Offset: 0x00001389
 		[global::Cpp2ILInjected.Token(Token = "0x1700004D")]
 		public DateTime NotAfter
 		{
@@ -143,9 +125,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x17000037 RID: 55
-		// (get) Token: 0x060000C4 RID: 196 RVA: 0x0000318C File Offset: 0x0000138C
-		// (set) Token: 0x060000C5 RID: 197 RVA: 0x0000318F File Offset: 0x0000138F
 		[global::Cpp2ILInjected.Token(Token = "0x1700004E")]
 		public string SubjectName
 		{
@@ -165,9 +144,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x17000038 RID: 56
-		// (get) Token: 0x060000C6 RID: 198 RVA: 0x00003192 File Offset: 0x00001392
-		// (set) Token: 0x060000C7 RID: 199 RVA: 0x00003195 File Offset: 0x00001395
 		[global::Cpp2ILInjected.Token(Token = "0x1700004F")]
 		public AsymmetricAlgorithm SubjectPublicKey
 		{
@@ -187,9 +163,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x17000039 RID: 57
-		// (get) Token: 0x060000C8 RID: 200 RVA: 0x00003198 File Offset: 0x00001398
-		// (set) Token: 0x060000C9 RID: 201 RVA: 0x0000319B File Offset: 0x0000139B
 		[global::Cpp2ILInjected.Token(Token = "0x17000050")]
 		public byte[] IssuerUniqueId
 		{
@@ -209,9 +182,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x1700003A RID: 58
-		// (get) Token: 0x060000CA RID: 202 RVA: 0x0000319E File Offset: 0x0000139E
-		// (set) Token: 0x060000CB RID: 203 RVA: 0x000031A1 File Offset: 0x000013A1
 		[global::Cpp2ILInjected.Token(Token = "0x17000051")]
 		public byte[] SubjectUniqueId
 		{
@@ -231,8 +201,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x1700003B RID: 59
-		// (get) Token: 0x060000CC RID: 204 RVA: 0x000031A4 File Offset: 0x000013A4
 		[global::Cpp2ILInjected.Token(Token = "0x17000052")]
 		public X509ExtensionCollection Extensions
 		{
@@ -245,7 +213,6 @@ namespace Mono.Security.X509
 			}
 		}
 
-		// Token: 0x060000CD RID: 205 RVA: 0x000031A7 File Offset: 0x000013A7
 		[global::Cpp2ILInjected.Token(Token = "0x6000100")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A8FE0C", Offset = "0x1A8FE0C", Length = "0x364")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -274,7 +241,6 @@ namespace Mono.Security.X509
 			throw null;
 		}
 
-		// Token: 0x060000CE RID: 206 RVA: 0x000031AA File Offset: 0x000013AA
 		[global::Cpp2ILInjected.Token(Token = "0x6000101")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A90170", Offset = "0x1A90170", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509CertificateBuilder), Member = "SubjectPublicKeyInfo", ReturnType = typeof(ASN1))]
@@ -296,7 +262,6 @@ namespace Mono.Security.X509
 			throw null;
 		}
 
-		// Token: 0x060000CF RID: 207 RVA: 0x000031AD File Offset: 0x000013AD
 		[global::Cpp2ILInjected.Token(Token = "0x6000102")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A90230", Offset = "0x1A90230", Length = "0x324")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -321,52 +286,42 @@ namespace Mono.Security.X509
 			throw null;
 		}
 
-		// Token: 0x04000060 RID: 96
 		[global::Cpp2ILInjected.Token(Token = "0x4000083")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private byte version;
 
-		// Token: 0x04000061 RID: 97
 		[global::Cpp2ILInjected.Token(Token = "0x4000084")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private byte[] sn;
 
-		// Token: 0x04000062 RID: 98
 		[global::Cpp2ILInjected.Token(Token = "0x4000085")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private string issuer;
 
-		// Token: 0x04000063 RID: 99
 		[global::Cpp2ILInjected.Token(Token = "0x4000086")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private DateTime notBefore;
 
-		// Token: 0x04000064 RID: 100
 		[global::Cpp2ILInjected.Token(Token = "0x4000087")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private DateTime notAfter;
 
-		// Token: 0x04000065 RID: 101
 		[global::Cpp2ILInjected.Token(Token = "0x4000088")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private string subject;
 
-		// Token: 0x04000066 RID: 102
 		[global::Cpp2ILInjected.Token(Token = "0x4000089")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private AsymmetricAlgorithm aa;
 
-		// Token: 0x04000067 RID: 103
 		[global::Cpp2ILInjected.Token(Token = "0x400008A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private byte[] issuerUniqueID;
 
-		// Token: 0x04000068 RID: 104
 		[global::Cpp2ILInjected.Token(Token = "0x400008B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private byte[] subjectUniqueID;
 
-		// Token: 0x04000069 RID: 105
 		[global::Cpp2ILInjected.Token(Token = "0x400008C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private X509ExtensionCollection extensions;

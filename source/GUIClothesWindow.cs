@@ -11,11 +11,9 @@ using Terraria.Audio;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x020000D1 RID: 209
 [global::Cpp2ILInjected.Token(Token = "0x200012C")]
 public class GUIClothesWindow
 {
-	// Token: 0x060006D3 RID: 1747 RVA: 0x00022FBE File Offset: 0x000211BE
 	[global::Cpp2ILInjected.Token(Token = "0x60007C6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E7BA8", Offset = "0x13E7BA8", Length = "0x68")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerDresser), Member = "Activate", ReturnType = typeof(void))]
@@ -32,7 +30,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006D4 RID: 1748 RVA: 0x00022FC1 File Offset: 0x000211C1
 	[global::Cpp2ILInjected.Token(Token = "0x60007C7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E7C10", Offset = "0x13E7C10", Length = "0x58")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControlsBanner), Member = "DrawControlsBanner", MemberParameters = new object[] { typeof(GUIControlsBanner.ActionSource) }, ReturnType = typeof(void))]
@@ -45,7 +42,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006D5 RID: 1749 RVA: 0x00022FC4 File Offset: 0x000211C4
 	[global::Cpp2ILInjected.Token(Token = "0x60007C8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E7C68", Offset = "0x13E7C68", Length = "0x14C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +64,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006D6 RID: 1750 RVA: 0x00022FC7 File Offset: 0x000211C7
 	[global::Cpp2ILInjected.Token(Token = "0x60007C9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E7DB4", Offset = "0x13E7DB4", Length = "0x238")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -101,7 +96,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006D7 RID: 1751 RVA: 0x00022FCA File Offset: 0x000211CA
 	[global::Cpp2ILInjected.Token(Token = "0x60007CA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E7FEC", Offset = "0x13E7FEC", Length = "0x278")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -127,7 +121,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006D8 RID: 1752 RVA: 0x00022FCD File Offset: 0x000211CD
 	[global::Cpp2ILInjected.Token(Token = "0x60007CB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E8264", Offset = "0x13E8264", Length = "0x268")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -177,7 +170,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006D9 RID: 1753 RVA: 0x00022FD0 File Offset: 0x000211D0
 	[global::Cpp2ILInjected.Token(Token = "0x60007CC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E84CC", Offset = "0x13E84CC", Length = "0x400")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -247,7 +239,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006DA RID: 1754 RVA: 0x00022FD3 File Offset: 0x000211D3
 	[global::Cpp2ILInjected.Token(Token = "0x60007CD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13EA7BC", Offset = "0x13EA7BC", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -258,7 +249,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006DB RID: 1755 RVA: 0x00022FD6 File Offset: 0x000211D6
 	[global::Cpp2ILInjected.Token(Token = "0x60007CE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13EA900", Offset = "0x13EA900", Length = "0x130")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIClothesWindow), Member = "Draw", ReturnType = typeof(void))]
@@ -288,7 +278,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006DC RID: 1756 RVA: 0x00022FD9 File Offset: 0x000211D9
 	[global::Cpp2ILInjected.Token(Token = "0x60007CF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13EAA30", Offset = "0x13EAA30", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -297,7 +286,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006DD RID: 1757 RVA: 0x00022FDC File Offset: 0x000211DC
 	[global::Cpp2ILInjected.Token(Token = "0x60007D0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13EAA34", Offset = "0x13EAA34", Length = "0x14C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -320,7 +308,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006DE RID: 1758 RVA: 0x00022FDF File Offset: 0x000211DF
 	[global::Cpp2ILInjected.Token(Token = "0x60007D1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13EA7D4", Offset = "0x13EA7D4", Length = "0x12C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIClothesWindow), Member = "Draw", ReturnType = typeof(void))]
@@ -350,7 +337,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006DF RID: 1759 RVA: 0x00022FE2 File Offset: 0x000211E2
 	[global::Cpp2ILInjected.Token(Token = "0x60007D2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E9A34", Offset = "0x13E9A34", Length = "0xD88")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -429,7 +415,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006E0 RID: 1760 RVA: 0x00022FE5 File Offset: 0x000211E5
 	[global::Cpp2ILInjected.Token(Token = "0x60007D3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E8A4C", Offset = "0x13E8A4C", Length = "0xD60")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -519,7 +504,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006E1 RID: 1761 RVA: 0x00022FE8 File Offset: 0x000211E8
 	[global::Cpp2ILInjected.Token(Token = "0x60007D4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E97AC", Offset = "0x13E97AC", Length = "0x288")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -563,7 +547,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006E2 RID: 1762 RVA: 0x00022FEB File Offset: 0x000211EB
 	[global::Cpp2ILInjected.Token(Token = "0x60007D5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13EABAC", Offset = "0x13EABAC", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -572,7 +555,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006E3 RID: 1763 RVA: 0x00022FEE File Offset: 0x000211EE
 	[global::Cpp2ILInjected.Token(Token = "0x60007D6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13EABB4", Offset = "0x13EABB4", Length = "0x168")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -597,7 +579,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006E4 RID: 1764 RVA: 0x00022FF1 File Offset: 0x000211F1
 	[global::Cpp2ILInjected.Token(Token = "0x60007D7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13EAD1C", Offset = "0x13EAD1C", Length = "0x250")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -646,7 +627,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006E5 RID: 1765 RVA: 0x00022FF4 File Offset: 0x000211F4
 	[global::Cpp2ILInjected.Token(Token = "0x60007D8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13E88CC", Offset = "0x13E88CC", Length = "0x180")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -662,7 +642,6 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x060006E6 RID: 1766 RVA: 0x00022FF7 File Offset: 0x000211F7
 	[global::Cpp2ILInjected.Token(Token = "0x60007D9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13EAF6C", Offset = "0x13EAF6C", Length = "0x12C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -682,102 +661,82 @@ public class GUIClothesWindow
 		throw null;
 	}
 
-	// Token: 0x04000456 RID: 1110
 	[global::Cpp2ILInjected.Token(Token = "0x400065A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float ChangeButtonScale;
 
-	// Token: 0x04000457 RID: 1111
 	[global::Cpp2ILInjected.Token(Token = "0x400065B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private GUIControllerDresser _controller;
 
-	// Token: 0x04000458 RID: 1112
 	[global::Cpp2ILInjected.Token(Token = "0x400065C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private int[] playerStyles;
 
-	// Token: 0x04000459 RID: 1113
 	[global::Cpp2ILInjected.Token(Token = "0x400065D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private Microsoft.Xna.Framework.Vector2 CharacterDrawOffset;
 
-	// Token: 0x0400045A RID: 1114
 	[global::Cpp2ILInjected.Token(Token = "0x400065E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private Player clonePlayer;
 
-	// Token: 0x0400045B RID: 1115
 	[global::Cpp2ILInjected.Token(Token = "0x400065F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private Item _blankItem;
 
-	// Token: 0x0400045C RID: 1116
 	[global::Cpp2ILInjected.Token(Token = "0x4000660")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private float closeScale;
 
-	// Token: 0x0400045D RID: 1117
 	[global::Cpp2ILInjected.Token(Token = "0x4000661")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	public float TimeSinceItemChange;
 
-	// Token: 0x0400045E RID: 1118
 	[global::Cpp2ILInjected.Token(Token = "0x4000662")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private float shirtButtonScale;
 
-	// Token: 0x0400045F RID: 1119
 	[global::Cpp2ILInjected.Token(Token = "0x4000663")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	private float underShirtButtonScale;
 
-	// Token: 0x04000460 RID: 1120
 	[global::Cpp2ILInjected.Token(Token = "0x4000664")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private float pantsButtonScale;
 
-	// Token: 0x04000461 RID: 1121
 	[global::Cpp2ILInjected.Token(Token = "0x4000665")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 	private float shoesButtonScale;
 
-	// Token: 0x04000462 RID: 1122
 	[global::Cpp2ILInjected.Token(Token = "0x4000666")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private float eyesButtonScale;
 
-	// Token: 0x04000463 RID: 1123
 	[global::Cpp2ILInjected.Token(Token = "0x4000667")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 	private float skinButtonScale;
 
-	// Token: 0x04000464 RID: 1124
 	[global::Cpp2ILInjected.Token(Token = "0x4000668")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private float styleButtonScale;
 
-	// Token: 0x04000465 RID: 1125
 	[global::Cpp2ILInjected.Token(Token = "0x4000669")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x64")]
 	private float TitleScale;
 
-	// Token: 0x04000466 RID: 1126
 	[global::Cpp2ILInjected.Token(Token = "0x400066A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private GUISlider.DragState hueDragState;
 
-	// Token: 0x04000467 RID: 1127
 	[global::Cpp2ILInjected.Token(Token = "0x400066B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private GUISlider.DragState satDragState;
 
-	// Token: 0x04000468 RID: 1128
 	[global::Cpp2ILInjected.Token(Token = "0x400066C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	private GUISlider.DragState lightDragState;
 
-	// Token: 0x04000469 RID: 1129
 	[global::Cpp2ILInjected.Token(Token = "0x400066D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private int styleOver;

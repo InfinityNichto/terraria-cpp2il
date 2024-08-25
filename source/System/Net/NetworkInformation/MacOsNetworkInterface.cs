@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.NetworkInformation
 {
-	// Token: 0x020001DB RID: 475
 	[global::Cpp2ILInjected.Token(Token = "0x20002BD")]
 	internal sealed class MacOsNetworkInterface : UnixNetworkInterface
 	{
-		// Token: 0x060010C0 RID: 4288 RVA: 0x00005E43 File Offset: 0x00004043
 		[global::Cpp2ILInjected.Token(Token = "0x60012B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E20364", Offset = "0x1E20364", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,7 +17,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x060010C1 RID: 4289 RVA: 0x00005E46 File Offset: 0x00004046
 		[global::Cpp2ILInjected.Token(Token = "0x60012BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E20388", Offset = "0x1E20388", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -34,8 +31,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x17000427 RID: 1063
-		// (get) Token: 0x060010C2 RID: 4290 RVA: 0x00005E49 File Offset: 0x00004049
 		[global::Cpp2ILInjected.Token(Token = "0x1700044F")]
 		public override OperationalStatus OperationalStatus
 		{
@@ -49,7 +44,6 @@ namespace System.Net.NetworkInformation
 			}
 		}
 
-		// Token: 0x04000B30 RID: 2864
 		[global::Cpp2ILInjected.Token(Token = "0x4000F01")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		private uint _ifa_flags;

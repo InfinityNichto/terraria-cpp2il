@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Terraria;
 using UnityEngine;
 
-// Token: 0x020001F7 RID: 503
 [global::Cpp2ILInjected.Token(Token = "0x200029C")]
 public class GUISaveSynchronisation_Status
 {
-	// Token: 0x06000E80 RID: 3712 RVA: 0x000246C5 File Offset: 0x000228C5
 	[global::Cpp2ILInjected.Token(Token = "0x6000FB0")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA33780", Offset = "0xA33780", Length = "0x19C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation), Member = "DrawConnectingState", ReturnType = typeof(void))]
@@ -48,7 +46,6 @@ public class GUISaveSynchronisation_Status
 		throw null;
 	}
 
-	// Token: 0x06000E81 RID: 3713 RVA: 0x000246C8 File Offset: 0x000228C8
 	[global::Cpp2ILInjected.Token(Token = "0x6000FB1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3981C", Offset = "0xA3981C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

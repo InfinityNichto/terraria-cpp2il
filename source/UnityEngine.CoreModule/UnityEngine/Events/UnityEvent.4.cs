@@ -6,12 +6,10 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine.Events
 {
-	// Token: 0x02000147 RID: 327
 	[global::Cpp2ILInjected.Token(Token = "0x200016F")]
 	[Serializable]
 	public class UnityEvent<T0, T1, T2, T3> : UnityEventBase
 	{
-		// Token: 0x0600069C RID: 1692 RVA: 0x00002F3E File Offset: 0x0000113E
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x60006D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1897F84", Offset = "0x1897F84", Length = "0xC")]
@@ -23,7 +21,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x0600069D RID: 1693 RVA: 0x00002F41 File Offset: 0x00001141
 		[global::Cpp2ILInjected.Token(Token = "0x60006D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1897F90", Offset = "0x1897F90", Length = "0x180")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -41,7 +38,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x0600069E RID: 1694 RVA: 0x00002F44 File Offset: 0x00001144
 		[global::Cpp2ILInjected.Token(Token = "0x60006DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1898110", Offset = "0x1898110", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -53,7 +49,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x04000612 RID: 1554
 		[global::Cpp2ILInjected.Token(Token = "0x4000669")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private object[] m_InvokeArray;

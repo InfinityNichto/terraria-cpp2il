@@ -8,11 +8,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006CD RID: 1741
 	[global::Cpp2ILInjected.Token(Token = "0x2000AB1")]
 	public class UIItemSlot : UIElement
 	{
-		// Token: 0x0600446C RID: 17516 RVA: 0x0002E3E5 File Offset: 0x0002C5E5
 		[global::Cpp2ILInjected.Token(Token = "0x60050BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x926378", Offset = "0x926378", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativeUI), Member = "ProvideItemSlotElement", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(UIElement))]
@@ -29,7 +27,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600446D RID: 17517 RVA: 0x0002E3E8 File Offset: 0x0002C5E8
 		[global::Cpp2ILInjected.Token(Token = "0x60050BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x926454", Offset = "0x926454", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +59,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600446E RID: 17518 RVA: 0x0002E3EB File Offset: 0x0002C5EB
 		[global::Cpp2ILInjected.Token(Token = "0x60050C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92657C", Offset = "0x92657C", Length = "0x18C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,17 +94,14 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04007031 RID: 28721
 		[global::Cpp2ILInjected.Token(Token = "0x4008978")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private Item[] _itemArray;
 
-		// Token: 0x04007032 RID: 28722
 		[global::Cpp2ILInjected.Token(Token = "0x4008979")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private int _itemIndex;
 
-		// Token: 0x04007033 RID: 28723
 		[global::Cpp2ILInjected.Token(Token = "0x400897A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x154")]
 		private int _itemSlotContext;

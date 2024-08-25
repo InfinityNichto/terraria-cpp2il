@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework.Audio;
 using UnityEngine;
 using UnityEngine.Audio;
 
-// Token: 0x02000032 RID: 50
 [global::Cpp2ILInjected.Token(Token = "0x2000052")]
 public class SoundInstance
 {
-	// Token: 0x06000125 RID: 293 RVA: 0x00021EE7 File Offset: 0x000200E7
 	[global::Cpp2ILInjected.Token(Token = "0x60001AF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x706C00", Offset = "0x706C00", Length = "0x1FC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +45,6 @@ public class SoundInstance
 		throw null;
 	}
 
-	// Token: 0x06000126 RID: 294 RVA: 0x00021EEA File Offset: 0x000200EA
 	[global::Cpp2ILInjected.Token(Token = "0x60001B0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x707184", Offset = "0x707184", Length = "0x114")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,9 +70,6 @@ public class SoundInstance
 		throw null;
 	}
 
-	// Token: 0x1700004B RID: 75
-	// (get) Token: 0x06000127 RID: 295 RVA: 0x00021EED File Offset: 0x000200ED
-	// (set) Token: 0x06000128 RID: 296 RVA: 0x00021EF0 File Offset: 0x000200F0
 	[global::Cpp2ILInjected.Token(Token = "0x17000070")]
 	public float CurrentPosition
 	{
@@ -122,7 +116,6 @@ public class SoundInstance
 		}
 	}
 
-	// Token: 0x06000129 RID: 297 RVA: 0x00021EF3 File Offset: 0x000200F3
 	[global::Cpp2ILInjected.Token(Token = "0x60001B3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x707440", Offset = "0x707440", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SoundInstance), Member = "UpdateFade", ReturnType = typeof(bool))]
@@ -140,7 +133,6 @@ public class SoundInstance
 		throw null;
 	}
 
-	// Token: 0x0600012A RID: 298 RVA: 0x00021EF6 File Offset: 0x000200F6
 	[global::Cpp2ILInjected.Token(Token = "0x60001B4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7074DC", Offset = "0x7074DC", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SoundEffectInstance), Member = "set_Pan", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
@@ -157,7 +149,6 @@ public class SoundInstance
 		throw null;
 	}
 
-	// Token: 0x0600012B RID: 299 RVA: 0x00021EF9 File Offset: 0x000200F9
 	[global::Cpp2ILInjected.Token(Token = "0x60001B5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x707578", Offset = "0x707578", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SoundEffectInstance), Member = "set_Pitch", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
@@ -174,7 +165,6 @@ public class SoundInstance
 		throw null;
 	}
 
-	// Token: 0x0600012C RID: 300 RVA: 0x00021EFC File Offset: 0x000200FC
 	[global::Cpp2ILInjected.Token(Token = "0x60001B6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x707614", Offset = "0x707614", Length = "0xBC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SoundManager), Member = "StopAllSoundsOnChannels", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -193,7 +183,6 @@ public class SoundInstance
 		throw null;
 	}
 
-	// Token: 0x0600012D RID: 301 RVA: 0x00021EFF File Offset: 0x000200FF
 	[global::Cpp2ILInjected.Token(Token = "0x60001B7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7076D0", Offset = "0x7076D0", Length = "0xE0")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -210,7 +199,6 @@ public class SoundInstance
 		throw null;
 	}
 
-	// Token: 0x0600012E RID: 302 RVA: 0x00021F02 File Offset: 0x00020102
 	[global::Cpp2ILInjected.Token(Token = "0x60001B8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7077B0", Offset = "0x7077B0", Length = "0x198")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -239,9 +227,6 @@ public class SoundInstance
 		throw null;
 	}
 
-	// Token: 0x1700004C RID: 76
-	// (get) Token: 0x0600012F RID: 303 RVA: 0x00021F05 File Offset: 0x00020105
-	// (set) Token: 0x06000130 RID: 304 RVA: 0x00021F08 File Offset: 0x00020108
 	[global::Cpp2ILInjected.Token(Token = "0x17000071")]
 	public SoundChannel Channel
 	{
@@ -261,47 +246,38 @@ public class SoundInstance
 		}
 	}
 
-	// Token: 0x040000CE RID: 206
 	[global::Cpp2ILInjected.Token(Token = "0x4000127")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public readonly AudioClip Clip;
 
-	// Token: 0x040000CF RID: 207
 	[global::Cpp2ILInjected.Token(Token = "0x4000128")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public readonly SoundDefinition Definition;
 
-	// Token: 0x040000D0 RID: 208
 	[global::Cpp2ILInjected.Token(Token = "0x4000129")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public DateTime FinishTime;
 
-	// Token: 0x040000D1 RID: 209
 	[global::Cpp2ILInjected.Token(Token = "0x400012A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private bool _fading;
 
-	// Token: 0x040000D2 RID: 210
 	[global::Cpp2ILInjected.Token(Token = "0x400012B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private DateTime _fadeStart;
 
-	// Token: 0x040000D3 RID: 211
 	[global::Cpp2ILInjected.Token(Token = "0x400012C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private DateTime _fadeEnd;
 
-	// Token: 0x040000D4 RID: 212
 	[global::Cpp2ILInjected.Token(Token = "0x400012D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private float _fadeStartVol;
 
-	// Token: 0x040000D5 RID: 213
 	[global::Cpp2ILInjected.Token(Token = "0x400012E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	private float _fadeEndVol;
 
-	// Token: 0x040000D6 RID: 214
 	[global::Cpp2ILInjected.Token(Token = "0x400012F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private SoundChannel _channel;

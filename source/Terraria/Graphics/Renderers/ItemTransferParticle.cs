@@ -10,13 +10,9 @@ using Terraria.Utilities;
 
 namespace Terraria.Graphics.Renderers
 {
-	// Token: 0x020004F8 RID: 1272
 	[global::Cpp2ILInjected.Token(Token = "0x2000754")]
 	public class ItemTransferParticle : IPooledParticle, IParticle
 	{
-		// Token: 0x170006EC RID: 1772
-		// (get) Token: 0x0600374E RID: 14158 RVA: 0x0002BE1D File Offset: 0x0002A01D
-		// (set) Token: 0x0600374F RID: 14159 RVA: 0x0002BE20 File Offset: 0x0002A020
 		[global::Cpp2ILInjected.Token(Token = "0x17000787")]
 		public bool ShouldBeRemovedFromRenderer
 		{
@@ -38,7 +34,6 @@ namespace Terraria.Graphics.Renderers
 			}
 		}
 
-		// Token: 0x06003750 RID: 14160 RVA: 0x0002BE23 File Offset: 0x0002A023
 		[global::Cpp2ILInjected.Token(Token = "0x6003DC7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A55D8", Offset = "0x14A55D8", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ParticleOrchestrator), Member = "GetNewItemTransferParticle", ReturnType = typeof(ItemTransferParticle))]
@@ -51,7 +46,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x06003751 RID: 14161 RVA: 0x0002BE26 File Offset: 0x0002A026
 		[global::Cpp2ILInjected.Token(Token = "0x6003DC8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A563C", Offset = "0x14A563C", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,7 +55,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x06003752 RID: 14162 RVA: 0x0002BE29 File Offset: 0x0002A029
 		[global::Cpp2ILInjected.Token(Token = "0x6003DC9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A565C", Offset = "0x14A565C", Length = "0x300")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -118,7 +111,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x06003753 RID: 14163 RVA: 0x0002BE2C File Offset: 0x0002A02C
 		[global::Cpp2ILInjected.Token(Token = "0x6003DCA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A595C", Offset = "0x14A595C", Length = "0x2CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -167,9 +159,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x170006ED RID: 1773
-		// (get) Token: 0x06003754 RID: 14164 RVA: 0x0002BE2F File Offset: 0x0002A02F
-		// (set) Token: 0x06003755 RID: 14165 RVA: 0x0002BE32 File Offset: 0x0002A032
 		[global::Cpp2ILInjected.Token(Token = "0x17000788")]
 		public bool IsRestingInPool
 		{
@@ -191,7 +180,6 @@ namespace Terraria.Graphics.Renderers
 			}
 		}
 
-		// Token: 0x06003756 RID: 14166 RVA: 0x0002BE35 File Offset: 0x0002A035
 		[global::Cpp2ILInjected.Token(Token = "0x6003DCD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A5C3C", Offset = "0x14A5C3C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -200,7 +188,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x06003757 RID: 14167 RVA: 0x0002BE38 File Offset: 0x0002A038
 		[global::Cpp2ILInjected.Token(Token = "0x6003DCE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A5C48", Offset = "0x14A5C48", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -210,48 +197,39 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x0400678F RID: 26511
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4007C77")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private bool <ShouldBeRemovedFromRenderer>k__BackingField;
 
-		// Token: 0x04006790 RID: 26512
 		[global::Cpp2ILInjected.Token(Token = "0x4007C78")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public Vector2 StartPosition;
 
-		// Token: 0x04006791 RID: 26513
 		[global::Cpp2ILInjected.Token(Token = "0x4007C79")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		public Vector2 EndPosition;
 
-		// Token: 0x04006792 RID: 26514
 		[global::Cpp2ILInjected.Token(Token = "0x4007C7A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		public Vector2 BezierHelper1;
 
-		// Token: 0x04006793 RID: 26515
 		[global::Cpp2ILInjected.Token(Token = "0x4007C7B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		public Vector2 BezierHelper2;
 
-		// Token: 0x04006794 RID: 26516
 		[global::Cpp2ILInjected.Token(Token = "0x4007C7C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private Item _itemInstance;
 
-		// Token: 0x04006795 RID: 26517
 		[global::Cpp2ILInjected.Token(Token = "0x4007C7D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private int _lifeTimeCounted;
 
-		// Token: 0x04006796 RID: 26518
 		[global::Cpp2ILInjected.Token(Token = "0x4007C7E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		private int _lifeTimeTotal;
 
-		// Token: 0x04006797 RID: 26519
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4007C7F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]

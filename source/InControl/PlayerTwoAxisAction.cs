@@ -5,13 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl
 {
-	// Token: 0x02000014 RID: 20
 	[global::Cpp2ILInjected.Token(Token = "0x2000014")]
 	public class PlayerTwoAxisAction : TwoAxisInputControl
 	{
-		// Token: 0x1700003C RID: 60
-		// (get) Token: 0x060000E7 RID: 231 RVA: 0x0000231E File Offset: 0x0000051E
-		// (set) Token: 0x060000E8 RID: 232 RVA: 0x00002321 File Offset: 0x00000521
 		[global::Cpp2ILInjected.Token(Token = "0x1700003C")]
 		public bool InvertXAxis
 		{
@@ -33,9 +29,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700003D RID: 61
-		// (get) Token: 0x060000E9 RID: 233 RVA: 0x00002324 File Offset: 0x00000524
-		// (set) Token: 0x060000EA RID: 234 RVA: 0x00002327 File Offset: 0x00000527
 		[global::Cpp2ILInjected.Token(Token = "0x1700003D")]
 		public bool InvertYAxis
 		{
@@ -57,9 +50,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x14000005 RID: 5
-		// (add) Token: 0x060000EB RID: 235 RVA: 0x0000232A File Offset: 0x0000052A
-		// (remove) Token: 0x060000EC RID: 236 RVA: 0x0000232D File Offset: 0x0000052D
 		[global::Cpp2ILInjected.Token(Token = "0x14000005")]
 		public event Action<BindingSourceType> OnLastInputTypeChanged
 		{
@@ -95,9 +85,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700003E RID: 62
-		// (get) Token: 0x060000ED RID: 237 RVA: 0x00002330 File Offset: 0x00000530
-		// (set) Token: 0x060000EE RID: 238 RVA: 0x00002333 File Offset: 0x00000533
 		[global::Cpp2ILInjected.Token(Token = "0x1700003E")]
 		public object UserData
 		{
@@ -119,7 +106,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x060000EF RID: 239 RVA: 0x00002336 File Offset: 0x00000536
 		[global::Cpp2ILInjected.Token(Token = "0x60000EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1981AF0", Offset = "0x1981AF0", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -138,7 +124,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060000F0 RID: 240 RVA: 0x00002339 File Offset: 0x00000539
 		[global::Cpp2ILInjected.Token(Token = "0x60000F0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1981FF8", Offset = "0x1981FF8", Length = "0x1E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -168,7 +153,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060000F1 RID: 241 RVA: 0x0000233C File Offset: 0x0000053C
 		[global::Cpp2ILInjected.Token(Token = "0x60000F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1983718", Offset = "0x1983718", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -184,9 +168,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x1700003F RID: 63
-		// (get) Token: 0x060000F2 RID: 242 RVA: 0x0000233F File Offset: 0x0000053F
-		// (set) Token: 0x060000F3 RID: 243 RVA: 0x00002342 File Offset: 0x00000542
 		[Obsolete("Please set this property on device controls directly. It does nothing here.")]
 		[global::Cpp2ILInjected.Token(Token = "0x1700003F")]
 		public new float LowerDeadZone
@@ -207,9 +188,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000040 RID: 64
-		// (get) Token: 0x060000F4 RID: 244 RVA: 0x00002345 File Offset: 0x00000545
-		// (set) Token: 0x060000F5 RID: 245 RVA: 0x00002348 File Offset: 0x00000548
 		[Obsolete("Please set this property on device controls directly. It does nothing here.")]
 		[global::Cpp2ILInjected.Token(Token = "0x17000040")]
 		public new float UpperDeadZone
@@ -230,50 +208,41 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x040000FA RID: 250
 		[global::Cpp2ILInjected.Token(Token = "0x40000FA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		private PlayerAction negativeXAction;
 
-		// Token: 0x040000FB RID: 251
 		[global::Cpp2ILInjected.Token(Token = "0x40000FB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		private PlayerAction positiveXAction;
 
-		// Token: 0x040000FC RID: 252
 		[global::Cpp2ILInjected.Token(Token = "0x40000FC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 		private PlayerAction negativeYAction;
 
-		// Token: 0x040000FD RID: 253
 		[global::Cpp2ILInjected.Token(Token = "0x40000FD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 		private PlayerAction positiveYAction;
 
-		// Token: 0x040000FE RID: 254
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40000FE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private bool <InvertXAxis>k__BackingField;
 
-		// Token: 0x040000FF RID: 255
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40000FF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x91")]
 		private bool <InvertYAxis>k__BackingField;
 
-		// Token: 0x04000100 RID: 256
 		[global::Cpp2ILInjected.Token(Token = "0x4000100")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x94")]
 		public BindingSourceType LastInputType;
 
-		// Token: 0x04000101 RID: 257
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000101")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		private Action<BindingSourceType> OnLastInputTypeChanged;
 
-		// Token: 0x04000102 RID: 258
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000102")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]

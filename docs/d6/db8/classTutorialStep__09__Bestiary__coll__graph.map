@@ -1,7 +1,0 @@
-<map id="TutorialStep_09_Bestiary" name="TutorialStep_09_Bestiary">
-<area shape="rect" id="Node000001" title=" " alt="" coords="87,421,320,651"/>
-<area shape="rect" id="Node000002" href="$d9/d7b/classTutorialStep.html" title=" " alt="" coords="5,5,239,359"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,372,180,420,174,422,163,373"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="263,149,306,215"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,216,254,359,242,406,237,405,249,358,277,215"/>
-</map>

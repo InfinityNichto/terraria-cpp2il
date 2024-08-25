@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x0200025B RID: 603
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002F8")]
 	public class RSAPKCS1KeyExchangeFormatter : AsymmetricKeyExchangeFormatter
 	{
-		// Token: 0x060017A7 RID: 6055 RVA: 0x00018785 File Offset: 0x00016985
 		[global::Cpp2ILInjected.Token(Token = "0x60019C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0CF04", Offset = "0x1B0CF04", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,7 +18,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060017A8 RID: 6056 RVA: 0x00018788 File Offset: 0x00016988
 		[global::Cpp2ILInjected.Token(Token = "0x60019C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0ABB4", Offset = "0x1B0ABB4", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,8 +35,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x17000275 RID: 629
-		// (get) Token: 0x060017A9 RID: 6057 RVA: 0x0001878B File Offset: 0x0001698B
 		[global::Cpp2ILInjected.Token(Token = "0x170002CB")]
 		public override string Parameters
 		{
@@ -53,9 +48,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000276 RID: 630
-		// (get) Token: 0x060017AA RID: 6058 RVA: 0x0001878E File Offset: 0x0001698E
-		// (set) Token: 0x060017AB RID: 6059 RVA: 0x00018791 File Offset: 0x00016991
 		[global::Cpp2ILInjected.Token(Token = "0x170002CC")]
 		public RandomNumberGenerator Rng
 		{
@@ -75,7 +67,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x060017AC RID: 6060 RVA: 0x00018794 File Offset: 0x00016994
 		[global::Cpp2ILInjected.Token(Token = "0x60019C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0CF5C", Offset = "0x1B0CF5C", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -87,7 +78,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060017AD RID: 6061 RVA: 0x00018797 File Offset: 0x00016997
 		[global::Cpp2ILInjected.Token(Token = "0x60019C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0D048", Offset = "0x1B0D048", Length = "0x2C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -117,7 +107,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060017AE RID: 6062 RVA: 0x0001879A File Offset: 0x0001699A
 		[global::Cpp2ILInjected.Token(Token = "0x60019C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0D4DC", Offset = "0x1B0D4DC", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -127,8 +116,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x17000277 RID: 631
-		// (get) Token: 0x060017AF RID: 6063 RVA: 0x0001879D File Offset: 0x0001699D
 		[global::Cpp2ILInjected.Token(Token = "0x170002CD")]
 		private bool OverridesEncrypt
 		{
@@ -153,17 +140,14 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x04000A36 RID: 2614
 		[global::Cpp2ILInjected.Token(Token = "0x4000D10")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private RandomNumberGenerator RngValue;
 
-		// Token: 0x04000A37 RID: 2615
 		[global::Cpp2ILInjected.Token(Token = "0x4000D11")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private RSA _rsaKey;
 
-		// Token: 0x04000A38 RID: 2616
 		[global::Cpp2ILInjected.Token(Token = "0x4000D12")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private bool? _rsaOverridesEncrypt;

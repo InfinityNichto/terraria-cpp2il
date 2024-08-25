@@ -1,9 +1,0 @@
-<map id="System.Net.HeaderInfo" name="System.Net.HeaderInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="95,163,324,272"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,71,38,105,54,137,83,164,79,168,50,140,33,107,25,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="128,5,291,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,71,212,146,207,146,207,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="315,5,365,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,73,273,140,264,151,260,148,269,137,316,69"/>
-</map>

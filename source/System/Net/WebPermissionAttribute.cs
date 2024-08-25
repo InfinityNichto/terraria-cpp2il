@@ -6,13 +6,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000149 RID: 329
 	[AttributeUsage(AttributeTargets.Assembly | AttributeTargets.Class | AttributeTargets.Struct | AttributeTargets.Constructor | AttributeTargets.Method, AllowMultiple = true, Inherited = false)]
 	[global::Cpp2ILInjected.Token(Token = "0x20001D2")]
 	[Serializable]
 	public sealed class WebPermissionAttribute : CodeAccessSecurityAttribute
 	{
-		// Token: 0x06000A40 RID: 2624 RVA: 0x00004B38 File Offset: 0x00002D38
 		[global::Cpp2ILInjected.Token(Token = "0x6000B55")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F17358", Offset = "0x1F17358", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -22,9 +20,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000242 RID: 578
-		// (get) Token: 0x06000A41 RID: 2625 RVA: 0x00004B3B File Offset: 0x00002D3B
-		// (set) Token: 0x06000A42 RID: 2626 RVA: 0x00004B3E File Offset: 0x00002D3E
 		[global::Cpp2ILInjected.Token(Token = "0x1700024D")]
 		public string Connect
 		{
@@ -57,9 +52,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000243 RID: 579
-		// (get) Token: 0x06000A43 RID: 2627 RVA: 0x00004B41 File Offset: 0x00002D41
-		// (set) Token: 0x06000A44 RID: 2628 RVA: 0x00004B44 File Offset: 0x00002D44
 		[global::Cpp2ILInjected.Token(Token = "0x1700024E")]
 		public string Accept
 		{
@@ -92,9 +84,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000244 RID: 580
-		// (get) Token: 0x06000A45 RID: 2629 RVA: 0x00004B47 File Offset: 0x00002D47
-		// (set) Token: 0x06000A46 RID: 2630 RVA: 0x00004B4A File Offset: 0x00002D4A
 		[global::Cpp2ILInjected.Token(Token = "0x1700024F")]
 		public string ConnectPattern
 		{
@@ -133,9 +122,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000245 RID: 581
-		// (get) Token: 0x06000A47 RID: 2631 RVA: 0x00004B4D File Offset: 0x00002D4D
-		// (set) Token: 0x06000A48 RID: 2632 RVA: 0x00004B50 File Offset: 0x00002D50
 		[global::Cpp2ILInjected.Token(Token = "0x17000250")]
 		public string AcceptPattern
 		{
@@ -174,7 +160,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000A49 RID: 2633 RVA: 0x00004B53 File Offset: 0x00002D53
 		[global::Cpp2ILInjected.Token(Token = "0x6000B5E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F17AEC", Offset = "0x1F17AEC", Length = "0x1E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -197,12 +182,10 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040007C9 RID: 1993
 		[global::Cpp2ILInjected.Token(Token = "0x40009EB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private object m_accept;
 
-		// Token: 0x040007CA RID: 1994
 		[global::Cpp2ILInjected.Token(Token = "0x40009EC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private object m_connect;

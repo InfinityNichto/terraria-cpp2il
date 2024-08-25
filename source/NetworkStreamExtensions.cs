@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Telepathy;
 using UnityEngine;
 
-// Token: 0x02000252 RID: 594
 [global::Cpp2ILInjected.Token(Token = "0x200030F")]
 public static class NetworkStreamExtensions
 {
-	// Token: 0x06001101 RID: 4353 RVA: 0x00024DE5 File Offset: 0x00022FE5
 	[global::Cpp2ILInjected.Token(Token = "0x6001256")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA77908", Offset = "0xA77908", Length = "0x90")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,7 +24,6 @@ public static class NetworkStreamExtensions
 		throw null;
 	}
 
-	// Token: 0x06001102 RID: 4354 RVA: 0x00024DE8 File Offset: 0x00022FE8
 	[global::Cpp2ILInjected.Token(Token = "0x6001257")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA77998", Offset = "0xA77998", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

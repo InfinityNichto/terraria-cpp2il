@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x02000101 RID: 257
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x200010E")]
 	public class NVidiaShieldWindows10UnityProfile : InputDeviceProfile
 	{
-		// Token: 0x0600068C RID: 1676 RVA: 0x000033D1 File Offset: 0x000015D1
 		[global::Cpp2ILInjected.Token(Token = "0x60006A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A14D1C", Offset = "0x1A14D1C", Length = "0x9C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -37,7 +35,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x0600068D RID: 1677 RVA: 0x000033D4 File Offset: 0x000015D4
 		[global::Cpp2ILInjected.Token(Token = "0x60006AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A156DC", Offset = "0x1A156DC", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

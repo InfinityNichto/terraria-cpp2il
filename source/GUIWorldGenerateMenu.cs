@@ -10,11 +10,9 @@ using Terraria.Localization;
 using Terraria.Utilities;
 using Terraria.WorldBuilding;
 
-// Token: 0x020001E6 RID: 486
 [global::Cpp2ILInjected.Token(Token = "0x2000286")]
 public class GUIWorldGenerateMenu
 {
-	// Token: 0x06000DCA RID: 3530 RVA: 0x000244A3 File Offset: 0x000226A3
 	[global::Cpp2ILInjected.Token(Token = "0x6000EEE")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1B720", Offset = "0xA1B720", Length = "0x668")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +79,6 @@ public class GUIWorldGenerateMenu
 		throw null;
 	}
 
-	// Token: 0x06000DCB RID: 3531 RVA: 0x000244A6 File Offset: 0x000226A6
 	[global::Cpp2ILInjected.Token(Token = "0x6000EEF")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1BD88", Offset = "0xA1BD88", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -92,17 +89,14 @@ public class GUIWorldGenerateMenu
 		throw null;
 	}
 
-	// Token: 0x040015F2 RID: 5618
 	[global::Cpp2ILInjected.Token(Token = "0x4001B10")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public GenerationProgress Progress;
 
-	// Token: 0x040015F3 RID: 5619
 	[global::Cpp2ILInjected.Token(Token = "0x4001B11")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public float totalProgress;
 
-	// Token: 0x040015F4 RID: 5620
 	[global::Cpp2ILInjected.Token(Token = "0x4001B12")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	public float progress;

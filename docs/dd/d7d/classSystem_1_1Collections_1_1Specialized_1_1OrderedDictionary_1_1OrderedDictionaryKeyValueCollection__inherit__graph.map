@@ -1,8 +1,0 @@
-<map id="System.Collections.Specialized.OrderedDictionary.OrderedDictionaryKeyValueCollection" name="System.Collections.Specialized.OrderedDictionary.OrderedDictionaryKeyValueCollection">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,301,260,633"/>
-<area shape="rect" id="Node000002" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="111,119,277,253"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,267,172,301,166,300,174,266"/>
-<area shape="rect" id="Node000003" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="22,5,243,71"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="113,84,102,119,96,164,94,210,100,301,94,301,88,210,90,164,97,118,108,82"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,82,169,118,164,120,149,84"/>
-</map>

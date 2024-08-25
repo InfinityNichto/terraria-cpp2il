@@ -11,12 +11,9 @@ using Terraria.Initializers;
 
 namespace Terraria.Graphics.Shaders
 {
-	// Token: 0x020004F0 RID: 1264
 	[global::Cpp2ILInjected.Token(Token = "0x200074B")]
 	public class ScreenShaderData : ShaderData
 	{
-		// Token: 0x170006E5 RID: 1765
-		// (get) Token: 0x0600371A RID: 14106 RVA: 0x0002BD93 File Offset: 0x00029F93
 		[global::Cpp2ILInjected.Token(Token = "0x17000780")]
 		public float Intensity
 		{
@@ -29,8 +26,6 @@ namespace Terraria.Graphics.Shaders
 			}
 		}
 
-		// Token: 0x170006E6 RID: 1766
-		// (get) Token: 0x0600371B RID: 14107 RVA: 0x0002BD96 File Offset: 0x00029F96
 		[global::Cpp2ILInjected.Token(Token = "0x17000781")]
 		public float CombinedOpacity
 		{
@@ -45,7 +40,6 @@ namespace Terraria.Graphics.Shaders
 			}
 		}
 
-		// Token: 0x0600371C RID: 14108 RVA: 0x0002BD99 File Offset: 0x00029F99
 		[global::Cpp2ILInjected.Token(Token = "0x6003D8F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A27A8", Offset = "0x14A27A8", Length = "0x380")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +67,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x0600371D RID: 14109 RVA: 0x0002BD9C File Offset: 0x00029F9C
 		[global::Cpp2ILInjected.Token(Token = "0x6003D90")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A2B28", Offset = "0x14A2B28", Length = "0x35C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -97,7 +90,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x0600371E RID: 14110 RVA: 0x0002BD9F File Offset: 0x00029F9F
 		[global::Cpp2ILInjected.Token(Token = "0x6003D91")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A2E84", Offset = "0x14A2E84", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BlizzardShaderData), Member = "Update", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -109,7 +101,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x0600371F RID: 14111 RVA: 0x0002BDA2 File Offset: 0x00029FA2
 		[global::Cpp2ILInjected.Token(Token = "0x6003D92")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A2E88", Offset = "0x14A2E88", Length = "0x5F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -160,7 +151,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003720 RID: 14112 RVA: 0x0002BDA5 File Offset: 0x00029FA5
 		[global::Cpp2ILInjected.Token(Token = "0x6003D93")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A3478", Offset = "0x14A3478", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WaterShaderData), Member = "Apply", ReturnType = typeof(void))]
@@ -170,7 +160,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003721 RID: 14113 RVA: 0x0002BDA8 File Offset: 0x00029FA8
 		[global::Cpp2ILInjected.Token(Token = "0x6003D94")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A3480", Offset = "0x14A3480", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
@@ -200,7 +189,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003722 RID: 14114 RVA: 0x0002BDAB File Offset: 0x00029FAB
 		[global::Cpp2ILInjected.Token(Token = "0x6003D95")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A3488", Offset = "0x14A3488", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenEffectInitializer), Member = "Load", ReturnType = typeof(void))]
@@ -216,7 +204,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003723 RID: 14115 RVA: 0x0002BDAE File Offset: 0x00029FAE
 		[global::Cpp2ILInjected.Token(Token = "0x6003D96")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A34D4", Offset = "0x14A34D4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
@@ -245,7 +232,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003724 RID: 14116 RVA: 0x0002BDB1 File Offset: 0x00029FB1
 		[global::Cpp2ILInjected.Token(Token = "0x6003D97")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A34DC", Offset = "0x14A34DC", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WaterShaderData), Member = "Apply", ReturnType = typeof(void))]
@@ -256,7 +242,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003725 RID: 14117 RVA: 0x0002BDB4 File Offset: 0x00029FB4
 		[global::Cpp2ILInjected.Token(Token = "0x6003D98")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A3570", Offset = "0x14A3570", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -268,7 +253,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003726 RID: 14118 RVA: 0x0002BDB7 File Offset: 0x00029FB7
 		[global::Cpp2ILInjected.Token(Token = "0x6003D99")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A36E8", Offset = "0x14A36E8", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -278,7 +262,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003727 RID: 14119 RVA: 0x0002BDBA File Offset: 0x00029FBA
 		[global::Cpp2ILInjected.Token(Token = "0x6003D9A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A34C8", Offset = "0x14A34C8", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SepiaScreenShaderData), Member = "Update", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -288,7 +271,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003728 RID: 14120 RVA: 0x0002BDBD File Offset: 0x00029FBD
 		[global::Cpp2ILInjected.Token(Token = "0x6003D9B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A371C", Offset = "0x14A371C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BlizzardShaderData), Member = "Update", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -299,7 +281,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003729 RID: 14121 RVA: 0x0002BDC0 File Offset: 0x00029FC0
 		[global::Cpp2ILInjected.Token(Token = "0x6003D9C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A3724", Offset = "0x14A3724", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Filter), Member = "Update", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -316,7 +297,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x0600372A RID: 14122 RVA: 0x0002BDC3 File Offset: 0x00029FC3
 		[global::Cpp2ILInjected.Token(Token = "0x6003D9D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A372C", Offset = "0x14A372C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
@@ -360,7 +340,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x0600372B RID: 14123 RVA: 0x0002BDC6 File Offset: 0x00029FC6
 		[global::Cpp2ILInjected.Token(Token = "0x6003D9E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A3734", Offset = "0x14A3734", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenEffectInitializer), Member = "Load", ReturnType = typeof(void))]
@@ -376,7 +355,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x0600372C RID: 14124 RVA: 0x0002BDC9 File Offset: 0x00029FC9
 		[global::Cpp2ILInjected.Token(Token = "0x6003D9F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A3780", Offset = "0x14A3780", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -386,7 +364,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x0600372D RID: 14125 RVA: 0x0002BDCC File Offset: 0x00029FCC
 		[global::Cpp2ILInjected.Token(Token = "0x6003DA0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A3774", Offset = "0x14A3774", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -395,7 +372,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x0600372E RID: 14126 RVA: 0x0002BDCF File Offset: 0x00029FCF
 		[global::Cpp2ILInjected.Token(Token = "0x6003DA1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A37B4", Offset = "0x14A37B4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateBiomes", ReturnType = typeof(void))]
@@ -408,7 +384,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x0600372F RID: 14127 RVA: 0x0002BDD2 File Offset: 0x00029FD2
 		[global::Cpp2ILInjected.Token(Token = "0x6003DA2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A37BC", Offset = "0x14A37BC", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenEffectInitializer), Member = "Load", ReturnType = typeof(void))]
@@ -418,7 +393,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003730 RID: 14128 RVA: 0x0002BDD5 File Offset: 0x00029FD5
 		[global::Cpp2ILInjected.Token(Token = "0x6003DA3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A37CC", Offset = "0x14A37CC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -427,67 +401,54 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x04006772 RID: 26482
 		[global::Cpp2ILInjected.Token(Token = "0x4007C5A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private Vector3 _uColor;
 
-		// Token: 0x04006773 RID: 26483
 		[global::Cpp2ILInjected.Token(Token = "0x4007C5B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		private Vector3 _uSecondaryColor;
 
-		// Token: 0x04006774 RID: 26484
 		[global::Cpp2ILInjected.Token(Token = "0x4007C5C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private float _uOpacity;
 
-		// Token: 0x04006775 RID: 26485
 		[global::Cpp2ILInjected.Token(Token = "0x4007C5D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		private float _globalOpacity;
 
-		// Token: 0x04006776 RID: 26486
 		[global::Cpp2ILInjected.Token(Token = "0x4007C5E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private float _uIntensity;
 
-		// Token: 0x04006777 RID: 26487
 		[global::Cpp2ILInjected.Token(Token = "0x4007C5F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 		private Vector2 _uTargetPosition;
 
-		// Token: 0x04006778 RID: 26488
 		[global::Cpp2ILInjected.Token(Token = "0x4007C60")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 		private Vector2 _uDirection;
 
-		// Token: 0x04006779 RID: 26489
 		[global::Cpp2ILInjected.Token(Token = "0x4007C61")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 		private float _uProgress;
 
-		// Token: 0x0400677A RID: 26490
 		[global::Cpp2ILInjected.Token(Token = "0x4007C62")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private Vector2 _uImageOffset;
 
-		// Token: 0x0400677B RID: 26491
 		[global::Cpp2ILInjected.Token(Token = "0x4007C63")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private Asset<Texture2D>[] _uAssetImages;
 
-		// Token: 0x0400677C RID: 26492
 		[global::Cpp2ILInjected.Token(Token = "0x4007C64")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		private Texture2D[] _uCustomImages;
 
-		// Token: 0x0400677D RID: 26493
 		[global::Cpp2ILInjected.Token(Token = "0x4007C65")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		private SamplerState[] _samplerStates;
 
-		// Token: 0x0400677E RID: 26494
 		[global::Cpp2ILInjected.Token(Token = "0x4007C66")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 		private Vector2[] _imageScales;

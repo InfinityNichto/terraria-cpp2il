@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Terraria;
 using UnityEngine;
 
-// Token: 0x02000016 RID: 22
 [global::Cpp2ILInjected.Token(Token = "0x200001B")]
 public abstract class DrKeyboard_Base
 {
-	// Token: 0x06000077 RID: 119 RVA: 0x00021CEF File Offset: 0x0001FEEF
 	[global::Cpp2ILInjected.Token(Token = "0x6000083")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FE2D8", Offset = "0x6FE2D8", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "OpenKeyboard", MemberParameters = new object[]
@@ -44,8 +42,6 @@ public abstract class DrKeyboard_Base
 		throw null;
 	}
 
-	// Token: 0x17000022 RID: 34
-	// (get) Token: 0x06000078 RID: 120 RVA: 0x00021CF2 File Offset: 0x0001FEF2
 	[global::Cpp2ILInjected.Token(Token = "0x17000022")]
 	public static bool isSupported
 	{
@@ -60,9 +56,6 @@ public abstract class DrKeyboard_Base
 		}
 	}
 
-	// Token: 0x17000023 RID: 35
-	// (get) Token: 0x06000079 RID: 121
-	// (set) Token: 0x0600007A RID: 122
 	[global::Cpp2ILInjected.Token(Token = "0x17000023")]
 	public abstract bool active
 	{
@@ -72,8 +65,6 @@ public abstract class DrKeyboard_Base
 		set;
 	}
 
-	// Token: 0x17000024 RID: 36
-	// (get) Token: 0x0600007B RID: 123
 	[global::Cpp2ILInjected.Token(Token = "0x17000024")]
 	public abstract bool wasCanceled
 	{
@@ -81,8 +72,6 @@ public abstract class DrKeyboard_Base
 		get;
 	}
 
-	// Token: 0x17000025 RID: 37
-	// (get) Token: 0x0600007C RID: 124
 	[global::Cpp2ILInjected.Token(Token = "0x17000025")]
 	public abstract bool done
 	{
@@ -90,9 +79,6 @@ public abstract class DrKeyboard_Base
 		get;
 	}
 
-	// Token: 0x17000026 RID: 38
-	// (get) Token: 0x0600007D RID: 125
-	// (set) Token: 0x0600007E RID: 126
 	[global::Cpp2ILInjected.Token(Token = "0x17000026")]
 	public abstract string text
 	{
@@ -102,7 +88,6 @@ public abstract class DrKeyboard_Base
 		set;
 	}
 
-	// Token: 0x0600007F RID: 127 RVA: 0x00021CF5 File Offset: 0x0001FEF5
 	[global::Cpp2ILInjected.Token(Token = "0x600008B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FE688", Offset = "0x6FE688", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -111,7 +96,6 @@ public abstract class DrKeyboard_Base
 		throw null;
 	}
 
-	// Token: 0x06000080 RID: 128 RVA: 0x00021CF8 File Offset: 0x0001FEF8
 	[global::Cpp2ILInjected.Token(Token = "0x600008C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FE68C", Offset = "0x6FE68C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

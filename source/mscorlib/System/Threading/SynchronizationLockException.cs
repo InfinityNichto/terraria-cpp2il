@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading
 {
-	// Token: 0x0200016F RID: 367
 	[global::Cpp2ILInjected.Token(Token = "0x20001C1")]
 	[global::System.Serializable]
 	public class SynchronizationLockException : global::System.SystemException
 	{
-		// Token: 0x06000F8E RID: 3982 RVA: 0x00017105 File Offset: 0x00015305
 		[global::Cpp2ILInjected.Token(Token = "0x60010C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9421C", Offset = "0x1C9421C", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -22,7 +20,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000F8F RID: 3983 RVA: 0x00017108 File Offset: 0x00015308
 		[global::Cpp2ILInjected.Token(Token = "0x60010C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94278", Offset = "0x1C94278", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000F90 RID: 3984 RVA: 0x0001710B File Offset: 0x0001530B
 		[global::Cpp2ILInjected.Token(Token = "0x60010C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9429C", Offset = "0x1C9429C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

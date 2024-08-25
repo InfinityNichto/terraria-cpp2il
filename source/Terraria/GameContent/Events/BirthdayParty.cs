@@ -17,12 +17,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent.Events
 {
-	// Token: 0x0200068D RID: 1677
 	[global::Cpp2ILInjected.Token(Token = "0x2000A4C")]
 	public class BirthdayParty
 	{
-		// Token: 0x1700079C RID: 1948
-		// (get) Token: 0x060041B8 RID: 16824 RVA: 0x0002DBDE File Offset: 0x0002BDDE
 		[global::Cpp2ILInjected.Token(Token = "0x17000893")]
 		public static bool PartyIsUp
 		{
@@ -129,7 +126,6 @@ namespace Terraria.GameContent.Events
 			}
 		}
 
-		// Token: 0x060041B9 RID: 16825 RVA: 0x0002DBE1 File Offset: 0x0002BDE1
 		[global::Cpp2ILInjected.Token(Token = "0x6004DA2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C429C", Offset = "0x8C429C", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "UpdateTime_StartDay", MemberParameters = new object[] { typeof(ref bool) }, ReturnType = typeof(void))]
@@ -140,7 +136,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041BA RID: 16826 RVA: 0x0002DBE4 File Offset: 0x0002BDE4
 		[global::Cpp2ILInjected.Token(Token = "0x6004DA3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C4D54", Offset = "0x8C4D54", Length = "0x200")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "UpdateTime_StartNight", MemberParameters = new object[] { typeof(ref bool) }, ReturnType = typeof(void))]
@@ -167,7 +162,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041BB RID: 16827 RVA: 0x0002DBE7 File Offset: 0x0002BDE7
 		[global::Cpp2ILInjected.Token(Token = "0x6004DA4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C4F54", Offset = "0x8C4F54", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +174,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041BC RID: 16828 RVA: 0x0002DBEA File Offset: 0x0002BDEA
 		[global::Cpp2ILInjected.Token(Token = "0x6004DA5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C42E8", Offset = "0x8C42E8", Length = "0xA6C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -251,7 +244,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041BD RID: 16829 RVA: 0x0002DBED File Offset: 0x0002BDED
 		[global::Cpp2ILInjected.Token(Token = "0x6004DA6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C5068", Offset = "0x8C5068", Length = "0x1B8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MessageBuffer), Member = "ProcessData", MemberParameters = new object[]
@@ -295,7 +287,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041BE RID: 16830 RVA: 0x0002DBF0 File Offset: 0x0002BDF0
 		[global::Cpp2ILInjected.Token(Token = "0x6004DA7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C5000", Offset = "0x8C5000", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BirthdayParty), Member = "NaturalAttempt", ReturnType = typeof(void))]
@@ -309,7 +300,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041BF RID: 16831 RVA: 0x0002DBF3 File Offset: 0x0002BDF3
 		[global::Cpp2ILInjected.Token(Token = "0x6004DA8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C5220", Offset = "0x8C5220", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -322,7 +312,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041C0 RID: 16832 RVA: 0x0002DBF6 File Offset: 0x0002BDF6
 		[global::Cpp2ILInjected.Token(Token = "0x6004DA9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C529C", Offset = "0x8C529C", Length = "0x4F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -381,7 +370,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041C1 RID: 16833 RVA: 0x0002DBF9 File Offset: 0x0002BDF9
 		[global::Cpp2ILInjected.Token(Token = "0x6004DAA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C578C", Offset = "0x8C578C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -391,7 +379,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041C2 RID: 16834 RVA: 0x0002DBFC File Offset: 0x0002BDFC
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6004DAB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C5794", Offset = "0x8C5794", Length = "0x8C")]
@@ -403,33 +390,26 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x04006DD7 RID: 28119
 		[global::Cpp2ILInjected.Token(Token = "0x400869B")]
 		public static bool ManualParty;
 
-		// Token: 0x04006DD8 RID: 28120
 		[global::Cpp2ILInjected.Token(Token = "0x400869C")]
 		public static bool GenuineParty;
 
-		// Token: 0x04006DD9 RID: 28121
 		[global::Cpp2ILInjected.Token(Token = "0x400869D")]
 		public static int PartyDaysOnCooldown;
 
-		// Token: 0x04006DDA RID: 28122
 		[global::Cpp2ILInjected.Token(Token = "0x400869E")]
 		public static List<int> CelebratingNPCs;
 
-		// Token: 0x04006DDB RID: 28123
 		[global::Cpp2ILInjected.Token(Token = "0x400869F")]
 		private static bool _wasCelebrating;
 
-		// Token: 0x02000A9C RID: 2716
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000A4D")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06005215 RID: 21013 RVA: 0x000307A9 File Offset: 0x0002E9A9
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6004DAC")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8C5820", Offset = "0x8C5820", Length = "0x5C")]
@@ -441,7 +421,6 @@ namespace Terraria.GameContent.Events
 				throw null;
 			}
 
-			// Token: 0x06005216 RID: 21014 RVA: 0x000307AC File Offset: 0x0002E9AC
 			[global::Cpp2ILInjected.Token(Token = "0x6004DAD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8C587C", Offset = "0x8C587C", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -451,7 +430,6 @@ namespace Terraria.GameContent.Events
 				throw null;
 			}
 
-			// Token: 0x06005217 RID: 21015 RVA: 0x000307AF File Offset: 0x0002E9AF
 			[global::Cpp2ILInjected.Token(Token = "0x6004DAE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8C5884", Offset = "0x8C5884", Length = "0x5C")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -462,11 +440,9 @@ namespace Terraria.GameContent.Events
 				throw null;
 			}
 
-			// Token: 0x04008ED7 RID: 36567
 			[global::Cpp2ILInjected.Token(Token = "0x40086A0")]
 			public static readonly BirthdayParty.<>c <>9;
 
-			// Token: 0x04008ED8 RID: 36568
 			[global::Cpp2ILInjected.Token(Token = "0x40086A1")]
 			public static Func<NPC, int> <>9__10_0;
 		}

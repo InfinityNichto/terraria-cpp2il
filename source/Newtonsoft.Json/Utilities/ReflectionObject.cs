@@ -12,14 +12,10 @@ using Newtonsoft.Json.Shims;
 
 namespace Newtonsoft.Json.Utilities
 {
-	// Token: 0x02000044 RID: 68
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x200004F")]
 	internal class ReflectionObject
 	{
-		// Token: 0x17000091 RID: 145
-		// (get) Token: 0x060002E3 RID: 739 RVA: 0x00002927 File Offset: 0x00000B27
-		// (set) Token: 0x060002E4 RID: 740 RVA: 0x0000292A File Offset: 0x00000B2A
 		[global::Cpp2ILInjected.Token(Token = "0x17000091")]
 		public ObjectConstructor<object> Creator
 		{
@@ -41,9 +37,6 @@ namespace Newtonsoft.Json.Utilities
 			}
 		}
 
-		// Token: 0x17000092 RID: 146
-		// (get) Token: 0x060002E5 RID: 741 RVA: 0x0000292D File Offset: 0x00000B2D
-		// (set) Token: 0x060002E6 RID: 742 RVA: 0x00002930 File Offset: 0x00000B30
 		[global::Cpp2ILInjected.Token(Token = "0x17000092")]
 		public IDictionary<string, ReflectionMember> Members
 		{
@@ -65,7 +58,6 @@ namespace Newtonsoft.Json.Utilities
 			}
 		}
 
-		// Token: 0x060002E7 RID: 743 RVA: 0x00002933 File Offset: 0x00000B33
 		[global::Cpp2ILInjected.Token(Token = "0x60002FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD06D4", Offset = "0x1CD06D4", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ReflectionObject), Member = "Create", MemberParameters = new object[]
@@ -83,7 +75,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x060002E8 RID: 744 RVA: 0x00002936 File Offset: 0x00000B36
 		[global::Cpp2ILInjected.Token(Token = "0x60002FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD0754", Offset = "0x1CD0754", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -102,7 +93,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x060002E9 RID: 745 RVA: 0x00002939 File Offset: 0x00000B39
 		[global::Cpp2ILInjected.Token(Token = "0x60002FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD0818", Offset = "0x1CD0818", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -113,7 +103,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x060002EA RID: 746 RVA: 0x0000293C File Offset: 0x00000B3C
 		[global::Cpp2ILInjected.Token(Token = "0x60002FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD08EC", Offset = "0x1CD08EC", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -137,7 +126,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x060002EB RID: 747 RVA: 0x0000293F File Offset: 0x00000B3F
 		[global::Cpp2ILInjected.Token(Token = "0x60002FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD099C", Offset = "0x1CD099C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonTypeReflector), Member = "GetAssociateMetadataTypeFromAttribute", MemberParameters = new object[] { typeof(Type) }, ReturnType = typeof(Type))]
@@ -147,7 +135,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x060002EC RID: 748 RVA: 0x00002942 File Offset: 0x00000B42
 		[global::Cpp2ILInjected.Token(Token = "0x6000300")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD09A8", Offset = "0x1CD09A8", Length = "0x808")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -215,24 +202,20 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x04000165 RID: 357
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400018C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ObjectConstructor<object> <Creator>k__BackingField;
 
-		// Token: 0x04000166 RID: 358
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400018D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private IDictionary<string, ReflectionMember> <Members>k__BackingField;
 
-		// Token: 0x020000FD RID: 253
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000050")]
 		private sealed class <>c__DisplayClass13_0
 		{
-			// Token: 0x06000A9A RID: 2714 RVA: 0x00003F4A File Offset: 0x0000214A
 			[global::Cpp2ILInjected.Token(Token = "0x6000301")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD1258", Offset = "0x1CD1258", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -242,7 +225,6 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x06000A9B RID: 2715 RVA: 0x00003F4D File Offset: 0x0000214D
 			[global::Cpp2ILInjected.Token(Token = "0x6000302")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD1740", Offset = "0x1CD1740", Length = "0x14")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -252,18 +234,15 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x0400038B RID: 907
 			[global::Cpp2ILInjected.Token(Token = "0x400018E")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public Func<object> ctor;
 		}
 
-		// Token: 0x020000FE RID: 254
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000051")]
 		private sealed class <>c__DisplayClass13_1
 		{
-			// Token: 0x06000A9C RID: 2716 RVA: 0x00003F50 File Offset: 0x00002150
 			[global::Cpp2ILInjected.Token(Token = "0x6000303")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD1518", Offset = "0x1CD1518", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -273,7 +252,6 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x06000A9D RID: 2717 RVA: 0x00003F53 File Offset: 0x00002153
 			[global::Cpp2ILInjected.Token(Token = "0x6000304")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD1754", Offset = "0x1CD1754", Length = "0x74")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -283,18 +261,15 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x0400038C RID: 908
 			[global::Cpp2ILInjected.Token(Token = "0x400018F")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public MethodCall<object, object> call;
 		}
 
-		// Token: 0x020000FF RID: 255
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000052")]
 		private sealed class <>c__DisplayClass13_2
 		{
-			// Token: 0x06000A9E RID: 2718 RVA: 0x00003F56 File Offset: 0x00002156
 			[global::Cpp2ILInjected.Token(Token = "0x6000305")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD1520", Offset = "0x1CD1520", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -304,7 +279,6 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x06000A9F RID: 2719 RVA: 0x00003F59 File Offset: 0x00002159
 			[global::Cpp2ILInjected.Token(Token = "0x6000306")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD17C8", Offset = "0x1CD17C8", Length = "0xA0")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -314,7 +288,6 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x0400038D RID: 909
 			[global::Cpp2ILInjected.Token(Token = "0x4000190")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public MethodCall<object, object> call;

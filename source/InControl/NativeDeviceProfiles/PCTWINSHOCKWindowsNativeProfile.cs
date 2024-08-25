@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001CE RID: 462
 	[NativeInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20001DB")]
 	public class PCTWINSHOCKWindowsNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x06000826 RID: 2086 RVA: 0x0000389F File Offset: 0x00001A9F
 		[global::Cpp2ILInjected.Token(Token = "0x6000843")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19A7CD8", Offset = "0x19A7CD8", Length = "0xB78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,7 +24,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000827 RID: 2087 RVA: 0x000038A2 File Offset: 0x00001AA2
 		[global::Cpp2ILInjected.Token(Token = "0x6000844")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19A8850", Offset = "0x19A8850", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -6,12 +6,10 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200000B RID: 11
 	[UsedByNativeCode]
 	[global::Cpp2ILInjected.Token(Token = "0x200000B")]
 	internal sealed class _AndroidJNIHelper
 	{
-		// Token: 0x060000B0 RID: 176 RVA: 0x00002257 File Offset: 0x00000457
 		[global::Cpp2ILInjected.Token(Token = "0x60000B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F613E4", Offset = "0x1F613E4", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidJNIHelper), Member = "CreateJavaProxy", MemberParameters = new object[] { typeof(AndroidJavaProxy) }, ReturnType = typeof(IntPtr))]
@@ -27,7 +25,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000B1 RID: 177 RVA: 0x0000225A File Offset: 0x0000045A
 		[global::Cpp2ILInjected.Token(Token = "0x60000B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F61454", Offset = "0x1F61454", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(_AndroidJNIHelper), Member = "CreateJNIArgArray", MemberParameters = new object[] { typeof(object[]) }, ReturnType = typeof(jvalue[]))]
@@ -42,7 +39,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000B2 RID: 178 RVA: 0x0000225D File Offset: 0x0000045D
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x60000B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F614AC", Offset = "0x1F614AC", Length = "0x468")]
@@ -73,7 +69,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000B3 RID: 179 RVA: 0x00002260 File Offset: 0x00000460
 		[global::Cpp2ILInjected.Token(Token = "0x60000B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F61914", Offset = "0x1F61914", Length = "0x544")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -115,7 +110,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000B4 RID: 180 RVA: 0x00002263 File Offset: 0x00000463
 		[global::Cpp2ILInjected.Token(Token = "0x60000B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F62838", Offset = "0x1F62838", Length = "0x654")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -168,7 +162,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000B5 RID: 181 RVA: 0x00002266 File Offset: 0x00000466
 		[global::Cpp2ILInjected.Token(Token = "0x60000B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F5EA80", Offset = "0x1F5EA80", Length = "0x8E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -237,7 +230,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000B6 RID: 182 RVA: 0x00002269 File Offset: 0x00000469
 		[global::Cpp2ILInjected.Token(Token = "0x60000B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F5DEA0", Offset = "0x1F5DEA0", Length = "0x88C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -273,7 +265,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000B7 RID: 183 RVA: 0x0000226C File Offset: 0x0000046C
 		[global::Cpp2ILInjected.Token(Token = "0x60000B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F62E8C", Offset = "0x1F62E8C", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -305,7 +296,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000B8 RID: 184 RVA: 0x0000226F File Offset: 0x0000046F
 		[global::Cpp2ILInjected.Token(Token = "0x60000B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F61E58", Offset = "0x1F61E58", Length = "0x9DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -358,7 +348,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000B9 RID: 185 RVA: 0x00002272 File Offset: 0x00000472
 		[global::Cpp2ILInjected.Token(Token = "0x60000B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15AB29C", Offset = "0x15AB29C", Length = "0x6C8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -398,7 +387,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000BA RID: 186 RVA: 0x00002275 File Offset: 0x00000475
 		[global::Cpp2ILInjected.Token(Token = "0x60000BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6306C", Offset = "0x1F6306C", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -413,7 +401,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000BB RID: 187 RVA: 0x00002278 File Offset: 0x00000478
 		[global::Cpp2ILInjected.Token(Token = "0x60000BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F63168", Offset = "0x1F63168", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -430,7 +417,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000BC RID: 188 RVA: 0x0000227B File Offset: 0x0000047B
 		[global::Cpp2ILInjected.Token(Token = "0x60000BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15AEFF8", Offset = "0x15AEFF8", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -448,7 +434,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000BD RID: 189 RVA: 0x0000227E File Offset: 0x0000047E
 		[global::Cpp2ILInjected.Token(Token = "0x60000BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15AEEC0", Offset = "0x15AEEC0", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -468,7 +453,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000BE RID: 190 RVA: 0x00002281 File Offset: 0x00000481
 		[global::Cpp2ILInjected.Token(Token = "0x60000BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F631A0", Offset = "0x1F631A0", Length = "0x200")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -518,7 +502,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000BF RID: 191 RVA: 0x00002284 File Offset: 0x00000484
 		[global::Cpp2ILInjected.Token(Token = "0x60000BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F633A0", Offset = "0x1F633A0", Length = "0x210")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -593,7 +576,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000C0 RID: 192 RVA: 0x00002287 File Offset: 0x00000487
 		[global::Cpp2ILInjected.Token(Token = "0x60000C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F635B0", Offset = "0x1F635B0", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -623,7 +605,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000C1 RID: 193 RVA: 0x0000228A File Offset: 0x0000048A
 		[global::Cpp2ILInjected.Token(Token = "0x60000C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F636AC", Offset = "0x1F636AC", Length = "0x30C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -685,7 +666,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000C2 RID: 194 RVA: 0x0000228D File Offset: 0x0000048D
 		[global::Cpp2ILInjected.Token(Token = "0x60000C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F639F4", Offset = "0x1F639F4", Length = "0xDFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -728,7 +708,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000C3 RID: 195 RVA: 0x00002290 File Offset: 0x00000490
 		[global::Cpp2ILInjected.Token(Token = "0x60000C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6308C", Offset = "0x1F6308C", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -783,7 +762,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000C4 RID: 196 RVA: 0x00002293 File Offset: 0x00000493
 		[global::Cpp2ILInjected.Token(Token = "0x60000C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15AF280", Offset = "0x15AF280", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -800,7 +778,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000C5 RID: 197 RVA: 0x00002296 File Offset: 0x00000496
 		[global::Cpp2ILInjected.Token(Token = "0x60000C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F647F0", Offset = "0x1F647F0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

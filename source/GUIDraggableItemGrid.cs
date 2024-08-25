@@ -8,11 +8,9 @@ using Terraria;
 using Terraria.IO;
 using UnityEngine;
 
-// Token: 0x020000BA RID: 186
 [global::Cpp2ILInjected.Token(Token = "0x2000109")]
 public static class GUIDraggableItemGrid
 {
-	// Token: 0x060005E2 RID: 1506 RVA: 0x00022CEB File Offset: 0x00020EEB
 	[global::Cpp2ILInjected.Token(Token = "0x60006B8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF5FDB0", Offset = "0xF5FDB0", Length = "0x130")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -28,7 +26,6 @@ public static class GUIDraggableItemGrid
 		throw null;
 	}
 
-	// Token: 0x060005E3 RID: 1507 RVA: 0x00022CEE File Offset: 0x00020EEE
 	[global::Cpp2ILInjected.Token(Token = "0x60006B9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF5FEE0", Offset = "0xF5FEE0", Length = "0x4DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -75,7 +72,6 @@ public static class GUIDraggableItemGrid
 		throw null;
 	}
 
-	// Token: 0x060005E4 RID: 1508 RVA: 0x00022CF1 File Offset: 0x00020EF1
 	[global::Cpp2ILInjected.Token(Token = "0x60006BA")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF603BC", Offset = "0xF603BC", Length = "0x164")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuide), Member = "Draw", ReturnType = typeof(void))]
@@ -97,7 +93,6 @@ public static class GUIDraggableItemGrid
 		throw null;
 	}
 
-	// Token: 0x060005E5 RID: 1509 RVA: 0x00022CF4 File Offset: 0x00020EF4
 	[global::Cpp2ILInjected.Token(Token = "0x60006BB")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF60520", Offset = "0xF60520", Length = "0xD78")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -160,7 +155,6 @@ public static class GUIDraggableItemGrid
 		throw null;
 	}
 
-	// Token: 0x060005E6 RID: 1510 RVA: 0x00022CF7 File Offset: 0x00020EF7
 	[global::Cpp2ILInjected.Token(Token = "0x60006BC")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF62544", Offset = "0xF62544", Length = "0xCA0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -226,7 +220,6 @@ public static class GUIDraggableItemGrid
 		throw null;
 	}
 
-	// Token: 0x060005E7 RID: 1511 RVA: 0x00022CFA File Offset: 0x00020EFA
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x60006BD")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6395C", Offset = "0xF6395C", Length = "0xC8")]
@@ -242,52 +235,39 @@ public static class GUIDraggableItemGrid
 		throw null;
 	}
 
-	// Token: 0x0400036F RID: 879
 	[global::Cpp2ILInjected.Token(Token = "0x4000555")]
 	public static Rectangle dragRegion;
 
-	// Token: 0x04000370 RID: 880
 	[global::Cpp2ILInjected.Token(Token = "0x4000556")]
 	public static Rectangle fullRegion;
 
-	// Token: 0x04000371 RID: 881
 	[global::Cpp2ILInjected.Token(Token = "0x4000557")]
 	private static Microsoft.Xna.Framework.Vector2 drawOffset;
 
-	// Token: 0x04000372 RID: 882
 	[global::Cpp2ILInjected.Token(Token = "0x4000558")]
 	private static float itemWidth;
 
-	// Token: 0x04000373 RID: 883
 	[global::Cpp2ILInjected.Token(Token = "0x4000559")]
 	private static float itemHeight;
 
-	// Token: 0x04000374 RID: 884
 	[global::Cpp2ILInjected.Token(Token = "0x400055A")]
 	private static float orgScrollOffset;
 
-	// Token: 0x04000375 RID: 885
 	[global::Cpp2ILInjected.Token(Token = "0x400055B")]
 	private static GUIItemGrid.CursorOver _overHandler;
 
-	// Token: 0x04000376 RID: 886
 	[global::Cpp2ILInjected.Token(Token = "0x400055C")]
 	private static GUIItemGrid.DrawItemHandler _drawhandler;
 
-	// Token: 0x04000377 RID: 887
 	[global::Cpp2ILInjected.Token(Token = "0x400055D")]
 	private static GUIItemGrid.GetItemSizeHandler _sizehandler;
 
-	// Token: 0x04000378 RID: 888
 	[global::Cpp2ILInjected.Token(Token = "0x400055E")]
 	private static GUIItemGrid.DrawItemHandler SetSizeClippedDrawItem;
 
-	// Token: 0x04000379 RID: 889
 	[global::Cpp2ILInjected.Token(Token = "0x400055F")]
 	private static GUIItemGrid.DrawItemHandler ClippedDrawItem;
 
-	// Token: 0x020007B1 RID: 1969
-	// (Invoke) Token: 0x060048AA RID: 18602
 	[global::Cpp2ILInjected.Token(Token = "0x200010A")]
 	public delegate void DrawItemClippedHandler(ItemGrid_Layout gridLayout, int itemIndex, Microsoft.Xna.Framework.Vector2 position, float scale, Rectangle inner, Rectangle outer);
 }

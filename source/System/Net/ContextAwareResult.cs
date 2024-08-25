@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x020000C0 RID: 192
 	[global::Cpp2ILInjected.Token(Token = "0x200011E")]
 	internal class ContextAwareResult : LazyAsyncResult
 	{
-		// Token: 0x06000622 RID: 1570 RVA: 0x00003FB9 File Offset: 0x000021B9
 		[global::Cpp2ILInjected.Token(Token = "0x60006CD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDF82C", Offset = "0x1EDF82C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,7 +17,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000623 RID: 1571 RVA: 0x00003FBC File Offset: 0x000021BC
 		[global::Cpp2ILInjected.Token(Token = "0x60006CE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDF830", Offset = "0x1EDF830", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -28,7 +25,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000624 RID: 1572 RVA: 0x00003FBF File Offset: 0x000021BF
 		[global::Cpp2ILInjected.Token(Token = "0x60006CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDF834", Offset = "0x1EDF834", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FtpWebRequest), Member = "BeginGetResponse", MemberParameters = new object[]
@@ -48,7 +44,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000625 RID: 1573 RVA: 0x00003FC2 File Offset: 0x000021C2
 		[global::Cpp2ILInjected.Token(Token = "0x60006D0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDF83C", Offset = "0x1EDF83C", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FtpWebRequest), Member = "BeginGetResponse", MemberParameters = new object[]
@@ -73,7 +68,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000626 RID: 1574 RVA: 0x00003FC5 File Offset: 0x000021C5
 		[global::Cpp2ILInjected.Token(Token = "0x60006D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDF88C", Offset = "0x1EDF88C", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -88,8 +82,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000170 RID: 368
-		// (get) Token: 0x06000627 RID: 1575 RVA: 0x00003FC8 File Offset: 0x000021C8
 		[global::Cpp2ILInjected.Token(Token = "0x17000178")]
 		internal ExecutionContext ContextCopy
 		{
@@ -118,7 +110,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000628 RID: 1576 RVA: 0x00003FCB File Offset: 0x000021CB
 		[global::Cpp2ILInjected.Token(Token = "0x60006D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDFC3C", Offset = "0x1EDFC3C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FtpWebRequest), Member = "BeginGetResponse", MemberParameters = new object[]
@@ -137,7 +128,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000629 RID: 1577 RVA: 0x00003FCE File Offset: 0x000021CE
 		[global::Cpp2ILInjected.Token(Token = "0x60006D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDFC44", Offset = "0x1EDFC44", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -155,7 +145,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600062A RID: 1578 RVA: 0x00003FD1 File Offset: 0x000021D1
 		[global::Cpp2ILInjected.Token(Token = "0x60006D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDFD34", Offset = "0x1EDFD34", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +169,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600062B RID: 1579 RVA: 0x00003FD4 File Offset: 0x000021D4
 		[global::Cpp2ILInjected.Token(Token = "0x60006D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE013C", Offset = "0x1EE013C", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -202,7 +190,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600062C RID: 1580 RVA: 0x00003FD7 File Offset: 0x000021D7
 		[global::Cpp2ILInjected.Token(Token = "0x60006D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE02A0", Offset = "0x1EE02A0", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -220,7 +207,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600062D RID: 1581 RVA: 0x00003FDA File Offset: 0x000021DA
 		[global::Cpp2ILInjected.Token(Token = "0x60006D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDFD78", Offset = "0x1EDFD78", Length = "0x3C4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ContextAwareResult), Member = "FinishPostingAsyncOp", ReturnType = typeof(bool))]
@@ -260,7 +246,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600062E RID: 1582 RVA: 0x00003FDD File Offset: 0x000021DD
 		[global::Cpp2ILInjected.Token(Token = "0x60006D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE0548", Offset = "0x1EE0548", Length = "0x2C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -301,7 +286,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600062F RID: 1583 RVA: 0x00003FE0 File Offset: 0x000021E0
 		[global::Cpp2ILInjected.Token(Token = "0x60006DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EE080C", Offset = "0x1EE080C", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ContextAwareResult.<>c), Member = "<Complete>b__17_0", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
@@ -320,8 +304,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000171 RID: 369
-		// (get) Token: 0x06000630 RID: 1584 RVA: 0x00003FE3 File Offset: 0x000021E3
 		[global::Cpp2ILInjected.Token(Token = "0x17000179")]
 		internal virtual EndPoint RemoteEndPoint
 		{
@@ -334,53 +316,41 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x040003D4 RID: 980
 		[global::Cpp2ILInjected.Token(Token = "0x400053E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private ExecutionContext _context;
 
-		// Token: 0x040003D5 RID: 981
 		[global::Cpp2ILInjected.Token(Token = "0x400053F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private object _lock;
 
-		// Token: 0x040003D6 RID: 982
 		[global::Cpp2ILInjected.Token(Token = "0x4000540")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private ContextAwareResult.StateFlags _flags;
 
-		// Token: 0x020003C6 RID: 966
 		[Flags]
 		[global::Cpp2ILInjected.Token(Token = "0x200011F")]
 		private enum StateFlags : byte
 		{
-			// Token: 0x0400111C RID: 4380
 			[global::Cpp2ILInjected.Token(Token = "0x4000542")]
 			None = 0,
-			// Token: 0x0400111D RID: 4381
 			[global::Cpp2ILInjected.Token(Token = "0x4000543")]
 			CaptureIdentity = 1,
-			// Token: 0x0400111E RID: 4382
 			[global::Cpp2ILInjected.Token(Token = "0x4000544")]
 			CaptureContext = 2,
-			// Token: 0x0400111F RID: 4383
 			[global::Cpp2ILInjected.Token(Token = "0x4000545")]
 			ThreadSafeContextCopy = 4,
-			// Token: 0x04001120 RID: 4384
 			[global::Cpp2ILInjected.Token(Token = "0x4000546")]
 			PostBlockStarted = 8,
-			// Token: 0x04001121 RID: 4385
 			[global::Cpp2ILInjected.Token(Token = "0x4000547")]
 			PostBlockFinished = 16
 		}
 
-		// Token: 0x020003C7 RID: 967
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000120")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06001D4F RID: 7503 RVA: 0x000080E1 File Offset: 0x000062E1
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60006DC")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1EE08E4", Offset = "0x1EE08E4", Length = "0x5C")]
@@ -392,7 +362,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001D50 RID: 7504 RVA: 0x000080E4 File Offset: 0x000062E4
 			[global::Cpp2ILInjected.Token(Token = "0x60006DD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1EE0940", Offset = "0x1EE0940", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -402,7 +371,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001D51 RID: 7505 RVA: 0x000080E7 File Offset: 0x000062E7
 			[global::Cpp2ILInjected.Token(Token = "0x60006DE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1EE0948", Offset = "0x1EE0948", Length = "0x7C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -414,11 +382,9 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x04001122 RID: 4386
 			[global::Cpp2ILInjected.Token(Token = "0x4000548")]
 			public static readonly ContextAwareResult.<>c <>9;
 
-			// Token: 0x04001123 RID: 4387
 			[global::Cpp2ILInjected.Token(Token = "0x4000549")]
 			public static ContextCallback <>9__17_0;
 		}

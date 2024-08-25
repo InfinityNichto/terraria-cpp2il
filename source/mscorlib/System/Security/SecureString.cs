@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security
 {
-	// Token: 0x02000206 RID: 518
 	[global::System.MonoTODO("work in progress - encryption is missing")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000298")]
 	public sealed class SecureString : global::System.IDisposable
 	{
-		// Token: 0x060014F8 RID: 5368 RVA: 0x00017FE7 File Offset: 0x000161E7
 		[global::Cpp2ILInjected.Token(Token = "0x60016F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AEC490", Offset = "0x1AEC490", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetworkCredential", Member = "set_SecurePassword", MemberParameters = new object[] { typeof(SecureString) }, ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x060014F9 RID: 5369 RVA: 0x00017FEA File Offset: 0x000161EA
 		[global::System.CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x60016F8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AEC620", Offset = "0x1AEC620", Length = "0x118")]
@@ -47,8 +44,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x170001FE RID: 510
-		// (get) Token: 0x060014FA RID: 5370 RVA: 0x00017FED File Offset: 0x000161ED
 		[global::Cpp2ILInjected.Token(Token = "0x17000250")]
 		public int Length
 		{
@@ -70,7 +65,6 @@ namespace System.Security
 			}
 		}
 
-		// Token: 0x060014FB RID: 5371 RVA: 0x00017FF0 File Offset: 0x000161F0
 		[global::Cpp2ILInjected.Token(Token = "0x60016FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AEC79C", Offset = "0x1AEC79C", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetworkCredential", Member = "get_SecurePassword", ReturnType = typeof(SecureString))]
@@ -89,7 +83,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x060014FC RID: 5372 RVA: 0x00017FF3 File Offset: 0x000161F3
 		[global::Cpp2ILInjected.Token(Token = "0x60016FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AEC874", Offset = "0x1AEC874", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -104,7 +97,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x060014FD RID: 5373 RVA: 0x00017FF6 File Offset: 0x000161F6
 		[global::Cpp2ILInjected.Token(Token = "0x60016FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AEC738", Offset = "0x1AEC738", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -113,7 +105,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x060014FE RID: 5374 RVA: 0x00017FF9 File Offset: 0x000161F9
 		[global::Cpp2ILInjected.Token(Token = "0x60016FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AEC8AC", Offset = "0x1AEC8AC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -122,7 +113,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x060014FF RID: 5375 RVA: 0x00017FFC File Offset: 0x000161FC
 		[global::Cpp2ILInjected.Token(Token = "0x60016FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AEC4B4", Offset = "0x1AEC4B4", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -163,7 +153,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x06001500 RID: 5376 RVA: 0x00017FFF File Offset: 0x000161FF
 		[global::Cpp2ILInjected.Token(Token = "0x60016FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AEC8B0", Offset = "0x1AEC8B0", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -188,17 +177,14 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x0400090C RID: 2316
 		[global::Cpp2ILInjected.Token(Token = "0x4000B9F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private int length;
 
-		// Token: 0x0400090D RID: 2317
 		[global::Cpp2ILInjected.Token(Token = "0x4000BA0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private bool disposed;
 
-		// Token: 0x0400090E RID: 2318
 		[global::Cpp2ILInjected.Token(Token = "0x4000BA1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private byte[] data;

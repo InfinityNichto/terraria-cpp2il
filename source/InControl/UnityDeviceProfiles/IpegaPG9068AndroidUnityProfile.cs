@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x02000094 RID: 148
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000A1")]
 	public class IpegaPG9068AndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060005AC RID: 1452 RVA: 0x00003131 File Offset: 0x00001331
 		[global::Cpp2ILInjected.Token(Token = "0x60005C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19D1FCC", Offset = "0x19D1FCC", Length = "0x874")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005AD RID: 1453 RVA: 0x00003134 File Offset: 0x00001334
 		[global::Cpp2ILInjected.Token(Token = "0x60005CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19D2840", Offset = "0x19D2840", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

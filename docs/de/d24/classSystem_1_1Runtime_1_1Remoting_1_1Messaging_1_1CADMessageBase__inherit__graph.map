@@ -1,7 +1,0 @@
-<map id="System.Runtime.Remoting.Messaging.CADMessageBase" name="System.Runtime.Remoting.Messaging.CADMessageBase">
-<area shape="rect" id="Node000001" title=" " alt="" coords="135,5,441,767"/>
-<area shape="rect" id="Node000002" href="$dd/d09/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1CADMethodCallMessage.html" title=" " alt="" coords="5,889,267,1127"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,781,168,889,163,887,189,779"/>
-<area shape="rect" id="Node000003" href="$d0/ddb/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1CADMethodReturnMessage.html" title=" " alt="" coords="291,815,592,1201"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="388,779,396,814,391,815,383,781"/>
-</map>

@@ -13,11 +13,9 @@ using Terraria.Initializers;
 using Terraria.Localization;
 using Terraria.UI;
 
-// Token: 0x020001F2 RID: 498
 [global::Cpp2ILInjected.Token(Token = "0x2000296")]
 public class GUIToggleSetting : GUISettingEntry
 {
-	// Token: 0x06000E45 RID: 3653 RVA: 0x00024614 File Offset: 0x00022814
 	[global::Cpp2ILInjected.Token(Token = "0x6000F75")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA306EC", Offset = "0xA306EC", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Initializers.AssetInitializer.<LoadAssetsWhileInInitialBlackScreen_InSteps>d__3", Member = "MoveNext", ReturnType = typeof(bool))]
@@ -30,7 +28,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E46 RID: 3654 RVA: 0x00024617 File Offset: 0x00022817
 	[global::Cpp2ILInjected.Token(Token = "0x6000F76")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA307B0", Offset = "0xA307B0", Length = "0x28")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerToggleEntry), Member = ".ctor", MemberParameters = new object[] { typeof(GUISettingID) }, ReturnType = typeof(void))]
@@ -43,7 +40,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E47 RID: 3655 RVA: 0x0002461A File Offset: 0x0002281A
 	[global::Cpp2ILInjected.Token(Token = "0x6000F77")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA307D8", Offset = "0xA307D8", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +49,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E48 RID: 3656 RVA: 0x0002461D File Offset: 0x0002281D
 	[global::Cpp2ILInjected.Token(Token = "0x6000F78")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA30824", Offset = "0xA30824", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -63,7 +58,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E49 RID: 3657 RVA: 0x00024620 File Offset: 0x00022820
 	[global::Cpp2ILInjected.Token(Token = "0x6000F79")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA30870", Offset = "0xA30870", Length = "0x32C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -131,7 +125,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E4A RID: 3658 RVA: 0x00024623 File Offset: 0x00022823
 	[global::Cpp2ILInjected.Token(Token = "0x6000F7A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32598", Offset = "0xA32598", Length = "0x1C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -141,7 +134,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E4B RID: 3659 RVA: 0x00024626 File Offset: 0x00022826
 	[global::Cpp2ILInjected.Token(Token = "0x6000F7B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32438", Offset = "0xA32438", Length = "0x160")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -154,7 +146,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E4C RID: 3660 RVA: 0x00024629 File Offset: 0x00022829
 	[global::Cpp2ILInjected.Token(Token = "0x6000F7C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA322CC", Offset = "0xA322CC", Length = "0x16C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -167,7 +158,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E4D RID: 3661 RVA: 0x0002462C File Offset: 0x0002282C
 	[global::Cpp2ILInjected.Token(Token = "0x6000F7D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA30B9C", Offset = "0xA30B9C", Length = "0x54C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +170,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E4E RID: 3662 RVA: 0x0002462F File Offset: 0x0002282F
 	[global::Cpp2ILInjected.Token(Token = "0x6000F7E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA31A80", Offset = "0xA31A80", Length = "0x84C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -213,7 +202,6 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E4F RID: 3663 RVA: 0x00024632 File Offset: 0x00022832
 	[global::Cpp2ILInjected.Token(Token = "0x6000F7F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA310E8", Offset = "0xA310E8", Length = "0x998")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -271,15 +259,12 @@ public class GUIToggleSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x04001701 RID: 5889
 	[global::Cpp2ILInjected.Token(Token = "0x4001C23")]
 	private static Texture2D ToggleOff;
 
-	// Token: 0x04001702 RID: 5890
 	[global::Cpp2ILInjected.Token(Token = "0x4001C24")]
 	private static Texture2D ToggleOn;
 
-	// Token: 0x04001703 RID: 5891
 	[global::Cpp2ILInjected.Token(Token = "0x4001C25")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float scale;

@@ -6,27 +6,75 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine
 {
-	// Token: 0x02000084 RID: 132
 	[NativeHeader("Runtime/Input/TimeManager.h")]
 	[StaticAccessor("GetTimeManager()", StaticAccessorType.Dot)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000091")]
 	public class Time
 	{
-		// Token: 0x1700008E RID: 142
-		// (get) Token: 0x06000279 RID: 633
 		[global::Cpp2ILInjected.Token(Token = "0x17000090")]
 		public static extern float deltaTime
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x6000287")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F78B70", Offset = "0x1F78B70", Length = "0x28")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "AlertDelayer", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerMappings", Member = "DrawCategories", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISlider", Member = "Draw", MemberParameters = new object[]
+			{
+				"Slider_Layout",
+				typeof(bool),
+				typeof(ref float),
+				"GUISlider.DragState",
+				"GUISlider.DrawBackingHandler",
+				typeof(bool),
+				typeof(int),
+				typeof(int),
+				typeof(bool)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIAmmo", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIBuffs", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIBuilderAccToggles", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIChest", Member = "DrawSlots", MemberParameters = new object[] { "Microsoft.Xna.Framework.Graphics.SpriteBatch" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIClothesWindow", Member = "DrawCategoryButtons", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUICoins", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEmotesWindow", Member = "DrawCategories", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIEquipment", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIHairWindow", Member = "DrawCategoryButtons", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIHearts", Member = "DrawLifeString", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIHotbar", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIInventory", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIJourneyModeSettings", Member = "DrawCategories", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIMana", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPageIcons", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIRubbleMaker", Member = "DrawOverlay", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIWiresUI", Member = "DrawOverlay", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIWorldOperationProgress", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIKeyboardMappings", Member = "DrawCategories", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPlayerCreateMenu", Member = "DrawCategoryButtons", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISettingsOverlay", Member = "DrawCategories", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIVirtualInputControllerEdit", Member = "DrawControlsGrid", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIVirtualInputControllerEdit", Member = "DrawSlotsGrid", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISliderSetting", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ScreenshotTool", Member = "get_TakeScreenShotThisFrame", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAUnityRunner", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DoDraw_UpdateCameraPosition", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Controller.ControllerActionAxis", Member = "GetValue", MemberParameters = new object[] { "Controller.ControllerDevice" }, ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.InControlInputModule", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.CoroutineTween.TweenRunner`1.<Start>d__2", Member = "MoveNext", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "VirtualDeviceExample.VirtualDeviceExample", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TouchExample.CubeController", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MultiplayerWithBindingsExample.Player", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MultiplayerBasicExample.Player", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InterfaceMovement.Button", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InterfaceMovement.ButtonFocus", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InterfaceMovement.ButtonManager", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "BindingsExample.BindingsExample", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "BasicExample.BasicExample", Member = "Update", ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 61)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
 			[MethodImpl(4096)]
 			get;
 		}
 
-		// Token: 0x1700008F RID: 143
-		// (get) Token: 0x0600027A RID: 634
 		[global::Cpp2ILInjected.Token(Token = "0x17000091")]
 		public static extern float unscaledTime
 		{
@@ -62,8 +110,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000090 RID: 144
-		// (get) Token: 0x0600027B RID: 635
 		[global::Cpp2ILInjected.Token(Token = "0x17000092")]
 		public static extern float unscaledDeltaTime
 		{
@@ -80,8 +126,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000091 RID: 145
-		// (get) Token: 0x0600027C RID: 636
 		[global::Cpp2ILInjected.Token(Token = "0x17000093")]
 		public static extern float fixedDeltaTime
 		{
@@ -94,9 +138,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000092 RID: 146
-		// (get) Token: 0x0600027D RID: 637
-		// (set) Token: 0x0600027E RID: 638
 		[global::Cpp2ILInjected.Token(Token = "0x17000094")]
 		public static extern float timeScale
 		{
@@ -117,8 +158,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000093 RID: 147
-		// (get) Token: 0x0600027F RID: 639
 		[global::Cpp2ILInjected.Token(Token = "0x17000095")]
 		public static extern int frameCount
 		{
@@ -131,8 +170,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000094 RID: 148
-		// (get) Token: 0x06000280 RID: 640
 		[NativeProperty("Realtime")]
 		[global::Cpp2ILInjected.Token(Token = "0x17000096")]
 		public static extern float realtimeSinceStartup

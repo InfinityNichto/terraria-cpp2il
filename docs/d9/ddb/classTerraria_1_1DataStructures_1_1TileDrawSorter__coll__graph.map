@@ -1,9 +1,0 @@
-<map id="Terraria.DataStructures.TileDrawSorter" name="Terraria.DataStructures.TileDrawSorter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,420,193,615"/>
-<area shape="rect" id="Node000002" href="$dd/d16/classTerraria_1_1DataStructures_1_1TileDrawSorter.html" title=" " alt="" coords="188,148,376,343"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,344,176,408,172,405,215,341"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="378,220,395,229,403,245,400,256,393,263,389,260,395,253,397,246,392,233,375,225"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="31,5,61,71"/>
-<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="46,71,41,148,34,246,34,288,41,342,56,404,51,405,35,343,29,289,29,246,35,148,40,71"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="63,51,177,149,173,153,60,55"/>
-</map>

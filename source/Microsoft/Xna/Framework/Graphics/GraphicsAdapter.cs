@@ -8,13 +8,9 @@ using Terraria;
 
 namespace Microsoft.Xna.Framework.Graphics
 {
-	// Token: 0x020002AD RID: 685
 	[global::Cpp2ILInjected.Token(Token = "0x2000377")]
 	public sealed class GraphicsAdapter
 	{
-		// Token: 0x17000291 RID: 657
-		// (get) Token: 0x060015AE RID: 5550 RVA: 0x00025B92 File Offset: 0x00023D92
-		// (set) Token: 0x060015AF RID: 5551 RVA: 0x00025B95 File Offset: 0x00023D95
 		[global::Cpp2ILInjected.Token(Token = "0x170002BB")]
 		public static int VirtualScreenSize
 		{
@@ -45,7 +41,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x060015B0 RID: 5552 RVA: 0x00025B98 File Offset: 0x00023D98
 		[global::Cpp2ILInjected.Token(Token = "0x6001720")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAB0800", Offset = "0xAB0800", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -57,8 +52,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x17000292 RID: 658
-		// (get) Token: 0x060015B1 RID: 5553 RVA: 0x00025B9B File Offset: 0x00023D9B
 		[global::Cpp2ILInjected.Token(Token = "0x170002BC")]
 		public static GraphicsAdapter DefaultAdapter
 		{
@@ -75,8 +68,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000293 RID: 659
-		// (get) Token: 0x060015B2 RID: 5554 RVA: 0x00025B9E File Offset: 0x00023D9E
 		[global::Cpp2ILInjected.Token(Token = "0x170002BD")]
 		public static ReadOnlyCollection<GraphicsAdapter> Adapters
 		{
@@ -90,9 +81,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000294 RID: 660
-		// (get) Token: 0x060015B3 RID: 5555 RVA: 0x00025BA1 File Offset: 0x00023DA1
-		// (set) Token: 0x060015B4 RID: 5556 RVA: 0x00025BA4 File Offset: 0x00023DA4
 		[global::Cpp2ILInjected.Token(Token = "0x170002BE")]
 		public static bool UseReferenceDevice
 		{
@@ -115,9 +103,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000295 RID: 661
-		// (get) Token: 0x060015B5 RID: 5557 RVA: 0x00025BA7 File Offset: 0x00023DA7
-		// (set) Token: 0x060015B6 RID: 5558 RVA: 0x00025BAA File Offset: 0x00023DAA
 		[global::Cpp2ILInjected.Token(Token = "0x170002BF")]
 		public static GraphicsAdapter.DriverType UseDriverType
 		{
@@ -141,9 +126,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000296 RID: 662
-		// (get) Token: 0x060015B7 RID: 5559 RVA: 0x00025BAD File Offset: 0x00023DAD
-		// (set) Token: 0x060015B8 RID: 5560 RVA: 0x00025BB0 File Offset: 0x00023DB0
 		[global::Cpp2ILInjected.Token(Token = "0x170002C0")]
 		public static bool UseDebugLayers
 		{
@@ -167,9 +149,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000297 RID: 663
-		// (get) Token: 0x060015B9 RID: 5561 RVA: 0x00025BB3 File Offset: 0x00023DB3
-		// (set) Token: 0x060015BA RID: 5562 RVA: 0x00025BB6 File Offset: 0x00023DB6
 		[global::Cpp2ILInjected.Token(Token = "0x170002C1")]
 		public string Description
 		{
@@ -191,9 +170,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000298 RID: 664
-		// (get) Token: 0x060015BB RID: 5563 RVA: 0x00025BB9 File Offset: 0x00023DB9
-		// (set) Token: 0x060015BC RID: 5564 RVA: 0x00025BBC File Offset: 0x00023DBC
 		[global::Cpp2ILInjected.Token(Token = "0x170002C2")]
 		public int DeviceId
 		{
@@ -215,9 +191,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000299 RID: 665
-		// (get) Token: 0x060015BD RID: 5565 RVA: 0x00025BBF File Offset: 0x00023DBF
-		// (set) Token: 0x060015BE RID: 5566 RVA: 0x00025BC2 File Offset: 0x00023DC2
 		[global::Cpp2ILInjected.Token(Token = "0x170002C3")]
 		public string DeviceName
 		{
@@ -239,9 +212,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700029A RID: 666
-		// (get) Token: 0x060015BF RID: 5567 RVA: 0x00025BC5 File Offset: 0x00023DC5
-		// (set) Token: 0x060015C0 RID: 5568 RVA: 0x00025BC8 File Offset: 0x00023DC8
 		[global::Cpp2ILInjected.Token(Token = "0x170002C4")]
 		public int VendorId
 		{
@@ -263,9 +233,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700029B RID: 667
-		// (get) Token: 0x060015C1 RID: 5569 RVA: 0x00025BCB File Offset: 0x00023DCB
-		// (set) Token: 0x060015C2 RID: 5570 RVA: 0x00025BCE File Offset: 0x00023DCE
 		[global::Cpp2ILInjected.Token(Token = "0x170002C5")]
 		public bool IsDefaultAdapter
 		{
@@ -287,9 +254,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700029C RID: 668
-		// (get) Token: 0x060015C3 RID: 5571 RVA: 0x00025BD1 File Offset: 0x00023DD1
-		// (set) Token: 0x060015C4 RID: 5572 RVA: 0x00025BD4 File Offset: 0x00023DD4
 		[global::Cpp2ILInjected.Token(Token = "0x170002C6")]
 		public IntPtr MonitorHandle
 		{
@@ -311,9 +275,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700029D RID: 669
-		// (get) Token: 0x060015C5 RID: 5573 RVA: 0x00025BD7 File Offset: 0x00023DD7
-		// (set) Token: 0x060015C6 RID: 5574 RVA: 0x00025BDA File Offset: 0x00023DDA
 		[global::Cpp2ILInjected.Token(Token = "0x170002C7")]
 		public int Revision
 		{
@@ -335,9 +296,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700029E RID: 670
-		// (get) Token: 0x060015C7 RID: 5575 RVA: 0x00025BDD File Offset: 0x00023DDD
-		// (set) Token: 0x060015C8 RID: 5576 RVA: 0x00025BE0 File Offset: 0x00023DE0
 		[global::Cpp2ILInjected.Token(Token = "0x170002C8")]
 		public int SubSystemId
 		{
@@ -359,8 +317,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700029F RID: 671
-		// (get) Token: 0x060015C9 RID: 5577 RVA: 0x00025BE3 File Offset: 0x00023DE3
 		[global::Cpp2ILInjected.Token(Token = "0x170002C9")]
 		public DisplayModeCollection SupportedDisplayModes
 		{
@@ -373,8 +329,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x170002A0 RID: 672
-		// (get) Token: 0x060015CA RID: 5578 RVA: 0x00025BE6 File Offset: 0x00023DE6
 		[global::Cpp2ILInjected.Token(Token = "0x170002CA")]
 		public DisplayMode CurrentDisplayMode
 		{
@@ -387,8 +341,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x170002A1 RID: 673
-		// (get) Token: 0x060015CB RID: 5579 RVA: 0x00025BE9 File Offset: 0x00023DE9
 		[global::Cpp2ILInjected.Token(Token = "0x170002CB")]
 		public bool IsWideScreen
 		{
@@ -403,7 +355,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x060015CC RID: 5580 RVA: 0x00025BEC File Offset: 0x00023DEC
 		[global::Cpp2ILInjected.Token(Token = "0x600173C")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAB1068", Offset = "0xAB1068", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -413,7 +364,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060015CD RID: 5581 RVA: 0x00025BEF File Offset: 0x00023DEF
 		[global::Cpp2ILInjected.Token(Token = "0x600173D")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAB10E4", Offset = "0xAB10E4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -422,7 +372,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060015CE RID: 5582 RVA: 0x00025BF2 File Offset: 0x00023DF2
 		[global::Cpp2ILInjected.Token(Token = "0x600173E")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAB10EC", Offset = "0xAB10EC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -431,7 +380,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060015CF RID: 5583 RVA: 0x00025BF5 File Offset: 0x00023DF5
 		[global::Cpp2ILInjected.Token(Token = "0x600173F")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAB0884", Offset = "0xAB0884", Length = "0x3D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -456,7 +404,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060015D0 RID: 5584 RVA: 0x00025BF8 File Offset: 0x00023DF8
 		[global::Cpp2ILInjected.Token(Token = "0x6001740")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAB10F0", Offset = "0xAB10F0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -466,93 +413,75 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x04001F79 RID: 8057
 		[global::Cpp2ILInjected.Token(Token = "0x40025BB")]
 		private static int _virtualScreenSize;
 
-		// Token: 0x04001F7A RID: 8058
 		[global::Cpp2ILInjected.Token(Token = "0x40025BC")]
 		private static readonly ReadOnlyCollection<GraphicsAdapter> _adapters;
 
-		// Token: 0x04001F7B RID: 8059
 		[global::Cpp2ILInjected.Token(Token = "0x40025BD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private DisplayModeCollection _supportedDisplayModes;
 
-		// Token: 0x04001F7C RID: 8060
 		[global::Cpp2ILInjected.Token(Token = "0x40025BE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private DisplayMode _currentDisplayMode;
 
-		// Token: 0x04001F7D RID: 8061
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025BF")]
 		private static GraphicsAdapter.DriverType <UseDriverType>k__BackingField;
 
-		// Token: 0x04001F7E RID: 8062
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025C0")]
 		private static bool <UseDebugLayers>k__BackingField;
 
-		// Token: 0x04001F7F RID: 8063
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025C1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string <Description>k__BackingField;
 
-		// Token: 0x04001F80 RID: 8064
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025C2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private int <DeviceId>k__BackingField;
 
-		// Token: 0x04001F81 RID: 8065
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025C3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private string <DeviceName>k__BackingField;
 
-		// Token: 0x04001F82 RID: 8066
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025C4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private int <VendorId>k__BackingField;
 
-		// Token: 0x04001F83 RID: 8067
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025C5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		private bool <IsDefaultAdapter>k__BackingField;
 
-		// Token: 0x04001F84 RID: 8068
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025C6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private IntPtr <MonitorHandle>k__BackingField;
 
-		// Token: 0x04001F85 RID: 8069
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025C7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private int <Revision>k__BackingField;
 
-		// Token: 0x04001F86 RID: 8070
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40025C8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 		private int <SubSystemId>k__BackingField;
 
-		// Token: 0x02000829 RID: 2089
 		[global::Cpp2ILInjected.Token(Token = "0x2000378")]
 		public enum DriverType
 		{
-			// Token: 0x04007E01 RID: 32257
 			[global::Cpp2ILInjected.Token(Token = "0x40025CA")]
 			Hardware,
-			// Token: 0x04007E02 RID: 32258
 			[global::Cpp2ILInjected.Token(Token = "0x40025CB")]
 			Reference,
-			// Token: 0x04007E03 RID: 32259
 			[global::Cpp2ILInjected.Token(Token = "0x40025CC")]
 			FastSoftware
 		}

@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Serialization.Formatters.Binary
 {
-	// Token: 0x02000358 RID: 856
 	[global::Cpp2ILInjected.Token(Token = "0x2000400")]
 	internal static class IOUtil
 	{
-		// Token: 0x06001D93 RID: 7571 RVA: 0x000197C0 File Offset: 0x000179C0
 		[global::Cpp2ILInjected.Token(Token = "0x6001FD1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B5C4F4", Offset = "0x1B5C4F4", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -18,7 +16,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x06001D94 RID: 7572 RVA: 0x000197C3 File Offset: 0x000179C3
 		[global::Cpp2ILInjected.Token(Token = "0x6001FD2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B5C500", Offset = "0x1B5C500", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -37,7 +34,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x06001D95 RID: 7573 RVA: 0x000197C6 File Offset: 0x000179C6
 		[global::Cpp2ILInjected.Token(Token = "0x6001FD3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B5C560", Offset = "0x1B5C560", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

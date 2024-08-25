@@ -6,12 +6,10 @@ using Newtonsoft.Json.Shims;
 
 namespace Newtonsoft.Json.Utilities
 {
-	// Token: 0x02000054 RID: 84
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x2000069")]
 	internal static class BufferUtils
 	{
-		// Token: 0x06000382 RID: 898 RVA: 0x00002AFE File Offset: 0x00000CFE
 		[global::Cpp2ILInjected.Token(Token = "0x60003B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD8330", Offset = "0x1CD8330", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +61,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x06000383 RID: 899 RVA: 0x00002B01 File Offset: 0x00000D01
 		[global::Cpp2ILInjected.Token(Token = "0x60003B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD83F8", Offset = "0x1CD83F8", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,7 +95,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x06000384 RID: 900 RVA: 0x00002B04 File Offset: 0x00000D04
 		[global::Cpp2ILInjected.Token(Token = "0x60003B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD84A8", Offset = "0x1CD84A8", Length = "0x13C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

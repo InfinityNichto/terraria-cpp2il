@@ -1,15 +1,19 @@
 ﻿using System;
+using System.Collections;
+using System.Globalization;
+using System.Runtime.InteropServices;
+using System.Runtime.Remoting.Messaging;
+using System.Runtime.Remoting.Proxies;
+using System.Runtime.Serialization;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Reflection
 {
-	// Token: 0x02000420 RID: 1056
 	[global::Cpp2ILInjected.Token(Token = "0x20004DF")]
 	[global::System.Serializable]
 	public abstract class MethodInfo : MethodBase
 	{
-		// Token: 0x0600214A RID: 8522 RVA: 0x0001A201 File Offset: 0x00018401
 		[global::Cpp2ILInjected.Token(Token = "0x60023E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82F14", Offset = "0x1B82F14", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeMethodInfo), Member = ".ctor", ReturnType = typeof(void))]
@@ -20,8 +24,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x17000444 RID: 1092
-		// (get) Token: 0x0600214B RID: 8523 RVA: 0x0001A204 File Offset: 0x00018404
 		[global::Cpp2ILInjected.Token(Token = "0x170004BC")]
 		public override MemberTypes MemberType
 		{
@@ -34,8 +36,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x17000445 RID: 1093
-		// (get) Token: 0x0600214C RID: 8524 RVA: 0x0001A207 File Offset: 0x00018407
 		[global::Cpp2ILInjected.Token(Token = "0x170004BD")]
 		public virtual ParameterInfo ReturnParameter
 		{
@@ -50,8 +50,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x17000446 RID: 1094
-		// (get) Token: 0x0600214D RID: 8525 RVA: 0x0001A20A File Offset: 0x0001840A
 		[global::Cpp2ILInjected.Token(Token = "0x170004BE")]
 		public virtual global::System.Type ReturnType
 		{
@@ -66,7 +64,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x0600214E RID: 8526 RVA: 0x0001A20D File Offset: 0x0001840D
 		[global::Cpp2ILInjected.Token(Token = "0x60023E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82F74", Offset = "0x1B82F74", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -77,7 +74,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x0600214F RID: 8527 RVA: 0x0001A210 File Offset: 0x00018410
 		[global::Cpp2ILInjected.Token(Token = "0x60023E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82FC0", Offset = "0x1B82FC0", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -88,7 +84,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002150 RID: 8528 RVA: 0x0001A213 File Offset: 0x00018413
 		[global::Cpp2ILInjected.Token(Token = "0x60023EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B8300C", Offset = "0x1B8300C", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -99,11 +94,9 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002151 RID: 8529
 		[global::Cpp2ILInjected.Token(Token = "0x60023EB")]
 		public abstract MethodInfo GetBaseDefinition();
 
-		// Token: 0x06002152 RID: 8530 RVA: 0x0001A216 File Offset: 0x00018416
 		[global::Cpp2ILInjected.Token(Token = "0x60023EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B83058", Offset = "0x1B83058", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -114,7 +107,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002153 RID: 8531 RVA: 0x0001A219 File Offset: 0x00018419
 		[global::Cpp2ILInjected.Token(Token = "0x60023ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B830A4", Offset = "0x1B830A4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -124,7 +116,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002154 RID: 8532 RVA: 0x0001A21C File Offset: 0x0001841C
 		[global::Cpp2ILInjected.Token(Token = "0x60023EE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B830AC", Offset = "0x1B830AC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -134,10 +125,136 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002155 RID: 8533 RVA: 0x0001A21F File Offset: 0x0001841F
 		[global::Cpp2ILInjected.Token(Token = "0x60023EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B828F0", Offset = "0x1B828F0", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Attribute), Member = "InternalParamGetCustomAttributes", MemberParameters = new object[]
+		{
+			typeof(ParameterInfo),
+			typeof(global::System.Type),
+			typeof(bool)
+		}, ReturnType = typeof(global::System.Attribute[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.RuntimeType), Member = "FilterApplyBase", MemberParameters = new object[]
+		{
+			typeof(MemberInfo),
+			typeof(BindingFlags),
+			typeof(bool),
+			typeof(bool),
+			typeof(bool),
+			typeof(string),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.RuntimeType), Member = "InvokeMember", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(BindingFlags),
+			typeof(Binder),
+			typeof(object),
+			typeof(object[]),
+			typeof(ParameterModifier[]),
+			typeof(global::System.Globalization.CultureInfo),
+			typeof(string[])
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Delegate), Member = "CreateDelegate", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(object),
+			typeof(MethodInfo),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(global::System.Delegate))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Delegate), Member = "GetCandidateMethod", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(global::System.Type),
+			typeof(string),
+			typeof(BindingFlags),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Delegate), Member = "CreateDelegate", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(global::System.Type),
+			typeof(string),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(global::System.Delegate))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Delegate), Member = "CreateDelegate", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(object),
+			typeof(string),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(global::System.Delegate))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Delegate), Member = "Equals", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.DelegateSerializationHolder.DelegateEntry", Member = "DeserializeDelegate", MemberParameters = new object[]
+		{
+			typeof(global::System.Runtime.Serialization.SerializationInfo),
+			typeof(int)
+		}, ReturnType = typeof(global::System.Delegate))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MonoCustomAttrs), Member = "GetBasePropertyDefinition", MemberParameters = new object[] { typeof(RuntimePropertyInfo) }, ReturnType = typeof(PropertyInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MonoCustomAttrs), Member = "GetBaseEventDefinition", MemberParameters = new object[] { typeof(RuntimeEventInfo) }, ReturnType = typeof(EventInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MonoCustomAttrs), Member = "GetBase", MemberParameters = new object[] { typeof(ICustomAttributeProvider) }, ReturnType = typeof(ICustomAttributeProvider))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Proxies.TransparentProxy), Member = "LoadRemoteFieldNew", MemberParameters = new object[]
+		{
+			typeof(global::System.IntPtr),
+			typeof(global::System.IntPtr)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Proxies.TransparentProxy), Member = "StoreRemoteField", MemberParameters = new object[]
+		{
+			typeof(global::System.IntPtr),
+			typeof(global::System.IntPtr),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Messaging.MonoMethodMessage), Member = "GetMethodInfo", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(string)
+		}, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Messaging.MonoMethodMessage), Member = "get_MethodName", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Messaging.MonoMethodMessage), Member = "get_TypeName", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.InteropServices.Marshal), Member = "GetCustomMarshalerInstance", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(string)
+		}, ReturnType = typeof(global::System.Runtime.InteropServices.ICustomMarshaler))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeEventInfo), Member = "GetBindingFlags", ReturnType = typeof(BindingFlags))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeMethodInfo), Member = "MakeGenericMethod", MemberParameters = new object[] { typeof(global::System.Type[]) }, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeMethodInfo), Member = "GetGenericMethodDefinition", ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimePropertyInfo), Member = "GetValue", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(BindingFlags),
+			typeof(Binder),
+			typeof(object[]),
+			typeof(global::System.Globalization.CultureInfo)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimePropertyInfo), Member = "SetValue", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(object),
+			typeof(BindingFlags),
+			typeof(Binder),
+			typeof(object[]),
+			typeof(global::System.Globalization.CultureInfo)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectEventDescriptor", Member = "FillMethods", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(string),
+			typeof(global::System.Type),
+			typeof(PropertyInfo),
+			typeof(MethodInfo),
+			typeof(MethodInfo),
+			"System.Attribute[]"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "get_GetMethodValue", ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "get_IsReadOnly", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "get_SetMethodValue", ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "FillAttributes", MemberParameters = new object[] { typeof(global::System.Collections.IList) }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 43)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
 		public static bool operator ==(MethodInfo left, MethodInfo right)
@@ -145,18 +262,127 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002156 RID: 8534 RVA: 0x0001A222 File Offset: 0x00018422
 		[global::Cpp2ILInjected.Token(Token = "0x60023F0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B828B4", Offset = "0x1B828B4", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "LayoutDefinition", Member = "LoadReleaseLayout", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.RuntimeType), Member = "InvokeMember", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(BindingFlags),
+			typeof(Binder),
+			typeof(object),
+			typeof(object[]),
+			typeof(ParameterModifier[]),
+			typeof(global::System.Globalization.CultureInfo),
+			typeof(string[])
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Delegate), Member = "GetCandidateMethod", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(global::System.Type),
+			typeof(string),
+			typeof(BindingFlags),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Delegate), Member = "GetHashCode", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Delegate), Member = "GetMethodImpl", ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.DelegateSerializationHolder.DelegateEntry", Member = "DeserializeDelegate", MemberParameters = new object[]
+		{
+			typeof(global::System.Runtime.Serialization.SerializationInfo),
+			typeof(int)
+		}, ReturnType = typeof(global::System.Delegate))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MonoCustomAttrs), Member = "GetBasePropertyDefinition", MemberParameters = new object[] { typeof(RuntimePropertyInfo) }, ReturnType = typeof(PropertyInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MonoCustomAttrs), Member = "GetBaseEventDefinition", MemberParameters = new object[] { typeof(RuntimeEventInfo) }, ReturnType = typeof(EventInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeEventInfo), Member = "GetBindingFlags", ReturnType = typeof(BindingFlags))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeEventInfo), Member = "GetAddMethod", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeEventInfo), Member = "GetRaiseMethod", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeEventInfo), Member = "GetRemoveMethod", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimePropertyInfo), Member = "get_CanRead", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimePropertyInfo), Member = "get_CanWrite", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimePropertyInfo), Member = "get_PropertyType", ReturnType = typeof(global::System.Type))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimePropertyInfo), Member = "GetGetMethod", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimePropertyInfo), Member = "GetIndexParameters", ReturnType = typeof(ParameterInfo[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimePropertyInfo), Member = "GetSetMethod", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectEventDescriptor", Member = "FillMethods", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.TimeSpanConverter", Member = "ConvertTo", MemberParameters = new object[]
+		{
+			"System.ComponentModel.ITypeDescriptorContext",
+			typeof(global::System.Globalization.CultureInfo),
+			typeof(object),
+			typeof(global::System.Type)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.EnumConverter", Member = "ConvertTo", MemberParameters = new object[]
+		{
+			"System.ComponentModel.ITypeDescriptorContext",
+			typeof(global::System.Globalization.CultureInfo),
+			typeof(object),
+			typeof(global::System.Type)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.MemberDescriptor", Member = "FindMethod", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(string),
+			"System.Type[]",
+			typeof(global::System.Type),
+			typeof(bool)
+		}, ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(global::System.Type),
+			typeof(string),
+			typeof(global::System.Type),
+			typeof(PropertyInfo),
+			typeof(MethodInfo),
+			typeof(MethodInfo),
+			"System.Attribute[]"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "get_SetMethodValue", ReturnType = typeof(MethodInfo))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ExtenderCanResetValue", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IExtenderProvider",
+			typeof(object)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ExtenderResetValue", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IExtenderProvider",
+			typeof(object),
+			"System.ComponentModel.PropertyDescriptor"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ExtenderSetValue", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IExtenderProvider",
+			typeof(object),
+			typeof(object),
+			"System.ComponentModel.PropertyDescriptor"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ExtenderShouldSerializeValue", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IExtenderProvider",
+			typeof(object)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "CanResetValue", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ResetValue", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ShouldSerializeValue", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectTypeDescriptionProvider", Member = "ReflectGetEvents", MemberParameters = new object[] { typeof(global::System.Type) }, ReturnType = "System.ComponentModel.EventDescriptor[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectTypeDescriptionProvider", Member = "ReflectGetExtendedProperties", MemberParameters = new object[] { "System.ComponentModel.IExtenderProvider" }, ReturnType = "System.ComponentModel.PropertyDescriptor[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectTypeDescriptionProvider", Member = "ReflectGetProperties", MemberParameters = new object[] { typeof(global::System.Type) }, ReturnType = "System.ComponentModel.PropertyDescriptor[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.Design.Serialization.InstanceDescriptor", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(MemberInfo),
+			typeof(global::System.Collections.ICollection),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.SecureStringHasher", Member = "GetHashCodeDelegate", ReturnType = "System.Xml.SecureStringHasher.HashCodeOfStringDelegate")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlQualifiedName", Member = "GetHashCodeDelegate", ReturnType = "System.Xml.XmlQualifiedName.HashCodeOfStringDelegate")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ReflectionMethodsCache", Member = ".ctor", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 55)]
 		public static bool operator !=(MethodInfo left, MethodInfo right)
 		{
 			throw null;
 		}
 
-		// Token: 0x17000447 RID: 1095
-		// (get) Token: 0x06002157 RID: 8535 RVA: 0x0001A225 File Offset: 0x00018425
 		[global::Cpp2ILInjected.Token(Token = "0x170004BF")]
 		internal virtual int GenericParameterCount
 		{

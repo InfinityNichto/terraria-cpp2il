@@ -6,11 +6,9 @@ using Mono.Security.Cryptography;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000274 RID: 628
 	[global::Cpp2ILInjected.Token(Token = "0x2000311")]
 	internal class DESTransform : Mono.Security.Cryptography.SymmetricTransform
 	{
-		// Token: 0x06001877 RID: 6263 RVA: 0x000189E9 File Offset: 0x00016BE9
 		[global::Cpp2ILInjected.Token(Token = "0x6001A91")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16248", Offset = "0x1B16248", Length = "0x218")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +49,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001878 RID: 6264 RVA: 0x000189EC File Offset: 0x00016BEC
 		[global::Cpp2ILInjected.Token(Token = "0x6001A92")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16810", Offset = "0x1B16810", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -67,7 +64,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001879 RID: 6265 RVA: 0x000189EF File Offset: 0x00016BEF
 		[global::Cpp2ILInjected.Token(Token = "0x6001A93")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16960", Offset = "0x1B16960", Length = "0x268")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -88,7 +84,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600187A RID: 6266 RVA: 0x000189F2 File Offset: 0x00016BF2
 		[global::Cpp2ILInjected.Token(Token = "0x6001A94")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16BC8", Offset = "0x1B16BC8", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -97,7 +92,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600187B RID: 6267 RVA: 0x000189F5 File Offset: 0x00016BF5
 		[global::Cpp2ILInjected.Token(Token = "0x6001A95")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16538", Offset = "0x1B16538", Length = "0x2D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -121,7 +115,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600187C RID: 6268 RVA: 0x000189F8 File Offset: 0x00016BF8
 		[global::Cpp2ILInjected.Token(Token = "0x6001A96")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16C0C", Offset = "0x1B16C0C", Length = "0x34C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DESTransform), Member = "ECB", MemberParameters = new object[]
@@ -154,7 +147,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600187D RID: 6269 RVA: 0x000189FB File Offset: 0x00016BFB
 		[global::Cpp2ILInjected.Token(Token = "0x6001A97")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16F58", Offset = "0x1B16F58", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -176,7 +168,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600187E RID: 6270 RVA: 0x000189FE File Offset: 0x00016BFE
 		[global::Cpp2ILInjected.Token(Token = "0x6001A98")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16460", Offset = "0x1B16460", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DESTransform), Member = ".ctor", MemberParameters = new object[]
@@ -196,7 +187,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600187F RID: 6271 RVA: 0x00018A01 File Offset: 0x00016C01
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001A99")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16FFC", Offset = "0x1B16FFC", Length = "0x200")]
@@ -212,58 +202,45 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x04000AAB RID: 2731
 		[global::Cpp2ILInjected.Token(Token = "0x4000D85")]
 		internal static readonly int KEY_BIT_SIZE;
 
-		// Token: 0x04000AAC RID: 2732
 		[global::Cpp2ILInjected.Token(Token = "0x4000D86")]
 		internal static readonly int KEY_BYTE_SIZE;
 
-		// Token: 0x04000AAD RID: 2733
 		[global::Cpp2ILInjected.Token(Token = "0x4000D87")]
 		internal static readonly int BLOCK_BIT_SIZE;
 
-		// Token: 0x04000AAE RID: 2734
 		[global::Cpp2ILInjected.Token(Token = "0x4000D88")]
 		internal static readonly int BLOCK_BYTE_SIZE;
 
-		// Token: 0x04000AAF RID: 2735
 		[global::Cpp2ILInjected.Token(Token = "0x4000D89")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private byte[] keySchedule;
 
-		// Token: 0x04000AB0 RID: 2736
 		[global::Cpp2ILInjected.Token(Token = "0x4000D8A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private byte[] byteBuff;
 
-		// Token: 0x04000AB1 RID: 2737
 		[global::Cpp2ILInjected.Token(Token = "0x4000D8B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private uint[] dwordBuff;
 
-		// Token: 0x04000AB2 RID: 2738
 		[global::Cpp2ILInjected.Token(Token = "0x4000D8C")]
 		private static readonly uint[] spBoxes;
 
-		// Token: 0x04000AB3 RID: 2739
 		[global::Cpp2ILInjected.Token(Token = "0x4000D8D")]
 		private static readonly byte[] PC1;
 
-		// Token: 0x04000AB4 RID: 2740
 		[global::Cpp2ILInjected.Token(Token = "0x4000D8E")]
 		private static readonly byte[] leftRotTotal;
 
-		// Token: 0x04000AB5 RID: 2741
 		[global::Cpp2ILInjected.Token(Token = "0x4000D8F")]
 		private static readonly byte[] PC2;
 
-		// Token: 0x04000AB6 RID: 2742
 		[global::Cpp2ILInjected.Token(Token = "0x4000D90")]
 		internal static readonly uint[] ipTab;
 
-		// Token: 0x04000AB7 RID: 2743
 		[global::Cpp2ILInjected.Token(Token = "0x4000D91")]
 		internal static readonly uint[] fpTab;
 	}

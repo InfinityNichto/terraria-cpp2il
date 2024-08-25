@@ -5,12 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Diagnostics
 {
-	// Token: 0x02000077 RID: 119
 	[global::Cpp2ILInjected.Token(Token = "0x20000CF")]
 	internal static class TraceInternal
 	{
-		// Token: 0x170000CB RID: 203
-		// (get) Token: 0x0600040C RID: 1036 RVA: 0x000039C5 File Offset: 0x00001BC5
 		[global::Cpp2ILInjected.Token(Token = "0x170000D1")]
 		public static TraceListenerCollection Listeners
 		{
@@ -35,8 +32,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x170000CC RID: 204
-		// (get) Token: 0x0600040D RID: 1037 RVA: 0x000039C8 File Offset: 0x00001BC8
 		[global::Cpp2ILInjected.Token(Token = "0x170000D2")]
 		public static bool AutoFlush
 		{
@@ -50,8 +45,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x170000CD RID: 205
-		// (get) Token: 0x0600040E RID: 1038 RVA: 0x000039CB File Offset: 0x00001BCB
 		[global::Cpp2ILInjected.Token(Token = "0x170000D3")]
 		public static int IndentLevel
 		{
@@ -65,8 +58,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x170000CE RID: 206
-		// (get) Token: 0x0600040F RID: 1039 RVA: 0x000039CE File Offset: 0x00001BCE
 		[global::Cpp2ILInjected.Token(Token = "0x170000D4")]
 		public static int IndentSize
 		{
@@ -81,7 +72,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x06000410 RID: 1040 RVA: 0x000039D1 File Offset: 0x00001BD1
 		[global::Cpp2ILInjected.Token(Token = "0x60004B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC5CD0", Offset = "0x1EC5CD0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -90,7 +80,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06000411 RID: 1041 RVA: 0x000039D4 File Offset: 0x00001BD4
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60004B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC6038", Offset = "0x1EC6038", Length = "0x80")]
@@ -102,28 +91,22 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x04000264 RID: 612
 		[global::Cpp2ILInjected.Token(Token = "0x40003A5")]
 		private static string appName;
 
-		// Token: 0x04000265 RID: 613
 		[global::Cpp2ILInjected.Token(Token = "0x40003A6")]
 		private static TraceListenerCollection listeners;
 
-		// Token: 0x04000266 RID: 614
 		[global::Cpp2ILInjected.Token(Token = "0x40003A7")]
 		private static bool autoFlush;
 
-		// Token: 0x04000267 RID: 615
 		[ThreadStatic]
 		[global::Cpp2ILInjected.Token(Token = "0x40003A8")]
 		private static int indentLevel;
 
-		// Token: 0x04000268 RID: 616
 		[global::Cpp2ILInjected.Token(Token = "0x40003A9")]
 		private static int indentSize;
 
-		// Token: 0x04000269 RID: 617
 		[global::Cpp2ILInjected.Token(Token = "0x40003AA")]
 		internal static readonly object critSec;
 	}

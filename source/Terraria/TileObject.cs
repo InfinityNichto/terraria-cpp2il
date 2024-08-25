@@ -12,12 +12,9 @@ using Terraria.Utilities;
 
 namespace Terraria
 {
-	// Token: 0x0200034B RID: 843
 	[global::Cpp2ILInjected.Token(Token = "0x2000461")]
 	public struct TileObject
 	{
-		// Token: 0x1700058C RID: 1420
-		// (get) Token: 0x0600282D RID: 10285 RVA: 0x000292BE File Offset: 0x000274BE
 		[global::Cpp2ILInjected.Token(Token = "0x170005F8")]
 		public static TileObjectPreviewData objectPreview
 		{
@@ -51,7 +48,6 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x0600282E RID: 10286 RVA: 0x000292C1 File Offset: 0x000274C1
 		[global::Cpp2ILInjected.Token(Token = "0x6002AE8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1176604", Offset = "0x1176604", Length = "0x954")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -164,7 +160,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600282F RID: 10287 RVA: 0x000292C4 File Offset: 0x000274C4
 		[global::Cpp2ILInjected.Token(Token = "0x6002AE9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1176F58", Offset = "0x1176F58", Length = "0x2498")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -261,7 +256,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002830 RID: 10288 RVA: 0x000292C7 File Offset: 0x000274C7
 		[global::Cpp2ILInjected.Token(Token = "0x6002AEA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x11793F0", Offset = "0x11793F0", Length = "0x698")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -351,7 +345,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002831 RID: 10289 RVA: 0x000292CA File Offset: 0x000274CA
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6002AEB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1179A88", Offset = "0x1179A88", Length = "0x4")]
@@ -361,37 +354,30 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x04002F93 RID: 12179
 		[global::Cpp2ILInjected.Token(Token = "0x4003773")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public int xCoord;
 
-		// Token: 0x04002F94 RID: 12180
 		[global::Cpp2ILInjected.Token(Token = "0x4003774")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public int yCoord;
 
-		// Token: 0x04002F95 RID: 12181
 		[global::Cpp2ILInjected.Token(Token = "0x4003775")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		public int type;
 
-		// Token: 0x04002F96 RID: 12182
 		[global::Cpp2ILInjected.Token(Token = "0x4003776")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 		public int style;
 
-		// Token: 0x04002F97 RID: 12183
 		[global::Cpp2ILInjected.Token(Token = "0x4003777")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public int alternate;
 
-		// Token: 0x04002F98 RID: 12184
 		[global::Cpp2ILInjected.Token(Token = "0x4003778")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public int random;
 
-		// Token: 0x04002F99 RID: 12185
 		[global::Cpp2ILInjected.Token(Token = "0x4003779")]
 		public static TileObject Empty;
 	}

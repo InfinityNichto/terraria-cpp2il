@@ -1,9 +1,0 @@
-<map id="System.Net.ProtocolViolationException" name="System.Net.ProtocolViolationException">
-<area shape="rect" id="Node000001" title=" " alt="" coords="217,380,523,657"/>
-<area shape="rect" id="Node000002" href="$d8/d42/classSystem_1_1InvalidOperationException.html" title=" " alt="" coords="5,119,407,332"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,342,295,378,290,381,270,345"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="94,5,318,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="209,85,209,118,203,118,203,85"/>
-<area shape="rect" id="Node000004" href="$d6/d2f/interfaceSystem_1_1Runtime_1_1Serialization_1_1ISerializable.html" title=" " alt="" coords="431,178,640,273"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="505,286,451,381,446,378,500,283"/>
-</map>

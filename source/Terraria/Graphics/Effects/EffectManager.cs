@@ -12,12 +12,9 @@ using Terraria.Initializers;
 
 namespace Terraria.Graphics.Effects
 {
-	// Token: 0x02000518 RID: 1304
 	[global::Cpp2ILInjected.Token(Token = "0x2000781")]
 	public abstract class EffectManager<T> where T : GameEffect
 	{
-		// Token: 0x17000708 RID: 1800
-		// (get) Token: 0x06003848 RID: 14408 RVA: 0x0002C0CF File Offset: 0x0002A2CF
 		[global::Cpp2ILInjected.Token(Token = "0x170007A3")]
 		public bool IsLoaded
 		{
@@ -31,7 +28,6 @@ namespace Terraria.Graphics.Effects
 			}
 		}
 
-		// Token: 0x17000709 RID: 1801
 		[global::Cpp2ILInjected.Token(Token = "0x170007A4")]
 		public T this[string key]
 		{
@@ -39,6 +35,55 @@ namespace Terraria.Graphics.Effects
 			[global::Cpp2ILInjected.Address(RVA = "0x16224C4", Offset = "0x16224C4", Length = "0x38")]
 			[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalUser), Member = "SetupState", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "TryPlayingCreditsRoll", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(NPC),
+				typeof(bool),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(NPC),
+				typeof(bool),
+				typeof(Vector2),
+				typeof(LightMap),
+				typeof(ref Rectangle)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "ClearVisualPostProcessEffects", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawSurfaceBG", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "CheckMonoliths", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DoDraw", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "UpdateTime", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateBiomes", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ManageSpecialBiomeVisuals", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(bool),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Rain), Member = "MakeRain", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AmbientSky), Member = "AnActiveSkyConflictsWithAmbience", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AmbientSky), Member = "Update", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AmbientSky), Member = "Draw", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(float),
+				typeof(float)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AmbientSky), Member = "Spawn", MemberParameters = new object[]
+			{
+				typeof(Player),
+				typeof(SkyEntityType),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.NetModules.NetAmbienceModule.<>c__DisplayClass1_0", Member = "<Deserialize>b__0", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollEvent), Member = "TryStartingCreditsRoll", ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 103)]
 			get
 			{
@@ -57,7 +102,6 @@ namespace Terraria.Graphics.Effects
 			}
 		}
 
-		// Token: 0x0600384B RID: 14411 RVA: 0x0002C0D8 File Offset: 0x0002A2D8
 		[global::Cpp2ILInjected.Token(Token = "0x6003EEA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1622510", Offset = "0x1622510", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -69,7 +113,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x0600384C RID: 14412 RVA: 0x0002C0DB File Offset: 0x0002A2DB
 		[global::Cpp2ILInjected.Token(Token = "0x6003EEB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1622560", Offset = "0x1622560", Length = "0x120")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -86,7 +129,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x0600384D RID: 14413 RVA: 0x0002C0DE File Offset: 0x0002A2DE
 		[global::Cpp2ILInjected.Token(Token = "0x6003EEC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1622680", Offset = "0x1622680", Length = "0x228")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -141,7 +183,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x0600384E RID: 14414 RVA: 0x0002C0E1 File Offset: 0x0002A2E1
 		[global::Cpp2ILInjected.Token(Token = "0x6003EED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x16228A8", Offset = "0x16228A8", Length = "0x200")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -182,7 +223,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x0600384F RID: 14415 RVA: 0x0002C0E4 File Offset: 0x0002A2E4
 		[global::Cpp2ILInjected.Token(Token = "0x6003EEE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1622AA8", Offset = "0x1622AA8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -192,7 +232,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003850 RID: 14416 RVA: 0x0002C0E7 File Offset: 0x0002A2E7
 		[global::Cpp2ILInjected.Token(Token = "0x6003EEF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1622AAC", Offset = "0x1622AAC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -202,7 +241,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003851 RID: 14417 RVA: 0x0002C0EA File Offset: 0x0002A2EA
 		[global::Cpp2ILInjected.Token(Token = "0x6003EF0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1622AB0", Offset = "0x1622AB0", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -218,12 +256,10 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x0400684C RID: 26700
 		[global::Cpp2ILInjected.Token(Token = "0x4007D72")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		protected bool _isLoaded;
 
-		// Token: 0x0400684D RID: 26701
 		[global::Cpp2ILInjected.Token(Token = "0x4007D73")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		protected Dictionary<string, T> _effects;

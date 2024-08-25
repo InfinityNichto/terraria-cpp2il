@@ -10,12 +10,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Reflection
 {
-	// Token: 0x0200040E RID: 1038
 	[global::Cpp2ILInjected.Token(Token = "0x20004CC")]
 	[global::System.Serializable]
 	public abstract class ConstructorInfo : MethodBase
 	{
-		// Token: 0x060020D9 RID: 8409 RVA: 0x0001A105 File Offset: 0x00018305
 		[global::Cpp2ILInjected.Token(Token = "0x6002371")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B8081C", Offset = "0x1B8081C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeConstructorInfo), Member = ".ctor", ReturnType = typeof(void))]
@@ -26,8 +24,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x17000421 RID: 1057
-		// (get) Token: 0x060020DA RID: 8410 RVA: 0x0001A108 File Offset: 0x00018308
 		[global::Cpp2ILInjected.Token(Token = "0x17000499")]
 		public override MemberTypes MemberType
 		{
@@ -40,7 +36,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x060020DB RID: 8411 RVA: 0x0001A10B File Offset: 0x0001830B
 		[global::System.Diagnostics.DebuggerStepThrough]
 		[global::System.Diagnostics.DebuggerHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x6002373")]
@@ -72,11 +67,9 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x060020DC RID: 8412
 		[global::Cpp2ILInjected.Token(Token = "0x6002374")]
 		public abstract object Invoke(BindingFlags invokeAttr, Binder binder, object[] parameters, global::System.Globalization.CultureInfo culture);
 
-		// Token: 0x060020DD RID: 8413 RVA: 0x0001A10E File Offset: 0x0001830E
 		[global::Cpp2ILInjected.Token(Token = "0x6002375")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B80854", Offset = "0x1B80854", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -86,7 +79,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x060020DE RID: 8414 RVA: 0x0001A111 File Offset: 0x00018311
 		[global::Cpp2ILInjected.Token(Token = "0x6002376")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B80864", Offset = "0x1B80864", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -96,7 +88,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x060020DF RID: 8415 RVA: 0x0001A114 File Offset: 0x00018314
 		[global::Cpp2ILInjected.Token(Token = "0x6002377")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B80874", Offset = "0x1B80874", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -121,7 +112,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x060020E0 RID: 8416 RVA: 0x0001A117 File Offset: 0x00018317
 		[global::Cpp2ILInjected.Token(Token = "0x6002378")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B808A0", Offset = "0x1B808A0", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -176,7 +166,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x060020E1 RID: 8417 RVA: 0x0001A11A File Offset: 0x0001831A
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6002379")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B80934", Offset = "0x1B80934", Length = "0x8C")]
@@ -187,11 +176,9 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x0400106B RID: 4203
 		[global::Cpp2ILInjected.Token(Token = "0x4001385")]
 		public static readonly string ConstructorName;
 
-		// Token: 0x0400106C RID: 4204
 		[global::Cpp2ILInjected.Token(Token = "0x4001386")]
 		public static readonly string TypeConstructorName;
 	}

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-// Token: 0x020000BB RID: 187
 [global::Cpp2ILInjected.Token(Token = "0x200010B")]
 public static class GUIFadeString
 {
-	// Token: 0x060005E8 RID: 1512 RVA: 0x00022CFD File Offset: 0x00020EFD
 	[global::Cpp2ILInjected.Token(Token = "0x60006C2")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF63DDC", Offset = "0xF63DDC", Length = "0x154")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +47,6 @@ public static class GUIFadeString
 		throw null;
 	}
 
-	// Token: 0x060005E9 RID: 1513 RVA: 0x00022D00 File Offset: 0x00020F00
 	[global::Cpp2ILInjected.Token(Token = "0x60006C3")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF63F30", Offset = "0xF63F30", Length = "0x150")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +70,6 @@ public static class GUIFadeString
 		throw null;
 	}
 
-	// Token: 0x060005EA RID: 1514 RVA: 0x00022D03 File Offset: 0x00020F03
 	[global::Cpp2ILInjected.Token(Token = "0x60006C4")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF64080", Offset = "0xF64080", Length = "0xF4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -96,7 +92,6 @@ public static class GUIFadeString
 		throw null;
 	}
 
-	// Token: 0x060005EB RID: 1515 RVA: 0x00022D06 File Offset: 0x00020F06
 	[global::Cpp2ILInjected.Token(Token = "0x60006C5")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF64174", Offset = "0xF64174", Length = "0xF8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -7,7 +7,6 @@ using UnityEngine.Pool;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x02000031 RID: 49
 	[DisallowMultipleComponent]
 	[ExecuteAlways]
 	[AddComponentMenu("UI/Rect Mask 2D", 14)]
@@ -15,9 +14,6 @@ namespace UnityEngine.UI
 	[global::Cpp2ILInjected.Token(Token = "0x200005D")]
 	public class RectMask2D : UIBehaviour, IClipper, ICanvasRaycastFilter
 	{
-		// Token: 0x170000D5 RID: 213
-		// (get) Token: 0x0600031D RID: 797 RVA: 0x00002950 File Offset: 0x00000B50
-		// (set) Token: 0x0600031E RID: 798 RVA: 0x00002953 File Offset: 0x00000B53
 		[global::Cpp2ILInjected.Token(Token = "0x170000E6")]
 		public Vector4 padding
 		{
@@ -38,9 +34,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000D6 RID: 214
-		// (get) Token: 0x0600031F RID: 799 RVA: 0x00002956 File Offset: 0x00000B56
-		// (set) Token: 0x06000320 RID: 800 RVA: 0x00002959 File Offset: 0x00000B59
 		[global::Cpp2ILInjected.Token(Token = "0x170000E7")]
 		public Vector2Int softness
 		{
@@ -63,8 +56,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000D7 RID: 215
-		// (get) Token: 0x06000321 RID: 801 RVA: 0x0000295C File Offset: 0x00000B5C
 		[global::Cpp2ILInjected.Token(Token = "0x170000E8")]
 		internal Canvas Canvas
 		{
@@ -96,8 +87,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000D8 RID: 216
-		// (get) Token: 0x06000322 RID: 802 RVA: 0x0000295F File Offset: 0x00000B5F
 		[global::Cpp2ILInjected.Token(Token = "0x170000E9")]
 		public Rect canvasRect
 		{
@@ -122,8 +111,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000D9 RID: 217
-		// (get) Token: 0x06000323 RID: 803 RVA: 0x00002962 File Offset: 0x00000B62
 		[global::Cpp2ILInjected.Token(Token = "0x170000EA")]
 		public RectTransform rectTransform
 		{
@@ -145,7 +132,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x06000324 RID: 804 RVA: 0x00002965 File Offset: 0x00000B65
 		[global::Cpp2ILInjected.Token(Token = "0x600037E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD1BD0", Offset = "0x1FD1BD0", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -159,7 +145,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000325 RID: 805 RVA: 0x00002968 File Offset: 0x00000B68
 		[global::Cpp2ILInjected.Token(Token = "0x600037F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD1D34", Offset = "0x1FD1D34", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -171,7 +156,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000326 RID: 806 RVA: 0x0000296B File Offset: 0x00000B6B
 		[global::Cpp2ILInjected.Token(Token = "0x6000380")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD1D68", Offset = "0x1FD1D68", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -192,7 +176,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000327 RID: 807 RVA: 0x0000296E File Offset: 0x00000B6E
 		[global::Cpp2ILInjected.Token(Token = "0x6000381")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD1E30", Offset = "0x1FD1E30", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -203,7 +186,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000328 RID: 808 RVA: 0x00002971 File Offset: 0x00000B71
 		[global::Cpp2ILInjected.Token(Token = "0x6000382")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD1E50", Offset = "0x1FD1E50", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -222,8 +204,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x170000DA RID: 218
-		// (get) Token: 0x06000329 RID: 809 RVA: 0x00002974 File Offset: 0x00000B74
 		[global::Cpp2ILInjected.Token(Token = "0x170000EB")]
 		private Rect rootCanvasRect
 		{
@@ -251,7 +231,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x0600032A RID: 810 RVA: 0x00002977 File Offset: 0x00000B77
 		[global::Cpp2ILInjected.Token(Token = "0x6000384")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD1FF4", Offset = "0x1FD1FF4", Length = "0x6D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -292,7 +271,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600032B RID: 811 RVA: 0x0000297A File Offset: 0x00000B7A
 		[global::Cpp2ILInjected.Token(Token = "0x6000385")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD26C4", Offset = "0x1FD26C4", Length = "0x2D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -307,7 +285,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600032C RID: 812 RVA: 0x0000297D File Offset: 0x00000B7D
 		[global::Cpp2ILInjected.Token(Token = "0x6000386")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD2994", Offset = "0x1FD2994", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -325,7 +302,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600032D RID: 813 RVA: 0x00002980 File Offset: 0x00000B80
 		[global::Cpp2ILInjected.Token(Token = "0x6000387")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD2A9C", Offset = "0x1FD2A9C", Length = "0x194")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -343,7 +319,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600032E RID: 814 RVA: 0x00002983 File Offset: 0x00000B83
 		[global::Cpp2ILInjected.Token(Token = "0x6000388")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD2C30", Offset = "0x1FD2C30", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -353,7 +328,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600032F RID: 815 RVA: 0x00002986 File Offset: 0x00000B86
 		[global::Cpp2ILInjected.Token(Token = "0x6000389")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD2C54", Offset = "0x1FD2C54", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -363,73 +337,61 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0400010E RID: 270
 		[global::Cpp2ILInjected.Token(Token = "0x40001AF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		[NonSerialized]
 		private readonly RectangularVertexClipper m_VertexClipper;
 
-		// Token: 0x0400010F RID: 271
 		[global::Cpp2ILInjected.Token(Token = "0x40001B0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		[NonSerialized]
 		private RectTransform m_RectTransform;
 
-		// Token: 0x04000110 RID: 272
 		[global::Cpp2ILInjected.Token(Token = "0x40001B1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		[NonSerialized]
 		private HashSet<MaskableGraphic> m_MaskableTargets;
 
-		// Token: 0x04000111 RID: 273
 		[global::Cpp2ILInjected.Token(Token = "0x40001B2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		[NonSerialized]
 		private HashSet<IClippable> m_ClipTargets;
 
-		// Token: 0x04000112 RID: 274
 		[global::Cpp2ILInjected.Token(Token = "0x40001B3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		[NonSerialized]
 		private bool m_ShouldRecalculateClipRects;
 
-		// Token: 0x04000113 RID: 275
 		[global::Cpp2ILInjected.Token(Token = "0x40001B4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		[NonSerialized]
 		private List<RectMask2D> m_Clippers;
 
-		// Token: 0x04000114 RID: 276
 		[global::Cpp2ILInjected.Token(Token = "0x40001B5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		[NonSerialized]
 		private Rect m_LastClipRectCanvasSpace;
 
-		// Token: 0x04000115 RID: 277
 		[global::Cpp2ILInjected.Token(Token = "0x40001B6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		[NonSerialized]
 		private bool m_ForceClip;
 
-		// Token: 0x04000116 RID: 278
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40001B7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 		private Vector4 m_Padding;
 
-		// Token: 0x04000117 RID: 279
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40001B8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x6C")]
 		private Vector2Int m_Softness;
 
-		// Token: 0x04000118 RID: 280
 		[global::Cpp2ILInjected.Token(Token = "0x40001B9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		[NonSerialized]
 		private Canvas m_Canvas;
 
-		// Token: 0x04000119 RID: 281
 		[global::Cpp2ILInjected.Token(Token = "0x40001BA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 		private Vector3[] m_Corners;

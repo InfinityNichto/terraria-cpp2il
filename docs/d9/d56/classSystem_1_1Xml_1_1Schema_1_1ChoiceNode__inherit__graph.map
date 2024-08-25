@@ -1,7 +1,0 @@
-<map id="System.Xml.Schema.ChoiceNode" name="System.Xml.Schema.ChoiceNode">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,509,297,737"/>
-<area shape="rect" id="Node000002" href="$d5/da6/classSystem_1_1Xml_1_1Schema_1_1InteriorNode.html" title=" " alt="" coords="5,237,297,461"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,475,154,509,149,509,149,475"/>
-<area shape="rect" id="Node000003" href="$db/de8/classSystem_1_1Xml_1_1Schema_1_1SyntaxTreeNode.html" title=" " alt="" coords="31,5,271,189"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,203,154,237,149,237,149,203"/>
-</map>

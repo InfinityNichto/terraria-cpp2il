@@ -4,12 +4,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting
 {
-	// Token: 0x020002B3 RID: 691
 	[global::Cpp2ILInjected.Token(Token = "0x2000353")]
 	[global::System.Serializable]
 	internal class TypeInfo : IRemotingTypeInfo
 	{
-		// Token: 0x06001A56 RID: 6742 RVA: 0x00018F0E File Offset: 0x0001710E
 		[global::Cpp2ILInjected.Token(Token = "0x6001C7B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B32AF8", Offset = "0x1B32AF8", Length = "0x390")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,8 +33,6 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x170002EF RID: 751
-		// (get) Token: 0x06001A57 RID: 6743 RVA: 0x00018F11 File Offset: 0x00017111
 		[global::Cpp2ILInjected.Token(Token = "0x17000347")]
 		public string TypeName
 		{
@@ -49,7 +45,6 @@ namespace System.Runtime.Remoting
 			}
 		}
 
-		// Token: 0x06001A58 RID: 6744 RVA: 0x00018F14 File Offset: 0x00017114
 		[global::Cpp2ILInjected.Token(Token = "0x6001C7D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B32E90", Offset = "0x1B32E90", Length = "0x238")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -83,17 +78,14 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x04000B8A RID: 2954
 		[global::Cpp2ILInjected.Token(Token = "0x4000E6E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string serverType;
 
-		// Token: 0x04000B8B RID: 2955
 		[global::Cpp2ILInjected.Token(Token = "0x4000E6F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string[] serverHierarchy;
 
-		// Token: 0x04000B8C RID: 2956
 		[global::Cpp2ILInjected.Token(Token = "0x4000E70")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string[] interfacesImplemented;

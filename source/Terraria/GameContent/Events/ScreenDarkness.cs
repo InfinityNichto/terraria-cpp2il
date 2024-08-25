@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.GameContent.Events
 {
-	// Token: 0x02000695 RID: 1685
 	[global::Cpp2ILInjected.Token(Token = "0x2000A57")]
 	public class ScreenDarkness
 	{
-		// Token: 0x0600423B RID: 16955 RVA: 0x0002DD67 File Offset: 0x0002BF67
 		[global::Cpp2ILInjected.Token(Token = "0x6004E33")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8D3F38", Offset = "0x8D3F38", Length = "0x44C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +49,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x0600423C RID: 16956 RVA: 0x0002DD6A File Offset: 0x0002BF6A
 		[global::Cpp2ILInjected.Token(Token = "0x6004E34")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8D4384", Offset = "0x8D4384", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +82,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x0600423D RID: 16957 RVA: 0x0002DD6D File Offset: 0x0002BF6D
 		[global::Cpp2ILInjected.Token(Token = "0x6004E35")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8D456C", Offset = "0x8D456C", Length = "0x1E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -119,7 +115,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x0600423E RID: 16958 RVA: 0x0002DD70 File Offset: 0x0002BF70
 		[global::Cpp2ILInjected.Token(Token = "0x6004E36")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8D4750", Offset = "0x8D4750", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -129,7 +124,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x0600423F RID: 16959 RVA: 0x0002DD73 File Offset: 0x0002BF73
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6004E37")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8D4758", Offset = "0x8D4758", Length = "0x68")]
@@ -146,11 +140,9 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x04006E0F RID: 28175
 		[global::Cpp2ILInjected.Token(Token = "0x40086E1")]
 		public static float screenObstruction;
 
-		// Token: 0x04006E10 RID: 28176
 		[global::Cpp2ILInjected.Token(Token = "0x40086E2")]
 		public static Color frontColor;
 	}

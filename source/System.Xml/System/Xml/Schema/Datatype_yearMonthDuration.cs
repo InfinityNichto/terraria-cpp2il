@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000BE RID: 190
 	[global::Cpp2ILInjected.Token(Token = "0x20000EA")]
 	internal class Datatype_yearMonthDuration : Datatype_duration
 	{
-		// Token: 0x06000850 RID: 2128 RVA: 0x00004748 File Offset: 0x00002948
 		[global::Cpp2ILInjected.Token(Token = "0x60008E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBFD3C", Offset = "0x1DBFD3C", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,8 +33,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x1700021D RID: 541
-		// (get) Token: 0x06000851 RID: 2129 RVA: 0x0000474B File Offset: 0x0000294B
 		[global::Cpp2ILInjected.Token(Token = "0x17000243")]
 		public override XmlTypeCode TypeCode
 		{
@@ -49,7 +45,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x06000852 RID: 2130 RVA: 0x0000474E File Offset: 0x0000294E
 		[global::Cpp2ILInjected.Token(Token = "0x60008E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBFEF8", Offset = "0x1DBFEF8", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DatatypeImplementation), Member = ".cctor", ReturnType = typeof(void))]

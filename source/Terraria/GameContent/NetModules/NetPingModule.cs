@@ -8,11 +8,9 @@ using Terraria.Net;
 
 namespace Terraria.GameContent.NetModules
 {
-	// Token: 0x02000674 RID: 1652
 	[global::Cpp2ILInjected.Token(Token = "0x20009FB")]
 	public class NetPingModule : NetModule
 	{
-		// Token: 0x060040FE RID: 16638 RVA: 0x0002D9D7 File Offset: 0x0002BBD7
 		[global::Cpp2ILInjected.Token(Token = "0x6004B83")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8A9314", Offset = "0x8A9314", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "TriggerPing", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
@@ -35,7 +33,6 @@ namespace Terraria.GameContent.NetModules
 			throw null;
 		}
 
-		// Token: 0x060040FF RID: 16639 RVA: 0x0002D9DA File Offset: 0x0002BBDA
 		[global::Cpp2ILInjected.Token(Token = "0x6004B84")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8A93C8", Offset = "0x8A93C8", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +50,6 @@ namespace Terraria.GameContent.NetModules
 			throw null;
 		}
 
-		// Token: 0x06004100 RID: 16640 RVA: 0x0002D9DD File Offset: 0x0002BBDD
 		[global::Cpp2ILInjected.Token(Token = "0x6004B85")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8A9500", Offset = "0x8A9500", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

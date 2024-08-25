@@ -10,11 +10,9 @@ using Terraria.Graphics.Renderers;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x0200047D RID: 1149
 	[global::Cpp2ILInjected.Token(Token = "0x2000680")]
 	public struct TileReachCheckSettings
 	{
-		// Token: 0x06003264 RID: 12900 RVA: 0x0002B043 File Offset: 0x00029243
 		[global::Cpp2ILInjected.Token(Token = "0x600378D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14204E8", Offset = "0x14204E8", Length = "0x120")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,8 +43,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x17000634 RID: 1588
-		// (get) Token: 0x06003265 RID: 12901 RVA: 0x0002B046 File Offset: 0x00029246
 		[global::Cpp2ILInjected.Token(Token = "0x170006B6")]
 		public static TileReachCheckSettings Simple
 		{
@@ -80,8 +76,6 @@ namespace Terraria.DataStructures
 			}
 		}
 
-		// Token: 0x17000635 RID: 1589
-		// (get) Token: 0x06003266 RID: 12902 RVA: 0x0002B049 File Offset: 0x00029249
 		[global::Cpp2ILInjected.Token(Token = "0x170006B7")]
 		public static TileReachCheckSettings Pylons
 		{
@@ -101,8 +95,6 @@ namespace Terraria.DataStructures
 			}
 		}
 
-		// Token: 0x17000636 RID: 1590
-		// (get) Token: 0x06003267 RID: 12903 RVA: 0x0002B04C File Offset: 0x0002924C
 		[global::Cpp2ILInjected.Token(Token = "0x170006B8")]
 		public static TileReachCheckSettings QuickStackToNearbyChests
 		{
@@ -118,22 +110,18 @@ namespace Terraria.DataStructures
 			}
 		}
 
-		// Token: 0x04006495 RID: 25749
 		[global::Cpp2ILInjected.Token(Token = "0x4007891")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public int TileRangeMultiplier;
 
-		// Token: 0x04006496 RID: 25750
 		[global::Cpp2ILInjected.Token(Token = "0x4007892")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public int? TileReachLimit;
 
-		// Token: 0x04006497 RID: 25751
 		[global::Cpp2ILInjected.Token(Token = "0x4007893")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 		public int? OverrideXReach;
 
-		// Token: 0x04006498 RID: 25752
 		[global::Cpp2ILInjected.Token(Token = "0x4007894")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public int? OverrideYReach;

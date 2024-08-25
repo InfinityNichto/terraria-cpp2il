@@ -6,11 +6,9 @@ using Terraria.DataStructures;
 
 namespace Terraria.Graphics
 {
-	// Token: 0x020004DD RID: 1245
 	[global::Cpp2ILInjected.Token(Token = "0x2000732")]
 	public struct SpriteRenderTargetHelper
 	{
-		// Token: 0x06003693 RID: 13971 RVA: 0x0002BBFE File Offset: 0x00029DFE
 		[global::Cpp2ILInjected.Token(Token = "0x6003CF4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1498DB8", Offset = "0x1498DB8", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -29,7 +27,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x06003694 RID: 13972 RVA: 0x0002BC01 File Offset: 0x00029E01
 		[global::Cpp2ILInjected.Token(Token = "0x6003CF5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1498F1C", Offset = "0x1498F1C", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +57,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x06003695 RID: 13973 RVA: 0x0002BC04 File Offset: 0x00029E04
 		[global::Cpp2ILInjected.Token(Token = "0x6003CF6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1499034", Offset = "0x1499034", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SpriteRenderTargetHelper), Member = "GetHighsAndLowsOf", MemberParameters = new object[]
@@ -93,7 +89,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x06003696 RID: 13974 RVA: 0x0002BC07 File Offset: 0x00029E07
 		[global::Cpp2ILInjected.Token(Token = "0x6003CF7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1499114", Offset = "0x1499114", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

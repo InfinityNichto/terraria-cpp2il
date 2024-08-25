@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using UnityEngine;
 
-// Token: 0x020000C1 RID: 193
 [global::Cpp2ILInjected.Token(Token = "0x2000116")]
 public static class GUISlider
 {
-	// Token: 0x06000614 RID: 1556 RVA: 0x00022D81 File Offset: 0x00020F81
 	[global::Cpp2ILInjected.Token(Token = "0x60006FE")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6D4E4", Offset = "0xF6D4E4", Length = "0x168")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,7 +48,6 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x06000615 RID: 1557 RVA: 0x00022D84 File Offset: 0x00020F84
 	[global::Cpp2ILInjected.Token(Token = "0x60006FF")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6D64C", Offset = "0xF6D64C", Length = "0x36C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -95,7 +92,6 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x06000616 RID: 1558 RVA: 0x00022D87 File Offset: 0x00020F87
 	[global::Cpp2ILInjected.Token(Token = "0x6000700")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6D9B8", Offset = "0xF6D9B8", Length = "0x36C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -140,7 +136,6 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x06000617 RID: 1559 RVA: 0x00022D8A File Offset: 0x00020F8A
 	[global::Cpp2ILInjected.Token(Token = "0x6000701")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6DD24", Offset = "0xF6DD24", Length = "0xCC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIClothesWindow), Member = "DrawHSLSlider", ReturnType = typeof(void))]
@@ -171,7 +166,6 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x06000618 RID: 1560 RVA: 0x00022D8D File Offset: 0x00020F8D
 	[global::Cpp2ILInjected.Token(Token = "0x6000702")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6F6FC", Offset = "0xF6F6FC", Length = "0xCC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIClothesWindow), Member = "DrawHSLSlider", ReturnType = typeof(void))]
@@ -202,7 +196,6 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x06000619 RID: 1561 RVA: 0x00022D90 File Offset: 0x00020F90
 	[global::Cpp2ILInjected.Token(Token = "0x6000703")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6F7C8", Offset = "0xF6F7C8", Length = "0x1A4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -240,7 +233,6 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x0600061A RID: 1562 RVA: 0x00022D93 File Offset: 0x00020F93
 	[global::Cpp2ILInjected.Token(Token = "0x6000704")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6F96C", Offset = "0xF6F96C", Length = "0x40")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -251,7 +243,6 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x0600061B RID: 1563 RVA: 0x00022D96 File Offset: 0x00020F96
 	[global::Cpp2ILInjected.Token(Token = "0x6000705")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6F9AC", Offset = "0xF6F9AC", Length = "0x2C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -262,7 +253,6 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x0600061C RID: 1564 RVA: 0x00022D99 File Offset: 0x00020F99
 	[global::Cpp2ILInjected.Token(Token = "0x6000706")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6F9D8", Offset = "0xF6F9D8", Length = "0x44")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -278,7 +268,6 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x0600061D RID: 1565 RVA: 0x00022D9C File Offset: 0x00020F9C
 	[global::Cpp2ILInjected.Token(Token = "0x6000707")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF6DDF0", Offset = "0xF6DDF0", Length = "0x190C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -390,16 +379,12 @@ public static class GUISlider
 		throw null;
 	}
 
-	// Token: 0x020007B7 RID: 1975
-	// (Invoke) Token: 0x060048BE RID: 18622
 	[global::Cpp2ILInjected.Token(Token = "0x2000117")]
 	public delegate void DrawBackingHandler(Microsoft.Xna.Framework.Vector2 position, Microsoft.Xna.Framework.Vector2 size, Slider_Layout layout, bool controllerOver);
 
-	// Token: 0x020007B8 RID: 1976
 	[global::Cpp2ILInjected.Token(Token = "0x2000118")]
 	public class DragState
 	{
-		// Token: 0x060048C1 RID: 18625 RVA: 0x0002EEB0 File Offset: 0x0002D0B0
 		[global::Cpp2ILInjected.Token(Token = "0x600070C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10FAEF4", Offset = "0x10FAEF4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIChestSplitStack), Member = ".ctor", ReturnType = typeof(void))]
@@ -417,27 +402,22 @@ public static class GUISlider
 			throw null;
 		}
 
-		// Token: 0x040079CF RID: 31183
 		[global::Cpp2ILInjected.Token(Token = "0x400058E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public bool wasDragging;
 
-		// Token: 0x040079D0 RID: 31184
 		[global::Cpp2ILInjected.Token(Token = "0x400058F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public float dragDir;
 
-		// Token: 0x040079D1 RID: 31185
 		[global::Cpp2ILInjected.Token(Token = "0x4000590")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public float dragStart;
 
-		// Token: 0x040079D2 RID: 31186
 		[global::Cpp2ILInjected.Token(Token = "0x4000591")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		public float dragTime;
 
-		// Token: 0x040079D3 RID: 31187
 		[global::Cpp2ILInjected.Token(Token = "0x4000592")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public Microsoft.Xna.Framework.Vector2 dragStartPoint;

@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,5,228,45"/>
-<area shape="rect" id="Node000001" href="$dd/d40/classTerraria_1_1Social_1_1Discord_1_1DiscordJoinToServerRequest.html" title=" " alt="" coords="276,37,480,77"/>
-<area shape="poly" id="edge3522_Node000000_Node000001" title=" " alt="" coords="242,38,276,42,275,47,241,43"/>
-<area shape="rect" id="Node000002" href="$d3/d97/classTerraria_1_1Social_1_1Base_1_1UserJoinToServerRequest.html" title=" " alt="" coords="25,69,209,109"/>
-<area shape="poly" id="edge3523_Node000002_Node000001" title=" " alt="" coords="222,74,276,67,276,72,223,79"/>
-</map>

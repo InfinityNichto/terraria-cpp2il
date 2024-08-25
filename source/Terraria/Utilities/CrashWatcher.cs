@@ -11,13 +11,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.Utilities
 {
-	// Token: 0x02000372 RID: 882
 	[global::Cpp2ILInjected.Token(Token = "0x20004F6")]
 	public static class CrashWatcher
 	{
-		// Token: 0x170005A3 RID: 1443
-		// (get) Token: 0x06002CA1 RID: 11425 RVA: 0x0002A008 File Offset: 0x00028208
-		// (set) Token: 0x06002CA2 RID: 11426 RVA: 0x0002A00B File Offset: 0x0002820B
 		[global::Cpp2ILInjected.Token(Token = "0x1700060F")]
 		public static bool LogAllExceptions
 		{
@@ -41,9 +37,6 @@ namespace Terraria.Utilities
 			}
 		}
 
-		// Token: 0x170005A4 RID: 1444
-		// (get) Token: 0x06002CA3 RID: 11427 RVA: 0x0002A00E File Offset: 0x0002820E
-		// (set) Token: 0x06002CA4 RID: 11428 RVA: 0x0002A011 File Offset: 0x00028211
 		[global::Cpp2ILInjected.Token(Token = "0x17000610")]
 		public static bool DumpOnException
 		{
@@ -67,9 +60,6 @@ namespace Terraria.Utilities
 			}
 		}
 
-		// Token: 0x170005A5 RID: 1445
-		// (get) Token: 0x06002CA5 RID: 11429 RVA: 0x0002A014 File Offset: 0x00028214
-		// (set) Token: 0x06002CA6 RID: 11430 RVA: 0x0002A017 File Offset: 0x00028217
 		[global::Cpp2ILInjected.Token(Token = "0x17000611")]
 		public static bool DumpOnCrash
 		{
@@ -93,9 +83,6 @@ namespace Terraria.Utilities
 			}
 		}
 
-		// Token: 0x170005A6 RID: 1446
-		// (get) Token: 0x06002CA7 RID: 11431 RVA: 0x0002A01A File Offset: 0x0002821A
-		// (set) Token: 0x06002CA8 RID: 11432 RVA: 0x0002A01D File Offset: 0x0002821D
 		[global::Cpp2ILInjected.Token(Token = "0x17000612")]
 		public static CrashDump.Options CrashDumpOptions
 		{
@@ -119,8 +106,6 @@ namespace Terraria.Utilities
 			}
 		}
 
-		// Token: 0x170005A7 RID: 1447
-		// (get) Token: 0x06002CA9 RID: 11433 RVA: 0x0002A020 File Offset: 0x00028220
 		[global::Cpp2ILInjected.Token(Token = "0x17000613")]
 		private static string DumpPath
 		{
@@ -150,7 +135,6 @@ namespace Terraria.Utilities
 			}
 		}
 
-		// Token: 0x06002CAA RID: 11434 RVA: 0x0002A023 File Offset: 0x00028223
 		[global::Cpp2ILInjected.Token(Token = "0x60030B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FFB8C", Offset = "0x12FFB8C", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Program), Member = "SetupLogging", ReturnType = typeof(void))]
@@ -175,7 +159,6 @@ namespace Terraria.Utilities
 			throw null;
 		}
 
-		// Token: 0x06002CAB RID: 11435 RVA: 0x0002A026 File Offset: 0x00028226
 		[global::Cpp2ILInjected.Token(Token = "0x60030B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FFD68", Offset = "0x12FFD68", Length = "0x26C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -216,7 +199,6 @@ namespace Terraria.Utilities
 			throw null;
 		}
 
-		// Token: 0x06002CAC RID: 11436 RVA: 0x0002A029 File Offset: 0x00028229
 		[global::Cpp2ILInjected.Token(Token = "0x60030BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FFFD4", Offset = "0x12FFFD4", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Program), Member = "SetupLogging", ReturnType = typeof(void))]
@@ -227,7 +209,6 @@ namespace Terraria.Utilities
 			throw null;
 		}
 
-		// Token: 0x06002CAD RID: 11437 RVA: 0x0002A02C File Offset: 0x0002822C
 		[global::Cpp2ILInjected.Token(Token = "0x60030BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1300050", Offset = "0x1300050", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -237,7 +218,6 @@ namespace Terraria.Utilities
 			throw null;
 		}
 
-		// Token: 0x06002CAE RID: 11438 RVA: 0x0002A02F File Offset: 0x0002822F
 		[Conditional("UNITY_EDITOR")]
 		[Conditional("ENABLE_DEBUG")]
 		[global::Cpp2ILInjected.Token(Token = "0x60030BC")]
@@ -248,33 +228,27 @@ namespace Terraria.Utilities
 			throw null;
 		}
 
-		// Token: 0x04003184 RID: 12676
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4003AC1")]
 		private static bool <LogAllExceptions>k__BackingField;
 
-		// Token: 0x04003185 RID: 12677
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4003AC2")]
 		private static bool <DumpOnException>k__BackingField;
 
-		// Token: 0x04003186 RID: 12678
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4003AC3")]
 		private static bool <DumpOnCrash>k__BackingField;
 
-		// Token: 0x04003187 RID: 12679
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4003AC4")]
 		private static CrashDump.Options <CrashDumpOptions>k__BackingField;
 
-		// Token: 0x020008D6 RID: 2262
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x20004F7")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06004BBD RID: 19389 RVA: 0x0002F6CC File Offset: 0x0002D8CC
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60030BD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1300094", Offset = "0x1300094", Length = "0x5C")]
@@ -286,7 +260,6 @@ namespace Terraria.Utilities
 				throw null;
 			}
 
-			// Token: 0x06004BBE RID: 19390 RVA: 0x0002F6CF File Offset: 0x0002D8CF
 			[global::Cpp2ILInjected.Token(Token = "0x60030BE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x13000F0", Offset = "0x13000F0", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -296,7 +269,6 @@ namespace Terraria.Utilities
 				throw null;
 			}
 
-			// Token: 0x06004BBF RID: 19391 RVA: 0x0002F6D2 File Offset: 0x0002D8D2
 			[global::Cpp2ILInjected.Token(Token = "0x60030BF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x13000F8", Offset = "0x13000F8", Length = "0x2D0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -325,7 +297,6 @@ namespace Terraria.Utilities
 				throw null;
 			}
 
-			// Token: 0x06004BC0 RID: 19392 RVA: 0x0002F6D5 File Offset: 0x0002D8D5
 			[global::Cpp2ILInjected.Token(Token = "0x60030C0")]
 			[global::Cpp2ILInjected.Address(RVA = "0x13003C8", Offset = "0x13003C8", Length = "0x2F4")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -354,15 +325,12 @@ namespace Terraria.Utilities
 				throw null;
 			}
 
-			// Token: 0x040080E4 RID: 32996
 			[global::Cpp2ILInjected.Token(Token = "0x4003AC5")]
 			public static readonly CrashWatcher.<>c <>9;
 
-			// Token: 0x040080E5 RID: 32997
 			[global::Cpp2ILInjected.Token(Token = "0x4003AC6")]
 			public static EventHandler<FirstChanceExceptionEventArgs> <>9__18_0;
 
-			// Token: 0x040080E6 RID: 32998
 			[global::Cpp2ILInjected.Token(Token = "0x4003AC7")]
 			public static UnhandledExceptionEventHandler <>9__18_1;
 		}

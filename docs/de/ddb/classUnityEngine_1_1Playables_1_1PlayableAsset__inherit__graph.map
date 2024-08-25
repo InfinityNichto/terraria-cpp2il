@@ -1,7 +1,0 @@
-<map id="UnityEngine.Playables.PlayableAsset" name="UnityEngine.Playables.PlayableAsset">
-<area shape="rect" id="Node000001" title=" " alt="" coords="35,1736,267,2043"/>
-<area shape="rect" id="Node000002" href="$da/d87/classUnityEngine_1_1ScriptableObject.html" title=" " alt="" coords="5,1455,296,1688"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,1702,153,1736,148,1736,148,1702"/>
-<area shape="rect" id="Node000003" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="8,5,293,1407"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,1420,153,1455,148,1455,148,1420"/>
-</map>

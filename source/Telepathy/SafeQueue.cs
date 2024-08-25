@@ -7,12 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Telepathy
 {
-	// Token: 0x02000258 RID: 600
 	[global::Cpp2ILInjected.Token(Token = "0x2000316")]
 	public class SafeQueue<T>
 	{
-		// Token: 0x170001A7 RID: 423
-		// (get) Token: 0x06001117 RID: 4375 RVA: 0x00024E27 File Offset: 0x00023027
 		[global::Cpp2ILInjected.Token(Token = "0x170001CF")]
 		public int Count
 		{
@@ -34,7 +31,6 @@ namespace Telepathy
 			}
 		}
 
-		// Token: 0x06001118 RID: 4376 RVA: 0x00024E2A File Offset: 0x0002302A
 		[global::Cpp2ILInjected.Token(Token = "0x600126F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x186322C", Offset = "0x186322C", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -63,7 +59,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001119 RID: 4377 RVA: 0x00024E2D File Offset: 0x0002302D
 		[global::Cpp2ILInjected.Token(Token = "0x6001270")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1863308", Offset = "0x1863308", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -81,7 +76,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x0600111A RID: 4378 RVA: 0x00024E30 File Offset: 0x00023030
 		[global::Cpp2ILInjected.Token(Token = "0x6001271")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1863420", Offset = "0x1863420", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -106,7 +100,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x0600111B RID: 4379 RVA: 0x00024E33 File Offset: 0x00023033
 		[global::Cpp2ILInjected.Token(Token = "0x6001272")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1863530", Offset = "0x1863530", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -130,7 +123,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x0600111C RID: 4380 RVA: 0x00024E36 File Offset: 0x00023036
 		[global::Cpp2ILInjected.Token(Token = "0x6001273")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1863604", Offset = "0x1863604", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -145,7 +137,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x04001C38 RID: 7224
 		[global::Cpp2ILInjected.Token(Token = "0x4002208")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private Queue<T> queue;

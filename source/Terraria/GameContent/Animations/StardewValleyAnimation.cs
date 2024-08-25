@@ -9,11 +9,9 @@ using Terraria.DataStructures;
 
 namespace Terraria.GameContent.Animations
 {
-	// Token: 0x0200064E RID: 1614
 	[global::Cpp2ILInjected.Token(Token = "0x20009A3")]
 	public class StardewValleyAnimation
 	{
-		// Token: 0x06003F28 RID: 16168 RVA: 0x0002D455 File Offset: 0x0002B655
 		[global::Cpp2ILInjected.Token(Token = "0x6004901")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82740C", Offset = "0x82740C", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "PostContentLoadInitialize", ReturnType = typeof(void))]
@@ -26,7 +24,6 @@ namespace Terraria.GameContent.Animations
 			throw null;
 		}
 
-		// Token: 0x06003F29 RID: 16169 RVA: 0x0002D458 File Offset: 0x0002B658
 		[global::Cpp2ILInjected.Token(Token = "0x6004902")]
 		[global::Cpp2ILInjected.Address(RVA = "0x827490", Offset = "0x827490", Length = "0xA94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +108,6 @@ namespace Terraria.GameContent.Animations
 			throw null;
 		}
 
-		// Token: 0x06003F2A RID: 16170 RVA: 0x0002D45B File Offset: 0x0002B65B
 		[global::Cpp2ILInjected.Token(Token = "0x6004903")]
 		[global::Cpp2ILInjected.Address(RVA = "0x827F24", Offset = "0x827F24", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -122,7 +118,6 @@ namespace Terraria.GameContent.Animations
 			throw null;
 		}
 
-		// Token: 0x06003F2B RID: 16171 RVA: 0x0002D45E File Offset: 0x0002B65E
 		[global::Cpp2ILInjected.Token(Token = "0x6004904")]
 		[global::Cpp2ILInjected.Address(RVA = "0x827F98", Offset = "0x827F98", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +134,6 @@ namespace Terraria.GameContent.Animations
 			throw null;
 		}
 
-		// Token: 0x04006C9B RID: 27803
 		[global::Cpp2ILInjected.Token(Token = "0x400842D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private List<IAnimationSegment> _segments;

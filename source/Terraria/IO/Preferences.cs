@@ -20,13 +20,9 @@ using Terraria.Utilities;
 
 namespace Terraria.IO
 {
-	// Token: 0x020003BF RID: 959
 	[global::Cpp2ILInjected.Token(Token = "0x2000564")]
 	public class Preferences
 	{
-		// Token: 0x14000035 RID: 53
-		// (add) Token: 0x06002F28 RID: 12072 RVA: 0x0002A6C2 File Offset: 0x000288C2
-		// (remove) Token: 0x06002F29 RID: 12073 RVA: 0x0002A6C5 File Offset: 0x000288C5
 		[global::Cpp2ILInjected.Token(Token = "0x1400003B")]
 		public event Action<Preferences> OnSave
 		{
@@ -65,9 +61,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x14000036 RID: 54
-		// (add) Token: 0x06002F2A RID: 12074 RVA: 0x0002A6C8 File Offset: 0x000288C8
-		// (remove) Token: 0x06002F2B RID: 12075 RVA: 0x0002A6CB File Offset: 0x000288CB
 		[global::Cpp2ILInjected.Token(Token = "0x1400003C")]
 		public event Action<Preferences> OnLoad
 		{
@@ -107,9 +100,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x14000037 RID: 55
-		// (add) Token: 0x06002F2C RID: 12076 RVA: 0x0002A6CE File Offset: 0x000288CE
-		// (remove) Token: 0x06002F2D RID: 12077 RVA: 0x0002A6D1 File Offset: 0x000288D1
 		[global::Cpp2ILInjected.Token(Token = "0x1400003D")]
 		public event Preferences.TextProcessAction OnProcessText
 		{
@@ -146,7 +136,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x06002F2E RID: 12078 RVA: 0x0002A6D4 File Offset: 0x000288D4
 		[global::Cpp2ILInjected.Token(Token = "0x6003395")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133E700", Offset = "0x133E700", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "get_Configuration", ReturnType = typeof(Preferences))]
@@ -164,7 +153,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F2F RID: 12079 RVA: 0x0002A6D7 File Offset: 0x000288D7
 		[global::Cpp2ILInjected.Token(Token = "0x6003396")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133E830", Offset = "0x133E830", Length = "0x5F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -203,7 +191,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F30 RID: 12080 RVA: 0x0002A6DA File Offset: 0x000288DA
 		[global::Cpp2ILInjected.Token(Token = "0x6003397")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133EE24", Offset = "0x133EE24", Length = "0x658")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -271,7 +258,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F31 RID: 12081 RVA: 0x0002A6DD File Offset: 0x000288DD
 		[global::Cpp2ILInjected.Token(Token = "0x6003398")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133F47C", Offset = "0x133F47C", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -282,7 +268,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F32 RID: 12082 RVA: 0x0002A6E0 File Offset: 0x000288E0
 		[global::Cpp2ILInjected.Token(Token = "0x6003399")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133F4C4", Offset = "0x133F4C4", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -322,7 +307,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F33 RID: 12083 RVA: 0x0002A6E3 File Offset: 0x000288E3
 		[global::Cpp2ILInjected.Token(Token = "0x600339A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133F5D8", Offset = "0x133F5D8", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -340,7 +324,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F34 RID: 12084 RVA: 0x0002A6E6 File Offset: 0x000288E6
 		[global::Cpp2ILInjected.Token(Token = "0x600339B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15947B0", Offset = "0x15947B0", Length = "0x388")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -378,7 +361,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F35 RID: 12085 RVA: 0x0002A6E9 File Offset: 0x000288E9
 		[global::Cpp2ILInjected.Token(Token = "0x600339C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1594B38", Offset = "0x1594B38", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -390,7 +372,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F36 RID: 12086 RVA: 0x0002A6EC File Offset: 0x000288EC
 		[global::Cpp2ILInjected.Token(Token = "0x600339D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133F6D8", Offset = "0x133F6D8", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -402,7 +383,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F37 RID: 12087 RVA: 0x0002A6EF File Offset: 0x000288EF
 		[global::Cpp2ILInjected.Token(Token = "0x600339E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133F744", Offset = "0x133F744", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappingState), Member = "SaveConfiguration", MemberParameters = new object[]
@@ -418,56 +398,45 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x04003296 RID: 12950
 		[global::Cpp2ILInjected.Token(Token = "0x4003C4C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Dictionary<string, object> _data;
 
-		// Token: 0x04003297 RID: 12951
 		[global::Cpp2ILInjected.Token(Token = "0x4003C4D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly string _path;
 
-		// Token: 0x04003298 RID: 12952
 		[global::Cpp2ILInjected.Token(Token = "0x4003C4E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private readonly JsonSerializerSettings _serializerSettings;
 
-		// Token: 0x04003299 RID: 12953
 		[global::Cpp2ILInjected.Token(Token = "0x4003C4F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public readonly bool UseBson;
 
-		// Token: 0x0400329A RID: 12954
 		[global::Cpp2ILInjected.Token(Token = "0x4003C50")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private readonly object _lock;
 
-		// Token: 0x0400329B RID: 12955
 		[global::Cpp2ILInjected.Token(Token = "0x4003C51")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		public bool AutoSave;
 
-		// Token: 0x0400329C RID: 12956
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4003C52")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private Action<Preferences> OnSave;
 
-		// Token: 0x0400329D RID: 12957
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4003C53")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private Action<Preferences> OnLoad;
 
-		// Token: 0x0400329E RID: 12958
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4003C54")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private Preferences.TextProcessAction OnProcessText;
 
-		// Token: 0x020008F5 RID: 2293
-		// (Invoke) Token: 0x06004C13 RID: 19475
 		[global::Cpp2ILInjected.Token(Token = "0x2000565")]
 		public delegate void TextProcessAction(ref string text);
 	}

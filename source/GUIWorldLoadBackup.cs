@@ -8,11 +8,9 @@ using Terraria;
 using Terraria.Audio;
 using Terraria.Utilities;
 
-// Token: 0x020001E7 RID: 487
 [global::Cpp2ILInjected.Token(Token = "0x2000287")]
 public class GUIWorldLoadBackup
 {
-	// Token: 0x06000DCC RID: 3532 RVA: 0x000244A9 File Offset: 0x000226A9
 	[global::Cpp2ILInjected.Token(Token = "0x6000EF0")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1BD90", Offset = "0xA1BD90", Length = "0x54")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -23,7 +21,6 @@ public class GUIWorldLoadBackup
 		throw null;
 	}
 
-	// Token: 0x06000DCD RID: 3533 RVA: 0x000244AC File Offset: 0x000226AC
 	[global::Cpp2ILInjected.Token(Token = "0x6000EF1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1BDE4", Offset = "0xA1BDE4", Length = "0x3DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -96,7 +93,6 @@ public class GUIWorldLoadBackup
 		throw null;
 	}
 
-	// Token: 0x06000DCE RID: 3534 RVA: 0x000244AF File Offset: 0x000226AF
 	[global::Cpp2ILInjected.Token(Token = "0x6000EF2")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1C1C0", Offset = "0xA1C1C0", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -107,22 +103,18 @@ public class GUIWorldLoadBackup
 		throw null;
 	}
 
-	// Token: 0x040015F5 RID: 5621
 	[global::Cpp2ILInjected.Token(Token = "0x4001B13")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float statusScale;
 
-	// Token: 0x040015F6 RID: 5622
 	[global::Cpp2ILInjected.Token(Token = "0x4001B14")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float descriptionScale;
 
-	// Token: 0x040015F7 RID: 5623
 	[global::Cpp2ILInjected.Token(Token = "0x4001B15")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float loadScale;
 
-	// Token: 0x040015F8 RID: 5624
 	[global::Cpp2ILInjected.Token(Token = "0x4001B16")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float backScale;

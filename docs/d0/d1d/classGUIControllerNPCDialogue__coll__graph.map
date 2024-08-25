@@ -1,7 +1,0 @@
-<map id="GUIControllerNPCDialogue" name="GUIControllerNPCDialogue">
-<area shape="rect" id="Node000001" title=" " alt="" coords="76,223,288,397"/>
-<area shape="rect" id="Node000002" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="5,5,215,160"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,172,157,222,152,223,136,174"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="239,50,269,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,117,217,208,212,206,241,115"/>
-</map>

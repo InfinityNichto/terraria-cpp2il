@@ -8,11 +8,9 @@ using Terraria;
 using Terraria.Audio;
 using Terraria.Localization;
 
-// Token: 0x020001E0 RID: 480
 [global::Cpp2ILInjected.Token(Token = "0x200027D")]
 public class GUIResetSettings
 {
-	// Token: 0x06000D4B RID: 3403 RVA: 0x00024326 File Offset: 0x00022526
 	[global::Cpp2ILInjected.Token(Token = "0x6000E6A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA00238", Offset = "0xA00238", Length = "0x358")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -78,7 +76,6 @@ public class GUIResetSettings
 		throw null;
 	}
 
-	// Token: 0x06000D4C RID: 3404 RVA: 0x00024329 File Offset: 0x00022529
 	[global::Cpp2ILInjected.Token(Token = "0x6000E6B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA00590", Offset = "0xA00590", Length = "0x68")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -91,27 +88,22 @@ public class GUIResetSettings
 		throw null;
 	}
 
-	// Token: 0x04001535 RID: 5429
 	[global::Cpp2ILInjected.Token(Token = "0x4001A4E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float scale0;
 
-	// Token: 0x04001536 RID: 5430
 	[global::Cpp2ILInjected.Token(Token = "0x4001A4F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float scale1;
 
-	// Token: 0x04001537 RID: 5431
 	[global::Cpp2ILInjected.Token(Token = "0x4001A50")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float scale2;
 
-	// Token: 0x04001538 RID: 5432
 	[global::Cpp2ILInjected.Token(Token = "0x4001A51")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float titleScale;
 
-	// Token: 0x04001539 RID: 5433
 	[global::Cpp2ILInjected.Token(Token = "0x4001A52")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private GUIControllerModalResponse _inputController;

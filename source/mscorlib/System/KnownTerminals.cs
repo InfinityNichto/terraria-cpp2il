@@ -5,12 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000138 RID: 312
 	[global::Cpp2ILInjected.Token(Token = "0x200017E")]
 	internal static class KnownTerminals
 	{
-		// Token: 0x17000137 RID: 311
-		// (get) Token: 0x06000E1C RID: 3612 RVA: 0x00016D3C File Offset: 0x00014F3C
 		[global::Cpp2ILInjected.Token(Token = "0x17000159")]
 		public static byte[] linux
 		{
@@ -30,8 +27,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000138 RID: 312
-		// (get) Token: 0x06000E1D RID: 3613 RVA: 0x00016D3F File Offset: 0x00014F3F
 		[global::Cpp2ILInjected.Token(Token = "0x1700015A")]
 		public static byte[] xterm
 		{
@@ -51,8 +46,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000139 RID: 313
-		// (get) Token: 0x06000E1E RID: 3614 RVA: 0x00016D42 File Offset: 0x00014F42
 		[global::Cpp2ILInjected.Token(Token = "0x1700015B")]
 		public static byte[] ansi
 		{

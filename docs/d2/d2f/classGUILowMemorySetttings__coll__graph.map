@@ -1,9 +1,0 @@
-<map id="GUILowMemorySetttings" name="GUILowMemorySetttings">
-<area shape="rect" id="Node000001" title=" " alt="" coords="87,163,295,283"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,71,38,105,54,137,75,160,72,163,50,140,33,106,26,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="163,5,218,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,71,193,146,188,146,188,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="324,5,367,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="344,72,335,106,318,140,308,153,304,149,314,137,330,104,339,70"/>
-</map>

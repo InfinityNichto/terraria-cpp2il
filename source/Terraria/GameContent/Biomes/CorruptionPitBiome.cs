@@ -9,11 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005F1 RID: 1521
 	[global::Cpp2ILInjected.Token(Token = "0x20008E3")]
 	public class CorruptionPitBiome : MicroBiome
 	{
-		// Token: 0x06003D65 RID: 15717 RVA: 0x0002CF63 File Offset: 0x0002B163
 		[global::Cpp2ILInjected.Token(Token = "0x60045DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C31C4", Offset = "0x7C31C4", Length = "0xB9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +126,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D66 RID: 15718 RVA: 0x0002CF66 File Offset: 0x0002B166
 		[global::Cpp2ILInjected.Token(Token = "0x60045DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C3D60", Offset = "0x7C3D60", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -138,7 +135,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D67 RID: 15719 RVA: 0x0002CF69 File Offset: 0x0002B169
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60045DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C3D68", Offset = "0x7C3D68", Length = "0xD8")]
@@ -159,7 +155,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x04006BEE RID: 27630
 		[global::Cpp2ILInjected.Token(Token = "0x4008238")]
 		public static bool[] ValidTiles;
 	}

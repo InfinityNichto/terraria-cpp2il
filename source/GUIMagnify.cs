@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 
-// Token: 0x020000ED RID: 237
 [global::Cpp2ILInjected.Token(Token = "0x2000154")]
 public class GUIMagnify
 {
-	// Token: 0x06000854 RID: 2132 RVA: 0x00023441 File Offset: 0x00021641
 	[global::Cpp2ILInjected.Token(Token = "0x600094E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x923BAC", Offset = "0x923BAC", Length = "0x1854")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -75,7 +73,6 @@ public class GUIMagnify
 		throw null;
 	}
 
-	// Token: 0x06000855 RID: 2133 RVA: 0x00023444 File Offset: 0x00021644
 	[global::Cpp2ILInjected.Token(Token = "0x600094F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9160F8", Offset = "0x9160F8", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -85,7 +82,6 @@ public class GUIMagnify
 		throw null;
 	}
 
-	// Token: 0x0400068A RID: 1674
 	[global::Cpp2ILInjected.Token(Token = "0x40008F7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool EnableMagnify;

@@ -7,12 +7,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Converters
 {
-	// Token: 0x020000C1 RID: 193
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x2000108")]
 	public class JavaScriptDateTimeConverter : DateTimeConverterBase
 	{
-		// Token: 0x06000934 RID: 2356 RVA: 0x00003B84 File Offset: 0x00001D84
 		[global::Cpp2ILInjected.Token(Token = "0x6000A70")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2AD78", Offset = "0x1D2AD78", Length = "0x1B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -28,7 +26,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x06000935 RID: 2357 RVA: 0x00003B87 File Offset: 0x00001D87
 		[global::Cpp2ILInjected.Token(Token = "0x6000A71")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2AF28", Offset = "0x1D2AF28", Length = "0x43C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +67,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x06000936 RID: 2358 RVA: 0x00003B8A File Offset: 0x00001D8A
 		[global::Cpp2ILInjected.Token(Token = "0x6000A72")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2B364", Offset = "0x1D2B364", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

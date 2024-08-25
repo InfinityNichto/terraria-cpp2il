@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Extensions
 {
-	// Token: 0x020002FA RID: 762
 	[global::Cpp2ILInjected.Token(Token = "0x20003D3")]
 	public static class EnumerationExtensions
 	{
-		// Token: 0x06001900 RID: 6400 RVA: 0x0002655E File Offset: 0x0002475E
 		[global::Cpp2ILInjected.Token(Token = "0x6001A8F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1588174", Offset = "0x1588174", Length = "0x284")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -35,7 +33,6 @@ namespace Extensions
 			throw null;
 		}
 
-		// Token: 0x06001901 RID: 6401 RVA: 0x00026561 File Offset: 0x00024761
 		[global::Cpp2ILInjected.Token(Token = "0x6001A90")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158841C", Offset = "0x158841C", Length = "0x284")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -62,7 +59,6 @@ namespace Extensions
 			throw null;
 		}
 
-		// Token: 0x06001902 RID: 6402 RVA: 0x00026564 File Offset: 0x00024764
 		[global::Cpp2ILInjected.Token(Token = "0x6001A91")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1587F74", Offset = "0x1587F74", Length = "0x200")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -84,7 +80,6 @@ namespace Extensions
 			throw null;
 		}
 
-		// Token: 0x06001903 RID: 6403 RVA: 0x00026567 File Offset: 0x00024767
 		[global::Cpp2ILInjected.Token(Token = "0x6001A92")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15883F8", Offset = "0x15883F8", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -95,11 +90,9 @@ namespace Extensions
 			throw null;
 		}
 
-		// Token: 0x02000838 RID: 2104
 		[global::Cpp2ILInjected.Token(Token = "0x20003D4")]
 		private class _Value
 		{
-			// Token: 0x06004962 RID: 18786 RVA: 0x0002F00F File Offset: 0x0002D20F
 			[global::Cpp2ILInjected.Token(Token = "0x6001A93")]
 			[global::Cpp2ILInjected.Address(RVA = "0xB4A594", Offset = "0xB4A594", Length = "0x214")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -132,7 +125,6 @@ namespace Extensions
 				throw null;
 			}
 
-			// Token: 0x06004963 RID: 18787 RVA: 0x0002F012 File Offset: 0x0002D212
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6001A94")]
 			[global::Cpp2ILInjected.Address(RVA = "0xB4A7A8", Offset = "0xB4A7A8", Length = "0xBC")]
@@ -144,20 +136,16 @@ namespace Extensions
 				throw null;
 			}
 
-			// Token: 0x04007E2C RID: 32300
 			[global::Cpp2ILInjected.Token(Token = "0x40027EB")]
 			private static Type _UInt64;
 
-			// Token: 0x04007E2D RID: 32301
 			[global::Cpp2ILInjected.Token(Token = "0x40027EC")]
 			private static Type _UInt32;
 
-			// Token: 0x04007E2E RID: 32302
 			[global::Cpp2ILInjected.Token(Token = "0x40027ED")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public long? Signed;
 
-			// Token: 0x04007E2F RID: 32303
 			[global::Cpp2ILInjected.Token(Token = "0x40027EE")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			public ulong? Unsigned;

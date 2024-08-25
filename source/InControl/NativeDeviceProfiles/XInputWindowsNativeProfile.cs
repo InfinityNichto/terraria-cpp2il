@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001DA RID: 474
 	[Preserve]
 	[NativeInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20001E7")]
 	public class XInputWindowsNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x0600083E RID: 2110 RVA: 0x000038E7 File Offset: 0x00001AE7
 		[global::Cpp2ILInjected.Token(Token = "0x600085B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B10F4", Offset = "0x19B10F4", Length = "0x96C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x0600083F RID: 2111 RVA: 0x000038EA File Offset: 0x00001AEA
 		[global::Cpp2ILInjected.Token(Token = "0x600085C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B1A60", Offset = "0x19B1A60", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

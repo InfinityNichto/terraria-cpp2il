@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.IO
 {
-	// Token: 0x020003C2 RID: 962
 	[global::Cpp2ILInjected.Token(Token = "0x2000568")]
 	public class ChestInfo_OldMobile
 	{
-		// Token: 0x06002F59 RID: 12121 RVA: 0x0002A755 File Offset: 0x00028955
 		[global::Cpp2ILInjected.Token(Token = "0x60033C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1340810", Offset = "0x1340810", Length = "0x40C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +41,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F5A RID: 12122 RVA: 0x0002A758 File Offset: 0x00028958
 		[global::Cpp2ILInjected.Token(Token = "0x60033C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1340E48", Offset = "0x1340E48", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -74,7 +71,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F5B RID: 12123 RVA: 0x0002A75B File Offset: 0x0002895B
 		[global::Cpp2ILInjected.Token(Token = "0x60033C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1340FFC", Offset = "0x1340FFC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -84,7 +80,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F5C RID: 12124 RVA: 0x0002A75E File Offset: 0x0002895E
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60033C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1341004", Offset = "0x1341004", Length = "0x68")]
@@ -95,7 +90,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x040032B1 RID: 12977
 		[global::Cpp2ILInjected.Token(Token = "0x4003C67")]
 		private static byte[] bits;
 	}

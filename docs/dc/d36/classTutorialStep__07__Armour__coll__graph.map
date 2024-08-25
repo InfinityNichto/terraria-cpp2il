@@ -1,7 +1,0 @@
-<map id="TutorialStep_07_Armour" name="TutorialStep_07_Armour">
-<area shape="rect" id="Node000001" title=" " alt="" coords="87,524,320,768"/>
-<area shape="rect" id="Node000002" href="$d9/d7b/classTutorialStep.html" title=" " alt="" coords="5,5,239,359"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,372,185,523,179,524,153,373"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="263,149,306,215"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,215,230,508,225,507,277,214"/>
-</map>

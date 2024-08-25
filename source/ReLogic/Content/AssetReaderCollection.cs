@@ -12,11 +12,9 @@ using Terraria.IO;
 
 namespace ReLogic.Content
 {
-	// Token: 0x02000741 RID: 1857
 	[global::Cpp2ILInjected.Token(Token = "0x2000B41")]
 	public class AssetReaderCollection
 	{
-		// Token: 0x06004729 RID: 18217 RVA: 0x0002EB77 File Offset: 0x0002CD77
 		[global::Cpp2ILInjected.Token(Token = "0x60053E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9460F8", Offset = "0x9460F8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -33,7 +31,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0600472A RID: 18218 RVA: 0x0002EB7A File Offset: 0x0002CD7A
 		[global::Cpp2ILInjected.Token(Token = "0x60053E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1571B18", Offset = "0x1571B18", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -53,7 +50,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0600472B RID: 18219 RVA: 0x0002EB7D File Offset: 0x0002CD7D
 		[global::Cpp2ILInjected.Token(Token = "0x60053E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x946198", Offset = "0x946198", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AssetLoader), Member = "TryLoad", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[]
@@ -71,7 +67,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0600472C RID: 18220 RVA: 0x0002EB80 File Offset: 0x0002CD80
 		[global::Cpp2ILInjected.Token(Token = "0x60053E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x946200", Offset = "0x946200", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AssetInitializer), Member = "CreateAssetServices", MemberParameters = new object[] { typeof(GameServiceContainer) }, ReturnType = typeof(void))]
@@ -84,7 +79,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x04007359 RID: 29529
 		[global::Cpp2ILInjected.Token(Token = "0x4008CF8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly Dictionary<string, IAssetReader> _readersByExtension;

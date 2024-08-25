@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.GameContent.Bestiary
 {
-	// Token: 0x0200062F RID: 1583
 	[global::Cpp2ILInjected.Token(Token = "0x2000952")]
 	public class GoldCritterUICollectionInfoProvider : IBestiaryUICollectionInfoProvider
 	{
-		// Token: 0x06003EAF RID: 16047 RVA: 0x0002D311 File Offset: 0x0002B511
 		[global::Cpp2ILInjected.Token(Token = "0x60047C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81C260", Offset = "0x81C260", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003EB0 RID: 16048 RVA: 0x0002D314 File Offset: 0x0002B514
 		[global::Cpp2ILInjected.Token(Token = "0x60047C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81C390", Offset = "0x81C390", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +32,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003EB1 RID: 16049 RVA: 0x0002D317 File Offset: 0x0002B517
 		[global::Cpp2ILInjected.Token(Token = "0x60047C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81C488", Offset = "0x81C488", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,7 +46,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003EB2 RID: 16050 RVA: 0x0002D31A File Offset: 0x0002B51A
 		[global::Cpp2ILInjected.Token(Token = "0x60047C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81C414", Offset = "0x81C414", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,12 +59,10 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x04006C69 RID: 27753
 		[global::Cpp2ILInjected.Token(Token = "0x4008388")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string[] _normalCritterPersistentId;
 
-		// Token: 0x04006C6A RID: 27754
 		[global::Cpp2ILInjected.Token(Token = "0x4008389")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string _goldCritterPersistentId;

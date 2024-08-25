@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x0200006D RID: 109
 	[global::Cpp2ILInjected.Token(Token = "0x2000092")]
 	internal static class XmlComplianceUtil
 	{
-		// Token: 0x0600064F RID: 1615 RVA: 0x0000419C File Offset: 0x0000239C
 		[global::Cpp2ILInjected.Token(Token = "0x60006D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DA6A68", Offset = "0x1DA6A68", Length = "0x280")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -48,7 +46,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x06000650 RID: 1616 RVA: 0x0000419F File Offset: 0x0000239F
 		[global::Cpp2ILInjected.Token(Token = "0x60006D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DA6CF0", Offset = "0x1DA6CF0", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

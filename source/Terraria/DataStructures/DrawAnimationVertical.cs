@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000425 RID: 1061
 	[global::Cpp2ILInjected.Token(Token = "0x2000620")]
 	public class DrawAnimationVertical : DrawAnimation
 	{
-		// Token: 0x060030C0 RID: 12480 RVA: 0x0002AB8A File Offset: 0x00028D8A
 		[global::Cpp2ILInjected.Token(Token = "0x60035DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBDA8", Offset = "0x13DBDA8", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "InitializeItemAnimations", ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030C1 RID: 12481 RVA: 0x0002AB8D File Offset: 0x00028D8D
 		[global::Cpp2ILInjected.Token(Token = "0x60035DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBDE8", Offset = "0x13DBDE8", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +29,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030C2 RID: 12482 RVA: 0x0002AB90 File Offset: 0x00028D90
 		[global::Cpp2ILInjected.Token(Token = "0x60035DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBE34", Offset = "0x13DBE34", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -53,12 +49,10 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x040062C7 RID: 25287
 		[global::Cpp2ILInjected.Token(Token = "0x40076B1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public bool PingPong;
 
-		// Token: 0x040062C8 RID: 25288
 		[global::Cpp2ILInjected.Token(Token = "0x40076B2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x21")]
 		public bool NotActuallyAnimating;

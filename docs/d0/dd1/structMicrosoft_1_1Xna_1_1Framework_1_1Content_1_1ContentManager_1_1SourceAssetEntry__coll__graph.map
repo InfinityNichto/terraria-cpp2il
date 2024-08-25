@@ -1,7 +1,0 @@
-<map id="Microsoft.Xna.Framework.Content.ContentManager.SourceAssetEntry" name="Microsoft.Xna.Framework.Content.ContentManager.SourceAssetEntry">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,229,272"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="51,5,101,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,71,76,97,80,123,82,132,77,133,75,125,71,97,71,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="143,5,174,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,71,139,133,133,132,148,70"/>
-</map>

@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001B8 RID: 440
 	[NativeInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20001C5")]
 	public class DualShock4MFiNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x060007FA RID: 2042 RVA: 0x0000381B File Offset: 0x00001A1B
 		[global::Cpp2ILInjected.Token(Token = "0x6000817")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A36CE0", Offset = "0x1A36CE0", Length = "0xA90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060007FB RID: 2043 RVA: 0x0000381E File Offset: 0x00001A1E
 		[global::Cpp2ILInjected.Token(Token = "0x6000818")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A37770", Offset = "0x1A37770", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

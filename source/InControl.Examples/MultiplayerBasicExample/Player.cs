@@ -7,13 +7,9 @@ using UnityEngine;
 
 namespace MultiplayerBasicExample
 {
-	// Token: 0x02000008 RID: 8
 	[global::Cpp2ILInjected.Token(Token = "0x2000008")]
 	public class Player : MonoBehaviour
 	{
-		// Token: 0x17000002 RID: 2
-		// (get) Token: 0x06000029 RID: 41 RVA: 0x000020C8 File Offset: 0x000002C8
-		// (set) Token: 0x0600002A RID: 42 RVA: 0x000020CB File Offset: 0x000002CB
 		[global::Cpp2ILInjected.Token(Token = "0x17000002")]
 		public InputDevice Device
 		{
@@ -35,7 +31,6 @@ namespace MultiplayerBasicExample
 			}
 		}
 
-		// Token: 0x0600002B RID: 43 RVA: 0x000020CE File Offset: 0x000002CE
 		[global::Cpp2ILInjected.Token(Token = "0x600002B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198E5C0", Offset = "0x198E5C0", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -46,7 +41,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x0600002C RID: 44 RVA: 0x000020D1 File Offset: 0x000002D1
 		[global::Cpp2ILInjected.Token(Token = "0x600002C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198E610", Offset = "0x198E610", Length = "0x1A0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -68,7 +62,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x0600002D RID: 45 RVA: 0x000020D4 File Offset: 0x000002D4
 		[global::Cpp2ILInjected.Token(Token = "0x600002D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198E7B0", Offset = "0x198E7B0", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +77,6 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x0600002E RID: 46 RVA: 0x000020D7 File Offset: 0x000002D7
 		[global::Cpp2ILInjected.Token(Token = "0x600002E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198E86C", Offset = "0x198E86C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -94,13 +86,11 @@ namespace MultiplayerBasicExample
 			throw null;
 		}
 
-		// Token: 0x0400001C RID: 28
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400001C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private InputDevice <Device>k__BackingField;
 
-		// Token: 0x0400001D RID: 29
 		[global::Cpp2ILInjected.Token(Token = "0x400001D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Renderer cachedRenderer;

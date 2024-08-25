@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.IO.Enumeration
 {
-	// Token: 0x020004A2 RID: 1186
 	[global::Cpp2ILInjected.Token(Token = "0x2000580")]
 	public static class FileSystemName
 	{
-		// Token: 0x0600271B RID: 10011 RVA: 0x0001B1F1 File Offset: 0x000193F1
 		[global::Cpp2ILInjected.Token(Token = "0x6002A4B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BD3544", Offset = "0x1BD3544", Length = "0x370")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,7 +36,6 @@ namespace System.IO.Enumeration
 			throw null;
 		}
 
-		// Token: 0x0600271C RID: 10012 RVA: 0x0001B1F4 File Offset: 0x000193F4
 		[global::Cpp2ILInjected.Token(Token = "0x6002A4C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BD3B54", Offset = "0x1BD3B54", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileSystemEnumerableFactory), Member = "MatchesPattern", MemberParameters = new object[]
@@ -61,7 +58,6 @@ namespace System.IO.Enumeration
 			throw null;
 		}
 
-		// Token: 0x0600271D RID: 10013 RVA: 0x0001B1F7 File Offset: 0x000193F7
 		[global::Cpp2ILInjected.Token(Token = "0x6002A4D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BD3ACC", Offset = "0x1BD3ACC", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -78,7 +74,6 @@ namespace System.IO.Enumeration
 			throw null;
 		}
 
-		// Token: 0x0600271E RID: 10014 RVA: 0x0001B1FA File Offset: 0x000193FA
 		[global::Cpp2ILInjected.Token(Token = "0x6002A4E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BD4408", Offset = "0x1BD4408", Length = "0x6B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +106,6 @@ namespace System.IO.Enumeration
 			throw null;
 		}
 
-		// Token: 0x0600271F RID: 10015 RVA: 0x0001B1FD File Offset: 0x000193FD
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6002A4F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BD4AC0", Offset = "0x1BD4AC0", Length = "0xB8")]
@@ -128,11 +122,9 @@ namespace System.IO.Enumeration
 			throw null;
 		}
 
-		// Token: 0x04001359 RID: 4953
 		[global::Cpp2ILInjected.Token(Token = "0x40016B4")]
 		private static readonly char[] s_wildcardChars;
 
-		// Token: 0x0400135A RID: 4954
 		[global::Cpp2ILInjected.Token(Token = "0x40016B5")]
 		private static readonly char[] s_simpleWildcardChars;
 	}

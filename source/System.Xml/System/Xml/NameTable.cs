@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x02000067 RID: 103
 	[global::Cpp2ILInjected.Token(Token = "0x2000086")]
 	public class NameTable : XmlNameTable
 	{
-		// Token: 0x060005B9 RID: 1465 RVA: 0x00003FDA File Offset: 0x000021DA
 		[global::Cpp2ILInjected.Token(Token = "0x600063B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D93404", Offset = "0x1D93404", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlTextReaderImpl), Member = ".ctor", MemberParameters = new object[]
@@ -47,7 +45,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060005BA RID: 1466 RVA: 0x00003FDD File Offset: 0x000021DD
 		[global::Cpp2ILInjected.Token(Token = "0x600063C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D9AFBC", Offset = "0x1D9AFBC", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,7 +58,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060005BB RID: 1467 RVA: 0x00003FE0 File Offset: 0x000021E0
 		[global::Cpp2ILInjected.Token(Token = "0x600063D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D9B1F8", Offset = "0x1D9B1F8", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +86,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060005BC RID: 1468 RVA: 0x00003FE3 File Offset: 0x000021E3
 		[global::Cpp2ILInjected.Token(Token = "0x600063E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D9B3BC", Offset = "0x1D9B3BC", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,7 +99,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060005BD RID: 1469 RVA: 0x00003FE6 File Offset: 0x000021E6
 		[global::Cpp2ILInjected.Token(Token = "0x600063F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D9B118", Offset = "0x1D9B118", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +117,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060005BE RID: 1470 RVA: 0x00003FE9 File Offset: 0x000021E9
 		[global::Cpp2ILInjected.Token(Token = "0x6000640")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D9B544", Offset = "0x1D9B544", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +132,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060005BF RID: 1471 RVA: 0x00003FEC File Offset: 0x000021EC
 		[global::Cpp2ILInjected.Token(Token = "0x6000641")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D9B33C", Offset = "0x1D9B33C", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,31 +148,25 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x04000204 RID: 516
 		[global::Cpp2ILInjected.Token(Token = "0x4000301")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private NameTable.Entry[] entries;
 
-		// Token: 0x04000205 RID: 517
 		[global::Cpp2ILInjected.Token(Token = "0x4000302")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int count;
 
-		// Token: 0x04000206 RID: 518
 		[global::Cpp2ILInjected.Token(Token = "0x4000303")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private int mask;
 
-		// Token: 0x04000207 RID: 519
 		[global::Cpp2ILInjected.Token(Token = "0x4000304")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private int hashCodeRandomizer;
 
-		// Token: 0x02000165 RID: 357
 		[global::Cpp2ILInjected.Token(Token = "0x2000087")]
 		private class Entry
 		{
-			// Token: 0x06000CB5 RID: 3253 RVA: 0x00005381 File Offset: 0x00003581
 			[global::Cpp2ILInjected.Token(Token = "0x6000642")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D9B504", Offset = "0x1D9B504", Length = "0x40")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -190,17 +176,14 @@ namespace System.Xml
 				throw null;
 			}
 
-			// Token: 0x040005EB RID: 1515
 			[global::Cpp2ILInjected.Token(Token = "0x4000305")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			internal string str;
 
-			// Token: 0x040005EC RID: 1516
 			[global::Cpp2ILInjected.Token(Token = "0x4000306")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			internal int hashCode;
 
-			// Token: 0x040005ED RID: 1517
 			[global::Cpp2ILInjected.Token(Token = "0x4000307")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			internal NameTable.Entry next;

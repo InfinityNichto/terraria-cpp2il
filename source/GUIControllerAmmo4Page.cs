@@ -4,11 +4,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 
-// Token: 0x0200007E RID: 126
 [global::Cpp2ILInjected.Token(Token = "0x20000B5")]
 public class GUIControllerAmmo4Page : GUIControllerAmmo
 {
-	// Token: 0x060003B3 RID: 947 RVA: 0x0002265E File Offset: 0x0002085E
 	[global::Cpp2ILInjected.Token(Token = "0x600044D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA88068", Offset = "0xA88068", Length = "0xA0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -20,7 +18,6 @@ public class GUIControllerAmmo4Page : GUIControllerAmmo
 		throw null;
 	}
 
-	// Token: 0x060003B4 RID: 948 RVA: 0x00022661 File Offset: 0x00020861
 	[global::Cpp2ILInjected.Token(Token = "0x600044E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA88108", Offset = "0xA88108", Length = "0x14")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -30,7 +27,6 @@ public class GUIControllerAmmo4Page : GUIControllerAmmo
 		throw null;
 	}
 
-	// Token: 0x060003B5 RID: 949 RVA: 0x00022664 File Offset: 0x00020864
 	[global::Cpp2ILInjected.Token(Token = "0x600044F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA8811C", Offset = "0xA8811C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -39,7 +35,6 @@ public class GUIControllerAmmo4Page : GUIControllerAmmo
 		throw null;
 	}
 
-	// Token: 0x060003B6 RID: 950 RVA: 0x00022667 File Offset: 0x00020867
 	[global::Cpp2ILInjected.Token(Token = "0x6000450")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA88124", Offset = "0xA88124", Length = "0x21C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +51,6 @@ public class GUIControllerAmmo4Page : GUIControllerAmmo
 		throw null;
 	}
 
-	// Token: 0x060003B7 RID: 951 RVA: 0x0002266A File Offset: 0x0002086A
 	[global::Cpp2ILInjected.Token(Token = "0x6000451")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA88340", Offset = "0xA88340", Length = "0x35C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -97,7 +91,6 @@ public class GUIControllerAmmo4Page : GUIControllerAmmo
 		throw null;
 	}
 
-	// Token: 0x060003B8 RID: 952 RVA: 0x0002266D File Offset: 0x0002086D
 	[global::Cpp2ILInjected.Token(Token = "0x6000452")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA8869C", Offset = "0xA8869C", Length = "0xC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerPageRedirect), Member = ".ctor", ReturnType = typeof(void))]

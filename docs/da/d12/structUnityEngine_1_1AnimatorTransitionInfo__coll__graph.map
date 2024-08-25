@@ -1,9 +1,0 @@
-<map id="UnityEngine.AnimatorTransitionInfo" name="UnityEngine.AnimatorTransitionInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="47,177,293,243"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="23,70,29,112,37,133,48,152,62,165,58,169,44,155,32,135,24,113,18,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="149,5,191,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,71,173,161,167,161,167,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="321,5,363,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="344,71,336,114,328,136,315,155,298,170,295,166,311,152,323,133,331,112,339,71"/>
-</map>

@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Text.RegularExpressions
 {
-	// Token: 0x0200006D RID: 109
 	[global::Cpp2ILInjected.Token(Token = "0x20000C5")]
 	internal ref struct RegexWriter
 	{
-		// Token: 0x060003E7 RID: 999 RVA: 0x00003959 File Offset: 0x00001B59
 		[global::Cpp2ILInjected.Token(Token = "0x6000487")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC3390", Offset = "0x1EC3390", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,7 +24,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003E8 RID: 1000 RVA: 0x0000395C File Offset: 0x00001B5C
 		[global::Cpp2ILInjected.Token(Token = "0x6000488")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC34D4", Offset = "0x1EC34D4", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +48,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003E9 RID: 1001 RVA: 0x0000395F File Offset: 0x00001B5F
 		[global::Cpp2ILInjected.Token(Token = "0x6000489")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC39E0", Offset = "0x1EC39E0", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RegexWriter), Member = "Write", MemberParameters = new object[] { typeof(RegexTree) }, ReturnType = typeof(RegexCode))]
@@ -62,7 +58,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003EA RID: 1002 RVA: 0x00003962 File Offset: 0x00001B62
 		[global::Cpp2ILInjected.Token(Token = "0x600048A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC35D8", Offset = "0x1EC35D8", Length = "0x408")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -119,7 +114,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003EB RID: 1003 RVA: 0x00003965 File Offset: 0x00001B65
 		[global::Cpp2ILInjected.Token(Token = "0x600048B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC444C", Offset = "0x1EC444C", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RegexWriter), Member = "RegexCodeFromRegexTree", MemberParameters = new object[] { typeof(RegexTree) }, ReturnType = typeof(RegexCode))]
@@ -137,7 +131,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003EC RID: 1004 RVA: 0x00003968 File Offset: 0x00001B68
 		[global::Cpp2ILInjected.Token(Token = "0x600048C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC44B0", Offset = "0x1EC44B0", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +149,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003ED RID: 1005 RVA: 0x0000396B File Offset: 0x00001B6B
 		[global::Cpp2ILInjected.Token(Token = "0x600048D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC3A34", Offset = "0x1EC3A34", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -175,7 +167,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003EE RID: 1006 RVA: 0x0000396E File Offset: 0x00001B6E
 		[global::Cpp2ILInjected.Token(Token = "0x600048E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC4584", Offset = "0x1EC4584", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -193,7 +184,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003EF RID: 1007 RVA: 0x00003971 File Offset: 0x00001B71
 		[global::Cpp2ILInjected.Token(Token = "0x600048F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC4708", Offset = "0x1EC4708", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -220,7 +210,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003F0 RID: 1008 RVA: 0x00003974 File Offset: 0x00001B74
 		[global::Cpp2ILInjected.Token(Token = "0x6000490")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC4838", Offset = "0x1EC4838", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -237,7 +226,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003F1 RID: 1009 RVA: 0x00003977 File Offset: 0x00001B77
 		[global::Cpp2ILInjected.Token(Token = "0x6000491")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC3B64", Offset = "0x1EC3B64", Length = "0x8E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -277,32 +265,26 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x04000244 RID: 580
 		[global::Cpp2ILInjected.Token(Token = "0x4000385")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private ValueListBuilder<int> _emitted;
 
-		// Token: 0x04000245 RID: 581
 		[global::Cpp2ILInjected.Token(Token = "0x4000386")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private ValueListBuilder<int> _intStack;
 
-		// Token: 0x04000246 RID: 582
 		[global::Cpp2ILInjected.Token(Token = "0x4000387")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private readonly Dictionary<string, int> _stringHash;
 
-		// Token: 0x04000247 RID: 583
 		[global::Cpp2ILInjected.Token(Token = "0x4000388")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private readonly List<string> _stringTable;
 
-		// Token: 0x04000248 RID: 584
 		[global::Cpp2ILInjected.Token(Token = "0x4000389")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private Hashtable _caps;
 
-		// Token: 0x04000249 RID: 585
 		[global::Cpp2ILInjected.Token(Token = "0x400038A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private int _trackCount;

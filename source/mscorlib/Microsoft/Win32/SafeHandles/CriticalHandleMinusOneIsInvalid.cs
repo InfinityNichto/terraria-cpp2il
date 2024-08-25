@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Win32.SafeHandles
 {
-	// Token: 0x02000044 RID: 68
 	[global::Cpp2ILInjected.Token(Token = "0x200005F")]
 	public abstract class CriticalHandleMinusOneIsInvalid : global::System.Runtime.InteropServices.CriticalHandle
 	{
-		// Token: 0x060001C7 RID: 455 RVA: 0x00014B01 File Offset: 0x00012D01
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.MayFail)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000223")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6B78", Offset = "0x1AC6B78", Length = "0x3C")]
@@ -23,8 +21,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x17000031 RID: 49
-		// (get) Token: 0x060001C8 RID: 456 RVA: 0x00014B04 File Offset: 0x00012D04
 		[global::Cpp2ILInjected.Token(Token = "0x17000039")]
 		public override bool IsInvalid
 		{

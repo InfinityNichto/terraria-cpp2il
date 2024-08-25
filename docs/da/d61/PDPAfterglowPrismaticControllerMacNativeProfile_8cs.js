@@ -1,4 +1,0 @@
-var PDPAfterglowPrismaticControllerMacNativeProfile_8cs =
-[
-    [ "InControl.NativeDeviceProfiles.PDPAfterglowPrismaticControllerMacNativeProfile", "dd/d23/classInControl_1_1NativeDeviceProfiles_1_1PDPAfterglowPrismaticControllerMacNativeProfile.html", "dd/d23/classInControl_1_1NativeDeviceProfiles_1_1PDPAfterglowPrismaticControllerMacNativeProfile" ]
-];

@@ -6,11 +6,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent.Personalities
 {
-	// Token: 0x020005A3 RID: 1443
 	[global::Cpp2ILInjected.Token(Token = "0x2000841")]
 	public class AllPersonalitiesModifier : IShopPersonalityTrait
 	{
-		// Token: 0x06003BE9 RID: 15337 RVA: 0x0002CB4C File Offset: 0x0002AD4C
 		[global::Cpp2ILInjected.Token(Token = "0x600430C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x79D3D0", Offset = "0x79D3D0", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ShopHelper), Member = "ProcessMood", MemberParameters = new object[]
@@ -29,7 +27,6 @@ namespace Terraria.GameContent.Personalities
 			throw null;
 		}
 
-		// Token: 0x06003BEA RID: 15338 RVA: 0x0002CB4F File Offset: 0x0002AD4F
 		[global::Cpp2ILInjected.Token(Token = "0x600430D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x79D3F8", Offset = "0x79D3F8", Length = "0xC80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -55,7 +52,6 @@ namespace Terraria.GameContent.Personalities
 			throw null;
 		}
 
-		// Token: 0x06003BEB RID: 15339 RVA: 0x0002CB52 File Offset: 0x0002AD52
 		[global::Cpp2ILInjected.Token(Token = "0x600430E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x79E078", Offset = "0x79E078", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ShopHelper), Member = "ProcessMood", MemberParameters = new object[]

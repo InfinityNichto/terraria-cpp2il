@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Diagnostics
 {
-	// Token: 0x02000071 RID: 113
 	[global::Cpp2ILInjected.Token(Token = "0x20000C9")]
 	public abstract class Switch
 	{
-		// Token: 0x060003F7 RID: 1015 RVA: 0x00003989 File Offset: 0x00001B89
 		[global::Cpp2ILInjected.Token(Token = "0x6000497")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC497C", Offset = "0x1EC497C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TraceSwitch), Member = ".ctor", MemberParameters = new object[]
@@ -31,7 +29,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x060003F8 RID: 1016 RVA: 0x0000398C File Offset: 0x00001B8C
 		[global::Cpp2ILInjected.Token(Token = "0x6000498")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC4AA0", Offset = "0x1EC4AA0", Length = "0x230")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +53,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x060003F9 RID: 1017 RVA: 0x0000398F File Offset: 0x00001B8F
 		[global::Cpp2ILInjected.Token(Token = "0x6000499")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC4CD0", Offset = "0x1EC4CD0", Length = "0x468")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +86,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x060003FA RID: 1018 RVA: 0x00003992 File Offset: 0x00001B92
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600049A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC5138", Offset = "0x1EC5138", Length = "0x8C")]
@@ -102,31 +97,25 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x0400024C RID: 588
 		[global::Cpp2ILInjected.Token(Token = "0x400038D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly string description;
 
-		// Token: 0x0400024D RID: 589
 		[global::Cpp2ILInjected.Token(Token = "0x400038E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly string displayName;
 
-		// Token: 0x0400024E RID: 590
 		[global::Cpp2ILInjected.Token(Token = "0x400038F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string switchValueString;
 
-		// Token: 0x0400024F RID: 591
 		[global::Cpp2ILInjected.Token(Token = "0x4000390")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private string defaultValue;
 
-		// Token: 0x04000250 RID: 592
 		[global::Cpp2ILInjected.Token(Token = "0x4000391")]
 		private static List<WeakReference> switches;
 
-		// Token: 0x04000251 RID: 593
 		[global::Cpp2ILInjected.Token(Token = "0x4000392")]
 		private static int s_LastCollectionCount;
 	}

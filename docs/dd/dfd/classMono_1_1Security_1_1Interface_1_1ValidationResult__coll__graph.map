@@ -1,9 +1,0 @@
-<map id="Mono.Security.Interface.ValidationResult" name="Mono.Security.Interface.ValidationResult">
-<area shape="rect" id="Node000001" title=" " alt="" coords="11,148,274,292"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,70,43,97,54,123,61,133,56,136,50,125,38,98,30,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="127,5,158,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,71,145,131,140,131,140,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="182,5,335,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,72,229,125,222,136,217,133,224,123,247,70"/>
-</map>

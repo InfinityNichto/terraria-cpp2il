@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000B3 RID: 179
 	[UnityInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000C0")]
 	public class MogaProLinuxUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060005F0 RID: 1520 RVA: 0x000031FD File Offset: 0x000013FD
 		[global::Cpp2ILInjected.Token(Token = "0x600060D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19E4A74", Offset = "0x19E4A74", Length = "0x840")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -43,7 +41,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005F1 RID: 1521 RVA: 0x00003200 File Offset: 0x00001400
 		[global::Cpp2ILInjected.Token(Token = "0x600060E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19E52B4", Offset = "0x19E52B4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

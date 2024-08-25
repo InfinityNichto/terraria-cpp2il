@@ -8,12 +8,10 @@ using Mono.Security.X509;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000A6 RID: 166
 	[MonoTODO("Some X500DistinguishedNameFlags options aren't supported, like DoNotUsePlusSign, DoNotUseQuotes and ForceUTF8Encoding")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000103")]
 	public sealed class X500DistinguishedName : AsnEncodedData
 	{
-		// Token: 0x060004FF RID: 1279 RVA: 0x00003C86 File Offset: 0x00001E86
 		[global::Cpp2ILInjected.Token(Token = "0x60005A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED10E8", Offset = "0x1ED10E8", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CertificateData), Member = ".ctor", MemberParameters = new object[] { typeof(byte[]) }, ReturnType = typeof(void))]
@@ -28,8 +26,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x17000110 RID: 272
-		// (get) Token: 0x06000500 RID: 1280 RVA: 0x00003C89 File Offset: 0x00001E89
 		[global::Cpp2ILInjected.Token(Token = "0x17000116")]
 		public string Name
 		{
@@ -42,7 +38,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x06000501 RID: 1281 RVA: 0x00003C8C File Offset: 0x00001E8C
 		[global::Cpp2ILInjected.Token(Token = "0x60005A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED12E4", Offset = "0x1ED12E4", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +65,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000502 RID: 1282 RVA: 0x00003C8F File Offset: 0x00001E8F
 		[global::Cpp2ILInjected.Token(Token = "0x60005A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED14A0", Offset = "0x1ED14A0", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -87,7 +81,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000503 RID: 1283 RVA: 0x00003C92 File Offset: 0x00001E92
 		[global::Cpp2ILInjected.Token(Token = "0x60005A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED142C", Offset = "0x1ED142C", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X500DistinguishedName), Member = "Decode", MemberParameters = new object[] { typeof(X500DistinguishedNameFlags) }, ReturnType = typeof(string))]
@@ -99,7 +92,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000504 RID: 1284 RVA: 0x00003C95 File Offset: 0x00001E95
 		[global::Cpp2ILInjected.Token(Token = "0x60005A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED11EC", Offset = "0x1ED11EC", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -118,7 +110,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000505 RID: 1285 RVA: 0x00003C98 File Offset: 0x00001E98
 		[global::Cpp2ILInjected.Token(Token = "0x60005AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED14F4", Offset = "0x1ED14F4", Length = "0x1BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -150,7 +141,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000506 RID: 1286 RVA: 0x00003C9B File Offset: 0x00001E9B
 		[global::Cpp2ILInjected.Token(Token = "0x60005AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED16B0", Offset = "0x1ED16B0", Length = "0x1A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -175,12 +165,10 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x04000384 RID: 900
 		[global::Cpp2ILInjected.Token(Token = "0x40004ED")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string name;
 
-		// Token: 0x04000385 RID: 901
 		[global::Cpp2ILInjected.Token(Token = "0x40004EE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private byte[] canonEncoding;

@@ -11,12 +11,9 @@ using Terraria.Initializers;
 
 namespace ReLogic.Content
 {
-	// Token: 0x02000742 RID: 1858
 	[global::Cpp2ILInjected.Token(Token = "0x2000B42")]
 	public class AssetRepository : IAssetRepository, IDisposable
 	{
-		// Token: 0x17000810 RID: 2064
-		// (get) Token: 0x0600472D RID: 18221 RVA: 0x0002EB83 File Offset: 0x0002CD83
 		[global::Cpp2ILInjected.Token(Token = "0x17000915")]
 		public int PendingAssets
 		{
@@ -30,9 +27,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x17000811 RID: 2065
-		// (get) Token: 0x0600472E RID: 18222 RVA: 0x0002EB86 File Offset: 0x0002CD86
-		// (set) Token: 0x0600472F RID: 18223 RVA: 0x0002EB89 File Offset: 0x0002CD89
 		[global::Cpp2ILInjected.Token(Token = "0x17000916")]
 		public int TotalAssets
 		{
@@ -54,9 +48,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x17000812 RID: 2066
-		// (get) Token: 0x06004730 RID: 18224 RVA: 0x0002EB8C File Offset: 0x0002CD8C
-		// (set) Token: 0x06004731 RID: 18225 RVA: 0x0002EB8F File Offset: 0x0002CD8F
 		[global::Cpp2ILInjected.Token(Token = "0x17000917")]
 		public int LoadedAssets
 		{
@@ -78,8 +69,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x17000813 RID: 2067
-		// (get) Token: 0x06004732 RID: 18226 RVA: 0x0002EB92 File Offset: 0x0002CD92
 		[global::Cpp2ILInjected.Token(Token = "0x17000918")]
 		public bool IsAsyncLoadingEnabled
 		{
@@ -92,7 +81,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x06004733 RID: 18227 RVA: 0x0002EB95 File Offset: 0x0002CD95
 		[global::Cpp2ILInjected.Token(Token = "0x60053EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9462E4", Offset = "0x9462E4", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AssetInitializer), Member = "CreateAssetServices", MemberParameters = new object[] { typeof(GameServiceContainer) }, ReturnType = typeof(void))]
@@ -106,7 +94,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004734 RID: 18228 RVA: 0x0002EB98 File Offset: 0x0002CD98
 		[global::Cpp2ILInjected.Token(Token = "0x60053ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x94645C", Offset = "0x94645C", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -119,7 +106,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004735 RID: 18229 RVA: 0x0002EB9B File Offset: 0x0002CD9B
 		[global::Cpp2ILInjected.Token(Token = "0x60053EE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9465D4", Offset = "0x9465D4", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -144,7 +130,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004736 RID: 18230 RVA: 0x0002EB9E File Offset: 0x0002CD9E
 		[global::Cpp2ILInjected.Token(Token = "0x60053EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9467BC", Offset = "0x9467BC", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -165,7 +150,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004737 RID: 18231 RVA: 0x0002EBA1 File Offset: 0x0002CDA1
 		[global::Cpp2ILInjected.Token(Token = "0x60053F0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1571E30", Offset = "0x1571E30", Length = "0x208")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -195,7 +179,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004738 RID: 18232 RVA: 0x0002EBA4 File Offset: 0x0002CDA4
 		[global::Cpp2ILInjected.Token(Token = "0x60053F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x946F58", Offset = "0x946F58", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -214,7 +197,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004739 RID: 18233 RVA: 0x0002EBA7 File Offset: 0x0002CDA7
 		[global::Cpp2ILInjected.Token(Token = "0x60053F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x946A24", Offset = "0x946A24", Length = "0x534")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -247,7 +229,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0600473A RID: 18234 RVA: 0x0002EBAA File Offset: 0x0002CDAA
 		[global::Cpp2ILInjected.Token(Token = "0x60053F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1571DB4", Offset = "0x1571DB4", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -259,7 +240,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0600473B RID: 18235 RVA: 0x0002EBAD File Offset: 0x0002CDAD
 		[global::Cpp2ILInjected.Token(Token = "0x60053F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1572038", Offset = "0x1572038", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -271,7 +251,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0600473C RID: 18236 RVA: 0x0002EBB0 File Offset: 0x0002CDB0
 		[global::Cpp2ILInjected.Token(Token = "0x60053F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x947120", Offset = "0x947120", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AssetRepository), Member = "ReloadAssetsIfSourceChanged", MemberParameters = new object[] { typeof(AssetRequestMode) }, ReturnType = typeof(void))]
@@ -284,7 +263,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0600473D RID: 18237 RVA: 0x0002EBB3 File Offset: 0x0002CDB3
 		[global::Cpp2ILInjected.Token(Token = "0x60053F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1571C4C", Offset = "0x1571C4C", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -306,7 +284,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0600473E RID: 18238 RVA: 0x0002EBB6 File Offset: 0x0002CDB6
 		[global::Cpp2ILInjected.Token(Token = "0x60053F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1571D28", Offset = "0x1571D28", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -318,7 +295,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0600473F RID: 18239 RVA: 0x0002EBB9 File Offset: 0x0002CDB9
 		[global::Cpp2ILInjected.Token(Token = "0x60053F8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x94701C", Offset = "0x94701C", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AssetRepository), Member = "ReloadAssetsIfSourceChanged", MemberParameters = new object[] { typeof(AssetRequestMode) }, ReturnType = typeof(void))]
@@ -345,7 +321,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004740 RID: 18240 RVA: 0x0002EBBC File Offset: 0x0002CDBC
 		[global::Cpp2ILInjected.Token(Token = "0x60053F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9468F0", Offset = "0x9468F0", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AssetRepository), Member = "SetSources", MemberParameters = new object[]
@@ -367,7 +342,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004741 RID: 18241 RVA: 0x0002EBBF File Offset: 0x0002CDBF
 		[global::Cpp2ILInjected.Token(Token = "0x60053FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9471C0", Offset = "0x9471C0", Length = "0x1BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -381,7 +355,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004742 RID: 18242 RVA: 0x0002EBC2 File Offset: 0x0002CDC2
 		[global::Cpp2ILInjected.Token(Token = "0x60053FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x94737C", Offset = "0x94737C", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -391,65 +364,53 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x0400735A RID: 29530
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008CF9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private int <TotalAssets>k__BackingField;
 
-		// Token: 0x0400735B RID: 29531
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008CFA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private int <LoadedAssets>k__BackingField;
 
-		// Token: 0x0400735C RID: 29532
 		[global::Cpp2ILInjected.Token(Token = "0x4008CFB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly Dictionary<string, IAsset> _assets;
 
-		// Token: 0x0400735D RID: 29533
 		[global::Cpp2ILInjected.Token(Token = "0x4008CFC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private IEnumerable<IContentSource> _sources;
 
-		// Token: 0x0400735E RID: 29534
 		[global::Cpp2ILInjected.Token(Token = "0x4008CFD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private readonly Dictionary<Type, Action<IAsset, AssetRequestMode>> _typeSpecificReloadActions;
 
-		// Token: 0x0400735F RID: 29535
 		[global::Cpp2ILInjected.Token(Token = "0x4008CFE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private readonly AsyncAssetLoader _asyncLoader;
 
-		// Token: 0x04007360 RID: 29536
 		[global::Cpp2ILInjected.Token(Token = "0x4008CFF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private readonly IAssetLoader _loader;
 
-		// Token: 0x04007361 RID: 29537
 		[global::Cpp2ILInjected.Token(Token = "0x4008D00")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private List<IAsset> _queuedAssets;
 
-		// Token: 0x04007362 RID: 29538
 		[global::Cpp2ILInjected.Token(Token = "0x4008D01")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private readonly object _requestLock;
 
-		// Token: 0x04007363 RID: 29539
 		[global::Cpp2ILInjected.Token(Token = "0x4008D02")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private bool _isDisposed;
 
-		// Token: 0x02000ADC RID: 2780
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000B43")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x060052E5 RID: 21221 RVA: 0x000309F5 File Offset: 0x0002EBF5
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60053FC")]
 			[global::Cpp2ILInjected.Address(RVA = "0x94738C", Offset = "0x94738C", Length = "0x5C")]
@@ -461,7 +422,6 @@ namespace ReLogic.Content
 				throw null;
 			}
 
-			// Token: 0x060052E6 RID: 21222 RVA: 0x000309F8 File Offset: 0x0002EBF8
 			[global::Cpp2ILInjected.Token(Token = "0x60053FD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x9473E8", Offset = "0x9473E8", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -471,7 +431,6 @@ namespace ReLogic.Content
 				throw null;
 			}
 
-			// Token: 0x060052E7 RID: 21223 RVA: 0x000309FB File Offset: 0x0002EBFB
 			[global::Cpp2ILInjected.Token(Token = "0x60053FE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x9473F0", Offset = "0x9473F0", Length = "0x98")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -482,21 +441,17 @@ namespace ReLogic.Content
 				throw null;
 			}
 
-			// Token: 0x04008FAB RID: 36779
 			[global::Cpp2ILInjected.Token(Token = "0x4008D03")]
 			public static readonly AssetRepository.<>c <>9;
 
-			// Token: 0x04008FAC RID: 36780
 			[global::Cpp2ILInjected.Token(Token = "0x4008D04")]
 			public static Func<IAsset, bool> <>9__25_0;
 		}
 
-		// Token: 0x02000ADD RID: 2781
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000B44")]
 		private sealed class <>c__DisplayClass31_0
 		{
-			// Token: 0x060052E8 RID: 21224 RVA: 0x000309FE File Offset: 0x0002EBFE
 			[global::Cpp2ILInjected.Token(Token = "0x60053FF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x9471B8", Offset = "0x9471B8", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -506,7 +461,6 @@ namespace ReLogic.Content
 				throw null;
 			}
 
-			// Token: 0x060052E9 RID: 21225 RVA: 0x00030A01 File Offset: 0x0002EC01
 			[global::Cpp2ILInjected.Token(Token = "0x6005400")]
 			[global::Cpp2ILInjected.Address(RVA = "0x947488", Offset = "0x947488", Length = "0xAC")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -517,7 +471,6 @@ namespace ReLogic.Content
 				throw null;
 			}
 
-			// Token: 0x04008FAD RID: 36781
 			[global::Cpp2ILInjected.Token(Token = "0x4008D05")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public string assetName;

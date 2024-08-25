@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001B6 RID: 438
 	[NativeInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20001C3")]
 	public class AppleMFiExtendedGamepadNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x060007F6 RID: 2038 RVA: 0x0000380F File Offset: 0x00001A0F
 		[global::Cpp2ILInjected.Token(Token = "0x6000813")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A35C1C", Offset = "0x1A35C1C", Length = "0xA90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060007F7 RID: 2039 RVA: 0x00003812 File Offset: 0x00001A12
 		[global::Cpp2ILInjected.Token(Token = "0x6000814")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A366AC", Offset = "0x1A366AC", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

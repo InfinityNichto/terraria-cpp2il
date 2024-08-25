@@ -1,9 +1,0 @@
-<map id="GUILowDiskSpacePopup" name="GUILowDiskSpacePopup">
-<area shape="rect" id="Node000001" title=" " alt="" coords="88,163,285,303"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,70,39,104,54,137,78,164,73,167,50,140,34,106,26,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="159,5,214,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,71,189,146,184,146,184,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="320,5,363,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="340,71,331,106,314,140,299,159,295,155,310,137,326,104,335,70"/>
-</map>

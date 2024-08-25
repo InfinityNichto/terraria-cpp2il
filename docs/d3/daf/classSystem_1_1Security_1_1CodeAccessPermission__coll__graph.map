@@ -1,8 +1,0 @@
-<map id="System.Security.CodeAccessPermission" name="System.Security.CodeAccessPermission">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,267,319,931"/>
-<area shape="rect" id="Node000002" href="$dc/d96/interfaceSystem_1_1Security_1_1IPermission.html" title=" " alt="" coords="128,119,340,219"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,233,220,267,215,266,221,232"/>
-<area shape="rect" id="Node000003" href="$d1/d18/interfaceSystem_1_1Security_1_1ISecurityEncodable.html" title=" " alt="" coords="67,5,257,71"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="134,84,119,119,106,192,103,267,98,266,101,191,114,118,130,82"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,81,209,117,204,120,184,84"/>
-</map>

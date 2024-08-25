@@ -9,11 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel.Design
 {
-	// Token: 0x020002F7 RID: 759
 	[global::Cpp2ILInjected.Token(Token = "0x200040A")]
 	internal class RuntimeLicenseContext : LicenseContext
 	{
-		// Token: 0x06001924 RID: 6436 RVA: 0x000074F6 File Offset: 0x000056F6
 		[global::Cpp2ILInjected.Token(Token = "0x6001C02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8B584", Offset = "0x1E8B584", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeLicenseContext), Member = "GetSavedLicenseKey", MemberParameters = new object[]
@@ -36,7 +34,6 @@ namespace System.ComponentModel.Design
 			throw null;
 		}
 
-		// Token: 0x06001925 RID: 6437 RVA: 0x000074F9 File Offset: 0x000056F9
 		[global::Cpp2ILInjected.Token(Token = "0x6001C03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8B604", Offset = "0x1E8B604", Length = "0x4D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +74,6 @@ namespace System.ComponentModel.Design
 			throw null;
 		}
 
-		// Token: 0x06001926 RID: 6438 RVA: 0x000074FC File Offset: 0x000056FC
 		[global::Cpp2ILInjected.Token(Token = "0x6001C04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8BADC", Offset = "0x1E8BADC", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +95,6 @@ namespace System.ComponentModel.Design
 			throw null;
 		}
 
-		// Token: 0x06001927 RID: 6439 RVA: 0x000074FF File Offset: 0x000056FF
 		[global::Cpp2ILInjected.Token(Token = "0x6001C05")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8BE54", Offset = "0x1E8BE54", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LicenseManager), Member = "get_CurrentContext", ReturnType = typeof(LicenseContext))]
@@ -110,7 +105,6 @@ namespace System.ComponentModel.Design
 			throw null;
 		}
 
-		// Token: 0x06001928 RID: 6440 RVA: 0x00007502 File Offset: 0x00005702
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001C06")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8BE5C", Offset = "0x1E8BE5C", Length = "0xA8")]
@@ -126,11 +120,9 @@ namespace System.ComponentModel.Design
 			throw null;
 		}
 
-		// Token: 0x04000F4B RID: 3915
 		[global::Cpp2ILInjected.Token(Token = "0x400138C")]
 		private static TraceSwitch s_runtimeLicenseContextSwitch;
 
-		// Token: 0x04000F4C RID: 3916
 		[global::Cpp2ILInjected.Token(Token = "0x400138D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal Hashtable savedLicenseKeys;

@@ -12,11 +12,9 @@ using Terraria.Localization;
 using Terraria.UI;
 using UnityEngine;
 
-// Token: 0x020000CB RID: 203
 [global::Cpp2ILInjected.Token(Token = "0x2000125")]
 public class GUIBuffs
 {
-	// Token: 0x06000696 RID: 1686 RVA: 0x00022F07 File Offset: 0x00021107
 	[global::Cpp2ILInjected.Token(Token = "0x6000789")]
 	[global::Cpp2ILInjected.Address(RVA = "0x131F6E0", Offset = "0x131F6E0", Length = "0x1C0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,7 +43,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x06000697 RID: 1687 RVA: 0x00022F0A File Offset: 0x0002110A
 	[global::Cpp2ILInjected.Token(Token = "0x600078A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x131F8A0", Offset = "0x131F8A0", Length = "0x100")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -66,7 +63,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x06000698 RID: 1688 RVA: 0x00022F0D File Offset: 0x0002110D
 	[global::Cpp2ILInjected.Token(Token = "0x600078B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x131F9A0", Offset = "0x131F9A0", Length = "0xFC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +77,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x06000699 RID: 1689 RVA: 0x00022F10 File Offset: 0x00021110
 	[global::Cpp2ILInjected.Token(Token = "0x600078C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x131FA9C", Offset = "0x131FA9C", Length = "0x11C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +95,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x0600069A RID: 1690 RVA: 0x00022F13 File Offset: 0x00021113
 	[global::Cpp2ILInjected.Token(Token = "0x600078D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x131FBB8", Offset = "0x131FBB8", Length = "0x11C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -119,7 +113,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x0600069B RID: 1691 RVA: 0x00022F16 File Offset: 0x00021116
 	[global::Cpp2ILInjected.Token(Token = "0x600078E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x131FCD4", Offset = "0x131FCD4", Length = "0x28")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -129,7 +122,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x0600069C RID: 1692 RVA: 0x00022F19 File Offset: 0x00021119
 	[global::Cpp2ILInjected.Token(Token = "0x600078F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1320064", Offset = "0x1320064", Length = "0x3D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -164,7 +156,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x0600069D RID: 1693 RVA: 0x00022F1C File Offset: 0x0002111C
 	[global::Cpp2ILInjected.Token(Token = "0x6000790")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1320434", Offset = "0x1320434", Length = "0xCC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -177,7 +168,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x0600069E RID: 1694 RVA: 0x00022F1F File Offset: 0x0002111F
 	[global::Cpp2ILInjected.Token(Token = "0x6000791")]
 	[global::Cpp2ILInjected.Address(RVA = "0x131FCFC", Offset = "0x131FCFC", Length = "0x368")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -209,7 +199,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x0600069F RID: 1695 RVA: 0x00022F22 File Offset: 0x00021122
 	[global::Cpp2ILInjected.Token(Token = "0x6000792")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1320500", Offset = "0x1320500", Length = "0x51C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -265,7 +254,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x060006A0 RID: 1696 RVA: 0x00022F25 File Offset: 0x00021125
 	[global::Cpp2ILInjected.Token(Token = "0x6000793")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1320A1C", Offset = "0x1320A1C", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -275,7 +263,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x060006A1 RID: 1697 RVA: 0x00022F28 File Offset: 0x00021128
 	[global::Cpp2ILInjected.Token(Token = "0x6000794")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1320A34", Offset = "0x1320A34", Length = "0x26C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -299,7 +286,6 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x060006A2 RID: 1698 RVA: 0x00022F2B File Offset: 0x0002112B
 	[global::Cpp2ILInjected.Token(Token = "0x6000795")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1320CA0", Offset = "0x1320CA0", Length = "0x974")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -377,67 +363,54 @@ public class GUIBuffs
 		throw null;
 	}
 
-	// Token: 0x0400040F RID: 1039
 	[global::Cpp2ILInjected.Token(Token = "0x4000607")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private int buffOver;
 
-	// Token: 0x04000410 RID: 1040
 	[global::Cpp2ILInjected.Token(Token = "0x4000608")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private int buffToRemove;
 
-	// Token: 0x04000411 RID: 1041
 	[global::Cpp2ILInjected.Token(Token = "0x4000609")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int lastDrawBuffText;
 
-	// Token: 0x04000412 RID: 1042
 	[global::Cpp2ILInjected.Token(Token = "0x400060A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float lastdoubleClickTimer;
 
-	// Token: 0x04000413 RID: 1043
 	[global::Cpp2ILInjected.Token(Token = "0x400060B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public int numActiveBuffs;
 
-	// Token: 0x04000414 RID: 1044
 	[global::Cpp2ILInjected.Token(Token = "0x400060C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private int[] activeBuffs;
 
-	// Token: 0x04000415 RID: 1045
 	[global::Cpp2ILInjected.Token(Token = "0x400060D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public bool buffTogglePressed;
 
-	// Token: 0x04000416 RID: 1046
 	[global::Cpp2ILInjected.Token(Token = "0x400060E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x31")]
 	public bool buffActive;
 
-	// Token: 0x04000417 RID: 1047
 	[global::Cpp2ILInjected.Token(Token = "0x400060F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	public GUIControllerBuff buffController;
 
-	// Token: 0x04000418 RID: 1048
 	[global::Cpp2ILInjected.Token(Token = "0x4000610")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private DateTime NavigationTick;
 
-	// Token: 0x04000419 RID: 1049
 	[global::Cpp2ILInjected.Token(Token = "0x4000611")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private GUIItemGrid.GetItemScaleHandler itemScale;
 
-	// Token: 0x0400041A RID: 1050
 	[global::Cpp2ILInjected.Token(Token = "0x4000612")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private GUIItemGrid.CursorOver itemOver;
 
-	// Token: 0x0400041B RID: 1051
 	[global::Cpp2ILInjected.Token(Token = "0x4000613")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private GUIItemGrid.DrawItemHandler itemDraw;

@@ -4,11 +4,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using UnityEngine.Events;
 
-// Token: 0x02000248 RID: 584
 [global::Cpp2ILInjected.Token(Token = "0x2000301")]
 public static class UnityEventBaseExtensions
 {
-	// Token: 0x06001080 RID: 4224 RVA: 0x00024C62 File Offset: 0x00022E62
 	[global::Cpp2ILInjected.Token(Token = "0x60011CF")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6EEE0", Offset = "0xA6EEE0", Length = "0x204")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

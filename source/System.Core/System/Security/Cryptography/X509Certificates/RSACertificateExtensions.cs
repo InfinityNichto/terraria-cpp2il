@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x02000006 RID: 6
 	[global::Cpp2ILInjected.Token(Token = "0x2000006")]
 	public static class RSACertificateExtensions
 	{
-		// Token: 0x06000030 RID: 48 RVA: 0x00004355 File Offset: 0x00002555
 		[global::Cpp2ILInjected.Token(Token = "0x6000030")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D3F210", Offset = "0x1D3F210", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

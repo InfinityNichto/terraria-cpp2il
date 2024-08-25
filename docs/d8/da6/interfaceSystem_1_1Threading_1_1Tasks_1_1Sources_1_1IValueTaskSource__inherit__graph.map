@@ -1,8 +1,0 @@
-<map id="System.Threading.Tasks.Sources.IValueTaskSource&lt; out TResult &gt;" name="System.Threading.Tasks.Sources.IValueTaskSource&lt; out TResult &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="63,5,327,361"/>
-<area shape="rect" id="Node000002" href="$d2/d0a/classSystem_1_1Net_1_1Sockets_1_1Socket_1_1AwaitableSocketAsyncEventArgs.html" title=" " alt="" coords="5,829,311,1707"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,375,170,424,161,627,157,829,151,829,155,627,165,424,169,375"/>
-<area shape="rect" id="Node000003" href="$d1/dc0/interfaceSystem_1_1Threading_1_1Tasks_1_1Sources_1_1IValueTaskSource.html" title=" " alt="" coords="179,424,443,780"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,374,265,423,259,425,246,375"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="270,794,262,830,257,828,265,793"/>
-</map>

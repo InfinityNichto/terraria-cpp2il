@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security
 {
-	// Token: 0x02000201 RID: 513
 	[global::Cpp2ILInjected.Token(Token = "0x2000293")]
 	[global::System.Serializable]
 	public sealed class XmlSyntaxException : global::System.SystemException
 	{
-		// Token: 0x060014BF RID: 5311 RVA: 0x00017F4B File Offset: 0x0001614B
 		[global::Cpp2ILInjected.Token(Token = "0x60016BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AE9DA4", Offset = "0x1AE9DA4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SecurityDocument), Member = "AppendString", MemberParameters = new object[]
@@ -32,7 +30,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x060014C0 RID: 5312 RVA: 0x00017F4E File Offset: 0x0001614E
 		[global::Cpp2ILInjected.Token(Token = "0x60016BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AE9DAC", Offset = "0x1AE9DAC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -42,7 +39,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x060014C1 RID: 5313 RVA: 0x00017F51 File Offset: 0x00016151
 		[global::Cpp2ILInjected.Token(Token = "0x60016C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AE9DB4", Offset = "0x1AE9DB4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -52,7 +48,6 @@ namespace System.Security
 			throw null;
 		}
 
-		// Token: 0x060014C2 RID: 5314 RVA: 0x00017F54 File Offset: 0x00016154
 		[global::Cpp2ILInjected.Token(Token = "0x60016C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AE9DBC", Offset = "0x1AE9DBC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

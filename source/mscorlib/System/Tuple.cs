@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x020000DA RID: 218
 	[global::Cpp2ILInjected.Token(Token = "0x200010C")]
 	public static class Tuple
 	{
-		// Token: 0x06000939 RID: 2361 RVA: 0x0001600A File Offset: 0x0001420A
 		[global::Cpp2ILInjected.Token(Token = "0x60009E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A1E18", Offset = "0x15A1E18", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -29,7 +27,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600093A RID: 2362 RVA: 0x0001600D File Offset: 0x0001420D
 		[global::Cpp2ILInjected.Token(Token = "0x60009E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A2164", Offset = "0x15A2164", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -42,7 +39,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600093B RID: 2363 RVA: 0x00016010 File Offset: 0x00014210
 		[global::Cpp2ILInjected.Token(Token = "0x60009E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C4C970", Offset = "0x1C4C970", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Tuple<, >), Member = "System.Collections.IStructuralEquatable.GetHashCode", MemberParameters = new object[] { typeof(global::System.Collections.IEqualityComparer) }, ReturnType = typeof(int))]
@@ -52,7 +48,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600093C RID: 2364 RVA: 0x00016013 File Offset: 0x00014213
 		[global::Cpp2ILInjected.Token(Token = "0x60009E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C4C97C", Offset = "0x1C4C97C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Tuple<, , >), Member = "System.Collections.IStructuralEquatable.GetHashCode", MemberParameters = new object[] { typeof(global::System.Collections.IEqualityComparer) }, ReturnType = typeof(int))]
@@ -62,7 +57,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600093D RID: 2365 RVA: 0x00016016 File Offset: 0x00014216
 		[global::Cpp2ILInjected.Token(Token = "0x60009E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C4C990", Offset = "0x1C4C990", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Tuple<, , , >), Member = "System.Collections.IStructuralEquatable.GetHashCode", MemberParameters = new object[] { typeof(global::System.Collections.IEqualityComparer) }, ReturnType = typeof(int))]

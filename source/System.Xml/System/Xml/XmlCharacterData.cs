@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x02000048 RID: 72
 	[global::Cpp2ILInjected.Token(Token = "0x2000065")]
 	public abstract class XmlCharacterData : XmlLinkedNode
 	{
-		// Token: 0x06000424 RID: 1060 RVA: 0x00003B39 File Offset: 0x00001D39
 		[global::Cpp2ILInjected.Token(Token = "0x600049C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D8D1CC", Offset = "0x1D8D1CC", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlLoader), Member = "LoadAttributeValue", MemberParameters = new object[]
@@ -40,9 +38,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x170000DA RID: 218
-		// (get) Token: 0x06000425 RID: 1061 RVA: 0x00003B3C File Offset: 0x00001D3C
-		// (set) Token: 0x06000426 RID: 1062 RVA: 0x00003B3F File Offset: 0x00001D3F
 		[global::Cpp2ILInjected.Token(Token = "0x170000FB")]
 		public override string Value
 		{
@@ -64,9 +59,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x170000DB RID: 219
-		// (get) Token: 0x06000427 RID: 1063 RVA: 0x00003B42 File Offset: 0x00001D42
-		// (set) Token: 0x06000428 RID: 1064 RVA: 0x00003B45 File Offset: 0x00001D45
 		[global::Cpp2ILInjected.Token(Token = "0x170000FC")]
 		public override string InnerText
 		{
@@ -88,9 +80,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x170000DC RID: 220
-		// (get) Token: 0x06000429 RID: 1065 RVA: 0x00003B48 File Offset: 0x00001D48
-		// (set) Token: 0x0600042A RID: 1066 RVA: 0x00003B4B File Offset: 0x00001D4B
 		[global::Cpp2ILInjected.Token(Token = "0x170000FD")]
 		public virtual string Data
 		{
@@ -113,7 +102,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x0600042B RID: 1067 RVA: 0x00003B4E File Offset: 0x00001D4E
 		[global::Cpp2ILInjected.Token(Token = "0x60004A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D8D43C", Offset = "0x1D8D43C", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlSignificantWhitespace), Member = ".ctor", MemberParameters = new object[]
@@ -136,7 +124,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x04000195 RID: 405
 		[global::Cpp2ILInjected.Token(Token = "0x400028F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string data;

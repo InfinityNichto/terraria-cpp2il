@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000FB RID: 251
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000108")]
 	public class LogitechF710ModeXWindowsUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000680 RID: 1664 RVA: 0x000033AD File Offset: 0x000015AD
 		[global::Cpp2ILInjected.Token(Token = "0x600069D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A10828", Offset = "0x1A10828", Length = "0x878")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000681 RID: 1665 RVA: 0x000033B0 File Offset: 0x000015B0
 		[global::Cpp2ILInjected.Token(Token = "0x600069E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A110A0", Offset = "0x1A110A0", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

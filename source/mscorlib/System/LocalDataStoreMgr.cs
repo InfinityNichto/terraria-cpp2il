@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x0200010B RID: 267
 	[global::Cpp2ILInjected.Token(Token = "0x2000143")]
 	internal sealed class LocalDataStoreMgr
 	{
-		// Token: 0x06000BF1 RID: 3057 RVA: 0x000167A8 File Offset: 0x000149A8
 		[global::Cpp2ILInjected.Token(Token = "0x6000CBF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5CC4C", Offset = "0x1C5CC4C", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -37,7 +35,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BF2 RID: 3058 RVA: 0x000167AB File Offset: 0x000149AB
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5C498", Offset = "0x1C5C498", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -58,7 +55,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BF3 RID: 3059 RVA: 0x000167AE File Offset: 0x000149AE
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5CDE8", Offset = "0x1C5CDE8", Length = "0x230")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +81,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BF4 RID: 3060 RVA: 0x000167B1 File Offset: 0x000149B1
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5D018", Offset = "0x1C5D018", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +106,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BF5 RID: 3061 RVA: 0x000167B4 File Offset: 0x000149B4
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5D12C", Offset = "0x1C5D12C", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -132,7 +126,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BF6 RID: 3062 RVA: 0x000167B7 File Offset: 0x000149B7
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5D248", Offset = "0x1C5D248", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,7 +145,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BF7 RID: 3063 RVA: 0x000167BA File Offset: 0x000149BA
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5CAC4", Offset = "0x1C5CAC4", Length = "0x188")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -172,7 +164,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BF8 RID: 3064 RVA: 0x000167BD File Offset: 0x000149BD
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5C644", Offset = "0x1C5C644", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -191,7 +182,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BF9 RID: 3065 RVA: 0x000167C0 File Offset: 0x000149C0
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5C9B4", Offset = "0x1C5C9B4", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -200,7 +190,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BFA RID: 3066 RVA: 0x000167C3 File Offset: 0x000149C3
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5D340", Offset = "0x1C5D340", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Contexts.Context), Member = ".cctor", ReturnType = typeof(void))]
@@ -214,39 +203,31 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0400038E RID: 910
 		[global::Cpp2ILInjected.Token(Token = "0x40004EF")]
 		private const int InitialSlotTableSize = 64;
 
-		// Token: 0x0400038F RID: 911
 		[global::Cpp2ILInjected.Token(Token = "0x40004F0")]
 		private const int SlotTableDoubleThreshold = 512;
 
-		// Token: 0x04000390 RID: 912
 		[global::Cpp2ILInjected.Token(Token = "0x40004F1")]
 		private const int LargeSlotTableSizeIncrease = 128;
 
-		// Token: 0x04000391 RID: 913
 		[global::Cpp2ILInjected.Token(Token = "0x40004F2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private bool[] m_SlotInfoTable;
 
-		// Token: 0x04000392 RID: 914
 		[global::Cpp2ILInjected.Token(Token = "0x40004F3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int m_FirstAvailableSlot;
 
-		// Token: 0x04000393 RID: 915
 		[global::Cpp2ILInjected.Token(Token = "0x40004F4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private global::System.Collections.Generic.List<global::System.LocalDataStore> m_ManagedLocalDataStores;
 
-		// Token: 0x04000394 RID: 916
 		[global::Cpp2ILInjected.Token(Token = "0x40004F5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private global::System.Collections.Generic.Dictionary<string, global::System.LocalDataStoreSlot> m_KeyToSlotMap;
 
-		// Token: 0x04000395 RID: 917
 		[global::Cpp2ILInjected.Token(Token = "0x40004F6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private long m_CookieGenerator;

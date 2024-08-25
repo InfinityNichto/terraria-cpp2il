@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Text.RegularExpressions
 {
-	// Token: 0x02000069 RID: 105
 	[global::Cpp2ILInjected.Token(Token = "0x20000C1")]
 	internal sealed class RegexReplacement
 	{
-		// Token: 0x060003C6 RID: 966 RVA: 0x00003902 File Offset: 0x00001B02
 		[global::Cpp2ILInjected.Token(Token = "0x6000466")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EBD954", Offset = "0x1EBD954", Length = "0x4B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +39,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003C7 RID: 967 RVA: 0x00003905 File Offset: 0x00001B05
 		[global::Cpp2ILInjected.Token(Token = "0x6000467")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC239C", Offset = "0x1EC239C", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Regex), Member = "Replace", MemberParameters = new object[]
@@ -69,8 +66,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x170000BF RID: 191
-		// (get) Token: 0x060003C8 RID: 968 RVA: 0x00003908 File Offset: 0x00001B08
 		[global::Cpp2ILInjected.Token(Token = "0x170000C5")]
 		public string Pattern
 		{
@@ -84,7 +79,6 @@ namespace System.Text.RegularExpressions
 			}
 		}
 
-		// Token: 0x060003C9 RID: 969 RVA: 0x0000390B File Offset: 0x00001B0B
 		[global::Cpp2ILInjected.Token(Token = "0x6000469")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC24A8", Offset = "0x1EC24A8", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -109,7 +103,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003CA RID: 970 RVA: 0x0000390E File Offset: 0x00001B0E
 		[global::Cpp2ILInjected.Token(Token = "0x600046A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC2620", Offset = "0x1EC2620", Length = "0x204")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +126,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060003CB RID: 971 RVA: 0x00003911 File Offset: 0x00001B11
 		[global::Cpp2ILInjected.Token(Token = "0x600046B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC2824", Offset = "0x1EC2824", Length = "0x36C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -190,37 +182,29 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x04000222 RID: 546
 		[global::Cpp2ILInjected.Token(Token = "0x4000363")]
 		private const int Specials = 4;
 
-		// Token: 0x04000223 RID: 547
 		[global::Cpp2ILInjected.Token(Token = "0x4000364")]
 		public const int LeftPortion = -1;
 
-		// Token: 0x04000224 RID: 548
 		[global::Cpp2ILInjected.Token(Token = "0x4000365")]
 		public const int RightPortion = -2;
 
-		// Token: 0x04000225 RID: 549
 		[global::Cpp2ILInjected.Token(Token = "0x4000366")]
 		public const int LastGroup = -3;
 
-		// Token: 0x04000226 RID: 550
 		[global::Cpp2ILInjected.Token(Token = "0x4000367")]
 		public const int WholeString = -4;
 
-		// Token: 0x04000227 RID: 551
 		[global::Cpp2ILInjected.Token(Token = "0x4000368")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly List<string> _strings;
 
-		// Token: 0x04000228 RID: 552
 		[global::Cpp2ILInjected.Token(Token = "0x4000369")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly List<int> _rules;
 
-		// Token: 0x04000229 RID: 553
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400036A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]

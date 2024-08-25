@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x02000241 RID: 577
 	[global::Cpp2ILInjected.Token(Token = "0x2000332")]
 	public class ComponentCollection : ReadOnlyCollectionBase
 	{
-		// Token: 0x06001324 RID: 4900 RVA: 0x000064FD File Offset: 0x000046FD
 		[global::Cpp2ILInjected.Token(Token = "0x6001562")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3B3E8", Offset = "0x1E3B3E8", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Container), Member = "get_Components", ReturnType = typeof(ComponentCollection))]
@@ -22,7 +20,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x170004B6 RID: 1206
 		[global::Cpp2ILInjected.Token(Token = "0x170004DF")]
 		public virtual IComponent this[string name]
 		{
@@ -44,7 +41,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x170004B7 RID: 1207
 		[global::Cpp2ILInjected.Token(Token = "0x170004E0")]
 		public virtual IComponent this[int index]
 		{
@@ -60,7 +56,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x06001327 RID: 4903 RVA: 0x00006506 File Offset: 0x00004706
 		[global::Cpp2ILInjected.Token(Token = "0x6001565")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3BA0C", Offset = "0x1E3BA0C", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

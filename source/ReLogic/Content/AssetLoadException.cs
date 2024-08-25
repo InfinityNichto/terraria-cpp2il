@@ -6,12 +6,10 @@ using ReLogic.Content.Sources;
 
 namespace ReLogic.Content
 {
-	// Token: 0x0200073F RID: 1855
 	[global::Cpp2ILInjected.Token(Token = "0x2000B3F")]
 	[Serializable]
 	public class AssetLoadException : Exception
 	{
-		// Token: 0x06004723 RID: 18211 RVA: 0x0002EB65 File Offset: 0x0002CD65
 		[global::Cpp2ILInjected.Token(Token = "0x60053DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x945EB0", Offset = "0x945EB0", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AssetLoadException), Member = "FromMissingAsset", MemberParameters = new object[]
@@ -33,7 +31,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004724 RID: 18212 RVA: 0x0002EB68 File Offset: 0x0002CD68
 		[global::Cpp2ILInjected.Token(Token = "0x60053DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x945F20", Offset = "0x945F20", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AssetRepository), Member = "FindSourceForAsset", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(IContentSource))]
@@ -60,7 +57,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004725 RID: 18213 RVA: 0x0002EB6B File Offset: 0x0002CD6B
 		[global::Cpp2ILInjected.Token(Token = "0x60053DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15718A4", Offset = "0x15718A4", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -84,7 +80,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004726 RID: 18214 RVA: 0x0002EB6E File Offset: 0x0002CD6E
 		[global::Cpp2ILInjected.Token(Token = "0x60053DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x945FB4", Offset = "0x945FB4", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AssetReaderCollection), Member = "Read", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[]

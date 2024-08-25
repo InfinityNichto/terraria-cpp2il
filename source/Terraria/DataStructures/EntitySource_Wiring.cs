@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000459 RID: 1113
 	[global::Cpp2ILInjected.Token(Token = "0x2000655")]
 	public class EntitySource_Wiring : AEntitySource_Tile
 	{
-		// Token: 0x060031D6 RID: 12758 RVA: 0x0002AEB4 File Offset: 0x000290B4
 		[global::Cpp2ILInjected.Token(Token = "0x60036F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D564", Offset = "0x141D564", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "GetProjectileSource", MemberParameters = new object[]

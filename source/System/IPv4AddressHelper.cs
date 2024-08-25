@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000030 RID: 48
 	[global::Cpp2ILInjected.Token(Token = "0x200007A")]
 	internal static class IPv4AddressHelper
 	{
-		// Token: 0x06000149 RID: 329 RVA: 0x000031A6 File Offset: 0x000013A6
 		[global::Cpp2ILInjected.Token(Token = "0x60001CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F6B0", Offset = "0x1E9F6B0", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600014A RID: 330 RVA: 0x000031A9 File Offset: 0x000013A9
 		[global::Cpp2ILInjected.Token(Token = "0x60001D0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F750", Offset = "0x1E9F750", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +59,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600014B RID: 331 RVA: 0x000031AC File Offset: 0x000013AC
 		[global::Cpp2ILInjected.Token(Token = "0x60001D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F6E0", Offset = "0x1E9F6E0", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -78,7 +74,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600014C RID: 332 RVA: 0x000031AF File Offset: 0x000013AF
 		[global::Cpp2ILInjected.Token(Token = "0x60001D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F780", Offset = "0x1E9F780", Length = "0x140")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -101,7 +96,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600014D RID: 333 RVA: 0x000031B2 File Offset: 0x000013B2
 		[global::Cpp2ILInjected.Token(Token = "0x60001D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F8C0", Offset = "0x1E9F8C0", Length = "0x2F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +127,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600014E RID: 334 RVA: 0x000031B5 File Offset: 0x000013B5
 		[global::Cpp2ILInjected.Token(Token = "0x60001D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9FBB4", Offset = "0x1E9FBB4", Length = "0x22C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -169,7 +162,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600014F RID: 335 RVA: 0x000031B8 File Offset: 0x000013B8
 		[global::Cpp2ILInjected.Token(Token = "0x60001D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9FDE0", Offset = "0x1E9FDE0", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

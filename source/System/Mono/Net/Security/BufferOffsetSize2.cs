@@ -7,11 +7,9 @@ using Mono.Security.Interface;
 
 namespace Mono.Net.Security
 {
-	// Token: 0x02000012 RID: 18
 	[global::Cpp2ILInjected.Token(Token = "0x200004A")]
 	internal class BufferOffsetSize2 : BufferOffsetSize
 	{
-		// Token: 0x06000060 RID: 96 RVA: 0x00002F4E File Offset: 0x0000114E
 		[global::Cpp2ILInjected.Token(Token = "0x60000BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D479B8", Offset = "0x1D479B8", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MobileAuthenticatedStream), Member = ".ctor", MemberParameters = new object[]
@@ -35,7 +33,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000061 RID: 97 RVA: 0x00002F51 File Offset: 0x00001151
 		[global::Cpp2ILInjected.Token(Token = "0x60000C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D47A28", Offset = "0x1D47A28", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream.<ProcessAuthentication>d__48", Member = "MoveNext", ReturnType = typeof(void))]
@@ -55,7 +52,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000062 RID: 98 RVA: 0x00002F54 File Offset: 0x00001154
 		[global::Cpp2ILInjected.Token(Token = "0x60000C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D47A84", Offset = "0x1D47A84", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +73,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000063 RID: 99 RVA: 0x00002F57 File Offset: 0x00001157
 		[global::Cpp2ILInjected.Token(Token = "0x60000C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D47B2C", Offset = "0x1D47B2C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MobileAuthenticatedStream), Member = "InternalWrite", MemberParameters = new object[]
@@ -103,7 +98,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x04000024 RID: 36
 		[global::Cpp2ILInjected.Token(Token = "0x40000A0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public readonly int InitialSize;

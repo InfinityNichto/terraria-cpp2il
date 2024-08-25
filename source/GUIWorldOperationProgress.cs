@@ -7,11 +7,9 @@ using Terraria;
 using Terraria.Graphics;
 using UnityEngine;
 
-// Token: 0x02000108 RID: 264
 [global::Cpp2ILInjected.Token(Token = "0x2000179")]
 public class GUIWorldOperationProgress
 {
-	// Token: 0x060009BA RID: 2490 RVA: 0x00023873 File Offset: 0x00021A73
 	[global::Cpp2ILInjected.Token(Token = "0x6000ABA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99F3E0", Offset = "0x99F3E0", Length = "0x7EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +79,6 @@ public class GUIWorldOperationProgress
 		throw null;
 	}
 
-	// Token: 0x060009BB RID: 2491 RVA: 0x00023876 File Offset: 0x00021A76
 	[global::Cpp2ILInjected.Token(Token = "0x6000ABB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99FBCC", Offset = "0x99FBCC", Length = "0x15C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +97,6 @@ public class GUIWorldOperationProgress
 		throw null;
 	}
 
-	// Token: 0x060009BC RID: 2492 RVA: 0x00023879 File Offset: 0x00021A79
 	[global::Cpp2ILInjected.Token(Token = "0x6000ABC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99FD28", Offset = "0x99FD28", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -111,17 +107,14 @@ public class GUIWorldOperationProgress
 		throw null;
 	}
 
-	// Token: 0x0400083B RID: 2107
 	[global::Cpp2ILInjected.Token(Token = "0x4000B12")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float scaleAnimationTime;
 
-	// Token: 0x0400083C RID: 2108
 	[global::Cpp2ILInjected.Token(Token = "0x4000B13")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float alphaAnimationTime;
 
-	// Token: 0x0400083D RID: 2109
 	[global::Cpp2ILInjected.Token(Token = "0x4000B14")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float HMConversionIconScale;

@@ -5,12 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x0200011B RID: 283
 	[global::Cpp2ILInjected.Token(Token = "0x200014D")]
 	public abstract class XmlSchemaParticle : XmlSchemaAnnotated
 	{
-		// Token: 0x17000302 RID: 770
-		// (set) Token: 0x06000A63 RID: 2659 RVA: 0x00004D45 File Offset: 0x00002F45
 		[XmlIgnore]
 		[global::Cpp2ILInjected.Token(Token = "0x17000328")]
 		public decimal MinOccurs
@@ -42,8 +39,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x17000303 RID: 771
-		// (set) Token: 0x06000A64 RID: 2660 RVA: 0x00004D48 File Offset: 0x00002F48
 		[XmlIgnore]
 		[global::Cpp2ILInjected.Token(Token = "0x17000329")]
 		public decimal MaxOccurs
@@ -80,7 +75,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x06000A65 RID: 2661 RVA: 0x00004D4B File Offset: 0x00002F4B
 		[global::Cpp2ILInjected.Token(Token = "0x6000AFF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCD244", Offset = "0x1DCD244", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlSchemaGroupBase), Member = ".ctor", ReturnType = typeof(void))]
@@ -93,7 +87,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000A66 RID: 2662 RVA: 0x00004D4E File Offset: 0x00002F4E
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000B00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCECB0", Offset = "0x1DCECB0", Length = "0x6C")]
@@ -105,46 +98,36 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x04000412 RID: 1042
 		[global::Cpp2ILInjected.Token(Token = "0x40005A1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private decimal minOccurs;
 
-		// Token: 0x04000413 RID: 1043
 		[global::Cpp2ILInjected.Token(Token = "0x40005A2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private decimal maxOccurs;
 
-		// Token: 0x04000414 RID: 1044
 		[global::Cpp2ILInjected.Token(Token = "0x40005A3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private XmlSchemaParticle.Occurs flags;
 
-		// Token: 0x04000415 RID: 1045
 		[global::Cpp2ILInjected.Token(Token = "0x40005A4")]
 		internal static readonly XmlSchemaParticle Empty;
 
-		// Token: 0x02000178 RID: 376
 		[Flags]
 		[global::Cpp2ILInjected.Token(Token = "0x200014E")]
 		private enum Occurs
 		{
-			// Token: 0x0400067E RID: 1662
 			[global::Cpp2ILInjected.Token(Token = "0x40005A6")]
 			None = 0,
-			// Token: 0x0400067F RID: 1663
 			[global::Cpp2ILInjected.Token(Token = "0x40005A7")]
 			Min = 1,
-			// Token: 0x04000680 RID: 1664
 			[global::Cpp2ILInjected.Token(Token = "0x40005A8")]
 			Max = 2
 		}
 
-		// Token: 0x02000179 RID: 377
 		[global::Cpp2ILInjected.Token(Token = "0x200014F")]
 		private class EmptyParticle : XmlSchemaParticle
 		{
-			// Token: 0x06000CCD RID: 3277 RVA: 0x000053C3 File Offset: 0x000035C3
 			[global::Cpp2ILInjected.Token(Token = "0x6000B01")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1DCED1C", Offset = "0x1DCED1C", Length = "0x54")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlSchemaParticle), Member = ".cctor", ReturnType = typeof(void))]

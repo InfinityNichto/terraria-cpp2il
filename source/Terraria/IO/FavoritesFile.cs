@@ -8,11 +8,9 @@ using Terraria.Utilities;
 
 namespace Terraria.IO
 {
-	// Token: 0x020003B9 RID: 953
 	[global::Cpp2ILInjected.Token(Token = "0x200055D")]
 	public class FavoritesFile
 	{
-		// Token: 0x06002EFB RID: 12027 RVA: 0x0002A644 File Offset: 0x00028844
 		[global::Cpp2ILInjected.Token(Token = "0x6003360")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133B130", Offset = "0x133B130", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalUserGameState), Member = "get_LocalFavoriteData", ReturnType = typeof(FavoritesFile))]
@@ -26,7 +24,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002EFC RID: 12028 RVA: 0x0002A647 File Offset: 0x00028847
 		[global::Cpp2ILInjected.Token(Token = "0x6003361")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133B1C8", Offset = "0x133B1C8", Length = "0x13C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileData), Member = "SetFavorite", MemberParameters = new object[]
@@ -60,7 +57,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002EFD RID: 12029 RVA: 0x0002A64A File Offset: 0x0002884A
 		[global::Cpp2ILInjected.Token(Token = "0x6003362")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133B4C4", Offset = "0x133B4C4", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerFileData), Member = "CreateAndSave", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(PlayerFileData))]
@@ -80,7 +76,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002EFE RID: 12030 RVA: 0x0002A64D File Offset: 0x0002884D
 		[global::Cpp2ILInjected.Token(Token = "0x6003363")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133B590", Offset = "0x133B590", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -105,7 +100,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002EFF RID: 12031 RVA: 0x0002A650 File Offset: 0x00028850
 		[global::Cpp2ILInjected.Token(Token = "0x6003364")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133B370", Offset = "0x133B370", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -130,7 +124,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F00 RID: 12032 RVA: 0x0002A653 File Offset: 0x00028853
 		[global::Cpp2ILInjected.Token(Token = "0x6003365")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133B670", Offset = "0x133B670", Length = "0x284")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -162,17 +155,14 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x0400327D RID: 12925
 		[global::Cpp2ILInjected.Token(Token = "0x4003C32")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public readonly string Path;
 
-		// Token: 0x0400327E RID: 12926
 		[global::Cpp2ILInjected.Token(Token = "0x4003C33")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public readonly bool IsCloudSave;
 
-		// Token: 0x0400327F RID: 12927
 		[global::Cpp2ILInjected.Token(Token = "0x4003C34")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Dictionary<string, Dictionary<string, bool>> _data;

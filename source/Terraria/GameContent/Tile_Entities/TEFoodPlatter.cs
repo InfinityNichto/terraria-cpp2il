@@ -12,11 +12,9 @@ using Terraria.Localization;
 
 namespace Terraria.GameContent.Tile_Entities
 {
-	// Token: 0x02000579 RID: 1401
 	[global::Cpp2ILInjected.Token(Token = "0x2000811")]
 	public class TEFoodPlatter : TileEntity, IFixLoadedData
 	{
-		// Token: 0x06003AF3 RID: 15091 RVA: 0x0002C870 File Offset: 0x0002AA70
 		[global::Cpp2ILInjected.Token(Token = "0x600420A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x789DB4", Offset = "0x789DB4", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -26,7 +24,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AF4 RID: 15092 RVA: 0x0002C873 File Offset: 0x0002AA73
 		[global::Cpp2ILInjected.Token(Token = "0x600420B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x789E00", Offset = "0x789E00", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +32,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AF5 RID: 15093 RVA: 0x0002C876 File Offset: 0x0002AA76
 		[global::Cpp2ILInjected.Token(Token = "0x600420C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x789E0C", Offset = "0x789E0C", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +61,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AF6 RID: 15094 RVA: 0x0002C879 File Offset: 0x0002AA79
 		[global::Cpp2ILInjected.Token(Token = "0x600420D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A098", Offset = "0x78A098", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -76,7 +71,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AF7 RID: 15095 RVA: 0x0002C87C File Offset: 0x0002AA7C
 		[global::Cpp2ILInjected.Token(Token = "0x600420E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A0E8", Offset = "0x78A0E8", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileEntitiesManager), Member = "RegisterAll", ReturnType = typeof(void))]
@@ -95,7 +89,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AF8 RID: 15096 RVA: 0x0002C87F File Offset: 0x0002AA7F
 		[global::Cpp2ILInjected.Token(Token = "0x600420F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x789EB8", Offset = "0x789EB8", Length = "0x1E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +132,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AF9 RID: 15097 RVA: 0x0002C882 File Offset: 0x0002AA82
 		[global::Cpp2ILInjected.Token(Token = "0x6004210")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A170", Offset = "0x78A170", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -148,7 +140,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AFA RID: 15098 RVA: 0x0002C885 File Offset: 0x0002AA85
 		[global::Cpp2ILInjected.Token(Token = "0x6004211")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A2A0", Offset = "0x78A2A0", Length = "0x1A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -188,7 +179,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AFB RID: 15099 RVA: 0x0002C888 File Offset: 0x0002AA88
 		[global::Cpp2ILInjected.Token(Token = "0x6004212")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A448", Offset = "0x78A448", Length = "0x208")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -230,7 +220,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AFC RID: 15100 RVA: 0x0002C88B File Offset: 0x0002AA8B
 		[global::Cpp2ILInjected.Token(Token = "0x6004213")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A650", Offset = "0x78A650", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -319,7 +308,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AFD RID: 15101 RVA: 0x0002C88E File Offset: 0x0002AA8E
 		[global::Cpp2ILInjected.Token(Token = "0x6004214")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A17C", Offset = "0x78A17C", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -338,7 +326,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AFE RID: 15102 RVA: 0x0002C891 File Offset: 0x0002AA91
 		[global::Cpp2ILInjected.Token(Token = "0x6004215")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A734", Offset = "0x78A734", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -349,7 +336,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003AFF RID: 15103 RVA: 0x0002C894 File Offset: 0x0002AA94
 		[global::Cpp2ILInjected.Token(Token = "0x6004216")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A79C", Offset = "0x78A79C", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -363,7 +349,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003B00 RID: 15104 RVA: 0x0002C897 File Offset: 0x0002AA97
 		[global::Cpp2ILInjected.Token(Token = "0x6004217")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A868", Offset = "0x78A868", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -376,7 +361,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003B01 RID: 15105 RVA: 0x0002C89A File Offset: 0x0002AA9A
 		[global::Cpp2ILInjected.Token(Token = "0x6004218")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78A9E0", Offset = "0x78A9E0", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -430,7 +414,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003B02 RID: 15106 RVA: 0x0002C89D File Offset: 0x0002AA9D
 		[global::Cpp2ILInjected.Token(Token = "0x6004219")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78AB10", Offset = "0x78AB10", Length = "0x350")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -503,7 +486,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003B03 RID: 15107 RVA: 0x0002C8A0 File Offset: 0x0002AAA0
 		[global::Cpp2ILInjected.Token(Token = "0x600421A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78AE60", Offset = "0x78AE60", Length = "0x270")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -557,7 +539,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003B04 RID: 15108 RVA: 0x0002C8A3 File Offset: 0x0002AAA3
 		[global::Cpp2ILInjected.Token(Token = "0x600421B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78B0D0", Offset = "0x78B0D0", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -574,7 +555,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003B05 RID: 15109 RVA: 0x0002C8A6 File Offset: 0x0002AAA6
 		[global::Cpp2ILInjected.Token(Token = "0x600421C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78B154", Offset = "0x78B154", Length = "0x398")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -642,7 +622,6 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x06003B06 RID: 15110 RVA: 0x0002C8A9 File Offset: 0x0002AAA9
 		[global::Cpp2ILInjected.Token(Token = "0x600421D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x78B4EC", Offset = "0x78B4EC", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -652,11 +631,9 @@ namespace Terraria.GameContent.Tile_Entities
 			throw null;
 		}
 
-		// Token: 0x04006AE5 RID: 27365
 		[global::Cpp2ILInjected.Token(Token = "0x40080C3")]
 		private static byte _myEntityID;
 
-		// Token: 0x04006AE6 RID: 27366
 		[global::Cpp2ILInjected.Token(Token = "0x40080C4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public Item item;

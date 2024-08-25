@@ -6,11 +6,9 @@ using Internal.Cryptography.Pal;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000B9 RID: 185
 	[global::Cpp2ILInjected.Token(Token = "0x2000117")]
 	public class X509Extension : AsnEncodedData
 	{
-		// Token: 0x060005E8 RID: 1512 RVA: 0x00003F0B File Offset: 0x0000210B
 		[global::Cpp2ILInjected.Token(Token = "0x6000693")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDBE74", Offset = "0x1EDBE74", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509BasicConstraintsExtension), Member = ".ctor", ReturnType = typeof(void))]
@@ -33,7 +31,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060005E9 RID: 1513 RVA: 0x00003F0E File Offset: 0x0000210E
 		[global::Cpp2ILInjected.Token(Token = "0x6000694")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDC930", Offset = "0x1EDC930", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CertificateData), Member = ".ctor", MemberParameters = new object[] { typeof(byte[]) }, ReturnType = typeof(void))]
@@ -48,9 +45,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x17000164 RID: 356
-		// (get) Token: 0x060005EA RID: 1514 RVA: 0x00003F11 File Offset: 0x00002111
-		// (set) Token: 0x060005EB RID: 1515 RVA: 0x00003F14 File Offset: 0x00002114
 		[global::Cpp2ILInjected.Token(Token = "0x1700016C")]
 		public bool Critical
 		{
@@ -70,7 +64,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x060005EC RID: 1516 RVA: 0x00003F17 File Offset: 0x00002117
 		[global::Cpp2ILInjected.Token(Token = "0x6000697")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDC96C", Offset = "0x1EDC96C", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +78,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060005ED RID: 1517 RVA: 0x00003F1A File Offset: 0x0000211A
 		[global::Cpp2ILInjected.Token(Token = "0x6000698")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDC834", Offset = "0x1EDC834", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -102,7 +94,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x040003C1 RID: 961
 		[global::Cpp2ILInjected.Token(Token = "0x400052B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private bool _critical;

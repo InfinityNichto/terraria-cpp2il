@@ -3,11 +3,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using UnityEngine;
 
-// Token: 0x02000245 RID: 581
 [global::Cpp2ILInjected.Token(Token = "0x20002FE")]
 public static class MaterialExtensions
 {
-	// Token: 0x06001074 RID: 4212 RVA: 0x00024C3E File Offset: 0x00022E3E
 	[global::Cpp2ILInjected.Token(Token = "0x60011C3")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6EB50", Offset = "0xA6EB50", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

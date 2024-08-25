@@ -8,11 +8,9 @@ using Terraria;
 using Terraria.Localization;
 using Terraria.UI;
 
-// Token: 0x020000DD RID: 221
 [global::Cpp2ILInjected.Token(Token = "0x2000140")]
 public class GUIEquipmentLoadout
 {
-	// Token: 0x060007A7 RID: 1959 RVA: 0x0002323A File Offset: 0x0002143A
 	[global::Cpp2ILInjected.Token(Token = "0x60008A1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FB740", Offset = "0x7FB740", Length = "0x94")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentLoadout), Member = "DrawToggles", ReturnType = typeof(void))]
@@ -26,7 +24,6 @@ public class GUIEquipmentLoadout
 		throw null;
 	}
 
-	// Token: 0x060007A8 RID: 1960 RVA: 0x0002323D File Offset: 0x0002143D
 	[global::Cpp2ILInjected.Token(Token = "0x60008A2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FB7D4", Offset = "0x7FB7D4", Length = "0x17C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -54,7 +51,6 @@ public class GUIEquipmentLoadout
 		throw null;
 	}
 
-	// Token: 0x060007A9 RID: 1961 RVA: 0x00023240 File Offset: 0x00021440
 	[global::Cpp2ILInjected.Token(Token = "0x60008A3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FB950", Offset = "0x7FB950", Length = "0xFB0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -183,7 +179,6 @@ public class GUIEquipmentLoadout
 		throw null;
 	}
 
-	// Token: 0x060007AA RID: 1962 RVA: 0x00023243 File Offset: 0x00021443
 	[global::Cpp2ILInjected.Token(Token = "0x60008A4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FCAA8", Offset = "0x7FCAA8", Length = "0x12C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -201,7 +196,6 @@ public class GUIEquipmentLoadout
 		throw null;
 	}
 
-	// Token: 0x060007AB RID: 1963 RVA: 0x00023246 File Offset: 0x00021446
 	[global::Cpp2ILInjected.Token(Token = "0x60008A5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FC900", Offset = "0x7FC900", Length = "0x1A8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentLoadout), Member = "DrawToggles", ReturnType = typeof(void))]
@@ -239,7 +233,6 @@ public class GUIEquipmentLoadout
 		throw null;
 	}
 
-	// Token: 0x060007AC RID: 1964 RVA: 0x00023249 File Offset: 0x00021449
 	[global::Cpp2ILInjected.Token(Token = "0x60008A6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FCBD4", Offset = "0x7FCBD4", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -250,7 +243,6 @@ public class GUIEquipmentLoadout
 		throw null;
 	}
 
-	// Token: 0x060007AD RID: 1965 RVA: 0x0002324C File Offset: 0x0002144C
 	[global::Cpp2ILInjected.Token(Token = "0x60008A7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FCC1C", Offset = "0x7FCC1C", Length = "0x108")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -270,7 +262,6 @@ public class GUIEquipmentLoadout
 		throw null;
 	}
 
-	// Token: 0x060007AE RID: 1966 RVA: 0x0002324F File Offset: 0x0002144F
 	[global::Cpp2ILInjected.Token(Token = "0x60008A8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FCD24", Offset = "0x7FCD24", Length = "0x5BC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -353,7 +344,6 @@ public class GUIEquipmentLoadout
 		throw null;
 	}
 
-	// Token: 0x060007AF RID: 1967 RVA: 0x00023252 File Offset: 0x00021452
 	[global::Cpp2ILInjected.Token(Token = "0x60008A9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FD2E0", Offset = "0x7FD2E0", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -364,27 +354,22 @@ public class GUIEquipmentLoadout
 		throw null;
 	}
 
-	// Token: 0x04000521 RID: 1313
 	[global::Cpp2ILInjected.Token(Token = "0x4000775")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool Expanded;
 
-	// Token: 0x04000522 RID: 1314
 	[global::Cpp2ILInjected.Token(Token = "0x4000776")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private GUIInputRegionExclusive pickingInterceptor;
 
-	// Token: 0x04000523 RID: 1315
 	[global::Cpp2ILInjected.Token(Token = "0x4000777")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float buttonScale;
 
-	// Token: 0x04000524 RID: 1316
 	[global::Cpp2ILInjected.Token(Token = "0x4000778")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private int loadoutOver;
 
-	// Token: 0x04000525 RID: 1317
 	[global::Cpp2ILInjected.Token(Token = "0x4000779")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private float HideShowButtonScale;

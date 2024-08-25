@@ -7,13 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace ReLogic.Content.Sources
 {
-	// Token: 0x0200074E RID: 1870
 	[global::Cpp2ILInjected.Token(Token = "0x2000B50")]
 	public class XnaDirectContentSource : IContentSource
 	{
-		// Token: 0x17000824 RID: 2084
-		// (get) Token: 0x0600477F RID: 18303 RVA: 0x0002EC19 File Offset: 0x0002CE19
-		// (set) Token: 0x06004780 RID: 18304 RVA: 0x0002EC1C File Offset: 0x0002CE1C
 		[global::Cpp2ILInjected.Token(Token = "0x17000929")]
 		public IContentValidator ContentValidator
 		{
@@ -35,7 +31,6 @@ namespace ReLogic.Content.Sources
 			}
 		}
 
-		// Token: 0x06004781 RID: 18305 RVA: 0x0002EC1F File Offset: 0x0002CE1F
 		[global::Cpp2ILInjected.Token(Token = "0x600543F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x948288", Offset = "0x948288", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +48,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004782 RID: 18306 RVA: 0x0002EC22 File Offset: 0x0002CE22
 		[global::Cpp2ILInjected.Token(Token = "0x6005440")]
 		[global::Cpp2ILInjected.Address(RVA = "0x948358", Offset = "0x948358", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +67,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004783 RID: 18307 RVA: 0x0002EC25 File Offset: 0x0002CE25
 		[global::Cpp2ILInjected.Token(Token = "0x6005441")]
 		[global::Cpp2ILInjected.Address(RVA = "0x948438", Offset = "0x948438", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -96,7 +89,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004784 RID: 18308 RVA: 0x0002EC28 File Offset: 0x0002CE28
 		[global::Cpp2ILInjected.Token(Token = "0x6005442")]
 		[global::Cpp2ILInjected.Address(RVA = "0x948524", Offset = "0x948524", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -106,7 +98,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004785 RID: 18309 RVA: 0x0002EC2B File Offset: 0x0002CE2B
 		[global::Cpp2ILInjected.Token(Token = "0x6005443")]
 		[global::Cpp2ILInjected.Address(RVA = "0x948564", Offset = "0x948564", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +124,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004786 RID: 18310 RVA: 0x0002EC2E File Offset: 0x0002CE2E
 		[global::Cpp2ILInjected.Token(Token = "0x6005444")]
 		[global::Cpp2ILInjected.Address(RVA = "0x948694", Offset = "0x948694", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -147,7 +137,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004787 RID: 18311 RVA: 0x0002EC31 File Offset: 0x0002CE31
 		[global::Cpp2ILInjected.Token(Token = "0x6005445")]
 		[global::Cpp2ILInjected.Address(RVA = "0x94869C", Offset = "0x94869C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -157,7 +146,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004788 RID: 18312 RVA: 0x0002EC34 File Offset: 0x0002CE34
 		[global::Cpp2ILInjected.Token(Token = "0x6005446")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9486A4", Offset = "0x9486A4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -167,23 +155,19 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x0400737A RID: 29562
 		[global::Cpp2ILInjected.Token(Token = "0x4008D1C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly string _rootDirectory;
 
-		// Token: 0x0400737B RID: 29563
 		[global::Cpp2ILInjected.Token(Token = "0x4008D1D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly HashSet<string> _files;
 
-		// Token: 0x0400737C RID: 29564
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008D1E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private IContentValidator <ContentValidator>k__BackingField;
 
-		// Token: 0x0400737D RID: 29565
 		[global::Cpp2ILInjected.Token(Token = "0x4008D1F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private readonly RejectedAssetCollection _rejections;

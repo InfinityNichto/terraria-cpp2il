@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAD5}</ProjectGuid>
+    <ProjectGuid>{2AA0DBF3-B16B-40FC-9062-FF973C3070B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>UnityEngine.SpriteShapeModule</RootNamespace>
@@ -54,15 +54,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\mscorlib\mscorlib.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC0}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A0}</Project>
       <Name>mscorlib</Name>
     </ProjectReference>
     <ProjectReference Include="..\UnityEngine.CoreModule\UnityEngine.CoreModule.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DACD}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070AD}</Project>
       <Name>UnityEngine.CoreModule</Name>
     </ProjectReference>
     <ProjectReference Include="..\UnityEngine.SharedInternalsModule\UnityEngine.SharedInternalsModule.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAD4}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070B4}</Project>
       <Name>UnityEngine.SharedInternalsModule</Name>
     </ProjectReference>
   </ItemGroup>

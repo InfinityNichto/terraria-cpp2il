@@ -1,16 +1,14 @@
 ﻿using System;
 using System.IO;
+using System.Net.Sockets;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x0200011D RID: 285
 	[global::Cpp2ILInjected.Token(Token = "0x20001A4")]
 	internal static class ExceptionHelper
 	{
-		// Token: 0x17000215 RID: 533
-		// (get) Token: 0x06000986 RID: 2438 RVA: 0x00004931 File Offset: 0x00002B31
 		[global::Cpp2ILInjected.Token(Token = "0x17000220")]
 		internal static NotImplementedException MethodNotImplementedException
 		{
@@ -44,13 +42,39 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000216 RID: 534
-		// (get) Token: 0x06000987 RID: 2439 RVA: 0x00004934 File Offset: 0x00002B34
 		[global::Cpp2ILInjected.Token(Token = "0x17000221")]
 		internal static NotImplementedException PropertyNotImplementedException
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x6000A96")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F0C1E8", Offset = "0x1F0C1E8", Length = "0x80")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EndPoint), Member = "get_AddressFamily", ReturnType = typeof(AddressFamily))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_Method", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_Method", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_RequestUri", ReturnType = typeof(Uri))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_ConnectionGroupName", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_ConnectionGroupName", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_Headers", ReturnType = typeof(WebHeaderCollection))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_Headers", MemberParameters = new object[] { typeof(WebHeaderCollection) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_ContentLength", ReturnType = typeof(long))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_ContentLength", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_ContentType", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_ContentType", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_Credentials", ReturnType = typeof(ICredentials))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_Credentials", MemberParameters = new object[] { typeof(ICredentials) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_UseDefaultCredentials", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_UseDefaultCredentials", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_Proxy", ReturnType = typeof(IWebProxy))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_Proxy", MemberParameters = new object[] { typeof(IWebProxy) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_PreAuthenticate", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_PreAuthenticate", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "get_Timeout", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_Timeout", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebResponse), Member = "get_ContentLength", ReturnType = typeof(long))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebResponse), Member = "set_ContentLength", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebResponse), Member = "get_ContentType", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebResponse), Member = "set_ContentType", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebResponse), Member = "get_ResponseUri", ReturnType = typeof(Uri))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebResponse), Member = "get_Headers", ReturnType = typeof(WebHeaderCollection))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 28)]
 			[global::Cpp2ILInjected.CallAnalysis.Calls(Type = "SR", Member = "GetString", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(string))]
 			[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(NotImplementedException), Member = ".ctor", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -61,8 +85,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000217 RID: 535
-		// (get) Token: 0x06000988 RID: 2440 RVA: 0x00004937 File Offset: 0x00002B37
 		[global::Cpp2ILInjected.Token(Token = "0x17000222")]
 		internal static WebException TimeoutException
 		{
@@ -85,8 +107,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000218 RID: 536
-		// (get) Token: 0x06000989 RID: 2441 RVA: 0x0000493A File Offset: 0x00002B3A
 		[global::Cpp2ILInjected.Token(Token = "0x17000223")]
 		internal static NotSupportedException MethodNotSupportedException
 		{
@@ -102,8 +122,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000219 RID: 537
-		// (get) Token: 0x0600098A RID: 2442 RVA: 0x0000493D File Offset: 0x00002B3D
 		[global::Cpp2ILInjected.Token(Token = "0x17000224")]
 		internal static NotSupportedException PropertyNotSupportedException
 		{
@@ -127,8 +145,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x1700021A RID: 538
-		// (get) Token: 0x0600098B RID: 2443 RVA: 0x00004940 File Offset: 0x00002B40
 		[global::Cpp2ILInjected.Token(Token = "0x17000225")]
 		internal static WebException IsolatedException
 		{
@@ -156,8 +172,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x1700021B RID: 539
-		// (get) Token: 0x0600098C RID: 2444 RVA: 0x00004943 File Offset: 0x00002B43
 		[global::Cpp2ILInjected.Token(Token = "0x17000226")]
 		internal static WebException RequestAbortedException
 		{
@@ -206,8 +220,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x1700021C RID: 540
-		// (get) Token: 0x0600098D RID: 2445 RVA: 0x00004946 File Offset: 0x00002B46
 		[global::Cpp2ILInjected.Token(Token = "0x17000227")]
 		internal static WebException CacheEntryNotFoundException
 		{
@@ -234,8 +246,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x1700021D RID: 541
-		// (get) Token: 0x0600098E RID: 2446 RVA: 0x00004949 File Offset: 0x00002B49
 		[global::Cpp2ILInjected.Token(Token = "0x17000228")]
 		internal static WebException RequestProhibitedByCachePolicyException
 		{

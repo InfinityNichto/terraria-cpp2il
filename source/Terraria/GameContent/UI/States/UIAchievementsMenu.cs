@@ -15,11 +15,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.States
 {
-	// Token: 0x020006A3 RID: 1699
 	[global::Cpp2ILInjected.Token(Token = "0x2000A6D")]
 	public class UIAchievementsMenu : UIState
 	{
-		// Token: 0x06004298 RID: 17048 RVA: 0x0002DE7B File Offset: 0x0002C07B
 		[global::Cpp2ILInjected.Token(Token = "0x6004EAE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8EA914", Offset = "0x8EA914", Length = "0x9F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,7 +101,6 @@ namespace Terraria.GameContent.UI.States
 			throw null;
 		}
 
-		// Token: 0x06004299 RID: 17049 RVA: 0x0002DE7E File Offset: 0x0002C07E
 		[global::Cpp2ILInjected.Token(Token = "0x6004EAF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8EB308", Offset = "0x8EB308", Length = "0x3EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,7 +149,6 @@ namespace Terraria.GameContent.UI.States
 			throw null;
 		}
 
-		// Token: 0x0600429A RID: 17050 RVA: 0x0002DE81 File Offset: 0x0002C081
 		[global::Cpp2ILInjected.Token(Token = "0x6004EB0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8EB6F4", Offset = "0x8EB6F4", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -169,7 +165,6 @@ namespace Terraria.GameContent.UI.States
 			throw null;
 		}
 
-		// Token: 0x0600429B RID: 17051 RVA: 0x0002DE84 File Offset: 0x0002C084
 		[global::Cpp2ILInjected.Token(Token = "0x6004EB1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8EB7BC", Offset = "0x8EB7BC", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -181,7 +176,6 @@ namespace Terraria.GameContent.UI.States
 			throw null;
 		}
 
-		// Token: 0x0600429C RID: 17052 RVA: 0x0002DE87 File Offset: 0x0002C087
 		[global::Cpp2ILInjected.Token(Token = "0x6004EB2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8EB818", Offset = "0x8EB818", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -207,7 +201,6 @@ namespace Terraria.GameContent.UI.States
 			throw null;
 		}
 
-		// Token: 0x0600429D RID: 17053 RVA: 0x0002DE8A File Offset: 0x0002C08A
 		[global::Cpp2ILInjected.Token(Token = "0x6004EB3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8EB950", Offset = "0x8EB950", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -229,7 +222,6 @@ namespace Terraria.GameContent.UI.States
 			throw null;
 		}
 
-		// Token: 0x0600429E RID: 17054 RVA: 0x0002DE8D File Offset: 0x0002C08D
 		[global::Cpp2ILInjected.Token(Token = "0x6004EB4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8EBA6C", Offset = "0x8EBA6C", Length = "0x1BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -253,7 +245,6 @@ namespace Terraria.GameContent.UI.States
 			throw null;
 		}
 
-		// Token: 0x0600429F RID: 17055 RVA: 0x0002DE90 File Offset: 0x0002C090
 		[global::Cpp2ILInjected.Token(Token = "0x6004EB5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8EBC28", Offset = "0x8EBC28", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -272,7 +263,6 @@ namespace Terraria.GameContent.UI.States
 			throw null;
 		}
 
-		// Token: 0x060042A0 RID: 17056 RVA: 0x0002DE93 File Offset: 0x0002C093
 		[global::Cpp2ILInjected.Token(Token = "0x6004EB6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8EBCF0", Offset = "0x8EBCF0", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -284,37 +274,30 @@ namespace Terraria.GameContent.UI.States
 			throw null;
 		}
 
-		// Token: 0x04006ED1 RID: 28369
 		[global::Cpp2ILInjected.Token(Token = "0x40087C9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private UIList _achievementsList;
 
-		// Token: 0x04006ED2 RID: 28370
 		[global::Cpp2ILInjected.Token(Token = "0x40087CA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private List<UIAchievementListItem> _achievementElements;
 
-		// Token: 0x04006ED3 RID: 28371
 		[global::Cpp2ILInjected.Token(Token = "0x40087CB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x158")]
 		private List<UIToggleImage> _categoryButtons;
 
-		// Token: 0x04006ED4 RID: 28372
 		[global::Cpp2ILInjected.Token(Token = "0x40087CC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x160")]
 		private UIElement _backpanel;
 
-		// Token: 0x04006ED5 RID: 28373
 		[global::Cpp2ILInjected.Token(Token = "0x40087CD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x168")]
 		private UIElement _outerContainer;
 
-		// Token: 0x02000AA6 RID: 2726
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000A6E")]
 		private sealed class <>c__DisplayClass7_0
 		{
-			// Token: 0x06005242 RID: 21058 RVA: 0x00030830 File Offset: 0x0002EA30
 			[global::Cpp2ILInjected.Token(Token = "0x6004EB7")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8EB7B4", Offset = "0x8EB7B4", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -324,7 +307,6 @@ namespace Terraria.GameContent.UI.States
 				throw null;
 			}
 
-			// Token: 0x06005243 RID: 21059 RVA: 0x00030833 File Offset: 0x0002EA33
 			[global::Cpp2ILInjected.Token(Token = "0x6004EB8")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8EBDB4", Offset = "0x8EBDB4", Length = "0x8C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -335,7 +317,6 @@ namespace Terraria.GameContent.UI.States
 				throw null;
 			}
 
-			// Token: 0x04008F04 RID: 36612
 			[global::Cpp2ILInjected.Token(Token = "0x40087CE")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public Achievement achievement;

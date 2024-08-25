@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000170 RID: 368
 	[global::Cpp2ILInjected.Token(Token = "0x2000210")]
 	internal class CookieParser
 	{
-		// Token: 0x06000BB6 RID: 2998 RVA: 0x00004F82 File Offset: 0x00003182
 		[global::Cpp2ILInjected.Token(Token = "0x6000D0D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2ED7C", Offset = "0x1F2ED7C", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CookieContainer), Member = "CookieCutter", MemberParameters = new object[]
@@ -28,7 +26,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BB7 RID: 2999 RVA: 0x00004F85 File Offset: 0x00003185
 		[global::Cpp2ILInjected.Token(Token = "0x6000D0E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2EDF8", Offset = "0x1F2EDF8", Length = "0x568")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -78,7 +75,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BB8 RID: 3000 RVA: 0x00004F88 File Offset: 0x00003188
 		[global::Cpp2ILInjected.Token(Token = "0x6000D0F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2F360", Offset = "0x1F2F360", Length = "0x398")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -105,7 +101,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BB9 RID: 3001 RVA: 0x00004F8B File Offset: 0x0000318B
 		[global::Cpp2ILInjected.Token(Token = "0x6000D10")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2D668", Offset = "0x1F2D668", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -147,12 +142,10 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040008CF RID: 2255
 		[global::Cpp2ILInjected.Token(Token = "0x4000B32")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private CookieTokenizer m_tokenizer;
 
-		// Token: 0x040008D0 RID: 2256
 		[global::Cpp2ILInjected.Token(Token = "0x4000B33")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Cookie m_savedCookie;

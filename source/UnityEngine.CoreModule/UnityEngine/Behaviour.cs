@@ -7,15 +7,11 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000089 RID: 137
 	[NativeHeader("Runtime/Mono/MonoBehaviour.h")]
 	[UsedByNativeCode]
 	[global::Cpp2ILInjected.Token(Token = "0x2000097")]
 	public class Behaviour : Component
 	{
-		// Token: 0x170000A0 RID: 160
-		// (get) Token: 0x0600029A RID: 666
-		// (set) Token: 0x0600029B RID: 667
 		[RequiredByNativeCode]
 		[NativeProperty]
 		[global::Cpp2ILInjected.Token(Token = "0x170000A2")]
@@ -81,8 +77,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x170000A1 RID: 161
-		// (get) Token: 0x0600029C RID: 668
 		[NativeProperty]
 		[global::Cpp2ILInjected.Token(Token = "0x170000A3")]
 		public extern bool isActiveAndEnabled
@@ -140,7 +134,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x0600029D RID: 669 RVA: 0x00002572 File Offset: 0x00000772
 		[global::Cpp2ILInjected.Token(Token = "0x60002AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F760A4", Offset = "0x1F760A4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Canvas", Member = ".ctor", ReturnType = typeof(void))]

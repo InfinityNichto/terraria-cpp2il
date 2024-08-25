@@ -3,11 +3,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using UnityEngine;
 
-// Token: 0x0200001A RID: 26
 [global::Cpp2ILInjected.Token(Token = "0x200001F")]
 public class DrKeyboard_Switch : DrKeyboard_Touch
 {
-	// Token: 0x0600008C RID: 140 RVA: 0x00021D1C File Offset: 0x0001FF1C
 	[global::Cpp2ILInjected.Token(Token = "0x6000098")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FE4FC", Offset = "0x6FE4FC", Length = "0x90")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -27,7 +25,6 @@ public class DrKeyboard_Switch : DrKeyboard_Touch
 		throw null;
 	}
 
-	// Token: 0x04000060 RID: 96
 	[global::Cpp2ILInjected.Token(Token = "0x4000067")]
 	public static DrKeyboard_Switch LastKeyboard;
 }

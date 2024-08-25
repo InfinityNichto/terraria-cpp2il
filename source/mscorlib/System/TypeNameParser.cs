@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000125 RID: 293
 	[global::Cpp2ILInjected.Token(Token = "0x2000168")]
 	internal sealed class TypeNameParser
 	{
-		// Token: 0x06000DB2 RID: 3506 RVA: 0x00016C1C File Offset: 0x00014E1C
 		[global::Cpp2ILInjected.Token(Token = "0x6000E90")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C79CEC", Offset = "0x1C79CEC", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Type), Member = "GetType", MemberParameters = new object[]

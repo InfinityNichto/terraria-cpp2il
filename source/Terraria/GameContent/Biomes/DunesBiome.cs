@@ -11,12 +11,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005F4 RID: 1524
 	[global::Cpp2ILInjected.Token(Token = "0x20008EA")]
 	public class DunesBiome : MicroBiome
 	{
-		// Token: 0x17000742 RID: 1858
-		// (get) Token: 0x06003D7F RID: 15743 RVA: 0x0002CFB1 File Offset: 0x0002B1B1
 		[global::Cpp2ILInjected.Token(Token = "0x170007EB")]
 		public int MaximumWidth
 		{
@@ -30,7 +27,6 @@ namespace Terraria.GameContent.Biomes
 			}
 		}
 
-		// Token: 0x06003D80 RID: 15744 RVA: 0x0002CFB4 File Offset: 0x0002B1B4
 		[global::Cpp2ILInjected.Token(Token = "0x60045F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C6D7C", Offset = "0x7C6D7C", Length = "0x18C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +59,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D81 RID: 15745 RVA: 0x0002CFB7 File Offset: 0x0002B1B7
 		[global::Cpp2ILInjected.Token(Token = "0x60045FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C701C", Offset = "0x7C701C", Length = "0x26C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +94,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D82 RID: 15746 RVA: 0x0002CFBA File Offset: 0x0002B1BA
 		[global::Cpp2ILInjected.Token(Token = "0x60045FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C7288", Offset = "0x7C7288", Length = "0x218")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -134,7 +128,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D83 RID: 15747 RVA: 0x0002CFBD File Offset: 0x0002B1BD
 		[global::Cpp2ILInjected.Token(Token = "0x60045FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C74A0", Offset = "0x7C74A0", Length = "0x4D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -188,7 +181,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D84 RID: 15748 RVA: 0x0002CFC0 File Offset: 0x0002B1C0
 		[global::Cpp2ILInjected.Token(Token = "0x60045FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C7974", Offset = "0x7C7974", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -199,25 +191,19 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x04006BF7 RID: 27639
 		[JsonProperty("SingleDunesWidth")]
 		[global::Cpp2ILInjected.Token(Token = "0x4008250")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private WorldGenRange _singleDunesWidth;
 
-		// Token: 0x04006BF8 RID: 27640
 		[JsonProperty("HeightScale")]
 		[global::Cpp2ILInjected.Token(Token = "0x4008251")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private double _heightScale;
 
-		// Token: 0x02000A00 RID: 2560
 		[global::Cpp2ILInjected.Token(Token = "0x20008EB")]
 		private class DunesDescription
 		{
-			// Token: 0x170008C8 RID: 2248
-			// (get) Token: 0x06004F4B RID: 20299 RVA: 0x00030011 File Offset: 0x0002E211
-			// (set) Token: 0x06004F4C RID: 20300 RVA: 0x00030014 File Offset: 0x0002E214
 			[global::Cpp2ILInjected.Token(Token = "0x170007EC")]
 			public bool IsValid
 			{
@@ -239,9 +225,6 @@ namespace Terraria.GameContent.Biomes
 				}
 			}
 
-			// Token: 0x170008C9 RID: 2249
-			// (get) Token: 0x06004F4D RID: 20301 RVA: 0x00030017 File Offset: 0x0002E217
-			// (set) Token: 0x06004F4E RID: 20302 RVA: 0x0003001A File Offset: 0x0002E21A
 			[global::Cpp2ILInjected.Token(Token = "0x170007ED")]
 			public SurfaceMap Surface
 			{
@@ -263,9 +246,6 @@ namespace Terraria.GameContent.Biomes
 				}
 			}
 
-			// Token: 0x170008CA RID: 2250
-			// (get) Token: 0x06004F4F RID: 20303 RVA: 0x0003001D File Offset: 0x0002E21D
-			// (set) Token: 0x06004F50 RID: 20304 RVA: 0x00030020 File Offset: 0x0002E220
 			[global::Cpp2ILInjected.Token(Token = "0x170007EE")]
 			public Rectangle Area
 			{
@@ -287,9 +267,6 @@ namespace Terraria.GameContent.Biomes
 				}
 			}
 
-			// Token: 0x170008CB RID: 2251
-			// (get) Token: 0x06004F51 RID: 20305 RVA: 0x00030023 File Offset: 0x0002E223
-			// (set) Token: 0x06004F52 RID: 20306 RVA: 0x00030026 File Offset: 0x0002E226
 			[global::Cpp2ILInjected.Token(Token = "0x170007EF")]
 			public DunesBiome.WindDirection WindDirection
 			{
@@ -311,7 +288,6 @@ namespace Terraria.GameContent.Biomes
 				}
 			}
 
-			// Token: 0x06004F53 RID: 20307 RVA: 0x00030029 File Offset: 0x0002E229
 			[global::Cpp2ILInjected.Token(Token = "0x6004606")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7C7A28", Offset = "0x7C7A28", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -321,7 +297,6 @@ namespace Terraria.GameContent.Biomes
 				throw null;
 			}
 
-			// Token: 0x06004F54 RID: 20308 RVA: 0x0003002C File Offset: 0x0002E22C
 			[global::Cpp2ILInjected.Token(Token = "0x6004607")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7C6F08", Offset = "0x7C6F08", Length = "0x114")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -352,39 +327,32 @@ namespace Terraria.GameContent.Biomes
 				throw null;
 			}
 
-			// Token: 0x04008D0C RID: 36108
 			[CompilerGenerated]
 			[global::Cpp2ILInjected.Token(Token = "0x4008252")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private bool <IsValid>k__BackingField;
 
-			// Token: 0x04008D0D RID: 36109
 			[CompilerGenerated]
 			[global::Cpp2ILInjected.Token(Token = "0x4008253")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private SurfaceMap <Surface>k__BackingField;
 
-			// Token: 0x04008D0E RID: 36110
 			[CompilerGenerated]
 			[global::Cpp2ILInjected.Token(Token = "0x4008254")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private Rectangle <Area>k__BackingField;
 
-			// Token: 0x04008D0F RID: 36111
 			[CompilerGenerated]
 			[global::Cpp2ILInjected.Token(Token = "0x4008255")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 			private DunesBiome.WindDirection <WindDirection>k__BackingField;
 		}
 
-		// Token: 0x02000A01 RID: 2561
 		[global::Cpp2ILInjected.Token(Token = "0x20008EC")]
 		private enum WindDirection
 		{
-			// Token: 0x04008D11 RID: 36113
 			[global::Cpp2ILInjected.Token(Token = "0x4008257")]
 			Left,
-			// Token: 0x04008D12 RID: 36114
 			[global::Cpp2ILInjected.Token(Token = "0x4008258")]
 			Right
 		}

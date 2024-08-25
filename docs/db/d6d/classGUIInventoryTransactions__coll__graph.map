@@ -1,7 +1,0 @@
-<map id="GUIInventoryTransactions" name="GUIInventoryTransactions">
-<area shape="rect" id="Node000001" title=" " alt="" coords="7,163,212,348"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="25,71,25,104,31,138,34,147,29,149,25,139,19,104,20,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="172,5,215,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,72,167,140,163,149,158,147,161,138,183,70"/>
-</map>

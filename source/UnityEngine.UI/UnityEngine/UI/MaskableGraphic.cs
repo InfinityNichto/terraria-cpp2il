@@ -7,13 +7,9 @@ using UnityEngine.Rendering;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x0200002A RID: 42
 	[global::Cpp2ILInjected.Token(Token = "0x2000054")]
 	public abstract class MaskableGraphic : Graphic, IClippable, IMaskable, IMaterialModifier
 	{
-		// Token: 0x170000C7 RID: 199
-		// (get) Token: 0x060002E3 RID: 739 RVA: 0x000028A5 File Offset: 0x00000AA5
-		// (set) Token: 0x060002E4 RID: 740 RVA: 0x000028A8 File Offset: 0x00000AA8
 		[global::Cpp2ILInjected.Token(Token = "0x170000D8")]
 		public MaskableGraphic.CullStateChangedEvent onCullStateChanged
 		{
@@ -33,9 +29,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000C8 RID: 200
-		// (get) Token: 0x060002E5 RID: 741 RVA: 0x000028AB File Offset: 0x00000AAB
-		// (set) Token: 0x060002E6 RID: 742 RVA: 0x000028AE File Offset: 0x00000AAE
 		[global::Cpp2ILInjected.Token(Token = "0x170000D9")]
 		public bool maskable
 		{
@@ -57,9 +50,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000C9 RID: 201
-		// (get) Token: 0x060002E7 RID: 743 RVA: 0x000028B1 File Offset: 0x00000AB1
-		// (set) Token: 0x060002E8 RID: 744 RVA: 0x000028B4 File Offset: 0x00000AB4
 		[global::Cpp2ILInjected.Token(Token = "0x170000DA")]
 		public bool isMaskingGraphic
 		{
@@ -80,7 +70,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x060002E9 RID: 745 RVA: 0x000028B7 File Offset: 0x00000AB7
 		[global::Cpp2ILInjected.Token(Token = "0x6000342")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCE824", Offset = "0x1FCE824", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -109,7 +98,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002EA RID: 746 RVA: 0x000028BA File Offset: 0x00000ABA
 		[global::Cpp2ILInjected.Token(Token = "0x6000343")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCE924", Offset = "0x1FCE924", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -125,7 +113,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002EB RID: 747 RVA: 0x000028BD File Offset: 0x00000ABD
 		[global::Cpp2ILInjected.Token(Token = "0x6000344")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCEAF4", Offset = "0x1FCEAF4", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MaskableGraphic), Member = "Cull", MemberParameters = new object[]
@@ -150,7 +137,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002EC RID: 748 RVA: 0x000028C0 File Offset: 0x00000AC0
 		[global::Cpp2ILInjected.Token(Token = "0x6000345")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCEBCC", Offset = "0x1FCEBCC", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -162,7 +148,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002ED RID: 749 RVA: 0x000028C3 File Offset: 0x00000AC3
 		[global::Cpp2ILInjected.Token(Token = "0x6000346")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCEC30", Offset = "0x1FCEC30", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -173,7 +158,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002EE RID: 750 RVA: 0x000028C6 File Offset: 0x00000AC6
 		[global::Cpp2ILInjected.Token(Token = "0x6000347")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCEC60", Offset = "0x1FCEC60", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -188,7 +172,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002EF RID: 751 RVA: 0x000028C9 File Offset: 0x00000AC9
 		[global::Cpp2ILInjected.Token(Token = "0x6000348")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCEDF4", Offset = "0x1FCEDF4", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -205,7 +188,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002F0 RID: 752 RVA: 0x000028CC File Offset: 0x00000ACC
 		[global::Cpp2ILInjected.Token(Token = "0x6000349")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCEEA0", Offset = "0x1FCEEA0", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -218,7 +200,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002F1 RID: 753 RVA: 0x000028CF File Offset: 0x00000ACF
 		[EditorBrowsable(EditorBrowsableState.Never)]
 		[Obsolete("Not used anymore.", true)]
 		[global::Cpp2ILInjected.Token(Token = "0x600034A")]
@@ -229,7 +210,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002F2 RID: 754 RVA: 0x000028D2 File Offset: 0x00000AD2
 		[global::Cpp2ILInjected.Token(Token = "0x600034B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCEEF4", Offset = "0x1FCEEF4", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Image), Member = "OnCanvasHierarchyChanged", ReturnType = typeof(void))]
@@ -243,8 +223,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x170000CA RID: 202
-		// (get) Token: 0x060002F3 RID: 755 RVA: 0x000028D5 File Offset: 0x00000AD5
 		[global::Cpp2ILInjected.Token(Token = "0x170000DB")]
 		private Rect rootCanvasRect
 		{
@@ -277,7 +255,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x060002F4 RID: 756 RVA: 0x000028D8 File Offset: 0x00000AD8
 		[global::Cpp2ILInjected.Token(Token = "0x600034D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCECB0", Offset = "0x1FCECB0", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -302,7 +279,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002F5 RID: 757 RVA: 0x000028DB File Offset: 0x00000ADB
 		[global::Cpp2ILInjected.Token(Token = "0x600034E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCF33C", Offset = "0x1FCF33C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -312,7 +288,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002F6 RID: 758 RVA: 0x000028DE File Offset: 0x00000ADE
 		[global::Cpp2ILInjected.Token(Token = "0x600034F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCF340", Offset = "0x1FCF340", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -323,7 +298,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002F7 RID: 759 RVA: 0x000028E1 File Offset: 0x00000AE1
 		[global::Cpp2ILInjected.Token(Token = "0x6000350")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCF3BC", Offset = "0x1FCF3BC", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Image), Member = ".ctor", ReturnType = typeof(void))]
@@ -338,7 +312,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002F8 RID: 760 RVA: 0x000028E4 File Offset: 0x00000AE4
 		[global::Cpp2ILInjected.Token(Token = "0x6000351")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCF4C0", Offset = "0x1FCF4C0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -348,36 +321,30 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x040000FC RID: 252
 		[global::Cpp2ILInjected.Token(Token = "0x4000197")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x99")]
 		[NonSerialized]
 		protected bool m_ShouldRecalculateStencil;
 
-		// Token: 0x040000FD RID: 253
 		[global::Cpp2ILInjected.Token(Token = "0x4000198")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 		[NonSerialized]
 		protected Material m_MaskMaterial;
 
-		// Token: 0x040000FE RID: 254
 		[global::Cpp2ILInjected.Token(Token = "0x4000199")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 		[NonSerialized]
 		private RectMask2D m_ParentMask;
 
-		// Token: 0x040000FF RID: 255
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400019A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 		private bool m_Maskable;
 
-		// Token: 0x04000100 RID: 256
 		[global::Cpp2ILInjected.Token(Token = "0x400019B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB1")]
 		private bool m_IsMaskingGraphic;
 
-		// Token: 0x04000101 RID: 257
 		[Obsolete("Not used anymore.", true)]
 		[EditorBrowsable(EditorBrowsableState.Never)]
 		[global::Cpp2ILInjected.Token(Token = "0x400019C")]
@@ -385,13 +352,11 @@ namespace UnityEngine.UI
 		[NonSerialized]
 		protected bool m_IncludeForMasking;
 
-		// Token: 0x04000102 RID: 258
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400019D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 		private MaskableGraphic.CullStateChangedEvent m_OnCullStateChanged;
 
-		// Token: 0x04000103 RID: 259
 		[EditorBrowsable(EditorBrowsableState.Never)]
 		[Obsolete("Not used anymore", true)]
 		[global::Cpp2ILInjected.Token(Token = "0x400019E")]
@@ -399,23 +364,19 @@ namespace UnityEngine.UI
 		[NonSerialized]
 		protected bool m_ShouldRecalculate;
 
-		// Token: 0x04000104 RID: 260
 		[global::Cpp2ILInjected.Token(Token = "0x400019F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC4")]
 		[NonSerialized]
 		protected int m_StencilValue;
 
-		// Token: 0x04000105 RID: 261
 		[global::Cpp2ILInjected.Token(Token = "0x40001A0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC8")]
 		private readonly Vector3[] m_Corners;
 
-		// Token: 0x020000A9 RID: 169
 		[global::Cpp2ILInjected.Token(Token = "0x2000055")]
 		[Serializable]
 		public class CullStateChangedEvent : UnityEvent<bool>
 		{
-			// Token: 0x060006BD RID: 1725 RVA: 0x000033C7 File Offset: 0x000015C7
 			[global::Cpp2ILInjected.Token(Token = "0x6000352")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FCF478", Offset = "0x1FCF478", Length = "0x48")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MaskableGraphic), Member = ".ctor", ReturnType = typeof(void))]

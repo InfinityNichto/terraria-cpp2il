@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono
 {
-	// Token: 0x0200001A RID: 26
 	[global::Cpp2ILInjected.Token(Token = "0x2000027")]
 	internal struct SafeGPtrArrayHandle : global::System.IDisposable
 	{
-		// Token: 0x0600003C RID: 60 RVA: 0x00014681 File Offset: 0x00012881
 		[global::Cpp2ILInjected.Token(Token = "0x6000062")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAB70C", Offset = "0x1AAB70C", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.RuntimeType), Member = "GetMethodsByName", MemberParameters = new object[]
@@ -58,7 +56,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x0600003D RID: 61 RVA: 0x00014684 File Offset: 0x00012884
 		[global::Cpp2ILInjected.Token(Token = "0x6000063")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAB72C", Offset = "0x1AAB72C", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.RuntimeType), Member = "GetMethodsByName", MemberParameters = new object[]
@@ -107,8 +104,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x1700000B RID: 11
-		// (get) Token: 0x0600003E RID: 62 RVA: 0x00014687 File Offset: 0x00012887
 		[global::Cpp2ILInjected.Token(Token = "0x1700000D")]
 		internal int Length
 		{
@@ -160,7 +155,6 @@ namespace Mono
 			}
 		}
 
-		// Token: 0x1700000C RID: 12
 		[global::Cpp2ILInjected.Token(Token = "0x1700000E")]
 		internal global::System.IntPtr this[int i]
 		{
@@ -213,7 +207,6 @@ namespace Mono
 			}
 		}
 
-		// Token: 0x0400002A RID: 42
 		[global::Cpp2ILInjected.Token(Token = "0x40000BA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private RuntimeGPtrArrayHandle handle;

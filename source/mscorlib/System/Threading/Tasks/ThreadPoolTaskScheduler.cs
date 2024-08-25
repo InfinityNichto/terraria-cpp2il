@@ -7,11 +7,9 @@ using Internal.Threading.Tasks.Tracing;
 
 namespace System.Threading.Tasks
 {
-	// Token: 0x020001CE RID: 462
 	[global::Cpp2ILInjected.Token(Token = "0x2000251")]
 	internal sealed class ThreadPoolTaskScheduler : TaskScheduler
 	{
-		// Token: 0x06001298 RID: 4760 RVA: 0x0001793F File Offset: 0x00015B3F
 		[global::Cpp2ILInjected.Token(Token = "0x600144E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAEE10", Offset = "0x1CAEE10", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TaskScheduler), Member = ".cctor", ReturnType = typeof(void))]
@@ -23,7 +21,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x06001299 RID: 4761 RVA: 0x00017942 File Offset: 0x00015B42
 		[global::Cpp2ILInjected.Token(Token = "0x600144F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAEE68", Offset = "0x1CAEE68", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -57,7 +54,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600129A RID: 4762 RVA: 0x00017945 File Offset: 0x00015B45
 		[global::Cpp2ILInjected.Token(Token = "0x6001450")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAF01C", Offset = "0x1CAF01C", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +66,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600129B RID: 4763 RVA: 0x00017948 File Offset: 0x00015B48
 		[global::Cpp2ILInjected.Token(Token = "0x6001451")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAF0F4", Offset = "0x1CAF0F4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -80,7 +75,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600129C RID: 4764 RVA: 0x0001794B File Offset: 0x00015B4B
 		[global::Cpp2ILInjected.Token(Token = "0x6001452")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAF0FC", Offset = "0x1CAF0FC", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -91,8 +85,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x170001BA RID: 442
-		// (get) Token: 0x0600129D RID: 4765 RVA: 0x0001794E File Offset: 0x00015B4E
 		[global::Cpp2ILInjected.Token(Token = "0x170001FD")]
 		internal override bool RequiresAtomicStartTransition
 		{
@@ -105,7 +97,6 @@ namespace System.Threading.Tasks
 			}
 		}
 
-		// Token: 0x0600129E RID: 4766 RVA: 0x00017951 File Offset: 0x00015B51
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001454")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAF114", Offset = "0x1CAF114", Length = "0xC4")]
@@ -121,17 +112,14 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0400085A RID: 2138
 		[global::Cpp2ILInjected.Token(Token = "0x4000AC5")]
 		private static readonly ParameterizedThreadStart s_longRunningThreadWork;
 
-		// Token: 0x020005CE RID: 1486
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000252")]
 		[global::System.Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x0600408D RID: 16525 RVA: 0x0001FC58 File Offset: 0x0001DE58
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6001455")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CAF1D8", Offset = "0x1CAF1D8", Length = "0x5C")]
@@ -143,7 +131,6 @@ namespace System.Threading.Tasks
 				throw null;
 			}
 
-			// Token: 0x0600408E RID: 16526 RVA: 0x0001FC5B File Offset: 0x0001DE5B
 			[global::Cpp2ILInjected.Token(Token = "0x6001456")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CAF234", Offset = "0x1CAF234", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -153,7 +140,6 @@ namespace System.Threading.Tasks
 				throw null;
 			}
 
-			// Token: 0x0600408F RID: 16527 RVA: 0x0001FC5E File Offset: 0x0001DE5E
 			[global::Cpp2ILInjected.Token(Token = "0x6001457")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CAF23C", Offset = "0x1CAF23C", Length = "0x80")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -165,7 +151,6 @@ namespace System.Threading.Tasks
 				throw null;
 			}
 
-			// Token: 0x040018F3 RID: 6387
 			[global::Cpp2ILInjected.Token(Token = "0x4000AC6")]
 			public static readonly ThreadPoolTaskScheduler.<>c <>9;
 		}

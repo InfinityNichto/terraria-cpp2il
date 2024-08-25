@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000A9 RID: 169
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000B6")]
 	public class XboxOneBluetoothAndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060005D8 RID: 1496 RVA: 0x000031B5 File Offset: 0x000013B5
 		[global::Cpp2ILInjected.Token(Token = "0x60005F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19DF2B0", Offset = "0x19DF2B0", Length = "0x8C4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005D9 RID: 1497 RVA: 0x000031B8 File Offset: 0x000013B8
 		[global::Cpp2ILInjected.Token(Token = "0x60005F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19DFB74", Offset = "0x19DFB74", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

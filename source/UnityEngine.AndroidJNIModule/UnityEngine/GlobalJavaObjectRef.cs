@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine
 {
-	// Token: 0x02000005 RID: 5
 	[global::Cpp2ILInjected.Token(Token = "0x2000005")]
 	internal class GlobalJavaObjectRef
 	{
-		// Token: 0x06000066 RID: 102 RVA: 0x00002179 File Offset: 0x00000379
 		[global::Cpp2ILInjected.Token(Token = "0x6000066")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F5D468", Offset = "0x1F5D468", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +34,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000067 RID: 103 RVA: 0x0000217C File Offset: 0x0000037C
 		[global::Cpp2ILInjected.Token(Token = "0x6000067")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F5D558", Offset = "0x1F5D558", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +46,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000068 RID: 104 RVA: 0x0000217F File Offset: 0x0000037F
 		[global::Cpp2ILInjected.Token(Token = "0x6000068")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F5D668", Offset = "0x1F5D668", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidJavaObject), Member = "_Call", MemberTypeParameters = new object[] { "ReturnType" }, MemberParameters = new object[]
@@ -80,7 +76,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000069 RID: 105 RVA: 0x00002182 File Offset: 0x00000382
 		[global::Cpp2ILInjected.Token(Token = "0x6000069")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F5D5EC", Offset = "0x1F5D5EC", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GlobalJavaObjectRef), Member = "Finalize", ReturnType = typeof(void))]
@@ -98,12 +93,10 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x04000002 RID: 2
 		[global::Cpp2ILInjected.Token(Token = "0x4000002")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private bool m_disposed;
 
-		// Token: 0x04000003 RID: 3
 		[global::Cpp2ILInjected.Token(Token = "0x4000003")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		protected IntPtr m_jobject;

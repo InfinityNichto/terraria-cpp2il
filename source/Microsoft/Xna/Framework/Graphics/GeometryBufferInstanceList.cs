@@ -7,11 +7,9 @@ using UnityEngine.Rendering;
 
 namespace Microsoft.Xna.Framework.Graphics
 {
-	// Token: 0x020002AB RID: 683
 	[global::Cpp2ILInjected.Token(Token = "0x2000373")]
 	public class GeometryBufferInstanceList
 	{
-		// Token: 0x0600159B RID: 5531 RVA: 0x00025B59 File Offset: 0x00023D59
 		[global::Cpp2ILInjected.Token(Token = "0x6001704")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAAED74", Offset = "0xAAED74", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GeometryBufferInstance.PlayerBatchBuffers), Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -24,7 +22,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600159C RID: 5532 RVA: 0x00025B5C File Offset: 0x00023D5C
 		[global::Cpp2ILInjected.Token(Token = "0x6001705")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAAD210", Offset = "0xAAD210", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +48,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600159D RID: 5533 RVA: 0x00025B5F File Offset: 0x00023D5F
 		[global::Cpp2ILInjected.Token(Token = "0x6001706")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAAD614", Offset = "0xAAD614", Length = "0x3A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -126,7 +122,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600159E RID: 5534 RVA: 0x00025B62 File Offset: 0x00023D62
 		[global::Cpp2ILInjected.Token(Token = "0x6001707")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAADB8C", Offset = "0xAADB8C", Length = "0x324")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -185,7 +180,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600159F RID: 5535 RVA: 0x00025B65 File Offset: 0x00023D65
 		[global::Cpp2ILInjected.Token(Token = "0x6001708")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAAEE28", Offset = "0xAAEE28", Length = "0x210")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GeometryBufferInstanceList), Member = "GetBatchInstance", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(GeometryBufferInstance))]
@@ -228,7 +222,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060015A0 RID: 5536 RVA: 0x00025B68 File Offset: 0x00023D68
 		[global::Cpp2ILInjected.Token(Token = "0x6001709")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAACFF0", Offset = "0xAACFF0", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GeometryBufferInstance), Member = "EndBuffer", ReturnType = typeof(void))]
@@ -246,7 +239,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060015A1 RID: 5537 RVA: 0x00025B6B File Offset: 0x00023D6B
 		[global::Cpp2ILInjected.Token(Token = "0x600170A")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAACF58", Offset = "0xAACF58", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -262,7 +254,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060015A2 RID: 5538 RVA: 0x00025B6E File Offset: 0x00023D6E
 		[global::Cpp2ILInjected.Token(Token = "0x600170B")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAABD20", Offset = "0xAABD20", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -283,7 +274,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060015A3 RID: 5539 RVA: 0x00025B71 File Offset: 0x00023D71
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600170C")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAAF038", Offset = "0xAAF038", Length = "0x120")]
@@ -301,59 +291,47 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x04001F64 RID: 8036
 		[global::Cpp2ILInjected.Token(Token = "0x400259D")]
 		private static GameObject _root;
 
-		// Token: 0x04001F65 RID: 8037
 		[global::Cpp2ILInjected.Token(Token = "0x400259E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly string _rootName;
 
-		// Token: 0x04001F66 RID: 8038
 		[global::Cpp2ILInjected.Token(Token = "0x400259F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private GameObject _parent;
 
-		// Token: 0x04001F67 RID: 8039
 		[global::Cpp2ILInjected.Token(Token = "0x40025A0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Transform _parentTransform;
 
-		// Token: 0x04001F68 RID: 8040
 		[global::Cpp2ILInjected.Token(Token = "0x40025A1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private List<GeometryBufferInstance> _freeInstances;
 
-		// Token: 0x04001F69 RID: 8041
 		[global::Cpp2ILInjected.Token(Token = "0x40025A2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private List<GeometryBufferInstance> _usedInstances;
 
-		// Token: 0x04001F6A RID: 8042
 		[global::Cpp2ILInjected.Token(Token = "0x40025A3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private int _resetOffset;
 
-		// Token: 0x04001F6B RID: 8043
 		[global::Cpp2ILInjected.Token(Token = "0x40025A4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		private int _vertexCount;
 
-		// Token: 0x04001F6C RID: 8044
 		[global::Cpp2ILInjected.Token(Token = "0x40025A5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private int _forcedLayer;
 
-		// Token: 0x04001F6D RID: 8045
 		[global::Cpp2ILInjected.Token(Token = "0x40025A6")]
 		public static VertexAttributeDescriptor[] vertexDescription;
 
-		// Token: 0x04001F6E RID: 8046
 		[global::Cpp2ILInjected.Token(Token = "0x40025A7")]
 		private static SubMeshDescriptor[] subMeshes;
 
-		// Token: 0x04001F6F RID: 8047
 		[global::Cpp2ILInjected.Token(Token = "0x40025A8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		private bool _finalPending;

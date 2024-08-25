@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using Terraria.UI.Chat;
 
-// Token: 0x020000B3 RID: 179
 [global::Cpp2ILInjected.Token(Token = "0x20000FE")]
 public class ControlsTouchAxisHandler : ITagHandler
 {
-	// Token: 0x060005C3 RID: 1475 RVA: 0x00022C8E File Offset: 0x00020E8E
 	[global::Cpp2ILInjected.Token(Token = "0x6000694")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1AF80", Offset = "0xD1AF80", Length = "0x374")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +61,6 @@ public class ControlsTouchAxisHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005C4 RID: 1476 RVA: 0x00022C91 File Offset: 0x00020E91
 	[global::Cpp2ILInjected.Token(Token = "0x6000695")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1B2F4", Offset = "0xD1B2F4", Length = "0x514")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -221,7 +218,6 @@ public class ControlsTouchAxisHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005C5 RID: 1477 RVA: 0x00022C94 File Offset: 0x00020E94
 	[global::Cpp2ILInjected.Token(Token = "0x6000696")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1C130", Offset = "0xD1C130", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -230,7 +226,6 @@ public class ControlsTouchAxisHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005C6 RID: 1478 RVA: 0x00022C97 File Offset: 0x00020E97
 	[global::Cpp2ILInjected.Token(Token = "0x6000697")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1C138", Offset = "0xD1C138", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

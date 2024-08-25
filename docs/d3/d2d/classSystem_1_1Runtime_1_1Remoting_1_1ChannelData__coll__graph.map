@@ -1,7 +1,0 @@
-<map id="System.Runtime.Remoting.ChannelData" name="System.Runtime.Remoting.ChannelData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="33,177,249,376"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,71,26,111,35,153,39,162,34,164,29,154,21,111,23,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="210,5,297,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,71,242,112,226,154,222,164,217,161,222,152,236,110,246,70"/>
-</map>

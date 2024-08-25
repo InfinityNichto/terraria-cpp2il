@@ -1,9 +1,0 @@
-<map id="System.Threading.LockHolder" name="System.Threading.LockHolder">
-<area shape="rect" id="Node000001" title=" " alt="" coords="15,301,225,401"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,153,192,219"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,232,116,300,111,301,102,232"/>
-<area shape="rect" id="Node000003" href="$db/dc4/classSystem_1_1Threading_1_1Lock.html" title=" " alt="" coords="217,133,383,239"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,241,188,292,184,288,241,237"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="273,5,327,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="303,71,303,117,297,117,297,71"/>
-</map>

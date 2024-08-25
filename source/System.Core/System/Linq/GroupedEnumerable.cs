@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Linq
 {
-	// Token: 0x0200000F RID: 15
 	[global::Cpp2ILInjected.Token(Token = "0x2000025")]
 	internal class GroupedEnumerable<TSource, TKey, TElement> : IEnumerable<IGrouping<TKey, TElement>>, IEnumerable
 	{
-		// Token: 0x0600007A RID: 122 RVA: 0x0000442D File Offset: 0x0000262D
 		[global::Cpp2ILInjected.Token(Token = "0x6000113")]
 		[global::Cpp2ILInjected.Address(RVA = "0x16B0390", Offset = "0x16B0390", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -23,7 +21,6 @@ namespace System.Linq
 			throw null;
 		}
 
-		// Token: 0x0600007B RID: 123 RVA: 0x00004430 File Offset: 0x00002630
 		[global::Cpp2ILInjected.Token(Token = "0x6000114")]
 		[global::Cpp2ILInjected.Address(RVA = "0x16B0424", Offset = "0x16B0424", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -35,7 +32,6 @@ namespace System.Linq
 			throw null;
 		}
 
-		// Token: 0x0600007C RID: 124 RVA: 0x00004433 File Offset: 0x00002633
 		[global::Cpp2ILInjected.Token(Token = "0x6000115")]
 		[global::Cpp2ILInjected.Address(RVA = "0x16B0464", Offset = "0x16B0464", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -46,22 +42,18 @@ namespace System.Linq
 			throw null;
 		}
 
-		// Token: 0x0400001A RID: 26
 		[global::Cpp2ILInjected.Token(Token = "0x400008E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private IEnumerable<TSource> source;
 
-		// Token: 0x0400001B RID: 27
 		[global::Cpp2ILInjected.Token(Token = "0x400008F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private Func<TSource, TKey> keySelector;
 
-		// Token: 0x0400001C RID: 28
 		[global::Cpp2ILInjected.Token(Token = "0x4000090")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private Func<TSource, TElement> elementSelector;
 
-		// Token: 0x0400001D RID: 29
 		[global::Cpp2ILInjected.Token(Token = "0x4000091")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private IEqualityComparer<TKey> comparer;

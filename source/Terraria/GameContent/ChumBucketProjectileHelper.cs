@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x02000544 RID: 1348
 	[global::Cpp2ILInjected.Token(Token = "0x20007B6")]
 	public class ChumBucketProjectileHelper
 	{
-		// Token: 0x0600398F RID: 14735 RVA: 0x0002C47D File Offset: 0x0002A67D
 		[global::Cpp2ILInjected.Token(Token = "0x6004056")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76D600", Offset = "0x76D600", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "PreUpdateAllProjectiles", ReturnType = typeof(void))]
@@ -27,7 +25,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003990 RID: 14736 RVA: 0x0002C480 File Offset: 0x0002A680
 		[global::Cpp2ILInjected.Token(Token = "0x6004057")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76D6A0", Offset = "0x76D6A0", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_163_Chum", ReturnType = typeof(void))]
@@ -49,7 +46,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003991 RID: 14737 RVA: 0x0002C483 File Offset: 0x0002A683
 		[global::Cpp2ILInjected.Token(Token = "0x6004058")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76D780", Offset = "0x76D780", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "GetFishingPondState", MemberParameters = new object[]
@@ -73,7 +69,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003992 RID: 14738 RVA: 0x0002C486 File Offset: 0x0002A686
 		[global::Cpp2ILInjected.Token(Token = "0x6004059")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76D7E8", Offset = "0x76D7E8", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = ".ctor", ReturnType = typeof(void))]
@@ -86,12 +81,10 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x040068CB RID: 26827
 		[global::Cpp2ILInjected.Token(Token = "0x4007E1C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Dictionary<Point, int> _chumCountsPendingForThisFrame;
 
-		// Token: 0x040068CC RID: 26828
 		[global::Cpp2ILInjected.Token(Token = "0x4007E1D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Dictionary<Point, int> _chumCountsFromLastFrame;

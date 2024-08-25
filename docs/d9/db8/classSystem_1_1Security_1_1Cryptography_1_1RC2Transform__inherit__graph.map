@@ -1,9 +1,0 @@
-<map id="System.Security.Cryptography.RC2Transform" name="System.Security.Cryptography.RC2Transform">
-<area shape="rect" id="Node000001" title=" " alt="" coords="130,1449,342,1748"/>
-<area shape="rect" id="Node000002" href="$d0/d51/classMono_1_1Security_1_1Cryptography_1_1SymmetricTransform.html" title=" " alt="" coords="75,133,397,1401"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,1415,239,1449,233,1449,233,1415"/>
-<area shape="rect" id="Node000003" href="$d6/d70/classglobal_1_1SystemSecurity_1_1Cryptography_1_1ICryptoTransform.html" title=" " alt="" coords="5,5,235,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,98,137,133,131,133,126,99"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="259,13,445,78"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="347,92,341,134,335,133,342,91"/>
-</map>

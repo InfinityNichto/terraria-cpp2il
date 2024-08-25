@@ -8,11 +8,9 @@ using Terraria.Localization;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x0200055E RID: 1374
 	[global::Cpp2ILInjected.Token(Token = "0x20007E4")]
 	public struct PlayerSittingHelper
 	{
-		// Token: 0x06003A16 RID: 14870 RVA: 0x0002C5E5 File Offset: 0x0002A7E5
 		[global::Cpp2ILInjected.Token(Token = "0x6004105")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775D30", Offset = "0x775D30", Length = "0x1A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -57,7 +55,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A17 RID: 14871 RVA: 0x0002C5E8 File Offset: 0x0002A7E8
 		[global::Cpp2ILInjected.Token(Token = "0x6004106")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775ED8", Offset = "0x775ED8", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "GetFishingConditions", ReturnType = typeof(PlayerFishingConditions))]
@@ -91,7 +88,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A18 RID: 14872 RVA: 0x0002C5EB File Offset: 0x0002A7EB
 		[global::Cpp2ILInjected.Token(Token = "0x6004107")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7768B8", Offset = "0x7768B8", Length = "0x230")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -137,7 +133,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A19 RID: 14873 RVA: 0x0002C5EE File Offset: 0x0002A7EE
 		[global::Cpp2ILInjected.Token(Token = "0x6004108")]
 		[global::Cpp2ILInjected.Address(RVA = "0x776AE8", Offset = "0x776AE8", Length = "0x158")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -201,7 +196,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A1A RID: 14874 RVA: 0x0002C5F1 File Offset: 0x0002A7F1
 		[global::Cpp2ILInjected.Token(Token = "0x6004109")]
 		[global::Cpp2ILInjected.Address(RVA = "0x776C40", Offset = "0x776C40", Length = "0x3A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -287,7 +281,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A1B RID: 14875 RVA: 0x0002C5F4 File Offset: 0x0002A7F4
 		[global::Cpp2ILInjected.Token(Token = "0x600410A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x776050", Offset = "0x776050", Length = "0x868")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -342,26 +335,21 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x04006928 RID: 26920
 		[global::Cpp2ILInjected.Token(Token = "0x4007EBC")]
 		public const int ChairSittingMaxDistance = 40;
 
-		// Token: 0x04006929 RID: 26921
 		[global::Cpp2ILInjected.Token(Token = "0x4007EBD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public bool isSitting;
 
-		// Token: 0x0400692A RID: 26922
 		[global::Cpp2ILInjected.Token(Token = "0x4007EBE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1")]
 		public ExtraSeatInfo details;
 
-		// Token: 0x0400692B RID: 26923
 		[global::Cpp2ILInjected.Token(Token = "0x4007EBF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public Vector2 offsetForSeat;
 
-		// Token: 0x0400692C RID: 26924
 		[global::Cpp2ILInjected.Token(Token = "0x4007EC0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 		public int sittingIndex;

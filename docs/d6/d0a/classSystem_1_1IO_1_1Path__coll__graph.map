@@ -1,9 +1,0 @@
-<map id="System.IO.Path" name="System.IO.Path">
-<area shape="rect" id="Node000001" title=" " alt="" coords="95,236,393,1225"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,71,40,136,55,211,93,341,88,342,49,213,35,137,27,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="219,5,269,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,71,247,220,241,220,241,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="411,5,453,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="431,71,420,137,405,213,399,237,394,236,400,211,415,136,425,70"/>
-</map>

@@ -7,11 +7,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent.Shaders
 {
-	// Token: 0x02000586 RID: 1414
 	[global::Cpp2ILInjected.Token(Token = "0x2000820")]
 	public class BlizzardShaderData : ScreenShaderData
 	{
-		// Token: 0x06003B97 RID: 15255 RVA: 0x0002CA5C File Offset: 0x0002AC5C
 		[global::Cpp2ILInjected.Token(Token = "0x60042B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x797650", Offset = "0x797650", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -24,7 +22,6 @@ namespace Terraria.GameContent.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003B98 RID: 15256 RVA: 0x0002CA5F File Offset: 0x0002AC5F
 		[global::Cpp2ILInjected.Token(Token = "0x60042B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x797704", Offset = "0x797704", Length = "0x298")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -61,7 +58,6 @@ namespace Terraria.GameContent.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003B99 RID: 15257 RVA: 0x0002CA62 File Offset: 0x0002AC62
 		[global::Cpp2ILInjected.Token(Token = "0x60042B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x79799C", Offset = "0x79799C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -72,12 +68,10 @@ namespace Terraria.GameContent.Shaders
 			throw null;
 		}
 
-		// Token: 0x04006B0B RID: 27403
 		[global::Cpp2ILInjected.Token(Token = "0x40080F2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 		private Vector2 _texturePosition;
 
-		// Token: 0x04006B0C RID: 27404
 		[global::Cpp2ILInjected.Token(Token = "0x40080F3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private float windSpeed;

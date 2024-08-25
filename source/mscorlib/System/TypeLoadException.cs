@@ -9,13 +9,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x0200011F RID: 287
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000160")]
 	[global::System.Serializable]
 	public class TypeLoadException : global::System.SystemException, global::System.Runtime.Serialization.ISerializable
 	{
-		// Token: 0x06000D50 RID: 3408 RVA: 0x00016B50 File Offset: 0x00014D50
 		[global::Cpp2ILInjected.Token(Token = "0x6000E2E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C75A78", Offset = "0x1C75A78", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -40,7 +38,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000D51 RID: 3409 RVA: 0x00016B53 File Offset: 0x00014D53
 		[global::Cpp2ILInjected.Token(Token = "0x6000E2F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C75AD8", Offset = "0x1C75AD8", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,8 +74,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x1700011F RID: 287
-		// (get) Token: 0x06000D52 RID: 3410 RVA: 0x00016B56 File Offset: 0x00014D56
 		[global::Cpp2ILInjected.Token(Token = "0x17000141")]
 		public override string Message
 		{
@@ -92,7 +87,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000D53 RID: 3411 RVA: 0x00016B59 File Offset: 0x00014D59
 		[global::Cpp2ILInjected.Token(Token = "0x6000E31")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C75B18", Offset = "0x1C75B18", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TypeLoadException), Member = "get_Message", ReturnType = typeof(string))]
@@ -119,7 +113,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000D54 RID: 3412 RVA: 0x00016B5C File Offset: 0x00014D5C
 		[global::Cpp2ILInjected.Token(Token = "0x6000E32")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C75C08", Offset = "0x1C75C08", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -128,7 +121,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000D55 RID: 3413 RVA: 0x00016B5F File Offset: 0x00014D5F
 		[global::Cpp2ILInjected.Token(Token = "0x6000E33")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C75C14", Offset = "0x1C75C14", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -141,7 +133,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000D56 RID: 3414 RVA: 0x00016B62 File Offset: 0x00014D62
 		[global::Cpp2ILInjected.Token(Token = "0x6000E34")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C75C74", Offset = "0x1C75C74", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DllNotFoundException), Member = ".ctor", MemberParameters = new object[]
@@ -174,7 +165,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000D57 RID: 3415 RVA: 0x00016B65 File Offset: 0x00014D65
 		[global::Cpp2ILInjected.Token(Token = "0x6000E35")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C75DB8", Offset = "0x1C75DB8", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -202,22 +192,18 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x04000443 RID: 1091
 		[global::Cpp2ILInjected.Token(Token = "0x40005D5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private string ClassName;
 
-		// Token: 0x04000444 RID: 1092
 		[global::Cpp2ILInjected.Token(Token = "0x40005D6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		private string AssemblyName;
 
-		// Token: 0x04000445 RID: 1093
 		[global::Cpp2ILInjected.Token(Token = "0x40005D7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 		private string MessageArg;
 
-		// Token: 0x04000446 RID: 1094
 		[global::Cpp2ILInjected.Token(Token = "0x40005D8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 		internal int ResourceId;

@@ -5,14 +5,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections.Generic
 {
-	// Token: 0x02000533 RID: 1331
 	[global::System.Runtime.CompilerServices.TypeDependency("System.Collections.Generic.ObjectComparer`1")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000651")]
 	[global::System.Serializable]
 	public abstract class Comparer<T> : IComparer, IComparer<T>
 	{
-		// Token: 0x170006FD RID: 1789
-		// (get) Token: 0x06002CDB RID: 11483 RVA: 0x0001C1F3 File Offset: 0x0001A3F3
 		[global::Cpp2ILInjected.Token(Token = "0x170007F8")]
 		public static Comparer<T> Default
 		{
@@ -28,7 +25,6 @@ namespace System.Collections.Generic
 			}
 		}
 
-		// Token: 0x06002CDC RID: 11484 RVA: 0x0001C1F6 File Offset: 0x0001A3F6
 		[global::Cpp2ILInjected.Token(Token = "0x600316D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18F0EA8", Offset = "0x18F0EA8", Length = "0x3E8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -51,11 +47,9 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x06002CDD RID: 11485
 		[global::Cpp2ILInjected.Token(Token = "0x600316E")]
 		public abstract int Compare(T x, T y);
 
-		// Token: 0x06002CDE RID: 11486 RVA: 0x0001C1F9 File Offset: 0x0001A3F9
 		[global::Cpp2ILInjected.Token(Token = "0x600316F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18F1290", Offset = "0x18F1290", Length = "0x158")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -68,7 +62,6 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x06002CDF RID: 11487 RVA: 0x0001C1FC File Offset: 0x0001A3FC
 		[global::Cpp2ILInjected.Token(Token = "0x6003170")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18F13E8", Offset = "0x18F13E8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -79,7 +72,6 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x04001638 RID: 5688
 		[global::Cpp2ILInjected.Token(Token = "0x4001AA7")]
 		private static Comparer<T> defaultComparer;
 	}

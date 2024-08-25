@@ -6,13 +6,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading
 {
-	// Token: 0x02000195 RID: 405
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20001FA")]
 	[global::System.Serializable]
 	public sealed class ThreadAbortException : global::System.SystemException
 	{
-		// Token: 0x060010D5 RID: 4309 RVA: 0x0001747D File Offset: 0x0001567D
 		[global::Cpp2ILInjected.Token(Token = "0x600122E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9E158", Offset = "0x1C9E158", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,7 +24,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010D6 RID: 4310 RVA: 0x00017480 File Offset: 0x00015680
 		[global::Cpp2ILInjected.Token(Token = "0x600122F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9E1D4", Offset = "0x1C9E1D4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

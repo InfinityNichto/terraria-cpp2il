@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x02000035 RID: 53
 	[global::Cpp2ILInjected.Token(Token = "0x200006A")]
 	internal static class SetPropertyUtility
 	{
-		// Token: 0x060003F5 RID: 1013 RVA: 0x00002BD8 File Offset: 0x00000DD8
 		[global::Cpp2ILInjected.Token(Token = "0x6000457")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FD9E90", Offset = "0x1FD9E90", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -21,7 +19,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060003F6 RID: 1014 RVA: 0x00002BDB File Offset: 0x00000DDB
 		[global::Cpp2ILInjected.Token(Token = "0x6000458")]
 		[global::Cpp2ILInjected.Address(RVA = "0x159D208", Offset = "0x159D208", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -40,7 +37,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060003F7 RID: 1015 RVA: 0x00002BDE File Offset: 0x00000DDE
 		[global::Cpp2ILInjected.Token(Token = "0x6000459")]
 		[global::Cpp2ILInjected.Address(RVA = "0x159D1B8", Offset = "0x159D1B8", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]

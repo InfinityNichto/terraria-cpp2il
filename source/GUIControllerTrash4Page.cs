@@ -3,11 +3,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 
-// Token: 0x020000A4 RID: 164
 [global::Cpp2ILInjected.Token(Token = "0x20000DF")]
 public class GUIControllerTrash4Page : GUIControllerTrash
 {
-	// Token: 0x0600052D RID: 1325 RVA: 0x00022ACC File Offset: 0x00020CCC
 	[global::Cpp2ILInjected.Token(Token = "0x60005C7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB23570", Offset = "0xB23570", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -16,7 +14,6 @@ public class GUIControllerTrash4Page : GUIControllerTrash
 		throw null;
 	}
 
-	// Token: 0x0600052E RID: 1326 RVA: 0x00022ACF File Offset: 0x00020CCF
 	[global::Cpp2ILInjected.Token(Token = "0x60005C8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB23574", Offset = "0xB23574", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -25,7 +22,6 @@ public class GUIControllerTrash4Page : GUIControllerTrash
 		throw null;
 	}
 
-	// Token: 0x0600052F RID: 1327 RVA: 0x00022AD2 File Offset: 0x00020CD2
 	[global::Cpp2ILInjected.Token(Token = "0x60005C9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB2357C", Offset = "0xB2357C", Length = "0x134")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -40,7 +36,6 @@ public class GUIControllerTrash4Page : GUIControllerTrash
 		throw null;
 	}
 
-	// Token: 0x06000530 RID: 1328 RVA: 0x00022AD5 File Offset: 0x00020CD5
 	[global::Cpp2ILInjected.Token(Token = "0x60005CA")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB236B0", Offset = "0xB236B0", Length = "0x1D8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +71,6 @@ public class GUIControllerTrash4Page : GUIControllerTrash
 		throw null;
 	}
 
-	// Token: 0x06000531 RID: 1329 RVA: 0x00022AD8 File Offset: 0x00020CD8
 	[global::Cpp2ILInjected.Token(Token = "0x60005CB")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB204B0", Offset = "0xB204B0", Length = "0x24")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

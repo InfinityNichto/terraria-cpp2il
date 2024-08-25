@@ -6,13 +6,9 @@ using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.GameContent.UI.BigProgressBar;
 
-// Token: 0x0200012F RID: 303
 [global::Cpp2ILInjected.Token(Token = "0x20001AA")]
 public static class BottomCentreHUDAnchorUpdator
 {
-	// Token: 0x170000FD RID: 253
-	// (get) Token: 0x06000A69 RID: 2665 RVA: 0x00023A80 File Offset: 0x00021C80
-	// (set) Token: 0x06000A6A RID: 2666 RVA: 0x00023A83 File Offset: 0x00021C83
 	[global::Cpp2ILInjected.Token(Token = "0x17000124")]
 	private static int BottomCentreHUDUpdateFrame
 	{
@@ -34,7 +30,6 @@ public static class BottomCentreHUDAnchorUpdator
 		}
 	}
 
-	// Token: 0x06000A6B RID: 2667 RVA: 0x00023A86 File Offset: 0x00021C86
 	[global::Cpp2ILInjected.Token(Token = "0x6000B7A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9AED54", Offset = "0x9AED54", Length = "0x5C0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

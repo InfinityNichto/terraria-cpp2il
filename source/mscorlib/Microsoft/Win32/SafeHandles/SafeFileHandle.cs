@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Win32.SafeHandles
 {
-	// Token: 0x02000040 RID: 64
 	[global::Cpp2ILInjected.Token(Token = "0x200005B")]
 	public sealed class SafeFileHandle : SafeHandleZeroOrMinusOneIsInvalid
 	{
-		// Token: 0x060001BF RID: 447 RVA: 0x00014AE9 File Offset: 0x00012CE9
 		[global::Cpp2ILInjected.Token(Token = "0x600021B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC694C", Offset = "0x1AC694C", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.FileStream), Member = ".ctor", MemberParameters = new object[]
@@ -38,7 +36,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x060001C0 RID: 448 RVA: 0x00014AEC File Offset: 0x00012CEC
 		[global::Cpp2ILInjected.Token(Token = "0x600021C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC69D8", Offset = "0x1AC69D8", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

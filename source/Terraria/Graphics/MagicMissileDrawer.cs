@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.Graphics
 {
-	// Token: 0x020004E4 RID: 1252
 	[global::Cpp2ILInjected.Token(Token = "0x200073C")]
 	public struct MagicMissileDrawer
 	{
-		// Token: 0x060036BC RID: 14012 RVA: 0x0002BC79 File Offset: 0x00029E79
 		[global::Cpp2ILInjected.Token(Token = "0x6003D26")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149CDB4", Offset = "0x149CDB4", Length = "0x3E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -75,7 +73,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036BD RID: 14013 RVA: 0x0002BC7C File Offset: 0x00029E7C
 		[global::Cpp2ILInjected.Token(Token = "0x6003D27")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149D850", Offset = "0x149D850", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -103,7 +100,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036BE RID: 14014 RVA: 0x0002BC7F File Offset: 0x00029E7F
 		[global::Cpp2ILInjected.Token(Token = "0x6003D28")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149D94C", Offset = "0x149D94C", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -126,7 +122,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036BF RID: 14015 RVA: 0x0002BC82 File Offset: 0x00029E82
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003D29")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149D9FC", Offset = "0x149D9FC", Length = "0x6C")]
@@ -138,7 +133,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x04006735 RID: 26421
 		[global::Cpp2ILInjected.Token(Token = "0x4007C1A")]
 		private static VertexStrip _vertexStrip;
 	}

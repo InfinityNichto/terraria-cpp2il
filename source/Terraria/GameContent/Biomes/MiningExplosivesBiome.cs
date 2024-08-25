@@ -9,11 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005FC RID: 1532
 	[global::Cpp2ILInjected.Token(Token = "0x20008F8")]
 	public class MiningExplosivesBiome : MicroBiome
 	{
-		// Token: 0x06003DAD RID: 15789 RVA: 0x0002D03B File Offset: 0x0002B23B
 		[global::Cpp2ILInjected.Token(Token = "0x6004643")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D27E8", Offset = "0x7D27E8", Length = "0xC54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -150,7 +148,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003DAE RID: 15790 RVA: 0x0002D03E File Offset: 0x0002B23E
 		[global::Cpp2ILInjected.Token(Token = "0x6004644")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D343C", Offset = "0x7D343C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

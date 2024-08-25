@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading.Tasks
 {
-	// Token: 0x020001C2 RID: 450
 	[global::Cpp2ILInjected.Token(Token = "0x2000241")]
 	internal sealed class ContinuationTaskFromTask : Task
 	{
-		// Token: 0x06001252 RID: 4690 RVA: 0x00017876 File Offset: 0x00015A76
 		[global::Cpp2ILInjected.Token(Token = "0x60013FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAA840", Offset = "0x1CAA840", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Task), Member = "ContinueWith", MemberParameters = new object[]
@@ -44,7 +42,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x06001253 RID: 4691 RVA: 0x00017879 File Offset: 0x00015A79
 		[global::Cpp2ILInjected.Token(Token = "0x6001400")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAC988", Offset = "0x1CAC988", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -55,7 +52,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0400083D RID: 2109
 		[global::Cpp2ILInjected.Token(Token = "0x4000AA4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private Task m_antecedent;

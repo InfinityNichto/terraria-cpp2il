@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000465 RID: 1125
 	[global::Cpp2ILInjected.Token(Token = "0x2000661")]
 	public class EntitySource_FishedOut : IEntitySource
 	{
-		// Token: 0x060031E2 RID: 12770 RVA: 0x0002AED8 File Offset: 0x000290D8
 		[global::Cpp2ILInjected.Token(Token = "0x60036FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D724", Offset = "0x141D724", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MessageBuffer), Member = "ProcessData", MemberParameters = new object[]
@@ -34,7 +32,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x0400641A RID: 25626
 		[global::Cpp2ILInjected.Token(Token = "0x400780A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public readonly Entity Entity;

@@ -3,11 +3,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 
-// Token: 0x020000A7 RID: 167
 [global::Cpp2ILInjected.Token(Token = "0x20000E7")]
 public class GUIControllerPageMenuPopupGridNavigator
 {
-	// Token: 0x06000561 RID: 1377 RVA: 0x00022B68 File Offset: 0x00020D68
 	[global::Cpp2ILInjected.Token(Token = "0x600060F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD14F6C", Offset = "0xD14F6C", Length = "0x40")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerEquipment4Page), Member = "get_AccessoryNav", ReturnType = typeof(GUIControllerPageMenuPopupGridNavigator))]
@@ -22,8 +20,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		throw null;
 	}
 
-	// Token: 0x17000097 RID: 151
-	// (get) Token: 0x06000562 RID: 1378 RVA: 0x00022B6B File Offset: 0x00020D6B
 	[global::Cpp2ILInjected.Token(Token = "0x170000BC")]
 	private ItemGrid_Layout GridLayout
 	{
@@ -37,8 +33,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		}
 	}
 
-	// Token: 0x17000098 RID: 152
-	// (get) Token: 0x06000563 RID: 1379 RVA: 0x00022B6E File Offset: 0x00020D6E
 	[global::Cpp2ILInjected.Token(Token = "0x170000BD")]
 	private int itemCount
 	{
@@ -52,8 +46,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		}
 	}
 
-	// Token: 0x17000099 RID: 153
-	// (get) Token: 0x06000564 RID: 1380 RVA: 0x00022B71 File Offset: 0x00020D71
 	[global::Cpp2ILInjected.Token(Token = "0x170000BE")]
 	private float itemScale
 	{
@@ -67,7 +59,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		}
 	}
 
-	// Token: 0x06000565 RID: 1381 RVA: 0x00022B74 File Offset: 0x00020D74
 	[global::Cpp2ILInjected.Token(Token = "0x6000613")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD14FE8", Offset = "0xD14FE8", Length = "0x68")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +72,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		throw null;
 	}
 
-	// Token: 0x06000566 RID: 1382 RVA: 0x00022B77 File Offset: 0x00020D77
 	[global::Cpp2ILInjected.Token(Token = "0x6000614")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD15050", Offset = "0xD15050", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,8 +88,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		throw null;
 	}
 
-	// Token: 0x1700009A RID: 154
-	// (get) Token: 0x06000567 RID: 1383 RVA: 0x00022B7A File Offset: 0x00020D7A
 	[global::Cpp2ILInjected.Token(Token = "0x170000BF")]
 	private int MaxRow_Horizontal
 	{
@@ -115,8 +103,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		}
 	}
 
-	// Token: 0x1700009B RID: 155
-	// (get) Token: 0x06000568 RID: 1384 RVA: 0x00022B7D File Offset: 0x00020D7D
 	[global::Cpp2ILInjected.Token(Token = "0x170000C0")]
 	private int MaxRowColumn_Horizontal
 	{
@@ -132,8 +118,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		}
 	}
 
-	// Token: 0x1700009C RID: 156
-	// (get) Token: 0x06000569 RID: 1385 RVA: 0x00022B80 File Offset: 0x00020D80
 	[global::Cpp2ILInjected.Token(Token = "0x170000C1")]
 	private bool LeftSideController
 	{
@@ -148,8 +132,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		}
 	}
 
-	// Token: 0x1700009D RID: 157
-	// (get) Token: 0x0600056A RID: 1386 RVA: 0x00022B83 File Offset: 0x00020D83
 	[global::Cpp2ILInjected.Token(Token = "0x170000C2")]
 	private int MaxScrollOffset_Horizontal
 	{
@@ -163,8 +145,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		}
 	}
 
-	// Token: 0x1700009E RID: 158
-	// (get) Token: 0x0600056B RID: 1387 RVA: 0x00022B86 File Offset: 0x00020D86
 	[global::Cpp2ILInjected.Token(Token = "0x170000C3")]
 	private int MaxDisplayRow_Horizontal
 	{
@@ -178,7 +158,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		}
 	}
 
-	// Token: 0x0600056C RID: 1388 RVA: 0x00022B89 File Offset: 0x00020D89
 	[global::Cpp2ILInjected.Token(Token = "0x600061A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD150B4", Offset = "0xD150B4", Length = "0x188")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -191,7 +170,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		throw null;
 	}
 
-	// Token: 0x0600056D RID: 1389 RVA: 0x00022B8C File Offset: 0x00020D8C
 	[global::Cpp2ILInjected.Token(Token = "0x600061B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD15420", Offset = "0xD15420", Length = "0x118")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -204,7 +182,6 @@ public class GUIControllerPageMenuPopupGridNavigator
 		throw null;
 	}
 
-	// Token: 0x0600056E RID: 1390 RVA: 0x00022B8F File Offset: 0x00020D8F
 	[global::Cpp2ILInjected.Token(Token = "0x600061C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD15538", Offset = "0xD15538", Length = "0x2A4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -245,48 +222,36 @@ public class GUIControllerPageMenuPopupGridNavigator
 		throw null;
 	}
 
-	// Token: 0x0400033C RID: 828
 	[global::Cpp2ILInjected.Token(Token = "0x40004C9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private readonly GUIControllerPageMenuPopupGridNavigator.GetGrid _grid;
 
-	// Token: 0x0400033D RID: 829
 	[global::Cpp2ILInjected.Token(Token = "0x40004CA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private readonly GUIControllerPageMenuPopupGridNavigator.GetCollectionCount _collectionCount;
 
-	// Token: 0x0400033E RID: 830
 	[global::Cpp2ILInjected.Token(Token = "0x40004CB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private readonly GUIControllerPageMenuPopupGridNavigator.GetItemScale _itemScale;
 
-	// Token: 0x0400033F RID: 831
 	[global::Cpp2ILInjected.Token(Token = "0x40004CC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private readonly GUIPageContentController _controller;
 
-	// Token: 0x04000340 RID: 832
 	[global::Cpp2ILInjected.Token(Token = "0x40004CD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public int itemRow;
 
-	// Token: 0x04000341 RID: 833
 	[global::Cpp2ILInjected.Token(Token = "0x40004CE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	public int itemColumn;
 
-	// Token: 0x020007A2 RID: 1954
-	// (Invoke) Token: 0x06004882 RID: 18562
 	[global::Cpp2ILInjected.Token(Token = "0x20000E8")]
 	public delegate ItemGrid_Layout GetGrid();
 
-	// Token: 0x020007A3 RID: 1955
-	// (Invoke) Token: 0x06004886 RID: 18566
 	[global::Cpp2ILInjected.Token(Token = "0x20000E9")]
 	public delegate int GetCollectionCount();
 
-	// Token: 0x020007A4 RID: 1956
-	// (Invoke) Token: 0x0600488A RID: 18570
 	[global::Cpp2ILInjected.Token(Token = "0x20000EA")]
 	public delegate float GetItemScale();
 }

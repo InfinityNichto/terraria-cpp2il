@@ -1,4 +1,0 @@
-var MadCatzSSF4ChunLiFightStickTEMacNativeProfile_8cs =
-[
-    [ "InControl.NativeDeviceProfiles.MadCatzSSF4ChunLiFightStickTEMacNativeProfile", "d2/d3f/classInControl_1_1NativeDeviceProfiles_1_1MadCatzSSF4ChunLiFightStickTEMacNativeProfile.html", "d2/d3f/classInControl_1_1NativeDeviceProfiles_1_1MadCatzSSF4ChunLiFightStickTEMacNativeProfile" ]
-];

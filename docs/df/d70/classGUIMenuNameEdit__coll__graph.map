@@ -1,7 +1,0 @@
-<map id="GUIMenuNameEdit" name="GUIMenuNameEdit">
-<area shape="rect" id="Node000001" title=" " alt="" coords="10,133,179,303"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,71,35,109,37,117,32,119,29,110,25,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="137,5,180,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,72,133,118,128,117,145,70"/>
-</map>

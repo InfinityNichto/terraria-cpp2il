@@ -6,7 +6,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine.Animations
 {
-	// Token: 0x0200001D RID: 29
 	[NativeHeader("Runtime/Director/Core/HPlayableGraph.h")]
 	[RequiredByNativeCode]
 	[NativeHeader("Modules/Animation/ScriptBindings/AnimationPlayableOutput.bindings.h")]
@@ -17,7 +16,6 @@ namespace UnityEngine.Animations
 	[global::Cpp2ILInjected.Token(Token = "0x200001E")]
 	public struct AnimationPlayableOutput
 	{
-		// Token: 0x04000054 RID: 84
 		[global::Cpp2ILInjected.Token(Token = "0x4000054")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private PlayableOutputHandle m_Handle;

@@ -9,13 +9,9 @@ using Terraria.Graphics.Shaders;
 
 namespace Terraria.Graphics.Effects
 {
-	// Token: 0x0200051B RID: 1307
 	[global::Cpp2ILInjected.Token(Token = "0x2000784")]
 	public class FilterManager : EffectManager<Filter>
 	{
-		// Token: 0x1400004D RID: 77
-		// (add) Token: 0x0600385B RID: 14427 RVA: 0x0002C108 File Offset: 0x0002A308
-		// (remove) Token: 0x0600385C RID: 14428 RVA: 0x0002C10B File Offset: 0x0002A30B
 		[global::Cpp2ILInjected.Token(Token = "0x14000053")]
 		public event Action OnPostDraw
 		{
@@ -51,7 +47,6 @@ namespace Terraria.Graphics.Effects
 			}
 		}
 
-		// Token: 0x0600385D RID: 14429 RVA: 0x0002C10E File Offset: 0x0002A30E
 		[global::Cpp2ILInjected.Token(Token = "0x6003EFC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x740874", Offset = "0x740874", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalUser), Member = ".ctor", MemberParameters = new object[]
@@ -69,7 +64,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x0600385E RID: 14430 RVA: 0x0002C111 File Offset: 0x0002A311
 		[global::Cpp2ILInjected.Token(Token = "0x6003EFD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x740DA8", Offset = "0x740DA8", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -89,7 +83,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x0600385F RID: 14431 RVA: 0x0002C114 File Offset: 0x0002A314
 		[global::Cpp2ILInjected.Token(Token = "0x6003EFE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x740F5C", Offset = "0x740F5C", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -102,7 +95,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003860 RID: 14432 RVA: 0x0002C117 File Offset: 0x0002A317
 		[global::Cpp2ILInjected.Token(Token = "0x6003EFF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x741024", Offset = "0x741024", Length = "0x1F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -129,7 +121,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003861 RID: 14433 RVA: 0x0002C11A File Offset: 0x0002A31A
 		[global::Cpp2ILInjected.Token(Token = "0x6003F00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x741218", Offset = "0x741218", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -144,7 +135,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003862 RID: 14434 RVA: 0x0002C11D File Offset: 0x0002A31D
 		[global::Cpp2ILInjected.Token(Token = "0x6003F01")]
 		[global::Cpp2ILInjected.Address(RVA = "0x741330", Offset = "0x741330", Length = "0x9DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -181,7 +171,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003863 RID: 14435 RVA: 0x0002C120 File Offset: 0x0002A320
 		[global::Cpp2ILInjected.Token(Token = "0x6003F02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x741D0C", Offset = "0x741D0C", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -192,7 +181,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003864 RID: 14436 RVA: 0x0002C123 File Offset: 0x0002A323
 		[global::Cpp2ILInjected.Token(Token = "0x6003F03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x741D54", Offset = "0x741D54", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -203,37 +191,30 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x04006857 RID: 26711
 		[global::Cpp2ILInjected.Token(Token = "0x4007D7D")]
 		private const float OPACITY_RATE = 1f;
 
-		// Token: 0x04006858 RID: 26712
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4007D7E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Action OnPostDraw;
 
-		// Token: 0x04006859 RID: 26713
 		[global::Cpp2ILInjected.Token(Token = "0x4007D7F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private LinkedList<Filter> _activeFilters;
 
-		// Token: 0x0400685A RID: 26714
 		[global::Cpp2ILInjected.Token(Token = "0x4007D80")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private int _filterLimit;
 
-		// Token: 0x0400685B RID: 26715
 		[global::Cpp2ILInjected.Token(Token = "0x4007D81")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		private EffectPriority _priorityThreshold;
 
-		// Token: 0x0400685C RID: 26716
 		[global::Cpp2ILInjected.Token(Token = "0x4007D82")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private int _activeFilterCount;
 
-		// Token: 0x0400685D RID: 26717
 		[global::Cpp2ILInjected.Token(Token = "0x4007D83")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		private bool _captureThisFrame;

@@ -8,13 +8,9 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine.Rendering
 {
-	// Token: 0x020000F1 RID: 241
 	[global::Cpp2ILInjected.Token(Token = "0x2000111")]
 	public static class RenderPipelineManager
 	{
-		// Token: 0x17000120 RID: 288
-		// (get) Token: 0x06000548 RID: 1352 RVA: 0x00002BC0 File Offset: 0x00000DC0
-		// (set) Token: 0x06000549 RID: 1353 RVA: 0x00002BC3 File Offset: 0x00000DC3
 		[global::Cpp2ILInjected.Token(Token = "0x17000124")]
 		public static RenderPipeline currentPipeline
 		{
@@ -40,7 +36,6 @@ namespace UnityEngine.Rendering
 			}
 		}
 
-		// Token: 0x0600054A RID: 1354 RVA: 0x00002BC6 File Offset: 0x00000DC6
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000579")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8A86C", Offset = "0x1F8A86C", Length = "0x74")]
@@ -51,7 +46,6 @@ namespace UnityEngine.Rendering
 			throw null;
 		}
 
-		// Token: 0x0600054B RID: 1355 RVA: 0x00002BC9 File Offset: 0x00000DC9
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600057A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8A8E0", Offset = "0x1F8A8E0", Length = "0x80")]
@@ -65,7 +59,6 @@ namespace UnityEngine.Rendering
 			throw null;
 		}
 
-		// Token: 0x0600054C RID: 1356 RVA: 0x00002BCC File Offset: 0x00000DCC
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600057B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8A960", Offset = "0x1F8A960", Length = "0x178")]
@@ -83,7 +76,6 @@ namespace UnityEngine.Rendering
 			throw null;
 		}
 
-		// Token: 0x0600054D RID: 1357 RVA: 0x00002BCF File Offset: 0x00000DCF
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600057C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8AC3C", Offset = "0x1F8AC3C", Length = "0x58")]
@@ -94,7 +86,6 @@ namespace UnityEngine.Rendering
 			throw null;
 		}
 
-		// Token: 0x0600054E RID: 1358 RVA: 0x00002BD2 File Offset: 0x00000DD2
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600057D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8AC94", Offset = "0x1F8AC94", Length = "0x1B8")]
@@ -125,7 +116,6 @@ namespace UnityEngine.Rendering
 			throw null;
 		}
 
-		// Token: 0x0600054F RID: 1359 RVA: 0x00002BD5 File Offset: 0x00000DD5
 		[global::Cpp2ILInjected.Token(Token = "0x600057E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8AE4C", Offset = "0x1F8AE4C", Length = "0x160")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RenderPipelineManager), Member = "DoRenderLoop_Internal", MemberParameters = new object[]
@@ -150,7 +140,6 @@ namespace UnityEngine.Rendering
 			throw null;
 		}
 
-		// Token: 0x06000550 RID: 1360 RVA: 0x00002BD8 File Offset: 0x00000DD8
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600057F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8B49C", Offset = "0x1F8B49C", Length = "0xA8")]
@@ -162,27 +151,21 @@ namespace UnityEngine.Rendering
 			throw null;
 		}
 
-		// Token: 0x0400043F RID: 1087
 		[global::Cpp2ILInjected.Token(Token = "0x4000485")]
 		internal static RenderPipelineAsset s_CurrentPipelineAsset;
 
-		// Token: 0x04000440 RID: 1088
 		[global::Cpp2ILInjected.Token(Token = "0x4000486")]
 		private static List<Camera> s_Cameras;
 
-		// Token: 0x04000441 RID: 1089
 		[global::Cpp2ILInjected.Token(Token = "0x4000487")]
 		private static string s_currentPipelineType;
 
-		// Token: 0x04000442 RID: 1090
 		[global::Cpp2ILInjected.Token(Token = "0x4000488")]
 		private static string s_builtinPipelineName;
 
-		// Token: 0x04000443 RID: 1091
 		[global::Cpp2ILInjected.Token(Token = "0x4000489")]
 		private static RenderPipeline s_currentPipeline;
 
-		// Token: 0x04000444 RID: 1092
 		[CompilerGenerated]
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[global::Cpp2ILInjected.Token(Token = "0x400048A")]

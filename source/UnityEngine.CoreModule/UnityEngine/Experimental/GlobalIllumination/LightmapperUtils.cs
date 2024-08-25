@@ -5,11 +5,9 @@ using Unity.Collections;
 
 namespace UnityEngine.Experimental.GlobalIllumination
 {
-	// Token: 0x02000113 RID: 275
 	[global::Cpp2ILInjected.Token(Token = "0x2000136")]
 	public static class LightmapperUtils
 	{
-		// Token: 0x060005C4 RID: 1476 RVA: 0x00002D22 File Offset: 0x00000F22
 		[global::Cpp2ILInjected.Token(Token = "0x60005F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8D9B8", Offset = "0x1F8D9B8", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19,7 +17,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005C5 RID: 1477 RVA: 0x00002D25 File Offset: 0x00000F25
 		[global::Cpp2ILInjected.Token(Token = "0x60005F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8D9D8", Offset = "0x1F8D9D8", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LightmapperUtils), Member = "Extract", MemberParameters = new object[]
@@ -61,7 +58,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005C6 RID: 1478 RVA: 0x00002D28 File Offset: 0x00000F28
 		[global::Cpp2ILInjected.Token(Token = "0x60005F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8DA48", Offset = "0x1F8DA48", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LightmapperUtils), Member = "Extract", MemberParameters = new object[]
@@ -77,7 +73,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005C7 RID: 1479 RVA: 0x00002D2B File Offset: 0x00000F2B
 		[global::Cpp2ILInjected.Token(Token = "0x60005F8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8DA94", Offset = "0x1F8DA94", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -116,7 +111,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005C8 RID: 1480 RVA: 0x00002D2E File Offset: 0x00000F2E
 		[global::Cpp2ILInjected.Token(Token = "0x60005F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8DB20", Offset = "0x1F8DB20", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LightmapperUtils), Member = "Extract", MemberParameters = new object[]
@@ -153,7 +147,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005C9 RID: 1481 RVA: 0x00002D31 File Offset: 0x00000F31
 		[global::Cpp2ILInjected.Token(Token = "0x60005FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8DB68", Offset = "0x1F8DB68", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -188,7 +181,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005CA RID: 1482 RVA: 0x00002D34 File Offset: 0x00000F34
 		[global::Cpp2ILInjected.Token(Token = "0x60005FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8DCE0", Offset = "0x1F8DCE0", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -224,7 +216,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005CB RID: 1483 RVA: 0x00002D37 File Offset: 0x00000F37
 		[global::Cpp2ILInjected.Token(Token = "0x60005FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8DE70", Offset = "0x1F8DE70", Length = "0x1B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -262,7 +253,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005CC RID: 1484 RVA: 0x00002D3A File Offset: 0x00000F3A
 		[global::Cpp2ILInjected.Token(Token = "0x60005FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8E028", Offset = "0x1F8E028", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -298,7 +288,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005CD RID: 1485 RVA: 0x00002D3D File Offset: 0x00000F3D
 		[global::Cpp2ILInjected.Token(Token = "0x60005FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8E1B8", Offset = "0x1F8E1B8", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -334,7 +323,6 @@ namespace UnityEngine.Experimental.GlobalIllumination
 			throw null;
 		}
 
-		// Token: 0x060005CE RID: 1486 RVA: 0x00002D40 File Offset: 0x00000F40
 		[global::Cpp2ILInjected.Token(Token = "0x60005FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8E348", Offset = "0x1F8E348", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -1,7 +1,0 @@
-<map id="System.TimeoutException" name="System.TimeoutException">
-<area shape="rect" id="Node000001" title=" " alt="" coords="31,119,333,297"/>
-<area shape="rect" id="Node000003" href="$d0/d28/classSystem_1_1Text_1_1RegularExpressions_1_1RegexMatchTimeoutException.html" title=" " alt="" coords="5,345,359,732"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,311,185,345,179,345,179,311"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="70,5,294,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,84,185,118,179,118,179,84"/>
-</map>

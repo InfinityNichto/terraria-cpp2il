@@ -11,11 +11,9 @@ using Terraria.Localization;
 using Terraria.UI;
 using Terraria.UI.Chat;
 
-// Token: 0x020000FA RID: 250
 [global::Cpp2ILInjected.Token(Token = "0x2000168")]
 public class GUIReforgePopup
 {
-	// Token: 0x0600091D RID: 2333 RVA: 0x0002369C File Offset: 0x0002189C
 	[global::Cpp2ILInjected.Token(Token = "0x6000A1D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97DC50", Offset = "0x97DC50", Length = "0x2C8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -39,7 +37,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x0600091E RID: 2334 RVA: 0x0002369F File Offset: 0x0002189F
 	[global::Cpp2ILInjected.Token(Token = "0x6000A1E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97DF18", Offset = "0x97DF18", Length = "0x64")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerReforgePopup), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
@@ -53,7 +50,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x0600091F RID: 2335 RVA: 0x000236A2 File Offset: 0x000218A2
 	[global::Cpp2ILInjected.Token(Token = "0x6000A1F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97DF7C", Offset = "0x97DF7C", Length = "0x120")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforge), Member = "DrawReforge", ReturnType = typeof(void))]
@@ -71,7 +67,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000920 RID: 2336 RVA: 0x000236A5 File Offset: 0x000218A5
 	[global::Cpp2ILInjected.Token(Token = "0x6000A20")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97E09C", Offset = "0x97E09C", Length = "0x6C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = "CloseDialoguesAndPopups", ReturnType = typeof(void))]
@@ -86,7 +81,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000921 RID: 2337 RVA: 0x000236A8 File Offset: 0x000218A8
 	[global::Cpp2ILInjected.Token(Token = "0x6000A21")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97E108", Offset = "0x97E108", Length = "0x1EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,7 +108,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000922 RID: 2338 RVA: 0x000236AB File Offset: 0x000218AB
 	[global::Cpp2ILInjected.Token(Token = "0x6000A22")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97F6A0", Offset = "0x97F6A0", Length = "0x10C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +121,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000923 RID: 2339 RVA: 0x000236AE File Offset: 0x000218AE
 	[global::Cpp2ILInjected.Token(Token = "0x6000A23")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97F7AC", Offset = "0x97F7AC", Length = "0x64")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -141,7 +133,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000924 RID: 2340 RVA: 0x000236B1 File Offset: 0x000218B1
 	[global::Cpp2ILInjected.Token(Token = "0x6000A24")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97F810", Offset = "0x97F810", Length = "0x5C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -153,7 +144,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000925 RID: 2341 RVA: 0x000236B4 File Offset: 0x000218B4
 	[global::Cpp2ILInjected.Token(Token = "0x6000A25")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97F86C", Offset = "0x97F86C", Length = "0x8A8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -243,7 +233,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000926 RID: 2342 RVA: 0x000236B7 File Offset: 0x000218B7
 	[global::Cpp2ILInjected.Token(Token = "0x6000A26")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97E2F4", Offset = "0x97E2F4", Length = "0x13AC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -270,7 +259,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000927 RID: 2343 RVA: 0x000236BA File Offset: 0x000218BA
 	[global::Cpp2ILInjected.Token(Token = "0x6000A27")]
 	[global::Cpp2ILInjected.Address(RVA = "0x980114", Offset = "0x980114", Length = "0x508")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -319,7 +307,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000928 RID: 2344 RVA: 0x000236BD File Offset: 0x000218BD
 	[global::Cpp2ILInjected.Token(Token = "0x6000A28")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98061C", Offset = "0x98061C", Length = "0xB3C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -466,7 +453,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x06000929 RID: 2345 RVA: 0x000236C0 File Offset: 0x000218C0
 	[global::Cpp2ILInjected.Token(Token = "0x6000A29")]
 	[global::Cpp2ILInjected.Address(RVA = "0x981158", Offset = "0x981158", Length = "0xE4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -480,7 +466,6 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x0600092A RID: 2346 RVA: 0x000236C3 File Offset: 0x000218C3
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000A2A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98123C", Offset = "0x98123C", Length = "0x4C")]
@@ -491,83 +476,66 @@ public class GUIReforgePopup
 		throw null;
 	}
 
-	// Token: 0x0400074A RID: 1866
 	[global::Cpp2ILInjected.Token(Token = "0x40009F9")]
 	private static int reforgeItemNamePos;
 
-	// Token: 0x0400074B RID: 1867
 	[global::Cpp2ILInjected.Token(Token = "0x40009FA")]
 	private static int reforgeTextPos;
 
-	// Token: 0x0400074C RID: 1868
 	[global::Cpp2ILInjected.Token(Token = "0x40009FB")]
 	private static int reforgeTextBackingSize;
 
-	// Token: 0x0400074D RID: 1869
 	[global::Cpp2ILInjected.Token(Token = "0x40009FC")]
 	private static int defaultBackingWidth;
 
-	// Token: 0x0400074E RID: 1870
 	[global::Cpp2ILInjected.Token(Token = "0x40009FD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private int OpenedFrame;
 
-	// Token: 0x0400074F RID: 1871
 	[global::Cpp2ILInjected.Token(Token = "0x40009FE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	public bool PopupDisplayed;
 
-	// Token: 0x04000750 RID: 1872
 	[global::Cpp2ILInjected.Token(Token = "0x40009FF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private GUIInputRegionExclusive PickingInterceptor;
 
-	// Token: 0x04000751 RID: 1873
 	[global::Cpp2ILInjected.Token(Token = "0x4000A00")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float CachedLayoutSize;
 
-	// Token: 0x04000752 RID: 1874
 	[global::Cpp2ILInjected.Token(Token = "0x4000A01")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private float CachedLayoutWrapSize;
 
-	// Token: 0x04000753 RID: 1875
 	[global::Cpp2ILInjected.Token(Token = "0x4000A02")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private int CachedMinTextHeight;
 
-	// Token: 0x04000754 RID: 1876
 	[global::Cpp2ILInjected.Token(Token = "0x4000A03")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	private Vector2 CachedTextSize;
 
-	// Token: 0x04000755 RID: 1877
 	[global::Cpp2ILInjected.Token(Token = "0x4000A04")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private int CachedTextLines;
 
-	// Token: 0x04000756 RID: 1878
 	[global::Cpp2ILInjected.Token(Token = "0x4000A05")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	public GUIControllerReforgePopup _controller;
 
-	// Token: 0x04000757 RID: 1879
 	[global::Cpp2ILInjected.Token(Token = "0x4000A06")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private int numLines;
 
-	// Token: 0x04000758 RID: 1880
 	[global::Cpp2ILInjected.Token(Token = "0x4000A07")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private string[] toolTipLine;
 
-	// Token: 0x04000759 RID: 1881
 	[global::Cpp2ILInjected.Token(Token = "0x4000A08")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private bool[] badPreFixLine;
 
-	// Token: 0x0400075A RID: 1882
 	[global::Cpp2ILInjected.Token(Token = "0x4000A09")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private Item tooltipPrefixComparisonItem;

@@ -7,11 +7,9 @@ using Terraria.Net;
 
 namespace Terraria.GameContent.NetModules
 {
-	// Token: 0x02000673 RID: 1651
 	[global::Cpp2ILInjected.Token(Token = "0x20009FA")]
 	public class NetParticlesModule : NetModule
 	{
-		// Token: 0x060040FB RID: 16635 RVA: 0x0002D9CE File Offset: 0x0002BBCE
 		[global::Cpp2ILInjected.Token(Token = "0x6004B80")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8A9110", Offset = "0x8A9110", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +45,6 @@ namespace Terraria.GameContent.NetModules
 			throw null;
 		}
 
-		// Token: 0x060040FC RID: 16636 RVA: 0x0002D9D1 File Offset: 0x0002BBD1
 		[global::Cpp2ILInjected.Token(Token = "0x6004B81")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8A91AC", Offset = "0x8A91AC", Length = "0x160")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -75,7 +72,6 @@ namespace Terraria.GameContent.NetModules
 			throw null;
 		}
 
-		// Token: 0x060040FD RID: 16637 RVA: 0x0002D9D4 File Offset: 0x0002BBD4
 		[global::Cpp2ILInjected.Token(Token = "0x6004B82")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8A930C", Offset = "0x8A930C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

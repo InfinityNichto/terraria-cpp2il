@@ -12,12 +12,10 @@ using Microsoft.Win32.SafeHandles;
 
 namespace System.ComponentModel
 {
-	// Token: 0x020002EF RID: 751
 	[global::Cpp2ILInjected.Token(Token = "0x2000400")]
 	[Serializable]
 	public class Win32Exception : ExternalException, ISerializable
 	{
-		// Token: 0x060018FD RID: 6397 RVA: 0x00007481 File Offset: 0x00005681
 		[global::Cpp2ILInjected.Token(Token = "0x6001BD5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E899A8", Offset = "0x1E899A8", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Process), Member = "get_HasExited", ReturnType = typeof(bool))]
@@ -37,7 +35,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060018FE RID: 6398 RVA: 0x00007484 File Offset: 0x00005684
 		[global::Cpp2ILInjected.Token(Token = "0x6001BD6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E89A1C", Offset = "0x1E89A1C", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Process), Member = "StartWithShellExecuteEx", MemberParameters = new object[] { typeof(ProcessStartInfo) }, ReturnType = typeof(bool))]
@@ -59,7 +56,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060018FF RID: 6399 RVA: 0x00007487 File Offset: 0x00005687
 		[global::Cpp2ILInjected.Token(Token = "0x6001BD7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8A348", Offset = "0x1E8A348", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Process), Member = "StartWithCreateProcess", MemberParameters = new object[] { typeof(ProcessStartInfo) }, ReturnType = typeof(bool))]
@@ -87,7 +83,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x06001900 RID: 6400 RVA: 0x0000748A File Offset: 0x0000568A
 		[global::Cpp2ILInjected.Token(Token = "0x6001BD8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8A374", Offset = "0x1E8A374", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -99,7 +94,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x06001901 RID: 6401 RVA: 0x0000748D File Offset: 0x0000568D
 		[global::Cpp2ILInjected.Token(Token = "0x6001BD9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8A3F0", Offset = "0x1E8A3F0", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -115,7 +109,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x06001902 RID: 6402 RVA: 0x00007490 File Offset: 0x00005690
 		[global::Cpp2ILInjected.Token(Token = "0x6001BDA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8A470", Offset = "0x1E8A470", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpListenerException), Member = ".ctor", MemberParameters = new object[]
@@ -146,8 +139,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x170005F5 RID: 1525
-		// (get) Token: 0x06001903 RID: 6403 RVA: 0x00007493 File Offset: 0x00005693
 		[global::Cpp2ILInjected.Token(Token = "0x17000637")]
 		public int NativeErrorCode
 		{
@@ -160,7 +151,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x06001904 RID: 6404 RVA: 0x00007496 File Offset: 0x00005696
 		[global::Cpp2ILInjected.Token(Token = "0x6001BDC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8A500", Offset = "0x1E8A500", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -181,7 +171,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x06001905 RID: 6405 RVA: 0x00007499 File Offset: 0x00005699
 		[global::Cpp2ILInjected.Token(Token = "0x6001BDD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E89A54", Offset = "0x1E89A54", Length = "0x8F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -200,7 +189,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x04000F38 RID: 3896
 		[global::Cpp2ILInjected.Token(Token = "0x4001378")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8C")]
 		private readonly int nativeErrorCode;

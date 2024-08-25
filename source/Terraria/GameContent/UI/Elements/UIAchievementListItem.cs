@@ -13,11 +13,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006B9 RID: 1721
 	[global::Cpp2ILInjected.Token(Token = "0x2000A93")]
 	public class UIAchievementListItem : UIPanel
 	{
-		// Token: 0x060043B1 RID: 17329 RVA: 0x0002E1BA File Offset: 0x0002C3BA
 		[global::Cpp2ILInjected.Token(Token = "0x6004FEB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9031FC", Offset = "0x9031FC", Length = "0x71C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,7 +62,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043B2 RID: 17330 RVA: 0x0002E1BD File Offset: 0x0002C3BD
 		[global::Cpp2ILInjected.Token(Token = "0x6004FEC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x903950", Offset = "0x903950", Length = "0xE30")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -219,7 +216,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043B3 RID: 17331 RVA: 0x0002E1C0 File Offset: 0x0002C3C0
 		[global::Cpp2ILInjected.Token(Token = "0x6004FED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x903918", Offset = "0x903918", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -236,7 +232,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043B4 RID: 17332 RVA: 0x0002E1C3 File Offset: 0x0002C3C3
 		[global::Cpp2ILInjected.Token(Token = "0x6004FEE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x904A40", Offset = "0x904A40", Length = "0x304")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -281,7 +276,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043B5 RID: 17333 RVA: 0x0002E1C6 File Offset: 0x0002C3C6
 		[global::Cpp2ILInjected.Token(Token = "0x6004FEF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x904D44", Offset = "0x904D44", Length = "0x304")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -326,7 +320,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043B6 RID: 17334 RVA: 0x0002E1C9 File Offset: 0x0002C3C9
 		[global::Cpp2ILInjected.Token(Token = "0x6004FF0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9058FC", Offset = "0x9058FC", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -342,7 +335,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043B7 RID: 17335 RVA: 0x0002E1CC File Offset: 0x0002C3CC
 		[global::Cpp2ILInjected.Token(Token = "0x6004FF1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x905964", Offset = "0x905964", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -364,7 +356,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043B8 RID: 17336 RVA: 0x0002E1CF File Offset: 0x0002C3CF
 		[global::Cpp2ILInjected.Token(Token = "0x6004FF2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x905A48", Offset = "0x905A48", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -373,7 +364,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043B9 RID: 17337 RVA: 0x0002E1D2 File Offset: 0x0002C3D2
 		[global::Cpp2ILInjected.Token(Token = "0x6004FF3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x904780", Offset = "0x904780", Length = "0x2C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -389,7 +379,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043BA RID: 17338 RVA: 0x0002E1D5 File Offset: 0x0002C3D5
 		[global::Cpp2ILInjected.Token(Token = "0x6004FF4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x905048", Offset = "0x905048", Length = "0x8B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -460,7 +449,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043BB RID: 17339 RVA: 0x0002E1D8 File Offset: 0x0002C3D8
 		[global::Cpp2ILInjected.Token(Token = "0x6004FF5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x905A50", Offset = "0x905A50", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -473,74 +461,59 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04006FA6 RID: 28582
 		[global::Cpp2ILInjected.Token(Token = "0x40088CE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x168")]
 		private Achievement _achievement;
 
-		// Token: 0x04006FA7 RID: 28583
 		[global::Cpp2ILInjected.Token(Token = "0x40088CF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x170")]
 		private UIImageFramed _achievementIcon;
 
-		// Token: 0x04006FA8 RID: 28584
 		[global::Cpp2ILInjected.Token(Token = "0x40088D0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x178")]
 		private UIImage _achievementIconBorders;
 
-		// Token: 0x04006FA9 RID: 28585
 		[global::Cpp2ILInjected.Token(Token = "0x40088D1")]
 		private const int _iconSize = 64;
 
-		// Token: 0x04006FAA RID: 28586
 		[global::Cpp2ILInjected.Token(Token = "0x40088D2")]
 		private const int _iconSizeWithSpace = 66;
 
-		// Token: 0x04006FAB RID: 28587
 		[global::Cpp2ILInjected.Token(Token = "0x40088D3")]
 		private const int _iconsPerRow = 8;
 
-		// Token: 0x04006FAC RID: 28588
 		[global::Cpp2ILInjected.Token(Token = "0x40088D4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x180")]
 		private int _iconIndex;
 
-		// Token: 0x04006FAD RID: 28589
 		[global::Cpp2ILInjected.Token(Token = "0x40088D5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x184")]
 		private Rectangle _iconFrame;
 
-		// Token: 0x04006FAE RID: 28590
 		[global::Cpp2ILInjected.Token(Token = "0x40088D6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x194")]
 		private Rectangle _iconFrameUnlocked;
 
-		// Token: 0x04006FAF RID: 28591
 		[global::Cpp2ILInjected.Token(Token = "0x40088D7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1A4")]
 		private Rectangle _iconFrameLocked;
 
-		// Token: 0x04006FB0 RID: 28592
 		[global::Cpp2ILInjected.Token(Token = "0x40088D8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1B8")]
 		private Asset<Texture2D> _innerPanelTopTexture;
 
-		// Token: 0x04006FB1 RID: 28593
 		[global::Cpp2ILInjected.Token(Token = "0x40088D9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C0")]
 		private Asset<Texture2D> _innerPanelBottomTexture;
 
-		// Token: 0x04006FB2 RID: 28594
 		[global::Cpp2ILInjected.Token(Token = "0x40088DA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C8")]
 		private Asset<Texture2D> _categoryTexture;
 
-		// Token: 0x04006FB3 RID: 28595
 		[global::Cpp2ILInjected.Token(Token = "0x40088DB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1D0")]
 		private bool _locked;
 
-		// Token: 0x04006FB4 RID: 28596
 		[global::Cpp2ILInjected.Token(Token = "0x40088DC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1D1")]
 		private bool _large;

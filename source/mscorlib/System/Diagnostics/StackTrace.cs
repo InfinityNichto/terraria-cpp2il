@@ -11,14 +11,12 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Diagnostics
 {
-	// Token: 0x020004E2 RID: 1250
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::System.MonoTODO("Serialized objects are not compatible with .NET")]
 	[global::Cpp2ILInjected.Token(Token = "0x20005D4")]
 	[global::System.Serializable]
 	public class StackTrace
 	{
-		// Token: 0x06002A09 RID: 10761 RVA: 0x0001BA58 File Offset: 0x00019C58
 		[global::Cpp2ILInjected.Token(Token = "0x6002D6A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C04F44", Offset = "0x1C04F44", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -29,7 +27,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A0A RID: 10762 RVA: 0x0001BA5B File Offset: 0x00019C5B
 		[global::Cpp2ILInjected.Token(Token = "0x6002D6B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0515C", Offset = "0x1C0515C", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Environment), Member = "GetStackTrace", MemberParameters = new object[]
@@ -50,7 +47,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A0B RID: 10763 RVA: 0x0001BA5E File Offset: 0x00019C5E
 		[global::Cpp2ILInjected.Token(Token = "0x6002D6C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0518C", Offset = "0x1C0518C", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Environment), Member = "get_StackTrace", ReturnType = typeof(string))]
@@ -74,7 +70,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A0C RID: 10764 RVA: 0x0001BA61 File Offset: 0x00019C61
 		[global::Cpp2ILInjected.Token(Token = "0x6002D6D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C04F68", Offset = "0x1C04F68", Length = "0x1F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,7 +109,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A0D RID: 10765
 		[global::Cpp2ILInjected.Token(Token = "0x6002D6E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C051C0", Offset = "0x1C051C0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -122,7 +116,6 @@ namespace System.Diagnostics
 		[MethodImpl(4096)]
 		private static extern StackFrame[] get_trace(global::System.Exception e, int skipFrames, bool fNeedFileInfo);
 
-		// Token: 0x06002A0E RID: 10766 RVA: 0x0001BA64 File Offset: 0x00019C64
 		[global::Cpp2ILInjected.Token(Token = "0x6002D6F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C051C8", Offset = "0x1C051C8", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Exception), Member = "get_Source", ReturnType = typeof(string))]
@@ -137,7 +130,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A0F RID: 10767 RVA: 0x0001BA67 File Offset: 0x00019C67
 		[global::Cpp2ILInjected.Token(Token = "0x6002D70")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C051D4", Offset = "0x1C051D4", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.ExceptionServices.ExceptionDispatchInfo), Member = ".ctor", MemberParameters = new object[] { typeof(global::System.Exception) }, ReturnType = typeof(void))]
@@ -155,7 +147,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A10 RID: 10768 RVA: 0x0001BA6A File Offset: 0x00019C6A
 		[global::System.MonoLimitation("Not possible to create StackTraces from other threads")]
 		[global::System.Obsolete]
 		[global::Cpp2ILInjected.Token(Token = "0x6002D71")]
@@ -177,8 +168,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x17000654 RID: 1620
-		// (get) Token: 0x06002A11 RID: 10769 RVA: 0x0001BA6D File Offset: 0x00019C6D
 		[global::Cpp2ILInjected.Token(Token = "0x170006E8")]
 		public virtual int FrameCount
 		{
@@ -191,7 +180,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x06002A12 RID: 10770 RVA: 0x0001BA70 File Offset: 0x00019C70
 		[global::Cpp2ILInjected.Token(Token = "0x6002D73")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0534C", Offset = "0x1C0534C", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -201,7 +189,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A13 RID: 10771 RVA: 0x0001BA73 File Offset: 0x00019C73
 		[global::Cpp2ILInjected.Token(Token = "0x6002D74")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C05394", Offset = "0x1C05394", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(StackTrace), Member = "AddFrames", MemberParameters = new object[]
@@ -220,7 +207,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A14 RID: 10772 RVA: 0x0001BA76 File Offset: 0x00019C76
 		[global::Cpp2ILInjected.Token(Token = "0x6002D75")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0545C", Offset = "0x1C0545C", Length = "0x450")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -273,7 +259,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A15 RID: 10773 RVA: 0x0001BA79 File Offset: 0x00019C79
 		[global::Cpp2ILInjected.Token(Token = "0x6002D76")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C058AC", Offset = "0x1C058AC", Length = "0x5B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -303,7 +288,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A16 RID: 10774 RVA: 0x0001BA7C File Offset: 0x00019C7C
 		[global::Cpp2ILInjected.Token(Token = "0x6002D77")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C05E5C", Offset = "0x1C05E5C", Length = "0x414")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -328,7 +312,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A17 RID: 10775 RVA: 0x0001BA7F File Offset: 0x00019C7F
 		[global::Cpp2ILInjected.Token(Token = "0x6002D78")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C06270", Offset = "0x1C06270", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -348,7 +331,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06002A18 RID: 10776 RVA: 0x0001BA82 File Offset: 0x00019C82
 		[global::Cpp2ILInjected.Token(Token = "0x6002D79")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C063B4", Offset = "0x1C063B4", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Environment), Member = "GetStackTrace", MemberParameters = new object[]
@@ -363,48 +345,37 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x04001581 RID: 5505
 		[global::Cpp2ILInjected.Token(Token = "0x400196A")]
 		public const int METHODS_TO_SKIP = 0;
 
-		// Token: 0x04001582 RID: 5506
 		[global::Cpp2ILInjected.Token(Token = "0x400196B")]
 		private const string prefix = "  at ";
 
-		// Token: 0x04001583 RID: 5507
 		[global::Cpp2ILInjected.Token(Token = "0x400196C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private StackFrame[] frames;
 
-		// Token: 0x04001584 RID: 5508
 		[global::Cpp2ILInjected.Token(Token = "0x400196D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly StackTrace[] captured_traces;
 
-		// Token: 0x04001585 RID: 5509
 		[global::Cpp2ILInjected.Token(Token = "0x400196E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private bool debug_info;
 
-		// Token: 0x04001586 RID: 5510
 		[global::Cpp2ILInjected.Token(Token = "0x400196F")]
 		private static bool isAotidSet;
 
-		// Token: 0x04001587 RID: 5511
 		[global::Cpp2ILInjected.Token(Token = "0x4001970")]
 		private static string aotid;
 
-		// Token: 0x0200063C RID: 1596
 		[global::Cpp2ILInjected.Token(Token = "0x20005D5")]
 		internal enum TraceFormat
 		{
-			// Token: 0x04001A70 RID: 6768
 			[global::Cpp2ILInjected.Token(Token = "0x4001972")]
 			Normal,
-			// Token: 0x04001A71 RID: 6769
 			[global::Cpp2ILInjected.Token(Token = "0x4001973")]
 			TrailingNewLine,
-			// Token: 0x04001A72 RID: 6770
 			[global::Cpp2ILInjected.Token(Token = "0x4001974")]
 			NoResourceLookup
 		}

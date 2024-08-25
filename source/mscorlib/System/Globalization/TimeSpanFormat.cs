@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Globalization
 {
-	// Token: 0x020004B6 RID: 1206
 	[global::Cpp2ILInjected.Token(Token = "0x2000599")]
 	internal static class TimeSpanFormat
 	{
-		// Token: 0x060027F3 RID: 10227 RVA: 0x0001B473 File Offset: 0x00019673
 		[global::Cpp2ILInjected.Token(Token = "0x6002B25")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE1630", Offset = "0x1BE1630", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -28,7 +26,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027F4 RID: 10228 RVA: 0x0001B476 File Offset: 0x00019676
 		[global::Cpp2ILInjected.Token(Token = "0x6002B26")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE171C", Offset = "0x1BE171C", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeSpan), Member = "ToString", ReturnType = typeof(string))]
@@ -53,7 +50,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027F5 RID: 10229 RVA: 0x0001B479 File Offset: 0x00019679
 		[global::Cpp2ILInjected.Token(Token = "0x6002B27")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE1A7C", Offset = "0x1BE1A7C", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +81,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027F6 RID: 10230 RVA: 0x0001B47C File Offset: 0x0001967C
 		[global::Cpp2ILInjected.Token(Token = "0x6002B28")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE17D4", Offset = "0x1BE17D4", Length = "0x2A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -129,7 +124,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027F7 RID: 10231 RVA: 0x0001B47F File Offset: 0x0001967F
 		[global::Cpp2ILInjected.Token(Token = "0x6002B29")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE1B90", Offset = "0x1BE1B90", Length = "0x450")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -167,7 +161,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027F8 RID: 10232 RVA: 0x0001B482 File Offset: 0x00019682
 		[global::Cpp2ILInjected.Token(Token = "0x6002B2A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE1FE0", Offset = "0x1BE1FE0", Length = "0x6BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -240,7 +233,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027F9 RID: 10233 RVA: 0x0001B485 File Offset: 0x00019685
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6002B2B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE2B24", Offset = "0x1BE2B24", Length = "0x94")]
@@ -253,35 +245,26 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x04001430 RID: 5168
 		[global::Cpp2ILInjected.Token(Token = "0x40017B6")]
 		internal static readonly TimeSpanFormat.FormatLiterals PositiveInvariantFormatLiterals;
 
-		// Token: 0x04001431 RID: 5169
 		[global::Cpp2ILInjected.Token(Token = "0x40017B7")]
 		internal static readonly TimeSpanFormat.FormatLiterals NegativeInvariantFormatLiterals;
 
-		// Token: 0x0200062D RID: 1581
 		[global::Cpp2ILInjected.Token(Token = "0x200059A")]
 		internal enum Pattern
 		{
-			// Token: 0x04001A0D RID: 6669
 			[global::Cpp2ILInjected.Token(Token = "0x40017B9")]
 			None,
-			// Token: 0x04001A0E RID: 6670
 			[global::Cpp2ILInjected.Token(Token = "0x40017BA")]
 			Minimum,
-			// Token: 0x04001A0F RID: 6671
 			[global::Cpp2ILInjected.Token(Token = "0x40017BB")]
 			Full
 		}
 
-		// Token: 0x0200062E RID: 1582
 		[global::Cpp2ILInjected.Token(Token = "0x200059B")]
 		internal struct FormatLiterals
 		{
-			// Token: 0x17000783 RID: 1923
-			// (get) Token: 0x06004206 RID: 16902 RVA: 0x0002006C File Offset: 0x0001E26C
 			[global::Cpp2ILInjected.Token(Token = "0x17000657")]
 			internal string Start
 			{
@@ -294,8 +277,6 @@ namespace System.Globalization
 				}
 			}
 
-			// Token: 0x17000784 RID: 1924
-			// (get) Token: 0x06004207 RID: 16903 RVA: 0x0002006F File Offset: 0x0001E26F
 			[global::Cpp2ILInjected.Token(Token = "0x17000658")]
 			internal string DayHourSep
 			{
@@ -308,8 +289,6 @@ namespace System.Globalization
 				}
 			}
 
-			// Token: 0x17000785 RID: 1925
-			// (get) Token: 0x06004208 RID: 16904 RVA: 0x00020072 File Offset: 0x0001E272
 			[global::Cpp2ILInjected.Token(Token = "0x17000659")]
 			internal string HourMinuteSep
 			{
@@ -322,8 +301,6 @@ namespace System.Globalization
 				}
 			}
 
-			// Token: 0x17000786 RID: 1926
-			// (get) Token: 0x06004209 RID: 16905 RVA: 0x00020075 File Offset: 0x0001E275
 			[global::Cpp2ILInjected.Token(Token = "0x1700065A")]
 			internal string MinuteSecondSep
 			{
@@ -336,8 +313,6 @@ namespace System.Globalization
 				}
 			}
 
-			// Token: 0x17000787 RID: 1927
-			// (get) Token: 0x0600420A RID: 16906 RVA: 0x00020078 File Offset: 0x0001E278
 			[global::Cpp2ILInjected.Token(Token = "0x1700065B")]
 			internal string SecondFractionSep
 			{
@@ -350,8 +325,6 @@ namespace System.Globalization
 				}
 			}
 
-			// Token: 0x17000788 RID: 1928
-			// (get) Token: 0x0600420B RID: 16907 RVA: 0x0002007B File Offset: 0x0001E27B
 			[global::Cpp2ILInjected.Token(Token = "0x1700065C")]
 			internal string End
 			{
@@ -364,7 +337,6 @@ namespace System.Globalization
 				}
 			}
 
-			// Token: 0x0600420C RID: 16908 RVA: 0x0002007E File Offset: 0x0001E27E
 			[global::Cpp2ILInjected.Token(Token = "0x6002B32")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1BE2BB8", Offset = "0x1BE2BB8", Length = "0x1BC")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -376,7 +348,6 @@ namespace System.Globalization
 				throw null;
 			}
 
-			// Token: 0x0600420D RID: 16909 RVA: 0x00020081 File Offset: 0x0001E281
 			[global::Cpp2ILInjected.Token(Token = "0x6002B33")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1BE269C", Offset = "0x1BE269C", Length = "0x3B0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -405,37 +376,30 @@ namespace System.Globalization
 				throw null;
 			}
 
-			// Token: 0x04001A10 RID: 6672
 			[global::Cpp2ILInjected.Token(Token = "0x40017BC")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			internal string AppCompatLiteral;
 
-			// Token: 0x04001A11 RID: 6673
 			[global::Cpp2ILInjected.Token(Token = "0x40017BD")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			internal int dd;
 
-			// Token: 0x04001A12 RID: 6674
 			[global::Cpp2ILInjected.Token(Token = "0x40017BE")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 			internal int hh;
 
-			// Token: 0x04001A13 RID: 6675
 			[global::Cpp2ILInjected.Token(Token = "0x40017BF")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			internal int mm;
 
-			// Token: 0x04001A14 RID: 6676
 			[global::Cpp2ILInjected.Token(Token = "0x40017C0")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 			internal int ss;
 
-			// Token: 0x04001A15 RID: 6677
 			[global::Cpp2ILInjected.Token(Token = "0x40017C1")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			internal int ff;
 
-			// Token: 0x04001A16 RID: 6678
 			[global::Cpp2ILInjected.Token(Token = "0x40017C2")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private string[] _literals;

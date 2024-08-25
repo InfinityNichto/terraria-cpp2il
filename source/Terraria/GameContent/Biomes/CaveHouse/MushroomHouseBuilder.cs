@@ -7,11 +7,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.CaveHouse
 {
-	// Token: 0x02000610 RID: 1552
 	[global::Cpp2ILInjected.Token(Token = "0x2000915")]
 	public class MushroomHouseBuilder : HouseBuilder
 	{
-		// Token: 0x06003E2A RID: 15914 RVA: 0x0002D1B2 File Offset: 0x0002B3B2
 		[global::Cpp2ILInjected.Token(Token = "0x60046D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x80E554", Offset = "0x80E554", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +30,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E2B RID: 15915 RVA: 0x0002D1B5 File Offset: 0x0002B3B5
 		[global::Cpp2ILInjected.Token(Token = "0x60046D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x80E600", Offset = "0x80E600", Length = "0x760")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

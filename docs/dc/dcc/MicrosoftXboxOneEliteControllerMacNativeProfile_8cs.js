@@ -1,4 +1,0 @@
-var MicrosoftXboxOneEliteControllerMacNativeProfile_8cs =
-[
-    [ "InControl.NativeDeviceProfiles.MicrosoftXboxOneEliteControllerMacNativeProfile", "df/d46/classInControl_1_1NativeDeviceProfiles_1_1MicrosoftXboxOneEliteControllerMacNativeProfile.html", "df/d46/classInControl_1_1NativeDeviceProfiles_1_1MicrosoftXboxOneEliteControllerMacNativeProfile" ]
-];

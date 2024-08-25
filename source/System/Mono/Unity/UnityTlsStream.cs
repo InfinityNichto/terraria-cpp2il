@@ -8,11 +8,9 @@ using Mono.Security.Interface;
 
 namespace Mono.Unity
 {
-	// Token: 0x0200000F RID: 15
 	[global::Cpp2ILInjected.Token(Token = "0x2000047")]
 	internal class UnityTlsStream : MobileAuthenticatedStream
 	{
-		// Token: 0x06000051 RID: 81 RVA: 0x00002F21 File Offset: 0x00001121
 		[global::Cpp2ILInjected.Token(Token = "0x60000B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4696C", Offset = "0x1D4696C", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UnityTlsProvider), Member = "CreateSslStream", MemberParameters = new object[]
@@ -37,7 +35,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x06000052 RID: 82 RVA: 0x00002F24 File Offset: 0x00001124
 		[global::Cpp2ILInjected.Token(Token = "0x60000B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D47340", Offset = "0x1D47340", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000150 RID: 336
 	[global::Cpp2ILInjected.Token(Token = "0x20001E3")]
 	internal class BufferOffsetSize
 	{
-		// Token: 0x06000AD8 RID: 2776 RVA: 0x00004D00 File Offset: 0x00002F00
 		[global::Cpp2ILInjected.Token(Token = "0x6000C03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F23EE4", Offset = "0x1F23EE4", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SplitWritesState), Member = "GetNextBuffers", ReturnType = typeof(BufferOffsetSize[]))]
@@ -37,7 +35,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AD9 RID: 2777 RVA: 0x00004D03 File Offset: 0x00002F03
 		[global::Cpp2ILInjected.Token(Token = "0x6000C04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F23F90", Offset = "0x1F23F90", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebResponseStream.<InitReadAsync>d__52", Member = "MoveNext", ReturnType = typeof(void))]
@@ -54,17 +51,14 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040007EC RID: 2028
 		[global::Cpp2ILInjected.Token(Token = "0x4000A30")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal byte[] Buffer;
 
-		// Token: 0x040007ED RID: 2029
 		[global::Cpp2ILInjected.Token(Token = "0x4000A31")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		internal int Offset;
 
-		// Token: 0x040007EE RID: 2030
 		[global::Cpp2ILInjected.Token(Token = "0x4000A32")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		internal int Size;

@@ -7,7 +7,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine.Animations
 {
-	// Token: 0x0200001B RID: 27
 	[NativeHeader("Modules/Animation/Director/AnimationMixerPlayable.h")]
 	[NativeHeader("Modules/Animation/ScriptBindings/AnimationMixerPlayable.bindings.h")]
 	[StaticAccessor("AnimationMixerPlayableBindings", StaticAccessorType.DoubleColon)]
@@ -16,7 +15,6 @@ namespace UnityEngine.Animations
 	[global::Cpp2ILInjected.Token(Token = "0x200001C")]
 	public struct AnimationMixerPlayable : IEquatable<AnimationMixerPlayable>
 	{
-		// Token: 0x0600003F RID: 63 RVA: 0x000020F5 File Offset: 0x000002F5
 		[global::Cpp2ILInjected.Token(Token = "0x6000041")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F67C9C", Offset = "0x1F67C9C", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AnimationMixerPlayable), Member = ".cctor", ReturnType = typeof(void))]
@@ -30,7 +28,6 @@ namespace UnityEngine.Animations
 			throw null;
 		}
 
-		// Token: 0x06000040 RID: 64 RVA: 0x000020F8 File Offset: 0x000002F8
 		[global::Cpp2ILInjected.Token(Token = "0x6000042")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F67D58", Offset = "0x1F67D58", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -39,7 +36,6 @@ namespace UnityEngine.Animations
 			throw null;
 		}
 
-		// Token: 0x06000041 RID: 65 RVA: 0x000020FB File Offset: 0x000002FB
 		[global::Cpp2ILInjected.Token(Token = "0x6000043")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F67D64", Offset = "0x1F67D64", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -54,7 +50,6 @@ namespace UnityEngine.Animations
 			throw null;
 		}
 
-		// Token: 0x06000042 RID: 66 RVA: 0x000020FE File Offset: 0x000002FE
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000044")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F67DDC", Offset = "0x1F67DDC", Length = "0x109C")]
@@ -68,12 +63,10 @@ namespace UnityEngine.Animations
 			throw null;
 		}
 
-		// Token: 0x0400004B RID: 75
 		[global::Cpp2ILInjected.Token(Token = "0x400004B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private PlayableHandle m_Handle;
 
-		// Token: 0x0400004C RID: 76
 		[global::Cpp2ILInjected.Token(Token = "0x400004C")]
 		private static readonly AnimationMixerPlayable m_NullPlayable;
 	}

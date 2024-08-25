@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000BC RID: 188
 	[global::Cpp2ILInjected.Token(Token = "0x20000E8")]
 	internal class Datatype_decimal : Datatype_anySimpleType
 	{
-		// Token: 0x0600083C RID: 2108 RVA: 0x0000470C File Offset: 0x0000290C
 		[global::Cpp2ILInjected.Token(Token = "0x60008D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBF270", Offset = "0x1DBF270", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -17,8 +15,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x17000213 RID: 531
-		// (get) Token: 0x0600083D RID: 2109 RVA: 0x0000470F File Offset: 0x0000290F
 		[global::Cpp2ILInjected.Token(Token = "0x17000239")]
 		internal override FacetsChecker FacetsChecker
 		{
@@ -32,8 +28,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x17000214 RID: 532
-		// (get) Token: 0x0600083E RID: 2110 RVA: 0x00004712 File Offset: 0x00002912
 		[global::Cpp2ILInjected.Token(Token = "0x1700023A")]
 		public override XmlTypeCode TypeCode
 		{
@@ -46,8 +40,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x17000215 RID: 533
-		// (get) Token: 0x0600083F RID: 2111 RVA: 0x00004715 File Offset: 0x00002915
 		[global::Cpp2ILInjected.Token(Token = "0x1700023B")]
 		public override Type ValueType
 		{
@@ -61,8 +53,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x17000216 RID: 534
-		// (get) Token: 0x06000840 RID: 2112 RVA: 0x00004718 File Offset: 0x00002918
 		[global::Cpp2ILInjected.Token(Token = "0x1700023C")]
 		internal override Type ListValueType
 		{
@@ -76,8 +66,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x17000217 RID: 535
-		// (get) Token: 0x06000841 RID: 2113 RVA: 0x0000471B File Offset: 0x0000291B
 		[global::Cpp2ILInjected.Token(Token = "0x1700023D")]
 		internal override XmlSchemaWhiteSpace BuiltInWhitespaceFacet
 		{
@@ -90,7 +78,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x06000842 RID: 2114 RVA: 0x0000471E File Offset: 0x0000291E
 		[global::Cpp2ILInjected.Token(Token = "0x60008D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBF3E8", Offset = "0x1DBF3E8", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -102,7 +89,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000843 RID: 2115 RVA: 0x00004721 File Offset: 0x00002921
 		[global::Cpp2ILInjected.Token(Token = "0x60008D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBF49C", Offset = "0x1DBF49C", Length = "0x158")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -118,7 +104,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000844 RID: 2116 RVA: 0x00004724 File Offset: 0x00002924
 		[global::Cpp2ILInjected.Token(Token = "0x60008D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBF5F4", Offset = "0x1DBF5F4", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DatatypeImplementation), Member = ".cctor", ReturnType = typeof(void))]
@@ -132,7 +117,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000845 RID: 2117 RVA: 0x00004727 File Offset: 0x00002927
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60008DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBF648", Offset = "0x1DBF648", Length = "0x180")]
@@ -154,15 +138,12 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0400035F RID: 863
 		[global::Cpp2ILInjected.Token(Token = "0x40004D9")]
 		private static readonly Type atomicValueType;
 
-		// Token: 0x04000360 RID: 864
 		[global::Cpp2ILInjected.Token(Token = "0x40004DA")]
 		private static readonly Type listValueType;
 
-		// Token: 0x04000361 RID: 865
 		[global::Cpp2ILInjected.Token(Token = "0x40004DB")]
 		private static readonly FacetsChecker numeric10FacetsChecker;
 	}

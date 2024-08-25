@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x0200005F RID: 95
 	[global::Cpp2ILInjected.Token(Token = "0x200007E")]
 	public class XmlProcessingInstruction : XmlLinkedNode
 	{
-		// Token: 0x06000584 RID: 1412 RVA: 0x00003F41 File Offset: 0x00002141
 		[global::Cpp2ILInjected.Token(Token = "0x6000606")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D95E4C", Offset = "0x1D95E4C", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlDocument), Member = "CreateProcessingInstruction", MemberParameters = new object[]
@@ -23,8 +21,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x1700016F RID: 367
-		// (get) Token: 0x06000585 RID: 1413 RVA: 0x00003F44 File Offset: 0x00002144
 		[global::Cpp2ILInjected.Token(Token = "0x17000193")]
 		public override string Name
 		{
@@ -38,8 +34,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000170 RID: 368
-		// (get) Token: 0x06000586 RID: 1414 RVA: 0x00003F47 File Offset: 0x00002147
 		[global::Cpp2ILInjected.Token(Token = "0x17000194")]
 		public override string LocalName
 		{
@@ -53,9 +47,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000171 RID: 369
-		// (get) Token: 0x06000587 RID: 1415 RVA: 0x00003F4A File Offset: 0x0000214A
-		// (set) Token: 0x06000588 RID: 1416 RVA: 0x00003F4D File Offset: 0x0000214D
 		[global::Cpp2ILInjected.Token(Token = "0x17000195")]
 		public override string Value
 		{
@@ -76,8 +67,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000172 RID: 370
-		// (set) Token: 0x06000589 RID: 1417 RVA: 0x00003F50 File Offset: 0x00002150
 		[global::Cpp2ILInjected.Token(Token = "0x17000196")]
 		public string Data
 		{
@@ -93,9 +82,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000173 RID: 371
-		// (get) Token: 0x0600058A RID: 1418 RVA: 0x00003F53 File Offset: 0x00002153
-		// (set) Token: 0x0600058B RID: 1419 RVA: 0x00003F56 File Offset: 0x00002156
 		[global::Cpp2ILInjected.Token(Token = "0x17000197")]
 		public override string InnerText
 		{
@@ -116,8 +102,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x17000174 RID: 372
-		// (get) Token: 0x0600058C RID: 1420 RVA: 0x00003F59 File Offset: 0x00002159
 		[global::Cpp2ILInjected.Token(Token = "0x17000198")]
 		public override XmlNodeType NodeType
 		{
@@ -130,7 +114,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x0600058D RID: 1421 RVA: 0x00003F5C File Offset: 0x0000215C
 		[global::Cpp2ILInjected.Token(Token = "0x600060F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D9A814", Offset = "0x1D9A814", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -141,12 +124,10 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x040001FF RID: 511
 		[global::Cpp2ILInjected.Token(Token = "0x40002FC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string target;
 
-		// Token: 0x04000200 RID: 512
 		[global::Cpp2ILInjected.Token(Token = "0x40002FD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private string data;

@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x020000E5 RID: 229
 	[global::Cpp2ILInjected.Token(Token = "0x2000117")]
 	[global::System.Serializable]
 	public class UnauthorizedAccessException : global::System.SystemException
 	{
-		// Token: 0x06000A59 RID: 2649 RVA: 0x00016313 File Offset: 0x00014513
 		[global::Cpp2ILInjected.Token(Token = "0x6000B01")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C52FA4", Offset = "0x1C52FA4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000A5A RID: 2650 RVA: 0x00016316 File Offset: 0x00014516
 		[global::Cpp2ILInjected.Token(Token = "0x6000B02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C52FFC", Offset = "0x1C52FFC", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +53,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000A5B RID: 2651 RVA: 0x00016319 File Offset: 0x00014519
 		[global::Cpp2ILInjected.Token(Token = "0x6000B03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5301C", Offset = "0x1C5301C", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +73,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000A5C RID: 2652 RVA: 0x0001631C File Offset: 0x0001451C
 		[global::Cpp2ILInjected.Token(Token = "0x6000B04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5303C", Offset = "0x1C5303C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

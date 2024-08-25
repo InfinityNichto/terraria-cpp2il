@@ -7,13 +7,11 @@ using Newtonsoft.Json;
 using Terraria.IO;
 using Terraria.Localization;
 
-// Token: 0x020001BA RID: 442
 [JsonObject(MemberSerialization.OptIn)]
 [global::Cpp2ILInjected.Token(Token = "0x200024C")]
 [Serializable]
 public class VirtualControlsProfile_Layout
 {
-	// Token: 0x06000C23 RID: 3107 RVA: 0x00023FAE File Offset: 0x000221AE
 	[global::Cpp2ILInjected.Token(Token = "0x6000D3D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D60D8", Offset = "0x9D60D8", Length = "0x44")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -24,7 +22,6 @@ public class VirtualControlsProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000C24 RID: 3108 RVA: 0x00023FB1 File Offset: 0x000221B1
 	[global::Cpp2ILInjected.Token(Token = "0x6000D3E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D611C", Offset = "0x9D611C", Length = "0x188")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -54,13 +51,73 @@ public class VirtualControlsProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x17000148 RID: 328
-	// (get) Token: 0x06000C25 RID: 3109 RVA: 0x00023FB4 File Offset: 0x000221B4
 	[global::Cpp2ILInjected.Token(Token = "0x1700016F")]
 	public VirtualControlsHardwareConfiguration_Layout HardwareConfig
 	{
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9D62A4", Offset = "0x9D62A4", Length = "0x7C")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfo), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "GetPressedControlPosition", MemberParameters = new object[]
+		{
+			typeof(VirtualControlsHardwareConfigurationMapping_Layout.ContolType),
+			typeof(ref VirtualControlsHardwareConfigurationMapping_Layout)
+		}, ReturnType = typeof(Vector2))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "Update", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "SecondaryUpdateCursor", MemberParameters = new object[] { typeof(Cursor) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "UpdateCursor", MemberParameters = new object[] { typeof(Cursor) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "DrawControls", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "DrawMapControls", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlAnchor), Member = "get_LeftControls", ReturnType = typeof(Vector2))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlAnchor), Member = "set_LeftControls", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlAnchor), Member = "get_RightControls", ReturnType = typeof(Vector2))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlAnchor), Member = "set_RightControls", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(VirtualControlsStyles_Layout), Member = "SetActiveProfile", MemberParameters = new object[] { typeof(VirtualControlsProfile_Layout) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "Backup", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "AddControlUndo", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "HasUndo", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "ControlUndo", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "ControlRedo", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "RestoreDefaults", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "RestoreBackup", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DrawHardware", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "UpdateStyleOptions", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "ChangeStyle", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "GetSlotOver", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(ref Vector2)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "ClampSlotToScreen", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "ControlsItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "ControlsItemDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "RemoveSlot", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "CreateNewSlot", MemberParameters = new object[]
+		{
+			typeof(VirtualControlsSlotTypeMapping_Layout.SlotType),
+			typeof(string),
+			typeof(Vector2)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "HandleSlotChangeType", MemberParameters = new object[]
+		{
+			typeof(VirtualControlsHardwareConfiguration_Layout),
+			typeof(int),
+			typeof(VirtualControlsSlotTypeMapping_Layout.SlotType)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "LoadSlotPosition", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "SetPageControlsAndAdjust", MemberParameters = new object[] { typeof(GUIPageIcons.PageControlsType) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DraggingControlInBadPosition", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DrawControls", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 62)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(string), Member = "op_Inequality", MemberParameters = new object[]
 		{
@@ -75,7 +132,6 @@ public class VirtualControlsProfile_Layout
 		}
 	}
 
-	// Token: 0x06000C26 RID: 3110 RVA: 0x00023FB7 File Offset: 0x000221B7
 	[global::Cpp2ILInjected.Token(Token = "0x6000D40")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D638C", Offset = "0x9D638C", Length = "0x108")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -97,7 +153,6 @@ public class VirtualControlsProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000C27 RID: 3111 RVA: 0x00023FBA File Offset: 0x000221BA
 	[global::Cpp2ILInjected.Token(Token = "0x6000D41")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D6494", Offset = "0x9D6494", Length = "0x8C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -115,7 +170,6 @@ public class VirtualControlsProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000C28 RID: 3112 RVA: 0x00023FBD File Offset: 0x000221BD
 	[global::Cpp2ILInjected.Token(Token = "0x6000D42")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D6520", Offset = "0x9D6520", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit.BackupResotrePoint), Member = ".ctor", MemberParameters = new object[]
@@ -131,30 +185,25 @@ public class VirtualControlsProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x04001376 RID: 4982
 	[JsonProperty]
 	[global::Cpp2ILInjected.Token(Token = "0x400184E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public string Id;
 
-	// Token: 0x04001377 RID: 4983
 	[JsonProperty]
 	[global::Cpp2ILInjected.Token(Token = "0x400184F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public string EditedName;
 
-	// Token: 0x04001378 RID: 4984
 	[JsonProperty]
 	[global::Cpp2ILInjected.Token(Token = "0x4001850")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public string Hardware;
 
-	// Token: 0x04001379 RID: 4985
 	[global::Cpp2ILInjected.Token(Token = "0x4001851")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private VirtualControlsHardwareConfiguration_Layout _cachedHardware;
 
-	// Token: 0x0400137A RID: 4986
 	[JsonProperty]
 	[global::Cpp2ILInjected.Token(Token = "0x4001852")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]

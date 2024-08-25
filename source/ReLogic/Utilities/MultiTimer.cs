@@ -7,11 +7,9 @@ using Terraria;
 
 namespace ReLogic.Utilities
 {
-	// Token: 0x0200070F RID: 1807
 	[global::Cpp2ILInjected.Token(Token = "0x2000B03")]
 	public class MultiTimer
 	{
-		// Token: 0x060045E3 RID: 17891 RVA: 0x0002E81D File Offset: 0x0002CA1D
 		[global::Cpp2ILInjected.Token(Token = "0x600527B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93E2A0", Offset = "0x93E2A0", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FrameSkipTest), Member = ".cctor", ReturnType = typeof(void))]
@@ -25,7 +23,6 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x060045E4 RID: 17892 RVA: 0x0002E820 File Offset: 0x0002CA20
 		[global::Cpp2ILInjected.Token(Token = "0x600527C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93E35C", Offset = "0x93E35C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FrameSkipTest), Member = "UpdateServerTest", ReturnType = typeof(void))]
@@ -37,7 +34,6 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x060045E5 RID: 17893 RVA: 0x0002E823 File Offset: 0x0002CA23
 		[global::Cpp2ILInjected.Token(Token = "0x600527D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93E380", Offset = "0x93E380", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +66,6 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x060045E6 RID: 17894 RVA: 0x0002E826 File Offset: 0x0002CA26
 		[global::Cpp2ILInjected.Token(Token = "0x600527E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93E560", Offset = "0x93E560", Length = "0x784")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -108,32 +103,25 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x04007149 RID: 29001
 		[global::Cpp2ILInjected.Token(Token = "0x4008AC3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly int _ticksBetweenPrint;
 
-		// Token: 0x0400714A RID: 29002
 		[global::Cpp2ILInjected.Token(Token = "0x4008AC4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private int _ticksElapsedForPrint;
 
-		// Token: 0x0400714B RID: 29003
 		[global::Cpp2ILInjected.Token(Token = "0x4008AC5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly Stopwatch _timer;
 
-		// Token: 0x0400714C RID: 29004
 		[global::Cpp2ILInjected.Token(Token = "0x4008AC6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private readonly Dictionary<string, MultiTimer.TimerData> _timerDataMap;
 
-		// Token: 0x02000AD0 RID: 2768
 		[global::Cpp2ILInjected.Token(Token = "0x2000B04")]
 		private struct TimerData
 		{
-			// Token: 0x17000909 RID: 2313
-			// (get) Token: 0x060052C4 RID: 21188 RVA: 0x00030992 File Offset: 0x0002EB92
 			[global::Cpp2ILInjected.Token(Token = "0x170008DF")]
 			public double Average
 			{
@@ -147,7 +135,6 @@ namespace ReLogic.Utilities
 				}
 			}
 
-			// Token: 0x060052C5 RID: 21189 RVA: 0x00030995 File Offset: 0x0002EB95
 			[global::Cpp2ILInjected.Token(Token = "0x6005280")]
 			[global::Cpp2ILInjected.Address(RVA = "0x93ECF0", Offset = "0x93ECF0", Length = "0xC")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -156,7 +143,6 @@ namespace ReLogic.Utilities
 				throw null;
 			}
 
-			// Token: 0x060052C6 RID: 21190 RVA: 0x00030998 File Offset: 0x0002EB98
 			[global::Cpp2ILInjected.Token(Token = "0x6005281")]
 			[global::Cpp2ILInjected.Address(RVA = "0x93E4AC", Offset = "0x93E4AC", Length = "0x14")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -165,7 +151,6 @@ namespace ReLogic.Utilities
 				throw null;
 			}
 
-			// Token: 0x060052C7 RID: 21191 RVA: 0x0003099B File Offset: 0x0002EB9B
 			[global::Cpp2ILInjected.Token(Token = "0x6005282")]
 			[global::Cpp2ILInjected.Address(RVA = "0x93E4C0", Offset = "0x93E4C0", Length = "0xA0")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MultiTimer), Member = "Record", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -186,22 +171,18 @@ namespace ReLogic.Utilities
 				throw null;
 			}
 
-			// Token: 0x04008F86 RID: 36742
 			[global::Cpp2ILInjected.Token(Token = "0x4008AC7")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public readonly double Min;
 
-			// Token: 0x04008F87 RID: 36743
 			[global::Cpp2ILInjected.Token(Token = "0x4008AC8")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			public readonly double Max;
 
-			// Token: 0x04008F88 RID: 36744
 			[global::Cpp2ILInjected.Token(Token = "0x4008AC9")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public readonly double Ticks;
 
-			// Token: 0x04008F89 RID: 36745
 			[global::Cpp2ILInjected.Token(Token = "0x4008ACA")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public readonly double Total;

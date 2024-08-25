@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections
 {
-	// Token: 0x020004EE RID: 1262
 	[global::Cpp2ILInjected.Token(Token = "0x20005E2")]
 	internal static class HashHelpers
 	{
-		// Token: 0x06002A3A RID: 10810 RVA: 0x0001BAE8 File Offset: 0x00019CE8
 		[global::Cpp2ILInjected.Token(Token = "0x6002D9E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C06ECC", Offset = "0x1C06ECC", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A3B RID: 10811 RVA: 0x0001BAEB File Offset: 0x00019CEB
 		[global::Cpp2ILInjected.Token(Token = "0x6002D9F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C06F7C", Offset = "0x1C06F7C", Length = "0x170")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -46,7 +43,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A3C RID: 10812 RVA: 0x0001BAEE File Offset: 0x00019CEE
 		[global::Cpp2ILInjected.Token(Token = "0x6002DA0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C070EC", Offset = "0x1C070EC", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,8 +58,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x1700065E RID: 1630
-		// (get) Token: 0x06002A3D RID: 10813 RVA: 0x0001BAF1 File Offset: 0x00019CF1
 		[global::Cpp2ILInjected.Token(Token = "0x170006F5")]
 		internal static global::System.Runtime.CompilerServices.ConditionalWeakTable<object, global::System.Runtime.Serialization.SerializationInfo> SerializationInfoTable
 		{
@@ -84,7 +78,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x06002A3E RID: 10814 RVA: 0x0001BAF4 File Offset: 0x00019CF4
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6002DA2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C07248", Offset = "0x1C07248", Length = "0x94")]
@@ -100,11 +93,9 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x040015B1 RID: 5553
 		[global::Cpp2ILInjected.Token(Token = "0x40019A1")]
 		public static readonly int[] primes;
 
-		// Token: 0x040015B2 RID: 5554
 		[global::Cpp2ILInjected.Token(Token = "0x40019A2")]
 		private static global::System.Runtime.CompilerServices.ConditionalWeakTable<object, global::System.Runtime.Serialization.SerializationInfo> s_serializationInfoTable;
 	}

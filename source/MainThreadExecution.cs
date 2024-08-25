@@ -11,11 +11,9 @@ using Terraria.IO;
 using Terraria.WorldBuilding;
 using UnityEngine;
 
-// Token: 0x02000038 RID: 56
 [global::Cpp2ILInjected.Token(Token = "0x200005B")]
 public class MainThreadExecution
 {
-	// Token: 0x0600015A RID: 346 RVA: 0x00021F86 File Offset: 0x00020186
 	[global::Cpp2ILInjected.Token(Token = "0x60001E5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x709E74", Offset = "0x709E74", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -27,7 +25,6 @@ public class MainThreadExecution
 		throw null;
 	}
 
-	// Token: 0x0600015B RID: 347 RVA: 0x00021F89 File Offset: 0x00020189
 	[global::Cpp2ILInjected.Token(Token = "0x60001E6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7038B0", Offset = "0x7038B0", Length = "0x190")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -66,7 +63,6 @@ public class MainThreadExecution
 		throw null;
 	}
 
-	// Token: 0x0600015C RID: 348 RVA: 0x00021F8C File Offset: 0x0002018C
 	[global::Cpp2ILInjected.Token(Token = "0x60001E7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A08C", Offset = "0x70A08C", Length = "0x8C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MainThreadExecution), Member = "ExecuteSnippets", ReturnType = typeof(void))]
@@ -80,7 +76,6 @@ public class MainThreadExecution
 		throw null;
 	}
 
-	// Token: 0x0600015D RID: 349 RVA: 0x00021F8F File Offset: 0x0002018F
 	[global::Cpp2ILInjected.Token(Token = "0x60001E8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7012F4", Offset = "0x7012F4", Length = "0x78")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DrPlatform), Member = "Update", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
@@ -93,7 +88,6 @@ public class MainThreadExecution
 		throw null;
 	}
 
-	// Token: 0x0600015E RID: 350 RVA: 0x00021F92 File Offset: 0x00020192
 	[global::Cpp2ILInjected.Token(Token = "0x60001E9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x709F38", Offset = "0x709F38", Length = "0x78")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MainThreadExecution), Member = "ExecuteOnMainThread", MemberParameters = new object[]
@@ -109,7 +103,6 @@ public class MainThreadExecution
 		throw null;
 	}
 
-	// Token: 0x0600015F RID: 351 RVA: 0x00021F95 File Offset: 0x00020195
 	[global::Cpp2ILInjected.Token(Token = "0x60001EA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A118", Offset = "0x70A118", Length = "0xD0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -127,7 +120,6 @@ public class MainThreadExecution
 		throw null;
 	}
 
-	// Token: 0x06000160 RID: 352 RVA: 0x00021F98 File Offset: 0x00020198
 	[global::Cpp2ILInjected.Token(Token = "0x60001EB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x709FB0", Offset = "0x709FB0", Length = "0xDC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -150,7 +142,6 @@ public class MainThreadExecution
 		throw null;
 	}
 
-	// Token: 0x06000161 RID: 353 RVA: 0x00021F9B File Offset: 0x0002019B
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x60001EC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A1E8", Offset = "0x70A1E8", Length = "0xDC")]
@@ -163,36 +154,28 @@ public class MainThreadExecution
 		throw null;
 	}
 
-	// Token: 0x040000EB RID: 235
 	[global::Cpp2ILInjected.Token(Token = "0x40001DE")]
 	private static List<ManagedThread> ExcludedThreads;
 
-	// Token: 0x040000EC RID: 236
 	[global::Cpp2ILInjected.Token(Token = "0x40001DF")]
 	private static ConcurrentQueue<MainThreadExecution> _pendingRequests;
 
-	// Token: 0x040000ED RID: 237
 	[global::Cpp2ILInjected.Token(Token = "0x40001E0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private object _lockObject;
 
-	// Token: 0x040000EE RID: 238
 	[global::Cpp2ILInjected.Token(Token = "0x40001E1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private MainThreadExecution.ExecutionSnippet _snippet;
 
-	// Token: 0x040000EF RID: 239
 	[global::Cpp2ILInjected.Token(Token = "0x40001E2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private object _data;
 
-	// Token: 0x040000F0 RID: 240
 	[global::Cpp2ILInjected.Token(Token = "0x40001E3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private bool _completed;
 
-	// Token: 0x02000785 RID: 1925
-	// (Invoke) Token: 0x0600485F RID: 18527
 	[global::Cpp2ILInjected.Token(Token = "0x200005C")]
 	public delegate void ExecutionSnippet(object data);
 }

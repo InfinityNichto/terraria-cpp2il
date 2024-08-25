@@ -1,9 +1,0 @@
-<map id="UnityEngine.Pool.ObjectPool&lt; T &gt;" name="UnityEngine.Pool.ObjectPool&lt; T &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="180,120,505,621"/>
-<area shape="rect" id="Node000003" href="$d6/dcf/classUnityEngine_1_1Pool_1_1ObjectPool.html" title=" " alt="" coords="5,699,331,1215"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,635,247,699,242,698,261,634"/>
-<area shape="rect" id="Node000004" href="$d6/dcf/classUnityEngine_1_1Pool_1_1ObjectPool.html" title=" " alt="" coords="355,699,680,1215"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="424,634,443,698,438,699,419,635"/>
-<area shape="rect" id="Node000002" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="281,5,404,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,84,345,120,340,120,340,84"/>
-</map>

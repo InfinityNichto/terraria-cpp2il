@@ -11,11 +11,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006D6 RID: 1750
 	[global::Cpp2ILInjected.Token(Token = "0x2000ABA")]
 	public class UIImageButton : UIElement
 	{
-		// Token: 0x06004494 RID: 17556 RVA: 0x0002E45D File Offset: 0x0002C65D
 		[global::Cpp2ILInjected.Token(Token = "0x60050E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x928200", Offset = "0x928200", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +49,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004495 RID: 17557 RVA: 0x0002E460 File Offset: 0x0002C660
 		[global::Cpp2ILInjected.Token(Token = "0x60050E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92A030", Offset = "0x92A030", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -60,7 +57,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004496 RID: 17558 RVA: 0x0002E463 File Offset: 0x0002C663
 		[global::Cpp2ILInjected.Token(Token = "0x60050E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92A038", Offset = "0x92A038", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -78,7 +74,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004497 RID: 17559 RVA: 0x0002E466 File Offset: 0x0002C666
 		[global::Cpp2ILInjected.Token(Token = "0x60050E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9286E4", Offset = "0x9286E4", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -102,7 +97,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004498 RID: 17560 RVA: 0x0002E469 File Offset: 0x0002C669
 		[global::Cpp2ILInjected.Token(Token = "0x60050EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9288DC", Offset = "0x9288DC", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -121,7 +115,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004499 RID: 17561 RVA: 0x0002E46C File Offset: 0x0002C66C
 		[global::Cpp2ILInjected.Token(Token = "0x60050EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x928928", Offset = "0x928928", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -131,7 +124,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600449A RID: 17562 RVA: 0x0002E46F File Offset: 0x0002C66F
 		[global::Cpp2ILInjected.Token(Token = "0x60050EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92A0DC", Offset = "0x92A0DC", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIBestiaryTest), Member = "AddBackAndForwardButtons", MemberParameters = new object[] { typeof(UIElement) }, ReturnType = typeof(void))]
@@ -158,22 +150,18 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04007062 RID: 28770
 		[global::Cpp2ILInjected.Token(Token = "0x40089A9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private Asset<Texture2D> _texture;
 
-		// Token: 0x04007063 RID: 28771
 		[global::Cpp2ILInjected.Token(Token = "0x40089AA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private float _visibilityActive;
 
-		// Token: 0x04007064 RID: 28772
 		[global::Cpp2ILInjected.Token(Token = "0x40089AB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x154")]
 		private float _visibilityInactive;
 
-		// Token: 0x04007065 RID: 28773
 		[global::Cpp2ILInjected.Token(Token = "0x40089AC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x158")]
 		private Asset<Texture2D> _borderTexture;

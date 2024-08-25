@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.CompilerServices
 {
-	// Token: 0x020003DA RID: 986
 	[global::Cpp2ILInjected.Token(Token = "0x200048E")]
 	public struct AsyncVoidMethodBuilder
 	{
-		// Token: 0x06001FF2 RID: 8178 RVA: 0x00019E77 File Offset: 0x00018077
 		[global::Cpp2ILInjected.Token(Token = "0x6002257")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B744EC", Offset = "0x1B744EC", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +41,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FF3 RID: 8179 RVA: 0x00019E7A File Offset: 0x0001807A
 		[global::System.Diagnostics.DebuggerStepThrough]
 		[global::Cpp2ILInjected.Token(Token = "0x6002258")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15752E8", Offset = "0x15752E8", Length = "0x1AC")]
@@ -60,7 +57,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FF4 RID: 8180 RVA: 0x00019E7D File Offset: 0x0001807D
 		[global::Cpp2ILInjected.Token(Token = "0x6002259")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B7452C", Offset = "0x1B7452C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest.<CreateConnectionAsync>d__86", Member = "SetStateMachine", MemberParameters = new object[] { typeof(IAsyncStateMachine) }, ReturnType = typeof(void))]
@@ -73,7 +69,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FF5 RID: 8181 RVA: 0x00019E80 File Offset: 0x00018080
 		[global::Cpp2ILInjected.Token(Token = "0x600225A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1573BD4", Offset = "0x1573BD4", Length = "0x250")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -119,7 +114,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FF6 RID: 8182 RVA: 0x00019E83 File Offset: 0x00018083
 		[global::Cpp2ILInjected.Token(Token = "0x600225B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B745F0", Offset = "0x1B745F0", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest.<CreateConnectionAsync>d__86", Member = "MoveNext", ReturnType = typeof(void))]
@@ -142,7 +136,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FF7 RID: 8183 RVA: 0x00019E86 File Offset: 0x00018086
 		[global::Cpp2ILInjected.Token(Token = "0x600225C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B74744", Offset = "0x1B74744", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -173,7 +166,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FF8 RID: 8184 RVA: 0x00019E89 File Offset: 0x00018089
 		[global::Cpp2ILInjected.Token(Token = "0x600225D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B746A8", Offset = "0x1B746A8", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -191,8 +183,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x17000413 RID: 1043
-		// (get) Token: 0x06001FF9 RID: 8185 RVA: 0x00019E8C File Offset: 0x0001808C
 		[global::Cpp2ILInjected.Token(Token = "0x17000477")]
 		internal global::System.Threading.Tasks.Task Task
 		{
@@ -210,17 +200,14 @@ namespace System.Runtime.CompilerServices
 			}
 		}
 
-		// Token: 0x04000FC5 RID: 4037
 		[global::Cpp2ILInjected.Token(Token = "0x40012C7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private global::System.Threading.SynchronizationContext m_synchronizationContext;
 
-		// Token: 0x04000FC6 RID: 4038
 		[global::Cpp2ILInjected.Token(Token = "0x40012C8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private AsyncMethodBuilderCore m_coreState;
 
-		// Token: 0x04000FC7 RID: 4039
 		[global::Cpp2ILInjected.Token(Token = "0x40012C9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private global::System.Threading.Tasks.Task m_task;

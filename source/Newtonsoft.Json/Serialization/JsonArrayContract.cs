@@ -9,14 +9,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Serialization
 {
-	// Token: 0x02000076 RID: 118
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x2000098")]
 	public class JsonArrayContract : JsonContainerContract
 	{
-		// Token: 0x170000D4 RID: 212
-		// (get) Token: 0x060004DA RID: 1242 RVA: 0x00002EE5 File Offset: 0x000010E5
-		// (set) Token: 0x060004DB RID: 1243 RVA: 0x00002EE8 File Offset: 0x000010E8
 		[global::Cpp2ILInjected.Token(Token = "0x170000DC")]
 		public Type CollectionItemType
 		{
@@ -38,9 +34,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x170000D5 RID: 213
-		// (get) Token: 0x060004DC RID: 1244 RVA: 0x00002EEB File Offset: 0x000010EB
-		// (set) Token: 0x060004DD RID: 1245 RVA: 0x00002EEE File Offset: 0x000010EE
 		[global::Cpp2ILInjected.Token(Token = "0x170000DD")]
 		public bool IsMultidimensionalArray
 		{
@@ -62,9 +55,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x170000D6 RID: 214
-		// (get) Token: 0x060004DE RID: 1246 RVA: 0x00002EF1 File Offset: 0x000010F1
-		// (set) Token: 0x060004DF RID: 1247 RVA: 0x00002EF4 File Offset: 0x000010F4
 		[global::Cpp2ILInjected.Token(Token = "0x170000DE")]
 		internal bool IsArray
 		{
@@ -86,9 +76,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x170000D7 RID: 215
-		// (get) Token: 0x060004E0 RID: 1248 RVA: 0x00002EF7 File Offset: 0x000010F7
-		// (set) Token: 0x060004E1 RID: 1249 RVA: 0x00002EFA File Offset: 0x000010FA
 		[global::Cpp2ILInjected.Token(Token = "0x170000DF")]
 		internal bool ShouldCreateWrapper
 		{
@@ -110,9 +97,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x170000D8 RID: 216
-		// (get) Token: 0x060004E2 RID: 1250 RVA: 0x00002EFD File Offset: 0x000010FD
-		// (set) Token: 0x060004E3 RID: 1251 RVA: 0x00002F00 File Offset: 0x00001100
 		[global::Cpp2ILInjected.Token(Token = "0x170000E0")]
 		internal bool CanDeserialize
 		{
@@ -134,8 +118,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x170000D9 RID: 217
-		// (get) Token: 0x060004E4 RID: 1252 RVA: 0x00002F03 File Offset: 0x00001103
 		[global::Cpp2ILInjected.Token(Token = "0x170000E1")]
 		internal ObjectConstructor<object> ParameterizedCreator
 		{
@@ -160,9 +142,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x170000DA RID: 218
-		// (get) Token: 0x060004E5 RID: 1253 RVA: 0x00002F06 File Offset: 0x00001106
-		// (set) Token: 0x060004E6 RID: 1254 RVA: 0x00002F09 File Offset: 0x00001109
 		[global::Cpp2ILInjected.Token(Token = "0x170000E2")]
 		public ObjectConstructor<object> OverrideCreator
 		{
@@ -182,9 +161,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x170000DB RID: 219
-		// (get) Token: 0x060004E7 RID: 1255 RVA: 0x00002F0C File Offset: 0x0000110C
-		// (set) Token: 0x060004E8 RID: 1256 RVA: 0x00002F0F File Offset: 0x0000110F
 		[global::Cpp2ILInjected.Token(Token = "0x170000E3")]
 		public bool HasParameterizedCreator
 		{
@@ -206,8 +182,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x170000DC RID: 220
-		// (get) Token: 0x060004E9 RID: 1257 RVA: 0x00002F12 File Offset: 0x00001112
 		[global::Cpp2ILInjected.Token(Token = "0x170000E4")]
 		internal bool HasParameterizedCreatorInternal
 		{
@@ -221,7 +195,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x060004EA RID: 1258 RVA: 0x00002F15 File Offset: 0x00001115
 		[global::Cpp2ILInjected.Token(Token = "0x600054C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CE9104", Offset = "0x1CE9104", Length = "0x810")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -267,7 +240,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x060004EB RID: 1259 RVA: 0x00002F18 File Offset: 0x00001118
 		[global::Cpp2ILInjected.Token(Token = "0x600054D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CEC308", Offset = "0x1CEC308", Length = "0x370")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -314,7 +286,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x060004EC RID: 1260 RVA: 0x00002F1B File Offset: 0x0000111B
 		[global::Cpp2ILInjected.Token(Token = "0x600054E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CEC678", Offset = "0x1CEC678", Length = "0x20C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -333,72 +304,59 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x040001F4 RID: 500
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000251")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC0")]
 		private Type <CollectionItemType>k__BackingField;
 
-		// Token: 0x040001F5 RID: 501
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000252")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC8")]
 		private bool <IsMultidimensionalArray>k__BackingField;
 
-		// Token: 0x040001F6 RID: 502
 		[global::Cpp2ILInjected.Token(Token = "0x4000253")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xD0")]
 		private readonly Type _genericCollectionDefinitionType;
 
-		// Token: 0x040001F7 RID: 503
 		[global::Cpp2ILInjected.Token(Token = "0x4000254")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xD8")]
 		private Type _genericWrapperType;
 
-		// Token: 0x040001F8 RID: 504
 		[global::Cpp2ILInjected.Token(Token = "0x4000255")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xE0")]
 		private ObjectConstructor<object> _genericWrapperCreator;
 
-		// Token: 0x040001F9 RID: 505
 		[global::Cpp2ILInjected.Token(Token = "0x4000256")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xE8")]
 		private Func<object> _genericTemporaryCollectionCreator;
 
-		// Token: 0x040001FA RID: 506
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000257")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xF0")]
 		private bool <IsArray>k__BackingField;
 
-		// Token: 0x040001FB RID: 507
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000258")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xF1")]
 		private bool <ShouldCreateWrapper>k__BackingField;
 
-		// Token: 0x040001FC RID: 508
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000259")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xF2")]
 		private bool <CanDeserialize>k__BackingField;
 
-		// Token: 0x040001FD RID: 509
 		[global::Cpp2ILInjected.Token(Token = "0x400025A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xF8")]
 		private readonly ConstructorInfo _parameterizedConstructor;
 
-		// Token: 0x040001FE RID: 510
 		[global::Cpp2ILInjected.Token(Token = "0x400025B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x100")]
 		private ObjectConstructor<object> _parameterizedCreator;
 
-		// Token: 0x040001FF RID: 511
 		[global::Cpp2ILInjected.Token(Token = "0x400025C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x108")]
 		private ObjectConstructor<object> _overrideCreator;
 
-		// Token: 0x04000200 RID: 512
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400025D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x110")]

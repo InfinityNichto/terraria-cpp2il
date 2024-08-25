@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections
 {
-	// Token: 0x020004ED RID: 1261
 	[global::Cpp2ILInjected.Token(Token = "0x20005E1")]
 	[global::System.Serializable]
 	public struct DictionaryEntry
 	{
-		// Token: 0x06002A37 RID: 10807 RVA: 0x0001BADF File Offset: 0x00019CDF
 		[global::Cpp2ILInjected.Token(Token = "0x6002D9B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C06EB4", Offset = "0x1C06EB4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Runtime.Remoting.Messaging.MessageDictionary.DictionaryEnumerator", Member = "get_Entry", ReturnType = typeof(DictionaryEntry))]
@@ -57,8 +55,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x1700065C RID: 1628
-		// (get) Token: 0x06002A38 RID: 10808 RVA: 0x0001BAE2 File Offset: 0x00019CE2
 		[global::Cpp2ILInjected.Token(Token = "0x170006F3")]
 		public object Key
 		{
@@ -71,8 +67,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x1700065D RID: 1629
-		// (get) Token: 0x06002A39 RID: 10809 RVA: 0x0001BAE5 File Offset: 0x00019CE5
 		[global::Cpp2ILInjected.Token(Token = "0x170006F4")]
 		public object Value
 		{
@@ -85,12 +79,10 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x040015AF RID: 5551
 		[global::Cpp2ILInjected.Token(Token = "0x400199F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private object _key;
 
-		// Token: 0x040015B0 RID: 5552
 		[global::Cpp2ILInjected.Token(Token = "0x40019A0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private object _value;

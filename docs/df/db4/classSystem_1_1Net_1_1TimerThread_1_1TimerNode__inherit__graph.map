@@ -1,7 +1,0 @@
-<map id="System.Net.TimerThread.TimerNode" name="System.Net.TimerThread.TimerNode">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,407,266,765"/>
-<area shape="rect" id="Node000002" href="$db/d2b/classSystem_1_1Net_1_1TimerThread_1_1Timer.html" title=" " alt="" coords="5,119,273,359"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,373,142,407,137,407,137,373"/>
-<area shape="rect" id="Node000003" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="78,5,201,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="142,84,142,119,137,119,137,84"/>
-</map>

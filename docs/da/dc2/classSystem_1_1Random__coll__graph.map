@@ -1,9 +1,0 @@
-<map id="System.Random" name="System.Random">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,599,211,957"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="93,5,123,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,71,101,163,98,380,102,583,97,583,93,380,96,163,102,71"/>
-<area shape="rect" id="Node000003" href="$d6/d60/classSystem_1_1Random.html" title=" " alt="" coords="189,163,395,521"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="126,63,183,157,179,160,121,66"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,523,192,585,188,583,214,520"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="397,304,414,318,421,342,419,358,411,370,406,367,414,356,416,342,410,321,393,308"/>
-</map>

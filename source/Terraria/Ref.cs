@@ -8,11 +8,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria
 {
-	// Token: 0x02000342 RID: 834
 	[global::Cpp2ILInjected.Token(Token = "0x2000458")]
 	public class Ref<T>
 	{
-		// Token: 0x06002721 RID: 10017 RVA: 0x00028F9A File Offset: 0x0002719A
 		[global::Cpp2ILInjected.Token(Token = "0x60029DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1862904", Offset = "0x1862904", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -23,7 +21,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002722 RID: 10018 RVA: 0x00028F9D File Offset: 0x0002719D
 		[global::Cpp2ILInjected.Token(Token = "0x60029DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x186290C", Offset = "0x186290C", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -55,7 +52,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x04002F12 RID: 12050
 		[global::Cpp2ILInjected.Token(Token = "0x40036F2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public T Value;

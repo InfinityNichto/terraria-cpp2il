@@ -7,11 +7,9 @@ using Mono.Net.Security;
 
 namespace Mono.Unity
 {
-	// Token: 0x02000009 RID: 9
 	[global::Cpp2ILInjected.Token(Token = "0x200000E")]
 	internal static class CertHelper
 	{
-		// Token: 0x06000023 RID: 35 RVA: 0x00002E9A File Offset: 0x0000109A
 		[global::Cpp2ILInjected.Token(Token = "0x6000039")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D41628", Offset = "0x1D41628", Length = "0x1C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +40,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x06000024 RID: 36 RVA: 0x00002E9D File Offset: 0x0000109D
 		[global::Cpp2ILInjected.Token(Token = "0x600003A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D417EC", Offset = "0x1D417EC", Length = "0x1A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

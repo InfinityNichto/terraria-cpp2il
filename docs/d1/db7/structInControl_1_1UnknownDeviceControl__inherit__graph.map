@@ -1,9 +1,0 @@
-<map id="InControl.UnknownDeviceControl" name="InControl.UnknownDeviceControl">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,263,241,853"/>
-<area shape="rect" id="Node000004" href="$dc/d12/structInControl_1_1UnknownDeviceControl.html" title=" " alt="" coords="5,916,241,1521"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="126,867,126,916,121,916,121,867"/>
-<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="21,133,225,213"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,227,126,262,121,262,121,227"/>
-<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="36,5,211,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,84,126,133,121,133,121,84"/>
-</map>

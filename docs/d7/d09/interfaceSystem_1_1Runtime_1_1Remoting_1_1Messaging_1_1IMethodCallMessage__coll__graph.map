@@ -1,8 +1,0 @@
-<map id="System.Runtime.Remoting.Messaging.IMethodCallMessage" name="System.Runtime.Remoting.Messaging.IMethodCallMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,416,229,496"/>
-<area shape="rect" id="Node000002" href="$d6/dbf/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMethodMessage.html" title=" " alt="" coords="86,133,287,368"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,382,133,417,128,415,140,380"/>
-<area shape="rect" id="Node000003" href="$d0/d5e/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMessage.html" title=" " alt="" coords="15,5,220,85"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="90,98,77,134,64,199,60,251,64,302,77,367,96,415,91,417,72,369,59,303,54,251,59,198,72,133,85,96"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,98,149,132,144,134,133,99"/>
-</map>

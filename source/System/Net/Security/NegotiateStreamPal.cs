@@ -7,11 +7,9 @@ using Microsoft.Win32.SafeHandles;
 
 namespace System.Net.Security
 {
-	// Token: 0x02000220 RID: 544
 	[global::Cpp2ILInjected.Token(Token = "0x2000310")]
 	internal static class NegotiateStreamPal
 	{
-		// Token: 0x06001239 RID: 4665 RVA: 0x00006257 File Offset: 0x00004457
 		[global::Cpp2ILInjected.Token(Token = "0x6001475")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36044", Offset = "0x1E36044", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NTAuthentication), Member = "GetClientSpecifiedSpn", ReturnType = typeof(string))]
@@ -23,7 +21,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600123A RID: 4666 RVA: 0x0000625A File Offset: 0x0000445A
 		[global::Cpp2ILInjected.Token(Token = "0x6001476")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36090", Offset = "0x1E36090", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +32,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600123B RID: 4667 RVA: 0x0000625D File Offset: 0x0000445D
 		[global::Cpp2ILInjected.Token(Token = "0x6001477")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36124", Offset = "0x1E36124", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +67,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600123C RID: 4668 RVA: 0x00006260 File Offset: 0x00004460
 		[global::Cpp2ILInjected.Token(Token = "0x6001478")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36248", Offset = "0x1E36248", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -109,7 +104,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600123D RID: 4669 RVA: 0x00006263 File Offset: 0x00004463
 		[global::Cpp2ILInjected.Token(Token = "0x6001479")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36378", Offset = "0x1E36378", Length = "0x1D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,7 +146,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600123E RID: 4670 RVA: 0x00006266 File Offset: 0x00004466
 		[global::Cpp2ILInjected.Token(Token = "0x600147A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3654C", Offset = "0x1E3654C", Length = "0x320")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -213,7 +206,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600123F RID: 4671 RVA: 0x00006269 File Offset: 0x00004469
 		[global::Cpp2ILInjected.Token(Token = "0x600147B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36920", Offset = "0x1E36920", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -242,7 +234,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06001240 RID: 4672 RVA: 0x0000626C File Offset: 0x0000446C
 		[global::Cpp2ILInjected.Token(Token = "0x600147C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36AA4", Offset = "0x1E36AA4", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NTAuthentication), Member = "GetOutgoingBlob", MemberParameters = new object[]
@@ -259,7 +250,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06001241 RID: 4673 RVA: 0x0000626F File Offset: 0x0000446F
 		[global::Cpp2ILInjected.Token(Token = "0x600147D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36AF0", Offset = "0x1E36AF0", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -282,7 +272,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06001242 RID: 4674 RVA: 0x00006272 File Offset: 0x00004472
 		[global::Cpp2ILInjected.Token(Token = "0x600147E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36BAC", Offset = "0x1E36BAC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NTAuthentication), Member = "Initialize", MemberParameters = new object[]
@@ -300,7 +289,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06001243 RID: 4675 RVA: 0x00006275 File Offset: 0x00004475
 		[global::Cpp2ILInjected.Token(Token = "0x600147F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36BB4", Offset = "0x1E36BB4", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NTAuthentication), Member = "Initialize", MemberParameters = new object[]
@@ -325,7 +313,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06001244 RID: 4676 RVA: 0x00006278 File Offset: 0x00004478
 		[global::Cpp2ILInjected.Token(Token = "0x6001480")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E36C4C", Offset = "0x1E36C4C", Length = "0x2A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -368,7 +355,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06001245 RID: 4677 RVA: 0x0000627B File Offset: 0x0000447B
 		[global::Cpp2ILInjected.Token(Token = "0x6001481")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E370B8", Offset = "0x1E370B8", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NTAuthentication), Member = "GetOutgoingBlob", MemberParameters = new object[]
@@ -388,7 +374,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06001246 RID: 4678 RVA: 0x0000627E File Offset: 0x0000447E
 		[global::Cpp2ILInjected.Token(Token = "0x6001482")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E370E8", Offset = "0x1E370E8", Length = "0x1A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -419,7 +404,6 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06001247 RID: 4679 RVA: 0x00006281 File Offset: 0x00004481
 		[global::Cpp2ILInjected.Token(Token = "0x6001483")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3728C", Offset = "0x1E3728C", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

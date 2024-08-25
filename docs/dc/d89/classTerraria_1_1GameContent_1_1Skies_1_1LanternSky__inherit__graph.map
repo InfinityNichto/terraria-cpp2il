@@ -1,7 +1,0 @@
-<map id="Terraria.GameContent.Skies.LanternSky" name="Terraria.GameContent.Skies.LanternSky">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,655,305,1265"/>
-<area shape="rect" id="Node000002" href="$d7/da8/classTerraria_1_1Graphics_1_1Effects_1_1CustomSky.html" title=" " alt="" coords="47,343,263,607"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,621,158,654,153,654,153,621"/>
-<area shape="rect" id="Node000003" href="$d1/d23/classTerraria_1_1Graphics_1_1Effects_1_1GameEffect.html" title=" " alt="" coords="63,5,248,295"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,308,158,342,153,342,153,308"/>
-</map>

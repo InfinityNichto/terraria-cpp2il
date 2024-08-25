@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Linq
 {
-	// Token: 0x02000011 RID: 17
 	[global::Cpp2ILInjected.Token(Token = "0x2000017")]
 	public sealed class XNamespace
 	{
-		// Token: 0x06000081 RID: 129 RVA: 0x000021D0 File Offset: 0x000003D0
 		[global::Cpp2ILInjected.Token(Token = "0x600009A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E394", Offset = "0x1D6E394", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,8 +39,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x1700001B RID: 27
-		// (get) Token: 0x06000082 RID: 130 RVA: 0x000021D3 File Offset: 0x000003D3
 		[global::Cpp2ILInjected.Token(Token = "0x1700001F")]
 		public string NamespaceName
 		{
@@ -55,7 +51,6 @@ namespace System.Xml.Linq
 			}
 		}
 
-		// Token: 0x06000083 RID: 131 RVA: 0x000021D6 File Offset: 0x000003D6
 		[global::Cpp2ILInjected.Token(Token = "0x600009C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E27C", Offset = "0x1D6E27C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XName), Member = "Get", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(XName))]
@@ -78,7 +73,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000084 RID: 132 RVA: 0x000021D9 File Offset: 0x000003D9
 		[global::Cpp2ILInjected.Token(Token = "0x600009D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E48C", Offset = "0x1D6E48C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -87,8 +81,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x1700001C RID: 28
-		// (get) Token: 0x06000085 RID: 133 RVA: 0x000021DC File Offset: 0x000003DC
 		[global::Cpp2ILInjected.Token(Token = "0x17000020")]
 		public static XNamespace None
 		{
@@ -114,8 +106,6 @@ namespace System.Xml.Linq
 			}
 		}
 
-		// Token: 0x1700001D RID: 29
-		// (get) Token: 0x06000086 RID: 134 RVA: 0x000021DF File Offset: 0x000003DF
 		[global::Cpp2ILInjected.Token(Token = "0x17000021")]
 		public static XNamespace Xml
 		{
@@ -140,8 +130,6 @@ namespace System.Xml.Linq
 			}
 		}
 
-		// Token: 0x1700001E RID: 30
-		// (get) Token: 0x06000087 RID: 135 RVA: 0x000021E2 File Offset: 0x000003E2
 		[global::Cpp2ILInjected.Token(Token = "0x17000022")]
 		public static XNamespace Xmlns
 		{
@@ -166,7 +154,6 @@ namespace System.Xml.Linq
 			}
 		}
 
-		// Token: 0x06000088 RID: 136 RVA: 0x000021E5 File Offset: 0x000003E5
 		[global::Cpp2ILInjected.Token(Token = "0x60000A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6D924", Offset = "0x1D6D924", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ElementWriter), Member = "PushAncestors", MemberParameters = new object[] { typeof(XElement) }, ReturnType = typeof(void))]
@@ -191,7 +178,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000089 RID: 137 RVA: 0x000021E8 File Offset: 0x000003E8
 		[CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x60000A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E634", Offset = "0x1D6E634", Length = "0xC")]
@@ -203,7 +189,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600008A RID: 138 RVA: 0x000021EB File Offset: 0x000003EB
 		[global::Cpp2ILInjected.Token(Token = "0x60000A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E640", Offset = "0x1D6E640", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -213,7 +198,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600008B RID: 139 RVA: 0x000021EE File Offset: 0x000003EE
 		[global::Cpp2ILInjected.Token(Token = "0x60000A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E64C", Offset = "0x1D6E64C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -222,7 +206,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600008C RID: 140 RVA: 0x000021F1 File Offset: 0x000003F1
 		[global::Cpp2ILInjected.Token(Token = "0x60000A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6CB60", Offset = "0x1D6CB60", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -232,7 +215,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600008D RID: 141 RVA: 0x000021F4 File Offset: 0x000003F4
 		[global::Cpp2ILInjected.Token(Token = "0x60000A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E654", Offset = "0x1D6E654", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -242,7 +224,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600008E RID: 142 RVA: 0x000021F7 File Offset: 0x000003F7
 		[global::Cpp2ILInjected.Token(Token = "0x60000A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E114", Offset = "0x1D6E114", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XName), Member = "Get", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(XName))]
@@ -272,7 +253,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600008F RID: 143 RVA: 0x000021FA File Offset: 0x000003FA
 		[global::Cpp2ILInjected.Token(Token = "0x60000A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6DE54", Offset = "0x1D6DE54", Length = "0x2C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -321,7 +301,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000090 RID: 144 RVA: 0x000021FD File Offset: 0x000003FD
 		[global::Cpp2ILInjected.Token(Token = "0x60000A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E660", Offset = "0x1D6E660", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -330,7 +309,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000091 RID: 145 RVA: 0x00002200 File Offset: 0x00000400
 		[global::Cpp2ILInjected.Token(Token = "0x60000AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E668", Offset = "0x1D6E668", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -341,7 +319,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000092 RID: 146 RVA: 0x00002203 File Offset: 0x00000403
 		[global::Cpp2ILInjected.Token(Token = "0x60000AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E494", Offset = "0x1D6E494", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -357,33 +334,26 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x04000022 RID: 34
 		[global::Cpp2ILInjected.Token(Token = "0x4000039")]
 		private static XHashtable<WeakReference> s_namespaces;
 
-		// Token: 0x04000023 RID: 35
 		[global::Cpp2ILInjected.Token(Token = "0x400003A")]
 		private static WeakReference s_refNone;
 
-		// Token: 0x04000024 RID: 36
 		[global::Cpp2ILInjected.Token(Token = "0x400003B")]
 		private static WeakReference s_refXml;
 
-		// Token: 0x04000025 RID: 37
 		[global::Cpp2ILInjected.Token(Token = "0x400003C")]
 		private static WeakReference s_refXmlns;
 
-		// Token: 0x04000026 RID: 38
 		[global::Cpp2ILInjected.Token(Token = "0x400003D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string _namespaceName;
 
-		// Token: 0x04000027 RID: 39
 		[global::Cpp2ILInjected.Token(Token = "0x400003E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int _hashCode;
 
-		// Token: 0x04000028 RID: 40
 		[global::Cpp2ILInjected.Token(Token = "0x400003F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private XHashtable<XName> _names;

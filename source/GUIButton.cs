@@ -5,12 +5,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 
-// Token: 0x020000B7 RID: 183
 [global::Cpp2ILInjected.Token(Token = "0x2000103")]
 public static class GUIButton
 {
-	// Token: 0x170000A9 RID: 169
-	// (get) Token: 0x060005D2 RID: 1490 RVA: 0x00022CBB File Offset: 0x00020EBB
 	[global::Cpp2ILInjected.Token(Token = "0x170000CE")]
 	private static SpriteBatch sb
 	{
@@ -47,7 +44,6 @@ public static class GUIButton
 		}
 	}
 
-	// Token: 0x060005D3 RID: 1491 RVA: 0x00022CBE File Offset: 0x00020EBE
 	[global::Cpp2ILInjected.Token(Token = "0x60006A9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1F1F4", Offset = "0xD1F1F4", Length = "0x2EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -157,7 +153,6 @@ public static class GUIButton
 		throw null;
 	}
 
-	// Token: 0x060005D4 RID: 1492 RVA: 0x00022CC1 File Offset: 0x00020EC1
 	[global::Cpp2ILInjected.Token(Token = "0x60006AA")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1F4E0", Offset = "0xD1F4E0", Length = "0x2CC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -220,7 +215,6 @@ public static class GUIButton
 		throw null;
 	}
 
-	// Token: 0x060005D5 RID: 1493 RVA: 0x00022CC4 File Offset: 0x00020EC4
 	[global::Cpp2ILInjected.Token(Token = "0x60006AB")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1F7AC", Offset = "0xD1F7AC", Length = "0x304")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -301,7 +295,6 @@ public static class GUIButton
 		throw null;
 	}
 
-	// Token: 0x060005D6 RID: 1494 RVA: 0x00022CC7 File Offset: 0x00020EC7
 	[global::Cpp2ILInjected.Token(Token = "0x60006AC")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1FAB0", Offset = "0xD1FAB0", Length = "0x1F0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -373,7 +366,6 @@ public static class GUIButton
 		throw null;
 	}
 
-	// Token: 0x060005D7 RID: 1495 RVA: 0x00022CCA File Offset: 0x00020ECA
 	[global::Cpp2ILInjected.Token(Token = "0x60006AD")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1FCA0", Offset = "0xD1FCA0", Length = "0x2E0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -482,7 +474,6 @@ public static class GUIButton
 		throw null;
 	}
 
-	// Token: 0x060005D8 RID: 1496 RVA: 0x00022CCD File Offset: 0x00020ECD
 	[global::Cpp2ILInjected.Token(Token = "0x60006AE")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1FF80", Offset = "0xD1FF80", Length = "0x1DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -525,7 +516,6 @@ public static class GUIButton
 		throw null;
 	}
 
-	// Token: 0x060005D9 RID: 1497 RVA: 0x00022CD0 File Offset: 0x00020ED0
 	[global::Cpp2ILInjected.Token(Token = "0x60006AF")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD2015C", Offset = "0xD2015C", Length = "0x2DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -574,7 +564,6 @@ public static class GUIButton
 		throw null;
 	}
 
-	// Token: 0x060005DA RID: 1498 RVA: 0x00022CD3 File Offset: 0x00020ED3
 	[global::Cpp2ILInjected.Token(Token = "0x60006B0")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD20438", Offset = "0xD20438", Length = "0x248")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -627,7 +616,6 @@ public static class GUIButton
 		throw null;
 	}
 
-	// Token: 0x060005DB RID: 1499 RVA: 0x00022CD6 File Offset: 0x00020ED6
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x60006B1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD20680", Offset = "0xD20680", Length = "0x50")]
@@ -638,11 +626,9 @@ public static class GUIButton
 		throw null;
 	}
 
-	// Token: 0x04000368 RID: 872
 	[global::Cpp2ILInjected.Token(Token = "0x4000527")]
 	public static float GlobalScale;
 
-	// Token: 0x04000369 RID: 873
 	[global::Cpp2ILInjected.Token(Token = "0x4000528")]
 	public static SpriteBatch overloadedSpriteBatch;
 }

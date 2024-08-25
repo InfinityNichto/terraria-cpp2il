@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x02000028 RID: 40
 	[global::Cpp2ILInjected.Token(Token = "0x2000028")]
 	internal class TernaryTreeReadOnly
 	{
-		// Token: 0x060000D5 RID: 213 RVA: 0x000031D0 File Offset: 0x000013D0
 		[global::Cpp2ILInjected.Token(Token = "0x60000D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D5F9C8", Offset = "0x1D5F9C8", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -18,7 +16,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060000D6 RID: 214 RVA: 0x000031D3 File Offset: 0x000013D3
 		[global::Cpp2ILInjected.Token(Token = "0x60000D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D5E524", Offset = "0x1D5E524", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +62,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x0400006C RID: 108
 		[global::Cpp2ILInjected.Token(Token = "0x400006C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private byte[] nodeBuffer;

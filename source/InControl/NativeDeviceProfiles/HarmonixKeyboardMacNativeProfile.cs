@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x02000126 RID: 294
 	[Preserve]
 	[NativeInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000133")]
 	public class HarmonixKeyboardMacNativeProfile : Xbox360DriverMacNativeProfile
 	{
-		// Token: 0x060006D6 RID: 1750 RVA: 0x000034AF File Offset: 0x000016AF
 		[global::Cpp2ILInjected.Token(Token = "0x60006F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A21D70", Offset = "0x1A21D70", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060006D7 RID: 1751 RVA: 0x000034B2 File Offset: 0x000016B2
 		[global::Cpp2ILInjected.Token(Token = "0x60006F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A21E3C", Offset = "0x1A21E3C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

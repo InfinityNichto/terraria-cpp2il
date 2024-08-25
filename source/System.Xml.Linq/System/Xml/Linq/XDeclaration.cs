@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Linq
 {
-	// Token: 0x02000007 RID: 7
 	[global::Cpp2ILInjected.Token(Token = "0x2000008")]
 	public class XDeclaration
 	{
-		// Token: 0x0600002F RID: 47 RVA: 0x000020DA File Offset: 0x000002DA
 		[global::Cpp2ILInjected.Token(Token = "0x6000037")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6BC44", Offset = "0x1D6BC44", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Converters.XDocumentWrapper", Member = "CreateXmlDeclaration", MemberParameters = new object[]
@@ -25,7 +23,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000030 RID: 48 RVA: 0x000020DD File Offset: 0x000002DD
 		[global::Cpp2ILInjected.Token(Token = "0x6000038")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6BC80", Offset = "0x1D6BC80", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XDocument), Member = ".ctor", MemberParameters = new object[] { typeof(XDocument) }, ReturnType = typeof(void))]
@@ -38,9 +35,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x17000009 RID: 9
-		// (get) Token: 0x06000031 RID: 49 RVA: 0x000020E0 File Offset: 0x000002E0
-		// (set) Token: 0x06000032 RID: 50 RVA: 0x000020E3 File Offset: 0x000002E3
 		[global::Cpp2ILInjected.Token(Token = "0x1700000B")]
 		public string Encoding
 		{
@@ -60,9 +54,6 @@ namespace System.Xml.Linq
 			}
 		}
 
-		// Token: 0x1700000A RID: 10
-		// (get) Token: 0x06000033 RID: 51 RVA: 0x000020E6 File Offset: 0x000002E6
-		// (set) Token: 0x06000034 RID: 52 RVA: 0x000020E9 File Offset: 0x000002E9
 		[global::Cpp2ILInjected.Token(Token = "0x1700000C")]
 		public string Standalone
 		{
@@ -82,8 +73,6 @@ namespace System.Xml.Linq
 			}
 		}
 
-		// Token: 0x1700000B RID: 11
-		// (get) Token: 0x06000035 RID: 53 RVA: 0x000020EC File Offset: 0x000002EC
 		[global::Cpp2ILInjected.Token(Token = "0x1700000D")]
 		public string Version
 		{
@@ -96,7 +85,6 @@ namespace System.Xml.Linq
 			}
 		}
 
-		// Token: 0x06000036 RID: 54 RVA: 0x000020EF File Offset: 0x000002EF
 		[global::Cpp2ILInjected.Token(Token = "0x600003E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6BD28", Offset = "0x1D6BD28", Length = "0x180")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,17 +99,14 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x04000006 RID: 6
 		[global::Cpp2ILInjected.Token(Token = "0x400000B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string _version;
 
-		// Token: 0x04000007 RID: 7
 		[global::Cpp2ILInjected.Token(Token = "0x400000C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string _encoding;
 
-		// Token: 0x04000008 RID: 8
 		[global::Cpp2ILInjected.Token(Token = "0x400000D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string _standalone;

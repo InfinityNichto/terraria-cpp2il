@@ -9,11 +9,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent.Dyes
 {
-	// Token: 0x02000582 RID: 1410
 	[global::Cpp2ILInjected.Token(Token = "0x200081C")]
 	public class ReflectiveArmorShaderData : ArmorShaderData
 	{
-		// Token: 0x06003B8E RID: 15246 RVA: 0x0002CA41 File Offset: 0x0002AC41
 		[global::Cpp2ILInjected.Token(Token = "0x60042A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x796A68", Offset = "0x796A68", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DyeInitializer), Member = "LoadArmorDyes", ReturnType = typeof(void))]
@@ -28,7 +26,6 @@ namespace Terraria.GameContent.Dyes
 			throw null;
 		}
 
-		// Token: 0x06003B8F RID: 15247 RVA: 0x0002CA44 File Offset: 0x0002AC44
 		[global::Cpp2ILInjected.Token(Token = "0x60042AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x796A70", Offset = "0x796A70", Length = "0x4BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

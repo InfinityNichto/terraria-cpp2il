@@ -1,7 +1,0 @@
-<map id="Terraria.GameContent.Bestiary.SpawnConditionDecorativeOverlayInfoElement" name="Terraria.GameContent.Bestiary.SpawnConditionDecorativeOverlayInfoElement">
-<area shape="rect" id="Node000001" title=" " alt="" coords="111,183,378,500"/>
-<area shape="rect" id="Node000002" href="$d9/d8f/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiaryInfoElement.html" title=" " alt="" coords="5,30,231,110"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,121,173,181,168,184,140,124"/>
-<area shape="rect" id="Node000003" href="$d7/d54/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiaryBackgroundOverlayAndColorProvider.html" title=" " alt="" coords="254,5,489,135"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,148,321,183,317,181,333,146"/>
-</map>

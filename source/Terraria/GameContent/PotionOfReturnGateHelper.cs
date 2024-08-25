@@ -13,11 +13,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x02000575 RID: 1397
 	[global::Cpp2ILInjected.Token(Token = "0x200080C")]
 	public struct PotionOfReturnGateHelper
 	{
-		// Token: 0x06003ACA RID: 15050 RVA: 0x0002C7F5 File Offset: 0x0002A9F5
 		[global::Cpp2ILInjected.Token(Token = "0x60041E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7855F0", Offset = "0x7855F0", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -33,7 +31,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003ACB RID: 15051 RVA: 0x0002C7F8 File Offset: 0x0002A9F8
 		[global::Cpp2ILInjected.Token(Token = "0x60041E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7856F0", Offset = "0x7856F0", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ReturnGatePlayerRenderer), Member = "DrawReturnGateInWorld", MemberParameters = new object[]
@@ -55,7 +52,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003ACC RID: 15052 RVA: 0x0002C7FB File Offset: 0x0002A9FB
 		[global::Cpp2ILInjected.Token(Token = "0x60041E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x785778", Offset = "0x785778", Length = "0x85C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -132,7 +128,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003ACD RID: 15053 RVA: 0x0002C7FE File Offset: 0x0002A9FE
 		[global::Cpp2ILInjected.Token(Token = "0x60041E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x785FD4", Offset = "0x785FD4", Length = "0x8E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -228,34 +223,27 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x04006ACC RID: 27340
 		[global::Cpp2ILInjected.Token(Token = "0x40080A7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly Vector2 _position;
 
-		// Token: 0x04006ACD RID: 27341
 		[global::Cpp2ILInjected.Token(Token = "0x40080A8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private readonly float _opacity;
 
-		// Token: 0x04006ACE RID: 27342
 		[global::Cpp2ILInjected.Token(Token = "0x40080A9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 		private readonly int _frameNumber;
 
-		// Token: 0x04006ACF RID: 27343
 		[global::Cpp2ILInjected.Token(Token = "0x40080AA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly PotionOfReturnGateHelper.GateType _gateType;
 
-		// Token: 0x020009A2 RID: 2466
 		[global::Cpp2ILInjected.Token(Token = "0x200080D")]
 		public enum GateType
 		{
-			// Token: 0x04008C91 RID: 35985
 			[global::Cpp2ILInjected.Token(Token = "0x40080AC")]
 			EntryPoint,
-			// Token: 0x04008C92 RID: 35986
 			[global::Cpp2ILInjected.Token(Token = "0x40080AD")]
 			ExitPoint
 		}

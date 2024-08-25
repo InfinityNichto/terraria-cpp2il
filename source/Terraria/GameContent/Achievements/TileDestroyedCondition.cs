@@ -7,11 +7,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent.Achievements
 {
-	// Token: 0x02000657 RID: 1623
 	[global::Cpp2ILInjected.Token(Token = "0x20009B1")]
 	public class TileDestroyedCondition : AchievementCondition
 	{
-		// Token: 0x06003F80 RID: 16256 RVA: 0x0002D55D File Offset: 0x0002B75D
 		[global::Cpp2ILInjected.Token(Token = "0x600496D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E54C", Offset = "0x82E54C", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileDestroyedCondition), Member = "Create", MemberParameters = new object[]
@@ -33,7 +31,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F81 RID: 16257 RVA: 0x0002D560 File Offset: 0x0002B760
 		[global::Cpp2ILInjected.Token(Token = "0x600496E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E888", Offset = "0x82E888", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -46,7 +43,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F82 RID: 16258 RVA: 0x0002D563 File Offset: 0x0002B763
 		[global::Cpp2ILInjected.Token(Token = "0x600496F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E600", Offset = "0x82E600", Length = "0x288")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +67,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F83 RID: 16259 RVA: 0x0002D566 File Offset: 0x0002B766
 		[global::Cpp2ILInjected.Token(Token = "0x6004970")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E95C", Offset = "0x82E95C", Length = "0x1AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +85,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F84 RID: 16260 RVA: 0x0002D569 File Offset: 0x0002B769
 		[global::Cpp2ILInjected.Token(Token = "0x6004971")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82EB08", Offset = "0x82EB08", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AchievementInitializer), Member = "Load", ReturnType = typeof(void))]
@@ -106,7 +100,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F85 RID: 16261 RVA: 0x0002D56C File Offset: 0x0002B76C
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6004972")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82EB70", Offset = "0x82EB70", Length = "0x8C")]
@@ -118,24 +111,19 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x04006CBD RID: 27837
 		[global::Cpp2ILInjected.Token(Token = "0x400844F")]
 		public const string Identifier = "TILE_DESTROYED";
 
-		// Token: 0x04006CBE RID: 27838
 		[global::Cpp2ILInjected.Token(Token = "0x4008450")]
 		private static Dictionary<ushort, List<TileDestroyedCondition>> _listeners;
 
-		// Token: 0x04006CBF RID: 27839
 		[global::Cpp2ILInjected.Token(Token = "0x4008451")]
 		private static bool _isListenerHooked;
 
-		// Token: 0x04006CC0 RID: 27840
 		[global::Cpp2ILInjected.Token(Token = "0x4008452")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private readonly LocalUser _user;
 
-		// Token: 0x04006CC1 RID: 27841
 		[global::Cpp2ILInjected.Token(Token = "0x4008453")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private ushort[] _tileIds;

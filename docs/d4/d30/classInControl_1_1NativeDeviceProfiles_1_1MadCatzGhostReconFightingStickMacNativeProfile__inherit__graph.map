@@ -1,7 +1,0 @@
-<map id="InControl.NativeDeviceProfiles.MadCatzGhostReconFightingStickMacNativeProfile" name="InControl.NativeDeviceProfiles.MadCatzGhostReconFightingStickMacNativeProfile">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,1596,308,1725"/>
-<area shape="rect" id="Node000002" href="$df/df8/classInControl_1_1NativeDeviceProfiles_1_1Xbox360DriverMacNativeProfile.html" title=" " alt="" coords="33,1463,280,1548"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,1562,159,1596,154,1596,154,1562"/>
-<area shape="rect" id="Node000003" href="$d0/de3/classInControl_1_1InputDeviceProfile.html" title=" " alt="" coords="32,5,281,1415"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,1429,159,1463,154,1463,154,1429"/>
-</map>

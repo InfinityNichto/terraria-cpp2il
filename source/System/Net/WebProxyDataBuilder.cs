@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x0200016A RID: 362
 	[global::Cpp2ILInjected.Token(Token = "0x2000209")]
 	internal abstract class WebProxyDataBuilder
 	{
-		// Token: 0x06000B5D RID: 2909 RVA: 0x00004E7A File Offset: 0x0000307A
 		[global::Cpp2ILInjected.Token(Token = "0x6000CB1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2B264", Offset = "0x1F2B264", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,11 +21,9 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B5E RID: 2910
 		[global::Cpp2ILInjected.Token(Token = "0x6000CB2")]
 		protected abstract void BuildInternal();
 
-		// Token: 0x06000B5F RID: 2911 RVA: 0x00004E7D File Offset: 0x0000307D
 		[global::Cpp2ILInjected.Token(Token = "0x6000CB3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2B2D8", Offset = "0x1F2B2D8", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -51,7 +47,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B60 RID: 2912 RVA: 0x00004E80 File Offset: 0x00003080
 		[global::Cpp2ILInjected.Token(Token = "0x6000CB4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2B8B4", Offset = "0x1F2B8B4", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -68,7 +63,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B61 RID: 2913 RVA: 0x00004E83 File Offset: 0x00003083
 		[global::Cpp2ILInjected.Token(Token = "0x6000CB5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2B94C", Offset = "0x1F2B94C", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -77,7 +71,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B62 RID: 2914 RVA: 0x00004E86 File Offset: 0x00003086
 		[global::Cpp2ILInjected.Token(Token = "0x6000CB6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2B3EC", Offset = "0x1F2B3EC", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,7 +96,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B63 RID: 2915 RVA: 0x00004E89 File Offset: 0x00003089
 		[global::Cpp2ILInjected.Token(Token = "0x6000CB7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2B534", Offset = "0x1F2B534", Length = "0x228")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +125,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B64 RID: 2916 RVA: 0x00004E8C File Offset: 0x0000308C
 		[global::Cpp2ILInjected.Token(Token = "0x6000CB8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2B95C", Offset = "0x1F2B95C", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebProxyDataBuilder), Member = "ParseProxyUri", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(Uri))]
@@ -152,7 +143,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B65 RID: 2917 RVA: 0x00004E8F File Offset: 0x0000308F
 		[global::Cpp2ILInjected.Token(Token = "0x6000CB9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2BA34", Offset = "0x1F2BA34", Length = "0x31C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -184,7 +174,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B66 RID: 2918 RVA: 0x00004E92 File Offset: 0x00003092
 		[global::Cpp2ILInjected.Token(Token = "0x6000CBA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2BD50", Offset = "0x1F2BD50", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -200,7 +189,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B67 RID: 2919 RVA: 0x00004E95 File Offset: 0x00003095
 		[global::Cpp2ILInjected.Token(Token = "0x6000CBB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2B75C", Offset = "0x1F2B75C", Length = "0x158")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -230,7 +218,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000B68 RID: 2920 RVA: 0x00004E98 File Offset: 0x00003098
 		[global::Cpp2ILInjected.Token(Token = "0x6000CBC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F2BE6C", Offset = "0x1F2BE6C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -240,24 +227,19 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x04000879 RID: 2169
 		[global::Cpp2ILInjected.Token(Token = "0x4000ADA")]
 		private const char addressListDelimiter = ';';
 
-		// Token: 0x0400087A RID: 2170
 		[global::Cpp2ILInjected.Token(Token = "0x4000ADB")]
 		private const char addressListSchemeValueDelimiter = '=';
 
-		// Token: 0x0400087B RID: 2171
 		[global::Cpp2ILInjected.Token(Token = "0x4000ADC")]
 		private const char bypassListDelimiter = ';';
 
-		// Token: 0x0400087C RID: 2172
 		[global::Cpp2ILInjected.Token(Token = "0x4000ADD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private WebProxyData m_Result;
 
-		// Token: 0x0400087D RID: 2173
 		[global::Cpp2ILInjected.Token(Token = "0x4000ADE")]
 		private const string regexReserved = "#$()+.?[\\^{|";
 	}

@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using Terraria.Localization;
 
-// Token: 0x020000DF RID: 223
 [global::Cpp2ILInjected.Token(Token = "0x2000142")]
 public class GUIEvents
 {
-	// Token: 0x060007B2 RID: 1970 RVA: 0x0002325B File Offset: 0x0002145B
 	[global::Cpp2ILInjected.Token(Token = "0x60008AC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FDAC0", Offset = "0x7FDAC0", Length = "0x660")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +82,6 @@ public class GUIEvents
 		throw null;
 	}
 
-	// Token: 0x060007B3 RID: 1971 RVA: 0x0002325E File Offset: 0x0002145E
 	[global::Cpp2ILInjected.Token(Token = "0x60008AD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FE120", Offset = "0x7FE120", Length = "0x20C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -125,7 +122,6 @@ public class GUIEvents
 		throw null;
 	}
 
-	// Token: 0x060007B4 RID: 1972 RVA: 0x00023261 File Offset: 0x00021461
 	[global::Cpp2ILInjected.Token(Token = "0x60008AE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FE32C", Offset = "0x7FE32C", Length = "0x1D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +162,6 @@ public class GUIEvents
 		throw null;
 	}
 
-	// Token: 0x060007B5 RID: 1973 RVA: 0x00023264 File Offset: 0x00021464
 	[global::Cpp2ILInjected.Token(Token = "0x60008AF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FE4FC", Offset = "0x7FE4FC", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -177,7 +172,6 @@ public class GUIEvents
 		throw null;
 	}
 
-	// Token: 0x04000526 RID: 1318
 	[global::Cpp2ILInjected.Token(Token = "0x400077A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float testProgress;

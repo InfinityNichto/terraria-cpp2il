@@ -6,11 +6,9 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x020000B1 RID: 177
 	[global::Cpp2ILInjected.Token(Token = "0x20000C2")]
 	internal static class ManagedStreamHelpers
 	{
-		// Token: 0x06000340 RID: 832 RVA: 0x000026C8 File Offset: 0x000008C8
 		[global::Cpp2ILInjected.Token(Token = "0x6000352")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7DB2C", Offset = "0x1F7DB2C", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +49,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000341 RID: 833 RVA: 0x000026CB File Offset: 0x000008CB
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000353")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7DC30", Offset = "0x1F7DC30", Length = "0x114")]
@@ -75,7 +72,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000342 RID: 834 RVA: 0x000026CE File Offset: 0x000008CE
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000354")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7DD44", Offset = "0x1F7DD44", Length = "0x10C")]
@@ -99,7 +95,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000343 RID: 835 RVA: 0x000026D1 File Offset: 0x000008D1
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000355")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7DE50", Offset = "0x1F7DE50", Length = "0xF0")]

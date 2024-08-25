@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections
 {
-	// Token: 0x020004FB RID: 1275
 	[global::Cpp2ILInjected.Token(Token = "0x20005F3")]
 	[global::System.Serializable]
 	public class CaseInsensitiveComparer : IComparer
 	{
-		// Token: 0x06002A7D RID: 10877 RVA: 0x0001BB3C File Offset: 0x00019D3C
 		[global::Cpp2ILInjected.Token(Token = "0x6002DF3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0866C", Offset = "0x1C0866C", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A7E RID: 10878 RVA: 0x0001BB3F File Offset: 0x00019D3F
 		[global::Cpp2ILInjected.Token(Token = "0x6002DF4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C086E0", Offset = "0x1C086E0", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,8 +35,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x17000678 RID: 1656
-		// (get) Token: 0x06002A7F RID: 10879 RVA: 0x0001BB42 File Offset: 0x00019D42
 		[global::Cpp2ILInjected.Token(Token = "0x17000717")]
 		public static CaseInsensitiveComparer Default
 		{
@@ -56,7 +51,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x06002A80 RID: 10880 RVA: 0x0001BB45 File Offset: 0x00019D45
 		[global::Cpp2ILInjected.Token(Token = "0x6002DF6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C087EC", Offset = "0x1C087EC", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,7 +66,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x040015B9 RID: 5561
 		[global::Cpp2ILInjected.Token(Token = "0x40019B7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private global::System.Globalization.CompareInfo _compareInfo;

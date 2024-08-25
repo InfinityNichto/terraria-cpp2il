@@ -1,4 +1,0 @@
-var BlockBecauseYouAreOverAnImportantTile_8cs =
-[
-    [ "Terraria.GameContent.ObjectInteractions.BlockBecauseYouAreOverAnImportantTile", "d9/d6f/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1BlockBecauseYouAreOverAnImportantTile.html", "d9/d6f/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1BlockBecauseYouAreOverAnImportantTile" ]
-];

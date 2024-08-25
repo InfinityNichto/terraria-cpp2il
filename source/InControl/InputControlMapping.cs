@@ -1,18 +1,16 @@
 ﻿using System;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
+using InControl.NativeDeviceProfiles;
+using InControl.UnityDeviceProfiles;
 using UnityEngine;
 
 namespace InControl
 {
-	// Token: 0x0200001E RID: 30
 	[global::Cpp2ILInjected.Token(Token = "0x200001F")]
 	[Serializable]
 	public class InputControlMapping
 	{
-		// Token: 0x17000053 RID: 83
-		// (get) Token: 0x0600013F RID: 319 RVA: 0x0000240B File Offset: 0x0000060B
-		// (set) Token: 0x06000140 RID: 320 RVA: 0x0000240E File Offset: 0x0000060E
 		[global::Cpp2ILInjected.Token(Token = "0x17000053")]
 		public string Name
 		{
@@ -48,9 +46,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000054 RID: 84
-		// (get) Token: 0x06000141 RID: 321 RVA: 0x00002411 File Offset: 0x00000611
-		// (set) Token: 0x06000142 RID: 322 RVA: 0x00002414 File Offset: 0x00000614
 		[global::Cpp2ILInjected.Token(Token = "0x17000054")]
 		public bool Invert
 		{
@@ -70,9 +65,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000055 RID: 85
-		// (get) Token: 0x06000143 RID: 323 RVA: 0x00002417 File Offset: 0x00000617
-		// (set) Token: 0x06000144 RID: 324 RVA: 0x0000241A File Offset: 0x0000061A
 		[global::Cpp2ILInjected.Token(Token = "0x17000055")]
 		public float Scale
 		{
@@ -92,9 +84,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000056 RID: 86
-		// (get) Token: 0x06000145 RID: 325 RVA: 0x0000241D File Offset: 0x0000061D
-		// (set) Token: 0x06000146 RID: 326 RVA: 0x00002420 File Offset: 0x00000620
 		[global::Cpp2ILInjected.Token(Token = "0x17000056")]
 		public bool Raw
 		{
@@ -114,9 +103,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000057 RID: 87
-		// (get) Token: 0x06000147 RID: 327 RVA: 0x00002423 File Offset: 0x00000623
-		// (set) Token: 0x06000148 RID: 328 RVA: 0x00002426 File Offset: 0x00000626
 		[global::Cpp2ILInjected.Token(Token = "0x17000057")]
 		public bool Passive
 		{
@@ -136,9 +122,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000058 RID: 88
-		// (get) Token: 0x06000149 RID: 329 RVA: 0x00002429 File Offset: 0x00000629
-		// (set) Token: 0x0600014A RID: 330 RVA: 0x0000242C File Offset: 0x0000062C
 		[global::Cpp2ILInjected.Token(Token = "0x17000058")]
 		public bool IgnoreInitialZeroValue
 		{
@@ -158,9 +141,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000059 RID: 89
-		// (get) Token: 0x0600014B RID: 331 RVA: 0x0000242F File Offset: 0x0000062F
-		// (set) Token: 0x0600014C RID: 332 RVA: 0x00002432 File Offset: 0x00000632
 		[global::Cpp2ILInjected.Token(Token = "0x17000059")]
 		public float Sensitivity
 		{
@@ -181,9 +161,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700005A RID: 90
-		// (get) Token: 0x0600014D RID: 333 RVA: 0x00002435 File Offset: 0x00000635
-		// (set) Token: 0x0600014E RID: 334 RVA: 0x00002438 File Offset: 0x00000638
 		[global::Cpp2ILInjected.Token(Token = "0x1700005A")]
 		public float LowerDeadZone
 		{
@@ -204,9 +181,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700005B RID: 91
-		// (get) Token: 0x0600014F RID: 335 RVA: 0x0000243B File Offset: 0x0000063B
-		// (set) Token: 0x06000150 RID: 336 RVA: 0x0000243E File Offset: 0x0000063E
 		[global::Cpp2ILInjected.Token(Token = "0x1700005B")]
 		public float UpperDeadZone
 		{
@@ -227,9 +201,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700005C RID: 92
-		// (get) Token: 0x06000151 RID: 337 RVA: 0x00002441 File Offset: 0x00000641
-		// (set) Token: 0x06000152 RID: 338 RVA: 0x00002444 File Offset: 0x00000644
 		[global::Cpp2ILInjected.Token(Token = "0x1700005C")]
 		public InputControlSource Source
 		{
@@ -249,9 +220,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700005D RID: 93
-		// (get) Token: 0x06000153 RID: 339 RVA: 0x00002447 File Offset: 0x00000647
-		// (set) Token: 0x06000154 RID: 340 RVA: 0x0000244A File Offset: 0x0000064A
 		[global::Cpp2ILInjected.Token(Token = "0x1700005D")]
 		public InputControlType Target
 		{
@@ -271,9 +239,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700005E RID: 94
-		// (get) Token: 0x06000155 RID: 341 RVA: 0x0000244D File Offset: 0x0000064D
-		// (set) Token: 0x06000156 RID: 342 RVA: 0x00002450 File Offset: 0x00000650
 		[global::Cpp2ILInjected.Token(Token = "0x1700005E")]
 		public InputRangeType SourceRange
 		{
@@ -293,9 +258,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700005F RID: 95
-		// (get) Token: 0x06000157 RID: 343 RVA: 0x00002453 File Offset: 0x00000653
-		// (set) Token: 0x06000158 RID: 344 RVA: 0x00002456 File Offset: 0x00000656
 		[global::Cpp2ILInjected.Token(Token = "0x1700005F")]
 		public InputRangeType TargetRange
 		{
@@ -315,7 +277,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x06000159 RID: 345 RVA: 0x00002459 File Offset: 0x00000659
 		[global::Cpp2ILInjected.Token(Token = "0x6000159")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1986528", Offset = "0x1986528", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -347,10 +308,258 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600015A RID: 346 RVA: 0x0000245C File Offset: 0x0000065C
 		[global::Cpp2ILInjected.Token(Token = "0x600015A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19866B0", Offset = "0x19866B0", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerHardwareProfileEntry", Member = "RemapToAnalogue", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerHardwareProfileEntry", Member = "RemapToButton", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickLeftMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickRightMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickUpMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickDownMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickUpMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickDownMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickLeftMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickRightMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickUpMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickDownMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickUpMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickDownMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftTriggerMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightTriggerMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadLeftMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadRightMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadUpMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadDownMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadUpMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadDownMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AmazonFireTVRemoteUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AmazonFireTVUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidTVAmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BuffaloClassicAmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechModeDAmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechModeXAmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MadCatzCTRLRAmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MadCatzMicroCTRLRAmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NykoPlayPadProAmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(OuyaAmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4AmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360AmazonUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidTVMiBoxRemoteUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidTVRemoteUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidTVUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BeboncoolDA015CAAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BetopBTPAX1TAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BetopBTPGenericAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BTC938AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DroidBoxPS3AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DroidBoxXboxAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EasySmxEsm9101AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoFC30ProAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoGenericAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoN30Pro2AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoNES30ProAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSF30ProAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSFC30AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSN30ProAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSNES30AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FixXBG301AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FlareAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FlarePlayAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameSirG3sAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameSirG3wAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameSirG4sAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GenericAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GreenThrottleAtlasAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IpegaPG9021AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IpegaPG9023AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IpegaPG9025AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IpegaPG9037AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IpegaPG9055AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IpegaPG9068AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MadCatzCTRLRAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MogaHeroPowerAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MogaProAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MogaProPowerAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NexusPlayerAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NexusPlayerRemoteAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NintendoSwitchProAndroidProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NVidiaShield2016AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NVidiaShield2017AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NvidiaShieldRemoteAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation3AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4AndroidXperiaZ5UnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4TouchpadAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RedSamuraiAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SamsungGP20AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SteelSeriesFreeAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SteelSeriesStratusXLAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360AndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360RockCandyAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneBluetoothAndroidUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AppleTVRemoteUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AppleTVWirelessControllerUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameStickLinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GenericLinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HavitHVG95WLinuxProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF310LinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF510LinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF710LinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MogaProLinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(OuyaLinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation2LinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation3LinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4LinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SteelSeriesFreeLinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360LinuxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AirFloWiredPS3MacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BuffaloClassicMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoNES30ProMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSFC30MacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSNES30MacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExecutionerXMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GoogleStadiaMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF310ModeDMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF310ModeXMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF510ModeDMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF510ModeXMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF710MacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MogaProMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NexusPlayerMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation3MacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4MacBluetoothUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4MacUSBUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4SteamLinkMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RazerServalMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SpeedlinkStrikeMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SteelSeriesFreeMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360MacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XiaomiMacUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AppleMFiUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameStickUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GenericBlackBerryUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GoogleStadiaUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4UnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStationVitaPSMUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RazerServalForgeTVUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NintendoSwitchProMacChromeUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4MacChromeUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4MacFirefoxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360MacChromeUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360MacFirefoxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360MacSafariUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneMacChromeUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneMacFirefoxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneMacSafariUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NintendoSwitchProWindowsChromeUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4WindowsChromeUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4WindowsFirefoxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XInputWindowsChromeUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XInputWindowsFirefoxUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AirFloWiredPS3WindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BetopBTP2175sWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BuffaloClassicWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoNES30ProWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSFC30WindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSNES30WindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExecutionerXWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameCubeMayflashWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameCubeWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GoogleStadiaWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HamaBlackForceWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LevelUpBlackHawkWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF310ModeDWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF310ModeXWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF510ModeDWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF510ModeXWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF710ModeDWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF710ModeXWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechWingManWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MaxFireBlaze5WindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MogaProWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NatecGenesisP44WindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NexusPlayerWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NVidiaShieldWindows10UnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NVidiaShieldWindows81UnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NVidiaShieldWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(OuyaWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation2WindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation3BWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation3ShenghicWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation3WindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4WindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaitekAviatorWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SpeedlinkStrikeWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SteelSeriesFreeWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SteelSeriesStratusXLWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ValveStreamingWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360WindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneWindows10AEUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneWindows10UnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XiamoiWindowsUnityProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BuffaloClassicMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoNES30ProBTMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoNES30ProUSBMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSFC30MacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSNES30MacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GoogleStadiaMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF310ModeDMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF510ModeDMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF710ModeDMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NintendoSwitchProMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation3MacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4MacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PowerANintendoSwitchMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SteelseriesNimbusMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360DriverMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneDriverMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneSMacNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AppleMFiExtendedGamepadNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AppleMFiMicroGamepadNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DualShock4MFiNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneMFiNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AfterglowXbox360WindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AirFloPS3WindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BuffaloClassicWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoNES30ProWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSF30ProWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSFC30WindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EightBitdoSNES30WindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameCubeMayflashWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameCubeWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GoogleStadiaWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(KiwitataNESWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF310ModeDWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF310ModeXWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF510ModeDWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF510ModeXWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF710ModeDWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LogitechF710ModeXWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NintendoSwitchProWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NVidiaShieldWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(OUYAWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PCTWINSHOCKWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayStation4WindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RazerServalWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SteamWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360WiredWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Xbox360WirelessWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneEliteWindows10AENativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneEliteWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneWindows10AENativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneWindows10NativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XboxOneWirelessAdapterWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XInputWindowsNativeProfile), Member = "Define", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 3458)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(object), Member = ".ctor", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
@@ -359,79 +568,66 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0400012A RID: 298
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400012E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string name;
 
-		// Token: 0x0400012B RID: 299
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400012F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private bool invert;
 
-		// Token: 0x0400012C RID: 300
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000130")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private float scale;
 
-		// Token: 0x0400012D RID: 301
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000131")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private bool raw;
 
-		// Token: 0x0400012E RID: 302
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000132")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x21")]
 		private bool passive;
 
-		// Token: 0x0400012F RID: 303
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000133")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x22")]
 		private bool ignoreInitialZeroValue;
 
-		// Token: 0x04000130 RID: 304
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000134")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private float sensitivity;
 
-		// Token: 0x04000131 RID: 305
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000135")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private float lowerDeadZone;
 
-		// Token: 0x04000132 RID: 306
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000136")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		private float upperDeadZone;
 
-		// Token: 0x04000133 RID: 307
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000137")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private InputControlSource source;
 
-		// Token: 0x04000134 RID: 308
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000138")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private InputControlType target;
 
-		// Token: 0x04000135 RID: 309
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000139")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		private InputRangeType sourceRange;
 
-		// Token: 0x04000136 RID: 310
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400013A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]

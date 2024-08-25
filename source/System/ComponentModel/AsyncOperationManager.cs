@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x0200023E RID: 574
 	[global::Cpp2ILInjected.Token(Token = "0x200032F")]
 	public static class AsyncOperationManager
 	{
-		// Token: 0x06001301 RID: 4865 RVA: 0x00006494 File Offset: 0x00004694
 		[global::Cpp2ILInjected.Token(Token = "0x600153F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3A608", Offset = "0x1E3A608", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebClient), Member = "StartAsyncOperation", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(AsyncOperation))]
@@ -26,9 +24,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x170004B0 RID: 1200
-		// (get) Token: 0x06001302 RID: 4866 RVA: 0x00006497 File Offset: 0x00004697
-		// (set) Token: 0x06001303 RID: 4867 RVA: 0x0000649A File Offset: 0x0000469A
 		[EditorBrowsable(EditorBrowsableState.Advanced)]
 		[global::Cpp2ILInjected.Token(Token = "0x170004D9")]
 		public static SynchronizationContext SynchronizationContext

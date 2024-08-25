@@ -7,12 +7,10 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine.Events
 {
-	// Token: 0x02000149 RID: 329
 	[global::Cpp2ILInjected.Token(Token = "0x2000171")]
 	[Serializable]
 	public class UnityEvent : UnityEventBase
 	{
-		// Token: 0x060006A1 RID: 1697 RVA: 0x00002F47 File Offset: 0x00001147
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x60006DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F92464", Offset = "0x1F92464", Length = "0x8")]
@@ -25,7 +23,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x060006A2 RID: 1698 RVA: 0x00002F4A File Offset: 0x0000114A
 		[global::Cpp2ILInjected.Token(Token = "0x60006DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F9246C", Offset = "0x1F9246C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "CreateBlocker", MemberParameters = new object[] { "UnityEngine.Canvas" }, ReturnType = typeof(GameObject))]
@@ -37,7 +34,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x060006A3 RID: 1699 RVA: 0x00002F4D File Offset: 0x0000114D
 		[global::Cpp2ILInjected.Token(Token = "0x60006DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F924F4", Offset = "0x1F924F4", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +49,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x060006A4 RID: 1700 RVA: 0x00002F50 File Offset: 0x00001150
 		[global::Cpp2ILInjected.Token(Token = "0x60006E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F92558", Offset = "0x1F92558", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -68,7 +63,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x060006A5 RID: 1701 RVA: 0x00002F53 File Offset: 0x00001153
 		[global::Cpp2ILInjected.Token(Token = "0x60006E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F92490", Offset = "0x1F92490", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UnityEvent), Member = "AddListener", MemberParameters = new object[] { typeof(UnityAction) }, ReturnType = typeof(void))]
@@ -81,7 +75,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x060006A6 RID: 1702 RVA: 0x00002F56 File Offset: 0x00001156
 		[global::Cpp2ILInjected.Token(Token = "0x60006E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F925C0", Offset = "0x1F925C0", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -96,7 +89,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x04000613 RID: 1555
 		[global::Cpp2ILInjected.Token(Token = "0x400066A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private object[] m_InvokeArray;

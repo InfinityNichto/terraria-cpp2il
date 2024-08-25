@@ -1,9 +1,0 @@
-<map id="System.Reflection.Emit.FieldBuilder" name="System.Reflection.Emit.FieldBuilder">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,1800,324,2280"/>
-<area shape="rect" id="Node000002" href="$d0/ddd/classSystem_1_1Reflection_1_1FieldInfo.html" title=" " alt="" coords="6,761,323,1752"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,1766,167,1800,162,1800,162,1766"/>
-<area shape="rect" id="Node000003" href="$d5/d20/classSystem_1_1Reflection_1_1MemberInfo.html" title=" " alt="" coords="35,232,294,713"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,727,167,761,162,761,162,727"/>
-<area shape="rect" id="Node000004" href="$d7/da4/interfaceSystem_1_1Reflection_1_1ICustomAttributeProvider.html" title=" " alt="" coords="35,5,294,184"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="167,198,167,232,162,232,162,198"/>
-</map>

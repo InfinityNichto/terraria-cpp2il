@@ -6,12 +6,10 @@ using Mono.Security.Cryptography;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x0200027A RID: 634
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000317")]
 	public class RSAPKCS1SignatureFormatter : AsymmetricSignatureFormatter
 	{
-		// Token: 0x060018C1 RID: 6337 RVA: 0x00018ABB File Offset: 0x00016CBB
 		[global::Cpp2ILInjected.Token(Token = "0x6001ADB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1B7B4", Offset = "0x1B1B7B4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CryptoConfig), Member = "CreateFromName", MemberParameters = new object[]
@@ -26,7 +24,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060018C2 RID: 6338 RVA: 0x00018ABE File Offset: 0x00016CBE
 		[global::Cpp2ILInjected.Token(Token = "0x6001ADC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1B7BC", Offset = "0x1B1B7BC", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Builder", Member = "Sign", MemberParameters = new object[] { typeof(RSA) }, ReturnType = "System.Byte[]")]
@@ -38,7 +35,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060018C3 RID: 6339 RVA: 0x00018AC1 File Offset: 0x00016CC1
 		[global::Cpp2ILInjected.Token(Token = "0x6001ADD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1B7F0", Offset = "0x1B1B7F0", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -57,7 +53,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060018C4 RID: 6340 RVA: 0x00018AC4 File Offset: 0x00016CC4
 		[global::Cpp2ILInjected.Token(Token = "0x6001ADE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1B90C", Offset = "0x1B1B90C", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -68,7 +63,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060018C5 RID: 6341 RVA: 0x00018AC7 File Offset: 0x00016CC7
 		[global::Cpp2ILInjected.Token(Token = "0x6001ADF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1B968", Offset = "0x1B1B968", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,12 +74,10 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x04000AD2 RID: 2770
 		[global::Cpp2ILInjected.Token(Token = "0x4000DAC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private RSA rsa;
 
-		// Token: 0x04000AD3 RID: 2771
 		[global::Cpp2ILInjected.Token(Token = "0x4000DAD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string hash;

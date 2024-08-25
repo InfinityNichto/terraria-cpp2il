@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000FF RID: 255
 	[UnityInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x200010C")]
 	public class NatecGenesisP44WindowsUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000688 RID: 1672 RVA: 0x000033C5 File Offset: 0x000015C5
 		[global::Cpp2ILInjected.Token(Token = "0x60006A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A13B84", Offset = "0x1A13B84", Length = "0x8D8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000689 RID: 1673 RVA: 0x000033C8 File Offset: 0x000015C8
 		[global::Cpp2ILInjected.Token(Token = "0x60006A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A1445C", Offset = "0x1A1445C", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

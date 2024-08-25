@@ -1,7 +1,0 @@
-<map id="UnityEngine.U2D.SpriteAtlasManager" name="UnityEngine.U2D.SpriteAtlasManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="19,291,237,469"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,148,251,228"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,228,131,274,125,274,125,228"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="101,5,155,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,84,131,148,125,148,125,84"/>
-</map>

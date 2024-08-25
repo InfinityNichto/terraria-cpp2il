@@ -4,12 +4,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Channels
 {
-	// Token: 0x020002D3 RID: 723
 	[global::Cpp2ILInjected.Token(Token = "0x2000376")]
 	[global::System.Serializable]
 	internal class CrossAppDomainData
 	{
-		// Token: 0x06001AFD RID: 6909 RVA: 0x000190AF File Offset: 0x000172AF
 		[global::Cpp2ILInjected.Token(Token = "0x6001D2A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3FF8C", Offset = "0x1B3FF8C", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ObjRef), Member = "DeserializeInTheCurrentDomain", MemberParameters = new object[]
@@ -27,8 +25,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x17000311 RID: 785
-		// (get) Token: 0x06001AFE RID: 6910 RVA: 0x000190B2 File Offset: 0x000172B2
 		[global::Cpp2ILInjected.Token(Token = "0x17000369")]
 		internal int DomainID
 		{
@@ -41,8 +37,6 @@ namespace System.Runtime.Remoting.Channels
 			}
 		}
 
-		// Token: 0x17000312 RID: 786
-		// (get) Token: 0x06001AFF RID: 6911 RVA: 0x000190B5 File Offset: 0x000172B5
 		[global::Cpp2ILInjected.Token(Token = "0x1700036A")]
 		internal string ProcessID
 		{
@@ -55,17 +49,14 @@ namespace System.Runtime.Remoting.Channels
 			}
 		}
 
-		// Token: 0x04000BD2 RID: 3026
 		[global::Cpp2ILInjected.Token(Token = "0x4000EBB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private object _ContextID;
 
-		// Token: 0x04000BD3 RID: 3027
 		[global::Cpp2ILInjected.Token(Token = "0x4000EBC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int _DomainID;
 
-		// Token: 0x04000BD4 RID: 3028
 		[global::Cpp2ILInjected.Token(Token = "0x4000EBD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string _processGuid;

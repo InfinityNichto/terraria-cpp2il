@@ -6,11 +6,9 @@ using Ionic.Zip;
 
 namespace Ionic.Zlib
 {
-	// Token: 0x02000036 RID: 54
 	[global::Cpp2ILInjected.Token(Token = "0x2000043")]
 	public class DeflateStream : Stream
 	{
-		// Token: 0x0600031F RID: 799 RVA: 0x000057D6 File Offset: 0x000039D6
 		[global::Cpp2ILInjected.Token(Token = "0x600033D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6CCC8", Offset = "0x1A6CCC8", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "WorldFile_OldConsole", Member = "GetAllMetadata", MemberParameters = new object[] { typeof(string) }, ReturnType = "Terraria.IO.WorldFileData")]
@@ -34,7 +32,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x06000320 RID: 800 RVA: 0x000057D9 File Offset: 0x000039D9
 		[global::Cpp2ILInjected.Token(Token = "0x600033E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6CD90", Offset = "0x1A6CD90", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -50,7 +47,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x06000321 RID: 801 RVA: 0x000057DC File Offset: 0x000039DC
 		[global::Cpp2ILInjected.Token(Token = "0x600033F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6CD98", Offset = "0x1A6CD98", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NetMessage", Member = "CompressTileBlock", MemberParameters = new object[]
@@ -76,7 +72,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x06000322 RID: 802 RVA: 0x000057DF File Offset: 0x000039DF
 		[global::Cpp2ILInjected.Token(Token = "0x6000340")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6CCD4", Offset = "0x1A6CCD4", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ZipEntry), Member = "MaybeApplyCompression", MemberParameters = new object[]
@@ -116,9 +111,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x170000C9 RID: 201
-		// (get) Token: 0x06000323 RID: 803 RVA: 0x000057E2 File Offset: 0x000039E2
-		// (set) Token: 0x06000324 RID: 804 RVA: 0x000057E5 File Offset: 0x000039E5
 		[global::Cpp2ILInjected.Token(Token = "0x170000CB")]
 		public virtual FlushType FlushMode
 		{
@@ -140,9 +132,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x170000CA RID: 202
-		// (get) Token: 0x06000325 RID: 805 RVA: 0x000057E8 File Offset: 0x000039E8
-		// (set) Token: 0x06000326 RID: 806 RVA: 0x000057EB File Offset: 0x000039EB
 		[global::Cpp2ILInjected.Token(Token = "0x170000CC")]
 		public int BufferSize
 		{
@@ -177,9 +166,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x170000CB RID: 203
-		// (get) Token: 0x06000327 RID: 807 RVA: 0x000057EE File Offset: 0x000039EE
-		// (set) Token: 0x06000328 RID: 808 RVA: 0x000057F1 File Offset: 0x000039F1
 		[global::Cpp2ILInjected.Token(Token = "0x170000CD")]
 		public CompressionStrategy Strategy
 		{
@@ -206,8 +192,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x170000CC RID: 204
-		// (get) Token: 0x06000329 RID: 809 RVA: 0x000057F4 File Offset: 0x000039F4
 		[global::Cpp2ILInjected.Token(Token = "0x170000CE")]
 		public virtual long TotalIn
 		{
@@ -220,8 +204,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x170000CD RID: 205
-		// (get) Token: 0x0600032A RID: 810 RVA: 0x000057F7 File Offset: 0x000039F7
 		[global::Cpp2ILInjected.Token(Token = "0x170000CF")]
 		public virtual long TotalOut
 		{
@@ -234,7 +216,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x0600032B RID: 811 RVA: 0x000057FA File Offset: 0x000039FA
 		[global::Cpp2ILInjected.Token(Token = "0x6000349")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6D174", Offset = "0x1A6D174", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -246,8 +227,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x170000CE RID: 206
-		// (get) Token: 0x0600032C RID: 812 RVA: 0x000057FD File Offset: 0x000039FD
 		[global::Cpp2ILInjected.Token(Token = "0x170000D0")]
 		public override bool CanRead
 		{
@@ -262,8 +241,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x170000CF RID: 207
-		// (get) Token: 0x0600032D RID: 813 RVA: 0x00005800 File Offset: 0x00003A00
 		[global::Cpp2ILInjected.Token(Token = "0x170000D1")]
 		public override bool CanSeek
 		{
@@ -276,8 +253,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x170000D0 RID: 208
-		// (get) Token: 0x0600032E RID: 814 RVA: 0x00005803 File Offset: 0x00003A03
 		[global::Cpp2ILInjected.Token(Token = "0x170000D2")]
 		public override bool CanWrite
 		{
@@ -292,7 +267,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x0600032F RID: 815 RVA: 0x00005806 File Offset: 0x00003A06
 		[global::Cpp2ILInjected.Token(Token = "0x600034D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6D320", Offset = "0x1A6D320", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -303,8 +277,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x170000D1 RID: 209
-		// (get) Token: 0x06000330 RID: 816 RVA: 0x00005809 File Offset: 0x00003A09
 		[global::Cpp2ILInjected.Token(Token = "0x170000D3")]
 		public override long Length
 		{
@@ -319,9 +291,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x170000D2 RID: 210
-		// (get) Token: 0x06000331 RID: 817 RVA: 0x0000580C File Offset: 0x00003A0C
-		// (set) Token: 0x06000332 RID: 818 RVA: 0x0000580F File Offset: 0x00003A0F
 		[global::Cpp2ILInjected.Token(Token = "0x170000D4")]
 		public override long Position
 		{
@@ -344,7 +313,6 @@ namespace Ionic.Zlib
 			}
 		}
 
-		// Token: 0x06000333 RID: 819 RVA: 0x00005812 File Offset: 0x00003A12
 		[global::Cpp2ILInjected.Token(Token = "0x6000351")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6D434", Offset = "0x1A6D434", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -355,7 +323,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x06000334 RID: 820 RVA: 0x00005815 File Offset: 0x00003A15
 		[global::Cpp2ILInjected.Token(Token = "0x6000352")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6D4A0", Offset = "0x1A6D4A0", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -366,7 +333,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x06000335 RID: 821 RVA: 0x00005818 File Offset: 0x00003A18
 		[global::Cpp2ILInjected.Token(Token = "0x6000353")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6D4D8", Offset = "0x1A6D4D8", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -377,7 +343,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x06000336 RID: 822 RVA: 0x0000581B File Offset: 0x00003A1B
 		[global::Cpp2ILInjected.Token(Token = "0x6000354")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6D510", Offset = "0x1A6D510", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -388,7 +353,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x06000337 RID: 823 RVA: 0x0000581E File Offset: 0x00003A1E
 		[global::Cpp2ILInjected.Token(Token = "0x6000355")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6D57C", Offset = "0x1A6D57C", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -412,7 +376,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x06000338 RID: 824 RVA: 0x00005821 File Offset: 0x00003A21
 		[global::Cpp2ILInjected.Token(Token = "0x6000356")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6D8F0", Offset = "0x1A6D8F0", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -436,7 +399,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x06000339 RID: 825 RVA: 0x00005824 File Offset: 0x00003A24
 		[global::Cpp2ILInjected.Token(Token = "0x6000357")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6DC48", Offset = "0x1A6DC48", Length = "0x1D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -460,7 +422,6 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x0600033A RID: 826 RVA: 0x00005827 File Offset: 0x00003A27
 		[global::Cpp2ILInjected.Token(Token = "0x6000358")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A6E1B4", Offset = "0x1A6E1B4", Length = "0x1D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -484,17 +445,14 @@ namespace Ionic.Zlib
 			throw null;
 		}
 
-		// Token: 0x040001DA RID: 474
 		[global::Cpp2ILInjected.Token(Token = "0x400022C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		internal ZlibBaseStream _baseStream;
 
-		// Token: 0x040001DB RID: 475
 		[global::Cpp2ILInjected.Token(Token = "0x400022D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		internal Stream _innerStream;
 
-		// Token: 0x040001DC RID: 476
 		[global::Cpp2ILInjected.Token(Token = "0x400022E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private bool _disposed;

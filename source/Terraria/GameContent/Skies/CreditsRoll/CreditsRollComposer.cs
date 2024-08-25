@@ -12,11 +12,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent.Skies.CreditsRoll
 {
-	// Token: 0x02000665 RID: 1637
 	[global::Cpp2ILInjected.Token(Token = "0x20009E2")]
 	public class CreditsRollComposer
 	{
-		// Token: 0x06004006 RID: 16390 RVA: 0x0002D6EF File Offset: 0x0002B8EF
 		[global::Cpp2ILInjected.Token(Token = "0x6004A7C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x83C064", Offset = "0x83C064", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004007 RID: 16391 RVA: 0x0002D6F2 File Offset: 0x0002B8F2
 		[global::Cpp2ILInjected.Token(Token = "0x6004A7D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x83EA50", Offset = "0x83EA50", Length = "0x6DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +136,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004008 RID: 16392 RVA: 0x0002D6F5 File Offset: 0x0002B8F5
 		[global::Cpp2ILInjected.Token(Token = "0x6004A7E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8524E4", Offset = "0x8524E4", Length = "0x16EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -255,7 +251,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004009 RID: 16393 RVA: 0x0002D6F8 File Offset: 0x0002B8F8
 		[global::Cpp2ILInjected.Token(Token = "0x6004A7F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x853BD0", Offset = "0x853BD0", Length = "0x6E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -310,7 +305,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600400A RID: 16394 RVA: 0x0002D6FB File Offset: 0x0002B8FB
 		[global::Cpp2ILInjected.Token(Token = "0x6004A80")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8542B4", Offset = "0x8542B4", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -344,7 +338,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600400B RID: 16395 RVA: 0x0002D6FE File Offset: 0x0002B8FE
 		[global::Cpp2ILInjected.Token(Token = "0x6004A81")]
 		[global::Cpp2ILInjected.Address(RVA = "0x83F12C", Offset = "0x83F12C", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -368,7 +361,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600400C RID: 16396 RVA: 0x0002D701 File Offset: 0x0002B901
 		[global::Cpp2ILInjected.Token(Token = "0x6004A82")]
 		[global::Cpp2ILInjected.Address(RVA = "0x854444", Offset = "0x854444", Length = "0x3E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -416,7 +408,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600400D RID: 16397 RVA: 0x0002D704 File Offset: 0x0002B904
 		[global::Cpp2ILInjected.Token(Token = "0x6004A83")]
 		[global::Cpp2ILInjected.Address(RVA = "0x84455C", Offset = "0x84455C", Length = "0x1C34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -551,7 +542,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600400E RID: 16398 RVA: 0x0002D707 File Offset: 0x0002B907
 		[global::Cpp2ILInjected.Token(Token = "0x6004A84")]
 		[global::Cpp2ILInjected.Address(RVA = "0x84D860", Offset = "0x84D860", Length = "0x15C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -658,7 +648,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600400F RID: 16399 RVA: 0x0002D70A File Offset: 0x0002B90A
 		[global::Cpp2ILInjected.Token(Token = "0x6004A85")]
 		[global::Cpp2ILInjected.Address(RVA = "0x84EE28", Offset = "0x84EE28", Length = "0x1478")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -785,7 +774,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004010 RID: 16400 RVA: 0x0002D70D File Offset: 0x0002B90D
 		[global::Cpp2ILInjected.Token(Token = "0x6004A86")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8502A0", Offset = "0x8502A0", Length = "0x2244")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -929,7 +917,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004011 RID: 16401 RVA: 0x0002D710 File Offset: 0x0002B910
 		[global::Cpp2ILInjected.Token(Token = "0x6004A87")]
 		[global::Cpp2ILInjected.Address(RVA = "0x854824", Offset = "0x854824", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -944,7 +931,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004012 RID: 16402 RVA: 0x0002D713 File Offset: 0x0002B913
 		[global::Cpp2ILInjected.Token(Token = "0x6004A88")]
 		[global::Cpp2ILInjected.Address(RVA = "0x84C070", Offset = "0x84C070", Length = "0x17F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1079,7 +1065,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004013 RID: 16403 RVA: 0x0002D716 File Offset: 0x0002B916
 		[global::Cpp2ILInjected.Token(Token = "0x6004A89")]
 		[global::Cpp2ILInjected.Address(RVA = "0x854850", Offset = "0x854850", Length = "0x374")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1114,7 +1099,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004014 RID: 16404 RVA: 0x0002D719 File Offset: 0x0002B919
 		[global::Cpp2ILInjected.Token(Token = "0x6004A8A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x84A320", Offset = "0x84A320", Length = "0x1D50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1299,7 +1283,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004015 RID: 16405 RVA: 0x0002D71C File Offset: 0x0002B91C
 		[global::Cpp2ILInjected.Token(Token = "0x6004A8B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x840504", Offset = "0x840504", Length = "0x191C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1421,7 +1404,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004016 RID: 16406 RVA: 0x0002D71F File Offset: 0x0002B91F
 		[global::Cpp2ILInjected.Token(Token = "0x6004A8C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x83F288", Offset = "0x83F288", Length = "0x127C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1530,7 +1512,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004017 RID: 16407 RVA: 0x0002D722 File Offset: 0x0002B922
 		[global::Cpp2ILInjected.Token(Token = "0x6004A8D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x848694", Offset = "0x848694", Length = "0x1C8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1664,7 +1645,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004018 RID: 16408 RVA: 0x0002D725 File Offset: 0x0002B925
 		[global::Cpp2ILInjected.Token(Token = "0x6004A8E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8470E8", Offset = "0x8470E8", Length = "0x15AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1791,7 +1771,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x06004019 RID: 16409 RVA: 0x0002D728 File Offset: 0x0002B928
 		[global::Cpp2ILInjected.Token(Token = "0x6004A8F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x83C138", Offset = "0x83C138", Length = "0x2918")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1920,7 +1899,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600401A RID: 16410 RVA: 0x0002D72B File Offset: 0x0002B92B
 		[global::Cpp2ILInjected.Token(Token = "0x6004A90")]
 		[global::Cpp2ILInjected.Address(RVA = "0x841E20", Offset = "0x841E20", Length = "0x1A10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2029,7 +2007,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600401B RID: 16411 RVA: 0x0002D72E File Offset: 0x0002B92E
 		[global::Cpp2ILInjected.Token(Token = "0x6004A91")]
 		[global::Cpp2ILInjected.Address(RVA = "0x843830", Offset = "0x843830", Length = "0xD2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2138,7 +2115,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600401C RID: 16412 RVA: 0x0002D731 File Offset: 0x0002B931
 		[global::Cpp2ILInjected.Token(Token = "0x6004A92")]
 		[global::Cpp2ILInjected.Address(RVA = "0x846190", Offset = "0x846190", Length = "0xF58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2252,7 +2228,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x0600401D RID: 16413 RVA: 0x0002D734 File Offset: 0x0002B934
 		[global::Cpp2ILInjected.Token(Token = "0x6004A93")]
 		[global::Cpp2ILInjected.Address(RVA = "0x854BC4", Offset = "0x854BC4", Length = "0x10BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2270,41 +2245,33 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 			throw null;
 		}
 
-		// Token: 0x04006D15 RID: 27925
 		[global::Cpp2ILInjected.Token(Token = "0x400851C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Vector2 _originAtBottom;
 
-		// Token: 0x04006D16 RID: 27926
 		[global::Cpp2ILInjected.Token(Token = "0x400851D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Vector2 _emoteBubbleOffsetWhenOnLeft;
 
-		// Token: 0x04006D17 RID: 27927
 		[global::Cpp2ILInjected.Token(Token = "0x400851E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Vector2 _emoteBubbleOffsetWhenOnRight;
 
-		// Token: 0x04006D18 RID: 27928
 		[global::Cpp2ILInjected.Token(Token = "0x400851F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private Vector2 _backgroundOffset;
 
-		// Token: 0x04006D19 RID: 27929
 		[global::Cpp2ILInjected.Token(Token = "0x4008520")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private int _endTime;
 
-		// Token: 0x04006D1A RID: 27930
 		[global::Cpp2ILInjected.Token(Token = "0x4008521")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private List<IAnimationSegment> _segments;
 
-		// Token: 0x02000A5C RID: 2652
 		[global::Cpp2ILInjected.Token(Token = "0x20009E3")]
 		private struct SimplifiedNPCInfo
 		{
-			// Token: 0x060050A2 RID: 20642 RVA: 0x0003038F File Offset: 0x0002E58F
 			[global::Cpp2ILInjected.Token(Token = "0x6004A94")]
 			[global::Cpp2ILInjected.Address(RVA = "0x85D688", Offset = "0x85D688", Length = "0xC")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_PrincessAndEveryoneThanksPlayer", MemberParameters = new object[]
@@ -2318,7 +2285,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 				throw null;
 			}
 
-			// Token: 0x060050A3 RID: 20643 RVA: 0x00030392 File Offset: 0x0002E592
 			[global::Cpp2ILInjected.Token(Token = "0x6004A95")]
 			[global::Cpp2ILInjected.Address(RVA = "0x85D694", Offset = "0x85D694", Length = "0x90")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2335,7 +2301,6 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 				throw null;
 			}
 
-			// Token: 0x060050A4 RID: 20644 RVA: 0x00030395 File Offset: 0x0002E595
 			[global::Cpp2ILInjected.Token(Token = "0x6004A96")]
 			[global::Cpp2ILInjected.Address(RVA = "0x85D724", Offset = "0x85D724", Length = "0xB8")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer.SimplifiedNPCInfo), Member = "SpawnNPC", MemberParameters = new object[]
@@ -2367,19 +2332,15 @@ namespace Terraria.GameContent.Skies.CreditsRoll
 				throw null;
 			}
 
-			// Token: 0x04008E20 RID: 36384
 			[global::Cpp2ILInjected.Token(Token = "0x4008522")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			private Vector2 _simplifiedPosition;
 
-			// Token: 0x04008E21 RID: 36385
 			[global::Cpp2ILInjected.Token(Token = "0x4008523")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			private int _npcType;
 		}
 
-		// Token: 0x02000A5D RID: 2653
-		// (Invoke) Token: 0x060050A6 RID: 20646
 		[global::Cpp2ILInjected.Token(Token = "0x20009E4")]
 		private delegate void AddNPCMethod(int npcType, Vector2 sceneAnchoePosition, int lookDirection, int fromTime, int duration, int timeToJumpAt);
 	}

@@ -11,11 +11,9 @@ using Mono.Unity;
 
 namespace Mono.Net.Security
 {
-	// Token: 0x02000021 RID: 33
 	[global::Cpp2ILInjected.Token(Token = "0x2000064")]
 	internal static class MonoTlsProviderFactory
 	{
-		// Token: 0x06000108 RID: 264 RVA: 0x000030F2 File Offset: 0x000012F2
 		[global::Cpp2ILInjected.Token(Token = "0x6000179")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D49BA0", Offset = "0x1D49BA0", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +45,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000109 RID: 265 RVA: 0x000030F5 File Offset: 0x000012F5
 		[global::Cpp2ILInjected.Token(Token = "0x600017A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4D674", Offset = "0x1D4D674", Length = "0x388")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +77,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600010A RID: 266 RVA: 0x000030F8 File Offset: 0x000012F8
 		[global::Cpp2ILInjected.Token(Token = "0x600017B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4DD78", Offset = "0x1D4DD78", Length = "0x518")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -134,7 +130,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600010B RID: 267 RVA: 0x000030FB File Offset: 0x000012FB
 		[global::Cpp2ILInjected.Token(Token = "0x600017C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4D9FC", Offset = "0x1D4D9FC", Length = "0x1F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -162,7 +157,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600010C RID: 268 RVA: 0x000030FE File Offset: 0x000012FE
 		[global::Cpp2ILInjected.Token(Token = "0x600017D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4E290", Offset = "0x1D4E290", Length = "0x13C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MonoTlsProviderFactory), Member = "InitializeProviderRegistration", ReturnType = typeof(void))]
@@ -183,7 +177,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600010D RID: 269 RVA: 0x00003101 File Offset: 0x00001301
 		[global::Cpp2ILInjected.Token(Token = "0x600017E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4E3CC", Offset = "0x1D4E3CC", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MonoTlsProviderFactory), Member = "InitializeProviderRegistration", ReturnType = typeof(void))]
@@ -194,7 +187,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600010E RID: 270 RVA: 0x00003104 File Offset: 0x00001304
 		[global::Cpp2ILInjected.Token(Token = "0x600017F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4DBF0", Offset = "0x1D4DBF0", Length = "0x188")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -216,7 +208,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600010F RID: 271 RVA: 0x00003107 File Offset: 0x00001307
 		[global::Cpp2ILInjected.Token(Token = "0x6000180")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4E41C", Offset = "0x1D4E41C", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NoReflectionHelper), Member = "GetProvider", ReturnType = typeof(object))]
@@ -228,7 +219,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000110 RID: 272 RVA: 0x0000310A File Offset: 0x0000130A
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000181")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4E468", Offset = "0x1D4E468", Length = "0x130")]
@@ -241,35 +231,27 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0400005B RID: 91
 		[global::Cpp2ILInjected.Token(Token = "0x4000116")]
 		private static object locker;
 
-		// Token: 0x0400005C RID: 92
 		[global::Cpp2ILInjected.Token(Token = "0x4000117")]
 		private static bool initialized;
 
-		// Token: 0x0400005D RID: 93
 		[global::Cpp2ILInjected.Token(Token = "0x4000118")]
 		private static MobileTlsProvider defaultProvider;
 
-		// Token: 0x0400005E RID: 94
 		[global::Cpp2ILInjected.Token(Token = "0x4000119")]
 		private static Dictionary<string, Tuple<Guid, string>> providerRegistration;
 
-		// Token: 0x0400005F RID: 95
 		[global::Cpp2ILInjected.Token(Token = "0x400011A")]
 		private static Dictionary<Guid, MobileTlsProvider> providerCache;
 
-		// Token: 0x04000060 RID: 96
 		[global::Cpp2ILInjected.Token(Token = "0x400011B")]
 		internal static readonly Guid UnityTlsId;
 
-		// Token: 0x04000061 RID: 97
 		[global::Cpp2ILInjected.Token(Token = "0x400011C")]
 		internal static readonly Guid AppleTlsId;
 
-		// Token: 0x04000062 RID: 98
 		[global::Cpp2ILInjected.Token(Token = "0x400011D")]
 		internal static readonly Guid BtlsId;
 	}

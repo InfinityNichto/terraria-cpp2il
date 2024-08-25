@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x02000257 RID: 599
 	[global::Cpp2ILInjected.Token(Token = "0x200034A")]
 	public class AttributeCollection : ICollection, IEnumerable
 	{
-		// Token: 0x0600139F RID: 5023 RVA: 0x00006635 File Offset: 0x00004835
 		[global::Cpp2ILInjected.Token(Token = "0x60015E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3DFA4", Offset = "0x1E3DFA4", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -55,7 +53,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060013A0 RID: 5024 RVA: 0x00006638 File Offset: 0x00004838
 		[global::Cpp2ILInjected.Token(Token = "0x60015E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3E0AC", Offset = "0x1E3E0AC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -65,7 +62,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060013A1 RID: 5025 RVA: 0x0000663B File Offset: 0x0000483B
 		[global::Cpp2ILInjected.Token(Token = "0x60015E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3E0B4", Offset = "0x1E3E0B4", Length = "0x2E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,8 +87,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x170004CE RID: 1230
-		// (get) Token: 0x060013A2 RID: 5026 RVA: 0x0000663E File Offset: 0x0000483E
 		[global::Cpp2ILInjected.Token(Token = "0x170004F7")]
 		protected virtual Attribute[] Attributes
 		{
@@ -105,8 +99,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x170004CF RID: 1231
-		// (get) Token: 0x060013A3 RID: 5027 RVA: 0x00006641 File Offset: 0x00004841
 		[global::Cpp2ILInjected.Token(Token = "0x170004F8")]
 		public int Count
 		{
@@ -135,7 +127,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x170004D0 RID: 1232
 		[global::Cpp2ILInjected.Token(Token = "0x170004F9")]
 		public virtual Attribute this[int index]
 		{
@@ -149,7 +140,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x170004D1 RID: 1233
 		[global::Cpp2ILInjected.Token(Token = "0x170004FA")]
 		public virtual Attribute this[Type attributeType]
 		{
@@ -177,7 +167,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x060013A6 RID: 5030 RVA: 0x0000664A File Offset: 0x0000484A
 		[global::Cpp2ILInjected.Token(Token = "0x60015E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3ECA8", Offset = "0x1E3ECA8", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -197,7 +186,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060013A7 RID: 5031 RVA: 0x0000664D File Offset: 0x0000484D
 		[global::Cpp2ILInjected.Token(Token = "0x60015E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3ED00", Offset = "0x1E3ED00", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -208,7 +196,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060013A8 RID: 5032 RVA: 0x00006650 File Offset: 0x00004850
 		[global::Cpp2ILInjected.Token(Token = "0x60015EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3E7C0", Offset = "0x1E3E7C0", Length = "0x4E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -241,7 +228,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060013A9 RID: 5033 RVA: 0x00006653 File Offset: 0x00004853
 		[global::Cpp2ILInjected.Token(Token = "0x60015EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3ED68", Offset = "0x1E3ED68", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -264,7 +250,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060013AA RID: 5034 RVA: 0x00006656 File Offset: 0x00004856
 		[global::Cpp2ILInjected.Token(Token = "0x60015EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3ED84", Offset = "0x1E3ED84", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -275,7 +260,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060013AB RID: 5035 RVA: 0x00006659 File Offset: 0x00004859
 		[global::Cpp2ILInjected.Token(Token = "0x60015ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3EE18", Offset = "0x1E3EE18", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -286,8 +270,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x170004D2 RID: 1234
-		// (get) Token: 0x060013AC RID: 5036 RVA: 0x0000665C File Offset: 0x0000485C
 		[global::Cpp2ILInjected.Token(Token = "0x170004FB")]
 		private bool System.Collections.ICollection.IsSynchronized
 		{
@@ -300,8 +282,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x170004D3 RID: 1235
-		// (get) Token: 0x060013AD RID: 5037 RVA: 0x0000665F File Offset: 0x0000485F
 		[global::Cpp2ILInjected.Token(Token = "0x170004FC")]
 		private object System.Collections.ICollection.SyncRoot
 		{
@@ -314,8 +294,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x170004D4 RID: 1236
-		// (get) Token: 0x060013AE RID: 5038 RVA: 0x00006662 File Offset: 0x00004862
 		[global::Cpp2ILInjected.Token(Token = "0x170004FD")]
 		private int System.Collections.ICollection.Count
 		{
@@ -329,7 +307,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x060013AF RID: 5039 RVA: 0x00006665 File Offset: 0x00004865
 		[global::Cpp2ILInjected.Token(Token = "0x60015F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3EEA8", Offset = "0x1E3EEA8", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -340,7 +317,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060013B0 RID: 5040 RVA: 0x00006668 File Offset: 0x00004868
 		[global::Cpp2ILInjected.Token(Token = "0x60015F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3E3B4", Offset = "0x1E3E3B4", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -366,7 +342,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060013B1 RID: 5041 RVA: 0x0000666B File Offset: 0x0000486B
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60015F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E3EEC4", Offset = "0x1E3EEC4", Length = "0x90")]
@@ -379,47 +354,37 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x04000DB2 RID: 3506
 		[global::Cpp2ILInjected.Token(Token = "0x40011B3")]
 		public static readonly AttributeCollection Empty;
 
-		// Token: 0x04000DB3 RID: 3507
 		[global::Cpp2ILInjected.Token(Token = "0x40011B4")]
 		private static Hashtable s_defaultAttributes;
 
-		// Token: 0x04000DB4 RID: 3508
 		[global::Cpp2ILInjected.Token(Token = "0x40011B5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly Attribute[] _attributes;
 
-		// Token: 0x04000DB5 RID: 3509
 		[global::Cpp2ILInjected.Token(Token = "0x40011B6")]
 		private static readonly object s_internalSyncObject;
 
-		// Token: 0x04000DB6 RID: 3510
 		[global::Cpp2ILInjected.Token(Token = "0x40011B7")]
 		private const int FOUND_TYPES_LIMIT = 5;
 
-		// Token: 0x04000DB7 RID: 3511
 		[global::Cpp2ILInjected.Token(Token = "0x40011B8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private AttributeCollection.AttributeEntry[] _foundAttributeTypes;
 
-		// Token: 0x04000DB8 RID: 3512
 		[global::Cpp2ILInjected.Token(Token = "0x40011B9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private int _index;
 
-		// Token: 0x02000455 RID: 1109
 		[global::Cpp2ILInjected.Token(Token = "0x200034B")]
 		private struct AttributeEntry
 		{
-			// Token: 0x04001385 RID: 4997
 			[global::Cpp2ILInjected.Token(Token = "0x40011BA")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public Type type;
 
-			// Token: 0x04001386 RID: 4998
 			[global::Cpp2ILInjected.Token(Token = "0x40011BB")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			public int index;

@@ -1,4 +1,0 @@
-var POWERAFUS1ONTournamentControllerMacNativeProfile_8cs =
-[
-    [ "InControl.NativeDeviceProfiles.POWERAFUS1ONTournamentControllerMacNativeProfile", "de/d4c/classInControl_1_1NativeDeviceProfiles_1_1POWERAFUS1ONTournamentControllerMacNativeProfile.html", "de/d4c/classInControl_1_1NativeDeviceProfiles_1_1POWERAFUS1ONTournamentControllerMacNativeProfile" ]
-];

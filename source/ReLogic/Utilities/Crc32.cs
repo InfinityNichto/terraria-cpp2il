@@ -6,11 +6,9 @@ using Terraria.IO;
 
 namespace ReLogic.Utilities
 {
-	// Token: 0x0200070E RID: 1806
 	[global::Cpp2ILInjected.Token(Token = "0x2000B02")]
 	public static class Crc32
 	{
-		// Token: 0x060045DD RID: 17885 RVA: 0x0002E80B File Offset: 0x0002CA0B
 		[global::Cpp2ILInjected.Token(Token = "0x6005275")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93DE6C", Offset = "0x93DE6C", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x060045DE RID: 17886 RVA: 0x0002E80E File Offset: 0x0002CA0E
 		[global::Cpp2ILInjected.Token(Token = "0x6005276")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93DF2C", Offset = "0x93DF2C", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +32,6 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x060045DF RID: 17887 RVA: 0x0002E811 File Offset: 0x0002CA11
 		[global::Cpp2ILInjected.Token(Token = "0x6005277")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93DFE8", Offset = "0x93DFE8", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -46,7 +42,6 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x060045E0 RID: 17888 RVA: 0x0002E814 File Offset: 0x0002CA14
 		[global::Cpp2ILInjected.Token(Token = "0x6005278")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93E0A0", Offset = "0x93E0A0", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -57,7 +52,6 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x060045E1 RID: 17889 RVA: 0x0002E817 File Offset: 0x0002CA17
 		[global::Cpp2ILInjected.Token(Token = "0x6005279")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93E158", Offset = "0x93E158", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +62,6 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x060045E2 RID: 17890 RVA: 0x0002E81A File Offset: 0x0002CA1A
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600527A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93E20C", Offset = "0x93E20C", Length = "0x94")]
@@ -84,7 +77,6 @@ namespace ReLogic.Utilities
 			throw null;
 		}
 
-		// Token: 0x04007148 RID: 29000
 		[global::Cpp2ILInjected.Token(Token = "0x4008AC2")]
 		private static readonly uint[] Tabs;
 	}

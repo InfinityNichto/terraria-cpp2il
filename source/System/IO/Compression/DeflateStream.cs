@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.IO.Compression
 {
-	// Token: 0x0200031A RID: 794
 	[global::Cpp2ILInjected.Token(Token = "0x200043D")]
 	public class DeflateStream : Stream
 	{
-		// Token: 0x06001A70 RID: 6768 RVA: 0x000078AD File Offset: 0x00005AAD
 		[global::Cpp2ILInjected.Token(Token = "0x6001DBC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E94658", Offset = "0x1E94658", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ContentDecodeStream), Member = "Create", MemberParameters = new object[]
@@ -33,7 +31,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A71 RID: 6769 RVA: 0x000078B0 File Offset: 0x00005AB0
 		[global::Cpp2ILInjected.Token(Token = "0x6001DBD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E93B38", Offset = "0x1E93B38", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -49,7 +46,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A72 RID: 6770 RVA: 0x000078B3 File Offset: 0x00005AB3
 		[global::Cpp2ILInjected.Token(Token = "0x6001DBE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E94664", Offset = "0x1E94664", Length = "0x160")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -83,7 +79,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A73 RID: 6771 RVA: 0x000078B6 File Offset: 0x00005AB6
 		[global::Cpp2ILInjected.Token(Token = "0x6001DBF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E948F8", Offset = "0x1E948F8", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -95,7 +90,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A74 RID: 6772 RVA: 0x000078B9 File Offset: 0x00005AB9
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9499C", Offset = "0x1E9499C", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -109,7 +103,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A75 RID: 6773 RVA: 0x000078BC File Offset: 0x00005ABC
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E94B50", Offset = "0x1E94B50", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -118,7 +111,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A76 RID: 6774 RVA: 0x000078BF File Offset: 0x00005ABF
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E944D4", Offset = "0x1E944D4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -132,7 +124,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A77 RID: 6775 RVA: 0x000078C2 File Offset: 0x00005AC2
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E93F74", Offset = "0x1E93F74", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -145,7 +136,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A78 RID: 6776 RVA: 0x000078C5 File Offset: 0x00005AC5
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E94BFC", Offset = "0x1E94BFC", Length = "0x1E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +156,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A79 RID: 6777 RVA: 0x000078C8 File Offset: 0x00005AC8
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E94DE0", Offset = "0x1E94DE0", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -175,7 +164,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A7A RID: 6778 RVA: 0x000078CB File Offset: 0x00005ACB
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E945DC", Offset = "0x1E945DC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -189,7 +177,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A7B RID: 6779 RVA: 0x000078CE File Offset: 0x00005ACE
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E94274", Offset = "0x1E94274", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -201,7 +188,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A7C RID: 6780 RVA: 0x000078D1 File Offset: 0x00005AD1
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E94E7C", Offset = "0x1E94E7C", Length = "0x1EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -223,7 +209,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A7D RID: 6781 RVA: 0x000078D4 File Offset: 0x00005AD4
 		[global::Cpp2ILInjected.Token(Token = "0x6001DC9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E95068", Offset = "0x1E95068", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -236,7 +221,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A7E RID: 6782 RVA: 0x000078D7 File Offset: 0x00005AD7
 		[global::Cpp2ILInjected.Token(Token = "0x6001DCA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E95158", Offset = "0x1E95158", Length = "0x250")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -270,7 +254,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A7F RID: 6783 RVA: 0x000078DA File Offset: 0x00005ADA
 		[global::Cpp2ILInjected.Token(Token = "0x6001DCB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E95528", Offset = "0x1E95528", Length = "0x250")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -304,7 +287,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A80 RID: 6784 RVA: 0x000078DD File Offset: 0x00005ADD
 		[global::Cpp2ILInjected.Token(Token = "0x6001DCC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E958F8", Offset = "0x1E958F8", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -321,7 +303,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A81 RID: 6785 RVA: 0x000078E0 File Offset: 0x00005AE0
 		[global::Cpp2ILInjected.Token(Token = "0x6001DCD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E95A64", Offset = "0x1E95A64", Length = "0x140")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -338,7 +319,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A82 RID: 6786 RVA: 0x000078E3 File Offset: 0x00005AE3
 		[global::Cpp2ILInjected.Token(Token = "0x6001DCE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E95BB0", Offset = "0x1E95BB0", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -349,7 +329,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x06001A83 RID: 6787 RVA: 0x000078E6 File Offset: 0x00005AE6
 		[global::Cpp2ILInjected.Token(Token = "0x6001DCF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E95BE8", Offset = "0x1E95BE8", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -360,8 +339,6 @@ namespace System.IO.Compression
 			throw null;
 		}
 
-		// Token: 0x1700064C RID: 1612
-		// (get) Token: 0x06001A84 RID: 6788 RVA: 0x000078E9 File Offset: 0x00005AE9
 		[global::Cpp2ILInjected.Token(Token = "0x170006B6")]
 		public override bool CanRead
 		{
@@ -375,8 +352,6 @@ namespace System.IO.Compression
 			}
 		}
 
-		// Token: 0x1700064D RID: 1613
-		// (get) Token: 0x06001A85 RID: 6789 RVA: 0x000078EC File Offset: 0x00005AEC
 		[global::Cpp2ILInjected.Token(Token = "0x170006B7")]
 		public override bool CanSeek
 		{
@@ -389,8 +364,6 @@ namespace System.IO.Compression
 			}
 		}
 
-		// Token: 0x1700064E RID: 1614
-		// (get) Token: 0x06001A86 RID: 6790 RVA: 0x000078EF File Offset: 0x00005AEF
 		[global::Cpp2ILInjected.Token(Token = "0x170006B8")]
 		public override bool CanWrite
 		{
@@ -405,8 +378,6 @@ namespace System.IO.Compression
 			}
 		}
 
-		// Token: 0x1700064F RID: 1615
-		// (get) Token: 0x06001A87 RID: 6791 RVA: 0x000078F2 File Offset: 0x00005AF2
 		[global::Cpp2ILInjected.Token(Token = "0x170006B9")]
 		public override long Length
 		{
@@ -421,9 +392,6 @@ namespace System.IO.Compression
 			}
 		}
 
-		// Token: 0x17000650 RID: 1616
-		// (get) Token: 0x06001A88 RID: 6792 RVA: 0x000078F5 File Offset: 0x00005AF5
-		// (set) Token: 0x06001A89 RID: 6793 RVA: 0x000078F8 File Offset: 0x00005AF8
 		[global::Cpp2ILInjected.Token(Token = "0x170006BA")]
 		public override long Position
 		{
@@ -447,38 +415,29 @@ namespace System.IO.Compression
 			}
 		}
 
-		// Token: 0x04000F99 RID: 3993
 		[global::Cpp2ILInjected.Token(Token = "0x400140A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private Stream base_stream;
 
-		// Token: 0x04000F9A RID: 3994
 		[global::Cpp2ILInjected.Token(Token = "0x400140B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private CompressionMode mode;
 
-		// Token: 0x04000F9B RID: 3995
 		[global::Cpp2ILInjected.Token(Token = "0x400140C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		private bool leaveOpen;
 
-		// Token: 0x04000F9C RID: 3996
 		[global::Cpp2ILInjected.Token(Token = "0x400140D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x35")]
 		private bool disposed;
 
-		// Token: 0x04000F9D RID: 3997
 		[global::Cpp2ILInjected.Token(Token = "0x400140E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private DeflateStreamNative native;
 
-		// Token: 0x02000480 RID: 1152
-		// (Invoke) Token: 0x06001FB6 RID: 8118
 		[global::Cpp2ILInjected.Token(Token = "0x200043E")]
 		private delegate int ReadMethod(byte[] array, int offset, int count);
 
-		// Token: 0x02000481 RID: 1153
-		// (Invoke) Token: 0x06001FBA RID: 8122
 		[global::Cpp2ILInjected.Token(Token = "0x200043F")]
 		private delegate void WriteMethod(byte[] array, int offset, int count);
 	}

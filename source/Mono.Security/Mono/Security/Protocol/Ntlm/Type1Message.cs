@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Security.Protocol.Ntlm
 {
-	// Token: 0x02000024 RID: 36
 	[global::Cpp2ILInjected.Token(Token = "0x200003F")]
 	public class Type1Message : MessageBase
 	{
-		// Token: 0x0600017C RID: 380 RVA: 0x000033B1 File Offset: 0x000015B1
 		[global::Cpp2ILInjected.Token(Token = "0x60001D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9A004", Offset = "0x1A9A004", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Http.NtlmSession", Member = "Authenticate", MemberParameters = new object[]
@@ -30,8 +28,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x1700006B RID: 107
-		// (set) Token: 0x0600017D RID: 381 RVA: 0x000033B4 File Offset: 0x000015B4
 		[global::Cpp2ILInjected.Token(Token = "0x17000086")]
 		public string Domain
 		{
@@ -57,8 +53,6 @@ namespace Mono.Security.Protocol.Ntlm
 			}
 		}
 
-		// Token: 0x1700006C RID: 108
-		// (set) Token: 0x0600017E RID: 382 RVA: 0x000033B7 File Offset: 0x000015B7
 		[global::Cpp2ILInjected.Token(Token = "0x17000087")]
 		public string Host
 		{
@@ -84,7 +78,6 @@ namespace Mono.Security.Protocol.Ntlm
 			}
 		}
 
-		// Token: 0x0600017F RID: 383 RVA: 0x000033BA File Offset: 0x000015BA
 		[global::Cpp2ILInjected.Token(Token = "0x60001D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9A188", Offset = "0x1A9A188", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -106,7 +99,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x06000180 RID: 384 RVA: 0x000033BD File Offset: 0x000015BD
 		[global::Cpp2ILInjected.Token(Token = "0x60001D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9A250", Offset = "0x1A9A250", Length = "0x1A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -129,12 +121,10 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x040000BC RID: 188
 		[global::Cpp2ILInjected.Token(Token = "0x40000E9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string _host;
 
-		// Token: 0x040000BD RID: 189
 		[global::Cpp2ILInjected.Token(Token = "0x40000EA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string _domain;

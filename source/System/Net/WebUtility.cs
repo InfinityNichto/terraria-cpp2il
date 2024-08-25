@@ -9,11 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x0200014F RID: 335
 	[global::Cpp2ILInjected.Token(Token = "0x20001E0")]
 	public static class WebUtility
 	{
-		// Token: 0x06000AC1 RID: 2753 RVA: 0x00004CBB File Offset: 0x00002EBB
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F20F78", Offset = "0x1F20F78", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpListenerRequest), Member = "FinishInitialization", ReturnType = typeof(bool))]
@@ -37,7 +35,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AC2 RID: 2754 RVA: 0x00004CBE File Offset: 0x00002EBE
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F211DC", Offset = "0x1F211DC", Length = "0x3B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +62,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AC3 RID: 2755 RVA: 0x00004CC1 File Offset: 0x00002EC1
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F21728", Offset = "0x1F21728", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -84,7 +80,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AC4 RID: 2756 RVA: 0x00004CC4 File Offset: 0x00002EC4
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F21938", Offset = "0x1F21938", Length = "0x408")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +115,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AC5 RID: 2757 RVA: 0x00004CC7 File Offset: 0x00002EC7
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F21090", Offset = "0x1F21090", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -140,8 +134,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x1700026A RID: 618
-		// (get) Token: 0x06000AC6 RID: 2758 RVA: 0x00004CCA File Offset: 0x00002ECA
 		[global::Cpp2ILInjected.Token(Token = "0x17000277")]
 		private static UnicodeDecodingConformance HtmlDecodeConformance
 		{
@@ -162,8 +154,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x1700026B RID: 619
-		// (get) Token: 0x06000AC7 RID: 2759 RVA: 0x00004CCD File Offset: 0x00002ECD
 		[global::Cpp2ILInjected.Token(Token = "0x17000278")]
 		private static UnicodeEncodingConformance HtmlEncodeConformance
 		{
@@ -188,7 +178,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000AC8 RID: 2760 RVA: 0x00004CD0 File Offset: 0x00002ED0
 		[global::Cpp2ILInjected.Token(Token = "0x6000BEB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F21E5C", Offset = "0x1F21E5C", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -213,7 +202,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AC9 RID: 2761 RVA: 0x00004CD3 File Offset: 0x00002ED3
 		[global::Cpp2ILInjected.Token(Token = "0x6000BEC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F21F2C", Offset = "0x1F21F2C", Length = "0x2D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -245,7 +233,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000ACA RID: 2762 RVA: 0x00004CD6 File Offset: 0x00002ED6
 		[global::Cpp2ILInjected.Token(Token = "0x6000BED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F22368", Offset = "0x1F22368", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -264,7 +251,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000ACB RID: 2763 RVA: 0x00004CD9 File Offset: 0x00002ED9
 		[global::Cpp2ILInjected.Token(Token = "0x6000BEE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F22424", Offset = "0x1F22424", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -281,7 +267,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000ACC RID: 2764 RVA: 0x00004CDC File Offset: 0x00002EDC
 		[global::Cpp2ILInjected.Token(Token = "0x6000BEF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F22494", Offset = "0x1F22494", Length = "0x21C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -302,7 +287,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000ACD RID: 2765 RVA: 0x00004CDF File Offset: 0x00002EDF
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F22700", Offset = "0x1F22700", Length = "0x214")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -331,7 +315,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000ACE RID: 2766 RVA: 0x00004CE2 File Offset: 0x00002EE2
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F22914", Offset = "0x1F22914", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EndPointListener), Member = "SearchListener", MemberParameters = new object[]
@@ -353,7 +336,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000ACF RID: 2767 RVA: 0x00004CE5 File Offset: 0x00002EE5
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F22990", Offset = "0x1F22990", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -369,7 +351,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AD0 RID: 2768 RVA: 0x00004CE8 File Offset: 0x00002EE8
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F21E24", Offset = "0x1F21E24", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -379,7 +360,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AD1 RID: 2769 RVA: 0x00004CEB File Offset: 0x00002EEB
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F21670", Offset = "0x1F21670", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -400,7 +380,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AD2 RID: 2770 RVA: 0x00004CEE File Offset: 0x00002EEE
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F226B0", Offset = "0x1F226B0", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -410,7 +389,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AD3 RID: 2771 RVA: 0x00004CF1 File Offset: 0x00002EF1
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F22350", Offset = "0x1F22350", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -420,7 +398,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AD4 RID: 2772 RVA: 0x00004CF4 File Offset: 0x00002EF4
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F222DC", Offset = "0x1F222DC", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -430,7 +407,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AD5 RID: 2773 RVA: 0x00004CF7 File Offset: 0x00002EF7
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F22200", Offset = "0x1F22200", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -455,7 +431,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AD6 RID: 2774 RVA: 0x00004CFA File Offset: 0x00002EFA
 		[global::Cpp2ILInjected.Token(Token = "0x6000BF9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F21838", Offset = "0x1F21838", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -476,7 +451,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000AD7 RID: 2775 RVA: 0x00004CFD File Offset: 0x00002EFD
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000BFA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F229FC", Offset = "0x1F229FC", Length = "0x1094")]
@@ -488,51 +462,39 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040007E2 RID: 2018
 		[global::Cpp2ILInjected.Token(Token = "0x4000A1E")]
 		private const char HIGH_SURROGATE_START = '\ud800';
 
-		// Token: 0x040007E3 RID: 2019
 		[global::Cpp2ILInjected.Token(Token = "0x4000A1F")]
 		private const char LOW_SURROGATE_START = '\udc00';
 
-		// Token: 0x040007E4 RID: 2020
 		[global::Cpp2ILInjected.Token(Token = "0x4000A20")]
 		private const char LOW_SURROGATE_END = '\udfff';
 
-		// Token: 0x040007E5 RID: 2021
 		[global::Cpp2ILInjected.Token(Token = "0x4000A21")]
 		private const int UNICODE_PLANE00_END = 65535;
 
-		// Token: 0x040007E6 RID: 2022
 		[global::Cpp2ILInjected.Token(Token = "0x4000A22")]
 		private const int UNICODE_PLANE01_START = 65536;
 
-		// Token: 0x040007E7 RID: 2023
 		[global::Cpp2ILInjected.Token(Token = "0x4000A23")]
 		private const int UNICODE_PLANE16_END = 1114111;
 
-		// Token: 0x040007E8 RID: 2024
 		[global::Cpp2ILInjected.Token(Token = "0x4000A24")]
 		private const int UnicodeReplacementChar = 65533;
 
-		// Token: 0x040007E9 RID: 2025
 		[global::Cpp2ILInjected.Token(Token = "0x4000A25")]
 		private static readonly char[] _htmlEntityEndingChars;
 
-		// Token: 0x040007EA RID: 2026
 		[global::Cpp2ILInjected.Token(Token = "0x4000A26")]
 		private static UnicodeDecodingConformance _htmlDecodeConformance;
 
-		// Token: 0x040007EB RID: 2027
 		[global::Cpp2ILInjected.Token(Token = "0x4000A27")]
 		private static UnicodeEncodingConformance _htmlEncodeConformance;
 
-		// Token: 0x020003F9 RID: 1017
 		[global::Cpp2ILInjected.Token(Token = "0x20001E1")]
 		private class UrlDecoder
 		{
-			// Token: 0x06001DC7 RID: 7623 RVA: 0x0000823D File Offset: 0x0000643D
 			[global::Cpp2ILInjected.Token(Token = "0x6000BFB")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F23A90", Offset = "0x1F23A90", Length = "0x58")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -544,7 +506,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001DC8 RID: 7624 RVA: 0x00008240 File Offset: 0x00006440
 			[global::Cpp2ILInjected.Token(Token = "0x6000BFC")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F23AE8", Offset = "0x1F23AE8", Length = "0x74")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebUtility), Member = "UrlDecodeInternal", MemberParameters = new object[]
@@ -560,7 +521,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001DC9 RID: 7625 RVA: 0x00008243 File Offset: 0x00006443
 			[global::Cpp2ILInjected.Token(Token = "0x6000BFD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F23B5C", Offset = "0x1F23B5C", Length = "0x48")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -576,7 +536,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001DCA RID: 7626 RVA: 0x00008246 File Offset: 0x00006446
 			[global::Cpp2ILInjected.Token(Token = "0x6000BFE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F23BA4", Offset = "0x1F23BA4", Length = "0x70")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -592,7 +551,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001DCB RID: 7627 RVA: 0x00008249 File Offset: 0x00006449
 			[global::Cpp2ILInjected.Token(Token = "0x6000BFF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F23C14", Offset = "0x1F23C14", Length = "0x88")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -615,42 +573,34 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x040011ED RID: 4589
 			[global::Cpp2ILInjected.Token(Token = "0x4000A28")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private int _bufferSize;
 
-			// Token: 0x040011EE RID: 4590
 			[global::Cpp2ILInjected.Token(Token = "0x4000A29")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 			private int _numChars;
 
-			// Token: 0x040011EF RID: 4591
 			[global::Cpp2ILInjected.Token(Token = "0x4000A2A")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private char[] _charBuffer;
 
-			// Token: 0x040011F0 RID: 4592
 			[global::Cpp2ILInjected.Token(Token = "0x4000A2B")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private int _numBytes;
 
-			// Token: 0x040011F1 RID: 4593
 			[global::Cpp2ILInjected.Token(Token = "0x4000A2C")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			private byte[] _byteBuffer;
 
-			// Token: 0x040011F2 RID: 4594
 			[global::Cpp2ILInjected.Token(Token = "0x4000A2D")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 			private Encoding _encoding;
 		}
 
-		// Token: 0x020003FA RID: 1018
 		[global::Cpp2ILInjected.Token(Token = "0x20001E2")]
 		private static class HtmlEntities
 		{
-			// Token: 0x06001DCC RID: 7628 RVA: 0x0000824C File Offset: 0x0000644C
 			[global::Cpp2ILInjected.Token(Token = "0x6000C00")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F23C9C", Offset = "0x1F23C9C", Length = "0xD0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -668,7 +618,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001DCD RID: 7629 RVA: 0x0000824F File Offset: 0x0000644F
 			[global::Cpp2ILInjected.Token(Token = "0x6000C01")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F23D6C", Offset = "0x1F23D6C", Length = "0x8C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -680,7 +629,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001DCE RID: 7630 RVA: 0x00008252 File Offset: 0x00006452
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6000C02")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F23DF8", Offset = "0x1F23DF8", Length = "0xEC")]
@@ -696,11 +644,9 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x040011F3 RID: 4595
 			[global::Cpp2ILInjected.Token(Token = "0x4000A2E")]
 			private static readonly long[] entities;
 
-			// Token: 0x040011F4 RID: 4596
 			[global::Cpp2ILInjected.Token(Token = "0x4000A2F")]
 			private static readonly char[] entities_values;
 		}

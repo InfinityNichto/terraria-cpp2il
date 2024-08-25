@@ -1,7 +1,0 @@
-<map id="System.Runtime.Remoting.Messaging.ArgInfo" name="System.Runtime.Remoting.Messaging.ArgInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,211,292"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="23,5,54,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,71,38,97,43,123,46,132,41,134,37,125,32,98,32,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,218,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,72,152,125,148,134,143,132,147,123,166,70"/>
-</map>

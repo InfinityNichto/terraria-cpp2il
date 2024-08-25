@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Text.RegularExpressions
 {
-	// Token: 0x02000059 RID: 89
 	[global::Cpp2ILInjected.Token(Token = "0x20000AB")]
 	internal class MatchSparse : Match
 	{
-		// Token: 0x06000299 RID: 665 RVA: 0x00003581 File Offset: 0x00001781
 		[global::Cpp2ILInjected.Token(Token = "0x6000328")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EAA67C", Offset = "0x1EAA67C", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RegexRunner), Member = "InitMatch", ReturnType = typeof(void))]
@@ -29,8 +27,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x170000AB RID: 171
-		// (get) Token: 0x0600029A RID: 666 RVA: 0x00003584 File Offset: 0x00001784
 		[global::Cpp2ILInjected.Token(Token = "0x170000AF")]
 		public override GroupCollection Groups
 		{
@@ -45,7 +41,6 @@ namespace System.Text.RegularExpressions
 			}
 		}
 
-		// Token: 0x0400016F RID: 367
 		[global::Cpp2ILInjected.Token(Token = "0x400029A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		internal new readonly Hashtable _caps;

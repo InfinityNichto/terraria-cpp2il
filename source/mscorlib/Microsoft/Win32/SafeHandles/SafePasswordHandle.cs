@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Win32.SafeHandles
 {
-	// Token: 0x0200003F RID: 63
 	[global::Cpp2ILInjected.Token(Token = "0x200005A")]
 	internal sealed class SafePasswordHandle : global::System.Runtime.InteropServices.SafeHandle
 	{
-		// Token: 0x060001B8 RID: 440 RVA: 0x00014AD4 File Offset: 0x00012CD4
 		[global::Cpp2ILInjected.Token(Token = "0x6000214")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC66B0", Offset = "0x1AC66B0", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SafePasswordHandle), Member = ".ctor", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x060001B9 RID: 441 RVA: 0x00014AD7 File Offset: 0x00012CD7
 		[global::Cpp2ILInjected.Token(Token = "0x6000215")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6708", Offset = "0x1AC6708", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SafePasswordHandle), Member = "ReleaseHandle", ReturnType = typeof(bool))]
@@ -34,7 +31,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x060001BA RID: 442 RVA: 0x00014ADA File Offset: 0x00012CDA
 		[global::Cpp2ILInjected.Token(Token = "0x6000216")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6764", Offset = "0x1AC6764", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.X509Certificates.X509Certificate), Member = ".ctor", MemberParameters = new object[]
@@ -58,7 +54,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x060001BB RID: 443 RVA: 0x00014ADD File Offset: 0x00012CDD
 		[global::Cpp2ILInjected.Token(Token = "0x6000217")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC67DC", Offset = "0x1AC67DC", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -75,7 +70,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x060001BC RID: 444 RVA: 0x00014AE0 File Offset: 0x00012CE0
 		[global::Cpp2ILInjected.Token(Token = "0x6000218")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6858", Offset = "0x1AC6858", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -87,8 +81,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x1700002E RID: 46
-		// (get) Token: 0x060001BD RID: 445 RVA: 0x00014AE3 File Offset: 0x00012CE3
 		[global::Cpp2ILInjected.Token(Token = "0x17000036")]
 		public override bool IsInvalid
 		{
@@ -107,7 +99,6 @@ namespace Microsoft.Win32.SafeHandles
 			}
 		}
 
-		// Token: 0x060001BE RID: 446 RVA: 0x00014AE6 File Offset: 0x00012CE6
 		[global::Cpp2ILInjected.Token(Token = "0x600021A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC68F0", Offset = "0x1AC68F0", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509Certificate2ImplMono", Member = "ImportPkcs12", MemberParameters = new object[]

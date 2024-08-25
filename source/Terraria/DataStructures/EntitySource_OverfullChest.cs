@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000458 RID: 1112
 	[global::Cpp2ILInjected.Token(Token = "0x2000654")]
 	public class EntitySource_OverfullChest : AEntitySource_Tile
 	{
-		// Token: 0x060031D5 RID: 12757 RVA: 0x0002AEB1 File Offset: 0x000290B1
 		[global::Cpp2ILInjected.Token(Token = "0x60036F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D510", Offset = "0x141D510", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "UseGasTrapInChest", MemberParameters = new object[]
@@ -32,7 +30,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x04006414 RID: 25620
 		[global::Cpp2ILInjected.Token(Token = "0x4007804")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public readonly Chest Chest;

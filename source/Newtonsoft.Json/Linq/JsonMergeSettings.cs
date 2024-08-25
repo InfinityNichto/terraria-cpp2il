@@ -5,14 +5,10 @@ using Newtonsoft.Json.Shims;
 
 namespace Newtonsoft.Json.Linq
 {
-	// Token: 0x02000091 RID: 145
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000BC")]
 	public class JsonMergeSettings
 	{
-		// Token: 0x1700014C RID: 332
-		// (get) Token: 0x06000671 RID: 1649 RVA: 0x00003362 File Offset: 0x00001562
-		// (set) Token: 0x06000672 RID: 1650 RVA: 0x00003365 File Offset: 0x00001565
 		[global::Cpp2ILInjected.Token(Token = "0x17000154")]
 		public MergeArrayHandling MergeArrayHandling
 		{
@@ -35,9 +31,6 @@ namespace Newtonsoft.Json.Linq
 			}
 		}
 
-		// Token: 0x1700014D RID: 333
-		// (get) Token: 0x06000673 RID: 1651 RVA: 0x00003368 File Offset: 0x00001568
-		// (set) Token: 0x06000674 RID: 1652 RVA: 0x0000336B File Offset: 0x0000156B
 		[global::Cpp2ILInjected.Token(Token = "0x17000155")]
 		public MergeNullValueHandling MergeNullValueHandling
 		{
@@ -60,7 +53,6 @@ namespace Newtonsoft.Json.Linq
 			}
 		}
 
-		// Token: 0x06000675 RID: 1653 RVA: 0x0000336E File Offset: 0x0000156E
 		[global::Cpp2ILInjected.Token(Token = "0x60006EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D045B4", Offset = "0x1D045B4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -70,12 +62,10 @@ namespace Newtonsoft.Json.Linq
 			throw null;
 		}
 
-		// Token: 0x04000280 RID: 640
 		[global::Cpp2ILInjected.Token(Token = "0x40002F3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private MergeArrayHandling _mergeArrayHandling;
 
-		// Token: 0x04000281 RID: 641
 		[global::Cpp2ILInjected.Token(Token = "0x40002F4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private MergeNullValueHandling _mergeNullValueHandling;

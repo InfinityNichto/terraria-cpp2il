@@ -1,9 +1,0 @@
-<map id="System.Runtime.Remoting.Activation.IConstructionCallMessage" name="System.Runtime.Remoting.Activation.IConstructionCallMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="177,148,382,367"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,172,100"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,109,179,146,175,150,140,112"/>
-<area shape="rect" id="Node000003" href="$d9/d0f/classglobal_1_1SystemRuntime_1_1Remoting_1_1Messaging_1_1IMethodCallMessage.html" title=" " alt="" coords="196,5,363,100"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,114,282,148,277,148,277,114"/>
-<area shape="rect" id="Node000004" href="$d4/da6/classglobal_1_1SystemRuntime_1_1Remoting_1_1Messaging_1_1IMethodMessage.html" title=" " alt="" coords="387,5,553,100"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="419,112,383,150,380,146,415,109"/>
-</map>

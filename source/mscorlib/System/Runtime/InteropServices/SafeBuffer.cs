@@ -6,11 +6,9 @@ using Microsoft.Win32.SafeHandles;
 
 namespace System.Runtime.InteropServices
 {
-	// Token: 0x02000389 RID: 905
 	[global::Cpp2ILInjected.Token(Token = "0x2000433")]
 	public abstract class SafeBuffer : Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
 	{
-		// Token: 0x06001F19 RID: 7961 RVA: 0x00019C52 File Offset: 0x00017E52
 		[global::System.CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x600215A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B6FAA0", Offset = "0x1B6FAA0", Length = "0x108")]
@@ -33,7 +31,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F1A RID: 7962 RVA: 0x00019C55 File Offset: 0x00017E55
 		[global::Cpp2ILInjected.Token(Token = "0x600215B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B6FCD8", Offset = "0x1B6FCD8", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "ReadCore", MemberParameters = new object[] { typeof(global::System.Span<byte>) }, ReturnType = typeof(int))]
@@ -54,7 +51,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F1B RID: 7963 RVA: 0x00019C58 File Offset: 0x00017E58
 		[global::Cpp2ILInjected.Token(Token = "0x600215C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B6FBA8", Offset = "0x1B6FBA8", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SafeBuffer), Member = "AcquirePointer", MemberParameters = new object[] { typeof(ref byte*) }, ReturnType = typeof(void))]
@@ -67,7 +63,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F1C RID: 7964 RVA: 0x00019C5B File Offset: 0x00017E5B
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600215D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B6FDBC", Offset = "0x1B6FDBC", Length = "0xB0")]
@@ -82,11 +77,9 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x04000F02 RID: 3842
 		[global::Cpp2ILInjected.Token(Token = "0x40011F7")]
 		private static readonly global::System.UIntPtr Uninitialized;
 
-		// Token: 0x04000F03 RID: 3843
 		[global::Cpp2ILInjected.Token(Token = "0x40011F8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private global::System.UIntPtr _numBytes;

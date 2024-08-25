@@ -1,9 +1,0 @@
-<map id="System.Uri" name="System.Uri">
-<area shape="rect" id="Node000001" title=" " alt="" coords="180,149,505,3685"/>
-<area shape="rect" id="Node000003" href="$d0/d0f/classSystem_1_1Uri.html" title=" " alt="" coords="5,3763,331,7240"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,3700,255,3763,250,3762,253,3699"/>
-<area shape="rect" id="Node000004" href="$d0/d0f/classSystem_1_1Uri.html" title=" " alt="" coords="355,3770,680,7233"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="437,3699,437,3709,440,3770,435,3770,432,3709,431,3699"/>
-<area shape="rect" id="Node000002" href="$d6/d2f/interfaceSystem_1_1Runtime_1_1Serialization_1_1ISerializable.html" title=" " alt="" coords="238,5,447,100"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,114,345,149,340,149,340,114"/>
-</map>

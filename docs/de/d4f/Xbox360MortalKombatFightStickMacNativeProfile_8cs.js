@@ -1,4 +1,0 @@
-var Xbox360MortalKombatFightStickMacNativeProfile_8cs =
-[
-    [ "InControl.NativeDeviceProfiles.Xbox360MortalKombatFightStickMacNativeProfile", "dd/d15/classInControl_1_1NativeDeviceProfiles_1_1Xbox360MortalKombatFightStickMacNativeProfile.html", "dd/d15/classInControl_1_1NativeDeviceProfiles_1_1Xbox360MortalKombatFightStickMacNativeProfile" ]
-];

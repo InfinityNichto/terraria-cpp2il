@@ -1,9 +1,0 @@
-<map id="UnityEngine.UnityLogWriter" name="UnityEngine.UnityLogWriter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="111,1104,321,1377"/>
-<area shape="rect" id="Node000002" href="$d8/d05/classSystem_1_1IO_1_1TextWriter.html" title=" " alt="" coords="99,133,333,1056"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,1070,219,1104,213,1104,213,1070"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,208,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,98,127,132,121,133,114,99"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="232,13,419,78"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="319,92,311,134,305,132,314,91"/>
-</map>

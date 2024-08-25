@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.IO
 {
-	// Token: 0x0200046B RID: 1131
 	[global::Cpp2ILInjected.Token(Token = "0x2000531")]
 	internal static class Error
 	{
-		// Token: 0x0600248E RID: 9358 RVA: 0x0001AAB6 File Offset: 0x00018CB6
 		[global::Cpp2ILInjected.Token(Token = "0x6002732")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95B18", Offset = "0x1B95B18", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MemoryStream), Member = "EnsureNotClosed", ReturnType = typeof(void))]
@@ -27,7 +25,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600248F RID: 9359 RVA: 0x0001AAB9 File Offset: 0x00018CB9
 		[global::Cpp2ILInjected.Token(Token = "0x6002733")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95B88", Offset = "0x1B95B88", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +44,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002490 RID: 9360 RVA: 0x0001AABC File Offset: 0x00018CBC
 		[global::Cpp2ILInjected.Token(Token = "0x6002734")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95C00", Offset = "0x1B95C00", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UnmanagedMemoryStream), Member = "EnsureReadable", ReturnType = typeof(void))]
@@ -77,7 +73,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002491 RID: 9361 RVA: 0x0001AABF File Offset: 0x00018CBF
 		[global::Cpp2ILInjected.Token(Token = "0x6002735")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95C6C", Offset = "0x1B95C6C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MemoryStream), Member = "EnsureWriteable", ReturnType = typeof(void))]

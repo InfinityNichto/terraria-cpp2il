@@ -13,11 +13,9 @@ using Terraria.UI;
 
 namespace Terraria.Map
 {
-	// Token: 0x020004AC RID: 1196
 	[global::Cpp2ILInjected.Token(Token = "0x20006C0")]
 	public class TeleportPylonsMapLayer : IMapLayer
 	{
-		// Token: 0x060033CE RID: 13262 RVA: 0x0002B3F1 File Offset: 0x000295F1
 		[global::Cpp2ILInjected.Token(Token = "0x6003928")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1448C88", Offset = "0x1448C88", Length = "0x468")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +83,6 @@ namespace Terraria.Map
 			throw null;
 		}
 
-		// Token: 0x060033CF RID: 13263 RVA: 0x0002B3F4 File Offset: 0x000295F4
 		[global::Cpp2ILInjected.Token(Token = "0x6003929")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14490F0", Offset = "0x14490F0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = ".cctor", ReturnType = typeof(void))]

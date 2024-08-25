@@ -6,12 +6,10 @@ using Newtonsoft.Json.Shims;
 
 namespace Newtonsoft.Json.Utilities
 {
-	// Token: 0x02000046 RID: 70
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x2000054")]
 	internal static class StringReferenceExtensions
 	{
-		// Token: 0x060002F3 RID: 755 RVA: 0x00002957 File Offset: 0x00000B57
 		[global::Cpp2ILInjected.Token(Token = "0x600030D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD18B0", Offset = "0x1CD18B0", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +34,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x060002F4 RID: 756 RVA: 0x0000295A File Offset: 0x00000B5A
 		[global::Cpp2ILInjected.Token(Token = "0x600030E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD1934", Offset = "0x1CD1934", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +59,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x060002F5 RID: 757 RVA: 0x0000295D File Offset: 0x00000B5D
 		[global::Cpp2ILInjected.Token(Token = "0x600030F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD19BC", Offset = "0x1CD19BC", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000EA RID: 234
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000F7")]
 	public class AirFloWiredPS3WindowsUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x0600065E RID: 1630 RVA: 0x00003347 File Offset: 0x00001547
 		[global::Cpp2ILInjected.Token(Token = "0x600067B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A06E48", Offset = "0x1A06E48", Length = "0x8DC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x0600065F RID: 1631 RVA: 0x0000334A File Offset: 0x0000154A
 		[global::Cpp2ILInjected.Token(Token = "0x600067C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A07724", Offset = "0x1A07724", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

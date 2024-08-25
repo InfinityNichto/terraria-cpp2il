@@ -6,11 +6,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent.ItemDropRules
 {
-	// Token: 0x020005D0 RID: 1488
 	[global::Cpp2ILInjected.Token(Token = "0x200087C")]
 	public class CommonDropWithRerolls : CommonDrop
 	{
-		// Token: 0x06003C89 RID: 15497 RVA: 0x0002CCE7 File Offset: 0x0002AEE7
 		[global::Cpp2ILInjected.Token(Token = "0x60043F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A6A60", Offset = "0x7A6A60", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -27,7 +25,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003C8A RID: 15498 RVA: 0x0002CCEA File Offset: 0x0002AEEA
 		[global::Cpp2ILInjected.Token(Token = "0x60043F8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A83FC", Offset = "0x7A83FC", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,7 +47,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003C8B RID: 15499 RVA: 0x0002CCED File Offset: 0x0002AEED
 		[global::Cpp2ILInjected.Token(Token = "0x60043F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A84B4", Offset = "0x7A84B4", Length = "0x174")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +72,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x04006BA2 RID: 27554
 		[global::Cpp2ILInjected.Token(Token = "0x40081C4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		public int timesToRoll;

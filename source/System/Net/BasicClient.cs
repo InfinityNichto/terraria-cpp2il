@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000185 RID: 389
 	[global::Cpp2ILInjected.Token(Token = "0x200022E")]
 	internal class BasicClient : IAuthenticationModule
 	{
-		// Token: 0x06000CA3 RID: 3235 RVA: 0x0000523D File Offset: 0x0000343D
 		[global::Cpp2ILInjected.Token(Token = "0x6000E0A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3E80C", Offset = "0x1F3E80C", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -25,7 +23,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CA4 RID: 3236 RVA: 0x00005240 File Offset: 0x00003440
 		[global::Cpp2ILInjected.Token(Token = "0x6000E0B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3EC00", Offset = "0x1F3EC00", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CA5 RID: 3237 RVA: 0x00005243 File Offset: 0x00003443
 		[global::Cpp2ILInjected.Token(Token = "0x6000E0C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3E8AC", Offset = "0x1F3E8AC", Length = "0x354")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -82,7 +78,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CA6 RID: 3238 RVA: 0x00005246 File Offset: 0x00003446
 		[global::Cpp2ILInjected.Token(Token = "0x6000E0D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3EC90", Offset = "0x1F3EC90", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -96,8 +91,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x170002D4 RID: 724
-		// (get) Token: 0x06000CA7 RID: 3239 RVA: 0x00005249 File Offset: 0x00003449
 		[global::Cpp2ILInjected.Token(Token = "0x170002EF")]
 		public string AuthenticationType
 		{
@@ -111,8 +104,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002D5 RID: 725
-		// (get) Token: 0x06000CA8 RID: 3240 RVA: 0x0000524C File Offset: 0x0000344C
 		[global::Cpp2ILInjected.Token(Token = "0x170002F0")]
 		public bool CanPreAuthenticate
 		{
@@ -125,7 +116,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000CA9 RID: 3241 RVA: 0x0000524F File Offset: 0x0000344F
 		[global::Cpp2ILInjected.Token(Token = "0x6000E10")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3D148", Offset = "0x1F3D148", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

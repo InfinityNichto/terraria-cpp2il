@@ -8,13 +8,9 @@ using Mono.Net.Security;
 
 namespace System.Net.Security
 {
-	// Token: 0x02000229 RID: 553
 	[global::Cpp2ILInjected.Token(Token = "0x2000319")]
 	public class SslClientAuthenticationOptions
 	{
-		// Token: 0x17000483 RID: 1155
-		// (get) Token: 0x06001262 RID: 4706 RVA: 0x000062D2 File Offset: 0x000044D2
-		// (set) Token: 0x06001263 RID: 4707 RVA: 0x000062D5 File Offset: 0x000044D5
 		[global::Cpp2ILInjected.Token(Token = "0x170004AC")]
 		public string TargetHost
 		{
@@ -36,9 +32,6 @@ namespace System.Net.Security
 			}
 		}
 
-		// Token: 0x17000484 RID: 1156
-		// (get) Token: 0x06001264 RID: 4708 RVA: 0x000062D8 File Offset: 0x000044D8
-		// (set) Token: 0x06001265 RID: 4709 RVA: 0x000062DB File Offset: 0x000044DB
 		[global::Cpp2ILInjected.Token(Token = "0x170004AD")]
 		public X509CertificateCollection ClientCertificates
 		{
@@ -60,8 +53,6 @@ namespace System.Net.Security
 			}
 		}
 
-		// Token: 0x17000485 RID: 1157
-		// (set) Token: 0x06001266 RID: 4710 RVA: 0x000062DE File Offset: 0x000044DE
 		[global::Cpp2ILInjected.Token(Token = "0x170004AE")]
 		public X509RevocationMode CertificateRevocationCheckMode
 		{
@@ -87,8 +78,6 @@ namespace System.Net.Security
 			}
 		}
 
-		// Token: 0x17000486 RID: 1158
-		// (set) Token: 0x06001267 RID: 4711 RVA: 0x000062E1 File Offset: 0x000044E1
 		[global::Cpp2ILInjected.Token(Token = "0x170004AF")]
 		public EncryptionPolicy EncryptionPolicy
 		{
@@ -114,9 +103,6 @@ namespace System.Net.Security
 			}
 		}
 
-		// Token: 0x17000487 RID: 1159
-		// (get) Token: 0x06001268 RID: 4712 RVA: 0x000062E4 File Offset: 0x000044E4
-		// (set) Token: 0x06001269 RID: 4713 RVA: 0x000062E7 File Offset: 0x000044E7
 		[global::Cpp2ILInjected.Token(Token = "0x170004B0")]
 		public SslProtocols EnabledSslProtocols
 		{
@@ -136,7 +122,6 @@ namespace System.Net.Security
 			}
 		}
 
-		// Token: 0x0600126A RID: 4714 RVA: 0x000062EA File Offset: 0x000044EA
 		[global::Cpp2ILInjected.Token(Token = "0x60014A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E37B90", Offset = "0x1E37B90", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MonoSslClientAuthenticationOptions), Member = ".ctor", ReturnType = typeof(void))]
@@ -147,33 +132,27 @@ namespace System.Net.Security
 			throw null;
 		}
 
-		// Token: 0x04000D3E RID: 3390
 		[global::Cpp2ILInjected.Token(Token = "0x4001139")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private EncryptionPolicy _encryptionPolicy;
 
-		// Token: 0x04000D3F RID: 3391
 		[global::Cpp2ILInjected.Token(Token = "0x400113A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private X509RevocationMode _checkCertificateRevocation;
 
-		// Token: 0x04000D40 RID: 3392
 		[global::Cpp2ILInjected.Token(Token = "0x400113B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private SslProtocols _enabledSslProtocols;
 
-		// Token: 0x04000D41 RID: 3393
 		[global::Cpp2ILInjected.Token(Token = "0x400113C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private bool _allowRenegotiation;
 
-		// Token: 0x04000D42 RID: 3394
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400113D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string <TargetHost>k__BackingField;
 
-		// Token: 0x04000D43 RID: 3395
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400113E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]

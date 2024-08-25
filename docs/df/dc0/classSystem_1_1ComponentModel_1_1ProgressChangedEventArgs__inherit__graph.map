@@ -1,9 +1,0 @@
-<map id="System.ComponentModel.ProgressChangedEventArgs" name="System.ComponentModel.ProgressChangedEventArgs">
-<area shape="rect" id="Node000001" title=" " alt="" coords="186,153,429,323"/>
-<area shape="rect" id="Node000003" href="$de/d64/classSystem_1_1Net_1_1DownloadProgressChangedEventArgs.html" title=" " alt="" coords="5,433,287,681"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,336,211,433,207,431,256,334"/>
-<area shape="rect" id="Node000004" href="$d1/dd1/classSystem_1_1Net_1_1UploadProgressChangedEventArgs.html" title=" " alt="" coords="311,371,629,743"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,334,377,369,372,372,354,336"/>
-<area shape="rect" id="Node000002" href="$d2/d76/classSystem_1_1EventArgs.html" title=" " alt="" coords="207,5,408,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,119,310,153,305,153,305,119"/>
-</map>

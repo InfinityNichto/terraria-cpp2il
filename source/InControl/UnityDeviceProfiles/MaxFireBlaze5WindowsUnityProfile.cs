@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000FD RID: 253
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x200010A")]
 	public class MaxFireBlaze5WindowsUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000684 RID: 1668 RVA: 0x000033B9 File Offset: 0x000015B9
 		[global::Cpp2ILInjected.Token(Token = "0x60006A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A119C4", Offset = "0x1A119C4", Length = "0x888")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -37,7 +35,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000685 RID: 1669 RVA: 0x000033BC File Offset: 0x000015BC
 		[global::Cpp2ILInjected.Token(Token = "0x60006A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A1224C", Offset = "0x1A1224C", Length = "0x1058")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

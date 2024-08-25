@@ -12,11 +12,9 @@ using Terraria.GameContent.UI.Chat;
 using Terraria.Localization;
 using Terraria.UI.Chat;
 
-// Token: 0x020000F1 RID: 241
 [global::Cpp2ILInjected.Token(Token = "0x200015A")]
 public class GUIMultiplayerChat
 {
-	// Token: 0x0600087A RID: 2170 RVA: 0x000234B3 File Offset: 0x000216B3
 	[global::Cpp2ILInjected.Token(Token = "0x600097A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95CACC", Offset = "0x95CACC", Length = "0x74")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "LoadPageRegion", ReturnType = typeof(void))]
@@ -30,7 +28,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x0600087B RID: 2171 RVA: 0x000234B6 File Offset: 0x000216B6
 	[global::Cpp2ILInjected.Token(Token = "0x600097B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95CB40", Offset = "0x95CB40", Length = "0x1F8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -44,7 +41,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x0600087C RID: 2172 RVA: 0x000234B9 File Offset: 0x000216B9
 	[global::Cpp2ILInjected.Token(Token = "0x600097C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95CD38", Offset = "0x95CD38", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +49,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x0600087D RID: 2173 RVA: 0x000234BC File Offset: 0x000216BC
 	[global::Cpp2ILInjected.Token(Token = "0x600097D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95CD40", Offset = "0x95CD40", Length = "0x78")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -65,8 +60,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x170000CB RID: 203
-	// (get) Token: 0x0600087E RID: 2174 RVA: 0x000234BF File Offset: 0x000216BF
 	[global::Cpp2ILInjected.Token(Token = "0x170000F2")]
 	public float MaxChatLineWidth
 	{
@@ -88,8 +81,6 @@ public class GUIMultiplayerChat
 		}
 	}
 
-	// Token: 0x170000CC RID: 204
-	// (get) Token: 0x0600087F RID: 2175 RVA: 0x000234C2 File Offset: 0x000216C2
 	[global::Cpp2ILInjected.Token(Token = "0x170000F3")]
 	public float MaxMiniChatLineWidth
 	{
@@ -111,8 +102,6 @@ public class GUIMultiplayerChat
 		}
 	}
 
-	// Token: 0x170000CD RID: 205
-	// (get) Token: 0x06000880 RID: 2176 RVA: 0x000234C5 File Offset: 0x000216C5
 	[global::Cpp2ILInjected.Token(Token = "0x170000F4")]
 	public float MaxMiniTouchChatLineWidth
 	{
@@ -134,7 +123,6 @@ public class GUIMultiplayerChat
 		}
 	}
 
-	// Token: 0x06000881 RID: 2177 RVA: 0x000234C8 File Offset: 0x000216C8
 	[global::Cpp2ILInjected.Token(Token = "0x6000981")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95CEC0", Offset = "0x95CEC0", Length = "0x138")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MobileChatMonitor), Member = "NewTextInternal", MemberParameters = new object[]
@@ -165,7 +153,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x06000882 RID: 2178 RVA: 0x000234CB File Offset: 0x000216CB
 	[global::Cpp2ILInjected.Token(Token = "0x6000982")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95CFF8", Offset = "0x95CFF8", Length = "0x138")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MobileChatMonitor), Member = "NewTextInternal", MemberParameters = new object[]
@@ -196,7 +183,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x06000883 RID: 2179 RVA: 0x000234CE File Offset: 0x000216CE
 	[global::Cpp2ILInjected.Token(Token = "0x6000983")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95D130", Offset = "0x95D130", Length = "0x138")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MobileChatMonitor), Member = "NewTextInternal", MemberParameters = new object[]
@@ -227,7 +213,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x06000884 RID: 2180 RVA: 0x000234D1 File Offset: 0x000216D1
 	[global::Cpp2ILInjected.Token(Token = "0x6000984")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95D268", Offset = "0x95D268", Length = "0x4E0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -272,7 +257,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x06000885 RID: 2181 RVA: 0x000234D4 File Offset: 0x000216D4
 	[global::Cpp2ILInjected.Token(Token = "0x6000985")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95B7D4", Offset = "0x95B7D4", Length = "0xA0")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMap), Member = "DrawMap", ReturnType = typeof(void))]
@@ -289,7 +273,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x06000886 RID: 2182 RVA: 0x000234D7 File Offset: 0x000216D7
 	[global::Cpp2ILInjected.Token(Token = "0x6000986")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95D748", Offset = "0x95D748", Length = "0x10B4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -436,7 +419,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x06000887 RID: 2183 RVA: 0x000234DA File Offset: 0x000216DA
 	[global::Cpp2ILInjected.Token(Token = "0x6000987")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95FBCC", Offset = "0x95FBCC", Length = "0xA8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettings), Member = "Draw", ReturnType = typeof(bool))]
@@ -449,7 +431,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x06000888 RID: 2184 RVA: 0x000234DD File Offset: 0x000216DD
 	[global::Cpp2ILInjected.Token(Token = "0x6000988")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95E7FC", Offset = "0x95E7FC", Length = "0x13D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -659,7 +640,6 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x06000889 RID: 2185 RVA: 0x000234E0 File Offset: 0x000216E0
 	[global::Cpp2ILInjected.Token(Token = "0x6000989")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95FC74", Offset = "0x95FC74", Length = "0x1008")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -672,92 +652,73 @@ public class GUIMultiplayerChat
 		throw null;
 	}
 
-	// Token: 0x040006C6 RID: 1734
 	[global::Cpp2ILInjected.Token(Token = "0x4000948")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float NoficiationDisplayTime;
 
-	// Token: 0x040006C7 RID: 1735
 	[global::Cpp2ILInjected.Token(Token = "0x4000949")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	public GUIMultiplayerChat.ChatMode mode;
 
-	// Token: 0x040006C8 RID: 1736
 	[global::Cpp2ILInjected.Token(Token = "0x400094A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public float ScrollOffset;
 
-	// Token: 0x040006C9 RID: 1737
 	[global::Cpp2ILInjected.Token(Token = "0x400094B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float ScrollMomentum;
 
-	// Token: 0x040006CA RID: 1738
 	[global::Cpp2ILInjected.Token(Token = "0x400094C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private int ScrollDragging;
 
-	// Token: 0x040006CB RID: 1739
 	[global::Cpp2ILInjected.Token(Token = "0x400094D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private Vector2 DragOffset;
 
-	// Token: 0x040006CC RID: 1740
 	[global::Cpp2ILInjected.Token(Token = "0x400094E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	private float ToggleScale;
 
-	// Token: 0x040006CD RID: 1741
 	[global::Cpp2ILInjected.Token(Token = "0x400094F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private float BeginChatScale;
 
-	// Token: 0x040006CE RID: 1742
 	[global::Cpp2ILInjected.Token(Token = "0x4000950")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private float PrimaryChatScale;
 
-	// Token: 0x040006CF RID: 1743
 	[global::Cpp2ILInjected.Token(Token = "0x4000951")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private float EmotesScale;
 
-	// Token: 0x040006D0 RID: 1744
 	[global::Cpp2ILInjected.Token(Token = "0x4000952")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 	private float EmotesCloseScale;
 
-	// Token: 0x040006D1 RID: 1745
 	[global::Cpp2ILInjected.Token(Token = "0x4000953")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private Vector2 oneLineSize;
 
-	// Token: 0x040006D2 RID: 1746
 	[global::Cpp2ILInjected.Token(Token = "0x4000954")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private int notificationCount;
 
-	// Token: 0x040006D3 RID: 1747
 	[global::Cpp2ILInjected.Token(Token = "0x4000955")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	private bool miniMapWasEnabled;
 
-	// Token: 0x040006D4 RID: 1748
 	[global::Cpp2ILInjected.Token(Token = "0x4000956")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4D")]
 	private bool beginChatClicked;
 
-	// Token: 0x020007CA RID: 1994
 	[global::Cpp2ILInjected.Token(Token = "0x200015B")]
 	public enum ChatMode
 	{
-		// Token: 0x04007A4D RID: 31309
 		[global::Cpp2ILInjected.Token(Token = "0x4000958")]
 		Hidden,
-		// Token: 0x04007A4E RID: 31310
 		[global::Cpp2ILInjected.Token(Token = "0x4000959")]
 		DisplayNotification,
-		// Token: 0x04007A4F RID: 31311
 		[global::Cpp2ILInjected.Token(Token = "0x400095A")]
 		Shown
 	}

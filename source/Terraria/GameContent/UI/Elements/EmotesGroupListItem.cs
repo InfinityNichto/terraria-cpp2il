@@ -11,11 +11,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006B5 RID: 1717
 	[global::Cpp2ILInjected.Token(Token = "0x2000A8F")]
 	public class EmotesGroupListItem : UIElement
 	{
-		// Token: 0x060043A0 RID: 17312 RVA: 0x0002E18D File Offset: 0x0002C38D
 		[global::Cpp2ILInjected.Token(Token = "0x6004FDA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9028F0", Offset = "0x9028F0", Length = "0x510")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +88,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043A1 RID: 17313 RVA: 0x0002E190 File Offset: 0x0002C390
 		[global::Cpp2ILInjected.Token(Token = "0x6004FDB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x902E00", Offset = "0x902E00", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,29 +100,23 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04006F89 RID: 28553
 		[global::Cpp2ILInjected.Token(Token = "0x40088B1")]
 		private const int TITLE_HEIGHT = 20;
 
-		// Token: 0x04006F8A RID: 28554
 		[global::Cpp2ILInjected.Token(Token = "0x40088B2")]
 		private const int SEPARATOR_HEIGHT = 10;
 
-		// Token: 0x04006F8B RID: 28555
 		[global::Cpp2ILInjected.Token(Token = "0x40088B3")]
 		private const int SIZE_PER_EMOTE = 36;
 
-		// Token: 0x04006F8C RID: 28556
 		[global::Cpp2ILInjected.Token(Token = "0x40088B4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private Asset<Texture2D> _tempTex;
 
-		// Token: 0x04006F8D RID: 28557
 		[global::Cpp2ILInjected.Token(Token = "0x40088B5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private int _groupIndex;
 
-		// Token: 0x04006F8E RID: 28558
 		[global::Cpp2ILInjected.Token(Token = "0x40088B6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x154")]
 		private int _maxEmotesPerRow;

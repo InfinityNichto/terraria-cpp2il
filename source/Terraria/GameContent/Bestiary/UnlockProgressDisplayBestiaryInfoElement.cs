@@ -9,11 +9,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.Bestiary
 {
-	// Token: 0x02000640 RID: 1600
 	[global::Cpp2ILInjected.Token(Token = "0x2000964")]
 	public class UnlockProgressDisplayBestiaryInfoElement : IBestiaryInfoElement
 	{
-		// Token: 0x06003EFC RID: 16124 RVA: 0x0002D3E6 File Offset: 0x0002B5E6
 		[global::Cpp2ILInjected.Token(Token = "0x6004812")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81E2E0", Offset = "0x81E2E0", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -23,7 +21,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003EFD RID: 16125 RVA: 0x0002D3E9 File Offset: 0x0002B5E9
 		[global::Cpp2ILInjected.Token(Token = "0x6004813")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81E308", Offset = "0x81E308", Length = "0x44C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +77,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003EFE RID: 16126 RVA: 0x0002D3EC File Offset: 0x0002B5EC
 		[global::Cpp2ILInjected.Token(Token = "0x6004814")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81E754", Offset = "0x81E754", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UnlockProgressDisplayBestiaryInfoElement), Member = "ProvideUIElement", MemberParameters = new object[] { typeof(BestiaryUICollectionInfo) }, ReturnType = typeof(UIElement))]
@@ -98,27 +94,22 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x04006C84 RID: 27780
 		[global::Cpp2ILInjected.Token(Token = "0x40083A5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private BestiaryUnlockProgressReport _progressReport;
 
-		// Token: 0x04006C85 RID: 27781
 		[global::Cpp2ILInjected.Token(Token = "0x40083A6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private UIElement _text1;
 
-		// Token: 0x04006C86 RID: 27782
 		[global::Cpp2ILInjected.Token(Token = "0x40083A7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private UIElement _text2;
 
-		// Token: 0x02000A24 RID: 2596
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000965")]
 		private sealed class <>c__DisplayClass5_0
 		{
-			// Token: 0x06004FD3 RID: 20435 RVA: 0x0003018B File Offset: 0x0002E38B
 			[global::Cpp2ILInjected.Token(Token = "0x6004815")]
 			[global::Cpp2ILInjected.Address(RVA = "0x81E814", Offset = "0x81E814", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -128,7 +119,6 @@ namespace Terraria.GameContent.Bestiary
 				throw null;
 			}
 
-			// Token: 0x06004FD4 RID: 20436 RVA: 0x0003018E File Offset: 0x0002E38E
 			[global::Cpp2ILInjected.Token(Token = "0x6004816")]
 			[global::Cpp2ILInjected.Address(RVA = "0x81E81C", Offset = "0x81E81C", Length = "0x8C")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -142,12 +132,10 @@ namespace Terraria.GameContent.Bestiary
 				throw null;
 			}
 
-			// Token: 0x04008D84 RID: 36228
 			[global::Cpp2ILInjected.Token(Token = "0x40083A8")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public UIElement container;
 
-			// Token: 0x04008D85 RID: 36229
 			[global::Cpp2ILInjected.Token(Token = "0x40083A9")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public UnlockProgressDisplayBestiaryInfoElement <>4__this;

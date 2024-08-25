@@ -6,12 +6,10 @@ using Mono.Net.Security;
 
 namespace System.Security.Authentication
 {
-	// Token: 0x02000089 RID: 137
 	[global::Cpp2ILInjected.Token(Token = "0x20000E4")]
 	[Serializable]
 	public class AuthenticationException : SystemException
 	{
-		// Token: 0x0600049B RID: 1179 RVA: 0x00003B5D File Offset: 0x00001D5D
 		[global::Cpp2ILInjected.Token(Token = "0x600053B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECC778", Offset = "0x1ECC778", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -23,7 +21,6 @@ namespace System.Security.Authentication
 			throw null;
 		}
 
-		// Token: 0x0600049C RID: 1180 RVA: 0x00003B60 File Offset: 0x00001D60
 		[global::Cpp2ILInjected.Token(Token = "0x600053C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECC7D0", Offset = "0x1ECC7D0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MobileAuthenticatedStream), Member = "GetSSPIException", MemberParameters = new object[] { typeof(Exception) }, ReturnType = typeof(Exception))]
@@ -38,7 +35,6 @@ namespace System.Security.Authentication
 			throw null;
 		}
 
-		// Token: 0x0600049D RID: 1181 RVA: 0x00003B63 File Offset: 0x00001D63
 		[global::Cpp2ILInjected.Token(Token = "0x600053D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECC7D8", Offset = "0x1ECC7D8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

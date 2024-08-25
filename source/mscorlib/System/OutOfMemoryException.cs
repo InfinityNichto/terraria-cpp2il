@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000101 RID: 257
 	[global::Cpp2ILInjected.Token(Token = "0x2000133")]
 	[global::System.Serializable]
 	public class OutOfMemoryException : global::System.SystemException
 	{
-		// Token: 0x06000B3C RID: 2876 RVA: 0x000165A7 File Offset: 0x000147A7
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C56CF0", Offset = "0x1C56CF0", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +45,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B3D RID: 2877 RVA: 0x000165AA File Offset: 0x000147AA
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C56D48", Offset = "0x1C56D48", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -58,7 +55,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B3E RID: 2878 RVA: 0x000165AD File Offset: 0x000147AD
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C56D68", Offset = "0x1C56D68", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

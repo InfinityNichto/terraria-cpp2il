@@ -1,9 +1,0 @@
-<map id="Terraria.Social.Discord.DiscordJoinToServerRequest" name="Terraria.Social.Discord.DiscordJoinToServerRequest">
-<area shape="rect" id="Node000001" title=" " alt="" coords="59,487,295,700"/>
-<area shape="rect" id="Node000002" href="$d3/d97/classTerraria_1_1Social_1_1Base_1_1UserJoinToServerRequest.html" title=" " alt="" coords="5,133,220,437"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,450,157,486,152,487,144,451"/>
-<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="244,245,429,325"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,339,234,487,230,485,308,336"/>
-<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="249,5,424,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="339,84,339,245,334,245,334,84"/>
-</map>

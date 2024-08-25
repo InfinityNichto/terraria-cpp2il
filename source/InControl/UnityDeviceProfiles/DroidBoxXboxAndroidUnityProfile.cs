@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x0200007D RID: 125
 	[UnityInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x200008A")]
 	public class DroidBoxXboxAndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x0600057E RID: 1406 RVA: 0x000030A7 File Offset: 0x000012A7
 		[global::Cpp2ILInjected.Token(Token = "0x600059B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19C5EB4", Offset = "0x19C5EB4", Length = "0x874")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x0600057F RID: 1407 RVA: 0x000030AA File Offset: 0x000012AA
 		[global::Cpp2ILInjected.Token(Token = "0x600059C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19C6728", Offset = "0x19C6728", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

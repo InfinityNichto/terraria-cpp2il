@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000F3 RID: 243
 	[global::Cpp2ILInjected.Token(Token = "0x2000120")]
 	internal class Numeric10FacetsChecker : FacetsChecker
 	{
-		// Token: 0x06000946 RID: 2374 RVA: 0x00004A2A File Offset: 0x00002C2A
 		[global::Cpp2ILInjected.Token(Token = "0x60009DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBF7C8", Offset = "0x1DBF7C8", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,7 +18,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000947 RID: 2375 RVA: 0x00004A2D File Offset: 0x00002C2D
 		[global::Cpp2ILInjected.Token(Token = "0x60009DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC7400", Offset = "0x1DC7400", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -31,7 +28,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000948 RID: 2376 RVA: 0x00004A30 File Offset: 0x00002C30
 		[global::Cpp2ILInjected.Token(Token = "0x60009DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC7464", Offset = "0x1DC7464", Length = "0x4DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +86,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000949 RID: 2377 RVA: 0x00004A33 File Offset: 0x00002C33
 		[global::Cpp2ILInjected.Token(Token = "0x60009E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC7B7C", Offset = "0x1DC7B7C", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -101,7 +96,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600094A RID: 2378 RVA: 0x00004A36 File Offset: 0x00002C36
 		[global::Cpp2ILInjected.Token(Token = "0x60009E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC7C08", Offset = "0x1DC7C08", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -112,7 +106,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600094B RID: 2379 RVA: 0x00004A39 File Offset: 0x00002C39
 		[global::Cpp2ILInjected.Token(Token = "0x60009E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC7C94", Offset = "0x1DC7C94", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -123,7 +116,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600094C RID: 2380 RVA: 0x00004A3C File Offset: 0x00002C3C
 		[global::Cpp2ILInjected.Token(Token = "0x60009E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC7D20", Offset = "0x1DC7D20", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +131,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600094D RID: 2381 RVA: 0x00004A3F File Offset: 0x00002C3F
 		[global::Cpp2ILInjected.Token(Token = "0x60009E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC7A68", Offset = "0x1DC7A68", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +157,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600094E RID: 2382 RVA: 0x00004A42 File Offset: 0x00002C42
 		[global::Cpp2ILInjected.Token(Token = "0x60009E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC62C8", Offset = "0x1DC62C8", Length = "0x26C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -233,7 +223,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600094F RID: 2383 RVA: 0x00004A45 File Offset: 0x00002C45
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60009E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC7D9C", Offset = "0x1DC7D9C", Length = "0x74")]
@@ -245,16 +234,13 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x04000394 RID: 916
 		[global::Cpp2ILInjected.Token(Token = "0x400050E")]
 		private static readonly char[] signs;
 
-		// Token: 0x04000395 RID: 917
 		[global::Cpp2ILInjected.Token(Token = "0x400050F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private decimal maxValue;
 
-		// Token: 0x04000396 RID: 918
 		[global::Cpp2ILInjected.Token(Token = "0x4000510")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private decimal minValue;

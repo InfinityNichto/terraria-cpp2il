@@ -5,13 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000A1 RID: 161
 	[global::Cpp2ILInjected.Token(Token = "0x20000CB")]
 	internal abstract class InteriorNode : SyntaxTreeNode
 	{
-		// Token: 0x170001D8 RID: 472
-		// (get) Token: 0x060007A3 RID: 1955 RVA: 0x00004544 File Offset: 0x00002744
-		// (set) Token: 0x060007A4 RID: 1956 RVA: 0x00004547 File Offset: 0x00002747
 		[global::Cpp2ILInjected.Token(Token = "0x170001FC")]
 		public SyntaxTreeNode LeftChild
 		{
@@ -31,9 +27,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170001D9 RID: 473
-		// (get) Token: 0x060007A5 RID: 1957 RVA: 0x0000454A File Offset: 0x0000274A
-		// (set) Token: 0x060007A6 RID: 1958 RVA: 0x0000454D File Offset: 0x0000274D
 		[global::Cpp2ILInjected.Token(Token = "0x170001FD")]
 		public SyntaxTreeNode RightChild
 		{
@@ -53,7 +46,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x060007A7 RID: 1959 RVA: 0x00004550 File Offset: 0x00002750
 		[global::Cpp2ILInjected.Token(Token = "0x6000835")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DB5AA0", Offset = "0x1DB5AA0", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +71,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x060007A8 RID: 1960 RVA: 0x00004553 File Offset: 0x00002753
 		[global::Cpp2ILInjected.Token(Token = "0x6000836")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DB5C88", Offset = "0x1DB5C88", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +81,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x060007A9 RID: 1961 RVA: 0x00004556 File Offset: 0x00002756
 		[global::Cpp2ILInjected.Token(Token = "0x6000837")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DB5CE4", Offset = "0x1DB5CE4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -100,12 +90,10 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x040002B4 RID: 692
 		[global::Cpp2ILInjected.Token(Token = "0x4000426")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private SyntaxTreeNode leftChild;
 
-		// Token: 0x040002B5 RID: 693
 		[global::Cpp2ILInjected.Token(Token = "0x4000427")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private SyntaxTreeNode rightChild;

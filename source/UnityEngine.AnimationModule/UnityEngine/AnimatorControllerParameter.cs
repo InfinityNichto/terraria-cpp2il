@@ -7,7 +7,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000006 RID: 6
 	[NativeHeader("Modules/Animation/ScriptBindings/AnimatorControllerParameter.bindings.h")]
 	[NativeHeader("Modules/Animation/AnimatorControllerParameter.h")]
 	[NativeType(CodegenOptions.Custom, "MonoAnimatorControllerParameter")]
@@ -17,8 +16,6 @@ namespace UnityEngine
 	[StructLayout(0)]
 	public class AnimatorControllerParameter
 	{
-		// Token: 0x17000001 RID: 1
-		// (get) Token: 0x06000002 RID: 2 RVA: 0x00002053 File Offset: 0x00000253
 		[global::Cpp2ILInjected.Token(Token = "0x17000001")]
 		public string name
 		{
@@ -36,8 +33,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000002 RID: 2
-		// (get) Token: 0x06000003 RID: 3 RVA: 0x00002056 File Offset: 0x00000256
 		[global::Cpp2ILInjected.Token(Token = "0x17000002")]
 		public int nameHash
 		{
@@ -62,7 +57,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000004 RID: 4 RVA: 0x00002059 File Offset: 0x00000259
 		[global::Cpp2ILInjected.Token(Token = "0x6000006")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F66984", Offset = "0x1F66984", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -78,7 +72,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000005 RID: 5 RVA: 0x0000205C File Offset: 0x0000025C
 		[global::Cpp2ILInjected.Token(Token = "0x6000007")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F66A58", Offset = "0x1F66A58", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -88,7 +81,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000006 RID: 6 RVA: 0x0000205F File Offset: 0x0000025F
 		[global::Cpp2ILInjected.Token(Token = "0x6000008")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F66A68", Offset = "0x1F66A68", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -99,27 +91,22 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0400000F RID: 15
 		[global::Cpp2ILInjected.Token(Token = "0x400000F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal string m_Name;
 
-		// Token: 0x04000010 RID: 16
 		[global::Cpp2ILInjected.Token(Token = "0x4000010")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		internal AnimatorControllerParameterType m_Type;
 
-		// Token: 0x04000011 RID: 17
 		[global::Cpp2ILInjected.Token(Token = "0x4000011")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		internal float m_DefaultFloat;
 
-		// Token: 0x04000012 RID: 18
 		[global::Cpp2ILInjected.Token(Token = "0x4000012")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		internal int m_DefaultInt;
 
-		// Token: 0x04000013 RID: 19
 		[global::Cpp2ILInjected.Token(Token = "0x4000013")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		internal bool m_DefaultBool;

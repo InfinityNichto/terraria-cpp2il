@@ -11,7 +11,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200009C RID: 156
 	[NativeClass(null)]
 	[RequiredByNativeCode]
 	[ExtensionOfNativeClass]
@@ -20,7 +19,6 @@ namespace UnityEngine
 	[StructLayout(0)]
 	public class ScriptableObject : Object
 	{
-		// Token: 0x06000301 RID: 769 RVA: 0x00002641 File Offset: 0x00000841
 		[global::Cpp2ILInjected.Token(Token = "0x6000310")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7BD8C", Offset = "0x1F7BD8C", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Singleton`1", Member = ".ctor", ReturnType = typeof(void))]
@@ -39,7 +37,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000302 RID: 770 RVA: 0x00002644 File Offset: 0x00000844
 		[global::Cpp2ILInjected.Token(Token = "0x6000311")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7BE48", Offset = "0x1F7BE48", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScriptableObject), Member = "CreateInstance", MemberTypeParameters = new object[] { "T" }, ReturnType = "T")]
@@ -50,7 +47,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000303 RID: 771 RVA: 0x00002647 File Offset: 0x00000847
 		[global::Cpp2ILInjected.Token(Token = "0x6000312")]
 		[global::Cpp2ILInjected.Address(RVA = "0x159B188", Offset = "0x159B188", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -64,7 +60,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000304 RID: 772
 		[NativeMethod(IsThreadSafe = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000313")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7BE0C", Offset = "0x1F7BE0C", Length = "0x3C")]
@@ -73,7 +68,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void CreateScriptableObject([Writable] ScriptableObject self);
 
-		// Token: 0x06000305 RID: 773
 		[FreeFunction("Scripting::CreateScriptableObjectWithType")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000314")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7BE88", Offset = "0x1F7BE88", Length = "0x44")]

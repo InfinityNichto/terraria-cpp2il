@@ -8,11 +8,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria.Localization;
 using Terraria.UI.Chat;
 
-// Token: 0x020000B2 RID: 178
 [global::Cpp2ILInjected.Token(Token = "0x20000FB")]
 public class ControlsKeyboardTagHandler : ITagHandler
 {
-	// Token: 0x060005BE RID: 1470 RVA: 0x00022C7F File Offset: 0x00020E7F
 	[global::Cpp2ILInjected.Token(Token = "0x600068C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1A094", Offset = "0xD1A094", Length = "0x8C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlsKeyboardTagHandler), Member = "PrintInlineMapping", MemberParameters = new object[]
@@ -45,7 +43,6 @@ public class ControlsKeyboardTagHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005BF RID: 1471 RVA: 0x00022C82 File Offset: 0x00020E82
 	[global::Cpp2ILInjected.Token(Token = "0x600068D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1A2C4", Offset = "0xD1A2C4", Length = "0x5E4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -193,7 +190,6 @@ public class ControlsKeyboardTagHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005C0 RID: 1472 RVA: 0x00022C85 File Offset: 0x00020E85
 	[global::Cpp2ILInjected.Token(Token = "0x600068E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1A8A8", Offset = "0xD1A8A8", Length = "0x508")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -235,7 +231,6 @@ public class ControlsKeyboardTagHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005C1 RID: 1473 RVA: 0x00022C88 File Offset: 0x00020E88
 	[global::Cpp2ILInjected.Token(Token = "0x600068F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1ADB0", Offset = "0xD1ADB0", Length = "0x10C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -260,7 +255,6 @@ public class ControlsKeyboardTagHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005C2 RID: 1474 RVA: 0x00022C8B File Offset: 0x00020E8B
 	[global::Cpp2ILInjected.Token(Token = "0x6000690")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1AF48", Offset = "0xD1AF48", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -270,11 +264,9 @@ public class ControlsKeyboardTagHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x020007AB RID: 1963
 	[global::Cpp2ILInjected.Token(Token = "0x20000FC")]
 	public class ControlsKeyboardSnippet : TextSnippet
 	{
-		// Token: 0x060048A1 RID: 18593 RVA: 0x0002EE98 File Offset: 0x0002D098
 		[global::Cpp2ILInjected.Token(Token = "0x6000691")]
 		[global::Cpp2ILInjected.Address(RVA = "0xD1AEBC", Offset = "0xD1AEBC", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlsKeyboardTagHandler), Member = "Parse", MemberParameters = new object[]
@@ -291,7 +283,6 @@ public class ControlsKeyboardTagHandler : ITagHandler
 			throw null;
 		}
 
-		// Token: 0x060048A2 RID: 18594 RVA: 0x0002EE9B File Offset: 0x0002D09B
 		[global::Cpp2ILInjected.Token(Token = "0x6000692")]
 		[global::Cpp2ILInjected.Address(RVA = "0xD1A120", Offset = "0xD1A120", Length = "0x1A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -330,7 +321,6 @@ public class ControlsKeyboardTagHandler : ITagHandler
 			throw null;
 		}
 
-		// Token: 0x060048A3 RID: 18595 RVA: 0x0002EE9E File Offset: 0x0002D09E
 		[global::Cpp2ILInjected.Token(Token = "0x6000693")]
 		[global::Cpp2ILInjected.Address(RVA = "0xD1AF50", Offset = "0xD1AF50", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -341,91 +331,64 @@ public class ControlsKeyboardTagHandler : ITagHandler
 			throw null;
 		}
 
-		// Token: 0x04007987 RID: 31111
 		[global::Cpp2ILInjected.Token(Token = "0x4000509")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		private readonly GUIControllerInputButton.LinkedControlType _control;
 
-		// Token: 0x04007988 RID: 31112
 		[global::Cpp2ILInjected.Token(Token = "0x400050A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private readonly string _binding;
 	}
 
-	// Token: 0x020007AC RID: 1964
 	[global::Cpp2ILInjected.Token(Token = "0x20000FD")]
 	public enum MappingType
 	{
-		// Token: 0x0400798A RID: 31114
 		[global::Cpp2ILInjected.Token(Token = "0x400050C")]
 		MoveUp,
-		// Token: 0x0400798B RID: 31115
 		[global::Cpp2ILInjected.Token(Token = "0x400050D")]
 		MoveDown,
-		// Token: 0x0400798C RID: 31116
 		[global::Cpp2ILInjected.Token(Token = "0x400050E")]
 		MoveLeft,
-		// Token: 0x0400798D RID: 31117
 		[global::Cpp2ILInjected.Token(Token = "0x400050F")]
 		MoveRight,
-		// Token: 0x0400798E RID: 31118
 		[global::Cpp2ILInjected.Token(Token = "0x4000510")]
 		Aim,
-		// Token: 0x0400798F RID: 31119
 		[global::Cpp2ILInjected.Token(Token = "0x4000511")]
 		Fire,
-		// Token: 0x04007990 RID: 31120
 		[global::Cpp2ILInjected.Token(Token = "0x4000512")]
 		Jump,
-		// Token: 0x04007991 RID: 31121
 		[global::Cpp2ILInjected.Token(Token = "0x4000513")]
 		Interact,
-		// Token: 0x04007992 RID: 31122
 		[global::Cpp2ILInjected.Token(Token = "0x4000514")]
 		InventoryToggle,
-		// Token: 0x04007993 RID: 31123
 		[global::Cpp2ILInjected.Token(Token = "0x4000515")]
 		CycleLeftPage,
-		// Token: 0x04007994 RID: 31124
 		[global::Cpp2ILInjected.Token(Token = "0x4000516")]
 		CycleRightPage,
-		// Token: 0x04007995 RID: 31125
 		[global::Cpp2ILInjected.Token(Token = "0x4000517")]
 		CyclePreviousHotbarItem,
-		// Token: 0x04007996 RID: 31126
 		[global::Cpp2ILInjected.Token(Token = "0x4000518")]
 		CycleNextHotbarItem,
-		// Token: 0x04007997 RID: 31127
 		[global::Cpp2ILInjected.Token(Token = "0x4000519")]
 		SwitchToWorld,
-		// Token: 0x04007998 RID: 31128
 		[global::Cpp2ILInjected.Token(Token = "0x400051A")]
 		CraftItem,
-		// Token: 0x04007999 RID: 31129
 		[global::Cpp2ILInjected.Token(Token = "0x400051B")]
 		PickupItem,
-		// Token: 0x0400799A RID: 31130
 		[global::Cpp2ILInjected.Token(Token = "0x400051C")]
 		EquipItem,
-		// Token: 0x0400799B RID: 31131
 		[global::Cpp2ILInjected.Token(Token = "0x400051D")]
 		Settings,
-		// Token: 0x0400799C RID: 31132
 		[global::Cpp2ILInjected.Token(Token = "0x400051E")]
 		NavigateInventory,
-		// Token: 0x0400799D RID: 31133
 		[global::Cpp2ILInjected.Token(Token = "0x400051F")]
 		Teleport,
-		// Token: 0x0400799E RID: 31134
 		[global::Cpp2ILInjected.Token(Token = "0x4000520")]
 		ZoomIn,
-		// Token: 0x0400799F RID: 31135
 		[global::Cpp2ILInjected.Token(Token = "0x4000521")]
 		ZoomOut,
-		// Token: 0x040079A0 RID: 31136
 		[global::Cpp2ILInjected.Token(Token = "0x4000522")]
 		NavigateHotbar,
-		// Token: 0x040079A1 RID: 31137
 		[global::Cpp2ILInjected.Token(Token = "0x4000523")]
 		Count
 	}

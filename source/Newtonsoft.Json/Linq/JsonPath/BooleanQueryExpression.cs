@@ -10,14 +10,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Linq.JsonPath
 {
-	// Token: 0x020000AD RID: 173
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000F1")]
 	internal class BooleanQueryExpression : QueryExpression
 	{
-		// Token: 0x1700019A RID: 410
-		// (get) Token: 0x060008BA RID: 2234 RVA: 0x00003A19 File Offset: 0x00001C19
-		// (set) Token: 0x060008BB RID: 2235 RVA: 0x00003A1C File Offset: 0x00001C1C
 		[global::Cpp2ILInjected.Token(Token = "0x170001C3")]
 		public List<PathFilter> Path
 		{
@@ -39,9 +35,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 			}
 		}
 
-		// Token: 0x1700019B RID: 411
-		// (get) Token: 0x060008BC RID: 2236 RVA: 0x00003A1F File Offset: 0x00001C1F
-		// (set) Token: 0x060008BD RID: 2237 RVA: 0x00003A22 File Offset: 0x00001C22
 		[global::Cpp2ILInjected.Token(Token = "0x170001C4")]
 		public JValue Value
 		{
@@ -63,7 +56,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 			}
 		}
 
-		// Token: 0x060008BE RID: 2238 RVA: 0x00003A25 File Offset: 0x00001C25
 		[global::Cpp2ILInjected.Token(Token = "0x60009E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D23594", Offset = "0x1D23594", Length = "0x46C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,7 +83,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 			throw null;
 		}
 
-		// Token: 0x060008BF RID: 2239 RVA: 0x00003A28 File Offset: 0x00001C28
 		[global::Cpp2ILInjected.Token(Token = "0x60009E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D23A00", Offset = "0x1D23A00", Length = "0x4B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -134,7 +125,6 @@ namespace Newtonsoft.Json.Linq.JsonPath
 			throw null;
 		}
 
-		// Token: 0x060008C0 RID: 2240 RVA: 0x00003A2B File Offset: 0x00001C2B
 		[global::Cpp2ILInjected.Token(Token = "0x60009E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D22E0C", Offset = "0x1D22E0C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -144,13 +134,11 @@ namespace Newtonsoft.Json.Linq.JsonPath
 			throw null;
 		}
 
-		// Token: 0x040002DA RID: 730
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40003DD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private List<PathFilter> <Path>k__BackingField;
 
-		// Token: 0x040002DB RID: 731
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40003DE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]

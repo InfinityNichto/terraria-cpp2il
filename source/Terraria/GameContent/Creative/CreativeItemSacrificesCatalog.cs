@@ -8,12 +8,9 @@ using UnityEngine;
 
 namespace Terraria.GameContent.Creative
 {
-	// Token: 0x0200067D RID: 1661
 	[global::Cpp2ILInjected.Token(Token = "0x2000A0D")]
 	public class CreativeItemSacrificesCatalog
 	{
-		// Token: 0x17000794 RID: 1940
-		// (get) Token: 0x0600416B RID: 16747 RVA: 0x0002DB1E File Offset: 0x0002BD1E
 		[global::Cpp2ILInjected.Token(Token = "0x17000873")]
 		public Dictionary<int, int> SacrificeCountNeededByItemId
 		{
@@ -26,7 +23,6 @@ namespace Terraria.GameContent.Creative
 			}
 		}
 
-		// Token: 0x0600416C RID: 16748 RVA: 0x0002DB21 File Offset: 0x0002BD21
 		[global::Cpp2ILInjected.Token(Token = "0x6004BFD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B45E8", Offset = "0x8B45E8", Length = "0x6A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +73,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x0600416D RID: 16749 RVA: 0x0002DB24 File Offset: 0x0002BD24
 		[global::Cpp2ILInjected.Token(Token = "0x6004BFE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B4C90", Offset = "0x8B4C90", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -121,7 +116,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x0600416E RID: 16750 RVA: 0x0002DB27 File Offset: 0x0002BD27
 		[global::Cpp2ILInjected.Token(Token = "0x6004BFF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B4D50", Offset = "0x8B4D50", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativeItemSacrificesCatalog), Member = ".cctor", ReturnType = typeof(void))]
@@ -134,7 +128,6 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x0600416F RID: 16751 RVA: 0x0002DB2A File Offset: 0x0002BD2A
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6004C00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B4DCC", Offset = "0x8B4DCC", Length = "0x58")]
@@ -146,11 +139,9 @@ namespace Terraria.GameContent.Creative
 			throw null;
 		}
 
-		// Token: 0x04006DB6 RID: 28086
 		[global::Cpp2ILInjected.Token(Token = "0x400861D")]
 		public static CreativeItemSacrificesCatalog Instance;
 
-		// Token: 0x04006DB7 RID: 28087
 		[global::Cpp2ILInjected.Token(Token = "0x400861E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Dictionary<int, int> _sacrificeCountNeededByItemId;

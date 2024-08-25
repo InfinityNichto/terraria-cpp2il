@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting
 {
-	// Token: 0x020002AE RID: 686
 	[global::Cpp2ILInjected.Token(Token = "0x200034D")]
 	internal class SingletonIdentity : ServerIdentity
 	{
-		// Token: 0x06001A37 RID: 6711 RVA: 0x00018EB1 File Offset: 0x000170B1
 		[global::Cpp2ILInjected.Token(Token = "0x6001C5B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3119C", Offset = "0x1B3119C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RemotingServices), Member = "CreateWellKnownServerIdentity", MemberParameters = new object[]
@@ -33,7 +31,6 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x06001A38 RID: 6712 RVA: 0x00018EB4 File Offset: 0x000170B4
 		[global::Cpp2ILInjected.Token(Token = "0x6001C5C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B311A4", Offset = "0x1B311A4", Length = "0x1F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +65,6 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x06001A39 RID: 6713 RVA: 0x00018EB7 File Offset: 0x000170B7
 		[global::Cpp2ILInjected.Token(Token = "0x6001C5D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B313A0", Offset = "0x1B313A0", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +81,6 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x06001A3A RID: 6714 RVA: 0x00018EBA File Offset: 0x000170BA
 		[global::Cpp2ILInjected.Token(Token = "0x6001C5E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3146C", Offset = "0x1B3146C", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

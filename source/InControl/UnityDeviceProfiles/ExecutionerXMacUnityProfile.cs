@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000BF RID: 191
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000CC")]
 	public class ExecutionerXMacUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000608 RID: 1544 RVA: 0x00003245 File Offset: 0x00001445
 		[global::Cpp2ILInjected.Token(Token = "0x6000625")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19EB4B4", Offset = "0x19EB4B4", Length = "0x884")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000609 RID: 1545 RVA: 0x00003248 File Offset: 0x00001448
 		[global::Cpp2ILInjected.Token(Token = "0x6000626")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19EBD38", Offset = "0x19EBD38", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

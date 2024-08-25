@@ -13,11 +13,9 @@ using Terraria.IO;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x020001CF RID: 463
 [global::Cpp2ILInjected.Token(Token = "0x2000268")]
 public class GUIMultiplayerHost
 {
-	// Token: 0x06000CA6 RID: 3238 RVA: 0x00024137 File Offset: 0x00022337
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E634C", Offset = "0x9E634C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -26,7 +24,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CA7 RID: 3239 RVA: 0x0002413A File Offset: 0x0002233A
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E6354", Offset = "0x9E6354", Length = "0x1FC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +70,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CA8 RID: 3240 RVA: 0x0002413D File Offset: 0x0002233D
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E692C", Offset = "0x9E692C", Length = "0x28C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -116,7 +112,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CA9 RID: 3241 RVA: 0x00024140 File Offset: 0x00022340
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E7C58", Offset = "0x9E7C58", Length = "0xD4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +134,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CAA RID: 3242 RVA: 0x00024143 File Offset: 0x00022343
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E6550", Offset = "0x9E6550", Length = "0x3DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -209,7 +203,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CAB RID: 3243 RVA: 0x00024146 File Offset: 0x00022346
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E7D2C", Offset = "0x9E7D2C", Length = "0x40")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -219,7 +212,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CAC RID: 3244 RVA: 0x00024149 File Offset: 0x00022349
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E795C", Offset = "0x9E795C", Length = "0x2FC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -255,7 +247,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CAD RID: 3245 RVA: 0x0002414C File Offset: 0x0002234C
 	[global::Cpp2ILInjected.Token(Token = "0x6000DCA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E6BB8", Offset = "0x9E6BB8", Length = "0x318")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -316,7 +307,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CAE RID: 3246 RVA: 0x0002414F File Offset: 0x0002234F
 	[global::Cpp2ILInjected.Token(Token = "0x6000DCB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E6ED0", Offset = "0x9E6ED0", Length = "0xA8C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -407,7 +397,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CAF RID: 3247 RVA: 0x00024152 File Offset: 0x00022352
 	[global::Cpp2ILInjected.Token(Token = "0x6000DCC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E7E8C", Offset = "0x9E7E8C", Length = "0x94")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerHost), Member = "DrawPassword", ReturnType = typeof(void))]
@@ -421,7 +410,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CB0 RID: 3248 RVA: 0x00024155 File Offset: 0x00022355
 	[global::Cpp2ILInjected.Token(Token = "0x6000DCD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E7D6C", Offset = "0x9E7D6C", Length = "0x120")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerHost), Member = "DrawPassword", ReturnType = typeof(void))]
@@ -440,7 +428,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CB1 RID: 3249 RVA: 0x00024158 File Offset: 0x00022358
 	[global::Cpp2ILInjected.Token(Token = "0x6000DCE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E7F20", Offset = "0x9E7F20", Length = "0x108")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -459,7 +446,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CB2 RID: 3250 RVA: 0x0002415B File Offset: 0x0002235B
 	[global::Cpp2ILInjected.Token(Token = "0x6000DCF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E8028", Offset = "0x9E8028", Length = "0x180")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerHost), Member = "WorldDraw", ReturnType = typeof(void))]
@@ -495,7 +481,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CB3 RID: 3251 RVA: 0x0002415E File Offset: 0x0002235E
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E81A8", Offset = "0x9E81A8", Length = "0x67C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -593,7 +578,6 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x06000CB4 RID: 3252 RVA: 0x00024161 File Offset: 0x00022361
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E8824", Offset = "0x9E8824", Length = "0x10C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -608,66 +592,53 @@ public class GUIMultiplayerHost
 		throw null;
 	}
 
-	// Token: 0x0400146D RID: 5229
 	[global::Cpp2ILInjected.Token(Token = "0x4001966")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float joinButtonScale;
 
-	// Token: 0x0400146E RID: 5230
 	[global::Cpp2ILInjected.Token(Token = "0x4001967")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float backButtonScale;
 
-	// Token: 0x0400146F RID: 5231
 	[global::Cpp2ILInjected.Token(Token = "0x4001968")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float TitleScale;
 
-	// Token: 0x04001470 RID: 5232
 	[global::Cpp2ILInjected.Token(Token = "0x4001969")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private string _password;
 
-	// Token: 0x04001471 RID: 5233
 	[global::Cpp2ILInjected.Token(Token = "0x400196A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public bool editingServerPassword;
 
-	// Token: 0x04001472 RID: 5234
 	[global::Cpp2ILInjected.Token(Token = "0x400196B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private GUIInputRegionExclusive _optionsBlocker;
 
-	// Token: 0x04001473 RID: 5235
 	[global::Cpp2ILInjected.Token(Token = "0x400196C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private Rectangle SelectedItemRegion;
 
-	// Token: 0x04001474 RID: 5236
 	[global::Cpp2ILInjected.Token(Token = "0x400196D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private GUIControllerMultiplayerHost _controllerInput;
 
-	// Token: 0x04001475 RID: 5237
 	[global::Cpp2ILInjected.Token(Token = "0x400196E")]
 	public const int MaxLocalMPPlayers = 8;
 
-	// Token: 0x04001476 RID: 5238
 	[global::Cpp2ILInjected.Token(Token = "0x400196F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private GUISlider.DragState dragState;
 
-	// Token: 0x04001477 RID: 5239
 	[global::Cpp2ILInjected.Token(Token = "0x4001970")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private float maxPlayerScale;
 
-	// Token: 0x04001478 RID: 5240
 	[global::Cpp2ILInjected.Token(Token = "0x4001971")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 	public bool InviteOnly;
 
-	// Token: 0x04001479 RID: 5241
 	[global::Cpp2ILInjected.Token(Token = "0x4001972")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private float InviteToggleScale;

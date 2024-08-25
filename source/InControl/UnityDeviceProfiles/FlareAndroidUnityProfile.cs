@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x02000088 RID: 136
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000095")]
 	public class FlareAndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000594 RID: 1428 RVA: 0x000030E9 File Offset: 0x000012E9
 		[global::Cpp2ILInjected.Token(Token = "0x60005B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19CB840", Offset = "0x19CB840", Length = "0x874")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000595 RID: 1429 RVA: 0x000030EC File Offset: 0x000012EC
 		[global::Cpp2ILInjected.Token(Token = "0x60005B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19CC0B4", Offset = "0x19CC0B4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

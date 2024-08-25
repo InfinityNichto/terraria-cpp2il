@@ -6,12 +6,10 @@ using UnityEngine.Serialization;
 
 namespace UnityEngine.Events
 {
-	// Token: 0x0200013D RID: 317
 	[global::Cpp2ILInjected.Token(Token = "0x2000165")]
 	[Serializable]
 	internal class PersistentCallGroup
 	{
-		// Token: 0x06000670 RID: 1648 RVA: 0x00002ED8 File Offset: 0x000010D8
 		[global::Cpp2ILInjected.Token(Token = "0x60006AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F91654", Offset = "0x1F91654", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UnityEventBase), Member = ".ctor", ReturnType = typeof(void))]
@@ -24,7 +22,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x06000671 RID: 1649 RVA: 0x00002EDB File Offset: 0x000010DB
 		[global::Cpp2ILInjected.Token(Token = "0x60006AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F916D4", Offset = "0x1F916D4", Length = "0x160")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +40,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x04000607 RID: 1543
 		[SerializeField]
 		[FormerlySerializedAs("m_Listeners")]
 		[global::Cpp2ILInjected.Token(Token = "0x400065E")]

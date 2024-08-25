@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework.Audio;
 using UnityEngine;
 
-// Token: 0x0200003E RID: 62
 [global::Cpp2ILInjected.Token(Token = "0x2000063")]
 public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, new()
 {
-	// Token: 0x06000176 RID: 374 RVA: 0x00021FDA File Offset: 0x000201DA
 	[global::Cpp2ILInjected.Token(Token = "0x6000209")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1866CBC", Offset = "0x1866CBC", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -24,8 +22,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x1700004E RID: 78
-	// (get) Token: 0x06000177 RID: 375 RVA: 0x00021FDD File Offset: 0x000201DD
 	[global::Cpp2ILInjected.Token(Token = "0x17000073")]
 	public static T Instance
 	{
@@ -40,7 +36,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		}
 	}
 
-	// Token: 0x06000178 RID: 376 RVA: 0x00021FE0 File Offset: 0x000201E0
 	[global::Cpp2ILInjected.Token(Token = "0x600020B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1866CFC", Offset = "0x1866CFC", Length = "0x17C")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -55,7 +50,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x06000179 RID: 377 RVA: 0x00021FE3 File Offset: 0x000201E3
 	[global::Cpp2ILInjected.Token(Token = "0x600020C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1866E78", Offset = "0x1866E78", Length = "0xA8")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -67,7 +61,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x0600017A RID: 378 RVA: 0x00021FE6 File Offset: 0x000201E6
 	[global::Cpp2ILInjected.Token(Token = "0x600020D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1866F20", Offset = "0x1866F20", Length = "0x60C")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -120,7 +113,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x0600017B RID: 379 RVA: 0x00021FE9 File Offset: 0x000201E9
 	[global::Cpp2ILInjected.Token(Token = "0x600020E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x186752C", Offset = "0x186752C", Length = "0x1B0")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -143,7 +135,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x0600017C RID: 380 RVA: 0x00021FEC File Offset: 0x000201EC
 	[global::Cpp2ILInjected.Token(Token = "0x600020F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x18676DC", Offset = "0x18676DC", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -159,7 +150,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x0600017D RID: 381 RVA: 0x00021FEF File Offset: 0x000201EF
 	[global::Cpp2ILInjected.Token(Token = "0x6000210")]
 	[global::Cpp2ILInjected.Address(RVA = "0x18677C8", Offset = "0x18677C8", Length = "0xE8")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -175,7 +165,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x0600017E RID: 382 RVA: 0x00021FF2 File Offset: 0x000201F2
 	[global::Cpp2ILInjected.Token(Token = "0x6000211")]
 	[global::Cpp2ILInjected.Address(RVA = "0x18678B0", Offset = "0x18678B0", Length = "0x118")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -194,7 +183,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x0600017F RID: 383 RVA: 0x00021FF5 File Offset: 0x000201F5
 	[global::Cpp2ILInjected.Token(Token = "0x6000212")]
 	[global::Cpp2ILInjected.Address(RVA = "0x18679C8", Offset = "0x18679C8", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -204,7 +192,6 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x06000180 RID: 384 RVA: 0x00021FF8 File Offset: 0x000201F8
 	[global::Cpp2ILInjected.Token(Token = "0x6000213")]
 	[global::Cpp2ILInjected.Address(RVA = "0x18679CC", Offset = "0x18679CC", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -214,11 +201,9 @@ public abstract class Singleton<T> : ScriptableObject where T : Singleton<T>, ne
 		throw null;
 	}
 
-	// Token: 0x04000104 RID: 260
 	[global::Cpp2ILInjected.Token(Token = "0x40001F7")]
 	private static T _instance;
 
-	// Token: 0x04000105 RID: 261
 	[global::Cpp2ILInjected.Token(Token = "0x40001F8")]
 	private static bool _initialised;
 }

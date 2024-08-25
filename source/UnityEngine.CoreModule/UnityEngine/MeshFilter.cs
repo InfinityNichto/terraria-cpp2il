@@ -7,13 +7,11 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200004F RID: 79
 	[RequireComponent(typeof(Transform))]
 	[NativeHeader("Runtime/Graphics/Mesh/MeshFilter.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000053")]
 	public sealed class MeshFilter : Component
 	{
-		// Token: 0x06000168 RID: 360 RVA: 0x00002335 File Offset: 0x00000535
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000170")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F737D4", Offset = "0x1F737D4", Length = "0x4")]
@@ -23,8 +21,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x1700003E RID: 62
-		// (set) Token: 0x06000169 RID: 361
 		[global::Cpp2ILInjected.Token(Token = "0x17000040")]
 		public extern Mesh mesh
 		{

@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x0200000C RID: 12
 	[global::Cpp2ILInjected.Token(Token = "0x200000E")]
 	internal class RectangularVertexClipper
 	{
-		// Token: 0x06000050 RID: 80 RVA: 0x00002125 File Offset: 0x00000325
 		[global::Cpp2ILInjected.Token(Token = "0x6000057")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA842C", Offset = "0x1FA842C", Length = "0x120")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000051 RID: 81 RVA: 0x00002128 File Offset: 0x00000328
 		[global::Cpp2ILInjected.Token(Token = "0x6000058")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA854C", Offset = "0x1FA854C", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RectMask2D), Member = ".ctor", ReturnType = typeof(void))]
@@ -47,12 +44,10 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x04000025 RID: 37
 		[global::Cpp2ILInjected.Token(Token = "0x400002A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly Vector3[] m_WorldCorners;
 
-		// Token: 0x04000026 RID: 38
 		[global::Cpp2ILInjected.Token(Token = "0x400002B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly Vector3[] m_CanvasCorners;

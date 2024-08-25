@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Globalization
 {
-	// Token: 0x020004CC RID: 1228
 	[global::Cpp2ILInjected.Token(Token = "0x20005BB")]
 	internal static class EncodingTable
 	{
-		// Token: 0x06002971 RID: 10609 RVA: 0x0001B8B1 File Offset: 0x00019AB1
 		[global::Cpp2ILInjected.Token(Token = "0x6002CD0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BF766C", Offset = "0x1BF766C", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EncodingTable), Member = ".cctor", ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x06002972 RID: 10610 RVA: 0x0001B8B4 File Offset: 0x00019AB4
 		[global::Cpp2ILInjected.Token(Token = "0x6002CD1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BF76C8", Offset = "0x1BF76C8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -31,7 +28,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x06002973 RID: 10611 RVA: 0x0001B8B7 File Offset: 0x00019AB7
 		[global::Cpp2ILInjected.Token(Token = "0x6002CD2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BF76D0", Offset = "0x1BF76D0", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +37,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x06002974 RID: 10612 RVA: 0x0001B8BA File Offset: 0x00019ABA
 		[global::Cpp2ILInjected.Token(Token = "0x6002CD3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BF76E4", Offset = "0x1BF76E4", Length = "0x42EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -55,7 +50,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x06002975 RID: 10613 RVA: 0x0001B8BD File Offset: 0x00019ABD
 		[global::Cpp2ILInjected.Token(Token = "0x6002CD4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BFB9D0", Offset = "0x1BFB9D0", Length = "0x1E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -86,7 +80,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x06002976 RID: 10614 RVA: 0x0001B8C0 File Offset: 0x00019AC0
 		[global::Cpp2ILInjected.Token(Token = "0x6002CD5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BFBBB4", Offset = "0x1BFBBB4", Length = "0x264")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -122,7 +115,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x06002977 RID: 10615 RVA: 0x0001B8C3 File Offset: 0x00019AC3
 		[global::Cpp2ILInjected.Token(Token = "0x6002CD6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BFBE18", Offset = "0x1BFBE18", Length = "0x2A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,23 +144,18 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x04001511 RID: 5393
 		[global::Cpp2ILInjected.Token(Token = "0x40018EE")]
 		internal static InternalEncodingDataItem[] encodingDataPtr;
 
-		// Token: 0x04001512 RID: 5394
 		[global::Cpp2ILInjected.Token(Token = "0x40018EF")]
 		internal static InternalCodePageDataItem[] codePageDataPtr;
 
-		// Token: 0x04001513 RID: 5395
 		[global::Cpp2ILInjected.Token(Token = "0x40018F0")]
 		private static int lastEncodingItem;
 
-		// Token: 0x04001514 RID: 5396
 		[global::Cpp2ILInjected.Token(Token = "0x40018F1")]
 		private static global::System.Collections.Generic.Dictionary<string, int> hashByName;
 
-		// Token: 0x04001515 RID: 5397
 		[global::Cpp2ILInjected.Token(Token = "0x40018F2")]
 		private static global::System.Collections.Generic.Dictionary<int, CodePageDataItem> hashByCodePage;
 	}

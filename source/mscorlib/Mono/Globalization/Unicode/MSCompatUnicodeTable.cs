@@ -10,11 +10,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Globalization.Unicode
 {
-	// Token: 0x02000025 RID: 37
 	[global::Cpp2ILInjected.Token(Token = "0x2000036")]
 	internal class MSCompatUnicodeTable
 	{
-		// Token: 0x06000071 RID: 113 RVA: 0x0001471A File Offset: 0x0001291A
 		[global::Cpp2ILInjected.Token(Token = "0x60000AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AADD08", Offset = "0x1AADD08", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,7 +24,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000072 RID: 114 RVA: 0x0001471D File Offset: 0x0001291D
 		[global::Cpp2ILInjected.Token(Token = "0x60000AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AADDD0", Offset = "0x1AADDD0", Length = "0x6F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +67,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000073 RID: 115 RVA: 0x00014720 File Offset: 0x00012920
 		[global::Cpp2ILInjected.Token(Token = "0x60000B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAE4C0", Offset = "0x1AAE4C0", Length = "0x238")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MSCompatUnicodeTable), Member = "FillCJK", MemberParameters = new object[]
@@ -94,7 +90,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000074 RID: 116 RVA: 0x00014723 File Offset: 0x00012923
 		[global::Cpp2ILInjected.Token(Token = "0x60000B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAE6F8", Offset = "0x1AAE6F8", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SimpleCollator), Member = "Category", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(byte))]
@@ -106,7 +101,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000075 RID: 117 RVA: 0x00014726 File Offset: 0x00012926
 		[global::Cpp2ILInjected.Token(Token = "0x60000B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAE794", Offset = "0x1AAE794", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SimpleCollator), Member = "Level1", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(byte))]
@@ -118,7 +112,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000076 RID: 118 RVA: 0x00014729 File Offset: 0x00012929
 		[global::Cpp2ILInjected.Token(Token = "0x60000B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAE830", Offset = "0x1AAE830", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SimpleCollator), Member = "Level2", MemberParameters = new object[]
@@ -134,7 +127,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000077 RID: 119 RVA: 0x0001472C File Offset: 0x0001292C
 		[global::Cpp2ILInjected.Token(Token = "0x60000B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAE8CC", Offset = "0x1AAE8CC", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SimpleCollator), Member = "GetSortKey", MemberParameters = new object[]
@@ -217,7 +209,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000078 RID: 120 RVA: 0x0001472F File Offset: 0x0001292F
 		[global::Cpp2ILInjected.Token(Token = "0x60000B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAE968", Offset = "0x1AAE968", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -236,7 +227,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000079 RID: 121 RVA: 0x00014732 File Offset: 0x00012932
 		[global::Cpp2ILInjected.Token(Token = "0x60000B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAEA78", Offset = "0x1AAEA78", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SimpleCollator), Member = "GetSortKey", MemberParameters = new object[]
@@ -273,7 +263,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x0600007A RID: 122 RVA: 0x00014735 File Offset: 0x00012935
 		[global::Cpp2ILInjected.Token(Token = "0x60000B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAEAD0", Offset = "0x1AAEAD0", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -283,7 +272,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x0600007B RID: 123 RVA: 0x00014738 File Offset: 0x00012938
 		[global::Cpp2ILInjected.Token(Token = "0x60000B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAEAF0", Offset = "0x1AAEAF0", Length = "0x18C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -298,7 +286,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x0600007C RID: 124 RVA: 0x0001473B File Offset: 0x0001293B
 		[global::Cpp2ILInjected.Token(Token = "0x60000B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAEC7C", Offset = "0x1AAEC7C", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -308,7 +295,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x0600007D RID: 125 RVA: 0x0001473E File Offset: 0x0001293E
 		[global::Cpp2ILInjected.Token(Token = "0x60000BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAECFC", Offset = "0x1AAECFC", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -318,7 +304,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x0600007E RID: 126 RVA: 0x00014741 File Offset: 0x00012941
 		[global::Cpp2ILInjected.Token(Token = "0x60000BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAED10", Offset = "0x1AAED10", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -328,7 +313,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x0600007F RID: 127 RVA: 0x00014744 File Offset: 0x00012944
 		[global::Cpp2ILInjected.Token(Token = "0x60000BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAED28", Offset = "0x1AAED28", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -369,8 +353,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x1700000E RID: 14
-		// (get) Token: 0x06000080 RID: 128 RVA: 0x00014747 File Offset: 0x00012947
 		[global::Cpp2ILInjected.Token(Token = "0x17000016")]
 		public static bool IsReady
 		{
@@ -384,7 +366,6 @@ namespace Mono.Globalization.Unicode
 			}
 		}
 
-		// Token: 0x06000081 RID: 129 RVA: 0x0001474A File Offset: 0x0001294A
 		[global::Cpp2ILInjected.Token(Token = "0x60000BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAEE68", Offset = "0x1AAEE68", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -411,7 +392,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000082 RID: 130 RVA: 0x0001474D File Offset: 0x0001294D
 		[global::Cpp2ILInjected.Token(Token = "0x60000BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAEF1C", Offset = "0x1AAEF1C", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -421,7 +401,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000083 RID: 131 RVA: 0x00014750 File Offset: 0x00012950
 		[global::Cpp2ILInjected.Token(Token = "0x60000C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAEF4C", Offset = "0x1AAEF4C", Length = "0x440")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -440,7 +419,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000084 RID: 132 RVA: 0x00014753 File Offset: 0x00012953
 		[global::Cpp2ILInjected.Token(Token = "0x60000C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAF38C", Offset = "0x1AAF38C", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -484,7 +462,6 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x06000085 RID: 133 RVA: 0x00014756 File Offset: 0x00012956
 		[global::Cpp2ILInjected.Token(Token = "0x60000C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAF4F0", Offset = "0x1AAF4F0", Length = "0x4C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -526,89 +503,68 @@ namespace Mono.Globalization.Unicode
 			throw null;
 		}
 
-		// Token: 0x0400004D RID: 77
 		[global::Cpp2ILInjected.Token(Token = "0x40000E4")]
 		public static int MaxExpansionLength;
 
-		// Token: 0x0400004E RID: 78
 		[global::Cpp2ILInjected.Token(Token = "0x40000E5")]
 		private unsafe static readonly byte* ignorableFlags;
 
-		// Token: 0x0400004F RID: 79
 		[global::Cpp2ILInjected.Token(Token = "0x40000E6")]
 		private unsafe static readonly byte* categories;
 
-		// Token: 0x04000050 RID: 80
 		[global::Cpp2ILInjected.Token(Token = "0x40000E7")]
 		private unsafe static readonly byte* level1;
 
-		// Token: 0x04000051 RID: 81
 		[global::Cpp2ILInjected.Token(Token = "0x40000E8")]
 		private unsafe static readonly byte* level2;
 
-		// Token: 0x04000052 RID: 82
 		[global::Cpp2ILInjected.Token(Token = "0x40000E9")]
 		private unsafe static readonly byte* level3;
 
-		// Token: 0x04000053 RID: 83
 		[global::Cpp2ILInjected.Token(Token = "0x40000EA")]
 		private unsafe static byte* cjkCHScategory;
 
-		// Token: 0x04000054 RID: 84
 		[global::Cpp2ILInjected.Token(Token = "0x40000EB")]
 		private unsafe static byte* cjkCHTcategory;
 
-		// Token: 0x04000055 RID: 85
 		[global::Cpp2ILInjected.Token(Token = "0x40000EC")]
 		private unsafe static byte* cjkJAcategory;
 
-		// Token: 0x04000056 RID: 86
 		[global::Cpp2ILInjected.Token(Token = "0x40000ED")]
 		private unsafe static byte* cjkKOcategory;
 
-		// Token: 0x04000057 RID: 87
 		[global::Cpp2ILInjected.Token(Token = "0x40000EE")]
 		private unsafe static byte* cjkCHSlv1;
 
-		// Token: 0x04000058 RID: 88
 		[global::Cpp2ILInjected.Token(Token = "0x40000EF")]
 		private unsafe static byte* cjkCHTlv1;
 
-		// Token: 0x04000059 RID: 89
 		[global::Cpp2ILInjected.Token(Token = "0x40000F0")]
 		private unsafe static byte* cjkJAlv1;
 
-		// Token: 0x0400005A RID: 90
 		[global::Cpp2ILInjected.Token(Token = "0x40000F1")]
 		private unsafe static byte* cjkKOlv1;
 
-		// Token: 0x0400005B RID: 91
 		[global::Cpp2ILInjected.Token(Token = "0x40000F2")]
 		private unsafe static byte* cjkKOlv2;
 
-		// Token: 0x0400005C RID: 92
 		[global::Cpp2ILInjected.Token(Token = "0x40000F3")]
 		private static readonly char[] tailoringArr;
 
-		// Token: 0x0400005D RID: 93
 		[global::Cpp2ILInjected.Token(Token = "0x40000F4")]
 		private static readonly TailoringInfo[] tailoringInfos;
 
-		// Token: 0x0400005E RID: 94
 		[global::Cpp2ILInjected.Token(Token = "0x40000F5")]
 		private static object forLock;
 
-		// Token: 0x0400005F RID: 95
 		[global::Cpp2ILInjected.Token(Token = "0x40000F6")]
 		public static readonly bool isReady;
 
-		// Token: 0x02000566 RID: 1382
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000037")]
 		[global::System.Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06003F2C RID: 16172 RVA: 0x0001F856 File Offset: 0x0001DA56
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60000C3")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1AAF9B8", Offset = "0x1AAF9B8", Length = "0x5C")]
@@ -620,7 +576,6 @@ namespace Mono.Globalization.Unicode
 				throw null;
 			}
 
-			// Token: 0x06003F2D RID: 16173 RVA: 0x0001F859 File Offset: 0x0001DA59
 			[global::Cpp2ILInjected.Token(Token = "0x60000C4")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1AAFA14", Offset = "0x1AAFA14", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -630,7 +585,6 @@ namespace Mono.Globalization.Unicode
 				throw null;
 			}
 
-			// Token: 0x06003F2E RID: 16174 RVA: 0x0001F85C File Offset: 0x0001DA5C
 			[global::Cpp2ILInjected.Token(Token = "0x60000C5")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1AAFA1C", Offset = "0x1AAFA1C", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -639,11 +593,9 @@ namespace Mono.Globalization.Unicode
 				throw null;
 			}
 
-			// Token: 0x0400173E RID: 5950
 			[global::Cpp2ILInjected.Token(Token = "0x40000F7")]
 			public static readonly MSCompatUnicodeTable.<>c <>9;
 
-			// Token: 0x0400173F RID: 5951
 			[global::Cpp2ILInjected.Token(Token = "0x40000F8")]
 			public static global::System.Comparison<Level2Map> <>9__17_0;
 		}

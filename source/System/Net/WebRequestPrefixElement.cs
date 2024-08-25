@@ -7,13 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x0200012B RID: 299
 	[global::Cpp2ILInjected.Token(Token = "0x20001B2")]
 	internal class WebRequestPrefixElement
 	{
-		// Token: 0x1700021E RID: 542
-		// (get) Token: 0x06000990 RID: 2448 RVA: 0x0000494F File Offset: 0x00002B4F
-		// (set) Token: 0x06000991 RID: 2449 RVA: 0x00004952 File Offset: 0x00002B52
 		[global::Cpp2ILInjected.Token(Token = "0x17000229")]
 		public IWebRequestCreate Creator
 		{
@@ -60,7 +56,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000992 RID: 2450 RVA: 0x00004955 File Offset: 0x00002B55
 		[global::Cpp2ILInjected.Token(Token = "0x6000AA1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0F9BC", Offset = "0x1F0F9BC", Length = "0x174")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +74,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000993 RID: 2451 RVA: 0x00004958 File Offset: 0x00002B58
 		[global::Cpp2ILInjected.Token(Token = "0x6000AA2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0FB30", Offset = "0x1F0FB30", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -89,17 +83,14 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040006F2 RID: 1778
 		[global::Cpp2ILInjected.Token(Token = "0x400090B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public string Prefix;
 
-		// Token: 0x040006F3 RID: 1779
 		[global::Cpp2ILInjected.Token(Token = "0x400090C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		internal IWebRequestCreate creator;
 
-		// Token: 0x040006F4 RID: 1780
 		[global::Cpp2ILInjected.Token(Token = "0x400090D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		internal Type creatorType;

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.Configuration
 {
-	// Token: 0x0200033C RID: 828
 	[global::Cpp2ILInjected.Token(Token = "0x2000473")]
 	public sealed class HttpWebRequestElement : ConfigurationElement
 	{
-		// Token: 0x06001B85 RID: 7045 RVA: 0x00007BC5 File Offset: 0x00005DC5
 		[global::Cpp2ILInjected.Token(Token = "0x6001EDE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E998D0", Offset = "0x1E998D0", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,9 +17,6 @@ namespace System.Net.Configuration
 			throw null;
 		}
 
-		// Token: 0x170006A2 RID: 1698
-		// (get) Token: 0x06001B86 RID: 7046 RVA: 0x00007BC8 File Offset: 0x00005DC8
-		// (set) Token: 0x06001B87 RID: 7047 RVA: 0x00007BCB File Offset: 0x00005DCB
 		[global::Cpp2ILInjected.Token(Token = "0x1700070D")]
 		public int MaximumErrorResponseLength
 		{
@@ -43,9 +38,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x170006A3 RID: 1699
-		// (get) Token: 0x06001B88 RID: 7048 RVA: 0x00007BCE File Offset: 0x00005DCE
-		// (set) Token: 0x06001B89 RID: 7049 RVA: 0x00007BD1 File Offset: 0x00005DD1
 		[global::Cpp2ILInjected.Token(Token = "0x1700070E")]
 		public int MaximumResponseHeadersLength
 		{
@@ -67,9 +59,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x170006A4 RID: 1700
-		// (get) Token: 0x06001B8A RID: 7050 RVA: 0x00007BD4 File Offset: 0x00005DD4
-		// (set) Token: 0x06001B8B RID: 7051 RVA: 0x00007BD7 File Offset: 0x00005DD7
 		[global::Cpp2ILInjected.Token(Token = "0x1700070F")]
 		public int MaximumUnauthorizedUploadLength
 		{
@@ -91,8 +80,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x170006A5 RID: 1701
-		// (get) Token: 0x06001B8C RID: 7052 RVA: 0x00007BDA File Offset: 0x00005DDA
 		[global::Cpp2ILInjected.Token(Token = "0x17000710")]
 		protected override ConfigurationPropertyCollection Properties
 		{
@@ -106,9 +93,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x170006A6 RID: 1702
-		// (get) Token: 0x06001B8D RID: 7053 RVA: 0x00007BDD File Offset: 0x00005DDD
-		// (set) Token: 0x06001B8E RID: 7054 RVA: 0x00007BE0 File Offset: 0x00005DE0
 		[global::Cpp2ILInjected.Token(Token = "0x17000711")]
 		public bool UseUnsafeHeaderParsing
 		{
@@ -130,7 +114,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x06001B8F RID: 7055 RVA: 0x00007BE3 File Offset: 0x00005DE3
 		[global::Cpp2ILInjected.Token(Token = "0x6001EE8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E99B00", Offset = "0x1E99B00", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

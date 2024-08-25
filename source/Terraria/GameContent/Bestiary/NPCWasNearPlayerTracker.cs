@@ -11,11 +11,9 @@ using Terraria.Net;
 
 namespace Terraria.GameContent.Bestiary
 {
-	// Token: 0x0200061B RID: 1563
 	[global::Cpp2ILInjected.Token(Token = "0x200093E")]
 	public class NPCWasNearPlayerTracker : IPersistentPerWorldContent, IOnPlayerJoining
 	{
-		// Token: 0x06003E64 RID: 15972 RVA: 0x0002D25A File Offset: 0x0002B45A
 		[global::Cpp2ILInjected.Token(Token = "0x6004778")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8188F0", Offset = "0x8188F0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -24,7 +22,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E65 RID: 15973 RVA: 0x0002D25D File Offset: 0x0002B45D
 		[global::Cpp2ILInjected.Token(Token = "0x6004779")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8182F0", Offset = "0x8182F0", Length = "0x13C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BestiaryUnlocksTracker), Member = ".ctor", ReturnType = typeof(void))]
@@ -39,7 +36,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E66 RID: 15974 RVA: 0x0002D260 File Offset: 0x0002B460
 		[global::Cpp2ILInjected.Token(Token = "0x600477A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8188F4", Offset = "0x8188F4", Length = "0x1CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -67,7 +63,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E67 RID: 15975 RVA: 0x0002D263 File Offset: 0x0002B463
 		[global::Cpp2ILInjected.Token(Token = "0x600477B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x818AC0", Offset = "0x818AC0", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +85,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E68 RID: 15976 RVA: 0x0002D266 File Offset: 0x0002B466
 		[global::Cpp2ILInjected.Token(Token = "0x600477C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x818BB4", Offset = "0x818BB4", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -100,7 +94,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E69 RID: 15977 RVA: 0x0002D269 File Offset: 0x0002B469
 		[global::Cpp2ILInjected.Token(Token = "0x600477D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x818BD8", Offset = "0x818BD8", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CritterUICollectionInfoProvider), Member = "GetEntryUICollectionInfo", ReturnType = typeof(BestiaryUICollectionInfo))]
@@ -113,7 +106,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E6A RID: 15978 RVA: 0x0002D26C File Offset: 0x0002B46C
 		[global::Cpp2ILInjected.Token(Token = "0x600477E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8171D0", Offset = "0x8171D0", Length = "0x218")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -134,7 +126,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E6B RID: 15979 RVA: 0x0002D26F File Offset: 0x0002B46F
 		[global::Cpp2ILInjected.Token(Token = "0x600477F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8176F0", Offset = "0x8176F0", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -151,7 +142,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E6C RID: 15980 RVA: 0x0002D272 File Offset: 0x0002B472
 		[global::Cpp2ILInjected.Token(Token = "0x6004780")]
 		[global::Cpp2ILInjected.Address(RVA = "0x817924", Offset = "0x817924", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -161,7 +151,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E6D RID: 15981 RVA: 0x0002D275 File Offset: 0x0002B475
 		[global::Cpp2ILInjected.Token(Token = "0x6004781")]
 		[global::Cpp2ILInjected.Address(RVA = "0x817A38", Offset = "0x817A38", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BestiaryUnlocksTracker), Member = "Reset", ReturnType = typeof(void))]
@@ -173,7 +162,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E6E RID: 15982 RVA: 0x0002D278 File Offset: 0x0002B478
 		[global::Cpp2ILInjected.Token(Token = "0x6004782")]
 		[global::Cpp2ILInjected.Address(RVA = "0x818C30", Offset = "0x818C30", Length = "0x2A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -192,7 +180,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E6F RID: 15983 RVA: 0x0002D27B File Offset: 0x0002B47B
 		[global::Cpp2ILInjected.Token(Token = "0x6004783")]
 		[global::Cpp2ILInjected.Address(RVA = "0x817D74", Offset = "0x817D74", Length = "0x20C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -218,22 +205,18 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x04006C43 RID: 27715
 		[global::Cpp2ILInjected.Token(Token = "0x4008362")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private object _entryCreationLock;
 
-		// Token: 0x04006C44 RID: 27716
 		[global::Cpp2ILInjected.Token(Token = "0x4008363")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private HashSet<string> _wasNearPlayer;
 
-		// Token: 0x04006C45 RID: 27717
 		[global::Cpp2ILInjected.Token(Token = "0x4008364")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private List<Rectangle> _playerHitboxesForBestiary;
 
-		// Token: 0x04006C46 RID: 27718
 		[global::Cpp2ILInjected.Token(Token = "0x4008365")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private List<int> _wasSeenNearPlayerByNetId;

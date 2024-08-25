@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Terraria;
 using Terraria.Localization;
 
-// Token: 0x02000238 RID: 568
 [global::Cpp2ILInjected.Token(Token = "0x20002F1")]
 public class TutorialStep_02_CopperPickaxe : TutorialStep
 {
-	// Token: 0x06001021 RID: 4129 RVA: 0x00024B45 File Offset: 0x00022D45
 	[global::Cpp2ILInjected.Token(Token = "0x6001170")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6C020", Offset = "0xA6C020", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -18,7 +16,6 @@ public class TutorialStep_02_CopperPickaxe : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001022 RID: 4130 RVA: 0x00024B48 File Offset: 0x00022D48
 	[global::Cpp2ILInjected.Token(Token = "0x6001171")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6C028", Offset = "0xA6C028", Length = "0x1EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -39,7 +36,6 @@ public class TutorialStep_02_CopperPickaxe : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001023 RID: 4131 RVA: 0x00024B4B File Offset: 0x00022D4B
 	[global::Cpp2ILInjected.Token(Token = "0x6001172")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6C214", Offset = "0xA6C214", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -48,7 +44,6 @@ public class TutorialStep_02_CopperPickaxe : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001024 RID: 4132 RVA: 0x00024B4E File Offset: 0x00022D4E
 	[global::Cpp2ILInjected.Token(Token = "0x6001173")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6C21C", Offset = "0xA6C21C", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -76,7 +71,6 @@ public class TutorialStep_02_CopperPickaxe : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001025 RID: 4133 RVA: 0x00024B51 File Offset: 0x00022D51
 	[global::Cpp2ILInjected.Token(Token = "0x6001174")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6C308", Offset = "0xA6C308", Length = "0x88")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -87,7 +81,6 @@ public class TutorialStep_02_CopperPickaxe : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001026 RID: 4134 RVA: 0x00024B54 File Offset: 0x00022D54
 	[global::Cpp2ILInjected.Token(Token = "0x6001175")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6B7F4", Offset = "0xA6B7F4", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -97,7 +90,6 @@ public class TutorialStep_02_CopperPickaxe : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x04001B7F RID: 7039
 	[global::Cpp2ILInjected.Token(Token = "0x4002133")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private bool givenAxe;

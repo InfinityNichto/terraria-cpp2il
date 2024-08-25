@@ -6,12 +6,11 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
+using Terraria.UI;
 
-// Token: 0x0200010C RID: 268
 [global::Cpp2ILInjected.Token(Token = "0x200017E")]
 public class GUIInputRegionManager
 {
-	// Token: 0x060009CD RID: 2509 RVA: 0x000238AC File Offset: 0x00021AAC
 	[global::Cpp2ILInjected.Token(Token = "0x6000AD1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A0FE8", Offset = "0x9A0FE8", Length = "0x5C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalUser), Member = ".ctor", MemberParameters = new object[]
@@ -27,8 +26,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x170000EF RID: 239
-	// (get) Token: 0x060009CE RID: 2510 RVA: 0x000238AF File Offset: 0x00021AAF
 	[global::Cpp2ILInjected.Token(Token = "0x17000116")]
 	public Vector2 MousePosition
 	{
@@ -53,7 +50,6 @@ public class GUIInputRegionManager
 		}
 	}
 
-	// Token: 0x060009CF RID: 2511 RVA: 0x000238B2 File Offset: 0x00021AB2
 	[global::Cpp2ILInjected.Token(Token = "0x6000AD3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1164", Offset = "0x9A1164", Length = "0xC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "DrawNotification", ReturnType = typeof(void))]
@@ -64,7 +60,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D0 RID: 2512 RVA: 0x000238B5 File Offset: 0x00021AB5
 	[global::Cpp2ILInjected.Token(Token = "0x6000AD4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1170", Offset = "0x9A1170", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "DrawNotification", ReturnType = typeof(void))]
@@ -75,7 +70,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D1 RID: 2513 RVA: 0x000238B8 File Offset: 0x00021AB8
 	[global::Cpp2ILInjected.Token(Token = "0x6000AD5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1178", Offset = "0x9A1178", Length = "0xCC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -89,9 +83,133 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D2 RID: 2514 RVA: 0x000238BB File Offset: 0x00021ABB
 	[global::Cpp2ILInjected.Token(Token = "0x6000AD6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1244", Offset = "0x9A1244", Length = "0x6C")]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIDraggableItemGrid), Member = "ClippedDrawItemHandler", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIDraggableItemGrid), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(DraggableItemGrid_Layout),
+		typeof(GUIItemGrid.GetItemScaleHandler),
+		typeof(GUIItemGrid.CursorOver),
+		typeof(GUIItemGrid.DrawItemHandler),
+		typeof(int),
+		typeof(ref float),
+		typeof(ref float),
+		typeof(ref int),
+		typeof(ref Vector2),
+		typeof(Vector2),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIDraggableItemGrid), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(DraggableItemGrid_Layout),
+		typeof(GUIItemGrid.GetItemScaleHandler),
+		typeof(GUIItemGrid.CursorOver),
+		typeof(GUIItemGrid.DrawItemHandler),
+		typeof(int),
+		typeof(ref float),
+		typeof(ref float),
+		typeof(ref int),
+		typeof(ref Vector2),
+		typeof(GUIItemGrid.GetItemSizeHandler),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUITransactionButton), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(TransactionButton_Layout),
+		typeof(Item),
+		typeof(string),
+		typeof(bool),
+		typeof(ref float),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool)
+	}, ReturnType = typeof(GUITransactionButton.InputState))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUITransactionButton), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(TransactionButton_Layout),
+		typeof(Texture2D),
+		typeof(Rectangle),
+		typeof(Texture2D),
+		typeof(Rectangle),
+		typeof(string),
+		typeof(bool),
+		typeof(ref float),
+		typeof(Color?),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool)
+	}, ReturnType = typeof(GUITransactionButton.InputState))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIClothesWindow), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuidePopup), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEmotesWindow), Member = "DrawBacking", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentUtility), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHairWindow), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "DrawSelectedPlayer", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforgePopup), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearch), Member = "DrawBacking", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIRubbleMaker), Member = "DrawOverlay", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerHost), Member = "WorldDraw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerLobby), Member = "ServerDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPlayerSelectMenu), Member = "PlayerDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldSelectMenu), Member = "WorldDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_FileList), Member = "PlayerDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_FileList), Member = "WorldDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_Lobby), Member = "ServerDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InGamePopups.AchievementUnlockedPopup), Member = "DrawInGame", MemberParameters = new object[]
+	{
+		typeof(SpriteBatch),
+		typeof(Vector2)
+	}, ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 26)]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Rectangle), Member = "get_Right", ReturnType = typeof(int))]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Rectangle), Member = "get_Bottom", ReturnType = typeof(int))]
@@ -107,7 +225,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D3 RID: 2515 RVA: 0x000238BE File Offset: 0x00021ABE
 	[global::Cpp2ILInjected.Token(Token = "0x6000AD7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1558", Offset = "0x9A1558", Length = "0x54")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -124,7 +241,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D4 RID: 2516 RVA: 0x000238C1 File Offset: 0x00021AC1
 	[global::Cpp2ILInjected.Token(Token = "0x6000AD8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A15AC", Offset = "0x9A15AC", Length = "0x5C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -141,10 +257,53 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D5 RID: 2517 RVA: 0x000238C4 File Offset: 0x00021AC4
 	[global::Cpp2ILInjected.Token(Token = "0x6000AD9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A12B0", Offset = "0x9A12B0", Length = "0x2A8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappings), Member = "DrawTitle", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHardwareProfile), Member = "DrawTitle", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMap), Member = "DrawMap", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInputRegionManager), Member = "RegisterInputRegion", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInputRegionManager), Member = "RegisterInputRegion", MemberParameters = new object[]
+	{
+		typeof(int),
+		typeof(int),
+		typeof(Texture2D),
+		typeof(float)
+	}, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInputRegionManager), Member = "RegisterInputRegion", MemberParameters = new object[]
+	{
+		typeof(int),
+		typeof(int),
+		typeof(Texture2D),
+		typeof(float),
+		typeof(Vector2)
+	}, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInputRegionManager), Member = "RegisterInputRegion", MemberParameters = new object[]
+	{
+		typeof(int),
+		typeof(int),
+		typeof(Vector2)
+	}, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappings), Member = "DrawTitle", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerHost), Member = "DrawPassword", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "DrawServerIP", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "DrawServerPort", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPlayerCreateMenu), Member = "DrawName", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPlayerCreateMenu), Member = "DrawDifficulty", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawName", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawSeed", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawWorldSize", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawWorldDifficulty", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawWorldEvilType", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldSelectMenu), Member = "WorldDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "Draw", ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 20)]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(List<object>), Member = "get_Item", MemberParameters = new object[] { typeof(int) }, ReturnType = "T")]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(List<object>), Member = "RemoveAt", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -166,7 +325,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D6 RID: 2518 RVA: 0x000238C7 File Offset: 0x00021AC7
 	[global::Cpp2ILInjected.Token(Token = "0x6000ADA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A16D8", Offset = "0x9A16D8", Length = "0xB0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -186,7 +344,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D7 RID: 2519 RVA: 0x000238CA File Offset: 0x00021ACA
 	[global::Cpp2ILInjected.Token(Token = "0x6000ADB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1608", Offset = "0x9A1608", Length = "0xD0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -213,10 +370,53 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D8 RID: 2520 RVA: 0x000238CD File Offset: 0x00021ACD
 	[global::Cpp2ILInjected.Token(Token = "0x6000ADC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99D4BC", Offset = "0x99D4BC", Length = "0xD0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappingEntry), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappings), Member = "GainFocus", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHardwareProfileEntry), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfoToggles), Member = "DrawToggles", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "DrawLootDrops", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "DrawFilters", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "DrawOrders", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBuilderAccToggles), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIChestSplitStack), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuidePopup), Member = "OpenPopup", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEmotesWindow), Member = "SetDisplayingEmotes", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentLoadout), Member = "DrawToggles", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInventorySplitStack), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "DrawFilter", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIJourneyModeSettings), Member = "GainFocus", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "PlayerOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforgePopup), Member = "OpenPopup", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearch), Member = "Open", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReturnToTouch), Member = "Draw", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReturnToTouch), Member = "DrawHUD", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIRubbleMaker), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWiresUI), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappingEntry), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappings), Member = "GainFocus", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "DrawProfile", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "DrawTemplate", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerHost), Member = "EnterServerPassword", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "EnterServerIP", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "EnterServerPort", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageGroupEdit), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPlayerCreateMenu), Member = "DrawDifficulty", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPlayerCreateMenu), Member = "EnterName", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettingsOverlay), Member = "GainFocus", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DrawProfile", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DrawPageOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DrawHardware", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawWorldSize", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawWorldDifficulty", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawWorldEvilType", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "EnterName", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "EnterSeed", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "RefreshInputRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "Draw", ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 45)]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(object), Member = ".ctor", ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 3)]
@@ -225,10 +425,61 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009D9 RID: 2521 RVA: 0x000238D0 File Offset: 0x00021AD0
 	[global::Cpp2ILInjected.Token(Token = "0x6000ADD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1788", Offset = "0x9A1788", Length = "0xD0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappingEntry), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappingEntry), Member = "IsOverOptions", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappings), Member = "LooseFocus", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHardwareProfileEntry), Member = "CloseOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHardwareProfileEntry), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHardwareProfileEntry), Member = "IsOverOptions", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "IsOverLoot", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "IsOverOrders", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "IsOverFilters", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "CloseLootDrops", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "CloseFilters", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "CloseSortOrder", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBuilderAccToggles), Member = "Close", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerDisconnected), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuidePopup), Member = "ClosePopup", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEmotesWindow), Member = "SetDisplayingEmotes", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIJourneyModeSettings), Member = "LooseFocus", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforgePopup), Member = "ClosePopup", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearch), Member = "Close", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInputRegionManager), Member = "RemovePendingRegions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappingEntry), Member = "RemoveBinding", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappingEntry), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappingEntry), Member = "IsOverOptions", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappings), Member = "LooseFocus", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "CloseProfileOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "CloseTemplateOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "DrawProfile", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "DrawTemplate", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerHost), Member = "CloseServerPasswordEdit", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "CloseServerIPEdit", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "CloseServerPortEdit", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageGroupEdit), Member = "Close", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPlayerCreateMenu), Member = "CloseNameEdit", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPlayerCreateMenu), Member = "CloseOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettingsOverlay), Member = "LooseFocus", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "CloseProfileOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DrawProfile", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "ClosePageOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DrawPageOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DisablePulldown", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "DrawHardware", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "IsOverOptions", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawWorldSize", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawWorldDifficulty", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawWorldEvilType", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "CloseNameEdit", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "CloseSeedEdit", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "DrawMainButtons", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "CloseOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "DisablePulldown", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "IsOverOptions", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 90)]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(List<object>), Member = "Remove", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(bool))]
 	[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 3)]
@@ -237,7 +488,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009DA RID: 2522 RVA: 0x000238D3 File Offset: 0x00021AD3
 	[global::Cpp2ILInjected.Token(Token = "0x6000ADE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1858", Offset = "0x9A1858", Length = "0x34")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -334,7 +584,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009DB RID: 2523 RVA: 0x000238D6 File Offset: 0x00021AD6
 	[global::Cpp2ILInjected.Token(Token = "0x6000ADF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A188C", Offset = "0x9A188C", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -347,7 +596,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009DC RID: 2524 RVA: 0x000238D9 File Offset: 0x00021AD9
 	[global::Cpp2ILInjected.Token(Token = "0x6000AE0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1950", Offset = "0x9A1950", Length = "0xF8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -366,7 +614,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009DD RID: 2525 RVA: 0x000238DC File Offset: 0x00021ADC
 	[global::Cpp2ILInjected.Token(Token = "0x6000AE1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1A48", Offset = "0x9A1A48", Length = "0xF8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -379,7 +626,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009DE RID: 2526 RVA: 0x000238DF File Offset: 0x00021ADF
 	[global::Cpp2ILInjected.Token(Token = "0x6000AE2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1B40", Offset = "0x9A1B40", Length = "0x88")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -398,7 +644,6 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x060009DF RID: 2527 RVA: 0x000238E2 File Offset: 0x00021AE2
 	[global::Cpp2ILInjected.Token(Token = "0x6000AE3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A1044", Offset = "0x9A1044", Length = "0xF4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInputRegionManager), Member = "Create", ReturnType = typeof(GUIInputRegionManager))]
@@ -411,46 +656,37 @@ public class GUIInputRegionManager
 		throw null;
 	}
 
-	// Token: 0x04000854 RID: 2132
 	[global::Cpp2ILInjected.Token(Token = "0x4000B2B")]
 	public static GUIInputRegionManager Instance;
 
-	// Token: 0x04000855 RID: 2133
 	[global::Cpp2ILInjected.Token(Token = "0x4000B2C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private bool _disableAllRegions;
 
-	// Token: 0x04000856 RID: 2134
 	[global::Cpp2ILInjected.Token(Token = "0x4000B2D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private int _mouseX;
 
-	// Token: 0x04000857 RID: 2135
 	[global::Cpp2ILInjected.Token(Token = "0x4000B2E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int _mouseY;
 
-	// Token: 0x04000858 RID: 2136
 	[global::Cpp2ILInjected.Token(Token = "0x4000B2F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private bool _checkingExclusiveRegions;
 
-	// Token: 0x04000859 RID: 2137
 	[global::Cpp2ILInjected.Token(Token = "0x4000B30")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private List<GUIInputRegionExclusive> _exclusiveRegion;
 
-	// Token: 0x0400085A RID: 2138
 	[global::Cpp2ILInjected.Token(Token = "0x4000B31")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private List<GUIInputRegionExclusive> _prendingExclusiveRegionRemoves;
 
-	// Token: 0x0400085B RID: 2139
 	[global::Cpp2ILInjected.Token(Token = "0x4000B32")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private List<GUIInputRegion> _currentRegion;
 
-	// Token: 0x0400085C RID: 2140
 	[global::Cpp2ILInjected.Token(Token = "0x4000B33")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private List<GUIInputRegion> _availableRegion;

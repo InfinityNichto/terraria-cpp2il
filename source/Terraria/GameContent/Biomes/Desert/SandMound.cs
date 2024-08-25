@@ -9,11 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.Desert
 {
-	// Token: 0x02000605 RID: 1541
 	[global::Cpp2ILInjected.Token(Token = "0x2000908")]
 	public static class SandMound
 	{
-		// Token: 0x06003DDA RID: 15834 RVA: 0x0002D0C2 File Offset: 0x0002B2C2
 		[global::Cpp2ILInjected.Token(Token = "0x600467C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DAAF4", Offset = "0x7DAAF4", Length = "0x534")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +69,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DDB RID: 15835 RVA: 0x0002D0C5 File Offset: 0x0002B2C5
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x600467D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DB028", Offset = "0x7DB028", Length = "0x13C")]
@@ -100,28 +97,23 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x02000A0D RID: 2573
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000909")]
 		[StructLayout(3)]
 		private struct <>c__DisplayClass0_0
 		{
-			// Token: 0x04008D2C RID: 36140
 			[global::Cpp2ILInjected.Token(Token = "0x4008289")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public int Main_maxTilesX;
 
-			// Token: 0x04008D2D RID: 36141
 			[global::Cpp2ILInjected.Token(Token = "0x400828A")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			public unsafe byte* TileData_TileLiquid;
 
-			// Token: 0x04008D2E RID: 36142
 			[global::Cpp2ILInjected.Token(Token = "0x400828B")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public unsafe uint* TileData_TileLookup;
 
-			// Token: 0x04008D2F RID: 36143
 			[global::Cpp2ILInjected.Token(Token = "0x400828C")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public unsafe short* TileData_TileSHeader;

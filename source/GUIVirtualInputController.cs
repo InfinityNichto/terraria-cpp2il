@@ -19,11 +19,9 @@ using Terraria.Initializers;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x02000106 RID: 262
 [global::Cpp2ILInjected.Token(Token = "0x2000175")]
 public class GUIVirtualInputController
 {
-	// Token: 0x06000990 RID: 2448 RVA: 0x000237F5 File Offset: 0x000219F5
 	[global::Cpp2ILInjected.Token(Token = "0x6000A90")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98B704", Offset = "0x98B704", Length = "0x1FC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +41,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x06000991 RID: 2449 RVA: 0x000237F8 File Offset: 0x000219F8
 	[global::Cpp2ILInjected.Token(Token = "0x6000A91")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98B900", Offset = "0x98B900", Length = "0x10C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Initializers.AssetInitializer.<LoadAssetsWhileInInitialBlackScreen_InSteps>d__3", Member = "MoveNext", ReturnType = typeof(bool))]
@@ -56,8 +53,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x170000EB RID: 235
-	// (get) Token: 0x06000992 RID: 2450 RVA: 0x000237FB File Offset: 0x000219FB
 	[global::Cpp2ILInjected.Token(Token = "0x17000112")]
 	private bool HasGrapple
 	{
@@ -76,8 +71,6 @@ public class GUIVirtualInputController
 		}
 	}
 
-	// Token: 0x170000EC RID: 236
-	// (get) Token: 0x06000993 RID: 2451 RVA: 0x000237FE File Offset: 0x000219FE
 	[global::Cpp2ILInjected.Token(Token = "0x17000113")]
 	public bool JumpTapPressed
 	{
@@ -92,8 +85,6 @@ public class GUIVirtualInputController
 		}
 	}
 
-	// Token: 0x170000ED RID: 237
-	// (get) Token: 0x06000994 RID: 2452 RVA: 0x00023801 File Offset: 0x00021A01
 	[global::Cpp2ILInjected.Token(Token = "0x17000114")]
 	public bool WasJumpTapPressed
 	{
@@ -109,7 +100,6 @@ public class GUIVirtualInputController
 		}
 	}
 
-	// Token: 0x06000995 RID: 2453 RVA: 0x00023804 File Offset: 0x00021A04
 	[global::Cpp2ILInjected.Token(Token = "0x6000A95")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98BB40", Offset = "0x98BB40", Length = "0x324")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +123,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x06000996 RID: 2454 RVA: 0x00023807 File Offset: 0x00021A07
 	[global::Cpp2ILInjected.Token(Token = "0x6000A96")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98BE64", Offset = "0x98BE64", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -147,7 +136,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x06000997 RID: 2455 RVA: 0x0002380A File Offset: 0x00021A0A
 	[global::Cpp2ILInjected.Token(Token = "0x6000A97")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98BF50", Offset = "0x98BF50", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -157,7 +145,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x06000998 RID: 2456 RVA: 0x0002380D File Offset: 0x00021A0D
 	[global::Cpp2ILInjected.Token(Token = "0x6000A98")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98BF68", Offset = "0x98BF68", Length = "0xA00")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -211,7 +198,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x06000999 RID: 2457 RVA: 0x00023810 File Offset: 0x00021A10
 	[global::Cpp2ILInjected.Token(Token = "0x6000A99")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98C968", Offset = "0x98C968", Length = "0x20")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -222,7 +208,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x0600099A RID: 2458 RVA: 0x00023813 File Offset: 0x00021A13
 	[global::Cpp2ILInjected.Token(Token = "0x6000A9A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98C988", Offset = "0x98C988", Length = "0x454")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -256,7 +241,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x0600099B RID: 2459 RVA: 0x00023816 File Offset: 0x00021A16
 	[global::Cpp2ILInjected.Token(Token = "0x6000A9B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98CDDC", Offset = "0x98CDDC", Length = "0x2C8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -286,7 +270,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x0600099C RID: 2460 RVA: 0x00023819 File Offset: 0x00021A19
 	[global::Cpp2ILInjected.Token(Token = "0x6000A9C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98D0A4", Offset = "0x98D0A4", Length = "0x4FA0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -477,7 +460,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x0600099D RID: 2461 RVA: 0x0002381C File Offset: 0x00021A1C
 	[global::Cpp2ILInjected.Token(Token = "0x6000A9D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x993ED8", Offset = "0x993ED8", Length = "0x468")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -503,7 +485,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x0600099E RID: 2462 RVA: 0x0002381F File Offset: 0x00021A1F
 	[global::Cpp2ILInjected.Token(Token = "0x6000A9E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x994340", Offset = "0x994340", Length = "0x8A8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -543,7 +524,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x0600099F RID: 2463 RVA: 0x00023822 File Offset: 0x00021A22
 	[global::Cpp2ILInjected.Token(Token = "0x6000A9F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x994BE8", Offset = "0x994BE8", Length = "0x5C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -554,7 +534,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009A0 RID: 2464 RVA: 0x00023825 File Offset: 0x00021A25
 	[global::Cpp2ILInjected.Token(Token = "0x6000AA0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x992128", Offset = "0x992128", Length = "0x1DB0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -673,8 +652,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x170000EE RID: 238
-	// (get) Token: 0x060009A1 RID: 2465 RVA: 0x00023828 File Offset: 0x00021A28
 	[global::Cpp2ILInjected.Token(Token = "0x17000115")]
 	public bool InGameUIOpen
 	{
@@ -697,7 +674,6 @@ public class GUIVirtualInputController
 		}
 	}
 
-	// Token: 0x060009A2 RID: 2466 RVA: 0x0002382B File Offset: 0x00021A2B
 	[global::Cpp2ILInjected.Token(Token = "0x6000AA2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x994C44", Offset = "0x994C44", Length = "0xD04")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -791,7 +767,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009A3 RID: 2467 RVA: 0x0002382E File Offset: 0x00021A2E
 	[global::Cpp2ILInjected.Token(Token = "0x6000AA3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x995948", Offset = "0x995948", Length = "0xBB8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -841,7 +816,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009A4 RID: 2468 RVA: 0x00023831 File Offset: 0x00021A31
 	[global::Cpp2ILInjected.Token(Token = "0x6000AA4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x996500", Offset = "0x996500", Length = "0xC3C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -933,7 +907,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009A5 RID: 2469 RVA: 0x00023834 File Offset: 0x00021A34
 	[global::Cpp2ILInjected.Token(Token = "0x6000AA5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99713C", Offset = "0x99713C", Length = "0x4B0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -986,7 +959,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009A6 RID: 2470 RVA: 0x00023837 File Offset: 0x00021A37
 	[global::Cpp2ILInjected.Token(Token = "0x6000AA6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x998778", Offset = "0x998778", Length = "0x3F4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1011,7 +983,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009A7 RID: 2471 RVA: 0x0002383A File Offset: 0x00021A3A
 	[global::Cpp2ILInjected.Token(Token = "0x6000AA7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9975EC", Offset = "0x9975EC", Length = "0x118C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1102,7 +1073,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009A8 RID: 2472 RVA: 0x0002383D File Offset: 0x00021A3D
 	[global::Cpp2ILInjected.Token(Token = "0x6000AA8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x998B6C", Offset = "0x998B6C", Length = "0x1D4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1124,7 +1094,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009A9 RID: 2473 RVA: 0x00023840 File Offset: 0x00021A40
 	[global::Cpp2ILInjected.Token(Token = "0x6000AA9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x998D40", Offset = "0x998D40", Length = "0xC")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1133,7 +1102,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009AA RID: 2474 RVA: 0x00023843 File Offset: 0x00021A43
 	[global::Cpp2ILInjected.Token(Token = "0x6000AAA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x998D4C", Offset = "0x998D4C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettingsPauseMenu), Member = "Draw", ReturnType = typeof(void))]
@@ -1145,7 +1113,6 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x060009AB RID: 2475 RVA: 0x00023846 File Offset: 0x00021A46
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000AAB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x998D54", Offset = "0x998D54", Length = "0x78")]
@@ -1157,644 +1124,501 @@ public class GUIVirtualInputController
 		throw null;
 	}
 
-	// Token: 0x040007C8 RID: 1992
 	[global::Cpp2ILInjected.Token(Token = "0x4000A7B")]
 	private static Microsoft.Xna.Framework.Graphics.Texture2D _directionArrow;
 
-	// Token: 0x040007C9 RID: 1993
 	[global::Cpp2ILInjected.Token(Token = "0x4000A7C")]
 	private static Microsoft.Xna.Framework.Graphics.Texture2D _jump;
 
-	// Token: 0x040007CA RID: 1994
 	[global::Cpp2ILInjected.Token(Token = "0x4000A7D")]
 	public static Microsoft.Xna.Framework.Graphics.Texture2D _movement;
 
-	// Token: 0x040007CB RID: 1995
 	[global::Cpp2ILInjected.Token(Token = "0x4000A7E")]
 	public static Microsoft.Xna.Framework.Graphics.Texture2D _autoFireOff;
 
-	// Token: 0x040007CC RID: 1996
 	[global::Cpp2ILInjected.Token(Token = "0x4000A7F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool ControllerActive;
 
-	// Token: 0x040007CD RID: 1997
 	[global::Cpp2ILInjected.Token(Token = "0x4000A80")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x11")]
 	public bool AutoControlEnabled;
 
-	// Token: 0x040007CE RID: 1998
 	[global::Cpp2ILInjected.Token(Token = "0x4000A81")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	public float AutoControlTimer;
 
-	// Token: 0x040007CF RID: 1999
 	[global::Cpp2ILInjected.Token(Token = "0x4000A82")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public bool AutoSelectToggleTouch;
 
-	// Token: 0x040007D0 RID: 2000
 	[global::Cpp2ILInjected.Token(Token = "0x4000A83")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x19")]
 	public bool AutoSelectToggleTouchValue;
 
-	// Token: 0x040007D1 RID: 2001
 	[global::Cpp2ILInjected.Token(Token = "0x4000A84")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1A")]
 	public bool AutoSelectToggleController;
 
-	// Token: 0x040007D2 RID: 2002
 	[global::Cpp2ILInjected.Token(Token = "0x4000A85")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1B")]
 	public bool AutoSelectToggleControllerValue;
 
-	// Token: 0x040007D3 RID: 2003
 	[global::Cpp2ILInjected.Token(Token = "0x4000A86")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	public bool AutoSelectToggleKeyboard;
 
-	// Token: 0x040007D4 RID: 2004
 	[global::Cpp2ILInjected.Token(Token = "0x4000A87")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1D")]
 	public bool AutoSelectToggleKeyboardValue;
 
-	// Token: 0x040007D5 RID: 2005
 	[global::Cpp2ILInjected.Token(Token = "0x4000A88")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1E")]
 	public bool EnableBuildGridSnap;
 
-	// Token: 0x040007D6 RID: 2006
 	[global::Cpp2ILInjected.Token(Token = "0x4000A89")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1F")]
 	public bool AimModeFreeMovement;
 
-	// Token: 0x040007D7 RID: 2007
 	[global::Cpp2ILInjected.Token(Token = "0x4000A8A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public bool UseButtonPressed;
 
-	// Token: 0x040007D8 RID: 2008
 	[global::Cpp2ILInjected.Token(Token = "0x4000A8B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x21")]
 	public bool StashCraftedItems;
 
-	// Token: 0x040007D9 RID: 2009
 	[global::Cpp2ILInjected.Token(Token = "0x4000A8C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private CursorInputLayer _inputLayer;
 
-	// Token: 0x040007DA RID: 2010
 	[global::Cpp2ILInjected.Token(Token = "0x4000A8D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private CursorInputLayer _inputLayer2;
 
-	// Token: 0x040007DB RID: 2011
 	[global::Cpp2ILInjected.Token(Token = "0x4000A8E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	public VirtualInputController_Layout.ContolType[] Controls;
 
-	// Token: 0x040007DC RID: 2012
 	[global::Cpp2ILInjected.Token(Token = "0x4000A8F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	public float VirtualControlScale;
 
-	// Token: 0x040007DD RID: 2013
 	[global::Cpp2ILInjected.Token(Token = "0x4000A90")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	public GUIVirtualInputController.LeftStickJumpMode JumpMode;
 
-	// Token: 0x040007DE RID: 2014
 	[global::Cpp2ILInjected.Token(Token = "0x4000A91")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private int previousMovementLastFrame;
 
-	// Token: 0x040007DF RID: 2015
 	[global::Cpp2ILInjected.Token(Token = "0x4000A92")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	private Microsoft.Xna.Framework.Vector2 lastFireAxisRaw;
 
-	// Token: 0x040007E0 RID: 2016
 	[global::Cpp2ILInjected.Token(Token = "0x4000A93")]
 	private const float numSteps = 1000f;
 
-	// Token: 0x040007E1 RID: 2017
 	[global::Cpp2ILInjected.Token(Token = "0x4000A94")]
 	private static Item emptyItem;
 
-	// Token: 0x040007E2 RID: 2018
 	[global::Cpp2ILInjected.Token(Token = "0x4000A95")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 	private bool pulseLeft;
 
-	// Token: 0x040007E3 RID: 2019
 	[global::Cpp2ILInjected.Token(Token = "0x4000A96")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private int pulseLeftTime;
 
-	// Token: 0x040007E4 RID: 2020
 	[global::Cpp2ILInjected.Token(Token = "0x4000A97")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 	private bool pulseRight;
 
-	// Token: 0x040007E5 RID: 2021
 	[global::Cpp2ILInjected.Token(Token = "0x4000A98")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private int pulseRightTime;
 
-	// Token: 0x040007E6 RID: 2022
 	[global::Cpp2ILInjected.Token(Token = "0x4000A99")]
 	private static int pulseTimer;
 
-	// Token: 0x040007E7 RID: 2023
 	[global::Cpp2ILInjected.Token(Token = "0x4000A9A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x64")]
 	private float cursorUpdateTime;
 
-	// Token: 0x040007E8 RID: 2024
 	[global::Cpp2ILInjected.Token(Token = "0x4000A9B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private float LastOffsetX;
 
-	// Token: 0x040007E9 RID: 2025
 	[global::Cpp2ILInjected.Token(Token = "0x4000A9C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x6C")]
 	private float LastOffsetY;
 
-	// Token: 0x040007EA RID: 2026
 	[global::Cpp2ILInjected.Token(Token = "0x4000A9D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private int LastFrameUpdate;
 
-	// Token: 0x040007EB RID: 2027
 	[global::Cpp2ILInjected.Token(Token = "0x4000A9E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x74")]
 	private int LastSizeX;
 
-	// Token: 0x040007EC RID: 2028
 	[global::Cpp2ILInjected.Token(Token = "0x4000A9F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	private int LastSizeY;
 
-	// Token: 0x040007ED RID: 2029
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x7C")]
 	private float AimScale;
 
-	// Token: 0x040007EE RID: 2030
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private float AimAxisActiveTime;
 
-	// Token: 0x040007EF RID: 2031
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x84")]
 	private float AimAxisStartX;
 
-	// Token: 0x040007F0 RID: 2032
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	private float AimAxisStartY;
 
-	// Token: 0x040007F1 RID: 2033
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x8C")]
 	private float AimAxisTotalX;
 
-	// Token: 0x040007F2 RID: 2034
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 	private float AimAxisTotalY;
 
-	// Token: 0x040007F3 RID: 2035
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x94")]
 	private bool AimAxisSnapStarted;
 
-	// Token: 0x040007F4 RID: 2036
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x95")]
 	public bool LeftStickAiming;
 
-	// Token: 0x040007F5 RID: 2037
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 	public float ControllerAimSensitivity;
 
-	// Token: 0x040007F6 RID: 2038
 	[global::Cpp2ILInjected.Token(Token = "0x4000AA9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x9C")]
 	public float TouchAimSensitivity;
 
-	// Token: 0x040007F7 RID: 2039
 	[global::Cpp2ILInjected.Token(Token = "0x4000AAA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 	private int InitialAimNavTick;
 
-	// Token: 0x040007F8 RID: 2040
 	[global::Cpp2ILInjected.Token(Token = "0x4000AAB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 	public DateTime LastAimNavTickTime;
 
-	// Token: 0x040007F9 RID: 2041
 	[global::Cpp2ILInjected.Token(Token = "0x4000AAC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 	private Microsoft.Xna.Framework.Vector2 LastAimNavTickPosition;
 
-	// Token: 0x040007FA RID: 2042
 	[global::Cpp2ILInjected.Token(Token = "0x4000AAD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 	private Microsoft.Xna.Framework.Vector2 LastAimNavTickPositionStart;
 
-	// Token: 0x040007FB RID: 2043
 	[global::Cpp2ILInjected.Token(Token = "0x4000AAE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xC0")]
 	private Microsoft.Xna.Framework.Vector2 LastResultPosition;
 
-	// Token: 0x040007FC RID: 2044
 	[global::Cpp2ILInjected.Token(Token = "0x4000AAF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xC8")]
 	private Microsoft.Xna.Framework.Vector2 WorldBlendOffset;
 
-	// Token: 0x040007FD RID: 2045
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xD0")]
 	private bool lastGridAimMode;
 
-	// Token: 0x040007FE RID: 2046
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xD1")]
 	private bool movingX;
 
-	// Token: 0x040007FF RID: 2047
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xD2")]
 	private bool movingY;
 
-	// Token: 0x04000800 RID: 2048
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xD4")]
 	private int movingOffsetX;
 
-	// Token: 0x04000801 RID: 2049
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xD8")]
 	private int movingOffsetY;
 
-	// Token: 0x04000802 RID: 2050
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xDC")]
 	private int LastWorldPositionX;
 
-	// Token: 0x04000803 RID: 2051
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xE0")]
 	private int LastWorldPositionY;
 
-	// Token: 0x04000804 RID: 2052
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xE4")]
 	private int LastCursorPositionX;
 
-	// Token: 0x04000805 RID: 2053
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xE8")]
 	private int LastCursorPositionY;
 
-	// Token: 0x04000806 RID: 2054
 	[global::Cpp2ILInjected.Token(Token = "0x4000AB9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xEC")]
 	private int LastScreenCentreX;
 
-	// Token: 0x04000807 RID: 2055
 	[global::Cpp2ILInjected.Token(Token = "0x4000ABA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xF0")]
 	private int LastScreenCentreY;
 
-	// Token: 0x04000808 RID: 2056
 	[global::Cpp2ILInjected.Token(Token = "0x4000ABB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xF4")]
 	private float deadZone;
 
-	// Token: 0x04000809 RID: 2057
 	[global::Cpp2ILInjected.Token(Token = "0x4000ABC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xF8")]
 	private bool wasWorldCursorActive;
 
-	// Token: 0x0400080A RID: 2058
 	[global::Cpp2ILInjected.Token(Token = "0x4000ABD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xFC")]
 	private int lastWorldCursorPointX;
 
-	// Token: 0x0400080B RID: 2059
 	[global::Cpp2ILInjected.Token(Token = "0x4000ABE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x100")]
 	private int lastWorldCursorPointY;
 
-	// Token: 0x0400080C RID: 2060
 	[global::Cpp2ILInjected.Token(Token = "0x4000ABF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x104")]
 	public bool wasMovementAxisActive;
 
-	// Token: 0x0400080D RID: 2061
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x105")]
 	public bool movementAxisActive;
 
-	// Token: 0x0400080E RID: 2062
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x106")]
 	public bool grappleAxisActive;
 
-	// Token: 0x0400080F RID: 2063
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x107")]
 	public bool wasGrappleAxisActive;
 
-	// Token: 0x04000810 RID: 2064
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x108")]
 	public bool grappleFired;
 
-	// Token: 0x04000811 RID: 2065
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x109")]
 	public bool fireAxisActive;
 
-	// Token: 0x04000812 RID: 2066
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10A")]
 	public bool grappleAxisPressed;
 
-	// Token: 0x04000813 RID: 2067
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10B")]
 	private bool fireAxisFiring;
 
-	// Token: 0x04000814 RID: 2068
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10C")]
 	public bool fireButtonFiring;
 
-	// Token: 0x04000815 RID: 2069
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10D")]
 	private bool fireFromHousing;
 
-	// Token: 0x04000816 RID: 2070
 	[global::Cpp2ILInjected.Token(Token = "0x4000AC9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10E")]
 	private bool anyActive;
 
-	// Token: 0x04000817 RID: 2071
 	[global::Cpp2ILInjected.Token(Token = "0x4000ACA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x110")]
 	private Microsoft.Xna.Framework.Vector2 grappleAxis;
 
-	// Token: 0x04000818 RID: 2072
 	[global::Cpp2ILInjected.Token(Token = "0x4000ACB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x118")]
 	private Microsoft.Xna.Framework.Vector2 previousGrappleAxis;
 
-	// Token: 0x04000819 RID: 2073
 	[global::Cpp2ILInjected.Token(Token = "0x4000ACC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x120")]
 	private Microsoft.Xna.Framework.Vector2 movementAxis;
 
-	// Token: 0x0400081A RID: 2074
 	[global::Cpp2ILInjected.Token(Token = "0x4000ACD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x128")]
 	private Microsoft.Xna.Framework.Vector2 previousMovementAxis;
 
-	// Token: 0x0400081B RID: 2075
 	[global::Cpp2ILInjected.Token(Token = "0x4000ACE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x130")]
 	private Microsoft.Xna.Framework.Vector2 fireAxis;
 
-	// Token: 0x0400081C RID: 2076
 	[global::Cpp2ILInjected.Token(Token = "0x4000ACF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x138")]
 	private Microsoft.Xna.Framework.Vector2 gridSnapAxis;
 
-	// Token: 0x0400081D RID: 2077
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x140")]
 	private Microsoft.Xna.Framework.Vector2 previousGridSnapAxis;
 
-	// Token: 0x0400081E RID: 2078
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 	private bool gridSnapUp;
 
-	// Token: 0x0400081F RID: 2079
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x149")]
 	private bool gridSnapDown;
 
-	// Token: 0x04000820 RID: 2080
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14A")]
 	private bool gridSnapLeft;
 
-	// Token: 0x04000821 RID: 2081
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14B")]
 	private bool gridSnapRight;
 
-	// Token: 0x04000822 RID: 2082
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14C")]
 	private Microsoft.Xna.Framework.Vector2 movementAxisScreenOffset;
 
-	// Token: 0x04000823 RID: 2083
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x154")]
 	private Microsoft.Xna.Framework.Vector2 fireAxisScreenOffset;
 
-	// Token: 0x04000824 RID: 2084
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x15C")]
 	private Microsoft.Xna.Framework.Vector2 grappleAxisScreenOffset;
 
-	// Token: 0x04000825 RID: 2085
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x164")]
 	private Microsoft.Xna.Framework.Vector2 previousGrappleAxisScreenOffset;
 
-	// Token: 0x04000826 RID: 2086
 	[global::Cpp2ILInjected.Token(Token = "0x4000AD9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x16C")]
 	private Microsoft.Xna.Framework.Vector2 grappleAxisCentre;
 
-	// Token: 0x04000827 RID: 2087
 	[global::Cpp2ILInjected.Token(Token = "0x4000ADA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x174")]
 	private Microsoft.Xna.Framework.Vector2 movementAxisCentre;
 
-	// Token: 0x04000828 RID: 2088
 	[global::Cpp2ILInjected.Token(Token = "0x4000ADB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x17C")]
 	private Microsoft.Xna.Framework.Vector2 fireAxisCentre;
 
-	// Token: 0x04000829 RID: 2089
 	[global::Cpp2ILInjected.Token(Token = "0x4000ADC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x188")]
 	public bool[] Pressed;
 
-	// Token: 0x0400082A RID: 2090
 	[global::Cpp2ILInjected.Token(Token = "0x4000ADD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x190")]
 	public bool[] WasPressed;
 
-	// Token: 0x0400082B RID: 2091
 	[global::Cpp2ILInjected.Token(Token = "0x4000ADE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x198")]
 	public float[] Scale;
 
-	// Token: 0x0400082C RID: 2092
 	[global::Cpp2ILInjected.Token(Token = "0x4000ADF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1A0")]
 	private float TimeSinceToggleSmartCursor;
 
-	// Token: 0x0400082D RID: 2093
 	[global::Cpp2ILInjected.Token(Token = "0x4000AE0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1A4")]
 	private float TimeSinceToggleAutoFire;
 
-	// Token: 0x0400082E RID: 2094
 	[global::Cpp2ILInjected.Token(Token = "0x4000AE1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1A8")]
 	public float TimeSinceModifyZoom;
 
-	// Token: 0x0400082F RID: 2095
 	[global::Cpp2ILInjected.Token(Token = "0x4000AE2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1AC")]
 	private float TimeSinceCombatTargeting;
 
-	// Token: 0x04000830 RID: 2096
 	[global::Cpp2ILInjected.Token(Token = "0x4000AE3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1B0")]
 	private float TimeSinceProfileChanged;
 
-	// Token: 0x04000831 RID: 2097
 	[global::Cpp2ILInjected.Token(Token = "0x4000AE4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1B4")]
 	public bool InventoryToggle;
 
-	// Token: 0x04000832 RID: 2098
 	[global::Cpp2ILInjected.Token(Token = "0x4000AE5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1B5")]
 	private bool Shown;
 
-	// Token: 0x020007D0 RID: 2000
 	[global::Cpp2ILInjected.Token(Token = "0x2000176")]
 	public enum LeftStickJumpMode
 	{
-		// Token: 0x04007A7E RID: 31358
 		[global::Cpp2ILInjected.Token(Token = "0x4000AE7")]
 		DoubleTap,
-		// Token: 0x04007A7F RID: 31359
 		[global::Cpp2ILInjected.Token(Token = "0x4000AE8")]
 		SingleTap,
-		// Token: 0x04007A80 RID: 31360
 		[global::Cpp2ILInjected.Token(Token = "0x4000AE9")]
 		Up,
-		// Token: 0x04007A81 RID: 31361
 		[global::Cpp2ILInjected.Token(Token = "0x4000AEA")]
 		Disabled
 	}
 
-	// Token: 0x020007D1 RID: 2001
 	[global::Cpp2ILInjected.Token(Token = "0x2000177")]
 	public enum ControlType
 	{
-		// Token: 0x04007A83 RID: 31363
 		[global::Cpp2ILInjected.Token(Token = "0x4000AEC")]
 		Left,
-		// Token: 0x04007A84 RID: 31364
 		[global::Cpp2ILInjected.Token(Token = "0x4000AED")]
 		Right,
-		// Token: 0x04007A85 RID: 31365
 		[global::Cpp2ILInjected.Token(Token = "0x4000AEE")]
 		Jump,
-		// Token: 0x04007A86 RID: 31366
 		[global::Cpp2ILInjected.Token(Token = "0x4000AEF")]
 		Up,
-		// Token: 0x04007A87 RID: 31367
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF0")]
 		Down,
-		// Token: 0x04007A88 RID: 31368
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF1")]
 		Inventory,
-		// Token: 0x04007A89 RID: 31369
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF2")]
 		QuickHeal,
-		// Token: 0x04007A8A RID: 31370
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF3")]
 		QuickMana,
-		// Token: 0x04007A8B RID: 31371
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF4")]
 		QuickMount,
-		// Token: 0x04007A8C RID: 31372
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF5")]
 		QuickBuff,
-		// Token: 0x04007A8D RID: 31373
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF6")]
 		Grapple,
-		// Token: 0x04007A8E RID: 31374
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF7")]
 		Fire,
-		// Token: 0x04007A8F RID: 31375
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF8")]
 		UseTileControl,
-		// Token: 0x04007A90 RID: 31376
 		[global::Cpp2ILInjected.Token(Token = "0x4000AF9")]
 		Interact,
-		// Token: 0x04007A91 RID: 31377
 		[global::Cpp2ILInjected.Token(Token = "0x4000AFA")]
 		ZoomIn,
-		// Token: 0x04007A92 RID: 31378
 		[global::Cpp2ILInjected.Token(Token = "0x4000AFB")]
 		ZoomOut,
-		// Token: 0x04007A93 RID: 31379
 		[global::Cpp2ILInjected.Token(Token = "0x4000AFC")]
 		AutoFire,
-		// Token: 0x04007A94 RID: 31380
 		[global::Cpp2ILInjected.Token(Token = "0x4000AFD")]
 		SmartCursor,
-		// Token: 0x04007A95 RID: 31381
 		[global::Cpp2ILInjected.Token(Token = "0x4000AFE")]
 		InventoryToggle,
-		// Token: 0x04007A96 RID: 31382
 		[global::Cpp2ILInjected.Token(Token = "0x4000AFF")]
 		AutoSelect,
-		// Token: 0x04007A97 RID: 31383
 		[global::Cpp2ILInjected.Token(Token = "0x4000B00")]
 		GrappleSelect,
-		// Token: 0x04007A98 RID: 31384
 		[global::Cpp2ILInjected.Token(Token = "0x4000B01")]
 		TargetLockOn,
-		// Token: 0x04007A99 RID: 31385
 		[global::Cpp2ILInjected.Token(Token = "0x4000B02")]
 		ProfileSwitch,
-		// Token: 0x04007A9A RID: 31386
 		[global::Cpp2ILInjected.Token(Token = "0x4000B03")]
 		UseButton,
-		// Token: 0x04007A9B RID: 31387
 		[global::Cpp2ILInjected.Token(Token = "0x4000B04")]
 		Settings,
-		// Token: 0x04007A9C RID: 31388
 		[global::Cpp2ILInjected.Token(Token = "0x4000B05")]
 		Loadout1,
-		// Token: 0x04007A9D RID: 31389
 		[global::Cpp2ILInjected.Token(Token = "0x4000B06")]
 		Loadout2,
-		// Token: 0x04007A9E RID: 31390
 		[global::Cpp2ILInjected.Token(Token = "0x4000B07")]
 		Loadout3,
-		// Token: 0x04007A9F RID: 31391
 		[global::Cpp2ILInjected.Token(Token = "0x4000B08")]
 		LoadoutCycle,
-		// Token: 0x04007AA0 RID: 31392
 		[global::Cpp2ILInjected.Token(Token = "0x4000B09")]
 		Count
 	}

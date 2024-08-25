@@ -10,11 +10,9 @@ using Terraria.DataStructures;
 using Terraria.Localization;
 using Terraria.Map;
 
-// Token: 0x020000C6 RID: 198
 [global::Cpp2ILInjected.Token(Token = "0x200011F")]
 public class GUIAccessoryInfo
 {
-	// Token: 0x06000644 RID: 1604 RVA: 0x00022E11 File Offset: 0x00021011
 	[global::Cpp2ILInjected.Token(Token = "0x6000737")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1103DDC", Offset = "0x1103DDC", Length = "0x1AC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -41,7 +39,6 @@ public class GUIAccessoryInfo
 		throw null;
 	}
 
-	// Token: 0x06000645 RID: 1605 RVA: 0x00022E14 File Offset: 0x00021014
 	[global::Cpp2ILInjected.Token(Token = "0x6000738")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1103F88", Offset = "0x1103F88", Length = "0xB1C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -145,7 +142,6 @@ public class GUIAccessoryInfo
 		throw null;
 	}
 
-	// Token: 0x06000646 RID: 1606 RVA: 0x00022E17 File Offset: 0x00021017
 	[global::Cpp2ILInjected.Token(Token = "0x6000739")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1107760", Offset = "0x1107760", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -155,7 +151,6 @@ public class GUIAccessoryInfo
 		throw null;
 	}
 
-	// Token: 0x06000647 RID: 1607 RVA: 0x00022E1A File Offset: 0x0002101A
 	[global::Cpp2ILInjected.Token(Token = "0x600073A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x11077AC", Offset = "0x11077AC", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -164,7 +159,6 @@ public class GUIAccessoryInfo
 		throw null;
 	}
 
-	// Token: 0x06000648 RID: 1608 RVA: 0x00022E1D File Offset: 0x0002101D
 	[global::Cpp2ILInjected.Token(Token = "0x600073B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x11077B0", Offset = "0x11077B0", Length = "0x3E4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -206,7 +200,6 @@ public class GUIAccessoryInfo
 		throw null;
 	}
 
-	// Token: 0x06000649 RID: 1609 RVA: 0x00022E20 File Offset: 0x00021020
 	[global::Cpp2ILInjected.Token(Token = "0x600073C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1104AA4", Offset = "0x1104AA4", Length = "0x2CBC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -278,67 +271,53 @@ public class GUIAccessoryInfo
 		throw null;
 	}
 
-	// Token: 0x040003A6 RID: 934
 	[global::Cpp2ILInjected.Token(Token = "0x400059A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public int numInfoAccessories;
 
-	// Token: 0x040003A7 RID: 935
 	[global::Cpp2ILInjected.Token(Token = "0x400059B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public int[] DisplayIcons;
 
-	// Token: 0x040003A8 RID: 936
 	[global::Cpp2ILInjected.Token(Token = "0x400059C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public string[] IconText;
 
-	// Token: 0x040003A9 RID: 937
 	[global::Cpp2ILInjected.Token(Token = "0x400059D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public string[] InfoText;
 
-	// Token: 0x040003AA RID: 938
 	[global::Cpp2ILInjected.Token(Token = "0x400059E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private GUIAccessoryInfo.StringState[] InfoState;
 
-	// Token: 0x040003AB RID: 939
 	[global::Cpp2ILInjected.Token(Token = "0x400059F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private Rectangle lastDrawRegion;
 
-	// Token: 0x040003AC RID: 940
 	[global::Cpp2ILInjected.Token(Token = "0x40005A0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private GUIItemGrid.GetItemScaleHandler itemScale;
 
-	// Token: 0x040003AD RID: 941
 	[global::Cpp2ILInjected.Token(Token = "0x40005A1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private GUIItemGrid.CursorOver itemOver;
 
-	// Token: 0x040003AE RID: 942
 	[global::Cpp2ILInjected.Token(Token = "0x40005A2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private GUIItemGrid.DrawItemHandler itemDraw;
 
-	// Token: 0x040003AF RID: 943
 	[global::Cpp2ILInjected.Token(Token = "0x40005A3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private int itemOffset;
 
-	// Token: 0x020007BB RID: 1979
 	[global::Cpp2ILInjected.Token(Token = "0x2000120")]
 	private enum StringState
 	{
-		// Token: 0x040079DA RID: 31194
 		[global::Cpp2ILInjected.Token(Token = "0x40005A5")]
 		Normal,
-		// Token: 0x040079DB RID: 31195
 		[global::Cpp2ILInjected.Token(Token = "0x40005A6")]
 		Disabled,
-		// Token: 0x040079DC RID: 31196
 		[global::Cpp2ILInjected.Token(Token = "0x40005A7")]
 		Critter
 	}

@@ -10,11 +10,9 @@ using Terraria.IO;
 
 namespace ReLogic.Utilities
 {
-	// Token: 0x02000715 RID: 1813
 	[global::Cpp2ILInjected.Token(Token = "0x2000B0E")]
 	public static class XnaExtensions
 	{
-		// Token: 0x0600465A RID: 18010 RVA: 0x0002E982 File Offset: 0x0002CB82
 		[global::Cpp2ILInjected.Token(Token = "0x6005301")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15AB14C", Offset = "0x15AB14C", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]

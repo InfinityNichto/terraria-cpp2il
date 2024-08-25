@@ -8,11 +8,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x02000542 RID: 1346
 	[global::Cpp2ILInjected.Token(Token = "0x20007B4")]
 	public class AmbientWindSystem
 	{
-		// Token: 0x06003980 RID: 14720 RVA: 0x0002C450 File Offset: 0x0002A650
 		[global::Cpp2ILInjected.Token(Token = "0x6004047")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76C298", Offset = "0x76C298", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = ".ctor", ReturnType = typeof(void))]
@@ -26,7 +24,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003981 RID: 14721 RVA: 0x0002C453 File Offset: 0x0002A653
 		[global::Cpp2ILInjected.Token(Token = "0x6004048")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76C348", Offset = "0x76C348", Length = "0x280")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -57,7 +54,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003982 RID: 14722 RVA: 0x0002C456 File Offset: 0x0002A656
 		[global::Cpp2ILInjected.Token(Token = "0x6004049")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76C978", Offset = "0x76C978", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +73,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003983 RID: 14723 RVA: 0x0002C459 File Offset: 0x0002A659
 		[global::Cpp2ILInjected.Token(Token = "0x600404A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76C5C8", Offset = "0x76C5C8", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AmbientWindSystem), Member = "Update", ReturnType = typeof(void))]
@@ -98,7 +93,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003984 RID: 14724 RVA: 0x0002C45C File Offset: 0x0002A65C
 		[global::Cpp2ILInjected.Token(Token = "0x600404B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76C7F8", Offset = "0x76C7F8", Length = "0x180")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -124,7 +118,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003985 RID: 14725 RVA: 0x0002C45F File Offset: 0x0002A65F
 		[global::Cpp2ILInjected.Token(Token = "0x600404C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76CADC", Offset = "0x76CADC", Length = "0x4D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -195,7 +188,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003986 RID: 14726 RVA: 0x0002C462 File Offset: 0x0002A662
 		[global::Cpp2ILInjected.Token(Token = "0x600404D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76CFB0", Offset = "0x76CFB0", Length = "0x280")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -241,7 +233,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003987 RID: 14727 RVA: 0x0002C465 File Offset: 0x0002A665
 		[global::Cpp2ILInjected.Token(Token = "0x600404E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76C698", Offset = "0x76C698", Length = "0x160")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -264,7 +255,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003988 RID: 14728 RVA: 0x0002C468 File Offset: 0x0002A668
 		[global::Cpp2ILInjected.Token(Token = "0x600404F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76D230", Offset = "0x76D230", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -282,32 +272,26 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x040068C1 RID: 26817
 		[global::Cpp2ILInjected.Token(Token = "0x4007E12")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private UnifiedRandom _random;
 
-		// Token: 0x040068C2 RID: 26818
 		[global::Cpp2ILInjected.Token(Token = "0x4007E13")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private List<Point> _spotsForAirboneWind;
 
-		// Token: 0x040068C3 RID: 26819
 		[global::Cpp2ILInjected.Token(Token = "0x4007E14")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private int _updatesCounter;
 
-		// Token: 0x040068C4 RID: 26820
 		[global::Cpp2ILInjected.Token(Token = "0x4007E15")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private int _lastFrame;
 
-		// Token: 0x040068C5 RID: 26821
 		[global::Cpp2ILInjected.Token(Token = "0x4007E16")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private float _airSpaceTests;
 
-		// Token: 0x040068C6 RID: 26822
 		[global::Cpp2ILInjected.Token(Token = "0x4007E17")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		private float _floorSpaceTests;

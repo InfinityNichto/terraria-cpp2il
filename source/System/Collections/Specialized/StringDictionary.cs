@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections.Specialized
 {
-	// Token: 0x02000309 RID: 777
 	[global::Cpp2ILInjected.Token(Token = "0x2000422")]
 	[Serializable]
 	public class StringDictionary : IEnumerable
 	{
-		// Token: 0x060019A7 RID: 6567 RVA: 0x00007652 File Offset: 0x00005852
 		[global::Cpp2ILInjected.Token(Token = "0x6001CA4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E90F44", Offset = "0x1E90F44", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TrackingStringDictionary), Member = ".ctor", ReturnType = typeof(void))]
@@ -27,7 +25,6 @@ namespace System.Collections.Specialized
 			throw null;
 		}
 
-		// Token: 0x1700061B RID: 1563
 		[global::Cpp2ILInjected.Token(Token = "0x1700066C")]
 		public virtual string this[string key]
 		{
@@ -73,7 +70,6 @@ namespace System.Collections.Specialized
 			}
 		}
 
-		// Token: 0x060019AA RID: 6570 RVA: 0x0000765B File Offset: 0x0000585B
 		[global::Cpp2ILInjected.Token(Token = "0x6001CA7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E91100", Offset = "0x1E91100", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TrackingStringDictionary), Member = "Add", MemberParameters = new object[]
@@ -96,7 +92,6 @@ namespace System.Collections.Specialized
 			throw null;
 		}
 
-		// Token: 0x060019AB RID: 6571 RVA: 0x0000765E File Offset: 0x0000585E
 		[global::Cpp2ILInjected.Token(Token = "0x6001CA8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9118C", Offset = "0x1E9118C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TrackingStringDictionary), Member = "Clear", ReturnType = typeof(void))]
@@ -108,7 +103,6 @@ namespace System.Collections.Specialized
 			throw null;
 		}
 
-		// Token: 0x060019AC RID: 6572 RVA: 0x00007661 File Offset: 0x00005861
 		[global::Cpp2ILInjected.Token(Token = "0x6001CA9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E911A0", Offset = "0x1E911A0", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -118,7 +112,6 @@ namespace System.Collections.Specialized
 			throw null;
 		}
 
-		// Token: 0x060019AD RID: 6573 RVA: 0x00007664 File Offset: 0x00005864
 		[global::Cpp2ILInjected.Token(Token = "0x6001CAA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E911B4", Offset = "0x1E911B4", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TrackingStringDictionary), Member = "Remove", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -132,7 +125,6 @@ namespace System.Collections.Specialized
 			throw null;
 		}
 
-		// Token: 0x04000F64 RID: 3940
 		[global::Cpp2ILInjected.Token(Token = "0x40013B7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal Hashtable contents;

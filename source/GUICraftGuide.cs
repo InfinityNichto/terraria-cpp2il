@@ -11,11 +11,9 @@ using Terraria.Audio;
 using Terraria.Localization;
 using Terraria.UI;
 
-// Token: 0x020000D6 RID: 214
 [global::Cpp2ILInjected.Token(Token = "0x2000136")]
 public class GUICraftGuide
 {
-	// Token: 0x06000711 RID: 1809 RVA: 0x00023078 File Offset: 0x00021278
 	[global::Cpp2ILInjected.Token(Token = "0x600080B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F1A98", Offset = "0x13F1A98", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "LoadPageRegion", ReturnType = typeof(void))]
@@ -41,8 +39,6 @@ public class GUICraftGuide
 		throw null;
 	}
 
-	// Token: 0x170000AD RID: 173
-	// (get) Token: 0x06000712 RID: 1810 RVA: 0x0002307B File Offset: 0x0002127B
 	[global::Cpp2ILInjected.Token(Token = "0x170000D2")]
 	public bool Collapsed
 	{
@@ -59,7 +55,6 @@ public class GUICraftGuide
 		}
 	}
 
-	// Token: 0x06000713 RID: 1811 RVA: 0x0002307E File Offset: 0x0002127E
 	[global::Cpp2ILInjected.Token(Token = "0x600080D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F1BE0", Offset = "0x13F1BE0", Length = "0x98")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -69,8 +64,6 @@ public class GUICraftGuide
 		throw null;
 	}
 
-	// Token: 0x170000AE RID: 174
-	// (get) Token: 0x06000714 RID: 1812 RVA: 0x00023081 File Offset: 0x00021281
 	[global::Cpp2ILInjected.Token(Token = "0x170000D3")]
 	public bool HasFocus
 	{
@@ -95,8 +88,6 @@ public class GUICraftGuide
 		}
 	}
 
-	// Token: 0x170000AF RID: 175
-	// (get) Token: 0x06000715 RID: 1813 RVA: 0x00023084 File Offset: 0x00021284
 	[global::Cpp2ILInjected.Token(Token = "0x170000D4")]
 	public Item guideItem
 	{
@@ -126,7 +117,6 @@ public class GUICraftGuide
 		}
 	}
 
-	// Token: 0x06000716 RID: 1814 RVA: 0x00023087 File Offset: 0x00021287
 	[global::Cpp2ILInjected.Token(Token = "0x6000810")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F1DD0", Offset = "0x13F1DD0", Length = "0x15C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +129,6 @@ public class GUICraftGuide
 		throw null;
 	}
 
-	// Token: 0x06000717 RID: 1815 RVA: 0x0002308A File Offset: 0x0002128A
 	[global::Cpp2ILInjected.Token(Token = "0x6000811")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F1F2C", Offset = "0x13F1F2C", Length = "0x33C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -178,7 +167,6 @@ public class GUICraftGuide
 		throw null;
 	}
 
-	// Token: 0x06000718 RID: 1816 RVA: 0x0002308D File Offset: 0x0002128D
 	[global::Cpp2ILInjected.Token(Token = "0x6000812")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F2410", Offset = "0x13F2410", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -189,7 +177,6 @@ public class GUICraftGuide
 		throw null;
 	}
 
-	// Token: 0x06000719 RID: 1817 RVA: 0x00023090 File Offset: 0x00021290
 	[global::Cpp2ILInjected.Token(Token = "0x6000813")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F2458", Offset = "0x13F2458", Length = "0x294")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -230,7 +217,6 @@ public class GUICraftGuide
 		throw null;
 	}
 
-	// Token: 0x0600071A RID: 1818 RVA: 0x00023093 File Offset: 0x00021293
 	[global::Cpp2ILInjected.Token(Token = "0x6000814")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F2934", Offset = "0x13F2934", Length = "0x4D4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -293,7 +279,6 @@ public class GUICraftGuide
 		throw null;
 	}
 
-	// Token: 0x0600071B RID: 1819 RVA: 0x00023096 File Offset: 0x00021296
 	[global::Cpp2ILInjected.Token(Token = "0x6000815")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F2E08", Offset = "0x13F2E08", Length = "0x580")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -381,7 +366,6 @@ public class GUICraftGuide
 		throw null;
 	}
 
-	// Token: 0x0600071C RID: 1820 RVA: 0x00023099 File Offset: 0x00021299
 	[global::Cpp2ILInjected.Token(Token = "0x6000816")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F3388", Offset = "0x13F3388", Length = "0x12C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -397,67 +381,54 @@ public class GUICraftGuide
 		throw null;
 	}
 
-	// Token: 0x04000499 RID: 1177
 	[global::Cpp2ILInjected.Token(Token = "0x40006D7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public float craftScrollOffset;
 
-	// Token: 0x0400049A RID: 1178
 	[global::Cpp2ILInjected.Token(Token = "0x40006D8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float craftScrollMomentum;
 
-	// Token: 0x0400049B RID: 1179
 	[global::Cpp2ILInjected.Token(Token = "0x40006D9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int craftScrollDragging;
 
-	// Token: 0x0400049C RID: 1180
 	[global::Cpp2ILInjected.Token(Token = "0x40006DA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private Vector2 craftDragOffset;
 
-	// Token: 0x0400049D RID: 1181
 	[global::Cpp2ILInjected.Token(Token = "0x40006DB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private int cursorOver;
 
-	// Token: 0x0400049E RID: 1182
 	[global::Cpp2ILInjected.Token(Token = "0x40006DC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public bool menuTogglePressed;
 
-	// Token: 0x0400049F RID: 1183
 	[global::Cpp2ILInjected.Token(Token = "0x40006DD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x29")]
 	public bool materialsGridActive;
 
-	// Token: 0x040004A0 RID: 1184
 	[global::Cpp2ILInjected.Token(Token = "0x40006DE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private DateTime NavigationTick;
 
-	// Token: 0x040004A1 RID: 1185
 	[global::Cpp2ILInjected.Token(Token = "0x40006DF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private GUIControllerCraftingMaterials materialController;
 
-	// Token: 0x040004A2 RID: 1186
 	[global::Cpp2ILInjected.Token(Token = "0x40006E0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private List<string> _requiredObjecsForCraftingText;
 
-	// Token: 0x040004A3 RID: 1187
 	[global::Cpp2ILInjected.Token(Token = "0x40006E1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	public List<int> _materialItems;
 
-	// Token: 0x040004A4 RID: 1188
 	[global::Cpp2ILInjected.Token(Token = "0x40006E2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private Item _defaultItem;
 
-	// Token: 0x040004A5 RID: 1189
 	[global::Cpp2ILInjected.Token(Token = "0x40006E3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private int _selectedItem;

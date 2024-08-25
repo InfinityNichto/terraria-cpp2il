@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000BA RID: 186
 	[global::Cpp2ILInjected.Token(Token = "0x2000118")]
 	public sealed class X509ExtensionCollection : ICollection, IEnumerable
 	{
-		// Token: 0x060005EE RID: 1518 RVA: 0x00003F1D File Offset: 0x0000211D
 		[global::Cpp2ILInjected.Token(Token = "0x6000699")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDCA90", Offset = "0x1EDCA90", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509Certificate2), Member = "get_Extensions", ReturnType = typeof(X509ExtensionCollection))]
@@ -22,8 +20,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x17000165 RID: 357
-		// (get) Token: 0x060005EF RID: 1519 RVA: 0x00003F20 File Offset: 0x00002120
 		[global::Cpp2ILInjected.Token(Token = "0x1700016D")]
 		public int Count
 		{
@@ -44,8 +40,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x17000166 RID: 358
-		// (get) Token: 0x060005F0 RID: 1520 RVA: 0x00003F23 File Offset: 0x00002123
 		[global::Cpp2ILInjected.Token(Token = "0x1700016E")]
 		public bool IsSynchronized
 		{
@@ -59,8 +53,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x17000167 RID: 359
-		// (get) Token: 0x060005F1 RID: 1521 RVA: 0x00003F26 File Offset: 0x00002126
 		[global::Cpp2ILInjected.Token(Token = "0x1700016F")]
 		public object SyncRoot
 		{
@@ -73,7 +65,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x17000168 RID: 360
 		[global::Cpp2ILInjected.Token(Token = "0x17000170")]
 		public X509Extension this[string oid]
 		{
@@ -105,7 +96,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x060005F3 RID: 1523 RVA: 0x00003F2C File Offset: 0x0000212C
 		[global::Cpp2ILInjected.Token(Token = "0x600069E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDCE90", Offset = "0x1EDCE90", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509Certificate2), Member = "get_Extensions", ReturnType = typeof(X509ExtensionCollection))]
@@ -117,7 +107,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060005F4 RID: 1524 RVA: 0x00003F2F File Offset: 0x0000212F
 		[global::Cpp2ILInjected.Token(Token = "0x600069F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDCEF8", Offset = "0x1EDCEF8", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -131,7 +120,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060005F5 RID: 1525 RVA: 0x00003F32 File Offset: 0x00002132
 		[global::Cpp2ILInjected.Token(Token = "0x60006A0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDCFE8", Offset = "0x1EDCFE8", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -145,7 +133,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060005F6 RID: 1526 RVA: 0x00003F35 File Offset: 0x00002135
 		[global::Cpp2ILInjected.Token(Token = "0x60006A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD098", Offset = "0x1EDD098", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -157,7 +144,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060005F7 RID: 1527 RVA: 0x00003F38 File Offset: 0x00002138
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60006A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD10C", Offset = "0x1EDD10C", Length = "0x68")]
@@ -168,11 +154,9 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x040003C2 RID: 962
 		[global::Cpp2ILInjected.Token(Token = "0x400052C")]
 		private static byte[] Empty;
 
-		// Token: 0x040003C3 RID: 963
 		[global::Cpp2ILInjected.Token(Token = "0x400052D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ArrayList _list;

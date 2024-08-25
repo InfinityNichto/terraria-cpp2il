@@ -6,12 +6,9 @@ using Terraria.GameContent.UI.States;
 
 namespace Terraria.GameContent.Bestiary
 {
-	// Token: 0x02000613 RID: 1555
 	[global::Cpp2ILInjected.Token(Token = "0x2000919")]
 	public struct BestiaryUnlockProgressReport
 	{
-		// Token: 0x17000763 RID: 1891
-		// (get) Token: 0x06003E3B RID: 15931 RVA: 0x0002D1E5 File Offset: 0x0002B3E5
 		[global::Cpp2ILInjected.Token(Token = "0x17000813")]
 		public float CompletionPercent
 		{
@@ -31,12 +28,10 @@ namespace Terraria.GameContent.Bestiary
 			}
 		}
 
-		// Token: 0x04006C3A RID: 27706
 		[global::Cpp2ILInjected.Token(Token = "0x40082BB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public int EntriesTotal;
 
-		// Token: 0x04006C3B RID: 27707
 		[global::Cpp2ILInjected.Token(Token = "0x40082BC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public float CompletionAmountTotal;

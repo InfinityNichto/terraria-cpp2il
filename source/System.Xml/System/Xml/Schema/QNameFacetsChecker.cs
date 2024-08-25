@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000F8 RID: 248
 	[global::Cpp2ILInjected.Token(Token = "0x2000125")]
 	internal class QNameFacetsChecker : FacetsChecker
 	{
-		// Token: 0x06000968 RID: 2408 RVA: 0x00004A90 File Offset: 0x00002C90
 		[global::Cpp2ILInjected.Token(Token = "0x60009FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC9188", Offset = "0x1DC9188", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -21,7 +19,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x06000969 RID: 2409 RVA: 0x00004A93 File Offset: 0x00002C93
 		[global::Cpp2ILInjected.Token(Token = "0x6000A00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC92B0", Offset = "0x1DC92B0", Length = "0x194")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600096A RID: 2410 RVA: 0x00004A96 File Offset: 0x00002C96
 		[global::Cpp2ILInjected.Token(Token = "0x6000A01")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC9548", Offset = "0x1DC9548", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,7 +55,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600096B RID: 2411 RVA: 0x00004A99 File Offset: 0x00002C99
 		[global::Cpp2ILInjected.Token(Token = "0x6000A02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC9444", Offset = "0x1DC9444", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +76,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600096C RID: 2412 RVA: 0x00004A9C File Offset: 0x00002C9C
 		[global::Cpp2ILInjected.Token(Token = "0x6000A03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC9658", Offset = "0x1DC9658", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DatatypeImplementation), Member = ".cctor", ReturnType = typeof(void))]

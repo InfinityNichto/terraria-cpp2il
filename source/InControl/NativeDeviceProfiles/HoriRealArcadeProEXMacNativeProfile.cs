@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x02000137 RID: 311
 	[Preserve]
 	[NativeInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000144")]
 	public class HoriRealArcadeProEXMacNativeProfile : Xbox360DriverMacNativeProfile
 	{
-		// Token: 0x060006F8 RID: 1784 RVA: 0x00003515 File Offset: 0x00001715
 		[global::Cpp2ILInjected.Token(Token = "0x6000715")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A22D24", Offset = "0x1A22D24", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060006F9 RID: 1785 RVA: 0x00003518 File Offset: 0x00001718
 		[global::Cpp2ILInjected.Token(Token = "0x6000716")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A22DF0", Offset = "0x1A22DF0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -1,7 +1,0 @@
-<map id="GUILogo" name="GUILogo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="8,148,113,233"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="20,71,20,97,25,123,28,132,23,134,19,125,15,97,15,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="79,5,122,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="95,71,79,132,73,131,90,70"/>
-</map>

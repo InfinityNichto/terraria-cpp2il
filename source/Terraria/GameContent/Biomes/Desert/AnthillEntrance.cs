@@ -8,11 +8,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.Desert
 {
-	// Token: 0x020005FF RID: 1535
 	[global::Cpp2ILInjected.Token(Token = "0x20008FD")]
 	public static class AnthillEntrance
 	{
-		// Token: 0x06003DB7 RID: 15799 RVA: 0x0002D059 File Offset: 0x0002B259
 		[global::Cpp2ILInjected.Token(Token = "0x6004652")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D5268", Offset = "0x7D5268", Length = "0x13C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,7 +43,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DB8 RID: 15800 RVA: 0x0002D05C File Offset: 0x0002B25C
 		[global::Cpp2ILInjected.Token(Token = "0x6004653")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D53C8", Offset = "0x7D53C8", Length = "0xB40")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -6,12 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x020000F2 RID: 242
 	[global::Cpp2ILInjected.Token(Token = "0x2000124")]
 	internal static class NotImplemented
 	{
-		// Token: 0x170000E5 RID: 229
-		// (get) Token: 0x06000AEA RID: 2794 RVA: 0x000164BA File Offset: 0x000146BA
 		[global::Cpp2ILInjected.Token(Token = "0x17000100")]
 		internal static global::System.Exception ByDesign
 		{

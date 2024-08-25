@@ -10,11 +10,9 @@ using Terraria.Audio;
 using Terraria.IO;
 using UnityEngine;
 
-// Token: 0x020001CA RID: 458
 [global::Cpp2ILInjected.Token(Token = "0x2000262")]
 public class GUILowDiskSpacePopup
 {
-	// Token: 0x06000C91 RID: 3217 RVA: 0x000240F8 File Offset: 0x000222F8
 	[global::Cpp2ILInjected.Token(Token = "0x6000DAE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E3D94", Offset = "0x9E3D94", Length = "0x2F0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +47,6 @@ public class GUILowDiskSpacePopup
 		throw null;
 	}
 
-	// Token: 0x06000C92 RID: 3218 RVA: 0x000240FB File Offset: 0x000222FB
 	[global::Cpp2ILInjected.Token(Token = "0x6000DAF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DB3EC", Offset = "0x9DB3EC", Length = "0x50")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +82,6 @@ public class GUILowDiskSpacePopup
 		throw null;
 	}
 
-	// Token: 0x06000C93 RID: 3219 RVA: 0x000240FE File Offset: 0x000222FE
 	[global::Cpp2ILInjected.Token(Token = "0x6000DB0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E4084", Offset = "0x9E4084", Length = "0x2B0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -142,7 +138,6 @@ public class GUILowDiskSpacePopup
 		throw null;
 	}
 
-	// Token: 0x06000C94 RID: 3220 RVA: 0x00024101 File Offset: 0x00022301
 	[global::Cpp2ILInjected.Token(Token = "0x6000DB1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E4334", Offset = "0x9E4334", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -153,32 +148,26 @@ public class GUILowDiskSpacePopup
 		throw null;
 	}
 
-	// Token: 0x04001451 RID: 5201
 	[global::Cpp2ILInjected.Token(Token = "0x4001946")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool DisableWarnings;
 
-	// Token: 0x04001452 RID: 5202
 	[global::Cpp2ILInjected.Token(Token = "0x4001947")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x11")]
 	public bool WarningDisplayed;
 
-	// Token: 0x04001453 RID: 5203
 	[global::Cpp2ILInjected.Token(Token = "0x4001948")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private Action ContinueCallback;
 
-	// Token: 0x04001454 RID: 5204
 	[global::Cpp2ILInjected.Token(Token = "0x4001949")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float scale0;
 
-	// Token: 0x04001455 RID: 5205
 	[global::Cpp2ILInjected.Token(Token = "0x400194A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private float scale1;
 
-	// Token: 0x04001456 RID: 5206
 	[global::Cpp2ILInjected.Token(Token = "0x400194B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private float scale2;

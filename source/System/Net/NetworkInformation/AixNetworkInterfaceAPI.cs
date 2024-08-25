@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.NetworkInformation
 {
-	// Token: 0x020001C7 RID: 455
 	[global::Cpp2ILInjected.Token(Token = "0x20002A9")]
 	internal class AixNetworkInterfaceAPI : UnixNetworkInterfaceAPI
 	{
-		// Token: 0x060010A2 RID: 4258
 		[global::Cpp2ILInjected.Token(Token = "0x600129B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1CF48", Offset = "0x1E1CF48", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -21,7 +19,6 @@ namespace System.Net.NetworkInformation
 		[PreserveSig]
 		public static extern int socket(AixAddressFamily family, int type, int protocol);
 
-		// Token: 0x060010A3 RID: 4259
 		[global::Cpp2ILInjected.Token(Token = "0x600129C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1CFE8", Offset = "0x1E1CFE8", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -31,7 +28,6 @@ namespace System.Net.NetworkInformation
 		[PreserveSig]
 		public static extern int close(int fd);
 
-		// Token: 0x060010A4 RID: 4260
 		[global::Cpp2ILInjected.Token(Token = "0x600129D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1D060", Offset = "0x1E1D060", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +37,6 @@ namespace System.Net.NetworkInformation
 		[PreserveSig]
 		public static extern int ioctl(int fd, AixIoctlRequest request, ref int arg);
 
-		// Token: 0x060010A5 RID: 4261
 		[global::Cpp2ILInjected.Token(Token = "0x600129E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1D100", Offset = "0x1E1D100", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +46,6 @@ namespace System.Net.NetworkInformation
 		[PreserveSig]
 		public static extern int ioctl(int fd, AixIoctlRequest request, ref ifconf arg);
 
-		// Token: 0x060010A6 RID: 4262
 		[global::Cpp2ILInjected.Token(Token = "0x600129F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1D1A0", Offset = "0x1E1D1A0", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,7 +55,6 @@ namespace System.Net.NetworkInformation
 		[PreserveSig]
 		public static extern int ioctl(int fd, AixIoctlRequest request, ref ifreq_flags arg);
 
-		// Token: 0x060010A7 RID: 4263
 		[global::Cpp2ILInjected.Token(Token = "0x60012A0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1D240", Offset = "0x1E1D240", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +64,6 @@ namespace System.Net.NetworkInformation
 		[PreserveSig]
 		public static extern int ioctl(int fd, AixIoctlRequest request, ref ifreq_mtu arg);
 
-		// Token: 0x060010A8 RID: 4264 RVA: 0x00005DFB File Offset: 0x00003FFB
 		[global::Cpp2ILInjected.Token(Token = "0x60012A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1D2E0", Offset = "0x1E1D2E0", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +73,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x060010A9 RID: 4265 RVA: 0x00005DFE File Offset: 0x00003FFE
 		[global::Cpp2ILInjected.Token(Token = "0x60012A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1D2FC", Offset = "0x1E1D2FC", Length = "0xDBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -187,7 +178,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x060010AA RID: 4266 RVA: 0x00005E01 File Offset: 0x00004001
 		[global::Cpp2ILInjected.Token(Token = "0x60012A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1E31C", Offset = "0x1E1E31C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

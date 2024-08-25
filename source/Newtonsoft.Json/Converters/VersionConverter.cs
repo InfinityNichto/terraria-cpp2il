@@ -7,12 +7,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Converters
 {
-	// Token: 0x020000BF RID: 191
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x2000106")]
 	public class VersionConverter : JsonConverter
 	{
-		// Token: 0x06000927 RID: 2343 RVA: 0x00003B5D File Offset: 0x00001D5D
 		[global::Cpp2ILInjected.Token(Token = "0x6000A63")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2A1F4", Offset = "0x1D2A1F4", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -24,7 +22,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x06000928 RID: 2344 RVA: 0x00003B60 File Offset: 0x00001D60
 		[global::Cpp2ILInjected.Token(Token = "0x6000A64")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2A2D0", Offset = "0x1D2A2D0", Length = "0x264")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,7 +58,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x06000929 RID: 2345 RVA: 0x00003B63 File Offset: 0x00001D63
 		[global::Cpp2ILInjected.Token(Token = "0x6000A65")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2A534", Offset = "0x1D2A534", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +69,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x0600092A RID: 2346 RVA: 0x00003B66 File Offset: 0x00001D66
 		[global::Cpp2ILInjected.Token(Token = "0x6000A66")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2A5B8", Offset = "0x1D2A5B8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

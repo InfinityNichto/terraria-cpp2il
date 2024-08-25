@@ -1,7 +1,0 @@
-<map id="Terraria.GameContent.PlayerTitaniumStormBuffTextureContent" name="Terraria.GameContent.PlayerTitaniumStormBuffTextureContent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,756,395,1004"/>
-<area shape="rect" id="Node000002" href="$dc/d06/classTerraria_1_1GameContent_1_1ARenderTargetContentByRequest.html" title=" " alt="" coords="73,168,327,708"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,722,203,756,197,756,197,722"/>
-<area shape="rect" id="Node000003" href="$d0/dd4/interfaceTerraria_1_1GameContent_1_1INeedRenderTargetContent.html" title=" " alt="" coords="101,5,299,120"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,134,203,168,197,168,197,134"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Terraria.ID.TorchID.ConstantTorchLight" name="Terraria.ID.TorchID.ConstantTorchLight">
-<area shape="rect" id="Node000001" title=" " alt="" coords="76,192,271,351"/>
-<area shape="rect" id="Node000002" href="$d9/ded/interfaceTerraria_1_1ID_1_1TorchID_1_1ITorchLightProvider.html" title=" " alt="" coords="5,5,200,100"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,113,150,191,145,193,120,114"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="224,20,267,85"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,86,207,177,202,176,232,85"/>
-</map>

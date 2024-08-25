@@ -1,9 +1,0 @@
-<map id="System.Reflection.EventInfo" name="System.Reflection.EventInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,761,319,1371"/>
-<area shape="rect" id="Node000004" href="$df/db5/classSystem_1_1Reflection_1_1RuntimeEventInfo.html" title=" " alt="" coords="11,1419,313,2320"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,1385,165,1418,159,1418,159,1385"/>
-<area shape="rect" id="Node000002" href="$d5/d20/classSystem_1_1Reflection_1_1MemberInfo.html" title=" " alt="" coords="33,232,291,713"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,727,165,761,159,761,159,727"/>
-<area shape="rect" id="Node000003" href="$d7/da4/interfaceSystem_1_1Reflection_1_1ICustomAttributeProvider.html" title=" " alt="" coords="33,5,291,184"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="165,198,165,232,159,232,159,198"/>
-</map>

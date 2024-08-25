@@ -8,11 +8,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x02000553 RID: 1363
 	[global::Cpp2ILInjected.Token(Token = "0x20007CF")]
 	public class PlayerTitaniumStormBuffTextureContent : ARenderTargetContentByRequest
 	{
-		// Token: 0x060039DB RID: 14811 RVA: 0x0002C552 File Offset: 0x0002A752
 		[global::Cpp2ILInjected.Token(Token = "0x60040B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x772C20", Offset = "0x772C20", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -37,7 +35,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x060039DC RID: 14812 RVA: 0x0002C555 File Offset: 0x0002A755
 		[global::Cpp2ILInjected.Token(Token = "0x60040B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x772D30", Offset = "0x772D30", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawProjDirect", MemberParameters = new object[]
@@ -66,7 +63,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x060039DD RID: 14813 RVA: 0x0002C558 File Offset: 0x0002A758
 		[global::Cpp2ILInjected.Token(Token = "0x60040B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x772E90", Offset = "0x772E90", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -75,7 +71,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x060039DE RID: 14814 RVA: 0x0002C55B File Offset: 0x0002A75B
 		[global::Cpp2ILInjected.Token(Token = "0x60040B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x772E4C", Offset = "0x772E4C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -91,12 +86,10 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x040068F9 RID: 26873
 		[global::Cpp2ILInjected.Token(Token = "0x4007E5E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private EffectPass renderEffect;
 
-		// Token: 0x040068FA RID: 26874
 		[global::Cpp2ILInjected.Token(Token = "0x4007E5F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private MiscShaderData _shaderData;

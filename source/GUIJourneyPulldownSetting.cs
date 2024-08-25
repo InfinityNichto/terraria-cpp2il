@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-// Token: 0x0200010F RID: 271
 [global::Cpp2ILInjected.Token(Token = "0x2000185")]
 public class GUIJourneyPulldownSetting : GUIPulldownSetting
 {
-	// Token: 0x060009F9 RID: 2553 RVA: 0x00023930 File Offset: 0x00021B30
 	[global::Cpp2ILInjected.Token(Token = "0x6000B01")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A3AE0", Offset = "0x9A3AE0", Length = "0x158")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIJourneyModeSettings), Member = "Init", ReturnType = typeof(void))]
@@ -41,7 +39,6 @@ public class GUIJourneyPulldownSetting : GUIPulldownSetting
 		throw null;
 	}
 
-	// Token: 0x060009FA RID: 2554 RVA: 0x00023933 File Offset: 0x00021B33
 	[global::Cpp2ILInjected.Token(Token = "0x6000B02")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A3C38", Offset = "0x9A3C38", Length = "0x168")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -71,7 +68,6 @@ public class GUIJourneyPulldownSetting : GUIPulldownSetting
 		throw null;
 	}
 
-	// Token: 0x060009FB RID: 2555 RVA: 0x00023936 File Offset: 0x00021B36
 	[global::Cpp2ILInjected.Token(Token = "0x6000B03")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A3DA0", Offset = "0x9A3DA0", Length = "0x94")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -88,7 +84,6 @@ public class GUIJourneyPulldownSetting : GUIPulldownSetting
 		throw null;
 	}
 
-	// Token: 0x060009FC RID: 2556 RVA: 0x00023939 File Offset: 0x00021B39
 	[global::Cpp2ILInjected.Token(Token = "0x6000B04")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A3E34", Offset = "0x9A3E34", Length = "0x54")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -99,7 +94,6 @@ public class GUIJourneyPulldownSetting : GUIPulldownSetting
 		throw null;
 	}
 
-	// Token: 0x060009FD RID: 2557 RVA: 0x0002393C File Offset: 0x00021B3C
 	[global::Cpp2ILInjected.Token(Token = "0x6000B05")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A3E88", Offset = "0x9A3E88", Length = "0x70")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -114,7 +108,6 @@ public class GUIJourneyPulldownSetting : GUIPulldownSetting
 		throw null;
 	}
 
-	// Token: 0x04000872 RID: 2162
 	[global::Cpp2ILInjected.Token(Token = "0x4000B8E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private float iconScale;

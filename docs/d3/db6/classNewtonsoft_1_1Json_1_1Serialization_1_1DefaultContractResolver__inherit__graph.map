@@ -1,7 +1,0 @@
-<map id="Newtonsoft.Json.Serialization.DefaultContractResolver" name="Newtonsoft.Json.Serialization.DefaultContractResolver">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,460,2348"/>
-<area shape="rect" id="Node000003" href="$de/d29/classNewtonsoft_1_1Json_1_1Serialization_1_1CamelCasePropertyNamesContractResolver.html" title=" " alt="" coords="82,2396,383,2525"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,2361,235,2396,230,2396,230,2361"/>
-<area shape="rect" id="Node000002" href="$db/dd2/interfaceNewtonsoft_1_1Json_1_1Serialization_1_1IContractResolver.html" title=" " alt="" coords="122,5,343,85"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,99,235,133,230,133,230,99"/>
-</map>

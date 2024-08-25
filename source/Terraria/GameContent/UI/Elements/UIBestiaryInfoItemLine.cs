@@ -14,13 +14,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006C2 RID: 1730
 	[global::Cpp2ILInjected.Token(Token = "0x2000AA4")]
 	public class UIBestiaryInfoItemLine : UIPanel, IManuallyOrderedUIElement
 	{
-		// Token: 0x170007BB RID: 1979
-		// (get) Token: 0x060043FA RID: 17402 RVA: 0x0002E295 File Offset: 0x0002C495
-		// (set) Token: 0x060043FB RID: 17403 RVA: 0x0002E298 File Offset: 0x0002C498
 		[global::Cpp2ILInjected.Token(Token = "0x170008BC")]
 		public int OrderInUIList
 		{
@@ -42,7 +38,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x060043FC RID: 17404 RVA: 0x0002E29B File Offset: 0x0002C49B
 		[global::Cpp2ILInjected.Token(Token = "0x6005049")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90CBD8", Offset = "0x90CBD8", Length = "0x518")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +106,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043FD RID: 17405 RVA: 0x0002E29E File Offset: 0x0002C49E
 		[global::Cpp2ILInjected.Token(Token = "0x600504A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90D398", Offset = "0x90D398", Length = "0x230")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -153,7 +147,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043FE RID: 17406 RVA: 0x0002E2A1 File Offset: 0x0002C4A1
 		[global::Cpp2ILInjected.Token(Token = "0x600504B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90D5C8", Offset = "0x90D5C8", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -163,7 +156,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043FF RID: 17407 RVA: 0x0002E2A4 File Offset: 0x0002C4A4
 		[global::Cpp2ILInjected.Token(Token = "0x600504C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90D5FC", Offset = "0x90D5FC", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -184,7 +176,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004400 RID: 17408 RVA: 0x0002E2A7 File Offset: 0x0002C4A7
 		[global::Cpp2ILInjected.Token(Token = "0x600504D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90D6B4", Offset = "0x90D6B4", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -197,7 +188,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004401 RID: 17409 RVA: 0x0002E2AA File Offset: 0x0002C4AA
 		[global::Cpp2ILInjected.Token(Token = "0x600504E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90D0F0", Offset = "0x90D0F0", Length = "0x2A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -224,7 +214,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004402 RID: 17410 RVA: 0x0002E2AD File Offset: 0x0002C4AD
 		[global::Cpp2ILInjected.Token(Token = "0x600504F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90D79C", Offset = "0x90D79C", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -243,7 +232,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004403 RID: 17411 RVA: 0x0002E2B0 File Offset: 0x0002C4B0
 		[global::Cpp2ILInjected.Token(Token = "0x6005050")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90D81C", Offset = "0x90D81C", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -259,18 +247,15 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04006FD9 RID: 28633
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008919")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x168")]
 		private int <OrderInUIList>k__BackingField;
 
-		// Token: 0x04006FDA RID: 28634
 		[global::Cpp2ILInjected.Token(Token = "0x400891A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x170")]
 		private Item _infoDisplayItem;
 
-		// Token: 0x04006FDB RID: 28635
 		[global::Cpp2ILInjected.Token(Token = "0x400891B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x178")]
 		private bool _hideMouseOver;

@@ -8,12 +8,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Serialization
 {
-	// Token: 0x02000089 RID: 137
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000B4")]
 	public class ReflectionValueProvider : IValueProvider
 	{
-		// Token: 0x06000645 RID: 1605 RVA: 0x000032EA File Offset: 0x000014EA
 		[global::Cpp2ILInjected.Token(Token = "0x60006BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D02C2C", Offset = "0x1D02C2C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DefaultContractResolver), Member = "CreateMemberValueProvider", MemberParameters = new object[] { typeof(MemberInfo) }, ReturnType = typeof(IValueProvider))]
@@ -30,7 +28,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000646 RID: 1606 RVA: 0x000032ED File Offset: 0x000014ED
 		[global::Cpp2ILInjected.Token(Token = "0x60006BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D02C98", Offset = "0x1D02C98", Length = "0x18C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,7 +58,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000647 RID: 1607 RVA: 0x000032F0 File Offset: 0x000014F0
 		[global::Cpp2ILInjected.Token(Token = "0x60006BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D02E24", Offset = "0x1D02E24", Length = "0x188")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,7 +87,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x04000275 RID: 629
 		[global::Cpp2ILInjected.Token(Token = "0x40002E8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly MemberInfo _memberInfo;

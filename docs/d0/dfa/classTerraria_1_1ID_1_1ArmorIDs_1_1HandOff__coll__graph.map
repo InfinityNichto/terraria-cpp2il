@@ -1,7 +1,0 @@
-<map id="Terraria.ID.ArmorIDs.HandOff" name="Terraria.ID.ArmorIDs.HandOff">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,280,235,485"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="21,5,72,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,71,39,156,42,206,51,255,53,264,48,265,45,257,36,206,34,155,39,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="178,5,209,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,71,185,155,167,257,165,265,159,264,161,255,179,155,188,71"/>
-</map>

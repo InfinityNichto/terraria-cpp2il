@@ -10,11 +10,9 @@ using Terraria.Audio;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x020000FE RID: 254
 [global::Cpp2ILInjected.Token(Token = "0x200016D")]
 public class GUIReturnToTouch
 {
-	// Token: 0x06000951 RID: 2385 RVA: 0x00023738 File Offset: 0x00021938
 	[global::Cpp2ILInjected.Token(Token = "0x6000A51")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9855B8", Offset = "0x9855B8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -23,7 +21,6 @@ public class GUIReturnToTouch
 		throw null;
 	}
 
-	// Token: 0x06000952 RID: 2386 RVA: 0x0002373B File Offset: 0x0002193B
 	[global::Cpp2ILInjected.Token(Token = "0x6000A52")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9855C0", Offset = "0x9855C0", Length = "0x8BC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -109,8 +106,6 @@ public class GUIReturnToTouch
 		throw null;
 	}
 
-	// Token: 0x170000E5 RID: 229
-	// (get) Token: 0x06000953 RID: 2387 RVA: 0x0002373E File Offset: 0x0002193E
 	[global::Cpp2ILInjected.Token(Token = "0x1700010C")]
 	public bool Visible
 	{
@@ -135,7 +130,6 @@ public class GUIReturnToTouch
 		}
 	}
 
-	// Token: 0x06000954 RID: 2388 RVA: 0x00023741 File Offset: 0x00021941
 	[global::Cpp2ILInjected.Token(Token = "0x6000A54")]
 	[global::Cpp2ILInjected.Address(RVA = "0x985F1C", Offset = "0x985F1C", Length = "0x294")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -177,7 +171,6 @@ public class GUIReturnToTouch
 		throw null;
 	}
 
-	// Token: 0x06000955 RID: 2389 RVA: 0x00023744 File Offset: 0x00021944
 	[global::Cpp2ILInjected.Token(Token = "0x6000A55")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9861B0", Offset = "0x9861B0", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -190,27 +183,22 @@ public class GUIReturnToTouch
 		throw null;
 	}
 
-	// Token: 0x0400077F RID: 1919
 	[global::Cpp2ILInjected.Token(Token = "0x4000A32")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool displayPopup;
 
-	// Token: 0x04000780 RID: 1920
 	[global::Cpp2ILInjected.Token(Token = "0x4000A33")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private GUIInputRegionExclusive _displayBlocker;
 
-	// Token: 0x04000781 RID: 1921
 	[global::Cpp2ILInjected.Token(Token = "0x4000A34")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float scale;
 
-	// Token: 0x04000782 RID: 1922
 	[global::Cpp2ILInjected.Token(Token = "0x4000A35")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private GUIControllerModalResponse _controller;
 
-	// Token: 0x04000783 RID: 1923
 	[global::Cpp2ILInjected.Token(Token = "0x4000A36")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private GUIControllerItem _previous;

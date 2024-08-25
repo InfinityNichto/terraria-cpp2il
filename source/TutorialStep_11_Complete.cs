@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Terraria;
 using Terraria.Localization;
 
-// Token: 0x02000241 RID: 577
 [global::Cpp2ILInjected.Token(Token = "0x20002FA")]
 public class TutorialStep_11_Complete : TutorialStep
 {
-	// Token: 0x0600105F RID: 4191 RVA: 0x00024BFF File Offset: 0x00022DFF
 	[global::Cpp2ILInjected.Token(Token = "0x60011AE")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E068", Offset = "0xA6E068", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -17,7 +15,6 @@ public class TutorialStep_11_Complete : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001060 RID: 4192 RVA: 0x00024C02 File Offset: 0x00022E02
 	[global::Cpp2ILInjected.Token(Token = "0x60011AF")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E070", Offset = "0xA6E070", Length = "0xF0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -37,7 +34,6 @@ public class TutorialStep_11_Complete : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001061 RID: 4193 RVA: 0x00024C05 File Offset: 0x00022E05
 	[global::Cpp2ILInjected.Token(Token = "0x60011B0")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E230", Offset = "0xA6E230", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -46,7 +42,6 @@ public class TutorialStep_11_Complete : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001062 RID: 4194 RVA: 0x00024C08 File Offset: 0x00022E08
 	[global::Cpp2ILInjected.Token(Token = "0x60011B1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E238", Offset = "0xA6E238", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -55,7 +50,6 @@ public class TutorialStep_11_Complete : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001063 RID: 4195 RVA: 0x00024C0B File Offset: 0x00022E0B
 	[global::Cpp2ILInjected.Token(Token = "0x60011B2")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E23C", Offset = "0xA6E23C", Length = "0xA8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -71,7 +65,6 @@ public class TutorialStep_11_Complete : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001064 RID: 4196 RVA: 0x00024C0E File Offset: 0x00022E0E
 	[global::Cpp2ILInjected.Token(Token = "0x60011B3")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E2E4", Offset = "0xA6E2E4", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -80,7 +73,6 @@ public class TutorialStep_11_Complete : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001065 RID: 4197 RVA: 0x00024C11 File Offset: 0x00022E11
 	[global::Cpp2ILInjected.Token(Token = "0x60011B4")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E2EC", Offset = "0xA6E2EC", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TutorialLevel), Member = ".ctor", ReturnType = typeof(void))]
@@ -91,7 +83,6 @@ public class TutorialStep_11_Complete : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x04001B9E RID: 7070
 	[global::Cpp2ILInjected.Token(Token = "0x4002152")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private bool complete;

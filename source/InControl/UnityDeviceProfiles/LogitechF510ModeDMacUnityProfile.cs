@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000C3 RID: 195
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000D0")]
 	public class LogitechF510ModeDMacUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000610 RID: 1552 RVA: 0x0000325D File Offset: 0x0000145D
 		[global::Cpp2ILInjected.Token(Token = "0x600062D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19EDCFC", Offset = "0x19EDCFC", Length = "0x878")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000611 RID: 1553 RVA: 0x00003260 File Offset: 0x00001460
 		[global::Cpp2ILInjected.Token(Token = "0x600062E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19EE574", Offset = "0x19EE574", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

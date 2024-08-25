@@ -1,7 +1,0 @@
-<map id="Terraria.GameContent.BackgroundChangeFlashInfo" name="Terraria.GameContent.BackgroundChangeFlashInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,244,372"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="53,5,84,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,71,73,109,74,117,69,118,67,110,64,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="159,5,202,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,72,163,118,158,116,170,70"/>
-</map>

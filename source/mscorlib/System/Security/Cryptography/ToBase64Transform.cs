@@ -6,13 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x0200022D RID: 557
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002CA")]
 	public class ToBase64Transform : ICryptoTransform, global::System.IDisposable
 	{
-		// Token: 0x17000233 RID: 563
-		// (get) Token: 0x0600160C RID: 5644 RVA: 0x000182E4 File Offset: 0x000164E4
 		[global::Cpp2ILInjected.Token(Token = "0x17000289")]
 		public int InputBlockSize
 		{
@@ -25,8 +22,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000234 RID: 564
-		// (get) Token: 0x0600160D RID: 5645 RVA: 0x000182E7 File Offset: 0x000164E7
 		[global::Cpp2ILInjected.Token(Token = "0x1700028A")]
 		public int OutputBlockSize
 		{
@@ -39,8 +34,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000235 RID: 565
-		// (get) Token: 0x0600160E RID: 5646 RVA: 0x000182EA File Offset: 0x000164EA
 		[global::Cpp2ILInjected.Token(Token = "0x1700028B")]
 		public bool CanTransformMultipleBlocks
 		{
@@ -53,8 +46,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000236 RID: 566
-		// (get) Token: 0x0600160F RID: 5647 RVA: 0x000182ED File Offset: 0x000164ED
 		[global::Cpp2ILInjected.Token(Token = "0x1700028C")]
 		public virtual bool CanReuseTransform
 		{
@@ -67,7 +58,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x06001610 RID: 5648 RVA: 0x000182F0 File Offset: 0x000164F0
 		[global::Cpp2ILInjected.Token(Token = "0x600182A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF92E8", Offset = "0x1AF92E8", Length = "0x248")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,7 +94,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001611 RID: 5649 RVA: 0x000182F3 File Offset: 0x000164F3
 		[global::Cpp2ILInjected.Token(Token = "0x600182B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF9530", Offset = "0x1AF9530", Length = "0x214")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -132,7 +121,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001612 RID: 5650 RVA: 0x000182F6 File Offset: 0x000164F6
 		[global::Cpp2ILInjected.Token(Token = "0x600182C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF9744", Offset = "0x1AF9744", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallAnalysisNotSupported]
@@ -142,7 +130,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001613 RID: 5651 RVA: 0x000182F9 File Offset: 0x000164F9
 		[global::Cpp2ILInjected.Token(Token = "0x600182D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF9748", Offset = "0x1AF9748", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -154,7 +141,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001614 RID: 5652 RVA: 0x000182FC File Offset: 0x000164FC
 		[global::Cpp2ILInjected.Token(Token = "0x600182E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF97B4", Offset = "0x1AF97B4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -163,7 +149,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001615 RID: 5653 RVA: 0x000182FF File Offset: 0x000164FF
 		[global::Cpp2ILInjected.Token(Token = "0x600182F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF97B8", Offset = "0x1AF97B8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -175,7 +160,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001616 RID: 5654 RVA: 0x00018302 File Offset: 0x00016502
 		[global::Cpp2ILInjected.Token(Token = "0x6001830")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF9858", Offset = "0x1AF9858", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

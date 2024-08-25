@@ -1,7 +1,0 @@
-<map id="System.Security.Cryptography.CryptographicException" name="System.Security.Cryptography.CryptographicException">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,415,549"/>
-<area shape="rect" id="Node000003" href="$d0/d27/classSystem_1_1Security_1_1Cryptography_1_1CryptographicUnexpectedOperationException.html" title=" " alt="" coords="42,597,378,933"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,563,213,597,207,597,207,563"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="98,5,322,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,84,213,119,207,119,207,84"/>
-</map>

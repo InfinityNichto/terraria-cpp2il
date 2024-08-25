@@ -12,11 +12,9 @@ using Terraria.Audio;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x020001D8 RID: 472
 [global::Cpp2ILInjected.Token(Token = "0x2000273")]
 public class GUINetPlayStatusMenu
 {
-	// Token: 0x06000CEC RID: 3308 RVA: 0x00024209 File Offset: 0x00022409
 	[global::Cpp2ILInjected.Token(Token = "0x6000E0B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9F129C", Offset = "0x9F129C", Length = "0x434")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +77,6 @@ public class GUINetPlayStatusMenu
 		throw null;
 	}
 
-	// Token: 0x06000CED RID: 3309 RVA: 0x0002420C File Offset: 0x0002240C
 	[global::Cpp2ILInjected.Token(Token = "0x6000E0C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9F16D0", Offset = "0x9F16D0", Length = "0x320")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -116,7 +113,6 @@ public class GUINetPlayStatusMenu
 		throw null;
 	}
 
-	// Token: 0x06000CEE RID: 3310 RVA: 0x0002420F File Offset: 0x0002240F
 	[global::Cpp2ILInjected.Token(Token = "0x6000E0D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9F19F0", Offset = "0x9F19F0", Length = "0xA0")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINetPlayStatusMenu), Member = "QuitCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
@@ -128,7 +124,6 @@ public class GUINetPlayStatusMenu
 		throw null;
 	}
 
-	// Token: 0x06000CEF RID: 3311 RVA: 0x00024212 File Offset: 0x00022412
 	[global::Cpp2ILInjected.Token(Token = "0x6000E0E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9F1A90", Offset = "0x9F1A90", Length = "0x2B8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,7 +147,6 @@ public class GUINetPlayStatusMenu
 		throw null;
 	}
 
-	// Token: 0x06000CF0 RID: 3312 RVA: 0x00024215 File Offset: 0x00022415
 	[global::Cpp2ILInjected.Token(Token = "0x6000E0F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9F1D48", Offset = "0x9F1D48", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -163,17 +157,14 @@ public class GUINetPlayStatusMenu
 		throw null;
 	}
 
-	// Token: 0x040014AF RID: 5295
 	[global::Cpp2ILInjected.Token(Token = "0x40019B9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float scale0;
 
-	// Token: 0x040014B0 RID: 5296
 	[global::Cpp2ILInjected.Token(Token = "0x40019BA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float scale1;
 
-	// Token: 0x040014B1 RID: 5297
 	[global::Cpp2ILInjected.Token(Token = "0x40019BB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float scale2;

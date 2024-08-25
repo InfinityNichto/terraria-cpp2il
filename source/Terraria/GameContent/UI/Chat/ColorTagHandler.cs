@@ -7,11 +7,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.GameContent.UI.Chat
 {
-	// Token: 0x020006ED RID: 1773
 	[global::Cpp2ILInjected.Token(Token = "0x2000AD8")]
 	public class ColorTagHandler : ITagHandler
 	{
-		// Token: 0x0600453B RID: 17723 RVA: 0x0002E64C File Offset: 0x0002C84C
 		[global::Cpp2ILInjected.Token(Token = "0x60051A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x931CBC", Offset = "0x931CBC", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x0600453C RID: 17724 RVA: 0x0002E64F File Offset: 0x0002C84F
 		[global::Cpp2ILInjected.Token(Token = "0x60051A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x931DA0", Offset = "0x931DA0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

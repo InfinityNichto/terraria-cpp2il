@@ -9,11 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x020001A5 RID: 421
 	[global::Cpp2ILInjected.Token(Token = "0x2000263")]
 	internal class MonoChunkParser
 	{
-		// Token: 0x06000EDD RID: 3805 RVA: 0x000058CA File Offset: 0x00003ACA
 		[global::Cpp2ILInjected.Token(Token = "0x6001079")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E01EC4", Offset = "0x1E01EC4", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChunkedInputStream), Member = ".ctor", MemberParameters = new object[]
@@ -40,7 +38,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EDE RID: 3806 RVA: 0x000058CD File Offset: 0x00003ACD
 		[global::Cpp2ILInjected.Token(Token = "0x600107A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E01F70", Offset = "0x1E01F70", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +59,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EDF RID: 3807 RVA: 0x000058D0 File Offset: 0x00003AD0
 		[global::Cpp2ILInjected.Token(Token = "0x600107B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E0200C", Offset = "0x1E0200C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallAnalysisNotSupported]
@@ -81,7 +77,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EE0 RID: 3808 RVA: 0x000058D3 File Offset: 0x00003AD3
 		[global::Cpp2ILInjected.Token(Token = "0x600107C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E02010", Offset = "0x1E02010", Length = "0x310")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -113,7 +108,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EE1 RID: 3809 RVA: 0x000058D6 File Offset: 0x00003AD6
 		[global::Cpp2ILInjected.Token(Token = "0x600107D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E01FEC", Offset = "0x1E01FEC", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -130,7 +124,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EE2 RID: 3810 RVA: 0x000058D9 File Offset: 0x00003AD9
 		[global::Cpp2ILInjected.Token(Token = "0x600107E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E02378", Offset = "0x1E02378", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,8 +173,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000393 RID: 915
-		// (get) Token: 0x06000EE3 RID: 3811 RVA: 0x000058DC File Offset: 0x00003ADC
 		[global::Cpp2ILInjected.Token(Token = "0x170003B1")]
 		public bool WantMore
 		{
@@ -204,8 +195,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000394 RID: 916
-		// (get) Token: 0x06000EE4 RID: 3812 RVA: 0x000058DF File Offset: 0x00003ADF
 		[global::Cpp2ILInjected.Token(Token = "0x170003B2")]
 		public bool DataAvailable
 		{
@@ -222,8 +211,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000395 RID: 917
-		// (get) Token: 0x06000EE5 RID: 3813 RVA: 0x000058E2 File Offset: 0x00003AE2
 		[global::Cpp2ILInjected.Token(Token = "0x170003B3")]
 		public int TotalDataSize
 		{
@@ -236,8 +223,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000396 RID: 918
-		// (get) Token: 0x06000EE6 RID: 3814 RVA: 0x000058E5 File Offset: 0x00003AE5
 		[global::Cpp2ILInjected.Token(Token = "0x170003B4")]
 		public int ChunkLeft
 		{
@@ -251,7 +236,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000EE7 RID: 3815 RVA: 0x000058E8 File Offset: 0x00003AE8
 		[global::Cpp2ILInjected.Token(Token = "0x6001083")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E0276C", Offset = "0x1E0276C", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -277,7 +261,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EE8 RID: 3816 RVA: 0x000058EB File Offset: 0x00003AEB
 		[global::Cpp2ILInjected.Token(Token = "0x6001084")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E024A8", Offset = "0x1E024A8", Length = "0x2C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -303,7 +286,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EE9 RID: 3817 RVA: 0x000058EE File Offset: 0x00003AEE
 		[global::Cpp2ILInjected.Token(Token = "0x6001085")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E02D7C", Offset = "0x1E02D7C", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MonoChunkParser), Member = "GetChunkSize", MemberParameters = new object[]
@@ -324,7 +306,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EEA RID: 3818 RVA: 0x000058F1 File Offset: 0x00003AF1
 		[global::Cpp2ILInjected.Token(Token = "0x6001086")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E02898", Offset = "0x1E02898", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -342,7 +323,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EEB RID: 3819 RVA: 0x000058F4 File Offset: 0x00003AF4
 		[global::Cpp2ILInjected.Token(Token = "0x6001087")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E02968", Offset = "0x1E02968", Length = "0x26C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -369,7 +349,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000EEC RID: 3820 RVA: 0x000058F7 File Offset: 0x00003AF7
 		[global::Cpp2ILInjected.Token(Token = "0x6001088")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E02D2C", Offset = "0x1E02D2C", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MonoChunkParser), Member = "GetChunkSize", MemberParameters = new object[]
@@ -404,82 +383,64 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x04000A0B RID: 2571
 		[global::Cpp2ILInjected.Token(Token = "0x4000CF5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private WebHeaderCollection headers;
 
-		// Token: 0x04000A0C RID: 2572
 		[global::Cpp2ILInjected.Token(Token = "0x4000CF6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int chunkSize;
 
-		// Token: 0x04000A0D RID: 2573
 		[global::Cpp2ILInjected.Token(Token = "0x4000CF7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private int chunkRead;
 
-		// Token: 0x04000A0E RID: 2574
 		[global::Cpp2ILInjected.Token(Token = "0x4000CF8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private int totalWritten;
 
-		// Token: 0x04000A0F RID: 2575
 		[global::Cpp2ILInjected.Token(Token = "0x4000CF9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private MonoChunkParser.State state;
 
-		// Token: 0x04000A10 RID: 2576
 		[global::Cpp2ILInjected.Token(Token = "0x4000CFA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private StringBuilder saved;
 
-		// Token: 0x04000A11 RID: 2577
 		[global::Cpp2ILInjected.Token(Token = "0x4000CFB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private bool sawCR;
 
-		// Token: 0x04000A12 RID: 2578
 		[global::Cpp2ILInjected.Token(Token = "0x4000CFC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x31")]
 		private bool gotit;
 
-		// Token: 0x04000A13 RID: 2579
 		[global::Cpp2ILInjected.Token(Token = "0x4000CFD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		private int trailerState;
 
-		// Token: 0x04000A14 RID: 2580
 		[global::Cpp2ILInjected.Token(Token = "0x4000CFE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private ArrayList chunks;
 
-		// Token: 0x02000422 RID: 1058
 		[global::Cpp2ILInjected.Token(Token = "0x2000264")]
 		private enum State
 		{
-			// Token: 0x04001274 RID: 4724
 			[global::Cpp2ILInjected.Token(Token = "0x4000D00")]
 			None,
-			// Token: 0x04001275 RID: 4725
 			[global::Cpp2ILInjected.Token(Token = "0x4000D01")]
 			PartialSize,
-			// Token: 0x04001276 RID: 4726
 			[global::Cpp2ILInjected.Token(Token = "0x4000D02")]
 			Body,
-			// Token: 0x04001277 RID: 4727
 			[global::Cpp2ILInjected.Token(Token = "0x4000D03")]
 			BodyFinished,
-			// Token: 0x04001278 RID: 4728
 			[global::Cpp2ILInjected.Token(Token = "0x4000D04")]
 			Trailer
 		}
 
-		// Token: 0x02000423 RID: 1059
 		[global::Cpp2ILInjected.Token(Token = "0x2000265")]
 		private class Chunk
 		{
-			// Token: 0x06001E3B RID: 7739 RVA: 0x00008330 File Offset: 0x00006530
 			[global::Cpp2ILInjected.Token(Token = "0x6001089")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1E02D04", Offset = "0x1E02D04", Length = "0x28")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -489,7 +450,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001E3C RID: 7740 RVA: 0x00008333 File Offset: 0x00006533
 			[global::Cpp2ILInjected.Token(Token = "0x600108A")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1E02320", Offset = "0x1E02320", Length = "0x58")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -507,12 +467,10 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x04001279 RID: 4729
 			[global::Cpp2ILInjected.Token(Token = "0x4000D05")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public byte[] Bytes;
 
-			// Token: 0x0400127A RID: 4730
 			[global::Cpp2ILInjected.Token(Token = "0x4000D06")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public int Offset;

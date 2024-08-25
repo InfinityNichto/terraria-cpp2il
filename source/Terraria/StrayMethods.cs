@@ -7,11 +7,9 @@ using Terraria.GameContent.Events;
 
 namespace Terraria
 {
-	// Token: 0x02000347 RID: 839
 	[global::Cpp2ILInjected.Token(Token = "0x200045D")]
 	public class StrayMethods
 	{
-		// Token: 0x06002780 RID: 10112 RVA: 0x000290B7 File Offset: 0x000272B7
 		[global::Cpp2ILInjected.Token(Token = "0x6002A3A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1170EBC", Offset = "0x1170EBC", Length = "0x278")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -40,7 +38,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002781 RID: 10113 RVA: 0x000290BA File Offset: 0x000272BA
 		[global::Cpp2ILInjected.Token(Token = "0x6002A3B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1171134", Offset = "0x1171134", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +59,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002782 RID: 10114 RVA: 0x000290BD File Offset: 0x000272BD
 		[global::Cpp2ILInjected.Token(Token = "0x6002A3C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1171240", Offset = "0x1171240", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +80,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002783 RID: 10115 RVA: 0x000290C0 File Offset: 0x000272C0
 		[global::Cpp2ILInjected.Token(Token = "0x6002A3D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x117134C", Offset = "0x117134C", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -121,7 +116,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002784 RID: 10116 RVA: 0x000290C3 File Offset: 0x000272C3
 		[global::Cpp2ILInjected.Token(Token = "0x6002A3E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x11714C4", Offset = "0x11714C4", Length = "0x42C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -172,7 +166,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002785 RID: 10117 RVA: 0x000290C6 File Offset: 0x000272C6
 		[global::Cpp2ILInjected.Token(Token = "0x6002A3F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x11718F0", Offset = "0x11718F0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

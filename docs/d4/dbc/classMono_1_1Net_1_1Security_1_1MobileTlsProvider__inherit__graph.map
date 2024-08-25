@@ -1,9 +1,0 @@
-<map id="Mono.Net.Security.MobileTlsProvider" name="Mono.Net.Security.MobileTlsProvider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="217,240,565,492"/>
-<area shape="rect" id="Node000003" href="$d8/d36/classMono_1_1Unity_1_1UnityTlsProvider.html" title=" " alt="" coords="5,555,387,1079"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="333,506,312,556,307,554,328,504"/>
-<area shape="rect" id="Node000004" href="$dc/dda/classMono_1_1Net_1_1Security_1_1MobileTlsProvider.html" title=" " alt="" coords="411,691,759,943"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="453,504,534,689,529,691,448,506"/>
-<area shape="rect" id="Node000002" href="$dd/d37/classMono_1_1Security_1_1Interface_1_1MonoTlsProvider.html" title=" " alt="" coords="272,5,509,191"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,204,393,240,388,240,388,204"/>
-</map>

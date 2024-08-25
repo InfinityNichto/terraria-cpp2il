@@ -3,11 +3,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 
-// Token: 0x02000073 RID: 115
 [global::Cpp2ILInjected.Token(Token = "0x20000A6")]
 public class GUIControllerSaveSynchronisation_Lobby : GUIControllerItem
 {
-	// Token: 0x06000351 RID: 849 RVA: 0x00022538 File Offset: 0x00020738
 	[global::Cpp2ILInjected.Token(Token = "0x60003EB")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA827AC", Offset = "0xA827AC", Length = "0x50")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -18,7 +16,6 @@ public class GUIControllerSaveSynchronisation_Lobby : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000352 RID: 850 RVA: 0x0002253B File Offset: 0x0002073B
 	[global::Cpp2ILInjected.Token(Token = "0x60003EC")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA827FC", Offset = "0xA827FC", Length = "0x1C8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +38,6 @@ public class GUIControllerSaveSynchronisation_Lobby : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000353 RID: 851 RVA: 0x0002253E File Offset: 0x0002073E
 	[global::Cpp2ILInjected.Token(Token = "0x60003ED")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA829C4", Offset = "0xA829C4", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -50,7 +46,6 @@ public class GUIControllerSaveSynchronisation_Lobby : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000354 RID: 852 RVA: 0x00022541 File Offset: 0x00020741
 	[global::Cpp2ILInjected.Token(Token = "0x60003EE")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA829CC", Offset = "0xA829CC", Length = "0x158")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +57,6 @@ public class GUIControllerSaveSynchronisation_Lobby : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000355 RID: 853 RVA: 0x00022544 File Offset: 0x00020744
 	[global::Cpp2ILInjected.Token(Token = "0x60003EF")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA82B24", Offset = "0xA82B24", Length = "0x160")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -86,7 +80,6 @@ public class GUIControllerSaveSynchronisation_Lobby : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000356 RID: 854 RVA: 0x00022547 File Offset: 0x00020747
 	[global::Cpp2ILInjected.Token(Token = "0x60003F0")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA82C84", Offset = "0xA82C84", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_Lobby), Member = ".cctor", ReturnType = typeof(void))]

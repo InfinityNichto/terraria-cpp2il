@@ -1,9 +1,0 @@
-<map id="Mono.Security.X509.PKCS12.DeriveBytes" name="Mono.Security.X509.PKCS12.DeriveBytes">
-<area shape="rect" id="Node000001" title=" " alt="" coords="59,192,258,525"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,70,40,117,55,167,58,175,53,177,49,169,35,118,27,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="133,5,184,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,71,161,176,156,176,156,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="261,5,291,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="273,72,264,118,249,169,246,178,241,176,244,167,258,117,268,71"/>
-</map>

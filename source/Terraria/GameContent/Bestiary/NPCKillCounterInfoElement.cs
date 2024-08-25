@@ -9,11 +9,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.Bestiary
 {
-	// Token: 0x02000645 RID: 1605
 	[global::Cpp2ILInjected.Token(Token = "0x200096D")]
 	public class NPCKillCounterInfoElement : IBestiaryInfoElement
 	{
-		// Token: 0x06003F0E RID: 16142 RVA: 0x0002D419 File Offset: 0x0002B619
 		[global::Cpp2ILInjected.Token(Token = "0x600482D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x819A10", Offset = "0x819A10", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BestiaryEntry), Member = "Enemy", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(BestiaryEntry))]
@@ -33,7 +31,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F0F RID: 16143 RVA: 0x0002D41C File Offset: 0x0002B61C
 		[global::Cpp2ILInjected.Token(Token = "0x600482E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81FF0C", Offset = "0x81FF0C", Length = "0x544")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -92,7 +89,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F10 RID: 16144 RVA: 0x0002D41F File Offset: 0x0002B61F
 		[global::Cpp2ILInjected.Token(Token = "0x600482F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8204FC", Offset = "0x8204FC", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -114,7 +110,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F11 RID: 16145 RVA: 0x0002D422 File Offset: 0x0002B622
 		[global::Cpp2ILInjected.Token(Token = "0x6004830")]
 		[global::Cpp2ILInjected.Address(RVA = "0x820450", Offset = "0x820450", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPCKillCounterInfoElement), Member = "ProvideUIElement", MemberParameters = new object[] { typeof(BestiaryUICollectionInfo) }, ReturnType = typeof(UIElement))]
@@ -128,7 +123,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x04006C8B RID: 27787
 		[global::Cpp2ILInjected.Token(Token = "0x40083B2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private NPC _instance;

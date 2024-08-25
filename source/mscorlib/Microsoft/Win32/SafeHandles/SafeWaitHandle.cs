@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Win32.SafeHandles
 {
-	// Token: 0x02000041 RID: 65
 	[global::Cpp2ILInjected.Token(Token = "0x200005C")]
 	public sealed class SafeWaitHandle : SafeHandleZeroOrMinusOneIsInvalid
 	{
-		// Token: 0x060001C1 RID: 449 RVA: 0x00014AEF File Offset: 0x00012CEF
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.MayFail)]
 		[global::Cpp2ILInjected.Token(Token = "0x600021D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6A54", Offset = "0x1AC6A54", Length = "0x28")]
@@ -40,7 +38,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x060001C2 RID: 450 RVA: 0x00014AF2 File Offset: 0x00012CF2
 		[global::Cpp2ILInjected.Token(Token = "0x600021E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6A7C", Offset = "0x1AC6A7C", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

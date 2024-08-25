@@ -9,12 +9,10 @@ using Mono.Security.Cryptography;
 
 namespace Mono.Security.Protocol.Ntlm
 {
-	// Token: 0x0200001E RID: 30
 	[Obsolete("Use of this API is highly discouraged, it selects legacy-mode LM/NTLM authentication, which sends your password in very weak encryption over the wire even if the server supports the more secure NTLMv2 / NTLMv2 Session. You need to use the new `Type3Message (Type2Message)' constructor to use the more secure NTLMv2 / NTLMv2 Session authentication modes. These require the Type 2 message from the server to compute the response.")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000039")]
 	public class ChallengeResponse : IDisposable
 	{
-		// Token: 0x0600015A RID: 346 RVA: 0x0000334E File Offset: 0x0000154E
 		[global::Cpp2ILInjected.Token(Token = "0x60001B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A97A7C", Offset = "0x1A97A7C", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChallengeResponse), Member = ".ctor", MemberParameters = new object[]
@@ -30,7 +28,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x0600015B RID: 347 RVA: 0x00003351 File Offset: 0x00001551
 		[global::Cpp2ILInjected.Token(Token = "0x60001B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A97AEC", Offset = "0x1A97AEC", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Type3Message), Member = "GetBytes", ReturnType = typeof(byte[]))]
@@ -43,7 +40,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x0600015C RID: 348 RVA: 0x00003354 File Offset: 0x00001554
 		[global::Cpp2ILInjected.Token(Token = "0x60001B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9803C", Offset = "0x1A9803C", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,8 +52,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x17000064 RID: 100
-		// (set) Token: 0x0600015D RID: 349 RVA: 0x00003357 File Offset: 0x00001557
 		[global::Cpp2ILInjected.Token(Token = "0x1700007F")]
 		public string Password
 		{
@@ -102,8 +96,6 @@ namespace Mono.Security.Protocol.Ntlm
 			}
 		}
 
-		// Token: 0x17000065 RID: 101
-		// (set) Token: 0x0600015E RID: 350 RVA: 0x0000335A File Offset: 0x0000155A
 		[global::Cpp2ILInjected.Token(Token = "0x17000080")]
 		public byte[] Challenge
 		{
@@ -125,8 +117,6 @@ namespace Mono.Security.Protocol.Ntlm
 			}
 		}
 
-		// Token: 0x17000066 RID: 102
-		// (get) Token: 0x0600015F RID: 351 RVA: 0x0000335D File Offset: 0x0000155D
 		[global::Cpp2ILInjected.Token(Token = "0x17000081")]
 		public byte[] LM
 		{
@@ -142,8 +132,6 @@ namespace Mono.Security.Protocol.Ntlm
 			}
 		}
 
-		// Token: 0x17000067 RID: 103
-		// (get) Token: 0x06000160 RID: 352 RVA: 0x00003360 File Offset: 0x00001560
 		[global::Cpp2ILInjected.Token(Token = "0x17000082")]
 		public byte[] NT
 		{
@@ -160,7 +148,6 @@ namespace Mono.Security.Protocol.Ntlm
 			}
 		}
 
-		// Token: 0x06000161 RID: 353 RVA: 0x00003363 File Offset: 0x00001563
 		[global::Cpp2ILInjected.Token(Token = "0x60001B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A980DC", Offset = "0x1A980DC", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChallengeResponse), Member = "Finalize", ReturnType = typeof(void))]
@@ -173,7 +160,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x06000162 RID: 354 RVA: 0x00003366 File Offset: 0x00001566
 		[global::Cpp2ILInjected.Token(Token = "0x60001B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9865C", Offset = "0x1A9865C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChallengeResponse), Member = "Dispose", ReturnType = typeof(void))]
@@ -189,7 +175,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x06000163 RID: 355 RVA: 0x00003369 File Offset: 0x00001569
 		[global::Cpp2ILInjected.Token(Token = "0x60001B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A98328", Offset = "0x1A98328", Length = "0x2D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -207,7 +192,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x06000164 RID: 356 RVA: 0x0000336C File Offset: 0x0000156C
 		[global::Cpp2ILInjected.Token(Token = "0x60001BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A986BC", Offset = "0x1A986BC", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -224,7 +208,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x06000165 RID: 357 RVA: 0x0000336F File Offset: 0x0000156F
 		[global::Cpp2ILInjected.Token(Token = "0x60001BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A98140", Offset = "0x1A98140", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -255,7 +238,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x06000166 RID: 358 RVA: 0x00003372 File Offset: 0x00001572
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60001BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A987BC", Offset = "0x1A987BC", Length = "0xD0")]
@@ -271,30 +253,24 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x040000A0 RID: 160
 		[global::Cpp2ILInjected.Token(Token = "0x40000CD")]
 		private static byte[] magic;
 
-		// Token: 0x040000A1 RID: 161
 		[global::Cpp2ILInjected.Token(Token = "0x40000CE")]
 		private static byte[] nullEncMagic;
 
-		// Token: 0x040000A2 RID: 162
 		[global::Cpp2ILInjected.Token(Token = "0x40000CF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private bool _disposed;
 
-		// Token: 0x040000A3 RID: 163
 		[global::Cpp2ILInjected.Token(Token = "0x40000D0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private byte[] _challenge;
 
-		// Token: 0x040000A4 RID: 164
 		[global::Cpp2ILInjected.Token(Token = "0x40000D1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private byte[] _lmpwd;
 
-		// Token: 0x040000A5 RID: 165
 		[global::Cpp2ILInjected.Token(Token = "0x40000D2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private byte[] _ntpwd;

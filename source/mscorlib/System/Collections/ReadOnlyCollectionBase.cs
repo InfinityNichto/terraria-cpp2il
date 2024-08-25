@@ -4,13 +4,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections
 {
-	// Token: 0x020004FF RID: 1279
 	[global::Cpp2ILInjected.Token(Token = "0x20005F9")]
 	[global::System.Serializable]
 	public abstract class ReadOnlyCollectionBase : ICollection, IEnumerable
 	{
-		// Token: 0x17000685 RID: 1669
-		// (get) Token: 0x06002AB0 RID: 10928 RVA: 0x0001BBD5 File Offset: 0x00019DD5
 		[global::Cpp2ILInjected.Token(Token = "0x17000725")]
 		protected ArrayList InnerList
 		{
@@ -43,8 +40,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x17000686 RID: 1670
-		// (get) Token: 0x06002AB1 RID: 10929 RVA: 0x0001BBD8 File Offset: 0x00019DD8
 		[global::Cpp2ILInjected.Token(Token = "0x17000726")]
 		public virtual int Count
 		{
@@ -59,8 +54,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x17000687 RID: 1671
-		// (get) Token: 0x06002AB2 RID: 10930 RVA: 0x0001BBDB File Offset: 0x00019DDB
 		[global::Cpp2ILInjected.Token(Token = "0x17000727")]
 		private bool System.Collections.ICollection.IsSynchronized
 		{
@@ -75,8 +68,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x17000688 RID: 1672
-		// (get) Token: 0x06002AB3 RID: 10931 RVA: 0x0001BBDE File Offset: 0x00019DDE
 		[global::Cpp2ILInjected.Token(Token = "0x17000728")]
 		private object System.Collections.ICollection.SyncRoot
 		{
@@ -91,7 +82,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x06002AB4 RID: 10932 RVA: 0x0001BBE1 File Offset: 0x00019DE1
 		[global::Cpp2ILInjected.Token(Token = "0x6002E2F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0A378", Offset = "0x1C0A378", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -102,7 +92,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002AB5 RID: 10933 RVA: 0x0001BBE4 File Offset: 0x00019DE4
 		[global::Cpp2ILInjected.Token(Token = "0x6002E30")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0A3AC", Offset = "0x1C0A3AC", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -113,7 +102,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002AB6 RID: 10934 RVA: 0x0001BBE7 File Offset: 0x00019DE7
 		[global::Cpp2ILInjected.Token(Token = "0x6002E31")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0A3C8", Offset = "0x1C0A3C8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Authentication.ExtendedProtection.ServiceNameCollection", Member = ".ctor", MemberParameters = new object[] { typeof(ICollection) }, ReturnType = typeof(void))]
@@ -125,7 +113,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x040015C3 RID: 5571
 		[global::Cpp2ILInjected.Token(Token = "0x40019C5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ArrayList _list;

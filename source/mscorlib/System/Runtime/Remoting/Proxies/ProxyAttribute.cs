@@ -8,13 +8,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Proxies
 {
-	// Token: 0x020002B9 RID: 697
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::System.AttributeUsage(global::System.AttributeTargets.Class)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000359")]
 	public class ProxyAttribute : global::System.Attribute, global::System.Runtime.Remoting.Contexts.IContextAttribute
 	{
-		// Token: 0x06001A6A RID: 6762 RVA: 0x00018F41 File Offset: 0x00017141
 		[global::Cpp2ILInjected.Token(Token = "0x6001C8F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B33DA8", Offset = "0x1B33DA8", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +30,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x06001A6B RID: 6763 RVA: 0x00018F44 File Offset: 0x00017144
 		[global::Cpp2ILInjected.Token(Token = "0x6001C90")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B33EE4", Offset = "0x1B33EE4", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -48,7 +45,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x06001A6C RID: 6764 RVA: 0x00018F47 File Offset: 0x00017147
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6001C91")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B33F54", Offset = "0x1B33F54", Length = "0x4")]
@@ -58,7 +54,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x06001A6D RID: 6765 RVA: 0x00018F4A File Offset: 0x0001714A
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6001C92")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B33F58", Offset = "0x1B33F58", Length = "0x8")]

@@ -1,19 +1,25 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Runtime.CompilerServices;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Terraria.Chat;
 using Terraria.DataStructures;
+using Terraria.GameContent;
+using Terraria.GameContent.Ambience;
+using Terraria.GameContent.Creative;
+using Terraria.GameContent.Drawing;
+using Terraria.GameContent.NetModules;
+using Terraria.Localization;
 
 namespace Terraria.Net
 {
-	// Token: 0x0200049A RID: 1178
 	[global::Cpp2ILInjected.Token(Token = "0x20006A7")]
 	public struct NetPacket
 	{
-		// Token: 0x1700064D RID: 1613
-		// (get) Token: 0x0600335D RID: 13149 RVA: 0x0002B2EC File Offset: 0x000294EC
-		// (set) Token: 0x0600335E RID: 13150 RVA: 0x0002B2EF File Offset: 0x000294EF
 		[global::Cpp2ILInjected.Token(Token = "0x170006D5")]
 		public int Length
 		{
@@ -35,13 +41,88 @@ namespace Terraria.Net
 			}
 		}
 
-		// Token: 0x1700064E RID: 1614
-		// (get) Token: 0x0600335F RID: 13151 RVA: 0x0002B2F2 File Offset: 0x000294F2
 		[global::Cpp2ILInjected.Token(Token = "0x170006D6")]
 		public BinaryWriter Writer
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x60038A5")]
 			[global::Cpp2ILInjected.Address(RVA = "0x143D458", Offset = "0x143D458", Length = "0xC")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetLiquidModule), Member = "Serialize", MemberParameters = new object[] { typeof(HashSet<int>) }, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetLiquidModule), Member = "SerializeForPlayer", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetAmbienceModule), Member = "SerializeSkyEntitySpawn", MemberParameters = new object[]
+			{
+				typeof(Player),
+				typeof(SkyEntityType)
+			}, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetBestiaryModule), Member = "SerializeKillCount", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetBestiaryModule), Member = "SerializeSight", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetBestiaryModule), Member = "SerializeChat", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetCreativeUnlocksModule), Member = "SerializeItemSacrifice", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetCreativePowersModule), Member = "PreparePacket", MemberParameters = new object[]
+			{
+				typeof(ushort),
+				typeof(int)
+			}, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetCreativeUnlocksPlayerReportModule), Member = "SerializeSacrificeRequest", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetCreativePowerPermissionsModule), Member = "SerializeCurrentPowerPermissionLevel", MemberParameters = new object[]
+			{
+				typeof(ushort),
+				typeof(int)
+			}, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetParticlesModule), Member = "Serialize", MemberParameters = new object[]
+			{
+				typeof(ParticleOrchestraType),
+				typeof(ParticleOrchestraSettings)
+			}, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetPingModule), Member = "Serialize", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetTeleportPylonModule), Member = "SerializePylonWasAddedOrRemoved", MemberParameters = new object[]
+			{
+				typeof(TeleportPylonInfo),
+				typeof(NetTeleportPylonModule.SubPacketType)
+			}, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetTeleportPylonModule), Member = "SerializeUseRequest", MemberParameters = new object[] { typeof(TeleportPylonInfo) }, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetTextModule), Member = "SerializeClientMessage", MemberParameters = new object[] { typeof(ChatMessage) }, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetTextModule), Member = "SerializeServerMessage", MemberParameters = new object[]
+			{
+				typeof(NetworkText),
+				typeof(Color),
+				typeof(byte)
+			}, ReturnType = typeof(NetPacket))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerTogglePower), Member = "SetEnabledState", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerTogglePower), Member = "RequestUse", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerTogglePower), Member = "OnPlayerJoining", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerSliderPower), Member = "DebugCall", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.APerPlayerSliderPower), Member = "PushChange", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.ASharedTogglePower), Member = "OnPlayerJoining", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.ASharedTogglePower), Member = "DeserializeNetMessage", MemberParameters = new object[]
+			{
+				typeof(BinaryReader),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.ASharedTogglePower), Member = "RequestUse", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.ASharedSliderPower), Member = "DeserializeNetMessage", MemberParameters = new object[]
+			{
+				typeof(BinaryReader),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.ASharedSliderPower), Member = "DebugCall", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.ASharedSliderPower), Member = "AttemptPushingChange", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowers.ASharedSliderPower), Member = "OnPlayerJoining", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 61)]
 			get
 			{
@@ -49,8 +130,6 @@ namespace Terraria.Net
 			}
 		}
 
-		// Token: 0x1700064F RID: 1615
-		// (get) Token: 0x06003360 RID: 13152 RVA: 0x0002B2F5 File Offset: 0x000294F5
 		[global::Cpp2ILInjected.Token(Token = "0x170006D7")]
 		public BinaryReader Reader
 		{
@@ -63,7 +142,6 @@ namespace Terraria.Net
 			}
 		}
 
-		// Token: 0x06003361 RID: 13153 RVA: 0x0002B2F8 File Offset: 0x000294F8
 		[global::Cpp2ILInjected.Token(Token = "0x60038A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143D464", Offset = "0x143D464", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +154,6 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x06003362 RID: 13154 RVA: 0x0002B2FB File Offset: 0x000294FB
 		[global::Cpp2ILInjected.Token(Token = "0x60038A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143BCA8", Offset = "0x143BCA8", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -86,7 +163,6 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x06003363 RID: 13155 RVA: 0x0002B2FE File Offset: 0x000294FE
 		[global::Cpp2ILInjected.Token(Token = "0x60038A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143BBE4", Offset = "0x143BBE4", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -102,22 +178,18 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x0400654C RID: 25932
 		[global::Cpp2ILInjected.Token(Token = "0x400794E")]
 		private const int HEADER_SIZE = 5;
 
-		// Token: 0x0400654D RID: 25933
 		[global::Cpp2ILInjected.Token(Token = "0x400794F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public readonly ushort Id;
 
-		// Token: 0x0400654E RID: 25934
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4007950")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		private int <Length>k__BackingField;
 
-		// Token: 0x0400654F RID: 25935
 		[global::Cpp2ILInjected.Token(Token = "0x4007951")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		public readonly CachedBuffer Buffer;

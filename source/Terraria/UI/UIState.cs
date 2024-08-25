@@ -6,11 +6,9 @@ using Terraria.GameContent.UI.States;
 
 namespace Terraria.UI
 {
-	// Token: 0x020004D5 RID: 1237
 	[global::Cpp2ILInjected.Token(Token = "0x2000726")]
 	public class UIState : UIElement
 	{
-		// Token: 0x06003644 RID: 13892 RVA: 0x0002BB14 File Offset: 0x00029D14
 		[global::Cpp2ILInjected.Token(Token = "0x6003C94")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1491F54", Offset = "0x1491F54", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIAchievementsMenu), Member = ".ctor", ReturnType = typeof(void))]

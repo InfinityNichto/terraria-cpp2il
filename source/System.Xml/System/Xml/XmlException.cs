@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x02000081 RID: 129
 	[global::Cpp2ILInjected.Token(Token = "0x20000A8")]
 	[Serializable]
 	public class XmlException : SystemException
 	{
-		// Token: 0x060006F0 RID: 1776 RVA: 0x0000437C File Offset: 0x0000257C
 		[global::Cpp2ILInjected.Token(Token = "0x6000779")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAEDD4", Offset = "0x1DAEDD4", Length = "0x3BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +47,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006F1 RID: 1777 RVA: 0x0000437F File Offset: 0x0000257F
 		[global::Cpp2ILInjected.Token(Token = "0x600077A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF400", Offset = "0x1DAF400", Length = "0x170")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -74,7 +71,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006F2 RID: 1778 RVA: 0x00004382 File Offset: 0x00002582
 		[global::Cpp2ILInjected.Token(Token = "0x600077B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF570", Offset = "0x1DAF570", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -91,7 +87,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006F3 RID: 1779 RVA: 0x00004385 File Offset: 0x00002585
 		[global::Cpp2ILInjected.Token(Token = "0x600077C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF588", Offset = "0x1DAF588", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -108,7 +103,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006F4 RID: 1780 RVA: 0x00004388 File Offset: 0x00002588
 		[global::Cpp2ILInjected.Token(Token = "0x600077D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF59C", Offset = "0x1DAF59C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -117,7 +111,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006F5 RID: 1781 RVA: 0x0000438B File Offset: 0x0000258B
 		[global::Cpp2ILInjected.Token(Token = "0x600077E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF5A4", Offset = "0x1DAF5A4", Length = "0x120")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -147,7 +140,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006F6 RID: 1782 RVA: 0x0000438E File Offset: 0x0000258E
 		[global::Cpp2ILInjected.Token(Token = "0x600077F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DA6094", Offset = "0x1DA6094", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -194,10 +186,128 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006F7 RID: 1783 RVA: 0x00004391 File Offset: 0x00002591
 		[global::Cpp2ILInjected.Token(Token = "0x6000780")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DA5EEC", Offset = "0x1DA5EEC", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BinHexDecoder), Member = "Decode", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(bool)
+		}, ReturnType = typeof(byte[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BinHexDecoder), Member = "Decode", MemberParameters = new object[]
+		{
+			typeof(char*),
+			typeof(char*),
+			typeof(byte*),
+			typeof(byte*),
+			typeof(ref bool),
+			typeof(ref byte),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(QueryOutputWriter), Member = "WriteStartElement", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string),
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(QueryOutputWriter), Member = "Close", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlParserContext), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(XmlNameTable),
+			typeof(XmlNamespaceManager),
+			typeof(string),
+			typeof(string),
+			typeof(string),
+			typeof(string),
+			typeof(string),
+			typeof(string),
+			typeof(XmlSpace),
+			typeof(Encoding)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlReaderSettings), Member = "CheckReadOnly", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlTextReaderImpl.DtdDefaultAttributeInfoToNodeDataComparer", Member = "Compare", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(object)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlTextReaderImpl), Member = "FinishInitUriString", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlTextReaderImpl), Member = "ResolveEntity", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlTextReaderImpl), Member = "set_EntityHandling", MemberParameters = new object[] { typeof(EntityHandling) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlWellFormedWriter), Member = "WriteEndElement", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlWellFormedWriter), Member = "WriteFullEndElement", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlWellFormedWriter), Member = "DupAttrException", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string)
+		}, ReturnType = typeof(XmlException))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlWriterSettings), Member = "CheckReadOnly", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlLoader), Member = "LoadDocumentType", MemberParameters = new object[]
+		{
+			typeof(IDtdInfo),
+			typeof(XmlDocumentType)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlLoader), Member = "ExpandEntityReference", MemberParameters = new object[] { typeof(XmlEntityReference) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ValidateNames), Member = "ThrowInvalidName", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ValidateNames), Member = "GetInvalidNameException", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(Exception))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlConvert), Member = "TryVerifyName", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(Exception))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlConvert), Member = "TryVerifyTOKEN", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(Exception))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlConvert), Member = "TryVerifyNMTOKEN", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(Exception))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Ucs4Decoder4321), Member = "GetFullChars", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(char[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Ucs4Decoder1234), Member = "GetFullChars", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(char[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Ucs4Decoder2143), Member = "GetFullChars", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(char[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Ucs4Decoder3412), Member = "GetFullChars", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(char[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlQualifiedName), Member = "Parse", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(IXmlNamespaceResolver),
+			typeof(ref string)
+		}, ReturnType = typeof(XmlQualifiedName))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlUrlResolver.<GetEntityAsync>d__15", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlUrlResolver), Member = "GetEntity", MemberParameters = new object[]
+		{
+			typeof(Uri),
+			typeof(string),
+			typeof(Type)
+		}, ReturnType = typeof(object))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 28)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(XmlException), Member = "CreateMessage", MemberParameters = new object[]
 		{
@@ -212,12 +322,11 @@ namespace System.Xml
 			typeof(Exception)
 		}, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 5)]
-		internal XmlException(string res, string arg)
+		internal unsafe XmlException(string res, string arg)
 		{
 			throw null;
 		}
 
-		// Token: 0x060006F8 RID: 1784 RVA: 0x00004394 File Offset: 0x00002594
 		[global::Cpp2ILInjected.Token(Token = "0x6000781")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF828", Offset = "0x1DAF828", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -246,7 +355,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006F9 RID: 1785 RVA: 0x00004397 File Offset: 0x00002597
 		[global::Cpp2ILInjected.Token(Token = "0x6000782")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAB820", Offset = "0x1DAB820", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -277,7 +385,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006FA RID: 1786 RVA: 0x0000439A File Offset: 0x0000259A
 		[global::Cpp2ILInjected.Token(Token = "0x6000783")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF8F8", Offset = "0x1DAF8F8", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -331,7 +438,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006FB RID: 1787 RVA: 0x0000439D File Offset: 0x0000259D
 		[global::Cpp2ILInjected.Token(Token = "0x6000784")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAB96C", Offset = "0x1DAB96C", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -361,7 +467,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006FC RID: 1788 RVA: 0x000043A0 File Offset: 0x000025A0
 		[global::Cpp2ILInjected.Token(Token = "0x6000785")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF9DC", Offset = "0x1DAF9DC", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -394,7 +499,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006FD RID: 1789 RVA: 0x000043A3 File Offset: 0x000025A3
 		[global::Cpp2ILInjected.Token(Token = "0x6000786")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAFA58", Offset = "0x1DAFA58", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -423,7 +527,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006FE RID: 1790 RVA: 0x000043A6 File Offset: 0x000025A6
 		[global::Cpp2ILInjected.Token(Token = "0x6000787")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF7A8", Offset = "0x1DAF7A8", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -457,7 +560,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060006FF RID: 1791 RVA: 0x000043A9 File Offset: 0x000025A9
 		[global::Cpp2ILInjected.Token(Token = "0x6000788")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF6C4", Offset = "0x1DAF6C4", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlException), Member = ".ctor", MemberParameters = new object[]
@@ -482,7 +584,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x06000700 RID: 1792 RVA: 0x000043AC File Offset: 0x000025AC
 		[global::Cpp2ILInjected.Token(Token = "0x6000789")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAF190", Offset = "0x1DAF190", Length = "0x270")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -580,7 +681,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x06000701 RID: 1793 RVA: 0x000043AF File Offset: 0x000025AF
 		[global::Cpp2ILInjected.Token(Token = "0x600078A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DA6040", Offset = "0x1DA6040", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -652,7 +752,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x06000702 RID: 1794 RVA: 0x000043B2 File Offset: 0x000025B2
 		[global::Cpp2ILInjected.Token(Token = "0x600078B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DAFAD4", Offset = "0x1DAFAD4", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -690,7 +789,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x06000703 RID: 1795 RVA: 0x000043B5 File Offset: 0x000025B5
 		[global::Cpp2ILInjected.Token(Token = "0x600078C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DABF0C", Offset = "0x1DABF0C", Length = "0x25C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -752,8 +850,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x170001A4 RID: 420
-		// (get) Token: 0x06000704 RID: 1796 RVA: 0x000043B8 File Offset: 0x000025B8
 		[global::Cpp2ILInjected.Token(Token = "0x170001C8")]
 		public int LineNumber
 		{
@@ -766,8 +862,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x170001A5 RID: 421
-		// (get) Token: 0x06000705 RID: 1797 RVA: 0x000043BB File Offset: 0x000025BB
 		[global::Cpp2ILInjected.Token(Token = "0x170001C9")]
 		public int LinePosition
 		{
@@ -780,8 +874,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x170001A6 RID: 422
-		// (get) Token: 0x06000706 RID: 1798 RVA: 0x000043BE File Offset: 0x000025BE
 		[global::Cpp2ILInjected.Token(Token = "0x170001CA")]
 		public override string Message
 		{
@@ -795,8 +887,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x170001A7 RID: 423
-		// (get) Token: 0x06000707 RID: 1799 RVA: 0x000043C1 File Offset: 0x000025C1
 		[global::Cpp2ILInjected.Token(Token = "0x170001CB")]
 		internal string ResString
 		{
@@ -809,33 +899,27 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x04000254 RID: 596
 		[global::Cpp2ILInjected.Token(Token = "0x40003BC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private string res;
 
-		// Token: 0x04000255 RID: 597
 		[global::Cpp2ILInjected.Token(Token = "0x40003BD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		private string[] args;
 
-		// Token: 0x04000256 RID: 598
 		[global::Cpp2ILInjected.Token(Token = "0x40003BE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 		private int lineNumber;
 
-		// Token: 0x04000257 RID: 599
 		[global::Cpp2ILInjected.Token(Token = "0x40003BF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA4")]
 		private int linePosition;
 
-		// Token: 0x04000258 RID: 600
 		[OptionalField]
 		[global::Cpp2ILInjected.Token(Token = "0x40003C0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 		private string sourceUri;
 
-		// Token: 0x04000259 RID: 601
 		[global::Cpp2ILInjected.Token(Token = "0x40003C1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 		private string message;

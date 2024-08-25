@@ -8,7 +8,6 @@ using UnityEngine.Experimental.GlobalIllumination;
 
 namespace UnityEngine
 {
-	// Token: 0x02000041 RID: 65
 	[RequireComponent(typeof(Transform))]
 	[NativeHeader("Runtime/Camera/Light.h")]
 	[NativeHeader("Runtime/Export/Graphics/Light.bindings.h")]
@@ -16,8 +15,6 @@ namespace UnityEngine
 	[global::Cpp2ILInjected.Token(Token = "0x2000044")]
 	public sealed class Light : Behaviour
 	{
-		// Token: 0x17000013 RID: 19
-		// (get) Token: 0x0600008A RID: 138
 		[global::Cpp2ILInjected.Token(Token = "0x17000015")]
 		public extern LightShadows shadows
 		{
@@ -55,8 +52,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000014 RID: 20
-		// (get) Token: 0x0600008B RID: 139
 		[global::Cpp2ILInjected.Token(Token = "0x17000016")]
 		public extern float cookieSize
 		{
@@ -73,8 +68,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000015 RID: 21
-		// (get) Token: 0x0600008C RID: 140
 		[global::Cpp2ILInjected.Token(Token = "0x17000017")]
 		public extern Texture cookie
 		{
@@ -91,8 +84,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000016 RID: 22
-		// (get) Token: 0x0600008D RID: 141
 		[NativeProperty("LightType")]
 		[global::Cpp2ILInjected.Token(Token = "0x17000018")]
 		public extern LightType type
@@ -115,8 +106,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000017 RID: 23
-		// (get) Token: 0x0600008E RID: 142
 		[global::Cpp2ILInjected.Token(Token = "0x17000019")]
 		public extern float spotAngle
 		{
@@ -134,8 +123,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000018 RID: 24
-		// (get) Token: 0x0600008F RID: 143 RVA: 0x0000217F File Offset: 0x0000037F
 		[global::Cpp2ILInjected.Token(Token = "0x1700001A")]
 		public Color color
 		{
@@ -176,8 +163,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000019 RID: 25
-		// (get) Token: 0x06000090 RID: 144
 		[global::Cpp2ILInjected.Token(Token = "0x1700001B")]
 		public extern float colorTemperature
 		{
@@ -190,8 +175,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700001A RID: 26
-		// (get) Token: 0x06000091 RID: 145
 		[global::Cpp2ILInjected.Token(Token = "0x1700001C")]
 		public extern bool useColorTemperature
 		{
@@ -204,8 +187,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700001B RID: 27
-		// (get) Token: 0x06000092 RID: 146
 		[global::Cpp2ILInjected.Token(Token = "0x1700001D")]
 		public extern float intensity
 		{
@@ -243,8 +224,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700001C RID: 28
-		// (get) Token: 0x06000093 RID: 147
 		[global::Cpp2ILInjected.Token(Token = "0x1700001E")]
 		public extern float bounceIntensity
 		{
@@ -257,8 +236,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700001D RID: 29
-		// (get) Token: 0x06000094 RID: 148
 		[global::Cpp2ILInjected.Token(Token = "0x1700001F")]
 		public extern float range
 		{
@@ -290,8 +267,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700001E RID: 30
-		// (get) Token: 0x06000095 RID: 149 RVA: 0x00002182 File Offset: 0x00000382
 		[global::Cpp2ILInjected.Token(Token = "0x17000020")]
 		public LightBakingOutput bakingOutput
 		{
@@ -331,7 +306,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000096 RID: 150
 		[global::Cpp2ILInjected.Token(Token = "0x600009E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6CFA4", Offset = "0x1F6CFA4", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -339,7 +313,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_color_Injected(out Color ret);
 
-		// Token: 0x06000097 RID: 151
 		[global::Cpp2ILInjected.Token(Token = "0x600009F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6D17C", Offset = "0x1F6D17C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -347,7 +320,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_bakingOutput_Injected(out LightBakingOutput ret);
 
-		// Token: 0x0400020B RID: 523
 		[global::Cpp2ILInjected.Token(Token = "0x400020F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int m_BakedIndex;

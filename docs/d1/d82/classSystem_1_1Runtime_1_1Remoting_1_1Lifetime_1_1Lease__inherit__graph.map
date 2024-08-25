@@ -1,7 +1,0 @@
-<map id="System.Runtime.Remoting.Lifetime.Lease" name="System.Runtime.Remoting.Lifetime.Lease">
-<area shape="rect" id="Node000001" title=" " alt="" coords="107,217,355,843"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,208,127"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,140,145,216,140,218,119,142"/>
-<area shape="rect" id="Node000003" href="$de/d4a/interfaceSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1ILease.html" title=" " alt="" coords="232,5,480,169"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,183,322,218,317,216,327,182"/>
-</map>

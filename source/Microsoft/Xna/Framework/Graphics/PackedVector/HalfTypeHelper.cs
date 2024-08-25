@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Xna.Framework.Graphics.PackedVector
 {
-	// Token: 0x020002E1 RID: 737
 	[global::Cpp2ILInjected.Token(Token = "0x20003B4")]
 	internal class HalfTypeHelper
 	{
-		// Token: 0x06001817 RID: 6167 RVA: 0x000262AF File Offset: 0x000244AF
 		[global::Cpp2ILInjected.Token(Token = "0x6001997")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9430", Offset = "0xAC9430", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,7 +17,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x06001818 RID: 6168 RVA: 0x000262B2 File Offset: 0x000244B2
 		[global::Cpp2ILInjected.Token(Token = "0x6001998")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9680", Offset = "0xAC9680", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,7 +42,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x06001819 RID: 6169 RVA: 0x000262B5 File Offset: 0x000244B5
 		[global::Cpp2ILInjected.Token(Token = "0x6001999")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9450", Offset = "0xAC9450", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,7 +57,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x0600181A RID: 6170 RVA: 0x000262B8 File Offset: 0x000244B8
 		[global::Cpp2ILInjected.Token(Token = "0x600199A")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9750", Offset = "0xAC9750", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -71,24 +66,20 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x02000832 RID: 2098
 		[global::Cpp2ILInjected.Token(Token = "0x20003B5")]
 		[StructLayout(2)]
 		private struct uif
 		{
-			// Token: 0x04007E1E RID: 32286
 			[global::Cpp2ILInjected.Token(Token = "0x400279F")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			[global::System.Runtime.InteropServices.FieldOffset(0)]
 			public float f;
 
-			// Token: 0x04007E1F RID: 32287
 			[global::Cpp2ILInjected.Token(Token = "0x40027A0")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			[global::System.Runtime.InteropServices.FieldOffset(0)]
 			public int i;
 
-			// Token: 0x04007E20 RID: 32288
 			[global::Cpp2ILInjected.Token(Token = "0x40027A1")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			[global::System.Runtime.InteropServices.FieldOffset(0)]

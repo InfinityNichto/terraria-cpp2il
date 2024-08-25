@@ -13,13 +13,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006BC RID: 1724
 	[global::Cpp2ILInjected.Token(Token = "0x2000A9A")]
 	public class UIBestiarySortingOptionsGrid : UIPanel
 	{
-		// Token: 0x14000057 RID: 87
-		// (add) Token: 0x060043D0 RID: 17360 RVA: 0x0002E217 File Offset: 0x0002C417
-		// (remove) Token: 0x060043D1 RID: 17361 RVA: 0x0002E21A File Offset: 0x0002C41A
 		[global::Cpp2ILInjected.Token(Token = "0x1400005D")]
 		public event Action OnClickingOption
 		{
@@ -56,7 +52,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x060043D2 RID: 17362 RVA: 0x0002E21D File Offset: 0x0002C41D
 		[global::Cpp2ILInjected.Token(Token = "0x6005017")]
 		[global::Cpp2ILInjected.Address(RVA = "0x908178", Offset = "0x908178", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIBestiaryTest), Member = "BuildPage", ReturnType = typeof(void))]
@@ -87,7 +82,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043D3 RID: 17363 RVA: 0x0002E220 File Offset: 0x0002C420
 		[global::Cpp2ILInjected.Token(Token = "0x6005018")]
 		[global::Cpp2ILInjected.Address(RVA = "0x908308", Offset = "0x908308", Length = "0x700")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -154,7 +148,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043D4 RID: 17364 RVA: 0x0002E223 File Offset: 0x0002C423
 		[global::Cpp2ILInjected.Token(Token = "0x6005019")]
 		[global::Cpp2ILInjected.Address(RVA = "0x908A08", Offset = "0x908A08", Length = "0x298")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -179,7 +172,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060043D5 RID: 17365 RVA: 0x0002E226 File Offset: 0x0002C426
 		[global::Cpp2ILInjected.Token(Token = "0x600501A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x908CA0", Offset = "0x908CA0", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -189,27 +181,22 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04006FBF RID: 28607
 		[global::Cpp2ILInjected.Token(Token = "0x40088EF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x168")]
 		private EntrySorter<BestiaryEntry, IBestiarySortStep> _sorter;
 
-		// Token: 0x04006FC0 RID: 28608
 		[global::Cpp2ILInjected.Token(Token = "0x40088F0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x170")]
 		private List<GroupOptionButton<int>> _buttonsBySorting;
 
-		// Token: 0x04006FC1 RID: 28609
 		[global::Cpp2ILInjected.Token(Token = "0x40088F1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x178")]
 		private int _currentSelected;
 
-		// Token: 0x04006FC2 RID: 28610
 		[global::Cpp2ILInjected.Token(Token = "0x40088F2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x17C")]
 		private int _defaultStepIndex;
 
-		// Token: 0x04006FC3 RID: 28611
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40088F3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x180")]

@@ -1,7 +1,0 @@
-<map id="System.Security.Cryptography.AsymmetricKeyExchangeDeformatter" name="System.Security.Cryptography.AsymmetricKeyExchangeDeformatter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="143,5,429,140"/>
-<area shape="rect" id="Node000002" href="$d8/d49/classSystem_1_1Security_1_1Cryptography_1_1RSAOAEPKeyExchangeDeformatter.html" title=" " alt="" coords="5,215,273,459"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,154,209,217,205,214,240,151"/>
-<area shape="rect" id="Node000003" href="$d9/d68/classSystem_1_1Security_1_1Cryptography_1_1RSAPKCS1KeyExchangeDeformatter.html" title=" " alt="" coords="297,188,571,487"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,150,352,186,348,189,328,153"/>
-</map>

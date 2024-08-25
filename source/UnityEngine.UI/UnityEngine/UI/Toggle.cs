@@ -7,15 +7,11 @@ using UnityEngine.EventSystems;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x0200003A RID: 58
 	[AddComponentMenu("UI/Toggle", 30)]
 	[RequireComponent(typeof(RectTransform))]
 	[global::Cpp2ILInjected.Token(Token = "0x2000073")]
 	public class Toggle : Selectable, IPointerClickHandler, IEventSystemHandler, ISubmitHandler, ICanvasElement
 	{
-		// Token: 0x1700013B RID: 315
-		// (get) Token: 0x06000468 RID: 1128 RVA: 0x00002D31 File Offset: 0x00000F31
-		// (set) Token: 0x06000469 RID: 1129 RVA: 0x00002D34 File Offset: 0x00000F34
 		[global::Cpp2ILInjected.Token(Token = "0x1700014E")]
 		public ToggleGroup group
 		{
@@ -41,7 +37,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x0600046A RID: 1130 RVA: 0x00002D37 File Offset: 0x00000F37
 		[global::Cpp2ILInjected.Token(Token = "0x60004CE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDDF6C", Offset = "0x1FDDF6C", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +48,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600046B RID: 1131 RVA: 0x00002D3A File Offset: 0x00000F3A
 		[global::Cpp2ILInjected.Token(Token = "0x60004CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDE040", Offset = "0x1FDE040", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -62,7 +56,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600046C RID: 1132 RVA: 0x00002D3D File Offset: 0x00000F3D
 		[global::Cpp2ILInjected.Token(Token = "0x60004D0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDE044", Offset = "0x1FDE044", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -71,7 +64,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600046D RID: 1133 RVA: 0x00002D40 File Offset: 0x00000F40
 		[global::Cpp2ILInjected.Token(Token = "0x60004D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDE048", Offset = "0x1FDE048", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -80,7 +72,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600046E RID: 1134 RVA: 0x00002D43 File Offset: 0x00000F43
 		[global::Cpp2ILInjected.Token(Token = "0x60004D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDE04C", Offset = "0x1FDE04C", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -97,7 +88,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600046F RID: 1135 RVA: 0x00002D46 File Offset: 0x00000F46
 		[global::Cpp2ILInjected.Token(Token = "0x60004D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDE484", Offset = "0x1FDE484", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -113,7 +103,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000470 RID: 1136 RVA: 0x00002D49 File Offset: 0x00000F49
 		[global::Cpp2ILInjected.Token(Token = "0x60004D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDE4B0", Offset = "0x1FDE4B0", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -128,7 +117,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000471 RID: 1137 RVA: 0x00002D4C File Offset: 0x00000F4C
 		[global::Cpp2ILInjected.Token(Token = "0x60004D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDE4D0", Offset = "0x1FDE4D0", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,7 +140,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000472 RID: 1138 RVA: 0x00002D4F File Offset: 0x00000F4F
 		[global::Cpp2ILInjected.Token(Token = "0x60004D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDDD84", Offset = "0x1FDDD84", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -178,9 +165,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x1700013C RID: 316
-		// (get) Token: 0x06000473 RID: 1139 RVA: 0x00002D52 File Offset: 0x00000F52
-		// (set) Token: 0x06000474 RID: 1140 RVA: 0x00002D55 File Offset: 0x00000F55
 		[global::Cpp2ILInjected.Token(Token = "0x1700014F")]
 		public bool isOn
 		{
@@ -216,7 +200,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x06000475 RID: 1141 RVA: 0x00002D58 File Offset: 0x00000F58
 		[global::Cpp2ILInjected.Token(Token = "0x60004D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDE9B0", Offset = "0x1FDE9B0", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -230,7 +213,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000476 RID: 1142 RVA: 0x00002D5B File Offset: 0x00000F5B
 		[global::Cpp2ILInjected.Token(Token = "0x60004DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDE5E8", Offset = "0x1FDE5E8", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -271,7 +253,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000477 RID: 1143 RVA: 0x00002D5E File Offset: 0x00000F5E
 		[global::Cpp2ILInjected.Token(Token = "0x60004DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDDEB0", Offset = "0x1FDDEB0", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -295,7 +276,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000478 RID: 1144 RVA: 0x00002D61 File Offset: 0x00000F61
 		[global::Cpp2ILInjected.Token(Token = "0x60004DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDEAF4", Offset = "0x1FDEAF4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -305,7 +285,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000479 RID: 1145 RVA: 0x00002D64 File Offset: 0x00000F64
 		[global::Cpp2ILInjected.Token(Token = "0x60004DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDEAFC", Offset = "0x1FDEAFC", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -322,7 +301,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600047A RID: 1146 RVA: 0x00002D67 File Offset: 0x00000F67
 		[global::Cpp2ILInjected.Token(Token = "0x60004DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDEB50", Offset = "0x1FDEB50", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -332,7 +310,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600047B RID: 1147 RVA: 0x00002D6A File Offset: 0x00000F6A
 		[global::Cpp2ILInjected.Token(Token = "0x60004DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDEB60", Offset = "0x1FDEB60", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -342,7 +319,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600047C RID: 1148 RVA: 0x00002D6D File Offset: 0x00000F6D
 		[global::Cpp2ILInjected.Token(Token = "0x60004E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FDEB64", Offset = "0x1FDEB64", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -352,52 +328,42 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x04000177 RID: 375
 		[global::Cpp2ILInjected.Token(Token = "0x400024A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xF8")]
 		public Toggle.ToggleTransition toggleTransition;
 
-		// Token: 0x04000178 RID: 376
 		[global::Cpp2ILInjected.Token(Token = "0x400024B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x100")]
 		public Graphic graphic;
 
-		// Token: 0x04000179 RID: 377
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400024C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x108")]
 		private ToggleGroup m_Group;
 
-		// Token: 0x0400017A RID: 378
 		[global::Cpp2ILInjected.Token(Token = "0x400024D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x110")]
 		public Toggle.ToggleEvent onValueChanged;
 
-		// Token: 0x0400017B RID: 379
 		[Tooltip("Is the toggle currently on or off?")]
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400024E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x118")]
 		private bool m_IsOn;
 
-		// Token: 0x020000B8 RID: 184
 		[global::Cpp2ILInjected.Token(Token = "0x2000074")]
 		public enum ToggleTransition
 		{
-			// Token: 0x0400031D RID: 797
 			[global::Cpp2ILInjected.Token(Token = "0x4000250")]
 			None,
-			// Token: 0x0400031E RID: 798
 			[global::Cpp2ILInjected.Token(Token = "0x4000251")]
 			Fade
 		}
 
-		// Token: 0x020000B9 RID: 185
 		[global::Cpp2ILInjected.Token(Token = "0x2000075")]
 		[Serializable]
 		public class ToggleEvent : UnityEvent<bool>
 		{
-			// Token: 0x060006C8 RID: 1736 RVA: 0x000033E8 File Offset: 0x000015E8
 			[global::Cpp2ILInjected.Token(Token = "0x60004E1")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FDDFF8", Offset = "0x1FDDFF8", Length = "0x48")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Toggle), Member = ".ctor", ReturnType = typeof(void))]

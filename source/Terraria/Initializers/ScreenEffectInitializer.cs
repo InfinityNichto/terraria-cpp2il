@@ -10,11 +10,9 @@ using Terraria.Graphics.Shaders;
 
 namespace Terraria.Initializers
 {
-	// Token: 0x020003D9 RID: 985
 	[global::Cpp2ILInjected.Token(Token = "0x200058F")]
 	public static class ScreenEffectInitializer
 	{
-		// Token: 0x0600302F RID: 12335 RVA: 0x0002A9D7 File Offset: 0x00028BD7
 		[global::Cpp2ILInjected.Token(Token = "0x60034C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x137F20C", Offset = "0x137F20C", Length = "0x13D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -93,7 +91,6 @@ namespace Terraria.Initializers
 			throw null;
 		}
 
-		// Token: 0x06003030 RID: 12336 RVA: 0x0002A9DA File Offset: 0x00028BDA
 		[global::Cpp2ILInjected.Token(Token = "0x60034C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13805E4", Offset = "0x13805E4", Length = "0x6C0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenEffectInitializer), Member = "Load", ReturnType = typeof(void))]

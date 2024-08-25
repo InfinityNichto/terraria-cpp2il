@@ -7,11 +7,9 @@ using UnityEngine;
 
 namespace BindingsExample
 {
-	// Token: 0x0200000D RID: 13
 	[global::Cpp2ILInjected.Token(Token = "0x200000D")]
 	public class BindingsExample : MonoBehaviour
 	{
-		// Token: 0x06000042 RID: 66 RVA: 0x00002113 File Offset: 0x00000313
 		[global::Cpp2ILInjected.Token(Token = "0x6000042")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198F8A4", Offset = "0x198F8A4", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -22,7 +20,6 @@ namespace BindingsExample
 			throw null;
 		}
 
-		// Token: 0x06000043 RID: 67 RVA: 0x00002116 File Offset: 0x00000316
 		[global::Cpp2ILInjected.Token(Token = "0x6000043")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198FDFC", Offset = "0x198FDFC", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -32,7 +29,6 @@ namespace BindingsExample
 			throw null;
 		}
 
-		// Token: 0x06000044 RID: 68 RVA: 0x00002119 File Offset: 0x00000319
 		[global::Cpp2ILInjected.Token(Token = "0x6000044")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198FE08", Offset = "0x198FE08", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -43,7 +39,6 @@ namespace BindingsExample
 			throw null;
 		}
 
-		// Token: 0x06000045 RID: 69 RVA: 0x0000211C File Offset: 0x0000031C
 		[global::Cpp2ILInjected.Token(Token = "0x6000045")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198FE58", Offset = "0x198FE58", Length = "0x1B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +60,6 @@ namespace BindingsExample
 			throw null;
 		}
 
-		// Token: 0x06000046 RID: 70 RVA: 0x0000211F File Offset: 0x0000031F
 		[global::Cpp2ILInjected.Token(Token = "0x6000046")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1990008", Offset = "0x1990008", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BindingsExample), Member = "OnGUI", ReturnType = typeof(void))]
@@ -82,7 +76,6 @@ namespace BindingsExample
 			throw null;
 		}
 
-		// Token: 0x06000047 RID: 71 RVA: 0x00002122 File Offset: 0x00000322
 		[global::Cpp2ILInjected.Token(Token = "0x6000047")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198FD80", Offset = "0x198FD80", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BindingsExample), Member = "OnEnable", ReturnType = typeof(void))]
@@ -97,7 +90,6 @@ namespace BindingsExample
 			throw null;
 		}
 
-		// Token: 0x06000048 RID: 72 RVA: 0x00002125 File Offset: 0x00000325
 		[global::Cpp2ILInjected.Token(Token = "0x6000048")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1990064", Offset = "0x1990064", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -107,7 +99,6 @@ namespace BindingsExample
 			throw null;
 		}
 
-		// Token: 0x06000049 RID: 73 RVA: 0x00002128 File Offset: 0x00000328
 		[global::Cpp2ILInjected.Token(Token = "0x6000049")]
 		[global::Cpp2ILInjected.Address(RVA = "0x199006C", Offset = "0x199006C", Length = "0x7D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -159,7 +150,6 @@ namespace BindingsExample
 			throw null;
 		}
 
-		// Token: 0x0600004A RID: 74 RVA: 0x0000212B File Offset: 0x0000032B
 		[global::Cpp2ILInjected.Token(Token = "0x600004A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1990844", Offset = "0x1990844", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -169,17 +159,14 @@ namespace BindingsExample
 			throw null;
 		}
 
-		// Token: 0x04000029 RID: 41
 		[global::Cpp2ILInjected.Token(Token = "0x4000029")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Renderer cachedRenderer;
 
-		// Token: 0x0400002A RID: 42
 		[global::Cpp2ILInjected.Token(Token = "0x400002A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private PlayerActions playerActions;
 
-		// Token: 0x0400002B RID: 43
 		[global::Cpp2ILInjected.Token(Token = "0x400002B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private string saveData;

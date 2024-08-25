@@ -6,11 +6,9 @@ using Telepathy;
 using Terraria;
 using UnityEngine;
 
-// Token: 0x0200021B RID: 539
 [global::Cpp2ILInjected.Token(Token = "0x20002C3")]
 public class SaveSynchronisationClient
 {
-	// Token: 0x06000F2C RID: 3884 RVA: 0x00024881 File Offset: 0x00022A81
 	[global::Cpp2ILInjected.Token(Token = "0x600105F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA44910", Offset = "0xA44910", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -24,7 +22,6 @@ public class SaveSynchronisationClient
 		throw null;
 	}
 
-	// Token: 0x06000F2D RID: 3885 RVA: 0x00024884 File Offset: 0x00022A84
 	[global::Cpp2ILInjected.Token(Token = "0x6001060")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA44920", Offset = "0xA44920", Length = "0xC")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -34,7 +31,6 @@ public class SaveSynchronisationClient
 		throw null;
 	}
 
-	// Token: 0x06000F2E RID: 3886 RVA: 0x00024887 File Offset: 0x00022A87
 	[global::Cpp2ILInjected.Token(Token = "0x6001061")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA4492C", Offset = "0xA4492C", Length = "0x140")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +61,6 @@ public class SaveSynchronisationClient
 		throw null;
 	}
 
-	// Token: 0x06000F2F RID: 3887 RVA: 0x0002488A File Offset: 0x00022A8A
 	[global::Cpp2ILInjected.Token(Token = "0x6001062")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA356CC", Offset = "0xA356CC", Length = "0x3E4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,7 +86,6 @@ public class SaveSynchronisationClient
 		throw null;
 	}
 
-	// Token: 0x06000F30 RID: 3888 RVA: 0x0002488D File Offset: 0x00022A8D
 	[global::Cpp2ILInjected.Token(Token = "0x6001063")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA351D0", Offset = "0xA351D0", Length = "0x118")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_FileList), Member = "DrawCategories", ReturnType = typeof(void))]
@@ -119,7 +113,6 @@ public class SaveSynchronisationClient
 		throw null;
 	}
 
-	// Token: 0x06000F31 RID: 3889 RVA: 0x00024890 File Offset: 0x00022A90
 	[global::Cpp2ILInjected.Token(Token = "0x6001064")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA44EE4", Offset = "0xA44EE4", Length = "0x584")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +149,6 @@ public class SaveSynchronisationClient
 		throw null;
 	}
 
-	// Token: 0x06000F32 RID: 3890 RVA: 0x00024893 File Offset: 0x00022A93
 	[global::Cpp2ILInjected.Token(Token = "0x6001065")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA455FC", Offset = "0xA455FC", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationManager), Member = ".ctor", ReturnType = typeof(void))]
@@ -169,12 +161,10 @@ public class SaveSynchronisationClient
 		throw null;
 	}
 
-	// Token: 0x04001A0D RID: 6669
 	[global::Cpp2ILInjected.Token(Token = "0x4001F42")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public Client Client;
 
-	// Token: 0x04001A0E RID: 6670
 	[global::Cpp2ILInjected.Token(Token = "0x4001F43")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public SaveSynchronisationOperation CurrentOperation;

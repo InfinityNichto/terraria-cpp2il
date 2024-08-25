@@ -6,12 +6,9 @@ using UnityEngine.SocialPlatforms.Impl;
 
 namespace UnityEngine.SocialPlatforms
 {
-	// Token: 0x02000003 RID: 3
 	[global::Cpp2ILInjected.Token(Token = "0x2000003")]
 	public class Local : ISocialPlatform
 	{
-		// Token: 0x17000003 RID: 3
-		// (get) Token: 0x06000003 RID: 3 RVA: 0x00002056 File Offset: 0x00000256
 		[global::Cpp2ILInjected.Token(Token = "0x17000003")]
 		public ILocalUser localUser
 		{
@@ -26,7 +23,6 @@ namespace UnityEngine.SocialPlatforms
 			}
 		}
 
-		// Token: 0x06000004 RID: 4 RVA: 0x00002059 File Offset: 0x00000259
 		[global::Cpp2ILInjected.Token(Token = "0x6000004")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F92A24", Offset = "0x1F92A24", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +39,6 @@ namespace UnityEngine.SocialPlatforms
 			throw null;
 		}
 
-		// Token: 0x06000005 RID: 5 RVA: 0x0000205C File Offset: 0x0000025C
 		[global::Cpp2ILInjected.Token(Token = "0x6000005")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F92C10", Offset = "0x1F92C10", Length = "0xBD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +60,6 @@ namespace UnityEngine.SocialPlatforms
 			throw null;
 		}
 
-		// Token: 0x06000006 RID: 6 RVA: 0x0000205F File Offset: 0x0000025F
 		[global::Cpp2ILInjected.Token(Token = "0x6000006")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F92B30", Offset = "0x1F92B30", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -93,7 +87,6 @@ namespace UnityEngine.SocialPlatforms
 			throw null;
 		}
 
-		// Token: 0x06000007 RID: 7 RVA: 0x00002062 File Offset: 0x00000262
 		[global::Cpp2ILInjected.Token(Token = "0x6000007")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F93A34", Offset = "0x1F93A34", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ActivePlatform), Member = "SelectSocialPlatform", ReturnType = typeof(ISocialPlatform))]
@@ -106,36 +99,29 @@ namespace UnityEngine.SocialPlatforms
 			throw null;
 		}
 
-		// Token: 0x04000001 RID: 1
 		[global::Cpp2ILInjected.Token(Token = "0x4000001")]
 		private static LocalUser m_LocalUser;
 
-		// Token: 0x04000002 RID: 2
 		[global::Cpp2ILInjected.Token(Token = "0x4000002")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private List<UserProfile> m_Friends;
 
-		// Token: 0x04000003 RID: 3
 		[global::Cpp2ILInjected.Token(Token = "0x4000003")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private List<UserProfile> m_Users;
 
-		// Token: 0x04000004 RID: 4
 		[global::Cpp2ILInjected.Token(Token = "0x4000004")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private List<AchievementDescription> m_AchievementDescriptions;
 
-		// Token: 0x04000005 RID: 5
 		[global::Cpp2ILInjected.Token(Token = "0x4000005")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private List<Achievement> m_Achievements;
 
-		// Token: 0x04000006 RID: 6
 		[global::Cpp2ILInjected.Token(Token = "0x4000006")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private List<Leaderboard> m_Leaderboards;
 
-		// Token: 0x04000007 RID: 7
 		[global::Cpp2ILInjected.Token(Token = "0x4000007")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private Texture2D m_DefaultTexture;

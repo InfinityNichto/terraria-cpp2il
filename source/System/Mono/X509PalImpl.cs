@@ -11,23 +11,18 @@ using Mono.Security.Authenticode;
 
 namespace Mono
 {
-	// Token: 0x02000007 RID: 7
 	[global::Cpp2ILInjected.Token(Token = "0x200000C")]
 	internal abstract class X509PalImpl
 	{
-		// Token: 0x06000017 RID: 23
 		[global::Cpp2ILInjected.Token(Token = "0x600002D")]
 		public abstract X509CertificateImpl Import(byte[] data);
 
-		// Token: 0x06000018 RID: 24
 		[global::Cpp2ILInjected.Token(Token = "0x600002E")]
 		public abstract X509Certificate2Impl Import(byte[] data, SafePasswordHandle password, X509KeyStorageFlags keyStorageFlags);
 
-		// Token: 0x06000019 RID: 25
 		[global::Cpp2ILInjected.Token(Token = "0x600002F")]
 		public abstract X509Certificate2Impl Import(X509Certificate cert);
 
-		// Token: 0x0600001A RID: 26 RVA: 0x00002E7F File Offset: 0x0000107F
 		[global::Cpp2ILInjected.Token(Token = "0x6000030")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D40FB8", Offset = "0x1D40FB8", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -57,7 +52,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x0600001B RID: 27 RVA: 0x00002E82 File Offset: 0x00001082
 		[global::Cpp2ILInjected.Token(Token = "0x6000031")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D410E4", Offset = "0x1D410E4", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -74,7 +68,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x0600001C RID: 28 RVA: 0x00002E85 File Offset: 0x00001085
 		[global::Cpp2ILInjected.Token(Token = "0x6000032")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D40820", Offset = "0x1D40820", Length = "0x1F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +92,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x0600001D RID: 29 RVA: 0x00002E88 File Offset: 0x00001088
 		[global::Cpp2ILInjected.Token(Token = "0x6000033")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D40AA0", Offset = "0x1D40AA0", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509PalImplMono), Member = "Import", MemberParameters = new object[]
@@ -121,8 +113,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x17000007 RID: 7
-		// (get) Token: 0x0600001E RID: 30 RVA: 0x00002E8B File Offset: 0x0000108B
 		[global::Cpp2ILInjected.Token(Token = "0x17000007")]
 		public bool SupportsLegacyBasicConstraintsExtension
 		{
@@ -136,7 +126,6 @@ namespace Mono
 			}
 		}
 
-		// Token: 0x0600001F RID: 31 RVA: 0x00002E8E File Offset: 0x0000108E
 		[global::Cpp2ILInjected.Token(Token = "0x6000035")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D411F0", Offset = "0x1D411F0", Length = "0x39C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +145,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x06000020 RID: 32 RVA: 0x00002E91 File Offset: 0x00001091
 		[global::Cpp2ILInjected.Token(Token = "0x6000036")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D40FB0", Offset = "0x1D40FB0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -166,7 +154,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x06000021 RID: 33 RVA: 0x00002E94 File Offset: 0x00001094
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000037")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4158C", Offset = "0x1D4158C", Length = "0x94")]
@@ -182,7 +169,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x04000007 RID: 7
 		[global::Cpp2ILInjected.Token(Token = "0x400002D")]
 		private static byte[] signedData;
 	}

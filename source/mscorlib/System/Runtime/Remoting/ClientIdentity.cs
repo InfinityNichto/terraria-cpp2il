@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting
 {
-	// Token: 0x020002A2 RID: 674
 	[global::Cpp2ILInjected.Token(Token = "0x2000340")]
 	internal class ClientIdentity : Identity
 	{
-		// Token: 0x060019AA RID: 6570 RVA: 0x00018D16 File Offset: 0x00016F16
 		[global::Cpp2ILInjected.Token(Token = "0x6001BCD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B24F14", Offset = "0x1B24F14", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -27,9 +25,6 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x170002DA RID: 730
-		// (get) Token: 0x060019AB RID: 6571 RVA: 0x00018D19 File Offset: 0x00016F19
-		// (set) Token: 0x060019AC RID: 6572 RVA: 0x00018D1C File Offset: 0x00016F1C
 		[global::Cpp2ILInjected.Token(Token = "0x17000332")]
 		public global::System.MarshalByRefObject ClientProxy
 		{
@@ -66,7 +61,6 @@ namespace System.Runtime.Remoting
 			}
 		}
 
-		// Token: 0x060019AD RID: 6573 RVA: 0x00018D1F File Offset: 0x00016F1F
 		[global::Cpp2ILInjected.Token(Token = "0x6001BD0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B250F8", Offset = "0x1B250F8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -75,8 +69,6 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x170002DB RID: 731
-		// (get) Token: 0x060019AE RID: 6574 RVA: 0x00018D22 File Offset: 0x00016F22
 		[global::Cpp2ILInjected.Token(Token = "0x17000333")]
 		public string TargetUri
 		{
@@ -96,7 +88,6 @@ namespace System.Runtime.Remoting
 			}
 		}
 
-		// Token: 0x04000B48 RID: 2888
 		[global::Cpp2ILInjected.Token(Token = "0x4000E28")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private global::System.WeakReference _proxyReference;

@@ -5,11 +5,9 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine._Scripting.APIUpdating
 {
-	// Token: 0x020000D3 RID: 211
 	[global::Cpp2ILInjected.Token(Token = "0x20000EA")]
 	internal class APIUpdaterRuntimeHelpers
 	{
-		// Token: 0x060004F0 RID: 1264 RVA: 0x00002AC1 File Offset: 0x00000CC1
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600050E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F87700", Offset = "0x1F87700", Length = "0x134")]
@@ -22,7 +20,6 @@ namespace UnityEngine._Scripting.APIUpdating
 			throw null;
 		}
 
-		// Token: 0x060004F1 RID: 1265 RVA: 0x00002AC4 File Offset: 0x00000CC4
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600050F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F87834", Offset = "0x1F87834", Length = "0x28C")]

@@ -4,11 +4,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 
-// Token: 0x0200007F RID: 127
 [global::Cpp2ILInjected.Token(Token = "0x20000B6")]
 public class GUIControllerChest : GUIPageContentController
 {
-	// Token: 0x060003B9 RID: 953 RVA: 0x00022670 File Offset: 0x00020870
 	[global::Cpp2ILInjected.Token(Token = "0x6000453")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA886A8", Offset = "0xA886A8", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerPageRedirect), Member = ".ctor", ReturnType = typeof(void))]
@@ -19,7 +17,6 @@ public class GUIControllerChest : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x060003BA RID: 954 RVA: 0x00022673 File Offset: 0x00020873
 	[global::Cpp2ILInjected.Token(Token = "0x6000454")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA886C0", Offset = "0xA886C0", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -28,7 +25,6 @@ public class GUIControllerChest : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x060003BB RID: 955 RVA: 0x00022676 File Offset: 0x00020876
 	[global::Cpp2ILInjected.Token(Token = "0x6000455")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA886C4", Offset = "0xA886C4", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -37,7 +33,6 @@ public class GUIControllerChest : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x060003BC RID: 956 RVA: 0x00022679 File Offset: 0x00020879
 	[global::Cpp2ILInjected.Token(Token = "0x6000456")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA886CC", Offset = "0xA886CC", Length = "0xF0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +44,6 @@ public class GUIControllerChest : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x060003BD RID: 957 RVA: 0x0002267C File Offset: 0x0002087C
 	[global::Cpp2ILInjected.Token(Token = "0x6000457")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA887BC", Offset = "0xA887BC", Length = "0x2C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -87,12 +81,10 @@ public class GUIControllerChest : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x040002C5 RID: 709
 	[global::Cpp2ILInjected.Token(Token = "0x400043B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	public int itemRow;
 
-	// Token: 0x040002C6 RID: 710
 	[global::Cpp2ILInjected.Token(Token = "0x400043C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public int itemColumn;

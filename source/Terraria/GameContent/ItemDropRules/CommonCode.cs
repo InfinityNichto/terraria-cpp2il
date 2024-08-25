@@ -10,11 +10,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent.ItemDropRules
 {
-	// Token: 0x020005CB RID: 1483
 	[global::Cpp2ILInjected.Token(Token = "0x2000877")]
 	public static class CommonCode
 	{
-		// Token: 0x06003C77 RID: 15479 RVA: 0x0002CCB1 File Offset: 0x0002AEB1
 		[global::Cpp2ILInjected.Token(Token = "0x60043E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A73D0", Offset = "0x7A73D0", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +58,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003C78 RID: 15480 RVA: 0x0002CCB4 File Offset: 0x0002AEB4
 		[global::Cpp2ILInjected.Token(Token = "0x60043E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A77E8", Offset = "0x7A77E8", Length = "0x530")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -124,7 +121,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003C79 RID: 15481 RVA: 0x0002CCB7 File Offset: 0x0002AEB7
 		[global::Cpp2ILInjected.Token(Token = "0x60043E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A7D18", Offset = "0x7A7D18", Length = "0x20C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -165,7 +161,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003C7A RID: 15482 RVA: 0x0002CCBA File Offset: 0x0002AEBA
 		[global::Cpp2ILInjected.Token(Token = "0x60043E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A75A0", Offset = "0x7A75A0", Length = "0x248")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

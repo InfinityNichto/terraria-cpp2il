@@ -9,11 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005F5 RID: 1525
 	[global::Cpp2ILInjected.Token(Token = "0x20008ED")]
 	public class EnchantedSwordBiome : MicroBiome
 	{
-		// Token: 0x06003D85 RID: 15749 RVA: 0x0002CFC3 File Offset: 0x0002B1C3
 		[global::Cpp2ILInjected.Token(Token = "0x6004608")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C7A30", Offset = "0x7C7A30", Length = "0x1188")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +164,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D86 RID: 15750 RVA: 0x0002CFC6 File Offset: 0x0002B1C6
 		[global::Cpp2ILInjected.Token(Token = "0x6004609")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C8BB8", Offset = "0x7C8BB8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -176,13 +173,11 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x04006BF9 RID: 27641
 		[JsonProperty("ChanceOfEntrance")]
 		[global::Cpp2ILInjected.Token(Token = "0x4008259")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private double _chanceOfEntrance;
 
-		// Token: 0x04006BFA RID: 27642
 		[JsonProperty("ChanceOfRealSword")]
 		[global::Cpp2ILInjected.Token(Token = "0x400825A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]

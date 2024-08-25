@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Security.Protocol.Ntlm
 {
-	// Token: 0x02000025 RID: 37
 	[global::Cpp2ILInjected.Token(Token = "0x2000040")]
 	public class Type2Message : MessageBase
 	{
-		// Token: 0x06000181 RID: 385 RVA: 0x000033C0 File Offset: 0x000015C0
 		[global::Cpp2ILInjected.Token(Token = "0x60001D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9A3F0", Offset = "0x1A9A3F0", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Http.NtlmSession", Member = "Authenticate", MemberParameters = new object[]
@@ -27,7 +25,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x06000182 RID: 386 RVA: 0x000033C3 File Offset: 0x000015C3
 		[global::Cpp2ILInjected.Token(Token = "0x60001D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9A494", Offset = "0x1A9A494", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,8 +42,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x1700006D RID: 109
-		// (get) Token: 0x06000183 RID: 387 RVA: 0x000033C6 File Offset: 0x000015C6
 		[global::Cpp2ILInjected.Token(Token = "0x17000088")]
 		public byte[] Nonce
 		{
@@ -79,8 +74,6 @@ namespace Mono.Security.Protocol.Ntlm
 			}
 		}
 
-		// Token: 0x1700006E RID: 110
-		// (get) Token: 0x06000184 RID: 388 RVA: 0x000033C9 File Offset: 0x000015C9
 		[global::Cpp2ILInjected.Token(Token = "0x17000089")]
 		public string TargetName
 		{
@@ -93,8 +86,6 @@ namespace Mono.Security.Protocol.Ntlm
 			}
 		}
 
-		// Token: 0x1700006F RID: 111
-		// (get) Token: 0x06000185 RID: 389 RVA: 0x000033CC File Offset: 0x000015CC
 		[global::Cpp2ILInjected.Token(Token = "0x1700008A")]
 		public byte[] TargetInfo
 		{
@@ -116,7 +107,6 @@ namespace Mono.Security.Protocol.Ntlm
 			}
 		}
 
-		// Token: 0x06000186 RID: 390 RVA: 0x000033CF File Offset: 0x000015CF
 		[global::Cpp2ILInjected.Token(Token = "0x60001DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9A544", Offset = "0x1A9A544", Length = "0x168")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -148,7 +138,6 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x06000187 RID: 391 RVA: 0x000033D2 File Offset: 0x000015D2
 		[global::Cpp2ILInjected.Token(Token = "0x60001DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9A6AC", Offset = "0x1A9A6AC", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -167,17 +156,14 @@ namespace Mono.Security.Protocol.Ntlm
 			throw null;
 		}
 
-		// Token: 0x040000BE RID: 190
 		[global::Cpp2ILInjected.Token(Token = "0x40000EB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private byte[] _nonce;
 
-		// Token: 0x040000BF RID: 191
 		[global::Cpp2ILInjected.Token(Token = "0x40000EC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string _targetName;
 
-		// Token: 0x040000C0 RID: 192
 		[global::Cpp2ILInjected.Token(Token = "0x40000ED")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private byte[] _targetInfo;

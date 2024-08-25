@@ -5,13 +5,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 
-// Token: 0x02000131 RID: 305
 [global::Cpp2ILInjected.Token(Token = "0x20001AC")]
 public static class ControlAnchor
 {
-	// Token: 0x170000FE RID: 254
-	// (get) Token: 0x06000A6D RID: 2669 RVA: 0x00023A8C File Offset: 0x00021C8C
-	// (set) Token: 0x06000A6E RID: 2670 RVA: 0x00023A8F File Offset: 0x00021C8F
 	[global::Cpp2ILInjected.Token(Token = "0x17000125")]
 	public static Rectangle BottomCentre_Root
 	{
@@ -34,9 +30,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x170000FF RID: 255
-	// (get) Token: 0x06000A6F RID: 2671 RVA: 0x00023A92 File Offset: 0x00021C92
-	// (set) Token: 0x06000A70 RID: 2672 RVA: 0x00023A95 File Offset: 0x00021C95
 	[global::Cpp2ILInjected.Token(Token = "0x17000126")]
 	public static Rectangle BottomCentre_ChatUI
 	{
@@ -59,9 +52,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000100 RID: 256
-	// (get) Token: 0x06000A71 RID: 2673 RVA: 0x00023A98 File Offset: 0x00021C98
-	// (set) Token: 0x06000A72 RID: 2674 RVA: 0x00023A9B File Offset: 0x00021C9B
 	[global::Cpp2ILInjected.Token(Token = "0x17000127")]
 	public static Rectangle BottomCentre_BossBar
 	{
@@ -84,9 +74,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000101 RID: 257
-	// (get) Token: 0x06000A73 RID: 2675 RVA: 0x00023A9E File Offset: 0x00021C9E
-	// (set) Token: 0x06000A74 RID: 2676 RVA: 0x00023AA1 File Offset: 0x00021CA1
 	[global::Cpp2ILInjected.Token(Token = "0x17000128")]
 	public static Rectangle BottomCentre_EventBar
 	{
@@ -109,9 +96,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000102 RID: 258
-	// (get) Token: 0x06000A75 RID: 2677 RVA: 0x00023AA4 File Offset: 0x00021CA4
-	// (set) Token: 0x06000A76 RID: 2678 RVA: 0x00023AA7 File Offset: 0x00021CA7
 	[global::Cpp2ILInjected.Token(Token = "0x17000129")]
 	public static Rectangle BottomCentre_ProgressIndicator
 	{
@@ -134,9 +118,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000103 RID: 259
-	// (get) Token: 0x06000A77 RID: 2679 RVA: 0x00023AAA File Offset: 0x00021CAA
-	// (set) Token: 0x06000A78 RID: 2680 RVA: 0x00023AAD File Offset: 0x00021CAD
 	[global::Cpp2ILInjected.Token(Token = "0x1700012A")]
 	public static Rectangle BottomCentre_Notification
 	{
@@ -159,9 +140,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000104 RID: 260
-	// (get) Token: 0x06000A79 RID: 2681 RVA: 0x00023AB0 File Offset: 0x00021CB0
-	// (set) Token: 0x06000A7A RID: 2682 RVA: 0x00023AB3 File Offset: 0x00021CB3
 	[global::Cpp2ILInjected.Token(Token = "0x1700012B")]
 	public static Rectangle Right_Root
 	{
@@ -187,9 +165,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000105 RID: 261
-	// (get) Token: 0x06000A7B RID: 2683 RVA: 0x00023AB6 File Offset: 0x00021CB6
-	// (set) Token: 0x06000A7C RID: 2684 RVA: 0x00023AB9 File Offset: 0x00021CB9
 	[global::Cpp2ILInjected.Token(Token = "0x1700012C")]
 	public static Rectangle Right_MainUI
 	{
@@ -212,9 +187,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000106 RID: 262
-	// (get) Token: 0x06000A7D RID: 2685 RVA: 0x00023ABC File Offset: 0x00021CBC
-	// (set) Token: 0x06000A7E RID: 2686 RVA: 0x00023ABF File Offset: 0x00021CBF
 	[global::Cpp2ILInjected.Token(Token = "0x1700012D")]
 	public static Rectangle Right_TextNotifications
 	{
@@ -237,9 +209,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000107 RID: 263
-	// (get) Token: 0x06000A7F RID: 2687 RVA: 0x00023AC2 File Offset: 0x00021CC2
-	// (set) Token: 0x06000A80 RID: 2688 RVA: 0x00023AC5 File Offset: 0x00021CC5
 	[global::Cpp2ILInjected.Token(Token = "0x1700012E")]
 	public static Rectangle Right_Event
 	{
@@ -262,9 +231,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000108 RID: 264
-	// (get) Token: 0x06000A81 RID: 2689 RVA: 0x00023AC8 File Offset: 0x00021CC8
-	// (set) Token: 0x06000A82 RID: 2690 RVA: 0x00023ACB File Offset: 0x00021CCB
 	[global::Cpp2ILInjected.Token(Token = "0x1700012F")]
 	public static Rectangle Right_BossBar
 	{
@@ -287,9 +253,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000109 RID: 265
-	// (get) Token: 0x06000A83 RID: 2691 RVA: 0x00023ACE File Offset: 0x00021CCE
-	// (set) Token: 0x06000A84 RID: 2692 RVA: 0x00023AD1 File Offset: 0x00021CD1
 	[global::Cpp2ILInjected.Token(Token = "0x17000130")]
 	public static Rectangle Right_StatusIndicator
 	{
@@ -312,9 +275,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x1700010A RID: 266
-	// (get) Token: 0x06000A85 RID: 2693 RVA: 0x00023AD4 File Offset: 0x00021CD4
-	// (set) Token: 0x06000A86 RID: 2694 RVA: 0x00023AD7 File Offset: 0x00021CD7
 	[global::Cpp2ILInjected.Token(Token = "0x17000131")]
 	public static Rectangle Right_InfoAccessories
 	{
@@ -337,9 +297,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x1700010B RID: 267
-	// (get) Token: 0x06000A87 RID: 2695 RVA: 0x00023ADA File Offset: 0x00021CDA
-	// (set) Token: 0x06000A88 RID: 2696 RVA: 0x00023ADD File Offset: 0x00021CDD
 	[global::Cpp2ILInjected.Token(Token = "0x17000132")]
 	public static Rectangle Right_InfoAccessories2
 	{
@@ -362,9 +319,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x1700010C RID: 268
-	// (get) Token: 0x06000A89 RID: 2697 RVA: 0x00023AE0 File Offset: 0x00021CE0
-	// (set) Token: 0x06000A8A RID: 2698 RVA: 0x00023AE3 File Offset: 0x00021CE3
 	[global::Cpp2ILInjected.Token(Token = "0x17000133")]
 	public static Rectangle Right_AchievementNotifiations
 	{
@@ -387,9 +341,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x1700010D RID: 269
-	// (get) Token: 0x06000A8B RID: 2699 RVA: 0x00023AE6 File Offset: 0x00021CE6
-	// (set) Token: 0x06000A8C RID: 2700 RVA: 0x00023AE9 File Offset: 0x00021CE9
 	[global::Cpp2ILInjected.Token(Token = "0x17000134")]
 	public static Rectangle _gridItemRegion
 	{
@@ -418,9 +369,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x1700010E RID: 270
-	// (get) Token: 0x06000A8D RID: 2701 RVA: 0x00023AEC File Offset: 0x00021CEC
-	// (set) Token: 0x06000A8E RID: 2702 RVA: 0x00023AEF File Offset: 0x00021CEF
 	[global::Cpp2ILInjected.Token(Token = "0x17000135")]
 	public static Rectangle PageGroupRegion
 	{
@@ -452,9 +400,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x1700010F RID: 271
-	// (get) Token: 0x06000A8F RID: 2703 RVA: 0x00023AF2 File Offset: 0x00021CF2
-	// (set) Token: 0x06000A90 RID: 2704 RVA: 0x00023AF5 File Offset: 0x00021CF5
 	[global::Cpp2ILInjected.Token(Token = "0x17000136")]
 	public static Rectangle PageContentRegion
 	{
@@ -499,9 +444,310 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x06000A91 RID: 2705 RVA: 0x00023AF8 File Offset: 0x00021CF8
 	[global::Cpp2ILInjected.Token(Token = "0x6000BA0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B0060", Offset = "0x9B0060", Length = "0x60")]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappings), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappings), Member = "SettingDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappingOverlay), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerChat), Member = "UpdateEmoteScroll", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerChat), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerJourneyModeSettings), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerModalResponse), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerPlayerAndGameModeMistmatch), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerSettingsOverlay), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHardwareProfile), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHardwareProfile), Member = "SettingDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerDresser), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHairStylist), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerPVP4Page), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerReforgePopup), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerResearchPage4Page), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfo), Member = "ItemDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfoToggles), Member = "InfoAccDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "NPCDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "FilterDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "OrderDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "DropDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "SpawnDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBuilderAccToggles), Member = "ItemDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIButtonBar), Member = "ItemDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIClothesWindow), Member = "LoadRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIClothesWindow), Member = "IsOverPanel", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIClothesWindow), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControlsBanner), Member = "ItemDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControlsBanner), Member = "ItemRightDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControlsBanner), Member = "DrawMoreOptionsBanner", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuidePopup), Member = "LoadRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuidePopup), Member = "IsOver", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuidePopup), Member = "LoadPanelRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuidePopup), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEmotesWindow), Member = "DrawBacking", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentLoadout), Member = "LoadoutDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHairWindow), Member = "LoadRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHairWindow), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHairWindow), Member = "IsOverPanel", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIJourneyModeSettings), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIJourneyModeSettings), Member = "SettingDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "ChatDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "LoadRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "IsOver", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "LoadPanelRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "LoadSettingAnchor", MemberParameters = new object[] { typeof(GUIPageIconGrouping.SettingCategory) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "PageDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "InventoryDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "LeftDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "RightDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIProfileSwitch), Member = "IsOver", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIProfileSwitch), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "DrawSelectedPlayer", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforgePopup), Member = "LoadRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforgePopup), Member = "IsOver", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforgePopup), Member = "LoadPanelRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforgePopup), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearch), Member = "IsOver", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearch), Member = "DrawBacking", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUITalkerList), Member = "ItemDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWiresUI), Member = "ItemDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappings), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappings), Member = "SettingDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAchievementsMenu), Member = "AchievementDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "PageIconDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "LoadSettingAnchor", MemberParameters = new object[]
+	{
+		typeof(GUIPageIconGrouping.SettingCategory),
+		typeof(ref Rectangle)
+	}, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "PageDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerHost), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerHost), Member = "WorldDraw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerLobby), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerLobby), Member = "DrawOptions", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerLobby), Member = "ServerDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageGroupEdit), Member = "ItemDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPlayerSelectMenu), Member = "PlayerDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettingsOverlay), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettingsOverlay), Member = "SettingDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "ControlsItemDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldSelectMenu), Member = "WorldDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "LoadLeftItemRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "LoadRightItemRegion", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_FileList), Member = "PlayerDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_FileList), Member = "WorldDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_Lobby), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_Lobby), Member = "ServerDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 101)]
 	[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
 	public static void SetGridItemRegion(Rectangle region)
@@ -509,9 +755,6 @@ public static class ControlAnchor
 		throw null;
 	}
 
-	// Token: 0x17000110 RID: 272
-	// (get) Token: 0x06000A92 RID: 2706 RVA: 0x00023AFB File Offset: 0x00021CFB
-	// (set) Token: 0x06000A93 RID: 2707 RVA: 0x00023AFE File Offset: 0x00021CFE
 	[global::Cpp2ILInjected.Token(Token = "0x17000137")]
 	private static Rectangle _buttonRegion
 	{
@@ -534,7 +777,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x06000A94 RID: 2708 RVA: 0x00023B01 File Offset: 0x00021D01
 	[global::Cpp2ILInjected.Token(Token = "0x6000BA3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B0170", Offset = "0x9B0170", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUITransactionButton), Member = "LoadButtonRegion", MemberParameters = new object[]
@@ -572,9 +814,6 @@ public static class ControlAnchor
 		throw null;
 	}
 
-	// Token: 0x17000111 RID: 273
-	// (get) Token: 0x06000A95 RID: 2709 RVA: 0x00023B04 File Offset: 0x00021D04
-	// (set) Token: 0x06000A96 RID: 2710 RVA: 0x00023B07 File Offset: 0x00021D07
 	[global::Cpp2ILInjected.Token(Token = "0x17000138")]
 	private static Rectangle _selectedItemRegion
 	{
@@ -597,7 +836,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x06000A97 RID: 2711 RVA: 0x00023B0A File Offset: 0x00021D0A
 	[global::Cpp2ILInjected.Token(Token = "0x6000BA6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B0280", Offset = "0x9B0280", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAmmo), Member = "ItemDraw", MemberParameters = new object[]
@@ -631,7 +869,6 @@ public static class ControlAnchor
 		throw null;
 	}
 
-	// Token: 0x06000A98 RID: 2712 RVA: 0x00023B0D File Offset: 0x00021D0D
 	[global::Cpp2ILInjected.Token(Token = "0x6000BA7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B02E0", Offset = "0x9B02E0", Length = "0x58")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -641,9 +878,6 @@ public static class ControlAnchor
 		throw null;
 	}
 
-	// Token: 0x17000112 RID: 274
-	// (get) Token: 0x06000A99 RID: 2713 RVA: 0x00023B10 File Offset: 0x00021D10
-	// (set) Token: 0x06000A9A RID: 2714 RVA: 0x00023B13 File Offset: 0x00021D13
 	[global::Cpp2ILInjected.Token(Token = "0x17000139")]
 	private static Rectangle _leftPageRegion
 	{
@@ -666,9 +900,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000113 RID: 275
-	// (get) Token: 0x06000A9B RID: 2715 RVA: 0x00023B16 File Offset: 0x00021D16
-	// (set) Token: 0x06000A9C RID: 2716 RVA: 0x00023B19 File Offset: 0x00021D19
 	[global::Cpp2ILInjected.Token(Token = "0x1700013A")]
 	private static Rectangle _rightPageRegion
 	{
@@ -691,7 +922,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x06000A9D RID: 2717 RVA: 0x00023B1C File Offset: 0x00021D1C
 	[global::Cpp2ILInjected.Token(Token = "0x6000BAC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B0498", Offset = "0x9B0498", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "DrawInventoryItems", ReturnType = typeof(void))]
@@ -702,7 +932,6 @@ public static class ControlAnchor
 		throw null;
 	}
 
-	// Token: 0x06000A9E RID: 2718 RVA: 0x00023B1F File Offset: 0x00021D1F
 	[global::Cpp2ILInjected.Token(Token = "0x6000BAD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B04F8", Offset = "0x9B04F8", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -712,9 +941,6 @@ public static class ControlAnchor
 		throw null;
 	}
 
-	// Token: 0x17000114 RID: 276
-	// (get) Token: 0x06000A9F RID: 2719 RVA: 0x00023B22 File Offset: 0x00021D22
-	// (set) Token: 0x06000AA0 RID: 2720 RVA: 0x00023B25 File Offset: 0x00021D25
 	[global::Cpp2ILInjected.Token(Token = "0x1700013B")]
 	private static Rectangle _mainMenuPageRegion
 	{
@@ -737,7 +963,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x06000AA1 RID: 2721 RVA: 0x00023B28 File Offset: 0x00021D28
 	[global::Cpp2ILInjected.Token(Token = "0x6000BB0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B0608", Offset = "0x9B0608", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerBestiary), Member = "UpdateScroll", ReturnType = typeof(void))]
@@ -760,9 +985,6 @@ public static class ControlAnchor
 		throw null;
 	}
 
-	// Token: 0x17000115 RID: 277
-	// (get) Token: 0x06000AA2 RID: 2722 RVA: 0x00023B2B File Offset: 0x00021D2B
-	// (set) Token: 0x06000AA3 RID: 2723 RVA: 0x00023B2E File Offset: 0x00021D2E
 	[global::Cpp2ILInjected.Token(Token = "0x1700013C")]
 	public static Vector2 LeftInterface
 	{
@@ -786,9 +1008,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000116 RID: 278
-	// (get) Token: 0x06000AA4 RID: 2724 RVA: 0x00023B31 File Offset: 0x00021D31
-	// (set) Token: 0x06000AA5 RID: 2725 RVA: 0x00023B34 File Offset: 0x00021D34
 	[global::Cpp2ILInjected.Token(Token = "0x1700013D")]
 	public static Vector2 RightInterface
 	{
@@ -812,9 +1031,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000117 RID: 279
-	// (get) Token: 0x06000AA6 RID: 2726 RVA: 0x00023B37 File Offset: 0x00021D37
-	// (set) Token: 0x06000AA7 RID: 2727 RVA: 0x00023B3A File Offset: 0x00021D3A
 	[global::Cpp2ILInjected.Token(Token = "0x1700013E")]
 	public static Vector2 LeftControls
 	{
@@ -842,9 +1058,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x17000118 RID: 280
-	// (get) Token: 0x06000AA8 RID: 2728 RVA: 0x00023B3D File Offset: 0x00021D3D
-	// (set) Token: 0x06000AA9 RID: 2729 RVA: 0x00023B40 File Offset: 0x00021D40
 	[global::Cpp2ILInjected.Token(Token = "0x1700013F")]
 	public static Vector2 RightControls
 	{
@@ -872,7 +1085,6 @@ public static class ControlAnchor
 		}
 	}
 
-	// Token: 0x06000AAA RID: 2730 RVA: 0x00023B43 File Offset: 0x00021D43
 	[global::Cpp2ILInjected.Token(Token = "0x6000BB9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B0958", Offset = "0x9B0958", Length = "0x440")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -968,127 +1180,87 @@ public static class ControlAnchor
 		throw null;
 	}
 
-	// Token: 0x04000A5B RID: 2651
 	[global::Cpp2ILInjected.Token(Token = "0x4000DF5")]
 	public static Rectangle _selectedItemBacking;
 
-	// Token: 0x04000A5C RID: 2652
 	[global::Cpp2ILInjected.Token(Token = "0x4000DF6")]
 	private static Rectangle _selectedRightRegion;
 
-	// Token: 0x020007DC RID: 2012
 	[global::Cpp2ILInjected.Token(Token = "0x20001AD")]
 	public enum ControlId
 	{
-		// Token: 0x04007B65 RID: 31589
 		[global::Cpp2ILInjected.Token(Token = "0x4000DF8")]
 		Screen,
-		// Token: 0x04007B66 RID: 31590
 		[global::Cpp2ILInjected.Token(Token = "0x4000DF9")]
 		HeartsGrid,
-		// Token: 0x04007B67 RID: 31591
 		[global::Cpp2ILInjected.Token(Token = "0x4000DFA")]
 		GridItem,
-		// Token: 0x04007B68 RID: 31592
 		[global::Cpp2ILInjected.Token(Token = "0x4000DFB")]
 		ManaGrid,
-		// Token: 0x04007B69 RID: 31593
 		[global::Cpp2ILInjected.Token(Token = "0x4000DFC")]
 		Button,
-		// Token: 0x04007B6A RID: 31594
 		[global::Cpp2ILInjected.Token(Token = "0x4000DFD")]
 		LeftStick,
-		// Token: 0x04007B6B RID: 31595
 		[global::Cpp2ILInjected.Token(Token = "0x4000DFE")]
 		RightStick,
-		// Token: 0x04007B6C RID: 31596
 		[global::Cpp2ILInjected.Token(Token = "0x4000DFF")]
 		LeftInterface,
-		// Token: 0x04007B6D RID: 31597
 		[global::Cpp2ILInjected.Token(Token = "0x4000E00")]
 		RightInterface,
-		// Token: 0x04007B6E RID: 31598
 		[global::Cpp2ILInjected.Token(Token = "0x4000E01")]
 		PlayerCreateBacking,
-		// Token: 0x04007B6F RID: 31599
 		[global::Cpp2ILInjected.Token(Token = "0x4000E02")]
 		WorldCreateBacking,
-		// Token: 0x04007B70 RID: 31600
 		[global::Cpp2ILInjected.Token(Token = "0x4000E03")]
 		SelectedItemRegion,
-		// Token: 0x04007B71 RID: 31601
 		[global::Cpp2ILInjected.Token(Token = "0x4000E04")]
 		SelectedRightRegion,
-		// Token: 0x04007B72 RID: 31602
 		[global::Cpp2ILInjected.Token(Token = "0x4000E05")]
 		LeftPageRegion,
-		// Token: 0x04007B73 RID: 31603
 		[global::Cpp2ILInjected.Token(Token = "0x4000E06")]
 		RightPageRegion,
-		// Token: 0x04007B74 RID: 31604
 		[global::Cpp2ILInjected.Token(Token = "0x4000E07")]
 		MainMenuPageRegion,
-		// Token: 0x04007B75 RID: 31605
 		[global::Cpp2ILInjected.Token(Token = "0x4000E08")]
 		Right_MainUI,
-		// Token: 0x04007B76 RID: 31606
 		[global::Cpp2ILInjected.Token(Token = "0x4000E09")]
 		Right_InfoAccessories,
-		// Token: 0x04007B77 RID: 31607
 		[global::Cpp2ILInjected.Token(Token = "0x4000E0A")]
 		Right_TextNotifications,
-		// Token: 0x04007B78 RID: 31608
 		[global::Cpp2ILInjected.Token(Token = "0x4000E0B")]
 		Right_AchievementNotifiations,
-		// Token: 0x04007B79 RID: 31609
 		[global::Cpp2ILInjected.Token(Token = "0x4000E0C")]
 		Right_Event,
-		// Token: 0x04007B7A RID: 31610
 		[global::Cpp2ILInjected.Token(Token = "0x4000E0D")]
 		Right_BossBar,
-		// Token: 0x04007B7B RID: 31611
 		[global::Cpp2ILInjected.Token(Token = "0x4000E0E")]
 		Right_InfoAccessories2,
-		// Token: 0x04007B7C RID: 31612
 		[global::Cpp2ILInjected.Token(Token = "0x4000E0F")]
 		Right_StatusIndicator,
-		// Token: 0x04007B7D RID: 31613
 		[global::Cpp2ILInjected.Token(Token = "0x4000E10")]
 		PageGroup,
-		// Token: 0x04007B7E RID: 31614
 		[global::Cpp2ILInjected.Token(Token = "0x4000E11")]
 		PageContent,
-		// Token: 0x04007B7F RID: 31615
 		[global::Cpp2ILInjected.Token(Token = "0x4000E12")]
 		RightHUD_Root,
-		// Token: 0x04007B80 RID: 31616
 		[global::Cpp2ILInjected.Token(Token = "0x4000E13")]
 		WiringPopup,
-		// Token: 0x04007B81 RID: 31617
 		[global::Cpp2ILInjected.Token(Token = "0x4000E14")]
 		BottomCentre_Root,
-		// Token: 0x04007B82 RID: 31618
 		[global::Cpp2ILInjected.Token(Token = "0x4000E15")]
 		BottomCentre_ChatUI,
-		// Token: 0x04007B83 RID: 31619
 		[global::Cpp2ILInjected.Token(Token = "0x4000E16")]
 		BottomCentre_BossBar,
-		// Token: 0x04007B84 RID: 31620
 		[global::Cpp2ILInjected.Token(Token = "0x4000E17")]
 		BottomCentre_EventBar,
-		// Token: 0x04007B85 RID: 31621
 		[global::Cpp2ILInjected.Token(Token = "0x4000E18")]
 		BottomCentre_ProgressIndicator,
-		// Token: 0x04007B86 RID: 31622
 		[global::Cpp2ILInjected.Token(Token = "0x4000E19")]
 		BottomCentre_Notification,
-		// Token: 0x04007B87 RID: 31623
 		[global::Cpp2ILInjected.Token(Token = "0x4000E1A")]
 		SelectedItemBacking,
-		// Token: 0x04007B88 RID: 31624
 		[global::Cpp2ILInjected.Token(Token = "0x4000E1B")]
 		RubbleMakerPopup,
-		// Token: 0x04007B89 RID: 31625
 		[global::Cpp2ILInjected.Token(Token = "0x4000E1C")]
 		MenuScreen
 	}

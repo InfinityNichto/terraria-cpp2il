@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.Configuration
 {
-	// Token: 0x02000337 RID: 823
 	[global::Cpp2ILInjected.Token(Token = "0x200046B")]
 	public sealed class ProxyElement : ConfigurationElement
 	{
-		// Token: 0x06001B5B RID: 7003 RVA: 0x00007B47 File Offset: 0x00005D47
 		[global::Cpp2ILInjected.Token(Token = "0x6001EB4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E98FA0", Offset = "0x1E98FA0", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,9 +17,6 @@ namespace System.Net.Configuration
 			throw null;
 		}
 
-		// Token: 0x1700068B RID: 1675
-		// (get) Token: 0x06001B5C RID: 7004 RVA: 0x00007B4A File Offset: 0x00005D4A
-		// (set) Token: 0x06001B5D RID: 7005 RVA: 0x00007B4D File Offset: 0x00005D4D
 		[global::Cpp2ILInjected.Token(Token = "0x170006F6")]
 		public ProxyElement.AutoDetectValues AutoDetect
 		{
@@ -43,9 +38,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x1700068C RID: 1676
-		// (get) Token: 0x06001B5E RID: 7006 RVA: 0x00007B50 File Offset: 0x00005D50
-		// (set) Token: 0x06001B5F RID: 7007 RVA: 0x00007B53 File Offset: 0x00005D53
 		[global::Cpp2ILInjected.Token(Token = "0x170006F7")]
 		public ProxyElement.BypassOnLocalValues BypassOnLocal
 		{
@@ -67,8 +59,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x1700068D RID: 1677
-		// (get) Token: 0x06001B60 RID: 7008 RVA: 0x00007B56 File Offset: 0x00005D56
 		[global::Cpp2ILInjected.Token(Token = "0x170006F8")]
 		protected override ConfigurationPropertyCollection Properties
 		{
@@ -82,9 +72,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x1700068E RID: 1678
-		// (get) Token: 0x06001B61 RID: 7009 RVA: 0x00007B59 File Offset: 0x00005D59
-		// (set) Token: 0x06001B62 RID: 7010 RVA: 0x00007B5C File Offset: 0x00005D5C
 		[global::Cpp2ILInjected.Token(Token = "0x170006F9")]
 		public Uri ProxyAddress
 		{
@@ -106,9 +93,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x1700068F RID: 1679
-		// (get) Token: 0x06001B63 RID: 7011 RVA: 0x00007B5F File Offset: 0x00005D5F
-		// (set) Token: 0x06001B64 RID: 7012 RVA: 0x00007B62 File Offset: 0x00005D62
 		[global::Cpp2ILInjected.Token(Token = "0x170006FA")]
 		public Uri ScriptLocation
 		{
@@ -130,9 +114,6 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x17000690 RID: 1680
-		// (get) Token: 0x06001B65 RID: 7013 RVA: 0x00007B65 File Offset: 0x00005D65
-		// (set) Token: 0x06001B66 RID: 7014 RVA: 0x00007B68 File Offset: 0x00005D68
 		[global::Cpp2ILInjected.Token(Token = "0x170006FB")]
 		public ProxyElement.UseSystemDefaultValues UseSystemDefault
 		{
@@ -154,47 +135,35 @@ namespace System.Net.Configuration
 			}
 		}
 
-		// Token: 0x02000491 RID: 1169
 		[global::Cpp2ILInjected.Token(Token = "0x200046C")]
 		public enum AutoDetectValues
 		{
-			// Token: 0x040013E9 RID: 5097
 			[global::Cpp2ILInjected.Token(Token = "0x4001432")]
 			False,
-			// Token: 0x040013EA RID: 5098
 			[global::Cpp2ILInjected.Token(Token = "0x4001433")]
 			True,
-			// Token: 0x040013EB RID: 5099
 			[global::Cpp2ILInjected.Token(Token = "0x4001434")]
 			Unspecified = -1
 		}
 
-		// Token: 0x02000492 RID: 1170
 		[global::Cpp2ILInjected.Token(Token = "0x200046D")]
 		public enum BypassOnLocalValues
 		{
-			// Token: 0x040013ED RID: 5101
 			[global::Cpp2ILInjected.Token(Token = "0x4001436")]
 			False,
-			// Token: 0x040013EE RID: 5102
 			[global::Cpp2ILInjected.Token(Token = "0x4001437")]
 			True,
-			// Token: 0x040013EF RID: 5103
 			[global::Cpp2ILInjected.Token(Token = "0x4001438")]
 			Unspecified = -1
 		}
 
-		// Token: 0x02000493 RID: 1171
 		[global::Cpp2ILInjected.Token(Token = "0x200046E")]
 		public enum UseSystemDefaultValues
 		{
-			// Token: 0x040013F1 RID: 5105
 			[global::Cpp2ILInjected.Token(Token = "0x400143A")]
 			False,
-			// Token: 0x040013F2 RID: 5106
 			[global::Cpp2ILInjected.Token(Token = "0x400143B")]
 			True,
-			// Token: 0x040013F3 RID: 5107
 			[global::Cpp2ILInjected.Token(Token = "0x400143C")]
 			Unspecified = -1
 		}

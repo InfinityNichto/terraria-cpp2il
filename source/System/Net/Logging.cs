@@ -1,21 +1,103 @@
 ﻿using System;
 using System.Diagnostics;
+using System.IO;
+using System.Net.Sockets;
+using System.Text;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000181 RID: 385
 	[global::Cpp2ILInjected.Token(Token = "0x2000229")]
 	internal static class Logging
 	{
-		// Token: 0x170002CB RID: 715
-		// (get) Token: 0x06000C7C RID: 3196 RVA: 0x000051C8 File Offset: 0x000033C8
 		[global::Cpp2ILInjected.Token(Token = "0x170002E6")]
 		internal static bool On
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x6000DE2")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F3CBB8", Offset = "0x1F3CBB8", Length = "0x8")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpListenerRequestUriBuilder), Member = "BuildRequestUriUsingCookedPath", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpListenerRequestUriBuilder), Member = "BuildRequestUriUsingRawPath", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpListenerRequestUriBuilder), Member = "BuildRequestUriUsingRawPath", MemberParameters = new object[] { typeof(Encoding) }, ReturnType = "System.Net.HttpListenerRequestUriBuilder.ParsingResult")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpListenerRequestUriBuilder), Member = "AppendUnicodeCodePointValuePercentEncoded", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpListenerRequestUriBuilder), Member = "AddPercentEncodedOctetToRawOctetsList", MemberParameters = new object[]
+			{
+				typeof(Encoding),
+				typeof(string)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpListenerRequestUriBuilder), Member = "EmptyDecodeAndAppendRawOctetsList", MemberParameters = new object[] { typeof(Encoding) }, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpListenerRequestUriBuilder), Member = "LogWarning", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(string),
+				typeof(object[])
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "Create", MemberParameters = new object[]
+			{
+				typeof(Uri),
+				typeof(bool)
+			}, ReturnType = typeof(WebRequest))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ServiceNameStore), Member = "Add", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ServiceNameStore), Member = "Remove", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.TimerThread.TimerNode", Member = "Fire", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TimerThread), Member = "ThreadProc", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebProxyDataBuilder), Member = "ParseProxyUri", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(Uri))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebProxyDataBuilder), Member = "CreateInvalidProxyStringException", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(FormatException))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileWebRequest), Member = "BeginGetRequestStream", MemberParameters = new object[]
+			{
+				typeof(AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(IAsyncResult))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileWebRequest), Member = "BeginGetResponse", MemberParameters = new object[]
+			{
+				typeof(AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(IAsyncResult))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileWebRequest), Member = "EndGetRequestStream", MemberParameters = new object[] { typeof(IAsyncResult) }, ReturnType = typeof(Stream))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileWebRequest), Member = "EndGetResponse", MemberParameters = new object[] { typeof(IAsyncResult) }, ReturnType = typeof(WebResponse))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileWebRequest), Member = "GetRequestStream", ReturnType = typeof(Stream))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileWebRequest), Member = "GetResponse", ReturnType = typeof(WebResponse))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileWebRequest), Member = "Abort", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Socket), Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(AddressFamily),
+				typeof(SocketType),
+				typeof(ProtocolType)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = ".ctor", MemberParameters = new object[] { typeof(AddressFamily) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = ".ctor", MemberParameters = new object[] { typeof(Socket) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = "Connect", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = "Connect", MemberParameters = new object[]
+			{
+				typeof(IPAddress),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = "Connect", MemberParameters = new object[] { typeof(IPEndPoint) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = "BeginConnect", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(int),
+				typeof(AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(IAsyncResult))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = "EndConnect", MemberParameters = new object[] { typeof(IAsyncResult) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = "GetStream", ReturnType = typeof(NetworkStream))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = "Close", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpClient), Member = "Dispose", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpListener), Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(IPAddress),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpListener), Member = "Create", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(TcpListener))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpListener), Member = "Start", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpListener), Member = "Stop", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TcpListener), Member = "AcceptTcpClient", ReturnType = typeof(TcpClient))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 58)]
 			get
 			{
@@ -23,8 +105,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002CC RID: 716
-		// (get) Token: 0x06000C7D RID: 3197 RVA: 0x000051CB File Offset: 0x000033CB
 		[global::Cpp2ILInjected.Token(Token = "0x170002E7")]
 		internal static TraceSource Web
 		{
@@ -37,8 +117,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002CD RID: 717
-		// (get) Token: 0x06000C7E RID: 3198 RVA: 0x000051CE File Offset: 0x000033CE
 		[global::Cpp2ILInjected.Token(Token = "0x170002E8")]
 		internal static TraceSource HttpListener
 		{
@@ -51,8 +129,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002CE RID: 718
-		// (get) Token: 0x06000C7F RID: 3199 RVA: 0x000051D1 File Offset: 0x000033D1
 		[global::Cpp2ILInjected.Token(Token = "0x170002E9")]
 		internal static TraceSource Sockets
 		{
@@ -65,7 +141,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000C80 RID: 3200 RVA: 0x000051D4 File Offset: 0x000033D4
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DE6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBD8", Offset = "0x1F3CBD8", Length = "0x4")]
@@ -75,7 +150,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C81 RID: 3201 RVA: 0x000051D7 File Offset: 0x000033D7
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DE7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBDC", Offset = "0x1F3CBDC", Length = "0x4")]
@@ -85,7 +159,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C82 RID: 3202 RVA: 0x000051DA File Offset: 0x000033DA
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DE8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBE0", Offset = "0x1F3CBE0", Length = "0x4")]
@@ -95,7 +168,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C83 RID: 3203 RVA: 0x000051DD File Offset: 0x000033DD
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DE9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBE4", Offset = "0x1F3CBE4", Length = "0x4")]
@@ -105,7 +177,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C84 RID: 3204 RVA: 0x000051E0 File Offset: 0x000033E0
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DEA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBE8", Offset = "0x1F3CBE8", Length = "0x4")]
@@ -115,7 +186,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C85 RID: 3205 RVA: 0x000051E3 File Offset: 0x000033E3
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DEB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBEC", Offset = "0x1F3CBEC", Length = "0x4")]
@@ -125,7 +195,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C86 RID: 3206 RVA: 0x000051E6 File Offset: 0x000033E6
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DEC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBF0", Offset = "0x1F3CBF0", Length = "0x4")]
@@ -135,7 +204,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C87 RID: 3207 RVA: 0x000051E9 File Offset: 0x000033E9
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBF4", Offset = "0x1F3CBF4", Length = "0x4")]
@@ -145,7 +213,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C88 RID: 3208 RVA: 0x000051EC File Offset: 0x000033EC
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DEE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBF8", Offset = "0x1F3CBF8", Length = "0x4")]
@@ -155,7 +222,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C89 RID: 3209 RVA: 0x000051EF File Offset: 0x000033EF
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DEF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CBFC", Offset = "0x1F3CBFC", Length = "0x4")]
@@ -165,7 +231,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C8A RID: 3210 RVA: 0x000051F2 File Offset: 0x000033F2
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DF0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CC00", Offset = "0x1F3CC00", Length = "0x4")]
@@ -175,7 +240,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C8B RID: 3211 RVA: 0x000051F5 File Offset: 0x000033F5
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DF1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CC04", Offset = "0x1F3CC04", Length = "0x4")]
@@ -185,7 +249,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C8C RID: 3212 RVA: 0x000051F8 File Offset: 0x000033F8
 		[Conditional("TRACE")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000DF2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CC08", Offset = "0x1F3CC08", Length = "0x4")]

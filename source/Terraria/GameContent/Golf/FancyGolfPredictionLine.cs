@@ -10,11 +10,9 @@ using Terraria.Physics;
 
 namespace Terraria.GameContent.Golf
 {
-	// Token: 0x02000679 RID: 1657
 	[global::Cpp2ILInjected.Token(Token = "0x2000A07")]
 	public class FancyGolfPredictionLine
 	{
-		// Token: 0x06004136 RID: 16694 RVA: 0x0002DA7F File Offset: 0x0002BC7F
 		[global::Cpp2ILInjected.Token(Token = "0x6004BC5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8AEBB8", Offset = "0x8AEBB8", Length = "0x1A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -37,7 +35,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x06004137 RID: 16695 RVA: 0x0002DA82 File Offset: 0x0002BC82
 		[global::Cpp2ILInjected.Token(Token = "0x6004BC6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8AED5C", Offset = "0x8AED5C", Length = "0x238")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -66,7 +63,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x06004138 RID: 16696 RVA: 0x0002DA85 File Offset: 0x0002BC85
 		[global::Cpp2ILInjected.Token(Token = "0x6004BC7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8AEF94", Offset = "0x8AEF94", Length = "0x3A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -141,7 +137,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x06004139 RID: 16697 RVA: 0x0002DA88 File Offset: 0x0002BC88
 		[global::Cpp2ILInjected.Token(Token = "0x6004BC8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B1774", Offset = "0x8B1774", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -169,7 +164,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x0600413A RID: 16698 RVA: 0x0002DA8B File Offset: 0x0002BC8B
 		[global::Cpp2ILInjected.Token(Token = "0x6004BC9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B1544", Offset = "0x8B1544", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -197,7 +191,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x0600413B RID: 16699 RVA: 0x0002DA8E File Offset: 0x0002BC8E
 		[global::Cpp2ILInjected.Token(Token = "0x6004BCA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B1688", Offset = "0x8B1688", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -222,7 +215,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x0600413C RID: 16700 RVA: 0x0002DA91 File Offset: 0x0002BC91
 		[global::Cpp2ILInjected.Token(Token = "0x6004BCB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B128C", Offset = "0x8B128C", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -251,7 +243,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x0600413D RID: 16701 RVA: 0x0002DA94 File Offset: 0x0002BC94
 		[global::Cpp2ILInjected.Token(Token = "0x6004BCC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B1410", Offset = "0x8B1410", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -275,41 +266,33 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x04006DA0 RID: 28064
 		[global::Cpp2ILInjected.Token(Token = "0x4008605")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly List<Vector2> _positions;
 
-		// Token: 0x04006DA1 RID: 28065
 		[global::Cpp2ILInjected.Token(Token = "0x4008606")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly Entity _entity;
 
-		// Token: 0x04006DA2 RID: 28066
 		[global::Cpp2ILInjected.Token(Token = "0x4008607")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private readonly int _iterations;
 
-		// Token: 0x04006DA3 RID: 28067
 		[global::Cpp2ILInjected.Token(Token = "0x4008608")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private readonly Color[] _colors;
 
-		// Token: 0x04006DA4 RID: 28068
 		[global::Cpp2ILInjected.Token(Token = "0x4008609")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private readonly BasicDebugDrawer _drawer;
 
-		// Token: 0x04006DA5 RID: 28069
 		[global::Cpp2ILInjected.Token(Token = "0x400860A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private float _time;
 
-		// Token: 0x02000A6D RID: 2669
 		[global::Cpp2ILInjected.Token(Token = "0x2000A08")]
 		private class PredictionEntity : Entity
 		{
-			// Token: 0x060050BB RID: 20667 RVA: 0x000303CE File Offset: 0x0002E5CE
 			[global::Cpp2ILInjected.Token(Token = "0x6004BCD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8B1944", Offset = "0x8B1944", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FancyGolfPredictionLine), Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Serialization.Formatters.Binary
 {
-	// Token: 0x02000357 RID: 855
 	[global::Cpp2ILInjected.Token(Token = "0x20003FF")]
 	internal static class BinaryConverter
 	{
-		// Token: 0x06001D8E RID: 7566 RVA: 0x000197B1 File Offset: 0x000179B1
 		[global::Cpp2ILInjected.Token(Token = "0x6001FCC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B5B420", Offset = "0x1B5B420", Length = "0x2B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +69,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x06001D8F RID: 7567 RVA: 0x000197B4 File Offset: 0x000179B4
 		[global::Cpp2ILInjected.Token(Token = "0x6001FCD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B5B99C", Offset = "0x1B5B99C", Length = "0x1C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,7 +100,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x06001D90 RID: 7568 RVA: 0x000197B7 File Offset: 0x000179B7
 		[global::Cpp2ILInjected.Token(Token = "0x6001FCE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B5BC88", Offset = "0x1B5BC88", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +119,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x06001D91 RID: 7569 RVA: 0x000197BA File Offset: 0x000179BA
 		[global::Cpp2ILInjected.Token(Token = "0x6001FCF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B5BEA8", Offset = "0x1B5BEA8", Length = "0x17C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -146,7 +141,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x06001D92 RID: 7570 RVA: 0x000197BD File Offset: 0x000179BD
 		[global::Cpp2ILInjected.Token(Token = "0x6001FD0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B5C024", Offset = "0x1B5C024", Length = "0x2F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

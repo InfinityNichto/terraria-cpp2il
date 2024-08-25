@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Diagnostics;
 using System.Globalization;
 using System.Runtime.CompilerServices;
 using System.Runtime.ConstrainedExecution;
@@ -19,12 +20,10 @@ using Internal.Runtime.Augments;
 
 namespace System.Threading
 {
-	// Token: 0x02000193 RID: 403
 	[global::Cpp2ILInjected.Token(Token = "0x20001F8")]
 	[StructLayout(0)]
 	public sealed class Thread : global::System.Runtime.ConstrainedExecution.CriticalFinalizerObject
 	{
-		// Token: 0x0600108E RID: 4238 RVA: 0x000173DE File Offset: 0x000155DE
 		[global::Cpp2ILInjected.Token(Token = "0x60011E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9CFA8", Offset = "0x1C9CFA8", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -34,7 +33,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600108F RID: 4239 RVA: 0x000173E1 File Offset: 0x000155E1
 		[global::Cpp2ILInjected.Token(Token = "0x60011E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D008", Offset = "0x1C9D008", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -44,7 +42,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06001090 RID: 4240 RVA: 0x000173E4 File Offset: 0x000155E4
 		[global::Cpp2ILInjected.Token(Token = "0x60011E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D068", Offset = "0x1C9D068", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ManagedThread", Member = ".ctor", MemberParameters = new object[]
@@ -81,7 +78,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06001091 RID: 4241 RVA: 0x000173E7 File Offset: 0x000155E7
 		[global::Cpp2ILInjected.Token(Token = "0x60011EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D20C", Offset = "0x1C9D20C", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Social.Steam.CoreSocialModule", Member = "Initialize", ReturnType = typeof(void))]
@@ -99,7 +95,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06001092 RID: 4242 RVA: 0x000173EA File Offset: 0x000155EA
 		[global::Cpp2ILInjected.Token(Token = "0x60011EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D288", Offset = "0x1C9D288", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Internal.Runtime.Augments.RuntimeThread), Member = "Create", MemberParameters = new object[]
@@ -127,7 +122,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06001093 RID: 4243 RVA: 0x000173ED File Offset: 0x000155ED
 		[global::Cpp2ILInjected.Token(Token = "0x60011EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D370", Offset = "0x1C9D370", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ManagedThread", Member = "Run", ReturnType = typeof(void))]
@@ -160,7 +154,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06001094 RID: 4244 RVA: 0x000173F0 File Offset: 0x000155F0
 		[global::Cpp2ILInjected.Token(Token = "0x60011ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D43C", Offset = "0x1C9D43C", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -176,7 +169,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06001095 RID: 4245 RVA: 0x000173F3 File Offset: 0x000155F3
 		[global::Cpp2ILInjected.Token(Token = "0x60011EE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D384", Offset = "0x1C9D384", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -199,7 +191,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06001096 RID: 4246 RVA: 0x000173F6 File Offset: 0x000155F6
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x60011EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A950", Offset = "0x1C9A950", Length = "0x8")]
@@ -211,9 +202,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x17000176 RID: 374
-		// (get) Token: 0x06001097 RID: 4247 RVA: 0x000173F9 File Offset: 0x000155F9
-		// (set) Token: 0x06001098 RID: 4248 RVA: 0x000173FC File Offset: 0x000155FC
 		[global::Cpp2ILInjected.Token(Token = "0x170001B1")]
 		internal bool ExecutionContextBelongsToCurrentScope
 		{
@@ -235,7 +223,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x06001099 RID: 4249 RVA: 0x000173FF File Offset: 0x000155FF
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.MayFail)]
 		[global::Cpp2ILInjected.Token(Token = "0x60011F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9B11C", Offset = "0x1C9B11C", Length = "0x84")]
@@ -274,7 +261,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600109A RID: 4250 RVA: 0x00017402 File Offset: 0x00015602
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x60011F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9B848", Offset = "0x1C9B848", Length = "0x14")]
@@ -285,7 +271,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600109B RID: 4251 RVA: 0x00017405 File Offset: 0x00015605
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x60011F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A958", Offset = "0x1C9A958", Length = "0x14")]
@@ -296,7 +281,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600109C RID: 4252 RVA: 0x00017408 File Offset: 0x00015608
 		[global::Cpp2ILInjected.Token(Token = "0x60011F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D56C", Offset = "0x1C9D56C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Telepathy.Client", Member = "ReceiveThreadFunction", MemberParameters = new object[]
@@ -314,7 +298,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600109D RID: 4253
 		[global::Cpp2ILInjected.Token(Token = "0x60011F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D570", Offset = "0x1C9D570", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -322,8 +305,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private extern void InterruptInternal();
 
-		// Token: 0x17000177 RID: 375
-		// (set) Token: 0x0600109E RID: 4254 RVA: 0x0001740B File Offset: 0x0001560B
 		[global::Cpp2ILInjected.Token(Token = "0x170001B2")]
 		public ThreadPriority Priority
 		{
@@ -339,7 +320,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x0600109F RID: 4255
 		[global::Cpp2ILInjected.Token(Token = "0x60011F8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D578", Offset = "0x1C9D578", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -347,7 +327,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private extern void SetPriorityNative(int priority);
 
-		// Token: 0x060010A0 RID: 4256
 		[global::Cpp2ILInjected.Token(Token = "0x60011F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D57C", Offset = "0x1C9D57C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -355,7 +334,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private extern bool JoinInternal(int millisecondsTimeout);
 
-		// Token: 0x060010A1 RID: 4257 RVA: 0x0001740E File Offset: 0x0001560E
 		[global::Cpp2ILInjected.Token(Token = "0x60011FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D580", Offset = "0x1C9D580", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Telepathy.Client", Member = "Disconnect", ReturnType = typeof(void))]
@@ -367,7 +345,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010A2 RID: 4258
 		[global::Cpp2ILInjected.Token(Token = "0x60011FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D588", Offset = "0x1C9D588", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -375,9 +352,70 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern void SleepInternal(int millisecondsTimeout);
 
-		// Token: 0x060010A3 RID: 4259 RVA: 0x00017411 File Offset: 0x00015611
 		[global::Cpp2ILInjected.Token(Token = "0x60011FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A2B0", Offset = "0x1C9A2B0", Length = "0x78")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MainThreadExecution", Member = "WaitOnMainThreadComplete", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ThreadManager", Member = "TerminateThreadAndWait", MemberParameters = new object[] { "ManagedThread" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "FileManager", Member = "Exists", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "FileManager", Member = "Delete", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "FileManager", Member = "CreateDirectory", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "FileManager", Member = "ReadAllBytes", MemberParameters = new object[] { typeof(string) }, ReturnType = "System.Byte[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "FileManager", Member = "GetFiles", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string)
+		}, ReturnType = "System.String[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "FileManager", Member = "WriteAllBytes", MemberParameters = new object[]
+		{
+			typeof(string),
+			"System.Byte[]"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUINetPlayStatusMenu", Member = "UpdateServerStatus", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SaveSynchronisationBroadcast", Member = "BroadcastThread", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SaveSynchronisationFinder", Member = "BroadcastRecieveThread", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ServerAutoFinder", Member = "BroadcastRecieveThread", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ServerAutoFinder", Member = "LookForFriendPlatformGames", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ThreadedRenderManager", Member = "ThreadMonitor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Telepathy.Server", Member = "NextConnectionId", MemberParameters = new object[] { "System.Net.Sockets.TcpClient" }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Telepathy.Server", Member = "Stop", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Content.ThreadContentRequest", Member = "LoadFromMainThread", ReturnType = "UnityEngine.Object")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Content.ThreadContentRequest", Member = "ConstructFromMainThread", ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "LoadPlayers", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DedServ", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "TcpLocalClientLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "TcpClientLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "InnerClientLoop", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "BroadcastThread", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.FrameSkipTest", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen.<>c", Member = "<GenerateWorld>b__277_75", MemberParameters = new object[] { "Terraria.WorldBuilding.GenerationProgress", "Terraria.IO.GameConfiguration" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "ShutDownServer", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "WaitForFileSync", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "playWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "joinLocalWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "serverLoadWorldCallBack", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "ExecuteThreadTime", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "WaitForThreadTime", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFile", Member = "SaveWorld", MemberParameters = new object[]
+		{
+			typeof(bool),
+			typeof(bool),
+			"Terraria.IO.WorldFile.WorldSaveContext"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Net.Sockets.SocialSocket", Member = "ReadCallback", MemberParameters = new object[]
+		{
+			"System.Byte[]",
+			typeof(int),
+			typeof(int),
+			"Terraria.Net.Sockets.SocketReceiveCallback",
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Map.MapHelper", Member = "SaveMap", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Internal.Runtime.Augments.RuntimeThread), Member = "Sleep", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Thread), Member = "Sleep", MemberParameters = new object[] { typeof(global::System.TimeSpan) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Runtime.InteropServices.HandleCollector", Member = "Add", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.TimerThread", Member = "ThreadProc", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UnitySynchronizationContext", Member = "ExecutePendingTasks", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipFile", Member = "DeleteFileWithRetry", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 51)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.Environment), Member = "GetResourceString", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(string))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.ArgumentOutOfRangeException), Member = ".ctor", MemberParameters = new object[]
@@ -391,7 +429,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010A4 RID: 4260 RVA: 0x00017414 File Offset: 0x00015614
 		[global::Cpp2ILInjected.Token(Token = "0x60011FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D58C", Offset = "0x1C9D58C", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -411,7 +448,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010A5 RID: 4261
 		[global::Cpp2ILInjected.Token(Token = "0x60011FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D640", Offset = "0x1C9D640", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -419,7 +455,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern bool YieldInternal();
 
-		// Token: 0x060010A6 RID: 4262 RVA: 0x00017417 File Offset: 0x00015617
 		[global::Cpp2ILInjected.Token(Token = "0x60011FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A328", Offset = "0x1C9A328", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Internal.Runtime.Augments.RuntimeThread), Member = "Yield", ReturnType = typeof(bool))]
@@ -430,7 +465,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010A7 RID: 4263 RVA: 0x0001741A File Offset: 0x0001561A
 		[global::Cpp2ILInjected.Token(Token = "0x6001200")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D0E4", Offset = "0x1C9D0E4", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -459,9 +493,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x17000178 RID: 376
-		// (get) Token: 0x060010A8 RID: 4264 RVA: 0x0001741D File Offset: 0x0001561D
-		// (set) Token: 0x060010A9 RID: 4265 RVA: 0x00017420 File Offset: 0x00015620
 		[global::Cpp2ILInjected.Token(Token = "0x170001B3")]
 		public global::System.Globalization.CultureInfo CurrentUICulture
 		{
@@ -499,7 +530,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x060010AA RID: 4266 RVA: 0x00017423 File Offset: 0x00015623
 		[global::Cpp2ILInjected.Token(Token = "0x6001203")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D750", Offset = "0x1C9D750", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -511,9 +541,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x17000179 RID: 377
-		// (get) Token: 0x060010AB RID: 4267 RVA: 0x00017426 File Offset: 0x00015626
-		// (set) Token: 0x060010AC RID: 4268 RVA: 0x00017429 File Offset: 0x00015629
 		[global::Cpp2ILInjected.Token(Token = "0x170001B4")]
 		public global::System.Globalization.CultureInfo CurrentCulture
 		{
@@ -562,7 +589,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x060010AD RID: 4269 RVA: 0x0001742C File Offset: 0x0001562C
 		[global::Cpp2ILInjected.Token(Token = "0x6001206")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DAD8", Offset = "0x1C9DAD8", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -574,7 +600,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010AE RID: 4270 RVA: 0x0001742F File Offset: 0x0001562F
 		[global::Cpp2ILInjected.Token(Token = "0x6001207")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DA08", Offset = "0x1C9DA08", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Thread), Member = "set_CurrentUICulture", MemberParameters = new object[] { typeof(global::System.Globalization.CultureInfo) }, ReturnType = typeof(void))]
@@ -588,7 +613,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010AF RID: 4271
 		[global::Cpp2ILInjected.Token(Token = "0x6001208")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DD68", Offset = "0x1C9DD68", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Interlocked), Member = "MemoryBarrier", ReturnType = typeof(void))]
@@ -601,7 +625,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		public static extern void MemoryBarrier();
 
-		// Token: 0x060010B0 RID: 4272
 		[global::Cpp2ILInjected.Token(Token = "0x6001209")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DD6C", Offset = "0x1C9DD6C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -609,8 +632,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private extern void ConstructInternalThread();
 
-		// Token: 0x1700017A RID: 378
-		// (get) Token: 0x060010B1 RID: 4273 RVA: 0x00017432 File Offset: 0x00015632
 		[global::Cpp2ILInjected.Token(Token = "0x170001B5")]
 		private InternalThread Internal
 		{
@@ -624,8 +645,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x1700017B RID: 379
-		// (get) Token: 0x060010B2 RID: 4274 RVA: 0x00017435 File Offset: 0x00015635
 		[global::Cpp2ILInjected.Token(Token = "0x170001B6")]
 		public static global::System.Runtime.Remoting.Contexts.Context CurrentContext
 		{
@@ -674,7 +693,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x060010B3 RID: 4275
 		[global::Cpp2ILInjected.Token(Token = "0x600120C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DD9C", Offset = "0x1C9DD9C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -682,7 +700,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern void GetCurrentThread_icall(ref Thread thread);
 
-		// Token: 0x060010B4 RID: 4276 RVA: 0x00017438 File Offset: 0x00015638
 		[global::Cpp2ILInjected.Token(Token = "0x600120D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DDA0", Offset = "0x1C9DDA0", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -692,14 +709,209 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x1700017C RID: 380
-		// (get) Token: 0x060010B5 RID: 4277 RVA: 0x0001743B File Offset: 0x0001563B
 		[global::Cpp2ILInjected.Token(Token = "0x170001B7")]
 		public static Thread CurrentThread
 		{
 			[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.MayFail)]
 			[global::Cpp2ILInjected.Token(Token = "0x600120E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C9A32C", Offset = "0x1C9A32C", Length = "0x5C")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DrPlatform", Member = "get_IsMainThread", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DrPlatform", Member = "Setup", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MainThreadExecution", Member = "ExecuteOnMainThread", MemberParameters = new object[]
+			{
+				"MainThreadExecution.ExecutionSnippet",
+				typeof(object)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ThreadManager", Member = "CheckThreadTerminiate", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteFont", Member = "CreateWrappedText", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(float)
+			}, ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Content.ContentManager", Member = "LoadUnityTexturePageAsync", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(string),
+				typeof(string),
+				typeof(int),
+				"System.Action`4<Texture2D, Texture2D, Texture2D, Int32>"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Content.ContentManager", Member = "LoadUnityResource", MemberTypeParameters = new object[] { "ResourceType" }, MemberParameters = new object[] { typeof(string) }, ReturnType = "ResourceType")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Content.ContentManager", Member = "ConstructFromUnityResource", MemberTypeParameters = new object[] { "ResourceType" }, MemberParameters = new object[]
+			{
+				typeof(string),
+				"Microsoft.Xna.Framework.Content.ThreadContentRequest.ObjectCreate"
+			}, ReturnType = "ResourceType")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Content.ContentManager", Member = "ConstructFromUnityResources", MemberTypeParameters = new object[] { "ResourceType" }, MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(string),
+				"Microsoft.Xna.Framework.Content.ThreadContentRequest.ObjectCreate2"
+			}, ReturnType = "ResourceType")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Content.ContentManager", Member = "ConstructFromUnityResources", MemberTypeParameters = new object[] { "ResourceType" }, MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(string),
+				typeof(string),
+				"Microsoft.Xna.Framework.Content.ThreadContentRequest.ObjectCreate3"
+			}, ReturnType = "ResourceType")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Audio.SoundEffectInstance", Member = "Play", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Audio.SoundEffectInstance", Member = "Stop", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Program", Member = "LaunchGame", MemberParameters = new object[]
+			{
+				"System.String[]",
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "clearWorld", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "smCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "KillTile_PlaySounds", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int),
+				typeof(bool),
+				"Terraria.Tile"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashDump", Member = "CreateDumpName", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashWatcher.<>c", Member = "<Inititialize>b__18_0", MemberParameters = new object[]
+			{
+				typeof(object),
+				typeof(global::System.Runtime.ExceptionServices.FirstChanceExceptionEventArgs)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashWatcher.<>c", Member = "<Inititialize>b__18_1", MemberParameters = new object[]
+			{
+				typeof(object),
+				typeof(global::System.UnhandledExceptionEventArgs)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Localization.LanguageManager", Member = "SetLanguage", MemberParameters = new object[] { "Terraria.Localization.GameCulture" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Environment), Member = "get_CurrentManagedThreadId", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SpinLock), Member = "ContinueTryEnterWithThreadTracking", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(uint),
+				typeof(ref bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SpinLock), Member = "get_IsHeldByCurrentThread", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExecutionContext), Member = "SetLocalValue", MemberParameters = new object[]
+			{
+				typeof(IAsyncLocal),
+				typeof(object),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExecutionContext), Member = "RunInternal", MemberParameters = new object[]
+			{
+				typeof(ExecutionContext),
+				typeof(ContextCallback),
+				typeof(object),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExecutionContext), Member = "EstablishCopyOnWriteScope", MemberParameters = new object[] { typeof(ref ExecutionContextSwitcher) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExecutionContext), Member = "SetExecutionContext", MemberParameters = new object[]
+			{
+				typeof(ExecutionContext),
+				typeof(bool)
+			}, ReturnType = typeof(ExecutionContextSwitcher))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExecutionContext), Member = "IsFlowSuppressed", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExecutionContext), Member = "Capture", MemberParameters = new object[]
+			{
+				typeof(ref StackCrawlMark),
+				typeof(ExecutionContext.CaptureOptions)
+			}, ReturnType = typeof(ExecutionContext))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SynchronizationContext), Member = "SetSynchronizationContext", MemberParameters = new object[] { typeof(SynchronizationContext) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SynchronizationContext), Member = "get_Current", ReturnType = typeof(SynchronizationContext))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SynchronizationContext), Member = "get_CurrentNoFlow", ReturnType = typeof(SynchronizationContext))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Thread), Member = "BeginCriticalRegion", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Thread), Member = "EndCriticalRegion", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ThreadPoolWorkQueueThreadLocals), Member = ".ctor", MemberParameters = new object[] { typeof(ThreadPoolWorkQueue) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ThreadPool), Member = "get_IsThreadPoolThread", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Threading.Timer.Scheduler", Member = "SchedulerThread", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.TaskSchedulerAwaitTaskContinuation), Member = "Run", MemberParameters = new object[]
+			{
+				typeof(global::System.Threading.Tasks.Task),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.RemotingServices), Member = "InternalExecuteMessage", MemberParameters = new object[]
+			{
+				typeof(global::System.MarshalByRefObject),
+				typeof(global::System.Runtime.Remoting.Messaging.IMethodCallMessage)
+			}, ReturnType = typeof(global::System.Runtime.Remoting.Messaging.IMethodReturnMessage))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.RemotingServices), Member = "SerializeCallData", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(byte[]))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.RemotingServices), Member = "DeserializeCallData", MemberParameters = new object[] { typeof(byte[]) }, ReturnType = typeof(object))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Proxies.RealProxy), Member = "PrivateInvoke", MemberParameters = new object[]
+			{
+				typeof(global::System.Runtime.Remoting.Proxies.RealProxy),
+				typeof(global::System.Runtime.Remoting.Messaging.IMessage),
+				typeof(ref global::System.Exception),
+				typeof(ref object[])
+			}, ReturnType = typeof(object))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Messaging.CallContext), Member = "SetLogicalCallContext", MemberParameters = new object[] { typeof(global::System.Runtime.Remoting.Messaging.LogicalCallContext) }, ReturnType = typeof(global::System.Runtime.Remoting.Messaging.LogicalCallContext))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Messaging.CallContext), Member = "LogicalGetData", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(object))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Messaging.CallContext), Member = "LogicalSetData", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(object)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.NumberFormatInfo), Member = "get_CurrentInfo", ReturnType = typeof(global::System.Globalization.NumberFormatInfo))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.CultureInfo), Member = "get_CurrentCulture", ReturnType = typeof(global::System.Globalization.CultureInfo))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.CultureInfo), Member = "get_CurrentUICulture", ReturnType = typeof(global::System.Globalization.CultureInfo))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Diagnostics.StackTrace), Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(Thread),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Diagnostics.TraceEventCache", Member = "get_ThreadId", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Diagnostics.TraceEventCache", Member = "GetThreadId", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.TimerThread", Member = "ThreadProc", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.SafeSocketHandle", Member = "ReleaseHandle", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.SafeSocketHandle", Member = "UnRegisterForBlockingSyscall", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.Extensions.<Values>d__11`2", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.Extensions.<Values>d__11`2", Member = "System.Collections.Generic.IEnumerable<U>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<U>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.Extensions.<Convert>d__14`2", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.Extensions.<Convert>d__14`2", Member = "System.Collections.Generic.IEnumerable<U>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<U>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JContainer.<GetDescendants>d__29", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JContainer.<GetDescendants>d__29", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<GetAncestors>d__41", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<GetAncestors>d__41", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<AfterSelf>d__42", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<AfterSelf>d__42", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<BeforeSelf>d__43", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<BeforeSelf>d__43", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<Annotations>d__171`1", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<Annotations>d__171`1", Member = "System.Collections.Generic.IEnumerable<T>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<T>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<Annotations>d__172", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<Annotations>d__172", Member = "System.Collections.Generic.IEnumerable<System.Object>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<Object>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArrayIndexFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArrayIndexFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArrayMultipleIndexFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArrayMultipleIndexFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArraySliceFilter.<ExecuteFilter>d__12", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArraySliceFilter.<ExecuteFilter>d__12", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.FieldFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.FieldFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.FieldMultipleFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.FieldMultipleFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.QueryFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.QueryFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ScanFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ScanFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UnitySynchronizationContext", Member = "Send", MemberParameters = new object[]
+			{
+				typeof(SendOrPostCallback),
+				typeof(object)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UnitySynchronizationContext", Member = "InitializeSynchronizationContext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "TraceWriteLine", MemberParameters = new object[]
+			{
+				typeof(string),
+				"System.Object[]"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.BZip2.BZip2OutputStream", Member = "TraceOutput", MemberParameters = new object[]
+			{
+				"Ionic.BZip2.BZip2OutputStream.TraceBits",
+				typeof(string),
+				"System.Object[]"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Linq.Enumerable.Iterator`1", Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Linq.Enumerable.Iterator`1", Member = "GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<TSource>")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 96)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 3)]
 			get
@@ -708,7 +920,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x060010B6 RID: 4278
 		[global::Cpp2ILInjected.Token(Token = "0x600120F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DDBC", Offset = "0x1C9DDBC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.AppDomain), Member = "IsFinalizingForUnload", ReturnType = typeof(bool))]
@@ -725,7 +936,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		public static extern int GetDomainID();
 
-		// Token: 0x060010B7 RID: 4279
 		[global::Cpp2ILInjected.Token(Token = "0x6001210")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DDC0", Offset = "0x1C9DDC0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -733,7 +943,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private extern bool Thread_internal(global::System.MulticastDelegate start);
 
-		// Token: 0x060010B8 RID: 4280 RVA: 0x0001743E File Offset: 0x0001563E
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x6001211")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DDC4", Offset = "0x1C9DDC4", Length = "0x8")]
@@ -744,8 +953,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x1700017D RID: 381
-		// (get) Token: 0x060010B9 RID: 4281 RVA: 0x00017441 File Offset: 0x00015641
 		[global::Cpp2ILInjected.Token(Token = "0x170001B8")]
 		public bool IsThreadPoolThread
 		{
@@ -765,8 +972,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x1700017E RID: 382
-		// (get) Token: 0x060010BA RID: 4282 RVA: 0x00017444 File Offset: 0x00015644
 		[global::Cpp2ILInjected.Token(Token = "0x170001B9")]
 		internal bool IsThreadPoolThreadInternal
 		{
@@ -780,8 +985,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x1700017F RID: 383
-		// (get) Token: 0x060010BB RID: 4283 RVA: 0x00017447 File Offset: 0x00015647
 		[global::Cpp2ILInjected.Token(Token = "0x170001BA")]
 		public bool IsAlive
 		{
@@ -800,8 +1003,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x17000180 RID: 384
-		// (set) Token: 0x060010BC RID: 4284 RVA: 0x0001744A File Offset: 0x0001564A
 		[global::Cpp2ILInjected.Token(Token = "0x170001BB")]
 		public bool IsBackground
 		{
@@ -836,7 +1037,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x060010BD RID: 4285
 		[global::Cpp2ILInjected.Token(Token = "0x6001216")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DF1C", Offset = "0x1C9DF1C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -844,7 +1044,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern string GetName_internal(InternalThread thread);
 
-		// Token: 0x060010BE RID: 4286
 		[global::Cpp2ILInjected.Token(Token = "0x6001217")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DF20", Offset = "0x1C9DF20", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -852,7 +1051,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private unsafe static extern void SetName_icall(InternalThread thread, char* name, int nameLength);
 
-		// Token: 0x060010BF RID: 4287 RVA: 0x0001744D File Offset: 0x0001564D
 		[global::Cpp2ILInjected.Token(Token = "0x6001218")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DF24", Offset = "0x1C9DF24", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Thread), Member = "set_Name", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -864,9 +1062,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x17000181 RID: 385
-		// (get) Token: 0x060010C0 RID: 4288 RVA: 0x00017450 File Offset: 0x00015650
-		// (set) Token: 0x060010C1 RID: 4289 RVA: 0x00017453 File Offset: 0x00015653
 		[global::Cpp2ILInjected.Token(Token = "0x170001BC")]
 		public string Name
 		{
@@ -913,8 +1108,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x17000182 RID: 386
-		// (get) Token: 0x060010C2 RID: 4290 RVA: 0x00017456 File Offset: 0x00015656
 		[global::Cpp2ILInjected.Token(Token = "0x170001BD")]
 		public ThreadState ThreadState
 		{
@@ -929,7 +1122,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x060010C3 RID: 4291
 		[global::Cpp2ILInjected.Token(Token = "0x600121C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DFE0", Offset = "0x1C9DFE0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -937,7 +1129,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern void Abort_internal(InternalThread thread, object stateInfo);
 
-		// Token: 0x060010C4 RID: 4292 RVA: 0x00017459 File Offset: 0x00015659
 		[global::Cpp2ILInjected.Token(Token = "0x600121D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DFE4", Offset = "0x1C9DFE4", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ThreadManager", Member = "TerminateAll", ReturnType = typeof(void))]
@@ -949,7 +1140,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010C5 RID: 4293
 		[global::Cpp2ILInjected.Token(Token = "0x600121E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9E00C", Offset = "0x1C9E00C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -957,7 +1147,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern void SpinWait_nop();
 
-		// Token: 0x060010C6 RID: 4294 RVA: 0x0001745C File Offset: 0x0001565C
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x600121F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A288", Offset = "0x1C9A288", Length = "0x28")]
@@ -971,7 +1160,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010C7 RID: 4295 RVA: 0x0001745F File Offset: 0x0001565F
 		[global::Cpp2ILInjected.Token(Token = "0x6001220")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D504", Offset = "0x1C9D504", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Thread), Member = "Start", MemberParameters = new object[] { typeof(ref StackCrawlMark) }, ReturnType = typeof(void))]
@@ -983,7 +1171,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010C8 RID: 4296
 		[global::Cpp2ILInjected.Token(Token = "0x6001221")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DF14", Offset = "0x1C9DF14", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -991,7 +1178,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern void SetState(InternalThread thread, ThreadState set);
 
-		// Token: 0x060010C9 RID: 4297
 		[global::Cpp2ILInjected.Token(Token = "0x6001222")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DF18", Offset = "0x1C9DF18", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -999,7 +1185,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern void ClrState(InternalThread thread, ThreadState clr);
 
-		// Token: 0x060010CA RID: 4298
 		[global::Cpp2ILInjected.Token(Token = "0x6001223")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DE58", Offset = "0x1C9DE58", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1007,7 +1192,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern ThreadState GetState(InternalThread thread);
 
-		// Token: 0x060010CB RID: 4299
 		[global::Cpp2ILInjected.Token(Token = "0x6001224")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9E010", Offset = "0x1C9E010", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1015,7 +1199,6 @@ namespace System.Threading
 		[MethodImpl(4096)]
 		private static extern int SystemMaxStackStize();
 
-		// Token: 0x060010CC RID: 4300 RVA: 0x00017462 File Offset: 0x00015662
 		[global::Cpp2ILInjected.Token(Token = "0x6001225")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D644", Offset = "0x1C9D644", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1037,7 +1220,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010CD RID: 4301 RVA: 0x00017465 File Offset: 0x00015665
 		[global::Cpp2ILInjected.Token(Token = "0x6001226")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9D6F0", Offset = "0x1C9D6F0", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1047,14 +1229,65 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x17000183 RID: 387
-		// (get) Token: 0x060010CE RID: 4302 RVA: 0x00017468 File Offset: 0x00015668
 		[global::Cpp2ILInjected.Token(Token = "0x170001BE")]
 		public int ManagedThreadId
 		{
 			[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 			[global::Cpp2ILInjected.Token(Token = "0x6001227")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C9A388", Offset = "0x1C9A388", Length = "0x24")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashDump", Member = "CreateDumpName", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashWatcher.<>c", Member = "<Inititialize>b__18_0", MemberParameters = new object[]
+			{
+				typeof(object),
+				typeof(global::System.Runtime.ExceptionServices.FirstChanceExceptionEventArgs)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashWatcher.<>c", Member = "<Inititialize>b__18_1", MemberParameters = new object[]
+			{
+				typeof(object),
+				typeof(global::System.UnhandledExceptionEventArgs)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Environment), Member = "get_CurrentManagedThreadId", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ThreadPoolWorkQueueThreadLocals), Member = ".ctor", MemberParameters = new object[] { typeof(ThreadPoolWorkQueue) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Diagnostics.TraceEventCache", Member = "get_ThreadId", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Diagnostics.TraceEventCache", Member = "GetThreadId", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.Extensions.<Values>d__11`2", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.Extensions.<Values>d__11`2", Member = "System.Collections.Generic.IEnumerable<U>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<U>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.Extensions.<Convert>d__14`2", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.Extensions.<Convert>d__14`2", Member = "System.Collections.Generic.IEnumerable<U>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<U>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JContainer.<GetDescendants>d__29", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JContainer.<GetDescendants>d__29", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<GetAncestors>d__41", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<GetAncestors>d__41", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<AfterSelf>d__42", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<AfterSelf>d__42", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<BeforeSelf>d__43", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<BeforeSelf>d__43", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<Annotations>d__171`1", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<Annotations>d__171`1", Member = "System.Collections.Generic.IEnumerable<T>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<T>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<Annotations>d__172", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken.<Annotations>d__172", Member = "System.Collections.Generic.IEnumerable<System.Object>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<Object>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArrayIndexFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArrayIndexFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArrayMultipleIndexFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArrayMultipleIndexFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArraySliceFilter.<ExecuteFilter>d__12", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArraySliceFilter.<ExecuteFilter>d__12", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.FieldFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.FieldFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.FieldMultipleFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.FieldMultipleFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.QueryFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.QueryFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ScanFilter.<ExecuteFilter>d__4", Member = ".ctor", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ScanFilter.<ExecuteFilter>d__4", Member = "System.Collections.Generic.IEnumerable<Newtonsoft.Json.Linq.JToken>.GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<JToken>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UnitySynchronizationContext", Member = "Send", MemberParameters = new object[]
+			{
+				typeof(SendOrPostCallback),
+				typeof(object)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UnitySynchronizationContext", Member = "InitializeSynchronizationContext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Linq.Enumerable.Iterator`1", Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Linq.Enumerable.Iterator`1", Member = "GetEnumerator", ReturnType = "System.Collections.Generic.IEnumerator`1<TSource>")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 41)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
 			get
@@ -1063,7 +1296,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x060010CF RID: 4303 RVA: 0x0001746B File Offset: 0x0001566B
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.MayFail)]
 		[global::Cpp2ILInjected.Token(Token = "0x6001228")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C99B50", Offset = "0x1C99B50", Length = "0x40")]
@@ -1092,7 +1324,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010D0 RID: 4304 RVA: 0x0001746E File Offset: 0x0001566E
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x6001229")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A0A4", Offset = "0x1C9A0A4", Length = "0x40")]
@@ -1116,7 +1347,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010D1 RID: 4305 RVA: 0x00017471 File Offset: 0x00015671
 		[global::Cpp2ILInjected.Token(Token = "0x600122A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9E014", Offset = "0x1C9E014", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.OS.Windows.STATaskInvoker", Member = ".ctor", ReturnType = typeof(void))]
@@ -1129,7 +1359,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010D2 RID: 4306 RVA: 0x00017474 File Offset: 0x00015674
 		[global::Cpp2ILInjected.Token(Token = "0x600122B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9E070", Offset = "0x1C9E070", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1143,7 +1372,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010D3 RID: 4307 RVA: 0x00017477 File Offset: 0x00015677
 		[global::System.Runtime.InteropServices.ComVisible(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x600122C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9E134", Offset = "0x1C9E134", Length = "0x24")]
@@ -1154,7 +1382,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x060010D4 RID: 4308 RVA: 0x0001747A File Offset: 0x0001567A
 		[global::Cpp2ILInjected.Token(Token = "0x600122D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9DEA4", Offset = "0x1C9DEA4", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Thread), Member = "set_IsBackground", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
@@ -1166,74 +1393,59 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x04000776 RID: 1910
 		[global::Cpp2ILInjected.Token(Token = "0x40009A0")]
 		private static global::System.LocalDataStoreMgr s_LocalDataStoreMgr;
 
-		// Token: 0x04000777 RID: 1911
 		[global::System.ThreadStatic]
 		[global::Cpp2ILInjected.Token(Token = "0x40009A1")]
 		private static global::System.LocalDataStoreHolder s_LocalDataStore;
 
-		// Token: 0x04000778 RID: 1912
 		[global::System.ThreadStatic]
 		[global::Cpp2ILInjected.Token(Token = "0x40009A2")]
 		internal static global::System.Globalization.CultureInfo m_CurrentCulture;
 
-		// Token: 0x04000779 RID: 1913
 		[global::System.ThreadStatic]
 		[global::Cpp2ILInjected.Token(Token = "0x40009A3")]
 		internal static global::System.Globalization.CultureInfo m_CurrentUICulture;
 
-		// Token: 0x0400077A RID: 1914
 		[global::Cpp2ILInjected.Token(Token = "0x40009A4")]
 		private static AsyncLocal<global::System.Globalization.CultureInfo> s_asyncLocalCurrentCulture;
 
-		// Token: 0x0400077B RID: 1915
 		[global::Cpp2ILInjected.Token(Token = "0x40009A5")]
 		private static AsyncLocal<global::System.Globalization.CultureInfo> s_asyncLocalCurrentUICulture;
 
-		// Token: 0x0400077C RID: 1916
 		[global::Cpp2ILInjected.Token(Token = "0x40009A6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private InternalThread internal_thread;
 
-		// Token: 0x0400077D RID: 1917
 		[global::Cpp2ILInjected.Token(Token = "0x40009A7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private object m_ThreadStartArg;
 
-		// Token: 0x0400077E RID: 1918
 		[global::Cpp2ILInjected.Token(Token = "0x40009A8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private object pending_exception;
 
-		// Token: 0x0400077F RID: 1919
 		[global::System.ThreadStatic]
 		[global::Cpp2ILInjected.Token(Token = "0x40009A9")]
 		private static Thread current_thread;
 
-		// Token: 0x04000780 RID: 1920
 		[global::Cpp2ILInjected.Token(Token = "0x40009AA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private global::System.MulticastDelegate m_Delegate;
 
-		// Token: 0x04000781 RID: 1921
 		[global::Cpp2ILInjected.Token(Token = "0x40009AB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private ExecutionContext m_ExecutionContext;
 
-		// Token: 0x04000782 RID: 1922
 		[global::Cpp2ILInjected.Token(Token = "0x40009AC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private bool m_ExecutionContextBelongsToOuterScope;
 
-		// Token: 0x04000783 RID: 1923
 		[global::Cpp2ILInjected.Token(Token = "0x40009AD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private global::System.Security.Principal.IPrincipal principal;
 
-		// Token: 0x04000784 RID: 1924
 		[global::Cpp2ILInjected.Token(Token = "0x40009AE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private int principal_version;

@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Reflection
 {
-	// Token: 0x020003FC RID: 1020
 	[global::Cpp2ILInjected.Token(Token = "0x20004BA")]
 	[global::System.Serializable]
 	public sealed class AmbiguousMatchException : global::System.SystemException
 	{
-		// Token: 0x060020C3 RID: 8387 RVA: 0x0001A0D5 File Offset: 0x000182D5
 		[global::Cpp2ILInjected.Token(Token = "0x600235B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B80560", Offset = "0x1B80560", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x060020C4 RID: 8388 RVA: 0x0001A0D8 File Offset: 0x000182D8
 		[global::Cpp2ILInjected.Token(Token = "0x600235C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B805BC", Offset = "0x1B805BC", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -124,7 +121,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x060020C5 RID: 8389 RVA: 0x0001A0DB File Offset: 0x000182DB
 		[global::Cpp2ILInjected.Token(Token = "0x600235D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B805E0", Offset = "0x1B805E0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

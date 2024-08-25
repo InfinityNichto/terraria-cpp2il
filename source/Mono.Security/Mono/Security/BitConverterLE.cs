@@ -6,11 +6,9 @@ using Mono.Security.Protocol.Ntlm;
 
 namespace Mono.Security
 {
-	// Token: 0x02000005 RID: 5
 	[global::Cpp2ILInjected.Token(Token = "0x2000005")]
 	internal sealed class BitConverterLE
 	{
-		// Token: 0x0600001B RID: 27 RVA: 0x00002F94 File Offset: 0x00001194
 		[global::Cpp2ILInjected.Token(Token = "0x600001B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A7A014", Offset = "0x1A7A014", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ASN1Convert), Member = "FromInt32", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(ASN1))]
@@ -22,7 +20,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x0600001C RID: 28 RVA: 0x00002F97 File Offset: 0x00001197
 		[global::Cpp2ILInjected.Token(Token = "0x600001C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A7A0D0", Offset = "0x1A7A0D0", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BitConverterLE), Member = "GetBytes", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(byte[]))]
@@ -33,7 +30,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x0600001D RID: 29 RVA: 0x00002F9A File Offset: 0x0000119A
 		[global::Cpp2ILInjected.Token(Token = "0x600001D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A795B8", Offset = "0x1A795B8", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -43,7 +39,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x0600001E RID: 30 RVA: 0x00002F9D File Offset: 0x0000119D
 		[global::Cpp2ILInjected.Token(Token = "0x600001E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A7A1CC", Offset = "0x1A7A1CC", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChallengeResponse2), Member = "Compute_NTLMv2", MemberParameters = new object[]
@@ -60,7 +55,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x0600001F RID: 31 RVA: 0x00002FA0 File Offset: 0x000011A0
 		[global::Cpp2ILInjected.Token(Token = "0x600001F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A7A1E4", Offset = "0x1A7A1E4", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BitConverterLE), Member = "ToUInt16", MemberParameters = new object[]
@@ -75,7 +69,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x06000020 RID: 32 RVA: 0x00002FA3 File Offset: 0x000011A3
 		[global::Cpp2ILInjected.Token(Token = "0x6000020")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A7A280", Offset = "0x1A7A280", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BitConverterLE), Member = "ToInt32", MemberParameters = new object[]
@@ -95,7 +88,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x06000021 RID: 33 RVA: 0x00002FA6 File Offset: 0x000011A6
 		[global::Cpp2ILInjected.Token(Token = "0x6000021")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A7A34C", Offset = "0x1A7A34C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AuthenticodeBase), Member = "ProcessFirstBlock", ReturnType = typeof(int))]
@@ -116,7 +108,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x06000022 RID: 34 RVA: 0x00002FA9 File Offset: 0x000011A9
 		[global::Cpp2ILInjected.Token(Token = "0x6000022")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A7A370", Offset = "0x1A7A370", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,7 +127,6 @@ namespace Mono.Security
 			throw null;
 		}
 
-		// Token: 0x06000023 RID: 35 RVA: 0x00002FAC File Offset: 0x000011AC
 		[global::Cpp2ILInjected.Token(Token = "0x6000023")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A7A394", Offset = "0x1A7A394", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MessageBase), Member = "CheckHeader", MemberParameters = new object[] { typeof(byte[]) }, ReturnType = typeof(bool))]

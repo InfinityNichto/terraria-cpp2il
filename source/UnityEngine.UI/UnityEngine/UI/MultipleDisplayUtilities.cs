@@ -6,11 +6,9 @@ using UnityEngine.EventSystems;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x0200002E RID: 46
 	[global::Cpp2ILInjected.Token(Token = "0x2000059")]
 	internal static class MultipleDisplayUtilities
 	{
-		// Token: 0x06000304 RID: 772 RVA: 0x00002905 File Offset: 0x00000B05
 		[global::Cpp2ILInjected.Token(Token = "0x600035E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCFD38", Offset = "0x1FCFD38", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -29,7 +27,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000305 RID: 773 RVA: 0x00002908 File Offset: 0x00000B08
 		[global::Cpp2ILInjected.Token(Token = "0x600035F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCFD98", Offset = "0x1FCFD98", Length = "0x40C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

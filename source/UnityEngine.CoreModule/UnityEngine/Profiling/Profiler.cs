@@ -7,7 +7,6 @@ using UnityEngine.Scripting.APIUpdating;
 
 namespace UnityEngine.Profiling
 {
-	// Token: 0x020000D8 RID: 216
 	[NativeHeader("Runtime/Profiler/ScriptBindings/Profiler.bindings.h")]
 	[UsedByNativeCode]
 	[NativeHeader("Runtime/Utilities/MemoryUtilities.h")]
@@ -18,7 +17,6 @@ namespace UnityEngine.Profiling
 	[global::Cpp2ILInjected.Token(Token = "0x20000EF")]
 	public sealed class Profiler
 	{
-		// Token: 0x060004FC RID: 1276 RVA: 0x00002ADF File Offset: 0x00000CDF
 		[NativeConditional("ENABLE_PROFILER")]
 		[global::Cpp2ILInjected.Token(Token = "0x600051A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F87E58", Offset = "0x1F87E58", Length = "0x4")]

@@ -6,11 +6,9 @@ using Mono.Security.X509;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000BC RID: 188
 	[global::Cpp2ILInjected.Token(Token = "0x200011A")]
 	internal static class X509Helper2
 	{
-		// Token: 0x060005FD RID: 1533 RVA: 0x00003F4A File Offset: 0x0000214A
 		[MonoTODO("Investigate replacement; see comments in source.")]
 		[global::Cpp2ILInjected.Token(Token = "0x60006A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD42C", Offset = "0x1EDD42C", Length = "0xC8")]
@@ -38,7 +36,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060005FE RID: 1534 RVA: 0x00003F4D File Offset: 0x0000214D
 		[global::Cpp2ILInjected.Token(Token = "0x60006A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD4F4", Offset = "0x1EDD4F4", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509Chain), Member = ".ctor", ReturnType = typeof(void))]
@@ -52,7 +49,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060005FF RID: 1535 RVA: 0x00003F50 File Offset: 0x00002150
 		[global::Cpp2ILInjected.Token(Token = "0x60006AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD550", Offset = "0x1EDD550", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -62,7 +58,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000600 RID: 1536 RVA: 0x00003F53 File Offset: 0x00002153
 		[global::Cpp2ILInjected.Token(Token = "0x60006AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD564", Offset = "0x1EDD564", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +76,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000601 RID: 1537 RVA: 0x00003F56 File Offset: 0x00002156
 		[global::Cpp2ILInjected.Token(Token = "0x60006AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD5A4", Offset = "0x1EDD5A4", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509ChainImpl), Member = "ThrowIfContextInvalid", ReturnType = typeof(void))]
@@ -95,7 +89,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000602 RID: 1538 RVA: 0x00003F59 File Offset: 0x00002159
 		[Obsolete("This is only used by Mono.Security's X509Store and will be replaced shortly.")]
 		[global::Cpp2ILInjected.Token(Token = "0x60006AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD624", Offset = "0x1EDD624", Length = "0x38")]
@@ -109,7 +102,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000603 RID: 1539 RVA: 0x00003F5C File Offset: 0x0000215C
 		[Obsolete("This is only used by Mono.Security's X509Store and will be replaced shortly.")]
 		[global::Cpp2ILInjected.Token(Token = "0x60006AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD65C", Offset = "0x1EDD65C", Length = "0x38")]

@@ -10,14 +10,10 @@ using Newtonsoft.Json.Shims;
 
 namespace Newtonsoft.Json.Serialization
 {
-	// Token: 0x02000064 RID: 100
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x200007D")]
 	public class MemoryTraceWriter : ITraceWriter
 	{
-		// Token: 0x170000BB RID: 187
-		// (get) Token: 0x0600041D RID: 1053 RVA: 0x00002CB7 File Offset: 0x00000EB7
-		// (set) Token: 0x0600041E RID: 1054 RVA: 0x00002CBA File Offset: 0x00000EBA
 		[global::Cpp2ILInjected.Token(Token = "0x170000C1")]
 		public TraceLevel LevelFilter
 		{
@@ -39,7 +35,6 @@ namespace Newtonsoft.Json.Serialization
 			}
 		}
 
-		// Token: 0x0600041F RID: 1055 RVA: 0x00002CBD File Offset: 0x00000EBD
 		[global::Cpp2ILInjected.Token(Token = "0x6000462")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CDFD50", Offset = "0x1CDFD50", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -51,7 +46,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000420 RID: 1056 RVA: 0x00002CC0 File Offset: 0x00000EC0
 		[global::Cpp2ILInjected.Token(Token = "0x6000463")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CDFDD8", Offset = "0x1CDFDD8", Length = "0x228")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -74,7 +68,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000421 RID: 1057 RVA: 0x00002CC3 File Offset: 0x00000EC3
 		[global::Cpp2ILInjected.Token(Token = "0x6000464")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CE0000", Offset = "0x1CE0000", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -83,7 +76,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000422 RID: 1058 RVA: 0x00002CC6 File Offset: 0x00000EC6
 		[global::Cpp2ILInjected.Token(Token = "0x6000465")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CE0008", Offset = "0x1CE0008", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -102,12 +94,10 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x040001CC RID: 460
 		[global::Cpp2ILInjected.Token(Token = "0x4000211")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly Queue<string> _traceMessages;
 
-		// Token: 0x040001CD RID: 461
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000212")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]

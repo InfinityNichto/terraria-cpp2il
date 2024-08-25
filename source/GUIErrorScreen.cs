@@ -9,11 +9,9 @@ using Telepathy;
 using Terraria;
 using Terraria.Audio;
 
-// Token: 0x020001C6 RID: 454
 [global::Cpp2ILInjected.Token(Token = "0x200025C")]
 public class GUIErrorScreen
 {
-	// Token: 0x06000C5D RID: 3165 RVA: 0x0002405C File Offset: 0x0002225C
 	[global::Cpp2ILInjected.Token(Token = "0x6000D79")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DBA54", Offset = "0x9DBA54", Length = "0x248")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawMenu", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -60,7 +58,6 @@ public class GUIErrorScreen
 		throw null;
 	}
 
-	// Token: 0x06000C5E RID: 3166 RVA: 0x0002405F File Offset: 0x0002225F
 	[global::Cpp2ILInjected.Token(Token = "0x6000D7A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DBC9C", Offset = "0x9DBC9C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -71,17 +68,14 @@ public class GUIErrorScreen
 		throw null;
 	}
 
-	// Token: 0x040013FD RID: 5117
 	[global::Cpp2ILInjected.Token(Token = "0x40018EB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float scale0;
 
-	// Token: 0x040013FE RID: 5118
 	[global::Cpp2ILInjected.Token(Token = "0x40018EC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float scale1;
 
-	// Token: 0x040013FF RID: 5119
 	[global::Cpp2ILInjected.Token(Token = "0x40018ED")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float scale2;

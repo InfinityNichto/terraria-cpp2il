@@ -1,8 +1,0 @@
-<map id="CursorInputLayer" name="CursorInputLayer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,221,447"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="223,257,241,269,248,290,245,304,238,314,234,311,240,302,243,290,237,272,220,261"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="51,5,82,71"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="68,71,71,109,72,117,66,117,65,110,63,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="140,5,183,71"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,71,149,118,144,117,153,70"/>
-</map>

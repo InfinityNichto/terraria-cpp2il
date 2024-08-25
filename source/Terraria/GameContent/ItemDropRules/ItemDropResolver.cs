@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.GameContent.ItemDropRules
 {
-	// Token: 0x020005E1 RID: 1505
 	[global::Cpp2ILInjected.Token(Token = "0x20008CE")]
 	public class ItemDropResolver
 	{
-		// Token: 0x06003D18 RID: 15640 RVA: 0x0002CE94 File Offset: 0x0002B094
 		[global::Cpp2ILInjected.Token(Token = "0x600458A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BBBA4", Offset = "0x7BBBA4", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "Initialize_AlmostEverything", ReturnType = typeof(void))]
@@ -20,7 +18,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003D19 RID: 15641 RVA: 0x0002CE97 File Offset: 0x0002B097
 		[global::Cpp2ILInjected.Token(Token = "0x600458B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BBBCC", Offset = "0x7BBBCC", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +40,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003D1A RID: 15642 RVA: 0x0002CE9A File Offset: 0x0002B09A
 		[global::Cpp2ILInjected.Token(Token = "0x600458C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BBC90", Offset = "0x7BBC90", Length = "0x274")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,7 +68,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003D1B RID: 15643 RVA: 0x0002CE9D File Offset: 0x0002B09D
 		[global::Cpp2ILInjected.Token(Token = "0x600458D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BBF04", Offset = "0x7BBF04", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -94,7 +89,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003D1C RID: 15644 RVA: 0x0002CEA0 File Offset: 0x0002B0A0
 		[global::Cpp2ILInjected.Token(Token = "0x600458E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BC0FC", Offset = "0x7BC0FC", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -117,7 +111,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x04006BCA RID: 27594
 		[global::Cpp2ILInjected.Token(Token = "0x4008201")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ItemDropDatabase _database;

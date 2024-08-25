@@ -1,7 +1,0 @@
-<map id="UnityEngine.AnimatorOverrideController" name="UnityEngine.AnimatorOverrideController">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,1568,283,1741"/>
-<area shape="rect" id="Node000002" href="$d1/dd9/classUnityEngine_1_1RuntimeAnimatorController.html" title=" " alt="" coords="51,1455,245,1520"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,1533,151,1568,145,1568,145,1533"/>
-<area shape="rect" id="Node000003" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="5,5,291,1407"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,1420,151,1454,145,1454,145,1420"/>
-</map>

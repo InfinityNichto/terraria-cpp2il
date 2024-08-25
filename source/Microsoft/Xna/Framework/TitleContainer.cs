@@ -8,11 +8,9 @@ using UnityEngine;
 
 namespace Microsoft.Xna.Framework
 {
-	// Token: 0x0200026E RID: 622
 	[global::Cpp2ILInjected.Token(Token = "0x200032F")]
 	public class TitleContainer
 	{
-		// Token: 0x06001222 RID: 4642 RVA: 0x00025133 File Offset: 0x00023333
 		[global::Cpp2ILInjected.Token(Token = "0x600137F")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA8FD20", Offset = "0xA8FD20", Length = "0x1C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -40,7 +38,6 @@ namespace Microsoft.Xna.Framework
 			throw null;
 		}
 
-		// Token: 0x06001223 RID: 4643 RVA: 0x00025136 File Offset: 0x00023336
 		[global::Cpp2ILInjected.Token(Token = "0x6001380")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA8FEE4", Offset = "0xA8FEE4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

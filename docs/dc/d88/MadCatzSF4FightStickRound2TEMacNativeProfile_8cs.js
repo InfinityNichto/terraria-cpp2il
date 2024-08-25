@@ -1,4 +1,0 @@
-var MadCatzSF4FightStickRound2TEMacNativeProfile_8cs =
-[
-    [ "InControl.NativeDeviceProfiles.MadCatzSF4FightStickRound2TEMacNativeProfile", "d2/d07/classInControl_1_1NativeDeviceProfiles_1_1MadCatzSF4FightStickRound2TEMacNativeProfile.html", "d2/d07/classInControl_1_1NativeDeviceProfiles_1_1MadCatzSF4FightStickRound2TEMacNativeProfile" ]
-];

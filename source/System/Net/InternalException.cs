@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000118 RID: 280
 	[global::Cpp2ILInjected.Token(Token = "0x200019F")]
 	internal class InternalException : SystemException
 	{
-		// Token: 0x06000965 RID: 2405 RVA: 0x000048CE File Offset: 0x00002ACE
 		[global::Cpp2ILInjected.Token(Token = "0x6000A74")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0E2F0", Offset = "0x1F0E2F0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CommandStream), Member = "ContinueCommandPipeline", ReturnType = typeof(Stream))]
@@ -38,7 +36,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000966 RID: 2406 RVA: 0x000048D1 File Offset: 0x00002AD1
 		[global::Cpp2ILInjected.Token(Token = "0x6000A75")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0E2F8", Offset = "0x1F0E2F8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

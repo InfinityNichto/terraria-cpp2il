@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.Net
 {
-	// Token: 0x02000497 RID: 1175
 	[global::Cpp2ILInjected.Token(Token = "0x20006A0")]
 	public class LegacyNetBufferPool
 	{
-		// Token: 0x0600334E RID: 13134 RVA: 0x0002B2C2 File Offset: 0x000294C2
 		[global::Cpp2ILInjected.Token(Token = "0x6003889")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143BE88", Offset = "0x143BE88", Length = "0x308")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x0600334F RID: 13135 RVA: 0x0002B2C5 File Offset: 0x000294C5
 		[global::Cpp2ILInjected.Token(Token = "0x600388A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143C190", Offset = "0x143C190", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +50,6 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x06003350 RID: 13136 RVA: 0x0002B2C8 File Offset: 0x000294C8
 		[global::Cpp2ILInjected.Token(Token = "0x600388B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143C21C", Offset = "0x143C21C", Length = "0x1C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +67,6 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x06003351 RID: 13137 RVA: 0x0002B2CB File Offset: 0x000294CB
 		[global::Cpp2ILInjected.Token(Token = "0x600388C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143C3DC", Offset = "0x143C3DC", Length = "0x334")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -108,7 +103,6 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x06003352 RID: 13138 RVA: 0x0002B2CE File Offset: 0x000294CE
 		[global::Cpp2ILInjected.Token(Token = "0x600388D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143C710", Offset = "0x143C710", Length = "0x324")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +133,6 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x06003353 RID: 13139 RVA: 0x0002B2D1 File Offset: 0x000294D1
 		[global::Cpp2ILInjected.Token(Token = "0x600388E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143CA34", Offset = "0x143CA34", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -149,7 +142,6 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x06003354 RID: 13140 RVA: 0x0002B2D4 File Offset: 0x000294D4
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600388F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143CA3C", Offset = "0x143CA3C", Length = "0x100")]
@@ -162,47 +154,36 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x0400653E RID: 25918
 		[global::Cpp2ILInjected.Token(Token = "0x400793D")]
 		private const int SMALL_BUFFER_SIZE = 256;
 
-		// Token: 0x0400653F RID: 25919
 		[global::Cpp2ILInjected.Token(Token = "0x400793E")]
 		private const int MEDIUM_BUFFER_SIZE = 1024;
 
-		// Token: 0x04006540 RID: 25920
 		[global::Cpp2ILInjected.Token(Token = "0x400793F")]
 		private const int LARGE_BUFFER_SIZE = 16384;
 
-		// Token: 0x04006541 RID: 25921
 		[global::Cpp2ILInjected.Token(Token = "0x4007940")]
 		private static object bufferLock;
 
-		// Token: 0x04006542 RID: 25922
 		[global::Cpp2ILInjected.Token(Token = "0x4007941")]
 		private static Queue<byte[]> _smallBufferQueue;
 
-		// Token: 0x04006543 RID: 25923
 		[global::Cpp2ILInjected.Token(Token = "0x4007942")]
 		private static Queue<byte[]> _mediumBufferQueue;
 
-		// Token: 0x04006544 RID: 25924
 		[global::Cpp2ILInjected.Token(Token = "0x4007943")]
 		private static Queue<byte[]> _largeBufferQueue;
 
-		// Token: 0x04006545 RID: 25925
 		[global::Cpp2ILInjected.Token(Token = "0x4007944")]
 		private static int _smallBufferCount;
 
-		// Token: 0x04006546 RID: 25926
 		[global::Cpp2ILInjected.Token(Token = "0x4007945")]
 		private static int _mediumBufferCount;
 
-		// Token: 0x04006547 RID: 25927
 		[global::Cpp2ILInjected.Token(Token = "0x4007946")]
 		private static int _largeBufferCount;
 
-		// Token: 0x04006548 RID: 25928
 		[global::Cpp2ILInjected.Token(Token = "0x4007947")]
 		private static int _customBufferCount;
 	}

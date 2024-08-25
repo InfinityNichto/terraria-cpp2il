@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d2/d19/classSystem_1_1Security_1_1Cryptography_1_1AsymmetricSignatureFormatter.html" title=" " alt="" coords="5,37,232,77"/>
-<area shape="rect" id="Node000001" href="$d1/d2c/classSystem_1_1Security_1_1Cryptography_1_1DSASignatureFormatter.html" title=" " alt="" coords="280,5,500,45"/>
-<area shape="poly" id="edge3684_Node000000_Node000001" title=" " alt="" coords="245,40,279,36,280,41,246,45"/>
-<area shape="rect" id="Node000002" href="$d3/d6e/classSystem_1_1Security_1_1Cryptography_1_1RSAPKCS1SignatureFormatter.html" title=" " alt="" coords="280,69,500,109"/>
-<area shape="poly" id="edge3685_Node000000_Node000002" title=" " alt="" coords="246,70,280,74,279,79,245,75"/>
-</map>

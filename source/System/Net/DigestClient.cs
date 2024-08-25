@@ -6,12 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x0200018E RID: 398
 	[global::Cpp2ILInjected.Token(Token = "0x200023A")]
 	internal class DigestClient : IAuthenticationModule
 	{
-		// Token: 0x170002E4 RID: 740
-		// (get) Token: 0x06000CDA RID: 3290 RVA: 0x000052D6 File Offset: 0x000034D6
 		[global::Cpp2ILInjected.Token(Token = "0x170002FF")]
 		private static Hashtable Cache
 		{
@@ -44,7 +41,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000CDB RID: 3291 RVA: 0x000052D9 File Offset: 0x000034D9
 		[global::Cpp2ILInjected.Token(Token = "0x6000E45")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F417A4", Offset = "0x1F417A4", Length = "0x7D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +64,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CDC RID: 3292 RVA: 0x000052DC File Offset: 0x000034DC
 		[global::Cpp2ILInjected.Token(Token = "0x6000E46")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F41F7C", Offset = "0x1F41F7C", Length = "0x284")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +85,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CDD RID: 3293 RVA: 0x000052DF File Offset: 0x000034DF
 		[global::Cpp2ILInjected.Token(Token = "0x6000E47")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F42200", Offset = "0x1F42200", Length = "0x180")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -107,8 +101,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x170002E5 RID: 741
-		// (get) Token: 0x06000CDE RID: 3294 RVA: 0x000052E2 File Offset: 0x000034E2
 		[global::Cpp2ILInjected.Token(Token = "0x17000300")]
 		public string AuthenticationType
 		{
@@ -122,8 +114,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002E6 RID: 742
-		// (get) Token: 0x06000CDF RID: 3295 RVA: 0x000052E5 File Offset: 0x000034E5
 		[global::Cpp2ILInjected.Token(Token = "0x17000301")]
 		public bool CanPreAuthenticate
 		{
@@ -136,7 +126,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000CE0 RID: 3296 RVA: 0x000052E8 File Offset: 0x000034E8
 		[global::Cpp2ILInjected.Token(Token = "0x6000E4A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3D140", Offset = "0x1F3D140", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -146,7 +135,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CE1 RID: 3297 RVA: 0x000052EB File Offset: 0x000034EB
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000E4B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F423C8", Offset = "0x1F423C8", Length = "0x7C")]
@@ -159,7 +147,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0400092F RID: 2351
 		[global::Cpp2ILInjected.Token(Token = "0x4000BD7")]
 		private static readonly Hashtable cache;
 	}

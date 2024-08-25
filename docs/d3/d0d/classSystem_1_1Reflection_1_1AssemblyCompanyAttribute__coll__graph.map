@@ -1,9 +1,0 @@
-<map id="System.Reflection.AssemblyCompanyAttribute" name="System.Reflection.AssemblyCompanyAttribute">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,261,217,356"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="6,133,174,199"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,212,107,261,102,262,94,212"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="199,133,341,199"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,201,178,252,174,248,233,197"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="245,5,295,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="273,85,273,133,267,133,267,85"/>
-</map>

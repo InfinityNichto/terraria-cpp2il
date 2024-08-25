@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x020002BE RID: 702
 	[global::Cpp2ILInjected.Token(Token = "0x20003BC")]
 	public class TimeSpanConverter : TypeConverter
 	{
-		// Token: 0x06001711 RID: 5905 RVA: 0x00006F3B File Offset: 0x0000513B
 		[global::Cpp2ILInjected.Token(Token = "0x6001972")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E5DFAC", Offset = "0x1E5DFAC", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -33,7 +31,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x06001712 RID: 5906 RVA: 0x00006F3E File Offset: 0x0000513E
 		[global::Cpp2ILInjected.Token(Token = "0x6001973")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E5E074", Offset = "0x1E5E074", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -54,7 +51,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x06001713 RID: 5907 RVA: 0x00006F41 File Offset: 0x00005141
 		[global::Cpp2ILInjected.Token(Token = "0x6001974")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E5E13C", Offset = "0x1E5E13C", Length = "0x1F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -88,7 +84,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x06001714 RID: 5908 RVA: 0x00006F44 File Offset: 0x00005144
 		[global::Cpp2ILInjected.Token(Token = "0x6001975")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E5E334", Offset = "0x1E5E334", Length = "0x2E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +123,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x06001715 RID: 5909 RVA: 0x00006F47 File Offset: 0x00005147
 		[global::Cpp2ILInjected.Token(Token = "0x6001976")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E5E61C", Offset = "0x1E5E61C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

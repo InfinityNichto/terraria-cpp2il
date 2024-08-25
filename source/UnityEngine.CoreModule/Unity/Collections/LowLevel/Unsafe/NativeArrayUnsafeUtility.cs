@@ -5,11 +5,9 @@ using UnityEngine.Rendering;
 
 namespace Unity.Collections.LowLevel.Unsafe
 {
-	// Token: 0x0200001D RID: 29
 	[global::Cpp2ILInjected.Token(Token = "0x2000020")]
 	public static class NativeArrayUnsafeUtility
 	{
-		// Token: 0x06000025 RID: 37 RVA: 0x000020AA File Offset: 0x000002AA
 		[global::Cpp2ILInjected.Token(Token = "0x600002D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1593A3C", Offset = "0x1593A3C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -26,7 +24,6 @@ namespace Unity.Collections.LowLevel.Unsafe
 			throw null;
 		}
 
-		// Token: 0x06000026 RID: 38 RVA: 0x000020AD File Offset: 0x000002AD
 		[global::Cpp2ILInjected.Token(Token = "0x600002E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1593A90", Offset = "0x1593A90", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]

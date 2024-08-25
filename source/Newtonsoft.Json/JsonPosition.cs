@@ -6,17 +6,16 @@ using System.Text;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Newtonsoft.Json.Linq;
+using Newtonsoft.Json.Serialization;
 using Newtonsoft.Json.Shims;
 using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json
 {
-	// Token: 0x02000018 RID: 24
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x2000018")]
 	internal struct JsonPosition
 	{
-		// Token: 0x0600003C RID: 60 RVA: 0x0000216B File Offset: 0x0000036B
 		[global::Cpp2ILInjected.Token(Token = "0x600003C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB6A6C", Offset = "0x1CB6A6C", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -30,7 +29,6 @@ namespace Newtonsoft.Json
 			throw null;
 		}
 
-		// Token: 0x0600003D RID: 61 RVA: 0x0000216E File Offset: 0x0000036E
 		[global::Cpp2ILInjected.Token(Token = "0x600003D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB6AF8", Offset = "0x1CB6AF8", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -48,7 +46,6 @@ namespace Newtonsoft.Json
 			throw null;
 		}
 
-		// Token: 0x0600003E RID: 62 RVA: 0x00002171 File Offset: 0x00000371
 		[global::Cpp2ILInjected.Token(Token = "0x600003E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB6B84", Offset = "0x1CB6B84", Length = "0x158")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -69,7 +66,6 @@ namespace Newtonsoft.Json
 			throw null;
 		}
 
-		// Token: 0x0600003F RID: 63 RVA: 0x00002174 File Offset: 0x00000374
 		[global::Cpp2ILInjected.Token(Token = "0x600003F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB6AE8", Offset = "0x1CB6AE8", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +75,6 @@ namespace Newtonsoft.Json
 			throw null;
 		}
 
-		// Token: 0x06000040 RID: 64 RVA: 0x00002177 File Offset: 0x00000377
 		[global::Cpp2ILInjected.Token(Token = "0x6000040")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB6CDC", Offset = "0x1CB6CDC", Length = "0x294")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -101,10 +96,206 @@ namespace Newtonsoft.Json
 			throw null;
 		}
 
-		// Token: 0x06000041 RID: 65 RVA: 0x0000217A File Offset: 0x0000037A
 		[global::Cpp2ILInjected.Token(Token = "0x6000041")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB6700", Offset = "0x1CB6700", Length = "0x324")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonException), Member = "Create", MemberParameters = new object[]
+		{
+			typeof(IJsonLineInfo),
+			typeof(string),
+			typeof(string)
+		}, ReturnType = typeof(JsonException))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonWriterException), Member = "Create", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string),
+			typeof(Exception)
+		}, ReturnType = typeof(JsonWriterException))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonReaderException), Member = "Create", MemberParameters = new object[]
+		{
+			typeof(IJsonLineInfo),
+			typeof(string),
+			typeof(string),
+			typeof(Exception)
+		}, ReturnType = typeof(JsonReaderException))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializationException), Member = "Create", MemberParameters = new object[]
+		{
+			typeof(IJsonLineInfo),
+			typeof(string),
+			typeof(string),
+			typeof(Exception)
+		}, ReturnType = typeof(JsonSerializationException))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalBase), Member = "IsErrorHandled", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(JsonContract),
+			typeof(object),
+			typeof(IJsonLineInfo),
+			typeof(string),
+			typeof(Exception)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "ReadMetadataPropertiesToken", MemberParameters = new object[]
+		{
+			typeof(JTokenReader),
+			typeof(ref Type),
+			typeof(ref JsonContract),
+			typeof(JsonProperty),
+			typeof(JsonContainerContract),
+			typeof(JsonProperty),
+			typeof(object),
+			typeof(ref object),
+			typeof(ref string)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "ReadMetadataProperties", MemberParameters = new object[]
+		{
+			typeof(JsonReader),
+			typeof(ref Type),
+			typeof(ref JsonContract),
+			typeof(JsonProperty),
+			typeof(JsonContainerContract),
+			typeof(JsonProperty),
+			typeof(object),
+			typeof(ref object),
+			typeof(ref string)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "ResolveTypeName", MemberParameters = new object[]
+		{
+			typeof(JsonReader),
+			typeof(ref Type),
+			typeof(ref JsonContract),
+			typeof(JsonProperty),
+			typeof(JsonContainerContract),
+			typeof(JsonProperty),
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "SetPropertyValue", MemberParameters = new object[]
+		{
+			typeof(JsonProperty),
+			typeof(JsonConverter),
+			typeof(JsonContainerContract),
+			typeof(JsonProperty),
+			typeof(JsonReader),
+			typeof(object)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "AddReference", MemberParameters = new object[]
+		{
+			typeof(JsonReader),
+			typeof(string),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "OnDeserializing", MemberParameters = new object[]
+		{
+			typeof(JsonReader),
+			typeof(JsonContract),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "OnDeserialized", MemberParameters = new object[]
+		{
+			typeof(JsonReader),
+			typeof(JsonContract),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "CreateISerializable", MemberParameters = new object[]
+		{
+			typeof(JsonReader),
+			typeof(JsonISerializableContract),
+			typeof(JsonProperty),
+			typeof(string)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "CreateObjectUsingCreatorWithParameters", MemberParameters = new object[]
+		{
+			typeof(JsonReader),
+			typeof(JsonObjectContract),
+			typeof(JsonProperty),
+			typeof(ObjectConstructor<object>),
+			typeof(string)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "DeserializeConvertable", MemberParameters = new object[]
+		{
+			typeof(JsonConverter),
+			typeof(JsonReader),
+			typeof(Type),
+			typeof(object)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "ResolvePropertyAndCreatorValues", MemberParameters = new object[]
+		{
+			typeof(JsonObjectContract),
+			typeof(JsonProperty),
+			typeof(JsonReader),
+			typeof(Type)
+		}, ReturnType = typeof(List<JsonSerializerInternalReader.CreatorPropertyContext>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "PopulateObject", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(JsonReader),
+			typeof(JsonObjectContract),
+			typeof(JsonProperty),
+			typeof(string)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalReader), Member = "ShouldDeserialize", MemberParameters = new object[]
+		{
+			typeof(JsonReader),
+			typeof(JsonProperty),
+			typeof(object)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalWriter), Member = "CheckForCircularReference", MemberParameters = new object[]
+		{
+			typeof(JsonWriter),
+			typeof(object),
+			typeof(JsonProperty),
+			typeof(JsonContract),
+			typeof(JsonContainerContract),
+			typeof(JsonProperty)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalWriter), Member = "WriteReference", MemberParameters = new object[]
+		{
+			typeof(JsonWriter),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalWriter), Member = "OnSerializing", MemberParameters = new object[]
+		{
+			typeof(JsonWriter),
+			typeof(JsonContract),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalWriter), Member = "OnSerialized", MemberParameters = new object[]
+		{
+			typeof(JsonWriter),
+			typeof(JsonContract),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalWriter), Member = "WriteReferenceIdProperty", MemberParameters = new object[]
+		{
+			typeof(JsonWriter),
+			typeof(Type),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalWriter), Member = "WriteTypeProperty", MemberParameters = new object[]
+		{
+			typeof(JsonWriter),
+			typeof(Type)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalWriter), Member = "SerializeConvertable", MemberParameters = new object[]
+		{
+			typeof(JsonWriter),
+			typeof(JsonConverter),
+			typeof(object),
+			typeof(JsonContract),
+			typeof(JsonContainerContract),
+			typeof(JsonProperty)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalWriter), Member = "ShouldSerialize", MemberParameters = new object[]
+		{
+			typeof(JsonWriter),
+			typeof(JsonProperty),
+			typeof(object)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonSerializerInternalWriter), Member = "IsSpecified", MemberParameters = new object[]
+		{
+			typeof(JsonWriter),
+			typeof(JsonProperty),
+			typeof(object)
+		}, ReturnType = typeof(bool))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 30)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Environment), Member = "get_NewLine", ReturnType = typeof(string))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(string), Member = "EndsWith", MemberParameters = new object[]
@@ -143,7 +334,6 @@ namespace Newtonsoft.Json
 			throw null;
 		}
 
-		// Token: 0x06000042 RID: 66 RVA: 0x0000217D File Offset: 0x0000037D
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000042")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB6F70", Offset = "0x1CB6F70", Length = "0x94")]
@@ -159,26 +349,21 @@ namespace Newtonsoft.Json
 			throw null;
 		}
 
-		// Token: 0x0400002E RID: 46
 		[global::Cpp2ILInjected.Token(Token = "0x400002E")]
 		private static readonly char[] SpecialCharacters;
 
-		// Token: 0x0400002F RID: 47
 		[global::Cpp2ILInjected.Token(Token = "0x400002F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		internal JsonContainerType Type;
 
-		// Token: 0x04000030 RID: 48
 		[global::Cpp2ILInjected.Token(Token = "0x4000030")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		internal int Position;
 
-		// Token: 0x04000031 RID: 49
 		[global::Cpp2ILInjected.Token(Token = "0x4000031")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		internal string PropertyName;
 
-		// Token: 0x04000032 RID: 50
 		[global::Cpp2ILInjected.Token(Token = "0x4000032")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal bool HasIndex;

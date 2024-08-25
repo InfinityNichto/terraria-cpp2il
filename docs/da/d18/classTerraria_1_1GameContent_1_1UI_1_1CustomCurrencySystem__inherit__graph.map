@@ -1,5 +1,0 @@
-<map id="Terraria.GameContent.UI.CustomCurrencySystem" name="Terraria.GameContent.UI.CustomCurrencySystem">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,369,805"/>
-<area shape="rect" id="Node000002" href="$d0/d72/classTerraria_1_1GameContent_1_1UI_1_1CustomCurrencySingleCoin.html" title=" " alt="" coords="5,853,369,1209"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,819,190,853,185,853,185,819"/>
-</map>

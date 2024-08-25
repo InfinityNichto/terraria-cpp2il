@@ -6,11 +6,9 @@ using Terraria.ObjectData;
 
 namespace Terraria.Modules
 {
-	// Token: 0x020003B0 RID: 944
 	[global::Cpp2ILInjected.Token(Token = "0x200054F")]
 	public class TileObjectSubTilesModule
 	{
-		// Token: 0x06002E93 RID: 11923 RVA: 0x0002A524 File Offset: 0x00028724
 		[global::Cpp2ILInjected.Token(Token = "0x60032F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132E6D0", Offset = "0x132E6D0", Length = "0x1AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -27,7 +25,6 @@ namespace Terraria.Modules
 			throw null;
 		}
 
-		// Token: 0x04003261 RID: 12897
 		[global::Cpp2ILInjected.Token(Token = "0x4003C00")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public List<TileObjectData> data;

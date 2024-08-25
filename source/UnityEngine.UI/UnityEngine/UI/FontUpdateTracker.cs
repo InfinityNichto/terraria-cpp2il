@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x02000010 RID: 16
 	[global::Cpp2ILInjected.Token(Token = "0x200001B")]
 	public static class FontUpdateTracker
 	{
-		// Token: 0x060000B3 RID: 179 RVA: 0x0000224E File Offset: 0x0000044E
 		[global::Cpp2ILInjected.Token(Token = "0x60000DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FAF8BC", Offset = "0x1FAF8BC", Length = "0x238")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Text), Member = "set_font", MemberParameters = new object[] { typeof(Font) }, ReturnType = typeof(void))]
@@ -46,7 +44,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060000B4 RID: 180 RVA: 0x00002251 File Offset: 0x00000451
 		[global::Cpp2ILInjected.Token(Token = "0x60000DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FAFAF4", Offset = "0x1FAFAF4", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -66,7 +63,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060000B5 RID: 181 RVA: 0x00002254 File Offset: 0x00000454
 		[global::Cpp2ILInjected.Token(Token = "0x60000DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FAFC84", Offset = "0x1FAFC84", Length = "0x1F8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Text), Member = "set_font", MemberParameters = new object[] { typeof(Font) }, ReturnType = typeof(void))]
@@ -98,7 +94,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060000B6 RID: 182 RVA: 0x00002257 File Offset: 0x00000457
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60000E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FAFE7C", Offset = "0x1FAFE7C", Length = "0x8C")]
@@ -110,7 +105,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0400004D RID: 77
 		[global::Cpp2ILInjected.Token(Token = "0x4000067")]
 		private static Dictionary<Font, HashSet<Text>> m_Tracked;
 	}

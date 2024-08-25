@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000D6 RID: 214
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000E3")]
 	public class GenericBlackBerryUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000636 RID: 1590 RVA: 0x000032CF File Offset: 0x000014CF
 		[global::Cpp2ILInjected.Token(Token = "0x6000653")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F7D0C", Offset = "0x19F7D0C", Length = "0x88C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000637 RID: 1591 RVA: 0x000032D2 File Offset: 0x000014D2
 		[global::Cpp2ILInjected.Token(Token = "0x6000654")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F8598", Offset = "0x19F8598", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -9,11 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Channels
 {
-	// Token: 0x020002D6 RID: 726
 	[global::Cpp2ILInjected.Token(Token = "0x200037A")]
 	internal class CADSerializer
 	{
-		// Token: 0x06001B11 RID: 6929 RVA: 0x000190EB File Offset: 0x000172EB
 		[global::Cpp2ILInjected.Token(Token = "0x6001D3E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B40D7C", Offset = "0x1B40D7C", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.AppDomain), Member = "ProcessMessageInDomain", MemberParameters = new object[]
@@ -32,7 +30,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x06001B12 RID: 6930 RVA: 0x000190EE File Offset: 0x000172EE
 		[global::Cpp2ILInjected.Token(Token = "0x6001D3F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B40834", Offset = "0x1B40834", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,7 +61,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x06001B13 RID: 6931 RVA: 0x000190F1 File Offset: 0x000172F1
 		[global::Cpp2ILInjected.Token(Token = "0x6001D40")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B41358", Offset = "0x1B41358", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ObjRef), Member = "DeserializeInTheCurrentDomain", MemberParameters = new object[]
@@ -87,7 +83,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x06001B14 RID: 6932 RVA: 0x000190F4 File Offset: 0x000172F4
 		[global::Cpp2ILInjected.Token(Token = "0x6001D41")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B41470", Offset = "0x1B41470", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +106,6 @@ namespace System.Runtime.Remoting.Channels
 			throw null;
 		}
 
-		// Token: 0x06001B15 RID: 6933 RVA: 0x000190F7 File Offset: 0x000172F7
 		[global::Cpp2ILInjected.Token(Token = "0x6001D42")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B413F4", Offset = "0x1B413F4", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

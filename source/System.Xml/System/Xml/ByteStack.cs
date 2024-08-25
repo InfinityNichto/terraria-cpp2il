@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x0200000B RID: 11
 	[global::Cpp2ILInjected.Token(Token = "0x200000B")]
 	internal class ByteStack
 	{
-		// Token: 0x0600001A RID: 26 RVA: 0x0000306E File Offset: 0x0000126E
 		[global::Cpp2ILInjected.Token(Token = "0x600001A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D5D51C", Offset = "0x1D5D51C", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HtmlEncodedRawTextWriter), Member = "Init", MemberParameters = new object[] { typeof(XmlWriterSettings) }, ReturnType = typeof(void))]
@@ -21,7 +19,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x0600001B RID: 27 RVA: 0x00003071 File Offset: 0x00001271
 		[global::Cpp2ILInjected.Token(Token = "0x600001B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D5D58C", Offset = "0x1D5D58C", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,7 +61,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x0600001C RID: 28 RVA: 0x00003074 File Offset: 0x00001274
 		[global::Cpp2ILInjected.Token(Token = "0x600001C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D5D644", Offset = "0x1D5D644", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -74,22 +70,18 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x04000017 RID: 23
 		[global::Cpp2ILInjected.Token(Token = "0x4000017")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private byte[] stack;
 
-		// Token: 0x04000018 RID: 24
 		[global::Cpp2ILInjected.Token(Token = "0x4000018")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int growthRate;
 
-		// Token: 0x04000019 RID: 25
 		[global::Cpp2ILInjected.Token(Token = "0x4000019")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private int top;
 
-		// Token: 0x0400001A RID: 26
 		[global::Cpp2ILInjected.Token(Token = "0x400001A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private int size;

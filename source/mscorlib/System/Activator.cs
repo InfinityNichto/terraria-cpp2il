@@ -17,14 +17,12 @@ using Mono.Security.Cryptography;
 
 namespace System
 {
-	// Token: 0x0200010C RID: 268
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::System.Runtime.InteropServices.ClassInterface(global::System.Runtime.InteropServices.ClassInterfaceType.None)]
 	[global::System.Runtime.InteropServices.ComDefaultInterface(typeof(global::System.Runtime.InteropServices._Activator))]
 	[global::Cpp2ILInjected.Token(Token = "0x2000144")]
 	public sealed class Activator
 	{
-		// Token: 0x06000BFB RID: 3067 RVA: 0x000167C6 File Offset: 0x000149C6
 		[global::Cpp2ILInjected.Token(Token = "0x6000CC9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5D428", Offset = "0x1C5D428", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.SecurityUtils", Member = "SecureCreateInstance", MemberParameters = new object[]
@@ -40,7 +38,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BFC RID: 3068 RVA: 0x000167C9 File Offset: 0x000149C9
 		[global::Cpp2ILInjected.Token(Token = "0x6000CCA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5D430", Offset = "0x1C5D430", Length = "0x1F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -96,7 +93,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BFD RID: 3069 RVA: 0x000167CC File Offset: 0x000149CC
 		[global::Cpp2ILInjected.Token(Token = "0x6000CCB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5DEB0", Offset = "0x1C5DEB0", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "LayoutDefinition", Member = "LoadFields", MemberParameters = new object[]
@@ -139,7 +135,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BFE RID: 3070 RVA: 0x000167CF File Offset: 0x000149CF
 		[global::Cpp2ILInjected.Token(Token = "0x6000CCC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5DEC8", Offset = "0x1C5DEC8", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Activation.RemoteActivator), Member = "Activate", MemberParameters = new object[] { typeof(global::System.Runtime.Remoting.Activation.IConstructionCallMessage) }, ReturnType = typeof(global::System.Runtime.Remoting.Activation.IConstructionReturnMessage))]
@@ -158,7 +153,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000BFF RID: 3071 RVA: 0x000167D2 File Offset: 0x000149D2
 		[global::Cpp2ILInjected.Token(Token = "0x6000CCD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5DEE0", Offset = "0x1C5DEE0", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "LayoutDefinition", Member = "LoadReleaseLayout", MemberParameters = new object[] { "System.Byte[]" }, ReturnType = typeof(bool))]
@@ -196,7 +190,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C00 RID: 3072 RVA: 0x000167D5 File Offset: 0x000149D5
 		[global::Cpp2ILInjected.Token(Token = "0x6000CCE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5DEEC", Offset = "0x1C5DEEC", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.SingletonIdentity), Member = "GetServerObject", ReturnType = typeof(global::System.MarshalByRefObject))]
@@ -217,7 +210,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C01 RID: 3073 RVA: 0x000167D8 File Offset: 0x000149D8
 		[global::Cpp2ILInjected.Token(Token = "0x6000CCF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C5DEF8", Offset = "0x1C5DEF8", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -246,7 +238,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C02 RID: 3074 RVA: 0x000167DB File Offset: 0x000149DB
 		[global::Cpp2ILInjected.Token(Token = "0x6000CD0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14C7A88", Offset = "0x14C7A88", Length = "0x188")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]

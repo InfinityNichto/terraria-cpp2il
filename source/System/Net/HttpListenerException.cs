@@ -8,12 +8,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x0200010C RID: 268
 	[global::Cpp2ILInjected.Token(Token = "0x2000191")]
 	[Serializable]
 	public class HttpListenerException : Win32Exception
 	{
-		// Token: 0x0600093A RID: 2362 RVA: 0x00004871 File Offset: 0x00002A71
 		[global::Cpp2ILInjected.Token(Token = "0x6000A49")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0C524", Offset = "0x1F0C524", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -25,7 +23,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600093B RID: 2363 RVA: 0x00004874 File Offset: 0x00002A74
 		[global::Cpp2ILInjected.Token(Token = "0x6000A4A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0C588", Offset = "0x1F0C588", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +32,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600093C RID: 2364 RVA: 0x00004877 File Offset: 0x00002A77
 		[global::Cpp2ILInjected.Token(Token = "0x6000A4B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0C590", Offset = "0x1F0C590", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChunkedInputStream), Member = "EndRead", MemberParameters = new object[] { typeof(IAsyncResult) }, ReturnType = typeof(int))]
@@ -71,7 +67,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600093D RID: 2365 RVA: 0x0000487A File Offset: 0x00002A7A
 		[global::Cpp2ILInjected.Token(Token = "0x6000A4C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0C598", Offset = "0x1F0C598", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -85,8 +80,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x1700020A RID: 522
-		// (get) Token: 0x0600093E RID: 2366 RVA: 0x0000487D File Offset: 0x00002A7D
 		[global::Cpp2ILInjected.Token(Token = "0x17000215")]
 		public override int ErrorCode
 		{

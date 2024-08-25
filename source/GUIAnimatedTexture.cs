@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 
-// Token: 0x020000B5 RID: 181
 [global::Cpp2ILInjected.Token(Token = "0x2000101")]
 public static class GUIAnimatedTexture
 {
-	// Token: 0x060005CB RID: 1483 RVA: 0x00022CA6 File Offset: 0x00020EA6
 	[global::Cpp2ILInjected.Token(Token = "0x60006A1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD1D518", Offset = "0xD1D518", Length = "0x274")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

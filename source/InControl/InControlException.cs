@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl
 {
-	// Token: 0x02000027 RID: 39
 	[global::Cpp2ILInjected.Token(Token = "0x2000028")]
 	[Serializable]
 	public class InControlException : Exception
 	{
-		// Token: 0x060001C4 RID: 452 RVA: 0x0000259A File Offset: 0x0000079A
 		[global::Cpp2ILInjected.Token(Token = "0x60001C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1987A14", Offset = "0x1987A14", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -21,7 +19,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060001C5 RID: 453 RVA: 0x0000259D File Offset: 0x0000079D
 		[global::Cpp2ILInjected.Token(Token = "0x60001C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197B81C", Offset = "0x197B81C", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(KeyCombo), Member = "Load", MemberParameters = new object[]
@@ -50,7 +47,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060001C6 RID: 454 RVA: 0x000025A0 File Offset: 0x000007A0
 		[global::Cpp2ILInjected.Token(Token = "0x60001C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1987A6C", Offset = "0x1987A6C", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -8,12 +8,10 @@ using Terraria.Utilities;
 
 namespace Terraria.Chat.Commands
 {
-	// Token: 0x02000536 RID: 1334
 	[ChatCommand("RPS")]
 	[global::Cpp2ILInjected.Token(Token = "0x20007A3")]
 	public class RockPaperScissorsCommand : IChatCommand
 	{
-		// Token: 0x0600391F RID: 14623 RVA: 0x0002C32D File Offset: 0x0002A52D
 		[global::Cpp2ILInjected.Token(Token = "0x6003FCB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74A930", Offset = "0x74A930", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -22,7 +20,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x06003920 RID: 14624 RVA: 0x0002C330 File Offset: 0x0002A530
 		[global::Cpp2ILInjected.Token(Token = "0x6003FCC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74A934", Offset = "0x74A934", Length = "0x228")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +68,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x06003921 RID: 14625 RVA: 0x0002C333 File Offset: 0x0002A533
 		[global::Cpp2ILInjected.Token(Token = "0x6003FCD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74AB5C", Offset = "0x74AB5C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

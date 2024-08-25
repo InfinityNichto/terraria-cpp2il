@@ -6,12 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Globalization
 {
-	// Token: 0x020004AD RID: 1197
 	[global::Cpp2ILInjected.Token(Token = "0x200058C")]
 	internal class DateTimeFormatInfoScanner
 	{
-		// Token: 0x170005CB RID: 1483
-		// (get) Token: 0x060027D9 RID: 10201 RVA: 0x0001B425 File Offset: 0x00019625
 		[global::Cpp2ILInjected.Token(Token = "0x17000653")]
 		private static global::System.Collections.Generic.Dictionary<string, string> KnownWords
 		{
@@ -36,7 +33,6 @@ namespace System.Globalization
 			}
 		}
 
-		// Token: 0x060027DA RID: 10202 RVA: 0x0001B428 File Offset: 0x00019628
 		[global::Cpp2ILInjected.Token(Token = "0x6002B0B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BDFF60", Offset = "0x1BDFF60", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -55,7 +51,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027DB RID: 10203 RVA: 0x0001B42B File Offset: 0x0001962B
 		[global::Cpp2ILInjected.Token(Token = "0x6002B0C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0054", Offset = "0x1BE0054", Length = "0x288")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,7 +93,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027DC RID: 10204 RVA: 0x0001B42E File Offset: 0x0001962E
 		[global::Cpp2ILInjected.Token(Token = "0x6002B0D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0420", Offset = "0x1BE0420", Length = "0x1CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -125,7 +119,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027DD RID: 10205 RVA: 0x0001B431 File Offset: 0x00019631
 		[global::Cpp2ILInjected.Token(Token = "0x6002B0E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE05EC", Offset = "0x1BE05EC", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,7 +129,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027DE RID: 10206 RVA: 0x0001B434 File Offset: 0x00019634
 		[global::Cpp2ILInjected.Token(Token = "0x6002B0F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE02DC", Offset = "0x1BE02DC", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -160,7 +152,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027DF RID: 10207 RVA: 0x0001B437 File Offset: 0x00019637
 		[global::Cpp2ILInjected.Token(Token = "0x6002B10")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0668", Offset = "0x1BE0668", Length = "0x2A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -181,7 +172,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027E0 RID: 10208 RVA: 0x0001B43A File Offset: 0x0001963A
 		[global::Cpp2ILInjected.Token(Token = "0x6002B11")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0910", Offset = "0x1BE0910", Length = "0x274")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -201,7 +191,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027E1 RID: 10209 RVA: 0x0001B43D File Offset: 0x0001963D
 		[global::Cpp2ILInjected.Token(Token = "0x6002B12")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0B84", Offset = "0x1BE0B84", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DateTimeFormatInfo), Member = "InitializeFormatFlags", ReturnType = typeof(DateTimeFormatFlags))]
@@ -216,7 +205,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027E2 RID: 10210 RVA: 0x0001B440 File Offset: 0x00019640
 		[global::Cpp2ILInjected.Token(Token = "0x6002B13")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0C40", Offset = "0x1BE0C40", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DateTimeFormatInfo), Member = "InitializeFormatFlags", ReturnType = typeof(DateTimeFormatFlags))]
@@ -228,7 +216,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027E3 RID: 10211 RVA: 0x0001B443 File Offset: 0x00019643
 		[global::Cpp2ILInjected.Token(Token = "0x6002B14")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0F74", Offset = "0x1BE0F74", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DateTimeFormatInfo), Member = "InitializeFormatFlags", ReturnType = typeof(DateTimeFormatFlags))]
@@ -239,7 +226,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027E4 RID: 10212 RVA: 0x0001B446 File Offset: 0x00019646
 		[global::Cpp2ILInjected.Token(Token = "0x6002B15")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0FA4", Offset = "0x1BE0FA4", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -250,7 +236,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027E5 RID: 10213 RVA: 0x0001B449 File Offset: 0x00019649
 		[global::Cpp2ILInjected.Token(Token = "0x6002B16")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0BC4", Offset = "0x1BE0BC4", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -268,7 +253,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027E6 RID: 10214 RVA: 0x0001B44C File Offset: 0x0001964C
 		[global::Cpp2ILInjected.Token(Token = "0x6002B17")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0E98", Offset = "0x1BE0E98", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -293,7 +277,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027E7 RID: 10215 RVA: 0x0001B44F File Offset: 0x0001964F
 		[global::Cpp2ILInjected.Token(Token = "0x6002B18")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0CE4", Offset = "0x1BE0CE4", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -311,7 +294,6 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x060027E8 RID: 10216 RVA: 0x0001B452 File Offset: 0x00019652
 		[global::Cpp2ILInjected.Token(Token = "0x6002B19")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BE0FB4", Offset = "0x1BE0FB4", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DateTimeFormatInfo), Member = "PopulateSpecialTokenHashTable", MemberParameters = new object[]
@@ -328,37 +310,28 @@ namespace System.Globalization
 			throw null;
 		}
 
-		// Token: 0x040013FE RID: 5118
 		[global::Cpp2ILInjected.Token(Token = "0x400175C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal global::System.Collections.Generic.List<string> m_dateWords;
 
-		// Token: 0x040013FF RID: 5119
 		[global::Cpp2ILInjected.Token(Token = "0x400175D")]
 		private static global::System.Collections.Generic.Dictionary<string, string> s_knownWords;
 
-		// Token: 0x04001400 RID: 5120
 		[global::Cpp2ILInjected.Token(Token = "0x400175E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private DateTimeFormatInfoScanner.FoundDatePattern _ymdFlags;
 
-		// Token: 0x02000629 RID: 1577
 		[global::Cpp2ILInjected.Token(Token = "0x200058D")]
 		private enum FoundDatePattern
 		{
-			// Token: 0x040019E5 RID: 6629
 			[global::Cpp2ILInjected.Token(Token = "0x4001760")]
 			None,
-			// Token: 0x040019E6 RID: 6630
 			[global::Cpp2ILInjected.Token(Token = "0x4001761")]
 			FoundYearPatternFlag,
-			// Token: 0x040019E7 RID: 6631
 			[global::Cpp2ILInjected.Token(Token = "0x4001762")]
 			FoundMonthPatternFlag,
-			// Token: 0x040019E8 RID: 6632
 			[global::Cpp2ILInjected.Token(Token = "0x4001763")]
 			FoundDayPatternFlag = 4,
-			// Token: 0x040019E9 RID: 6633
 			[global::Cpp2ILInjected.Token(Token = "0x4001764")]
 			FoundYMDPatternFlag = 7
 		}

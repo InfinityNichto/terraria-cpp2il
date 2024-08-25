@@ -7,11 +7,9 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200009D RID: 157
 	[global::Cpp2ILInjected.Token(Token = "0x20000AC")]
 	public static class StackTraceUtility
 	{
-		// Token: 0x06000306 RID: 774 RVA: 0x0000264A File Offset: 0x0000084A
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000315")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7BECC", Offset = "0x1F7BECC", Length = "0xD4")]
@@ -28,7 +26,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000307 RID: 775 RVA: 0x0000264D File Offset: 0x0000084D
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000316")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7BFA0", Offset = "0x1F7BFA0", Length = "0x180")]
@@ -55,7 +52,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000308 RID: 776 RVA: 0x00002650 File Offset: 0x00000850
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000317")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7C79C", Offset = "0x1F7C79C", Length = "0x340")]
@@ -96,7 +92,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000309 RID: 777 RVA: 0x00002653 File Offset: 0x00000853
 		[global::Cpp2ILInjected.Token(Token = "0x6000318")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7C120", Offset = "0x1F7C120", Length = "0x67C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -134,7 +129,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600030A RID: 778 RVA: 0x00002656 File Offset: 0x00000856
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000319")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7CADC", Offset = "0x1F7CADC", Length = "0x60")]
@@ -145,7 +139,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x04000337 RID: 823
 		[global::Cpp2ILInjected.Token(Token = "0x4000369")]
 		private static string projectFolder;
 	}

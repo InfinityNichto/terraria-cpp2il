@@ -8,11 +8,9 @@ using UnityEngine;
 
 namespace Microsoft.Xna.Framework.Audio
 {
-	// Token: 0x020002F6 RID: 758
 	[global::Cpp2ILInjected.Token(Token = "0x20003CF")]
 	public sealed class SoundEffect
 	{
-		// Token: 0x060018E4 RID: 6372 RVA: 0x0002650A File Offset: 0x0002470A
 		[global::Cpp2ILInjected.Token(Token = "0x6001A73")]
 		[global::Cpp2ILInjected.Address(RVA = "0xB43DC8", Offset = "0xB43DC8", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ContentManager), Member = "CreateSoundEffect", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(object))]
@@ -26,7 +24,6 @@ namespace Microsoft.Xna.Framework.Audio
 			throw null;
 		}
 
-		// Token: 0x060018E5 RID: 6373 RVA: 0x0002650D File Offset: 0x0002470D
 		[global::Cpp2ILInjected.Token(Token = "0x6001A74")]
 		[global::Cpp2ILInjected.Address(RVA = "0xB49A7C", Offset = "0xB49A7C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Cue), Member = ".ctor", MemberParameters = new object[] { typeof(SoundEffect) }, ReturnType = typeof(void))]
@@ -51,7 +48,6 @@ namespace Microsoft.Xna.Framework.Audio
 			throw null;
 		}
 
-		// Token: 0x060018E6 RID: 6374 RVA: 0x00026510 File Offset: 0x00024710
 		[global::Cpp2ILInjected.Token(Token = "0x6001A75")]
 		[global::Cpp2ILInjected.Address(RVA = "0xB49EF0", Offset = "0xB49EF0", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +64,6 @@ namespace Microsoft.Xna.Framework.Audio
 			throw null;
 		}
 
-		// Token: 0x060018E7 RID: 6375 RVA: 0x00026513 File Offset: 0x00024713
 		[global::Cpp2ILInjected.Token(Token = "0x6001A76")]
 		[global::Cpp2ILInjected.Address(RVA = "0xB49F24", Offset = "0xB49F24", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,8 +80,6 @@ namespace Microsoft.Xna.Framework.Audio
 			throw null;
 		}
 
-		// Token: 0x1700034C RID: 844
-		// (get) Token: 0x060018E8 RID: 6376 RVA: 0x00026516 File Offset: 0x00024716
 		[global::Cpp2ILInjected.Token(Token = "0x17000377")]
 		public TimeSpan Duration
 		{
@@ -102,9 +95,6 @@ namespace Microsoft.Xna.Framework.Audio
 			}
 		}
 
-		// Token: 0x1700034D RID: 845
-		// (get) Token: 0x060018E9 RID: 6377 RVA: 0x00026519 File Offset: 0x00024719
-		// (set) Token: 0x060018EA RID: 6378 RVA: 0x0002651C File Offset: 0x0002471C
 		[global::Cpp2ILInjected.Token(Token = "0x17000378")]
 		public string Name
 		{
@@ -124,12 +114,10 @@ namespace Microsoft.Xna.Framework.Audio
 			}
 		}
 
-		// Token: 0x0400216F RID: 8559
 		[global::Cpp2ILInjected.Token(Token = "0x40027DD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string _name;
 
-		// Token: 0x04002170 RID: 8560
 		[global::Cpp2ILInjected.Token(Token = "0x40027DE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public readonly SoundDefinition Definition;

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x02000280 RID: 640
 	[global::Cpp2ILInjected.Token(Token = "0x2000377")]
 	internal sealed class ExtendedPropertyDescriptor : PropertyDescriptor
 	{
-		// Token: 0x060014F5 RID: 5365 RVA: 0x00006A01 File Offset: 0x00004C01
 		[global::Cpp2ILInjected.Token(Token = "0x6001740")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4BF28", Offset = "0x1E4BF28", Length = "0x240")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,7 +36,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060014F6 RID: 5366 RVA: 0x00006A04 File Offset: 0x00004C04
 		[global::Cpp2ILInjected.Token(Token = "0x6001741")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4C1E0", Offset = "0x1E4C1E0", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,7 +58,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060014F7 RID: 5367 RVA: 0x00006A07 File Offset: 0x00004C07
 		[global::Cpp2ILInjected.Token(Token = "0x6001742")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4C308", Offset = "0x1E4C308", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -75,8 +71,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x1700051D RID: 1309
-		// (get) Token: 0x060014F8 RID: 5368 RVA: 0x00006A0A File Offset: 0x00004C0A
 		[global::Cpp2ILInjected.Token(Token = "0x17000547")]
 		public override Type ComponentType
 		{
@@ -90,8 +84,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x1700051E RID: 1310
-		// (get) Token: 0x060014F9 RID: 5369 RVA: 0x00006A0D File Offset: 0x00004C0D
 		[global::Cpp2ILInjected.Token(Token = "0x17000548")]
 		public override bool IsReadOnly
 		{
@@ -107,8 +99,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x1700051F RID: 1311
-		// (get) Token: 0x060014FA RID: 5370 RVA: 0x00006A10 File Offset: 0x00004C10
 		[global::Cpp2ILInjected.Token(Token = "0x17000549")]
 		public override Type PropertyType
 		{
@@ -122,8 +112,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x17000520 RID: 1312
-		// (get) Token: 0x060014FB RID: 5371 RVA: 0x00006A13 File Offset: 0x00004C13
 		[global::Cpp2ILInjected.Token(Token = "0x1700054A")]
 		public override string DisplayName
 		{
@@ -147,7 +135,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x060014FC RID: 5372 RVA: 0x00006A16 File Offset: 0x00004C16
 		[global::Cpp2ILInjected.Token(Token = "0x6001747")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4C604", Offset = "0x1E4C604", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -161,7 +148,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060014FD RID: 5373 RVA: 0x00006A19 File Offset: 0x00004C19
 		[global::Cpp2ILInjected.Token(Token = "0x6001748")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4C61C", Offset = "0x1E4C61C", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -176,7 +162,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060014FE RID: 5374 RVA: 0x00006A1C File Offset: 0x00004C1C
 		[global::Cpp2ILInjected.Token(Token = "0x6001749")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4C638", Offset = "0x1E4C638", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -192,7 +177,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060014FF RID: 5375 RVA: 0x00006A1F File Offset: 0x00004C1F
 		[global::Cpp2ILInjected.Token(Token = "0x600174A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4C658", Offset = "0x1E4C658", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -206,12 +190,10 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x04000E1E RID: 3614
 		[global::Cpp2ILInjected.Token(Token = "0x4001226")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 		private readonly ReflectPropertyDescriptor _extenderInfo;
 
-		// Token: 0x04000E1F RID: 3615
 		[global::Cpp2ILInjected.Token(Token = "0x4001227")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private readonly IExtenderProvider _provider;

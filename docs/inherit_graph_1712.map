@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d1/dfd/classSystem_1_1Linq_1_1Enumerable_1_1Iterator.html" title=" " alt="" coords="5,91,241,131"/>
-<area shape="rect" id="Node000001" href="$dc/d26/classSystem_1_1Linq_1_1Enumerable_1_1WhereSelectArrayIterator.html" title=" " alt="" coords="289,5,520,60"/>
-<area shape="poly" id="edge3546_Node000000_Node000001" title=" " alt="" coords="208,85,305,58,307,63,209,90"/>
-<area shape="rect" id="Node000002" href="$df/d70/classSystem_1_1Linq_1_1Enumerable_1_1WhereSelectEnumerableIterator.html" title=" " alt="" coords="289,84,520,139"/>
-<area shape="poly" id="edge3547_Node000000_Node000002" title=" " alt="" coords="255,109,289,109,289,114,255,114"/>
-<area shape="rect" id="Node000003" href="$d6/da5/classSystem_1_1Linq_1_1Enumerable_1_1WhereSelectListIterator.html" title=" " alt="" coords="289,163,520,217"/>
-<area shape="poly" id="edge3548_Node000000_Node000003" title=" " alt="" coords="209,132,307,160,305,165,208,138"/>
-</map>

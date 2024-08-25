@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.GameContent.Golf
 {
-	// Token: 0x0200067A RID: 1658
 	[global::Cpp2ILInjected.Token(Token = "0x2000A09")]
 	public class GolfBallTrackRecord
 	{
-		// Token: 0x0600413E RID: 16702 RVA: 0x0002DA97 File Offset: 0x0002BC97
 		[global::Cpp2ILInjected.Token(Token = "0x6004BCE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B194C", Offset = "0x8B194C", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GolfState), Member = "RecordSwing", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
@@ -23,7 +21,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x0600413F RID: 16703 RVA: 0x0002DA9A File Offset: 0x0002BC9A
 		[global::Cpp2ILInjected.Token(Token = "0x6004BCF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B19C8", Offset = "0x8B19C8", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +33,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x06004140 RID: 16704 RVA: 0x0002DA9D File Offset: 0x0002BC9D
 		[global::Cpp2ILInjected.Token(Token = "0x6004BD0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B1A78", Offset = "0x8B1A78", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +47,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x06004141 RID: 16705 RVA: 0x0002DAA0 File Offset: 0x0002BCA0
 		[global::Cpp2ILInjected.Token(Token = "0x6004BD1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8B1AD0", Offset = "0x8B1AD0", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +65,6 @@ namespace Terraria.GameContent.Golf
 			throw null;
 		}
 
-		// Token: 0x04006DA6 RID: 28070
 		[global::Cpp2ILInjected.Token(Token = "0x400860B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private List<Vector2> _hitLocations;

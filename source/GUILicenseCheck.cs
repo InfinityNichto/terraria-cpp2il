@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using UnityEngine;
 
-// Token: 0x020000EC RID: 236
 [global::Cpp2ILInjected.Token(Token = "0x2000153")]
 public static class GUILicenseCheck
 {
-	// Token: 0x06000850 RID: 2128 RVA: 0x00023435 File Offset: 0x00021635
 	[global::Cpp2ILInjected.Token(Token = "0x600094A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x922C4C", Offset = "0x922C4C", Length = "0x4E4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -44,7 +42,6 @@ public static class GUILicenseCheck
 		throw null;
 	}
 
-	// Token: 0x06000851 RID: 2129 RVA: 0x00023438 File Offset: 0x00021638
 	[global::Cpp2ILInjected.Token(Token = "0x600094B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x923130", Offset = "0x923130", Length = "0x498")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -74,7 +71,6 @@ public static class GUILicenseCheck
 		throw null;
 	}
 
-	// Token: 0x06000852 RID: 2130 RVA: 0x0002343B File Offset: 0x0002163B
 	[global::Cpp2ILInjected.Token(Token = "0x600094C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9235C8", Offset = "0x9235C8", Length = "0x130")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -92,7 +88,6 @@ public static class GUILicenseCheck
 		throw null;
 	}
 
-	// Token: 0x06000853 RID: 2131 RVA: 0x0002343E File Offset: 0x0002163E
 	[global::Cpp2ILInjected.Token(Token = "0x600094D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9236F8", Offset = "0x9236F8", Length = "0x4B4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -157,31 +152,24 @@ public static class GUILicenseCheck
 		throw null;
 	}
 
-	// Token: 0x04000683 RID: 1667
 	[global::Cpp2ILInjected.Token(Token = "0x40008F0")]
 	public static bool RequiresDraw;
 
-	// Token: 0x04000684 RID: 1668
 	[global::Cpp2ILInjected.Token(Token = "0x40008F1")]
 	private static int reason;
 
-	// Token: 0x04000685 RID: 1669
 	[global::Cpp2ILInjected.Token(Token = "0x40008F2")]
 	private static string result;
 
-	// Token: 0x04000686 RID: 1670
 	[global::Cpp2ILInjected.Token(Token = "0x40008F3")]
 	private static AndroidJavaObject activity;
 
-	// Token: 0x04000687 RID: 1671
 	[global::Cpp2ILInjected.Token(Token = "0x40008F4")]
 	private static AndroidJavaObject lvlCheck;
 
-	// Token: 0x04000688 RID: 1672
 	[global::Cpp2ILInjected.Token(Token = "0x40008F5")]
 	private static string packageName;
 
-	// Token: 0x04000689 RID: 1673
 	[global::Cpp2ILInjected.Token(Token = "0x40008F6")]
 	private static float retryScale;
 }

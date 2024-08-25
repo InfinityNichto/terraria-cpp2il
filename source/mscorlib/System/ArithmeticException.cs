@@ -6,12 +6,10 @@ using Mono.Math;
 
 namespace System
 {
-	// Token: 0x02000061 RID: 97
 	[global::Cpp2ILInjected.Token(Token = "0x2000086")]
 	[global::System.Serializable]
 	public class ArithmeticException : global::System.SystemException
 	{
-		// Token: 0x06000348 RID: 840 RVA: 0x00014F09 File Offset: 0x00013109
 		[global::Cpp2ILInjected.Token(Token = "0x60003D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB61A8", Offset = "0x1BB61A8", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000349 RID: 841 RVA: 0x00014F0C File Offset: 0x0001310C
 		[global::Cpp2ILInjected.Token(Token = "0x60003DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB6204", Offset = "0x1BB6204", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +53,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600034A RID: 842 RVA: 0x00014F0F File Offset: 0x0001310F
 		[global::Cpp2ILInjected.Token(Token = "0x60003DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB6228", Offset = "0x1BB6228", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +72,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600034B RID: 843 RVA: 0x00014F12 File Offset: 0x00013112
 		[global::Cpp2ILInjected.Token(Token = "0x60003DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB624C", Offset = "0x1BB624C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DivideByZeroException), Member = ".ctor", MemberParameters = new object[]

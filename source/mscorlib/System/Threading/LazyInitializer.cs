@@ -12,11 +12,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading
 {
-	// Token: 0x02000169 RID: 361
 	[global::Cpp2ILInjected.Token(Token = "0x20001BB")]
 	public static class LazyInitializer
 	{
-		// Token: 0x06000F7D RID: 3965 RVA: 0x000170DE File Offset: 0x000152DE
 		[global::Cpp2ILInjected.Token(Token = "0x60010AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158FEAC", Offset = "0x158FEAC", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -28,7 +26,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000F7E RID: 3966 RVA: 0x000170E1 File Offset: 0x000152E1
 		[global::Cpp2ILInjected.Token(Token = "0x60010B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158FFB4", Offset = "0x158FFB4", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -41,7 +38,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000F7F RID: 3967 RVA: 0x000170E4 File Offset: 0x000152E4
 		[global::Cpp2ILInjected.Token(Token = "0x60010B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158FEF4", Offset = "0x158FEF4", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -88,7 +84,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000F80 RID: 3968 RVA: 0x000170E7 File Offset: 0x000152E7
 		[global::Cpp2ILInjected.Token(Token = "0x60010B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15900A4", Offset = "0x15900A4", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -101,7 +96,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000F81 RID: 3969 RVA: 0x000170EA File Offset: 0x000152EA
 		[global::Cpp2ILInjected.Token(Token = "0x60010B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158FF50", Offset = "0x158FF50", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -113,7 +107,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000F82 RID: 3970 RVA: 0x000170ED File Offset: 0x000152ED
 		[global::Cpp2ILInjected.Token(Token = "0x60010B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x159012C", Offset = "0x159012C", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -133,7 +126,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000F83 RID: 3971 RVA: 0x000170F0 File Offset: 0x000152F0
 		[global::Cpp2ILInjected.Token(Token = "0x60010B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C93D80", Offset = "0x1C93D80", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LazyInitializer), Member = "EnsureInitializedCore", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[]

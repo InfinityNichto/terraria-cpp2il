@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Ionic.Zip
 {
-	// Token: 0x02000028 RID: 40
 	[global::Cpp2ILInjected.Token(Token = "0x200002E")]
 	internal static class ZipOutput
 	{
-		// Token: 0x0600020E RID: 526 RVA: 0x000054A3 File Offset: 0x000036A3
 		[global::Cpp2ILInjected.Token(Token = "0x6000222")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A5E6B0", Offset = "0x1A5E6B0", Length = "0x858")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +54,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600020F RID: 527 RVA: 0x000054A6 File Offset: 0x000036A6
 		[global::Cpp2ILInjected.Token(Token = "0x6000223")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A5F678", Offset = "0x1A5F678", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +74,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000210 RID: 528 RVA: 0x000054A9 File Offset: 0x000036A9
 		[global::Cpp2ILInjected.Token(Token = "0x6000224")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A5F414", Offset = "0x1A5F414", Length = "0x220")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +107,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000211 RID: 529 RVA: 0x000054AC File Offset: 0x000036AC
 		[global::Cpp2ILInjected.Token(Token = "0x6000225")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A5F1CC", Offset = "0x1A5F1CC", Length = "0x248")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -141,7 +136,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000212 RID: 530 RVA: 0x000054AF File Offset: 0x000036AF
 		[global::Cpp2ILInjected.Token(Token = "0x6000226")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A5EF08", Offset = "0x1A5EF08", Length = "0x2C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

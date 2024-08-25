@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine
 {
-	// Token: 0x02000030 RID: 48
 	[global::Cpp2ILInjected.Token(Token = "0x2000033")]
 	public class PlayerPrefsException : Exception
 	{
-		// Token: 0x0600002D RID: 45 RVA: 0x000020C2 File Offset: 0x000002C2
 		[global::Cpp2ILInjected.Token(Token = "0x6000035")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6A4AC", Offset = "0x1F6A4AC", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerPrefs), Member = "SetInt", MemberParameters = new object[]

@@ -6,11 +6,9 @@ using UnityEngine;
 
 namespace TouchExample
 {
-	// Token: 0x02000004 RID: 4
 	[global::Cpp2ILInjected.Token(Token = "0x2000004")]
 	public class CubeController : MonoBehaviour
 	{
-		// Token: 0x0600000D RID: 13 RVA: 0x00002074 File Offset: 0x00000274
 		[global::Cpp2ILInjected.Token(Token = "0x600000D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198CC6C", Offset = "0x198CC6C", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -21,7 +19,6 @@ namespace TouchExample
 			throw null;
 		}
 
-		// Token: 0x0600000E RID: 14 RVA: 0x00002077 File Offset: 0x00000277
 		[global::Cpp2ILInjected.Token(Token = "0x600000E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198CCBC", Offset = "0x198CCBC", Length = "0x204")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +44,6 @@ namespace TouchExample
 			throw null;
 		}
 
-		// Token: 0x0600000F RID: 15 RVA: 0x0000207A File Offset: 0x0000027A
 		[global::Cpp2ILInjected.Token(Token = "0x600000F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198CEC0", Offset = "0x198CEC0", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +59,6 @@ namespace TouchExample
 			throw null;
 		}
 
-		// Token: 0x06000010 RID: 16 RVA: 0x0000207D File Offset: 0x0000027D
 		[global::Cpp2ILInjected.Token(Token = "0x6000010")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198CF78", Offset = "0x198CF78", Length = "0x284")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +94,6 @@ namespace TouchExample
 			throw null;
 		}
 
-		// Token: 0x06000011 RID: 17 RVA: 0x00002080 File Offset: 0x00000280
 		[global::Cpp2ILInjected.Token(Token = "0x6000011")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198D1FC", Offset = "0x198D1FC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -109,7 +103,6 @@ namespace TouchExample
 			throw null;
 		}
 
-		// Token: 0x0400000A RID: 10
 		[global::Cpp2ILInjected.Token(Token = "0x400000A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Renderer cachedRenderer;

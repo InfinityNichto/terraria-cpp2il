@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x0200014A RID: 330
 	[global::Cpp2ILInjected.Token(Token = "0x20001D3")]
 	[Serializable]
 	internal class DelayedRegex
 	{
-		// Token: 0x06000A4A RID: 2634 RVA: 0x00004B56 File Offset: 0x00002D56
 		[global::Cpp2ILInjected.Token(Token = "0x6000B5F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F17828", Offset = "0x1F17828", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebPermissionAttribute), Member = "set_ConnectPattern", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -33,7 +31,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000A4B RID: 2635 RVA: 0x00004B59 File Offset: 0x00002D59
 		[global::Cpp2ILInjected.Token(Token = "0x6000B60")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F18A60", Offset = "0x1F18A60", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebPermission), Member = "AddPermission", MemberParameters = new object[]
@@ -50,8 +47,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000246 RID: 582
-		// (get) Token: 0x06000A4C RID: 2636 RVA: 0x00004B5C File Offset: 0x00002D5C
 		[global::Cpp2ILInjected.Token(Token = "0x17000251")]
 		internal Regex AsRegex
 		{
@@ -88,7 +83,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000A4D RID: 2637 RVA: 0x00004B5F File Offset: 0x00002D5F
 		[global::Cpp2ILInjected.Token(Token = "0x6000B62")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F18B6C", Offset = "0x1F18B6C", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,12 +92,10 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040007CB RID: 1995
 		[global::Cpp2ILInjected.Token(Token = "0x40009ED")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Regex _AsRegex;
 
-		// Token: 0x040007CC RID: 1996
 		[global::Cpp2ILInjected.Token(Token = "0x40009EE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string _AsString;

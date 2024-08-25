@@ -9,11 +9,9 @@ using Terraria;
 using Terraria.Audio;
 using UnityEngine;
 
-// Token: 0x020001D0 RID: 464
 [global::Cpp2ILInjected.Token(Token = "0x2000269")]
 public class GUIMultiplayerJoin
 {
-	// Token: 0x06000CB5 RID: 3253 RVA: 0x00024164 File Offset: 0x00022364
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E98E8", Offset = "0x9E98E8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -22,7 +20,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CB6 RID: 3254 RVA: 0x00024167 File Offset: 0x00022367
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E98F0", Offset = "0x9E98F0", Length = "0x280")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -67,7 +64,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CB7 RID: 3255 RVA: 0x0002416A File Offset: 0x0002236A
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9EA800", Offset = "0x9EA800", Length = "0x8B4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -158,7 +154,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CB8 RID: 3256 RVA: 0x0002416D File Offset: 0x0002236D
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9EB0B4", Offset = "0x9EB0B4", Length = "0x14C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "DrawServerIP", ReturnType = typeof(void))]
@@ -182,7 +177,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CB9 RID: 3257 RVA: 0x00024170 File Offset: 0x00022370
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9EB200", Offset = "0x9EB200", Length = "0x94")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "DrawServerIP", ReturnType = typeof(void))]
@@ -196,7 +190,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CBA RID: 3258 RVA: 0x00024173 File Offset: 0x00022373
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E9F48", Offset = "0x9E9F48", Length = "0x8B8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -289,7 +282,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CBB RID: 3259 RVA: 0x00024176 File Offset: 0x00022376
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9EB294", Offset = "0x9EB294", Length = "0xFC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "DrawServerPort", ReturnType = typeof(void))]
@@ -308,7 +300,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CBC RID: 3260 RVA: 0x00024179 File Offset: 0x00022379
 	[global::Cpp2ILInjected.Token(Token = "0x6000DD9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9EB390", Offset = "0x9EB390", Length = "0x94")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "DrawServerPort", ReturnType = typeof(void))]
@@ -322,7 +313,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CBD RID: 3261 RVA: 0x0002417C File Offset: 0x0002237C
 	[global::Cpp2ILInjected.Token(Token = "0x6000DDA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9EB424", Offset = "0x9EB424", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -336,7 +326,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CBE RID: 3262 RVA: 0x0002417F File Offset: 0x0002237F
 	[global::Cpp2ILInjected.Token(Token = "0x6000DDB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E9B70", Offset = "0x9E9B70", Length = "0x3D8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -388,7 +377,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CBF RID: 3263 RVA: 0x00024182 File Offset: 0x00022382
 	[global::Cpp2ILInjected.Token(Token = "0x6000DDC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9EB4C0", Offset = "0x9EB4C0", Length = "0xB4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerJoin), Member = "DrawMainButtons", ReturnType = typeof(void))]
@@ -410,7 +398,6 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x06000CC0 RID: 3264 RVA: 0x00024185 File Offset: 0x00022385
 	[global::Cpp2ILInjected.Token(Token = "0x6000DDD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9EB5CC", Offset = "0x9EB5CC", Length = "0x94")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -423,57 +410,46 @@ public class GUIMultiplayerJoin
 		throw null;
 	}
 
-	// Token: 0x0400147A RID: 5242
 	[global::Cpp2ILInjected.Token(Token = "0x4001973")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float joinButtonScale;
 
-	// Token: 0x0400147B RID: 5243
 	[global::Cpp2ILInjected.Token(Token = "0x4001974")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float backButtonScale;
 
-	// Token: 0x0400147C RID: 5244
 	[global::Cpp2ILInjected.Token(Token = "0x4001975")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float TitleScale;
 
-	// Token: 0x0400147D RID: 5245
 	[global::Cpp2ILInjected.Token(Token = "0x4001976")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private Rectangle SelectedItemRegion;
 
-	// Token: 0x0400147E RID: 5246
 	[global::Cpp2ILInjected.Token(Token = "0x4001977")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private GUIControllerMultiplayerJoin _controllerInput;
 
-	// Token: 0x0400147F RID: 5247
 	[global::Cpp2ILInjected.Token(Token = "0x4001978")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private string _serverIP;
 
-	// Token: 0x04001480 RID: 5248
 	[global::Cpp2ILInjected.Token(Token = "0x4001979")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private string _serverPort;
 
-	// Token: 0x04001481 RID: 5249
 	[global::Cpp2ILInjected.Token(Token = "0x400197A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private GUIInputRegionExclusive _optionsBlocker;
 
-	// Token: 0x04001482 RID: 5250
 	[global::Cpp2ILInjected.Token(Token = "0x400197B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	public bool editingServerIP;
 
-	// Token: 0x04001483 RID: 5251
 	[global::Cpp2ILInjected.Token(Token = "0x400197C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x51")]
 	public bool editingServerPort;
 
-	// Token: 0x04001484 RID: 5252
 	[global::Cpp2ILInjected.Token(Token = "0x400197D")]
 	private const int defaultPort = 7777;
 }

@@ -9,11 +9,9 @@ using Terraria;
 using Terraria.Audio;
 using Terraria.IO;
 
-// Token: 0x020000F7 RID: 247
 [global::Cpp2ILInjected.Token(Token = "0x2000165")]
 public class GUIProfileSwitch
 {
-	// Token: 0x060008F5 RID: 2293 RVA: 0x00023624 File Offset: 0x00021824
 	[global::Cpp2ILInjected.Token(Token = "0x60009F5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x977550", Offset = "0x977550", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -22,7 +20,6 @@ public class GUIProfileSwitch
 		throw null;
 	}
 
-	// Token: 0x060008F6 RID: 2294 RVA: 0x00023627 File Offset: 0x00021827
 	[global::Cpp2ILInjected.Token(Token = "0x60009F6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x977560", Offset = "0x977560", Length = "0x334")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ public class GUIProfileSwitch
 		throw null;
 	}
 
-	// Token: 0x060008F7 RID: 2295 RVA: 0x0002362A File Offset: 0x0002182A
 	[global::Cpp2ILInjected.Token(Token = "0x60009F7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x977894", Offset = "0x977894", Length = "0x168")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +66,6 @@ public class GUIProfileSwitch
 		throw null;
 	}
 
-	// Token: 0x060008F8 RID: 2296 RVA: 0x0002362D File Offset: 0x0002182D
 	[global::Cpp2ILInjected.Token(Token = "0x60009F8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9779FC", Offset = "0x9779FC", Length = "0x5BC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +134,6 @@ public class GUIProfileSwitch
 		throw null;
 	}
 
-	// Token: 0x060008F9 RID: 2297 RVA: 0x00023630 File Offset: 0x00021830
 	[global::Cpp2ILInjected.Token(Token = "0x60009F9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x977FB8", Offset = "0x977FB8", Length = "0x7C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -152,37 +146,30 @@ public class GUIProfileSwitch
 		throw null;
 	}
 
-	// Token: 0x04000721 RID: 1825
 	[global::Cpp2ILInjected.Token(Token = "0x40009D0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool Visible;
 
-	// Token: 0x04000722 RID: 1826
 	[global::Cpp2ILInjected.Token(Token = "0x40009D1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private VirtualControlsHardwareConfigurationMapping_Layout buttonOrigin;
 
-	// Token: 0x04000723 RID: 1827
 	[global::Cpp2ILInjected.Token(Token = "0x40009D2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private List<VirtualControlsProfile_Layout> profiles;
 
-	// Token: 0x04000724 RID: 1828
 	[global::Cpp2ILInjected.Token(Token = "0x40009D3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private float Profile1Scale;
 
-	// Token: 0x04000725 RID: 1829
 	[global::Cpp2ILInjected.Token(Token = "0x40009D4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	private float Profile2Scale;
 
-	// Token: 0x04000726 RID: 1830
 	[global::Cpp2ILInjected.Token(Token = "0x40009D5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private float Profile3Scale;
 
-	// Token: 0x04000727 RID: 1831
 	[global::Cpp2ILInjected.Token(Token = "0x40009D6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private float Profile4Scale;

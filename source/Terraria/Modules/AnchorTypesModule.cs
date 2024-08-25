@@ -5,11 +5,9 @@ using Terraria.ObjectData;
 
 namespace Terraria.Modules
 {
-	// Token: 0x020003A8 RID: 936
 	[global::Cpp2ILInjected.Token(Token = "0x2000547")]
 	public class AnchorTypesModule
 	{
-		// Token: 0x06002E8B RID: 11915 RVA: 0x0002A50C File Offset: 0x0002870C
 		[global::Cpp2ILInjected.Token(Token = "0x60032EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132F8A0", Offset = "0x132F8A0", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,22 +30,18 @@ namespace Terraria.Modules
 			throw null;
 		}
 
-		// Token: 0x0400323D RID: 12861
 		[global::Cpp2ILInjected.Token(Token = "0x4003BDC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public int[] tileValid;
 
-		// Token: 0x0400323E RID: 12862
 		[global::Cpp2ILInjected.Token(Token = "0x4003BDD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public int[] tileInvalid;
 
-		// Token: 0x0400323F RID: 12863
 		[global::Cpp2ILInjected.Token(Token = "0x4003BDE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public int[] tileAlternates;
 
-		// Token: 0x04003240 RID: 12864
 		[global::Cpp2ILInjected.Token(Token = "0x4003BDF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public int[] wallValid;

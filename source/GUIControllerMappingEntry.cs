@@ -12,11 +12,9 @@ using Terraria.Localization;
 using Terraria.UI;
 using UnityEngine;
 
-// Token: 0x0200004D RID: 77
 [global::Cpp2ILInjected.Token(Token = "0x2000073")]
 public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 {
-	// Token: 0x060001E7 RID: 487 RVA: 0x00022106 File Offset: 0x00020306
 	[global::Cpp2ILInjected.Token(Token = "0x600027A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x711918", Offset = "0x711918", Length = "0x84")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappings), Member = "SetCategory", MemberParameters = new object[] { typeof(ControllerMappingsCategories_Layout.Category) }, ReturnType = typeof(void))]
@@ -34,7 +32,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001E8 RID: 488 RVA: 0x00022109 File Offset: 0x00020309
 	[global::Cpp2ILInjected.Token(Token = "0x600027B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7119A4", Offset = "0x7119A4", Length = "0x88")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappings), Member = "SetCategory", MemberParameters = new object[] { typeof(ControllerMappingsCategories_Layout.Category) }, ReturnType = typeof(void))]
@@ -52,8 +49,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x17000050 RID: 80
-	// (get) Token: 0x060001E9 RID: 489 RVA: 0x0002210C File Offset: 0x0002030C
 	[global::Cpp2ILInjected.Token(Token = "0x17000075")]
 	public bool HasMapping
 	{
@@ -69,7 +64,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		}
 	}
 
-	// Token: 0x060001EA RID: 490 RVA: 0x0002210F File Offset: 0x0002030F
 	[global::Cpp2ILInjected.Token(Token = "0x600027D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x711A54", Offset = "0x711A54", Length = "0x28")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +73,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001EB RID: 491 RVA: 0x00022112 File Offset: 0x00020312
 	[global::Cpp2ILInjected.Token(Token = "0x600027E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x711A7C", Offset = "0x711A7C", Length = "0x38")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappings), Member = "ClearMapping", ReturnType = typeof(void))]
@@ -91,7 +84,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001EC RID: 492 RVA: 0x00022115 File Offset: 0x00020315
 	[global::Cpp2ILInjected.Token(Token = "0x600027F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x711AB4", Offset = "0x711AB4", Length = "0x98")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -109,7 +101,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001ED RID: 493 RVA: 0x00022118 File Offset: 0x00020318
 	[global::Cpp2ILInjected.Token(Token = "0x6000280")]
 	[global::Cpp2ILInjected.Address(RVA = "0x711B4C", Offset = "0x711B4C", Length = "0x16C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -130,7 +121,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001EE RID: 494 RVA: 0x0002211B File Offset: 0x0002031B
 	[global::Cpp2ILInjected.Token(Token = "0x6000281")]
 	[global::Cpp2ILInjected.Address(RVA = "0x711CB8", Offset = "0x711CB8", Length = "0x6FC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,7 +142,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001EF RID: 495 RVA: 0x0002211E File Offset: 0x0002031E
 	[global::Cpp2ILInjected.Token(Token = "0x6000282")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7123B4", Offset = "0x7123B4", Length = "0x6DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -173,7 +162,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001F0 RID: 496 RVA: 0x00022121 File Offset: 0x00020321
 	[global::Cpp2ILInjected.Token(Token = "0x6000283")]
 	[global::Cpp2ILInjected.Address(RVA = "0x712A90", Offset = "0x712A90", Length = "0xCB8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -321,7 +309,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001F1 RID: 497 RVA: 0x00022124 File Offset: 0x00020324
 	[global::Cpp2ILInjected.Token(Token = "0x6000284")]
 	[global::Cpp2ILInjected.Address(RVA = "0x713BF0", Offset = "0x713BF0", Length = "0x50")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -331,7 +318,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001F2 RID: 498 RVA: 0x00022127 File Offset: 0x00020327
 	[global::Cpp2ILInjected.Token(Token = "0x6000285")]
 	[global::Cpp2ILInjected.Address(RVA = "0x713C40", Offset = "0x713C40", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -351,7 +337,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001F3 RID: 499 RVA: 0x0002212A File Offset: 0x0002032A
 	[global::Cpp2ILInjected.Token(Token = "0x6000286")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7137F4", Offset = "0x7137F4", Length = "0xAC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappingEntry), Member = "Draw", ReturnType = typeof(void))]
@@ -368,7 +353,6 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x060001F4 RID: 500 RVA: 0x0002212D File Offset: 0x0002032D
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000287")]
 	[global::Cpp2ILInjected.Address(RVA = "0x713D04", Offset = "0x713D04", Length = "0x4C")]
@@ -379,51 +363,41 @@ public class GUIControllerMappingEntry : GUIControllerMappingEntryBase
 		throw null;
 	}
 
-	// Token: 0x04000140 RID: 320
 	[global::Cpp2ILInjected.Token(Token = "0x4000237")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private GUIControllerMappingStateTable Table;
 
-	// Token: 0x04000141 RID: 321
 	[global::Cpp2ILInjected.Token(Token = "0x4000238")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private ControllerActionVector vector;
 
-	// Token: 0x04000142 RID: 322
 	[global::Cpp2ILInjected.Token(Token = "0x4000239")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private ControllerActionButton button;
 
-	// Token: 0x04000143 RID: 323
 	[global::Cpp2ILInjected.Token(Token = "0x400023A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private GUIControllerMappingState _state;
 
-	// Token: 0x04000144 RID: 324
 	[global::Cpp2ILInjected.Token(Token = "0x400023B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private float buttonScale;
 
-	// Token: 0x04000145 RID: 325
 	[global::Cpp2ILInjected.Token(Token = "0x400023C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	private float scale;
 
-	// Token: 0x04000146 RID: 326
 	[global::Cpp2ILInjected.Token(Token = "0x400023D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private bool drawingOverlay;
 
-	// Token: 0x04000147 RID: 327
 	[global::Cpp2ILInjected.Token(Token = "0x400023E")]
 	private static int LastButtonMapped;
 
-	// Token: 0x04000148 RID: 328
 	[global::Cpp2ILInjected.Token(Token = "0x400023F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x51")]
 	public bool displayOptions;
 
-	// Token: 0x04000149 RID: 329
 	[global::Cpp2ILInjected.Token(Token = "0x4000240")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private GUIInputRegionExclusive _optionsBlocker;

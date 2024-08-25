@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Activation
 {
-	// Token: 0x020002E8 RID: 744
 	[global::Cpp2ILInjected.Token(Token = "0x200038C")]
 	internal class RemoteActivator : global::System.MarshalByRefObject, IActivator
 	{
-		// Token: 0x06001B3E RID: 6974 RVA: 0x0001913C File Offset: 0x0001733C
 		[global::Cpp2ILInjected.Token(Token = "0x6001D6B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B42A88", Offset = "0x1B42A88", Length = "0x454")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -44,8 +42,6 @@ namespace System.Runtime.Remoting.Activation
 			throw null;
 		}
 
-		// Token: 0x17000329 RID: 809
-		// (get) Token: 0x06001B3F RID: 6975 RVA: 0x0001913F File Offset: 0x0001733F
 		[global::Cpp2ILInjected.Token(Token = "0x17000381")]
 		public IActivator NextActivator
 		{

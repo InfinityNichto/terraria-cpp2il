@@ -8,7 +8,6 @@ using UnityEngine.Sprites;
 
 namespace UnityEngine
 {
-	// Token: 0x020000D2 RID: 210
 	[NativeHeader("Runtime/Graphics/SpriteUtility.h")]
 	[ExcludeFromPreset]
 	[NativeHeader("Runtime/2D/Common/ScriptBindings/SpritesMarshalling.h")]
@@ -17,7 +16,6 @@ namespace UnityEngine
 	[global::Cpp2ILInjected.Token(Token = "0x20000E9")]
 	public sealed class Sprite : Object
 	{
-		// Token: 0x060004D4 RID: 1236 RVA: 0x00002A9D File Offset: 0x00000C9D
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x60004F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F86ED4", Offset = "0x1F86ED4", Length = "0x58")]
@@ -29,7 +27,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060004D5 RID: 1237
 		[global::Cpp2ILInjected.Token(Token = "0x60004F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F86F2C", Offset = "0x1F86F2C", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -37,7 +34,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		internal extern int GetPackingMode();
 
-		// Token: 0x060004D6 RID: 1238
 		[global::Cpp2ILInjected.Token(Token = "0x60004F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F86F68", Offset = "0x1F86F68", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -45,7 +41,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		internal extern int GetPacked();
 
-		// Token: 0x060004D7 RID: 1239 RVA: 0x00002AA0 File Offset: 0x00000CA0
 		[global::Cpp2ILInjected.Token(Token = "0x60004F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F86FA4", Offset = "0x1F86FA4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -57,7 +52,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060004D8 RID: 1240 RVA: 0x00002AA3 File Offset: 0x00000CA3
 		[global::Cpp2ILInjected.Token(Token = "0x60004F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F87040", Offset = "0x1F87040", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -69,7 +63,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060004D9 RID: 1241 RVA: 0x00002AA6 File Offset: 0x00000CA6
 		[global::Cpp2ILInjected.Token(Token = "0x60004F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F870DC", Offset = "0x1F870DC", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +74,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060004DA RID: 1242 RVA: 0x00002AA9 File Offset: 0x00000CA9
 		[global::Cpp2ILInjected.Token(Token = "0x60004F8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F87178", Offset = "0x1F87178", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -93,8 +85,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x170000FF RID: 255
-		// (get) Token: 0x060004DB RID: 1243 RVA: 0x00002AAC File Offset: 0x00000CAC
 		[global::Cpp2ILInjected.Token(Token = "0x17000102")]
 		public Bounds bounds
 		{
@@ -126,8 +116,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000100 RID: 256
-		// (get) Token: 0x060004DC RID: 1244 RVA: 0x00002AAF File Offset: 0x00000CAF
 		[global::Cpp2ILInjected.Token(Token = "0x17000103")]
 		public Rect rect
 		{
@@ -164,8 +152,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000101 RID: 257
-		// (get) Token: 0x060004DD RID: 1245 RVA: 0x00002AB2 File Offset: 0x00000CB2
 		[global::Cpp2ILInjected.Token(Token = "0x17000104")]
 		public Vector4 border
 		{
@@ -189,8 +175,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000102 RID: 258
-		// (get) Token: 0x060004DE RID: 1246
 		[global::Cpp2ILInjected.Token(Token = "0x17000105")]
 		public extern Texture2D texture
 		{
@@ -211,8 +195,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000103 RID: 259
-		// (get) Token: 0x060004DF RID: 1247
 		[global::Cpp2ILInjected.Token(Token = "0x17000106")]
 		public extern float pixelsPerUnit
 		{
@@ -226,8 +208,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000104 RID: 260
-		// (get) Token: 0x060004E0 RID: 1248
 		[global::Cpp2ILInjected.Token(Token = "0x17000107")]
 		public extern Texture2D associatedAlphaSplitTexture
 		{
@@ -242,8 +222,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000105 RID: 261
-		// (get) Token: 0x060004E1 RID: 1249 RVA: 0x00002AB5 File Offset: 0x00000CB5
 		[global::Cpp2ILInjected.Token(Token = "0x17000108")]
 		public Vector2 pivot
 		{
@@ -264,8 +242,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000106 RID: 262
-		// (get) Token: 0x060004E2 RID: 1250 RVA: 0x00002AB8 File Offset: 0x00000CB8
 		[global::Cpp2ILInjected.Token(Token = "0x17000109")]
 		public bool packed
 		{
@@ -281,8 +257,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000107 RID: 263
-		// (get) Token: 0x060004E3 RID: 1251 RVA: 0x00002ABB File Offset: 0x00000CBB
 		[global::Cpp2ILInjected.Token(Token = "0x1700010A")]
 		public SpritePackingMode packingMode
 		{
@@ -296,8 +270,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000108 RID: 264
-		// (get) Token: 0x060004E4 RID: 1252 RVA: 0x00002ABE File Offset: 0x00000CBE
 		[global::Cpp2ILInjected.Token(Token = "0x1700010B")]
 		public Rect textureRect
 		{
@@ -319,8 +291,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000109 RID: 265
-		// (get) Token: 0x060004E5 RID: 1253
 		[global::Cpp2ILInjected.Token(Token = "0x1700010C")]
 		public extern Vector2[] vertices
 		{
@@ -338,8 +308,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700010A RID: 266
-		// (get) Token: 0x060004E6 RID: 1254
 		[global::Cpp2ILInjected.Token(Token = "0x1700010D")]
 		public extern ushort[] triangles
 		{
@@ -357,8 +325,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700010B RID: 267
-		// (get) Token: 0x060004E7 RID: 1255
 		[global::Cpp2ILInjected.Token(Token = "0x1700010E")]
 		public extern Vector2[] uv
 		{
@@ -376,7 +342,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x060004E8 RID: 1256
 		[global::Cpp2ILInjected.Token(Token = "0x6000506")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F86FFC", Offset = "0x1F86FFC", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -384,7 +349,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void GetTextureRect_Injected(out Rect ret);
 
-		// Token: 0x060004E9 RID: 1257
 		[global::Cpp2ILInjected.Token(Token = "0x6000507")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F87098", Offset = "0x1F87098", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -392,7 +356,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void GetInnerUVs_Injected(out Vector4 ret);
 
-		// Token: 0x060004EA RID: 1258
 		[global::Cpp2ILInjected.Token(Token = "0x6000508")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F87134", Offset = "0x1F87134", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -400,7 +363,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void GetOuterUVs_Injected(out Vector4 ret);
 
-		// Token: 0x060004EB RID: 1259
 		[global::Cpp2ILInjected.Token(Token = "0x6000509")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F871D0", Offset = "0x1F871D0", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -408,7 +370,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void GetPadding_Injected(out Vector4 ret);
 
-		// Token: 0x060004EC RID: 1260
 		[global::Cpp2ILInjected.Token(Token = "0x600050A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8727C", Offset = "0x1F8727C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -416,7 +377,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_bounds_Injected(out Bounds ret);
 
-		// Token: 0x060004ED RID: 1261
 		[global::Cpp2ILInjected.Token(Token = "0x600050B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F87318", Offset = "0x1F87318", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -424,7 +384,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_rect_Injected(out Rect ret);
 
-		// Token: 0x060004EE RID: 1262
 		[global::Cpp2ILInjected.Token(Token = "0x600050C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F873B4", Offset = "0x1F873B4", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -432,7 +391,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_border_Injected(out Vector4 ret);
 
-		// Token: 0x060004EF RID: 1263
 		[global::Cpp2ILInjected.Token(Token = "0x600050D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F874F8", Offset = "0x1F874F8", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

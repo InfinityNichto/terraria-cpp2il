@@ -8,11 +8,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.CaveHouse
 {
-	// Token: 0x0200060E RID: 1550
 	[global::Cpp2ILInjected.Token(Token = "0x2000913")]
 	public class JungleHouseBuilder : HouseBuilder
 	{
-		// Token: 0x06003E26 RID: 15910 RVA: 0x0002D1A6 File Offset: 0x0002B3A6
 		[global::Cpp2ILInjected.Token(Token = "0x60046CD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x80D558", Offset = "0x80D558", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -33,7 +31,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E27 RID: 15911 RVA: 0x0002D1A9 File Offset: 0x0002B3A9
 		[global::Cpp2ILInjected.Token(Token = "0x60046CE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x80D600", Offset = "0x80D600", Length = "0x7D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Math.Prime
 {
-	// Token: 0x0200003A RID: 58
 	[global::Cpp2ILInjected.Token(Token = "0x2000055")]
 	internal sealed class PrimalityTests
 	{
-		// Token: 0x060001A7 RID: 423 RVA: 0x00014AA4 File Offset: 0x00012CA4
 		[global::Cpp2ILInjected.Token(Token = "0x6000203")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC5C4C", Offset = "0x1AC5C4C", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +30,6 @@ namespace Mono.Math.Prime
 			throw null;
 		}
 
-		// Token: 0x060001A8 RID: 424 RVA: 0x00014AA7 File Offset: 0x00012CA7
 		[global::Cpp2ILInjected.Token(Token = "0x6000204")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC4E4C", Offset = "0x1AC4E4C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -54,7 +51,6 @@ namespace Mono.Math.Prime
 			throw null;
 		}
 
-		// Token: 0x060001A9 RID: 425 RVA: 0x00014AAA File Offset: 0x00012CAA
 		[global::Cpp2ILInjected.Token(Token = "0x6000205")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC5F84", Offset = "0x1AC5F84", Length = "0x280")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +116,6 @@ namespace Mono.Math.Prime
 			throw null;
 		}
 
-		// Token: 0x060001AA RID: 426 RVA: 0x00014AAD File Offset: 0x00012CAD
 		[global::Cpp2ILInjected.Token(Token = "0x6000206")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC5DD0", Offset = "0x1AC5DD0", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

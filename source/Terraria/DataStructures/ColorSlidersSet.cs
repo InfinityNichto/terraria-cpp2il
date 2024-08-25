@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000421 RID: 1057
 	[global::Cpp2ILInjected.Token(Token = "0x200061C")]
 	public class ColorSlidersSet
 	{
-		// Token: 0x060030A9 RID: 12457 RVA: 0x0002AB45 File Offset: 0x00028D45
 		[global::Cpp2ILInjected.Token(Token = "0x60035C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBAB8", Offset = "0x13DBAB8", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -21,7 +19,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030AA RID: 12458 RVA: 0x0002AB48 File Offset: 0x00028D48
 		[global::Cpp2ILInjected.Token(Token = "0x60035C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBB28", Offset = "0x13DBB28", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -30,7 +27,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030AB RID: 12459 RVA: 0x0002AB4B File Offset: 0x00028D4B
 		[global::Cpp2ILInjected.Token(Token = "0x60035C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBB34", Offset = "0x13DBB34", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -48,7 +44,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030AC RID: 12460 RVA: 0x0002AB4E File Offset: 0x00028D4E
 		[global::Cpp2ILInjected.Token(Token = "0x60035C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBBD8", Offset = "0x13DBBD8", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -63,7 +58,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030AD RID: 12461 RVA: 0x0002AB51 File Offset: 0x00028D51
 		[global::Cpp2ILInjected.Token(Token = "0x60035CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBC10", Offset = "0x13DBC10", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -77,7 +71,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030AE RID: 12462 RVA: 0x0002AB54 File Offset: 0x00028D54
 		[global::Cpp2ILInjected.Token(Token = "0x60035CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBC98", Offset = "0x13DBC98", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = ".cctor", ReturnType = typeof(void))]
@@ -88,22 +81,18 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x040062B5 RID: 25269
 		[global::Cpp2ILInjected.Token(Token = "0x400769F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public float Hue;
 
-		// Token: 0x040062B6 RID: 25270
 		[global::Cpp2ILInjected.Token(Token = "0x40076A0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public float Saturation;
 
-		// Token: 0x040062B7 RID: 25271
 		[global::Cpp2ILInjected.Token(Token = "0x40076A1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public float Luminance;
 
-		// Token: 0x040062B8 RID: 25272
 		[global::Cpp2ILInjected.Token(Token = "0x40076A2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		public float Alpha;

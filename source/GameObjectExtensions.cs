@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework.Graphics;
 using UnityEngine;
 
-// Token: 0x02000244 RID: 580
 [global::Cpp2ILInjected.Token(Token = "0x20002FD")]
 public static class GameObjectExtensions
 {
-	// Token: 0x0600106A RID: 4202 RVA: 0x00024C20 File Offset: 0x00022E20
 	[global::Cpp2ILInjected.Token(Token = "0x60011B9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E514", Offset = "0xA6E514", Length = "0xCC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalUser), Member = "GetCamera", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(Camera))]
@@ -35,7 +33,6 @@ public static class GameObjectExtensions
 		throw null;
 	}
 
-	// Token: 0x0600106B RID: 4203 RVA: 0x00024C23 File Offset: 0x00022E23
 	[global::Cpp2ILInjected.Token(Token = "0x60011BA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x158AE00", Offset = "0x158AE00", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -52,7 +49,6 @@ public static class GameObjectExtensions
 		throw null;
 	}
 
-	// Token: 0x0600106C RID: 4204 RVA: 0x00024C26 File Offset: 0x00022E26
 	[global::Cpp2ILInjected.Token(Token = "0x60011BB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x158AE9C", Offset = "0x158AE9C", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -69,7 +65,6 @@ public static class GameObjectExtensions
 		throw null;
 	}
 
-	// Token: 0x0600106D RID: 4205 RVA: 0x00024C29 File Offset: 0x00022E29
 	[global::Cpp2ILInjected.Token(Token = "0x60011BC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x158B0B4", Offset = "0x158B0B4", Length = "0x100")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -81,7 +76,6 @@ public static class GameObjectExtensions
 		throw null;
 	}
 
-	// Token: 0x0600106E RID: 4206 RVA: 0x00024C2C File Offset: 0x00022E2C
 	[global::Cpp2ILInjected.Token(Token = "0x60011BD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x158B018", Offset = "0x158B018", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -98,7 +92,6 @@ public static class GameObjectExtensions
 		throw null;
 	}
 
-	// Token: 0x0600106F RID: 4207 RVA: 0x00024C2F File Offset: 0x00022E2F
 	[global::Cpp2ILInjected.Token(Token = "0x60011BE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x158AF38", Offset = "0x158AF38", Length = "0xE0")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -121,7 +114,6 @@ public static class GameObjectExtensions
 		throw null;
 	}
 
-	// Token: 0x06001070 RID: 4208 RVA: 0x00024C32 File Offset: 0x00022E32
 	[global::Cpp2ILInjected.Token(Token = "0x60011BF")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E6DC", Offset = "0xA6E6DC", Length = "0x90")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameObjectExtensions), Member = "InstantiatePrefabAsChild", MemberParameters = new object[]
@@ -160,7 +152,6 @@ public static class GameObjectExtensions
 		throw null;
 	}
 
-	// Token: 0x06001071 RID: 4209 RVA: 0x00024C35 File Offset: 0x00022E35
 	[global::Cpp2ILInjected.Token(Token = "0x60011C0")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E7F0", Offset = "0xA6E7F0", Length = "0x1C0")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -187,7 +178,6 @@ public static class GameObjectExtensions
 		throw null;
 	}
 
-	// Token: 0x06001072 RID: 4210 RVA: 0x00024C38 File Offset: 0x00022E38
 	[global::Cpp2ILInjected.Token(Token = "0x60011C1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E9B0", Offset = "0xA6E9B0", Length = "0x14")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -197,7 +187,6 @@ public static class GameObjectExtensions
 		throw null;
 	}
 
-	// Token: 0x06001073 RID: 4211 RVA: 0x00024C3B File Offset: 0x00022E3B
 	[global::Cpp2ILInjected.Token(Token = "0x60011C2")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6EAA8", Offset = "0xA6EAA8", Length = "0xA8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

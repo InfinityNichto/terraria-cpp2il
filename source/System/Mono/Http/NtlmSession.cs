@@ -6,11 +6,9 @@ using Mono.Security.Protocol.Ntlm;
 
 namespace Mono.Http
 {
-	// Token: 0x02000026 RID: 38
 	[global::Cpp2ILInjected.Token(Token = "0x200006C")]
 	internal class NtlmSession
 	{
-		// Token: 0x0600011E RID: 286 RVA: 0x00003134 File Offset: 0x00001334
 		[global::Cpp2ILInjected.Token(Token = "0x6000195")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4EFF4", Offset = "0x1D4EFF4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,7 +18,6 @@ namespace Mono.Http
 			throw null;
 		}
 
-		// Token: 0x0600011F RID: 287 RVA: 0x00003137 File Offset: 0x00001337
 		[global::Cpp2ILInjected.Token(Token = "0x6000196")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4EFFC", Offset = "0x1D4EFFC", Length = "0x458")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +68,6 @@ namespace Mono.Http
 			throw null;
 		}
 
-		// Token: 0x0400006D RID: 109
 		[global::Cpp2ILInjected.Token(Token = "0x4000131")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private MessageBase message;

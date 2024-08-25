@@ -1,7 +1,0 @@
-<map id="System.Net.NetworkInformation.LinuxUnicastIPAddressInformation" name="System.Net.NetworkInformation.LinuxUnicastIPAddressInformation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,232,257,361"/>
-<area shape="rect" id="Node000002" href="$d7/dfc/classSystem_1_1Net_1_1NetworkInformation_1_1UnicastIPAddressInformation.html" title=" " alt="" coords="18,119,245,184"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,198,134,232,129,232,129,198"/>
-<area shape="rect" id="Node000003" href="$db/dd6/classSystem_1_1Net_1_1NetworkInformation_1_1IPAddressInformation.html" title=" " alt="" coords="43,5,220,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,84,134,119,129,119,129,84"/>
-</map>

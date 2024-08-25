@@ -1,7 +1,0 @@
-<map id="UnityEngine.GUILayoutGroup" name="UnityEngine.GUILayoutGroup">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,800,227,1653"/>
-<area shape="rect" id="Node000003" href="$d2/de4/classUnityEngine_1_1GUIScrollGroup.html" title=" " alt="" coords="8,1701,232,2096"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,1667,123,1701,117,1701,117,1667"/>
-<area shape="rect" id="Node000002" href="$da/d93/classUnityEngine_1_1GUILayoutEntry.html" title=" " alt="" coords="5,5,235,752"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,765,123,800,117,800,117,765"/>
-</map>

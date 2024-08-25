@@ -5,6 +5,7 @@ using System.Globalization;
 using System.IO;
 using System.Resources;
 using System.Runtime.CompilerServices;
+using System.Runtime.ExceptionServices;
 using System.Runtime.InteropServices;
 using System.Runtime.Remoting.Lifetime;
 using System.Runtime.Remoting.Messaging;
@@ -17,13 +18,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000074 RID: 116
 	[global::Cpp2ILInjected.Token(Token = "0x200009B")]
 	[global::System.Serializable]
 	[StructLayout(3)]
 	public readonly struct DateTime : global::System.IComparable, global::System.IFormattable, global::System.IConvertible, global::System.IComparable<global::System.DateTime>, global::System.IEquatable<global::System.DateTime>, global::System.Runtime.Serialization.ISerializable, global::System.ISpanFormattable
 	{
-		// Token: 0x06000513 RID: 1299 RVA: 0x00015455 File Offset: 0x00013655
 		[global::Cpp2ILInjected.Token(Token = "0x60005AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C16808", Offset = "0x1C16808", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -116,7 +115,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000514 RID: 1300 RVA: 0x00015458 File Offset: 0x00013658
 		[global::Cpp2ILInjected.Token(Token = "0x60005AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C16894", Offset = "0x1C16894", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -125,10 +123,89 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000515 RID: 1301 RVA: 0x0001545B File Offset: 0x0001365B
 		[global::Cpp2ILInjected.Token(Token = "0x60005AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1689C", Offset = "0x1C1689C", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetAdjustmentRules", ReturnType = typeof(global::System.TimeZoneInfo.AdjustmentRule[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "ConvertTime", MemberParameters = new object[]
+		{
+			typeof(global::System.DateTime),
+			typeof(global::System.TimeZoneInfo),
+			typeof(global::System.TimeZoneInfo),
+			typeof(global::System.TimeZoneInfoOptions),
+			"System.TimeZoneInfo.CachedData"
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "FromBinary", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "FromFileTimeUtc", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "SpecifyKind", MemberParameters = new object[]
+		{
+			typeof(global::System.DateTime),
+			typeof(global::System.DateTimeKind)
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "TryCreate", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(ref global::System.DateTime)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeOffset), Member = "get_UtcDateTime", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeOffset), Member = "get_ClockDateTime", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeOffset), Member = "ValidateDate", MemberParameters = new object[]
+		{
+			typeof(global::System.DateTime),
+			typeof(global::System.TimeSpan)
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "DetermineTimeZoneAdjustments", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(ref global::System.DateTimeResult),
+			typeof(global::System.Globalization.DateTimeStyles),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "DateTimeOffsetTimeZonePostProcessing", MemberParameters = new object[]
+		{
+			typeof(ref global::System.__DTString),
+			typeof(ref global::System.DateTimeResult),
+			typeof(global::System.Globalization.DateTimeStyles)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "AdjustTimeZoneToUniversal", MemberParameters = new object[] { typeof(ref global::System.DateTimeResult) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "AdjustTimeZoneToLocal", MemberParameters = new object[]
+		{
+			typeof(ref global::System.DateTimeResult),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "GetDateTimeNow", MemberParameters = new object[]
+		{
+			typeof(ref global::System.DateTimeResult),
+			typeof(ref global::System.Globalization.DateTimeStyles)
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlConvert", Member = "ToString", MemberParameters = new object[]
+		{
+			typeof(global::System.DateTime),
+			"System.Xml.XmlDateTimeSerializationMode"
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlConvert", Member = "SwitchToLocalTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlConvert", Member = "SwitchToUtcTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "op_Implicit", MemberParameters = new object[] { "System.Xml.Schema.XsdDateTime" }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "EnsureDateTime", MemberParameters = new object[]
+		{
+			typeof(global::System.DateTime),
+			"Newtonsoft.Json.DateTimeZoneHandling"
+		}, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "SwitchToLocalTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "SwitchToUtcTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "ConvertJavaScriptTicksToDateTime", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "TryParseDateTimeIso", MemberParameters = new object[]
+		{
+			"Newtonsoft.Json.Utilities.StringReference",
+			"Newtonsoft.Json.DateTimeZoneHandling",
+			typeof(ref global::System.DateTime)
+		}, ReturnType = typeof(bool))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 28)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.ArgumentOutOfRangeException), Member = ".ctor", MemberParameters = new object[]
 		{
@@ -146,7 +223,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000516 RID: 1302 RVA: 0x0001545E File Offset: 0x0001365E
 		[global::Cpp2ILInjected.Token(Token = "0x60005B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1697C", Offset = "0x1C1697C", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -178,7 +254,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000517 RID: 1303 RVA: 0x00015461 File Offset: 0x00013661
 		[global::Cpp2ILInjected.Token(Token = "0x60005B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C16A1C", Offset = "0x1C16A1C", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetIsDaylightSavingsFromUtc", MemberParameters = new object[]
@@ -250,7 +325,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000518 RID: 1304 RVA: 0x00015464 File Offset: 0x00013664
 		[global::Cpp2ILInjected.Token(Token = "0x60005B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C16C24", Offset = "0x1C16C24", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetAdjustmentRules", ReturnType = typeof(global::System.TimeZoneInfo.AdjustmentRule[]))]
@@ -304,7 +378,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000519 RID: 1305 RVA: 0x00015467 File Offset: 0x00013667
 		[global::Cpp2ILInjected.Token(Token = "0x60005B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C16DA4", Offset = "0x1C16DA4", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -334,7 +407,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600051A RID: 1306 RVA: 0x0001546A File Offset: 0x0001366A
 		[global::Cpp2ILInjected.Token(Token = "0x60005B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C16EBC", Offset = "0x1C16EBC", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -412,7 +484,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600051B RID: 1307 RVA: 0x0001546D File Offset: 0x0001366D
 		[global::Cpp2ILInjected.Token(Token = "0x60005B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1708C", Offset = "0x1C1708C", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -448,7 +519,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600051C RID: 1308 RVA: 0x00015470 File Offset: 0x00013670
 		[global::Cpp2ILInjected.Token(Token = "0x60005B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17234", Offset = "0x1C17234", Length = "0x294")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -481,8 +551,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x1700004F RID: 79
-		// (get) Token: 0x0600051D RID: 1309 RVA: 0x00015473 File Offset: 0x00013673
 		[global::Cpp2ILInjected.Token(Token = "0x17000068")]
 		internal long InternalTicks
 		{
@@ -495,8 +563,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000050 RID: 80
-		// (get) Token: 0x0600051E RID: 1310 RVA: 0x00015476 File Offset: 0x00013676
 		[global::Cpp2ILInjected.Token(Token = "0x17000069")]
 		private ulong InternalKind
 		{
@@ -509,7 +575,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x0600051F RID: 1311 RVA: 0x00015479 File Offset: 0x00013679
 		[global::Cpp2ILInjected.Token(Token = "0x60005B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C174E0", Offset = "0x1C174E0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallAnalysisNotSupported]
@@ -534,7 +599,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000520 RID: 1312 RVA: 0x0001547C File Offset: 0x0001367C
 		[global::Cpp2ILInjected.Token(Token = "0x60005BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17590", Offset = "0x1C17590", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -555,7 +619,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000521 RID: 1313 RVA: 0x0001547F File Offset: 0x0001367F
 		[global::Cpp2ILInjected.Token(Token = "0x60005BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17660", Offset = "0x1C17660", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -594,7 +657,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000522 RID: 1314 RVA: 0x00015482 File Offset: 0x00013682
 		[global::Cpp2ILInjected.Token(Token = "0x60005BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1766C", Offset = "0x1C1766C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -614,7 +676,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000523 RID: 1315 RVA: 0x00015485 File Offset: 0x00013685
 		[global::Cpp2ILInjected.Token(Token = "0x60005BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17678", Offset = "0x1C17678", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo.AdjustmentRule), Member = "get_HasDaylightSaving", ReturnType = typeof(bool))]
@@ -641,7 +702,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000524 RID: 1316 RVA: 0x00015488 File Offset: 0x00013688
 		[global::Cpp2ILInjected.Token(Token = "0x60005BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17680", Offset = "0x1C17680", Length = "0x23C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -675,7 +735,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000525 RID: 1317 RVA: 0x0001548B File Offset: 0x0001368B
 		[global::Cpp2ILInjected.Token(Token = "0x60005BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17B8C", Offset = "0x1C17B8C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "getDPS", ReturnType = typeof(int))]
@@ -706,7 +765,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000526 RID: 1318 RVA: 0x0001548E File Offset: 0x0001368E
 		[global::Cpp2ILInjected.Token(Token = "0x60005C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C174E4", Offset = "0x1C174E4", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -781,7 +839,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000527 RID: 1319 RVA: 0x00015491 File Offset: 0x00013691
 		[global::Cpp2ILInjected.Token(Token = "0x60005C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17B94", Offset = "0x1C17B94", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -828,7 +885,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000528 RID: 1320 RVA: 0x00015494 File Offset: 0x00013694
 		[global::Cpp2ILInjected.Token(Token = "0x60005C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17C18", Offset = "0x1C17C18", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -839,7 +895,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000529 RID: 1321 RVA: 0x00015497 File Offset: 0x00013697
 		[global::Cpp2ILInjected.Token(Token = "0x60005C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17C38", Offset = "0x1C17C38", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -851,7 +906,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600052A RID: 1322 RVA: 0x0001549A File Offset: 0x0001369A
 		[global::Cpp2ILInjected.Token(Token = "0x60005C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17D34", Offset = "0x1C17D34", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -887,7 +941,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600052B RID: 1323 RVA: 0x0001549D File Offset: 0x0001369D
 		[global::Cpp2ILInjected.Token(Token = "0x60005C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C16A9C", Offset = "0x1C16A9C", Length = "0x188")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -951,7 +1004,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600052C RID: 1324 RVA: 0x000154A0 File Offset: 0x000136A0
 		[global::Cpp2ILInjected.Token(Token = "0x60005C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C16CD0", Offset = "0x1C16CD0", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1013,7 +1065,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600052D RID: 1325 RVA: 0x000154A3 File Offset: 0x000136A3
 		[global::Cpp2ILInjected.Token(Token = "0x60005C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17A80", Offset = "0x1C17A80", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1051,7 +1102,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600052E RID: 1326 RVA: 0x000154A6 File Offset: 0x000136A6
 		[global::Cpp2ILInjected.Token(Token = "0x60005C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17E70", Offset = "0x1C17E70", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1062,7 +1112,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600052F RID: 1327 RVA: 0x000154A9 File Offset: 0x000136A9
 		[global::Cpp2ILInjected.Token(Token = "0x60005C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17EEC", Offset = "0x1C17EEC", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1080,7 +1129,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000530 RID: 1328 RVA: 0x000154AC File Offset: 0x000136AC
 		[global::Cpp2ILInjected.Token(Token = "0x60005CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17F00", Offset = "0x1C17F00", Length = "0x230")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1137,7 +1185,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000531 RID: 1329 RVA: 0x000154AF File Offset: 0x000136AF
 		[global::Cpp2ILInjected.Token(Token = "0x60005CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C18130", Offset = "0x1C18130", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1155,7 +1202,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000532 RID: 1330 RVA: 0x000154B2 File Offset: 0x000136B2
 		[global::Cpp2ILInjected.Token(Token = "0x60005CC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C181B4", Offset = "0x1C181B4", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeOffset), Member = "FromFileTime", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(global::System.DateTimeOffset))]
@@ -1168,7 +1214,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000533 RID: 1331 RVA: 0x000154B5 File Offset: 0x000136B5
 		[global::Cpp2ILInjected.Token(Token = "0x60005CD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C18228", Offset = "0x1C18228", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1198,7 +1243,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000534 RID: 1332 RVA: 0x000154B8 File Offset: 0x000136B8
 		[global::Cpp2ILInjected.Token(Token = "0x60005CE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C182DC", Offset = "0x1C182DC", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1219,7 +1263,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000535 RID: 1333 RVA: 0x000154BB File Offset: 0x000136BB
 		[global::Cpp2ILInjected.Token(Token = "0x60005CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C183A8", Offset = "0x1C183A8", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1237,7 +1280,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000536 RID: 1334 RVA: 0x000154BE File Offset: 0x000136BE
 		[global::Cpp2ILInjected.Token(Token = "0x60005D0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1842C", Offset = "0x1C1842C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "TryParseDateTimeMicrosoft", MemberParameters = new object[]
@@ -1260,7 +1302,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000537 RID: 1335 RVA: 0x000154C1 File Offset: 0x000136C1
 		[global::Cpp2ILInjected.Token(Token = "0x60005D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C18450", Offset = "0x1C18450", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1285,8 +1326,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x17000051 RID: 81
-		// (get) Token: 0x06000538 RID: 1336 RVA: 0x000154C4 File Offset: 0x000136C4
 		[global::Cpp2ILInjected.Token(Token = "0x1700006A")]
 		public global::System.DateTime Date
 		{
@@ -1307,7 +1346,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000539 RID: 1337 RVA: 0x000154C7 File Offset: 0x000136C7
 		[global::Cpp2ILInjected.Token(Token = "0x60005D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C18524", Offset = "0x1C18524", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1333,7 +1371,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600053A RID: 1338 RVA: 0x000154CA File Offset: 0x000136CA
 		[global::Cpp2ILInjected.Token(Token = "0x60005D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C178BC", Offset = "0x1C178BC", Length = "0x1C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1360,8 +1397,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x17000052 RID: 82
-		// (get) Token: 0x0600053B RID: 1339 RVA: 0x000154CD File Offset: 0x000136CD
 		[global::Cpp2ILInjected.Token(Token = "0x1700006B")]
 		public int Day
 		{
@@ -1404,8 +1439,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000053 RID: 83
-		// (get) Token: 0x0600053C RID: 1340 RVA: 0x000154D0 File Offset: 0x000136D0
 		[global::Cpp2ILInjected.Token(Token = "0x1700006C")]
 		public global::System.DayOfWeek DayOfWeek
 		{
@@ -1424,7 +1457,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x0600053D RID: 1341 RVA: 0x000154D3 File Offset: 0x000136D3
 		[global::Cpp2ILInjected.Token(Token = "0x60005D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C18748", Offset = "0x1C18748", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo.AdjustmentRule), Member = "GetHashCode", ReturnType = typeof(int))]
@@ -1434,8 +1466,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x17000054 RID: 84
-		// (get) Token: 0x0600053E RID: 1342 RVA: 0x000154D6 File Offset: 0x000136D6
 		[global::Cpp2ILInjected.Token(Token = "0x1700006D")]
 		public int Hour
 		{
@@ -1468,7 +1498,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x0600053F RID: 1343 RVA: 0x000154D9 File Offset: 0x000136D9
 		[global::Cpp2ILInjected.Token(Token = "0x60005D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C18794", Offset = "0x1C18794", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1490,14 +1519,113 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x17000055 RID: 85
-		// (get) Token: 0x06000540 RID: 1344 RVA: 0x000154DC File Offset: 0x000136DC
 		[global::Cpp2ILInjected.Token(Token = "0x1700006E")]
 		public global::System.DateTimeKind Kind
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x60005DA")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C161E4", Offset = "0x1C161E4", Length = "0x28")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo.AdjustmentRule), Member = "ValidateAdjustmentRule", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeSpan),
+				typeof(global::System.TimeZoneInfo.TransitionTime),
+				typeof(global::System.TimeZoneInfo.TransitionTime),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo.TransitionTime), Member = "ValidateTransitionTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(global::System.DayOfWeek)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetAdjustmentRules", ReturnType = typeof(global::System.TimeZoneInfo.AdjustmentRule[]))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetUtcOffset", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfoOptions),
+				"System.TimeZoneInfo.CachedData"
+			}, ReturnType = typeof(global::System.TimeSpan))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "IsDaylightSavingTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfoOptions),
+				"System.TimeZoneInfo.CachedData"
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "ConvertTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfo),
+				typeof(global::System.TimeZoneInfo),
+				typeof(global::System.TimeZoneInfoOptions),
+				"System.TimeZoneInfo.CachedData"
+			}, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "ConvertTimeToUtc", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfoOptions)
+			}, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "CompareAdjustmentRuleToDateTime", MemberParameters = new object[]
+			{
+				typeof(global::System.TimeZoneInfo.AdjustmentRule),
+				typeof(global::System.TimeZoneInfo.AdjustmentRule),
+				typeof(global::System.DateTime),
+				typeof(global::System.DateTime),
+				typeof(bool)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetIsDaylightSavings", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfo.AdjustmentRule),
+				typeof(global::System.Globalization.DaylightTimeStruct),
+				typeof(global::System.TimeZoneInfoOptions)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZone), Member = "CalculateUtcOffset", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.Globalization.DaylightTime)
+			}, ReturnType = typeof(global::System.TimeSpan))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlConvert", Member = "SwitchToLocalTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlConvert", Member = "SwitchToUtcTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.Datatype_dateTimeBase", Member = "Compare", MemberParameters = new object[]
+			{
+				typeof(object),
+				typeof(object)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				"System.Xml.Schema.XsdDateTimeFlags"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.JsonTextWriter", Member = "WriteValue", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "SwitchToLocalTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "SwitchToUtcTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "ToUniversalTicks", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(long))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "ToUniversalTicks", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeSpan)
+			}, ReturnType = typeof(long))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "WriteDateTimeString", MemberParameters = new object[]
+			{
+				typeof(global::System.IO.TextWriter),
+				typeof(global::System.DateTime),
+				"Newtonsoft.Json.DateFormatHandling",
+				typeof(string),
+				typeof(global::System.Globalization.CultureInfo)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Converters.XmlNodeConverter", Member = "ConvertTokenToXmlValue", MemberParameters = new object[] { "Newtonsoft.Json.JsonReader" }, ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.SharedUtilities", Member = "AdjustTime_Reverse", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "set_LastModified", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "SetEntryTimes", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.DateTime),
+				typeof(global::System.DateTime)
+			}, ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 42)]
 			get
 			{
@@ -1505,8 +1633,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000056 RID: 86
-		// (get) Token: 0x06000541 RID: 1345 RVA: 0x000154DF File Offset: 0x000136DF
 		[global::Cpp2ILInjected.Token(Token = "0x1700006F")]
 		public int Millisecond
 		{
@@ -1527,8 +1653,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000057 RID: 87
-		// (get) Token: 0x06000542 RID: 1346 RVA: 0x000154E2 File Offset: 0x000136E2
 		[global::Cpp2ILInjected.Token(Token = "0x17000070")]
 		public int Minute
 		{
@@ -1561,8 +1685,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000058 RID: 88
-		// (get) Token: 0x06000543 RID: 1347 RVA: 0x000154E5 File Offset: 0x000136E5
 		[global::Cpp2ILInjected.Token(Token = "0x17000071")]
 		public int Month
 		{
@@ -1605,14 +1727,365 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000059 RID: 89
-		// (get) Token: 0x06000544 RID: 1348 RVA: 0x000154E8 File Offset: 0x000136E8
 		[global::Cpp2ILInjected.Token(Token = "0x17000072")]
 		public static global::System.DateTime Now
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x60005DE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C18834", Offset = "0x1C18834", Length = "0xF4")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "CursorManager", Member = "UpdateCursorList", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Android_UserManager", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Android_UserManager", Member = "AttemptSignIn", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "iOS_UserManager", Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "iOS_UserManager", Member = "AttemptSignIn", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SimpleProfiler", Member = "BeginFrame", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SimpleProfiler", Member = "EndFrame", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SimpleProfiler", Member = "BeginSample", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SimpleProfiler", Member = "EndSample", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "CacheFileManager", Member = "WriteFile", MemberParameters = new object[]
+			{
+				typeof(string),
+				"System.Byte[]"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerCraftingMaterials", Member = "Activate", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerCraftingMaterials", Member = "get_UITextAlpha", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerCraftingMaterials", Member = "NavigateNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerCraftingMaterials", Member = "NavigatePrevious", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerCraftingMaterials", Member = "Tick", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerCraftingMaterials", Member = "Navigate", MemberParameters = new object[] { "Microsoft.Xna.Framework.Vector2" }, ReturnType = "GUIControllerItem")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerNavigationController", Member = "Activate", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerNavigationController", Member = "UpdateUINavigation", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIBuffs", Member = "UpdateBuffNavigation", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIBuffs", Member = "ItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIChestSplitStack", Member = "RightClickSplit", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIChestSplitStack", Member = "WasSplit", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIChestSplitStack", Member = "Draw", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUICrafting", Member = "DrawMaterialsGrid", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUICrafting", Member = "UpdateMaterialNavigation", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIHotbar", Member = "UpdateHotbarNavigation", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIHousingMenu", Member = "UpdateHotbarNavigation", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIInventorySplitStack", Member = "RightClickSplit", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIInventorySplitStack", Member = "WasSplit", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIInventorySplitStack", Member = "DrawOverlay", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIMap", Member = "DrawMap", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIResearch", Member = "BeginResearchAnimation", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIResearch", Member = "UpdateResearchAnimation", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIShop", Member = "ItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIVirtualInputController", Member = "HandleGridSnapCursorMovement", MemberParameters = new object[]
+			{
+				"Terraria.Item",
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(ref float),
+				typeof(ref float)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIJourneySliderSetting", Member = "WindBackingHandler", MemberParameters = new object[]
+			{
+				"Microsoft.Xna.Framework.Vector2",
+				"Microsoft.Xna.Framework.Vector2",
+				"Slider_Layout",
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIJourneySliderSetting", Member = "RainBackingHandler", MemberParameters = new object[]
+			{
+				"Microsoft.Xna.Framework.Vector2",
+				"Microsoft.Xna.Framework.Vector2",
+				"Slider_Layout",
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIJourneySliderSetting", Member = "DifficultyBackingHandler", MemberParameters = new object[]
+			{
+				"Microsoft.Xna.Framework.Vector2",
+				"Microsoft.Xna.Framework.Vector2",
+				"Slider_Layout",
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIAchievementsMenu", Member = "AchievementOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIMultiplayerLobby", Member = "ServerDraw", MemberParameters = new object[]
+			{
+				"ItemGrid_Layout",
+				typeof(int),
+				"Microsoft.Xna.Framework.Vector2",
+				typeof(float)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPlayerSelectMenu", Member = "PlayerDraw", MemberParameters = new object[]
+			{
+				"ItemGrid_Layout",
+				typeof(int),
+				"Microsoft.Xna.Framework.Vector2",
+				typeof(float)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPS4MultiplayerChecks", Member = "EditorCheckPermissions", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPS4MultiplayerChecks", Member = "EditorCheckPermissionsUpdate", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIWorldSelectMenu", Member = "WorldDraw", MemberParameters = new object[]
+			{
+				"ItemGrid_Layout",
+				typeof(int),
+				"Microsoft.Xna.Framework.Vector2",
+				typeof(float)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISaveSynchronisation_FileList", Member = "PlayerDraw", MemberParameters = new object[]
+			{
+				"ItemGrid_Layout",
+				typeof(int),
+				"Microsoft.Xna.Framework.Vector2",
+				typeof(float)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISaveSynchronisation_FileList", Member = "WorldDraw", MemberParameters = new object[]
+			{
+				"ItemGrid_Layout",
+				typeof(int),
+				"Microsoft.Xna.Framework.Vector2",
+				typeof(float)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISaveSynchronisation_Lobby", Member = "ServerDraw", MemberParameters = new object[]
+			{
+				"ItemGrid_Layout",
+				typeof(int),
+				"Microsoft.Xna.Framework.Vector2",
+				typeof(float)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SaveSynchronisationFinder", Member = "BroadcastRecieveThread", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SaveSynchronisationFinder", Member = "UpdateResults", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ServerAutoFinder", Member = "BroadcastRecieveThread", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ServerAutoFinder", Member = "UpdateResults", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "WorldFile_OldConsole", Member = "GetAllMetadata", MemberParameters = new object[] { typeof(string) }, ReturnType = "Terraria.IO.WorldFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "WorldFile_OldSwitch", Member = "GetAllMetadata", MemberParameters = new object[] { typeof(string) }, ReturnType = "Terraria.IO.WorldFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TutorialStep_08_KillZombies", Member = "OnGuideDialogueOpen", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TutorialStep_08_KillZombies", Member = "Update", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Telepathy.Common", Member = "ReceiveLoop", MemberParameters = new object[]
+			{
+				typeof(int),
+				"System.Net.Sockets.TcpClient",
+				"System.Collections.Concurrent.ConcurrentQueue`1<Message>",
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Game", Member = "initialiseCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Game", Member = "UnityServerInitialise", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Game", Member = "UnityServerUpdate", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Game", Member = "UnityUpdate", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Content.ContentManager", Member = "UpdateAysncLoad", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Dust", Member = "NewDust", MemberParameters = new object[]
+			{
+				"Microsoft.Xna.Framework.Vector2",
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(float),
+				typeof(float),
+				typeof(int),
+				"Microsoft.Xna.Framework.Graphics.Color",
+				typeof(float)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main.<LoadContent_Deferred>d__1863", Member = "MoveNext", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "SaveSettings", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "Initialize", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "checkXMas", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "checkHalloween", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "TcpClientLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "ClientLoopFrameUpdate", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "ServerLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "setFireFlyChance", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "UpdateEquips", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "KillMe", MemberParameters = new object[]
+			{
+				"Terraria.DataStructures.PlayerDeathReason",
+				typeof(double),
+				typeof(int),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "DropTombstone", MemberParameters = new object[]
+			{
+				typeof(long),
+				"Terraria.Localization.NetworkText",
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "addDPS", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "checkDPSTime", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "getDPS", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "SavePlayer", MemberParameters = new object[]
+			{
+				"Terraria.IO.PlayerFileData",
+				typeof(bool),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "InternalSavePlayerFile", MemberParameters = new object[] { "Terraria.IO.PlayerFileData" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "InternalSaveMap", MemberParameters = new object[]
+			{
+				typeof(bool),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "LoadTutorialPlayer", ReturnType = "Terraria.IO.PlayerFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "LoadPlayer", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(bool)
+			}, ReturnType = "Terraria.IO.PlayerFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Program", Member = "SetupLogging", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.TimeLogger", Member = "NewDrawFrame", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "playWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "joinLocalWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "serverLoadWorldCallBack", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "smCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "ExecuteThreadTime", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "WaitForThreadTime", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashDump", Member = "CreateDumpName", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashWatcher.<>c", Member = "<Inititialize>b__18_0", MemberParameters = new object[]
+			{
+				typeof(object),
+				typeof(global::System.Runtime.ExceptionServices.FirstChanceExceptionEventArgs)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashWatcher.<>c", Member = "<Inititialize>b__18_1", MemberParameters = new object[]
+			{
+				typeof(object),
+				typeof(global::System.UnhandledExceptionEventArgs)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFile_OldMobile", Member = "GetAllMetadata", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(bool)
+			}, ReturnType = "Terraria.IO.WorldFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFile", Member = "GetTutorialMetadata", ReturnType = "Terraria.IO.WorldFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFile", Member = "GetAllMetadata", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(bool)
+			}, ReturnType = "Terraria.IO.WorldFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFile", Member = "CreateMetadata", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(bool),
+				typeof(int)
+			}, ReturnType = "Terraria.IO.WorldFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFile", Member = "LoadWorld", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFile", Member = "SaveWorld", MemberParameters = new object[]
+			{
+				typeof(bool),
+				typeof(bool),
+				"Terraria.IO.WorldFile.WorldSaveContext"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFile", Member = "ValidateWorld", MemberParameters = new object[] { typeof(global::System.IO.BinaryReader) }, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFileData", Member = "FromInvalidWorld", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(bool)
+			}, ReturnType = "Terraria.IO.WorldFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Initializers.AssetInitializer.<LoadAssetsWhileInInitialBlackScreen_InSteps>d__3", Member = "MoveNext", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.DataStructures.IssueReport", Member = ".ctor", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.DataStructures.PlayerDrawLayers", Member = "DrawPlayer_12_1_BalloonFronts", MemberParameters = new object[] { "Terraria.DataStructures.PlayerDrawSet&" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.DataStructures.PlayerDrawLayers", Member = "DrawPlayer_11_Balloons", MemberParameters = new object[] { "Terraria.DataStructures.PlayerDrawSet&" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Map.MapHelper", Member = "LoadMapVersion2", MemberParameters = new object[]
+			{
+				typeof(global::System.IO.BinaryReader),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Map.MapHelper", Member = "LoadMapVersionCompressed", MemberParameters = new object[]
+			{
+				typeof(global::System.IO.BinaryReader),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Map.PingMapLayer.Ping", Member = ".ctor", MemberParameters = new object[] { "Microsoft.Xna.Framework.Vector2" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Map.PingMapLayer", Member = "Draw", MemberParameters = new object[]
+			{
+				"Terraria.Map.MapOverlayDrawContext&",
+				typeof(ref string)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Capture.CaptureSettings", Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.Content.AssetRepository", Member = "ProcessAsyncLoad", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeFormat), Member = "FormatCustomizedTimeZone", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeSpan),
+				typeof(global::System.ReadOnlySpan<char>),
+				typeof(int),
+				typeof(bool),
+				typeof(global::System.Text.StringBuilder)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "AdjustTimeZoneToLocal", MemberParameters = new object[]
+			{
+				typeof(ref global::System.DateTimeResult),
+				typeof(bool)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "GetDateTimeNow", MemberParameters = new object[]
+			{
+				typeof(ref global::System.DateTimeResult),
+				typeof(ref global::System.Globalization.DateTimeStyles)
+			}, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509ChainPolicy", Member = "Reset", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest", Member = "EnsureFtpWebResponse", MemberParameters = new object[] { typeof(global::System.Exception) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebClient", Member = "OpenFileInternal", MemberParameters = new object[]
+			{
+				typeof(bool),
+				typeof(string),
+				typeof(ref global::System.IO.FileStream),
+				"System.Byte[]&",
+				"System.Byte[]&",
+				"System.Byte[]&"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Cookie", Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Cookie", Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(string)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Cookie", Member = "get_Expired", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Cookie", Member = "set_Expired", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Cookie", Member = "ToServerString", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.CookieParser", Member = "Get", ReturnType = "System.Net.Cookie")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.CookieCollection", Member = "TimeStamp", MemberParameters = new object[] { "System.Net.CookieCollection.Stamp" }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest", Member = "get_IfModifiedSince", ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebResponse", Member = "get_LastModified", ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "op_Implicit", MemberParameters = new object[] { "System.Xml.Schema.XsdDateTime" }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "op_Implicit", MemberParameters = new object[] { "System.Xml.Schema.XsdDateTime" }, ReturnType = typeof(global::System.DateTimeOffset))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Serialization.MemoryTraceWriter", Member = "Trace", MemberParameters = new object[]
+			{
+				"System.Diagnostics.TraceLevel",
+				typeof(string),
+				typeof(global::System.Exception)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Networking.PlayerConnection.PlayerConnection", Member = "BlockUntilRecvMsg", MemberParameters = new object[]
+			{
+				typeof(global::System.Guid),
+				typeof(int)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.SharedUtilities", Member = "AdjustTime_Reverse", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.SharedUtilities", Member = "PackedToDateTime", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipFile", Member = "AddEntry", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(global::System.IO.Stream)
+			}, ReturnType = "Ionic.Zip.ZipEntry")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipFile", Member = "AddEntry", MemberParameters = new object[]
+			{
+				typeof(string),
+				"Ionic.Zip.OpenDelegate",
+				"Ionic.Zip.CloseDelegate"
+			}, ReturnType = "Ionic.Zip.ZipEntry")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipFile", Member = "AddDirectoryByName", MemberParameters = new object[] { typeof(string) }, ReturnType = "Ionic.Zip.ZipEntry")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipOutputStream", Member = "PutNextEntry", MemberParameters = new object[] { typeof(string) }, ReturnType = "Ionic.Zip.ZipEntry")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zlib.GZipStream", Member = "EmitHeader", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Crl", Member = "get_IsCurrent", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.Protocol.Ntlm.ChallengeResponse2", Member = "Compute_NTLMv2", MemberParameters = new object[]
+			{
+				"Mono.Security.Protocol.Ntlm.Type2Message",
+				typeof(string),
+				typeof(string),
+				typeof(string)
+			}, ReturnType = "System.Byte[]")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUI", Member = ".cctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.SocialPlatforms.Local", Member = "PopulateStaticData", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.SocialPlatforms.Impl.Score", Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(long)
+			}, ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 211)]
 			[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.DateTime), Member = "get_UtcNow", ReturnType = typeof(global::System.DateTime))]
 			[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.TimeZoneInfo), Member = "GetDateTimeNowUtcOffsetFromUtc", MemberParameters = new object[]
@@ -1633,8 +2106,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x1700005A RID: 90
-		// (get) Token: 0x06000545 RID: 1349 RVA: 0x000154EB File Offset: 0x000136EB
 		[global::Cpp2ILInjected.Token(Token = "0x17000073")]
 		public int Second
 		{
@@ -1667,13 +2138,205 @@ namespace System
 			}
 		}
 
-		// Token: 0x1700005B RID: 91
-		// (get) Token: 0x06000546 RID: 1350 RVA: 0x000154EE File Offset: 0x000136EE
 		[global::Cpp2ILInjected.Token(Token = "0x17000074")]
 		public long Ticks
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x60005E0")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C17228", Offset = "0x1C17228", Length = "0xC")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SaveSynchronisationOperation_SendFileList", Member = "SendWorldFile", MemberParameters = new object[] { "Terraria.IO.WorldFileData" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Dust", Member = "NewDust", MemberParameters = new object[]
+			{
+				"Microsoft.Xna.Framework.Vector2",
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(float),
+				typeof(float),
+				typeof(int),
+				"Microsoft.Xna.Framework.Graphics.Color",
+				typeof(float)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "Initialize", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "ServerLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "setFireFlyChance", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "LoadTutorialPlayer", ReturnType = "Terraria.IO.PlayerFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "LoadPlayer", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(bool)
+			}, ReturnType = "Terraria.IO.PlayerFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "playWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "joinLocalWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "serverLoadWorldCallBack", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "smCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo.TransitionTime), Member = "ValidateTransitionTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(global::System.DayOfWeek)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetAdjustmentRules", ReturnType = typeof(global::System.TimeZoneInfo.AdjustmentRule[]))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "ConvertTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfo),
+				typeof(global::System.TimeZoneInfo),
+				typeof(global::System.TimeZoneInfoOptions),
+				"System.TimeZoneInfo.CachedData"
+			}, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "ConvertToFromUtc", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeSpan),
+				typeof(global::System.TimeSpan),
+				typeof(bool)
+			}, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "ConvertUtcToTimeZone", MemberParameters = new object[]
+			{
+				typeof(long),
+				typeof(global::System.TimeZoneInfo),
+				typeof(ref bool)
+			}, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Messaging.CADMessageBase), Member = "UnmarshalArgument", MemberParameters = new object[]
+			{
+				typeof(object),
+				typeof(global::System.Collections.ArrayList)
+			}, ReturnType = typeof(object))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendar), Member = "GetDayOfMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendar), Member = "GetDayOfWeek", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DayOfWeek))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendar), Member = "GetMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendar), Member = "GetYear", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.EraInfo), Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.EraInfo), Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(string),
+				typeof(string),
+				typeof(string)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendarHelper), Member = "CheckTicksRange", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendarHelper), Member = "GetDayOfMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendarHelper), Member = "GetDayOfWeek", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DayOfWeek))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendarHelper), Member = "GetEra", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendarHelper), Member = "GetMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.GregorianCalendarHelper), Member = "GetYear", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.HijriCalendar), Member = "CheckTicksRange", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.HijriCalendar), Member = "GetDayOfMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.HijriCalendar), Member = "GetDayOfWeek", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DayOfWeek))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.HijriCalendar), Member = "GetEra", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.HijriCalendar), Member = "GetMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.HijriCalendar), Member = "GetYear", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.JapaneseCalendar), Member = "GetDayOfMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.JapaneseCalendar), Member = "GetMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.TaiwanCalendar), Member = "GetDayOfMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.TaiwanCalendar), Member = "GetMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.ThaiBuddhistCalendar), Member = "GetDayOfMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.ThaiBuddhistCalendar), Member = "GetMonth", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.UmAlQuraCalendar), Member = "CheckTicksRange", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.UmAlQuraCalendar), Member = "ConvertGregorianToHijri", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(ref int),
+				typeof(ref int),
+				typeof(ref int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.UmAlQuraCalendar), Member = "GetDatePart", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(int)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.UmAlQuraCalendar), Member = "GetDayOfWeek", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DayOfWeek))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.UmAlQuraCalendar), Member = "GetEra", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.UmAlQuraCalendar), Member = ".cctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebClient", Member = "OpenFileInternal", MemberParameters = new object[]
+			{
+				typeof(bool),
+				typeof(string),
+				typeof(ref global::System.IO.FileStream),
+				"System.Byte[]&",
+				"System.Byte[]&",
+				"System.Byte[]&"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlConvert", Member = "ToString", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				"System.Xml.XmlDateTimeSerializationMode"
+			}, ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlConvert", Member = "SwitchToLocalTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlConvert", Member = "SwitchToUtcTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "get_Fraction", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "op_Implicit", MemberParameters = new object[] { "System.Xml.Schema.XsdDateTime" }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "EnsureDateTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				"Newtonsoft.Json.DateTimeZoneHandling"
+			}, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "SwitchToLocalTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "SwitchToUtcTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "ToUniversalTicks", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(long))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "ToUniversalTicks", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeSpan)
+			}, ReturnType = typeof(long))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "ConvertDateTimeToJavaScriptTicks", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(bool)
+			}, ReturnType = typeof(long))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "TryParseDateTimeIso", MemberParameters = new object[]
+			{
+				"Newtonsoft.Json.Utilities.StringReference",
+				"Newtonsoft.Json.DateTimeZoneHandling",
+				typeof(ref global::System.DateTime)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "TryParseDateTimeOffsetIso", MemberParameters = new object[]
+			{
+				"Newtonsoft.Json.Utilities.StringReference",
+				typeof(ref global::System.DateTimeOffset)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "TryParseDateTimeOffsetMicrosoft", MemberParameters = new object[]
+			{
+				"Newtonsoft.Json.Utilities.StringReference",
+				typeof(ref global::System.DateTimeOffset)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "WriteDefaultIsoDate", MemberParameters = new object[]
+			{
+				"System.Char[]",
+				typeof(int),
+				typeof(global::System.DateTime)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "GetDateValues", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(ref int),
+				typeof(ref int),
+				typeof(ref int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.Protocol.Ntlm.ChallengeResponse2", Member = "Compute_NTLMv2", MemberParameters = new object[]
+			{
+				"Mono.Security.Protocol.Ntlm.Type2Message",
+				typeof(string),
+				typeof(string),
+				typeof(string)
+			}, ReturnType = "System.Byte[]")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 93)]
 			get
 			{
@@ -1681,8 +2344,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x1700005C RID: 92
-		// (get) Token: 0x06000547 RID: 1351 RVA: 0x000154F1 File Offset: 0x000136F1
 		[global::Cpp2ILInjected.Token(Token = "0x17000075")]
 		public global::System.TimeSpan TimeOfDay
 		{
@@ -1720,13 +2381,105 @@ namespace System
 			}
 		}
 
-		// Token: 0x1700005D RID: 93
-		// (get) Token: 0x06000548 RID: 1352 RVA: 0x000154F4 File Offset: 0x000136F4
 		[global::Cpp2ILInjected.Token(Token = "0x17000076")]
 		public int Year
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x60005E2")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C16128", Offset = "0x1C16128", Length = "0x8")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Capture.CaptureSettings", Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo.AdjustmentRule), Member = "IsStartDateMarkerForBeginningOfYear", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo.AdjustmentRule), Member = "IsEndDateMarkerForEndOfYear", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "IsDaylightSavingTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfoOptions),
+				"System.TimeZoneInfo.CachedData"
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "ConvertTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfo),
+				typeof(global::System.TimeZoneInfo),
+				typeof(global::System.TimeZoneInfoOptions),
+				"System.TimeZoneInfo.CachedData"
+			}, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetIsDaylightSavings", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfo.AdjustmentRule),
+				typeof(global::System.Globalization.DaylightTimeStruct),
+				typeof(global::System.TimeZoneInfoOptions)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetIsDaylightSavingsFromUtc", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(int),
+				typeof(global::System.TimeSpan),
+				typeof(global::System.TimeZoneInfo.AdjustmentRule),
+				typeof(int?),
+				typeof(ref bool),
+				typeof(global::System.TimeZoneInfo)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "CheckIsDst", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.DateTime),
+				typeof(global::System.DateTime),
+				typeof(bool),
+				typeof(global::System.TimeZoneInfo.AdjustmentRule)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetIsAmbiguousTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfo.AdjustmentRule),
+				typeof(global::System.Globalization.DaylightTimeStruct)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetIsInvalidTime", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfo.AdjustmentRule),
+				typeof(global::System.Globalization.DaylightTimeStruct)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetUtcOffset", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfo),
+				typeof(global::System.TimeZoneInfoOptions)
+			}, ReturnType = typeof(global::System.TimeSpan))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "GetUtcOffsetFromUtc", MemberParameters = new object[]
+			{
+				typeof(global::System.DateTime),
+				typeof(global::System.TimeZoneInfo),
+				typeof(ref bool),
+				typeof(ref bool)
+			}, ReturnType = typeof(global::System.TimeSpan))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "CreateAdjustmentRule", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(ref long[]),
+				typeof(ref string[]),
+				typeof(string),
+				typeof(string)
+			}, ReturnType = typeof(global::System.Collections.Generic.List<global::System.TimeZoneInfo.AdjustmentRule>))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "CreateLocalUnity", ReturnType = typeof(global::System.TimeZoneInfo))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.X509Certificates.X509Certificate), Member = "FormatDate", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.UmAlQuraCalendar), Member = "ConvertHijriToGregorian", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(ref int),
+				typeof(ref int),
+				typeof(ref int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "get_Year", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "get_Fraction", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "op_Implicit", MemberParameters = new object[] { "System.Xml.Schema.XsdDateTime" }, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "op_Implicit", MemberParameters = new object[] { "System.Xml.Schema.XsdDateTime" }, ReturnType = typeof(global::System.DateTimeOffset))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "ToString", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "PrintDate", MemberParameters = new object[] { typeof(global::System.Text.StringBuilder) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.SharedUtilities", Member = "DateTimeToPacked", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.ASN1Convert", Member = "FromDateTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = "Mono.Security.ASN1")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 49)]
 			[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.DateTime), Member = "GetDatePart", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(int))]
 			get
@@ -1735,7 +2488,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000549 RID: 1353 RVA: 0x000154F7 File Offset: 0x000136F7
 		[global::Cpp2ILInjected.Token(Token = "0x60005E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C17DA8", Offset = "0x1C17DA8", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1773,7 +2525,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600054A RID: 1354 RVA: 0x000154FA File Offset: 0x000136FA
 		[global::Cpp2ILInjected.Token(Token = "0x60005E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C189FC", Offset = "0x1C189FC", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Convert), Member = "ToDateTime", MemberParameters = new object[]
@@ -1797,7 +2548,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600054B RID: 1355 RVA: 0x000154FD File Offset: 0x000136FD
 		[global::Cpp2ILInjected.Token(Token = "0x60005E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C18BE0", Offset = "0x1C18BE0", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Converters.IsoDateTimeConverter", Member = "ReadJson", MemberParameters = new object[]
@@ -1828,7 +2578,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600054C RID: 1356 RVA: 0x00015500 File Offset: 0x00013700
 		[global::Cpp2ILInjected.Token(Token = "0x60005E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C18D10", Offset = "0x1C18D10", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest", Member = "get_Date", ReturnType = typeof(global::System.DateTime))]
@@ -1842,7 +2591,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600054D RID: 1357 RVA: 0x00015503 File Offset: 0x00013703
 		[global::Cpp2ILInjected.Token(Token = "0x60005E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C18F7C", Offset = "0x1C18F7C", Length = "0x1A0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Converters.IsoDateTimeConverter", Member = "ReadJson", MemberParameters = new object[]
@@ -1875,7 +2623,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600054E RID: 1358 RVA: 0x00015506 File Offset: 0x00013706
 		[global::Cpp2ILInjected.Token(Token = "0x60005E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1911C", Offset = "0x1C1911C", Length = "0x140")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.MonoHttpDate", Member = "Parse", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(global::System.DateTime))]
@@ -1894,7 +2641,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600054F RID: 1359 RVA: 0x00015509 File Offset: 0x00013709
 		[global::Cpp2ILInjected.Token(Token = "0x60005E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19354", Offset = "0x1C19354", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Social.Discord.DiscordJoinToServerRequest", Member = "GetUserWrapperText", ReturnType = typeof(string))]
@@ -1911,7 +2657,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000550 RID: 1360 RVA: 0x0001550C File Offset: 0x0001370C
 		[global::Cpp2ILInjected.Token(Token = "0x60005EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19368", Offset = "0x1C19368", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "ConstructExtraField", MemberParameters = new object[] { typeof(bool) }, ReturnType = "System.Byte[]")]
@@ -1935,7 +2680,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000551 RID: 1361 RVA: 0x0001550F File Offset: 0x0001370F
 		[global::Cpp2ILInjected.Token(Token = "0x60005EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C193E4", Offset = "0x1C193E4", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1953,9 +2697,62 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000552 RID: 1362 RVA: 0x00015512 File Offset: 0x00013712
 		[global::Cpp2ILInjected.Token(Token = "0x60005EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C182D4", Offset = "0x1C182D4", Length = "0x8")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashDump", Member = "CreateDumpName", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Capture.CaptureSettings", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.FileSystemInfo), Member = "get_CreationTime", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.FileSystemInfo), Member = "get_LastAccessTime", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.FileSystemInfo), Member = "get_LastWriteTime", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509Certificate2ImplUnix", Member = "get_NotAfter", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509Certificate2ImplUnix", Member = "get_NotBefore", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpControlStream", Member = "GetLastModifiedFrom213Response", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpDateParse", Member = "ParseHttpDate", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(ref global::System.DateTime)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Cookie", Member = "get_Expired", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Cookie", Member = "ToServerString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest", Member = "get_Date", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.MonoHttpDate", Member = "Parse", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ServicePoint", Member = "get_IdleSince", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlConvert", Member = "SwitchToLocalTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "op_Implicit", MemberParameters = new object[] { "System.Xml.Schema.XsdDateTime" }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "SwitchToLocalTime", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "TryParseDateTimeIso", MemberParameters = new object[]
+		{
+			"Newtonsoft.Json.Utilities.StringReference",
+			"Newtonsoft.Json.DateTimeZoneHandling",
+			typeof(ref global::System.DateTime)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.DateTimeUtils", Member = "TryParseDateTimeMicrosoft", MemberParameters = new object[]
+		{
+			"Newtonsoft.Json.Utilities.StringReference",
+			"Newtonsoft.Json.DateTimeZoneHandling",
+			typeof(ref global::System.DateTime)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Bson.BsonBinaryWriter", Member = "WriteTokenInternal", MemberParameters = new object[] { "Newtonsoft.Json.Bson.BsonToken" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Bson.BsonReader", Member = "ReadType", MemberParameters = new object[] { "Newtonsoft.Json.Bson.BsonType" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.SharedUtilities", Member = "DateTimeToPacked", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "get_LastModified", ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "set_LastModified", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "_SetTimes", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "WriteHeader", MemberParameters = new object[]
+		{
+			typeof(global::System.IO.Stream),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "WriteSecurityMetadata", MemberParameters = new object[] { typeof(global::System.IO.Stream) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipFile", Member = "_InternalExtractAll", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 29)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.DateTime), Member = "ToLocalTime", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(global::System.DateTime))]
 		public global::System.DateTime ToLocalTime()
@@ -1963,7 +2760,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000553 RID: 1363 RVA: 0x00015515 File Offset: 0x00013715
 		[global::Cpp2ILInjected.Token(Token = "0x60005ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19468", Offset = "0x1C19468", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1993,7 +2789,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000554 RID: 1364 RVA: 0x00015518 File Offset: 0x00013718
 		[global::Cpp2ILInjected.Token(Token = "0x60005EE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C195B8", Offset = "0x1C195B8", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "SavePlayer", MemberParameters = new object[]
@@ -2022,7 +2817,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000555 RID: 1365 RVA: 0x0001551B File Offset: 0x0001371B
 		[global::Cpp2ILInjected.Token(Token = "0x60005EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19690", Offset = "0x1C19690", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "DropTombstone", MemberParameters = new object[]
@@ -2049,7 +2843,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000556 RID: 1366 RVA: 0x0001551E File Offset: 0x0001371E
 		[global::Cpp2ILInjected.Token(Token = "0x60005F0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C196FC", Offset = "0x1C196FC", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.X509Certificates.X509Certificate), Member = "FormatDate", MemberParameters = new object[] { typeof(global::System.DateTime) }, ReturnType = typeof(string))]
@@ -2073,7 +2866,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000557 RID: 1367 RVA: 0x00015521 File Offset: 0x00013721
 		[global::Cpp2ILInjected.Token(Token = "0x60005F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19768", Offset = "0x1C19768", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIMultiplayerHost", Member = "WorldDraw", ReturnType = typeof(void))]
@@ -2142,7 +2934,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000558 RID: 1368 RVA: 0x00015524 File Offset: 0x00013724
 		[global::Cpp2ILInjected.Token(Token = "0x60005F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C197D8", Offset = "0x1C197D8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2152,7 +2943,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000559 RID: 1369 RVA: 0x00015527 File Offset: 0x00013727
 		[global::Cpp2ILInjected.Token(Token = "0x60005F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19384", Offset = "0x1C19384", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "ToFileTime", ReturnType = typeof(long))]
@@ -2218,7 +3008,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600055A RID: 1370 RVA: 0x0001552A File Offset: 0x0001372A
 		[global::Cpp2ILInjected.Token(Token = "0x60005F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19930", Offset = "0x1C19930", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.CookieParser", Member = "Get", ReturnType = "System.Net.Cookie")]
@@ -2237,7 +3026,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600055B RID: 1371 RVA: 0x0001552D File Offset: 0x0001372D
 		[global::Cpp2ILInjected.Token(Token = "0x60005F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19B8C", Offset = "0x1C19B8C", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.DerSequenceReader", Member = "ReadTime", MemberParameters = new object[]
@@ -2275,7 +3063,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600055C RID: 1372 RVA: 0x00015530 File Offset: 0x00013730
 		[global::Cpp2ILInjected.Token(Token = "0x60005F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19E4C", Offset = "0x1C19E4C", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2353,7 +3140,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600055D RID: 1373 RVA: 0x00015533 File Offset: 0x00013733
 		[global::Cpp2ILInjected.Token(Token = "0x60005F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19EEC", Offset = "0x1C19EEC", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2413,16 +3199,156 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600055E RID: 1374 RVA: 0x00015536 File Offset: 0x00013736
 		[global::Cpp2ILInjected.Token(Token = "0x60005F8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19F84", Offset = "0x1C19F84", Length = "0x10")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "CursorManager", Member = "UpdateCursorList", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Android_UserManager", Member = "Update", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DrPlatform.PS4", Member = "NotfityMultiplayerRealTimeUsage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "iOS_UserManager", Member = "Update", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundInstance", Member = "UpdateFade", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SimpleProfiler", Member = "BeginFrame", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SimpleProfiler", Member = "EndSample", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerCraftingMaterials", Member = "get_UITextAlpha", ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerNavigationController", Member = "UpdateUINavigation", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIChestSplitStack", Member = "WasSplit", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUICrafting", Member = "DrawMaterialsGrid", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUICrafting", Member = "UpdateMaterialNavigation", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIHotbar", Member = "UpdateHotbarNavigation", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIHousingMenu", Member = "UpdateHotbarNavigation", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIInventorySplitStack", Member = "WasSplit", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIMap", Member = "DrawMap", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIResearch", Member = "UpdateResearchAnimation", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIVirtualInputController", Member = "HandleGridSnapCursorMovement", MemberParameters = new object[]
+		{
+			"Terraria.Item",
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(ref float),
+			typeof(ref float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIJourneySliderSetting", Member = "WindBackingHandler", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Slider_Layout",
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIJourneySliderSetting", Member = "RainBackingHandler", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Slider_Layout",
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIJourneySliderSetting", Member = "DifficultyBackingHandler", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Slider_Layout",
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIAchievementsMenu", Member = "AchievementOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIMultiplayerLobby", Member = "ServerDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPlayerSelectMenu", Member = "PlayerDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPS4MultiplayerChecks", Member = "EditorCheckPermissionsUpdate", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIWorldSelectMenu", Member = "WorldDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISaveSynchronisation_FileList", Member = "PlayerDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISaveSynchronisation_FileList", Member = "WorldDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISaveSynchronisation_Lobby", Member = "ServerDraw", MemberParameters = new object[]
+		{
+			"ItemGrid_Layout",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SaveSynchronisationFinder", Member = "UpdateResults", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ServerAutoFinder", Member = "UpdateResults", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TutorialStep_08_KillZombies", Member = "Update", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Telepathy.Common", Member = "ReceiveLoop", MemberParameters = new object[]
+		{
+			typeof(int),
+			"System.Net.Sockets.TcpClient",
+			"System.Collections.Concurrent.ConcurrentQueue`1<Message>",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Game", Member = "UnityServerUpdate", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Game", Member = "UnityUpdate", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Content.ContentManager", Member = "UpdateAysncLoad", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main.<LoadContent_Deferred>d__1863", Member = "MoveNext", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "TcpClientLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Netplay", Member = "ServerLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "checkDPSTime", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "getDPS", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "WaitForThreadTime", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Initializers.AssetInitializer.<LoadAssetsWhileInInitialBlackScreen_InSteps>d__3", Member = "MoveNext", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Map.MapHelper", Member = "LoadMapVersion2", MemberParameters = new object[]
+		{
+			typeof(global::System.IO.BinaryReader),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Map.MapHelper", Member = "LoadMapVersionCompressed", MemberParameters = new object[]
+		{
+			typeof(global::System.IO.BinaryReader),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Map.PingMapLayer", Member = "Draw", MemberParameters = new object[]
+		{
+			"Terraria.Map.MapOverlayDrawContext&",
+			typeof(ref string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.Content.AssetRepository", Member = "ProcessAsyncLoad", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Lifetime.Lease), Member = "get_CurrentLeaseTime", ReturnType = typeof(global::System.TimeSpan))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest", Member = "GetResponse", ReturnType = "System.Net.WebResponse")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest", Member = "GetRequestStream", ReturnType = typeof(global::System.IO.Stream))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest", Member = "SubmitRequest", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Cookie", Member = "ToServerString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.DigestClient", Member = "CheckExpired", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "op_Implicit", MemberParameters = new object[] { "System.Xml.Schema.XsdDateTime" }, ReturnType = typeof(global::System.DateTime))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XsdDateTime", Member = "op_Implicit", MemberParameters = new object[] { "System.Xml.Schema.XsdDateTime" }, ReturnType = typeof(global::System.DateTimeOffset))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Networking.PlayerConnection.PlayerConnection", Member = "BlockUntilRecvMsg", MemberParameters = new object[]
+		{
+			typeof(global::System.Guid),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "ConstructExtraField", MemberParameters = new object[] { typeof(bool) }, ReturnType = "System.Byte[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zlib.GZipStream", Member = "EmitHeader", ReturnType = typeof(int))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 77)]
 		public static global::System.TimeSpan operator -(global::System.DateTime d1, global::System.DateTime d2)
 		{
 			throw null;
 		}
 
-		// Token: 0x0600055F RID: 1375 RVA: 0x00015539 File Offset: 0x00013739
 		[global::Cpp2ILInjected.Token(Token = "0x60005F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19F94", Offset = "0x1C19F94", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2503,7 +3429,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000560 RID: 1376 RVA: 0x0001553C File Offset: 0x0001373C
 		[global::Cpp2ILInjected.Token(Token = "0x60005FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19FA4", Offset = "0x1C19FA4", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2534,7 +3459,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000561 RID: 1377 RVA: 0x0001553F File Offset: 0x0001373F
 		[global::Cpp2ILInjected.Token(Token = "0x60005FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19FB4", Offset = "0x1C19FB4", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2604,7 +3528,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000562 RID: 1378 RVA: 0x00015542 File Offset: 0x00013742
 		[global::Cpp2ILInjected.Token(Token = "0x60005FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19FC8", Offset = "0x1C19FC8", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2661,7 +3584,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000563 RID: 1379 RVA: 0x00015545 File Offset: 0x00013745
 		[global::Cpp2ILInjected.Token(Token = "0x60005FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19FDC", Offset = "0x1C19FDC", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2746,7 +3668,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000564 RID: 1380 RVA: 0x00015548 File Offset: 0x00013748
 		[global::Cpp2ILInjected.Token(Token = "0x60005FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C19FF0", Offset = "0x1C19FF0", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2807,7 +3728,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000565 RID: 1381 RVA: 0x0001554B File Offset: 0x0001374B
 		[global::Cpp2ILInjected.Token(Token = "0x60005FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A004", Offset = "0x1C1A004", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2816,7 +3736,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000566 RID: 1382 RVA: 0x0001554E File Offset: 0x0001374E
 		[global::Cpp2ILInjected.Token(Token = "0x6000600")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A00C", Offset = "0x1C1A00C", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2833,7 +3752,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000567 RID: 1383 RVA: 0x00015551 File Offset: 0x00013751
 		[global::Cpp2ILInjected.Token(Token = "0x6000601")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A090", Offset = "0x1C1A090", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2850,7 +3768,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000568 RID: 1384 RVA: 0x00015554 File Offset: 0x00013754
 		[global::Cpp2ILInjected.Token(Token = "0x6000602")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A114", Offset = "0x1C1A114", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2867,7 +3784,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000569 RID: 1385 RVA: 0x00015557 File Offset: 0x00013757
 		[global::Cpp2ILInjected.Token(Token = "0x6000603")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A198", Offset = "0x1C1A198", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2884,7 +3800,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600056A RID: 1386 RVA: 0x0001555A File Offset: 0x0001375A
 		[global::Cpp2ILInjected.Token(Token = "0x6000604")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A21C", Offset = "0x1C1A21C", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2901,7 +3816,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600056B RID: 1387 RVA: 0x0001555D File Offset: 0x0001375D
 		[global::Cpp2ILInjected.Token(Token = "0x6000605")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A2A0", Offset = "0x1C1A2A0", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2918,7 +3832,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600056C RID: 1388 RVA: 0x00015560 File Offset: 0x00013760
 		[global::Cpp2ILInjected.Token(Token = "0x6000606")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A324", Offset = "0x1C1A324", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2935,7 +3848,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600056D RID: 1389 RVA: 0x00015563 File Offset: 0x00013763
 		[global::Cpp2ILInjected.Token(Token = "0x6000607")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A3A8", Offset = "0x1C1A3A8", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2952,7 +3864,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600056E RID: 1390 RVA: 0x00015566 File Offset: 0x00013766
 		[global::Cpp2ILInjected.Token(Token = "0x6000608")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A42C", Offset = "0x1C1A42C", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2969,7 +3880,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600056F RID: 1391 RVA: 0x00015569 File Offset: 0x00013769
 		[global::Cpp2ILInjected.Token(Token = "0x6000609")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A4B0", Offset = "0x1C1A4B0", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2986,7 +3896,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000570 RID: 1392 RVA: 0x0001556C File Offset: 0x0001376C
 		[global::Cpp2ILInjected.Token(Token = "0x600060A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A534", Offset = "0x1C1A534", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -3003,7 +3912,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000571 RID: 1393 RVA: 0x0001556F File Offset: 0x0001376F
 		[global::Cpp2ILInjected.Token(Token = "0x600060B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A5B8", Offset = "0x1C1A5B8", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -3020,7 +3928,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000572 RID: 1394 RVA: 0x00015572 File Offset: 0x00013772
 		[global::Cpp2ILInjected.Token(Token = "0x600060C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A63C", Offset = "0x1C1A63C", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -3037,7 +3944,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000573 RID: 1395 RVA: 0x00015575 File Offset: 0x00013775
 		[global::Cpp2ILInjected.Token(Token = "0x600060D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A6C0", Offset = "0x1C1A6C0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -3046,7 +3952,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000574 RID: 1396 RVA: 0x00015578 File Offset: 0x00013778
 		[global::Cpp2ILInjected.Token(Token = "0x600060E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A6C8", Offset = "0x1C1A6C8", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -3062,7 +3967,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000575 RID: 1397 RVA: 0x0001557B File Offset: 0x0001377B
 		[global::Cpp2ILInjected.Token(Token = "0x600060F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A774", Offset = "0x1C1A774", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -3103,14 +4007,122 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x1700005E RID: 94
-		// (get) Token: 0x06000576 RID: 1398 RVA: 0x0001557E File Offset: 0x0001377E
 		[global::Cpp2ILInjected.Token(Token = "0x17000077")]
 		public static global::System.DateTime UtcNow
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x6000610")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C18928", Offset = "0x1C18928", Length = "0x64")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "CursorManager", Member = "UpdateCursorList", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DrPlatform.PS4", Member = "NotfityMultiplayerRealTimeUsage", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundInstance", Member = ".ctor", MemberParameters = new object[]
+			{
+				"SoundChannel",
+				"SoundDefinition",
+				typeof(float),
+				typeof(float),
+				typeof(float),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundInstance", Member = "Restart", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundInstance", Member = "set_CurrentPosition", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundInstance", Member = "Stop", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundInstance", Member = "StartFade", MemberParameters = new object[]
+			{
+				typeof(float),
+				typeof(global::System.DateTime),
+				typeof(global::System.DateTime)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundInstance", Member = "UpdateFade", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundManager", Member = "GetChannel", MemberParameters = new object[] { "SoundDefinition" }, ReturnType = "SoundChannel")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundManager", Member = "StopAllSoundsOnChannels", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundManager", Member = "IsPlaying", MemberParameters = new object[] { "SoundDefinition" }, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Audio.SoundEffectInstance", Member = "get_State", ReturnType = "Microsoft.Xna.Framework.Audio.SoundState")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "InternalSavePlayerFile", MemberParameters = new object[] { "Terraria.IO.PlayerFileData" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "LoadTutorialPlayer", ReturnType = "Terraria.IO.PlayerFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "LoadPlayer", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(bool)
+			}, ReturnType = "Terraria.IO.PlayerFileData")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "AdjustRespawnTimerForWorldJoining", MemberParameters = new object[] { "Terraria.Player" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Social.Discord.DiscordJoinToServerRequest", Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(string),
+				typeof(string),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Social.Discord.DiscordJoinToServerRequest", Member = "IsValid", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Social.Discord.DiscordJoinToServerRequest", Member = "GetUserWrapperText", ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Creative.CreativePowers.APerPlayerSliderPower", Member = "AttemptPushingChange", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Creative.CreativePowers.APerPlayerSliderPower", Member = "PushChange", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Creative.CreativePowers.APerPlayerSliderPower", Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Creative.CreativePowers.ASharedSliderPower", Member = "AttemptPushingChange", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Creative.CreativePowers.ASharedSliderPower", Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(string),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "CreateLocalUnity", ReturnType = typeof(global::System.TimeZoneInfo))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTime), Member = "get_Now", ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "GetDateTimeNow", MemberParameters = new object[]
+			{
+				typeof(ref global::System.DateTimeResult),
+				typeof(ref global::System.Globalization.DateTimeStyles)
+			}, ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Lifetime.Lease), Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Lifetime.Lease), Member = "get_CurrentLeaseTime", ReturnType = typeof(global::System.TimeSpan))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Lifetime.Lease), Member = "Renew", MemberParameters = new object[] { typeof(global::System.TimeSpan) }, ReturnType = typeof(global::System.TimeSpan))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Diagnostics.TraceEventCache", Member = "get_DateTime", ReturnType = typeof(global::System.DateTime))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest", Member = "GetResponse", ReturnType = "System.Net.WebResponse")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest", Member = "GetRequestStream", ReturnType = typeof(global::System.IO.Stream))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest", Member = "SubmitRequest", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.DigestSession", Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.DigestSession", Member = "Authenticate", MemberParameters = new object[] { "System.Net.WebRequest", "System.Net.ICredentials" }, ReturnType = "System.Net.Authorization")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.DigestClient", Member = "CheckExpired", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpListenerResponse", Member = "SendHeaders", MemberParameters = new object[]
+			{
+				typeof(bool),
+				typeof(global::System.IO.MemoryStream)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ServicePoint", Member = "get_HasTimedOut", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ServicePoint", Member = "get_HostEntry", ReturnType = "System.Net.IPHostEntry")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ServicePointScheduler.<RunScheduler>d__32", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ServicePointScheduler", Member = ".ctor", MemberParameters = new object[]
+			{
+				"System.Net.ServicePoint",
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnection", Member = "StartOperation", MemberParameters = new object[]
+			{
+				"System.Net.WebOperation",
+				typeof(bool)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "Create", MemberParameters = new object[]
+			{
+				typeof(string),
+				"Ionic.Zip.ZipEntrySource",
+				typeof(object),
+				typeof(object)
+			}, ReturnType = "Ionic.Zip.ZipEntry")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "ProcessExtraFieldInfoZipTimes", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(short),
+				typeof(long)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "ProcessExtraFieldUnixTimes", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(short),
+				typeof(long)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Certificate", Member = "get_IsCurrent", ReturnType = typeof(bool))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 59)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 3)]
 			get
@@ -3119,7 +4131,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000577 RID: 1399
 		[global::Cpp2ILInjected.Token(Token = "0x6000611")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A944", Offset = "0x1C1A944", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -3127,7 +4138,6 @@ namespace System
 		[MethodImpl(4096)]
 		internal static extern long GetSystemTimeAsFileTime();
 
-		// Token: 0x06000578 RID: 1400 RVA: 0x00015581 File Offset: 0x00013781
 		[global::Cpp2ILInjected.Token(Token = "0x6000612")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A948", Offset = "0x1C1A948", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -3136,7 +4146,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000579 RID: 1401 RVA: 0x00015584 File Offset: 0x00013784
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000613")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1A950", Offset = "0x1C1A950", Length = "0xF0")]
@@ -3153,191 +4162,144 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0400013D RID: 317
 		[global::Cpp2ILInjected.Token(Token = "0x4000224")]
 		private const long TicksPerMillisecond = 10000L;
 
-		// Token: 0x0400013E RID: 318
 		[global::Cpp2ILInjected.Token(Token = "0x4000225")]
 		private const long TicksPerSecond = 10000000L;
 
-		// Token: 0x0400013F RID: 319
 		[global::Cpp2ILInjected.Token(Token = "0x4000226")]
 		private const long TicksPerMinute = 600000000L;
 
-		// Token: 0x04000140 RID: 320
 		[global::Cpp2ILInjected.Token(Token = "0x4000227")]
 		private const long TicksPerHour = 36000000000L;
 
-		// Token: 0x04000141 RID: 321
 		[global::Cpp2ILInjected.Token(Token = "0x4000228")]
 		private const long TicksPerDay = 864000000000L;
 
-		// Token: 0x04000142 RID: 322
 		[global::Cpp2ILInjected.Token(Token = "0x4000229")]
 		private const int MillisPerSecond = 1000;
 
-		// Token: 0x04000143 RID: 323
 		[global::Cpp2ILInjected.Token(Token = "0x400022A")]
 		private const int MillisPerMinute = 60000;
 
-		// Token: 0x04000144 RID: 324
 		[global::Cpp2ILInjected.Token(Token = "0x400022B")]
 		private const int MillisPerHour = 3600000;
 
-		// Token: 0x04000145 RID: 325
 		[global::Cpp2ILInjected.Token(Token = "0x400022C")]
 		private const int MillisPerDay = 86400000;
 
-		// Token: 0x04000146 RID: 326
 		[global::Cpp2ILInjected.Token(Token = "0x400022D")]
 		private const int DaysPerYear = 365;
 
-		// Token: 0x04000147 RID: 327
 		[global::Cpp2ILInjected.Token(Token = "0x400022E")]
 		private const int DaysPer4Years = 1461;
 
-		// Token: 0x04000148 RID: 328
 		[global::Cpp2ILInjected.Token(Token = "0x400022F")]
 		private const int DaysPer100Years = 36524;
 
-		// Token: 0x04000149 RID: 329
 		[global::Cpp2ILInjected.Token(Token = "0x4000230")]
 		private const int DaysPer400Years = 146097;
 
-		// Token: 0x0400014A RID: 330
 		[global::Cpp2ILInjected.Token(Token = "0x4000231")]
 		private const int DaysTo1601 = 584388;
 
-		// Token: 0x0400014B RID: 331
 		[global::Cpp2ILInjected.Token(Token = "0x4000232")]
 		private const int DaysTo1899 = 693593;
 
-		// Token: 0x0400014C RID: 332
 		[global::Cpp2ILInjected.Token(Token = "0x4000233")]
 		internal const int DaysTo1970 = 719162;
 
-		// Token: 0x0400014D RID: 333
 		[global::Cpp2ILInjected.Token(Token = "0x4000234")]
 		private const int DaysTo10000 = 3652059;
 
-		// Token: 0x0400014E RID: 334
 		[global::Cpp2ILInjected.Token(Token = "0x4000235")]
 		internal const long MinTicks = 0L;
 
-		// Token: 0x0400014F RID: 335
 		[global::Cpp2ILInjected.Token(Token = "0x4000236")]
 		internal const long MaxTicks = 3155378975999999999L;
 
-		// Token: 0x04000150 RID: 336
 		[global::Cpp2ILInjected.Token(Token = "0x4000237")]
 		private const long MaxMillis = 315537897600000L;
 
-		// Token: 0x04000151 RID: 337
 		[global::Cpp2ILInjected.Token(Token = "0x4000238")]
 		internal const long UnixEpochTicks = 621355968000000000L;
 
-		// Token: 0x04000152 RID: 338
 		[global::Cpp2ILInjected.Token(Token = "0x4000239")]
 		private const long FileTimeOffset = 504911232000000000L;
 
-		// Token: 0x04000153 RID: 339
 		[global::Cpp2ILInjected.Token(Token = "0x400023A")]
 		private const long DoubleDateOffset = 599264352000000000L;
 
-		// Token: 0x04000154 RID: 340
 		[global::Cpp2ILInjected.Token(Token = "0x400023B")]
 		private const long OADateMinAsTicks = 31241376000000000L;
 
-		// Token: 0x04000155 RID: 341
 		[global::Cpp2ILInjected.Token(Token = "0x400023C")]
 		private const double OADateMinAsDouble = -657435.0;
 
-		// Token: 0x04000156 RID: 342
 		[global::Cpp2ILInjected.Token(Token = "0x400023D")]
 		private const double OADateMaxAsDouble = 2958466.0;
 
-		// Token: 0x04000157 RID: 343
 		[global::Cpp2ILInjected.Token(Token = "0x400023E")]
 		private const int DatePartYear = 0;
 
-		// Token: 0x04000158 RID: 344
 		[global::Cpp2ILInjected.Token(Token = "0x400023F")]
 		private const int DatePartDayOfYear = 1;
 
-		// Token: 0x04000159 RID: 345
 		[global::Cpp2ILInjected.Token(Token = "0x4000240")]
 		private const int DatePartMonth = 2;
 
-		// Token: 0x0400015A RID: 346
 		[global::Cpp2ILInjected.Token(Token = "0x4000241")]
 		private const int DatePartDay = 3;
 
-		// Token: 0x0400015B RID: 347
 		[global::Cpp2ILInjected.Token(Token = "0x4000242")]
 		private static readonly int[] s_daysToMonth365;
 
-		// Token: 0x0400015C RID: 348
 		[global::Cpp2ILInjected.Token(Token = "0x4000243")]
 		private static readonly int[] s_daysToMonth366;
 
-		// Token: 0x0400015D RID: 349
 		[global::Cpp2ILInjected.Token(Token = "0x4000244")]
 		public static readonly global::System.DateTime MinValue;
 
-		// Token: 0x0400015E RID: 350
 		[global::Cpp2ILInjected.Token(Token = "0x4000245")]
 		public static readonly global::System.DateTime MaxValue;
 
-		// Token: 0x0400015F RID: 351
 		[global::Cpp2ILInjected.Token(Token = "0x4000246")]
 		public static readonly global::System.DateTime UnixEpoch;
 
-		// Token: 0x04000160 RID: 352
 		[global::Cpp2ILInjected.Token(Token = "0x4000247")]
 		private const ulong TicksMask = 4611686018427387903UL;
 
-		// Token: 0x04000161 RID: 353
 		[global::Cpp2ILInjected.Token(Token = "0x4000248")]
 		private const ulong FlagsMask = 13835058055282163712UL;
 
-		// Token: 0x04000162 RID: 354
 		[global::Cpp2ILInjected.Token(Token = "0x4000249")]
 		private const ulong LocalMask = 9223372036854775808UL;
 
-		// Token: 0x04000163 RID: 355
 		[global::Cpp2ILInjected.Token(Token = "0x400024A")]
 		private const long TicksCeiling = 4611686018427387904L;
 
-		// Token: 0x04000164 RID: 356
 		[global::Cpp2ILInjected.Token(Token = "0x400024B")]
 		private const ulong KindUnspecified = 0UL;
 
-		// Token: 0x04000165 RID: 357
 		[global::Cpp2ILInjected.Token(Token = "0x400024C")]
 		private const ulong KindUtc = 4611686018427387904UL;
 
-		// Token: 0x04000166 RID: 358
 		[global::Cpp2ILInjected.Token(Token = "0x400024D")]
 		private const ulong KindLocal = 9223372036854775808UL;
 
-		// Token: 0x04000167 RID: 359
 		[global::Cpp2ILInjected.Token(Token = "0x400024E")]
 		private const ulong KindLocalAmbiguousDst = 13835058055282163712UL;
 
-		// Token: 0x04000168 RID: 360
 		[global::Cpp2ILInjected.Token(Token = "0x400024F")]
 		private const int KindShift = 62;
 
-		// Token: 0x04000169 RID: 361
 		[global::Cpp2ILInjected.Token(Token = "0x4000250")]
 		private const string TicksField = "ticks";
 
-		// Token: 0x0400016A RID: 362
 		[global::Cpp2ILInjected.Token(Token = "0x4000251")]
 		private const string DateDataField = "dateData";
 
-		// Token: 0x0400016B RID: 363
 		[global::Cpp2ILInjected.Token(Token = "0x4000252")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly ulong _dateData;

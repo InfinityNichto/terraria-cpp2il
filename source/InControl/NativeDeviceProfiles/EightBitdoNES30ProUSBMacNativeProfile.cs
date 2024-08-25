@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001A5 RID: 421
 	[NativeInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20001B2")]
 	public class EightBitdoNES30ProUSBMacNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x060007D4 RID: 2004 RVA: 0x000037A9 File Offset: 0x000019A9
 		[global::Cpp2ILInjected.Token(Token = "0x60007F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A2BB60", Offset = "0x1A2BB60", Length = "0xB68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,7 +24,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060007D5 RID: 2005 RVA: 0x000037AC File Offset: 0x000019AC
 		[global::Cpp2ILInjected.Token(Token = "0x60007F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A2C6C8", Offset = "0x1A2C6C8", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

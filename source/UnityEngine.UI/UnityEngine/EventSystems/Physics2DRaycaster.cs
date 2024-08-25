@@ -6,13 +6,11 @@ using UnityEngine.UI;
 
 namespace UnityEngine.EventSystems
 {
-	// Token: 0x0200006E RID: 110
 	[RequireComponent(typeof(Camera))]
 	[AddComponentMenu("Event/Physics 2D Raycaster")]
 	[global::Cpp2ILInjected.Token(Token = "0x20000BD")]
 	public class Physics2DRaycaster : PhysicsRaycaster
 	{
-		// Token: 0x06000639 RID: 1593 RVA: 0x0000324A File Offset: 0x0000144A
 		[global::Cpp2ILInjected.Token(Token = "0x60006D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FED89C", Offset = "0x1FED89C", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -23,7 +21,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x0600063A RID: 1594 RVA: 0x0000324D File Offset: 0x0000144D
 		[global::Cpp2ILInjected.Token(Token = "0x60006D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FED8EC", Offset = "0x1FED8EC", Length = "0x518")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -57,7 +54,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x04000224 RID: 548
 		[global::Cpp2ILInjected.Token(Token = "0x4000318")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private RaycastHit2D[] m_Hits;

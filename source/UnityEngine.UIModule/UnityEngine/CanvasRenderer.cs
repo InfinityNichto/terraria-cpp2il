@@ -8,14 +8,11 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine
 {
-	// Token: 0x02000003 RID: 3
 	[NativeHeader("Modules/UI/CanvasRenderer.h")]
 	[NativeClass("UI::CanvasRenderer")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000003")]
 	public sealed class CanvasRenderer : Component
 	{
-		// Token: 0x17000001 RID: 1
-		// (set) Token: 0x06000011 RID: 17
 		[global::Cpp2ILInjected.Token(Token = "0x17000001")]
 		public extern bool hasPopInstruction
 		{
@@ -30,9 +27,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000002 RID: 2
-		// (get) Token: 0x06000012 RID: 18
-		// (set) Token: 0x06000013 RID: 19
 		[global::Cpp2ILInjected.Token(Token = "0x17000002")]
 		public extern int materialCount
 		{
@@ -51,8 +45,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000003 RID: 3
-		// (set) Token: 0x06000014 RID: 20
 		[global::Cpp2ILInjected.Token(Token = "0x17000003")]
 		public extern int popMaterialCount
 		{
@@ -66,8 +58,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000004 RID: 4
-		// (get) Token: 0x06000015 RID: 21
 		[global::Cpp2ILInjected.Token(Token = "0x17000004")]
 		public extern int absoluteDepth
 		{
@@ -90,8 +80,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000005 RID: 5
-		// (get) Token: 0x06000016 RID: 22
 		[global::Cpp2ILInjected.Token(Token = "0x17000005")]
 		public extern bool hasMoved
 		{
@@ -104,9 +92,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000006 RID: 6
-		// (get) Token: 0x06000017 RID: 23
-		// (set) Token: 0x06000018 RID: 24
 		[NativeProperty("ShouldCull", false, TargetType.Function)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000006")]
 		public extern bool cull
@@ -137,7 +122,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x06000019 RID: 25 RVA: 0x00002077 File Offset: 0x00000277
 		[global::Cpp2ILInjected.Token(Token = "0x6000019")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0A7C", Offset = "0x1FF0A7C", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -148,7 +132,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600001A RID: 26 RVA: 0x0000207A File Offset: 0x0000027A
 		[global::Cpp2ILInjected.Token(Token = "0x600001A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0B14", Offset = "0x1FF0B14", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -168,7 +151,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600001B RID: 27 RVA: 0x0000207D File Offset: 0x0000027D
 		[global::Cpp2ILInjected.Token(Token = "0x600001B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0BB0", Offset = "0x1FF0BB0", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -184,8 +166,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x17000007 RID: 7
-		// (set) Token: 0x0600001C RID: 28 RVA: 0x00002080 File Offset: 0x00000280
 		[global::Cpp2ILInjected.Token(Token = "0x17000007")]
 		public Vector2 clippingSoftness
 		{
@@ -201,7 +181,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x0600001D RID: 29
 		[global::Cpp2ILInjected.Token(Token = "0x600001D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0CD4", Offset = "0x1FF0CD4", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.MaskableGraphic", Member = "SetClipRect", MemberParameters = new object[]
@@ -214,7 +193,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void DisableRectClipping();
 
-		// Token: 0x0600001E RID: 30
 		[global::Cpp2ILInjected.Token(Token = "0x600001E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0D10", Offset = "0x1FF0D10", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "UpdateMaterial", ReturnType = typeof(void))]
@@ -223,7 +201,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void SetMaterial(Material material, int index);
 
-		// Token: 0x0600001F RID: 31
 		[global::Cpp2ILInjected.Token(Token = "0x600001F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0D64", Offset = "0x1FF0D64", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Mask", Member = "GetModifiedMaterial", MemberParameters = new object[] { typeof(Material) }, ReturnType = typeof(Material))]
@@ -232,7 +209,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void SetPopMaterial(Material material, int index);
 
-		// Token: 0x06000020 RID: 32
 		[global::Cpp2ILInjected.Token(Token = "0x6000020")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0DB8", Offset = "0x1FF0DB8", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "UpdateMaterial", ReturnType = typeof(void))]
@@ -241,7 +217,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void SetTexture(Texture texture);
 
-		// Token: 0x06000021 RID: 33
 		[global::Cpp2ILInjected.Token(Token = "0x6000021")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0DFC", Offset = "0x1FF0DFC", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "UpdateMaterial", ReturnType = typeof(void))]
@@ -250,7 +225,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void SetAlphaTexture(Texture texture);
 
-		// Token: 0x06000022 RID: 34
 		[global::Cpp2ILInjected.Token(Token = "0x6000022")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0E40", Offset = "0x1FF0E40", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "DoMeshGeneration", ReturnType = typeof(void))]
@@ -262,7 +236,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void SetMesh(Mesh mesh);
 
-		// Token: 0x06000023 RID: 35
 		[global::Cpp2ILInjected.Token(Token = "0x6000023")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0E84", Offset = "0x1FF0E84", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "OnDisable", ReturnType = typeof(void))]
@@ -272,7 +245,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public extern void Clear();
 
-		// Token: 0x06000024 RID: 36 RVA: 0x00002083 File Offset: 0x00000283
 		[global::Cpp2ILInjected.Token(Token = "0x6000024")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0EC0", Offset = "0x1FF0EC0", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -291,7 +263,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000025 RID: 37 RVA: 0x00002086 File Offset: 0x00000286
 		[global::Cpp2ILInjected.Token(Token = "0x6000025")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0FE8", Offset = "0x1FF0FE8", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -303,7 +274,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000026 RID: 38 RVA: 0x00002089 File Offset: 0x00000289
 		[global::Cpp2ILInjected.Token(Token = "0x6000026")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1198", Offset = "0x1FF1198", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.VertexHelper", Member = "GetUIVertexStream", MemberParameters = new object[] { "System.Collections.Generic.List`1<UIVertex>" }, ReturnType = typeof(void))]
@@ -314,7 +284,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000027 RID: 39 RVA: 0x0000208C File Offset: 0x0000028C
 		[global::Cpp2ILInjected.Token(Token = "0x6000027")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF12D0", Offset = "0x1FF12D0", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.VertexHelper", Member = "AddUIVertexStream", MemberParameters = new object[] { "System.Collections.Generic.List`1<UIVertex>", "System.Collections.Generic.List`1<Int32>" }, ReturnType = typeof(void))]
@@ -325,7 +294,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000028 RID: 40
 		[StaticAccessor("UI", StaticAccessorType.DoubleColon)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000028")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1154", Offset = "0x1FF1154", Length = "0x44")]
@@ -334,7 +302,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void SplitIndicesStreamsInternal(object verts, object indices);
 
-		// Token: 0x06000029 RID: 41
 		[StaticAccessor("UI", StaticAccessorType.DoubleColon)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000029")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF10B8", Offset = "0x1FF10B8", Length = "0x9C")]
@@ -343,7 +310,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void SplitUIVertexStreamsInternal(object verts, object positions, object colors, object uv0S, object uv1S, object uv2S, object uv3S, object normals, object tangents);
 
-		// Token: 0x0600002A RID: 42
 		[StaticAccessor("UI", StaticAccessorType.DoubleColon)]
 		[global::Cpp2ILInjected.Token(Token = "0x600002A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1234", Offset = "0x1FF1234", Length = "0x9C")]
@@ -352,7 +318,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void CreateUIVertexStreamInternal(object verts, object positions, object colors, object uv0S, object uv1S, object uv2S, object uv3S, object normals, object tangents, object indices);
 
-		// Token: 0x0600002B RID: 43
 		[global::Cpp2ILInjected.Token(Token = "0x600002B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0AD0", Offset = "0x1FF0AD0", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -360,7 +325,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void SetColor_Injected(ref Color color);
 
-		// Token: 0x0600002C RID: 44
 		[global::Cpp2ILInjected.Token(Token = "0x600002C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0B6C", Offset = "0x1FF0B6C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -368,7 +332,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void GetColor_Injected(out Color ret);
 
-		// Token: 0x0600002D RID: 45
 		[global::Cpp2ILInjected.Token(Token = "0x600002D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0C04", Offset = "0x1FF0C04", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -376,7 +339,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void EnableRectClipping_Injected(ref Rect rect);
 
-		// Token: 0x0600002E RID: 46
 		[global::Cpp2ILInjected.Token(Token = "0x600002E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0C90", Offset = "0x1FF0C90", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -384,7 +346,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void set_clippingSoftness_Injected(ref Vector2 value);
 
-		// Token: 0x04000002 RID: 2
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000002")]

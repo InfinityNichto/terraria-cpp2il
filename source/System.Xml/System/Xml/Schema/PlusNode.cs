@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000A4 RID: 164
 	[global::Cpp2ILInjected.Token(Token = "0x20000CF")]
 	internal sealed class PlusNode : InteriorNode
 	{
-		// Token: 0x060007B3 RID: 1971 RVA: 0x00004574 File Offset: 0x00002774
 		[global::Cpp2ILInjected.Token(Token = "0x6000842")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DB637C", Offset = "0x1DB637C", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -20,8 +18,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x170001DC RID: 476
-		// (get) Token: 0x060007B4 RID: 1972 RVA: 0x00004577 File Offset: 0x00002777
 		[global::Cpp2ILInjected.Token(Token = "0x17000200")]
 		public override bool IsNullable
 		{
@@ -35,7 +31,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x060007B5 RID: 1973 RVA: 0x0000457A File Offset: 0x0000277A
 		[global::Cpp2ILInjected.Token(Token = "0x6000844")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DB6404", Offset = "0x1DB6404", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

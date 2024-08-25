@@ -3,11 +3,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 
-// Token: 0x0200008F RID: 143
 [global::Cpp2ILInjected.Token(Token = "0x20000C9")]
 public class GUIControllerHatRack4Page : GUIControllerHatRack
 {
-	// Token: 0x0600044A RID: 1098 RVA: 0x00022823 File Offset: 0x00020A23
 	[global::Cpp2ILInjected.Token(Token = "0x60004E4")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB19D08", Offset = "0xB19D08", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -16,7 +14,6 @@ public class GUIControllerHatRack4Page : GUIControllerHatRack
 		throw null;
 	}
 
-	// Token: 0x0600044B RID: 1099 RVA: 0x00022826 File Offset: 0x00020A26
 	[global::Cpp2ILInjected.Token(Token = "0x60004E5")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB19D10", Offset = "0xB19D10", Length = "0xA0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -28,7 +25,6 @@ public class GUIControllerHatRack4Page : GUIControllerHatRack
 		throw null;
 	}
 
-	// Token: 0x0600044C RID: 1100 RVA: 0x00022829 File Offset: 0x00020A29
 	[global::Cpp2ILInjected.Token(Token = "0x60004E6")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB19DB0", Offset = "0xB19DB0", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,7 +34,6 @@ public class GUIControllerHatRack4Page : GUIControllerHatRack
 		throw null;
 	}
 
-	// Token: 0x0600044D RID: 1101 RVA: 0x0002282C File Offset: 0x00020A2C
 	[global::Cpp2ILInjected.Token(Token = "0x60004E7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB19DC8", Offset = "0xB19DC8", Length = "0x160")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +51,6 @@ public class GUIControllerHatRack4Page : GUIControllerHatRack
 		throw null;
 	}
 
-	// Token: 0x0600044E RID: 1102 RVA: 0x0002282F File Offset: 0x00020A2F
 	[global::Cpp2ILInjected.Token(Token = "0x60004E8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB19F28", Offset = "0xB19F28", Length = "0x1FC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -92,7 +86,6 @@ public class GUIControllerHatRack4Page : GUIControllerHatRack
 		throw null;
 	}
 
-	// Token: 0x0600044F RID: 1103 RVA: 0x00022832 File Offset: 0x00020A32
 	[global::Cpp2ILInjected.Token(Token = "0x60004E9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xB1A124", Offset = "0xB1A124", Length = "0x24")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

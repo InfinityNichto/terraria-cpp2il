@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 
-// Token: 0x02000070 RID: 112
 [global::Cpp2ILInjected.Token(Token = "0x20000A3")]
 public class GUIControllerRubbleMaker : GUIControllerItem
 {
-	// Token: 0x0600033E RID: 830 RVA: 0x000224FF File Offset: 0x000206FF
 	[global::Cpp2ILInjected.Token(Token = "0x60003D8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA81510", Offset = "0xA81510", Length = "0x84")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -22,7 +20,6 @@ public class GUIControllerRubbleMaker : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x0600033F RID: 831 RVA: 0x00022502 File Offset: 0x00020702
 	[global::Cpp2ILInjected.Token(Token = "0x60003D9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA81594", Offset = "0xA81594", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -31,7 +28,6 @@ public class GUIControllerRubbleMaker : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000340 RID: 832 RVA: 0x00022505 File Offset: 0x00020705
 	[global::Cpp2ILInjected.Token(Token = "0x60003DA")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA8159C", Offset = "0xA8159C", Length = "0x2A4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +43,6 @@ public class GUIControllerRubbleMaker : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000341 RID: 833 RVA: 0x00022508 File Offset: 0x00020708
 	[global::Cpp2ILInjected.Token(Token = "0x60003DB")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA81840", Offset = "0xA81840", Length = "0xE8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +57,6 @@ public class GUIControllerRubbleMaker : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000342 RID: 834 RVA: 0x0002250B File Offset: 0x0002070B
 	[global::Cpp2ILInjected.Token(Token = "0x60003DC")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA81928", Offset = "0xA81928", Length = "0xF0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +71,6 @@ public class GUIControllerRubbleMaker : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000343 RID: 835 RVA: 0x0002250E File Offset: 0x0002070E
 	[global::Cpp2ILInjected.Token(Token = "0x60003DD")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA81A18", Offset = "0xA81A18", Length = "0x380")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -113,7 +106,6 @@ public class GUIControllerRubbleMaker : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x06000344 RID: 836 RVA: 0x00022511 File Offset: 0x00020711
 	[global::Cpp2ILInjected.Token(Token = "0x60003DE")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA81D98", Offset = "0xA81D98", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIRubbleMaker), Member = ".ctor", ReturnType = typeof(void))]
@@ -124,42 +116,34 @@ public class GUIControllerRubbleMaker : GUIControllerItem
 		throw null;
 	}
 
-	// Token: 0x04000280 RID: 640
 	[global::Cpp2ILInjected.Token(Token = "0x40003BE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private bool wasInFilterGrid;
 
-	// Token: 0x04000281 RID: 641
 	[global::Cpp2ILInjected.Token(Token = "0x40003BF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private int filterGridRow;
 
-	// Token: 0x04000282 RID: 642
 	[global::Cpp2ILInjected.Token(Token = "0x40003C0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int filterGridCol;
 
-	// Token: 0x04000283 RID: 643
 	[global::Cpp2ILInjected.Token(Token = "0x40003C1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private bool inGrid;
 
-	// Token: 0x04000284 RID: 644
 	[global::Cpp2ILInjected.Token(Token = "0x40003C2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private int gridRow;
 
-	// Token: 0x04000285 RID: 645
 	[global::Cpp2ILInjected.Token(Token = "0x40003C3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private int gridCol;
 
-	// Token: 0x04000286 RID: 646
 	[global::Cpp2ILInjected.Token(Token = "0x40003C4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private bool filterButton;
 
-	// Token: 0x04000287 RID: 647
 	[global::Cpp2ILInjected.Token(Token = "0x40003C5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x29")]
 	private bool sizeButton;

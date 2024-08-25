@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000045 RID: 69
 	[global::Cpp2ILInjected.Token(Token = "0x2000096")]
 	internal class UncNameHelper
 	{
-		// Token: 0x06000229 RID: 553 RVA: 0x00003446 File Offset: 0x00001646
 		[global::Cpp2ILInjected.Token(Token = "0x60002B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EA6EFC", Offset = "0x1EA6EFC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Uri), Member = "CreateHostStringHelper", MemberParameters = new object[]
@@ -32,7 +30,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600022A RID: 554 RVA: 0x00003449 File Offset: 0x00001649
 		[global::Cpp2ILInjected.Token(Token = "0x60002B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EA6F00", Offset = "0x1EA6F00", Length = "0x2D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -8,11 +8,9 @@ using UnityEngine;
 
 namespace Terraria.WorldBuilding
 {
-	// Token: 0x0200036B RID: 875
 	[global::Cpp2ILInjected.Token(Token = "0x20004EB")]
 	public class WorldGenConfiguration : GameConfiguration
 	{
-		// Token: 0x06002C75 RID: 11381 RVA: 0x00029F84 File Offset: 0x00028184
 		[global::Cpp2ILInjected.Token(Token = "0x6003083")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FE208", Offset = "0x12FE208", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -27,7 +25,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C76 RID: 11382 RVA: 0x00029F87 File Offset: 0x00028187
 		[global::Cpp2ILInjected.Token(Token = "0x6003084")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A46B4", Offset = "0x15A46B4", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -75,7 +72,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C77 RID: 11383 RVA: 0x00029F8A File Offset: 0x0002818A
 		[global::Cpp2ILInjected.Token(Token = "0x6003085")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A4744", Offset = "0x15A4744", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -91,7 +87,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C78 RID: 11384 RVA: 0x00029F8D File Offset: 0x0002818D
 		[global::Cpp2ILInjected.Token(Token = "0x6003086")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FE354", Offset = "0x12FE354", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -110,7 +105,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C79 RID: 11385 RVA: 0x00029F90 File Offset: 0x00028190
 		[global::Cpp2ILInjected.Token(Token = "0x6003087")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FE450", Offset = "0x12FE450", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -122,7 +116,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C7A RID: 11386 RVA: 0x00029F93 File Offset: 0x00028193
 		[global::Cpp2ILInjected.Token(Token = "0x6003088")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FE4DC", Offset = "0x12FE4DC", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "GenerateWorld", MemberParameters = new object[]
@@ -149,17 +142,14 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x04003175 RID: 12661
 		[global::Cpp2ILInjected.Token(Token = "0x4003A93")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly JObject _biomeRoot;
 
-		// Token: 0x04003176 RID: 12662
 		[global::Cpp2ILInjected.Token(Token = "0x4003A94")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private readonly JObject _passRoot;
 
-		// Token: 0x04003177 RID: 12663
 		[global::Cpp2ILInjected.Token(Token = "0x4003A95")]
 		private static string resource;
 	}

@@ -1,9 +1,0 @@
-<map id="System.RuntimeType" name="System.RuntimeType">
-<area shape="rect" id="Node000001" title=" " alt="" coords="73,133,530,5424"/>
-<area shape="rect" id="Node000002" href="$dc/d8f/classglobal_1_1SystemReflection_1_1TypeInfo.html" title=" " alt="" coords="5,5,181,85"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,99,103,133,97,133,95,100"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="206,5,397,85"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,99,304,133,299,133,299,99"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="421,13,601,78"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="510,92,507,133,501,133,505,92"/>
-</map>

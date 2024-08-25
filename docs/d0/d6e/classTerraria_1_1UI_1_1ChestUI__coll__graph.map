@@ -1,7 +1,0 @@
-<map id="Terraria.UI.ChestUI" name="Terraria.UI.ChestUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,243,788"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="11,5,53,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,71,36,138,37,146,32,147,31,139,28,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="196,5,239,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,72,197,147,192,146,208,70"/>
-</map>

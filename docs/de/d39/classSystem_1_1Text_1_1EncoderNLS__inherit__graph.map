@@ -1,9 +1,0 @@
-<map id="System.Text.EncoderNLS" name="System.Text.EncoderNLS">
-<area shape="rect" id="Node000001" title=" " alt="" coords="73,705,359,1379"/>
-<area shape="rect" id="Node000003" href="$d5/d15/classSystem_1_1Text_1_1UTF7Encoding_1_1Encoder.html" title=" " alt="" coords="5,1427,200,1581"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,1393,124,1427,119,1426,127,1391"/>
-<area shape="rect" id="Node000004" href="$d3/d64/classSystem_1_1Text_1_1UTF8Encoding_1_1UTF8Encoder.html" title=" " alt="" coords="224,1437,437,1571"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="306,1391,317,1436,311,1437,300,1393"/>
-<area shape="rect" id="Node000002" href="$d3/d4c/classSystem_1_1Text_1_1Encoder.html" title=" " alt="" coords="73,5,359,657"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,671,219,705,213,705,213,671"/>
-</map>

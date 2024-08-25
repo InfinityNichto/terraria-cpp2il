@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Numerics.Hashing
 {
-	// Token: 0x02000468 RID: 1128
 	[global::Cpp2ILInjected.Token(Token = "0x200052E")]
 	internal static class HashHelpers
 	{
-		// Token: 0x06002486 RID: 9350 RVA: 0x0001AA9E File Offset: 0x00018C9E
 		[global::Cpp2ILInjected.Token(Token = "0x600272A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95944", Offset = "0x1B95944", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +74,6 @@ namespace System.Numerics.Hashing
 			throw null;
 		}
 
-		// Token: 0x06002487 RID: 9351 RVA: 0x0001AAA1 File Offset: 0x00018CA1
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600272B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95954", Offset = "0x1B95954", Length = "0x88")]
@@ -89,7 +86,6 @@ namespace System.Numerics.Hashing
 			throw null;
 		}
 
-		// Token: 0x04001244 RID: 4676
 		[global::Cpp2ILInjected.Token(Token = "0x4001564")]
 		public static readonly int RandomSeed;
 	}

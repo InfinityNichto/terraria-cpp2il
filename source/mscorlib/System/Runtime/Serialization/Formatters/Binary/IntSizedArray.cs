@@ -4,12 +4,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Serialization.Formatters.Binary
 {
-	// Token: 0x0200037C RID: 892
 	[global::Cpp2ILInjected.Token(Token = "0x2000426")]
 	[global::System.Serializable]
 	internal sealed class IntSizedArray : global::System.ICloneable
 	{
-		// Token: 0x06001EEE RID: 7918 RVA: 0x00019BD1 File Offset: 0x00017DD1
 		[global::Cpp2ILInjected.Token(Token = "0x600212F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B686D0", Offset = "0x1B686D0", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ObjectReader), Member = "GetId", MemberParameters = new object[] { typeof(long) }, ReturnType = typeof(long))]
@@ -21,7 +19,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x06001EEF RID: 7919 RVA: 0x00019BD4 File Offset: 0x00017DD4
 		[global::Cpp2ILInjected.Token(Token = "0x6002130")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B6F05C", Offset = "0x1B6F05C", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IntSizedArray), Member = "Clone", ReturnType = typeof(object))]
@@ -38,7 +35,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x06001EF0 RID: 7920 RVA: 0x00019BD7 File Offset: 0x00017DD7
 		[global::Cpp2ILInjected.Token(Token = "0x6002131")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B6F120", Offset = "0x1B6F120", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -49,7 +45,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x170003F4 RID: 1012
 		[global::Cpp2ILInjected.Token(Token = "0x17000452")]
 		internal int this[int index]
 		{
@@ -73,7 +68,6 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			}
 		}
 
-		// Token: 0x06001EF3 RID: 7923 RVA: 0x00019BE0 File Offset: 0x00017DE0
 		[global::Cpp2ILInjected.Token(Token = "0x6002134")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B6F178", Offset = "0x1B6F178", Length = "0x1F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,12 +98,10 @@ namespace System.Runtime.Serialization.Formatters.Binary
 			throw null;
 		}
 
-		// Token: 0x04000EBD RID: 3773
 		[global::Cpp2ILInjected.Token(Token = "0x40011B2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal int[] objects;
 
-		// Token: 0x04000EBE RID: 3774
 		[global::Cpp2ILInjected.Token(Token = "0x40011B3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		internal int[] negObjects;

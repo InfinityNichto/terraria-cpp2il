@@ -1,9 +1,0 @@
-<map id="UnityEngine.UI.ILayoutSelfController" name="UnityEngine.UI.ILayoutSelfController">
-<area shape="rect" id="Node000001" title=" " alt="" coords="172,139,360,219"/>
-<area shape="rect" id="Node000003" href="$db/d29/classUnityEngine_1_1UI_1_1AspectRatioFitter.html" title=" " alt="" coords="5,267,255,895"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,233,239,267,234,266,246,231"/>
-<area shape="rect" id="Node000004" href="$db/d44/classUnityEngine_1_1UI_1_1ContentSizeFitter.html" title=" " alt="" coords="279,359,528,802"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,231,330,358,325,360,281,233"/>
-<area shape="rect" id="Node000002" href="$da/d76/interfaceUnityEngine_1_1UI_1_1ILayoutController.html" title=" " alt="" coords="165,5,367,91"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,105,269,139,263,139,263,105"/>
-</map>

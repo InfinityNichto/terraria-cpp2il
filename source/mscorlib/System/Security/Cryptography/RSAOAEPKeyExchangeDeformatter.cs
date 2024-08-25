@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000258 RID: 600
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002F5")]
 	public class RSAOAEPKeyExchangeDeformatter : AsymmetricKeyExchangeDeformatter
 	{
-		// Token: 0x0600178C RID: 6028 RVA: 0x00018734 File Offset: 0x00016934
 		[global::Cpp2ILInjected.Token(Token = "0x60019A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0BE3C", Offset = "0x1B0BE3C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,7 +18,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600178D RID: 6029 RVA: 0x00018737 File Offset: 0x00016937
 		[global::Cpp2ILInjected.Token(Token = "0x60019A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0A850", Offset = "0x1B0A850", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,9 +35,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x1700026C RID: 620
-		// (get) Token: 0x0600178E RID: 6030 RVA: 0x0001873A File Offset: 0x0001693A
-		// (set) Token: 0x0600178F RID: 6031 RVA: 0x0001873D File Offset: 0x0001693D
 		[global::Cpp2ILInjected.Token(Token = "0x170002C2")]
 		public override string Parameters
 		{
@@ -60,7 +54,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x06001790 RID: 6032 RVA: 0x00018740 File Offset: 0x00016940
 		[global::Cpp2ILInjected.Token(Token = "0x60019AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0BE50", Offset = "0x1B0BE50", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -82,7 +75,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001791 RID: 6033 RVA: 0x00018743 File Offset: 0x00016943
 		[global::Cpp2ILInjected.Token(Token = "0x60019AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0C26C", Offset = "0x1B0C26C", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -94,8 +86,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x1700026D RID: 621
-		// (get) Token: 0x06001792 RID: 6034 RVA: 0x00018746 File Offset: 0x00016946
 		[global::Cpp2ILInjected.Token(Token = "0x170002C3")]
 		private bool OverridesDecrypt
 		{
@@ -120,12 +110,10 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x04000A2D RID: 2605
 		[global::Cpp2ILInjected.Token(Token = "0x4000D07")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private RSA _rsaKey;
 
-		// Token: 0x04000A2E RID: 2606
 		[global::Cpp2ILInjected.Token(Token = "0x4000D08")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private bool? _rsaOverridesDecrypt;

@@ -5,13 +5,10 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine.Rendering
 {
-	// Token: 0x020000E4 RID: 228
 	[RequiredByNativeCode]
 	[global::Cpp2ILInjected.Token(Token = "0x2000104")]
 	public class OnDemandRendering
 	{
-		// Token: 0x17000113 RID: 275
-		// (get) Token: 0x06000527 RID: 1319 RVA: 0x00002B60 File Offset: 0x00000D60
 		[global::Cpp2ILInjected.Token(Token = "0x17000117")]
 		public static int renderFrameInterval
 		{
@@ -26,7 +23,6 @@ namespace UnityEngine.Rendering
 			}
 		}
 
-		// Token: 0x06000528 RID: 1320 RVA: 0x00002B63 File Offset: 0x00000D63
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000557")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8A0C4", Offset = "0x1F8A0C4", Length = "0x58")]
@@ -38,7 +34,6 @@ namespace UnityEngine.Rendering
 			throw null;
 		}
 
-		// Token: 0x06000529 RID: 1321 RVA: 0x00002B66 File Offset: 0x00000D66
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000558")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F8A11C", Offset = "0x1F8A11C", Length = "0x4C")]
@@ -49,7 +44,6 @@ namespace UnityEngine.Rendering
 			throw null;
 		}
 
-		// Token: 0x040003E8 RID: 1000
 		[global::Cpp2ILInjected.Token(Token = "0x400042E")]
 		private static int m_RenderFrameInterval;
 	}

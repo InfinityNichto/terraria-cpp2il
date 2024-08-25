@@ -3,6 +3,7 @@ using System.Collections;
 using System.Diagnostics;
 using System.Globalization;
 using System.Runtime.Remoting;
+using System.Runtime.Remoting.Activation;
 using System.Runtime.Remoting.Messaging;
 using System.Runtime.Remoting.Proxies;
 using System.Runtime.Serialization;
@@ -13,12 +14,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Reflection
 {
-	// Token: 0x0200041E RID: 1054
 	[global::Cpp2ILInjected.Token(Token = "0x20004DD")]
 	[global::System.Serializable]
 	public abstract class MethodBase : MemberInfo
 	{
-		// Token: 0x0600212C RID: 8492 RVA: 0x0001A1B6 File Offset: 0x000183B6
 		[global::Cpp2ILInjected.Token(Token = "0x60023C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B80824", Offset = "0x1B80824", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -28,12 +27,9 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x0600212D RID: 8493
 		[global::Cpp2ILInjected.Token(Token = "0x60023C7")]
 		public abstract ParameterInfo[] GetParameters();
 
-		// Token: 0x17000438 RID: 1080
-		// (get) Token: 0x0600212E RID: 8494
 		[global::Cpp2ILInjected.Token(Token = "0x170004B0")]
 		public abstract MethodAttributes Attributes
 		{
@@ -41,11 +37,9 @@ namespace System.Reflection
 			get;
 		}
 
-		// Token: 0x0600212F RID: 8495
 		[global::Cpp2ILInjected.Token(Token = "0x60023C9")]
 		public abstract MethodImplAttributes GetMethodImplementationFlags();
 
-		// Token: 0x06002130 RID: 8496 RVA: 0x0001A1B9 File Offset: 0x000183B9
 		[global::Cpp2ILInjected.Token(Token = "0x60023CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B8269C", Offset = "0x1B8269C", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -56,8 +50,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x17000439 RID: 1081
-		// (get) Token: 0x06002131 RID: 8497 RVA: 0x0001A1BC File Offset: 0x000183BC
 		[global::Cpp2ILInjected.Token(Token = "0x170004B1")]
 		public virtual CallingConventions CallingConvention
 		{
@@ -70,8 +62,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x1700043A RID: 1082
-		// (get) Token: 0x06002132 RID: 8498 RVA: 0x0001A1BF File Offset: 0x000183BF
 		[global::Cpp2ILInjected.Token(Token = "0x170004B2")]
 		public bool IsAbstract
 		{
@@ -96,8 +86,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x1700043B RID: 1083
-		// (get) Token: 0x06002133 RID: 8499 RVA: 0x0001A1C2 File Offset: 0x000183C2
 		[global::Cpp2ILInjected.Token(Token = "0x170004B3")]
 		public bool IsConstructor
 		{
@@ -120,8 +108,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x1700043C RID: 1084
-		// (get) Token: 0x06002134 RID: 8500 RVA: 0x0001A1C5 File Offset: 0x000183C5
 		[global::Cpp2ILInjected.Token(Token = "0x170004B4")]
 		public bool IsStatic
 		{
@@ -174,8 +160,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x1700043D RID: 1085
-		// (get) Token: 0x06002135 RID: 8501 RVA: 0x0001A1C8 File Offset: 0x000183C8
 		[global::Cpp2ILInjected.Token(Token = "0x170004B5")]
 		public bool IsVirtual
 		{
@@ -211,8 +195,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x1700043E RID: 1086
-		// (get) Token: 0x06002136 RID: 8502 RVA: 0x0001A1CB File Offset: 0x000183CB
 		[global::Cpp2ILInjected.Token(Token = "0x170004B6")]
 		public bool IsPublic
 		{
@@ -252,8 +234,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x1700043F RID: 1087
-		// (get) Token: 0x06002137 RID: 8503 RVA: 0x0001A1CE File Offset: 0x000183CE
 		[global::Cpp2ILInjected.Token(Token = "0x170004B7")]
 		public virtual bool IsGenericMethod
 		{
@@ -266,8 +246,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x17000440 RID: 1088
-		// (get) Token: 0x06002138 RID: 8504 RVA: 0x0001A1D1 File Offset: 0x000183D1
 		[global::Cpp2ILInjected.Token(Token = "0x170004B8")]
 		public virtual bool IsGenericMethodDefinition
 		{
@@ -280,7 +258,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x06002139 RID: 8505 RVA: 0x0001A1D4 File Offset: 0x000183D4
 		[global::Cpp2ILInjected.Token(Token = "0x60023D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82818", Offset = "0x1B82818", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -291,8 +268,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x17000441 RID: 1089
-		// (get) Token: 0x0600213A RID: 8506 RVA: 0x0001A1D7 File Offset: 0x000183D7
 		[global::Cpp2ILInjected.Token(Token = "0x170004B9")]
 		public virtual bool ContainsGenericParameters
 		{
@@ -305,11 +280,91 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x0600213B RID: 8507 RVA: 0x0001A1DA File Offset: 0x000183DA
 		[global::System.Diagnostics.DebuggerHidden]
 		[global::System.Diagnostics.DebuggerStepThrough]
 		[global::Cpp2ILInjected.Token(Token = "0x60023D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B8286C", Offset = "0x1B8286C", Length = "0x20")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "LayoutDefinition", Member = "LoadReleaseLayout", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashWatcher", Member = "PrintException", MemberParameters = new object[] { typeof(global::System.Exception) }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Activation.ActivationServices), Member = "CreateInstanceFromMessage", MemberParameters = new object[] { typeof(global::System.Runtime.Remoting.Activation.IConstructionCallMessage) }, ReturnType = typeof(global::System.Runtime.Remoting.Messaging.IMessage))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RuntimeConstructorInfo), Member = "SerializationInvoke", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(global::System.Runtime.Serialization.SerializationInfo),
+			typeof(global::System.Runtime.Serialization.StreamingContext)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.SecurityUtils", Member = "MethodInfoInvoke", MemberParameters = new object[]
+		{
+			typeof(MethodInfo),
+			typeof(object),
+			"System.Object[]"
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectEventDescriptor", Member = "AddEventHandler", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(global::System.Delegate)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectEventDescriptor", Member = "RemoveEventHandler", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(global::System.Delegate)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ExtenderCanResetValue", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IExtenderProvider",
+			typeof(object)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ExtenderGetValue", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IExtenderProvider",
+			typeof(object)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ExtenderResetValue", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IExtenderProvider",
+			typeof(object),
+			"System.ComponentModel.PropertyDescriptor"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ExtenderSetValue", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IExtenderProvider",
+			typeof(object),
+			typeof(object),
+			"System.ComponentModel.PropertyDescriptor"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ExtenderShouldSerializeValue", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IExtenderProvider",
+			typeof(object)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "CanResetValue", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ReflectPropertyDescriptor", Member = "ShouldSerializeValue", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.Design.Serialization.InstanceDescriptor", Member = "Invoke", ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.LateBoundReflectionDelegateFactory.<>c__DisplayClass3_0", Member = "<CreateParameterizedConstructor>b__1", MemberParameters = new object[] { "System.Object[]" }, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.LateBoundReflectionDelegateFactory.<>c__DisplayClass4_0`1", Member = "<CreateMethodCall>b__1", MemberParameters = new object[] { "T", "System.Object[]" }, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass73_0", Member = "<CreateSerializationCallback>b__0", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(global::System.Runtime.Serialization.StreamingContext)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass74_0", Member = "<CreateSerializationErrorCallback>b__0", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(global::System.Runtime.Serialization.StreamingContext),
+			"Newtonsoft.Json.Serialization.ErrorContext"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Converters.HashSetConverter", Member = "ReadJson", MemberParameters = new object[]
+		{
+			"Newtonsoft.Json.JsonReader",
+			typeof(global::System.Type),
+			typeof(object),
+			"Newtonsoft.Json.JsonSerializer"
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.AndroidJavaProxy", Member = "Invoke", MemberParameters = new object[]
+		{
+			typeof(string),
+			"System.Object[]"
+		}, ReturnType = "UnityEngine.AndroidJavaObject")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 23)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
 		public object Invoke(object obj, object[] parameters)
@@ -317,12 +372,9 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x0600213C RID: 8508
 		[global::Cpp2ILInjected.Token(Token = "0x60023D6")]
 		public abstract object Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, global::System.Globalization.CultureInfo culture);
 
-		// Token: 0x17000442 RID: 1090
-		// (get) Token: 0x0600213D RID: 8509
 		[global::Cpp2ILInjected.Token(Token = "0x170004BA")]
 		public abstract global::System.RuntimeMethodHandle MethodHandle
 		{
@@ -330,8 +382,6 @@ namespace System.Reflection
 			get;
 		}
 
-		// Token: 0x17000443 RID: 1091
-		// (get) Token: 0x0600213E RID: 8510 RVA: 0x0001A1DD File Offset: 0x000183DD
 		[global::Cpp2ILInjected.Token(Token = "0x170004BB")]
 		public virtual bool IsSecurityCritical
 		{
@@ -346,7 +396,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x0600213F RID: 8511 RVA: 0x0001A1E0 File Offset: 0x000183E0
 		[global::Cpp2ILInjected.Token(Token = "0x60023D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B8085C", Offset = "0x1B8085C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -356,7 +405,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002140 RID: 8512 RVA: 0x0001A1E3 File Offset: 0x000183E3
 		[global::Cpp2ILInjected.Token(Token = "0x60023DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B8086C", Offset = "0x1B8086C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -366,7 +414,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002141 RID: 8513 RVA: 0x0001A1E6 File Offset: 0x000183E6
 		[global::Cpp2ILInjected.Token(Token = "0x60023DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82468", Offset = "0x1B82468", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -441,7 +488,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002142 RID: 8514 RVA: 0x0001A1E9 File Offset: 0x000183E9
 		[global::Cpp2ILInjected.Token(Token = "0x60023DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82450", Offset = "0x1B82450", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -486,7 +532,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002143 RID: 8515 RVA: 0x0001A1EC File Offset: 0x000183EC
 		[global::Cpp2ILInjected.Token(Token = "0x60023DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B8291C", Offset = "0x1B8291C", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -496,7 +541,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002144 RID: 8516 RVA: 0x0001A1EF File Offset: 0x000183EF
 		[global::Cpp2ILInjected.Token(Token = "0x60023DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B8292C", Offset = "0x1B8292C", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -506,7 +550,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002145 RID: 8517 RVA: 0x0001A1F2 File Offset: 0x000183F2
 		[global::Cpp2ILInjected.Token(Token = "0x60023DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B8294C", Offset = "0x1B8294C", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -525,7 +568,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002146 RID: 8518 RVA: 0x0001A1F5 File Offset: 0x000183F5
 		[global::Cpp2ILInjected.Token(Token = "0x60023E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82C3C", Offset = "0x1B82C3C", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -536,7 +578,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002147 RID: 8519 RVA: 0x0001A1F8 File Offset: 0x000183F8
 		[global::Cpp2ILInjected.Token(Token = "0x60023E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82D1C", Offset = "0x1B82D1C", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -546,7 +587,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002148 RID: 8520 RVA: 0x0001A1FB File Offset: 0x000183FB
 		[global::Cpp2ILInjected.Token(Token = "0x60023E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82D2C", Offset = "0x1B82D2C", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -588,7 +628,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002149 RID: 8521 RVA: 0x0001A1FE File Offset: 0x000183FE
 		[global::Cpp2ILInjected.Token(Token = "0x60023E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B82A70", Offset = "0x1B82A70", Length = "0x1CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

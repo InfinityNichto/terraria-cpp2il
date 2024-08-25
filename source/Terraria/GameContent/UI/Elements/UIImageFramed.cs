@@ -5,17 +5,17 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using ReLogic.Content;
+using Terraria.Achievements;
+using Terraria.DataStructures;
+using Terraria.GameContent.Bestiary;
+using Terraria.GameContent.Creative;
 using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006D7 RID: 1751
 	[global::Cpp2ILInjected.Token(Token = "0x2000ABB")]
 	public class UIImageFramed : UIElement, IColorable
 	{
-		// Token: 0x170007C4 RID: 1988
-		// (get) Token: 0x0600449B RID: 17563 RVA: 0x0002E472 File Offset: 0x0002C672
-		// (set) Token: 0x0600449C RID: 17564 RVA: 0x0002E475 File Offset: 0x0002C675
 		[global::Cpp2ILInjected.Token(Token = "0x170008C5")]
 		public Color Color
 		{
@@ -37,10 +37,40 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x0600449D RID: 17565 RVA: 0x0002E478 File Offset: 0x0002C678
 		[global::Cpp2ILInjected.Token(Token = "0x60050EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92A138", Offset = "0x92A138", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Filters.BySearch), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Filters.ByUnlockState), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Filters.ByRareCreature), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Filters.ByBoss), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FilterProviderInfoElement), Member = "GetFilterImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowersHelper), Member = "GetIconImage", MemberParameters = new object[] { typeof(Point) }, ReturnType = typeof(UIImageFramed))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.BySearch), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.BuildingBlock), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.Furniture), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.Tools), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.Weapon), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.Armor), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.Vanity), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.Accessories), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.MiscAccessories), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.Consumables), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.GameplayItems), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.MiscFallback), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemFilters.Materials), Member = "GetImage", ReturnType = typeof(UIElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIAchievementListItem), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(Achievement),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIBestiaryFilteringOptionsGrid), Member = "UpdateAvailability", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UICreativeItemsInfiniteFilteringOptions), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(EntryFilterer<Item, IItemEntryFilter>),
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UICreativeInfiniteItemsDisplay), Member = "BuildSacrificeMenuContents", MemberParameters = new object[] { typeof(UIElement) }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 23)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(UIElement), Member = ".ctor", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(StyleDimension), Member = "Set", MemberParameters = new object[]
@@ -54,7 +84,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600449E RID: 17566 RVA: 0x0002E47B File Offset: 0x0002C67B
 		[global::Cpp2ILInjected.Token(Token = "0x60050F0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92A21C", Offset = "0x92A21C", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -69,7 +98,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600449F RID: 17567 RVA: 0x0002E47E File Offset: 0x0002C67E
 		[global::Cpp2ILInjected.Token(Token = "0x60050F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92A268", Offset = "0x92A268", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -94,7 +122,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060044A0 RID: 17568 RVA: 0x0002E481 File Offset: 0x0002C681
 		[global::Cpp2ILInjected.Token(Token = "0x60050F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92A2B0", Offset = "0x92A2B0", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UICreativeItemsInfiniteFilteringOptions), Member = "UpdateVisuals", MemberParameters = new object[]
@@ -127,7 +154,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060044A1 RID: 17569 RVA: 0x0002E484 File Offset: 0x0002C684
 		[global::Cpp2ILInjected.Token(Token = "0x60050F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92A37C", Offset = "0x92A37C", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -147,17 +173,14 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04007066 RID: 28774
 		[global::Cpp2ILInjected.Token(Token = "0x40089AD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private Asset<Texture2D> _texture;
 
-		// Token: 0x04007067 RID: 28775
 		[global::Cpp2ILInjected.Token(Token = "0x40089AE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private Rectangle _frame;
 
-		// Token: 0x04007068 RID: 28776
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40089AF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x160")]

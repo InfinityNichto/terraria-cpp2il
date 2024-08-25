@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000A9 RID: 169
 	[global::Cpp2ILInjected.Token(Token = "0x2000106")]
 	public class X509Certificate2Collection : X509CertificateCollection
 	{
-		// Token: 0x0600052C RID: 1324 RVA: 0x00003D0D File Offset: 0x00001F0D
 		[global::Cpp2ILInjected.Token(Token = "0x60005D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED3F14", Offset = "0x1ED3F14", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509Store), Member = "get_Certificates", ReturnType = typeof(X509Certificate2Collection))]
@@ -21,7 +19,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x0600052D RID: 1325 RVA: 0x00003D10 File Offset: 0x00001F10
 		[global::Cpp2ILInjected.Token(Token = "0x60005D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED3F24", Offset = "0x1ED3F24", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -31,7 +28,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x17000122 RID: 290
 		[global::Cpp2ILInjected.Token(Token = "0x17000128")]
 		public X509Certificate2 this[int index]
 		{
@@ -52,7 +48,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x0600052F RID: 1327 RVA: 0x00003D16 File Offset: 0x00001F16
 		[global::Cpp2ILInjected.Token(Token = "0x60005D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED40D0", Offset = "0x1ED40D0", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509Certificate2Collection), Member = "Find", MemberParameters = new object[]
@@ -71,7 +66,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000530 RID: 1328 RVA: 0x00003D19 File Offset: 0x00001F19
 		[MonoTODO("Method isn't transactional (like documented)")]
 		[global::Cpp2ILInjected.Token(Token = "0x60005D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED3F50", Offset = "0x1ED3F50", Length = "0x68")]
@@ -87,7 +81,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000531 RID: 1329 RVA: 0x00003D1C File Offset: 0x00001F1C
 		[global::Cpp2ILInjected.Token(Token = "0x60005D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED4138", Offset = "0x1ED4138", Length = "0x334")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +93,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000532 RID: 1330 RVA: 0x00003D1F File Offset: 0x00001F1F
 		[global::Cpp2ILInjected.Token(Token = "0x60005D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED446C", Offset = "0x1ED446C", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -127,7 +119,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000533 RID: 1331 RVA: 0x00003D22 File Offset: 0x00001F22
 		[MonoTODO("Does not support X509FindType.FindByTemplateName, FindByApplicationPolicy and FindByCertificatePolicy")]
 		[global::Cpp2ILInjected.Token(Token = "0x60005D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED4524", Offset = "0x1ED4524", Length = "0xECC")]
@@ -223,7 +214,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000534 RID: 1332 RVA: 0x00003D25 File Offset: 0x00001F25
 		[global::Cpp2ILInjected.Token(Token = "0x60005D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED53F0", Offset = "0x1ED53F0", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509ChainImplMono), Member = "SelectBestFromCollection", MemberParameters = new object[]
@@ -239,7 +229,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000535 RID: 1333 RVA: 0x00003D28 File Offset: 0x00001F28
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60005DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED54FC", Offset = "0x1ED54FC", Length = "0xA0")]
@@ -251,7 +240,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x04000394 RID: 916
 		[global::Cpp2ILInjected.Token(Token = "0x40004FD")]
 		private static string[] newline_split;
 	}

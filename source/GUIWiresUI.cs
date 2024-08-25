@@ -10,11 +10,9 @@ using Terraria.GameContent.UI;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x02000107 RID: 263
 [global::Cpp2ILInjected.Token(Token = "0x2000178")]
 public class GUIWiresUI
 {
-	// Token: 0x060009AC RID: 2476 RVA: 0x00023849 File Offset: 0x00021A49
 	[global::Cpp2ILInjected.Token(Token = "0x6000AAC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99D27C", Offset = "0x99D27C", Length = "0x17C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -33,7 +31,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009AD RID: 2477 RVA: 0x0002384C File Offset: 0x00021A4C
 	[global::Cpp2ILInjected.Token(Token = "0x6000AAD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99D58C", Offset = "0x99D58C", Length = "0x228")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -58,7 +55,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009AE RID: 2478 RVA: 0x0002384F File Offset: 0x00021A4F
 	[global::Cpp2ILInjected.Token(Token = "0x6000AAE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99D8EC", Offset = "0x99D8EC", Length = "0x288")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +75,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009AF RID: 2479 RVA: 0x00023852 File Offset: 0x00021A52
 	[global::Cpp2ILInjected.Token(Token = "0x6000AAF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99DED4", Offset = "0x99DED4", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -88,7 +83,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B0 RID: 2480 RVA: 0x00023855 File Offset: 0x00021A55
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99DEDC", Offset = "0x99DEDC", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -97,7 +91,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B1 RID: 2481 RVA: 0x00023858 File Offset: 0x00021A58
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99DEE4", Offset = "0x99DEE4", Length = "0x4AC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -146,7 +139,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B2 RID: 2482 RVA: 0x0002385B File Offset: 0x00021A5B
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99D7B4", Offset = "0x99D7B4", Length = "0x138")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -163,7 +155,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B3 RID: 2483 RVA: 0x0002385E File Offset: 0x00021A5E
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99E390", Offset = "0x99E390", Length = "0x6C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawInterface_9_WireSelection", ReturnType = typeof(void))]
@@ -176,7 +167,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B4 RID: 2484 RVA: 0x00023861 File Offset: 0x00021A61
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99ED14", Offset = "0x99ED14", Length = "0x558")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -253,7 +243,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B5 RID: 2485 RVA: 0x00023864 File Offset: 0x00021A64
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99F26C", Offset = "0x99F26C", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -262,7 +251,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B6 RID: 2486 RVA: 0x00023867 File Offset: 0x00021A67
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99E3FC", Offset = "0x99E3FC", Length = "0x918")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -338,7 +326,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B7 RID: 2487 RVA: 0x0002386A File Offset: 0x00021A6A
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99DB74", Offset = "0x99DB74", Length = "0xD8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -357,7 +344,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B8 RID: 2488 RVA: 0x0002386D File Offset: 0x00021A6D
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99F270", Offset = "0x99F270", Length = "0x170")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "SecondaryUpdateCursor", MemberParameters = new object[] { typeof(global::Cursor) }, ReturnType = typeof(void))]
@@ -378,7 +364,6 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x060009B9 RID: 2489 RVA: 0x00023870 File Offset: 0x00021A70
 	[global::Cpp2ILInjected.Token(Token = "0x6000AB9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99DC4C", Offset = "0x99DC4C", Length = "0x288")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -409,42 +394,34 @@ public class GUIWiresUI
 		throw null;
 	}
 
-	// Token: 0x04000833 RID: 2099
 	[global::Cpp2ILInjected.Token(Token = "0x4000B0A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private int hoverItem;
 
-	// Token: 0x04000834 RID: 2100
 	[global::Cpp2ILInjected.Token(Token = "0x4000B0B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	public Microsoft.Xna.Framework.Vector2 PopupPosition;
 
-	// Token: 0x04000835 RID: 2101
 	[global::Cpp2ILInjected.Token(Token = "0x4000B0C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float[] ButtonScales;
 
-	// Token: 0x04000836 RID: 2102
 	[global::Cpp2ILInjected.Token(Token = "0x4000B0D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private float TimeSinceChange;
 
-	// Token: 0x04000837 RID: 2103
 	[global::Cpp2ILInjected.Token(Token = "0x4000B0E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	private float ToggleButtonScale;
 
-	// Token: 0x04000838 RID: 2104
 	[global::Cpp2ILInjected.Token(Token = "0x4000B0F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public bool DisplayOptions;
 
-	// Token: 0x04000839 RID: 2105
 	[global::Cpp2ILInjected.Token(Token = "0x4000B10")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	public GUIControllerWiresUI _controller;
 
-	// Token: 0x0400083A RID: 2106
 	[global::Cpp2ILInjected.Token(Token = "0x4000B11")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	public GUIInputRegionExclusive PickingInterceptor;

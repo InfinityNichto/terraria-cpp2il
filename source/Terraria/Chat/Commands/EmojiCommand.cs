@@ -7,12 +7,10 @@ using Terraria.Localization;
 
 namespace Terraria.Chat.Commands
 {
-	// Token: 0x02000535 RID: 1333
 	[ChatCommand("Emoji")]
 	[global::Cpp2ILInjected.Token(Token = "0x20007A2")]
 	public class EmojiCommand : IChatCommand
 	{
-		// Token: 0x0600391A RID: 14618 RVA: 0x0002C31E File Offset: 0x0002A51E
 		[global::Cpp2ILInjected.Token(Token = "0x6003FC6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74A428", Offset = "0x74A428", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -24,7 +22,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x0600391B RID: 14619 RVA: 0x0002C321 File Offset: 0x0002A521
 		[global::Cpp2ILInjected.Token(Token = "0x6003FC7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74A4AC", Offset = "0x74A4AC", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x0600391C RID: 14620 RVA: 0x0002C324 File Offset: 0x0002A524
 		[global::Cpp2ILInjected.Token(Token = "0x6003FC8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74A5B0", Offset = "0x74A5B0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -51,7 +47,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x0600391D RID: 14621 RVA: 0x0002C327 File Offset: 0x0002A527
 		[global::Cpp2ILInjected.Token(Token = "0x6003FC9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74A5B4", Offset = "0x74A5B4", Length = "0x330")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -105,7 +100,6 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x0600391E RID: 14622 RVA: 0x0002C32A File Offset: 0x0002A52A
 		[global::Cpp2ILInjected.Token(Token = "0x6003FCA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74A8E4", Offset = "0x74A8E4", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -116,11 +110,9 @@ namespace Terraria.Chat.Commands
 			throw null;
 		}
 
-		// Token: 0x0400689E RID: 26782
 		[global::Cpp2ILInjected.Token(Token = "0x4007DD0")]
 		public const int PlayerEmojiDuration = 360;
 
-		// Token: 0x0400689F RID: 26783
 		[global::Cpp2ILInjected.Token(Token = "0x4007DD1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly Dictionary<LocalizedText, int> _byName;

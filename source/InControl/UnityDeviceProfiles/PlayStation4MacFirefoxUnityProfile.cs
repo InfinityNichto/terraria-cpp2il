@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000DE RID: 222
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000EB")]
 	public class PlayStation4MacFirefoxUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000646 RID: 1606 RVA: 0x000032FF File Offset: 0x000014FF
 		[global::Cpp2ILInjected.Token(Token = "0x6000663")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19FD160", Offset = "0x19FD160", Length = "0xCA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,7 +23,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000647 RID: 1607 RVA: 0x00003302 File Offset: 0x00001502
 		[global::Cpp2ILInjected.Token(Token = "0x6000664")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19FDE08", Offset = "0x19FDE08", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

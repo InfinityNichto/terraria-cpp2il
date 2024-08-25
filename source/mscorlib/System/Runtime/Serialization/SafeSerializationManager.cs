@@ -8,12 +8,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Serialization
 {
-	// Token: 0x0200033E RID: 830
 	[global::Cpp2ILInjected.Token(Token = "0x20003E6")]
 	[global::System.Serializable]
 	internal sealed class SafeSerializationManager : IObjectReference, ISerializable
 	{
-		// Token: 0x06001D46 RID: 7494 RVA: 0x000196D9 File Offset: 0x000178D9
 		[global::Cpp2ILInjected.Token(Token = "0x6001F84")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B58AF0", Offset = "0x1B58AF0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Exception), Member = "Init", ReturnType = typeof(void))]
@@ -25,7 +23,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001D47 RID: 7495 RVA: 0x000196DC File Offset: 0x000178DC
 		[global::Cpp2ILInjected.Token(Token = "0x6001F85")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B58AF8", Offset = "0x1B58AF8", Length = "0x1E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -53,8 +50,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x170003D5 RID: 981
-		// (get) Token: 0x06001D48 RID: 7496 RVA: 0x000196DF File Offset: 0x000178DF
 		[global::Cpp2ILInjected.Token(Token = "0x17000433")]
 		internal bool IsActive
 		{
@@ -73,7 +68,6 @@ namespace System.Runtime.Serialization
 			}
 		}
 
-		// Token: 0x06001D49 RID: 7497 RVA: 0x000196E2 File Offset: 0x000178E2
 		[global::Cpp2ILInjected.Token(Token = "0x6001F87")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B59004", Offset = "0x1B59004", Length = "0x17C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +93,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001D4A RID: 7498 RVA: 0x000196E5 File Offset: 0x000178E5
 		[global::Cpp2ILInjected.Token(Token = "0x6001F88")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B59318", Offset = "0x1B59318", Length = "0x394")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +104,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001D4B RID: 7499 RVA: 0x000196E8 File Offset: 0x000178E8
 		[global::Cpp2ILInjected.Token(Token = "0x6001F89")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B596AC", Offset = "0x1B596AC", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -128,7 +120,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001D4C RID: 7500 RVA: 0x000196EB File Offset: 0x000178EB
 		[global::Cpp2ILInjected.Token(Token = "0x6001F8A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B59754", Offset = "0x1B59754", Length = "0x2AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -165,7 +156,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001D4D RID: 7501 RVA: 0x000196EE File Offset: 0x000178EE
 		[OnDeserialized]
 		[global::Cpp2ILInjected.Token(Token = "0x6001F8B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B59A00", Offset = "0x1B59A00", Length = "0x94")]
@@ -183,33 +173,27 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x04000CD0 RID: 3280
 		[global::Cpp2ILInjected.Token(Token = "0x4000FC2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private global::System.Collections.Generic.IList<object> m_serializedStates;
 
-		// Token: 0x04000CD1 RID: 3281
 		[global::Cpp2ILInjected.Token(Token = "0x4000FC3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private SerializationInfo m_savedSerializationInfo;
 
-		// Token: 0x04000CD2 RID: 3282
 		[global::Cpp2ILInjected.Token(Token = "0x4000FC4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private object m_realObject;
 
-		// Token: 0x04000CD3 RID: 3283
 		[global::Cpp2ILInjected.Token(Token = "0x4000FC5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private global::System.RuntimeType m_realType;
 
-		// Token: 0x04000CD4 RID: 3284
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000FC6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private global::System.EventHandler<SafeSerializationEventArgs> SerializeObjectState;
 
-		// Token: 0x04000CD5 RID: 3285
 		[global::Cpp2ILInjected.Token(Token = "0x4000FC7")]
 		private const string RealTypeSerializationName = "CLR_SafeSerializationManager_RealType";
 	}

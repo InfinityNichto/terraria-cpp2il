@@ -7,11 +7,9 @@ using Microsoft.Win32;
 
 namespace System.IO
 {
-	// Token: 0x0200048D RID: 1165
 	[global::Cpp2ILInjected.Token(Token = "0x2000560")]
 	internal static class __Error
 	{
-		// Token: 0x06002606 RID: 9734 RVA: 0x0001AEFA File Offset: 0x000190FA
 		[global::Cpp2ILInjected.Token(Token = "0x6002917")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BC6000", Offset = "0x1BC6000", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.SerializationHeaderRecord), Member = "Read", MemberParameters = new object[] { typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser) }, ReturnType = typeof(void))]
@@ -34,7 +32,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002607 RID: 9735 RVA: 0x0001AEFD File Offset: 0x000190FD
 		[global::Cpp2ILInjected.Token(Token = "0x6002918")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BC6058", Offset = "0x1BC6058", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BinaryReader), Member = "Read", ReturnType = typeof(int))]
@@ -63,7 +60,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002608 RID: 9736 RVA: 0x0001AF00 File Offset: 0x00019100
 		[global::Cpp2ILInjected.Token(Token = "0x6002919")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BC60B4", Offset = "0x1BC60B4", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(StringReader), Member = "Peek", ReturnType = typeof(int))]
@@ -89,7 +85,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002609 RID: 9737 RVA: 0x0001AF03 File Offset: 0x00019103
 		[global::Cpp2ILInjected.Token(Token = "0x600291A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BC6110", Offset = "0x1BC6110", Length = "0x13C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +106,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600260A RID: 9738 RVA: 0x0001AF06 File Offset: 0x00019106
 		[global::Cpp2ILInjected.Token(Token = "0x600291B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BC63E4", Offset = "0x1BC63E4", Length = "0x4B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -157,7 +151,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600260B RID: 9739 RVA: 0x0001AF09 File Offset: 0x00019109
 		[global::Cpp2ILInjected.Token(Token = "0x600291C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BC689C", Offset = "0x1BC689C", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(StringWriter), Member = "Write", MemberParameters = new object[] { typeof(char) }, ReturnType = typeof(void))]

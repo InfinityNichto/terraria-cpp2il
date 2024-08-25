@@ -12,11 +12,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x02000574 RID: 1396
 	[global::Cpp2ILInjected.Token(Token = "0x200080B")]
 	public struct VoidLensHelper
 	{
-		// Token: 0x06003AC5 RID: 15045 RVA: 0x0002C7E6 File Offset: 0x0002A9E6
 		[global::Cpp2ILInjected.Token(Token = "0x60041DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x784594", Offset = "0x784594", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawProjDirect", MemberParameters = new object[]
@@ -33,7 +31,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003AC6 RID: 15046 RVA: 0x0002C7E9 File Offset: 0x0002A9E9
 		[global::Cpp2ILInjected.Token(Token = "0x60041DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7845D8", Offset = "0x7845D8", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,7 +42,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003AC7 RID: 15047 RVA: 0x0002C7EC File Offset: 0x0002A9EC
 		[global::Cpp2ILInjected.Token(Token = "0x60041DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7846B8", Offset = "0x7846B8", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_154_VoidLens", ReturnType = typeof(void))]
@@ -64,7 +60,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003AC8 RID: 15048 RVA: 0x0002C7EF File Offset: 0x0002A9EF
 		[global::Cpp2ILInjected.Token(Token = "0x60041DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x784740", Offset = "0x784740", Length = "0x600")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -140,7 +135,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003AC9 RID: 15049 RVA: 0x0002C7F2 File Offset: 0x0002A9F2
 		[global::Cpp2ILInjected.Token(Token = "0x60041E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x784D40", Offset = "0x784D40", Length = "0x8B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -228,17 +222,14 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x04006AC9 RID: 27337
 		[global::Cpp2ILInjected.Token(Token = "0x40080A4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly Vector2 _position;
 
-		// Token: 0x04006ACA RID: 27338
 		[global::Cpp2ILInjected.Token(Token = "0x40080A5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private readonly float _opacity;
 
-		// Token: 0x04006ACB RID: 27339
 		[global::Cpp2ILInjected.Token(Token = "0x40080A6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 		private readonly int _frameNumber;

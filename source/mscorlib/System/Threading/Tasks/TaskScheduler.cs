@@ -7,21 +7,17 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading.Tasks
 {
-	// Token: 0x020001CC RID: 460
 	[global::System.Diagnostics.DebuggerDisplay("Id={Id}")]
 	[global::System.Diagnostics.DebuggerTypeProxy(typeof(TaskScheduler.SystemThreadingTasks_TaskSchedulerDebugView))]
 	[global::Cpp2ILInjected.Token(Token = "0x200024E")]
 	public abstract class TaskScheduler
 	{
-		// Token: 0x0600128A RID: 4746
 		[global::Cpp2ILInjected.Token(Token = "0x6001440")]
 		protected internal abstract void QueueTask(Task task);
 
-		// Token: 0x0600128B RID: 4747
 		[global::Cpp2ILInjected.Token(Token = "0x6001441")]
 		protected abstract bool TryExecuteTaskInline(Task task, bool taskWasPreviouslyQueued);
 
-		// Token: 0x0600128C RID: 4748 RVA: 0x0001791B File Offset: 0x00015B1B
 		[global::Cpp2ILInjected.Token(Token = "0x6001442")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CA9C2C", Offset = "0x1CA9C2C", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +37,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600128D RID: 4749 RVA: 0x0001791E File Offset: 0x00015B1E
 		[global::Cpp2ILInjected.Token(Token = "0x6001443")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAECF4", Offset = "0x1CAECF4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -50,7 +45,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600128E RID: 4750 RVA: 0x00017921 File Offset: 0x00015B21
 		[global::Cpp2ILInjected.Token(Token = "0x6001444")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAECFC", Offset = "0x1CAECFC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -59,8 +53,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x170001B5 RID: 437
-		// (get) Token: 0x0600128F RID: 4751 RVA: 0x00017924 File Offset: 0x00015B24
 		[global::Cpp2ILInjected.Token(Token = "0x170001F8")]
 		internal virtual bool RequiresAtomicStartTransition
 		{
@@ -73,7 +65,6 @@ namespace System.Threading.Tasks
 			}
 		}
 
-		// Token: 0x06001290 RID: 4752 RVA: 0x00017927 File Offset: 0x00015B27
 		[global::Cpp2ILInjected.Token(Token = "0x6001446")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAED08", Offset = "0x1CAED08", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -83,8 +74,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x170001B6 RID: 438
-		// (get) Token: 0x06001291 RID: 4753 RVA: 0x0001792A File Offset: 0x00015B2A
 		[global::Cpp2ILInjected.Token(Token = "0x170001F9")]
 		public static TaskScheduler Default
 		{
@@ -98,8 +87,6 @@ namespace System.Threading.Tasks
 			}
 		}
 
-		// Token: 0x170001B7 RID: 439
-		// (get) Token: 0x06001292 RID: 4754 RVA: 0x0001792D File Offset: 0x00015B2D
 		[global::Cpp2ILInjected.Token(Token = "0x170001FA")]
 		public static TaskScheduler Current
 		{
@@ -127,8 +114,6 @@ namespace System.Threading.Tasks
 			}
 		}
 
-		// Token: 0x170001B8 RID: 440
-		// (get) Token: 0x06001293 RID: 4755 RVA: 0x00017930 File Offset: 0x00015B30
 		[global::Cpp2ILInjected.Token(Token = "0x170001FB")]
 		internal static TaskScheduler InternalCurrent
 		{
@@ -156,8 +141,6 @@ namespace System.Threading.Tasks
 			}
 		}
 
-		// Token: 0x170001B9 RID: 441
-		// (get) Token: 0x06001294 RID: 4756 RVA: 0x00017933 File Offset: 0x00015B33
 		[global::Cpp2ILInjected.Token(Token = "0x170001FC")]
 		public int Id
 		{
@@ -183,7 +166,6 @@ namespace System.Threading.Tasks
 			}
 		}
 
-		// Token: 0x06001295 RID: 4757 RVA: 0x00017936 File Offset: 0x00015B36
 		[global::Cpp2ILInjected.Token(Token = "0x600144B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CADF18", Offset = "0x1CADF18", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -197,7 +179,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x06001296 RID: 4758 RVA: 0x00017939 File Offset: 0x00015B39
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600144C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAED68", Offset = "0x1CAED68", Length = "0xA8")]
@@ -210,28 +191,22 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x04000853 RID: 2131
 		[global::Cpp2ILInjected.Token(Token = "0x4000ABE")]
 		private static readonly TaskScheduler s_defaultTaskScheduler;
 
-		// Token: 0x04000854 RID: 2132
 		[global::Cpp2ILInjected.Token(Token = "0x4000ABF")]
 		internal static int s_taskSchedulerIdCounter;
 
-		// Token: 0x04000855 RID: 2133
 		[global::Cpp2ILInjected.Token(Token = "0x4000AC0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private int m_taskSchedulerId;
 
-		// Token: 0x04000856 RID: 2134
 		[global::Cpp2ILInjected.Token(Token = "0x4000AC1")]
 		private static global::System.EventHandler<UnobservedTaskExceptionEventArgs> _unobservedTaskException;
 
-		// Token: 0x04000857 RID: 2135
 		[global::Cpp2ILInjected.Token(Token = "0x4000AC2")]
 		private static readonly Lock _unobservedTaskExceptionLockObject;
 
-		// Token: 0x020005CD RID: 1485
 		[global::Cpp2ILInjected.Token(Token = "0x200024F")]
 		internal sealed class SystemThreadingTasks_TaskSchedulerDebugView
 		{

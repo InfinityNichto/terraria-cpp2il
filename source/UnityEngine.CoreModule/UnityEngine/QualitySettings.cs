@@ -7,15 +7,12 @@ using UnityEngine.Experimental.Rendering;
 
 namespace UnityEngine
 {
-	// Token: 0x02000052 RID: 82
 	[StaticAccessor("GetQualitySettings()", StaticAccessorType.Dot)]
 	[NativeHeader("Runtime/Misc/PlayerSettings.h")]
 	[NativeHeader("Runtime/Graphics/QualitySettings.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000056")]
 	public sealed class QualitySettings : Object
 	{
-		// Token: 0x17000042 RID: 66
-		// (set) Token: 0x06000176 RID: 374
 		[global::Cpp2ILInjected.Token(Token = "0x17000044")]
 		public static extern int vSyncCount
 		{
@@ -28,8 +25,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000043 RID: 67
-		// (get) Token: 0x06000177 RID: 375
 		[global::Cpp2ILInjected.Token(Token = "0x17000045")]
 		public static extern ColorSpace activeColorSpace
 		{

@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001B0 RID: 432
 	[Preserve]
 	[NativeInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20001BD")]
 	public class SteelseriesNimbusMacNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x060007EA RID: 2026 RVA: 0x000037EB File Offset: 0x000019EB
 		[global::Cpp2ILInjected.Token(Token = "0x6000807")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A32D2C", Offset = "0x1A32D2C", Length = "0x834")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,7 +24,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060007EB RID: 2027 RVA: 0x000037EE File Offset: 0x000019EE
 		[global::Cpp2ILInjected.Token(Token = "0x6000808")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A33560", Offset = "0x1A33560", Length = "0x1058")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

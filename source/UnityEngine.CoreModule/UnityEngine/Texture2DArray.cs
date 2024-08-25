@@ -9,13 +9,10 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200004A RID: 74
 	[NativeHeader("Runtime/Graphics/Texture2DArray.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x200004E")]
 	public sealed class Texture2DArray : Texture
 	{
-		// Token: 0x17000037 RID: 55
-		// (get) Token: 0x06000134 RID: 308
 		[global::Cpp2ILInjected.Token(Token = "0x17000039")]
 		public override extern bool isReadable
 		{
@@ -27,7 +24,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x06000135 RID: 309
 		[FreeFunction("Texture2DArrayScripting::Create")]
 		[global::Cpp2ILInjected.Token(Token = "0x600013D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F714A4", Offset = "0x1F714A4", Length = "0x84")]
@@ -36,7 +32,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern bool Internal_CreateImpl([Writable] Texture2DArray mono, int w, int h, int d, int mipCount, GraphicsFormat format, TextureCreationFlags flags);
 
-		// Token: 0x06000136 RID: 310 RVA: 0x000022C6 File Offset: 0x000004C6
 		[global::Cpp2ILInjected.Token(Token = "0x600013E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F71528", Offset = "0x1F71528", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -66,7 +61,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000137 RID: 311 RVA: 0x000022C9 File Offset: 0x000004C9
 		[global::Cpp2ILInjected.Token(Token = "0x600013F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F715F8", Offset = "0x1F715F8", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -95,7 +89,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000138 RID: 312 RVA: 0x000022CC File Offset: 0x000004CC
 		[global::Cpp2ILInjected.Token(Token = "0x6000140")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F716D4", Offset = "0x1F716D4", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -129,7 +122,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000139 RID: 313 RVA: 0x000022CF File Offset: 0x000004CF
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000141")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F717FC", Offset = "0x1F717FC", Length = "0x7C")]
@@ -141,7 +133,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600013A RID: 314 RVA: 0x000022D2 File Offset: 0x000004D2
 		[ExcludeFromDocs]
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000142")]
@@ -153,7 +144,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600013B RID: 315 RVA: 0x000022D5 File Offset: 0x000004D5
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000143")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F71918", Offset = "0x1F71918", Length = "0xDC")]
@@ -182,7 +172,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600013C RID: 316 RVA: 0x000022D8 File Offset: 0x000004D8
 		[global::Cpp2ILInjected.Token(Token = "0x6000144")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F71A48", Offset = "0x1F71A48", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -234,7 +223,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600013D RID: 317 RVA: 0x000022DB File Offset: 0x000004DB
 		[global::Cpp2ILInjected.Token(Token = "0x6000145")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F71B90", Offset = "0x1F71B90", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -253,7 +241,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600013E RID: 318 RVA: 0x000022DE File Offset: 0x000004DE
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000146")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F71BA4", Offset = "0x1F71BA4", Length = "0x14")]
@@ -273,7 +260,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600013F RID: 319 RVA: 0x000022E1 File Offset: 0x000004E1
 		[global::Cpp2ILInjected.Token(Token = "0x6000147")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F719F4", Offset = "0x1F719F4", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Texture2DArray), Member = ".ctor", MemberParameters = new object[]

@@ -9,11 +9,9 @@ using Ionic.Zlib;
 
 namespace Ionic.Zip
 {
-	// Token: 0x0200002B RID: 43
 	[global::Cpp2ILInjected.Token(Token = "0x2000031")]
 	internal class ZipContainer
 	{
-		// Token: 0x06000261 RID: 609 RVA: 0x0000559C File Offset: 0x0000379C
 		[global::Cpp2ILInjected.Token(Token = "0x6000275")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A5FA94", Offset = "0x1A5FA94", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,8 +48,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x170000A0 RID: 160
-		// (get) Token: 0x06000262 RID: 610 RVA: 0x0000559F File Offset: 0x0000379F
 		[global::Cpp2ILInjected.Token(Token = "0x170000A2")]
 		public ZipFile ZipFile
 		{
@@ -64,8 +60,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000A1 RID: 161
-		// (get) Token: 0x06000263 RID: 611 RVA: 0x000055A2 File Offset: 0x000037A2
 		[global::Cpp2ILInjected.Token(Token = "0x170000A3")]
 		public ZipOutputStream ZipOutputStream
 		{
@@ -78,8 +72,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000A2 RID: 162
-		// (get) Token: 0x06000264 RID: 612 RVA: 0x000055A5 File Offset: 0x000037A5
 		[global::Cpp2ILInjected.Token(Token = "0x170000A4")]
 		public string Name
 		{
@@ -94,8 +86,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000A3 RID: 163
-		// (get) Token: 0x06000265 RID: 613 RVA: 0x000055A8 File Offset: 0x000037A8
 		[global::Cpp2ILInjected.Token(Token = "0x170000A5")]
 		public string Password
 		{
@@ -117,8 +107,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000A4 RID: 164
-		// (get) Token: 0x06000266 RID: 614 RVA: 0x000055AB File Offset: 0x000037AB
 		[global::Cpp2ILInjected.Token(Token = "0x170000A6")]
 		public Zip64Option Zip64
 		{
@@ -143,8 +131,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000A5 RID: 165
-		// (get) Token: 0x06000267 RID: 615 RVA: 0x000055AE File Offset: 0x000037AE
 		[global::Cpp2ILInjected.Token(Token = "0x170000A7")]
 		public int BufferSize
 		{
@@ -164,8 +150,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000A6 RID: 166
-		// (get) Token: 0x06000268 RID: 616 RVA: 0x000055B1 File Offset: 0x000037B1
 		[global::Cpp2ILInjected.Token(Token = "0x170000A8")]
 		public int CodecBufferSize
 		{
@@ -183,8 +167,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000A7 RID: 167
-		// (get) Token: 0x06000269 RID: 617 RVA: 0x000055B4 File Offset: 0x000037B4
 		[global::Cpp2ILInjected.Token(Token = "0x170000A9")]
 		public CompressionStrategy Strategy
 		{
@@ -202,8 +184,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000A8 RID: 168
-		// (get) Token: 0x0600026A RID: 618 RVA: 0x000055B7 File Offset: 0x000037B7
 		[global::Cpp2ILInjected.Token(Token = "0x170000AA")]
 		public Zip64Option UseZip64WhenSaving
 		{
@@ -218,8 +198,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000A9 RID: 169
-		// (get) Token: 0x0600026B RID: 619 RVA: 0x000055BA File Offset: 0x000037BA
 		[global::Cpp2ILInjected.Token(Token = "0x170000AB")]
 		public Encoding AlternateEncoding
 		{
@@ -237,8 +215,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000AA RID: 170
-		// (get) Token: 0x0600026C RID: 620 RVA: 0x000055BD File Offset: 0x000037BD
 		[global::Cpp2ILInjected.Token(Token = "0x170000AC")]
 		public Encoding DefaultEncoding
 		{
@@ -258,8 +234,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000AB RID: 171
-		// (get) Token: 0x0600026D RID: 621 RVA: 0x000055C0 File Offset: 0x000037C0
 		[global::Cpp2ILInjected.Token(Token = "0x170000AD")]
 		public ZipOption AlternateEncodingUsage
 		{
@@ -272,8 +246,6 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x170000AC RID: 172
-		// (get) Token: 0x0600026E RID: 622 RVA: 0x000055C3 File Offset: 0x000037C3
 		[global::Cpp2ILInjected.Token(Token = "0x170000AE")]
 		public Stream ReadStream
 		{
@@ -292,17 +264,14 @@ namespace Ionic.Zip
 			}
 		}
 
-		// Token: 0x04000129 RID: 297
 		[global::Cpp2ILInjected.Token(Token = "0x4000139")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ZipFile _zf;
 
-		// Token: 0x0400012A RID: 298
 		[global::Cpp2ILInjected.Token(Token = "0x400013A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private ZipOutputStream _zos;
 
-		// Token: 0x0400012B RID: 299
 		[global::Cpp2ILInjected.Token(Token = "0x400013B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private ZipInputStream _zis;

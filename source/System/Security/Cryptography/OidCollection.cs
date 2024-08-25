@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000094 RID: 148
 	[global::Cpp2ILInjected.Token(Token = "0x20000F1")]
 	public sealed class OidCollection : ICollection, IEnumerable
 	{
-		// Token: 0x060004D6 RID: 1238 RVA: 0x00003C0B File Offset: 0x00001E0B
 		[global::Cpp2ILInjected.Token(Token = "0x600057B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECED78", Offset = "0x1ECED78", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509ChainPolicy), Member = "Reset", ReturnType = typeof(void))]
@@ -30,7 +28,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060004D7 RID: 1239 RVA: 0x00003C0E File Offset: 0x00001E0E
 		[global::Cpp2ILInjected.Token(Token = "0x600057C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECEDF8", Offset = "0x1ECEDF8", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +44,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x17000104 RID: 260
 		[global::Cpp2ILInjected.Token(Token = "0x1700010A")]
 		public Oid this[int index]
 		{
@@ -70,8 +66,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000105 RID: 261
-		// (get) Token: 0x060004D9 RID: 1241 RVA: 0x00003C14 File Offset: 0x00001E14
 		[global::Cpp2ILInjected.Token(Token = "0x1700010B")]
 		public int Count
 		{
@@ -86,7 +80,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x060004DA RID: 1242 RVA: 0x00003C17 File Offset: 0x00001E17
 		[global::Cpp2ILInjected.Token(Token = "0x600057F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECEF40", Offset = "0x1ECEF40", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(OidCollection), Member = "System.Collections.IEnumerable.GetEnumerator", ReturnType = typeof(IEnumerator))]
@@ -104,7 +97,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060004DB RID: 1243 RVA: 0x00003C1A File Offset: 0x00001E1A
 		[global::Cpp2ILInjected.Token(Token = "0x6000580")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECEFD4", Offset = "0x1ECEFD4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -114,7 +106,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060004DC RID: 1244 RVA: 0x00003C1D File Offset: 0x00001E1D
 		[global::Cpp2ILInjected.Token(Token = "0x6000581")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECEFD8", Offset = "0x1ECEFD8", Length = "0x1EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -140,8 +131,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x17000106 RID: 262
-		// (get) Token: 0x060004DD RID: 1245 RVA: 0x00003C20 File Offset: 0x00001E20
 		[global::Cpp2ILInjected.Token(Token = "0x1700010C")]
 		public bool IsSynchronized
 		{
@@ -154,8 +143,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000107 RID: 263
-		// (get) Token: 0x060004DE RID: 1246 RVA: 0x00003C23 File Offset: 0x00001E23
 		[global::Cpp2ILInjected.Token(Token = "0x1700010D")]
 		public object SyncRoot
 		{
@@ -168,7 +155,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x040002F3 RID: 755
 		[global::Cpp2ILInjected.Token(Token = "0x400045C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly List<Oid> _list;

@@ -5,12 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x020002C7 RID: 711
 	[global::Cpp2ILInjected.Token(Token = "0x20003C6")]
 	public class UInt64Converter : BaseNumberConverter
 	{
-		// Token: 0x170005A5 RID: 1445
-		// (get) Token: 0x0600174A RID: 5962 RVA: 0x00006FE6 File Offset: 0x000051E6
 		[global::Cpp2ILInjected.Token(Token = "0x170005D9")]
 		internal override Type TargetType
 		{
@@ -25,7 +22,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x0600174B RID: 5963 RVA: 0x00006FE9 File Offset: 0x000051E9
 		[global::Cpp2ILInjected.Token(Token = "0x60019AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E5FE24", Offset = "0x1E5FE24", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -40,7 +36,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600174C RID: 5964 RVA: 0x00006FEC File Offset: 0x000051EC
 		[global::Cpp2ILInjected.Token(Token = "0x60019AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E5FEB8", Offset = "0x1E5FEB8", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -56,7 +51,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600174D RID: 5965 RVA: 0x00006FEF File Offset: 0x000051EF
 		[global::Cpp2ILInjected.Token(Token = "0x60019AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E5FF2C", Offset = "0x1E5FF2C", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,7 +66,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600174E RID: 5966 RVA: 0x00006FF2 File Offset: 0x000051F2
 		[global::Cpp2ILInjected.Token(Token = "0x60019B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E5FFD4", Offset = "0x1E5FFD4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

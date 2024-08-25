@@ -1,9 +1,0 @@
-<map id="Terraria.Localization.NetworkText" name="Terraria.Localization.NetworkText">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,820,253,1415"/>
-<area shape="rect" id="Node000002" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText.html" title=" " alt="" coords="137,133,385,728"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,729,192,804,187,803,202,728"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="388,376,405,397,412,431,409,455,400,473,395,471,404,453,407,431,400,400,383,380"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="67,5,117,71"/>
-<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="91,71,85,134,78,301,75,431,77,561,85,728,91,804,86,804,80,728,71,561,69,431,72,300,80,133,85,71"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="108,70,133,127,128,130,103,72"/>
-</map>

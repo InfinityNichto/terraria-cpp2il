@@ -6,15 +6,11 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine
 {
-	// Token: 0x02000008 RID: 8
 	[NativeHeader("Modules/UI/CanvasGroup.h")]
 	[NativeClass("UI::CanvasGroup")]
 	[global::Cpp2ILInjected.Token(Token = "0x200000A")]
 	public sealed class CanvasGroup : Behaviour, ICanvasRaycastFilter
 	{
-		// Token: 0x17000018 RID: 24
-		// (get) Token: 0x06000056 RID: 86
-		// (set) Token: 0x06000057 RID: 87
 		[NativeProperty("Alpha", false, TargetType.Function)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000018")]
 		public extern float alpha
@@ -39,8 +35,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000019 RID: 25
-		// (get) Token: 0x06000058 RID: 88
 		[NativeProperty("Interactable", false, TargetType.Function)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000019")]
 		public extern bool interactable
@@ -54,8 +48,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700001A RID: 26
-		// (get) Token: 0x06000059 RID: 89
 		[NativeProperty("BlocksRaycasts", false, TargetType.Function)]
 		[global::Cpp2ILInjected.Token(Token = "0x1700001A")]
 		public extern bool blocksRaycasts
@@ -68,8 +60,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700001B RID: 27
-		// (get) Token: 0x0600005A RID: 90
 		[NativeProperty("IgnoreParentGroups", false, TargetType.Function)]
 		[global::Cpp2ILInjected.Token(Token = "0x1700001B")]
 		public extern bool ignoreParentGroups
@@ -88,7 +78,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x0600005B RID: 91 RVA: 0x000020BC File Offset: 0x000002BC
 		[global::Cpp2ILInjected.Token(Token = "0x600005D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF2134", Offset = "0x1FF2134", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

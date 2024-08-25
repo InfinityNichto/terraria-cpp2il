@@ -10,11 +10,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent.Skies
 {
-	// Token: 0x0200065F RID: 1631
 	[global::Cpp2ILInjected.Token(Token = "0x20009D7")]
 	public class NebulaSky : CustomSky
 	{
-		// Token: 0x06003FCA RID: 16330 RVA: 0x0002D63B File Offset: 0x0002B83B
 		[global::Cpp2ILInjected.Token(Token = "0x6004A3B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x857868", Offset = "0x857868", Length = "0x3BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -31,7 +29,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FCB RID: 16331 RVA: 0x0002D63E File Offset: 0x0002B83E
 		[global::Cpp2ILInjected.Token(Token = "0x6004A3C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x857C24", Offset = "0x857C24", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -51,7 +48,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FCC RID: 16332 RVA: 0x0002D641 File Offset: 0x0002B841
 		[global::Cpp2ILInjected.Token(Token = "0x6004A3D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x857CC4", Offset = "0x857CC4", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -69,7 +65,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FCD RID: 16333 RVA: 0x0002D644 File Offset: 0x0002B844
 		[global::Cpp2ILInjected.Token(Token = "0x6004A3E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x857DC8", Offset = "0x857DC8", Length = "0xBC0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -172,7 +167,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FCE RID: 16334 RVA: 0x0002D647 File Offset: 0x0002B847
 		[global::Cpp2ILInjected.Token(Token = "0x6004A3F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x858988", Offset = "0x858988", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -181,7 +175,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FCF RID: 16335 RVA: 0x0002D64A File Offset: 0x0002B84A
 		[global::Cpp2ILInjected.Token(Token = "0x6004A40")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8589B0", Offset = "0x8589B0", Length = "0x244")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -203,7 +196,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FD0 RID: 16336 RVA: 0x0002D64D File Offset: 0x0002B84D
 		[global::Cpp2ILInjected.Token(Token = "0x6004A41")]
 		[global::Cpp2ILInjected.Address(RVA = "0x858BF4", Offset = "0x858BF4", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -213,7 +205,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FD1 RID: 16337 RVA: 0x0002D650 File Offset: 0x0002B850
 		[global::Cpp2ILInjected.Token(Token = "0x6004A42")]
 		[global::Cpp2ILInjected.Address(RVA = "0x858C24", Offset = "0x858C24", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -222,7 +213,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FD2 RID: 16338 RVA: 0x0002D653 File Offset: 0x0002B853
 		[global::Cpp2ILInjected.Token(Token = "0x6004A43")]
 		[global::Cpp2ILInjected.Address(RVA = "0x858C2C", Offset = "0x858C2C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -231,7 +221,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FD3 RID: 16339 RVA: 0x0002D656 File Offset: 0x0002B856
 		[global::Cpp2ILInjected.Token(Token = "0x6004A44")]
 		[global::Cpp2ILInjected.Address(RVA = "0x858C34", Offset = "0x858C34", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -241,7 +230,6 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x06003FD4 RID: 16340 RVA: 0x0002D659 File Offset: 0x0002B859
 		[global::Cpp2ILInjected.Token(Token = "0x6004A45")]
 		[global::Cpp2ILInjected.Address(RVA = "0x858C5C", Offset = "0x858C5C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenEffectInitializer), Member = "LoadSkies", ReturnType = typeof(void))]
@@ -254,56 +242,45 @@ namespace Terraria.GameContent.Skies
 			throw null;
 		}
 
-		// Token: 0x04006CEC RID: 27884
 		[global::Cpp2ILInjected.Token(Token = "0x40084D8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private NebulaSky.LightPillar[] _pillars;
 
-		// Token: 0x04006CED RID: 27885
 		[global::Cpp2ILInjected.Token(Token = "0x40084D9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private UnifiedRandom _random;
 
-		// Token: 0x04006CEE RID: 27886
 		[global::Cpp2ILInjected.Token(Token = "0x40084DA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private Asset<Texture2D> _planetTexture;
 
-		// Token: 0x04006CEF RID: 27887
 		[global::Cpp2ILInjected.Token(Token = "0x40084DB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private Asset<Texture2D> _bgTexture;
 
-		// Token: 0x04006CF0 RID: 27888
 		[global::Cpp2ILInjected.Token(Token = "0x40084DC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private Asset<Texture2D> _beamTexture;
 
-		// Token: 0x04006CF1 RID: 27889
 		[global::Cpp2ILInjected.Token(Token = "0x40084DD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private Asset<Texture2D>[] _rockTextures;
 
-		// Token: 0x04006CF2 RID: 27890
 		[global::Cpp2ILInjected.Token(Token = "0x40084DE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private bool _isActive;
 
-		// Token: 0x04006CF3 RID: 27891
 		[global::Cpp2ILInjected.Token(Token = "0x40084DF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 		private float _fadeOpacity;
 
-		// Token: 0x02000A57 RID: 2647
 		[global::Cpp2ILInjected.Token(Token = "0x20009D8")]
 		private struct LightPillar
 		{
-			// Token: 0x04008E05 RID: 36357
 			[global::Cpp2ILInjected.Token(Token = "0x40084E0")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public Vector2 Position;
 
-			// Token: 0x04008E06 RID: 36358
 			[global::Cpp2ILInjected.Token(Token = "0x40084E1")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			public float Depth;

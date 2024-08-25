@@ -4,11 +4,9 @@ using System.Runtime.CompilerServices;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 
-// Token: 0x0200002A RID: 42
 [global::Cpp2ILInjected.Token(Token = "0x2000046")]
 public static class XBOChatPermissions
 {
-	// Token: 0x06000104 RID: 260 RVA: 0x00021E84 File Offset: 0x00020084
 	[global::Cpp2ILInjected.Token(Token = "0x600017E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7056D0", Offset = "0x7056D0", Length = "0x1D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,7 +23,6 @@ public static class XBOChatPermissions
 		throw null;
 	}
 
-	// Token: 0x06000105 RID: 261 RVA: 0x00021E87 File Offset: 0x00020087
 	[global::Cpp2ILInjected.Token(Token = "0x600017F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7058A8", Offset = "0x7058A8", Length = "0x1C0")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -45,7 +42,6 @@ public static class XBOChatPermissions
 		throw null;
 	}
 
-	// Token: 0x06000106 RID: 262 RVA: 0x00021E8A File Offset: 0x0002008A
 	[global::Cpp2ILInjected.Token(Token = "0x6000180")]
 	[global::Cpp2ILInjected.Address(RVA = "0x705B04", Offset = "0x705B04", Length = "0x88")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -60,7 +56,6 @@ public static class XBOChatPermissions
 		throw null;
 	}
 
-	// Token: 0x06000107 RID: 263 RVA: 0x00021E8D File Offset: 0x0002008D
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000181")]
 	[global::Cpp2ILInjected.Address(RVA = "0x705B8C", Offset = "0x705B8C", Length = "0xDC")]
@@ -73,24 +68,18 @@ public static class XBOChatPermissions
 		throw null;
 	}
 
-	// Token: 0x040000BE RID: 190
 	[global::Cpp2ILInjected.Token(Token = "0x4000113")]
 	private static Dictionary<string, XBOChatPermissions.RequestResult> _inprogress;
 
-	// Token: 0x040000BF RID: 191
 	[global::Cpp2ILInjected.Token(Token = "0x4000114")]
 	private static Dictionary<string, bool> _cachedChatPermissions;
 
-	// Token: 0x0200077E RID: 1918
-	// (Invoke) Token: 0x0600484E RID: 18510
 	[global::Cpp2ILInjected.Token(Token = "0x2000047")]
 	public delegate void ChatPermissionsResult(string playerId, bool result);
 
-	// Token: 0x0200077F RID: 1919
 	[global::Cpp2ILInjected.Token(Token = "0x2000048")]
 	public class RequestResult
 	{
-		// Token: 0x06004851 RID: 18513 RVA: 0x0002EE5C File Offset: 0x0002D05C
 		[global::Cpp2ILInjected.Token(Token = "0x6000186")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7058A0", Offset = "0x7058A0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -99,9 +88,6 @@ public static class XBOChatPermissions
 			throw null;
 		}
 
-		// Token: 0x14000061 RID: 97
-		// (add) Token: 0x06004852 RID: 18514 RVA: 0x0002EE5F File Offset: 0x0002D05F
-		// (remove) Token: 0x06004853 RID: 18515 RVA: 0x0002EE62 File Offset: 0x0002D062
 		[global::Cpp2ILInjected.Token(Token = "0x14000003")]
 		public event XBOChatPermissions.ChatPermissionsResult ResultCallbacks
 		{
@@ -137,7 +123,6 @@ public static class XBOChatPermissions
 			}
 		}
 
-		// Token: 0x06004854 RID: 18516 RVA: 0x0002EE65 File Offset: 0x0002D065
 		[global::Cpp2ILInjected.Token(Token = "0x6000189")]
 		[global::Cpp2ILInjected.Address(RVA = "0x705E98", Offset = "0x705E98", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -147,12 +132,10 @@ public static class XBOChatPermissions
 			throw null;
 		}
 
-		// Token: 0x0400783A RID: 30778
 		[global::Cpp2ILInjected.Token(Token = "0x4000115")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public string xboPlayerId;
 
-		// Token: 0x0400783B RID: 30779
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000116")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]

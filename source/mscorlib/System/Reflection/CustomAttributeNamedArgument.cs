@@ -7,11 +7,9 @@ using Internal.Runtime.Augments;
 
 namespace System.Reflection
 {
-	// Token: 0x02000439 RID: 1081
 	[global::Cpp2ILInjected.Token(Token = "0x20004F8")]
 	public struct CustomAttributeNamedArgument
 	{
-		// Token: 0x06002241 RID: 8769 RVA: 0x0001A474 File Offset: 0x00018674
 		[global::Cpp2ILInjected.Token(Token = "0x60024DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B86A7C", Offset = "0x1B86A7C", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -21,7 +19,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002242 RID: 8770 RVA: 0x0001A477 File Offset: 0x00018677
 		[global::Cpp2ILInjected.Token(Token = "0x60024DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B86AA4", Offset = "0x1B86AA4", Length = "0x224")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,7 +42,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002243 RID: 8771 RVA: 0x0001A47A File Offset: 0x0001867A
 		[global::Cpp2ILInjected.Token(Token = "0x60024DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B86CC8", Offset = "0x1B86CC8", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,8 +58,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x1700049A RID: 1178
-		// (get) Token: 0x06002244 RID: 8772 RVA: 0x0001A47D File Offset: 0x0001867D
 		[global::Cpp2ILInjected.Token(Token = "0x17000512")]
 		public readonly CustomAttributeTypedArgument TypedValue
 		{
@@ -77,8 +71,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x1700049B RID: 1179
-		// (get) Token: 0x06002245 RID: 8773 RVA: 0x0001A480 File Offset: 0x00018680
 		[global::Cpp2ILInjected.Token(Token = "0x17000513")]
 		public readonly bool IsField
 		{
@@ -92,8 +84,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x1700049C RID: 1180
-		// (get) Token: 0x06002246 RID: 8774 RVA: 0x0001A483 File Offset: 0x00018683
 		[global::Cpp2ILInjected.Token(Token = "0x17000514")]
 		public readonly string MemberName
 		{
@@ -107,8 +97,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x1700049D RID: 1181
-		// (get) Token: 0x06002247 RID: 8775 RVA: 0x0001A486 File Offset: 0x00018686
 		[global::Cpp2ILInjected.Token(Token = "0x17000515")]
 		public MemberInfo MemberInfo
 		{
@@ -134,7 +122,6 @@ namespace System.Reflection
 			}
 		}
 
-		// Token: 0x06002248 RID: 8776 RVA: 0x0001A489 File Offset: 0x00018689
 		[global::Cpp2ILInjected.Token(Token = "0x60024E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B86EFC", Offset = "0x1B86EFC", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +143,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002249 RID: 8777 RVA: 0x0001A48C File Offset: 0x0001868C
 		[global::Cpp2ILInjected.Token(Token = "0x60024E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B86F74", Offset = "0x1B86F74", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CustomAttributeData), Member = "GetHashCode", ReturnType = typeof(int))]
@@ -168,7 +154,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x0600224A RID: 8778 RVA: 0x0001A48F File Offset: 0x0001868F
 		[global::Cpp2ILInjected.Token(Token = "0x60024E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B86FE0", Offset = "0x1B86FE0", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -179,7 +164,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x0600224B RID: 8779 RVA: 0x0001A492 File Offset: 0x00018692
 		[global::Cpp2ILInjected.Token(Token = "0x60024E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B87060", Offset = "0x1B87060", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -191,7 +175,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x0600224C RID: 8780 RVA: 0x0001A495 File Offset: 0x00018695
 		[global::Cpp2ILInjected.Token(Token = "0x60024E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B870E4", Offset = "0x1B870E4", Length = "0x31C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -229,30 +212,25 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x04001125 RID: 4389
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400143F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly CustomAttributeTypedArgument <TypedValue>k__BackingField;
 
-		// Token: 0x04001126 RID: 4390
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4001440")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly bool <IsField>k__BackingField;
 
-		// Token: 0x04001127 RID: 4391
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4001441")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly string <MemberName>k__BackingField;
 
-		// Token: 0x04001128 RID: 4392
 		[global::Cpp2ILInjected.Token(Token = "0x4001442")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private readonly global::System.Type _attributeType;
 
-		// Token: 0x04001129 RID: 4393
 		[global::Cpp2ILInjected.Token(Token = "0x4001443")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private MemberInfo _lazyMemberInfo;

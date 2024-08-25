@@ -8,11 +8,9 @@ using Mono.Security.Cryptography;
 using Mono.Security.Protocol.Ntlm;
 using Mono.Security.X509;
 
-// Token: 0x02000002 RID: 2
 [global::Cpp2ILInjected.Token(Token = "0x2000002")]
 internal sealed class Locale
 {
-	// Token: 0x06000001 RID: 1 RVA: 0x00002F46 File Offset: 0x00001146
 	[global::Cpp2ILInjected.Token(Token = "0x6000001")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1A781E8", Offset = "0x1A781E8", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509Extension), Member = ".ctor", MemberParameters = new object[] { typeof(ASN1) }, ReturnType = typeof(void))]
@@ -49,7 +47,6 @@ internal sealed class Locale
 		throw null;
 	}
 
-	// Token: 0x06000002 RID: 2 RVA: 0x00002F49 File Offset: 0x00001149
 	[global::Cpp2ILInjected.Token(Token = "0x6000002")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1A781EC", Offset = "0x1A781EC", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PKCS12), Member = "set_MaximumPasswordLength", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]

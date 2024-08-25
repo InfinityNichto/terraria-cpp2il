@@ -4,11 +4,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Terraria;
 
-// Token: 0x0200000D RID: 13
 [global::Cpp2ILInjected.Token(Token = "0x200000D")]
 public struct DictionaryIntArray
 {
-	// Token: 0x17000015 RID: 21
 	[global::Cpp2ILInjected.Token(Token = "0x17000015")]
 	public int this[int index]
 	{
@@ -55,7 +53,6 @@ public struct DictionaryIntArray
 		}
 	}
 
-	// Token: 0x06000043 RID: 67 RVA: 0x00021C53 File Offset: 0x0001FE53
 	[global::Cpp2ILInjected.Token(Token = "0x6000043")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FB54C", Offset = "0x6FB54C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "SetDefaults", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -69,7 +66,6 @@ public struct DictionaryIntArray
 		throw null;
 	}
 
-	// Token: 0x06000044 RID: 68 RVA: 0x00021C56 File Offset: 0x0001FE56
 	[global::Cpp2ILInjected.Token(Token = "0x6000044")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FB554", Offset = "0x6FB554", Length = "0x15C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +81,6 @@ public struct DictionaryIntArray
 		throw null;
 	}
 
-	// Token: 0x06000045 RID: 69 RVA: 0x00021C59 File Offset: 0x0001FE59
 	[global::Cpp2ILInjected.Token(Token = "0x6000045")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FB6B0", Offset = "0x6FB6B0", Length = "0x23C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -108,7 +103,6 @@ public struct DictionaryIntArray
 		throw null;
 	}
 
-	// Token: 0x06000046 RID: 70 RVA: 0x00021C5C File Offset: 0x0001FE5C
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000046")]
 	[global::Cpp2ILInjected.Address(RVA = "0x6FB8EC", Offset = "0x6FB8EC", Length = "0x8C")]
@@ -120,11 +114,9 @@ public struct DictionaryIntArray
 		throw null;
 	}
 
-	// Token: 0x04000015 RID: 21
 	[global::Cpp2ILInjected.Token(Token = "0x4000015")]
 	private static List<int> keysToDecrement;
 
-	// Token: 0x04000016 RID: 22
 	[global::Cpp2ILInjected.Token(Token = "0x4000016")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 	private Dictionary<int, int> data;

@@ -1,4 +1,0 @@
-var MicrosoftAdaptiveControllerMacNativeProfile_8cs =
-[
-    [ "InControl.NativeDeviceProfiles.MicrosoftAdaptiveControllerMacNativeProfile", "df/da0/classInControl_1_1NativeDeviceProfiles_1_1MicrosoftAdaptiveControllerMacNativeProfile.html", "df/da0/classInControl_1_1NativeDeviceProfiles_1_1MicrosoftAdaptiveControllerMacNativeProfile" ]
-];

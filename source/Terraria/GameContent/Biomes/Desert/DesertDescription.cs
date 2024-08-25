@@ -9,13 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.Desert
 {
-	// Token: 0x02000601 RID: 1537
 	[global::Cpp2ILInjected.Token(Token = "0x2000900")]
 	public class DesertDescription
 	{
-		// Token: 0x17000743 RID: 1859
-		// (get) Token: 0x06003DBB RID: 15803 RVA: 0x0002D065 File Offset: 0x0002B265
-		// (set) Token: 0x06003DBC RID: 15804 RVA: 0x0002D068 File Offset: 0x0002B268
 		[global::Cpp2ILInjected.Token(Token = "0x170007F3")]
 		public Rectangle CombinedArea
 		{
@@ -37,9 +33,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			}
 		}
 
-		// Token: 0x17000744 RID: 1860
-		// (get) Token: 0x06003DBD RID: 15805 RVA: 0x0002D06B File Offset: 0x0002B26B
-		// (set) Token: 0x06003DBE RID: 15806 RVA: 0x0002D06E File Offset: 0x0002B26E
 		[global::Cpp2ILInjected.Token(Token = "0x170007F4")]
 		public Rectangle Desert
 		{
@@ -61,9 +54,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			}
 		}
 
-		// Token: 0x17000745 RID: 1861
-		// (get) Token: 0x06003DBF RID: 15807 RVA: 0x0002D071 File Offset: 0x0002B271
-		// (set) Token: 0x06003DC0 RID: 15808 RVA: 0x0002D074 File Offset: 0x0002B274
 		[global::Cpp2ILInjected.Token(Token = "0x170007F5")]
 		public Rectangle Hive
 		{
@@ -85,9 +75,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			}
 		}
 
-		// Token: 0x17000746 RID: 1862
-		// (get) Token: 0x06003DC1 RID: 15809 RVA: 0x0002D077 File Offset: 0x0002B277
-		// (set) Token: 0x06003DC2 RID: 15810 RVA: 0x0002D07A File Offset: 0x0002B27A
 		[global::Cpp2ILInjected.Token(Token = "0x170007F6")]
 		public Vector2D BlockScale
 		{
@@ -109,9 +96,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			}
 		}
 
-		// Token: 0x17000747 RID: 1863
-		// (get) Token: 0x06003DC3 RID: 15811 RVA: 0x0002D07D File Offset: 0x0002B27D
-		// (set) Token: 0x06003DC4 RID: 15812 RVA: 0x0002D080 File Offset: 0x0002B280
 		[global::Cpp2ILInjected.Token(Token = "0x170007F7")]
 		public int BlockColumnCount
 		{
@@ -133,9 +117,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			}
 		}
 
-		// Token: 0x17000748 RID: 1864
-		// (get) Token: 0x06003DC5 RID: 15813 RVA: 0x0002D083 File Offset: 0x0002B283
-		// (set) Token: 0x06003DC6 RID: 15814 RVA: 0x0002D086 File Offset: 0x0002B286
 		[global::Cpp2ILInjected.Token(Token = "0x170007F8")]
 		public int BlockRowCount
 		{
@@ -157,9 +138,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			}
 		}
 
-		// Token: 0x17000749 RID: 1865
-		// (get) Token: 0x06003DC7 RID: 15815 RVA: 0x0002D089 File Offset: 0x0002B289
-		// (set) Token: 0x06003DC8 RID: 15816 RVA: 0x0002D08C File Offset: 0x0002B28C
 		[global::Cpp2ILInjected.Token(Token = "0x170007F9")]
 		public bool IsValid
 		{
@@ -181,9 +159,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			}
 		}
 
-		// Token: 0x1700074A RID: 1866
-		// (get) Token: 0x06003DC9 RID: 15817 RVA: 0x0002D08F File Offset: 0x0002B28F
-		// (set) Token: 0x06003DCA RID: 15818 RVA: 0x0002D092 File Offset: 0x0002B292
 		[global::Cpp2ILInjected.Token(Token = "0x170007FA")]
 		public SurfaceMap Surface
 		{
@@ -205,7 +180,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			}
 		}
 
-		// Token: 0x06003DCB RID: 15819 RVA: 0x0002D095 File Offset: 0x0002B295
 		[global::Cpp2ILInjected.Token(Token = "0x6004667")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D6E48", Offset = "0x7D6E48", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -215,7 +189,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DCC RID: 15820 RVA: 0x0002D098 File Offset: 0x0002B298
 		[global::Cpp2ILInjected.Token(Token = "0x6004668")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D6E50", Offset = "0x7D6E50", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DesertBiome), Member = "Place", MemberParameters = new object[]
@@ -234,7 +207,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DCD RID: 15821 RVA: 0x0002D09B File Offset: 0x0002B29B
 		[global::Cpp2ILInjected.Token(Token = "0x6004669")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D7038", Offset = "0x7D7038", Length = "0x390")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -276,7 +248,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DCE RID: 15822 RVA: 0x0002D09E File Offset: 0x0002B29E
 		[global::Cpp2ILInjected.Token(Token = "0x600466A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D73C8", Offset = "0x7D73C8", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -294,7 +265,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DCF RID: 15823 RVA: 0x0002D0A1 File Offset: 0x0002B2A1
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600466B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D74D4", Offset = "0x7D74D4", Length = "0x90")]
@@ -311,61 +281,50 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x04006C05 RID: 27653
 		[global::Cpp2ILInjected.Token(Token = "0x4008274")]
 		public static readonly DesertDescription Invalid;
 
-		// Token: 0x04006C06 RID: 27654
 		[global::Cpp2ILInjected.Token(Token = "0x4008275")]
 		private static readonly Vector2D DefaultBlockScale;
 
-		// Token: 0x04006C07 RID: 27655
 		[global::Cpp2ILInjected.Token(Token = "0x4008276")]
 		private const int SCAN_PADDING = 5;
 
-		// Token: 0x04006C08 RID: 27656
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008277")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Rectangle <CombinedArea>k__BackingField;
 
-		// Token: 0x04006C09 RID: 27657
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008278")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Rectangle <Desert>k__BackingField;
 
-		// Token: 0x04006C0A RID: 27658
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008279")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private Rectangle <Hive>k__BackingField;
 
-		// Token: 0x04006C0B RID: 27659
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400827A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private Vector2D <BlockScale>k__BackingField;
 
-		// Token: 0x04006C0C RID: 27660
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400827B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private int <BlockColumnCount>k__BackingField;
 
-		// Token: 0x04006C0D RID: 27661
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400827C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 		private int <BlockRowCount>k__BackingField;
 
-		// Token: 0x04006C0E RID: 27662
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400827D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private bool <IsValid>k__BackingField;
 
-		// Token: 0x04006C0F RID: 27663
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400827E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]

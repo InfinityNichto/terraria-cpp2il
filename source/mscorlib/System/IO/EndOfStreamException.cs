@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.IO
 {
-	// Token: 0x0200046A RID: 1130
 	[global::Cpp2ILInjected.Token(Token = "0x2000530")]
 	[global::System.Serializable]
 	public class EndOfStreamException : IOException
 	{
-		// Token: 0x0600248B RID: 9355 RVA: 0x0001AAAD File Offset: 0x00018CAD
 		[global::Cpp2ILInjected.Token(Token = "0x600272F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95A90", Offset = "0x1B95A90", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -24,7 +22,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600248C RID: 9356 RVA: 0x0001AAB0 File Offset: 0x00018CB0
 		[global::Cpp2ILInjected.Token(Token = "0x6002730")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95AEC", Offset = "0x1B95AEC", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600248D RID: 9357 RVA: 0x0001AAB3 File Offset: 0x00018CB3
 		[global::Cpp2ILInjected.Token(Token = "0x6002731")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95B10", Offset = "0x1B95B10", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.NetworkInformation
 {
-	// Token: 0x020001DA RID: 474
 	[global::Cpp2ILInjected.Token(Token = "0x20002BC")]
 	internal class MacOsNetworkInterfaceAPI : UnixNetworkInterfaceAPI
 	{
-		// Token: 0x060010BD RID: 4285 RVA: 0x00005E3A File Offset: 0x0000403A
 		[global::Cpp2ILInjected.Token(Token = "0x60012B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1F82C", Offset = "0x1E1F82C", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -21,7 +19,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x060010BE RID: 4286 RVA: 0x00005E3D File Offset: 0x0000403D
 		[global::Cpp2ILInjected.Token(Token = "0x60012B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1E464", Offset = "0x1E1E464", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -31,7 +28,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x060010BF RID: 4287 RVA: 0x00005E40 File Offset: 0x00004040
 		[global::Cpp2ILInjected.Token(Token = "0x60012B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E1F84C", Offset = "0x1E1F84C", Length = "0x990")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +95,6 @@ namespace System.Net.NetworkInformation
 			throw null;
 		}
 
-		// Token: 0x04000B2F RID: 2863
 		[global::Cpp2ILInjected.Token(Token = "0x4000F00")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		protected readonly int AF_INET6;

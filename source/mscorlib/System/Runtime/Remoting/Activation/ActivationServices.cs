@@ -12,12 +12,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Activation
 {
-	// Token: 0x020002E0 RID: 736
 	[global::Cpp2ILInjected.Token(Token = "0x2000384")]
 	internal class ActivationServices
 	{
-		// Token: 0x1700031F RID: 799
-		// (get) Token: 0x06001B22 RID: 6946 RVA: 0x00019106 File Offset: 0x00017306
 		[global::Cpp2ILInjected.Token(Token = "0x17000377")]
 		private static IActivator ConstructionActivator
 		{
@@ -38,7 +35,6 @@ namespace System.Runtime.Remoting.Activation
 			}
 		}
 
-		// Token: 0x06001B23 RID: 6947 RVA: 0x00019109 File Offset: 0x00017309
 		[global::Cpp2ILInjected.Token(Token = "0x6001D50")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B37C4C", Offset = "0x1B37C4C", Length = "0x20C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +52,6 @@ namespace System.Runtime.Remoting.Activation
 			throw null;
 		}
 
-		// Token: 0x06001B24 RID: 6948 RVA: 0x0001910C File Offset: 0x0001730C
 		[global::Cpp2ILInjected.Token(Token = "0x6001D51")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B41694", Offset = "0x1B41694", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -78,7 +73,6 @@ namespace System.Runtime.Remoting.Activation
 			throw null;
 		}
 
-		// Token: 0x06001B25 RID: 6949 RVA: 0x0001910F File Offset: 0x0001730F
 		[global::Cpp2ILInjected.Token(Token = "0x6001D52")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B363F8", Offset = "0x1B363F8", Length = "0x988")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +105,6 @@ namespace System.Runtime.Remoting.Activation
 			throw null;
 		}
 
-		// Token: 0x06001B26 RID: 6950 RVA: 0x00019112 File Offset: 0x00017312
 		[global::Cpp2ILInjected.Token(Token = "0x6001D53")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B4189C", Offset = "0x1B4189C", Length = "0x3E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -149,7 +142,6 @@ namespace System.Runtime.Remoting.Activation
 			throw null;
 		}
 
-		// Token: 0x06001B27 RID: 6951 RVA: 0x00019115 File Offset: 0x00017315
 		[global::Cpp2ILInjected.Token(Token = "0x6001D54")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B41C88", Offset = "0x1B41C88", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -173,7 +165,6 @@ namespace System.Runtime.Remoting.Activation
 			throw null;
 		}
 
-		// Token: 0x06001B28 RID: 6952
 		[global::Cpp2ILInjected.Token(Token = "0x6001D55")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B41C84", Offset = "0x1B41C84", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.FormatterServices), Member = "GetUninitializedObject", MemberParameters = new object[] { typeof(global::System.Type) }, ReturnType = typeof(object))]
@@ -183,7 +174,6 @@ namespace System.Runtime.Remoting.Activation
 		[MethodImpl(4096)]
 		public static extern object AllocateUninitializedClassInstance(global::System.Type type);
 
-		// Token: 0x06001B29 RID: 6953
 		[global::Cpp2ILInjected.Token(Token = "0x6001D56")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B41DC0", Offset = "0x1B41DC0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RemotingConfiguration), Member = "RegisterActivatedClientType", MemberParameters = new object[] { typeof(ActivatedClientTypeEntry) }, ReturnType = typeof(void))]
@@ -193,7 +183,6 @@ namespace System.Runtime.Remoting.Activation
 		[MethodImpl(4096)]
 		public static extern void EnableProxyActivation(global::System.Type type, bool enable);
 
-		// Token: 0x04000BDE RID: 3038
 		[global::Cpp2ILInjected.Token(Token = "0x4000EC9")]
 		private static IActivator _constructionActivator;
 	}

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.Configuration
 {
-	// Token: 0x0200033E RID: 830
 	[global::Cpp2ILInjected.Token(Token = "0x2000475")]
 	public sealed class MailSettingsSectionGroup : ConfigurationSectionGroup
 	{
-		// Token: 0x06001B94 RID: 7060 RVA: 0x00007BF2 File Offset: 0x00005DF2
 		[global::Cpp2ILInjected.Token(Token = "0x6001EED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E99C18", Offset = "0x1E99C18", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,8 +17,6 @@ namespace System.Net.Configuration
 			throw null;
 		}
 
-		// Token: 0x170006A9 RID: 1705
-		// (get) Token: 0x06001B95 RID: 7061 RVA: 0x00007BF5 File Offset: 0x00005DF5
 		[global::Cpp2ILInjected.Token(Token = "0x17000714")]
 		public SmtpSection Smtp
 		{

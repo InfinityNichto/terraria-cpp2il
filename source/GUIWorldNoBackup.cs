@@ -8,11 +8,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using Terraria.Audio;
 
-// Token: 0x020001E9 RID: 489
 [global::Cpp2ILInjected.Token(Token = "0x2000289")]
 public class GUIWorldNoBackup
 {
-	// Token: 0x06000DD1 RID: 3537 RVA: 0x000244B8 File Offset: 0x000226B8
 	[global::Cpp2ILInjected.Token(Token = "0x6000EF5")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1C6A4", Offset = "0xA1C6A4", Length = "0x54")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -23,7 +21,6 @@ public class GUIWorldNoBackup
 		throw null;
 	}
 
-	// Token: 0x06000DD2 RID: 3538 RVA: 0x000244BB File Offset: 0x000226BB
 	[global::Cpp2ILInjected.Token(Token = "0x6000EF6")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1C6F8", Offset = "0xA1C6F8", Length = "0x224")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +78,6 @@ public class GUIWorldNoBackup
 		throw null;
 	}
 
-	// Token: 0x06000DD3 RID: 3539 RVA: 0x000244BE File Offset: 0x000226BE
 	[global::Cpp2ILInjected.Token(Token = "0x6000EF7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1C91C", Offset = "0xA1C91C", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -92,17 +88,14 @@ public class GUIWorldNoBackup
 		throw null;
 	}
 
-	// Token: 0x040015FC RID: 5628
 	[global::Cpp2ILInjected.Token(Token = "0x4001B1A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float statusScale;
 
-	// Token: 0x040015FD RID: 5629
 	[global::Cpp2ILInjected.Token(Token = "0x4001B1B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float descriptionScale;
 
-	// Token: 0x040015FE RID: 5630
 	[global::Cpp2ILInjected.Token(Token = "0x4001B1C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float backScale;

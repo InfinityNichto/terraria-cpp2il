@@ -1,9 +1,0 @@
-<map id="System.Text.EncoderFallbackException" name="System.Text.EncoderFallbackException">
-<area shape="rect" id="Node000001" title=" " alt="" coords="117,163,463,420"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,244,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,81,208,161,204,164,151,84"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="269,5,311,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,71,293,146,287,146,287,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="437,5,468,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="450,71,440,105,426,140,420,150,415,147,421,137,435,103,444,70"/>
-</map>

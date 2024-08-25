@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000D1 RID: 209
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000DE")]
 	public class XiaomiMacUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x0600062C RID: 1580 RVA: 0x000032B1 File Offset: 0x000014B1
 		[global::Cpp2ILInjected.Token(Token = "0x6000649")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F60A8", Offset = "0x19F60A8", Length = "0x878")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x0600062D RID: 1581 RVA: 0x000032B4 File Offset: 0x000014B4
 		[global::Cpp2ILInjected.Token(Token = "0x600064A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F6920", Offset = "0x19F6920", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

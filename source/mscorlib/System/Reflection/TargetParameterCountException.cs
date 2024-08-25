@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Reflection
 {
-	// Token: 0x02000435 RID: 1077
 	[global::Cpp2ILInjected.Token(Token = "0x20004F4")]
 	[global::System.Serializable]
 	public sealed class TargetParameterCountException : global::System.ApplicationException
 	{
-		// Token: 0x0600223B RID: 8763 RVA: 0x0001A468 File Offset: 0x00018668
 		[global::Cpp2ILInjected.Token(Token = "0x60024D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B86988", Offset = "0x1B86988", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -31,7 +29,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x0600223C RID: 8764 RVA: 0x0001A46B File Offset: 0x0001866B
 		[global::Cpp2ILInjected.Token(Token = "0x60024D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B869E4", Offset = "0x1B869E4", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,7 +47,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x0600223D RID: 8765 RVA: 0x0001A46E File Offset: 0x0001866E
 		[global::Cpp2ILInjected.Token(Token = "0x60024D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B86A08", Offset = "0x1B86A08", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

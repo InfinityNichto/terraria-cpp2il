@@ -6,11 +6,9 @@ using Internal.Runtime.Augments;
 
 namespace System.Threading.Tasks
 {
-	// Token: 0x020001C9 RID: 457
 	[global::Cpp2ILInjected.Token(Token = "0x200024A")]
 	internal class AwaitTaskContinuation : TaskContinuation, IThreadPoolWorkItem
 	{
-		// Token: 0x06001264 RID: 4708 RVA: 0x000178A9 File Offset: 0x00015AA9
 		[global::Cpp2ILInjected.Token(Token = "0x6001417")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CACD08", Offset = "0x1CACD08", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Task), Member = "SetContinuationForAwait", MemberParameters = new object[]
@@ -40,7 +38,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x06001265 RID: 4709 RVA: 0x000178AC File Offset: 0x00015AAC
 		[global::Cpp2ILInjected.Token(Token = "0x6001418")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAD72C", Offset = "0x1CAD72C", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TaskSchedulerAwaitTaskContinuation), Member = "Run", MemberParameters = new object[]
@@ -65,7 +62,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x06001266 RID: 4710 RVA: 0x000178AF File Offset: 0x00015AAF
 		[global::Cpp2ILInjected.Token(Token = "0x6001419")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAD60C", Offset = "0x1CAD60C", Length = "0x120")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -92,8 +88,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x170001B3 RID: 435
-		// (get) Token: 0x06001267 RID: 4711 RVA: 0x000178B2 File Offset: 0x00015AB2
 		[global::Cpp2ILInjected.Token(Token = "0x170001F5")]
 		internal static bool IsValidLocationForInlining
 		{
@@ -128,7 +122,6 @@ namespace System.Threading.Tasks
 			}
 		}
 
-		// Token: 0x06001268 RID: 4712 RVA: 0x000178B5 File Offset: 0x00015AB5
 		[global::Cpp2ILInjected.Token(Token = "0x600141B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CADA90", Offset = "0x1CADA90", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -149,7 +142,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x06001269 RID: 4713 RVA: 0x000178B8 File Offset: 0x00015AB8
 		[global::Cpp2ILInjected.Token(Token = "0x600141C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CADBAC", Offset = "0x1CADBAC", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -160,7 +152,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600126A RID: 4714 RVA: 0x000178BB File Offset: 0x00015ABB
 		[global::Cpp2ILInjected.Token(Token = "0x600141D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CADC14", Offset = "0x1CADC14", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -176,7 +167,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600126B RID: 4715 RVA: 0x000178BE File Offset: 0x00015ABE
 		[global::Cpp2ILInjected.Token(Token = "0x600141E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CACF68", Offset = "0x1CACF68", Length = "0x174")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -195,7 +185,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600126C RID: 4716 RVA: 0x000178C1 File Offset: 0x00015AC1
 		[global::Cpp2ILInjected.Token(Token = "0x600141F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAA2E8", Offset = "0x1CAA2E8", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -210,7 +199,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600126D RID: 4717 RVA: 0x000178C4 File Offset: 0x00015AC4
 		[global::Cpp2ILInjected.Token(Token = "0x6001420")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CA92C0", Offset = "0x1CA92C0", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Task), Member = "SetContinuationForAwait", MemberParameters = new object[]
@@ -238,7 +226,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600126E RID: 4718 RVA: 0x000178C7 File Offset: 0x00015AC7
 		[global::Cpp2ILInjected.Token(Token = "0x6001421")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CAD904", Offset = "0x1CAD904", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AwaitTaskContinuation), Member = "RunCallback", MemberParameters = new object[]
@@ -261,7 +248,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600126F RID: 4719 RVA: 0x000178CA File Offset: 0x00015ACA
 		[global::Cpp2ILInjected.Token(Token = "0x6001422")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CADCB4", Offset = "0x1CADCB4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -270,17 +256,14 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x04000847 RID: 2119
 		[global::Cpp2ILInjected.Token(Token = "0x4000AB1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly ExecutionContext m_capturedContext;
 
-		// Token: 0x04000848 RID: 2120
 		[global::Cpp2ILInjected.Token(Token = "0x4000AB2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		protected readonly global::System.Action m_action;
 
-		// Token: 0x04000849 RID: 2121
 		[global::Cpp2ILInjected.Token(Token = "0x4000AB3")]
 		private static ContextCallback s_invokeActionCallback;
 	}

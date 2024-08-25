@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x02000068 RID: 104
 	[global::Cpp2ILInjected.Token(Token = "0x2000088")]
 	internal static class Ref
 	{
-		// Token: 0x060005C0 RID: 1472 RVA: 0x00003FEF File Offset: 0x000021EF
 		[global::Cpp2ILInjected.Token(Token = "0x6000643")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D96FC0", Offset = "0x1D96FC0", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

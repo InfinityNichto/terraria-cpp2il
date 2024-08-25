@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x02000562 RID: 1378
 	[global::Cpp2ILInjected.Token(Token = "0x20007EA")]
 	public class ShimmerHelper
 	{
-		// Token: 0x06003A31 RID: 14897 RVA: 0x0002C636 File Offset: 0x0002A836
 		[global::Cpp2ILInjected.Token(Token = "0x6004120")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77823C", Offset = "0x77823C", Length = "0x498")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -39,7 +37,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A32 RID: 14898 RVA: 0x0002C639 File Offset: 0x0002A839
 		[global::Cpp2ILInjected.Token(Token = "0x6004121")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7786D4", Offset = "0x7786D4", Length = "0x18C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -87,7 +84,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A33 RID: 14899 RVA: 0x0002C63C File Offset: 0x0002A83C
 		[global::Cpp2ILInjected.Token(Token = "0x6004122")]
 		[global::Cpp2ILInjected.Address(RVA = "0x778860", Offset = "0x778860", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

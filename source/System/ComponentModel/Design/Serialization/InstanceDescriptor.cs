@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel.Design.Serialization
 {
-	// Token: 0x02000301 RID: 769
 	[global::Cpp2ILInjected.Token(Token = "0x2000414")]
 	public sealed class InstanceDescriptor
 	{
-		// Token: 0x06001939 RID: 6457 RVA: 0x00007508 File Offset: 0x00005708
 		[global::Cpp2ILInjected.Token(Token = "0x6001C17")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8BF04", Offset = "0x1E8BF04", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CultureInfoConverter), Member = "ConvertTo", MemberParameters = new object[]
@@ -63,7 +61,6 @@ namespace System.ComponentModel.Design.Serialization
 			throw null;
 		}
 
-		// Token: 0x0600193A RID: 6458 RVA: 0x0000750B File Offset: 0x0000570B
 		[global::Cpp2ILInjected.Token(Token = "0x6001C18")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8BF0C", Offset = "0x1E8BF0C", Length = "0x4D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,8 +81,6 @@ namespace System.ComponentModel.Design.Serialization
 			throw null;
 		}
 
-		// Token: 0x170005FA RID: 1530
-		// (get) Token: 0x0600193B RID: 6459 RVA: 0x0000750E File Offset: 0x0000570E
 		[global::Cpp2ILInjected.Token(Token = "0x1700063C")]
 		public ICollection Arguments
 		{
@@ -99,8 +94,6 @@ namespace System.ComponentModel.Design.Serialization
 			}
 		}
 
-		// Token: 0x170005FB RID: 1531
-		// (get) Token: 0x0600193C RID: 6460 RVA: 0x00007511 File Offset: 0x00005711
 		[global::Cpp2ILInjected.Token(Token = "0x1700063D")]
 		public MemberInfo MemberInfo
 		{
@@ -114,7 +107,6 @@ namespace System.ComponentModel.Design.Serialization
 			}
 		}
 
-		// Token: 0x0600193D RID: 6461 RVA: 0x00007514 File Offset: 0x00005714
 		[global::Cpp2ILInjected.Token(Token = "0x6001C1B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8C3F4", Offset = "0x1E8C3F4", Length = "0x330")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,19 +131,16 @@ namespace System.ComponentModel.Design.Serialization
 			throw null;
 		}
 
-		// Token: 0x04000F4D RID: 3917
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400138E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly ICollection <Arguments>k__BackingField;
 
-		// Token: 0x04000F4E RID: 3918
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400138F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly bool <IsComplete>k__BackingField;
 
-		// Token: 0x04000F4F RID: 3919
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4001390")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]

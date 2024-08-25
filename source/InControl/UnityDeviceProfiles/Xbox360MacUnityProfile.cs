@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000CF RID: 207
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000DC")]
 	public class Xbox360MacUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000628 RID: 1576 RVA: 0x000032A5 File Offset: 0x000014A5
 		[global::Cpp2ILInjected.Token(Token = "0x6000645")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F4C60", Offset = "0x19F4C60", Length = "0xA4C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000629 RID: 1577 RVA: 0x000032A8 File Offset: 0x000014A8
 		[global::Cpp2ILInjected.Token(Token = "0x6000646")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F56AC", Offset = "0x19F56AC", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

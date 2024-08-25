@@ -9,11 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Proxies
 {
-	// Token: 0x020002BC RID: 700
 	[global::Cpp2ILInjected.Token(Token = "0x200035C")]
 	internal class RemotingProxy : RealProxy, IRemotingTypeInfo
 	{
-		// Token: 0x06001A86 RID: 6790 RVA: 0x00018F8C File Offset: 0x0001718C
 		[global::Cpp2ILInjected.Token(Token = "0x6001CAB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B363BC", Offset = "0x1B363BC", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RemotingServices), Member = "GetOrCreateClientIdentity", MemberParameters = new object[]
@@ -34,7 +32,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x06001A87 RID: 6791 RVA: 0x00018F8F File Offset: 0x0001718F
 		[global::Cpp2ILInjected.Token(Token = "0x6001CAC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B33E9C", Offset = "0x1B33E9C", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RemotingServices), Member = "CreateClientProxy", MemberParameters = new object[]
@@ -61,7 +58,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x06001A88 RID: 6792 RVA: 0x00018F92 File Offset: 0x00017192
 		[global::Cpp2ILInjected.Token(Token = "0x6001CAD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B36D80", Offset = "0x1B36D80", Length = "0x5A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,7 +100,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x06001A89 RID: 6793 RVA: 0x00018F95 File Offset: 0x00017195
 		[global::Cpp2ILInjected.Token(Token = "0x6001CAE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B376C4", Offset = "0x1B376C4", Length = "0x228")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +118,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x06001A8A RID: 6794 RVA: 0x00018F98 File Offset: 0x00017198
 		[global::Cpp2ILInjected.Token(Token = "0x6001CAF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B353D4", Offset = "0x1B353D4", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RealProxy), Member = "PrivateInvoke", MemberParameters = new object[]
@@ -153,8 +147,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x170002F9 RID: 761
-		// (get) Token: 0x06001A8B RID: 6795 RVA: 0x00018F9B File Offset: 0x0001719B
 		[global::Cpp2ILInjected.Token(Token = "0x17000351")]
 		public string TypeName
 		{
@@ -170,7 +162,6 @@ namespace System.Runtime.Remoting.Proxies
 			}
 		}
 
-		// Token: 0x06001A8C RID: 6796 RVA: 0x00018F9E File Offset: 0x0001719E
 		[global::Cpp2ILInjected.Token(Token = "0x6001CB1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B37F80", Offset = "0x1B37F80", Length = "0x208")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -190,7 +181,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x06001A8D RID: 6797 RVA: 0x00018FA1 File Offset: 0x000171A1
 		[global::Cpp2ILInjected.Token(Token = "0x6001CB2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B38188", Offset = "0x1B38188", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -203,7 +193,6 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x06001A8E RID: 6798 RVA: 0x00018FA4 File Offset: 0x000171A4
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001CB3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B382A4", Offset = "0x1B382A4", Length = "0xF0")]
@@ -216,25 +205,20 @@ namespace System.Runtime.Remoting.Proxies
 			throw null;
 		}
 
-		// Token: 0x04000BA2 RID: 2978
 		[global::Cpp2ILInjected.Token(Token = "0x4000E86")]
 		private static global::System.Reflection.MethodInfo _cache_GetTypeMethod;
 
-		// Token: 0x04000BA3 RID: 2979
 		[global::Cpp2ILInjected.Token(Token = "0x4000E87")]
 		private static global::System.Reflection.MethodInfo _cache_GetHashCodeMethod;
 
-		// Token: 0x04000BA4 RID: 2980
 		[global::Cpp2ILInjected.Token(Token = "0x4000E88")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private global::System.Runtime.Remoting.Messaging.IMessageSink _sink;
 
-		// Token: 0x04000BA5 RID: 2981
 		[global::Cpp2ILInjected.Token(Token = "0x4000E89")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private bool _hasEnvoySink;
 
-		// Token: 0x04000BA6 RID: 2982
 		[global::Cpp2ILInjected.Token(Token = "0x4000E8A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private global::System.Runtime.Remoting.Messaging.ConstructionCall _ctorCall;

@@ -1,9 +1,0 @@
-<map id="Terraria.TileObject" name="Terraria.TileObject">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,512,320,755"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="147,5,178,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,71,156,207,154,328,156,449,158,495,152,496,151,449,149,328,151,207,158,71"/>
-<area shape="rect" id="Node000003" href="$d6/d5e/structTerraria_1_1TileObject.html" title=" " alt="" coords="240,207,555,449"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="180,56,291,192,287,196,176,60"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="306,451,268,500,264,497,302,448"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="557,303,574,313,581,328,579,338,572,345,568,342,574,335,576,328,570,316,554,308"/>
-</map>

@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x02000104 RID: 260
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000111")]
 	public class OuyaWindowsUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000692 RID: 1682 RVA: 0x000033E3 File Offset: 0x000015E3
 		[global::Cpp2ILInjected.Token(Token = "0x60006AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A16A64", Offset = "0x1A16A64", Length = "0x91C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000693 RID: 1683 RVA: 0x000033E6 File Offset: 0x000015E6
 		[global::Cpp2ILInjected.Token(Token = "0x60006B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A17380", Offset = "0x1A17380", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

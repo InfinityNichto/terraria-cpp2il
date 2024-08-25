@@ -8,11 +8,9 @@ using Terraria.UI;
 
 namespace Terraria.Map
 {
-	// Token: 0x020004AB RID: 1195
 	[global::Cpp2ILInjected.Token(Token = "0x20006BF")]
 	public class SpawnMapLayer : IMapLayer
 	{
-		// Token: 0x060033CC RID: 13260 RVA: 0x0002B3EB File Offset: 0x000295EB
 		[global::Cpp2ILInjected.Token(Token = "0x6003926")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1448A74", Offset = "0x1448A74", Length = "0x20C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,7 +36,6 @@ namespace Terraria.Map
 			throw null;
 		}
 
-		// Token: 0x060033CD RID: 13261 RVA: 0x0002B3EE File Offset: 0x000295EE
 		[global::Cpp2ILInjected.Token(Token = "0x6003927")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1448C80", Offset = "0x1448C80", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = ".cctor", ReturnType = typeof(void))]

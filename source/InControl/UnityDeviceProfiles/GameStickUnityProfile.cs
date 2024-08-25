@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000D5 RID: 213
 	[UnityInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000E2")]
 	public class GameStickUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000634 RID: 1588 RVA: 0x000032C9 File Offset: 0x000014C9
 		[global::Cpp2ILInjected.Token(Token = "0x6000651")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F7580", Offset = "0x19F7580", Length = "0x734")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000635 RID: 1589 RVA: 0x000032CC File Offset: 0x000014CC
 		[global::Cpp2ILInjected.Token(Token = "0x6000652")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F7CB4", Offset = "0x19F7CB4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

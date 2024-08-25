@@ -7,11 +7,9 @@ using UnityEngine;
 
 namespace Microsoft.Xna.Framework.Graphics
 {
-	// Token: 0x020002A7 RID: 679
 	[global::Cpp2ILInjected.Token(Token = "0x200036D")]
 	public class SpriteEffect : Effect
 	{
-		// Token: 0x06001575 RID: 5493 RVA: 0x00025AE7 File Offset: 0x00023CE7
 		[global::Cpp2ILInjected.Token(Token = "0x60016DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAAA080", Offset = "0xAAA080", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -21,8 +19,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x17000284 RID: 644
-		// (get) Token: 0x06001576 RID: 5494 RVA: 0x00025AEA File Offset: 0x00023CEA
 		[global::Cpp2ILInjected.Token(Token = "0x170002AE")]
 		public static SpriteEffect Effect
 		{
@@ -57,7 +53,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x04001F46 RID: 8006
 		[global::Cpp2ILInjected.Token(Token = "0x400256B")]
 		private static SpriteEffect _effect;
 	}

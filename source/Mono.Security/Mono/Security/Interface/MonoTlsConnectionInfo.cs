@@ -5,13 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Security.Interface
 {
-	// Token: 0x0200002D RID: 45
 	[global::Cpp2ILInjected.Token(Token = "0x2000048")]
 	public class MonoTlsConnectionInfo
 	{
-		// Token: 0x17000077 RID: 119
-		// (get) Token: 0x06000199 RID: 409 RVA: 0x00003408 File Offset: 0x00001608
-		// (set) Token: 0x0600019A RID: 410 RVA: 0x0000340B File Offset: 0x0000160B
 		[CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000092")]
 		public CipherSuiteCode CipherSuiteCode
@@ -36,9 +32,6 @@ namespace Mono.Security.Interface
 			}
 		}
 
-		// Token: 0x17000078 RID: 120
-		// (get) Token: 0x0600019B RID: 411 RVA: 0x0000340E File Offset: 0x0000160E
-		// (set) Token: 0x0600019C RID: 412 RVA: 0x00003411 File Offset: 0x00001611
 		[global::Cpp2ILInjected.Token(Token = "0x17000093")]
 		public TlsProtocols ProtocolVersion
 		{
@@ -60,8 +53,6 @@ namespace Mono.Security.Interface
 			}
 		}
 
-		// Token: 0x17000079 RID: 121
-		// (set) Token: 0x0600019D RID: 413 RVA: 0x00003414 File Offset: 0x00001614
 		[global::Cpp2ILInjected.Token(Token = "0x17000094")]
 		public string PeerDomainName
 		{
@@ -75,7 +66,6 @@ namespace Mono.Security.Interface
 			}
 		}
 
-		// Token: 0x0600019E RID: 414 RVA: 0x00003417 File Offset: 0x00001617
 		[global::Cpp2ILInjected.Token(Token = "0x60001F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9B3F4", Offset = "0x1A9B3F4", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -92,7 +82,6 @@ namespace Mono.Security.Interface
 			throw null;
 		}
 
-		// Token: 0x0600019F RID: 415 RVA: 0x0000341A File Offset: 0x0000161A
 		[global::Cpp2ILInjected.Token(Token = "0x60001F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9B4B0", Offset = "0x1A9B4B0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Unity.UnityTlsContext", Member = "FinishHandshake", ReturnType = typeof(void))]
@@ -103,19 +92,16 @@ namespace Mono.Security.Interface
 			throw null;
 		}
 
-		// Token: 0x040001F8 RID: 504
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000225")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private CipherSuiteCode <CipherSuiteCode>k__BackingField;
 
-		// Token: 0x040001F9 RID: 505
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000226")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private TlsProtocols <ProtocolVersion>k__BackingField;
 
-		// Token: 0x040001FA RID: 506
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000227")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]

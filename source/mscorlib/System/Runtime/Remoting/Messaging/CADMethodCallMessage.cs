@@ -7,12 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Messaging
 {
-	// Token: 0x020002FA RID: 762
 	[global::Cpp2ILInjected.Token(Token = "0x200039F")]
 	internal class CADMethodCallMessage : CADMessageBase
 	{
-		// Token: 0x17000347 RID: 839
-		// (get) Token: 0x06001B9C RID: 7068 RVA: 0x00019253 File Offset: 0x00017453
 		[global::Cpp2ILInjected.Token(Token = "0x170003A1")]
 		internal string Uri
 		{
@@ -25,7 +22,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x06001B9D RID: 7069 RVA: 0x00019256 File Offset: 0x00017456
 		[global::Cpp2ILInjected.Token(Token = "0x6001DCF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B40CFC", Offset = "0x1B40CFC", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Remoting.Channels.CrossAppDomainSink), Member = "SyncProcessMessage", MemberParameters = new object[] { typeof(IMessage) }, ReturnType = typeof(IMessage))]
@@ -37,7 +33,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x06001B9E RID: 7070 RVA: 0x00019259 File Offset: 0x00017459
 		[global::Cpp2ILInjected.Token(Token = "0x6001DD0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B46FCC", Offset = "0x1B46FCC", Length = "0x1E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -66,7 +61,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x06001B9F RID: 7071 RVA: 0x0001925C File Offset: 0x0001745C
 		[global::Cpp2ILInjected.Token(Token = "0x6001DD1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B471B0", Offset = "0x1B471B0", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MethodCall), Member = ".ctor", MemberParameters = new object[] { typeof(CADMethodCallMessage) }, ReturnType = typeof(void))]
@@ -86,7 +80,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x06001BA0 RID: 7072 RVA: 0x0001925F File Offset: 0x0001745F
 		[global::Cpp2ILInjected.Token(Token = "0x6001DD2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B472E0", Offset = "0x1B472E0", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -100,8 +93,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x17000348 RID: 840
-		// (get) Token: 0x06001BA1 RID: 7073 RVA: 0x00019262 File Offset: 0x00017462
 		[global::Cpp2ILInjected.Token(Token = "0x170003A2")]
 		internal int PropertiesCount
 		{
@@ -114,7 +105,6 @@ namespace System.Runtime.Remoting.Messaging
 			}
 		}
 
-		// Token: 0x04000C26 RID: 3110
 		[global::Cpp2ILInjected.Token(Token = "0x4000F12")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private string _uri;

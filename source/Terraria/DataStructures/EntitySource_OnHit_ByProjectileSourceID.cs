@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000469 RID: 1129
 	[global::Cpp2ILInjected.Token(Token = "0x2000665")]
 	public class EntitySource_OnHit_ByProjectileSourceID : AEntitySource_OnHit
 	{
-		// Token: 0x060031E6 RID: 12774 RVA: 0x0002AEE4 File Offset: 0x000290E4
 		[global::Cpp2ILInjected.Token(Token = "0x6003703")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D7C8", Offset = "0x141D7C8", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "GetProjectileSource_OnHit", MemberParameters = new object[]
@@ -33,7 +31,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x0400641F RID: 25631
 		[global::Cpp2ILInjected.Token(Token = "0x400780F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public readonly int SourceId;

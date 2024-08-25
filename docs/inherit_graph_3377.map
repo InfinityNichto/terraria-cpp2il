@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d5/df7/classUnityEngine_1_1Events_1_1BaseInvokableCall.html" title=" " alt="" coords="5,45,279,70"/>
-<area shape="rect" id="Node000001" href="$dc/d3b/classUnityEngine_1_1Events_1_1InvokableCall.html" title=" " alt="" coords="327,5,543,45"/>
-<area shape="poly" id="edge4642_Node000000_Node000001" title=" " alt="" coords="271,41,326,34,327,40,272,46"/>
-<area shape="rect" id="Node000003" href="$dc/d3b/classUnityEngine_1_1Events_1_1InvokableCall.html" title=" " alt="" coords="327,69,543,109"/>
-<area shape="poly" id="edge4644_Node000000_Node000003" title=" " alt="" coords="272,69,327,75,326,80,271,74"/>
-<area shape="rect" id="Node000002" href="$d9/d69/classUnityEngine_1_1Events_1_1CachedInvokableCall.html" title=" " alt="" coords="591,5,792,45"/>
-<area shape="poly" id="edge4643_Node000001_Node000002" title=" " alt="" coords="556,23,590,23,590,28,556,28"/>
-</map>

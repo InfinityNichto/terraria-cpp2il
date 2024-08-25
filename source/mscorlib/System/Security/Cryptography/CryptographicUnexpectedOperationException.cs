@@ -7,13 +7,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000233 RID: 563
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002D0")]
 	[global::System.Serializable]
 	public class CryptographicUnexpectedOperationException : CryptographicException
 	{
-		// Token: 0x06001632 RID: 5682 RVA: 0x00018356 File Offset: 0x00016556
 		[global::Cpp2ILInjected.Token(Token = "0x600184C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFA4D8", Offset = "0x1AFA4D8", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,7 +23,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001633 RID: 5683 RVA: 0x00018359 File Offset: 0x00016559
 		[global::Cpp2ILInjected.Token(Token = "0x600184D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF6D3C", Offset = "0x1AF6D3C", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,7 +61,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001634 RID: 5684 RVA: 0x0001835C File Offset: 0x0001655C
 		[global::Cpp2ILInjected.Token(Token = "0x600184E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFA4FC", Offset = "0x1AFA4FC", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +80,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001635 RID: 5685 RVA: 0x0001835F File Offset: 0x0001655F
 		[global::Cpp2ILInjected.Token(Token = "0x600184F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFA5AC", Offset = "0x1AFA5AC", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +95,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001636 RID: 5686 RVA: 0x00018362 File Offset: 0x00016562
 		[global::Cpp2ILInjected.Token(Token = "0x6001850")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFA5F4", Offset = "0x1AFA5F4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

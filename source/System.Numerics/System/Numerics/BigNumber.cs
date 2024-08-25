@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Numerics
 {
-	// Token: 0x02000004 RID: 4
 	[global::Cpp2ILInjected.Token(Token = "0x2000005")]
 	internal static class BigNumber
 	{
-		// Token: 0x06000026 RID: 38 RVA: 0x000020BF File Offset: 0x000002BF
 		[global::Cpp2ILInjected.Token(Token = "0x6000026")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D56EC4", Offset = "0x1D56EC4", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +30,6 @@ namespace System.Numerics
 			throw null;
 		}
 
-		// Token: 0x06000027 RID: 39 RVA: 0x000020C2 File Offset: 0x000002C2
 		[global::Cpp2ILInjected.Token(Token = "0x6000027")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D56FB0", Offset = "0x1D56FB0", Length = "0x5A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +76,6 @@ namespace System.Numerics
 			throw null;
 		}
 
-		// Token: 0x06000028 RID: 40 RVA: 0x000020C5 File Offset: 0x000002C5
 		[global::Cpp2ILInjected.Token(Token = "0x6000028")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D55DD4", Offset = "0x1D55DD4", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BigInteger), Member = "ToString", MemberParameters = new object[]
@@ -106,7 +102,6 @@ namespace System.Numerics
 			throw null;
 		}
 
-		// Token: 0x06000029 RID: 41 RVA: 0x000020C8 File Offset: 0x000002C8
 		[global::Cpp2ILInjected.Token(Token = "0x6000029")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D57B44", Offset = "0x1D57B44", Length = "0x948")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

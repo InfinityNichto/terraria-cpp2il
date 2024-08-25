@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections.Generic
 {
-	// Token: 0x02000520 RID: 1312
 	[global::Cpp2ILInjected.Token(Token = "0x2000638")]
 	public static class KeyValuePair
 	{
-		// Token: 0x06002C2D RID: 11309 RVA: 0x0001BFE9 File Offset: 0x0001A1E9
 		[global::Cpp2ILInjected.Token(Token = "0x600309E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C14FC8", Offset = "0x1C14FC8", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(KeyValuePair<, >), Member = "ToString", ReturnType = typeof(string))]

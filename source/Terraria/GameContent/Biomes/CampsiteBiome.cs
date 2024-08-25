@@ -7,11 +7,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005EF RID: 1519
 	[global::Cpp2ILInjected.Token(Token = "0x20008E1")]
 	public class CampsiteBiome : MicroBiome
 	{
-		// Token: 0x06003D52 RID: 15698 RVA: 0x0002CF2A File Offset: 0x0002B12A
 		[global::Cpp2ILInjected.Token(Token = "0x60045C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C1F38", Offset = "0x7C1F38", Length = "0xF30")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +126,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D53 RID: 15699 RVA: 0x0002CF2D File Offset: 0x0002B12D
 		[global::Cpp2ILInjected.Token(Token = "0x60045C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C2E68", Offset = "0x7C2E68", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

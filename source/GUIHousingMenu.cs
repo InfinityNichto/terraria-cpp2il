@@ -13,13 +13,9 @@ using Terraria.GameContent;
 using Terraria.UI;
 using UnityEngine;
 
-// Token: 0x020000E4 RID: 228
 [global::Cpp2ILInjected.Token(Token = "0x2000149")]
 public class GUIHousingMenu
 {
-	// Token: 0x170000BA RID: 186
-	// (get) Token: 0x060007F1 RID: 2033 RVA: 0x00023318 File Offset: 0x00021518
-	// (set) Token: 0x060007F2 RID: 2034 RVA: 0x0002331B File Offset: 0x0002151B
 	[global::Cpp2ILInjected.Token(Token = "0x170000DF")]
 	public bool Visible
 	{
@@ -45,7 +41,6 @@ public class GUIHousingMenu
 		}
 	}
 
-	// Token: 0x060007F3 RID: 2035 RVA: 0x0002331E File Offset: 0x0002151E
 	[global::Cpp2ILInjected.Token(Token = "0x60008ED")]
 	[global::Cpp2ILInjected.Address(RVA = "0x809C30", Offset = "0x809C30", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "LoadPageRegion", ReturnType = typeof(void))]
@@ -71,7 +66,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x060007F4 RID: 2036 RVA: 0x00023321 File Offset: 0x00021521
 	[global::Cpp2ILInjected.Token(Token = "0x60008EE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x809D1C", Offset = "0x809D1C", Length = "0x38")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -81,8 +75,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x170000BB RID: 187
-	// (get) Token: 0x060007F5 RID: 2037 RVA: 0x00023324 File Offset: 0x00021524
 	[global::Cpp2ILInjected.Token(Token = "0x170000E0")]
 	public bool collapsed
 	{
@@ -99,8 +91,6 @@ public class GUIHousingMenu
 		}
 	}
 
-	// Token: 0x170000BC RID: 188
-	// (get) Token: 0x060007F6 RID: 2038 RVA: 0x00023327 File Offset: 0x00021527
 	[global::Cpp2ILInjected.Token(Token = "0x170000E1")]
 	private Microsoft.Xna.Framework.Graphics.Texture2D _npcHeadTextureEmpty
 	{
@@ -123,8 +113,6 @@ public class GUIHousingMenu
 		}
 	}
 
-	// Token: 0x170000BD RID: 189
-	// (get) Token: 0x060007F7 RID: 2039 RVA: 0x0002332A File Offset: 0x0002152A
 	[global::Cpp2ILInjected.Token(Token = "0x170000E2")]
 	public bool HasFocus
 	{
@@ -146,7 +134,6 @@ public class GUIHousingMenu
 		}
 	}
 
-	// Token: 0x060007F8 RID: 2040 RVA: 0x0002332D File Offset: 0x0002152D
 	[global::Cpp2ILInjected.Token(Token = "0x60008F2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x809E94", Offset = "0x809E94", Length = "0x3B8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -164,7 +151,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x060007F9 RID: 2041 RVA: 0x00023330 File Offset: 0x00021530
 	[global::Cpp2ILInjected.Token(Token = "0x60008F3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80A24C", Offset = "0x80A24C", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -175,7 +161,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x060007FA RID: 2042 RVA: 0x00023333 File Offset: 0x00021533
 	[global::Cpp2ILInjected.Token(Token = "0x60008F4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80A294", Offset = "0x80A294", Length = "0x59C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -223,7 +208,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x060007FB RID: 2043 RVA: 0x00023336 File Offset: 0x00021536
 	[global::Cpp2ILInjected.Token(Token = "0x60008F5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80A830", Offset = "0x80A830", Length = "0xE90")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -297,7 +281,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x060007FC RID: 2044 RVA: 0x00023339 File Offset: 0x00021539
 	[global::Cpp2ILInjected.Token(Token = "0x60008F6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80B6C0", Offset = "0x80B6C0", Length = "0x3D8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -344,7 +327,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x060007FD RID: 2045 RVA: 0x0002333C File Offset: 0x0002153C
 	[global::Cpp2ILInjected.Token(Token = "0x60008F7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80BB98", Offset = "0x80BB98", Length = "0x100")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -361,7 +343,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x060007FE RID: 2046 RVA: 0x0002333F File Offset: 0x0002153F
 	[global::Cpp2ILInjected.Token(Token = "0x60008F8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80BA98", Offset = "0x80BA98", Length = "0x100")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -378,7 +359,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x060007FF RID: 2047 RVA: 0x00023342 File Offset: 0x00021542
 	[global::Cpp2ILInjected.Token(Token = "0x60008F9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80BC98", Offset = "0x80BC98", Length = "0x168")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -395,7 +375,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x06000800 RID: 2048 RVA: 0x00023345 File Offset: 0x00021545
 	[global::Cpp2ILInjected.Token(Token = "0x60008FA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80BE00", Offset = "0x80BE00", Length = "0x69C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -493,7 +472,6 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x06000801 RID: 2049 RVA: 0x00023348 File Offset: 0x00021548
 	[global::Cpp2ILInjected.Token(Token = "0x60008FB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80C49C", Offset = "0x80C49C", Length = "0x10BC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -507,107 +485,86 @@ public class GUIHousingMenu
 		throw null;
 	}
 
-	// Token: 0x04000565 RID: 1381
 	[global::Cpp2ILInjected.Token(Token = "0x40007C0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private bool _visible;
 
-	// Token: 0x04000566 RID: 1382
 	[global::Cpp2ILInjected.Token(Token = "0x40007C1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	public int LastNPCHousingHover;
 
-	// Token: 0x04000567 RID: 1383
 	[global::Cpp2ILInjected.Token(Token = "0x40007C2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public int NPCHousingHover;
 
-	// Token: 0x04000568 RID: 1384
 	[global::Cpp2ILInjected.Token(Token = "0x40007C3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public List<int> _activeNPCEntries;
 
-	// Token: 0x04000569 RID: 1385
 	[global::Cpp2ILInjected.Token(Token = "0x40007C4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public string npcString;
 
-	// Token: 0x0400056A RID: 1386
 	[global::Cpp2ILInjected.Token(Token = "0x40007C5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private int _lastNPCOVer;
 
-	// Token: 0x0400056B RID: 1387
 	[global::Cpp2ILInjected.Token(Token = "0x40007C6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private bool _npcOver;
 
-	// Token: 0x0400056C RID: 1388
 	[global::Cpp2ILInjected.Token(Token = "0x40007C7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private int over;
 
-	// Token: 0x0400056D RID: 1389
 	[global::Cpp2ILInjected.Token(Token = "0x40007C8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private Microsoft.Xna.Framework.Graphics.Texture2D _npcHeadTexture;
 
-	// Token: 0x0400056E RID: 1390
 	[global::Cpp2ILInjected.Token(Token = "0x40007C9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	public float scrollOffset;
 
-	// Token: 0x0400056F RID: 1391
 	[global::Cpp2ILInjected.Token(Token = "0x40007CA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	private float scrollMomentum;
 
-	// Token: 0x04000570 RID: 1392
 	[global::Cpp2ILInjected.Token(Token = "0x40007CB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private int scrollDragging;
 
-	// Token: 0x04000571 RID: 1393
 	[global::Cpp2ILInjected.Token(Token = "0x40007CC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 	private Microsoft.Xna.Framework.Vector2 dragOffset;
 
-	// Token: 0x04000572 RID: 1394
 	[global::Cpp2ILInjected.Token(Token = "0x40007CD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 	private float scrollDelay;
 
-	// Token: 0x04000573 RID: 1395
 	[global::Cpp2ILInjected.Token(Token = "0x40007CE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private int _npcCount;
 
-	// Token: 0x04000574 RID: 1396
 	[global::Cpp2ILInjected.Token(Token = "0x40007CF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x64")]
 	public int ActiveNPCCount;
 
-	// Token: 0x04000575 RID: 1397
 	[global::Cpp2ILInjected.Token(Token = "0x40007D0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private float HousingQueryScale;
 
-	// Token: 0x04000576 RID: 1398
 	[global::Cpp2ILInjected.Token(Token = "0x40007D1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x6C")]
 	public bool menuTogglePressed;
 
-	// Token: 0x04000577 RID: 1399
 	[global::Cpp2ILInjected.Token(Token = "0x40007D2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private DateTime NavigationTick;
 
-	// Token: 0x04000578 RID: 1400
 	[global::Cpp2ILInjected.Token(Token = "0x40007D3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	private bool hotbarActive;
 
-	// Token: 0x04000579 RID: 1401
 	[global::Cpp2ILInjected.Token(Token = "0x40007D4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x7C")]
 	private float ScrollAmount;

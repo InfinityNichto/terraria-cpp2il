@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.IO;
 using System.Runtime.CompilerServices;
+using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Cpp2ILInjected;
@@ -9,11 +10,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.InteropServices
 {
-	// Token: 0x02000387 RID: 903
 	[global::Cpp2ILInjected.Token(Token = "0x2000431")]
 	public static class MemoryMarshal
 	{
-		// Token: 0x06001F10 RID: 7952 RVA: 0x00019C37 File Offset: 0x00017E37
 		[global::Cpp2ILInjected.Token(Token = "0x6002151")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1591E68", Offset = "0x1591E68", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -26,7 +25,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F11 RID: 7953 RVA: 0x00019C3A File Offset: 0x00017E3A
 		[global::Cpp2ILInjected.Token(Token = "0x6002152")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1591F10", Offset = "0x1591F10", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -39,7 +37,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F12 RID: 7954 RVA: 0x00019C3D File Offset: 0x00017E3D
 		[global::Cpp2ILInjected.Token(Token = "0x6002153")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1592108", Offset = "0x1592108", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -55,17 +52,186 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F13 RID: 7955 RVA: 0x00019C40 File Offset: 0x00017E40
 		[global::Cpp2ILInjected.Token(Token = "0x6002154")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1592174", Offset = "0x1592174", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::Interop.Sys), Member = "Stat", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(ref global::Interop.Sys.FileStatus)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::Interop.Sys), Member = "LStat", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(ref global::Interop.Sys.FileStatus)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.BitConverter), Member = "TryWriteBytes", MemberParameters = new object[]
+		{
+			typeof(global::System.Span<byte>),
+			typeof(uint)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Convert), Member = "TryDecodeFromUtf16", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Span<byte>),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ASCIIEncoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ASCIIEncoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.DecoderNLS), Member = "GetCharCount", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.DecoderNLS), Member = "GetChars", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(char[]),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.DecoderNLS), Member = "Convert", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(char[]),
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.EncoderNLS), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.EncoderNLS), Member = "Convert", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.EncodingNLS), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.EncodingNLS), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.UTF32Encoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.UTF32Encoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.UTF7Encoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.UTF7Encoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.UTF8Encoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.UTF8Encoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.UnicodeEncoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.UnicodeEncoding), Member = "GetBytes", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.PinnedBufferMemoryStream), Member = ".ctor", MemberParameters = new object[] { typeof(byte[]) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "ReadCore", MemberParameters = new object[] { typeof(global::System.Span<byte>) }, ReturnType = typeof(int))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 23)]
 		public static ref T GetReference<T>(global::System.Span<T> span)
 		{
 			throw null;
 		}
 
-		// Token: 0x06001F14 RID: 7956 RVA: 0x00019C43 File Offset: 0x00017E43
 		[global::Cpp2ILInjected.Token(Token = "0x6002155")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1592170", Offset = "0x1592170", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -88,7 +254,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F15 RID: 7957 RVA: 0x00019C46 File Offset: 0x00017E46
 		[global::Cpp2ILInjected.Token(Token = "0x6002156")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1592134", Offset = "0x1592134", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -100,7 +265,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F16 RID: 7958 RVA: 0x00019C49 File Offset: 0x00017E49
 		[global::Cpp2ILInjected.Token(Token = "0x6002157")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1592128", Offset = "0x1592128", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -112,7 +276,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F17 RID: 7959 RVA: 0x00019C4C File Offset: 0x00017E4C
 		[global::Cpp2ILInjected.Token(Token = "0x6002158")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1592110", Offset = "0x1592110", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -123,7 +286,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F18 RID: 7960 RVA: 0x00019C4F File Offset: 0x00017E4F
 		[global::Cpp2ILInjected.Token(Token = "0x6002159")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1592194", Offset = "0x1592194", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]

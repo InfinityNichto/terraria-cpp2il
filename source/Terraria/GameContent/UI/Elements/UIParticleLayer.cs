@@ -8,11 +8,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006DE RID: 1758
 	[global::Cpp2ILInjected.Token(Token = "0x2000AC6")]
 	public class UIParticleLayer : UIElement
 	{
-		// Token: 0x060044C0 RID: 17600 RVA: 0x0002E4DB File Offset: 0x0002C6DB
 		[global::Cpp2ILInjected.Token(Token = "0x6005121")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92CDE8", Offset = "0x92CDE8", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UICreativeInfiniteItemsDisplay), Member = "BuildSacrificeMenuContents", MemberParameters = new object[] { typeof(UIElement) }, ReturnType = typeof(void))]
@@ -31,7 +29,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060044C1 RID: 17601 RVA: 0x0002E4DE File Offset: 0x0002C6DE
 		[global::Cpp2ILInjected.Token(Token = "0x6005122")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92CED0", Offset = "0x92CED0", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -41,7 +38,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060044C2 RID: 17602 RVA: 0x0002E4E1 File Offset: 0x0002C6E1
 		[global::Cpp2ILInjected.Token(Token = "0x6005123")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92CEDC", Offset = "0x92CEDC", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -65,7 +61,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060044C3 RID: 17603 RVA: 0x0002E4E4 File Offset: 0x0002C6E4
 		[global::Cpp2ILInjected.Token(Token = "0x6005124")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92D020", Offset = "0x92D020", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -75,7 +70,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060044C4 RID: 17604 RVA: 0x0002E4E7 File Offset: 0x0002C6E7
 		[global::Cpp2ILInjected.Token(Token = "0x6005125")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92D02C", Offset = "0x92D02C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UICreativeInfiniteItemsDisplay), Member = "UpdateVisualFrame", ReturnType = typeof(void))]
@@ -86,7 +80,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060044C5 RID: 17605 RVA: 0x0002E4EA File Offset: 0x0002C6EA
 		[global::Cpp2ILInjected.Token(Token = "0x6005126")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92D038", Offset = "0x92D038", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UICreativeInfiniteItemsDisplay), Member = "StopPlayingAnimation", ReturnType = typeof(void))]
@@ -97,17 +90,14 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0400707D RID: 28797
 		[global::Cpp2ILInjected.Token(Token = "0x40089C9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		public ParticleRenderer ParticleSystem;
 
-		// Token: 0x0400707E RID: 28798
 		[global::Cpp2ILInjected.Token(Token = "0x40089CA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		public Vector2 AnchorPositionOffsetByPercents;
 
-		// Token: 0x0400707F RID: 28799
 		[global::Cpp2ILInjected.Token(Token = "0x40089CB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x158")]
 		public Vector2 AnchorPositionOffsetByPixels;

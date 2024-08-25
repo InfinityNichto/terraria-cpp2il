@@ -6,14 +6,10 @@ using UnityEngine;
 
 namespace InControl
 {
-	// Token: 0x0200004E RID: 78
 	[global::Cpp2ILInjected.Token(Token = "0x2000058")]
 	[Serializable]
 	public class TouchSprite
 	{
-		// Token: 0x17000135 RID: 309
-		// (get) Token: 0x06000404 RID: 1028 RVA: 0x00002C3C File Offset: 0x00000E3C
-		// (set) Token: 0x06000405 RID: 1029 RVA: 0x00002C3F File Offset: 0x00000E3F
 		[global::Cpp2ILInjected.Token(Token = "0x17000137")]
 		public bool Dirty
 		{
@@ -35,9 +31,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000136 RID: 310
-		// (get) Token: 0x06000406 RID: 1030 RVA: 0x00002C42 File Offset: 0x00000E42
-		// (set) Token: 0x06000407 RID: 1031 RVA: 0x00002C45 File Offset: 0x00000E45
 		[global::Cpp2ILInjected.Token(Token = "0x17000138")]
 		public bool Ready
 		{
@@ -59,7 +52,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x06000408 RID: 1032 RVA: 0x00002C48 File Offset: 0x00000E48
 		[global::Cpp2ILInjected.Token(Token = "0x6000417")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19A465C", Offset = "0x19A465C", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -69,7 +61,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000409 RID: 1033 RVA: 0x00002C4B File Offset: 0x00000E4B
 		[global::Cpp2ILInjected.Token(Token = "0x6000418")]
 		[global::Cpp2ILInjected.Address(RVA = "0x199EA38", Offset = "0x199EA38", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -83,7 +74,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600040A RID: 1034 RVA: 0x00002C4E File Offset: 0x00000E4E
 		[global::Cpp2ILInjected.Token(Token = "0x6000419")]
 		[global::Cpp2ILInjected.Address(RVA = "0x199DAB8", Offset = "0x199DAB8", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchStickControl), Member = "CreateControl", ReturnType = typeof(void))]
@@ -105,7 +95,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600040B RID: 1035 RVA: 0x00002C51 File Offset: 0x00000E51
 		[global::Cpp2ILInjected.Token(Token = "0x600041A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x199DB3C", Offset = "0x199DB3C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchButtonControl), Member = "DestroyControl", ReturnType = typeof(void))]
@@ -118,7 +107,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600040C RID: 1036 RVA: 0x00002C54 File Offset: 0x00000E54
 		[global::Cpp2ILInjected.Token(Token = "0x600041B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x199E084", Offset = "0x199E084", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -128,7 +116,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600040D RID: 1037 RVA: 0x00002C57 File Offset: 0x00000E57
 		[global::Cpp2ILInjected.Token(Token = "0x600041C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x199DC84", Offset = "0x199DC84", Length = "0x290")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -175,7 +162,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600040E RID: 1038 RVA: 0x00002C5A File Offset: 0x00000E5A
 		[global::Cpp2ILInjected.Token(Token = "0x600041D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19A4684", Offset = "0x19A4684", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchSprite), Member = "Create", MemberParameters = new object[]
@@ -199,7 +185,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600040F RID: 1039 RVA: 0x00002C5D File Offset: 0x00000E5D
 		[global::Cpp2ILInjected.Token(Token = "0x600041E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19A47C8", Offset = "0x19A47C8", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchSprite), Member = "Create", MemberParameters = new object[]
@@ -227,7 +212,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000410 RID: 1040 RVA: 0x00002C60 File Offset: 0x00000E60
 		[global::Cpp2ILInjected.Token(Token = "0x600041F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19A48EC", Offset = "0x19A48EC", Length = "0x1E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -253,7 +237,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000411 RID: 1041 RVA: 0x00002C63 File Offset: 0x00000E63
 		[global::Cpp2ILInjected.Token(Token = "0x6000420")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19A4AD0", Offset = "0x19A4AD0", Length = "0x1F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -276,7 +259,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000412 RID: 1042 RVA: 0x00002C66 File Offset: 0x00000E66
 		[global::Cpp2ILInjected.Token(Token = "0x6000421")]
 		[global::Cpp2ILInjected.Address(RVA = "0x199F510", Offset = "0x199F510", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -291,7 +273,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000413 RID: 1043 RVA: 0x00002C69 File Offset: 0x00000E69
 		[global::Cpp2ILInjected.Token(Token = "0x6000422")]
 		[global::Cpp2ILInjected.Address(RVA = "0x199E3F4", Offset = "0x199E3F4", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchButtonControl), Member = "SubmitControlState", MemberParameters = new object[]
@@ -309,7 +290,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000414 RID: 1044 RVA: 0x00002C6C File Offset: 0x00000E6C
 		[global::Cpp2ILInjected.Token(Token = "0x6000423")]
 		[global::Cpp2ILInjected.Address(RVA = "0x199DF74", Offset = "0x199DF74", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchButtonControl), Member = "DrawGizmos", ReturnType = typeof(void))]
@@ -333,9 +313,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x17000137 RID: 311
-		// (get) Token: 0x06000415 RID: 1045 RVA: 0x00002C6F File Offset: 0x00000E6F
-		// (set) Token: 0x06000416 RID: 1046 RVA: 0x00002C72 File Offset: 0x00000E72
 		[global::Cpp2ILInjected.Token(Token = "0x17000139")]
 		public bool State
 		{
@@ -356,9 +333,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000138 RID: 312
-		// (get) Token: 0x06000417 RID: 1047 RVA: 0x00002C75 File Offset: 0x00000E75
-		// (set) Token: 0x06000418 RID: 1048 RVA: 0x00002C78 File Offset: 0x00000E78
 		[global::Cpp2ILInjected.Token(Token = "0x1700013A")]
 		public Sprite BusySprite
 		{
@@ -384,9 +358,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000139 RID: 313
-		// (get) Token: 0x06000419 RID: 1049 RVA: 0x00002C7B File Offset: 0x00000E7B
-		// (set) Token: 0x0600041A RID: 1050 RVA: 0x00002C7E File Offset: 0x00000E7E
 		[global::Cpp2ILInjected.Token(Token = "0x1700013B")]
 		public Sprite IdleSprite
 		{
@@ -412,8 +383,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700013A RID: 314
-		// (set) Token: 0x0600041B RID: 1051 RVA: 0x00002C81 File Offset: 0x00000E81
 		[global::Cpp2ILInjected.Token(Token = "0x1700013C")]
 		public Sprite Sprite
 		{
@@ -432,9 +401,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700013B RID: 315
-		// (get) Token: 0x0600041C RID: 1052 RVA: 0x00002C84 File Offset: 0x00000E84
-		// (set) Token: 0x0600041D RID: 1053 RVA: 0x00002C87 File Offset: 0x00000E87
 		[global::Cpp2ILInjected.Token(Token = "0x1700013D")]
 		public Color BusyColor
 		{
@@ -455,9 +421,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700013C RID: 316
-		// (get) Token: 0x0600041E RID: 1054 RVA: 0x00002C8A File Offset: 0x00000E8A
-		// (set) Token: 0x0600041F RID: 1055 RVA: 0x00002C8D File Offset: 0x00000E8D
 		[global::Cpp2ILInjected.Token(Token = "0x1700013E")]
 		public Color IdleColor
 		{
@@ -478,9 +441,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700013D RID: 317
-		// (get) Token: 0x06000420 RID: 1056 RVA: 0x00002C90 File Offset: 0x00000E90
-		// (set) Token: 0x06000421 RID: 1057 RVA: 0x00002C93 File Offset: 0x00000E93
 		[global::Cpp2ILInjected.Token(Token = "0x1700013F")]
 		public TouchSpriteShape Shape
 		{
@@ -501,9 +461,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700013E RID: 318
-		// (get) Token: 0x06000422 RID: 1058 RVA: 0x00002C96 File Offset: 0x00000E96
-		// (set) Token: 0x06000423 RID: 1059 RVA: 0x00002C99 File Offset: 0x00000E99
 		[global::Cpp2ILInjected.Token(Token = "0x17000140")]
 		public TouchUnitType SizeUnitType
 		{
@@ -524,9 +481,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x1700013F RID: 319
-		// (get) Token: 0x06000424 RID: 1060 RVA: 0x00002C9C File Offset: 0x00000E9C
-		// (set) Token: 0x06000425 RID: 1061 RVA: 0x00002C9F File Offset: 0x00000E9F
 		[global::Cpp2ILInjected.Token(Token = "0x17000141")]
 		public Vector2 Size
 		{
@@ -547,8 +501,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000140 RID: 320
-		// (get) Token: 0x06000426 RID: 1062 RVA: 0x00002CA2 File Offset: 0x00000EA2
 		[global::Cpp2ILInjected.Token(Token = "0x17000142")]
 		public Vector2 WorldSize
 		{
@@ -561,9 +513,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000141 RID: 321
-		// (get) Token: 0x06000427 RID: 1063 RVA: 0x00002CA5 File Offset: 0x00000EA5
-		// (set) Token: 0x06000428 RID: 1064 RVA: 0x00002CA8 File Offset: 0x00000EA8
 		[global::Cpp2ILInjected.Token(Token = "0x17000143")]
 		public Vector3 Position
 		{
@@ -600,83 +549,69 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x0400036B RID: 875
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40003B7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Sprite idleSprite;
 
-		// Token: 0x0400036C RID: 876
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40003B8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Sprite busySprite;
 
-		// Token: 0x0400036D RID: 877
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40003B9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Color idleColor;
 
-		// Token: 0x0400036E RID: 878
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40003BA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private Color busyColor;
 
-		// Token: 0x0400036F RID: 879
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40003BB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private TouchSpriteShape shape;
 
-		// Token: 0x04000370 RID: 880
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40003BC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		private TouchUnitType sizeUnitType;
 
-		// Token: 0x04000371 RID: 881
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40003BD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private Vector2 size;
 
-		// Token: 0x04000372 RID: 882
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x40003BE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private bool lockAspectRatio;
 
-		// Token: 0x04000373 RID: 883
 		[SerializeField]
 		[HideInInspector]
 		[global::Cpp2ILInjected.Token(Token = "0x40003BF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 		private Vector2 worldSize;
 
-		// Token: 0x04000374 RID: 884
 		[global::Cpp2ILInjected.Token(Token = "0x40003C0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private GameObject spriteGameObject;
 
-		// Token: 0x04000375 RID: 885
 		[global::Cpp2ILInjected.Token(Token = "0x40003C1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private SpriteRenderer spriteRenderer;
 
-		// Token: 0x04000376 RID: 886
 		[global::Cpp2ILInjected.Token(Token = "0x40003C2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		private bool state;
 
-		// Token: 0x04000377 RID: 887
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40003C3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x71")]
 		private bool <Dirty>k__BackingField;
 
-		// Token: 0x04000378 RID: 888
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40003C4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x72")]

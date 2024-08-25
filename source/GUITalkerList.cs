@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using UnityEngine;
 
-// Token: 0x02000104 RID: 260
 [global::Cpp2ILInjected.Token(Token = "0x2000173")]
 public class GUITalkerList
 {
-	// Token: 0x06000985 RID: 2437 RVA: 0x000237D4 File Offset: 0x000219D4
 	[global::Cpp2ILInjected.Token(Token = "0x6000A85")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99C1B8", Offset = "0x99C1B8", Length = "0x170")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -39,7 +37,6 @@ public class GUITalkerList
 		throw null;
 	}
 
-	// Token: 0x06000986 RID: 2438 RVA: 0x000237D7 File Offset: 0x000219D7
 	[global::Cpp2ILInjected.Token(Token = "0x6000A86")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99C328", Offset = "0x99C328", Length = "0x394")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -95,7 +92,6 @@ public class GUITalkerList
 		throw null;
 	}
 
-	// Token: 0x06000987 RID: 2439 RVA: 0x000237DA File Offset: 0x000219DA
 	[global::Cpp2ILInjected.Token(Token = "0x6000A87")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99C720", Offset = "0x99C720", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -105,7 +101,6 @@ public class GUITalkerList
 		throw null;
 	}
 
-	// Token: 0x06000988 RID: 2440 RVA: 0x000237DD File Offset: 0x000219DD
 	[global::Cpp2ILInjected.Token(Token = "0x6000A88")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99C76C", Offset = "0x99C76C", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -114,7 +109,6 @@ public class GUITalkerList
 		throw null;
 	}
 
-	// Token: 0x06000989 RID: 2441 RVA: 0x000237E0 File Offset: 0x000219E0
 	[global::Cpp2ILInjected.Token(Token = "0x6000A89")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99C770", Offset = "0x99C770", Length = "0x2AC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -158,7 +152,6 @@ public class GUITalkerList
 		throw null;
 	}
 
-	// Token: 0x0600098A RID: 2442 RVA: 0x000237E3 File Offset: 0x000219E3
 	[global::Cpp2ILInjected.Token(Token = "0x6000A8A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99C6BC", Offset = "0x99C6BC", Length = "0x64")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -177,32 +170,26 @@ public class GUITalkerList
 		throw null;
 	}
 
-	// Token: 0x040007BF RID: 1983
 	[global::Cpp2ILInjected.Token(Token = "0x4000A72")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private List<string> ActiveTalkers;
 
-	// Token: 0x040007C0 RID: 1984
 	[global::Cpp2ILInjected.Token(Token = "0x4000A73")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private Rectangle lastDrawRegion;
 
-	// Token: 0x040007C1 RID: 1985
 	[global::Cpp2ILInjected.Token(Token = "0x4000A74")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private GUIItemGrid.GetItemScaleHandler itemScale;
 
-	// Token: 0x040007C2 RID: 1986
 	[global::Cpp2ILInjected.Token(Token = "0x4000A75")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private GUIItemGrid.CursorOver itemOver;
 
-	// Token: 0x040007C3 RID: 1987
 	[global::Cpp2ILInjected.Token(Token = "0x4000A76")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private GUIItemGrid.DrawItemHandler itemDraw;
 
-	// Token: 0x040007C4 RID: 1988
 	[global::Cpp2ILInjected.Token(Token = "0x4000A77")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private int itemOffset;

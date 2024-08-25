@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x020002D9 RID: 729
 	[global::Cpp2ILInjected.Token(Token = "0x20003D8")]
 	public class CollectionConverter : TypeConverter
 	{
-		// Token: 0x0600179B RID: 6043 RVA: 0x0000708B File Offset: 0x0000528B
 		[global::Cpp2ILInjected.Token(Token = "0x60019FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E61AFC", Offset = "0x1E61AFC", Length = "0x174")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ArrayConverter), Member = "ConvertTo", MemberParameters = new object[]
@@ -34,7 +32,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600179C RID: 6044 RVA: 0x0000708E File Offset: 0x0000528E
 		[global::Cpp2ILInjected.Token(Token = "0x60019FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E61EA4", Offset = "0x1E61EA4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -43,7 +40,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600179D RID: 6045 RVA: 0x00007091 File Offset: 0x00005291
 		[global::Cpp2ILInjected.Token(Token = "0x60019FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E61EAC", Offset = "0x1E61EAC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -52,7 +48,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600179E RID: 6046 RVA: 0x00007094 File Offset: 0x00005294
 		[global::Cpp2ILInjected.Token(Token = "0x6001A00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E61EB4", Offset = "0x1E61EB4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ArrayConverter), Member = ".ctor", ReturnType = typeof(void))]

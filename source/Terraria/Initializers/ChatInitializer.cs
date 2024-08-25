@@ -8,11 +8,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.Initializers
 {
-	// Token: 0x020003D4 RID: 980
 	[global::Cpp2ILInjected.Token(Token = "0x2000589")]
 	public static class ChatInitializer
 	{
-		// Token: 0x0600300D RID: 12301 RVA: 0x0002A971 File Offset: 0x00028B71
 		[global::Cpp2ILInjected.Token(Token = "0x6003493")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1377930", Offset = "0x1377930", Length = "0x6C8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "Initialize_AlmostEverything", ReturnType = typeof(void))]
@@ -26,7 +24,6 @@ namespace Terraria.Initializers
 			throw null;
 		}
 
-		// Token: 0x0600300E RID: 12302 RVA: 0x0002A974 File Offset: 0x00028B74
 		[global::Cpp2ILInjected.Token(Token = "0x6003494")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1377FF8", Offset = "0x1377FF8", Length = "0x24C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

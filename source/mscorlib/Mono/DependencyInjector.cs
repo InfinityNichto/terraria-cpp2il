@@ -7,12 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono
 {
-	// Token: 0x02000007 RID: 7
 	[global::Cpp2ILInjected.Token(Token = "0x200000F")]
 	internal static class DependencyInjector
 	{
-		// Token: 0x17000001 RID: 1
-		// (get) Token: 0x06000012 RID: 18 RVA: 0x00014618 File Offset: 0x00012818
 		[global::Cpp2ILInjected.Token(Token = "0x17000003")]
 		internal static ISystemDependencyProvider SystemProvider
 		{
@@ -36,7 +33,6 @@ namespace Mono
 			}
 		}
 
-		// Token: 0x06000013 RID: 19 RVA: 0x0001461B File Offset: 0x0001281B
 		[global::Cpp2ILInjected.Token(Token = "0x6000039")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAAB90", Offset = "0x1AAAB90", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -55,7 +51,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x06000014 RID: 20 RVA: 0x0001461E File Offset: 0x0001281E
 		[global::Cpp2ILInjected.Token(Token = "0x600003A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAAA50", Offset = "0x1AAAA50", Length = "0x140")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DependencyInjector), Member = "get_SystemProvider", ReturnType = typeof(ISystemDependencyProvider))]
@@ -82,7 +77,6 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x06000015 RID: 21 RVA: 0x00014621 File Offset: 0x00012821
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600003B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AAAD2C", Offset = "0x1AAAD2C", Length = "0x70")]
@@ -94,11 +88,9 @@ namespace Mono
 			throw null;
 		}
 
-		// Token: 0x04000005 RID: 5
 		[global::Cpp2ILInjected.Token(Token = "0x4000088")]
 		private static object locker;
 
-		// Token: 0x04000006 RID: 6
 		[global::Cpp2ILInjected.Token(Token = "0x4000089")]
 		private static ISystemDependencyProvider systemDependency;
 	}

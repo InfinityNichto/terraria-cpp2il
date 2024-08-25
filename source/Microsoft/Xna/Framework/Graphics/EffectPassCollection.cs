@@ -3,17 +3,21 @@ using System.Collections;
 using System.Collections.Generic;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
+using Terraria;
+using Terraria.DataStructures;
 using Terraria.GameContent;
+using Terraria.GameContent.Animations;
+using Terraria.Graphics;
+using Terraria.Graphics.Light;
+using Terraria.Graphics.Renderers;
 using Terraria.Graphics.Shaders;
 using Unity.IL2CPP.CompilerServices;
 
 namespace Microsoft.Xna.Framework.Graphics
 {
-	// Token: 0x020002A2 RID: 674
 	[global::Cpp2ILInjected.Token(Token = "0x2000366")]
 	public class EffectPassCollection : IEnumerable<EffectPass>, IEnumerable
 	{
-		// Token: 0x06001556 RID: 5462 RVA: 0x00025A8A File Offset: 0x00023C8A
 		[global::Cpp2ILInjected.Token(Token = "0x60016B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAA5098", Offset = "0xAA5098", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenShader), Member = "get_Effect", ReturnType = typeof(ScreenShader))]
@@ -26,7 +30,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x06001557 RID: 5463 RVA: 0x00025A8D File Offset: 0x00023C8D
 		[global::Cpp2ILInjected.Token(Token = "0x60016B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAA50C0", Offset = "0xAA50C0", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +52,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x1700027A RID: 634
 		[Il2CppSetOption(/*Failed to decode CustomAttribute blob!*/)]
 		[Il2CppSetOption(/*Failed to decode CustomAttribute blob!*/)]
 		[global::Cpp2ILInjected.Token(Token = "0x170002A2")]
@@ -57,6 +59,115 @@ namespace Microsoft.Xna.Framework.Graphics
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x60016BA")]
 			[global::Cpp2ILInjected.Address(RVA = "0xAA51DC", Offset = "0xAA51DC", Length = "0x10")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "DrawNPC", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SpriteBatch), Member = ".ctor", MemberParameters = new object[] { typeof(GraphicsDevice) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCs", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(NPC),
+				typeof(bool),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(NPC),
+				typeof(bool),
+				typeof(Vector2),
+				typeof(LightMap),
+				typeof(ref Rectangle)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect_HallowBoss", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(NPC),
+				typeof(ref Vector2),
+				typeof(int),
+				typeof(ref Color),
+				typeof(ref Vector2),
+				typeof(SpriteEffects)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawProj_LightsBane", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawDust", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawWithOutlines", MemberParameters = new object[]
+			{
+				typeof(Entity),
+				typeof(Texture2D),
+				typeof(Vector2),
+				typeof(Rectangle),
+				typeof(Color),
+				typeof(float),
+				typeof(Vector2),
+				typeof(float),
+				typeof(SpriteEffects)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHelper), Member = "SetShaderForData", MemberParameters = new object[]
+			{
+				typeof(Player),
+				typeof(int),
+				typeof(ref DrawData),
+				typeof(ref EffectPass)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHelper), Member = "SetShaderForData", MemberParameters = new object[]
+			{
+				typeof(Player),
+				typeof(int),
+				typeof(ref DrawData)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_RenderAllLayers", MemberParameters = new object[]
+			{
+				typeof(ref PlayerDrawSet),
+				typeof(Vector2[])
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_RenderAllLayers", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FinalFractalHelper), Member = "Draw", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EmpressBladeDrawer), Member = "Draw", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MagicMissileDrawer), Member = "Draw", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LightDiscDrawer), Member = "Draw", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FlameLashDrawer), Member = "Draw", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RainbowRodDrawer), Member = "Draw", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ArmorShaderDataSet), Member = "Apply", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(Entity),
+				typeof(DrawData?)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ArmorShaderDataSet), Member = "ApplySecondary", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(Entity),
+				typeof(DrawData?)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HairShaderDataSet), Member = "Apply", MemberParameters = new object[]
+			{
+				typeof(short),
+				typeof(Player),
+				typeof(DrawData?)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FlameParticle), Member = "Draw", MemberParameters = new object[]
+			{
+				typeof(ref ParticleRendererSettings),
+				typeof(SpriteBatch)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LegacyPlayerRenderer), Member = "RenderOutlines", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(float),
+				typeof(float),
+				typeof(Color)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MapHeadRenderer), Member = "RenderDrawData", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TilePaintSystemV2), Member = "GetRealShader", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(TreePaintingSettings)
+			}, ReturnType = typeof(EffectPass))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Segments.SpriteSegment.MaskedFadeEffect), Member = "AfterDrawing", MemberParameters = new object[]
+			{
+				typeof(ref GameAnimationSegment),
+				typeof(ref DrawData)
+			}, ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 39)]
 			get
 			{
@@ -64,7 +175,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700027B RID: 635
 		[global::Cpp2ILInjected.Token(Token = "0x170002A3")]
 		public EffectPass this[string name]
 		{
@@ -86,8 +196,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700027C RID: 636
-		// (get) Token: 0x0600155A RID: 5466 RVA: 0x00025A96 File Offset: 0x00023C96
 		[global::Cpp2ILInjected.Token(Token = "0x170002A4")]
 		public int Count
 		{
@@ -100,7 +208,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x0600155B RID: 5467 RVA: 0x00025A99 File Offset: 0x00023C99
 		[global::Cpp2ILInjected.Token(Token = "0x60016BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAA5260", Offset = "0xAA5260", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SpriteBatcher), Member = "RenderVertexArray", MemberParameters = new object[]
@@ -133,7 +240,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600155C RID: 5468 RVA: 0x00025A9C File Offset: 0x00023C9C
 		[global::Cpp2ILInjected.Token(Token = "0x60016BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAA5284", Offset = "0xAA5284", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -144,7 +250,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600155D RID: 5469 RVA: 0x00025A9F File Offset: 0x00023C9F
 		[global::Cpp2ILInjected.Token(Token = "0x60016BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAA531C", Offset = "0xAA531C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -154,16 +259,13 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x04001F01 RID: 7937
 		[global::Cpp2ILInjected.Token(Token = "0x40024E5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly EffectPass[] _passes;
 
-		// Token: 0x02000823 RID: 2083
 		[global::Cpp2ILInjected.Token(Token = "0x2000367")]
 		public struct Enumerator : IEnumerator<EffectPass>, IEnumerator, IDisposable
 		{
-			// Token: 0x06004935 RID: 18741 RVA: 0x0002EFB8 File Offset: 0x0002D1B8
 			[global::Cpp2ILInjected.Token(Token = "0x60016C0")]
 			[global::Cpp2ILInjected.Address(RVA = "0xAA5274", Offset = "0xAA5274", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -172,7 +274,6 @@ namespace Microsoft.Xna.Framework.Graphics
 				throw null;
 			}
 
-			// Token: 0x06004936 RID: 18742 RVA: 0x0002EFBB File Offset: 0x0002D1BB
 			[global::Cpp2ILInjected.Token(Token = "0x60016C1")]
 			[global::Cpp2ILInjected.Address(RVA = "0xAA5328", Offset = "0xAA5328", Length = "0x48")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -206,8 +307,6 @@ namespace Microsoft.Xna.Framework.Graphics
 				throw null;
 			}
 
-			// Token: 0x17000848 RID: 2120
-			// (get) Token: 0x06004937 RID: 18743 RVA: 0x0002EFBE File Offset: 0x0002D1BE
 			[global::Cpp2ILInjected.Token(Token = "0x170002A5")]
 			public EffectPass Current
 			{
@@ -220,8 +319,6 @@ namespace Microsoft.Xna.Framework.Graphics
 				}
 			}
 
-			// Token: 0x17000849 RID: 2121
-			// (get) Token: 0x06004938 RID: 18744 RVA: 0x0002EFC1 File Offset: 0x0002D1C1
 			[global::Cpp2ILInjected.Token(Token = "0x170002A6")]
 			private object System.Collections.IEnumerator.Current
 			{
@@ -237,7 +334,6 @@ namespace Microsoft.Xna.Framework.Graphics
 				}
 			}
 
-			// Token: 0x06004939 RID: 18745 RVA: 0x0002EFC4 File Offset: 0x0002D1C4
 			[global::Cpp2ILInjected.Token(Token = "0x60016C4")]
 			[global::Cpp2ILInjected.Address(RVA = "0xAA53D4", Offset = "0xAA53D4", Length = "0xC")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -246,7 +342,6 @@ namespace Microsoft.Xna.Framework.Graphics
 				throw null;
 			}
 
-			// Token: 0x0600493A RID: 18746 RVA: 0x0002EFC7 File Offset: 0x0002D1C7
 			[global::Cpp2ILInjected.Token(Token = "0x60016C5")]
 			[global::Cpp2ILInjected.Address(RVA = "0xAA53E0", Offset = "0xAA53E0", Length = "0x4")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SpriteBatcher), Member = "RenderVertexArray", MemberParameters = new object[]
@@ -279,17 +374,14 @@ namespace Microsoft.Xna.Framework.Graphics
 				throw null;
 			}
 
-			// Token: 0x04007DA2 RID: 32162
 			[global::Cpp2ILInjected.Token(Token = "0x40024E6")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			private readonly EffectPass[] _array;
 
-			// Token: 0x04007DA3 RID: 32163
 			[global::Cpp2ILInjected.Token(Token = "0x40024E7")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			private int _index;
 
-			// Token: 0x04007DA4 RID: 32164
 			[global::Cpp2ILInjected.Token(Token = "0x40024E8")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private EffectPass _current;

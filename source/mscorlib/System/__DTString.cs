@@ -6,13 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000087 RID: 135
 	[global::System.Obsolete("Types with embedded references are not supported in this version of your compiler.", true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20000B3")]
 	internal ref struct __DTString
 	{
-		// Token: 0x1700006F RID: 111
-		// (get) Token: 0x06000662 RID: 1634 RVA: 0x00015824 File Offset: 0x00013A24
 		[global::Cpp2ILInjected.Token(Token = "0x17000088")]
 		internal int Length
 		{
@@ -111,7 +108,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000663 RID: 1635 RVA: 0x00015827 File Offset: 0x00013A27
 		[global::Cpp2ILInjected.Token(Token = "0x6000702")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2C60C", Offset = "0x1C2C60C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "DoStrictParse", MemberParameters = new object[]
@@ -133,7 +129,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000664 RID: 1636 RVA: 0x0001582A File Offset: 0x00013A2A
 		[global::Cpp2ILInjected.Token(Token = "0x6000703")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2C630", Offset = "0x1C2C630", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -160,8 +155,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x17000070 RID: 112
-		// (get) Token: 0x06000665 RID: 1637 RVA: 0x0001582D File Offset: 0x00013A2D
 		[global::Cpp2ILInjected.Token(Token = "0x17000089")]
 		internal global::System.Globalization.CompareInfo CompareInfo
 		{
@@ -174,7 +167,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000666 RID: 1638 RVA: 0x00015830 File Offset: 0x00013A30
 		[global::Cpp2ILInjected.Token(Token = "0x6000705")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2C6F4", Offset = "0x1C2C6F4", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -279,7 +271,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000667 RID: 1639 RVA: 0x00015833 File Offset: 0x00013A33
 		[global::Cpp2ILInjected.Token(Token = "0x6000706")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2C760", Offset = "0x1C2C760", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -297,7 +288,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000668 RID: 1640 RVA: 0x00015836 File Offset: 0x00013A36
 		[global::Cpp2ILInjected.Token(Token = "0x6000707")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2C7A8", Offset = "0x1C2C7A8", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -321,7 +311,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000669 RID: 1641 RVA: 0x00015839 File Offset: 0x00013A39
 		[global::Cpp2ILInjected.Token(Token = "0x6000708")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2C814", Offset = "0x1C2C814", Length = "0x2BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -351,7 +340,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600066A RID: 1642 RVA: 0x0001583C File Offset: 0x00013A3C
 		[global::Cpp2ILInjected.Token(Token = "0x6000709")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2CAD0", Offset = "0x1C2CAD0", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -381,7 +369,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600066B RID: 1643 RVA: 0x0001583F File Offset: 0x00013A3F
 		[global::Cpp2ILInjected.Token(Token = "0x600070A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2CCC4", Offset = "0x1C2CCC4", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -400,7 +387,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600066C RID: 1644 RVA: 0x00015842 File Offset: 0x00013A42
 		[global::Cpp2ILInjected.Token(Token = "0x600070B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2CDBC", Offset = "0x1C2CDBC", Length = "0x430")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -468,7 +454,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600066D RID: 1645 RVA: 0x00015845 File Offset: 0x00013A45
 		[global::Cpp2ILInjected.Token(Token = "0x600070C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D1EC", Offset = "0x1C2D1EC", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -500,7 +485,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600066E RID: 1646 RVA: 0x00015848 File Offset: 0x00013A48
 		[global::Cpp2ILInjected.Token(Token = "0x600070D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D310", Offset = "0x1C2D310", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -526,7 +510,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600066F RID: 1647 RVA: 0x0001584B File Offset: 0x00013A4B
 		[global::Cpp2ILInjected.Token(Token = "0x600070E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D3A0", Offset = "0x1C2D3A0", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -554,7 +537,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000670 RID: 1648 RVA: 0x0001584E File Offset: 0x00013A4E
 		[global::Cpp2ILInjected.Token(Token = "0x600070F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D440", Offset = "0x1C2D440", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -573,7 +555,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000671 RID: 1649 RVA: 0x00015851 File Offset: 0x00013A51
 		[global::Cpp2ILInjected.Token(Token = "0x6000710")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D4D4", Offset = "0x1C2D4D4", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -586,7 +567,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000672 RID: 1650 RVA: 0x00015854 File Offset: 0x00013A54
 		[global::Cpp2ILInjected.Token(Token = "0x6000711")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D580", Offset = "0x1C2D580", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -628,7 +608,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000673 RID: 1651 RVA: 0x00015857 File Offset: 0x00013A57
 		[global::Cpp2ILInjected.Token(Token = "0x6000712")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D590", Offset = "0x1C2D590", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -651,7 +630,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000674 RID: 1652 RVA: 0x0001585A File Offset: 0x00013A5A
 		[global::Cpp2ILInjected.Token(Token = "0x6000713")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D5A4", Offset = "0x1C2D5A4", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -686,7 +664,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000675 RID: 1653 RVA: 0x0001585D File Offset: 0x00013A5D
 		[global::Cpp2ILInjected.Token(Token = "0x6000714")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2CBA8", Offset = "0x1C2CBA8", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -704,7 +681,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000676 RID: 1654 RVA: 0x00015860 File Offset: 0x00013A60
 		[global::Cpp2ILInjected.Token(Token = "0x6000715")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D66C", Offset = "0x1C2D66C", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -725,7 +701,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000677 RID: 1655 RVA: 0x00015863 File Offset: 0x00013A63
 		[global::Cpp2ILInjected.Token(Token = "0x6000716")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D768", Offset = "0x1C2D768", Length = "0x218")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -749,7 +724,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000678 RID: 1656 RVA: 0x00015866 File Offset: 0x00013A66
 		[global::Cpp2ILInjected.Token(Token = "0x6000717")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2D980", Offset = "0x1C2D980", Length = "0x26C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -773,7 +747,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000679 RID: 1657 RVA: 0x00015869 File Offset: 0x00013A69
 		[global::Cpp2ILInjected.Token(Token = "0x6000718")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2DBEC", Offset = "0x1C2DBEC", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -789,7 +762,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600067A RID: 1658 RVA: 0x0001586C File Offset: 0x00013A6C
 		[global::Cpp2ILInjected.Token(Token = "0x6000719")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2DD1C", Offset = "0x1C2DD1C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -805,7 +777,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600067B RID: 1659 RVA: 0x0001586F File Offset: 0x00013A6F
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600071A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2DD7C", Offset = "0x1C2DD7C", Length = "0x74")]
@@ -817,32 +788,26 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x04000190 RID: 400
 		[global::Cpp2ILInjected.Token(Token = "0x40002BB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		internal global::System.ReadOnlySpan<char> Value;
 
-		// Token: 0x04000191 RID: 401
 		[global::Cpp2ILInjected.Token(Token = "0x40002BC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal int Index;
 
-		// Token: 0x04000192 RID: 402
 		[global::Cpp2ILInjected.Token(Token = "0x40002BD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		internal char m_current;
 
-		// Token: 0x04000193 RID: 403
 		[global::Cpp2ILInjected.Token(Token = "0x40002BE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private global::System.Globalization.CompareInfo m_info;
 
-		// Token: 0x04000194 RID: 404
 		[global::Cpp2ILInjected.Token(Token = "0x40002BF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private bool m_checkDigitToken;
 
-		// Token: 0x04000195 RID: 405
 		[global::Cpp2ILInjected.Token(Token = "0x40002C0")]
 		private static readonly char[] WhiteSpaceChecks;
 	}

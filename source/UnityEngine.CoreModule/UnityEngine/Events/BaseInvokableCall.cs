@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine.Events
 {
-	// Token: 0x02000134 RID: 308
 	[global::Cpp2ILInjected.Token(Token = "0x200015C")]
 	internal abstract class BaseInvokableCall
 	{
-		// Token: 0x06000645 RID: 1605 RVA: 0x00002E5D File Offset: 0x0000105D
 		[global::Cpp2ILInjected.Token(Token = "0x6000681")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F90800", Offset = "0x1F90800", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InvokableCall<>), Member = ".ctor", MemberParameters = new object[] { "UnityEngine.Events.UnityAction`1<T1>" }, ReturnType = typeof(void))]
@@ -20,7 +18,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x06000646 RID: 1606 RVA: 0x00002E60 File Offset: 0x00001060
 		[global::Cpp2ILInjected.Token(Token = "0x6000682")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F90808", Offset = "0x1F90808", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InvokableCall), Member = ".ctor", MemberParameters = new object[]
@@ -59,11 +56,9 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x06000647 RID: 1607
 		[global::Cpp2ILInjected.Token(Token = "0x6000683")]
 		public abstract void Invoke(object[] args);
 
-		// Token: 0x06000648 RID: 1608 RVA: 0x00002E63 File Offset: 0x00001063
 		[global::Cpp2ILInjected.Token(Token = "0x6000684")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1575EB8", Offset = "0x1575EB8", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -82,7 +77,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x06000649 RID: 1609 RVA: 0x00002E66 File Offset: 0x00001066
 		[global::Cpp2ILInjected.Token(Token = "0x6000685")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F908E4", Offset = "0x1F908E4", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -106,7 +100,6 @@ namespace UnityEngine.Events
 			throw null;
 		}
 
-		// Token: 0x0600064A RID: 1610
 		[global::Cpp2ILInjected.Token(Token = "0x6000686")]
 		public abstract bool Find(object targetObj, MethodInfo method);
 	}

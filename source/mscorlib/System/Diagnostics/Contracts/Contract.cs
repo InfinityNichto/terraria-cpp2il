@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Diagnostics.Contracts
 {
-	// Token: 0x020004E3 RID: 1251
 	[global::Cpp2ILInjected.Token(Token = "0x20005D6")]
 	public static class Contract
 	{
-		// Token: 0x06002A19 RID: 10777 RVA: 0x0001BA85 File Offset: 0x00019C85
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.MayFail)]
 		[global::Cpp2ILInjected.Token(Token = "0x6002D7A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1578BFC", Offset = "0x1578BFC", Length = "0x36C")]

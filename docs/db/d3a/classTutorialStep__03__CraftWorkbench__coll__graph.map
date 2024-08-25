@@ -1,7 +1,0 @@
-<map id="TutorialStep_03_CraftWorkbench" name="TutorialStep_03_CraftWorkbench">
-<area shape="rect" id="Node000001" title=" " alt="" coords="79,451,328,695"/>
-<area shape="rect" id="Node000002" href="$d9/d7b/classTutorialStep.html" title=" " alt="" coords="5,5,239,359"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,372,181,450,175,451,159,373"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="263,149,306,215"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,216,254,359,237,436,232,434,249,358,276,215"/>
-</map>

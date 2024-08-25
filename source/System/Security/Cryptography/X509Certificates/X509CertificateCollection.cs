@@ -9,12 +9,10 @@ using Mono.Unity;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000AE RID: 174
 	[global::Cpp2ILInjected.Token(Token = "0x200010B")]
 	[Serializable]
 	public class X509CertificateCollection : CollectionBase
 	{
-		// Token: 0x0600056F RID: 1391 RVA: 0x00003DB2 File Offset: 0x00001FB2
 		[global::Cpp2ILInjected.Token(Token = "0x6000614")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED3F1C", Offset = "0x1ED3F1C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest.<>c", Member = "<get_ClientCertificates>b__114_0", ReturnType = typeof(X509CertificateCollection))]
@@ -26,7 +24,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000570 RID: 1392 RVA: 0x00003DB5 File Offset: 0x00001FB5
 		[global::Cpp2ILInjected.Token(Token = "0x6000615")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED71E0", Offset = "0x1ED71E0", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MonoTlsSettings), Member = ".ctor", MemberParameters = new object[] { typeof(MonoTlsSettings) }, ReturnType = typeof(void))]
@@ -37,7 +34,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x17000141 RID: 321
 		[global::Cpp2ILInjected.Token(Token = "0x17000147")]
 		public X509Certificate this[int index]
 		{
@@ -61,7 +57,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x06000572 RID: 1394 RVA: 0x00003DBB File Offset: 0x00001FBB
 		[global::Cpp2ILInjected.Token(Token = "0x6000617")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED720C", Offset = "0x1ED720C", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -74,7 +69,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000573 RID: 1395 RVA: 0x00003DBE File Offset: 0x00001FBE
 		[global::Cpp2ILInjected.Token(Token = "0x6000618")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED7374", Offset = "0x1ED7374", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CertHelper), Member = "AddCertificatesToNativeChain", MemberParameters = new object[]
@@ -92,7 +86,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000574 RID: 1396 RVA: 0x00003DC1 File Offset: 0x00001FC1
 		[global::Cpp2ILInjected.Token(Token = "0x6000619")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED7480", Offset = "0x1ED7480", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -102,11 +95,9 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x020003C5 RID: 965
 		[global::Cpp2ILInjected.Token(Token = "0x200010C")]
 		public class X509CertificateEnumerator : IEnumerator
 		{
-			// Token: 0x06001D49 RID: 7497 RVA: 0x000080CF File Offset: 0x000062CF
 			[global::Cpp2ILInjected.Token(Token = "0x600061A")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1ED73CC", Offset = "0x1ED73CC", Length = "0xB4")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -119,8 +110,6 @@ namespace System.Security.Cryptography.X509Certificates
 				throw null;
 			}
 
-			// Token: 0x17000729 RID: 1833
-			// (get) Token: 0x06001D4A RID: 7498 RVA: 0x000080D2 File Offset: 0x000062D2
 			[global::Cpp2ILInjected.Token(Token = "0x17000148")]
 			public unsafe X509Certificate Current
 			{
@@ -142,8 +131,6 @@ namespace System.Security.Cryptography.X509Certificates
 				}
 			}
 
-			// Token: 0x1700072A RID: 1834
-			// (get) Token: 0x06001D4B RID: 7499 RVA: 0x000080D5 File Offset: 0x000062D5
 			[global::Cpp2ILInjected.Token(Token = "0x17000149")]
 			private object System.Collections.IEnumerator.Current
 			{
@@ -158,7 +145,6 @@ namespace System.Security.Cryptography.X509Certificates
 				}
 			}
 
-			// Token: 0x06001D4C RID: 7500 RVA: 0x000080D8 File Offset: 0x000062D8
 			[global::Cpp2ILInjected.Token(Token = "0x600061D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1ED7614", Offset = "0x1ED7614", Length = "0x98")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -169,7 +155,6 @@ namespace System.Security.Cryptography.X509Certificates
 				throw null;
 			}
 
-			// Token: 0x06001D4D RID: 7501 RVA: 0x000080DB File Offset: 0x000062DB
 			[global::Cpp2ILInjected.Token(Token = "0x600061E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1ED76AC", Offset = "0x1ED76AC", Length = "0x9C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +165,6 @@ namespace System.Security.Cryptography.X509Certificates
 				throw null;
 			}
 
-			// Token: 0x06001D4E RID: 7502 RVA: 0x000080DE File Offset: 0x000062DE
 			[global::Cpp2ILInjected.Token(Token = "0x600061F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1ED7748", Offset = "0x1ED7748", Length = "0x98")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -198,7 +182,6 @@ namespace System.Security.Cryptography.X509Certificates
 				throw null;
 			}
 
-			// Token: 0x0400111A RID: 4378
 			[global::Cpp2ILInjected.Token(Token = "0x4000505")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private IEnumerator enumerator;

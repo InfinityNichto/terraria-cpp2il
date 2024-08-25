@@ -11,12 +11,10 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine.Profiling.Memory.Experimental
 {
-	// Token: 0x020000DA RID: 218
 	[NativeHeader("Modules/Profiler/Runtime/MemorySnapshotManager.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x20000F1")]
 	public sealed class MemoryProfiler
 	{
-		// Token: 0x060004FE RID: 1278 RVA: 0x00002AE5 File Offset: 0x00000CE5
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600051C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F87E64", Offset = "0x1F87E64", Length = "0x19C")]
@@ -35,7 +33,6 @@ namespace UnityEngine.Profiling.Memory.Experimental
 			throw null;
 		}
 
-		// Token: 0x060004FF RID: 1279 RVA: 0x00002AE8 File Offset: 0x00000CE8
 		[global::Cpp2ILInjected.Token(Token = "0x600051D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F88000", Offset = "0x1F88000", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -44,7 +41,6 @@ namespace UnityEngine.Profiling.Memory.Experimental
 			throw null;
 		}
 
-		// Token: 0x06000500 RID: 1280 RVA: 0x00002AEB File Offset: 0x00000CEB
 		[global::Cpp2ILInjected.Token(Token = "0x600051E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F88040", Offset = "0x1F88040", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +52,6 @@ namespace UnityEngine.Profiling.Memory.Experimental
 			throw null;
 		}
 
-		// Token: 0x06000501 RID: 1281 RVA: 0x00002AEE File Offset: 0x00000CEE
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600051F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F880BC", Offset = "0x1F880BC", Length = "0x84")]
@@ -67,7 +62,6 @@ namespace UnityEngine.Profiling.Memory.Experimental
 			throw null;
 		}
 
-		// Token: 0x06000502 RID: 1282 RVA: 0x00002AF1 File Offset: 0x00000CF1
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000520")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F88140", Offset = "0x1F88140", Length = "0xFC")]
@@ -85,19 +79,16 @@ namespace UnityEngine.Profiling.Memory.Experimental
 			throw null;
 		}
 
-		// Token: 0x040003CE RID: 974
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400040B")]
 		private static Action<string, bool> m_SnapshotFinished;
 
-		// Token: 0x040003CF RID: 975
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400040C")]
 		private static Action<string, bool, DebugScreenCapture> m_SaveScreenshotToDisk;
 
-		// Token: 0x040003D0 RID: 976
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400040D")]

@@ -14,11 +14,9 @@ using Terraria.IO;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x020001CD RID: 461
 [global::Cpp2ILInjected.Token(Token = "0x2000266")]
 public class GUIMainMenu
 {
-	// Token: 0x06000C9C RID: 3228 RVA: 0x00024119 File Offset: 0x00022319
 	[global::Cpp2ILInjected.Token(Token = "0x6000DB9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E4AA8", Offset = "0x9E4AA8", Length = "0x1278")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +154,6 @@ public class GUIMainMenu
 		throw null;
 	}
 
-	// Token: 0x06000C9D RID: 3229 RVA: 0x0002411C File Offset: 0x0002231C
 	[global::Cpp2ILInjected.Token(Token = "0x6000DBA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E5FF0", Offset = "0x9E5FF0", Length = "0x68")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMainMenu), Member = "Draw", ReturnType = typeof(void))]
@@ -168,7 +165,6 @@ public class GUIMainMenu
 		throw null;
 	}
 
-	// Token: 0x06000C9E RID: 3230 RVA: 0x0002411F File Offset: 0x0002231F
 	[global::Cpp2ILInjected.Token(Token = "0x6000DBB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E5D20", Offset = "0x9E5D20", Length = "0x2D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -196,7 +192,6 @@ public class GUIMainMenu
 		throw null;
 	}
 
-	// Token: 0x06000C9F RID: 3231 RVA: 0x00024122 File Offset: 0x00022322
 	[global::Cpp2ILInjected.Token(Token = "0x6000DBC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E6058", Offset = "0x9E6058", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -207,42 +202,34 @@ public class GUIMainMenu
 		throw null;
 	}
 
-	// Token: 0x04001463 RID: 5219
 	[global::Cpp2ILInjected.Token(Token = "0x400195C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float scale0;
 
-	// Token: 0x04001464 RID: 5220
 	[global::Cpp2ILInjected.Token(Token = "0x400195D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float scale1;
 
-	// Token: 0x04001465 RID: 5221
 	[global::Cpp2ILInjected.Token(Token = "0x400195E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float scale2;
 
-	// Token: 0x04001466 RID: 5222
 	[global::Cpp2ILInjected.Token(Token = "0x400195F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float scale3;
 
-	// Token: 0x04001467 RID: 5223
 	[global::Cpp2ILInjected.Token(Token = "0x4001960")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float scale4;
 
-	// Token: 0x04001468 RID: 5224
 	[global::Cpp2ILInjected.Token(Token = "0x4001961")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private float scale5;
 
-	// Token: 0x04001469 RID: 5225
 	[global::Cpp2ILInjected.Token(Token = "0x4001962")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private GUIContollerTransactionButtonList _controllerList;
 
-	// Token: 0x0400146A RID: 5226
 	[global::Cpp2ILInjected.Token(Token = "0x4001963")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private GUIContollerTransactionButtonList _controllerListTrial;

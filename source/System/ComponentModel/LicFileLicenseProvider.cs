@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x0200029A RID: 666
 	[global::Cpp2ILInjected.Token(Token = "0x2000391")]
 	public class LicFileLicenseProvider : LicenseProvider
 	{
-		// Token: 0x06001579 RID: 5497 RVA: 0x00006AAC File Offset: 0x00004CAC
 		[global::Cpp2ILInjected.Token(Token = "0x60017C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4D7B4", Offset = "0x1E4D7B4", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -22,7 +20,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600157A RID: 5498 RVA: 0x00006AAF File Offset: 0x00004CAF
 		[global::Cpp2ILInjected.Token(Token = "0x60017C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4D7F0", Offset = "0x1E4D7F0", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -40,7 +37,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600157B RID: 5499 RVA: 0x00006AB2 File Offset: 0x00004CB2
 		[global::Cpp2ILInjected.Token(Token = "0x60017C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4D884", Offset = "0x1E4D884", Length = "0x3D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +66,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600157C RID: 5500 RVA: 0x00006AB5 File Offset: 0x00004CB5
 		[global::Cpp2ILInjected.Token(Token = "0x60017C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4DC84", Offset = "0x1E4DC84", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -80,11 +75,9 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x02000459 RID: 1113
 		[global::Cpp2ILInjected.Token(Token = "0x2000392")]
 		private class LicFileLicense : License
 		{
-			// Token: 0x06001EE1 RID: 7905 RVA: 0x00008522 File Offset: 0x00006722
 			[global::Cpp2ILInjected.Token(Token = "0x60017C8")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1E4DC58", Offset = "0x1E4DC58", Length = "0x2C")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -94,8 +87,6 @@ namespace System.ComponentModel
 				throw null;
 			}
 
-			// Token: 0x1700074D RID: 1869
-			// (get) Token: 0x06001EE2 RID: 7906 RVA: 0x00008525 File Offset: 0x00006725
 			[global::Cpp2ILInjected.Token(Token = "0x1700056C")]
 			public override string LicenseKey
 			{
@@ -109,7 +100,6 @@ namespace System.ComponentModel
 				}
 			}
 
-			// Token: 0x06001EE3 RID: 7907 RVA: 0x00008528 File Offset: 0x00006728
 			[global::Cpp2ILInjected.Token(Token = "0x60017CA")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1E4DCA4", Offset = "0x1E4DCA4", Length = "0x58")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -120,12 +110,10 @@ namespace System.ComponentModel
 				throw null;
 			}
 
-			// Token: 0x0400138C RID: 5004
 			[global::Cpp2ILInjected.Token(Token = "0x400122D")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private LicFileLicenseProvider _owner;
 
-			// Token: 0x0400138D RID: 5005
 			[CompilerGenerated]
 			[global::Cpp2ILInjected.Token(Token = "0x400122E")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]

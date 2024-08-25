@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Win32.SafeHandles
 {
-	// Token: 0x0200002D RID: 45
 	[global::Cpp2ILInjected.Token(Token = "0x2000077")]
 	internal class SafeGssCredHandle : SafeHandle
 	{
-		// Token: 0x0600013E RID: 318 RVA: 0x00003185 File Offset: 0x00001385
 		[global::Cpp2ILInjected.Token(Token = "0x60001C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F0FC", Offset = "0x1E9F0FC", Length = "0x28C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -54,7 +52,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x0600013F RID: 319 RVA: 0x00003188 File Offset: 0x00001388
 		[global::Cpp2ILInjected.Token(Token = "0x60001C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F388", Offset = "0x1E9F388", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SafeGssCredHandle), Member = "Create", MemberParameters = new object[]
@@ -75,8 +72,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x1700005E RID: 94
-		// (get) Token: 0x06000140 RID: 320 RVA: 0x0000318B File Offset: 0x0000138B
 		[global::Cpp2ILInjected.Token(Token = "0x17000060")]
 		public override bool IsInvalid
 		{
@@ -95,7 +90,6 @@ namespace Microsoft.Win32.SafeHandles
 			}
 		}
 
-		// Token: 0x06000141 RID: 321 RVA: 0x0000318E File Offset: 0x0000138E
 		[global::Cpp2ILInjected.Token(Token = "0x60001C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F434", Offset = "0x1E9F434", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

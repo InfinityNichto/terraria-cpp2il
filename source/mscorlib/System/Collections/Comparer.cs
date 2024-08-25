@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections
 {
-	// Token: 0x020004EC RID: 1260
 	[global::Cpp2ILInjected.Token(Token = "0x20005E0")]
 	[global::System.Serializable]
 	public sealed class Comparer : IComparer, global::System.Runtime.Serialization.ISerializable
 	{
-		// Token: 0x06002A32 RID: 10802 RVA: 0x0001BAD0 File Offset: 0x00019CD0
 		[global::Cpp2ILInjected.Token(Token = "0x6002D96")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C06960", Offset = "0x1C06960", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -28,7 +26,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A33 RID: 10803 RVA: 0x0001BAD3 File Offset: 0x00019CD3
 		[global::Cpp2ILInjected.Token(Token = "0x6002D97")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C069E4", Offset = "0x1C069E4", Length = "0x170")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +44,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A34 RID: 10804 RVA: 0x0001BAD6 File Offset: 0x00019CD6
 		[global::Cpp2ILInjected.Token(Token = "0x6002D98")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C06B54", Offset = "0x1C06B54", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -63,7 +59,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A35 RID: 10805 RVA: 0x0001BAD9 File Offset: 0x00019CD9
 		[global::Cpp2ILInjected.Token(Token = "0x6002D99")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C06BF4", Offset = "0x1C06BF4", Length = "0x200")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -86,7 +81,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A36 RID: 10806 RVA: 0x0001BADC File Offset: 0x00019CDC
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6002D9A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C06DF4", Offset = "0x1C06DF4", Length = "0xC0")]
@@ -100,16 +94,13 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x040015AC RID: 5548
 		[global::Cpp2ILInjected.Token(Token = "0x400199C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private global::System.Globalization.CompareInfo _compareInfo;
 
-		// Token: 0x040015AD RID: 5549
 		[global::Cpp2ILInjected.Token(Token = "0x400199D")]
 		public static readonly Comparer Default;
 
-		// Token: 0x040015AE RID: 5550
 		[global::Cpp2ILInjected.Token(Token = "0x400199E")]
 		public static readonly Comparer DefaultInvariant;
 	}

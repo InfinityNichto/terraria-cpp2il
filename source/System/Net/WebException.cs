@@ -9,12 +9,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000141 RID: 321
 	[global::Cpp2ILInjected.Token(Token = "0x20001C8")]
 	[Serializable]
 	public class WebException : InvalidOperationException, ISerializable
 	{
-		// Token: 0x060009D8 RID: 2520 RVA: 0x00004A00 File Offset: 0x00002C00
 		[global::Cpp2ILInjected.Token(Token = "0x6000AE7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F11720", Offset = "0x1F11720", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -24,7 +22,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009D9 RID: 2521 RVA: 0x00004A03 File Offset: 0x00002C03
 		[global::Cpp2ILInjected.Token(Token = "0x6000AE8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0F428", Offset = "0x1F0F428", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CommandStream), Member = "PostReadCommandProcessing", MemberParameters = new object[] { typeof(ref Stream) }, ReturnType = typeof(bool))]
@@ -55,7 +52,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009DA RID: 2522 RVA: 0x00004A06 File Offset: 0x00002C06
 		[global::Cpp2ILInjected.Token(Token = "0x6000AE9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F11730", Offset = "0x1F11730", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FtpWebRequest), Member = "SetException", MemberParameters = new object[] { typeof(Exception) }, ReturnType = typeof(void))]
@@ -122,7 +118,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009DB RID: 2523 RVA: 0x00004A09 File Offset: 0x00002C09
 		[global::Cpp2ILInjected.Token(Token = "0x6000AEA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0F67C", Offset = "0x1F0F67C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FtpControlStream), Member = "AcceptCallback", MemberParameters = new object[] { typeof(IAsyncResult) }, ReturnType = typeof(void))]
@@ -183,7 +178,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009DC RID: 2524 RVA: 0x00004A0C File Offset: 0x00002C0C
 		[global::Cpp2ILInjected.Token(Token = "0x6000AEB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0F5D0", Offset = "0x1F0F5D0", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebConnection), Member = "GetException", MemberParameters = new object[]
@@ -214,7 +208,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009DD RID: 2525 RVA: 0x00004A0F File Offset: 0x00002C0F
 		[global::Cpp2ILInjected.Token(Token = "0x6000AEC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F11740", Offset = "0x1F11740", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CommandStream), Member = "GenerateException", MemberParameters = new object[]
@@ -271,7 +264,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009DE RID: 2526 RVA: 0x00004A12 File Offset: 0x00002C12
 		[global::Cpp2ILInjected.Token(Token = "0x6000AED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F1176C", Offset = "0x1F1176C", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExceptionHelper), Member = "get_RequestAbortedException", ReturnType = typeof(WebException))]
@@ -312,7 +304,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009DF RID: 2527 RVA: 0x00004A15 File Offset: 0x00002C15
 		[global::Cpp2ILInjected.Token(Token = "0x6000AEE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F11754", Offset = "0x1F11754", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -330,7 +321,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009E0 RID: 2528 RVA: 0x00004A18 File Offset: 0x00002C18
 		[global::Cpp2ILInjected.Token(Token = "0x6000AEF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F1184C", Offset = "0x1F1184C", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ExceptionHelper), Member = "get_IsolatedException", ReturnType = typeof(WebException))]
@@ -372,7 +362,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009E1 RID: 2529 RVA: 0x00004A1B File Offset: 0x00002C1B
 		[global::Cpp2ILInjected.Token(Token = "0x6000AF0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F1193C", Offset = "0x1F1193C", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -386,7 +375,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009E2 RID: 2530 RVA: 0x00004A1E File Offset: 0x00002C1E
 		[global::Cpp2ILInjected.Token(Token = "0x6000AF1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F1194C", Offset = "0x1F1194C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -396,7 +384,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009E3 RID: 2531 RVA: 0x00004A21 File Offset: 0x00002C21
 		[global::Cpp2ILInjected.Token(Token = "0x6000AF2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F11958", Offset = "0x1F11958", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -410,8 +397,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000227 RID: 551
-		// (get) Token: 0x060009E4 RID: 2532 RVA: 0x00004A24 File Offset: 0x00002C24
 		[global::Cpp2ILInjected.Token(Token = "0x17000232")]
 		public WebExceptionStatus Status
 		{
@@ -424,8 +409,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000228 RID: 552
-		// (get) Token: 0x060009E5 RID: 2533 RVA: 0x00004A27 File Offset: 0x00002C27
 		[global::Cpp2ILInjected.Token(Token = "0x17000233")]
 		public WebResponse Response
 		{
@@ -438,8 +421,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000229 RID: 553
-		// (get) Token: 0x060009E6 RID: 2534 RVA: 0x00004A2A File Offset: 0x00002C2A
 		[global::Cpp2ILInjected.Token(Token = "0x17000234")]
 		internal WebExceptionInternalStatus InternalStatus
 		{
@@ -452,17 +433,14 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x0400077C RID: 1916
 		[global::Cpp2ILInjected.Token(Token = "0x4000995")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8C")]
 		private WebExceptionStatus m_Status;
 
-		// Token: 0x0400077D RID: 1917
 		[global::Cpp2ILInjected.Token(Token = "0x4000996")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private WebResponse m_Response;
 
-		// Token: 0x0400077E RID: 1918
 		[global::Cpp2ILInjected.Token(Token = "0x4000997")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		[NonSerialized]

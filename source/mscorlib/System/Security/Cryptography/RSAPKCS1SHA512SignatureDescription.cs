@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000269 RID: 617
 	[global::Cpp2ILInjected.Token(Token = "0x2000306")]
 	internal class RSAPKCS1SHA512SignatureDescription : RSAPKCS1SignatureDescription
 	{
-		// Token: 0x0600180B RID: 6155 RVA: 0x000188B1 File Offset: 0x00016AB1
 		[global::Cpp2ILInjected.Token(Token = "0x6001A25")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B10BB8", Offset = "0x1B10BB8", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CryptoConfig), Member = "CreateFromName", MemberParameters = new object[]

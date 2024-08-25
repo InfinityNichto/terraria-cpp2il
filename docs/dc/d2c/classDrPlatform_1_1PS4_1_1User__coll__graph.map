@@ -1,7 +1,0 @@
-<map id="DrPlatform.PS4.User" name="DrPlatform.PS4.User">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,207,240,551"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,67,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,71,51,123,56,182,57,190,52,191,51,183,45,124,47,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="172,5,215,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,72,167,183,165,191,160,190,161,182,184,71"/>
-</map>

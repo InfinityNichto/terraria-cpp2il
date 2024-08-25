@@ -5,12 +5,10 @@ using Newtonsoft.Json.Shims;
 
 namespace Newtonsoft.Json.Utilities
 {
-	// Token: 0x02000045 RID: 69
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x2000053")]
 	internal struct StringReference
 	{
-		// Token: 0x17000093 RID: 147
 		[global::Cpp2ILInjected.Token(Token = "0x17000093")]
 		public char this[int i]
 		{
@@ -24,8 +22,6 @@ namespace Newtonsoft.Json.Utilities
 			}
 		}
 
-		// Token: 0x17000094 RID: 148
-		// (get) Token: 0x060002EE RID: 750 RVA: 0x00002948 File Offset: 0x00000B48
 		[global::Cpp2ILInjected.Token(Token = "0x17000094")]
 		public char[] Chars
 		{
@@ -38,8 +34,6 @@ namespace Newtonsoft.Json.Utilities
 			}
 		}
 
-		// Token: 0x17000095 RID: 149
-		// (get) Token: 0x060002EF RID: 751 RVA: 0x0000294B File Offset: 0x00000B4B
 		[global::Cpp2ILInjected.Token(Token = "0x17000095")]
 		public int StartIndex
 		{
@@ -52,8 +46,6 @@ namespace Newtonsoft.Json.Utilities
 			}
 		}
 
-		// Token: 0x17000096 RID: 150
-		// (get) Token: 0x060002F0 RID: 752 RVA: 0x0000294E File Offset: 0x00000B4E
 		[global::Cpp2ILInjected.Token(Token = "0x17000096")]
 		public int Length
 		{
@@ -66,7 +58,6 @@ namespace Newtonsoft.Json.Utilities
 			}
 		}
 
-		// Token: 0x060002F1 RID: 753 RVA: 0x00002951 File Offset: 0x00000B51
 		[global::Cpp2ILInjected.Token(Token = "0x600030B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD1890", Offset = "0x1CD1890", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonTextReader), Member = "ReadStringIntoBuffer", MemberParameters = new object[] { typeof(char) }, ReturnType = typeof(void))]
@@ -79,7 +70,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x060002F2 RID: 754 RVA: 0x00002954 File Offset: 0x00000B54
 		[global::Cpp2ILInjected.Token(Token = "0x600030C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD189C", Offset = "0x1CD189C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JsonTextReader), Member = "ParseString", MemberParameters = new object[]
@@ -104,17 +94,14 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x04000167 RID: 359
 		[global::Cpp2ILInjected.Token(Token = "0x4000191")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly char[] _chars;
 
-		// Token: 0x04000168 RID: 360
 		[global::Cpp2ILInjected.Token(Token = "0x4000192")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private readonly int _startIndex;
 
-		// Token: 0x04000169 RID: 361
 		[global::Cpp2ILInjected.Token(Token = "0x4000193")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 		private readonly int _length;

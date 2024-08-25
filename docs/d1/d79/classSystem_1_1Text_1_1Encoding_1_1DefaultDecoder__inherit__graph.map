@@ -1,9 +1,0 @@
-<map id="System.Text.Encoding.DefaultDecoder" name="System.Text.Encoding.DefaultDecoder">
-<area shape="rect" id="Node000001" title=" " alt="" coords="245,868,577,1529"/>
-<area shape="rect" id="Node000002" href="$d3/de2/classSystem_1_1Text_1_1Decoder.html" title=" " alt="" coords="5,5,291,820"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,832,303,867,298,869,286,834"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="315,373,506,453"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="413,466,413,868,408,868,408,466"/>
-<area shape="rect" id="Node000004" href="$d1/d1d/classglobal_1_1SystemRuntime_1_1Serialization_1_1IObjectReference.html" title=" " alt="" coords="530,373,753,453"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="629,467,510,868,505,867,624,465"/>
-</map>

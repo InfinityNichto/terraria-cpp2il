@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Audio;
 using Terraria;
 using Terraria.Audio;
 
-// Token: 0x020001E8 RID: 488
 [global::Cpp2ILInjected.Token(Token = "0x2000288")]
 public class GUIWorldNameMenu
 {
-	// Token: 0x06000DCF RID: 3535 RVA: 0x000244B2 File Offset: 0x000226B2
 	[global::Cpp2ILInjected.Token(Token = "0x6000EF3")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1C1D0", Offset = "0xA1C1D0", Length = "0x4C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +78,6 @@ public class GUIWorldNameMenu
 		throw null;
 	}
 
-	// Token: 0x06000DD0 RID: 3536 RVA: 0x000244B5 File Offset: 0x000226B5
 	[global::Cpp2ILInjected.Token(Token = "0x6000EF4")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA1C694", Offset = "0xA1C694", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -91,17 +88,14 @@ public class GUIWorldNameMenu
 		throw null;
 	}
 
-	// Token: 0x040015F9 RID: 5625
 	[global::Cpp2ILInjected.Token(Token = "0x4001B17")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float NewScale;
 
-	// Token: 0x040015FA RID: 5626
 	[global::Cpp2ILInjected.Token(Token = "0x4001B18")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	public bool editingWorldName;
 
-	// Token: 0x040015FB RID: 5627
 	[global::Cpp2ILInjected.Token(Token = "0x4001B19")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x15")]
 	public bool editWorldNameForCreate;

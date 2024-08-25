@@ -14,11 +14,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.Graphics.Capture
 {
-	// Token: 0x02000506 RID: 1286
 	[global::Cpp2ILInjected.Token(Token = "0x2000767")]
 	public class CaptureInterface
 	{
-		// Token: 0x060037A8 RID: 14248 RVA: 0x0002BF1F File Offset: 0x0002A11F
 		[global::Cpp2ILInjected.Token(Token = "0x6003E23")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14ADB3C", Offset = "0x14ADB3C", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CaptureInterface), Member = ".cctor", ReturnType = typeof(void))]
@@ -36,7 +34,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037A9 RID: 14249 RVA: 0x0002BF22 File Offset: 0x0002A122
 		[global::Cpp2ILInjected.Token(Token = "0x6003E24")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14ADCB8", Offset = "0x14ADCB8", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +57,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037AA RID: 14250 RVA: 0x0002BF25 File Offset: 0x0002A125
 		[global::Cpp2ILInjected.Token(Token = "0x6003E25")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14ADDB4", Offset = "0x14ADDB4", Length = "0x410")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -93,7 +89,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037AB RID: 14251 RVA: 0x0002BF28 File Offset: 0x0002A128
 		[global::Cpp2ILInjected.Token(Token = "0x6003E26")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AEB34", Offset = "0x14AEB34", Length = "0x6DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +151,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037AC RID: 14252 RVA: 0x0002BF2B File Offset: 0x0002A12B
 		[global::Cpp2ILInjected.Token(Token = "0x6003E27")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AE3D8", Offset = "0x14AE3D8", Length = "0x268")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -183,7 +177,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037AD RID: 14253 RVA: 0x0002BF2E File Offset: 0x0002A12E
 		[global::Cpp2ILInjected.Token(Token = "0x6003E28")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AE640", Offset = "0x14AE640", Length = "0x4F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -229,7 +222,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037AE RID: 14254 RVA: 0x0002BF31 File Offset: 0x0002A131
 		[global::Cpp2ILInjected.Token(Token = "0x6003E29")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B0358", Offset = "0x14B0358", Length = "0x248")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CaptureInterface), Member = "UpdateButtons", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
@@ -259,7 +251,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037AF RID: 14255 RVA: 0x0002BF34 File Offset: 0x0002A134
 		[global::Cpp2ILInjected.Token(Token = "0x6003E2A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AF210", Offset = "0x14AF210", Length = "0xAF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -337,7 +328,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B0 RID: 14256 RVA: 0x0002BF37 File Offset: 0x0002A137
 		[global::Cpp2ILInjected.Token(Token = "0x6003E2B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B0AA4", Offset = "0x14B0AA4", Length = "0x4AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -389,7 +379,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B1 RID: 14257 RVA: 0x0002BF3A File Offset: 0x0002A13A
 		[global::Cpp2ILInjected.Token(Token = "0x6003E2C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B0F50", Offset = "0x14B0F50", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CaptureInterface.ModeEdgeSelection), Member = "EdgePlacement", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
@@ -406,7 +395,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B2 RID: 14258 RVA: 0x0002BF3D File Offset: 0x0002A13D
 		[global::Cpp2ILInjected.Token(Token = "0x6003E2D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B1048", Offset = "0x14B1048", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -418,7 +406,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B3 RID: 14259 RVA: 0x0002BF40 File Offset: 0x0002A140
 		[global::Cpp2ILInjected.Token(Token = "0x6003E2E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B114C", Offset = "0x14B114C", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CaptureManager), Member = "get_UsingMap", ReturnType = typeof(bool))]
@@ -430,7 +417,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B4 RID: 14260 RVA: 0x0002BF43 File Offset: 0x0002A143
 		[global::Cpp2ILInjected.Token(Token = "0x6003E2F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B09F8", Offset = "0x14B09F8", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -449,7 +435,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B5 RID: 14261 RVA: 0x0002BF46 File Offset: 0x0002A146
 		[global::Cpp2ILInjected.Token(Token = "0x6003E30")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B11FC", Offset = "0x14B11FC", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -471,7 +456,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B6 RID: 14262 RVA: 0x0002BF49 File Offset: 0x0002A149
 		[global::Cpp2ILInjected.Token(Token = "0x6003E31")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AE1C4", Offset = "0x14AE1C4", Length = "0x214")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -484,7 +468,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B7 RID: 14263 RVA: 0x0002BF4C File Offset: 0x0002A14C
 		[global::Cpp2ILInjected.Token(Token = "0x6003E32")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AFD00", Offset = "0x14AFD00", Length = "0x658")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -553,7 +536,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B8 RID: 14264 RVA: 0x0002BF4F File Offset: 0x0002A14F
 		[global::Cpp2ILInjected.Token(Token = "0x6003E33")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B0970", Offset = "0x14B0970", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CaptureInterface), Member = "UpdateButtons", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
@@ -574,7 +556,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037B9 RID: 14265 RVA: 0x0002BF52 File Offset: 0x0002A152
 		[global::Cpp2ILInjected.Token(Token = "0x6003E34")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B1310", Offset = "0x14B1310", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -584,7 +565,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037BA RID: 14266 RVA: 0x0002BF55 File Offset: 0x0002A155
 		[global::Cpp2ILInjected.Token(Token = "0x6003E35")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B1368", Offset = "0x14B1368", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -594,7 +574,6 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x060037BB RID: 14267 RVA: 0x0002BF58 File Offset: 0x0002A158
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003E36")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B1370", Offset = "0x14B1370", Length = "0x4C")]
@@ -606,79 +585,61 @@ namespace Terraria.Graphics.Capture
 			throw null;
 		}
 
-		// Token: 0x040067EC RID: 26604
 		[global::Cpp2ILInjected.Token(Token = "0x4007CF9")]
 		private static Dictionary<int, CaptureInterface.CaptureInterfaceMode> Modes;
 
-		// Token: 0x040067ED RID: 26605
 		[global::Cpp2ILInjected.Token(Token = "0x4007CFA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public bool Active;
 
-		// Token: 0x040067EE RID: 26606
 		[global::Cpp2ILInjected.Token(Token = "0x4007CFB")]
 		public static bool JustActivated;
 
-		// Token: 0x040067EF RID: 26607
 		[global::Cpp2ILInjected.Token(Token = "0x4007CFC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x11")]
 		private bool KeyToggleActiveHeld;
 
-		// Token: 0x040067F0 RID: 26608
 		[global::Cpp2ILInjected.Token(Token = "0x4007CFD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public int SelectedMode;
 
-		// Token: 0x040067F1 RID: 26609
 		[global::Cpp2ILInjected.Token(Token = "0x4007CFE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public int HoveredMode;
 
-		// Token: 0x040067F2 RID: 26610
 		[global::Cpp2ILInjected.Token(Token = "0x4007CFF")]
 		public static bool EdgeAPinned;
 
-		// Token: 0x040067F3 RID: 26611
 		[global::Cpp2ILInjected.Token(Token = "0x4007D00")]
 		public static bool EdgeBPinned;
 
-		// Token: 0x040067F4 RID: 26612
 		[global::Cpp2ILInjected.Token(Token = "0x4007D01")]
 		public static Point EdgeA;
 
-		// Token: 0x040067F5 RID: 26613
 		[global::Cpp2ILInjected.Token(Token = "0x4007D02")]
 		public static Point EdgeB;
 
-		// Token: 0x040067F6 RID: 26614
 		[global::Cpp2ILInjected.Token(Token = "0x4007D03")]
 		public static bool CameraLock;
 
-		// Token: 0x040067F7 RID: 26615
 		[global::Cpp2ILInjected.Token(Token = "0x4007D04")]
 		private static float CameraFrame;
 
-		// Token: 0x040067F8 RID: 26616
 		[global::Cpp2ILInjected.Token(Token = "0x4007D05")]
 		private static float CameraWaiting;
 
-		// Token: 0x040067F9 RID: 26617
 		[global::Cpp2ILInjected.Token(Token = "0x4007D06")]
 		private const float CameraMaxFrame = 5f;
 
-		// Token: 0x040067FA RID: 26618
 		[global::Cpp2ILInjected.Token(Token = "0x4007D07")]
 		private const float CameraMaxWait = 60f;
 
-		// Token: 0x040067FB RID: 26619
 		[global::Cpp2ILInjected.Token(Token = "0x4007D08")]
 		private static CaptureSettings CameraSettings;
 
-		// Token: 0x0200096D RID: 2413
 		[global::Cpp2ILInjected.Token(Token = "0x2000768")]
 		public static class Settings
 		{
-			// Token: 0x06004D54 RID: 19796 RVA: 0x0002FA59 File Offset: 0x0002DC59
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6003E37")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B13BC", Offset = "0x14B13BC", Length = "0xC4")]
@@ -702,52 +663,40 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x04008BC2 RID: 35778
 			[global::Cpp2ILInjected.Token(Token = "0x4007D09")]
 			public static bool PackImage;
 
-			// Token: 0x04008BC3 RID: 35779
 			[global::Cpp2ILInjected.Token(Token = "0x4007D0A")]
 			public static bool IncludeEntities;
 
-			// Token: 0x04008BC4 RID: 35780
 			[global::Cpp2ILInjected.Token(Token = "0x4007D0B")]
 			public static bool TransparentBackground;
 
-			// Token: 0x04008BC5 RID: 35781
 			[global::Cpp2ILInjected.Token(Token = "0x4007D0C")]
 			public static int BiomeChoiceIndex;
 
-			// Token: 0x04008BC6 RID: 35782
 			[global::Cpp2ILInjected.Token(Token = "0x4007D0D")]
 			public static int ScreenAnchor;
 
-			// Token: 0x04008BC7 RID: 35783
 			[global::Cpp2ILInjected.Token(Token = "0x4007D0E")]
 			public static Color MarkedAreaColor;
 		}
 
-		// Token: 0x0200096E RID: 2414
 		[global::Cpp2ILInjected.Token(Token = "0x2000769")]
 		private abstract class CaptureInterfaceMode
 		{
-			// Token: 0x06004D55 RID: 19797
 			[global::Cpp2ILInjected.Token(Token = "0x6003E38")]
 			public abstract void Update();
 
-			// Token: 0x06004D56 RID: 19798
 			[global::Cpp2ILInjected.Token(Token = "0x6003E39")]
 			public abstract void Draw(SpriteBatch sb);
 
-			// Token: 0x06004D57 RID: 19799
 			[global::Cpp2ILInjected.Token(Token = "0x6003E3A")]
 			public abstract void ToggleActive(bool tickedOn);
 
-			// Token: 0x06004D58 RID: 19800
 			[global::Cpp2ILInjected.Token(Token = "0x6003E3B")]
 			public abstract bool UsingMap();
 
-			// Token: 0x06004D59 RID: 19801 RVA: 0x0002FA5C File Offset: 0x0002DC5C
 			[global::Cpp2ILInjected.Token(Token = "0x6003E3C")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B1480", Offset = "0x14B1480", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -757,17 +706,14 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x04008BC8 RID: 35784
 			[global::Cpp2ILInjected.Token(Token = "0x4007D0F")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public bool Selected;
 		}
 
-		// Token: 0x0200096F RID: 2415
 		[global::Cpp2ILInjected.Token(Token = "0x200076A")]
 		private class ModeEdgeSelection : CaptureInterface.CaptureInterfaceMode
 		{
-			// Token: 0x06004D5A RID: 19802 RVA: 0x0002FA5F File Offset: 0x0002DC5F
 			[global::Cpp2ILInjected.Token(Token = "0x6003E3D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B1488", Offset = "0x14B1488", Length = "0xB8")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -787,7 +733,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D5B RID: 19803 RVA: 0x0002FA62 File Offset: 0x0002DC62
 			[global::Cpp2ILInjected.Token(Token = "0x6003E3E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B17F0", Offset = "0x14B17F0", Length = "0x368")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -815,7 +760,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D5C RID: 19804 RVA: 0x0002FA65 File Offset: 0x0002DC65
 			[global::Cpp2ILInjected.Token(Token = "0x6003E3F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B3508", Offset = "0x14B3508", Length = "0x4")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -824,7 +768,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D5D RID: 19805 RVA: 0x0002FA68 File Offset: 0x0002DC68
 			[global::Cpp2ILInjected.Token(Token = "0x6003E40")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B350C", Offset = "0x14B350C", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -833,7 +776,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D5E RID: 19806 RVA: 0x0002FA6B File Offset: 0x0002DC6B
 			[global::Cpp2ILInjected.Token(Token = "0x6003E41")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B1540", Offset = "0x14B1540", Length = "0x2B0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -858,7 +800,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D5F RID: 19807 RVA: 0x0002FA6E File Offset: 0x0002DC6E
 			[global::Cpp2ILInjected.Token(Token = "0x6003E42")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B1B58", Offset = "0x14B1B58", Length = "0x6C8")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -911,7 +852,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D60 RID: 19808 RVA: 0x0002FA71 File Offset: 0x0002DC71
 			[global::Cpp2ILInjected.Token(Token = "0x6003E43")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B2220", Offset = "0x14B2220", Length = "0x12E8")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -998,7 +938,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D61 RID: 19809 RVA: 0x0002FA74 File Offset: 0x0002DC74
 			[global::Cpp2ILInjected.Token(Token = "0x6003E44")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14ADC8C", Offset = "0x14ADC8C", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1009,11 +948,9 @@ namespace Terraria.Graphics.Capture
 			}
 		}
 
-		// Token: 0x02000970 RID: 2416
 		[global::Cpp2ILInjected.Token(Token = "0x200076B")]
 		private class ModeDragBounds : CaptureInterface.CaptureInterfaceMode
 		{
-			// Token: 0x06004D62 RID: 19810 RVA: 0x0002FA77 File Offset: 0x0002DC77
 			[global::Cpp2ILInjected.Token(Token = "0x6003E45")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B3514", Offset = "0x14B3514", Length = "0xF0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1033,7 +970,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D63 RID: 19811 RVA: 0x0002FA7A File Offset: 0x0002DC7A
 			[global::Cpp2ILInjected.Token(Token = "0x6003E46")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B3F0C", Offset = "0x14B3F0C", Length = "0x374")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1060,7 +996,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D64 RID: 19812 RVA: 0x0002FA7D File Offset: 0x0002DC7D
 			[global::Cpp2ILInjected.Token(Token = "0x6003E47")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B4828", Offset = "0x14B4828", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1069,7 +1004,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D65 RID: 19813 RVA: 0x0002FA80 File Offset: 0x0002DC80
 			[global::Cpp2ILInjected.Token(Token = "0x6003E48")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B4838", Offset = "0x14B4838", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1079,7 +1013,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D66 RID: 19814 RVA: 0x0002FA83 File Offset: 0x0002DC83
 			[global::Cpp2ILInjected.Token(Token = "0x6003E49")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B3604", Offset = "0x14B3604", Length = "0x908")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1149,7 +1082,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D67 RID: 19815 RVA: 0x0002FA86 File Offset: 0x0002DC86
 			[global::Cpp2ILInjected.Token(Token = "0x6003E4A")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B4848", Offset = "0x14B4848", Length = "0x130")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1168,7 +1100,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D68 RID: 19816 RVA: 0x0002FA89 File Offset: 0x0002DC89
 			[global::Cpp2ILInjected.Token(Token = "0x6003E4B")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B4280", Offset = "0x14B4280", Length = "0x5A8")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1234,7 +1165,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D69 RID: 19817 RVA: 0x0002FA8C File Offset: 0x0002DC8C
 			[global::Cpp2ILInjected.Token(Token = "0x6003E4C")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B4978", Offset = "0x14B4978", Length = "0x2C8")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1259,7 +1189,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D6A RID: 19818 RVA: 0x0002FA8F File Offset: 0x0002DC8F
 			[global::Cpp2ILInjected.Token(Token = "0x6003E4D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14ADC94", Offset = "0x14ADC94", Length = "0x14")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1269,32 +1198,26 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x04008BC9 RID: 35785
 			[global::Cpp2ILInjected.Token(Token = "0x4007D10")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 			public int currentAim;
 
-			// Token: 0x04008BCA RID: 35786
 			[global::Cpp2ILInjected.Token(Token = "0x4007D11")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private bool dragging;
 
-			// Token: 0x04008BCB RID: 35787
 			[global::Cpp2ILInjected.Token(Token = "0x4007D12")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 			private int caughtEdge;
 
-			// Token: 0x04008BCC RID: 35788
 			[global::Cpp2ILInjected.Token(Token = "0x4007D13")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private bool inMap;
 		}
 
-		// Token: 0x02000971 RID: 2417
 		[global::Cpp2ILInjected.Token(Token = "0x200076C")]
 		private class ModeChangeSettings : CaptureInterface.CaptureInterfaceMode
 		{
-			// Token: 0x06004D6B RID: 19819 RVA: 0x0002FA92 File Offset: 0x0002DC92
 			[global::Cpp2ILInjected.Token(Token = "0x6003E4E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B4C40", Offset = "0x14B4C40", Length = "0xA4")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1314,7 +1237,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D6C RID: 19820 RVA: 0x0002FA95 File Offset: 0x0002DC95
 			[global::Cpp2ILInjected.Token(Token = "0x6003E4F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B4CE4", Offset = "0x14B4CE4", Length = "0x25C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1332,7 +1254,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D6D RID: 19821 RVA: 0x0002FA98 File Offset: 0x0002DC98
 			[global::Cpp2ILInjected.Token(Token = "0x6003E50")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B4F40", Offset = "0x14B4F40", Length = "0x130")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1353,7 +1274,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D6E RID: 19822 RVA: 0x0002FA9B File Offset: 0x0002DC9B
 			[global::Cpp2ILInjected.Token(Token = "0x6003E51")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B5070", Offset = "0x14B5070", Length = "0x734")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1434,7 +1354,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D6F RID: 19823 RVA: 0x0002FA9E File Offset: 0x0002DC9E
 			[global::Cpp2ILInjected.Token(Token = "0x6003E52")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B57A4", Offset = "0x14B57A4", Length = "0x20")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1444,7 +1363,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D70 RID: 19824 RVA: 0x0002FAA1 File Offset: 0x0002DCA1
 			[global::Cpp2ILInjected.Token(Token = "0x6003E53")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B57C4", Offset = "0x14B57C4", Length = "0x1C0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1473,7 +1391,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D71 RID: 19825 RVA: 0x0002FAA4 File Offset: 0x0002DCA4
 			[global::Cpp2ILInjected.Token(Token = "0x6003E54")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B5984", Offset = "0x14B5984", Length = "0x988")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1565,7 +1482,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D72 RID: 19826 RVA: 0x0002FAA7 File Offset: 0x0002DCA7
 			[global::Cpp2ILInjected.Token(Token = "0x6003E55")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B630C", Offset = "0x14B630C", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1574,7 +1490,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D73 RID: 19827 RVA: 0x0002FAAA File Offset: 0x0002DCAA
 			[global::Cpp2ILInjected.Token(Token = "0x6003E56")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14B631C", Offset = "0x14B631C", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1583,7 +1498,6 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x06004D74 RID: 19828 RVA: 0x0002FAAD File Offset: 0x0002DCAD
 			[global::Cpp2ILInjected.Token(Token = "0x6003E57")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14ADCA8", Offset = "0x14ADCA8", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1593,16 +1507,13 @@ namespace Terraria.Graphics.Capture
 				throw null;
 			}
 
-			// Token: 0x04008BCD RID: 35789
 			[global::Cpp2ILInjected.Token(Token = "0x4007D14")]
 			private const int ButtonsCount = 7;
 
-			// Token: 0x04008BCE RID: 35790
 			[global::Cpp2ILInjected.Token(Token = "0x4007D15")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 			private int hoveredButton;
 
-			// Token: 0x04008BCF RID: 35791
 			[global::Cpp2ILInjected.Token(Token = "0x4007D16")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private bool inUI;

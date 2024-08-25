@@ -4,12 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000CA RID: 202
 	[global::Cpp2ILInjected.Token(Token = "0x20000F6")]
 	internal class Datatype_monthDay : Datatype_dateTimeBase
 	{
-		// Token: 0x17000228 RID: 552
-		// (get) Token: 0x0600086D RID: 2157 RVA: 0x0000479F File Offset: 0x0000299F
 		[global::Cpp2ILInjected.Token(Token = "0x1700024E")]
 		public override XmlTypeCode TypeCode
 		{
@@ -22,7 +19,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x0600086E RID: 2158 RVA: 0x000047A2 File Offset: 0x000029A2
 		[global::Cpp2ILInjected.Token(Token = "0x6000903")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC0B38", Offset = "0x1DC0B38", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DatatypeImplementation), Member = ".cctor", ReturnType = typeof(void))]

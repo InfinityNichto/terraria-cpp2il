@@ -4,12 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.CompilerServices
 {
-	// Token: 0x020003CC RID: 972
 	[global::Cpp2ILInjected.Token(Token = "0x200047C")]
 	public static class RuntimeFeature
 	{
-		// Token: 0x1700040C RID: 1036
-		// (get) Token: 0x06001FCB RID: 8139 RVA: 0x00019E02 File Offset: 0x00018002
 		[global::Cpp2ILInjected.Token(Token = "0x1700046E")]
 		public static bool IsDynamicCodeSupported
 		{

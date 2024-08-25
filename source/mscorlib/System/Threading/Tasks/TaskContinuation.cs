@@ -4,15 +4,12 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading.Tasks
 {
-	// Token: 0x020001C5 RID: 453
 	[global::Cpp2ILInjected.Token(Token = "0x2000244")]
 	internal abstract class TaskContinuation
 	{
-		// Token: 0x06001258 RID: 4696
 		[global::Cpp2ILInjected.Token(Token = "0x6001405")]
 		internal abstract void Run(Task completedTask, bool bCanInlineContinuationTask);
 
-		// Token: 0x06001259 RID: 4697 RVA: 0x00017888 File Offset: 0x00015A88
 		[global::Cpp2ILInjected.Token(Token = "0x6001406")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CACA50", Offset = "0x1CACA50", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,7 +47,6 @@ namespace System.Threading.Tasks
 			throw null;
 		}
 
-		// Token: 0x0600125A RID: 4698 RVA: 0x0001788B File Offset: 0x00015A8B
 		[global::Cpp2ILInjected.Token(Token = "0x6001407")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CACB74", Offset = "0x1CACB74", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

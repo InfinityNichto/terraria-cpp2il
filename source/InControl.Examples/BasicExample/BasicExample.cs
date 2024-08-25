@@ -6,11 +6,9 @@ using UnityEngine;
 
 namespace BasicExample
 {
-	// Token: 0x0200000F RID: 15
 	[global::Cpp2ILInjected.Token(Token = "0x2000010")]
 	public class BasicExample : MonoBehaviour
 	{
-		// Token: 0x0600004D RID: 77 RVA: 0x00002134 File Offset: 0x00000334
 		[global::Cpp2ILInjected.Token(Token = "0x6000052")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1990C64", Offset = "0x1990C64", Length = "0x238")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -39,7 +37,6 @@ namespace BasicExample
 			throw null;
 		}
 
-		// Token: 0x0600004E RID: 78 RVA: 0x00002137 File Offset: 0x00000337
 		[global::Cpp2ILInjected.Token(Token = "0x6000053")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1990E9C", Offset = "0x1990E9C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

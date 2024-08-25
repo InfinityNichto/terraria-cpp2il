@@ -1,9 +1,0 @@
-<map id="System.Security.Cryptography.DES" name="System.Security.Cryptography.DES">
-<area shape="rect" id="Node000001" title=" " alt="" coords="12,1003,251,1351"/>
-<area shape="rect" id="Node000004" href="$d2/d11/classSystem_1_1Security_1_1Cryptography_1_1DESCryptoServiceProvider.html" title=" " alt="" coords="25,1399,238,1617"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="134,1365,134,1398,129,1398,129,1365"/>
-<area shape="rect" id="Node000002" href="$d7/d9e/classSystem_1_1Security_1_1Cryptography_1_1SymmetricAlgorithm.html" title=" " alt="" coords="5,119,257,955"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,969,134,1003,129,1003,129,969"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="38,5,225,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,84,134,118,129,118,129,84"/>
-</map>

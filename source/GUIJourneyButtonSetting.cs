@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-// Token: 0x0200010E RID: 270
 [global::Cpp2ILInjected.Token(Token = "0x2000184")]
 public class GUIJourneyButtonSetting : GUIOpenUIButtonSetting
 {
-	// Token: 0x060009F6 RID: 2550 RVA: 0x00023927 File Offset: 0x00021B27
 	[global::Cpp2ILInjected.Token(Token = "0x6000AFE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A3990", Offset = "0x9A3990", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIJourneyModeSettings), Member = "Init", ReturnType = typeof(void))]
@@ -19,7 +17,6 @@ public class GUIJourneyButtonSetting : GUIOpenUIButtonSetting
 		throw null;
 	}
 
-	// Token: 0x060009F7 RID: 2551 RVA: 0x0002392A File Offset: 0x00021B2A
 	[global::Cpp2ILInjected.Token(Token = "0x6000AFF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A3998", Offset = "0x9A3998", Length = "0xFC")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -49,7 +46,6 @@ public class GUIJourneyButtonSetting : GUIOpenUIButtonSetting
 		throw null;
 	}
 
-	// Token: 0x060009F8 RID: 2552 RVA: 0x0002392D File Offset: 0x00021B2D
 	[global::Cpp2ILInjected.Token(Token = "0x6000B00")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A3A94", Offset = "0x9A3A94", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -59,7 +55,6 @@ public class GUIJourneyButtonSetting : GUIOpenUIButtonSetting
 		throw null;
 	}
 
-	// Token: 0x04000871 RID: 2161
 	[global::Cpp2ILInjected.Token(Token = "0x4000B8D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float iconScale;

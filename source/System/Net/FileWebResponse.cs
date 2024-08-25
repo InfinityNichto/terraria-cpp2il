@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x0200017A RID: 378
 	[global::Cpp2ILInjected.Token(Token = "0x200021D")]
 	[Serializable]
 	public class FileWebResponse : WebResponse, ISerializable, ICloseEx
 	{
-		// Token: 0x06000C2D RID: 3117 RVA: 0x000050E7 File Offset: 0x000032E7
 		[global::Cpp2ILInjected.Token(Token = "0x6000D8B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F381E0", Offset = "0x1F381E0", Length = "0x2A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +49,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C2E RID: 3118 RVA: 0x000050EA File Offset: 0x000032EA
 		[Obsolete("Serialization is obsoleted for this type. http://go.microsoft.com/fwlink/?linkid=14202")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D8C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F39114", Offset = "0x1F39114", Length = "0x248")]
@@ -76,7 +73,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C2F RID: 3119 RVA: 0x000050ED File Offset: 0x000032ED
 		[global::Cpp2ILInjected.Token(Token = "0x6000D8D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3935C", Offset = "0x1F3935C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -86,7 +82,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C30 RID: 3120 RVA: 0x000050F0 File Offset: 0x000032F0
 		[global::Cpp2ILInjected.Token(Token = "0x6000D8E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F39368", Offset = "0x1F39368", Length = "0x1B8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -118,8 +113,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x170002BA RID: 698
-		// (get) Token: 0x06000C31 RID: 3121 RVA: 0x000050F3 File Offset: 0x000032F3
 		[global::Cpp2ILInjected.Token(Token = "0x170002D5")]
 		public override long ContentLength
 		{
@@ -133,8 +126,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002BB RID: 699
-		// (get) Token: 0x06000C32 RID: 3122 RVA: 0x000050F6 File Offset: 0x000032F6
 		[global::Cpp2ILInjected.Token(Token = "0x170002D6")]
 		public override string ContentType
 		{
@@ -149,8 +140,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002BC RID: 700
-		// (get) Token: 0x06000C33 RID: 3123 RVA: 0x000050F9 File Offset: 0x000032F9
 		[global::Cpp2ILInjected.Token(Token = "0x170002D7")]
 		public override WebHeaderCollection Headers
 		{
@@ -164,8 +153,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002BD RID: 701
-		// (get) Token: 0x06000C34 RID: 3124 RVA: 0x000050FC File Offset: 0x000032FC
 		[global::Cpp2ILInjected.Token(Token = "0x170002D8")]
 		public override bool SupportsHeaders
 		{
@@ -178,8 +165,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002BE RID: 702
-		// (get) Token: 0x06000C35 RID: 3125 RVA: 0x000050FF File Offset: 0x000032FF
 		[global::Cpp2ILInjected.Token(Token = "0x170002D9")]
 		public override Uri ResponseUri
 		{
@@ -193,7 +178,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000C36 RID: 3126 RVA: 0x00005102 File Offset: 0x00003302
 		[global::Cpp2ILInjected.Token(Token = "0x6000D94")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F39538", Offset = "0x1F39538", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -211,7 +195,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C37 RID: 3127 RVA: 0x00005105 File Offset: 0x00003305
 		[global::Cpp2ILInjected.Token(Token = "0x6000D95")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3962C", Offset = "0x1F3962C", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -222,7 +205,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C38 RID: 3128 RVA: 0x00005108 File Offset: 0x00003308
 		[global::Cpp2ILInjected.Token(Token = "0x6000D96")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F396C4", Offset = "0x1F396C4", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -233,7 +215,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C39 RID: 3129 RVA: 0x0000510B File Offset: 0x0000330B
 		[global::Cpp2ILInjected.Token(Token = "0x6000D97")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F39830", Offset = "0x1F39830", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -245,40 +226,32 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040008FA RID: 2298
 		[global::Cpp2ILInjected.Token(Token = "0x4000B67")]
 		private const int DefaultFileStreamBufferSize = 8192;
 
-		// Token: 0x040008FB RID: 2299
 		[global::Cpp2ILInjected.Token(Token = "0x4000B68")]
 		private const string DefaultFileContentType = "application/octet-stream";
 
-		// Token: 0x040008FC RID: 2300
 		[global::Cpp2ILInjected.Token(Token = "0x4000B69")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1A")]
 		private bool m_closed;
 
-		// Token: 0x040008FD RID: 2301
 		[global::Cpp2ILInjected.Token(Token = "0x4000B6A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private long m_contentLength;
 
-		// Token: 0x040008FE RID: 2302
 		[global::Cpp2ILInjected.Token(Token = "0x4000B6B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private FileAccess m_fileAccess;
 
-		// Token: 0x040008FF RID: 2303
 		[global::Cpp2ILInjected.Token(Token = "0x4000B6C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private WebHeaderCollection m_headers;
 
-		// Token: 0x04000900 RID: 2304
 		[global::Cpp2ILInjected.Token(Token = "0x4000B6D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private Stream m_stream;
 
-		// Token: 0x04000901 RID: 2305
 		[global::Cpp2ILInjected.Token(Token = "0x4000B6E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private Uri m_uri;

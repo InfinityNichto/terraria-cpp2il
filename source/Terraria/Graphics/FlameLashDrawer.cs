@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.Graphics
 {
-	// Token: 0x020004E6 RID: 1254
 	[global::Cpp2ILInjected.Token(Token = "0x200073E")]
 	public struct FlameLashDrawer
 	{
-		// Token: 0x060036C4 RID: 14020 RVA: 0x0002BC91 File Offset: 0x00029E91
 		[global::Cpp2ILInjected.Token(Token = "0x6003D2E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149DE8C", Offset = "0x149DE8C", Length = "0x44C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -89,7 +87,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036C5 RID: 14021 RVA: 0x0002BC94 File Offset: 0x00029E94
 		[global::Cpp2ILInjected.Token(Token = "0x6003D2F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149E2D8", Offset = "0x149E2D8", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -117,7 +114,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036C6 RID: 14022 RVA: 0x0002BC97 File Offset: 0x00029E97
 		[global::Cpp2ILInjected.Token(Token = "0x6003D30")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149E428", Offset = "0x149E428", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -140,7 +136,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036C7 RID: 14023 RVA: 0x0002BC9A File Offset: 0x00029E9A
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003D31")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149E508", Offset = "0x149E508", Length = "0x6C")]
@@ -152,11 +147,9 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x04006737 RID: 26423
 		[global::Cpp2ILInjected.Token(Token = "0x4007C1C")]
 		private static VertexStrip _vertexStrip;
 
-		// Token: 0x04006738 RID: 26424
 		[global::Cpp2ILInjected.Token(Token = "0x4007C1D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private float transitToDark;

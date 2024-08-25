@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x0200023F RID: 575
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002DC")]
 	public class HMACRIPEMD160 : HMAC
 	{
-		// Token: 0x06001691 RID: 5777 RVA: 0x00018461 File Offset: 0x00016661
 		[global::Cpp2ILInjected.Token(Token = "0x60018AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFE704", Offset = "0x1AFE704", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CryptoConfig), Member = "CreateFromName", MemberParameters = new object[]
@@ -26,7 +24,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001692 RID: 5778 RVA: 0x00018464 File Offset: 0x00016664
 		[global::Cpp2ILInjected.Token(Token = "0x60018AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFE768", Offset = "0x1AFE768", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

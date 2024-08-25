@@ -9,11 +9,9 @@ using Terraria.UI;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x0200044B RID: 1099
 	[global::Cpp2ILInjected.Token(Token = "0x2000647")]
 	public struct PlayerInteractionAnchor
 	{
-		// Token: 0x060031B7 RID: 12727 RVA: 0x0002AE57 File Offset: 0x00029057
 		[global::Cpp2ILInjected.Token(Token = "0x60036D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141CE70", Offset = "0x141CE70", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -22,8 +20,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x17000623 RID: 1571
-		// (get) Token: 0x060031B8 RID: 12728 RVA: 0x0002AE5A File Offset: 0x0002905A
 		[global::Cpp2ILInjected.Token(Token = "0x170006A5")]
 		public bool InUse
 		{
@@ -41,7 +37,6 @@ namespace Terraria.DataStructures
 			}
 		}
 
-		// Token: 0x060031B9 RID: 12729 RVA: 0x0002AE5D File Offset: 0x0002905D
 		[global::Cpp2ILInjected.Token(Token = "0x60036D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141CE8C", Offset = "0x141CE8C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -74,7 +69,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031BA RID: 12730 RVA: 0x0002AE60 File Offset: 0x00029060
 		[global::Cpp2ILInjected.Token(Token = "0x60036D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141CEA0", Offset = "0x141CEA0", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MessageBuffer), Member = "ProcessData", MemberParameters = new object[]
@@ -89,7 +83,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031BB RID: 12731 RVA: 0x0002AE63 File Offset: 0x00029063
 		[global::Cpp2ILInjected.Token(Token = "0x60036D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141CEAC", Offset = "0x141CEAC", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInteractionAnchor), Member = "GetTileEntity", ReturnType = typeof(TileEntity))]
@@ -113,7 +106,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031BC RID: 12732 RVA: 0x0002AE66 File Offset: 0x00029066
 		[global::Cpp2ILInjected.Token(Token = "0x60036D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141CF40", Offset = "0x141CF40", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIDisplayDoll), Member = "CanBeEquipedAccessory", MemberParameters = new object[] { typeof(Item) }, ReturnType = typeof(int))]
@@ -172,17 +164,14 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x040063EE RID: 25582
 		[global::Cpp2ILInjected.Token(Token = "0x40077DE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public int interactEntityID;
 
-		// Token: 0x040063EF RID: 25583
 		[global::Cpp2ILInjected.Token(Token = "0x40077DF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public int X;
 
-		// Token: 0x040063F0 RID: 25584
 		[global::Cpp2ILInjected.Token(Token = "0x40077E0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		public int Y;

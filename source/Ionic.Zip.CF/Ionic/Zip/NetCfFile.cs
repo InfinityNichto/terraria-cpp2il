@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Ionic.Zip
 {
-	// Token: 0x02000020 RID: 32
 	[global::Cpp2ILInjected.Token(Token = "0x2000024")]
 	internal class NetCfFile
 	{
-		// Token: 0x0600013F RID: 319 RVA: 0x00005245 File Offset: 0x00003445
 		[global::Cpp2ILInjected.Token(Token = "0x600014A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A4DB40", Offset = "0x1A4DB40", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ZipEntry), Member = "_SetTimes", MemberParameters = new object[]
@@ -48,7 +46,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000140 RID: 320 RVA: 0x00005248 File Offset: 0x00003448
 		[global::Cpp2ILInjected.Token(Token = "0x600014B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A4DC84", Offset = "0x1A4DC84", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ZipEntry), Member = "_SetTimes", MemberParameters = new object[]
@@ -86,7 +83,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000141 RID: 321
 		[global::Cpp2ILInjected.Token(Token = "0x600014C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A53CB4", Offset = "0x1A53CB4", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -107,7 +103,6 @@ namespace Ionic.Zip
 		[PreserveSig]
 		internal static extern int CreateFileCE(string lpFileName, uint dwDesiredAccess, uint dwShareMode, int lpSecurityAttributes, uint dwCreationDisposition, uint dwFlagsAndAttributes, int hTemplateFile);
 
-		// Token: 0x06000142 RID: 322
 		[global::Cpp2ILInjected.Token(Token = "0x600014D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A4ABC8", Offset = "0x1A4ABC8", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -132,7 +127,6 @@ namespace Ionic.Zip
 		[PreserveSig]
 		internal static extern uint GetAttributes(string lpFileName);
 
-		// Token: 0x06000143 RID: 323
 		[global::Cpp2ILInjected.Token(Token = "0x600014E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A4CB40", Offset = "0x1A4CB40", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -148,7 +142,6 @@ namespace Ionic.Zip
 		[PreserveSig]
 		internal static extern bool SetAttributes(string lpFileName, uint dwFileAttributes);
 
-		// Token: 0x06000144 RID: 324
 		[global::Cpp2ILInjected.Token(Token = "0x600014F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A53D94", Offset = "0x1A53D94", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -169,7 +162,6 @@ namespace Ionic.Zip
 		[PreserveSig]
 		internal static extern bool SetFileTime(IntPtr hFile, byte[] lpCreationTime, byte[] lpLastAccessTime, byte[] lpLastWriteTime);
 
-		// Token: 0x06000145 RID: 325
 		[global::Cpp2ILInjected.Token(Token = "0x6000150")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A53E58", Offset = "0x1A53E58", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -190,7 +182,6 @@ namespace Ionic.Zip
 		[PreserveSig]
 		internal static extern bool CloseHandle(IntPtr hObject);
 
-		// Token: 0x06000146 RID: 326 RVA: 0x0000524B File Offset: 0x0000344B
 		[global::Cpp2ILInjected.Token(Token = "0x6000151")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A53EE0", Offset = "0x1A53EE0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

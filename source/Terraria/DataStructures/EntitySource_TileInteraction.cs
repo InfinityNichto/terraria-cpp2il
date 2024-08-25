@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000457 RID: 1111
 	[global::Cpp2ILInjected.Token(Token = "0x2000653")]
 	public class EntitySource_TileInteraction : AEntitySource_Tile
 	{
-		// Token: 0x060031D4 RID: 12756 RVA: 0x0002AEAE File Offset: 0x000290AE
 		[global::Cpp2ILInjected.Token(Token = "0x60036F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D4BC", Offset = "0x141D4BC", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "GetProjectileSource_TileInteraction", MemberParameters = new object[]
@@ -46,7 +44,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x04006413 RID: 25619
 		[global::Cpp2ILInjected.Token(Token = "0x4007803")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public readonly Entity Entity;

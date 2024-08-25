@@ -1,9 +1,0 @@
-<map id="System.Net.DnsPermissionAttribute" name="System.Net.DnsPermissionAttribute">
-<area shape="rect" id="Node000001" title=" " alt="" coords="27,455,217,584"/>
-<area shape="rect" id="Node000002" href="$d0/d75/classSystem_1_1Security_1_1Permissions_1_1CodeAccessSecurityAttribute.html" title=" " alt="" coords="13,327,231,407"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,420,125,454,119,454,119,420"/>
-<area shape="rect" id="Node000003" href="$d8/d8d/classSystem_1_1Security_1_1Permissions_1_1SecurityAttribute.html" title=" " alt="" coords="5,119,239,279"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,292,125,327,119,327,119,292"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="38,5,206,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,85,125,118,119,118,119,85"/>
-</map>

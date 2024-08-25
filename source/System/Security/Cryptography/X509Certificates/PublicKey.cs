@@ -5,11 +5,9 @@ using Mono.Security;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000A5 RID: 165
 	[global::Cpp2ILInjected.Token(Token = "0x2000102")]
 	public sealed class PublicKey
 	{
-		// Token: 0x060004F6 RID: 1270 RVA: 0x00003C6B File Offset: 0x00001E6B
 		[global::Cpp2ILInjected.Token(Token = "0x600059B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED059C", Offset = "0x1ED059C", Length = "0x158")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509Certificate2), Member = "get_PublicKey", ReturnType = typeof(PublicKey))]
@@ -24,8 +22,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x1700010C RID: 268
-		// (get) Token: 0x060004F7 RID: 1271 RVA: 0x00003C6E File Offset: 0x00001E6E
 		[global::Cpp2ILInjected.Token(Token = "0x17000112")]
 		public AsnEncodedData EncodedKeyValue
 		{
@@ -38,8 +34,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x1700010D RID: 269
-		// (get) Token: 0x060004F8 RID: 1272 RVA: 0x00003C71 File Offset: 0x00001E71
 		[global::Cpp2ILInjected.Token(Token = "0x17000113")]
 		public AsnEncodedData EncodedParameters
 		{
@@ -52,8 +46,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x1700010E RID: 270
-		// (get) Token: 0x060004F9 RID: 1273 RVA: 0x00003C74 File Offset: 0x00001E74
 		[global::Cpp2ILInjected.Token(Token = "0x17000114")]
 		public AsymmetricAlgorithm Key
 		{
@@ -93,8 +85,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x1700010F RID: 271
-		// (get) Token: 0x060004FA RID: 1274 RVA: 0x00003C77 File Offset: 0x00001E77
 		[global::Cpp2ILInjected.Token(Token = "0x17000115")]
 		public Oid Oid
 		{
@@ -107,7 +97,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x060004FB RID: 1275 RVA: 0x00003C7A File Offset: 0x00001E7A
 		[global::Cpp2ILInjected.Token(Token = "0x60005A0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED0FFC", Offset = "0x1ED0FFC", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PublicKey), Member = "DecodeDSA", MemberParameters = new object[]
@@ -131,7 +120,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060004FC RID: 1276 RVA: 0x00003C7D File Offset: 0x00001E7D
 		[global::Cpp2ILInjected.Token(Token = "0x60005A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED0BC4", Offset = "0x1ED0BC4", Length = "0x430")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +144,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060004FD RID: 1277 RVA: 0x00003C80 File Offset: 0x00001E80
 		[global::Cpp2ILInjected.Token(Token = "0x60005A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED0868", Offset = "0x1ED0868", Length = "0x35C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +167,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x060004FE RID: 1278 RVA: 0x00003C83 File Offset: 0x00001E83
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60005A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED1080", Offset = "0x1ED1080", Length = "0x68")]
@@ -191,22 +177,18 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x04000380 RID: 896
 		[global::Cpp2ILInjected.Token(Token = "0x40004E9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private AsnEncodedData _keyValue;
 
-		// Token: 0x04000381 RID: 897
 		[global::Cpp2ILInjected.Token(Token = "0x40004EA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private AsnEncodedData _params;
 
-		// Token: 0x04000382 RID: 898
 		[global::Cpp2ILInjected.Token(Token = "0x40004EB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Oid _oid;
 
-		// Token: 0x04000383 RID: 899
 		[global::Cpp2ILInjected.Token(Token = "0x40004EC")]
 		private static byte[] Empty;
 	}

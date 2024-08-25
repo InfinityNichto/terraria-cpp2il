@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000259 RID: 601
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002F6")]
 	public class RSAOAEPKeyExchangeFormatter : AsymmetricKeyExchangeFormatter
 	{
-		// Token: 0x06001793 RID: 6035 RVA: 0x00018749 File Offset: 0x00016949
 		[global::Cpp2ILInjected.Token(Token = "0x60019AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0C448", Offset = "0x1B0C448", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,7 +18,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001794 RID: 6036 RVA: 0x0001874C File Offset: 0x0001694C
 		[global::Cpp2ILInjected.Token(Token = "0x60019AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0AAC0", Offset = "0x1B0AAC0", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,9 +35,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x1700026E RID: 622
-		// (get) Token: 0x06001795 RID: 6037 RVA: 0x0001874F File Offset: 0x0001694F
-		// (set) Token: 0x06001796 RID: 6038 RVA: 0x00018752 File Offset: 0x00016952
 		[global::Cpp2ILInjected.Token(Token = "0x170002C4")]
 		public byte[] Parameter
 		{
@@ -64,8 +58,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x1700026F RID: 623
-		// (get) Token: 0x06001797 RID: 6039 RVA: 0x00018755 File Offset: 0x00016955
 		[global::Cpp2ILInjected.Token(Token = "0x170002C5")]
 		public override string Parameters
 		{
@@ -78,9 +70,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000270 RID: 624
-		// (get) Token: 0x06001798 RID: 6040 RVA: 0x00018758 File Offset: 0x00016958
-		// (set) Token: 0x06001799 RID: 6041 RVA: 0x0001875B File Offset: 0x0001695B
 		[global::Cpp2ILInjected.Token(Token = "0x170002C6")]
 		public RandomNumberGenerator Rng
 		{
@@ -100,7 +89,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x0600179A RID: 6042 RVA: 0x0001875E File Offset: 0x0001695E
 		[global::Cpp2ILInjected.Token(Token = "0x60019B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0C584", Offset = "0x1B0C584", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -112,7 +100,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600179B RID: 6043 RVA: 0x00018761 File Offset: 0x00016961
 		[global::Cpp2ILInjected.Token(Token = "0x60019B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0C670", Offset = "0x1B0C670", Length = "0x198")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -136,7 +123,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600179C RID: 6044 RVA: 0x00018764 File Offset: 0x00016964
 		[global::Cpp2ILInjected.Token(Token = "0x60019B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0CA58", Offset = "0x1B0CA58", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -146,8 +132,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x17000271 RID: 625
-		// (get) Token: 0x0600179D RID: 6045 RVA: 0x00018767 File Offset: 0x00016967
 		[global::Cpp2ILInjected.Token(Token = "0x170002C7")]
 		private bool OverridesEncrypt
 		{
@@ -172,22 +156,18 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x04000A2F RID: 2607
 		[global::Cpp2ILInjected.Token(Token = "0x4000D09")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private byte[] ParameterValue;
 
-		// Token: 0x04000A30 RID: 2608
 		[global::Cpp2ILInjected.Token(Token = "0x4000D0A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private RSA _rsaKey;
 
-		// Token: 0x04000A31 RID: 2609
 		[global::Cpp2ILInjected.Token(Token = "0x4000D0B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private bool? _rsaOverridesEncrypt;
 
-		// Token: 0x04000A32 RID: 2610
 		[global::Cpp2ILInjected.Token(Token = "0x4000D0C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private RandomNumberGenerator RngValue;

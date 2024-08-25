@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x02000044 RID: 68
 	[global::Cpp2ILInjected.Token(Token = "0x2000061")]
 	internal class DomNameTable
 	{
-		// Token: 0x060003E7 RID: 999 RVA: 0x00003A82 File Offset: 0x00001C82
 		[global::Cpp2ILInjected.Token(Token = "0x600045F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D8ADE0", Offset = "0x1D8ADE0", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlDocument), Member = ".ctor", MemberParameters = new object[] { typeof(XmlImplementation) }, ReturnType = typeof(void))]
@@ -21,7 +19,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060003E8 RID: 1000 RVA: 0x00003A85 File Offset: 0x00001C85
 		[global::Cpp2ILInjected.Token(Token = "0x6000460")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D8AE6C", Offset = "0x1D8AE6C", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060003E9 RID: 1001 RVA: 0x00003A88 File Offset: 0x00001C88
 		[global::Cpp2ILInjected.Token(Token = "0x6000461")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D8AFA4", Offset = "0x1D8AFA4", Length = "0x20C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -86,7 +82,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060003EA RID: 1002 RVA: 0x00003A8B File Offset: 0x00001C8B
 		[global::Cpp2ILInjected.Token(Token = "0x6000462")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D8B1B0", Offset = "0x1D8B1B0", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,27 +99,22 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x0400018E RID: 398
 		[global::Cpp2ILInjected.Token(Token = "0x4000288")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private XmlName[] entries;
 
-		// Token: 0x0400018F RID: 399
 		[global::Cpp2ILInjected.Token(Token = "0x4000289")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int count;
 
-		// Token: 0x04000190 RID: 400
 		[global::Cpp2ILInjected.Token(Token = "0x400028A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private int mask;
 
-		// Token: 0x04000191 RID: 401
 		[global::Cpp2ILInjected.Token(Token = "0x400028B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private XmlDocument ownerDocument;
 
-		// Token: 0x04000192 RID: 402
 		[global::Cpp2ILInjected.Token(Token = "0x400028C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private XmlNameTable nameTable;

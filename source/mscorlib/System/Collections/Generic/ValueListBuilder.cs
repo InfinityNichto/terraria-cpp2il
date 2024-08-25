@@ -6,13 +6,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections.Generic
 {
-	// Token: 0x02000523 RID: 1315
 	[global::System.Obsolete("Types with embedded references are not supported in this version of your compiler.", true)]
 	[global::System.Reflection.DefaultMember("Item")]
 	[global::Cpp2ILInjected.Token(Token = "0x200063C")]
 	internal ref struct ValueListBuilder<T>
 	{
-		// Token: 0x06002C67 RID: 11367 RVA: 0x0001C097 File Offset: 0x0001A297
 		[global::Cpp2ILInjected.Token(Token = "0x60030DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18AB2A4", Offset = "0x18AB2A4", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -46,8 +44,6 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x170006EC RID: 1772
-		// (get) Token: 0x06002C68 RID: 11368 RVA: 0x0001C09A File Offset: 0x0001A29A
 		[global::Cpp2ILInjected.Token(Token = "0x170007E1")]
 		public int Length
 		{
@@ -61,7 +57,6 @@ namespace System.Collections.Generic
 			}
 		}
 
-		// Token: 0x06002C69 RID: 11369 RVA: 0x0001C09D File Offset: 0x0001A29D
 		[global::Cpp2ILInjected.Token(Token = "0x60030E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18AB2BC", Offset = "0x18AB2BC", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -75,7 +70,6 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x06002C6A RID: 11370 RVA: 0x0001C0A0 File Offset: 0x0001A2A0
 		[global::Cpp2ILInjected.Token(Token = "0x60030E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18AB334", Offset = "0x18AB334", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -112,7 +106,6 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x06002C6B RID: 11371 RVA: 0x0001C0A3 File Offset: 0x0001A2A3
 		[global::Cpp2ILInjected.Token(Token = "0x60030E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18AB3F4", Offset = "0x18AB3F4", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -125,7 +118,6 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x06002C6C RID: 11372 RVA: 0x0001C0A6 File Offset: 0x0001A2A6
 		[global::Cpp2ILInjected.Token(Token = "0x60030E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18AB4AC", Offset = "0x18AB4AC", Length = "0x258")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -160,17 +152,14 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x04001619 RID: 5657
 		[global::Cpp2ILInjected.Token(Token = "0x4001A79")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private global::System.Span<T> _span;
 
-		// Token: 0x0400161A RID: 5658
 		[global::Cpp2ILInjected.Token(Token = "0x4001A7A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private T[] _arrayFromPool;
 
-		// Token: 0x0400161B RID: 5659
 		[global::Cpp2ILInjected.Token(Token = "0x4001A7B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private int _pos;

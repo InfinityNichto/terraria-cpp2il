@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.IO
 {
-	// Token: 0x0200046D RID: 1133
 	[global::Cpp2ILInjected.Token(Token = "0x2000533")]
 	[global::System.Serializable]
 	public class FileLoadException : IOException
 	{
-		// Token: 0x06002492 RID: 9362 RVA: 0x0001AAC2 File Offset: 0x00018CC2
 		[global::Cpp2ILInjected.Token(Token = "0x6002736")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95CD8", Offset = "0x1B95CD8", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -24,7 +22,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002493 RID: 9363 RVA: 0x0001AAC5 File Offset: 0x00018CC5
 		[global::Cpp2ILInjected.Token(Token = "0x6002737")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95D34", Offset = "0x1B95D34", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,8 +33,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x1700052B RID: 1323
-		// (get) Token: 0x06002494 RID: 9364 RVA: 0x0001AAC8 File Offset: 0x00018CC8
 		[global::Cpp2ILInjected.Token(Token = "0x170005A3")]
 		public override string Message
 		{
@@ -55,8 +50,6 @@ namespace System.IO
 			}
 		}
 
-		// Token: 0x1700052C RID: 1324
-		// (get) Token: 0x06002495 RID: 9365 RVA: 0x0001AACB File Offset: 0x00018CCB
 		[global::Cpp2ILInjected.Token(Token = "0x170005A4")]
 		public string FileName
 		{
@@ -70,8 +63,6 @@ namespace System.IO
 			}
 		}
 
-		// Token: 0x1700052D RID: 1325
-		// (get) Token: 0x06002496 RID: 9366 RVA: 0x0001AACE File Offset: 0x00018CCE
 		[global::Cpp2ILInjected.Token(Token = "0x170005A5")]
 		public string FusionLog
 		{
@@ -85,7 +76,6 @@ namespace System.IO
 			}
 		}
 
-		// Token: 0x06002497 RID: 9367 RVA: 0x0001AAD1 File Offset: 0x00018CD1
 		[global::Cpp2ILInjected.Token(Token = "0x600273B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95E00", Offset = "0x1B95E00", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,7 +104,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002498 RID: 9368 RVA: 0x0001AAD4 File Offset: 0x00018CD4
 		[global::Cpp2ILInjected.Token(Token = "0x600273C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95FDC", Offset = "0x1B95FDC", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -130,7 +119,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002499 RID: 9369 RVA: 0x0001AAD7 File Offset: 0x00018CD7
 		[global::Cpp2ILInjected.Token(Token = "0x600273D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B9608C", Offset = "0x1B9608C", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -152,7 +140,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600249A RID: 9370 RVA: 0x0001AADA File Offset: 0x00018CDA
 		[global::Cpp2ILInjected.Token(Token = "0x600273E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B95D7C", Offset = "0x1B95D7C", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.BadImageFormatException), Member = "SetMessageField", ReturnType = typeof(void))]
@@ -170,13 +157,11 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x04001249 RID: 4681
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4001569")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private readonly string <FileName>k__BackingField;
 
-		// Token: 0x0400124A RID: 4682
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400156A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]

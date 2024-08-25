@@ -9,12 +9,9 @@ using Terraria.Graphics.Capture;
 
 namespace Terraria.GameContent.UI
 {
-	// Token: 0x020006A1 RID: 1697
 	[global::Cpp2ILInjected.Token(Token = "0x2000A67")]
 	public class WiresUI
 	{
-		// Token: 0x170007A7 RID: 1959
-		// (get) Token: 0x0600428F RID: 17039 RVA: 0x0002DE60 File Offset: 0x0002C060
 		[global::Cpp2ILInjected.Token(Token = "0x170008A1")]
 		public static bool Open
 		{
@@ -33,7 +30,6 @@ namespace Terraria.GameContent.UI
 			}
 		}
 
-		// Token: 0x06004290 RID: 17040 RVA: 0x0002DE63 File Offset: 0x0002C063
 		[global::Cpp2ILInjected.Token(Token = "0x6004E96")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8E6038", Offset = "0x8E6038", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -47,7 +43,6 @@ namespace Terraria.GameContent.UI
 			throw null;
 		}
 
-		// Token: 0x06004291 RID: 17041 RVA: 0x0002DE66 File Offset: 0x0002C066
 		[global::Cpp2ILInjected.Token(Token = "0x6004E97")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8E6104", Offset = "0x8E6104", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -57,7 +52,6 @@ namespace Terraria.GameContent.UI
 			throw null;
 		}
 
-		// Token: 0x06004292 RID: 17042 RVA: 0x0002DE69 File Offset: 0x0002C069
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6004E98")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8E610C", Offset = "0x8E610C", Length = "0x70")]
@@ -69,17 +63,12 @@ namespace Terraria.GameContent.UI
 			throw null;
 		}
 
-		// Token: 0x04006ECC RID: 28364
 		[global::Cpp2ILInjected.Token(Token = "0x40087B4")]
 		private static WiresUI.WiresRadial radial;
 
-		// Token: 0x02000AA3 RID: 2723
 		[global::Cpp2ILInjected.Token(Token = "0x2000A68")]
 		public static class Settings
 		{
-			// Token: 0x17000902 RID: 2306
-			// (get) Token: 0x06005232 RID: 21042 RVA: 0x00030800 File Offset: 0x0002EA00
-			// (set) Token: 0x06005233 RID: 21043 RVA: 0x00030803 File Offset: 0x0002EA03
 			[global::Cpp2ILInjected.Token(Token = "0x170008A2")]
 			public static WiresUI.Settings.MultiToolMode ToolMode
 			{
@@ -180,8 +169,6 @@ namespace Terraria.GameContent.UI
 				}
 			}
 
-			// Token: 0x17000903 RID: 2307
-			// (get) Token: 0x06005234 RID: 21044 RVA: 0x00030806 File Offset: 0x0002EA06
 			[global::Cpp2ILInjected.Token(Token = "0x170008A3")]
 			public static bool DrawWires
 			{
@@ -200,8 +187,6 @@ namespace Terraria.GameContent.UI
 				}
 			}
 
-			// Token: 0x17000904 RID: 2308
-			// (get) Token: 0x06005235 RID: 21045 RVA: 0x00030809 File Offset: 0x0002EA09
 			[global::Cpp2ILInjected.Token(Token = "0x170008A4")]
 			public static bool HideWires
 			{
@@ -218,8 +203,6 @@ namespace Terraria.GameContent.UI
 				}
 			}
 
-			// Token: 0x17000905 RID: 2309
-			// (get) Token: 0x06005236 RID: 21046 RVA: 0x0003080C File Offset: 0x0002EA0C
 			[global::Cpp2ILInjected.Token(Token = "0x170008A5")]
 			public static bool DrawToolModeUI
 			{
@@ -267,9 +250,6 @@ namespace Terraria.GameContent.UI
 				}
 			}
 
-			// Token: 0x17000906 RID: 2310
-			// (get) Token: 0x06005237 RID: 21047 RVA: 0x0003080F File Offset: 0x0002EA0F
-			// (set) Token: 0x06005238 RID: 21048 RVA: 0x00030812 File Offset: 0x0002EA12
 			[global::Cpp2ILInjected.Token(Token = "0x170008A6")]
 			private static int _lastActuatorEnabled
 			{
@@ -291,8 +271,6 @@ namespace Terraria.GameContent.UI
 				}
 			}
 
-			// Token: 0x17000907 RID: 2311
-			// (get) Token: 0x06005239 RID: 21049 RVA: 0x00030815 File Offset: 0x0002EA15
 			[global::Cpp2ILInjected.Token(Token = "0x170008A7")]
 			public static bool DrawToolAllowActuators
 			{
@@ -317,37 +295,28 @@ namespace Terraria.GameContent.UI
 				}
 			}
 
-			// Token: 0x02000BD2 RID: 3026
 			[Flags]
 			[global::Cpp2ILInjected.Token(Token = "0x2000A69")]
 			public enum MultiToolMode
 			{
-				// Token: 0x04009160 RID: 37216
 				[global::Cpp2ILInjected.Token(Token = "0x40087B6")]
 				Red = 1,
-				// Token: 0x04009161 RID: 37217
 				[global::Cpp2ILInjected.Token(Token = "0x40087B7")]
 				Green = 2,
-				// Token: 0x04009162 RID: 37218
 				[global::Cpp2ILInjected.Token(Token = "0x40087B8")]
 				Blue = 4,
-				// Token: 0x04009163 RID: 37219
 				[global::Cpp2ILInjected.Token(Token = "0x40087B9")]
 				Yellow = 8,
-				// Token: 0x04009164 RID: 37220
 				[global::Cpp2ILInjected.Token(Token = "0x40087BA")]
 				Actuator = 16,
-				// Token: 0x04009165 RID: 37221
 				[global::Cpp2ILInjected.Token(Token = "0x40087BB")]
 				Cutter = 32
 			}
 		}
 
-		// Token: 0x02000AA4 RID: 2724
 		[global::Cpp2ILInjected.Token(Token = "0x2000A6A")]
 		public class WiresRadial
 		{
-			// Token: 0x0600523A RID: 21050 RVA: 0x00030818 File Offset: 0x0002EA18
 			[global::Cpp2ILInjected.Token(Token = "0x6004EA1")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8E60C4", Offset = "0x8E60C4", Length = "0x18")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -358,7 +327,6 @@ namespace Terraria.GameContent.UI
 				throw null;
 			}
 
-			// Token: 0x0600523B RID: 21051 RVA: 0x0003081B File Offset: 0x0002EA1B
 			[global::Cpp2ILInjected.Token(Token = "0x6004EA2")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8E6918", Offset = "0x8E6918", Length = "0x260")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -385,7 +353,6 @@ namespace Terraria.GameContent.UI
 				throw null;
 			}
 
-			// Token: 0x0600523C RID: 21052 RVA: 0x0003081E File Offset: 0x0002EA1E
 			[global::Cpp2ILInjected.Token(Token = "0x6004EA3")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8E66B8", Offset = "0x8E66B8", Length = "0x260")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -421,7 +388,6 @@ namespace Terraria.GameContent.UI
 				throw null;
 			}
 
-			// Token: 0x0600523D RID: 21053 RVA: 0x00030821 File Offset: 0x0002EA21
 			[global::Cpp2ILInjected.Token(Token = "0x6004EA4")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8E60DC", Offset = "0x8E60DC", Length = "0x28")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -432,7 +398,6 @@ namespace Terraria.GameContent.UI
 				throw null;
 			}
 
-			// Token: 0x0600523E RID: 21054 RVA: 0x00030824 File Offset: 0x0002EA24
 			[global::Cpp2ILInjected.Token(Token = "0x6004EA5")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8E854C", Offset = "0x8E854C", Length = "0x1D80")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -519,7 +484,6 @@ namespace Terraria.GameContent.UI
 				throw null;
 			}
 
-			// Token: 0x0600523F RID: 21055 RVA: 0x00030827 File Offset: 0x0002EA27
 			[global::Cpp2ILInjected.Token(Token = "0x6004EA6")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8E6B78", Offset = "0x8E6B78", Length = "0xFA0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -615,7 +579,6 @@ namespace Terraria.GameContent.UI
 				throw null;
 			}
 
-			// Token: 0x06005240 RID: 21056 RVA: 0x0003082A File Offset: 0x0002EA2A
 			[global::Cpp2ILInjected.Token(Token = "0x6004EA7")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8E7B18", Offset = "0x8E7B18", Length = "0xA34")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -692,7 +655,6 @@ namespace Terraria.GameContent.UI
 				throw null;
 			}
 
-			// Token: 0x06005241 RID: 21057 RVA: 0x0003082D File Offset: 0x0002EA2D
 			[global::Cpp2ILInjected.Token(Token = "0x6004EA8")]
 			[global::Cpp2ILInjected.Address(RVA = "0x8E617C", Offset = "0x8E617C", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -702,22 +664,18 @@ namespace Terraria.GameContent.UI
 				throw null;
 			}
 
-			// Token: 0x04008EFB RID: 36603
 			[global::Cpp2ILInjected.Token(Token = "0x40087BC")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public Vector2 position;
 
-			// Token: 0x04008EFC RID: 36604
 			[global::Cpp2ILInjected.Token(Token = "0x40087BD")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public bool active;
 
-			// Token: 0x04008EFD RID: 36605
 			[global::Cpp2ILInjected.Token(Token = "0x40087BE")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x19")]
 			public bool OnWiresMenu;
 
-			// Token: 0x04008EFE RID: 36606
 			[global::Cpp2ILInjected.Token(Token = "0x40087BF")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 			private float _lineOpacity;

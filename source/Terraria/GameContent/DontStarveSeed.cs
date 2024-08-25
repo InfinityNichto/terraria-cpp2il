@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x02000546 RID: 1350
 	[global::Cpp2ILInjected.Token(Token = "0x20007B8")]
 	public class DontStarveSeed
 	{
-		// Token: 0x0600399D RID: 14749 RVA: 0x0002C4A7 File Offset: 0x0002A6A7
 		[global::Cpp2ILInjected.Token(Token = "0x6004064")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76DF8C", Offset = "0x76DF8C", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +39,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x0600399E RID: 14750 RVA: 0x0002C4AA File Offset: 0x0002A6AA
 		[global::Cpp2ILInjected.Token(Token = "0x6004065")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76E140", Offset = "0x76E140", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,7 +56,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x0600399F RID: 14751 RVA: 0x0002C4AD File Offset: 0x0002A6AD
 		[global::Cpp2ILInjected.Token(Token = "0x6004066")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76E28C", Offset = "0x76E28C", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "SetBackColor", MemberParameters = new object[]
@@ -80,7 +76,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x060039A0 RID: 14752 RVA: 0x0002C4B0 File Offset: 0x0002A6B0
 		[global::Cpp2ILInjected.Token(Token = "0x6004067")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76E37C", Offset = "0x76E37C", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "Initialize", ReturnType = typeof(void))]
@@ -97,7 +92,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x060039A1 RID: 14753 RVA: 0x0002C4B3 File Offset: 0x0002A6B3
 		[global::Cpp2ILInjected.Token(Token = "0x6004068")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76E3F0", Offset = "0x76E3F0", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -107,7 +101,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x060039A2 RID: 14754 RVA: 0x0002C4B6 File Offset: 0x0002A6B6
 		[global::Cpp2ILInjected.Token(Token = "0x6004069")]
 		[global::Cpp2ILInjected.Address(RVA = "0x76E3FC", Offset = "0x76E3FC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

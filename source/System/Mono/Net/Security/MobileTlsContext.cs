@@ -11,11 +11,9 @@ using Mono.Unity;
 
 namespace Mono.Net.Security
 {
-	// Token: 0x0200001C RID: 28
 	[global::Cpp2ILInjected.Token(Token = "0x200005F")]
 	internal abstract class MobileTlsContext : IDisposable
 	{
-		// Token: 0x060000BE RID: 190 RVA: 0x00003062 File Offset: 0x00001262
 		[global::Cpp2ILInjected.Token(Token = "0x600012F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D446E8", Offset = "0x1D446E8", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -44,8 +42,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x17000032 RID: 50
-		// (get) Token: 0x060000BF RID: 191 RVA: 0x00003065 File Offset: 0x00001265
 		[global::Cpp2ILInjected.Token(Token = "0x17000032")]
 		internal MobileAuthenticatedStream Parent
 		{
@@ -59,8 +55,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x17000033 RID: 51
-		// (get) Token: 0x060000C0 RID: 192 RVA: 0x00003068 File Offset: 0x00001268
 		[global::Cpp2ILInjected.Token(Token = "0x17000033")]
 		public MonoTlsSettings Settings
 		{
@@ -73,8 +67,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x17000034 RID: 52
-		// (get) Token: 0x060000C1 RID: 193
 		[global::Cpp2ILInjected.Token(Token = "0x17000034")]
 		public abstract bool IsAuthenticated
 		{
@@ -82,8 +74,6 @@ namespace Mono.Net.Security
 			get;
 		}
 
-		// Token: 0x17000035 RID: 53
-		// (get) Token: 0x060000C2 RID: 194 RVA: 0x0000306B File Offset: 0x0000126B
 		[global::Cpp2ILInjected.Token(Token = "0x17000035")]
 		public bool IsServer
 		{
@@ -97,8 +87,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x17000036 RID: 54
-		// (get) Token: 0x060000C3 RID: 195 RVA: 0x0000306E File Offset: 0x0000126E
 		[global::Cpp2ILInjected.Token(Token = "0x17000036")]
 		internal string TargetHost
 		{
@@ -112,8 +100,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x17000037 RID: 55
-		// (get) Token: 0x060000C4 RID: 196 RVA: 0x00003071 File Offset: 0x00001271
 		[global::Cpp2ILInjected.Token(Token = "0x17000037")]
 		protected string ServerName
 		{
@@ -127,8 +113,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x17000038 RID: 56
-		// (get) Token: 0x060000C5 RID: 197 RVA: 0x00003074 File Offset: 0x00001274
 		[global::Cpp2ILInjected.Token(Token = "0x17000038")]
 		protected bool AskForClientCertificate
 		{
@@ -142,8 +126,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x17000039 RID: 57
-		// (get) Token: 0x060000C6 RID: 198 RVA: 0x00003077 File Offset: 0x00001277
 		[global::Cpp2ILInjected.Token(Token = "0x17000039")]
 		protected X509CertificateCollection ClientCertificates
 		{
@@ -157,21 +139,15 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x060000C7 RID: 199
 		[global::Cpp2ILInjected.Token(Token = "0x6000138")]
 		public abstract void StartHandshake();
 
-		// Token: 0x060000C8 RID: 200
 		[global::Cpp2ILInjected.Token(Token = "0x6000139")]
 		public abstract bool ProcessHandshake();
 
-		// Token: 0x060000C9 RID: 201
 		[global::Cpp2ILInjected.Token(Token = "0x600013A")]
 		public abstract void FinishHandshake();
 
-		// Token: 0x1700003A RID: 58
-		// (get) Token: 0x060000CA RID: 202 RVA: 0x0000307A File Offset: 0x0000127A
-		// (set) Token: 0x060000CB RID: 203 RVA: 0x0000307D File Offset: 0x0000127D
 		[global::Cpp2ILInjected.Token(Token = "0x1700003A")]
 		internal X509Certificate LocalServerCertificate
 		{
@@ -193,8 +169,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x1700003B RID: 59
-		// (get) Token: 0x060000CC RID: 204
 		[global::Cpp2ILInjected.Token(Token = "0x1700003B")]
 		internal abstract X509Certificate LocalClientCertificate
 		{
@@ -202,8 +176,6 @@ namespace Mono.Net.Security
 			get;
 		}
 
-		// Token: 0x1700003C RID: 60
-		// (get) Token: 0x060000CD RID: 205
 		[global::Cpp2ILInjected.Token(Token = "0x1700003C")]
 		public abstract X509Certificate2 RemoteCertificate
 		{
@@ -211,23 +183,18 @@ namespace Mono.Net.Security
 			get;
 		}
 
-		// Token: 0x060000CE RID: 206
 		[global::Cpp2ILInjected.Token(Token = "0x600013F")]
 		public abstract ValueTuple<int, bool> Read(byte[] buffer, int offset, int count);
 
-		// Token: 0x060000CF RID: 207
 		[global::Cpp2ILInjected.Token(Token = "0x6000140")]
 		public abstract ValueTuple<int, bool> Write(byte[] buffer, int offset, int count);
 
-		// Token: 0x060000D0 RID: 208
 		[global::Cpp2ILInjected.Token(Token = "0x6000141")]
 		public abstract void Shutdown();
 
-		// Token: 0x060000D1 RID: 209
 		[global::Cpp2ILInjected.Token(Token = "0x6000142")]
 		public abstract bool PendingRenegotiation();
 
-		// Token: 0x060000D2 RID: 210 RVA: 0x00003080 File Offset: 0x00001280
 		[global::Cpp2ILInjected.Token(Token = "0x6000143")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D452B8", Offset = "0x1D452B8", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -250,7 +217,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x060000D3 RID: 211 RVA: 0x00003083 File Offset: 0x00001283
 		[global::Cpp2ILInjected.Token(Token = "0x6000144")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D462E4", Offset = "0x1D462E4", Length = "0x478")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -294,11 +260,9 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x060000D4 RID: 212
 		[global::Cpp2ILInjected.Token(Token = "0x6000145")]
 		public abstract void Renegotiate();
 
-		// Token: 0x060000D5 RID: 213 RVA: 0x00003086 File Offset: 0x00001286
 		[global::Cpp2ILInjected.Token(Token = "0x6000146")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4B8D8", Offset = "0x1D4B8D8", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -311,7 +275,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x060000D6 RID: 214 RVA: 0x00003089 File Offset: 0x00001289
 		[global::Cpp2ILInjected.Token(Token = "0x6000147")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4D318", Offset = "0x1D4D318", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -320,7 +283,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x060000D7 RID: 215 RVA: 0x0000308C File Offset: 0x0000128C
 		[global::Cpp2ILInjected.Token(Token = "0x6000148")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4D31C", Offset = "0x1D4D31C", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -332,60 +294,50 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0400004E RID: 78
 		[global::Cpp2ILInjected.Token(Token = "0x4000109")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ChainValidationHelper certificateValidator;
 
-		// Token: 0x0400004F RID: 79
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400010A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly MonoSslAuthenticationOptions <Options>k__BackingField;
 
-		// Token: 0x04000050 RID: 80
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400010B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private readonly MobileAuthenticatedStream <Parent>k__BackingField;
 
-		// Token: 0x04000051 RID: 81
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400010C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private readonly bool <IsServer>k__BackingField;
 
-		// Token: 0x04000052 RID: 82
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400010D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private readonly string <TargetHost>k__BackingField;
 
-		// Token: 0x04000053 RID: 83
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400010E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private readonly string <ServerName>k__BackingField;
 
-		// Token: 0x04000054 RID: 84
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400010F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private readonly bool <AskForClientCertificate>k__BackingField;
 
-		// Token: 0x04000055 RID: 85
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000110")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		private readonly SslProtocols <EnabledProtocols>k__BackingField;
 
-		// Token: 0x04000056 RID: 86
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000111")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private readonly X509CertificateCollection <ClientCertificates>k__BackingField;
 
-		// Token: 0x04000057 RID: 87
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000112")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]

@@ -5,11 +5,9 @@ using Terraria.DataStructures;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x02000569 RID: 1385
 	[global::Cpp2ILInjected.Token(Token = "0x20007F6")]
 	public struct TeleportPylonInfo : IEquatable<TeleportPylonInfo>
 	{
-		// Token: 0x06003A90 RID: 14992 RVA: 0x0002C753 File Offset: 0x0002A953
 		[global::Cpp2ILInjected.Token(Token = "0x6004188")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77ED1C", Offset = "0x77ED1C", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,12 +24,10 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x04006959 RID: 26969
 		[global::Cpp2ILInjected.Token(Token = "0x4007F0E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public Point16 PositionInTiles;
 
-		// Token: 0x0400695A RID: 26970
 		[global::Cpp2ILInjected.Token(Token = "0x4007F0F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public TeleportPylonType TypeOfPylon;

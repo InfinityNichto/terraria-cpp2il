@@ -7,12 +7,9 @@ using UnityEngine;
 
 namespace Terraria.IO
 {
-	// Token: 0x020003C6 RID: 966
 	[global::Cpp2ILInjected.Token(Token = "0x2000570")]
 	public class OldSaveSynchronise
 	{
-		// Token: 0x170005FE RID: 1534
-		// (get) Token: 0x06002F69 RID: 12137 RVA: 0x0002A785 File Offset: 0x00028985
 		[global::Cpp2ILInjected.Token(Token = "0x17000679")]
 		private static string OldSaveRoot
 		{
@@ -37,7 +34,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x06002F6A RID: 12138 RVA: 0x0002A788 File Offset: 0x00028988
 		[global::Cpp2ILInjected.Token(Token = "0x60033D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1342F94", Offset = "0x1342F94", Length = "0x92C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,7 +110,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002F6B RID: 12139 RVA: 0x0002A78B File Offset: 0x0002898B
 		[global::Cpp2ILInjected.Token(Token = "0x60033D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13438C0", Offset = "0x13438C0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -124,7 +119,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x040032BA RID: 12986
 		[global::Cpp2ILInjected.Token(Token = "0x4003E1A")]
 		private static string _oldSaveRoot;
 	}

@@ -1,9 +1,0 @@
-<map id="Microsoft.Xna.Framework.UnityGameWindow" name="Microsoft.Xna.Framework.UnityGameWindow">
-<area shape="rect" id="Node000001" title=" " alt="" coords="6,685,278,959"/>
-<area shape="rect" id="Node000002" href="$db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow.html" title=" " alt="" coords="5,148,279,636"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,650,145,685,139,685,139,650"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="51,13,102,78"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,78,95,131,90,132,80,79"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="126,5,291,85"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="204,86,195,133,190,131,199,85"/>
-</map>

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Terraria;
 using Terraria.Localization;
 
-// Token: 0x0200023E RID: 574
 [global::Cpp2ILInjected.Token(Token = "0x20002F7")]
 public class TutorialStep_08_KillZombies : TutorialStep
 {
-	// Token: 0x0600104A RID: 4170 RVA: 0x00024BC0 File Offset: 0x00022DC0
 	[global::Cpp2ILInjected.Token(Token = "0x6001199")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6D83C", Offset = "0xA6D83C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -18,7 +16,6 @@ public class TutorialStep_08_KillZombies : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x0600104B RID: 4171 RVA: 0x00024BC3 File Offset: 0x00022DC3
 	[global::Cpp2ILInjected.Token(Token = "0x600119A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6D844", Offset = "0xA6D844", Length = "0x2C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -39,7 +36,6 @@ public class TutorialStep_08_KillZombies : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x0600104C RID: 4172 RVA: 0x00024BC6 File Offset: 0x00022DC6
 	[global::Cpp2ILInjected.Token(Token = "0x600119B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6DB08", Offset = "0xA6DB08", Length = "0xC")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -48,7 +44,6 @@ public class TutorialStep_08_KillZombies : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x0600104D RID: 4173 RVA: 0x00024BC9 File Offset: 0x00022DC9
 	[global::Cpp2ILInjected.Token(Token = "0x600119C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6DB14", Offset = "0xA6DB14", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -57,7 +52,6 @@ public class TutorialStep_08_KillZombies : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x0600104E RID: 4174 RVA: 0x00024BCC File Offset: 0x00022DCC
 	[global::Cpp2ILInjected.Token(Token = "0x600119D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6DB18", Offset = "0xA6DB18", Length = "0xC8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -79,7 +73,6 @@ public class TutorialStep_08_KillZombies : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x0600104F RID: 4175 RVA: 0x00024BCF File Offset: 0x00022DCF
 	[global::Cpp2ILInjected.Token(Token = "0x600119E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6DBE0", Offset = "0xA6DBE0", Length = "0x160")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,7 +91,6 @@ public class TutorialStep_08_KillZombies : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001050 RID: 4176 RVA: 0x00024BD2 File Offset: 0x00022DD2
 	[global::Cpp2ILInjected.Token(Token = "0x600119F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6B824", Offset = "0xA6B824", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -108,32 +100,26 @@ public class TutorialStep_08_KillZombies : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x04001B96 RID: 7062
 	[global::Cpp2ILInjected.Token(Token = "0x400214A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private bool armourHead;
 
-	// Token: 0x04001B97 RID: 7063
 	[global::Cpp2ILInjected.Token(Token = "0x400214B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x11")]
 	private bool armourBody;
 
-	// Token: 0x04001B98 RID: 7064
 	[global::Cpp2ILInjected.Token(Token = "0x400214C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x12")]
 	private bool armourLegs;
 
-	// Token: 0x04001B99 RID: 7065
 	[global::Cpp2ILInjected.Token(Token = "0x400214D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x13")]
 	private bool complete;
 
-	// Token: 0x04001B9A RID: 7066
 	[global::Cpp2ILInjected.Token(Token = "0x400214E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private bool killing;
 
-	// Token: 0x04001B9B RID: 7067
 	[global::Cpp2ILInjected.Token(Token = "0x400214F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private DateTime killStart;

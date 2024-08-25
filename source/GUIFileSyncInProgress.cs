@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using Terraria.Localization;
 
-// Token: 0x020001C7 RID: 455
 [global::Cpp2ILInjected.Token(Token = "0x200025D")]
 public class GUIFileSyncInProgress
 {
-	// Token: 0x06000C5F RID: 3167 RVA: 0x00024062 File Offset: 0x00022262
 	[global::Cpp2ILInjected.Token(Token = "0x6000D7B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DBCA4", Offset = "0x9DBCA4", Length = "0x244")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -57,7 +55,6 @@ public class GUIFileSyncInProgress
 		throw null;
 	}
 
-	// Token: 0x06000C60 RID: 3168 RVA: 0x00024065 File Offset: 0x00022265
 	[global::Cpp2ILInjected.Token(Token = "0x6000D7C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DBEE8", Offset = "0x9DBEE8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -68,7 +65,6 @@ public class GUIFileSyncInProgress
 		throw null;
 	}
 
-	// Token: 0x04001400 RID: 5120
 	[global::Cpp2ILInjected.Token(Token = "0x40018EE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float statusScale;

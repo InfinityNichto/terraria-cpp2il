@@ -7,12 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Contexts
 {
-	// Token: 0x020002C5 RID: 709
 	[global::Cpp2ILInjected.Token(Token = "0x2000366")]
 	internal class DynamicPropertyCollection
 	{
-		// Token: 0x1700030D RID: 781
-		// (get) Token: 0x06001AD6 RID: 6870 RVA: 0x00019067 File Offset: 0x00017267
 		[global::Cpp2ILInjected.Token(Token = "0x17000365")]
 		public bool HasProperties
 		{
@@ -41,7 +38,6 @@ namespace System.Runtime.Remoting.Contexts
 			}
 		}
 
-		// Token: 0x06001AD7 RID: 6871 RVA: 0x0001906A File Offset: 0x0001726A
 		[global::Cpp2ILInjected.Token(Token = "0x6001D00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3A188", Offset = "0x1B3A188", Length = "0x2C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +64,6 @@ namespace System.Runtime.Remoting.Contexts
 			throw null;
 		}
 
-		// Token: 0x06001AD8 RID: 6872 RVA: 0x0001906D File Offset: 0x0001726D
 		[global::Cpp2ILInjected.Token(Token = "0x6001D01")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3A4B8", Offset = "0x1B3A4B8", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -93,7 +88,6 @@ namespace System.Runtime.Remoting.Contexts
 			throw null;
 		}
 
-		// Token: 0x06001AD9 RID: 6873 RVA: 0x00019070 File Offset: 0x00017270
 		[global::Cpp2ILInjected.Token(Token = "0x6001D02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3A76C", Offset = "0x1B3A76C", Length = "0x610")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -125,7 +119,6 @@ namespace System.Runtime.Remoting.Contexts
 			throw null;
 		}
 
-		// Token: 0x06001ADA RID: 6874 RVA: 0x00019073 File Offset: 0x00017273
 		[global::Cpp2ILInjected.Token(Token = "0x6001D03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3C534", Offset = "0x1B3C534", Length = "0x168")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -143,7 +136,6 @@ namespace System.Runtime.Remoting.Contexts
 			throw null;
 		}
 
-		// Token: 0x06001ADB RID: 6875 RVA: 0x00019076 File Offset: 0x00017276
 		[global::Cpp2ILInjected.Token(Token = "0x6001D04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3A61C", Offset = "0x1B3A61C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Identity), Member = "get_ClientDynamicProperties", ReturnType = typeof(DynamicPropertyCollection))]
@@ -161,16 +153,13 @@ namespace System.Runtime.Remoting.Contexts
 			throw null;
 		}
 
-		// Token: 0x04000BCC RID: 3020
 		[global::Cpp2ILInjected.Token(Token = "0x4000EB0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private global::System.Collections.ArrayList _properties;
 
-		// Token: 0x020005EC RID: 1516
 		[global::Cpp2ILInjected.Token(Token = "0x2000367")]
 		private class DynamicPropertyReg
 		{
-			// Token: 0x06004100 RID: 16640 RVA: 0x0001FDA2 File Offset: 0x0001DFA2
 			[global::Cpp2ILInjected.Token(Token = "0x6001D05")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B3C69C", Offset = "0x1B3C69C", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -180,12 +169,10 @@ namespace System.Runtime.Remoting.Contexts
 				throw null;
 			}
 
-			// Token: 0x0400196C RID: 6508
 			[global::Cpp2ILInjected.Token(Token = "0x4000EB1")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public IDynamicProperty Property;
 
-			// Token: 0x0400196D RID: 6509
 			[global::Cpp2ILInjected.Token(Token = "0x4000EB2")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public IDynamicMessageSink Sink;

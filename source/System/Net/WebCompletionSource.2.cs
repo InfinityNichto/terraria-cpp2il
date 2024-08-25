@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x020001B3 RID: 435
 	[global::Cpp2ILInjected.Token(Token = "0x200027E")]
 	internal class WebCompletionSource : WebCompletionSource<object>
 	{
-		// Token: 0x06000FC4 RID: 4036 RVA: 0x00005B73 File Offset: 0x00003D73
 		[global::Cpp2ILInjected.Token(Token = "0x600118D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DFEA40", Offset = "0x1DFEA40", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest.<MyGetResponseAsync>d__243", Member = "MoveNext", ReturnType = typeof(void))]

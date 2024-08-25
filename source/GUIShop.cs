@@ -12,11 +12,9 @@ using Terraria.GameContent;
 using Terraria.Localization;
 using Terraria.UI;
 
-// Token: 0x02000103 RID: 259
 [global::Cpp2ILInjected.Token(Token = "0x2000172")]
 public class GUIShop
 {
-	// Token: 0x06000978 RID: 2424 RVA: 0x000237AD File Offset: 0x000219AD
 	[global::Cpp2ILInjected.Token(Token = "0x6000A78")]
 	[global::Cpp2ILInjected.Address(RVA = "0x999C6C", Offset = "0x999C6C", Length = "0x124")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,8 +41,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x170000E9 RID: 233
-	// (get) Token: 0x06000979 RID: 2425 RVA: 0x000237B0 File Offset: 0x000219B0
 	[global::Cpp2ILInjected.Token(Token = "0x17000110")]
 	public Item SelectedItem
 	{
@@ -63,7 +59,6 @@ public class GUIShop
 		}
 	}
 
-	// Token: 0x0600097A RID: 2426 RVA: 0x000237B3 File Offset: 0x000219B3
 	[global::Cpp2ILInjected.Token(Token = "0x6000A7A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x999E18", Offset = "0x999E18", Length = "0x57C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -135,7 +130,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x0600097B RID: 2427 RVA: 0x000237B6 File Offset: 0x000219B6
 	[global::Cpp2ILInjected.Token(Token = "0x6000A7B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99A394", Offset = "0x99A394", Length = "0xCCC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -255,7 +249,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x0600097C RID: 2428 RVA: 0x000237B9 File Offset: 0x000219B9
 	[global::Cpp2ILInjected.Token(Token = "0x6000A7C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99B060", Offset = "0x99B060", Length = "0x450")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -313,7 +306,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x0600097D RID: 2429 RVA: 0x000237BC File Offset: 0x000219BC
 	[global::Cpp2ILInjected.Token(Token = "0x6000A7D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99B74C", Offset = "0x99B74C", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -324,7 +316,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x0600097E RID: 2430 RVA: 0x000237BF File Offset: 0x000219BF
 	[global::Cpp2ILInjected.Token(Token = "0x6000A7E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99B794", Offset = "0x99B794", Length = "0x8C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -342,7 +333,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x0600097F RID: 2431 RVA: 0x000237C2 File Offset: 0x000219C2
 	[global::Cpp2ILInjected.Token(Token = "0x6000A7F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99B820", Offset = "0x99B820", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIShop), Member = "ItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -356,7 +346,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x06000980 RID: 2432 RVA: 0x000237C5 File Offset: 0x000219C5
 	[global::Cpp2ILInjected.Token(Token = "0x6000A80")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99B8BC", Offset = "0x99B8BC", Length = "0x53C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -405,8 +394,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x170000EA RID: 234
-	// (get) Token: 0x06000981 RID: 2433 RVA: 0x000237C8 File Offset: 0x000219C8
 	[global::Cpp2ILInjected.Token(Token = "0x17000111")]
 	public bool HasFocus
 	{
@@ -430,7 +417,6 @@ public class GUIShop
 		}
 	}
 
-	// Token: 0x06000982 RID: 2434 RVA: 0x000237CB File Offset: 0x000219CB
 	[global::Cpp2ILInjected.Token(Token = "0x6000A82")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99BE8C", Offset = "0x99BE8C", Length = "0x2F8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -468,7 +454,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x06000983 RID: 2435 RVA: 0x000237CE File Offset: 0x000219CE
 	[global::Cpp2ILInjected.Token(Token = "0x6000A83")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99B4B0", Offset = "0x99B4B0", Length = "0x29C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -510,7 +495,6 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x06000984 RID: 2436 RVA: 0x000237D1 File Offset: 0x000219D1
 	[global::Cpp2ILInjected.Token(Token = "0x6000A84")]
 	[global::Cpp2ILInjected.Address(RVA = "0x99C184", Offset = "0x99C184", Length = "0x34")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -522,57 +506,46 @@ public class GUIShop
 		throw null;
 	}
 
-	// Token: 0x040007B4 RID: 1972
 	[global::Cpp2ILInjected.Token(Token = "0x4000A67")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private int cursorOver;
 
-	// Token: 0x040007B5 RID: 1973
 	[global::Cpp2ILInjected.Token(Token = "0x4000A68")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private int itemOver;
 
-	// Token: 0x040007B6 RID: 1974
 	[global::Cpp2ILInjected.Token(Token = "0x4000A69")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int itemDragStart;
 
-	// Token: 0x040007B7 RID: 1975
 	[global::Cpp2ILInjected.Token(Token = "0x4000A6A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private DateTime itemPurchaseDelayStart;
 
-	// Token: 0x040007B8 RID: 1976
 	[global::Cpp2ILInjected.Token(Token = "0x4000A6B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private int _selectedItem;
 
-	// Token: 0x040007B9 RID: 1977
 	[global::Cpp2ILInjected.Token(Token = "0x4000A6C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	private float buyButtonScale;
 
-	// Token: 0x040007BA RID: 1978
 	[global::Cpp2ILInjected.Token(Token = "0x4000A6D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private bool _pendingPurchase;
 
-	// Token: 0x040007BB RID: 1979
 	[global::Cpp2ILInjected.Token(Token = "0x4000A6E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private int _pendingCost;
 
-	// Token: 0x040007BC RID: 1980
 	[global::Cpp2ILInjected.Token(Token = "0x4000A6F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private int multibuyDelay;
 
-	// Token: 0x040007BD RID: 1981
 	[global::Cpp2ILInjected.Token(Token = "0x4000A70")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 	public float hoverCraftDelay;
 
-	// Token: 0x040007BE RID: 1982
 	[global::Cpp2ILInjected.Token(Token = "0x4000A71")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	public GUITransactionButton.InputState lastState;

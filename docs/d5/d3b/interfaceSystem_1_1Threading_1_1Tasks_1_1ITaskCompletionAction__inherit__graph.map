@@ -1,9 +1,0 @@
-<map id="System.Threading.Tasks.ITaskCompletionAction" name="System.Threading.Tasks.ITaskCompletionAction">
-<area shape="rect" id="Node000001" title=" " alt="" coords="287,5,533,100"/>
-<area shape="rect" id="Node000002" href="$d1/d9d/classSystem_1_1Threading_1_1Tasks_1_1Task_1_1SetOnInvokeMres.html" title=" " alt="" coords="5,262,252,377"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,110,265,150,212,206,168,263,164,260,208,203,262,146,314,106"/>
-<area shape="rect" id="Node000003" href="$d6/d4f/classSystem_1_1Threading_1_1Tasks_1_1TaskFactory_1_1CompleteOnInvokePromise.html" title=" " alt="" coords="276,223,544,416"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="413,114,413,222,407,222,407,114"/>
-<area shape="rect" id="Node000004" href="$d8/d68/classSystem_1_1Threading_1_1Tasks_1_1UnwrapPromise.html" title=" " alt="" coords="568,148,815,491"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="506,106,558,146,570,157,566,160,555,150,502,110"/>
-</map>

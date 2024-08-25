@@ -6,14 +6,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x020000D6 RID: 214
 	[global::System.Obsolete("System.TimeZone has been deprecated.  Please investigate the use of System.TimeZoneInfo instead.")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000108")]
 	[global::System.Serializable]
 	public abstract class TimeZone
 	{
-		// Token: 0x17000098 RID: 152
-		// (get) Token: 0x0600092F RID: 2351 RVA: 0x00015FF5 File Offset: 0x000141F5
 		[global::Cpp2ILInjected.Token(Token = "0x170000B3")]
 		private static object InternalSyncObject
 		{
@@ -29,7 +26,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000930 RID: 2352 RVA: 0x00015FF8 File Offset: 0x000141F8
 		[global::Cpp2ILInjected.Token(Token = "0x60009D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C4C570", Offset = "0x1C4C570", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.CurrentSystemTimeZone), Member = ".ctor", ReturnType = typeof(void))]
@@ -40,8 +36,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x17000099 RID: 153
-		// (get) Token: 0x06000931 RID: 2353 RVA: 0x00015FFB File Offset: 0x000141FB
 		[global::Cpp2ILInjected.Token(Token = "0x170000B4")]
 		public static global::System.TimeZone CurrentTimeZone
 		{
@@ -81,15 +75,12 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000932 RID: 2354
 		[global::Cpp2ILInjected.Token(Token = "0x60009DA")]
 		public abstract global::System.TimeSpan GetUtcOffset(global::System.DateTime time);
 
-		// Token: 0x06000933 RID: 2355
 		[global::Cpp2ILInjected.Token(Token = "0x60009DB")]
 		public abstract global::System.Globalization.DaylightTime GetDaylightChanges(int year);
 
-		// Token: 0x06000934 RID: 2356 RVA: 0x00015FFE File Offset: 0x000141FE
 		[global::Cpp2ILInjected.Token(Token = "0x60009DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C4C6D8", Offset = "0x1C4C6D8", Length = "0x21C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,11 +119,9 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x04000278 RID: 632
 		[global::Cpp2ILInjected.Token(Token = "0x40003CA")]
 		private static global::System.TimeZone currentTimeZone;
 
-		// Token: 0x04000279 RID: 633
 		[global::Cpp2ILInjected.Token(Token = "0x40003CB")]
 		private static object s_InternalSyncObject;
 	}

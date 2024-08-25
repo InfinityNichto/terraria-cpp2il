@@ -8,13 +8,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent.Achievements
 {
-	// Token: 0x02000652 RID: 1618
 	[global::Cpp2ILInjected.Token(Token = "0x20009AC")]
 	public class CustomIntCondition : AchievementCondition
 	{
-		// Token: 0x17000777 RID: 1911
-		// (get) Token: 0x06003F54 RID: 16212 RVA: 0x0002D4D9 File Offset: 0x0002B6D9
-		// (set) Token: 0x06003F55 RID: 16213 RVA: 0x0002D4DC File Offset: 0x0002B6DC
 		[global::Cpp2ILInjected.Token(Token = "0x1700084C")]
 		public int Value
 		{
@@ -49,7 +45,6 @@ namespace Terraria.GameContent.Achievements
 			}
 		}
 
-		// Token: 0x06003F56 RID: 16214 RVA: 0x0002D4DF File Offset: 0x0002B6DF
 		[global::Cpp2ILInjected.Token(Token = "0x6004943")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82BEE8", Offset = "0x82BEE8", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -59,7 +54,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F57 RID: 16215 RVA: 0x0002D4E2 File Offset: 0x0002B6E2
 		[global::Cpp2ILInjected.Token(Token = "0x6004944")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82BF10", Offset = "0x82BF10", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -69,7 +63,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F58 RID: 16216 RVA: 0x0002D4E5 File Offset: 0x0002B6E5
 		[global::Cpp2ILInjected.Token(Token = "0x6004945")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82BF1C", Offset = "0x82BF1C", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -88,7 +81,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F59 RID: 16217 RVA: 0x0002D4E8 File Offset: 0x0002B6E8
 		[global::Cpp2ILInjected.Token(Token = "0x6004946")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82C04C", Offset = "0x82C04C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -99,7 +91,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F5A RID: 16218 RVA: 0x0002D4EB File Offset: 0x0002B6EB
 		[global::Cpp2ILInjected.Token(Token = "0x6004947")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82C0AC", Offset = "0x82C0AC", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AchievementInitializer), Member = "Load", ReturnType = typeof(void))]
@@ -111,7 +102,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F5B RID: 16219 RVA: 0x0002D4EE File Offset: 0x0002B6EE
 		[global::Cpp2ILInjected.Token(Token = "0x6004948")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82C118", Offset = "0x82C118", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,13 +118,11 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x04006CA8 RID: 27816
 		[JsonProperty("Value")]
 		[global::Cpp2ILInjected.Token(Token = "0x400843A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		private int _value;
 
-		// Token: 0x04006CA9 RID: 27817
 		[global::Cpp2ILInjected.Token(Token = "0x400843B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private int _maxValue;

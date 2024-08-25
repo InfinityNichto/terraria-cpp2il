@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000F6 RID: 246
 	[global::Cpp2ILInjected.Token(Token = "0x2000123")]
 	internal class DateTimeFacetsChecker : FacetsChecker
 	{
-		// Token: 0x0600095B RID: 2395 RVA: 0x00004A69 File Offset: 0x00002C69
 		[global::Cpp2ILInjected.Token(Token = "0x60009F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC8730", Offset = "0x1DC8730", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -20,7 +18,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600095C RID: 2396 RVA: 0x00004A6C File Offset: 0x00002C6C
 		[global::Cpp2ILInjected.Token(Token = "0x60009F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC8788", Offset = "0x1DC8788", Length = "0x364")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600095D RID: 2397 RVA: 0x00004A6F File Offset: 0x00002C6F
 		[global::Cpp2ILInjected.Token(Token = "0x60009F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC8C14", Offset = "0x1DC8C14", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -58,7 +54,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600095E RID: 2398 RVA: 0x00004A72 File Offset: 0x00002C72
 		[global::Cpp2ILInjected.Token(Token = "0x60009F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC8AEC", Offset = "0x1DC8AEC", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +75,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600095F RID: 2399 RVA: 0x00004A75 File Offset: 0x00002C75
 		[global::Cpp2ILInjected.Token(Token = "0x60009F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DC8C68", Offset = "0x1DC8C68", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DatatypeImplementation), Member = ".cctor", ReturnType = typeof(void))]

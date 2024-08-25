@@ -1,8 +1,0 @@
-<map id="System.Collections.Specialized.OrderedDictionary.OrderedDictionaryEnumerator" name="System.Collections.Specialized.OrderedDictionary.OrderedDictionaryEnumerator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,292,283,541"/>
-<area shape="rect" id="Node000002" href="$da/dd7/interfaceSystem_1_1Collections_1_1IDictionaryEnumerator.html" title=" " alt="" coords="121,139,289,244"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,258,181,292,176,291,185,257"/>
-<area shape="rect" id="Node000003" href="$dd/dfa/interfaceSystem_1_1Collections_1_1IEnumerator.html" title=" " alt="" coords="75,5,213,91"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="122,104,112,139,107,177,107,216,115,292,110,292,102,216,102,177,107,138,117,103"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,102,185,137,180,139,165,104"/>
-</map>

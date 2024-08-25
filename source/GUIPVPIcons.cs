@@ -14,12 +14,9 @@ using Terraria.Localization;
 using Terraria.UI;
 using UnityEngine;
 
-// Token: 0x020000F8 RID: 248
 [global::Cpp2ILInjected.Token(Token = "0x2000166")]
 public class GUIPVPIcons
 {
-	// Token: 0x170000DD RID: 221
-	// (get) Token: 0x060008FA RID: 2298 RVA: 0x00023633 File Offset: 0x00021833
 	[global::Cpp2ILInjected.Token(Token = "0x17000104")]
 	public bool Collapsed
 	{
@@ -36,7 +33,6 @@ public class GUIPVPIcons
 		}
 	}
 
-	// Token: 0x060008FB RID: 2299 RVA: 0x00023636 File Offset: 0x00021836
 	[global::Cpp2ILInjected.Token(Token = "0x60009FB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x978090", Offset = "0x978090", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "LoadPageRegion", ReturnType = typeof(void))]
@@ -62,7 +58,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x060008FC RID: 2300 RVA: 0x00023639 File Offset: 0x00021839
 	[global::Cpp2ILInjected.Token(Token = "0x60009FC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97817C", Offset = "0x97817C", Length = "0x15C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -88,7 +83,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x060008FD RID: 2301 RVA: 0x0002363C File Offset: 0x0002183C
 	[global::Cpp2ILInjected.Token(Token = "0x60009FD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9782D8", Offset = "0x9782D8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -97,8 +91,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x170000DE RID: 222
-	// (get) Token: 0x060008FE RID: 2302 RVA: 0x0002363F File Offset: 0x0002183F
 	[global::Cpp2ILInjected.Token(Token = "0x17000105")]
 	public bool HasFocus
 	{
@@ -123,7 +115,6 @@ public class GUIPVPIcons
 		}
 	}
 
-	// Token: 0x060008FF RID: 2303 RVA: 0x00023642 File Offset: 0x00021842
 	[global::Cpp2ILInjected.Token(Token = "0x60009FF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x978374", Offset = "0x978374", Length = "0x3D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -187,7 +178,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000900 RID: 2304 RVA: 0x00023645 File Offset: 0x00021845
 	[global::Cpp2ILInjected.Token(Token = "0x6000A00")]
 	[global::Cpp2ILInjected.Address(RVA = "0x978744", Offset = "0x978744", Length = "0x254")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -222,7 +212,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000901 RID: 2305 RVA: 0x00023648 File Offset: 0x00021848
 	[global::Cpp2ILInjected.Token(Token = "0x6000A01")]
 	[global::Cpp2ILInjected.Address(RVA = "0x973F48", Offset = "0x973F48", Length = "0x1660")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -465,7 +454,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000902 RID: 2306 RVA: 0x0002364B File Offset: 0x0002184B
 	[global::Cpp2ILInjected.Token(Token = "0x6000A02")]
 	[global::Cpp2ILInjected.Address(RVA = "0x978A88", Offset = "0x978A88", Length = "0x1C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -476,7 +464,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000903 RID: 2307 RVA: 0x0002364E File Offset: 0x0002184E
 	[global::Cpp2ILInjected.Token(Token = "0x6000A03")]
 	[global::Cpp2ILInjected.Address(RVA = "0x978AA4", Offset = "0x978AA4", Length = "0x32C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -537,7 +524,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000904 RID: 2308 RVA: 0x00023651 File Offset: 0x00021851
 	[global::Cpp2ILInjected.Token(Token = "0x6000A04")]
 	[global::Cpp2ILInjected.Address(RVA = "0x978DD0", Offset = "0x978DD0", Length = "0x36C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -585,7 +571,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000905 RID: 2309 RVA: 0x00023654 File Offset: 0x00021854
 	[global::Cpp2ILInjected.Token(Token = "0x6000A05")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97913C", Offset = "0x97913C", Length = "0x6A4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -665,7 +650,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000906 RID: 2310 RVA: 0x00023657 File Offset: 0x00021857
 	[global::Cpp2ILInjected.Token(Token = "0x6000A06")]
 	[global::Cpp2ILInjected.Address(RVA = "0x976678", Offset = "0x976678", Length = "0x620")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -761,7 +745,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000907 RID: 2311 RVA: 0x0002365A File Offset: 0x0002185A
 	[global::Cpp2ILInjected.Token(Token = "0x6000A07")]
 	[global::Cpp2ILInjected.Address(RVA = "0x978998", Offset = "0x978998", Length = "0xF0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -774,7 +757,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000908 RID: 2312 RVA: 0x0002365D File Offset: 0x0002185D
 	[global::Cpp2ILInjected.Token(Token = "0x6000A08")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9797E0", Offset = "0x9797E0", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -785,7 +767,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x06000909 RID: 2313 RVA: 0x00023660 File Offset: 0x00021860
 	[global::Cpp2ILInjected.Token(Token = "0x6000A09")]
 	[global::Cpp2ILInjected.Address(RVA = "0x979828", Offset = "0x979828", Length = "0x738")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -855,7 +836,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x0600090A RID: 2314 RVA: 0x00023663 File Offset: 0x00021863
 	[global::Cpp2ILInjected.Token(Token = "0x6000A0A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x979F60", Offset = "0x979F60", Length = "0x5D4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -944,7 +924,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x0600090B RID: 2315 RVA: 0x00023666 File Offset: 0x00021866
 	[global::Cpp2ILInjected.Token(Token = "0x6000A0B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97A534", Offset = "0x97A534", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -955,7 +934,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x0600090C RID: 2316 RVA: 0x00023669 File Offset: 0x00021869
 	[global::Cpp2ILInjected.Token(Token = "0x6000A0C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97A57C", Offset = "0x97A57C", Length = "0x27C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -995,7 +973,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x0600090D RID: 2317 RVA: 0x0002366C File Offset: 0x0002186C
 	[global::Cpp2ILInjected.Token(Token = "0x6000A0D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97A7F8", Offset = "0x97A7F8", Length = "0x968")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1092,7 +1069,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x0600090E RID: 2318 RVA: 0x0002366F File Offset: 0x0002186F
 	[global::Cpp2ILInjected.Token(Token = "0x6000A0E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97B160", Offset = "0x97B160", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1101,7 +1077,6 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x0600090F RID: 2319 RVA: 0x00023672 File Offset: 0x00021872
 	[global::Cpp2ILInjected.Token(Token = "0x6000A0F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97B164", Offset = "0x97B164", Length = "0xB8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -1118,122 +1093,98 @@ public class GUIPVPIcons
 		throw null;
 	}
 
-	// Token: 0x04000728 RID: 1832
 	[global::Cpp2ILInjected.Token(Token = "0x40009D7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private int HoverPlayer;
 
-	// Token: 0x04000729 RID: 1833
 	[global::Cpp2ILInjected.Token(Token = "0x40009D8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private int HoverTeam;
 
-	// Token: 0x0400072A RID: 1834
 	[global::Cpp2ILInjected.Token(Token = "0x40009D9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int SelectedPlayer;
 
-	// Token: 0x0400072B RID: 1835
 	[global::Cpp2ILInjected.Token(Token = "0x40009DA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float PVPEnabledScale;
 
-	// Token: 0x0400072C RID: 1836
 	[global::Cpp2ILInjected.Token(Token = "0x40009DB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float SelectedplayerScale;
 
-	// Token: 0x0400072D RID: 1837
 	[global::Cpp2ILInjected.Token(Token = "0x40009DC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	public int ConnectedPlayerCount;
 
-	// Token: 0x0400072E RID: 1838
 	[global::Cpp2ILInjected.Token(Token = "0x40009DD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private int[] ConnectedPlayers;
 
-	// Token: 0x0400072F RID: 1839
 	[global::Cpp2ILInjected.Token(Token = "0x40009DE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public bool ShowTeamGrid;
 
-	// Token: 0x04000730 RID: 1840
 	[global::Cpp2ILInjected.Token(Token = "0x40009DF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x31")]
 	public bool TeamGridActive;
 
-	// Token: 0x04000731 RID: 1841
 	[global::Cpp2ILInjected.Token(Token = "0x40009E0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	public float scrollOffset;
 
-	// Token: 0x04000732 RID: 1842
 	[global::Cpp2ILInjected.Token(Token = "0x40009E1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private float scrollMomentum;
 
-	// Token: 0x04000733 RID: 1843
 	[global::Cpp2ILInjected.Token(Token = "0x40009E2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 	private int scrollDragging;
 
-	// Token: 0x04000734 RID: 1844
 	[global::Cpp2ILInjected.Token(Token = "0x40009E3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private Microsoft.Xna.Framework.Vector2 dragOffset;
 
-	// Token: 0x04000735 RID: 1845
 	[global::Cpp2ILInjected.Token(Token = "0x40009E4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private float scrollDelay;
 
-	// Token: 0x04000736 RID: 1846
 	[global::Cpp2ILInjected.Token(Token = "0x40009E5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	public string playerString;
 
-	// Token: 0x04000737 RID: 1847
 	[global::Cpp2ILInjected.Token(Token = "0x40009E6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private int _lastPlayerOver;
 
-	// Token: 0x04000738 RID: 1848
 	[global::Cpp2ILInjected.Token(Token = "0x40009E7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 	private bool _playerOver;
 
-	// Token: 0x04000739 RID: 1849
 	[global::Cpp2ILInjected.Token(Token = "0x40009E8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private GUIInputRegionExclusive pickingInterceptor;
 
-	// Token: 0x0400073A RID: 1850
 	[global::Cpp2ILInjected.Token(Token = "0x40009E9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private Player clonePlayer;
 
-	// Token: 0x0400073B RID: 1851
 	[global::Cpp2ILInjected.Token(Token = "0x40009EA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private Microsoft.Xna.Framework.Vector2 CharacterDrawOffset;
 
-	// Token: 0x0400073C RID: 1852
 	[global::Cpp2ILInjected.Token(Token = "0x40009EB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	public int DrawSelectedPlayerOverlayStart;
 
-	// Token: 0x0400073D RID: 1853
 	[global::Cpp2ILInjected.Token(Token = "0x40009EC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x7C")]
 	public bool DrawSelectedPlayerOverlay;
 
-	// Token: 0x0400073E RID: 1854
 	[global::Cpp2ILInjected.Token(Token = "0x40009ED")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private string playerStringBanner;
 
-	// Token: 0x0400073F RID: 1855
 	[global::Cpp2ILInjected.Token(Token = "0x40009EE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	private Player EmptyPlayer;

@@ -1,7 +1,0 @@
-<map id="InControl.NativeDeviceProfiles.PDPMetallicsLEControllerMacNativeProfile" name="InControl.NativeDeviceProfiles.PDPMetallicsLEControllerMacNativeProfile">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,1596,295,1711"/>
-<area shape="rect" id="Node000002" href="$df/df8/classInControl_1_1NativeDeviceProfiles_1_1Xbox360DriverMacNativeProfile.html" title=" " alt="" coords="27,1463,273,1548"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,1562,153,1596,147,1596,147,1562"/>
-<area shape="rect" id="Node000003" href="$d0/de3/classInControl_1_1InputDeviceProfile.html" title=" " alt="" coords="25,5,275,1415"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,1429,153,1463,147,1463,147,1429"/>
-</map>

@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001A9 RID: 425
 	[Preserve]
 	[NativeInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20001B6")]
 	public class LogitechF310ModeDMacNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x060007DC RID: 2012 RVA: 0x000037C1 File Offset: 0x000019C1
 		[global::Cpp2ILInjected.Token(Token = "0x60007F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A2E24C", Offset = "0x1A2E24C", Length = "0x964")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -33,7 +31,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060007DD RID: 2013 RVA: 0x000037C4 File Offset: 0x000019C4
 		[global::Cpp2ILInjected.Token(Token = "0x60007FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A2EBB0", Offset = "0x1A2EBB0", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

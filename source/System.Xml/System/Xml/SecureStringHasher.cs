@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x0200002A RID: 42
 	[global::Cpp2ILInjected.Token(Token = "0x200002A")]
 	internal class SecureStringHasher : IEqualityComparer<string>
 	{
-		// Token: 0x060000D7 RID: 215 RVA: 0x000031D6 File Offset: 0x000013D6
 		[global::Cpp2ILInjected.Token(Token = "0x60000D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D62A7C", Offset = "0x1D62A7C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlWellFormedWriter), Member = ".ctor", MemberParameters = new object[]
@@ -26,7 +24,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060000D8 RID: 216 RVA: 0x000031D9 File Offset: 0x000013D9
 		[global::Cpp2ILInjected.Token(Token = "0x60000D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D62AA0", Offset = "0x1D62AA0", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -41,7 +38,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060000D9 RID: 217 RVA: 0x000031DC File Offset: 0x000013DC
 		[global::Cpp2ILInjected.Token(Token = "0x60000D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D62AB8", Offset = "0x1D62AB8", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -53,7 +49,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060000DA RID: 218 RVA: 0x000031DF File Offset: 0x000013DF
 		[global::Cpp2ILInjected.Token(Token = "0x60000DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D62C94", Offset = "0x1D62C94", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,7 +59,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x060000DB RID: 219 RVA: 0x000031E2 File Offset: 0x000013E2
 		[global::Cpp2ILInjected.Token(Token = "0x60000DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D62B48", Offset = "0x1D62B48", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -97,17 +91,13 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x04000073 RID: 115
 		[global::Cpp2ILInjected.Token(Token = "0x4000073")]
 		private static SecureStringHasher.HashCodeOfStringDelegate hashCodeDelegate;
 
-		// Token: 0x04000074 RID: 116
 		[global::Cpp2ILInjected.Token(Token = "0x4000074")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private int hashCodeRandomizer;
 
-		// Token: 0x0200014A RID: 330
-		// (Invoke) Token: 0x06000C3B RID: 3131
 		[global::Cpp2ILInjected.Token(Token = "0x200002B")]
 		private delegate int HashCodeOfStringDelegate(string s, int sLen, long additionalEntropy);
 	}

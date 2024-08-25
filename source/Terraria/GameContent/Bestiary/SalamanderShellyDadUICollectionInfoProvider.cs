@@ -6,11 +6,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.Bestiary
 {
-	// Token: 0x02000630 RID: 1584
 	[global::Cpp2ILInjected.Token(Token = "0x2000953")]
 	public class SalamanderShellyDadUICollectionInfoProvider : IBestiaryUICollectionInfoProvider
 	{
-		// Token: 0x06003EB3 RID: 16051 RVA: 0x0002D31D File Offset: 0x0002B51D
 		[global::Cpp2ILInjected.Token(Token = "0x60047C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81C5C0", Offset = "0x81C5C0", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BestiaryDatabaseNPCsPopulator), Member = "ModifyEntriesThatNeedIt", ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003EB4 RID: 16052 RVA: 0x0002D320 File Offset: 0x0002B520
 		[global::Cpp2ILInjected.Token(Token = "0x60047C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81C5F4", Offset = "0x81C5F4", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +33,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003EB5 RID: 16053 RVA: 0x0002D323 File Offset: 0x0002B523
 		[global::Cpp2ILInjected.Token(Token = "0x60047C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81C870", Offset = "0x81C870", Length = "0x208")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +47,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003EB6 RID: 16054 RVA: 0x0002D326 File Offset: 0x0002B526
 		[global::Cpp2ILInjected.Token(Token = "0x60047CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81C6D8", Offset = "0x81C6D8", Length = "0x198")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +66,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003EB7 RID: 16055 RVA: 0x0002D329 File Offset: 0x0002B529
 		[global::Cpp2ILInjected.Token(Token = "0x60047CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81CA78", Offset = "0x81CA78", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -80,12 +74,10 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x04006C6B RID: 27755
 		[global::Cpp2ILInjected.Token(Token = "0x400838A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string _persistentIdentifierToCheck;
 
-		// Token: 0x04006C6C RID: 27756
 		[global::Cpp2ILInjected.Token(Token = "0x400838B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int _killCountNeededToFullyUnlock;

@@ -7,11 +7,9 @@ using Terraria.DataStructures;
 
 namespace Terraria.Graphics.CameraModifiers
 {
-	// Token: 0x02000509 RID: 1289
 	[global::Cpp2ILInjected.Token(Token = "0x200076F")]
 	public class CameraModifierStack
 	{
-		// Token: 0x060037CB RID: 14283 RVA: 0x0002BF88 File Offset: 0x0002A188
 		[global::Cpp2ILInjected.Token(Token = "0x6003E67")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B653C", Offset = "0x14B653C", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace Terraria.Graphics.CameraModifiers
 			throw null;
 		}
 
-		// Token: 0x060037CC RID: 14284 RVA: 0x0002BF8B File Offset: 0x0002A18B
 		[global::Cpp2ILInjected.Token(Token = "0x6003E68")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B65F0", Offset = "0x14B65F0", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -53,7 +50,6 @@ namespace Terraria.Graphics.CameraModifiers
 			throw null;
 		}
 
-		// Token: 0x060037CD RID: 14285 RVA: 0x0002BF8E File Offset: 0x0002A18E
 		[global::Cpp2ILInjected.Token(Token = "0x6003E69")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B6780", Offset = "0x14B6780", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +64,6 @@ namespace Terraria.Graphics.CameraModifiers
 			throw null;
 		}
 
-		// Token: 0x060037CE RID: 14286 RVA: 0x0002BF91 File Offset: 0x0002A191
 		[global::Cpp2ILInjected.Token(Token = "0x6003E6A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B69C8", Offset = "0x14B69C8", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -82,7 +77,6 @@ namespace Terraria.Graphics.CameraModifiers
 			throw null;
 		}
 
-		// Token: 0x060037CF RID: 14287 RVA: 0x0002BF94 File Offset: 0x0002A194
 		[global::Cpp2ILInjected.Token(Token = "0x6003E6B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B6AEC", Offset = "0x14B6AEC", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = ".ctor", ReturnType = typeof(void))]
@@ -95,7 +89,6 @@ namespace Terraria.Graphics.CameraModifiers
 			throw null;
 		}
 
-		// Token: 0x04006805 RID: 26629
 		[global::Cpp2ILInjected.Token(Token = "0x4007D20")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private List<ICameraModifier> _modifiers;

@@ -7,14 +7,12 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading
 {
-	// Token: 0x02000187 RID: 391
 	[global::System.Runtime.InteropServices.ComVisible(false)]
 	[global::System.Diagnostics.DebuggerTypeProxy(typeof(SpinLock.SystemThreading_SpinLockDebugView))]
 	[global::System.Diagnostics.DebuggerDisplay("IsHeld = {IsHeld}")]
 	[global::Cpp2ILInjected.Token(Token = "0x20001E1")]
 	public struct SpinLock
 	{
-		// Token: 0x06001017 RID: 4119 RVA: 0x0001729A File Offset: 0x0001549A
 		[global::Cpp2ILInjected.Token(Token = "0x600115A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C99A9C", Offset = "0x1C99A9C", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ThreadPoolWorkQueue.WorkStealingQueue), Member = ".ctor", ReturnType = typeof(void))]
@@ -25,7 +23,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06001018 RID: 4120 RVA: 0x0001729D File Offset: 0x0001549D
 		[global::Cpp2ILInjected.Token(Token = "0x600115B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C99AD4", Offset = "0x1C99AD4", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -52,7 +49,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06001019 RID: 4121 RVA: 0x000172A0 File Offset: 0x000154A0
 		[global::Cpp2ILInjected.Token(Token = "0x600115C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A00C", Offset = "0x1C9A00C", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -82,7 +78,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600101A RID: 4122 RVA: 0x000172A3 File Offset: 0x000154A3
 		[global::Cpp2ILInjected.Token(Token = "0x600115D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C99B90", Offset = "0x1C99B90", Length = "0x47C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -130,7 +125,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600101B RID: 4123 RVA: 0x000172A6 File Offset: 0x000154A6
 		[global::Cpp2ILInjected.Token(Token = "0x600115E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A228", Offset = "0x1C9A228", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -153,7 +147,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600101C RID: 4124 RVA: 0x000172A9 File Offset: 0x000154A9
 		[global::Cpp2ILInjected.Token(Token = "0x600115F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A100", Offset = "0x1C9A100", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -184,7 +177,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600101D RID: 4125 RVA: 0x000172AC File Offset: 0x000154AC
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x6001160")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A3AC", Offset = "0x1C9A3AC", Length = "0x50")]
@@ -206,7 +198,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0600101E RID: 4126 RVA: 0x000172AF File Offset: 0x000154AF
 		[global::Cpp2ILInjected.Token(Token = "0x6001161")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A3FC", Offset = "0x1C9A3FC", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SpinLock), Member = "Exit", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
@@ -226,8 +217,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x17000168 RID: 360
-		// (get) Token: 0x0600101F RID: 4127 RVA: 0x000172B2 File Offset: 0x000154B2
 		[global::Cpp2ILInjected.Token(Token = "0x1700019E")]
 		public bool IsHeldByCurrentThread
 		{
@@ -247,8 +236,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x17000169 RID: 361
-		// (get) Token: 0x06001020 RID: 4128 RVA: 0x000172B5 File Offset: 0x000154B5
 		[global::Cpp2ILInjected.Token(Token = "0x1700019F")]
 		public bool IsThreadOwnerTrackingEnabled
 		{
@@ -264,7 +251,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x06001021 RID: 4129 RVA: 0x000172B8 File Offset: 0x000154B8
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001164")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9A578", Offset = "0x1C9A578", Length = "0x4C")]
@@ -275,16 +261,13 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x04000750 RID: 1872
 		[global::Cpp2ILInjected.Token(Token = "0x4000963")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private int m_owner;
 
-		// Token: 0x04000751 RID: 1873
 		[global::Cpp2ILInjected.Token(Token = "0x4000964")]
 		private static int MAXIMUM_WAITERS;
 
-		// Token: 0x020005A7 RID: 1447
 		[global::Cpp2ILInjected.Token(Token = "0x20001E2")]
 		internal class SystemThreading_SpinLockDebugView
 		{

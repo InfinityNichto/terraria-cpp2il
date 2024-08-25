@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 
-// Token: 0x020000C2 RID: 194
 [global::Cpp2ILInjected.Token(Token = "0x2000119")]
 public static class GUIStretched
 {
-	// Token: 0x0600061E RID: 1566 RVA: 0x00022D9F File Offset: 0x00020F9F
 	[global::Cpp2ILInjected.Token(Token = "0x600070D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x10FAEFC", Offset = "0x10FAEFC", Length = "0x710")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

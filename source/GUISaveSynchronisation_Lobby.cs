@@ -11,11 +11,9 @@ using Terraria.Audio;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x020001F6 RID: 502
 [global::Cpp2ILInjected.Token(Token = "0x200029B")]
 public class GUISaveSynchronisation_Lobby
 {
-	// Token: 0x06000E75 RID: 3701 RVA: 0x000246A4 File Offset: 0x000228A4
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA5")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA33340", Offset = "0xA33340", Length = "0x2D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +60,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E76 RID: 3702 RVA: 0x000246A7 File Offset: 0x000228A7
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA6")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA38880", Offset = "0xA38880", Length = "0x124")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +73,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E77 RID: 3703 RVA: 0x000246AA File Offset: 0x000228AA
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA38270", Offset = "0xA38270", Length = "0x610")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -183,7 +179,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E78 RID: 3704 RVA: 0x000246AD File Offset: 0x000228AD
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA38D7C", Offset = "0xA38D7C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -192,7 +187,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E79 RID: 3705 RVA: 0x000246B0 File Offset: 0x000228B0
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA38D84", Offset = "0xA38D84", Length = "0x5C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -202,7 +196,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E7A RID: 3706 RVA: 0x000246B3 File Offset: 0x000228B3
 	[global::Cpp2ILInjected.Token(Token = "0x6000FAA")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA38DE0", Offset = "0xA38DE0", Length = "0x630")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -289,7 +282,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E7B RID: 3707 RVA: 0x000246B6 File Offset: 0x000228B6
 	[global::Cpp2ILInjected.Token(Token = "0x6000FAB")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA39410", Offset = "0xA39410", Length = "0x22C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -332,7 +324,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E7C RID: 3708 RVA: 0x000246B9 File Offset: 0x000228B9
 	[global::Cpp2ILInjected.Token(Token = "0x6000FAC")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA37DE8", Offset = "0xA37DE8", Length = "0xA4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -347,7 +338,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E7D RID: 3709 RVA: 0x000246BC File Offset: 0x000228BC
 	[global::Cpp2ILInjected.Token(Token = "0x6000FAD")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA37E8C", Offset = "0xA37E8C", Length = "0x3E4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -391,7 +381,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E7E RID: 3710 RVA: 0x000246BF File Offset: 0x000228BF
 	[global::Cpp2ILInjected.Token(Token = "0x6000FAE")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3974C", Offset = "0xA3974C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -401,7 +390,6 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x06000E7F RID: 3711 RVA: 0x000246C2 File Offset: 0x000228C2
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000FAF")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA39754", Offset = "0xA39754", Length = "0xC8")]
@@ -421,59 +409,45 @@ public class GUISaveSynchronisation_Lobby
 		throw null;
 	}
 
-	// Token: 0x04001722 RID: 5922
 	[global::Cpp2ILInjected.Token(Token = "0x4001C49")]
 	private static Rectangle SelectedItemRegion;
 
-	// Token: 0x04001723 RID: 5923
 	[global::Cpp2ILInjected.Token(Token = "0x4001C4A")]
 	public static float ScrollOffset;
 
-	// Token: 0x04001724 RID: 5924
 	[global::Cpp2ILInjected.Token(Token = "0x4001C4B")]
 	private static float ScrollMomentum;
 
-	// Token: 0x04001725 RID: 5925
 	[global::Cpp2ILInjected.Token(Token = "0x4001C4C")]
 	private static int ScrollDragging;
 
-	// Token: 0x04001726 RID: 5926
 	[global::Cpp2ILInjected.Token(Token = "0x4001C4D")]
 	private static Microsoft.Xna.Framework.Vector2 DragOffset;
 
-	// Token: 0x04001727 RID: 5927
 	[global::Cpp2ILInjected.Token(Token = "0x4001C4E")]
 	private static float TitleScale;
 
-	// Token: 0x04001728 RID: 5928
 	[global::Cpp2ILInjected.Token(Token = "0x4001C4F")]
 	private static float ConnectIPScale;
 
-	// Token: 0x04001729 RID: 5929
 	[global::Cpp2ILInjected.Token(Token = "0x4001C50")]
 	private static float connectButtonScale;
 
-	// Token: 0x0400172A RID: 5930
 	[global::Cpp2ILInjected.Token(Token = "0x4001C51")]
 	private static float backButtonScale;
 
-	// Token: 0x0400172B RID: 5931
 	[global::Cpp2ILInjected.Token(Token = "0x4001C52")]
 	private static DateTime LastSelectTime;
 
-	// Token: 0x0400172C RID: 5932
 	[global::Cpp2ILInjected.Token(Token = "0x4001C53")]
 	private const double DOUBLE_CLICK_TIME = 500.0;
 
-	// Token: 0x0400172D RID: 5933
 	[global::Cpp2ILInjected.Token(Token = "0x4001C54")]
 	private static GUIControllerSaveSynchronisation_Lobby _controllerInput;
 
-	// Token: 0x0400172E RID: 5934
 	[global::Cpp2ILInjected.Token(Token = "0x4001C55")]
 	public static int selectedServer;
 
-	// Token: 0x0400172F RID: 5935
 	[global::Cpp2ILInjected.Token(Token = "0x4001C56")]
 	private static int serverOver;
 }

@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Diagnostics
 {
-	// Token: 0x02000079 RID: 121
 	[global::Cpp2ILInjected.Token(Token = "0x20000D1")]
 	public abstract class TraceListener : MarshalByRefObject, IDisposable
 	{
-		// Token: 0x06000412 RID: 1042 RVA: 0x000039D7 File Offset: 0x00001BD7
 		[global::Cpp2ILInjected.Token(Token = "0x60004B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC60B8", Offset = "0x1EC60B8", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -21,8 +19,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x170000CF RID: 207
-		// (get) Token: 0x06000413 RID: 1043 RVA: 0x000039DA File Offset: 0x00001BDA
 		[global::Cpp2ILInjected.Token(Token = "0x170000D5")]
 		public virtual bool IsThreadSafe
 		{
@@ -35,7 +31,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x06000414 RID: 1044 RVA: 0x000039DD File Offset: 0x00001BDD
 		[global::Cpp2ILInjected.Token(Token = "0x60004B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC60F8", Offset = "0x1EC60F8", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +42,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06000415 RID: 1045 RVA: 0x000039E0 File Offset: 0x00001BE0
 		[global::Cpp2ILInjected.Token(Token = "0x60004B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC6164", Offset = "0x1EC6164", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -56,7 +50,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06000416 RID: 1046 RVA: 0x000039E3 File Offset: 0x00001BE3
 		[global::Cpp2ILInjected.Token(Token = "0x60004B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC6168", Offset = "0x1EC6168", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -65,8 +58,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x170000D0 RID: 208
-		// (set) Token: 0x06000417 RID: 1047 RVA: 0x000039E6 File Offset: 0x00001BE6
 		[global::Cpp2ILInjected.Token(Token = "0x170000D6")]
 		public int IndentLevel
 		{
@@ -80,8 +71,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x170000D1 RID: 209
-		// (set) Token: 0x06000418 RID: 1048 RVA: 0x000039E9 File Offset: 0x00001BE9
 		[global::Cpp2ILInjected.Token(Token = "0x170000D7")]
 		public int IndentSize
 		{
@@ -104,8 +93,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x170000D2 RID: 210
-		// (get) Token: 0x06000419 RID: 1049 RVA: 0x000039EC File Offset: 0x00001BEC
 		[ComVisible(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x170000D8")]
 		public TraceFilter Filter
@@ -119,9 +106,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x170000D3 RID: 211
-		// (get) Token: 0x0600041A RID: 1050 RVA: 0x000039EF File Offset: 0x00001BEF
-		// (set) Token: 0x0600041B RID: 1051 RVA: 0x000039F2 File Offset: 0x00001BF2
 		[global::Cpp2ILInjected.Token(Token = "0x170000D9")]
 		protected bool NeedIndent
 		{
@@ -141,8 +125,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x170000D4 RID: 212
-		// (get) Token: 0x0600041C RID: 1052 RVA: 0x000039F5 File Offset: 0x00001BF5
 		[ComVisible(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x170000DA")]
 		public TraceOptions TraceOutputOptions
@@ -156,11 +138,9 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x0600041D RID: 1053
 		[global::Cpp2ILInjected.Token(Token = "0x60004BD")]
 		public abstract void Write(string message);
 
-		// Token: 0x0600041E RID: 1054 RVA: 0x000039F8 File Offset: 0x00001BF8
 		[global::Cpp2ILInjected.Token(Token = "0x60004BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC6190", Offset = "0x1EC6190", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -171,11 +151,9 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x0600041F RID: 1055
 		[global::Cpp2ILInjected.Token(Token = "0x60004BF")]
 		public abstract void WriteLine(string message);
 
-		// Token: 0x06000420 RID: 1056 RVA: 0x000039FB File Offset: 0x00001BFB
 		[ComVisible(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x60004C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC6264", Offset = "0x1EC6264", Length = "0xC4")]
@@ -193,7 +171,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06000421 RID: 1057 RVA: 0x000039FE File Offset: 0x00001BFE
 		[global::Cpp2ILInjected.Token(Token = "0x60004C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC6328", Offset = "0x1EC6328", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -223,7 +200,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06000422 RID: 1058 RVA: 0x00003A01 File Offset: 0x00001C01
 		[global::Cpp2ILInjected.Token(Token = "0x60004C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC6438", Offset = "0x1EC6438", Length = "0x584")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -262,7 +238,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x06000423 RID: 1059 RVA: 0x00003A04 File Offset: 0x00001C04
 		[global::Cpp2ILInjected.Token(Token = "0x60004C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC69BC", Offset = "0x1EC69BC", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -272,32 +247,26 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x04000270 RID: 624
 		[global::Cpp2ILInjected.Token(Token = "0x40003B1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int indentLevel;
 
-		// Token: 0x04000271 RID: 625
 		[global::Cpp2ILInjected.Token(Token = "0x40003B2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private int indentSize;
 
-		// Token: 0x04000272 RID: 626
 		[global::Cpp2ILInjected.Token(Token = "0x40003B3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private TraceOptions traceOptions;
 
-		// Token: 0x04000273 RID: 627
 		[global::Cpp2ILInjected.Token(Token = "0x40003B4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private bool needIndent;
 
-		// Token: 0x04000274 RID: 628
 		[global::Cpp2ILInjected.Token(Token = "0x40003B5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private string listenerName;
 
-		// Token: 0x04000275 RID: 629
 		[global::Cpp2ILInjected.Token(Token = "0x40003B6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private TraceFilter filter;

@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Linq
 {
-	// Token: 0x02000013 RID: 19
 	[global::Cpp2ILInjected.Token(Token = "0x2000019")]
 	public abstract class XObject
 	{
-		// Token: 0x0600009A RID: 154 RVA: 0x00002215 File Offset: 0x00000415
 		[global::Cpp2ILInjected.Token(Token = "0x60000B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D689D0", Offset = "0x1D689D0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -18,8 +16,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x1700001F RID: 31
-		// (get) Token: 0x0600009B RID: 155
 		[global::Cpp2ILInjected.Token(Token = "0x17000023")]
 		public abstract XmlNodeType NodeType
 		{
@@ -27,8 +23,6 @@ namespace System.Xml.Linq
 			get;
 		}
 
-		// Token: 0x17000020 RID: 32
-		// (get) Token: 0x0600009C RID: 156 RVA: 0x00002218 File Offset: 0x00000418
 		[global::Cpp2ILInjected.Token(Token = "0x17000024")]
 		public XElement Parent
 		{
@@ -47,7 +41,6 @@ namespace System.Xml.Linq
 			}
 		}
 
-		// Token: 0x0600009D RID: 157 RVA: 0x0000221B File Offset: 0x0000041B
 		[global::Cpp2ILInjected.Token(Token = "0x60000B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6ED24", Offset = "0x1D6ED24", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +58,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600009E RID: 158 RVA: 0x0000221E File Offset: 0x0000041E
 		[global::Cpp2ILInjected.Token(Token = "0x60000B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A4898", Offset = "0x15A4898", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -88,7 +80,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600009F RID: 159 RVA: 0x00002221 File Offset: 0x00000421
 		[global::Cpp2ILInjected.Token(Token = "0x60000B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D692A4", Offset = "0x1D692A4", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -109,7 +100,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x060000A0 RID: 160 RVA: 0x00002224 File Offset: 0x00000424
 		[global::Cpp2ILInjected.Token(Token = "0x60000B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D691FC", Offset = "0x1D691FC", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -130,7 +120,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x060000A1 RID: 161 RVA: 0x00002227 File Offset: 0x00000427
 		[global::Cpp2ILInjected.Token(Token = "0x60000BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6A67C", Offset = "0x1D6A67C", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XContainer), Member = "Add", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
@@ -143,7 +132,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x060000A2 RID: 162 RVA: 0x0000222A File Offset: 0x0000042A
 		[global::Cpp2ILInjected.Token(Token = "0x60000BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6E75C", Offset = "0x1D6E75C", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -157,12 +145,10 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0400002A RID: 42
 		[global::Cpp2ILInjected.Token(Token = "0x4000041")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal XContainer parent;
 
-		// Token: 0x0400002B RID: 43
 		[global::Cpp2ILInjected.Token(Token = "0x4000042")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		internal object annotations;

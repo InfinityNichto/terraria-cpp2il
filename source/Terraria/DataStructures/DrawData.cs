@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Terraria.GameContent;
 using Terraria.GameContent.Animations;
 using Terraria.GameContent.Drawing;
 using Terraria.GameContent.Shaders;
@@ -13,11 +15,9 @@ using Terraria.Graphics.Renderers;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x02000426 RID: 1062
 	[global::Cpp2ILInjected.Token(Token = "0x2000621")]
 	public struct DrawData
 	{
-		// Token: 0x060030C3 RID: 12483 RVA: 0x0002AB93 File Offset: 0x00028D93
 		[global::Cpp2ILInjected.Token(Token = "0x60035E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DBF4C", Offset = "0x13DBF4C", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WaterShaderData), Member = "StepLiquids", ReturnType = typeof(void))]
@@ -38,7 +38,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030C4 RID: 12484 RVA: 0x0002AB96 File Offset: 0x00028D96
 		[global::Cpp2ILInjected.Token(Token = "0x60035E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DC098", Offset = "0x13DC098", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_05_ForbiddenSetRing", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
@@ -80,7 +79,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030C5 RID: 12485 RVA: 0x0002AB99 File Offset: 0x00028D99
 		[global::Cpp2ILInjected.Token(Token = "0x60035E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DC194", Offset = "0x13DC194", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawStarboardRainbowTrail", MemberParameters = new object[]
@@ -107,9 +105,265 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030C6 RID: 12486 RVA: 0x0002AB9C File Offset: 0x00028D9C
 		[global::Cpp2ILInjected.Token(Token = "0x60035E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DC284", Offset = "0x13DC284", Length = "0x5C")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "DrawNPC", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
+		{
+			typeof(SpriteBatch),
+			typeof(NPC),
+			typeof(bool),
+			typeof(Vector2)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
+		{
+			typeof(SpriteBatch),
+			typeof(NPC),
+			typeof(bool),
+			typeof(Vector2),
+			typeof(LightMap),
+			typeof(ref Rectangle)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect_HallowBoss", MemberParameters = new object[]
+		{
+			typeof(SpriteBatch),
+			typeof(NPC),
+			typeof(ref Vector2),
+			typeof(int),
+			typeof(ref Color),
+			typeof(ref Vector2),
+			typeof(SpriteEffects)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawProjDirect", MemberParameters = new object[]
+		{
+			typeof(Projectile),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawWithOutlines", MemberParameters = new object[]
+		{
+			typeof(Entity),
+			typeof(Texture2D),
+			typeof(Vector2),
+			typeof(Rectangle),
+			typeof(Color),
+			typeof(float),
+			typeof(Vector2),
+			typeof(float),
+			typeof(SpriteEffects)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mount), Member = "Draw", MemberParameters = new object[]
+		{
+			typeof(ref PlayerDrawSet),
+			typeof(int),
+			typeof(Player),
+			typeof(Vector2),
+			typeof(Color),
+			typeof(SpriteEffects),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawCompositeArmorPiece", MemberParameters = new object[]
+		{
+			typeof(ref PlayerDrawSet),
+			typeof(CompositePlayerDrawContext),
+			typeof(DrawData)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_01_BackHair", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_03_Carpet", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_03_PortableStool", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_04_ElectrifiedDebuffBack", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_01_3_BackHead", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_01_2_JimsCloak", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_08_Backpacks", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_08_1_Tails", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_10_BackAcc", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_09_Wings", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_12_1_BalloonFronts", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_11_Balloons", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_12_Skin", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_12_Skin_Composite", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_12_SkinComposite_BackArmShirt", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_13_Leggings", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawSittingLongCoats", MemberParameters = new object[]
+		{
+			typeof(ref PlayerDrawSet),
+			typeof(int),
+			typeof(Texture2D),
+			typeof(Color),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawSittingLegs", MemberParameters = new object[]
+		{
+			typeof(ref PlayerDrawSet),
+			typeof(Texture2D),
+			typeof(Color),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_14_Shoes", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_15_SkinLongCoat", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_16_ArmorLongCoat", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_17_Torso", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_17_TorsoComposite", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_18_OffhandAcc", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_JimsDroneRadio", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_19_WaistAcc", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_20_NeckAcc", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_21_Head", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_21_Head_TheFace", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_21_1_Magiluminescence", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_22_FaceAcc", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawTiedBalloons", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_24_Pulley", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_25_Shield", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_27_HeldItem", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_28_ArmOverItem", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_28_ArmOverItemComposite", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_29_OnhandAcc", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_30_BladedGlove", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_32_FrontAcc", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_32_FrontAcc_FrontPart", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_32_FrontAcc_BackPart", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_33_FrozenOrWebbedDebuff", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_34_ElectrifiedDebuffFront", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_35_IceBarrier", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_36_CTG", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_37_BeetleBuff", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_38_EyebrellaCloud", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_00_BackHelmet", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_01_FaceSkin", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_02_DrawArmorWithFullHair", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_03_HelmetHair", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_04_CapricornMask", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_04_RabbitOrder", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_04_BadgersHat", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_04_HatsWithFullHair", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_05_TallHats", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_06_NormalHats", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_07_JustHair", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "DrawPlayer_08_FaceAcc", MemberParameters = new object[] { typeof(ref PlayerDrawHeadSet) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "QuickCDD", MemberParameters = new object[]
+		{
+			typeof(ref PlayerDrawHeadSet),
+			typeof(Texture2D),
+			typeof(Vector2),
+			typeof(Rectangle),
+			typeof(Color),
+			typeof(float),
+			typeof(Vector2),
+			typeof(float),
+			typeof(SpriteEffects),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawHeadLayers), Member = "QuickCDD", MemberParameters = new object[]
+		{
+			typeof(ref PlayerDrawHeadSet),
+			typeof(int),
+			typeof(Texture2D),
+			typeof(Vector2),
+			typeof(Rectangle),
+			typeof(Color),
+			typeof(float),
+			typeof(Vector2),
+			typeof(float),
+			typeof(SpriteEffects),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MapHeadRenderer), Member = "DrawPlayerHead", MemberParameters = new object[]
+		{
+			typeof(Camera),
+			typeof(Player),
+			typeof(Vector2),
+			typeof(float),
+			typeof(float),
+			typeof(Color)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(VoidLensHelper), Member = "DrawToDrawData", MemberParameters = new object[]
+		{
+			typeof(List<DrawData>),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PotionOfReturnGateHelper), Member = "DrawToDrawData", MemberParameters = new object[]
+		{
+			typeof(List<DrawData>),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(StardewValleyAnimation), Member = "ComposeAnimation", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_PrincessAndEveryoneThanksPlayer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_DryadSayingByeToTavernKeep", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_SteampunkerRepairingCyborg", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_SantaAndTaxCollectorThrowingPresents", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_WitchDoctorGoingToHisPeople", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_DryadTurningToTree", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_SkeletonMerchantSearchesThroughBones", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_MerchantAndTravelingMerchantTryingToSellJunk", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_GuideRunningFromZombie", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_ZoologistAndPetsAnnoyGolfer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_AnglerAndPirateTalkAboutFish", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_WizardPartyGirlDyeTraderAndPainterPartyWithBunnies", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_Grox_DemolitionistAndArmsDealerArguingThenNurseComes", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_TinkererAndMechanic", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreditsRollComposer), Member = "PlaySegment_ClothierChasingTruffle", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2)
+		}, ReturnType = typeof(SegmentInforReport))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 247)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Vector2), Member = ".ctor", MemberParameters = new object[]
 		{
@@ -121,7 +375,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030C7 RID: 12487 RVA: 0x0002AB9F File Offset: 0x00028D9F
 		[global::Cpp2ILInjected.Token(Token = "0x60035E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DC2E0", Offset = "0x13DC2E0", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "EntitySpriteDraw", MemberParameters = new object[]
@@ -159,7 +412,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030C8 RID: 12488 RVA: 0x0002ABA2 File Offset: 0x00028DA2
 		[global::Cpp2ILInjected.Token(Token = "0x60035E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DC308", Offset = "0x13DC308", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "DrawNPC", ReturnType = typeof(void))]
@@ -243,7 +495,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030C9 RID: 12489 RVA: 0x0002ABA5 File Offset: 0x00028DA5
 		[global::Cpp2ILInjected.Token(Token = "0x60035E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DC338", Offset = "0x13DC338", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawWithOutlines", MemberParameters = new object[]
@@ -293,57 +544,46 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x040062C9 RID: 25289
 		[global::Cpp2ILInjected.Token(Token = "0x40076B3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public Texture2D texture;
 
-		// Token: 0x040062CA RID: 25290
 		[global::Cpp2ILInjected.Token(Token = "0x40076B4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		public Vector2 position;
 
-		// Token: 0x040062CB RID: 25291
 		[global::Cpp2ILInjected.Token(Token = "0x40076B5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public Rectangle sourceRect;
 
-		// Token: 0x040062CC RID: 25292
 		[global::Cpp2ILInjected.Token(Token = "0x40076B6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public Color color;
 
-		// Token: 0x040062CD RID: 25293
 		[global::Cpp2ILInjected.Token(Token = "0x40076B7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		public float rotation;
 
-		// Token: 0x040062CE RID: 25294
 		[global::Cpp2ILInjected.Token(Token = "0x40076B8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public Vector2 origin;
 
-		// Token: 0x040062CF RID: 25295
 		[global::Cpp2ILInjected.Token(Token = "0x40076B9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		public Vector2 scale;
 
-		// Token: 0x040062D0 RID: 25296
 		[global::Cpp2ILInjected.Token(Token = "0x40076BA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		public SpriteEffects effect;
 
-		// Token: 0x040062D1 RID: 25297
 		[global::Cpp2ILInjected.Token(Token = "0x40076BB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		public int shader;
 
-		// Token: 0x040062D2 RID: 25298
 		[global::Cpp2ILInjected.Token(Token = "0x40076BC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		public bool ignorePlayerRotation;
 
-		// Token: 0x040062D3 RID: 25299
 		[global::Cpp2ILInjected.Token(Token = "0x40076BD")]
 		public static Rectangle? nullRectangle;
 	}

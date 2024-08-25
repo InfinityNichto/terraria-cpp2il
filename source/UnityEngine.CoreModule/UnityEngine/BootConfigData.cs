@@ -6,12 +6,10 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000088 RID: 136
 	[NativeHeader("Runtime/Export/Bootstrap/BootConfig.bindings.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000096")]
 	internal class BootConfigData
 	{
-		// Token: 0x06000298 RID: 664 RVA: 0x0000256C File Offset: 0x0000076C
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x60002A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F795F0", Offset = "0x1F795F0", Length = "0x58")]
@@ -23,7 +21,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000299 RID: 665 RVA: 0x0000256F File Offset: 0x0000076F
 		[global::Cpp2ILInjected.Token(Token = "0x60002A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F79648", Offset = "0x1F79648", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BootConfigData), Member = "WrapBootConfigData", MemberParameters = new object[] { typeof(IntPtr) }, ReturnType = typeof(BootConfigData))]
@@ -41,7 +38,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x04000315 RID: 789
 		[global::Cpp2ILInjected.Token(Token = "0x4000345")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private IntPtr m_Ptr;

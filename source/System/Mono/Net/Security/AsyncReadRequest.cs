@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Net.Security
 {
-	// Token: 0x02000018 RID: 24
 	[global::Cpp2ILInjected.Token(Token = "0x2000053")]
 	internal class AsyncReadRequest : AsyncReadOrWriteRequest
 	{
-		// Token: 0x0600007C RID: 124 RVA: 0x00002F9F File Offset: 0x0000119F
 		[global::Cpp2ILInjected.Token(Token = "0x60000E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D49478", Offset = "0x1D49478", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -25,7 +23,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600007D RID: 125 RVA: 0x00002FA2 File Offset: 0x000011A2
 		[global::Cpp2ILInjected.Token(Token = "0x60000E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D49480", Offset = "0x1D49480", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -14,15 +14,12 @@ using Terraria.Localization;
 
 namespace Terraria.Net
 {
-	// Token: 0x02000499 RID: 1177
 	[global::Cpp2ILInjected.Token(Token = "0x20006A6")]
 	public abstract class NetModule
 	{
-		// Token: 0x0600335A RID: 13146
 		[global::Cpp2ILInjected.Token(Token = "0x60038A0")]
 		public abstract bool Deserialize(BinaryReader reader, int userId);
 
-		// Token: 0x0600335B RID: 13147 RVA: 0x0002B2E6 File Offset: 0x000294E6
 		[global::Cpp2ILInjected.Token(Token = "0x60038A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1593BBC", Offset = "0x1593BBC", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -92,7 +89,6 @@ namespace Terraria.Net
 			throw null;
 		}
 
-		// Token: 0x0600335C RID: 13148 RVA: 0x0002B2E9 File Offset: 0x000294E9
 		[global::Cpp2ILInjected.Token(Token = "0x60038A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x143D440", Offset = "0x143D440", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetLiquidModule), Member = ".ctor", ReturnType = typeof(void))]

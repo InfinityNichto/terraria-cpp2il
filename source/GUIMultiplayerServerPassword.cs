@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Audio;
 using Terraria;
 using Terraria.Audio;
 
-// Token: 0x020001D4 RID: 468
 [global::Cpp2ILInjected.Token(Token = "0x200026F")]
 public class GUIMultiplayerServerPassword
 {
-	// Token: 0x06000CE3 RID: 3299 RVA: 0x000241EE File Offset: 0x000223EE
 	[global::Cpp2ILInjected.Token(Token = "0x6000E02")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9F012C", Offset = "0x9F012C", Length = "0x3EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +58,6 @@ public class GUIMultiplayerServerPassword
 		throw null;
 	}
 
-	// Token: 0x06000CE4 RID: 3300 RVA: 0x000241F1 File Offset: 0x000223F1
 	[global::Cpp2ILInjected.Token(Token = "0x6000E03")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9F0518", Offset = "0x9F0518", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -71,7 +68,6 @@ public class GUIMultiplayerServerPassword
 		throw null;
 	}
 
-	// Token: 0x040014A6 RID: 5286
 	[global::Cpp2ILInjected.Token(Token = "0x40019B0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private string editGetIP;

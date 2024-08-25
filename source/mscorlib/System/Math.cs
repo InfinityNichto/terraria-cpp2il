@@ -1,21 +1,27 @@
 ﻿using System;
+using System.Collections.Concurrent;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Globalization;
 using System.IO;
+using System.Reflection;
 using System.Runtime.CompilerServices;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Versioning;
+using System.Security;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
+using Mono.Security.Cryptography;
 
 namespace System
 {
-	// Token: 0x020000A6 RID: 166
 	[global::Cpp2ILInjected.Token(Token = "0x20000D6")]
 	public static class Math
 	{
-		// Token: 0x06000742 RID: 1858 RVA: 0x00015A6A File Offset: 0x00013C6A
 		[global::Cpp2ILInjected.Token(Token = "0x60007E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C35B90", Offset = "0x1C35B90", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -27,7 +33,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000743 RID: 1859 RVA: 0x00015A6D File Offset: 0x00013C6D
 		[global::System.Diagnostics.StackTraceHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x60007E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C35BEC", Offset = "0x1C35BEC", Length = "0x4C")]
@@ -40,7 +45,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000744 RID: 1860 RVA: 0x00015A70 File Offset: 0x00013C70
 		[global::Cpp2ILInjected.Token(Token = "0x60007E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C35C38", Offset = "0x1C35C38", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +60,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000745 RID: 1861 RVA: 0x00015A73 File Offset: 0x00013C73
 		[global::Cpp2ILInjected.Token(Token = "0x60007EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C35C4C", Offset = "0x1C35C4C", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -69,7 +72,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000746 RID: 1862 RVA: 0x00015A76 File Offset: 0x00013C76
 		[global::Cpp2ILInjected.Token(Token = "0x60007EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C35CF0", Offset = "0x1C35CF0", Length = "0x27C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -162,7 +164,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000747 RID: 1863 RVA: 0x00015A79 File Offset: 0x00013C79
 		[global::Cpp2ILInjected.Token(Token = "0x60007EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C35FE4", Offset = "0x1C35FE4", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -184,7 +185,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000748 RID: 1864 RVA: 0x00015A7C File Offset: 0x00013C7C
 		[global::System.Runtime.Versioning.NonVersionable]
 		[global::Cpp2ILInjected.Token(Token = "0x60007ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C36134", Offset = "0x1C36134", Length = "0x10")]
@@ -214,7 +214,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000749 RID: 1865 RVA: 0x00015A7F File Offset: 0x00013C7F
 		[global::Cpp2ILInjected.Token(Token = "0x60007EE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C36144", Offset = "0x1C36144", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -250,18 +249,322 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600074A RID: 1866 RVA: 0x00015A82 File Offset: 0x00013C82
 		[global::System.Runtime.Versioning.NonVersionable]
 		[global::Cpp2ILInjected.Token(Token = "0x60007EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C361BC", Offset = "0x1C361BC", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Rectangle", Member = "Union", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle", "Microsoft.Xna.Framework.Rectangle" }, ReturnType = "Microsoft.Xna.Framework.Rectangle")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Rectangle", Member = "Union", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle&", "Microsoft.Xna.Framework.Rectangle&", "Microsoft.Xna.Framework.Rectangle&" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Rectangle", Member = "Intersect", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle&", "Microsoft.Xna.Framework.Rectangle&", "Microsoft.Xna.Framework.Rectangle&" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.Color", Member = "GetHue", ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.Texture", Member = "CalculateMipLevels", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Dust", Member = "UpdateDust", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "updateCloudLayer", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawUnderworldBackgroudLayer", MemberParameters = new object[]
+		{
+			typeof(bool),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawCapture", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle", "Terraria.Graphics.Capture.CaptureSettings" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawWaters", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawBlack", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawSurfaceBG", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DoDraw", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "SpawnStardustMark_StardustTower", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "SpawnStardustMark_StardustWorm", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "FindFrame", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "setFireFlyChance", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "Update", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "ApplyAttackCooldown", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "Damage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_002", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_030", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WaterfallManager", Member = "<.ctor>b__21_0", MemberParameters = new object[] { "Terraria.IO.Preferences" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "FillWallHolesInArea", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "FillWallHolesInColumn", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "TryGrowingAbigailsFlower", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "TryGrowingGlowTulip", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "WavyCaverer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(double),
+			typeof(double),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.Actions.SetTileAndWallRainbowPaint", Member = "GetPaintIDForPosition", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(byte))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.ShapeData", Member = "GetBounds", MemberParameters = new object[] { "Microsoft.Xna.Framework.Point", "Terraria.WorldBuilding.ShapeData[]" }, ReturnType = "Microsoft.Xna.Framework.Rectangle")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.TileFont", Member = "MeasureString", MemberParameters = new object[] { typeof(string) }, ReturnType = "Microsoft.Xna.Framework.Point")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.WorldUtils", Member = "ClampToWorld", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle" }, ReturnType = "Microsoft.Xna.Framework.Rectangle")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.MultiTimer", Member = "StopAndPrint", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Physics.BallCollision", Member = "Step", MemberParameters = new object[]
+		{
+			"Terraria.Physics.PhysicsProperties",
+			"Terraria.Entity",
+			typeof(ref float),
+			"Terraria.Physics.IBallContactListener"
+		}, ReturnType = "Terraria.Physics.BallStepResult")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Cinematics.Film", Member = "AddSequence", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			"Terraria.Cinematics.FrameEvent"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Cinematics.Film", Member = "AppendSequences", MemberParameters = new object[]
+		{
+			typeof(int),
+			"Terraria.Cinematics.FrameEvent[]"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Cinematics.Film", Member = "AppendKeyFrames", MemberParameters = new object[] { "Terraria.Cinematics.FrameEvent[]" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Cinematics.Film", Member = "AddKeyFrame", MemberParameters = new object[]
+		{
+			typeof(int),
+			"Terraria.Cinematics.FrameEvent"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Generation.ShapeBranch", Member = "PerformSegment", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Point",
+			"Terraria.WorldBuilding.GenAction",
+			"Microsoft.Xna.Framework.Point",
+			"Microsoft.Xna.Framework.Point",
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Generation.ShapeRunner", Member = "Perform", MemberParameters = new object[] { "Microsoft.Xna.Framework.Point", "Terraria.WorldBuilding.GenAction" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.HiveBiome", Member = "FrameOutAllHiveContents", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Point",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.Desert.SandMound", Member = "Place", MemberParameters = new object[] { "Terraria.GameContent.Biomes.Desert.DesertDescription" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.Desert.SurfaceMap", Member = ".ctor", MemberParameters = new object[]
+		{
+			"System.Int16[]",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.CaveHouse.HouseUtils", Member = "FindRoom", MemberParameters = new object[] { "Microsoft.Xna.Framework.Point" }, ReturnType = "Microsoft.Xna.Framework.Rectangle")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Bestiary.NPCKillCounterInfoElement", Member = "ProvideUIElement", MemberParameters = new object[] { "Terraria.GameContent.Bestiary.BestiaryUICollectionInfo" }, ReturnType = "Terraria.UI.UIElement")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.LanternSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.NebulaSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.SolarSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.StardustSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.VortexSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Drawing.TileDrawing", Member = "GetTileDrawData", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			"Terraria.DataStructures.TileDrawInfo",
+			typeof(ushort),
+			typeof(ref short),
+			typeof(ref short),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects&",
+			"Microsoft.Xna.Framework.Graphics.Texture2D&",
+			"Microsoft.Xna.Framework.Rectangle&",
+			"Microsoft.Xna.Framework.Graphics.Color&"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Drawing.TileDrawing", Member = "GetTileDrawData", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(ushort),
+			typeof(ref short),
+			typeof(ref short),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects&",
+			"Microsoft.Xna.Framework.Graphics.Texture2D&",
+			"Microsoft.Xna.Framework.Rectangle&",
+			"Microsoft.Xna.Framework.Graphics.Color&"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Drawing.TileDrawing", Member = "GetTileDrawData", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			"Terraria.Tile",
+			typeof(ushort),
+			typeof(ref short),
+			typeof(ref short),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects&",
+			"Microsoft.Xna.Framework.Graphics.Texture2D&",
+			"Microsoft.Xna.Framework.Rectangle&",
+			"Microsoft.Xna.Framework.Graphics.Color&"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Drawing.WindGrid", Member = "SetSize", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Events.MysticLogFairiesEvent", Member = "UpdateTime", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.Elements.UIBestiaryEntryGrid", Member = "FixBestiaryRange", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.Utilities.MultiTimer", Member = "StopAndPrint", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.Content.AssetPathHelper", Member = "CollapseParentDirectory", MemberParameters = new object[]
+		{
+			typeof(ref string),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mono.Security.Cryptography.PKCS1), Member = "Encode_v15", MemberParameters = new object[]
+		{
+			typeof(global::System.Security.Cryptography.HashAlgorithm),
+			typeof(byte[]),
+			typeof(int)
+		}, ReturnType = typeof(byte[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MonoCustomAttrs), Member = "GetCustomAttributes", MemberParameters = new object[]
+		{
+			typeof(global::System.Reflection.ICustomAttributeProvider),
+			typeof(global::System.Type),
+			typeof(bool)
+		}, ReturnType = typeof(object[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MonoCustomAttrs), Member = "GetCustomAttributesData", MemberParameters = new object[]
+		{
+			typeof(global::System.Reflection.ICustomAttributeProvider),
+			typeof(global::System.Type),
+			typeof(bool)
+		}, ReturnType = typeof(global::System.Collections.Generic.IList<global::System.Reflection.CustomAttributeData>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TermInfoDriver), Member = "Init", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(global::System.Runtime.Serialization.SerializationInfo),
+			typeof(global::System.Runtime.Serialization.StreamingContext)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "set_Length", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "ExpandByABlock", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "MakeRoom", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ref global::System.Text.StringBuilder),
+			typeof(ref int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.ValueStringBuilder), Member = "Grow", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.FormatterServices), Member = "GetParentTypes", MemberParameters = new object[]
+		{
+			typeof(global::System.RuntimeType),
+			typeof(ref global::System.RuntimeType[]),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.SizedArray), Member = "IncreaseCapacity", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.IntSizedArray), Member = "IncreaseCapacity", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.File), Member = "ReadAllBytesUnknownLength", MemberParameters = new object[] { typeof(global::System.IO.FileStream) }, ReturnType = typeof(byte[]))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.FileStream), Member = "InitBuffer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Concurrent.ConcurrentDictionary<, >), Member = "Clear", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Concurrent.ConcurrentDictionary<, >), Member = "GrowTable", MemberParameters = new object[] { "Tables<TKey, TValue>" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.ArrayBuilder<>), Member = "EnsureCapacity", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.RequestStream", Member = "BeginRead", MemberParameters = new object[]
+		{
+			"System.Byte[]",
+			typeof(int),
+			typeof(int),
+			typeof(global::System.AsyncCallback),
+			typeof(object)
+		}, ReturnType = typeof(global::System.IAsyncResult))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ServicePointManager", Member = "set_DnsRefreshTimeout", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetworkInformation.MacOsStructs.sockaddr_dl", Member = "Read", MemberParameters = new object[] { typeof(global::System.IntPtr) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetworkInformation.AixStructs.sockaddr_dl", Member = "Read", MemberParameters = new object[] { typeof(global::System.IntPtr) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.EventDescriptorCollection", Member = "EnsureSize", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.PropertyDescriptorCollection", Member = "EnsureSize", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.JsonTextReader", Member = "ReadData", MemberParameters = new object[]
+		{
+			typeof(bool),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.MathUtils", Member = "Max", MemberParameters = new object[] { "System.Nullable`1<Int32>", "System.Nullable`1<Int32>" }, ReturnType = "System.Nullable`1<Int32>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArraySliceFilter.<ExecuteFilter>d__12", Member = "MoveNext", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "set_characterLimit", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Crl", Member = "VerifySignature", MemberParameters = new object[] { typeof(global::System.Security.Cryptography.DSA) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Certificate", Member = "get_Signature", ReturnType = "System.Byte[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.Cryptography.PKCS1", Member = "Encode_v15", MemberParameters = new object[]
+		{
+			typeof(global::System.Security.Cryptography.HashAlgorithm),
+			"System.Byte[]",
+			typeof(int)
+		}, ReturnType = "System.Byte[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Text.ValueStringBuilder", Member = "Grow", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.CanvasRenderer", Member = "SetMaterial", MemberParameters = new object[] { "UnityEngine.Material", "UnityEngine.Texture" }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 127)]
 		public static int Max(int val1, int val2)
 		{
 			throw null;
 		}
 
-		// Token: 0x0600074B RID: 1867 RVA: 0x00015A85 File Offset: 0x00013C85
 		[global::System.Runtime.Versioning.NonVersionable]
 		[global::Cpp2ILInjected.Token(Token = "0x60007F0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C361C8", Offset = "0x1C361C8", Length = "0xC")]
@@ -274,10 +577,371 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600074C RID: 1868 RVA: 0x00015A88 File Offset: 0x00013C88
 		[global::Cpp2ILInjected.Token(Token = "0x60007F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C361D4", Offset = "0x1C361D4", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.MathHelper", Member = "Max", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Input.GamepadTranslator", Member = "TriggerPressed", MemberParameters = new object[]
+		{
+			typeof(string),
+			"Microsoft.Xna.Framework.Input.JoystickState"
+		}, ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(string),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(global::System.Text.StringBuilder),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(string),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawStringMultiLineRight", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(string),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawStringMultiLineCentre", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(string),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(global::System.Text.StringBuilder),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2[]"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(global::System.Text.StringBuilder),
+			typeof(int),
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2[]"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteBatch", Member = "DrawString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(global::System.Text.StringBuilder),
+			typeof(int),
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteFont", Member = "MeasureMaxString", MemberParameters = new object[]
+		{
+			"CharacterSource&",
+			typeof(ref int),
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.SpriteFont", Member = "MeasureString", MemberParameters = new object[] { "CharacterSource&", "Microsoft.Xna.Framework.Vector2&" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Dust", Member = "UpdateDust", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "get_UIScaleMax", ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "updateCloudLayer", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawProjDirect", MemberParameters = new object[]
+		{
+			"Terraria.Projectile",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "rgbToHsl", MemberParameters = new object[] { "Microsoft.Xna.Framework.Graphics.Color" }, ReturnType = "Microsoft.Xna.Framework.Vector3")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawSplash_LoadingFlower", MemberParameters = new object[] { "Microsoft.Xna.Framework.Graphics.Color" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawCapture", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle", "Terraria.Graphics.Capture.CaptureSettings" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawWaters", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawSurfaceBG_GetFogPower", ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DoDraw", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NetMessage", Member = "SendData", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			"Terraria.Localization.NetworkText",
+			typeof(int),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_118_Seahorses", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_112_FairyCritter", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "FindFrame", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "UpdateNPC_TeleportVisuals", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "UpdateBiomes", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "DashMovement", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_177_IceWhipSlicer", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_174_MultisegmentPet", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_170_FairyGlowstick", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "Minion_FindTargetInRange", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(ref int),
+			typeof(bool),
+			"System.Func`3<Entity, Int32, Boolean>"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_026", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_030", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_062", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_145_BookStaffStorm", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Collision", Member = "FindOverlapPoints", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float)
+		}, ReturnType = "System.Single[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Mount", Member = "UpdateFrame", MemberParameters = new object[]
+		{
+			"Terraria.Player",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Rain", Member = "NewRain", MemberParameters = new object[] { "Microsoft.Xna.Framework.Vector2", "Microsoft.Xna.Framework.Vector2" }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utils", Member = "GetChaseResults", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2"
+		}, ReturnType = "Terraria.Utils.ChaseResults")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utils", Member = "FactorAcceleration", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(int)
+		}, ReturnType = "Microsoft.Xna.Framework.Vector2")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.UI.Chat.ChatManager", Member = "GetStringSize", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			"Terraria.UI.Chat.TextSnippet[]",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = "Microsoft.Xna.Framework.Vector2")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.UI.Chat.ChatManager", Member = "DrawColorCodedString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			"Terraria.UI.Chat.TextSnippet[]",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(ref int),
+			typeof(float),
+			typeof(bool),
+			typeof(int)
+		}, ReturnType = "Microsoft.Xna.Framework.Vector2")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.UI.Chat.ChatManager", Member = "DrawColorCodedString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(string),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			typeof(bool),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.UI.Chat.ChatManager", Member = "DrawColorCodedString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2[]",
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(string),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			typeof(bool),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.UI.Chat.ChatManager", Member = "DrawColorCodedString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(global::System.Text.StringBuilder),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			typeof(bool)
+		}, ReturnType = "Microsoft.Xna.Framework.Vector2")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.UI.Chat.ChatManager", Member = "DrawColorCodedString", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2[]",
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(global::System.Text.StringBuilder),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			typeof(bool)
+		}, ReturnType = "Microsoft.Xna.Framework.Vector2")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Renderers.LegacyPlayerRenderer", Member = "DrawGhost", MemberParameters = new object[]
+		{
+			"Terraria.Graphics.Camera",
+			"Terraria.Player",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Effects.FilterManager", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Cinematics.DD2Film", Member = "DryadPortalFade", MemberParameters = new object[] { "Terraria.Cinematics.FrameEventData" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.CoinLossRevengeSystem.RevengeMarker", Member = "SpawnEnemy", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Shaders.WaterShaderData", Member = "DrawWaves", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Shaders.WaterShaderData", Member = "QueueRipple", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			"Terraria.GameContent.Shaders.RippleShape",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.VultureSkyEntity", Member = "GetColor", MemberParameters = new object[] { "Microsoft.Xna.Framework.Graphics.Color" }, ReturnType = "Microsoft.Xna.Framework.Graphics.Color")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.MoonLordSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.NebulaSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.NebulaSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.SolarSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.SolarSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.StardustSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.StardustSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.VortexSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.VortexSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Drawing.TileDrawing", Member = "DrawTile_LiquidBehindTile", MemberParameters = new object[]
+		{
+			typeof(bool),
+			typeof(bool),
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(int),
+			typeof(int),
+			"Terraria.DataStructures.TileDrawInfo"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Golf.GolfHelper", Member = "CalculateShotStrength", MemberParameters = new object[] { "Microsoft.Xna.Framework.Vector2", "Terraria.GameContent.Golf.GolfHelper.ClubProperties" }, ReturnType = "Terraria.GameContent.Golf.GolfHelper.ShotStrength")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.Elements.UIIconTextButton", Member = "SetText", MemberParameters = new object[]
+		{
+			"Terraria.Localization.LocalizedText",
+			typeof(float),
+			"Microsoft.Xna.Framework.Graphics.Color"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.Text.GlyphMetrics", Member = "get_KernedWidthOnNewLine", ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.Text.WrappedTextBuilder.NonBreakingText", Member = ".ctor", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.Text.WrappedTextBuilder.NonBreakingText", Member = "GetAsWrappedText", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ScrollRect", Member = "UpdateBounds", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 125)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
 		public static float Max(float val1, float val2)
@@ -285,7 +949,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600074D RID: 1869 RVA: 0x00015A8B File Offset: 0x00013C8B
 		[global::System.CLSCompliant(false)]
 		[global::System.Runtime.Versioning.NonVersionable]
 		[global::Cpp2ILInjected.Token(Token = "0x60007F2")]
@@ -303,7 +966,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600074E RID: 1870 RVA: 0x00015A8E File Offset: 0x00013C8E
 		[global::System.Runtime.Versioning.NonVersionable]
 		[global::Cpp2ILInjected.Token(Token = "0x60007F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C3625C", Offset = "0x1C3625C", Length = "0x10")]
@@ -316,7 +978,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600074F RID: 1871 RVA: 0x00015A91 File Offset: 0x00013C91
 		[global::Cpp2ILInjected.Token(Token = "0x60007F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C3626C", Offset = "0x1C3626C", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -349,18 +1010,426 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000750 RID: 1872 RVA: 0x00015A94 File Offset: 0x00013C94
 		[global::System.Runtime.Versioning.NonVersionable]
 		[global::Cpp2ILInjected.Token(Token = "0x60007F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C362E4", Offset = "0x1C362E4", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPlayerSelectMenu", Member = "SortPlayers", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIWorldSelectMenu", Member = "SortWorlds", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Rectangle", Member = "Union", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle", "Microsoft.Xna.Framework.Rectangle" }, ReturnType = "Microsoft.Xna.Framework.Rectangle")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Rectangle", Member = "Union", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle&", "Microsoft.Xna.Framework.Rectangle&", "Microsoft.Xna.Framework.Rectangle&" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Rectangle", Member = "Intersect", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle&", "Microsoft.Xna.Framework.Rectangle&", "Microsoft.Xna.Framework.Rectangle&" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.Color", Member = "GetHue", ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Dust", Member = "GetAlpha", MemberParameters = new object[] { "Microsoft.Xna.Framework.Graphics.Color&" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Dust", Member = "GetAlpha", MemberParameters = new object[] { "Microsoft.Xna.Framework.Graphics.Color" }, ReturnType = "Microsoft.Xna.Framework.Graphics.Color")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "LoadWorlds", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "LoadPlayers", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "MouseText_DrawItemTooltip", MemberParameters = new object[]
+		{
+			"Terraria.Main.MouseTextCache",
+			typeof(int),
+			typeof(byte),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawCapture", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle", "Terraria.Graphics.Capture.CaptureSettings" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawWaters", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawBlack", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawBG", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "FindFrame", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "TileInteractionsMouseOver", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "SellItemAmount", MemberParameters = new object[]
+		{
+			"Terraria.Item",
+			typeof(int)
+		}, ReturnType = typeof(long))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "SellItem", MemberParameters = new object[]
+		{
+			"Terraria.Item",
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "HandleMovement", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_067_TigerSpecialAttack", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_150_GolfClubHelper", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utils", Member = "WordwrapStringSmart", MemberParameters = new object[]
+		{
+			typeof(string),
+			"Microsoft.Xna.Framework.Graphics.Color",
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = "System.Collections.Generic.List`1<List`1<TextSnippet>>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen.<>c", Member = "<GenerateWorld>b__277_19", MemberParameters = new object[] { "Terraria.WorldBuilding.GenerationProgress", "Terraria.IO.GameConfiguration" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "FillWallHolesInArea", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "FillWallHolesInColumn", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "GetWorldUpdateRate", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "TryGrowingAbigailsFlower", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "TryGrowingGlowTulip", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "WavyCaverer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(double),
+			typeof(double),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "RefreshSection", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.Actions.SetTileAndWallRainbowPaint", Member = "GetPaintIDForPosition", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(byte))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.Shapes.Circle", Member = "Perform", MemberParameters = new object[] { "Microsoft.Xna.Framework.Point", "Terraria.WorldBuilding.GenAction" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.Shapes.HalfCircle", Member = "Perform", MemberParameters = new object[] { "Microsoft.Xna.Framework.Point", "Terraria.WorldBuilding.GenAction" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.Shapes.Mound", Member = "Perform", MemberParameters = new object[] { "Microsoft.Xna.Framework.Point", "Terraria.WorldBuilding.GenAction" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.ShapeData", Member = "GetBounds", MemberParameters = new object[] { "Microsoft.Xna.Framework.Point", "Terraria.WorldBuilding.ShapeData[]" }, ReturnType = "Microsoft.Xna.Framework.Rectangle")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldBuilding.WorldUtils", Member = "ClampToWorld", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle" }, ReturnType = "Microsoft.Xna.Framework.Rectangle")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.DataStructures.PlayerDrawLayers", Member = "DrawStarboardRainbowTrail", MemberParameters = new object[] { "Terraria.DataStructures.PlayerDrawSet&", "Microsoft.Xna.Framework.Vector2", "Microsoft.Xna.Framework.Vector2" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.DataStructures.PlayerDrawLayers", Member = "DrawMeowcartTrail", MemberParameters = new object[] { "Terraria.DataStructures.PlayerDrawSet&" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Achievements.ConditionsCompletedTracker", Member = "OnConditionCompleted", MemberParameters = new object[] { "Terraria.Achievements.AchievementCondition" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Capture.CaptureInterface.ModeEdgeSelection", Member = "DrawMarkedArea", MemberParameters = new object[] { "Microsoft.Xna.Framework.Graphics.SpriteBatch" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Capture.CaptureInterface.ModeDragBounds", Member = "DragBounds", MemberParameters = new object[] { "Microsoft.Xna.Framework.Vector2" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Capture.CaptureInterface.ModeDragBounds", Member = "DrawMarkedArea", MemberParameters = new object[] { "Microsoft.Xna.Framework.Graphics.SpriteBatch" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Capture.CaptureInterface", Member = "GetArea", ReturnType = "Microsoft.Xna.Framework.Rectangle")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.DontStarveSeed", Member = "FixBiomeDarkness", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.Color&",
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Shaders.WaterShaderData", Member = "PreDraw", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Generation.ShapeRunner", Member = "Perform", MemberParameters = new object[] { "Microsoft.Xna.Framework.Point", "Terraria.WorldBuilding.GenAction" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Generation.TrackGenerator", Member = "FindPath", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Generation.TrackGenerator", Member = "TryRewriteHistoryToAvoidTiles", ReturnType = "Terraria.GameContent.Generation.TrackGenerator.TrackPlacementState")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Generation.TrackGenerator", Member = "SmoothTrack", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.HiveBiome", Member = "FrameOutAllHiveContents", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Point",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.MarbleBiome", Member = "Place", MemberParameters = new object[] { "Microsoft.Xna.Framework.Point", "Terraria.WorldBuilding.StructureMap" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.Desert.DesertHive.ClusterGroup", Member = "Generate", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.Desert.PitEntrance", Member = "PlaceAt", MemberParameters = new object[]
+		{
+			"Terraria.GameContent.Biomes.Desert.DesertDescription",
+			"Microsoft.Xna.Framework.Point",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.Desert.SandMound", Member = "Place", MemberParameters = new object[] { "Terraria.GameContent.Biomes.Desert.DesertDescription" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.Desert.SurfaceMap", Member = ".ctor", MemberParameters = new object[]
+		{
+			"System.Int16[]",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.CaveHouse.HouseBuilder", Member = "FillRooms", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Biomes.CaveHouse.HouseBuilder", Member = "CreateSupportBeamList", ReturnType = "System.Collections.Generic.List`1<Rectangle>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Bestiary.NPCPortraitInfoElement", Member = "CreateStarsContainer", ReturnType = "Terraria.UI.UIElement")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Creative.CreativeUI", Member = "SacrificeItem", MemberParameters = new object[] { typeof(ref int) }, ReturnType = "Terraria.GameContent.Creative.CreativeUI.ItemSacrificeResult")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.Elements.UIBestiaryEntryGrid", Member = "FillBestiarySpaceWithEntries", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.Elements.UIBestiaryEntryGrid", Member = "GetRangeText", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.Elements.UIDynamicItemCollection", Member = "GetGridParameters", MemberParameters = new object[]
+		{
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.Elements.UITextBox", Member = "SetText", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(float),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.Chat.RemadeChatMonitor", Member = "DrawChat", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.Chat.RemadeChatMonitor", Member = "ClampMessageIndex", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mono.Security.Cryptography.SymmetricTransform), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(global::System.Security.Cryptography.SymmetricAlgorithm),
+			typeof(bool),
+			typeof(byte[])
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "CompareOrdinalHelper", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "Compare", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(global::System.StringComparison)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "CompareOrdinal", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(string),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Array), Member = "FindAll", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { "T[]", "System.Predicate`1<T>" }, ReturnType = "T[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TermInfoDriver), Member = "Init", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Decimal.DecCalc", Member = "VarDecDiv", MemberParameters = new object[]
+		{
+			typeof(ref decimal.DecCalc),
+			typeof(ref decimal.DecCalc)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Thread), Member = "GetProcessDefaultStackSize", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(global::System.Runtime.Serialization.SerializationInfo),
+			typeof(global::System.Runtime.Serialization.StreamingContext)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "set_Length", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "AppendCore", MemberParameters = new object[]
+		{
+			typeof(global::System.Text.StringBuilder),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(global::System.Text.StringBuilder))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "CopyTo", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(global::System.Span<char>),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "ReplaceInPlaceAtChunk", MemberParameters = new object[]
+		{
+			typeof(ref global::System.Text.StringBuilder),
+			typeof(ref int),
+			typeof(char*),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "ExpandByABlock", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Text.StringBuilder), Member = "MakeRoom", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ref global::System.Text.StringBuilder),
+			typeof(ref int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.SecureString), Member = "Alloc", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.RC2Transform), Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(global::System.Security.Cryptography.RC2),
+			typeof(bool),
+			typeof(byte[]),
+			typeof(byte[])
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryWriter), Member = "WriteArrayAsBytes", MemberParameters = new object[]
+		{
+			typeof(global::System.Array),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser), Member = "ReadArrayAsBytes", MemberParameters = new object[] { typeof(global::System.Runtime.Serialization.Formatters.Binary.ParseRecord) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "Read", MemberParameters = new object[] { typeof(global::System.Span<byte>) }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.StreamWriter), Member = "Write", MemberParameters = new object[] { typeof(char[]) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.StreamWriter), Member = "Write", MemberParameters = new object[]
+		{
+			typeof(char[]),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.StreamWriter), Member = "WriteSpan", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.StreamWriter), Member = "Write", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.StreamWriter), Member = "WriteLine", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.FileStream), Member = "ReadSegment", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.CompareInfo), Member = "CompareOrdinalIgnoreCase", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.ReadOnlySpan<char>)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Concurrent.ConcurrentQueue<>), Member = "EnqueueSlow", MemberParameters = new object[] { "T" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.LargeArrayBuilder<>), Member = "CopyTo", MemberParameters = new object[]
+		{
+			"T[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Collections.Generic.LargeArrayBuilder<>), Member = "AllocateBuffer", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Buffers.TlsOverPerCoreLockedStacksArrayPool`1.PerCoreLockedStacks", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream.<InnerRead>d__66", Member = "MoveNext", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "InternalRead", MemberParameters = new object[]
+		{
+			"Mono.Net.Security.AsyncProtocolRequest",
+			"Mono.Net.Security.BufferOffsetSize",
+			"System.Byte[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = "System.ValueTuple`2<Int32, Boolean>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.UriHelper", Member = "EscapeString", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			"System.Char[]",
+			typeof(ref int),
+			typeof(bool),
+			typeof(char),
+			typeof(char),
+			typeof(char)
+		}, ReturnType = "System.Char[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetEventSource", Member = "DumpBuffer", MemberParameters = new object[]
+		{
+			typeof(object),
+			"System.Byte[]",
+			typeof(int),
+			typeof(int),
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetEventSource", Member = "DumpBuffer", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(global::System.IntPtr),
+			typeof(int),
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.CookieContainer", Member = "AgeCookies", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.PathList.PathListComparer", Member = "System.Collections.IComparer.Compare", MemberParameters = new object[]
+		{
+			typeof(object),
+			typeof(object)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ChunkedInputStream", Member = "OnRead", MemberParameters = new object[] { typeof(global::System.IAsyncResult) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.RequestStream", Member = "FillFromBuffer", MemberParameters = new object[]
+		{
+			"System.Byte[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ResponseStream", Member = "Write", MemberParameters = new object[]
+		{
+			"System.Byte[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetworkInformation.AixNetworkInterfaceAPI", Member = "GetAllNetworkInterfaces", ReturnType = "System.Net.NetworkInformation.NetworkInterface[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetworkInformation.MacOsNetworkInterfaceAPI", Member = "GetAllNetworkInterfaces", ReturnType = "System.Net.NetworkInformation.NetworkInterface[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.Container", Member = "ValidateName", MemberParameters = new object[]
+		{
+			"System.ComponentModel.IComponent",
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.ChunkedMemoryStream", Member = "Write", MemberParameters = new object[]
+		{
+			"System.Byte[]",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.DeflateStreamNative", Member = "UnmanagedRead", MemberParameters = new object[]
+		{
+			typeof(global::System.IntPtr),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.DeflateStreamNative", Member = "UnmanagedWrite", MemberParameters = new object[]
+		{
+			typeof(global::System.IntPtr),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.NativeInputDevice", Member = "Initialize", MemberParameters = new object[]
+		{
+			typeof(uint),
+			"InControl.InputDeviceInfo",
+			"InControl.InputDeviceProfile"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.BitSet", Member = "Intersects", MemberParameters = new object[] { "System.Xml.Schema.BitSet" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.JsonTextWriter", Member = "WriteIndent", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Utilities.MathUtils", Member = "Min", MemberParameters = new object[] { "System.Nullable`1<Int32>", "System.Nullable`1<Int32>" }, ReturnType = "System.Nullable`1<Int32>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JsonPath.ArraySliceFilter.<ExecuteFilter>d__12", Member = "MoveNext", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Events.UnityEventTools", Member = "TidyAssemblyTypeName", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "SetText", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "Append", MemberParameters = new object[] { typeof(char) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.BZip2.BZip2Compressor", Member = "sendMTFValues1", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.BZip2.BZip2Compressor", Member = "sendMTFValues7", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.Protocol.Ntlm.ChallengeResponse", Member = "PasswordToKey", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int)
+		}, ReturnType = "System.Byte[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.Protocol.Ntlm.ChallengeResponse2", Member = "PasswordToKey", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int)
+		}, ReturnType = "System.Byte[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.FormatProvider.Number", Member = "FormatFixed", MemberParameters = new object[]
+		{
+			"System.Text.ValueStringBuilder&",
+			"NumberBuffer&",
+			typeof(int),
+			typeof(int),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			"System.Int32[]",
+			typeof(string),
+			typeof(string)
+		}, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 174)]
-		public static int Min(int val1, int val2)
+		public unsafe static int Min(int val1, int val2)
 		{
 			throw null;
 		}
 
-		// Token: 0x06000751 RID: 1873 RVA: 0x00015A97 File Offset: 0x00013C97
 		[global::System.Runtime.Versioning.NonVersionable]
 		[global::Cpp2ILInjected.Token(Token = "0x60007F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C362F0", Offset = "0x1C362F0", Length = "0xC")]
@@ -415,10 +1484,179 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000752 RID: 1874 RVA: 0x00015A9A File Offset: 0x00013C9A
 		[global::Cpp2ILInjected.Token(Token = "0x60007F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C362FC", Offset = "0x1C362FC", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.MathHelper", Member = "Min", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Dust", Member = "UpdateDust", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "get_UIScaleMax", ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawNPCDirect", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			"Terraria.NPC",
+			typeof(bool),
+			"Microsoft.Xna.Framework.Vector2"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawNPCDirect", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			"Terraria.NPC",
+			typeof(bool),
+			"Microsoft.Xna.Framework.Vector2",
+			"Terraria.Graphics.Light.LightMap",
+			"Microsoft.Xna.Framework.Rectangle&"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawProjDirect", MemberParameters = new object[]
+		{
+			"Terraria.Projectile",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawProj_Flamethrower", MemberParameters = new object[] { "Terraria.Projectile" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "rgbToHsl", MemberParameters = new object[] { "Microsoft.Xna.Framework.Graphics.Color" }, ReturnType = "Microsoft.Xna.Framework.Vector3")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawSimpleSurfaceBackground", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawCapture", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle", "Terraria.Graphics.Capture.CaptureSettings" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawWaters", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_124_DeerclopsLeg", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_118_Seahorses", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_112_FairyCritter", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "UpdateBiomes", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "Update", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "GetAnglerReward_Decoration", MemberParameters = new object[]
+		{
+			"Terraria.DataStructures.IEntitySource",
+			typeof(int),
+			typeof(float),
+			"Terraria.GetItemSettings&"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_009_MagicMissiles", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_174_MultisegmentPet", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_067_FreakingPirates", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_003", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_062", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_099_2", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Collision", Member = "FindOverlapPoints", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float)
+		}, ReturnType = "System.Single[]")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Collision", Member = "CheckAABBvLineCollision", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			typeof(ref float)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Collision", Member = "FindCollisionTile", MemberParameters = new object[]
+		{
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(bool),
+			typeof(int),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = "System.Collections.Generic.List`1<Point>")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Mount", Member = "Draw", MemberParameters = new object[]
+		{
+			"Terraria.DataStructures.PlayerDrawSet&",
+			typeof(int),
+			"Terraria.Player",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Rain", Member = "NewRain", MemberParameters = new object[] { "Microsoft.Xna.Framework.Vector2", "Microsoft.Xna.Framework.Vector2" }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utils", Member = "GetChaseResults", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Vector2"
+		}, ReturnType = "Terraria.Utils.ChaseResults")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Effects.FilterManager", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Effects.OverlayManager", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Cinematics.DD2Film", Member = "DryadPortalKnock", MemberParameters = new object[] { "Terraria.Cinematics.FrameEventData" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Shaders.WaterShaderData", Member = "DrawWaves", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Shaders.WaterShaderData", Member = "QueueRipple", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			"Terraria.GameContent.Shaders.RippleShape",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Shaders.WaterShaderData", Member = "QueueRipple", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(float),
+			"Microsoft.Xna.Framework.Vector2",
+			"Terraria.GameContent.Shaders.RippleShape",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.BlizzardSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.MoonLordSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.NebulaSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.NebulaSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.SandstormSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.SolarSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.SolarSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.StardustSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.StardustSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.VortexSky", Member = "Update", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.VortexSky", Member = "Draw", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Liquid.LiquidRenderer", Member = "DrawShimmer", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ScrollRect", Member = "UpdateBounds", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 83)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
 		public static float Min(float val1, float val2)
@@ -426,7 +1664,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000753 RID: 1875 RVA: 0x00015A9D File Offset: 0x00013C9D
 		[global::System.Runtime.Versioning.NonVersionable]
 		[global::System.CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x60007F8")]
@@ -441,7 +1678,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000754 RID: 1876
 		[global::Cpp2ILInjected.Token(Token = "0x60007F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C36380", Offset = "0x1C36380", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -450,7 +1686,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Round(double a);
 
-		// Token: 0x06000755 RID: 1877 RVA: 0x00015AA0 File Offset: 0x00013CA0
 		[global::Cpp2ILInjected.Token(Token = "0x60007FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C36404", Offset = "0x1C36404", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -461,7 +1696,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000756 RID: 1878 RVA: 0x00015AA3 File Offset: 0x00013CA3
 		[global::Cpp2ILInjected.Token(Token = "0x60007FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C3646C", Offset = "0x1C3646C", Length = "0x28C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -503,7 +1737,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000757 RID: 1879 RVA: 0x00015AA6 File Offset: 0x00013CA6
 		[global::Cpp2ILInjected.Token(Token = "0x60007FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C35F6C", Offset = "0x1C35F6C", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -526,7 +1759,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000758 RID: 1880 RVA: 0x00015AA9 File Offset: 0x00013CA9
 		[global::Cpp2ILInjected.Token(Token = "0x60007FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C366FC", Offset = "0x1C366FC", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -618,7 +1850,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000759 RID: 1881 RVA: 0x00015AAC File Offset: 0x00013CAC
 		[global::Cpp2ILInjected.Token(Token = "0x60007FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C3670C", Offset = "0x1C3670C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -633,10 +1864,146 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600075A RID: 1882 RVA: 0x00015AAF File Offset: 0x00013CAF
 		[global::Cpp2ILInjected.Token(Token = "0x60007FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C36720", Offset = "0x1C36720", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Matrix", Member = "Decompose", MemberParameters = new object[] { "Microsoft.Xna.Framework.Vector3&", "Microsoft.Xna.Framework.Quaternion&", "Microsoft.Xna.Framework.Vector3&" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Dust", Member = "UpdateDust", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "snowing", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "AnimateTiles", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "AnimateTiles_WeatherVane", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DrawNPCExtras", MemberParameters = new object[]
+		{
+			"Terraria.NPC",
+			typeof(bool),
+			typeof(float),
+			typeof(float),
+			"Microsoft.Xna.Framework.Graphics.Color",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects",
+			"Microsoft.Xna.Framework.Vector2"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_125_ClumsySlimeBalloon", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_123_Deerclops_Movement", MemberParameters = new object[]
+		{
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_124_DeerclopsLeg", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_117_BloodNautilus", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_113_WindyBalloon", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_112_FairyCritter", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_069_DukeFishron", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_007_TownEntities", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_003_Fighters", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_110_Betsy", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_026_Unicorns", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_107_ImprovedWalkers", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_084_LunaticCultist", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "AI_108_DivingFlyer", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NPC", Member = "FindFrame", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "Yoraiz0rEye", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "HorizontalMovement", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "GetGrapplingForces", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			"System.Nullable`1<Int32>&",
+			typeof(ref float),
+			typeof(ref float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "TileInteractionsUse", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "CanSnapToPosition", MemberParameters = new object[] { "Microsoft.Xna.Framework.Vector2" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "UpdatePettingAnimal", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Player", Member = "UpdateTouchingTiles", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "CutTiles", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "Colliding", MemberParameters = new object[] { "Microsoft.Xna.Framework.Rectangle", "Microsoft.Xna.Framework.Rectangle" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "HandleMovement", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Vector2",
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_194_HorsemanPumpkin", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_121_StardustDragon", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_100_Medusa", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_120_StardustGuardian", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_162_TigerPounce", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_016", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_159_PaperAirplanes", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_158_BabyBird", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_067_FreakingPirates", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_156_BatOfLight", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_001", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_008", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_063", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_064", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_130_FlameBurstTower", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_131_FlameBurstShot", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_134_Ballista", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Projectile", Member = "AI_140_MonkStaffT1", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Mount", Member = "UpdateFrame", MemberParameters = new object[]
+		{
+			"Terraria.Player",
+			typeof(int),
+			"Microsoft.Xna.Framework.Vector2"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Mount", Member = "EmitGolfCartSmoke", MemberParameters = new object[]
+		{
+			"Terraria.Player",
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Mount", Member = "UpdateEffects", MemberParameters = new object[] { "Terraria.Player" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Mount", Member = "CastSuperCartLaser", MemberParameters = new object[] { "Terraria.Player" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Mount", Member = "GetMinecartMechPoint", MemberParameters = new object[]
+		{
+			"Terraria.Player",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = "Microsoft.Xna.Framework.Vector2")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Mount", Member = "Draw", MemberParameters = new object[]
+		{
+			"Terraria.DataStructures.PlayerDrawSet&",
+			typeof(int),
+			"Terraria.Player",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			"Microsoft.Xna.Framework.Graphics.SpriteEffects",
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Renderers.LittleFlyingCritterParticle", Member = "Update", MemberParameters = new object[] { "Terraria.Graphics.Renderers.ParticleRendererSettings&" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.PortalHelper", Member = "TryGoingThroughPortals", MemberParameters = new object[] { "Terraria.Entity" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.DoorOpeningHelper", Member = "GetPlayerInfoForOpeningDoor", MemberParameters = new object[] { "Terraria.Player" }, ReturnType = "Terraria.GameContent.DoorOpeningHelper.PlayerInfoForOpeningDoors")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.SmartCursorHelper", Member = "Step_Hammers", MemberParameters = new object[]
+		{
+			"Terraria.GameContent.SmartCursorHelper.SmartCursorUsageInfo",
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.SmartCursorHelper", Member = "Step_Pickaxe_MineSolids", MemberParameters = new object[]
+		{
+			"Terraria.Player",
+			"Terraria.GameContent.SmartCursorHelper.SmartCursorUsageInfo",
+			"System.Collections.Generic.List`1<Int32>",
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.SeagullsGroupSkyEntity", Member = "UpdateVelocity", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.GastropodGroupSkyEntity", Member = "UpdateVelocity", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.SlimeBalloonGroupSkyEntity", Member = "UpdateVelocity", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.HellBatsGoupSkyEntity", Member = "UpdateVelocity", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.BatsGroupSkyEntity", Member = "UpdateVelocity", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Skies.AmbientSky.EOCSkyEntity", Member = "ChasePlayerTop", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Drawing.WindGrid", Member = "ScanPlayer", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Events.MoonlordDeathDrama", Member = "Update", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Events.Sandstorm", Member = "UpdateSeverity", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Events.Sandstorm", Member = "EmitDust", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.WiresUI.WiresRadial", Member = "LineUpdate", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 174)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.ArithmeticException), Member = ".ctor", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 5)]
@@ -645,7 +2012,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600075B RID: 1883 RVA: 0x00015AB2 File Offset: 0x00013CB2
 		[global::Cpp2ILInjected.Token(Token = "0x6000800")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15905B4", Offset = "0x15905B4", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -669,7 +2035,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600075C RID: 1884
 		[global::Cpp2ILInjected.Token(Token = "0x6000801")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C36798", Offset = "0x1C36798", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -677,7 +2042,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Abs(double value);
 
-		// Token: 0x0600075D RID: 1885
 		[global::Cpp2ILInjected.Token(Token = "0x6000802")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367A0", Offset = "0x1C367A0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -685,7 +2049,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern float Abs(float value);
 
-		// Token: 0x0600075E RID: 1886
 		[global::Cpp2ILInjected.Token(Token = "0x6000803")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367A8", Offset = "0x1C367A8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -693,7 +2056,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Acos(double d);
 
-		// Token: 0x0600075F RID: 1887
 		[global::Cpp2ILInjected.Token(Token = "0x6000804")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367AC", Offset = "0x1C367AC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -701,7 +2063,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Atan(double d);
 
-		// Token: 0x06000760 RID: 1888
 		[global::Cpp2ILInjected.Token(Token = "0x6000805")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367B0", Offset = "0x1C367B0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -709,7 +2070,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Atan2(double y, double x);
 
-		// Token: 0x06000761 RID: 1889
 		[global::Cpp2ILInjected.Token(Token = "0x6000806")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367B4", Offset = "0x1C367B4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -717,7 +2077,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Ceiling(double a);
 
-		// Token: 0x06000762 RID: 1890
 		[global::Cpp2ILInjected.Token(Token = "0x6000807")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367BC", Offset = "0x1C367BC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -725,7 +2084,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Cos(double d);
 
-		// Token: 0x06000763 RID: 1891
 		[global::Cpp2ILInjected.Token(Token = "0x6000808")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367C0", Offset = "0x1C367C0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -733,7 +2091,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Floor(double d);
 
-		// Token: 0x06000764 RID: 1892
 		[global::Cpp2ILInjected.Token(Token = "0x6000809")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367C8", Offset = "0x1C367C8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -741,7 +2098,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Log(double d);
 
-		// Token: 0x06000765 RID: 1893
 		[global::Cpp2ILInjected.Token(Token = "0x600080A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367CC", Offset = "0x1C367CC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "UpdateAudio", ReturnType = typeof(void))]
@@ -814,7 +2170,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Pow(double x, double y);
 
-		// Token: 0x06000766 RID: 1894
 		[global::Cpp2ILInjected.Token(Token = "0x600080B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367D0", Offset = "0x1C367D0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -822,7 +2177,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Sin(double a);
 
-		// Token: 0x06000767 RID: 1895
 		[global::Cpp2ILInjected.Token(Token = "0x600080C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367D4", Offset = "0x1C367D4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -830,7 +2184,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Sqrt(double d);
 
-		// Token: 0x06000768 RID: 1896
 		[global::Cpp2ILInjected.Token(Token = "0x600080D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367DC", Offset = "0x1C367DC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -838,7 +2191,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern double Tan(double a);
 
-		// Token: 0x06000769 RID: 1897
 		[global::Cpp2ILInjected.Token(Token = "0x600080E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C366F8", Offset = "0x1C366F8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -846,7 +2198,6 @@ namespace System
 		[MethodImpl(4096)]
 		private unsafe static extern double ModF(double x, double* intptr);
 
-		// Token: 0x0600076A RID: 1898 RVA: 0x00015AB5 File Offset: 0x00013CB5
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600080F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C367E0", Offset = "0x1C367E0", Length = "0xB0")]
@@ -863,11 +2214,9 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x04000218 RID: 536
 		[global::Cpp2ILInjected.Token(Token = "0x4000365")]
 		private static double doubleRoundLimit;
 
-		// Token: 0x04000219 RID: 537
 		[global::Cpp2ILInjected.Token(Token = "0x4000366")]
 		private static double[] roundPower10Double;
 	}

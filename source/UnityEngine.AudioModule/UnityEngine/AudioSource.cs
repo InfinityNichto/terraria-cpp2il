@@ -8,13 +8,11 @@ using UnityEngine.Internal;
 
 namespace UnityEngine
 {
-	// Token: 0x02000006 RID: 6
 	[StaticAccessor("AudioSourceBindings", StaticAccessorType.DoubleColon)]
 	[RequireComponent(typeof(Transform))]
 	[global::Cpp2ILInjected.Token(Token = "0x200000A")]
 	public sealed class AudioSource : AudioBehaviour
 	{
-		// Token: 0x06000009 RID: 9
 		[global::Cpp2ILInjected.Token(Token = "0x6000016")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F695FC", Offset = "0x1F695FC", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -22,7 +20,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void SetPitch([NotNull("ArgumentNullException")] AudioSource source, float pitch);
 
-		// Token: 0x0600000A RID: 10
 		[global::Cpp2ILInjected.Token(Token = "0x6000017")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F69648", Offset = "0x1F69648", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -30,7 +27,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void PlayHelper([NotNull("ArgumentNullException")] AudioSource source, ulong delay);
 
-		// Token: 0x0600000B RID: 11
 		[global::Cpp2ILInjected.Token(Token = "0x6000018")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6968C", Offset = "0x1F6968C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -38,9 +34,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void Stop(bool stopOneShots);
 
-		// Token: 0x17000002 RID: 2
-		// (get) Token: 0x0600000C RID: 12
-		// (set) Token: 0x0600000D RID: 13
 		[global::Cpp2ILInjected.Token(Token = "0x17000004")]
 		public extern float volume
 		{
@@ -74,8 +67,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000003 RID: 3
-		// (set) Token: 0x0600000E RID: 14 RVA: 0x0000205F File Offset: 0x0000025F
 		[global::Cpp2ILInjected.Token(Token = "0x17000005")]
 		public float pitch
 		{
@@ -99,9 +90,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000004 RID: 4
-		// (get) Token: 0x0600000F RID: 15
-		// (set) Token: 0x06000010 RID: 16
 		[NativeProperty("SecPosition")]
 		[global::Cpp2ILInjected.Token(Token = "0x17000006")]
 		public extern float time
@@ -132,8 +120,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000005 RID: 5
-		// (set) Token: 0x06000011 RID: 17
 		[NativeProperty("AudioClip")]
 		[global::Cpp2ILInjected.Token(Token = "0x17000007")]
 		public extern AudioClip clip
@@ -155,8 +141,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000006 RID: 6
-		// (set) Token: 0x06000012 RID: 18
 		[global::Cpp2ILInjected.Token(Token = "0x17000008")]
 		public extern AudioMixerGroup outputAudioMixerGroup
 		{
@@ -177,7 +161,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x06000013 RID: 19 RVA: 0x00002062 File Offset: 0x00000262
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000020")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F698B4", Offset = "0x1F698B4", Length = "0x40")]
@@ -197,7 +180,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000014 RID: 20 RVA: 0x00002065 File Offset: 0x00000265
 		[global::Cpp2ILInjected.Token(Token = "0x6000021")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F698F4", Offset = "0x1F698F4", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SoundInstance", Member = "Stop", ReturnType = typeof(void))]
@@ -208,8 +190,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x17000007 RID: 7
-		// (set) Token: 0x06000015 RID: 21
 		[global::Cpp2ILInjected.Token(Token = "0x17000009")]
 		public extern bool loop
 		{
@@ -230,8 +210,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000008 RID: 8
-		// (set) Token: 0x06000016 RID: 22
 		[NativeProperty("StereoPan")]
 		[global::Cpp2ILInjected.Token(Token = "0x1700000A")]
 		public extern float panStereo
@@ -254,8 +232,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000009 RID: 9
-		// (set) Token: 0x06000017 RID: 23
 		[global::Cpp2ILInjected.Token(Token = "0x1700000B")]
 		public extern int priority
 		{

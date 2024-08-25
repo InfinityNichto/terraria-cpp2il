@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000A6 RID: 166
 	[UnityInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000B3")]
 	public class SteelSeriesStratusXLAndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060005D2 RID: 1490 RVA: 0x000031A3 File Offset: 0x000013A3
 		[global::Cpp2ILInjected.Token(Token = "0x60005EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19DD7AC", Offset = "0x19DD7AC", Length = "0x7FC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005D3 RID: 1491 RVA: 0x000031A6 File Offset: 0x000013A6
 		[global::Cpp2ILInjected.Token(Token = "0x60005F0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19DDFA8", Offset = "0x19DDFA8", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

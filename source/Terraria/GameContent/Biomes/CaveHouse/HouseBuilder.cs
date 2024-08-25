@@ -12,13 +12,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.CaveHouse
 {
-	// Token: 0x02000609 RID: 1545
 	[global::Cpp2ILInjected.Token(Token = "0x200090D")]
 	public class HouseBuilder
 	{
-		// Token: 0x1700074D RID: 1869
-		// (get) Token: 0x06003DE4 RID: 15844 RVA: 0x0002D0E0 File Offset: 0x0002B2E0
-		// (set) Token: 0x06003DE5 RID: 15845 RVA: 0x0002D0E3 File Offset: 0x0002B2E3
 		[global::Cpp2ILInjected.Token(Token = "0x170007FD")]
 		public double ChestChance
 		{
@@ -40,9 +36,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x1700074E RID: 1870
-		// (get) Token: 0x06003DE6 RID: 15846 RVA: 0x0002D0E6 File Offset: 0x0002B2E6
-		// (set) Token: 0x06003DE7 RID: 15847 RVA: 0x0002D0E9 File Offset: 0x0002B2E9
 		[global::Cpp2ILInjected.Token(Token = "0x170007FE")]
 		public ushort TileType
 		{
@@ -66,9 +59,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x1700074F RID: 1871
-		// (get) Token: 0x06003DE8 RID: 15848 RVA: 0x0002D0EC File Offset: 0x0002B2EC
-		// (set) Token: 0x06003DE9 RID: 15849 RVA: 0x0002D0EF File Offset: 0x0002B2EF
 		[global::Cpp2ILInjected.Token(Token = "0x170007FF")]
 		public ushort WallType
 		{
@@ -92,9 +82,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000750 RID: 1872
-		// (get) Token: 0x06003DEA RID: 15850 RVA: 0x0002D0F2 File Offset: 0x0002B2F2
-		// (set) Token: 0x06003DEB RID: 15851 RVA: 0x0002D0F5 File Offset: 0x0002B2F5
 		[global::Cpp2ILInjected.Token(Token = "0x17000800")]
 		public ushort BeamType
 		{
@@ -118,9 +105,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000751 RID: 1873
-		// (get) Token: 0x06003DEC RID: 15852 RVA: 0x0002D0F8 File Offset: 0x0002B2F8
-		// (set) Token: 0x06003DED RID: 15853 RVA: 0x0002D0FB File Offset: 0x0002B2FB
 		[global::Cpp2ILInjected.Token(Token = "0x17000801")]
 		public int PlatformStyle
 		{
@@ -142,9 +126,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000752 RID: 1874
-		// (get) Token: 0x06003DEE RID: 15854 RVA: 0x0002D0FE File Offset: 0x0002B2FE
-		// (set) Token: 0x06003DEF RID: 15855 RVA: 0x0002D101 File Offset: 0x0002B301
 		[global::Cpp2ILInjected.Token(Token = "0x17000802")]
 		public int DoorStyle
 		{
@@ -166,9 +147,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000753 RID: 1875
-		// (get) Token: 0x06003DF0 RID: 15856 RVA: 0x0002D104 File Offset: 0x0002B304
-		// (set) Token: 0x06003DF1 RID: 15857 RVA: 0x0002D107 File Offset: 0x0002B307
 		[global::Cpp2ILInjected.Token(Token = "0x17000803")]
 		public int TableStyle
 		{
@@ -190,9 +168,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000754 RID: 1876
-		// (get) Token: 0x06003DF2 RID: 15858 RVA: 0x0002D10A File Offset: 0x0002B30A
-		// (set) Token: 0x06003DF3 RID: 15859 RVA: 0x0002D10D File Offset: 0x0002B30D
 		[global::Cpp2ILInjected.Token(Token = "0x17000804")]
 		public bool UsesTables2
 		{
@@ -214,9 +189,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000755 RID: 1877
-		// (get) Token: 0x06003DF4 RID: 15860 RVA: 0x0002D110 File Offset: 0x0002B310
-		// (set) Token: 0x06003DF5 RID: 15861 RVA: 0x0002D113 File Offset: 0x0002B313
 		[global::Cpp2ILInjected.Token(Token = "0x17000805")]
 		public int WorkbenchStyle
 		{
@@ -238,9 +210,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000756 RID: 1878
-		// (get) Token: 0x06003DF6 RID: 15862 RVA: 0x0002D116 File Offset: 0x0002B316
-		// (set) Token: 0x06003DF7 RID: 15863 RVA: 0x0002D119 File Offset: 0x0002B319
 		[global::Cpp2ILInjected.Token(Token = "0x17000806")]
 		public int PianoStyle
 		{
@@ -262,9 +231,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000757 RID: 1879
-		// (get) Token: 0x06003DF8 RID: 15864 RVA: 0x0002D11C File Offset: 0x0002B31C
-		// (set) Token: 0x06003DF9 RID: 15865 RVA: 0x0002D11F File Offset: 0x0002B31F
 		[global::Cpp2ILInjected.Token(Token = "0x17000807")]
 		public int BookcaseStyle
 		{
@@ -286,9 +252,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000758 RID: 1880
-		// (get) Token: 0x06003DFA RID: 15866 RVA: 0x0002D122 File Offset: 0x0002B322
-		// (set) Token: 0x06003DFB RID: 15867 RVA: 0x0002D125 File Offset: 0x0002B325
 		[global::Cpp2ILInjected.Token(Token = "0x17000808")]
 		public int ChairStyle
 		{
@@ -310,9 +273,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x17000759 RID: 1881
-		// (get) Token: 0x06003DFC RID: 15868 RVA: 0x0002D128 File Offset: 0x0002B328
-		// (set) Token: 0x06003DFD RID: 15869 RVA: 0x0002D12B File Offset: 0x0002B32B
 		[global::Cpp2ILInjected.Token(Token = "0x17000809")]
 		public int ChestStyle
 		{
@@ -334,9 +294,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x1700075A RID: 1882
-		// (get) Token: 0x06003DFE RID: 15870 RVA: 0x0002D12E File Offset: 0x0002B32E
-		// (set) Token: 0x06003DFF RID: 15871 RVA: 0x0002D131 File Offset: 0x0002B331
 		[global::Cpp2ILInjected.Token(Token = "0x1700080A")]
 		public bool UsesContainers2
 		{
@@ -358,9 +315,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x1700075B RID: 1883
-		// (get) Token: 0x06003E00 RID: 15872 RVA: 0x0002D134 File Offset: 0x0002B334
-		// (set) Token: 0x06003E01 RID: 15873 RVA: 0x0002D137 File Offset: 0x0002B337
 		[global::Cpp2ILInjected.Token(Token = "0x1700080B")]
 		public ReadOnlyCollection<Rectangle> Rooms
 		{
@@ -382,8 +336,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x1700075C RID: 1884
-		// (get) Token: 0x06003E02 RID: 15874 RVA: 0x0002D13A File Offset: 0x0002B33A
 		[global::Cpp2ILInjected.Token(Token = "0x1700080C")]
 		public Rectangle TopRoom
 		{
@@ -399,8 +351,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x1700075D RID: 1885
-		// (get) Token: 0x06003E03 RID: 15875 RVA: 0x0002D13D File Offset: 0x0002B33D
 		[global::Cpp2ILInjected.Token(Token = "0x1700080D")]
 		public Rectangle BottomRoom
 		{
@@ -416,8 +366,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x1700075E RID: 1886
-		// (get) Token: 0x06003E04 RID: 15876 RVA: 0x0002D140 File Offset: 0x0002B340
 		[global::Cpp2ILInjected.Token(Token = "0x1700080E")]
 		private UnifiedRandom _random
 		{
@@ -436,8 +384,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x1700075F RID: 1887
-		// (get) Token: 0x06003E05 RID: 15877 RVA: 0x0002D143 File Offset: 0x0002B343
 		[global::Cpp2ILInjected.Token(Token = "0x1700080F")]
 		private TileData _tiles
 		{
@@ -451,7 +397,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			}
 		}
 
-		// Token: 0x06003E06 RID: 15878 RVA: 0x0002D146 File Offset: 0x0002B346
 		[global::Cpp2ILInjected.Token(Token = "0x60046A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DC6E0", Offset = "0x7DC6E0", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseBuilder), Member = ".cctor", ReturnType = typeof(void))]
@@ -468,7 +413,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E07 RID: 15879 RVA: 0x0002D149 File Offset: 0x0002B349
 		[global::Cpp2ILInjected.Token(Token = "0x60046A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DB3B4", Offset = "0x7DB3B4", Length = "0x1BC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DesertHouseBuilder), Member = ".ctor", MemberParameters = new object[] { typeof(IEnumerable<Rectangle>) }, ReturnType = typeof(void))]
@@ -499,7 +443,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E08 RID: 15880 RVA: 0x0002D14C File Offset: 0x0002B34C
 		[global::Cpp2ILInjected.Token(Token = "0x60046AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DC76C", Offset = "0x7DC76C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -508,7 +451,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E09 RID: 15881 RVA: 0x0002D14F File Offset: 0x0002B34F
 		[global::Cpp2ILInjected.Token(Token = "0x60046AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DC770", Offset = "0x7DC770", Length = "0x4F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -539,7 +481,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E0A RID: 15882 RVA: 0x0002D152 File Offset: 0x0002B352
 		[global::Cpp2ILInjected.Token(Token = "0x60046AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DCC68", Offset = "0x7DCC68", Length = "0x554")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -586,7 +527,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E0B RID: 15883 RVA: 0x0002D155 File Offset: 0x0002B355
 		[global::Cpp2ILInjected.Token(Token = "0x60046AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DE958", Offset = "0x7DE958", Length = "0x9A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -659,7 +599,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E0C RID: 15884 RVA: 0x0002D158 File Offset: 0x0002B358
 		[global::Cpp2ILInjected.Token(Token = "0x60046AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DD1BC", Offset = "0x7DD1BC", Length = "0x59C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -716,7 +655,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E0D RID: 15885 RVA: 0x0002D15B File Offset: 0x0002B35B
 		[global::Cpp2ILInjected.Token(Token = "0x60046AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7E0518", Offset = "0x7E0518", Length = "0x24C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -741,7 +679,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E0E RID: 15886 RVA: 0x0002D15E File Offset: 0x0002B35E
 		[global::Cpp2ILInjected.Token(Token = "0x60046B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DD758", Offset = "0x7DD758", Length = "0x218")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -783,7 +720,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E0F RID: 15887 RVA: 0x0002D161 File Offset: 0x0002B361
 		[global::Cpp2ILInjected.Token(Token = "0x60046B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7E0764", Offset = "0x7E0764", Length = "0x478")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -815,7 +751,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E10 RID: 15888 RVA: 0x0002D164 File Offset: 0x0002B364
 		[global::Cpp2ILInjected.Token(Token = "0x60046B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DD970", Offset = "0x7DD970", Length = "0x2FC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -854,7 +789,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E11 RID: 15889 RVA: 0x0002D167 File Offset: 0x0002B367
 		[global::Cpp2ILInjected.Token(Token = "0x60046B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7E0D5C", Offset = "0x7E0D5C", Length = "0x24C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -887,7 +821,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E12 RID: 15890 RVA: 0x0002D16A File Offset: 0x0002B36A
 		[global::Cpp2ILInjected.Token(Token = "0x60046B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DDC6C", Offset = "0x7DDC6C", Length = "0x3C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -939,7 +872,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E13 RID: 15891 RVA: 0x0002D16D File Offset: 0x0002B36D
 		[global::Cpp2ILInjected.Token(Token = "0x60046B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7E1124", Offset = "0x7E1124", Length = "0x544")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -999,7 +931,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E14 RID: 15892 RVA: 0x0002D170 File Offset: 0x0002B370
 		[global::Cpp2ILInjected.Token(Token = "0x60046B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7E0FA8", Offset = "0x7E0FA8", Length = "0x17C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1035,7 +966,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E15 RID: 15893 RVA: 0x0002D173 File Offset: 0x0002B373
 		[global::Cpp2ILInjected.Token(Token = "0x60046B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7E0BDC", Offset = "0x7E0BDC", Length = "0x180")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1071,7 +1001,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E16 RID: 15894 RVA: 0x0002D176 File Offset: 0x0002B376
 		[global::Cpp2ILInjected.Token(Token = "0x60046B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DF2F8", Offset = "0x7DF2F8", Length = "0x900")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1106,7 +1035,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E17 RID: 15895 RVA: 0x0002D179 File Offset: 0x0002B379
 		[global::Cpp2ILInjected.Token(Token = "0x60046B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DE030", Offset = "0x7DE030", Length = "0x928")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1146,7 +1074,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E18 RID: 15896 RVA: 0x0002D17C File Offset: 0x0002B37C
 		[global::Cpp2ILInjected.Token(Token = "0x60046BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7DFBF8", Offset = "0x7DFBF8", Length = "0x920")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1186,7 +1113,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E19 RID: 15897 RVA: 0x0002D17F File Offset: 0x0002B37F
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60046BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7E1668", Offset = "0x7E1668", Length = "0x58")]
@@ -1198,126 +1124,104 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x04006C15 RID: 27669
 		[global::Cpp2ILInjected.Token(Token = "0x4008292")]
 		private const int VERTICAL_EXIT_WIDTH = 3;
 
-		// Token: 0x04006C16 RID: 27670
 		[global::Cpp2ILInjected.Token(Token = "0x4008293")]
 		public static readonly HouseBuilder Invalid;
 
-		// Token: 0x04006C17 RID: 27671
 		[global::Cpp2ILInjected.Token(Token = "0x4008294")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public readonly HouseType Type;
 
-		// Token: 0x04006C18 RID: 27672
 		[global::Cpp2ILInjected.Token(Token = "0x4008295")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public readonly bool IsValid;
 
-		// Token: 0x04006C19 RID: 27673
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008296")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private double <ChestChance>k__BackingField;
 
-		// Token: 0x04006C1A RID: 27674
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008297")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private ushort <TileType>k__BackingField;
 
-		// Token: 0x04006C1B RID: 27675
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008298")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x22")]
 		private ushort <WallType>k__BackingField;
 
-		// Token: 0x04006C1C RID: 27676
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008299")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private ushort <BeamType>k__BackingField;
 
-		// Token: 0x04006C1D RID: 27677
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400829A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private int <PlatformStyle>k__BackingField;
 
-		// Token: 0x04006C1E RID: 27678
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400829B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		private int <DoorStyle>k__BackingField;
 
-		// Token: 0x04006C1F RID: 27679
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400829C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private int <TableStyle>k__BackingField;
 
-		// Token: 0x04006C20 RID: 27680
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400829D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		private bool <UsesTables2>k__BackingField;
 
-		// Token: 0x04006C21 RID: 27681
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400829E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private int <WorkbenchStyle>k__BackingField;
 
-		// Token: 0x04006C22 RID: 27682
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400829F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		private int <PianoStyle>k__BackingField;
 
-		// Token: 0x04006C23 RID: 27683
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40082A0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private int <BookcaseStyle>k__BackingField;
 
-		// Token: 0x04006C24 RID: 27684
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40082A1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		private int <ChairStyle>k__BackingField;
 
-		// Token: 0x04006C25 RID: 27685
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40082A2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private int <ChestStyle>k__BackingField;
 
-		// Token: 0x04006C26 RID: 27686
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40082A3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 		private bool <UsesContainers2>k__BackingField;
 
-		// Token: 0x04006C27 RID: 27687
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40082A4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private ReadOnlyCollection<Rectangle> <Rooms>k__BackingField;
 
-		// Token: 0x04006C28 RID: 27688
 		[global::Cpp2ILInjected.Token(Token = "0x40082A5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		protected ushort[] SkipTilesDuringWallAging;
 
-		// Token: 0x02000A0E RID: 2574
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x200090E")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06004F74 RID: 20340 RVA: 0x00030080 File Offset: 0x0002E280
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60046BC")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7E16C0", Offset = "0x7E16C0", Length = "0x5C")]
@@ -1329,7 +1233,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 				throw null;
 			}
 
-			// Token: 0x06004F75 RID: 20341 RVA: 0x00030083 File Offset: 0x0002E283
 			[global::Cpp2ILInjected.Token(Token = "0x60046BD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7E171C", Offset = "0x7E171C", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1339,7 +1242,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 				throw null;
 			}
 
-			// Token: 0x06004F76 RID: 20342 RVA: 0x00030086 File Offset: 0x0002E286
 			[global::Cpp2ILInjected.Token(Token = "0x60046BE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7E1724", Offset = "0x7E1724", Length = "0x24")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1349,7 +1251,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 				throw null;
 			}
 
-			// Token: 0x06004F77 RID: 20343 RVA: 0x00030089 File Offset: 0x0002E289
 			[global::Cpp2ILInjected.Token(Token = "0x60046BF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7E1748", Offset = "0x7E1748", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1358,7 +1259,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 				throw null;
 			}
 
-			// Token: 0x06004F78 RID: 20344 RVA: 0x0003008C File Offset: 0x0002E28C
 			[global::Cpp2ILInjected.Token(Token = "0x60046C0")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7E1750", Offset = "0x7E1750", Length = "0x24")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1368,19 +1268,15 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 				throw null;
 			}
 
-			// Token: 0x04008D30 RID: 36144
 			[global::Cpp2ILInjected.Token(Token = "0x40082A6")]
 			public static readonly HouseBuilder.<>c <>9;
 
-			// Token: 0x04008D31 RID: 36145
 			[global::Cpp2ILInjected.Token(Token = "0x40082A7")]
 			public static Comparison<Rectangle> <>9__74_0;
 
-			// Token: 0x04008D32 RID: 36146
 			[global::Cpp2ILInjected.Token(Token = "0x40082A8")]
 			public static Func<Rectangle, int> <>9__86_0;
 
-			// Token: 0x04008D33 RID: 36147
 			[global::Cpp2ILInjected.Token(Token = "0x40082A9")]
 			public static Func<Rectangle, int> <>9__86_1;
 		}

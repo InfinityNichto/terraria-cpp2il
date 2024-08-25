@@ -6,7 +6,6 @@ using UnityEngine.Rendering;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x02000029 RID: 41
 	[AddComponentMenu("UI/Mask", 13)]
 	[ExecuteAlways]
 	[RequireComponent(typeof(RectTransform))]
@@ -14,8 +13,6 @@ namespace UnityEngine.UI
 	[global::Cpp2ILInjected.Token(Token = "0x2000053")]
 	public class Mask : UIBehaviour, ICanvasRaycastFilter, IMaterialModifier
 	{
-		// Token: 0x170000C4 RID: 196
-		// (get) Token: 0x060002D8 RID: 728 RVA: 0x00002884 File Offset: 0x00000A84
 		[global::Cpp2ILInjected.Token(Token = "0x170000D5")]
 		public RectTransform rectTransform
 		{
@@ -35,9 +32,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000C5 RID: 197
-		// (get) Token: 0x060002D9 RID: 729 RVA: 0x00002887 File Offset: 0x00000A87
-		// (set) Token: 0x060002DA RID: 730 RVA: 0x0000288A File Offset: 0x00000A8A
 		[global::Cpp2ILInjected.Token(Token = "0x170000D6")]
 		public bool showMaskGraphic
 		{
@@ -67,8 +61,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000C6 RID: 198
-		// (get) Token: 0x060002DB RID: 731 RVA: 0x0000288D File Offset: 0x00000A8D
 		[global::Cpp2ILInjected.Token(Token = "0x170000D7")]
 		public Graphic graphic
 		{
@@ -93,7 +85,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x060002DC RID: 732 RVA: 0x00002890 File Offset: 0x00000A90
 		[global::Cpp2ILInjected.Token(Token = "0x6000335")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCDAA8", Offset = "0x1FCDAA8", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -103,7 +94,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002DD RID: 733 RVA: 0x00002893 File Offset: 0x00000A93
 		[global::Cpp2ILInjected.Token(Token = "0x6000336")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCDAB8", Offset = "0x1FCDAB8", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +110,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002DE RID: 734 RVA: 0x00002896 File Offset: 0x00000A96
 		[Obsolete("Not used anymore.")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000337")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCDB48", Offset = "0x1FCDB48", Length = "0x4")]
@@ -130,7 +119,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002DF RID: 735 RVA: 0x00002899 File Offset: 0x00000A99
 		[global::Cpp2ILInjected.Token(Token = "0x6000338")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCDB4C", Offset = "0x1FCDB4C", Length = "0x158")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -151,7 +139,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002E0 RID: 736 RVA: 0x0000289C File Offset: 0x00000A9C
 		[global::Cpp2ILInjected.Token(Token = "0x6000339")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCDF04", Offset = "0x1FCDF04", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -174,7 +161,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002E1 RID: 737 RVA: 0x0000289F File Offset: 0x00000A9F
 		[global::Cpp2ILInjected.Token(Token = "0x600033A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCE0B8", Offset = "0x1FCE0B8", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -192,7 +178,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002E2 RID: 738 RVA: 0x000028A2 File Offset: 0x00000AA2
 		[global::Cpp2ILInjected.Token(Token = "0x600033B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCE164", Offset = "0x1FCE164", Length = "0x278")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -244,31 +229,26 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x040000F7 RID: 247
 		[global::Cpp2ILInjected.Token(Token = "0x4000192")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		[NonSerialized]
 		private RectTransform m_RectTransform;
 
-		// Token: 0x040000F8 RID: 248
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000193")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private bool m_ShowMaskGraphic;
 
-		// Token: 0x040000F9 RID: 249
 		[global::Cpp2ILInjected.Token(Token = "0x4000194")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		[NonSerialized]
 		private Graphic m_Graphic;
 
-		// Token: 0x040000FA RID: 250
 		[global::Cpp2ILInjected.Token(Token = "0x4000195")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		[NonSerialized]
 		private Material m_MaskMaterial;
 
-		// Token: 0x040000FB RID: 251
 		[global::Cpp2ILInjected.Token(Token = "0x4000196")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		[NonSerialized]

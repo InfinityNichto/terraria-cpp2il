@@ -7,13 +7,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent.ItemDropRules
 {
-	// Token: 0x020005DD RID: 1501
 	[global::Cpp2ILInjected.Token(Token = "0x200088A")]
 	public class OneFromRulesRule : IItemDropRule, INestedItemDropRule
 	{
-		// Token: 0x1700073A RID: 1850
-		// (get) Token: 0x06003CD5 RID: 15573 RVA: 0x0002CDCB File Offset: 0x0002AFCB
-		// (set) Token: 0x06003CD6 RID: 15574 RVA: 0x0002CDCE File Offset: 0x0002AFCE
 		[global::Cpp2ILInjected.Token(Token = "0x170007E0")]
 		public List<IItemDropRuleChainAttempt> ChainedRules
 		{
@@ -35,7 +31,6 @@ namespace Terraria.GameContent.ItemDropRules
 			}
 		}
 
-		// Token: 0x06003CD7 RID: 15575 RVA: 0x0002CDD1 File Offset: 0x0002AFD1
 		[global::Cpp2ILInjected.Token(Token = "0x6004446")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7AAD8C", Offset = "0x7AAD8C", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemDropDatabase), Member = "RegisterBoss_PumpkinMoon", ReturnType = typeof(void))]
@@ -51,7 +46,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003CD8 RID: 15576 RVA: 0x0002CDD4 File Offset: 0x0002AFD4
 		[global::Cpp2ILInjected.Token(Token = "0x6004447")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7AAE24", Offset = "0x7AAE24", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -60,7 +54,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003CD9 RID: 15577 RVA: 0x0002CDD7 File Offset: 0x0002AFD7
 		[global::Cpp2ILInjected.Token(Token = "0x6004448")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7AAE2C", Offset = "0x7AAE2C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -69,7 +62,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003CDA RID: 15578 RVA: 0x0002CDDA File Offset: 0x0002AFDA
 		[global::Cpp2ILInjected.Token(Token = "0x6004449")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7AAE34", Offset = "0x7AAE34", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +72,6 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x06003CDB RID: 15579 RVA: 0x0002CDDD File Offset: 0x0002AFDD
 		[global::Cpp2ILInjected.Token(Token = "0x600444A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7AAEC0", Offset = "0x7AAEC0", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,17 +90,14 @@ namespace Terraria.GameContent.ItemDropRules
 			throw null;
 		}
 
-		// Token: 0x04006BC3 RID: 27587
 		[global::Cpp2ILInjected.Token(Token = "0x40081ED")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public IItemDropRule[] options;
 
-		// Token: 0x04006BC4 RID: 27588
 		[global::Cpp2ILInjected.Token(Token = "0x40081EE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public int chanceDenominator;
 
-		// Token: 0x04006BC5 RID: 27589
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40081EF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]

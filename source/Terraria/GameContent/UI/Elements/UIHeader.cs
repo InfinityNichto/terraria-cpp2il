@@ -7,13 +7,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006D2 RID: 1746
 	[global::Cpp2ILInjected.Token(Token = "0x2000AB6")]
 	public class UIHeader : UIElement
 	{
-		// Token: 0x170007C3 RID: 1987
-		// (get) Token: 0x06004481 RID: 17537 RVA: 0x0002E424 File Offset: 0x0002C624
-		// (set) Token: 0x06004482 RID: 17538 RVA: 0x0002E427 File Offset: 0x0002C627
 		[global::Cpp2ILInjected.Token(Token = "0x170008C4")]
 		public string Text
 		{
@@ -42,7 +38,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x06004483 RID: 17539 RVA: 0x0002E42A File Offset: 0x0002C62A
 		[global::Cpp2ILInjected.Token(Token = "0x60050D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x928A28", Offset = "0x928A28", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -54,7 +49,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004484 RID: 17540 RVA: 0x0002E42D File Offset: 0x0002C62D
 		[global::Cpp2ILInjected.Token(Token = "0x60050D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x928AA0", Offset = "0x928AA0", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -66,7 +60,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004485 RID: 17541 RVA: 0x0002E430 File Offset: 0x0002C630
 		[global::Cpp2ILInjected.Token(Token = "0x60050D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x928B10", Offset = "0x928B10", Length = "0x338")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -88,7 +81,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0400704C RID: 28748
 		[global::Cpp2ILInjected.Token(Token = "0x4008993")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private string _text;

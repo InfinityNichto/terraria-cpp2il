@@ -1,7 +1,0 @@
-<map id="Terraria.WorldBuilding.Modifiers.Flip" name="Terraria.WorldBuilding.Modifiers.Flip">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,569,255,733"/>
-<area shape="rect" id="Node000002" href="$db/d55/classTerraria_1_1WorldBuilding_1_1GenAction.html" title=" " alt="" coords="20,243,240,521"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,535,133,569,127,569,127,535"/>
-<area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="20,5,240,195"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,208,133,243,127,243,127,208"/>
-</map>

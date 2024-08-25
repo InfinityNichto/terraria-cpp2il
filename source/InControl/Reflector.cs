@@ -6,12 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl
 {
-	// Token: 0x02000061 RID: 97
 	[global::Cpp2ILInjected.Token(Token = "0x200006C")]
 	public static class Reflector
 	{
-		// Token: 0x17000160 RID: 352
-		// (get) Token: 0x060004EB RID: 1259 RVA: 0x00002EEE File Offset: 0x000010EE
 		[global::Cpp2ILInjected.Token(Token = "0x17000162")]
 		public static IEnumerable<Type> AllAssemblyTypes
 		{
@@ -26,7 +23,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x060004EC RID: 1260 RVA: 0x00002EF1 File Offset: 0x000010F1
 		[global::Cpp2ILInjected.Token(Token = "0x6000500")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B71D4", Offset = "0x19B71D4", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -39,7 +35,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060004ED RID: 1261 RVA: 0x00002EF4 File Offset: 0x000010F4
 		[global::Cpp2ILInjected.Token(Token = "0x6000501")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7014", Offset = "0x19B7014", Length = "0x1C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +51,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060004EE RID: 1262 RVA: 0x00002EF7 File Offset: 0x000010F7
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000502")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B727C", Offset = "0x19B727C", Length = "0x2EC")]
@@ -67,11 +61,9 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x040003A3 RID: 931
 		[global::Cpp2ILInjected.Token(Token = "0x40003F0")]
 		private static readonly string[] ignoreAssemblies;
 
-		// Token: 0x040003A4 RID: 932
 		[global::Cpp2ILInjected.Token(Token = "0x40003F1")]
 		private static IEnumerable<Type> assemblyTypes;
 	}

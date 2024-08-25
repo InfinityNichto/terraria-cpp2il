@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x02000047 RID: 71
 	[global::Cpp2ILInjected.Token(Token = "0x2000064")]
 	public class XmlCDataSection : XmlCharacterData
 	{
-		// Token: 0x0600041D RID: 1053 RVA: 0x00003B24 File Offset: 0x00001D24
 		[global::Cpp2ILInjected.Token(Token = "0x6000495")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D8D1A0", Offset = "0x1D8D1A0", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XmlLoader), Member = "LoadNodeDirect", ReturnType = typeof(XmlNode))]
@@ -19,8 +17,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x170000D5 RID: 213
-		// (get) Token: 0x0600041E RID: 1054 RVA: 0x00003B27 File Offset: 0x00001D27
 		[global::Cpp2ILInjected.Token(Token = "0x170000F6")]
 		public override string Name
 		{
@@ -34,8 +30,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x170000D6 RID: 214
-		// (get) Token: 0x0600041F RID: 1055 RVA: 0x00003B2A File Offset: 0x00001D2A
 		[global::Cpp2ILInjected.Token(Token = "0x170000F7")]
 		public override string LocalName
 		{
@@ -49,8 +43,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x170000D7 RID: 215
-		// (get) Token: 0x06000420 RID: 1056 RVA: 0x00003B2D File Offset: 0x00001D2D
 		[global::Cpp2ILInjected.Token(Token = "0x170000F8")]
 		public override XmlNodeType NodeType
 		{
@@ -63,8 +55,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x170000D8 RID: 216
-		// (get) Token: 0x06000421 RID: 1057 RVA: 0x00003B30 File Offset: 0x00001D30
 		[global::Cpp2ILInjected.Token(Token = "0x170000F9")]
 		public override XmlNode ParentNode
 		{
@@ -78,7 +68,6 @@ namespace System.Xml
 			}
 		}
 
-		// Token: 0x06000422 RID: 1058 RVA: 0x00003B33 File Offset: 0x00001D33
 		[global::Cpp2ILInjected.Token(Token = "0x600049A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D8D2B4", Offset = "0x1D8D2B4", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -89,8 +78,6 @@ namespace System.Xml
 			throw null;
 		}
 
-		// Token: 0x170000D9 RID: 217
-		// (get) Token: 0x06000423 RID: 1059 RVA: 0x00003B36 File Offset: 0x00001D36
 		[global::Cpp2ILInjected.Token(Token = "0x170000FA")]
 		internal override bool IsText
 		{

@@ -1,8 +1,0 @@
-<map id="System.Security.Cryptography.FromBase64Transform" name="System.Security.Cryptography.FromBase64Transform">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,415,245,985"/>
-<area shape="rect" id="Node000002" href="$d3/dac/interfaceSystem_1_1Security_1_1Cryptography_1_1ICryptoTransform.html" title=" " alt="" coords="84,119,324,367"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,381,177,415,172,414,178,380"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="32,5,219,71"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="92,83,75,120,58,191,51,266,52,341,59,414,53,415,47,341,46,266,53,191,69,118,88,81"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,83,159,117,154,119,140,85"/>
-</map>

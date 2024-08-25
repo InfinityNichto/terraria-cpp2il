@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x020000BF RID: 191
 	[global::Cpp2ILInjected.Token(Token = "0x20000F1")]
 	[global::System.Serializable]
 	public class RankException : global::System.SystemException
 	{
-		// Token: 0x06000849 RID: 2121 RVA: 0x00015D52 File Offset: 0x00013F52
 		[global::Cpp2ILInjected.Token(Token = "0x60008F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C45A84", Offset = "0x1C45A84", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,7 +21,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600084A RID: 2122 RVA: 0x00015D55 File Offset: 0x00013F55
 		[global::Cpp2ILInjected.Token(Token = "0x60008F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C45ADC", Offset = "0x1C45ADC", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +77,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600084B RID: 2123 RVA: 0x00015D58 File Offset: 0x00013F58
 		[global::Cpp2ILInjected.Token(Token = "0x60008F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C45AFC", Offset = "0x1C45AFC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

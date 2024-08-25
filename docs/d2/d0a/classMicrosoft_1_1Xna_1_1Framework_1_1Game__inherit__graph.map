@@ -1,7 +1,0 @@
-<map id="Microsoft.Xna.Framework.Game" name="Microsoft.Xna.Framework.Game">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,259,1231"/>
-<area shape="rect" id="Node000003" href="$da/dd5/classTerraria_1_1Main.html" title=" " alt="" coords="5,1279,259,4424"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,1244,135,1278,129,1278,129,1244"/>
-<area shape="rect" id="Node000002" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="71,5,193,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,84,135,119,129,119,129,84"/>
-</map>

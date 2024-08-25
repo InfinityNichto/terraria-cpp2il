@@ -9,11 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000128 RID: 296
 	[global::Cpp2ILInjected.Token(Token = "0x200016B")]
 	public static class Console
 	{
-		// Token: 0x06000DB6 RID: 3510 RVA: 0x00016C28 File Offset: 0x00014E28
 		[global::Cpp2ILInjected.Token(Token = "0x6000E94")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C79D9C", Offset = "0x1C79D9C", Length = "0x1FC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DB7 RID: 3511 RVA: 0x00016C2B File Offset: 0x00014E2B
 		[global::Cpp2ILInjected.Token(Token = "0x6000E95")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7A030", Offset = "0x1C7A030", Length = "0x394")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,8 +74,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x1700012F RID: 303
-		// (get) Token: 0x06000DB8 RID: 3512 RVA: 0x00016C2E File Offset: 0x00014E2E
 		[global::Cpp2ILInjected.Token(Token = "0x17000151")]
 		public static global::System.IO.TextWriter Error
 		{
@@ -92,8 +87,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000130 RID: 304
-		// (get) Token: 0x06000DB9 RID: 3513 RVA: 0x00016C31 File Offset: 0x00014E31
 		[global::Cpp2ILInjected.Token(Token = "0x17000152")]
 		public static global::System.IO.TextWriter Out
 		{
@@ -107,7 +100,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000DBA RID: 3514 RVA: 0x00016C34 File Offset: 0x00014E34
 		[global::Cpp2ILInjected.Token(Token = "0x6000E98")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7A75C", Offset = "0x1C7A75C", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -131,7 +123,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DBB RID: 3515 RVA: 0x00016C37 File Offset: 0x00014E37
 		[global::Cpp2ILInjected.Token(Token = "0x6000E99")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7A61C", Offset = "0x1C7A61C", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Console), Member = "SetupStreams", MemberParameters = new object[]
@@ -153,7 +144,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DBC RID: 3516 RVA: 0x00016C3A File Offset: 0x00014E3A
 		[global::Cpp2ILInjected.Token(Token = "0x6000E9A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7A4FC", Offset = "0x1C7A4FC", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Console), Member = "SetupStreams", MemberParameters = new object[]
@@ -176,7 +166,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DBD RID: 3517 RVA: 0x00016C3D File Offset: 0x00014E3D
 		[global::Cpp2ILInjected.Token(Token = "0x6000E9B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7A58C", Offset = "0x1C7A58C", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Console), Member = "SetupStreams", MemberParameters = new object[]
@@ -199,7 +188,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DBE RID: 3518 RVA: 0x00016C40 File Offset: 0x00014E40
 		[global::Cpp2ILInjected.Token(Token = "0x6000E9C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7A8AC", Offset = "0x1C7A8AC", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.IO.ConsoleOutputMirror", Member = ".ctor", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -214,7 +202,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DBF RID: 3519 RVA: 0x00016C43 File Offset: 0x00014E43
 		[global::Cpp2ILInjected.Token(Token = "0x6000E9D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7A98C", Offset = "0x1C7A98C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "startDedInputCallBack", ReturnType = typeof(void))]
@@ -235,7 +222,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DC0 RID: 3520 RVA: 0x00016C46 File Offset: 0x00014E46
 		[global::Cpp2ILInjected.Token(Token = "0x6000E9E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7A9F8", Offset = "0x1C7A9F8", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "TraceWriteLine", MemberParameters = new object[]
@@ -256,7 +242,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DC1 RID: 3521 RVA: 0x00016C49 File Offset: 0x00014E49
 		[global::Cpp2ILInjected.Token(Token = "0x6000E9F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7AA74", Offset = "0x1C7AA74", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "WorldFile_OldConsole", Member = "LoadFileFormatHeader", MemberParameters = new object[]
@@ -285,9 +270,54 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DC2 RID: 3522 RVA: 0x00016C4C File Offset: 0x00014E4C
 		[global::Cpp2ILInjected.Token(Token = "0x6000EA0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7AAE0", Offset = "0x1C7AAE0", Length = "0x6C")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "WorldFile_OldConsole", Member = "LoadFileFormatHeader", MemberParameters = new object[]
+		{
+			typeof(global::System.IO.BinaryReader),
+			"System.Boolean[]&",
+			"System.Int32[]&"
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "WorldFile_OldSwitch", Member = "LoadFileFormatHeader", MemberParameters = new object[]
+		{
+			typeof(global::System.IO.BinaryReader),
+			"System.Boolean[]&",
+			"System.Int32[]&"
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Liquid", Member = "StartPanic", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Liquid", Member = "UpdateLiquid", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "startDedInputCallBack", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DoUpdate", MemberParameters = new object[] { "Microsoft.Xna.Framework.GameTime" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "PrintTimedMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			"System.Object[]"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.NetMessage", Member = "SyncOnePlayer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Program", Member = "SetupLogging", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "playWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen", Member = "serverLoadWorldCallBack", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.CrashWatcher", Member = "Inititialize", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Utilities.MultiTimer", Member = "StopAndPrint", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Localization.LanguageManager", Member = "LoadFilesForCulture", MemberParameters = new object[] { "Terraria.Localization.GameCulture" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.Preferences", Member = "Save", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.WorldFile", Member = "LoadFileFormatHeader", MemberParameters = new object[]
+		{
+			typeof(global::System.IO.BinaryReader),
+			"System.Boolean[]&",
+			"System.Int32[]&",
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.DataStructures.BufferPool", Member = "PrintBufferSizes", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Net.LegacyNetBufferPool", Member = "PrintBufferSizes", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Net.Sockets.TcpSocket", Member = "ListenLoop", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ReLogic.Utilities.MultiTimer", Member = "StopAndPrint", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipFile", Member = "DeleteFileWithRetry", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 62)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 3)]
 		public static void WriteLine(string value)
@@ -295,7 +325,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DC3 RID: 3523 RVA: 0x00016C4F File Offset: 0x00014E4F
 		[global::Cpp2ILInjected.Token(Token = "0x6000EA1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7AB4C", Offset = "0x1C7AB4C", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipEntry", Member = "TraceWriteLine", MemberParameters = new object[]
@@ -316,7 +345,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DC4 RID: 3524 RVA: 0x00016C52 File Offset: 0x00014E52
 		[global::Cpp2ILInjected.Token(Token = "0x6000EA2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7ABE8", Offset = "0x1C7ABE8", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.IO.FavoritesFile", Member = "Load", ReturnType = typeof(void))]
@@ -334,7 +362,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DC5 RID: 3525 RVA: 0x00016C55 File Offset: 0x00014E55
 		[global::Cpp2ILInjected.Token(Token = "0x6000EA3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7AC6C", Offset = "0x1C7AC6C", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -347,9 +374,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x17000131 RID: 305
-		// (get) Token: 0x06000DC6 RID: 3526 RVA: 0x00016C58 File Offset: 0x00014E58
-		// (set) Token: 0x06000DC7 RID: 3527 RVA: 0x00016C5B File Offset: 0x00014E5B
 		[global::Cpp2ILInjected.Token(Token = "0x17000153")]
 		public static global::System.Text.Encoding InputEncoding
 		{
@@ -377,9 +401,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x17000132 RID: 306
-		// (get) Token: 0x06000DC8 RID: 3528 RVA: 0x00016C5E File Offset: 0x00014E5E
-		// (set) Token: 0x06000DC9 RID: 3529 RVA: 0x00016C61 File Offset: 0x00014E61
 		[global::Cpp2ILInjected.Token(Token = "0x17000154")]
 		public static global::System.Text.Encoding OutputEncoding
 		{
@@ -407,7 +428,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000DCA RID: 3530 RVA: 0x00016C64 File Offset: 0x00014E64
 		[global::Cpp2ILInjected.Token(Token = "0x6000EA8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7AFB4", Offset = "0x1C7AFB4", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DedServ", ReturnType = typeof(void))]
@@ -419,7 +439,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DCB RID: 3531 RVA: 0x00016C67 File Offset: 0x00014E67
 		[global::Cpp2ILInjected.Token(Token = "0x6000EA9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7B0C0", Offset = "0x1C7B0C0", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.CStreamReader), Member = "Read", ReturnType = typeof(int))]
@@ -431,7 +450,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DCC RID: 3532 RVA: 0x00016C6A File Offset: 0x00014E6A
 		[global::Cpp2ILInjected.Token(Token = "0x6000EAA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7B118", Offset = "0x1C7B118", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Console), Member = "ReadKey", ReturnType = typeof(global::System.ConsoleKeyInfo))]
@@ -443,7 +461,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DCD RID: 3533 RVA: 0x00016C6D File Offset: 0x00014E6D
 		[global::Cpp2ILInjected.Token(Token = "0x6000EAB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7B248", Offset = "0x1C7B248", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -456,35 +473,27 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x04000488 RID: 1160
 		[global::Cpp2ILInjected.Token(Token = "0x400064E")]
 		internal static global::System.IO.TextWriter stdout;
 
-		// Token: 0x04000489 RID: 1161
 		[global::Cpp2ILInjected.Token(Token = "0x400064F")]
 		private static global::System.IO.TextWriter stderr;
 
-		// Token: 0x0400048A RID: 1162
 		[global::Cpp2ILInjected.Token(Token = "0x4000650")]
 		private static global::System.IO.TextReader stdin;
 
-		// Token: 0x0400048B RID: 1163
 		[global::Cpp2ILInjected.Token(Token = "0x4000651")]
 		private static global::System.Text.Encoding inputEncoding;
 
-		// Token: 0x0400048C RID: 1164
 		[global::Cpp2ILInjected.Token(Token = "0x4000652")]
 		private static global::System.Text.Encoding outputEncoding;
 
-		// Token: 0x0400048D RID: 1165
 		[global::Cpp2ILInjected.Token(Token = "0x4000653")]
 		private static global::System.ConsoleCancelEventHandler cancel_event;
 
-		// Token: 0x02000597 RID: 1431
 		[global::Cpp2ILInjected.Token(Token = "0x200016C")]
 		private class WindowsConsole
 		{
-			// Token: 0x06003FCD RID: 16333
 			[global::Cpp2ILInjected.Token(Token = "0x6000EAC")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C7B418", Offset = "0x1C7B418", Length = "0x68")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -494,7 +503,6 @@ namespace System
 			[global::System.Runtime.InteropServices.PreserveSig]
 			private static extern int GetConsoleCP();
 
-			// Token: 0x06003FCE RID: 16334
 			[global::Cpp2ILInjected.Token(Token = "0x6000EAD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C7B480", Offset = "0x1C7B480", Length = "0x6C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -504,7 +512,6 @@ namespace System
 			[global::System.Runtime.InteropServices.PreserveSig]
 			private static extern int GetConsoleOutputCP();
 
-			// Token: 0x06003FCF RID: 16335 RVA: 0x0001FA27 File Offset: 0x0001DC27
 			[global::Cpp2ILInjected.Token(Token = "0x6000EAE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C7B4EC", Offset = "0x1C7B4EC", Length = "0x60")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -516,7 +523,6 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x06003FD0 RID: 16336 RVA: 0x0001FA2A File Offset: 0x0001DC2A
 			[global::Cpp2ILInjected.Token(Token = "0x6000EAF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C79F98", Offset = "0x1C79F98", Length = "0x4C")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Console), Member = ".cctor", ReturnType = typeof(void))]
@@ -529,7 +535,6 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x06003FD1 RID: 16337 RVA: 0x0001FA2D File Offset: 0x0001DC2D
 			[global::Cpp2ILInjected.Token(Token = "0x6000EB0")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C79FE4", Offset = "0x1C79FE4", Length = "0x4C")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Console), Member = ".cctor", ReturnType = typeof(void))]
@@ -542,7 +547,6 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x06003FD2 RID: 16338 RVA: 0x0001FA30 File Offset: 0x0001DC30
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6000EB1")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C7B54C", Offset = "0x1C7B54C", Length = "0x9C")]
@@ -558,16 +562,12 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x0400186D RID: 6253
 			[global::Cpp2ILInjected.Token(Token = "0x4000654")]
 			public static bool ctrlHandlerAdded;
 
-			// Token: 0x0400186E RID: 6254
 			[global::Cpp2ILInjected.Token(Token = "0x4000655")]
 			private static global::System.Console.WindowsConsole.WindowsCancelHandler cancelHandler;
 
-			// Token: 0x020006A8 RID: 1704
-			// (Invoke) Token: 0x0600435F RID: 17247
 			[global::Cpp2ILInjected.Token(Token = "0x200016D")]
 			private delegate bool WindowsCancelHandler(int keyCode);
 		}

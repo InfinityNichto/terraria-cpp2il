@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine
 {
-	// Token: 0x0200000A RID: 10
 	[global::Cpp2ILInjected.Token(Token = "0x200000A")]
 	internal class AndroidReflection
 	{
-		// Token: 0x060000A4 RID: 164 RVA: 0x00002233 File Offset: 0x00000433
 		[global::Cpp2ILInjected.Token(Token = "0x60000A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60A74", Offset = "0x1F60A74", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidJavaObject), Member = "_Call", MemberTypeParameters = new object[] { "ReturnType" }, MemberParameters = new object[]
@@ -42,7 +40,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000A5 RID: 165 RVA: 0x00002236 File Offset: 0x00000436
 		[global::Cpp2ILInjected.Token(Token = "0x60000A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60A7C", Offset = "0x1F60A7C", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidJavaObject), Member = "_Call", MemberTypeParameters = new object[] { "ReturnType" }, MemberParameters = new object[]
@@ -74,7 +71,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000A6 RID: 166 RVA: 0x00002239 File Offset: 0x00000439
 		[global::Cpp2ILInjected.Token(Token = "0x60000A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60A8C", Offset = "0x1F60A8C", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -94,7 +90,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000A7 RID: 167 RVA: 0x0000223C File Offset: 0x0000043C
 		[global::Cpp2ILInjected.Token(Token = "0x60000A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60B28", Offset = "0x1F60B28", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,7 +109,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000A8 RID: 168 RVA: 0x0000223F File Offset: 0x0000043F
 		[global::Cpp2ILInjected.Token(Token = "0x60000A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60BC4", Offset = "0x1F60BC4", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -138,7 +132,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000A9 RID: 169 RVA: 0x00002242 File Offset: 0x00000442
 		[global::Cpp2ILInjected.Token(Token = "0x60000A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60CE0", Offset = "0x1F60CE0", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -164,7 +157,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000AA RID: 170 RVA: 0x00002245 File Offset: 0x00000445
 		[global::Cpp2ILInjected.Token(Token = "0x60000AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60E3C", Offset = "0x1F60E3C", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -190,7 +182,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000AB RID: 171 RVA: 0x00002248 File Offset: 0x00000448
 		[global::Cpp2ILInjected.Token(Token = "0x60000AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60F98", Offset = "0x1F60F98", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(_AndroidJNIHelper), Member = "GetFieldID", MemberParameters = new object[]
@@ -213,7 +204,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000AC RID: 172 RVA: 0x0000224B File Offset: 0x0000044B
 		[global::Cpp2ILInjected.Token(Token = "0x60000AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60FFC", Offset = "0x1F60FFC", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(_AndroidJNIHelper), Member = "GetFieldID", MemberParameters = new object[]
@@ -236,7 +226,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000AD RID: 173 RVA: 0x0000224E File Offset: 0x0000044E
 		[global::Cpp2ILInjected.Token(Token = "0x60000AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F61094", Offset = "0x1F61094", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(_AndroidJNIHelper), Member = "CreateJavaProxy", MemberParameters = new object[]
@@ -258,7 +247,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000AE RID: 174 RVA: 0x00002251 File Offset: 0x00000451
 		[global::Cpp2ILInjected.Token(Token = "0x60000AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F5E870", Offset = "0x1F5E870", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidJavaProxy), Member = "Invoke", MemberParameters = new object[]
@@ -288,7 +276,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000AF RID: 175 RVA: 0x00002254 File Offset: 0x00000454
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60000AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F61140", Offset = "0x1F61140", Length = "0x2A4")]
@@ -313,35 +300,27 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0400000C RID: 12
 		[global::Cpp2ILInjected.Token(Token = "0x400000C")]
 		private static readonly GlobalJavaObjectRef s_ReflectionHelperClass;
 
-		// Token: 0x0400000D RID: 13
 		[global::Cpp2ILInjected.Token(Token = "0x400000D")]
 		private static readonly IntPtr s_ReflectionHelperGetConstructorID;
 
-		// Token: 0x0400000E RID: 14
 		[global::Cpp2ILInjected.Token(Token = "0x400000E")]
 		private static readonly IntPtr s_ReflectionHelperGetMethodID;
 
-		// Token: 0x0400000F RID: 15
 		[global::Cpp2ILInjected.Token(Token = "0x400000F")]
 		private static readonly IntPtr s_ReflectionHelperGetFieldID;
 
-		// Token: 0x04000010 RID: 16
 		[global::Cpp2ILInjected.Token(Token = "0x4000010")]
 		private static readonly IntPtr s_ReflectionHelperGetFieldSignature;
 
-		// Token: 0x04000011 RID: 17
 		[global::Cpp2ILInjected.Token(Token = "0x4000011")]
 		private static readonly IntPtr s_ReflectionHelperNewProxyInstance;
 
-		// Token: 0x04000012 RID: 18
 		[global::Cpp2ILInjected.Token(Token = "0x4000012")]
 		private static readonly IntPtr s_ReflectionHelperSetNativeExceptionOnProxy;
 
-		// Token: 0x04000013 RID: 19
 		[global::Cpp2ILInjected.Token(Token = "0x4000013")]
 		private static readonly IntPtr s_FieldGetDeclaringClass;
 	}

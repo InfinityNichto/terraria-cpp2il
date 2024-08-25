@@ -8,11 +8,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Generation
 {
-	// Token: 0x020005EB RID: 1515
 	[global::Cpp2ILInjected.Token(Token = "0x20008D9")]
 	public class ShapeFloodFill : GenShape
 	{
-		// Token: 0x06003D38 RID: 15672 RVA: 0x0002CEDC File Offset: 0x0002B0DC
 		[global::Cpp2ILInjected.Token(Token = "0x60045AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BF200", Offset = "0x7BF200", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen.<>c", Member = "<GenerateWorld>b__277_55", MemberParameters = new object[]
@@ -28,7 +26,6 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x06003D39 RID: 15673 RVA: 0x0002CEDF File Offset: 0x0002B0DF
 		[global::Cpp2ILInjected.Token(Token = "0x60045AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BF228", Offset = "0x7BF228", Length = "0x700")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +60,6 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x06003D3A RID: 15674 RVA: 0x0002CEE2 File Offset: 0x0002B0E2
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60045AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BF928", Offset = "0x7BF928", Length = "0x8C")]
@@ -75,12 +71,10 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x04006BD6 RID: 27606
 		[global::Cpp2ILInjected.Token(Token = "0x4008211")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private int _maximumActions;
 
-		// Token: 0x04006BD7 RID: 27607
 		[global::Cpp2ILInjected.Token(Token = "0x4008212")]
 		private static Queue<Point> checkQueue;
 	}

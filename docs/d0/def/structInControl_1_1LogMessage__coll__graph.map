@@ -1,7 +1,0 @@
-<map id="InControl.LogMessage" name="InControl.LogMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="7,133,166,199"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,70,68,117,63,119,42,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="80,5,205,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,72,110,119,105,117,126,70"/>
-</map>

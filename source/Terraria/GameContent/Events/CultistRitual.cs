@@ -6,11 +6,9 @@ using Terraria.DataStructures;
 
 namespace Terraria.GameContent.Events
 {
-	// Token: 0x0200068E RID: 1678
 	[global::Cpp2ILInjected.Token(Token = "0x2000A4E")]
 	public class CultistRitual
 	{
-		// Token: 0x060041C3 RID: 16835 RVA: 0x0002DBFF File Offset: 0x0002BDFF
 		[global::Cpp2ILInjected.Token(Token = "0x6004DAF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C58E0", Offset = "0x8C58E0", Length = "0x170")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -28,7 +26,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041C4 RID: 16836 RVA: 0x0002DC02 File Offset: 0x0002BE02
 		[global::Cpp2ILInjected.Token(Token = "0x6004DB0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C5B84", Offset = "0x8C5B84", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -38,7 +35,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041C5 RID: 16837 RVA: 0x0002DC05 File Offset: 0x0002BE05
 		[global::Cpp2ILInjected.Token(Token = "0x6004DB1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C5BD4", Offset = "0x8C5BD4", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI", ReturnType = typeof(void))]
@@ -49,7 +45,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041C6 RID: 16838 RVA: 0x0002DC08 File Offset: 0x0002BE08
 		[global::Cpp2ILInjected.Token(Token = "0x6004DB2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C5A50", Offset = "0x8C5A50", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +79,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041C7 RID: 16839 RVA: 0x0002DC0B File Offset: 0x0002BE0B
 		[global::Cpp2ILInjected.Token(Token = "0x6004DB3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C5C20", Offset = "0x8C5C20", Length = "0x1CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -117,7 +111,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041C8 RID: 16840 RVA: 0x0002DC0E File Offset: 0x0002BE0E
 		[global::Cpp2ILInjected.Token(Token = "0x6004DB4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C5DEC", Offset = "0x8C5DEC", Length = "0x2D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -159,7 +152,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x060041C9 RID: 16841 RVA: 0x0002DC11 File Offset: 0x0002BE11
 		[global::Cpp2ILInjected.Token(Token = "0x6004DB5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8C60C4", Offset = "0x8C60C4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -169,27 +161,21 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x04006DDC RID: 28124
 		[global::Cpp2ILInjected.Token(Token = "0x40086A2")]
 		public static int delay;
 
-		// Token: 0x04006DDD RID: 28125
 		[global::Cpp2ILInjected.Token(Token = "0x40086A3")]
 		public static int recheck;
 
-		// Token: 0x04006DDE RID: 28126
 		[global::Cpp2ILInjected.Token(Token = "0x40086A4")]
 		public const int delayStart = 86400;
 
-		// Token: 0x04006DDF RID: 28127
 		[global::Cpp2ILInjected.Token(Token = "0x40086A5")]
 		public const int respawnDelay = 43200;
 
-		// Token: 0x04006DE0 RID: 28128
 		[global::Cpp2ILInjected.Token(Token = "0x40086A6")]
 		private const int timePerCultist = 3600;
 
-		// Token: 0x04006DE1 RID: 28129
 		[global::Cpp2ILInjected.Token(Token = "0x40086A7")]
 		private const int recheckStart = 600;
 	}

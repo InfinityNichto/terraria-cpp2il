@@ -9,11 +9,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Terraria.Net;
 
-// Token: 0x0200021C RID: 540
 [global::Cpp2ILInjected.Token(Token = "0x20002C4")]
 public static class SaveSynchronisationFinder
 {
-	// Token: 0x06000F33 RID: 3891 RVA: 0x00024896 File Offset: 0x00022A96
 	[global::Cpp2ILInjected.Token(Token = "0x6001066")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA4565C", Offset = "0xA4565C", Length = "0x8F0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +49,6 @@ public static class SaveSynchronisationFinder
 		throw null;
 	}
 
-	// Token: 0x06000F34 RID: 3892 RVA: 0x00024899 File Offset: 0x00022A99
 	[global::Cpp2ILInjected.Token(Token = "0x6001067")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA389A4", Offset = "0xA389A4", Length = "0x3D8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +82,6 @@ public static class SaveSynchronisationFinder
 		throw null;
 	}
 
-	// Token: 0x06000F35 RID: 3893 RVA: 0x0002489C File Offset: 0x00022A9C
 	[global::Cpp2ILInjected.Token(Token = "0x6001068")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA45F54", Offset = "0xA45F54", Length = "0x108")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationManager), Member = "Startup", ReturnType = typeof(void))]
@@ -104,7 +100,6 @@ public static class SaveSynchronisationFinder
 		throw null;
 	}
 
-	// Token: 0x06000F36 RID: 3894 RVA: 0x0002489F File Offset: 0x00022A9F
 	[global::Cpp2ILInjected.Token(Token = "0x6001069")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA4605C", Offset = "0xA4605C", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationFinder), Member = "StartSearching", ReturnType = typeof(void))]
@@ -118,7 +113,6 @@ public static class SaveSynchronisationFinder
 		throw null;
 	}
 
-	// Token: 0x06000F37 RID: 3895 RVA: 0x000248A2 File Offset: 0x00022AA2
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x600106A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA46120", Offset = "0xA46120", Length = "0xD4")]
@@ -131,35 +125,27 @@ public static class SaveSynchronisationFinder
 		throw null;
 	}
 
-	// Token: 0x04001A0F RID: 6671
 	[global::Cpp2ILInjected.Token(Token = "0x4001F44")]
 	private static List<SaveSynchronisationFinder.SearchServerResult> TempResults;
 
-	// Token: 0x04001A10 RID: 6672
 	[global::Cpp2ILInjected.Token(Token = "0x4001F45")]
 	private static DateTime LastListUpdate;
 
-	// Token: 0x04001A11 RID: 6673
 	[global::Cpp2ILInjected.Token(Token = "0x4001F46")]
 	public static List<SaveSynchronisationFinder.SearchServerResult> Results;
 
-	// Token: 0x04001A12 RID: 6674
 	[global::Cpp2ILInjected.Token(Token = "0x4001F47")]
 	private const SocketOptionName OnlyAllowIPv6 = SocketOptionName.IPv6Only;
 
-	// Token: 0x04001A13 RID: 6675
 	[global::Cpp2ILInjected.Token(Token = "0x4001F48")]
 	private static UdpClient broadcastPort;
 
-	// Token: 0x04001A14 RID: 6676
 	[global::Cpp2ILInjected.Token(Token = "0x4001F49")]
 	private static Thread broadcastThread;
 
-	// Token: 0x02000809 RID: 2057
 	[global::Cpp2ILInjected.Token(Token = "0x20002C5")]
 	public class SearchServerResult
 	{
-		// Token: 0x06004906 RID: 18694 RVA: 0x0002EF43 File Offset: 0x0002D143
 		[global::Cpp2ILInjected.Token(Token = "0x600106B")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA45F4C", Offset = "0xA45F4C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -169,32 +155,26 @@ public static class SaveSynchronisationFinder
 			throw null;
 		}
 
-		// Token: 0x04007CFF RID: 31999
 		[global::Cpp2ILInjected.Token(Token = "0x4001F4A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public IPAddress ServerAddress;
 
-		// Token: 0x04007D00 RID: 32000
 		[global::Cpp2ILInjected.Token(Token = "0x4001F4B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public string HostName;
 
-		// Token: 0x04007D01 RID: 32001
 		[global::Cpp2ILInjected.Token(Token = "0x4001F4C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public DrPlatform.DrPlatformType Platform;
 
-		// Token: 0x04007D02 RID: 32002
 		[global::Cpp2ILInjected.Token(Token = "0x4001F4D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		public int PlayerFileCount;
 
-		// Token: 0x04007D03 RID: 32003
 		[global::Cpp2ILInjected.Token(Token = "0x4001F4E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public int WorldFileCount;
 
-		// Token: 0x04007D04 RID: 32004
 		[global::Cpp2ILInjected.Token(Token = "0x4001F4F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		public DateTime LastRecieved;

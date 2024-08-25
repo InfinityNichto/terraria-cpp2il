@@ -1,7 +1,0 @@
-<map id="System.OperatingSystem" name="System.OperatingSystem">
-<area shape="rect" id="Node000001" title=" " alt="" coords="54,133,355,555"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,196,85"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,97,134,132,129,134,116,99"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="220,13,400,78"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,92,282,134,277,132,292,90"/>
-</map>

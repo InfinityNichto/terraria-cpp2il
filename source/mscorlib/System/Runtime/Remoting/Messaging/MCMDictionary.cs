@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Messaging
 {
-	// Token: 0x0200030D RID: 781
 	[global::Cpp2ILInjected.Token(Token = "0x20003B2")]
 	internal class MCMDictionary : MessageDictionary
 	{
-		// Token: 0x06001C07 RID: 7175 RVA: 0x00019355 File Offset: 0x00017555
 		[global::Cpp2ILInjected.Token(Token = "0x6001E39")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B4AD64", Offset = "0x1B4AD64", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MethodCall), Member = "InitDictionary", ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x06001C08 RID: 7176 RVA: 0x00019358 File Offset: 0x00017558
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001E3A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B4B0A0", Offset = "0x1B4B0A0", Length = "0x1B4")]
@@ -33,7 +30,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x04000C46 RID: 3142
 		[global::Cpp2ILInjected.Token(Token = "0x4000F32")]
 		public static string[] InternalKeys;
 	}

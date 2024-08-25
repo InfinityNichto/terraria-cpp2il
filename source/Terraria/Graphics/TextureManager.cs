@@ -10,11 +10,9 @@ using Terraria.IO;
 
 namespace Terraria.Graphics
 {
-	// Token: 0x020004DF RID: 1247
 	[global::Cpp2ILInjected.Token(Token = "0x2000734")]
 	internal static class TextureManager
 	{
-		// Token: 0x060036A5 RID: 13989 RVA: 0x0002BC34 File Offset: 0x00029E34
 		[global::Cpp2ILInjected.Token(Token = "0x6003D06")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1499D34", Offset = "0x1499D34", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -31,7 +29,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036A6 RID: 13990 RVA: 0x0002BC37 File Offset: 0x00029E37
 		[global::Cpp2ILInjected.Token(Token = "0x6003D07")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1499E00", Offset = "0x1499E00", Length = "0x244")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +65,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036A7 RID: 13991 RVA: 0x0002BC3A File Offset: 0x00029E3A
 		[global::Cpp2ILInjected.Token(Token = "0x6003D08")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149A044", Offset = "0x149A044", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -80,7 +76,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036A8 RID: 13992 RVA: 0x0002BC3D File Offset: 0x00029E3D
 		[global::Cpp2ILInjected.Token(Token = "0x6003D09")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149A0E8", Offset = "0x149A0E8", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -95,7 +90,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036A9 RID: 13993 RVA: 0x0002BC40 File Offset: 0x00029E40
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003D0A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149A200", Offset = "0x149A200", Length = "0x110")]
@@ -109,31 +103,24 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x04006720 RID: 26400
 		[global::Cpp2ILInjected.Token(Token = "0x4007BFE")]
 		private static ConcurrentDictionary<string, Texture2D> _textures;
 
-		// Token: 0x04006721 RID: 26401
 		[global::Cpp2ILInjected.Token(Token = "0x4007BFF")]
 		private static ConcurrentQueue<TextureManager.LoadPair> _loadQueue;
 
-		// Token: 0x04006722 RID: 26402
 		[global::Cpp2ILInjected.Token(Token = "0x4007C00")]
 		private static Thread _loadThread;
 
-		// Token: 0x04006723 RID: 26403
 		[global::Cpp2ILInjected.Token(Token = "0x4007C01")]
 		private static readonly object _loadThreadLock;
 
-		// Token: 0x04006724 RID: 26404
 		[global::Cpp2ILInjected.Token(Token = "0x4007C02")]
 		public static Texture2D BlankTexture;
 
-		// Token: 0x02000962 RID: 2402
 		[global::Cpp2ILInjected.Token(Token = "0x2000735")]
 		private struct LoadPair
 		{
-			// Token: 0x06004D3B RID: 19771 RVA: 0x0002FA3E File Offset: 0x0002DC3E
 			[global::Cpp2ILInjected.Token(Token = "0x6003D0B")]
 			[global::Cpp2ILInjected.Address(RVA = "0x149A310", Offset = "0x149A310", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -142,12 +129,10 @@ namespace Terraria.Graphics
 				throw null;
 			}
 
-			// Token: 0x04008B94 RID: 35732
 			[global::Cpp2ILInjected.Token(Token = "0x4007C03")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public string Path;
 
-			// Token: 0x04008B95 RID: 35733
 			[global::Cpp2ILInjected.Token(Token = "0x4007C04")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			public Ref<Texture2D> TextureRef;

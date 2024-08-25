@@ -13,12 +13,9 @@ using Mono.Util;
 
 namespace Mono.Unity
 {
-	// Token: 0x0200000E RID: 14
 	[global::Cpp2ILInjected.Token(Token = "0x2000046")]
 	internal class UnityTlsProvider : MobileTlsProvider
 	{
-		// Token: 0x1700000D RID: 13
-		// (get) Token: 0x06000046 RID: 70 RVA: 0x00002F00 File Offset: 0x00001100
 		[global::Cpp2ILInjected.Token(Token = "0x1700000D")]
 		public override string Name
 		{
@@ -32,8 +29,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x1700000E RID: 14
-		// (get) Token: 0x06000047 RID: 71 RVA: 0x00002F03 File Offset: 0x00001103
 		[global::Cpp2ILInjected.Token(Token = "0x1700000E")]
 		public override Guid ID
 		{
@@ -47,8 +42,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x1700000F RID: 15
-		// (get) Token: 0x06000048 RID: 72 RVA: 0x00002F06 File Offset: 0x00001106
 		[global::Cpp2ILInjected.Token(Token = "0x1700000F")]
 		public override bool SupportsSslStream
 		{
@@ -61,8 +54,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x17000010 RID: 16
-		// (get) Token: 0x06000049 RID: 73 RVA: 0x00002F09 File Offset: 0x00001109
 		[global::Cpp2ILInjected.Token(Token = "0x17000010")]
 		public override bool SupportsMonoExtensions
 		{
@@ -75,8 +66,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x17000011 RID: 17
-		// (get) Token: 0x0600004A RID: 74 RVA: 0x00002F0C File Offset: 0x0000110C
 		[global::Cpp2ILInjected.Token(Token = "0x17000011")]
 		public override bool SupportsConnectionInfo
 		{
@@ -89,8 +78,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x17000012 RID: 18
-		// (get) Token: 0x0600004B RID: 75 RVA: 0x00002F0F File Offset: 0x0000110F
 		[global::Cpp2ILInjected.Token(Token = "0x17000012")]
 		internal override bool SupportsCleanShutdown
 		{
@@ -103,8 +90,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x17000013 RID: 19
-		// (get) Token: 0x0600004C RID: 76 RVA: 0x00002F12 File Offset: 0x00001112
 		[global::Cpp2ILInjected.Token(Token = "0x17000013")]
 		public override SslProtocols SupportedProtocols
 		{
@@ -117,7 +102,6 @@ namespace Mono.Unity
 			}
 		}
 
-		// Token: 0x0600004D RID: 77 RVA: 0x00002F15 File Offset: 0x00001115
 		[global::Cpp2ILInjected.Token(Token = "0x60000AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D468E4", Offset = "0x1D468E4", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -135,7 +119,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x0600004E RID: 78 RVA: 0x00002F18 File Offset: 0x00001118
 		[MonoPInvokeCallback(typeof(UnityTls.unitytls_x509verify_callback))]
 		[global::Cpp2ILInjected.Token(Token = "0x60000AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D467CC", Offset = "0x1D467CC", Length = "0x58")]
@@ -147,7 +130,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x0600004F RID: 79 RVA: 0x00002F1B File Offset: 0x0000111B
 		[global::Cpp2ILInjected.Token(Token = "0x60000AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D46A00", Offset = "0x1D46A00", Length = "0x80C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -188,7 +170,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x06000050 RID: 80 RVA: 0x00002F1E File Offset: 0x0000111E
 		[global::Cpp2ILInjected.Token(Token = "0x60000AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4720C", Offset = "0x1D4720C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

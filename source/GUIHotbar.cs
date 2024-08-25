@@ -12,11 +12,9 @@ using Terraria.UI;
 using Terraria.UI.Chat;
 using UnityEngine;
 
-// Token: 0x020000E3 RID: 227
 [global::Cpp2ILInjected.Token(Token = "0x2000148")]
 public class GUIHotbar
 {
-	// Token: 0x060007E3 RID: 2019 RVA: 0x000232EE File Offset: 0x000214EE
 	[global::Cpp2ILInjected.Token(Token = "0x60008DD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x805800", Offset = "0x805800", Length = "0x18C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,7 +43,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007E4 RID: 2020 RVA: 0x000232F1 File Offset: 0x000214F1
 	[global::Cpp2ILInjected.Token(Token = "0x60008DE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80598C", Offset = "0x80598C", Length = "0x27C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,7 +56,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007E5 RID: 2021 RVA: 0x000232F4 File Offset: 0x000214F4
 	[global::Cpp2ILInjected.Token(Token = "0x60008DF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x805C08", Offset = "0x805C08", Length = "0x1D4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +75,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007E6 RID: 2022 RVA: 0x000232F7 File Offset: 0x000214F7
 	[global::Cpp2ILInjected.Token(Token = "0x60008E0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x805DDC", Offset = "0x805DDC", Length = "0x4DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -127,7 +122,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007E7 RID: 2023 RVA: 0x000232FA File Offset: 0x000214FA
 	[global::Cpp2ILInjected.Token(Token = "0x60008E1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x807B50", Offset = "0x807B50", Length = "0x678")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,7 +146,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007E8 RID: 2024 RVA: 0x000232FD File Offset: 0x000214FD
 	[global::Cpp2ILInjected.Token(Token = "0x60008E2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x808308", Offset = "0x808308", Length = "0x164")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -168,7 +161,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007E9 RID: 2025 RVA: 0x00023300 File Offset: 0x00021500
 	[global::Cpp2ILInjected.Token(Token = "0x60008E3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x808DB0", Offset = "0x808DB0", Length = "0x344")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -214,7 +206,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007EA RID: 2026 RVA: 0x00023303 File Offset: 0x00021503
 	[global::Cpp2ILInjected.Token(Token = "0x60008E4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x8090F4", Offset = "0x8090F4", Length = "0x1CC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -244,7 +235,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007EB RID: 2027 RVA: 0x00023306 File Offset: 0x00021506
 	[global::Cpp2ILInjected.Token(Token = "0x60008E5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x8092C0", Offset = "0x8092C0", Length = "0x724")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -309,7 +299,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007EC RID: 2028 RVA: 0x00023309 File Offset: 0x00021509
 	[global::Cpp2ILInjected.Token(Token = "0x60008E6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x8062B8", Offset = "0x8062B8", Length = "0x1898")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -452,7 +441,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007ED RID: 2029 RVA: 0x0002330C File Offset: 0x0002150C
 	[global::Cpp2ILInjected.Token(Token = "0x60008E7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x8081C8", Offset = "0x8081C8", Length = "0x140")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHotbar), Member = "UpdateHotbarKeybinds", ReturnType = typeof(void))]
@@ -469,7 +457,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007EE RID: 2030 RVA: 0x0002330F File Offset: 0x0002150F
 	[global::Cpp2ILInjected.Token(Token = "0x60008E8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80890C", Offset = "0x80890C", Length = "0x4A4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -487,7 +474,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007EF RID: 2031 RVA: 0x00023312 File Offset: 0x00021512
 	[global::Cpp2ILInjected.Token(Token = "0x60008E9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x8099E4", Offset = "0x8099E4", Length = "0x198")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -507,7 +493,6 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x060007F0 RID: 2032 RVA: 0x00023315 File Offset: 0x00021515
 	[global::Cpp2ILInjected.Token(Token = "0x60008EA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x80846C", Offset = "0x80846C", Length = "0x4A0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -525,57 +510,46 @@ public class GUIHotbar
 		throw null;
 	}
 
-	// Token: 0x0400055A RID: 1370
 	[global::Cpp2ILInjected.Token(Token = "0x40007B5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private int cursorOver;
 
-	// Token: 0x0400055B RID: 1371
 	[global::Cpp2ILInjected.Token(Token = "0x40007B6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float TimeSinceItemChange;
 
-	// Token: 0x0400055C RID: 1372
 	[global::Cpp2ILInjected.Token(Token = "0x40007B7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private string LastItem;
 
-	// Token: 0x0400055D RID: 1373
 	[global::Cpp2ILInjected.Token(Token = "0x40007B8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public bool menuTogglePressed;
 
-	// Token: 0x0400055E RID: 1374
 	[global::Cpp2ILInjected.Token(Token = "0x40007B9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x21")]
 	public bool hotbarActive;
 
-	// Token: 0x0400055F RID: 1375
 	[global::Cpp2ILInjected.Token(Token = "0x40007BA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public GUIControllerHotbarRadial hotbarController;
 
-	// Token: 0x04000560 RID: 1376
 	[global::Cpp2ILInjected.Token(Token = "0x40007BB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private DateTime NavigationTick;
 
-	// Token: 0x04000561 RID: 1377
 	[global::Cpp2ILInjected.Token(Token = "0x40007BC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private float ScrollAmount;
 
-	// Token: 0x04000562 RID: 1378
 	[global::Cpp2ILInjected.Token(Token = "0x40007BD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private GUIItemGrid.GetItemScaleHandler itemScale;
 
-	// Token: 0x04000563 RID: 1379
 	[global::Cpp2ILInjected.Token(Token = "0x40007BE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private GUIItemGrid.CursorOver itemOver;
 
-	// Token: 0x04000564 RID: 1380
 	[global::Cpp2ILInjected.Token(Token = "0x40007BF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private GUIItemGrid.DrawItemHandler itemDraw;

@@ -8,11 +8,9 @@ using Terraria.GameContent.Golf;
 
 namespace Terraria.Physics
 {
-	// Token: 0x0200039E RID: 926
 	[global::Cpp2ILInjected.Token(Token = "0x200053C")]
 	public static class BallCollision
 	{
-		// Token: 0x06002DF7 RID: 11767 RVA: 0x0002A356 File Offset: 0x00028556
 		[global::Cpp2ILInjected.Token(Token = "0x6003256")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132C7E0", Offset = "0x132C7E0", Length = "0x6D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -86,7 +84,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002DF8 RID: 11768 RVA: 0x0002A359 File Offset: 0x00028559
 		[global::Cpp2ILInjected.Token(Token = "0x6003257")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132CEB4", Offset = "0x132CEB4", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -119,7 +116,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002DF9 RID: 11769 RVA: 0x0002A35C File Offset: 0x0002855C
 		[global::Cpp2ILInjected.Token(Token = "0x6003258")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132D4B0", Offset = "0x132D4B0", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -153,7 +149,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002DFA RID: 11770 RVA: 0x0002A35F File Offset: 0x0002855F
 		[global::Cpp2ILInjected.Token(Token = "0x6003259")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132D064", Offset = "0x132D064", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -171,7 +166,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002DFB RID: 11771 RVA: 0x0002A362 File Offset: 0x00028562
 		[global::Cpp2ILInjected.Token(Token = "0x600325A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132D164", Offset = "0x132D164", Length = "0x324")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -230,7 +224,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002DFC RID: 11772 RVA: 0x0002A365 File Offset: 0x00028565
 		[global::Cpp2ILInjected.Token(Token = "0x600325B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132D718", Offset = "0x132D718", Length = "0x3A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -295,7 +288,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002DFD RID: 11773 RVA: 0x0002A368 File Offset: 0x00028568
 		[global::Cpp2ILInjected.Token(Token = "0x600325C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132DABC", Offset = "0x132DABC", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -321,7 +313,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002DFE RID: 11774 RVA: 0x0002A36B File Offset: 0x0002856B
 		[global::Cpp2ILInjected.Token(Token = "0x600325D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132DD64", Offset = "0x132DD64", Length = "0x26C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -354,7 +345,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002DFF RID: 11775 RVA: 0x0002A36E File Offset: 0x0002856E
 		[global::Cpp2ILInjected.Token(Token = "0x600325E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132DFD0", Offset = "0x132DFD0", Length = "0x2A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -387,7 +377,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002E00 RID: 11776 RVA: 0x0002A371 File Offset: 0x00028571
 		[global::Cpp2ILInjected.Token(Token = "0x600325F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132D614", Offset = "0x132D614", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -413,7 +402,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002E01 RID: 11777 RVA: 0x0002A374 File Offset: 0x00028574
 		[global::Cpp2ILInjected.Token(Token = "0x6003260")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132E274", Offset = "0x132E274", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -442,7 +430,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002E02 RID: 11778 RVA: 0x0002A377 File Offset: 0x00028577
 		[global::Cpp2ILInjected.Token(Token = "0x6003261")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132DC00", Offset = "0x132DC00", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -483,7 +470,6 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x06002E03 RID: 11779 RVA: 0x0002A37A File Offset: 0x0002857A
 		[Conditional("UNITY_EDITOR")]
 		[Conditional("ENABLE_DEBUG")]
 		[global::Cpp2ILInjected.Token(Token = "0x6003262")]
@@ -494,36 +480,26 @@ namespace Terraria.Physics
 			throw null;
 		}
 
-		// Token: 0x020008EE RID: 2286
 		[Flags]
 		[global::Cpp2ILInjected.Token(Token = "0x200053D")]
 		private enum TileEdges : uint
 		{
-			// Token: 0x04008139 RID: 33081
 			[global::Cpp2ILInjected.Token(Token = "0x4003B85")]
 			None = 0U,
-			// Token: 0x0400813A RID: 33082
 			[global::Cpp2ILInjected.Token(Token = "0x4003B86")]
 			Top = 1U,
-			// Token: 0x0400813B RID: 33083
 			[global::Cpp2ILInjected.Token(Token = "0x4003B87")]
 			Bottom = 2U,
-			// Token: 0x0400813C RID: 33084
 			[global::Cpp2ILInjected.Token(Token = "0x4003B88")]
 			Left = 4U,
-			// Token: 0x0400813D RID: 33085
 			[global::Cpp2ILInjected.Token(Token = "0x4003B89")]
 			Right = 8U,
-			// Token: 0x0400813E RID: 33086
 			[global::Cpp2ILInjected.Token(Token = "0x4003B8A")]
 			TopLeftSlope = 16U,
-			// Token: 0x0400813F RID: 33087
 			[global::Cpp2ILInjected.Token(Token = "0x4003B8B")]
 			TopRightSlope = 32U,
-			// Token: 0x04008140 RID: 33088
 			[global::Cpp2ILInjected.Token(Token = "0x4003B8C")]
 			BottomLeftSlope = 64U,
-			// Token: 0x04008141 RID: 33089
 			[global::Cpp2ILInjected.Token(Token = "0x4003B8D")]
 			BottomRightSlope = 128U
 		}

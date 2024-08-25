@@ -6,12 +6,10 @@ using UnityEngine.Pool;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x02000042 RID: 66
 	[AddComponentMenu("UI/Effects/Outline", 81)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000084")]
 	public class Outline : Shadow
 	{
-		// Token: 0x060004AD RID: 1197 RVA: 0x00002DF1 File Offset: 0x00000FF1
 		[global::Cpp2ILInjected.Token(Token = "0x600052E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1E18", Offset = "0x1FE1E18", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -21,7 +19,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060004AE RID: 1198 RVA: 0x00002DF4 File Offset: 0x00000FF4
 		[global::Cpp2ILInjected.Token(Token = "0x600052F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE1E20", Offset = "0x1FE1E20", Length = "0xC34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

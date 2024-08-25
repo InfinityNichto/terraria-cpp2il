@@ -1,7 +1,0 @@
-<map id="Terraria.GameContent.Generation.PassLegacy" name="Terraria.GameContent.Generation.PassLegacy">
-<area shape="rect" id="Node000001" title=" " alt="" coords="18,489,271,836"/>
-<area shape="rect" id="Node000002" href="$dd/deb/classTerraria_1_1WorldBuilding_1_1GenPass.html" title=" " alt="" coords="5,243,284,441"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,455,147,489,142,489,142,455"/>
-<area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="35,5,255,195"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,209,147,242,142,242,142,209"/>
-</map>

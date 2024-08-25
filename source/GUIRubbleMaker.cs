@@ -16,11 +16,9 @@ using Terraria.ObjectData;
 using Terraria.UI;
 using UnityEngine;
 
-// Token: 0x020000FF RID: 255
 [global::Cpp2ILInjected.Token(Token = "0x200016E")]
 public class GUIRubbleMaker
 {
-	// Token: 0x06000956 RID: 2390 RVA: 0x00023747 File Offset: 0x00021947
 	[global::Cpp2ILInjected.Token(Token = "0x6000A56")]
 	[global::Cpp2ILInjected.Address(RVA = "0x986210", Offset = "0x986210", Length = "0x2A0")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -42,8 +40,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x170000E6 RID: 230
-	// (get) Token: 0x06000957 RID: 2391 RVA: 0x0002374A File Offset: 0x0002194A
 	[global::Cpp2ILInjected.Token(Token = "0x1700010D")]
 	public static bool DrawRubbleModeUI
 	{
@@ -72,7 +68,6 @@ public class GUIRubbleMaker
 		}
 	}
 
-	// Token: 0x06000958 RID: 2392 RVA: 0x0002374D File Offset: 0x0002194D
 	[global::Cpp2ILInjected.Token(Token = "0x6000A58")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98656C", Offset = "0x98656C", Length = "0x2C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,7 +98,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x06000959 RID: 2393 RVA: 0x00023750 File Offset: 0x00021950
 	[global::Cpp2ILInjected.Token(Token = "0x6000A59")]
 	[global::Cpp2ILInjected.Address(RVA = "0x986968", Offset = "0x986968", Length = "0x3CC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -127,7 +121,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600095A RID: 2394 RVA: 0x00023753 File Offset: 0x00021953
 	[global::Cpp2ILInjected.Token(Token = "0x6000A5A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x986FC4", Offset = "0x986FC4", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -137,7 +130,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600095B RID: 2395 RVA: 0x00023756 File Offset: 0x00021956
 	[global::Cpp2ILInjected.Token(Token = "0x6000A5B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x986FDC", Offset = "0x986FDC", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -147,7 +139,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600095C RID: 2396 RVA: 0x00023759 File Offset: 0x00021959
 	[global::Cpp2ILInjected.Token(Token = "0x6000A5C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x986FF4", Offset = "0x986FF4", Length = "0x260")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -178,7 +169,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600095D RID: 2397 RVA: 0x0002375C File Offset: 0x0002195C
 	[global::Cpp2ILInjected.Token(Token = "0x6000A5D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x987264", Offset = "0x987264", Length = "0x164")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -202,7 +192,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600095E RID: 2398 RVA: 0x0002375F File Offset: 0x0002195F
 	[global::Cpp2ILInjected.Token(Token = "0x6000A5E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9873C8", Offset = "0x9873C8", Length = "0x4F0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -265,7 +254,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600095F RID: 2399 RVA: 0x00023762 File Offset: 0x00021962
 	[global::Cpp2ILInjected.Token(Token = "0x6000A5F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9878B8", Offset = "0x9878B8", Length = "0x650")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -354,7 +342,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x06000960 RID: 2400 RVA: 0x00023765 File Offset: 0x00021965
 	[global::Cpp2ILInjected.Token(Token = "0x6000A60")]
 	[global::Cpp2ILInjected.Address(RVA = "0x987F08", Offset = "0x987F08", Length = "0x4C0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -400,7 +387,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x06000961 RID: 2401 RVA: 0x00023768 File Offset: 0x00021968
 	[global::Cpp2ILInjected.Token(Token = "0x6000A61")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9883C8", Offset = "0x9883C8", Length = "0x56C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -473,7 +459,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x06000962 RID: 2402 RVA: 0x0002376B File Offset: 0x0002196B
 	[global::Cpp2ILInjected.Token(Token = "0x6000A62")]
 	[global::Cpp2ILInjected.Address(RVA = "0x986830", Offset = "0x986830", Length = "0x138")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -488,7 +473,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x06000963 RID: 2403 RVA: 0x0002376E File Offset: 0x0002196E
 	[global::Cpp2ILInjected.Token(Token = "0x6000A63")]
 	[global::Cpp2ILInjected.Address(RVA = "0x988934", Offset = "0x988934", Length = "0x2F8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -524,8 +508,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x170000E7 RID: 231
-	// (get) Token: 0x06000964 RID: 2404 RVA: 0x00023771 File Offset: 0x00021971
 	[global::Cpp2ILInjected.Token(Token = "0x1700010E")]
 	public int RubbleCount
 	{
@@ -542,8 +524,6 @@ public class GUIRubbleMaker
 		}
 	}
 
-	// Token: 0x170000E8 RID: 232
-	// (get) Token: 0x06000965 RID: 2405 RVA: 0x00023774 File Offset: 0x00021974
 	[global::Cpp2ILInjected.Token(Token = "0x1700010F")]
 	public int MaterialCount
 	{
@@ -559,7 +539,6 @@ public class GUIRubbleMaker
 		}
 	}
 
-	// Token: 0x06000966 RID: 2406 RVA: 0x00023777 File Offset: 0x00021977
 	[global::Cpp2ILInjected.Token(Token = "0x6000A66")]
 	[global::Cpp2ILInjected.Address(RVA = "0x988CBC", Offset = "0x988CBC", Length = "0xC98")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -713,7 +692,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x06000967 RID: 2407 RVA: 0x0002377A File Offset: 0x0002197A
 	[global::Cpp2ILInjected.Token(Token = "0x6000A67")]
 	[global::Cpp2ILInjected.Address(RVA = "0x987254", Offset = "0x987254", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -722,7 +700,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x06000968 RID: 2408 RVA: 0x0002377D File Offset: 0x0002197D
 	[global::Cpp2ILInjected.Token(Token = "0x6000A68")]
 	[global::Cpp2ILInjected.Address(RVA = "0x986D34", Offset = "0x986D34", Length = "0xE8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -740,7 +717,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x06000969 RID: 2409 RVA: 0x00023780 File Offset: 0x00021980
 	[global::Cpp2ILInjected.Token(Token = "0x6000A69")]
 	[global::Cpp2ILInjected.Address(RVA = "0x989BB8", Offset = "0x989BB8", Length = "0x120")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "SecondaryUpdateCursor", MemberParameters = new object[] { typeof(global::Cursor) }, ReturnType = typeof(void))]
@@ -758,7 +734,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600096A RID: 2410 RVA: 0x00023783 File Offset: 0x00021983
 	[global::Cpp2ILInjected.Token(Token = "0x6000A6A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x986E38", Offset = "0x986E38", Length = "0x18C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -792,7 +767,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600096B RID: 2411 RVA: 0x00023786 File Offset: 0x00021986
 	[global::Cpp2ILInjected.Token(Token = "0x6000A6B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x989CD8", Offset = "0x989CD8", Length = "0x11C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -807,7 +781,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600096C RID: 2412 RVA: 0x00023789 File Offset: 0x00021989
 	[global::Cpp2ILInjected.Token(Token = "0x6000A6C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x986E1C", Offset = "0x986E1C", Length = "0x1C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerRubbleMaker), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
@@ -819,7 +792,6 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x0600096D RID: 2413 RVA: 0x0002378C File Offset: 0x0002198C
 	[global::Cpp2ILInjected.Token(Token = "0x6000A6D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x989954", Offset = "0x989954", Length = "0x1F4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -848,157 +820,126 @@ public class GUIRubbleMaker
 		throw null;
 	}
 
-	// Token: 0x04000784 RID: 1924
 	[global::Cpp2ILInjected.Token(Token = "0x4000A37")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private int hoverItem;
 
-	// Token: 0x04000785 RID: 1925
 	[global::Cpp2ILInjected.Token(Token = "0x4000A38")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	public Microsoft.Xna.Framework.Vector2 PopupPosition;
 
-	// Token: 0x04000786 RID: 1926
 	[global::Cpp2ILInjected.Token(Token = "0x4000A39")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private bool wasOverMaterialItem;
 
-	// Token: 0x04000787 RID: 1927
 	[global::Cpp2ILInjected.Token(Token = "0x4000A3A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private int cursorOverMaterial;
 
-	// Token: 0x04000788 RID: 1928
 	[global::Cpp2ILInjected.Token(Token = "0x4000A3B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private bool wasOverRubbleItem;
 
-	// Token: 0x04000789 RID: 1929
 	[global::Cpp2ILInjected.Token(Token = "0x4000A3C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private int cursorOverRubble;
 
-	// Token: 0x0400078A RID: 1930
 	[global::Cpp2ILInjected.Token(Token = "0x4000A3D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private float[] ButtonScales;
 
-	// Token: 0x0400078B RID: 1931
 	[global::Cpp2ILInjected.Token(Token = "0x4000A3E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private float TimeSinceChange;
 
-	// Token: 0x0400078C RID: 1932
 	[global::Cpp2ILInjected.Token(Token = "0x4000A3F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private Item emptyItem;
 
-	// Token: 0x0400078D RID: 1933
 	[global::Cpp2ILInjected.Token(Token = "0x4000A40")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	public TileObjectPreviewData objectPreview;
 
-	// Token: 0x0400078E RID: 1934
 	[global::Cpp2ILInjected.Token(Token = "0x4000A41")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private float ToggleButtonScale;
 
-	// Token: 0x0400078F RID: 1935
 	[global::Cpp2ILInjected.Token(Token = "0x4000A42")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 	public bool DisplayOptions;
 
-	// Token: 0x04000790 RID: 1936
 	[global::Cpp2ILInjected.Token(Token = "0x4000A43")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x55")]
 	public bool DisplayMaterials;
 
-	// Token: 0x04000791 RID: 1937
 	[global::Cpp2ILInjected.Token(Token = "0x4000A44")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	public GUIControllerRubbleMaker _controller;
 
-	// Token: 0x04000792 RID: 1938
 	[global::Cpp2ILInjected.Token(Token = "0x4000A45")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	public float materialScrollOffset;
 
-	// Token: 0x04000793 RID: 1939
 	[global::Cpp2ILInjected.Token(Token = "0x4000A46")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x64")]
 	private float materialScrollMomentum;
 
-	// Token: 0x04000794 RID: 1940
 	[global::Cpp2ILInjected.Token(Token = "0x4000A47")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private int materialScrollDragging;
 
-	// Token: 0x04000795 RID: 1941
 	[global::Cpp2ILInjected.Token(Token = "0x4000A48")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x6C")]
 	private Microsoft.Xna.Framework.Vector2 materialDragOffset;
 
-	// Token: 0x04000796 RID: 1942
 	[global::Cpp2ILInjected.Token(Token = "0x4000A49")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x74")]
 	public float rubbleScrollOffset;
 
-	// Token: 0x04000797 RID: 1943
 	[global::Cpp2ILInjected.Token(Token = "0x4000A4A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	private float rubbleScrollMomentum;
 
-	// Token: 0x04000798 RID: 1944
 	[global::Cpp2ILInjected.Token(Token = "0x4000A4B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x7C")]
 	private int rubbleScrollDragging;
 
-	// Token: 0x04000799 RID: 1945
 	[global::Cpp2ILInjected.Token(Token = "0x4000A4C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private Microsoft.Xna.Framework.Vector2 rubbleDragOffset;
 
-	// Token: 0x0400079A RID: 1946
 	[global::Cpp2ILInjected.Token(Token = "0x4000A4D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	public FlexibleTileWand.PlacementOption SelectedOption;
 
-	// Token: 0x0400079B RID: 1947
 	[global::Cpp2ILInjected.Token(Token = "0x4000A4E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 	public FlexibleTileWand.OptionBucket SelectedMaterial;
 
-	// Token: 0x0400079C RID: 1948
 	[global::Cpp2ILInjected.Token(Token = "0x4000A4F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 	private List<FlexibleTileWand.OptionBucket> MaterialOptions;
 
-	// Token: 0x0400079D RID: 1949
 	[global::Cpp2ILInjected.Token(Token = "0x4000A50")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 	private Microsoft.Xna.Framework.Vector2 rubbleScaleOffset;
 
-	// Token: 0x0400079E RID: 1950
 	[global::Cpp2ILInjected.Token(Token = "0x4000A51")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 	private float rubbleScale;
 
-	// Token: 0x0400079F RID: 1951
 	[global::Cpp2ILInjected.Token(Token = "0x4000A52")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 	private Item EmptyItem;
 
-	// Token: 0x040007A0 RID: 1952
 	[global::Cpp2ILInjected.Token(Token = "0x4000A53")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 	private bool wasExcluded;
 
-	// Token: 0x040007A1 RID: 1953
 	[global::Cpp2ILInjected.Token(Token = "0x4000A54")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xC0")]
 	public GUIInputRegionExclusive PickingInterceptor;
 
-	// Token: 0x040007A2 RID: 1954
 	[global::Cpp2ILInjected.Token(Token = "0x4000A55")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xC8")]
 	public GUIInputRegionExclusive PickingInterceptorMaterials;

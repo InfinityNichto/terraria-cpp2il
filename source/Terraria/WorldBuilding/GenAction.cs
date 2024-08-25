@@ -9,17 +9,364 @@ using Terraria.IO;
 
 namespace Terraria.WorldBuilding
 {
-	// Token: 0x02000354 RID: 852
 	[global::Cpp2ILInjected.Token(Token = "0x200048B")]
 	public abstract class GenAction : GenBase
 	{
-		// Token: 0x06002C23 RID: 11299
 		[global::Cpp2ILInjected.Token(Token = "0x6002F89")]
 		public abstract bool Apply(Point origin, int x, int y, params object[] args);
 
-		// Token: 0x06002C24 RID: 11300 RVA: 0x00029EA0 File Offset: 0x000280A0
 		[global::Cpp2ILInjected.Token(Token = "0x6002F8A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F3E08", Offset = "0x12F3E08", Length = "0x7C")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.ContinueWrapper), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.Count), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.Scanner), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.TileScanner), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.Blank), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.Custom), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.ClearMetadata), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.Clear), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.ClearTile), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.ClearWall), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.HalfBlock), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.SetTile), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.SetTileKeepWall), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.DebugDraw), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.SetSlope), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.SetHalfTile), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.SetTileAndWallRainbowPaint), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.PlaceTile), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.RemoveWall), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.PlaceWall), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.SetLiquid), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.SwapSolidTile), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.SetFrames), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.Smooth), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.ShapeScale), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.Expand), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.RadialDither), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.Blotches), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.InShape), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.NotInShape), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.Conditions), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.OnlyWalls), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.OnlyTiles), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.IsTouching), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.NotTouching), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.IsTouchingAir), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.SkipTiles), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.HasLiquid), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.SkipWalls), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.IsEmpty), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.IsSolid), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.IsNotSolid), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.RectangleMask), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.Offset), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.Dither), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Modifiers.Flip), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ActionGrass), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ActionPlaceStatue), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ActionStalagtite), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ActionVines), Member = "Apply", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(object[])
+		}, ReturnType = typeof(bool))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 51)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(ShapeData), Member = "Add", MemberParameters = new object[]
 		{
@@ -32,7 +379,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C25 RID: 11301 RVA: 0x00029EA3 File Offset: 0x000280A3
 		[global::Cpp2ILInjected.Token(Token = "0x6002F8B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F3F08", Offset = "0x12F3F08", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -41,7 +387,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C26 RID: 11302 RVA: 0x00029EA6 File Offset: 0x000280A6
 		[global::Cpp2ILInjected.Token(Token = "0x6002F8C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F3F10", Offset = "0x12F3F10", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +396,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C27 RID: 11303 RVA: 0x00029EA9 File Offset: 0x000280A9
 		[global::Cpp2ILInjected.Token(Token = "0x6002F8D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F3F20", Offset = "0x12F3F20", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen.<>c", Member = "<GenerateWorld>b__277_55", MemberParameters = new object[]
@@ -103,7 +447,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C28 RID: 11304 RVA: 0x00029EAC File Offset: 0x000280AC
 		[global::Cpp2ILInjected.Token(Token = "0x6002F8E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F3F28", Offset = "0x12F3F28", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ActionGrass), Member = ".ctor", ReturnType = typeof(void))]
@@ -127,17 +470,14 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x040030BD RID: 12477
 		[global::Cpp2ILInjected.Token(Token = "0x4003973")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public GenAction NextAction;
 
-		// Token: 0x040030BE RID: 12478
 		[global::Cpp2ILInjected.Token(Token = "0x4003974")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public ShapeData OutputData;
 
-		// Token: 0x040030BF RID: 12479
 		[global::Cpp2ILInjected.Token(Token = "0x4003975")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private bool _returnFalseOnFailure;

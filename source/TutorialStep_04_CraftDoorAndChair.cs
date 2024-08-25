@@ -3,11 +3,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Terraria.Localization;
 
-// Token: 0x0200023A RID: 570
 [global::Cpp2ILInjected.Token(Token = "0x20002F3")]
 public class TutorialStep_04_CraftDoorAndChair : TutorialStep
 {
-	// Token: 0x0600102E RID: 4142 RVA: 0x00024B6C File Offset: 0x00022D6C
 	[global::Cpp2ILInjected.Token(Token = "0x600117D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6C9E4", Offset = "0xA6C9E4", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -16,7 +14,6 @@ public class TutorialStep_04_CraftDoorAndChair : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x0600102F RID: 4143 RVA: 0x00024B6F File Offset: 0x00022D6F
 	[global::Cpp2ILInjected.Token(Token = "0x600117E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6C9EC", Offset = "0xA6C9EC", Length = "0xF4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +33,6 @@ public class TutorialStep_04_CraftDoorAndChair : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001030 RID: 4144 RVA: 0x00024B72 File Offset: 0x00022D72
 	[global::Cpp2ILInjected.Token(Token = "0x600117F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6CAE0", Offset = "0xA6CAE0", Length = "0xC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -46,7 +42,6 @@ public class TutorialStep_04_CraftDoorAndChair : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001031 RID: 4145 RVA: 0x00024B75 File Offset: 0x00022D75
 	[global::Cpp2ILInjected.Token(Token = "0x6001180")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6CAEC", Offset = "0xA6CAEC", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -61,7 +56,6 @@ public class TutorialStep_04_CraftDoorAndChair : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001032 RID: 4146 RVA: 0x00024B78 File Offset: 0x00022D78
 	[global::Cpp2ILInjected.Token(Token = "0x6001181")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6CAFC", Offset = "0xA6CAFC", Length = "0x40")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -71,7 +65,6 @@ public class TutorialStep_04_CraftDoorAndChair : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001033 RID: 4147 RVA: 0x00024B7B File Offset: 0x00022D7B
 	[global::Cpp2ILInjected.Token(Token = "0x6001182")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6CB3C", Offset = "0xA6CB3C", Length = "0x28")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +74,6 @@ public class TutorialStep_04_CraftDoorAndChair : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x06001034 RID: 4148 RVA: 0x00024B7E File Offset: 0x00022D7E
 	[global::Cpp2ILInjected.Token(Token = "0x6001183")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6B804", Offset = "0xA6B804", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -91,22 +83,18 @@ public class TutorialStep_04_CraftDoorAndChair : TutorialStep
 		throw null;
 	}
 
-	// Token: 0x04001B83 RID: 7043
 	[global::Cpp2ILInjected.Token(Token = "0x4002137")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private bool doorPlaced;
 
-	// Token: 0x04001B84 RID: 7044
 	[global::Cpp2ILInjected.Token(Token = "0x4002138")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x11")]
 	private bool chairPlaced;
 
-	// Token: 0x04001B85 RID: 7045
 	[global::Cpp2ILInjected.Token(Token = "0x4002139")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x12")]
 	private bool tablePlaced;
 
-	// Token: 0x04001B86 RID: 7046
 	[global::Cpp2ILInjected.Token(Token = "0x400213A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x13")]
 	private bool complete;

@@ -8,13 +8,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Ionic.Zip
 {
-	// Token: 0x02000011 RID: 17
 	[Guid("ebc25cf6-9120-4283-b972-0e5520d0000A")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000011")]
 	[Serializable]
 	public class BadReadException : ZipException
 	{
-		// Token: 0x0600004D RID: 77 RVA: 0x00004F6F File Offset: 0x0000316F
 		[global::Cpp2ILInjected.Token(Token = "0x600004D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A459F0", Offset = "0x1A459F0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -24,7 +22,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600004E RID: 78 RVA: 0x00004F72 File Offset: 0x00003172
 		[global::Cpp2ILInjected.Token(Token = "0x600004E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A459F4", Offset = "0x1A459F4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SharedUtilities), Member = "_ReadFourBytes", MemberParameters = new object[]
@@ -81,7 +78,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600004F RID: 79 RVA: 0x00004F75 File Offset: 0x00003175
 		[global::Cpp2ILInjected.Token(Token = "0x600004F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A459F8", Offset = "0x1A459F8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

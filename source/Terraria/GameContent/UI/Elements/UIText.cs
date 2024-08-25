@@ -15,12 +15,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006E5 RID: 1765
 	[global::Cpp2ILInjected.Token(Token = "0x2000ACE")]
 	public class UIText : UIElement
 	{
-		// Token: 0x170007CE RID: 1998
-		// (get) Token: 0x060044F9 RID: 17657 RVA: 0x0002E586 File Offset: 0x0002C786
 		[global::Cpp2ILInjected.Token(Token = "0x170008CF")]
 		public string Text
 		{
@@ -35,9 +32,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x170007CF RID: 1999
-		// (get) Token: 0x060044FA RID: 17658 RVA: 0x0002E589 File Offset: 0x0002C789
-		// (set) Token: 0x060044FB RID: 17659 RVA: 0x0002E58C File Offset: 0x0002C78C
 		[global::Cpp2ILInjected.Token(Token = "0x170008D0")]
 		public float TextOriginX
 		{
@@ -59,9 +53,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x170007D0 RID: 2000
-		// (get) Token: 0x060044FC RID: 17660 RVA: 0x0002E58F File Offset: 0x0002C78F
-		// (set) Token: 0x060044FD RID: 17661 RVA: 0x0002E592 File Offset: 0x0002C792
 		[global::Cpp2ILInjected.Token(Token = "0x170008D1")]
 		public float TextOriginY
 		{
@@ -83,9 +74,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x170007D1 RID: 2001
-		// (get) Token: 0x060044FE RID: 17662 RVA: 0x0002E595 File Offset: 0x0002C795
-		// (set) Token: 0x060044FF RID: 17663 RVA: 0x0002E598 File Offset: 0x0002C798
 		[global::Cpp2ILInjected.Token(Token = "0x170008D2")]
 		public float WrappedTextBottomPadding
 		{
@@ -107,9 +95,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x170007D2 RID: 2002
-		// (get) Token: 0x06004500 RID: 17664 RVA: 0x0002E59B File Offset: 0x0002C79B
-		// (set) Token: 0x06004501 RID: 17665 RVA: 0x0002E59E File Offset: 0x0002C79E
 		[global::Cpp2ILInjected.Token(Token = "0x170008D3")]
 		public bool IsWrapped
 		{
@@ -131,9 +116,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x1400005F RID: 95
-		// (add) Token: 0x06004502 RID: 17666 RVA: 0x0002E5A1 File Offset: 0x0002C7A1
-		// (remove) Token: 0x06004503 RID: 17667 RVA: 0x0002E5A4 File Offset: 0x0002C7A4
 		[global::Cpp2ILInjected.Token(Token = "0x14000065")]
 		public event Action OnInternalTextChange
 		{
@@ -179,9 +161,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x170007D3 RID: 2003
-		// (get) Token: 0x06004504 RID: 17668 RVA: 0x0002E5A7 File Offset: 0x0002C7A7
-		// (set) Token: 0x06004505 RID: 17669 RVA: 0x0002E5AA File Offset: 0x0002C7AA
 		[global::Cpp2ILInjected.Token(Token = "0x170008D4")]
 		public Color TextColor
 		{
@@ -201,9 +180,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x170007D4 RID: 2004
-		// (get) Token: 0x06004506 RID: 17670 RVA: 0x0002E5AD File Offset: 0x0002C7AD
-		// (set) Token: 0x06004507 RID: 17671 RVA: 0x0002E5B0 File Offset: 0x0002C7B0
 		[global::Cpp2ILInjected.Token(Token = "0x170008D5")]
 		public Color ShadowColor
 		{
@@ -223,7 +199,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x06004508 RID: 17672 RVA: 0x0002E5B3 File Offset: 0x0002C7B3
 		[global::Cpp2ILInjected.Token(Token = "0x600516B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92F378", Offset = "0x92F378", Length = "0x188")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UnlockProgressDisplayBestiaryInfoElement), Member = "ProvideUIElement", MemberParameters = new object[] { typeof(BestiaryUICollectionInfo) }, ReturnType = typeof(UIElement))]
@@ -268,7 +243,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004509 RID: 17673 RVA: 0x0002E5B6 File Offset: 0x0002C7B6
 		[global::Cpp2ILInjected.Token(Token = "0x600516C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x926ADC", Offset = "0x926ADC", Length = "0x188")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FilterProviderInfoElement), Member = "ProvideUIElement", MemberParameters = new object[] { typeof(BestiaryUICollectionInfo) }, ReturnType = typeof(UIElement))]
@@ -335,7 +309,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600450A RID: 17674 RVA: 0x0002E5B9 File Offset: 0x0002C7B9
 		[global::Cpp2ILInjected.Token(Token = "0x600516D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92F500", Offset = "0x92F500", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -351,7 +324,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600450B RID: 17675 RVA: 0x0002E5BC File Offset: 0x0002C7BC
 		[global::Cpp2ILInjected.Token(Token = "0x600516E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92F528", Offset = "0x92F528", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIBestiaryTest), Member = "UpdateBestiaryGridRange", ReturnType = typeof(void))]
@@ -371,7 +343,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600450C RID: 17676 RVA: 0x0002E5BF File Offset: 0x0002C7BF
 		[global::Cpp2ILInjected.Token(Token = "0x600516F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92F534", Offset = "0x92F534", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UICharacterNameButton), Member = "SetContents", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -387,7 +358,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600450D RID: 17677 RVA: 0x0002E5C2 File Offset: 0x0002C7C2
 		[global::Cpp2ILInjected.Token(Token = "0x6005170")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92F540", Offset = "0x92F540", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -402,7 +372,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600450E RID: 17678 RVA: 0x0002E5C5 File Offset: 0x0002C7C5
 		[global::Cpp2ILInjected.Token(Token = "0x6005171")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92F548", Offset = "0x92F548", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -417,7 +386,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600450F RID: 17679 RVA: 0x0002E5C8 File Offset: 0x0002C7C8
 		[global::Cpp2ILInjected.Token(Token = "0x6005172")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92F550", Offset = "0x92F550", Length = "0x324")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -485,7 +453,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004510 RID: 17680 RVA: 0x0002E5CB File Offset: 0x0002C7CB
 		[global::Cpp2ILInjected.Token(Token = "0x6005173")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92F874", Offset = "0x92F874", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -502,7 +469,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004511 RID: 17681 RVA: 0x0002E5CE File Offset: 0x0002C7CE
 		[global::Cpp2ILInjected.Token(Token = "0x6005174")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92F028", Offset = "0x92F028", Length = "0x1E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -562,75 +528,61 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x040070A1 RID: 28833
 		[global::Cpp2ILInjected.Token(Token = "0x40089ED")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private object _text;
 
-		// Token: 0x040070A2 RID: 28834
 		[global::Cpp2ILInjected.Token(Token = "0x40089EE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private float _textScale;
 
-		// Token: 0x040070A3 RID: 28835
 		[global::Cpp2ILInjected.Token(Token = "0x40089EF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x154")]
 		private Vector2 _textSize;
 
-		// Token: 0x040070A4 RID: 28836
 		[global::Cpp2ILInjected.Token(Token = "0x40089F0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x15C")]
 		private bool _isLarge;
 
-		// Token: 0x040070A5 RID: 28837
 		[global::Cpp2ILInjected.Token(Token = "0x40089F1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x15D")]
 		private Color _color;
 
-		// Token: 0x040070A6 RID: 28838
 		[global::Cpp2ILInjected.Token(Token = "0x40089F2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x161")]
 		private Color _shadowColor;
 
-		// Token: 0x040070A7 RID: 28839
 		[global::Cpp2ILInjected.Token(Token = "0x40089F3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x165")]
 		private bool _isWrapped;
 
-		// Token: 0x040070A8 RID: 28840
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40089F4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x168")]
 		private float <TextOriginX>k__BackingField;
 
-		// Token: 0x040070A9 RID: 28841
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40089F5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x16C")]
 		private float <TextOriginY>k__BackingField;
 
-		// Token: 0x040070AA RID: 28842
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40089F6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x170")]
 		private float <WrappedTextBottomPadding>k__BackingField;
 
-		// Token: 0x040070AB RID: 28843
 		[global::Cpp2ILInjected.Token(Token = "0x40089F7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x174")]
 		public bool DynamicallyScaleDownToWidth;
 
-		// Token: 0x040070AC RID: 28844
 		[global::Cpp2ILInjected.Token(Token = "0x40089F8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x178")]
 		private string _visibleText;
 
-		// Token: 0x040070AD RID: 28845
 		[global::Cpp2ILInjected.Token(Token = "0x40089F9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x180")]
 		private string _lastTextReference;
 
-		// Token: 0x040070AE RID: 28846
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40089FA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x188")]

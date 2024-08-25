@@ -1,9 +1,0 @@
-<map id="System.Diagnostics.DebuggableAttribute" name="System.Diagnostics.DebuggableAttribute">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,292,248,401"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,205,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,84,128,292,123,292,119,84"/>
-<area shape="rect" id="Node000003" href="$d1/d8a/classSystem_1_1Diagnostics_1_1DebuggableAttribute.html" title=" " alt="" coords="143,120,385,229"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="166,78,209,118,205,122,163,82"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,231,183,280,179,277,218,228"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="386,160,404,165,412,175,403,185,399,181,407,175,401,169,385,165"/>
-</map>

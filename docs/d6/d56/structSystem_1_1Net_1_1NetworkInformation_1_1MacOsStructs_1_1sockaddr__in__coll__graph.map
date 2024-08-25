@@ -1,9 +1,0 @@
-<map id="System.Net.NetworkInformation.MacOsStructs.sockaddr_in" name="System.Net.NetworkInformation.MacOsStructs.sockaddr_in">
-<area shape="rect" id="Node000001" title=" " alt="" coords="27,148,256,228"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="34,70,41,97,54,123,65,135,61,139,50,125,36,99,28,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="114,5,169,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,71,144,131,139,131,139,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="221,5,259,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,72,227,99,213,125,204,137,200,134,208,123,222,97,231,70"/>
-</map>

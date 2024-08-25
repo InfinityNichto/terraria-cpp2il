@@ -9,7 +9,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200004C RID: 76
 	[UsedByNativeCode]
 	[NativeHeader("Runtime/Camera/Camera.h")]
 	[NativeHeader("Runtime/Graphics/RenderBufferManager.h")]
@@ -18,9 +17,6 @@ namespace UnityEngine
 	[global::Cpp2ILInjected.Token(Token = "0x2000050")]
 	public class RenderTexture : Texture
 	{
-		// Token: 0x17000039 RID: 57
-		// (get) Token: 0x0600014A RID: 330
-		// (set) Token: 0x0600014B RID: 331
 		[global::Cpp2ILInjected.Token(Token = "0x1700003B")]
 		public override extern int width
 		{
@@ -38,9 +34,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700003A RID: 58
-		// (get) Token: 0x0600014C RID: 332
-		// (set) Token: 0x0600014D RID: 333
 		[global::Cpp2ILInjected.Token(Token = "0x1700003C")]
 		public override extern int height
 		{
@@ -58,8 +51,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700003B RID: 59
-		// (set) Token: 0x0600014E RID: 334
 		[NativeProperty("ColorFormat")]
 		[global::Cpp2ILInjected.Token(Token = "0x1700003D")]
 		public extern GraphicsFormat graphicsFormat
@@ -72,8 +63,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700003C RID: 60
-		// (set) Token: 0x0600014F RID: 335
 		[global::Cpp2ILInjected.Token(Token = "0x1700003E")]
 		public extern GraphicsFormat depthStencilFormat
 		{
@@ -85,7 +74,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x06000150 RID: 336
 		[global::Cpp2ILInjected.Token(Token = "0x6000158")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72238", Offset = "0x1F72238", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -93,7 +81,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void SetMipMapCount(int count);
 
-		// Token: 0x06000151 RID: 337
 		[global::Cpp2ILInjected.Token(Token = "0x6000159")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7227C", Offset = "0x1F7227C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -101,7 +88,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		internal extern void SetSRGBReadWrite(bool srgb);
 
-		// Token: 0x06000152 RID: 338
 		[FreeFunction("RenderTextureScripting::Create")]
 		[global::Cpp2ILInjected.Token(Token = "0x600015A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F722C0", Offset = "0x1F722C0", Length = "0x3C")]
@@ -110,7 +96,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void Internal_Create([Writable] RenderTexture rt);
 
-		// Token: 0x06000153 RID: 339 RVA: 0x000022FC File Offset: 0x000004FC
 		[NativeName("SetRenderTextureDescFromScript")]
 		[global::Cpp2ILInjected.Token(Token = "0x600015B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F722FC", Offset = "0x1F722FC", Length = "0x44")]
@@ -121,7 +106,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000154 RID: 340 RVA: 0x000022FF File Offset: 0x000004FF
 		[NativeName("GetRenderTextureDesc")]
 		[global::Cpp2ILInjected.Token(Token = "0x600015C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72384", Offset = "0x1F72384", Length = "0x78")]
@@ -133,7 +117,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000155 RID: 341 RVA: 0x00002302 File Offset: 0x00000502
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600015D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72440", Offset = "0x1F72440", Length = "0x54")]
@@ -145,7 +128,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000156 RID: 342 RVA: 0x00002305 File Offset: 0x00000505
 		[global::Cpp2ILInjected.Token(Token = "0x600015E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72494", Offset = "0x1F72494", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -158,7 +140,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000157 RID: 343 RVA: 0x00002308 File Offset: 0x00000508
 		[global::Cpp2ILInjected.Token(Token = "0x600015F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F729E4", Offset = "0x1F729E4", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -178,7 +159,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000158 RID: 344 RVA: 0x0000230B File Offset: 0x0000050B
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000160")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72C34", Offset = "0x1F72C34", Length = "0x74")]
@@ -190,7 +170,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000159 RID: 345 RVA: 0x0000230E File Offset: 0x0000050E
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000161")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72CA8", Offset = "0x1F72CA8", Length = "0x90")]
@@ -201,7 +180,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600015A RID: 346 RVA: 0x00002311 File Offset: 0x00000511
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000162")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72D38", Offset = "0x1F72D38", Length = "0x200")]
@@ -225,7 +203,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600015B RID: 347 RVA: 0x00002314 File Offset: 0x00000514
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000163")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72FBC", Offset = "0x1F72FBC", Length = "0x204")]
@@ -251,7 +228,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600015C RID: 348 RVA: 0x00002317 File Offset: 0x00000517
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000164")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F731C0", Offset = "0x1F731C0", Length = "0x90")]
@@ -270,7 +246,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600015D RID: 349 RVA: 0x0000231A File Offset: 0x0000051A
 		[global::Cpp2ILInjected.Token(Token = "0x6000165")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F73250", Offset = "0x1F73250", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -281,7 +256,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600015E RID: 350 RVA: 0x0000231D File Offset: 0x0000051D
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000166")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F734D4", Offset = "0x1F734D4", Length = "0x90")]
@@ -300,7 +274,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600015F RID: 351 RVA: 0x00002320 File Offset: 0x00000520
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000167")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F73604", Offset = "0x1F73604", Length = "0x8")]
@@ -317,7 +290,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000160 RID: 352 RVA: 0x00002323 File Offset: 0x00000523
 		[ExcludeFromDocs]
 		[global::Cpp2ILInjected.Token(Token = "0x6000168")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F73564", Offset = "0x1F73564", Length = "0xA0")]
@@ -339,7 +311,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000161 RID: 353 RVA: 0x00002326 File Offset: 0x00000526
 		[global::Cpp2ILInjected.Token(Token = "0x6000169")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F732F8", Offset = "0x1F732F8", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -374,7 +345,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000162 RID: 354 RVA: 0x00002329 File Offset: 0x00000529
 		[global::Cpp2ILInjected.Token(Token = "0x600016A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72F38", Offset = "0x1F72F38", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -408,8 +378,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x1700003D RID: 61
-		// (get) Token: 0x06000163 RID: 355 RVA: 0x0000232C File Offset: 0x0000052C
 		[global::Cpp2ILInjected.Token(Token = "0x1700003F")]
 		public RenderTextureDescriptor descriptor
 		{
@@ -425,7 +393,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000164 RID: 356 RVA: 0x0000232F File Offset: 0x0000052F
 		[global::Cpp2ILInjected.Token(Token = "0x600016C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7258C", Offset = "0x1F7258C", Length = "0x458")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -453,7 +420,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000165 RID: 357 RVA: 0x00002332 File Offset: 0x00000532
 		[global::Cpp2ILInjected.Token(Token = "0x600016D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7360C", Offset = "0x1F7360C", Length = "0x17C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -486,7 +452,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000166 RID: 358
 		[global::Cpp2ILInjected.Token(Token = "0x600016E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F72340", Offset = "0x1F72340", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -494,7 +459,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void SetRenderTextureDescriptor_Injected(ref RenderTextureDescriptor desc);
 
-		// Token: 0x06000167 RID: 359
 		[global::Cpp2ILInjected.Token(Token = "0x600016F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F723FC", Offset = "0x1F723FC", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

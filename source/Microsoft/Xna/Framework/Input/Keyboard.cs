@@ -9,11 +9,9 @@ using UnityEngine;
 
 namespace Microsoft.Xna.Framework.Input
 {
-	// Token: 0x0200028F RID: 655
 	[global::Cpp2ILInjected.Token(Token = "0x2000350")]
 	public static class Keyboard
 	{
-		// Token: 0x0600146B RID: 5227 RVA: 0x000257C9 File Offset: 0x000239C9
 		[global::Cpp2ILInjected.Token(Token = "0x60015C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9B86C", Offset = "0xA9B86C", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -27,7 +25,6 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x0600146C RID: 5228 RVA: 0x000257CC File Offset: 0x000239CC
 		[Obsolete("Use GetState() instead. In future versions this method can be removed.")]
 		[global::Cpp2ILInjected.Token(Token = "0x60015C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9BCD4", Offset = "0xA9BCD4", Length = "0x74")]
@@ -40,7 +37,6 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x0600146D RID: 5229 RVA: 0x000257CF File Offset: 0x000239CF
 		[global::Cpp2ILInjected.Token(Token = "0x60015CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9B8E0", Offset = "0xA9B8E0", Length = "0x3F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +59,6 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x0600146E RID: 5230 RVA: 0x000257D2 File Offset: 0x000239D2
 		[global::Cpp2ILInjected.Token(Token = "0x60015CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9BEA0", Offset = "0xA9BEA0", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -73,7 +68,6 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x0600146F RID: 5231 RVA: 0x000257D5 File Offset: 0x000239D5
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60015CC")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9BEFC", Offset = "0xA9BEFC", Length = "0x1B4")]
@@ -90,31 +84,24 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x04001D58 RID: 7512
 		[global::Cpp2ILInjected.Token(Token = "0x4002332")]
 		public static KeyCode[] keyCodes;
 
-		// Token: 0x04001D59 RID: 7513
 		[global::Cpp2ILInjected.Token(Token = "0x4002333")]
 		public static Keys[] keys;
 
-		// Token: 0x04001D5A RID: 7514
 		[global::Cpp2ILInjected.Token(Token = "0x4002334")]
 		public static bool keyboardActive;
 
-		// Token: 0x04001D5B RID: 7515
 		[global::Cpp2ILInjected.Token(Token = "0x4002335")]
 		private static List<Keys> _keys;
 
-		// Token: 0x04001D5C RID: 7516
 		[global::Cpp2ILInjected.Token(Token = "0x4002336")]
 		public static List<KeyCode> UnityKeys;
 
-		// Token: 0x04001D5D RID: 7517
 		[global::Cpp2ILInjected.Token(Token = "0x4002337")]
 		public static List<KeyCode> LastUnityKeys;
 
-		// Token: 0x04001D5E RID: 7518
 		[global::Cpp2ILInjected.Token(Token = "0x4002338")]
 		public static bool IgnoreEnterUntilClear;
 	}

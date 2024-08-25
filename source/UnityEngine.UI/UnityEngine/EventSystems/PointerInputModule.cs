@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine.EventSystems
 {
-	// Token: 0x02000068 RID: 104
 	[global::Cpp2ILInjected.Token(Token = "0x20000B3")]
 	public abstract class PointerInputModule : BaseInputModule
 	{
-		// Token: 0x060005E6 RID: 1510 RVA: 0x00003157 File Offset: 0x00001357
 		[global::Cpp2ILInjected.Token(Token = "0x6000675")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE9284", Offset = "0x1FE9284", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PointerInputModule), Member = "GetTouchPointerEventData", MemberParameters = new object[]
@@ -41,7 +39,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005E7 RID: 1511 RVA: 0x0000315A File Offset: 0x0000135A
 		[global::Cpp2ILInjected.Token(Token = "0x6000676")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE9364", Offset = "0x1FE9364", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.InControlInputModule", Member = "ProcessTouchEvents", ReturnType = typeof(bool))]
@@ -55,7 +52,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005E8 RID: 1512 RVA: 0x0000315D File Offset: 0x0000135D
 		[global::Cpp2ILInjected.Token(Token = "0x6000677")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE93BC", Offset = "0x1FE93BC", Length = "0x2EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -95,7 +91,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005E9 RID: 1513 RVA: 0x00003160 File Offset: 0x00001360
 		[global::Cpp2ILInjected.Token(Token = "0x6000678")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE96A8", Offset = "0x1FE96A8", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PointerInputModule), Member = "GetMousePointerEventData", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(PointerInputModule.MouseState))]
@@ -106,7 +101,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005EA RID: 1514 RVA: 0x00003163 File Offset: 0x00001363
 		[global::Cpp2ILInjected.Token(Token = "0x6000679")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE972C", Offset = "0x1FE972C", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -118,7 +112,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005EB RID: 1515 RVA: 0x00003166 File Offset: 0x00001366
 		[global::Cpp2ILInjected.Token(Token = "0x600067A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE979C", Offset = "0x1FE979C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -128,7 +121,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005EC RID: 1516 RVA: 0x00003169 File Offset: 0x00001369
 		[global::Cpp2ILInjected.Token(Token = "0x600067B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE97B0", Offset = "0x1FE97B0", Length = "0x2D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +158,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005ED RID: 1517 RVA: 0x0000316C File Offset: 0x0000136C
 		[global::Cpp2ILInjected.Token(Token = "0x600067C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE9AB0", Offset = "0x1FE9AB0", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -181,7 +172,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005EE RID: 1518 RVA: 0x0000316F File Offset: 0x0000136F
 		[global::Cpp2ILInjected.Token(Token = "0x600067D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE9AD0", Offset = "0x1FE9AD0", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -191,7 +181,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005EF RID: 1519 RVA: 0x00003172 File Offset: 0x00001372
 		[global::Cpp2ILInjected.Token(Token = "0x600067E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE9B00", Offset = "0x1FE9B00", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -208,7 +197,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005F0 RID: 1520 RVA: 0x00003175 File Offset: 0x00001375
 		[global::Cpp2ILInjected.Token(Token = "0x600067F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE9B3C", Offset = "0x1FE9B3C", Length = "0x29C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -237,7 +225,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005F1 RID: 1521 RVA: 0x00003178 File Offset: 0x00001378
 		[global::Cpp2ILInjected.Token(Token = "0x6000680")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE9DD8", Offset = "0x1FE9DD8", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -258,7 +245,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005F2 RID: 1522 RVA: 0x0000317B File Offset: 0x0000137B
 		[global::Cpp2ILInjected.Token(Token = "0x6000681")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FE9E74", Offset = "0x1FE9E74", Length = "0x1A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -286,7 +272,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005F3 RID: 1523 RVA: 0x0000317E File Offset: 0x0000137E
 		[global::Cpp2ILInjected.Token(Token = "0x6000682")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEA01C", Offset = "0x1FEA01C", Length = "0x268")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -310,7 +295,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005F4 RID: 1524 RVA: 0x00003181 File Offset: 0x00001381
 		[global::Cpp2ILInjected.Token(Token = "0x6000683")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEA284", Offset = "0x1FEA284", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.InControlInputModule", Member = "ProcessMousePress", MemberParameters = new object[] { typeof(PointerInputModule.MouseButtonEventData) }, ReturnType = typeof(void))]
@@ -351,7 +335,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x060005F5 RID: 1525 RVA: 0x00003184 File Offset: 0x00001384
 		[global::Cpp2ILInjected.Token(Token = "0x6000684")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEA368", Offset = "0x1FEA368", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.InControlInputModule", Member = ".ctor", ReturnType = typeof(void))]
@@ -367,39 +350,29 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x04000204 RID: 516
 		[global::Cpp2ILInjected.Token(Token = "0x40002F0")]
 		public const int kMouseLeftId = -1;
 
-		// Token: 0x04000205 RID: 517
 		[global::Cpp2ILInjected.Token(Token = "0x40002F1")]
 		public const int kMouseRightId = -2;
 
-		// Token: 0x04000206 RID: 518
 		[global::Cpp2ILInjected.Token(Token = "0x40002F2")]
 		public const int kMouseMiddleId = -3;
 
-		// Token: 0x04000207 RID: 519
 		[global::Cpp2ILInjected.Token(Token = "0x40002F3")]
 		public const int kFakeTouchesId = -4;
 
-		// Token: 0x04000208 RID: 520
 		[global::Cpp2ILInjected.Token(Token = "0x40002F4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		protected Dictionary<int, PointerEventData> m_PointerData;
 
-		// Token: 0x04000209 RID: 521
 		[global::Cpp2ILInjected.Token(Token = "0x40002F5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private readonly PointerInputModule.MouseState m_MouseState;
 
-		// Token: 0x020000CA RID: 202
 		[global::Cpp2ILInjected.Token(Token = "0x20000B4")]
 		protected class ButtonState
 		{
-			// Token: 0x170001CF RID: 463
-			// (get) Token: 0x060006F3 RID: 1779 RVA: 0x00003415 File Offset: 0x00001615
-			// (set) Token: 0x060006F4 RID: 1780 RVA: 0x00003418 File Offset: 0x00001618
 			[global::Cpp2ILInjected.Token(Token = "0x170001B8")]
 			public PointerInputModule.MouseButtonEventData eventData
 			{
@@ -419,9 +392,6 @@ namespace UnityEngine.EventSystems
 				}
 			}
 
-			// Token: 0x170001D0 RID: 464
-			// (get) Token: 0x060006F5 RID: 1781 RVA: 0x0000341B File Offset: 0x0000161B
-			// (set) Token: 0x060006F6 RID: 1782 RVA: 0x0000341E File Offset: 0x0000161E
 			[global::Cpp2ILInjected.Token(Token = "0x170001B9")]
 			public PointerEventData.InputButton button
 			{
@@ -441,7 +411,6 @@ namespace UnityEngine.EventSystems
 				}
 			}
 
-			// Token: 0x060006F7 RID: 1783 RVA: 0x00003421 File Offset: 0x00001621
 			[global::Cpp2ILInjected.Token(Token = "0x6000689")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FEA4A4", Offset = "0x1FEA4A4", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -451,22 +420,18 @@ namespace UnityEngine.EventSystems
 				throw null;
 			}
 
-			// Token: 0x04000335 RID: 821
 			[global::Cpp2ILInjected.Token(Token = "0x40002F6")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private PointerEventData.InputButton m_Button;
 
-			// Token: 0x04000336 RID: 822
 			[global::Cpp2ILInjected.Token(Token = "0x40002F7")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private PointerInputModule.MouseButtonEventData m_EventData;
 		}
 
-		// Token: 0x020000CB RID: 203
 		[global::Cpp2ILInjected.Token(Token = "0x20000B5")]
 		protected class MouseState
 		{
-			// Token: 0x060006F8 RID: 1784 RVA: 0x00003424 File Offset: 0x00001624
 			[global::Cpp2ILInjected.Token(Token = "0x600068A")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FEA4AC", Offset = "0x1FEA4AC", Length = "0xBC")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -478,7 +443,6 @@ namespace UnityEngine.EventSystems
 				throw null;
 			}
 
-			// Token: 0x060006F9 RID: 1785 RVA: 0x00003427 File Offset: 0x00001627
 			[global::Cpp2ILInjected.Token(Token = "0x600068B")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FEA578", Offset = "0x1FEA578", Length = "0xC4")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -490,7 +454,6 @@ namespace UnityEngine.EventSystems
 				throw null;
 			}
 
-			// Token: 0x060006FA RID: 1786 RVA: 0x0000342A File Offset: 0x0000162A
 			[global::Cpp2ILInjected.Token(Token = "0x600068C")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FEA650", Offset = "0x1FEA650", Length = "0x18C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -513,7 +476,6 @@ namespace UnityEngine.EventSystems
 				throw null;
 			}
 
-			// Token: 0x060006FB RID: 1787 RVA: 0x0000342D File Offset: 0x0000162D
 			[global::Cpp2ILInjected.Token(Token = "0x600068D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FE9A84", Offset = "0x1FE9A84", Length = "0x2C")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -523,7 +485,6 @@ namespace UnityEngine.EventSystems
 				throw null;
 			}
 
-			// Token: 0x060006FC RID: 1788 RVA: 0x00003430 File Offset: 0x00001630
 			[global::Cpp2ILInjected.Token(Token = "0x600068E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FEA408", Offset = "0x1FEA408", Length = "0x7C")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PointerInputModule), Member = ".ctor", ReturnType = typeof(void))]
@@ -536,17 +497,14 @@ namespace UnityEngine.EventSystems
 				throw null;
 			}
 
-			// Token: 0x04000337 RID: 823
 			[global::Cpp2ILInjected.Token(Token = "0x40002F8")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private List<PointerInputModule.ButtonState> m_TrackedButtons;
 		}
 
-		// Token: 0x020000CC RID: 204
 		[global::Cpp2ILInjected.Token(Token = "0x20000B6")]
 		public class MouseButtonEventData
 		{
-			// Token: 0x060006FD RID: 1789 RVA: 0x00003433 File Offset: 0x00001633
 			[global::Cpp2ILInjected.Token(Token = "0x600068F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FEA568", Offset = "0x1FEA568", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -557,7 +515,6 @@ namespace UnityEngine.EventSystems
 				throw null;
 			}
 
-			// Token: 0x060006FE RID: 1790 RVA: 0x00003436 File Offset: 0x00001636
 			[global::Cpp2ILInjected.Token(Token = "0x6000690")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FEA63C", Offset = "0x1FEA63C", Length = "0x14")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -568,7 +525,6 @@ namespace UnityEngine.EventSystems
 				throw null;
 			}
 
-			// Token: 0x060006FF RID: 1791 RVA: 0x00003439 File Offset: 0x00001639
 			[global::Cpp2ILInjected.Token(Token = "0x6000691")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1FEA7DC", Offset = "0x1FEA7DC", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -578,12 +534,10 @@ namespace UnityEngine.EventSystems
 				throw null;
 			}
 
-			// Token: 0x04000338 RID: 824
 			[global::Cpp2ILInjected.Token(Token = "0x40002F9")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public PointerEventData.FramePressState buttonState;
 
-			// Token: 0x04000339 RID: 825
 			[global::Cpp2ILInjected.Token(Token = "0x40002FA")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public PointerEventData buttonData;

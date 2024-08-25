@@ -6,13 +6,10 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine
 {
-	// Token: 0x02000040 RID: 64
 	[NativeHeader("Runtime/Export/Input/Cursor.bindings.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000043")]
 	public class Cursor
 	{
-		// Token: 0x17000012 RID: 18
-		// (get) Token: 0x06000089 RID: 137
 		[global::Cpp2ILInjected.Token(Token = "0x17000014")]
 		public static extern CursorLockMode lockState
 		{

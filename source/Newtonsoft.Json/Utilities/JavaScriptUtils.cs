@@ -10,12 +10,10 @@ using Newtonsoft.Json.Shims;
 
 namespace Newtonsoft.Json.Utilities
 {
-	// Token: 0x02000055 RID: 85
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x200006A")]
 	internal static class JavaScriptUtils
 	{
-		// Token: 0x06000385 RID: 901 RVA: 0x00002B07 File Offset: 0x00000D07
 		[global::Cpp2ILInjected.Token(Token = "0x60003B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD85E4", Offset = "0x1CD85E4", Length = "0xB64")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -33,7 +31,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x06000386 RID: 902 RVA: 0x00002B0A File Offset: 0x00000D0A
 		[global::Cpp2ILInjected.Token(Token = "0x60003BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD9148", Offset = "0x1CD9148", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -52,7 +49,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x06000387 RID: 903 RVA: 0x00002B0D File Offset: 0x00000D0D
 		[global::Cpp2ILInjected.Token(Token = "0x60003BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD91E0", Offset = "0x1CD91E0", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,7 +60,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x06000388 RID: 904 RVA: 0x00002B10 File Offset: 0x00000D10
 		[global::Cpp2ILInjected.Token(Token = "0x60003BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD9254", Offset = "0x1CD9254", Length = "0x4AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -127,7 +122,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x06000389 RID: 905 RVA: 0x00002B13 File Offset: 0x00000D13
 		[global::Cpp2ILInjected.Token(Token = "0x60003BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD9768", Offset = "0x1CD9768", Length = "0x240")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -162,23 +156,18 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x040001B8 RID: 440
 		[global::Cpp2ILInjected.Token(Token = "0x40001F3")]
 		internal static readonly bool[] SingleQuoteCharEscapeFlags;
 
-		// Token: 0x040001B9 RID: 441
 		[global::Cpp2ILInjected.Token(Token = "0x40001F4")]
 		internal static readonly bool[] DoubleQuoteCharEscapeFlags;
 
-		// Token: 0x040001BA RID: 442
 		[global::Cpp2ILInjected.Token(Token = "0x40001F5")]
 		internal static readonly bool[] HtmlCharEscapeFlags;
 
-		// Token: 0x040001BB RID: 443
 		[global::Cpp2ILInjected.Token(Token = "0x40001F6")]
 		private const int UnicodeTextLength = 6;
 
-		// Token: 0x040001BC RID: 444
 		[global::Cpp2ILInjected.Token(Token = "0x40001F7")]
 		private const string EscapedUnicodeText = "!";
 	}

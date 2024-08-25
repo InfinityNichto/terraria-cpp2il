@@ -4,25 +4,27 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Reflection;
+using System.Resources;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Runtime.Remoting;
 using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Security;
+using System.Security.Cryptography;
 using System.Security.Permissions;
 using System.Text;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
+using Mono.Security.Cryptography;
 
 namespace System
 {
-	// Token: 0x02000113 RID: 275
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x200014E")]
 	[global::System.Serializable]
 	public abstract class Enum : global::System.ValueType, global::System.IComparable, global::System.IFormattable, global::System.IConvertible
 	{
-		// Token: 0x06000C4D RID: 3149 RVA: 0x000168B3 File Offset: 0x00014AB3
 		[global::Cpp2ILInjected.Token(Token = "0x6000D1F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C6520C", Offset = "0x1C6520C", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,7 +61,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C4E RID: 3150 RVA: 0x000168B6 File Offset: 0x00014AB6
 		[global::Cpp2ILInjected.Token(Token = "0x6000D20")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C65380", Offset = "0x1C65380", Length = "0x474")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -101,7 +102,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C4F RID: 3151 RVA: 0x000168B9 File Offset: 0x00014AB9
 		[global::Cpp2ILInjected.Token(Token = "0x6000D21")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C657F4", Offset = "0x1C657F4", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -130,7 +130,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C50 RID: 3152 RVA: 0x000168BC File Offset: 0x00014ABC
 		[global::Cpp2ILInjected.Token(Token = "0x6000D22")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C659C8", Offset = "0x1C659C8", Length = "0x1B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -165,7 +164,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C51 RID: 3153 RVA: 0x000168BF File Offset: 0x00014ABF
 		[global::Cpp2ILInjected.Token(Token = "0x6000D23")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C65B78", Offset = "0x1C65B78", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -202,7 +200,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C52 RID: 3154
 		[global::Cpp2ILInjected.Token(Token = "0x6000D24")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C65CE4", Offset = "0x1C65CE4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -210,7 +207,6 @@ namespace System
 		[MethodImpl(4096)]
 		private static extern int InternalCompareTo(object o1, object o2);
 
-		// Token: 0x06000C53 RID: 3155
 		[global::Cpp2ILInjected.Token(Token = "0x6000D25")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C65CE8", Offset = "0x1C65CE8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -218,7 +214,6 @@ namespace System
 		[MethodImpl(4096)]
 		internal static extern global::System.RuntimeType InternalGetUnderlyingType(global::System.RuntimeType enumType);
 
-		// Token: 0x06000C54 RID: 3156
 		[global::Cpp2ILInjected.Token(Token = "0x6000D26")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C65350", Offset = "0x1C65350", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -226,7 +221,6 @@ namespace System
 		[MethodImpl(4096)]
 		private static extern bool GetEnumValuesAndNames(global::System.RuntimeType enumType, out ulong[] values, out string[] names);
 
-		// Token: 0x06000C55 RID: 3157
 		[global::Cpp2ILInjected.Token(Token = "0x6000D27")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C65CEC", Offset = "0x1C65CEC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -234,7 +228,6 @@ namespace System
 		[MethodImpl(4096)]
 		private static extern object InternalBoxEnum(global::System.RuntimeType enumType, long value);
 
-		// Token: 0x06000C56 RID: 3158 RVA: 0x000168C2 File Offset: 0x00014AC2
 		[global::Cpp2ILInjected.Token(Token = "0x6000D28")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1579B08", Offset = "0x1579B08", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -246,7 +239,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C57 RID: 3159 RVA: 0x000168C5 File Offset: 0x00014AC5
 		[global::Cpp2ILInjected.Token(Token = "0x6000D29")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1579B80", Offset = "0x1579B80", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -267,7 +259,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C58 RID: 3160 RVA: 0x000168C8 File Offset: 0x00014AC8
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D2A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C65CF0", Offset = "0x1C65CF0", Length = "0x68")]
@@ -299,7 +290,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C59 RID: 3161 RVA: 0x000168CB File Offset: 0x00014ACB
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D2B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C65D58", Offset = "0x1C65D58", Length = "0xC0")]
@@ -359,7 +349,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C5A RID: 3162 RVA: 0x000168CE File Offset: 0x00014ACE
 		[global::Cpp2ILInjected.Token(Token = "0x6000D2C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C65E7C", Offset = "0x1C65E7C", Length = "0x60C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -439,7 +428,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C5B RID: 3163 RVA: 0x000168D1 File Offset: 0x00014AD1
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D2D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C66664", Offset = "0x1C66664", Length = "0xBC")]
@@ -513,7 +501,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C5C RID: 3164 RVA: 0x000168D4 File Offset: 0x00014AD4
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D2E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C66DA8", Offset = "0x1C66DA8", Length = "0xBC")]
@@ -545,7 +532,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C5D RID: 3165 RVA: 0x000168D7 File Offset: 0x00014AD7
 		[global::Cpp2ILInjected.Token(Token = "0x6000D2F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C66E64", Offset = "0x1C66E64", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.RuntimeType), Member = "GetEnumValues", ReturnType = typeof(global::System.Array))]
@@ -563,7 +549,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C5E RID: 3166 RVA: 0x000168DA File Offset: 0x00014ADA
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D30")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C658FC", Offset = "0x1C658FC", Length = "0xCC")]
@@ -592,7 +577,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C5F RID: 3167 RVA: 0x000168DD File Offset: 0x00014ADD
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D31")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C66EC4", Offset = "0x1C66EC4", Length = "0xBC")]
@@ -611,7 +595,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C60 RID: 3168 RVA: 0x000168E0 File Offset: 0x00014AE0
 		[global::Cpp2ILInjected.Token(Token = "0x6000D32")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C66F80", Offset = "0x1C66F80", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.RuntimeType), Member = "GetEnumNames", ReturnType = typeof(string[]))]
@@ -629,7 +612,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C61 RID: 3169 RVA: 0x000168E3 File Offset: 0x00014AE3
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D33")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C66720", Offset = "0x1C66720", Length = "0x4B4")]
@@ -736,7 +718,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C62 RID: 3170 RVA: 0x000168E6 File Offset: 0x00014AE6
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D34")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C67FC8", Offset = "0x1C67FC8", Length = "0xCC")]
@@ -778,7 +759,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C63 RID: 3171 RVA: 0x000168E9 File Offset: 0x00014AE9
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D35")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C68094", Offset = "0x1C68094", Length = "0x54C")]
@@ -835,7 +815,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C64 RID: 3172
 		[global::Cpp2ILInjected.Token(Token = "0x6000D36")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C685E4", Offset = "0x1C685E4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -843,7 +822,6 @@ namespace System
 		[MethodImpl(4096)]
 		private extern object get_value();
 
-		// Token: 0x06000C65 RID: 3173 RVA: 0x000168EC File Offset: 0x00014AEC
 		[global::Cpp2ILInjected.Token(Token = "0x6000D37")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C685E0", Offset = "0x1C685E0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Reflection.CustomAttributeTypedArgument), Member = "CanonicalizeValue", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(object))]
@@ -854,7 +832,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C66 RID: 3174
 		[global::Cpp2ILInjected.Token(Token = "0x6000D38")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C685E8", Offset = "0x1C685E8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -862,7 +839,6 @@ namespace System
 		[MethodImpl(4096)]
 		private extern bool InternalHasFlag(global::System.Enum flags);
 
-		// Token: 0x06000C67 RID: 3175
 		[global::Cpp2ILInjected.Token(Token = "0x6000D39")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C685EC", Offset = "0x1C685EC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -870,7 +846,6 @@ namespace System
 		[MethodImpl(4096)]
 		private extern int get_hashcode();
 
-		// Token: 0x06000C68 RID: 3176 RVA: 0x000168EF File Offset: 0x00014AEF
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C685F0", Offset = "0x1C685F0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.ToolboxItemFilterAttribute", Member = "Equals", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(bool))]
@@ -887,7 +862,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C69 RID: 3177 RVA: 0x000168F2 File Offset: 0x00014AF2
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C685F8", Offset = "0x1C685F8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -897,10 +871,252 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C6A RID: 3178 RVA: 0x000168F5 File Offset: 0x00014AF5
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C685FC", Offset = "0x1C685FC", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Localisation", Member = "GetLanguage", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerMappingState", Member = "LoadConfiguration", MemberParameters = new object[]
+		{
+			typeof(string),
+			"Terraria.IO.Preferences",
+			typeof(ref bool),
+			"System.Collections.Generic.List`1<ControllerActionButton>",
+			"System.Collections.Generic.List`1<ControllerActionAxis>"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerMappingState", Member = "SaveConfiguration", MemberParameters = new object[]
+		{
+			typeof(string),
+			"Terraria.IO.Preferences"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ControlsKeyboardTagHandler", Member = "PrintInlineMapping", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteBatch",
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			"Microsoft.Xna.Framework.Vector2",
+			"Microsoft.Xna.Framework.Graphics.Color",
+			typeof(float),
+			"CharacterSource&",
+			typeof(int),
+			typeof(ref int),
+			"Microsoft.Xna.Framework.Vector2&"
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ControlsKeyboardTagHandler", Member = "MeasureInlineMapping", MemberParameters = new object[]
+		{
+			"Microsoft.Xna.Framework.Graphics.SpriteFont",
+			"CharacterSource&",
+			typeof(int),
+			typeof(ref int),
+			"Microsoft.Xna.Framework.Vector2&"
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIMap", Member = "set_ActiveFrameStyle", MemberParameters = new object[] { "GUIMap.MinimapFrameStyle" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIMap", Member = "LoadContent", MemberParameters = new object[] { "Microsoft.Xna.Framework.Content.ContentManager" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPageIcons", Member = "LoadContent", MemberParameters = new object[] { "Microsoft.Xna.Framework.Content.ContentManager" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "VirtualControllerInputState", Member = "SaveCodeArrayCategories", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "VirtualControllerInputState", Member = "SaveDefaultCategories", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "VirtualControllerInputState", Member = "GetItemDeadZone", MemberParameters = new object[] { "Terraria.Item" }, ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "VirtualControllerInputState", Member = "SetCatergoryState", MemberParameters = new object[] { "VirtualControllerInputState.Category" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "VirtualControllerInputState", Member = "LoadConfiguration", MemberParameters = new object[] { "Terraria.IO.Preferences" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "VirtualControllerInputState", Member = "SaveConfiguration", MemberParameters = new object[] { "Terraria.IO.Preferences" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIKeyboardMappingEntry", Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISettingsOverlay", Member = "ResetSetting", MemberParameters = new object[] { "GUISettingID" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPulldownSetting", Member = "GetOption", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIPulldownSetting", Member = "GetValue", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "LocalUserGameState", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TextureAtlasDB", Member = "LoadTextureDBs", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Input.GamePadCapabilities", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Xna.Framework.Graphics.DisplayMode", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "SaveSettings", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "InputTextSignCancel", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Social.Discord.RichPresenceSocialModule", Member = "PublishPresence", MemberParameters = new object[] { "Terraria.Social.Base.RichPresenceState" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameInput.PlayerInput", Member = "KeyboardInput", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameInput.PlayerInput", Member = "Reset", MemberParameters = new object[] { "Terraria.GameInput.KeyConfiguration", "Terraria.GameInput.PresetProfiles", "Terraria.GameInput.InputMode" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameInput.PlayerInputProfile", Member = "UsingDpadHotbar", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameInput.PlayerInputProfile", Member = "UsingDpadMovekeys", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.UI.ChestUI", Member = "RenameChestCancel", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.Tile_Entities.TELogicSensor", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.Chat.GlyphTagHandler", Member = ".cctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mono.Security.Cryptography.SymmetricTransform), Member = "Transform", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(byte[])
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "CreateArgumentNullException", MemberParameters = new object[] { typeof(global::System.ExceptionArgument) }, ReturnType = typeof(global::System.Exception))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "CreateArgumentOutOfRangeException", MemberParameters = new object[] { typeof(global::System.ExceptionArgument) }, ReturnType = typeof(global::System.Exception))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "GetArgumentException", MemberParameters = new object[] { typeof(global::System.ExceptionResource) }, ReturnType = typeof(global::System.ArgumentException))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.ThrowHelper), Member = "GetArgumentOutOfRangeException", MemberParameters = new object[]
+		{
+			typeof(global::System.ExceptionArgument),
+			typeof(global::System.ExceptionResource)
+		}, ReturnType = typeof(global::System.ArgumentOutOfRangeException))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Permissions.SecurityPermission), Member = "ToXml", ReturnType = typeof(global::System.Security.SecurityElement))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.RSAEncryptionPadding), Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.RSASignaturePadding), Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryConverter), Member = "WriteTypeInfo", MemberParameters = new object[]
+		{
+			typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryTypeEnum),
+			typeof(object),
+			typeof(int),
+			typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryWriter)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryConverter), Member = "ReadTypeInfo", MemberParameters = new object[]
+		{
+			typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryTypeEnum),
+			typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser),
+			typeof(ref int)
+		}, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryConverter), Member = "TypeFromInfo", MemberParameters = new object[]
+		{
+			typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryTypeEnum),
+			typeof(object),
+			typeof(global::System.Runtime.Serialization.Formatters.Binary.ObjectReader),
+			typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryAssemblyInfo),
+			typeof(ref global::System.Runtime.Serialization.Formatters.Binary.InternalPrimitiveTypeE),
+			typeof(ref string),
+			typeof(ref global::System.Type),
+			typeof(ref bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryWriter), Member = "WriteValue", MemberParameters = new object[]
+		{
+			typeof(global::System.Runtime.Serialization.Formatters.Binary.InternalPrimitiveTypeE),
+			typeof(object)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser), Member = "ReadObject", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser), Member = "ReadObjectWithMap", MemberParameters = new object[] { typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryObjectWithMap) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser), Member = "ReadObjectWithMapTyped", MemberParameters = new object[] { typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryObjectWithMapTyped) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser), Member = "ReadObjectString", MemberParameters = new object[] { typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryHeaderEnum) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser), Member = "ReadMemberPrimitiveTyped", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser), Member = "ReadArray", MemberParameters = new object[] { typeof(global::System.Runtime.Serialization.Formatters.Binary.BinaryHeaderEnum) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.__BinaryParser), Member = "ReadValue", MemberParameters = new object[] { typeof(global::System.Runtime.Serialization.Formatters.Binary.InternalPrimitiveTypeE) }, ReturnType = typeof(object))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Resources.ResourceReader), Member = "LoadString", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Globalization.SortKey), Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Diagnostics.TraceListener", Member = "WriteHeader", MemberParameters = new object[]
+		{
+			typeof(string),
+			"System.Diagnostics.TraceEventType",
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509ChainStatus", Member = "GetInformation", MemberParameters = new object[] { "System.Security.Cryptography.X509Certificates.X509ChainStatusFlags" }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509Store", Member = ".ctor", MemberParameters = new object[] { "System.Security.Cryptography.X509Certificates.StoreName", "System.Security.Cryptography.X509Certificates.StoreLocation" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.IPEndPoint", Member = "Create", MemberParameters = new object[] { "System.Net.SocketAddress" }, ReturnType = "System.Net.EndPoint")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.DnsEndPoint", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.SocketAddress", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebExceptionMapping", Member = "GetWebStatusString", MemberParameters = new object[] { "System.Net.WebExceptionStatus" }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetRes", Member = "GetWebStatusCodeString", MemberParameters = new object[]
+		{
+			"System.Net.HttpStatusCode",
+			typeof(string)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.NetRes", Member = "GetWebStatusCodeString", MemberParameters = new object[]
+		{
+			"System.Net.FtpStatusCode",
+			typeof(string)
+		}, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ListenerAsyncResult", Member = "Complete", MemberParameters = new object[]
+		{
+			"System.Net.HttpListenerContext",
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.SocketPermission", Member = "ToXml", MemberParameters = new object[]
+		{
+			typeof(global::System.Security.SecurityElement),
+			typeof(string),
+			typeof(global::System.Collections.IEnumerator)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Cache.RequestCachePolicy", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Security.NegotiateStreamPal", Member = "CreateExceptionFromError", MemberParameters = new object[] { "System.Net.SecurityStatusPal" }, ReturnType = "System.ComponentModel.Win32Exception")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.DeviceBindingSource", Member = "get_Name", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.MouseBindingSource", Member = "get_Name", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.PlayerAction", Member = "Load", MemberParameters = new object[]
+		{
+			typeof(global::System.IO.BinaryReader),
+			typeof(ushort)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.UnknownDeviceBindingSource", Member = "get_Name", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.UnknownDeviceControl", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.InputControlMapping", Member = "get_Name", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.InputControlSource", Member = "ToCode", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "CreateDevice", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.UnityInputDevice", Member = "RefreshProfile", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.UnityInputDevice", Member = ".ctor", MemberParameters = new object[]
+		{
+			"InControl.InputDeviceProfile",
+			typeof(int),
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.OptionalInputDeviceDriverType", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.OptionalInputDeviceTransportType", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TestInputManager", Member = "OnGUI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlTextReaderImpl", Member = "InitFragmentReader", MemberParameters = new object[]
+		{
+			"System.Xml.XmlNodeType",
+			"System.Xml.XmlParserContext",
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlTextReaderImpl", Member = "FinishReadElementContentAsBinary", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlDocument", Member = "ImportNodeInternal", MemberParameters = new object[]
+		{
+			"System.Xml.XmlNode",
+			typeof(bool)
+		}, ReturnType = "System.Xml.XmlNode")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlLoader", Member = "UnexpectedNodeType", MemberParameters = new object[] { "System.Xml.XmlNodeType" }, ReturnType = typeof(global::System.Exception))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.XmlNode", Member = "set_Value", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.Datatype_dateTimeBase", Member = "TryParseValue", MemberParameters = new object[]
+		{
+			typeof(string),
+			"System.Xml.XmlNameTable",
+			"System.Xml.IXmlNamespaceResolver",
+			typeof(ref object)
+		}, ReturnType = typeof(global::System.Exception))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XmlSchemaDatatype", Member = "TypeCodeToString", MemberParameters = new object[] { "System.Xml.Schema.XmlTypeCode" }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.JsonWriter", Member = "AutoComplete", MemberParameters = new object[] { "Newtonsoft.Json.JsonToken" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Linq.JToken", Member = "GetType", MemberParameters = new object[] { "Newtonsoft.Json.Linq.JToken" }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngineInternal.TypeInferenceRuleAttribute", Member = ".ctor", MemberParameters = new object[] { "UnityEngineInternal.TypeInferenceRules" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Texture", Member = "ValidateFormat", MemberParameters = new object[] { "UnityEngine.TextureFormat" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Texture", Member = "ValidateFormat", MemberParameters = new object[] { "UnityEngine.Experimental.Rendering.GraphicsFormat", "UnityEngine.Experimental.Rendering.FormatUsage" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Texture2D", Member = "ValidateFormat", MemberParameters = new object[]
+		{
+			"UnityEngine.TextureFormat",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Cubemap", Member = "ValidateFormat", MemberParameters = new object[]
+		{
+			"UnityEngine.TextureFormat",
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Cubemap", Member = "ValidateFormat", MemberParameters = new object[]
+		{
+			"UnityEngine.Experimental.Rendering.GraphicsFormat",
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Texture2DArray", Member = "ValidateFormat", MemberParameters = new object[]
+		{
+			"UnityEngine.TextureFormat",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Texture2DArray", Member = "ValidateFormat", MemberParameters = new object[]
+		{
+			"UnityEngine.Experimental.Rendering.GraphicsFormat",
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.RenderTexture", Member = "ValidateRenderTextureDesc", MemberParameters = new object[] { "UnityEngine.RenderTextureDescriptor" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.RenderTexture", Member = "GetCompatibleFormat", MemberParameters = new object[] { "UnityEngine.RenderTextureFormat", "UnityEngine.RenderTextureReadWrite" }, ReturnType = "UnityEngine.Experimental.Rendering.GraphicsFormat")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Ionic.Zip.ZipSegmentedStream", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.Event", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayoutUtility", Member = "BeginLayoutArea", MemberParameters = new object[]
+		{
+			"UnityEngine.GUIStyle",
+			typeof(global::System.Type)
+		}, ReturnType = "UnityEngine.GUILayoutGroup")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUISkin", Member = "GetStyle", MemberParameters = new object[] { typeof(string) }, ReturnType = "UnityEngine.GUIStyle")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayoutGroup", Member = "GetNext", ReturnType = "UnityEngine.GUILayoutEntry")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TouchExample.CubeController", Member = "OnGUI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "BindingsExample.BindingsExample", Member = "OnGUI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "BindingsExample.PlayerActions.<>c", Member = "<CreateWithDefaultBindings>b__8_2", MemberParameters = new object[] { "InControl.PlayerAction", "InControl.BindingSource", "InControl.BindingSourceRejectionType" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.SocialPlatforms.Impl.UserProfile", Member = "ToString", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.SocialPlatforms.Impl.Leaderboard", Member = "ToString", ReturnType = typeof(string))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 303)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(object), Member = "GetType", ReturnType = typeof(global::System.Type))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.Enum), Member = "InternalFormat", MemberParameters = new object[]
@@ -914,7 +1130,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C6B RID: 3179 RVA: 0x000168F8 File Offset: 0x00014AF8
 		[global::System.Obsolete("The provider argument is not used. Please use ToString(String).")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C686C8", Offset = "0x1C686C8", Length = "0x4")]
@@ -925,7 +1140,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C6C RID: 3180 RVA: 0x000168FB File Offset: 0x00014AFB
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C6890C", Offset = "0x1C6890C", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -952,7 +1166,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C6D RID: 3181 RVA: 0x000168FE File Offset: 0x00014AFE
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C686CC", Offset = "0x1C686CC", Length = "0x240")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -997,7 +1210,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C6E RID: 3182 RVA: 0x00016901 File Offset: 0x00014B01
 		[global::System.Obsolete("The provider argument is not used. Please use ToString().")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D40")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C68AC0", Offset = "0x1C68AC0", Length = "0xC")]
@@ -1008,7 +1220,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C6F RID: 3183 RVA: 0x00016904 File Offset: 0x00014B04
 		[global::Cpp2ILInjected.Token(Token = "0x6000D41")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C68ACC", Offset = "0x1C68ACC", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1027,7 +1238,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C70 RID: 3184 RVA: 0x00016907 File Offset: 0x00014B07
 		[global::Cpp2ILInjected.Token(Token = "0x6000D42")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C68C1C", Offset = "0x1C68C1C", Length = "0x3FC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1047,7 +1257,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C71 RID: 3185 RVA: 0x0001690A File Offset: 0x00014B0A
 		[global::Cpp2ILInjected.Token(Token = "0x6000D43")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69018", Offset = "0x1C69018", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1063,7 +1272,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C72 RID: 3186 RVA: 0x0001690D File Offset: 0x00014B0D
 		[global::Cpp2ILInjected.Token(Token = "0x6000D44")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C690B8", Offset = "0x1C690B8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1079,7 +1287,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C73 RID: 3187 RVA: 0x00016910 File Offset: 0x00014B10
 		[global::Cpp2ILInjected.Token(Token = "0x6000D45")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69158", Offset = "0x1C69158", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1095,7 +1302,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C74 RID: 3188 RVA: 0x00016913 File Offset: 0x00014B13
 		[global::Cpp2ILInjected.Token(Token = "0x6000D46")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C691F8", Offset = "0x1C691F8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1111,7 +1317,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C75 RID: 3189 RVA: 0x00016916 File Offset: 0x00014B16
 		[global::Cpp2ILInjected.Token(Token = "0x6000D47")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69298", Offset = "0x1C69298", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1127,7 +1332,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C76 RID: 3190 RVA: 0x00016919 File Offset: 0x00014B19
 		[global::Cpp2ILInjected.Token(Token = "0x6000D48")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69338", Offset = "0x1C69338", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1143,7 +1347,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C77 RID: 3191 RVA: 0x0001691C File Offset: 0x00014B1C
 		[global::Cpp2ILInjected.Token(Token = "0x6000D49")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C693D8", Offset = "0x1C693D8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.GameContent.UI.States.UICreativePowersMenu.MenuTree`1", Member = ".ctor", MemberParameters = new object[] { "TEnum" }, ReturnType = typeof(void))]
@@ -1166,7 +1369,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C78 RID: 3192 RVA: 0x0001691F File Offset: 0x00014B1F
 		[global::Cpp2ILInjected.Token(Token = "0x6000D4A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69478", Offset = "0x1C69478", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1182,7 +1384,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C79 RID: 3193 RVA: 0x00016922 File Offset: 0x00014B22
 		[global::Cpp2ILInjected.Token(Token = "0x6000D4B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69518", Offset = "0x1C69518", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1198,7 +1399,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C7A RID: 3194 RVA: 0x00016925 File Offset: 0x00014B25
 		[global::Cpp2ILInjected.Token(Token = "0x6000D4C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C695B8", Offset = "0x1C695B8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1214,7 +1414,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C7B RID: 3195 RVA: 0x00016928 File Offset: 0x00014B28
 		[global::Cpp2ILInjected.Token(Token = "0x6000D4D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69658", Offset = "0x1C69658", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1230,7 +1429,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C7C RID: 3196 RVA: 0x0001692B File Offset: 0x00014B2B
 		[global::Cpp2ILInjected.Token(Token = "0x6000D4E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C696F8", Offset = "0x1C696F8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1246,7 +1444,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C7D RID: 3197 RVA: 0x0001692E File Offset: 0x00014B2E
 		[global::Cpp2ILInjected.Token(Token = "0x6000D4F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69798", Offset = "0x1C69798", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1262,7 +1459,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C7E RID: 3198 RVA: 0x00016931 File Offset: 0x00014B31
 		[global::Cpp2ILInjected.Token(Token = "0x6000D50")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69838", Offset = "0x1C69838", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1278,7 +1474,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C7F RID: 3199 RVA: 0x00016934 File Offset: 0x00014B34
 		[global::Cpp2ILInjected.Token(Token = "0x6000D51")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C698FC", Offset = "0x1C698FC", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1294,7 +1489,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C80 RID: 3200 RVA: 0x00016937 File Offset: 0x00014B37
 		[global::System.CLSCompliant(false)]
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D52")]
@@ -1324,7 +1518,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C81 RID: 3201 RVA: 0x0001693A File Offset: 0x00014B3A
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D53")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C67368", Offset = "0x1C67368", Length = "0x1C4")]
@@ -1353,7 +1546,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C82 RID: 3202 RVA: 0x0001693D File Offset: 0x00014B3D
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D54")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C66FE0", Offset = "0x1C66FE0", Length = "0x1C4")]
@@ -1382,7 +1574,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C83 RID: 3203 RVA: 0x00016940 File Offset: 0x00014B40
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D55")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C678B4", Offset = "0x1C678B4", Length = "0x1C4")]
@@ -1411,7 +1602,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C84 RID: 3204 RVA: 0x00016943 File Offset: 0x00014B43
 		[global::System.CLSCompliant(false)]
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D56")]
@@ -1441,7 +1631,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C85 RID: 3205 RVA: 0x00016946 File Offset: 0x00014B46
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::System.CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D57")]
@@ -1471,7 +1660,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C86 RID: 3206 RVA: 0x00016949 File Offset: 0x00014B49
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D58")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C6752C", Offset = "0x1C6752C", Length = "0x1C4")]
@@ -1513,7 +1701,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C87 RID: 3207 RVA: 0x0001694C File Offset: 0x00014B4C
 		[global::System.CLSCompliant(false)]
 		[global::System.Runtime.InteropServices.ComVisible(true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000D59")]
@@ -1551,7 +1738,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C88 RID: 3208 RVA: 0x0001694F File Offset: 0x00014B4F
 		[global::Cpp2ILInjected.Token(Token = "0x6000D5A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C67C3C", Offset = "0x1C67C3C", Length = "0x1C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1579,7 +1765,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C89 RID: 3209 RVA: 0x00016952 File Offset: 0x00014B52
 		[global::Cpp2ILInjected.Token(Token = "0x6000D5B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C67E00", Offset = "0x1C67E00", Length = "0x1C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1607,7 +1792,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C8A RID: 3210 RVA: 0x00016955 File Offset: 0x00014B55
 		[global::Cpp2ILInjected.Token(Token = "0x6000D5C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C6996C", Offset = "0x1C6996C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1617,7 +1801,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000C8B RID: 3211 RVA: 0x00016958 File Offset: 0x00014B58
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000D5D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C69974", Offset = "0x1C69974", Length = "0x70")]
@@ -1629,40 +1812,30 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x04000398 RID: 920
 		[global::Cpp2ILInjected.Token(Token = "0x400050E")]
 		private static readonly char[] enumSeperatorCharArray;
 
-		// Token: 0x04000399 RID: 921
 		[global::Cpp2ILInjected.Token(Token = "0x400050F")]
 		private const string enumSeperator = ", ";
 
-		// Token: 0x0200058F RID: 1423
 		[global::Cpp2ILInjected.Token(Token = "0x200014F")]
 		private enum ParseFailureKind
 		{
-			// Token: 0x0400181E RID: 6174
 			[global::Cpp2ILInjected.Token(Token = "0x4000511")]
 			None,
-			// Token: 0x0400181F RID: 6175
 			[global::Cpp2ILInjected.Token(Token = "0x4000512")]
 			Argument,
-			// Token: 0x04001820 RID: 6176
 			[global::Cpp2ILInjected.Token(Token = "0x4000513")]
 			ArgumentNull,
-			// Token: 0x04001821 RID: 6177
 			[global::Cpp2ILInjected.Token(Token = "0x4000514")]
 			ArgumentWithParameter,
-			// Token: 0x04001822 RID: 6178
 			[global::Cpp2ILInjected.Token(Token = "0x4000515")]
 			UnhandledException
 		}
 
-		// Token: 0x02000590 RID: 1424
 		[global::Cpp2ILInjected.Token(Token = "0x2000150")]
 		private struct EnumResult
 		{
-			// Token: 0x06003FC1 RID: 16321 RVA: 0x0001FA03 File Offset: 0x0001DC03
 			[global::Cpp2ILInjected.Token(Token = "0x6000D5E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C65E18", Offset = "0x1C65E18", Length = "0x64")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Enum), Member = "TryParse", MemberTypeParameters = new object[] { "TEnum" }, MemberParameters = new object[]
@@ -1684,7 +1857,6 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x06003FC2 RID: 16322 RVA: 0x0001FA06 File Offset: 0x0001DC06
 			[global::Cpp2ILInjected.Token(Token = "0x6000D5F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C66BD4", Offset = "0x1C66BD4", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1693,7 +1865,6 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x06003FC3 RID: 16323 RVA: 0x0001FA09 File Offset: 0x0001DC09
 			[global::Cpp2ILInjected.Token(Token = "0x6000D60")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C665E8", Offset = "0x1C665E8", Length = "0x3C")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Enum), Member = "TryParseEnum", MemberParameters = new object[]
@@ -1711,7 +1882,6 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x06003FC4 RID: 16324 RVA: 0x0001FA0C File Offset: 0x0001DC0C
 			[global::Cpp2ILInjected.Token(Token = "0x6000D61")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C66624", Offset = "0x1C66624", Length = "0x40")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Enum), Member = "TryParseEnum", MemberParameters = new object[]
@@ -1729,7 +1899,6 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x06003FC5 RID: 16325 RVA: 0x0001FA0F File Offset: 0x0001DC0F
 			[global::Cpp2ILInjected.Token(Token = "0x6000D62")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C66488", Offset = "0x1C66488", Length = "0x160")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1765,47 +1934,38 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x04001823 RID: 6179
 			[global::Cpp2ILInjected.Token(Token = "0x4000516")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			internal object parsedEnum;
 
-			// Token: 0x04001824 RID: 6180
 			[global::Cpp2ILInjected.Token(Token = "0x4000517")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			internal bool canThrow;
 
-			// Token: 0x04001825 RID: 6181
 			[global::Cpp2ILInjected.Token(Token = "0x4000518")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 			internal global::System.Enum.ParseFailureKind m_failure;
 
-			// Token: 0x04001826 RID: 6182
 			[global::Cpp2ILInjected.Token(Token = "0x4000519")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			internal string m_failureMessageID;
 
-			// Token: 0x04001827 RID: 6183
 			[global::Cpp2ILInjected.Token(Token = "0x400051A")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			internal string m_failureParameter;
 
-			// Token: 0x04001828 RID: 6184
 			[global::Cpp2ILInjected.Token(Token = "0x400051B")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			internal object m_failureMessageFormatArgument;
 
-			// Token: 0x04001829 RID: 6185
 			[global::Cpp2ILInjected.Token(Token = "0x400051C")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			internal global::System.Exception m_innerException;
 		}
 
-		// Token: 0x02000591 RID: 1425
 		[global::Cpp2ILInjected.Token(Token = "0x2000151")]
 		private class ValuesAndNames
 		{
-			// Token: 0x06003FC6 RID: 16326 RVA: 0x0001FA12 File Offset: 0x0001DC12
 			[global::Cpp2ILInjected.Token(Token = "0x6000D63")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C65354", Offset = "0x1C65354", Length = "0x2C")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1815,12 +1975,10 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x0400182A RID: 6186
 			[global::Cpp2ILInjected.Token(Token = "0x400051D")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public ulong[] Values;
 
-			// Token: 0x0400182B RID: 6187
 			[global::Cpp2ILInjected.Token(Token = "0x400051E")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public string[] Names;

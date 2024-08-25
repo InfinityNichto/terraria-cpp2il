@@ -7,11 +7,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005FD RID: 1533
 	[global::Cpp2ILInjected.Token(Token = "0x20008F9")]
 	public class TerrainPass : GenPass
 	{
-		// Token: 0x06003DAF RID: 15791 RVA: 0x0002D041 File Offset: 0x0002B241
 		[global::Cpp2ILInjected.Token(Token = "0x6004645")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D3444", Offset = "0x7D3444", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "GenerateWorld", MemberParameters = new object[]
@@ -31,7 +29,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003DB0 RID: 15792 RVA: 0x0002D044 File Offset: 0x0002B244
 		[global::Cpp2ILInjected.Token(Token = "0x6004646")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D3498", Offset = "0x7D3498", Length = "0xBC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -88,7 +85,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003DB1 RID: 15793 RVA: 0x0002D047 File Offset: 0x0002B247
 		[global::Cpp2ILInjected.Token(Token = "0x6004647")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D471C", Offset = "0x7D471C", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,7 +100,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003DB2 RID: 15794 RVA: 0x0002D04A File Offset: 0x0002B24A
 		[global::Cpp2ILInjected.Token(Token = "0x6004648")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D49E0", Offset = "0x7D49E0", Length = "0x1B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -132,7 +127,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003DB3 RID: 15795 RVA: 0x0002D04D File Offset: 0x0002B24D
 		[global::Cpp2ILInjected.Token(Token = "0x6004649")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D40C8", Offset = "0x7D40C8", Length = "0x62C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +150,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003DB4 RID: 15796 RVA: 0x0002D050 File Offset: 0x0002B250
 		[global::Cpp2ILInjected.Token(Token = "0x600464A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D48D0", Offset = "0x7D48D0", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -176,47 +169,36 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x04006C02 RID: 27650
 		[global::Cpp2ILInjected.Token(Token = "0x4008267")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private uint skyDefinition;
 
-		// Token: 0x04006C03 RID: 27651
 		[global::Cpp2ILInjected.Token(Token = "0x4008268")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private uint dirtDefinition;
 
-		// Token: 0x04006C04 RID: 27652
 		[global::Cpp2ILInjected.Token(Token = "0x4008269")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private uint rockDefinition;
 
-		// Token: 0x02000A06 RID: 2566
 		[global::Cpp2ILInjected.Token(Token = "0x20008FA")]
 		private enum TerrainFeatureType
 		{
-			// Token: 0x04008D19 RID: 36121
 			[global::Cpp2ILInjected.Token(Token = "0x400826B")]
 			Plateau,
-			// Token: 0x04008D1A RID: 36122
 			[global::Cpp2ILInjected.Token(Token = "0x400826C")]
 			Hill,
-			// Token: 0x04008D1B RID: 36123
 			[global::Cpp2ILInjected.Token(Token = "0x400826D")]
 			Dale,
-			// Token: 0x04008D1C RID: 36124
 			[global::Cpp2ILInjected.Token(Token = "0x400826E")]
 			Mountain,
-			// Token: 0x04008D1D RID: 36125
 			[global::Cpp2ILInjected.Token(Token = "0x400826F")]
 			Valley
 		}
 
-		// Token: 0x02000A07 RID: 2567
 		[global::Cpp2ILInjected.Token(Token = "0x20008FB")]
 		private class SurfaceHistory
 		{
-			// Token: 0x170008CD RID: 2253
 			[global::Cpp2ILInjected.Token(Token = "0x170007F1")]
 			public double this[int index]
 			{
@@ -238,8 +220,6 @@ namespace Terraria.GameContent.Biomes
 				}
 			}
 
-			// Token: 0x170008CE RID: 2254
-			// (get) Token: 0x06004F6A RID: 20330 RVA: 0x00030062 File Offset: 0x0002E262
 			[global::Cpp2ILInjected.Token(Token = "0x170007F2")]
 			public int Length
 			{
@@ -252,7 +232,6 @@ namespace Terraria.GameContent.Biomes
 				}
 			}
 
-			// Token: 0x06004F6B RID: 20331 RVA: 0x00030065 File Offset: 0x0002E265
 			[global::Cpp2ILInjected.Token(Token = "0x600464E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7D4060", Offset = "0x7D4060", Length = "0x68")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TerrainPass), Member = "ApplyPass", MemberParameters = new object[]
@@ -268,7 +247,6 @@ namespace Terraria.GameContent.Biomes
 				throw null;
 			}
 
-			// Token: 0x06004F6C RID: 20332 RVA: 0x00030068 File Offset: 0x0002E268
 			[global::Cpp2ILInjected.Token(Token = "0x600464F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7D46F4", Offset = "0x7D46F4", Length = "0x28")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -278,12 +256,10 @@ namespace Terraria.GameContent.Biomes
 				throw null;
 			}
 
-			// Token: 0x04008D1E RID: 36126
 			[global::Cpp2ILInjected.Token(Token = "0x4008270")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private readonly double[] _heights;
 
-			// Token: 0x04008D1F RID: 36127
 			[global::Cpp2ILInjected.Token(Token = "0x4008271")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private int _index;

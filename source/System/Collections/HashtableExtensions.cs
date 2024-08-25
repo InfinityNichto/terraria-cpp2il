@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections
 {
-	// Token: 0x02000303 RID: 771
 	[global::Cpp2ILInjected.Token(Token = "0x2000416")]
 	internal static class HashtableExtensions
 	{
-		// Token: 0x06001941 RID: 6465 RVA: 0x00007520 File Offset: 0x00005720
 		[global::Cpp2ILInjected.Token(Token = "0x6001C1F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158B388", Offset = "0x158B388", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]

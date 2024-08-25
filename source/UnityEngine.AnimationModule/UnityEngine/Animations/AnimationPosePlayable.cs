@@ -7,7 +7,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine.Animations
 {
-	// Token: 0x02000019 RID: 25
 	[RequiredByNativeCode]
 	[StaticAccessor("AnimationPosePlayableBindings", StaticAccessorType.DoubleColon)]
 	[NativeHeader("Modules/Animation/Director/AnimationPosePlayable.h")]
@@ -16,7 +15,6 @@ namespace UnityEngine.Animations
 	[global::Cpp2ILInjected.Token(Token = "0x200001A")]
 	internal struct AnimationPosePlayable : IEquatable<AnimationPosePlayable>
 	{
-		// Token: 0x06000037 RID: 55 RVA: 0x000020DD File Offset: 0x000002DD
 		[global::Cpp2ILInjected.Token(Token = "0x6000039")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F678B0", Offset = "0x1F678B0", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AnimationPosePlayable), Member = ".cctor", ReturnType = typeof(void))]
@@ -30,7 +28,6 @@ namespace UnityEngine.Animations
 			throw null;
 		}
 
-		// Token: 0x06000038 RID: 56 RVA: 0x000020E0 File Offset: 0x000002E0
 		[global::Cpp2ILInjected.Token(Token = "0x600003A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6796C", Offset = "0x1F6796C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -39,7 +36,6 @@ namespace UnityEngine.Animations
 			throw null;
 		}
 
-		// Token: 0x06000039 RID: 57 RVA: 0x000020E3 File Offset: 0x000002E3
 		[global::Cpp2ILInjected.Token(Token = "0x600003B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F67978", Offset = "0x1F67978", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -50,7 +46,6 @@ namespace UnityEngine.Animations
 			throw null;
 		}
 
-		// Token: 0x0600003A RID: 58 RVA: 0x000020E6 File Offset: 0x000002E6
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600003C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F67A24", Offset = "0x1F67A24", Length = "0x9C")]
@@ -63,12 +58,10 @@ namespace UnityEngine.Animations
 			throw null;
 		}
 
-		// Token: 0x04000047 RID: 71
 		[global::Cpp2ILInjected.Token(Token = "0x4000047")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private PlayableHandle m_Handle;
 
-		// Token: 0x04000048 RID: 72
 		[global::Cpp2ILInjected.Token(Token = "0x4000048")]
 		private static readonly AnimationPosePlayable m_NullPlayable;
 	}

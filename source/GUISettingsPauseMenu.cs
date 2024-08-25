@@ -8,11 +8,9 @@ using Terraria;
 using Terraria.Audio;
 using UnityEngine;
 
-// Token: 0x02000102 RID: 258
 [global::Cpp2ILInjected.Token(Token = "0x2000171")]
 public class GUISettingsPauseMenu
 {
-	// Token: 0x06000975 RID: 2421 RVA: 0x000237A4 File Offset: 0x000219A4
 	[global::Cpp2ILInjected.Token(Token = "0x6000A75")]
 	[global::Cpp2ILInjected.Address(RVA = "0x998DCC", Offset = "0x998DCC", Length = "0xA8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettingsPauseMenu), Member = "Draw", ReturnType = typeof(void))]
@@ -23,7 +21,6 @@ public class GUISettingsPauseMenu
 		throw null;
 	}
 
-	// Token: 0x06000976 RID: 2422 RVA: 0x000237A7 File Offset: 0x000219A7
 	[global::Cpp2ILInjected.Token(Token = "0x6000A76")]
 	[global::Cpp2ILInjected.Address(RVA = "0x998E74", Offset = "0x998E74", Length = "0xDCC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -105,7 +102,6 @@ public class GUISettingsPauseMenu
 		throw null;
 	}
 
-	// Token: 0x06000977 RID: 2423 RVA: 0x000237AA File Offset: 0x000219AA
 	[global::Cpp2ILInjected.Token(Token = "0x6000A77")]
 	[global::Cpp2ILInjected.Address(RVA = "0x999C64", Offset = "0x999C64", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -116,47 +112,38 @@ public class GUISettingsPauseMenu
 		throw null;
 	}
 
-	// Token: 0x040007AB RID: 1963
 	[global::Cpp2ILInjected.Token(Token = "0x4000A5E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool Enabled;
 
-	// Token: 0x040007AC RID: 1964
 	[global::Cpp2ILInjected.Token(Token = "0x4000A5F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private GUIContollerTransactionButtonList _controllerList;
 
-	// Token: 0x040007AD RID: 1965
 	[global::Cpp2ILInjected.Token(Token = "0x4000A60")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float settingsScale;
 
-	// Token: 0x040007AE RID: 1966
 	[global::Cpp2ILInjected.Token(Token = "0x4000A61")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private float HomeButtonScale;
 
-	// Token: 0x040007AF RID: 1967
 	[global::Cpp2ILInjected.Token(Token = "0x4000A62")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private float AchievementsButtonScale;
 
-	// Token: 0x040007B0 RID: 1968
 	[global::Cpp2ILInjected.Token(Token = "0x4000A63")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	private float BestiaryButtonScale;
 
-	// Token: 0x040007B1 RID: 1969
 	[global::Cpp2ILInjected.Token(Token = "0x4000A64")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private float JourneySettingsButtonScale;
 
-	// Token: 0x040007B2 RID: 1970
 	[global::Cpp2ILInjected.Token(Token = "0x4000A65")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private float CloseButtonScale;
 
-	// Token: 0x040007B3 RID: 1971
 	[global::Cpp2ILInjected.Token(Token = "0x4000A66")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private bool creativeModeActive;

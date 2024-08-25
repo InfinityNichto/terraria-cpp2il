@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$dd/dff/interfaceSystem_1_1Runtime_1_1Remoting_1_1IRemotingTypeInfo.html" title=" " alt="" coords="5,69,207,109"/>
-<area shape="rect" id="Node000001" href="$d5/d9e/classSystem_1_1Runtime_1_1Remoting_1_1Proxies_1_1RemotingProxy.html" title=" " alt="" coords="255,5,456,45"/>
-<area shape="poly" id="edge3654_Node000000_Node000001" title=" " alt="" coords="197,63,276,43,278,48,198,68"/>
-<area shape="rect" id="Node000003" href="$d1/de7/classSystem_1_1Runtime_1_1Remoting_1_1TypeInfo.html" title=" " alt="" coords="255,69,456,109"/>
-<area shape="poly" id="edge3655_Node000000_Node000003" title=" " alt="" coords="221,87,254,87,254,92,221,92"/>
-<area shape="rect" id="Node000002" href="$d9/d8b/classSystem_1_1Runtime_1_1Remoting_1_1Proxies_1_1RealProxy.html" title=" " alt="" coords="5,5,207,45"/>
-<area shape="poly" id="edge3656_Node000002_Node000001" title=" " alt="" coords="221,23,254,23,254,28,221,28"/>
-</map>

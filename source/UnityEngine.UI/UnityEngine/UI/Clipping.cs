@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x02000009 RID: 9
 	[global::Cpp2ILInjected.Token(Token = "0x200000B")]
 	public static class Clipping
 	{
-		// Token: 0x06000048 RID: 72 RVA: 0x00002122 File Offset: 0x00000322
 		[global::Cpp2ILInjected.Token(Token = "0x600004F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA81E4", Offset = "0x1FA81E4", Length = "0x248")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

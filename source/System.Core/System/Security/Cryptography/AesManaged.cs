@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000003 RID: 3
 	[global::Cpp2ILInjected.Token(Token = "0x2000003")]
 	public sealed class AesManaged : Aes
 	{
-		// Token: 0x06000002 RID: 2 RVA: 0x000042CB File Offset: 0x000024CB
 		[global::Cpp2ILInjected.Token(Token = "0x6000002")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D3C2C0", Offset = "0x1D3C2C0", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,9 +21,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x17000001 RID: 1
-		// (get) Token: 0x06000003 RID: 3 RVA: 0x000042CE File Offset: 0x000024CE
-		// (set) Token: 0x06000004 RID: 4 RVA: 0x000042D1 File Offset: 0x000024D1
 		[global::Cpp2ILInjected.Token(Token = "0x17000001")]
 		public override int FeedbackSize
 		{
@@ -47,9 +42,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000002 RID: 2
-		// (get) Token: 0x06000005 RID: 5 RVA: 0x000042D4 File Offset: 0x000024D4
-		// (set) Token: 0x06000006 RID: 6 RVA: 0x000042D7 File Offset: 0x000024D7
 		[global::Cpp2ILInjected.Token(Token = "0x17000002")]
 		public override byte[] IV
 		{
@@ -71,9 +63,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000003 RID: 3
-		// (get) Token: 0x06000007 RID: 7 RVA: 0x000042DA File Offset: 0x000024DA
-		// (set) Token: 0x06000008 RID: 8 RVA: 0x000042DD File Offset: 0x000024DD
 		[global::Cpp2ILInjected.Token(Token = "0x17000003")]
 		public override byte[] Key
 		{
@@ -95,9 +84,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000004 RID: 4
-		// (get) Token: 0x06000009 RID: 9 RVA: 0x000042E0 File Offset: 0x000024E0
-		// (set) Token: 0x0600000A RID: 10 RVA: 0x000042E3 File Offset: 0x000024E3
 		[global::Cpp2ILInjected.Token(Token = "0x17000004")]
 		public override int KeySize
 		{
@@ -119,9 +105,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000005 RID: 5
-		// (get) Token: 0x0600000B RID: 11 RVA: 0x000042E6 File Offset: 0x000024E6
-		// (set) Token: 0x0600000C RID: 12 RVA: 0x000042E9 File Offset: 0x000024E9
 		[global::Cpp2ILInjected.Token(Token = "0x17000005")]
 		public override CipherMode Mode
 		{
@@ -145,9 +128,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000006 RID: 6
-		// (get) Token: 0x0600000D RID: 13 RVA: 0x000042EC File Offset: 0x000024EC
-		// (set) Token: 0x0600000E RID: 14 RVA: 0x000042EF File Offset: 0x000024EF
 		[global::Cpp2ILInjected.Token(Token = "0x17000006")]
 		public override PaddingMode Padding
 		{
@@ -169,7 +149,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x0600000F RID: 15 RVA: 0x000042F2 File Offset: 0x000024F2
 		[global::Cpp2ILInjected.Token(Token = "0x600000F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D3C550", Offset = "0x1D3C550", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -179,7 +158,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06000010 RID: 16 RVA: 0x000042F5 File Offset: 0x000024F5
 		[global::Cpp2ILInjected.Token(Token = "0x6000010")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D3C564", Offset = "0x1D3C564", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -197,7 +175,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06000011 RID: 17 RVA: 0x000042F8 File Offset: 0x000024F8
 		[global::Cpp2ILInjected.Token(Token = "0x6000011")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D3C69C", Offset = "0x1D3C69C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -207,7 +184,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06000012 RID: 18 RVA: 0x000042FB File Offset: 0x000024FB
 		[global::Cpp2ILInjected.Token(Token = "0x6000012")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D3C6B0", Offset = "0x1D3C6B0", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -225,7 +201,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06000013 RID: 19 RVA: 0x000042FE File Offset: 0x000024FE
 		[global::Cpp2ILInjected.Token(Token = "0x6000013")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D3C7E8", Offset = "0x1D3C7E8", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -237,7 +212,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06000014 RID: 20 RVA: 0x00004301 File Offset: 0x00002501
 		[global::Cpp2ILInjected.Token(Token = "0x6000014")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D3C910", Offset = "0x1D3C910", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -247,7 +221,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06000015 RID: 21 RVA: 0x00004304 File Offset: 0x00002504
 		[global::Cpp2ILInjected.Token(Token = "0x6000015")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D3C924", Offset = "0x1D3C924", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -257,7 +230,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x04000001 RID: 1
 		[global::Cpp2ILInjected.Token(Token = "0x4000001")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private RijndaelManaged m_rijndael;

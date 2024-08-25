@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x020002EB RID: 747
 	[global::Cpp2ILInjected.Token(Token = "0x20003EC")]
 	public class RunWorkerCompletedEventArgs : AsyncCompletedEventArgs
 	{
-		// Token: 0x06001863 RID: 6243 RVA: 0x000072BF File Offset: 0x000054BF
 		[global::Cpp2ILInjected.Token(Token = "0x6001ADA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E777B8", Offset = "0x1E777B8", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BackgroundWorker), Member = "WorkerThreadStart", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
@@ -24,8 +22,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x170005EE RID: 1518
-		// (get) Token: 0x06001864 RID: 6244 RVA: 0x000072C2 File Offset: 0x000054C2
 		[global::Cpp2ILInjected.Token(Token = "0x17000627")]
 		public object Result
 		{
@@ -39,8 +35,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x170005EF RID: 1519
-		// (get) Token: 0x06001865 RID: 6245 RVA: 0x000072C5 File Offset: 0x000054C5
 		[EditorBrowsable(EditorBrowsableState.Never)]
 		[Browsable(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000628")]
@@ -55,7 +49,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x04000F25 RID: 3877
 		[global::Cpp2ILInjected.Token(Token = "0x400134E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private object result;

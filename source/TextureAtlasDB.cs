@@ -9,12 +9,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using UnityEngine;
 
-// Token: 0x02000232 RID: 562
 [global::Cpp2ILInjected.Token(Token = "0x20002E6")]
 public class TextureAtlasDB
 {
-	// Token: 0x1700016F RID: 367
-	// (get) Token: 0x06000FDB RID: 4059 RVA: 0x00024A73 File Offset: 0x00022C73
 	[global::Cpp2ILInjected.Token(Token = "0x17000197")]
 	public static bool DefaultTexturesHigh
 	{
@@ -33,7 +30,6 @@ public class TextureAtlasDB
 		}
 	}
 
-	// Token: 0x06000FDC RID: 4060 RVA: 0x00024A76 File Offset: 0x00022C76
 	[global::Cpp2ILInjected.Token(Token = "0x6001125")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6817C", Offset = "0xA6817C", Length = "0x19C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -58,7 +54,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FDD RID: 4061 RVA: 0x00024A79 File Offset: 0x00022C79
 	[global::Cpp2ILInjected.Token(Token = "0x6001126")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA68388", Offset = "0xA68388", Length = "0x160")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,8 +80,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x17000170 RID: 368
-	// (get) Token: 0x06000FDE RID: 4062 RVA: 0x00024A7C File Offset: 0x00022C7C
 	[global::Cpp2ILInjected.Token(Token = "0x17000198")]
 	private string ContentRoot
 	{
@@ -104,7 +97,6 @@ public class TextureAtlasDB
 		}
 	}
 
-	// Token: 0x06000FDF RID: 4063 RVA: 0x00024A7F File Offset: 0x00022C7F
 	[global::Cpp2ILInjected.Token(Token = "0x6001128")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA68318", Offset = "0xA68318", Length = "0x70")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TextureAtlasDB), Member = "LoadTextureDBs", ReturnType = typeof(void))]
@@ -117,7 +109,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE0 RID: 4064 RVA: 0x00024A82 File Offset: 0x00022C82
 	[global::Cpp2ILInjected.Token(Token = "0x6001129")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA685E0", Offset = "0xA685E0", Length = "0x90")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TextureAtlasDB), Member = "LoadDB", MemberParameters = new object[]
@@ -134,7 +125,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE1 RID: 4065 RVA: 0x00024A85 File Offset: 0x00022C85
 	[global::Cpp2ILInjected.Token(Token = "0x600112A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA68C60", Offset = "0xA68C60", Length = "0x22C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -153,7 +143,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE2 RID: 4066 RVA: 0x00024A88 File Offset: 0x00022C88
 	[global::Cpp2ILInjected.Token(Token = "0x600112B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA68E8C", Offset = "0xA68E8C", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -164,7 +153,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE3 RID: 4067 RVA: 0x00024A8B File Offset: 0x00022C8B
 	[global::Cpp2ILInjected.Token(Token = "0x600112C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA69178", Offset = "0xA69178", Length = "0x5C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TextureAtlasDB), Member = "Load", ReturnType = typeof(void))]
@@ -180,7 +168,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE4 RID: 4068 RVA: 0x00024A8E File Offset: 0x00022C8E
 	[global::Cpp2ILInjected.Token(Token = "0x600112D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA68670", Offset = "0xA68670", Length = "0x5F0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -230,7 +217,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE5 RID: 4069 RVA: 0x00024A91 File Offset: 0x00022C91
 	[global::Cpp2ILInjected.Token(Token = "0x600112E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA69440", Offset = "0xA69440", Length = "0x55C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -249,7 +235,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE6 RID: 4070 RVA: 0x00024A94 File Offset: 0x00022C94
 	[global::Cpp2ILInjected.Token(Token = "0x600112F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA69B08", Offset = "0xA69B08", Length = "0x230")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -264,7 +249,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE7 RID: 4071 RVA: 0x00024A97 File Offset: 0x00022C97
 	[global::Cpp2ILInjected.Token(Token = "0x6001130")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA69D38", Offset = "0xA69D38", Length = "0x1C4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Microsoft.Xna.Framework.Graphics.Texture2D), Member = "get_UnityTexture", ReturnType = typeof(global::UnityEngine.Texture2D))]
@@ -306,7 +290,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE8 RID: 4072 RVA: 0x00024A9A File Offset: 0x00022C9A
 	[global::Cpp2ILInjected.Token(Token = "0x6001131")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA68ED8", Offset = "0xA68ED8", Length = "0x2A0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -341,7 +324,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FE9 RID: 4073 RVA: 0x00024A9D File Offset: 0x00022C9D
 	[global::Cpp2ILInjected.Token(Token = "0x6001132")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA69EFC", Offset = "0xA69EFC", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Microsoft.Xna.Framework.Graphics.Texture2D), Member = "RefreshAtlasTexture", ReturnType = typeof(void))]
@@ -352,7 +334,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FEA RID: 4074 RVA: 0x00024AA0 File Offset: 0x00022CA0
 	[global::Cpp2ILInjected.Token(Token = "0x6001133")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA69F0C", Offset = "0xA69F0C", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Microsoft.Xna.Framework.Graphics.Texture2D), Member = "RefreshAtlasTexture", ReturnType = typeof(void))]
@@ -363,7 +344,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FEB RID: 4075 RVA: 0x00024AA3 File Offset: 0x00022CA3
 	[global::Cpp2ILInjected.Token(Token = "0x6001134")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA684E8", Offset = "0xA684E8", Length = "0x8C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TextureAtlasDB), Member = "LoadTexture", MemberParameters = new object[]
@@ -384,7 +364,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FEC RID: 4076 RVA: 0x00024AA6 File Offset: 0x00022CA6
 	[global::Cpp2ILInjected.Token(Token = "0x6001135")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA69F1C", Offset = "0xA69F1C", Length = "0x128")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -403,9 +382,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x17000171 RID: 369
-	// (get) Token: 0x06000FED RID: 4077 RVA: 0x00024AA9 File Offset: 0x00022CA9
-	// (set) Token: 0x06000FEE RID: 4078 RVA: 0x00024AAC File Offset: 0x00022CAC
 	[global::Cpp2ILInjected.Token(Token = "0x17000199")]
 	public static bool UITexturesHigh
 	{
@@ -436,9 +412,6 @@ public class TextureAtlasDB
 		}
 	}
 
-	// Token: 0x17000172 RID: 370
-	// (get) Token: 0x06000FEF RID: 4079 RVA: 0x00024AAF File Offset: 0x00022CAF
-	// (set) Token: 0x06000FF0 RID: 4080 RVA: 0x00024AB2 File Offset: 0x00022CB2
 	[global::Cpp2ILInjected.Token(Token = "0x1700019A")]
 	public static bool CharacterTexturesHigh
 	{
@@ -469,9 +442,6 @@ public class TextureAtlasDB
 		}
 	}
 
-	// Token: 0x17000173 RID: 371
-	// (get) Token: 0x06000FF1 RID: 4081 RVA: 0x00024AB5 File Offset: 0x00022CB5
-	// (set) Token: 0x06000FF2 RID: 4082 RVA: 0x00024AB8 File Offset: 0x00022CB8
 	[global::Cpp2ILInjected.Token(Token = "0x1700019B")]
 	public static bool ProjectileTexturesHigh
 	{
@@ -502,9 +472,6 @@ public class TextureAtlasDB
 		}
 	}
 
-	// Token: 0x17000174 RID: 372
-	// (get) Token: 0x06000FF3 RID: 4083 RVA: 0x00024ABB File Offset: 0x00022CBB
-	// (set) Token: 0x06000FF4 RID: 4084 RVA: 0x00024ABE File Offset: 0x00022CBE
 	[global::Cpp2ILInjected.Token(Token = "0x1700019C")]
 	public static bool BackgroundTexturesHigh
 	{
@@ -535,9 +502,6 @@ public class TextureAtlasDB
 		}
 	}
 
-	// Token: 0x17000175 RID: 373
-	// (get) Token: 0x06000FF5 RID: 4085 RVA: 0x00024AC1 File Offset: 0x00022CC1
-	// (set) Token: 0x06000FF6 RID: 4086 RVA: 0x00024AC4 File Offset: 0x00022CC4
 	[global::Cpp2ILInjected.Token(Token = "0x1700019D")]
 	public static bool GoreTexturesHigh
 	{
@@ -568,9 +532,6 @@ public class TextureAtlasDB
 		}
 	}
 
-	// Token: 0x17000176 RID: 374
-	// (get) Token: 0x06000FF7 RID: 4087 RVA: 0x00024AC7 File Offset: 0x00022CC7
-	// (set) Token: 0x06000FF8 RID: 4088 RVA: 0x00024ACA File Offset: 0x00022CCA
 	[global::Cpp2ILInjected.Token(Token = "0x1700019E")]
 	public static bool GlowTexturesHigh
 	{
@@ -601,9 +562,6 @@ public class TextureAtlasDB
 		}
 	}
 
-	// Token: 0x17000177 RID: 375
-	// (get) Token: 0x06000FF9 RID: 4089 RVA: 0x00024ACD File Offset: 0x00022CCD
-	// (set) Token: 0x06000FFA RID: 4090 RVA: 0x00024AD0 File Offset: 0x00022CD0
 	[global::Cpp2ILInjected.Token(Token = "0x1700019F")]
 	public static bool EnvironmentTexturesHigh
 	{
@@ -634,7 +592,6 @@ public class TextureAtlasDB
 		}
 	}
 
-	// Token: 0x06000FFB RID: 4091 RVA: 0x00024AD3 File Offset: 0x00022CD3
 	[global::Cpp2ILInjected.Token(Token = "0x6001144")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6A734", Offset = "0xA6A734", Length = "0x90")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -646,7 +603,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FFC RID: 4092 RVA: 0x00024AD6 File Offset: 0x00022CD6
 	[global::Cpp2ILInjected.Token(Token = "0x6001145")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6A7C4", Offset = "0xA6A7C4", Length = "0x260")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -664,7 +620,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FFD RID: 4093 RVA: 0x00024AD9 File Offset: 0x00022CD9
 	[global::Cpp2ILInjected.Token(Token = "0x6001146")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6AA24", Offset = "0xA6AA24", Length = "0x5C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettingsOverlay), Member = "ResetSetting", MemberParameters = new object[] { typeof(GUISettingID) }, ReturnType = typeof(void))]
@@ -679,7 +634,6 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x06000FFE RID: 4094 RVA: 0x00024ADC File Offset: 0x00022CDC
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6001147")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6AA80", Offset = "0xA6AA80", Length = "0xE0")]
@@ -692,173 +646,130 @@ public class TextureAtlasDB
 		throw null;
 	}
 
-	// Token: 0x04001B56 RID: 6998
 	[global::Cpp2ILInjected.Token(Token = "0x40020EA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public int[] BatchTextureIndex;
 
-	// Token: 0x04001B57 RID: 6999
 	[global::Cpp2ILInjected.Token(Token = "0x40020EB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public int[] TextureWidth;
 
-	// Token: 0x04001B58 RID: 7000
 	[global::Cpp2ILInjected.Token(Token = "0x40020EC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public int[] TextureHeight;
 
-	// Token: 0x04001B59 RID: 7001
 	[global::Cpp2ILInjected.Token(Token = "0x40020ED")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private bool UseLowResTextures;
 
-	// Token: 0x04001B5A RID: 7002
 	[global::Cpp2ILInjected.Token(Token = "0x40020EE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2A")]
 	private short NumberOfPages;
 
-	// Token: 0x04001B5B RID: 7003
 	[global::Cpp2ILInjected.Token(Token = "0x40020EF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private string Id;
 
-	// Token: 0x04001B5C RID: 7004
 	[global::Cpp2ILInjected.Token(Token = "0x40020F0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private bool loaded;
 
-	// Token: 0x04001B5D RID: 7005
 	[global::Cpp2ILInjected.Token(Token = "0x40020F1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private bool[] TexturesLoadRequested;
 
-	// Token: 0x04001B5E RID: 7006
 	[global::Cpp2ILInjected.Token(Token = "0x40020F2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private global::UnityEngine.Texture2D[] Textures;
 
-	// Token: 0x04001B5F RID: 7007
 	[global::Cpp2ILInjected.Token(Token = "0x40020F3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private global::UnityEngine.Texture2D[] TexturesAlpha;
 
-	// Token: 0x04001B60 RID: 7008
 	[global::Cpp2ILInjected.Token(Token = "0x40020F4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private global::UnityEngine.Texture2D[] TexturesPal;
 
-	// Token: 0x04001B61 RID: 7009
 	[global::Cpp2ILInjected.Token(Token = "0x40020F5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private Dictionary<int, TextureAtlasEntry> AtlasEntries;
 
-	// Token: 0x04001B62 RID: 7010
 	[global::Cpp2ILInjected.Token(Token = "0x40020F6")]
 	public static List<TextureAtlasDB> AltlasDBs;
 
-	// Token: 0x04001B63 RID: 7011
 	[global::Cpp2ILInjected.Token(Token = "0x40020F7")]
 	private static bool _uiTexturesHigh;
 
-	// Token: 0x04001B64 RID: 7012
 	[global::Cpp2ILInjected.Token(Token = "0x40020F8")]
 	private static bool _characterTexturesHigh;
 
-	// Token: 0x04001B65 RID: 7013
 	[global::Cpp2ILInjected.Token(Token = "0x40020F9")]
 	private static bool _projectileTexturesHigh;
 
-	// Token: 0x04001B66 RID: 7014
 	[global::Cpp2ILInjected.Token(Token = "0x40020FA")]
 	private static bool _backgroundTexturesHigh;
 
-	// Token: 0x04001B67 RID: 7015
 	[global::Cpp2ILInjected.Token(Token = "0x40020FB")]
 	private static bool _goreTexturesHigh;
 
-	// Token: 0x04001B68 RID: 7016
 	[global::Cpp2ILInjected.Token(Token = "0x40020FC")]
 	private static bool _glowTexturesHigh;
 
-	// Token: 0x04001B69 RID: 7017
 	[global::Cpp2ILInjected.Token(Token = "0x40020FD")]
 	private static bool _environmentTexturesHigh;
 
-	// Token: 0x04001B6A RID: 7018
 	[global::Cpp2ILInjected.Token(Token = "0x40020FE")]
 	private static List<TextureAtlasDB.SwitchEntry> pendingSwitches;
 
-	// Token: 0x04001B6B RID: 7019
 	[global::Cpp2ILInjected.Token(Token = "0x40020FF")]
 	private static bool PendingUnload;
 
-	// Token: 0x02000813 RID: 2067
 	[global::Cpp2ILInjected.Token(Token = "0x20002E7")]
 	public enum AtlasIds
 	{
-		// Token: 0x04007D53 RID: 32083
 		[global::Cpp2ILInjected.Token(Token = "0x4002101")]
 		Tiles,
-		// Token: 0x04007D54 RID: 32084
 		[global::Cpp2ILInjected.Token(Token = "0x4002102")]
 		Misc,
-		// Token: 0x04007D55 RID: 32085
 		[global::Cpp2ILInjected.Token(Token = "0x4002103")]
 		NPC,
-		// Token: 0x04007D56 RID: 32086
 		[global::Cpp2ILInjected.Token(Token = "0x4002104")]
 		Walls,
-		// Token: 0x04007D57 RID: 32087
 		[global::Cpp2ILInjected.Token(Token = "0x4002105")]
 		Waterfall,
-		// Token: 0x04007D58 RID: 32088
 		[global::Cpp2ILInjected.Token(Token = "0x4002106")]
 		Trees,
-		// Token: 0x04007D59 RID: 32089
 		[global::Cpp2ILInjected.Token(Token = "0x4002107")]
 		Player,
-		// Token: 0x04007D5A RID: 32090
 		[global::Cpp2ILInjected.Token(Token = "0x4002108")]
 		Item,
-		// Token: 0x04007D5B RID: 32091
 		[global::Cpp2ILInjected.Token(Token = "0x4002109")]
 		Projectile,
-		// Token: 0x04007D5C RID: 32092
 		[global::Cpp2ILInjected.Token(Token = "0x400210A")]
 		Gore,
-		// Token: 0x04007D5D RID: 32093
 		[global::Cpp2ILInjected.Token(Token = "0x400210B")]
 		Glow,
-		// Token: 0x04007D5E RID: 32094
 		[global::Cpp2ILInjected.Token(Token = "0x400210C")]
 		MapBG,
-		// Token: 0x04007D5F RID: 32095
 		[global::Cpp2ILInjected.Token(Token = "0x400210D")]
 		UI,
-		// Token: 0x04007D60 RID: 32096
 		[global::Cpp2ILInjected.Token(Token = "0x400210E")]
 		Buff,
-		// Token: 0x04007D61 RID: 32097
 		[global::Cpp2ILInjected.Token(Token = "0x400210F")]
 		MiniMap,
-		// Token: 0x04007D62 RID: 32098
 		[global::Cpp2ILInjected.Token(Token = "0x4002110")]
 		Background,
-		// Token: 0x04007D63 RID: 32099
 		[global::Cpp2ILInjected.Token(Token = "0x4002111")]
 		Count
 	}
 
-	// Token: 0x02000814 RID: 2068
 	[global::Cpp2ILInjected.Token(Token = "0x20002E8")]
 	private struct SwitchEntry
 	{
-		// Token: 0x04007D64 RID: 32100
 		[global::Cpp2ILInjected.Token(Token = "0x4002112")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public int atlas;
 
-		// Token: 0x04007D65 RID: 32101
 		[global::Cpp2ILInjected.Token(Token = "0x4002113")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public bool useLowRes;

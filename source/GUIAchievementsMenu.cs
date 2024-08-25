@@ -15,12 +15,9 @@ using Terraria.UI;
 using Terraria.UI.Chat;
 using UnityEngine;
 
-// Token: 0x020001C1 RID: 449
 [global::Cpp2ILInjected.Token(Token = "0x2000256")]
 public class GUIAchievementsMenu
 {
-	// Token: 0x1700014D RID: 333
-	// (get) Token: 0x06000C3F RID: 3135 RVA: 0x00024002 File Offset: 0x00022202
 	[global::Cpp2ILInjected.Token(Token = "0x17000174")]
 	private GUIContollerTransactionButtonList FilterListOptionsController
 	{
@@ -42,7 +39,6 @@ public class GUIAchievementsMenu
 		}
 	}
 
-	// Token: 0x06000C40 RID: 3136 RVA: 0x00024005 File Offset: 0x00022205
 	[global::Cpp2ILInjected.Token(Token = "0x6000D5B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D7844", Offset = "0x9D7844", Length = "0xF4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -55,8 +51,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x1700014E RID: 334
-	// (get) Token: 0x06000C41 RID: 3137 RVA: 0x00024008 File Offset: 0x00022208
 	[global::Cpp2ILInjected.Token(Token = "0x17000175")]
 	private List<Achievement> Achievements
 	{
@@ -73,7 +67,6 @@ public class GUIAchievementsMenu
 		}
 	}
 
-	// Token: 0x06000C42 RID: 3138 RVA: 0x0002400B File Offset: 0x0002220B
 	[global::Cpp2ILInjected.Token(Token = "0x6000D5D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D79A4", Offset = "0x9D79A4", Length = "0x274")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -102,7 +95,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C43 RID: 3139 RVA: 0x0002400E File Offset: 0x0002220E
 	[global::Cpp2ILInjected.Token(Token = "0x6000D5E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D7DD8", Offset = "0x9D7DD8", Length = "0x2D4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -155,7 +147,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C44 RID: 3140 RVA: 0x00024011 File Offset: 0x00022211
 	[global::Cpp2ILInjected.Token(Token = "0x6000D5F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D80AC", Offset = "0x9D80AC", Length = "0x5F4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -259,7 +250,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C45 RID: 3141 RVA: 0x00024014 File Offset: 0x00022214
 	[global::Cpp2ILInjected.Token(Token = "0x6000D60")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D86A0", Offset = "0x9D86A0", Length = "0x1CC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -285,7 +275,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C46 RID: 3142 RVA: 0x00024017 File Offset: 0x00022217
 	[global::Cpp2ILInjected.Token(Token = "0x6000D61")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D886C", Offset = "0x9D886C", Length = "0xE08")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -428,7 +417,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C47 RID: 3143 RVA: 0x0002401A File Offset: 0x0002221A
 	[global::Cpp2ILInjected.Token(Token = "0x6000D62")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D9FB4", Offset = "0x9D9FB4", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -437,7 +425,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C48 RID: 3144 RVA: 0x0002401D File Offset: 0x0002221D
 	[global::Cpp2ILInjected.Token(Token = "0x6000D63")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D9FBC", Offset = "0x9D9FBC", Length = "0x360")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -479,7 +466,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C49 RID: 3145 RVA: 0x00024020 File Offset: 0x00022220
 	[global::Cpp2ILInjected.Token(Token = "0x6000D64")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D7C18", Offset = "0x9D7C18", Length = "0xF0")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAchievementsMenu), Member = "Open", MemberParameters = new object[]
@@ -495,7 +481,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C4A RID: 3146 RVA: 0x00024023 File Offset: 0x00022223
 	[global::Cpp2ILInjected.Token(Token = "0x6000D65")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D7D08", Offset = "0x9D7D08", Length = "0xD0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -513,7 +498,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C4B RID: 3147 RVA: 0x00024026 File Offset: 0x00022226
 	[global::Cpp2ILInjected.Token(Token = "0x6000D66")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DA31C", Offset = "0x9DA31C", Length = "0x1F0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -540,7 +524,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C4C RID: 3148 RVA: 0x00024029 File Offset: 0x00022229
 	[global::Cpp2ILInjected.Token(Token = "0x6000D67")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DA50C", Offset = "0x9DA50C", Length = "0x88")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -551,7 +534,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C4D RID: 3149 RVA: 0x0002402C File Offset: 0x0002222C
 	[global::Cpp2ILInjected.Token(Token = "0x6000D68")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D9674", Offset = "0x9D9674", Length = "0x940")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -628,7 +610,6 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x06000C4E RID: 3150 RVA: 0x0002402F File Offset: 0x0002222F
 	[global::Cpp2ILInjected.Token(Token = "0x6000D69")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DA594", Offset = "0x9DA594", Length = "0x238")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -649,166 +630,132 @@ public class GUIAchievementsMenu
 		throw null;
 	}
 
-	// Token: 0x040013CC RID: 5068
 	[global::Cpp2ILInjected.Token(Token = "0x40018B9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private GUIControllerAchievements _controllerInput;
 
-	// Token: 0x040013CD RID: 5069
 	[global::Cpp2ILInjected.Token(Token = "0x40018BA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private GUIContollerTransactionButtonList _filterListOptionsController;
 
-	// Token: 0x040013CE RID: 5070
 	[global::Cpp2ILInjected.Token(Token = "0x40018BB")]
 	private const double SINGLE_CLICK_TIME = 350.0;
 
-	// Token: 0x040013CF RID: 5071
 	[global::Cpp2ILInjected.Token(Token = "0x40018BC")]
 	private const float SINGLE_CLICK_DISTANCE = 30f;
 
-	// Token: 0x040013D0 RID: 5072
 	[global::Cpp2ILInjected.Token(Token = "0x40018BD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private DateTime LastTouchTime;
 
-	// Token: 0x040013D1 RID: 5073
 	[global::Cpp2ILInjected.Token(Token = "0x40018BE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private Microsoft.Xna.Framework.Vector2 LastTouchMouse;
 
-	// Token: 0x040013D2 RID: 5074
 	[global::Cpp2ILInjected.Token(Token = "0x40018BF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private int _source;
 
-	// Token: 0x040013D3 RID: 5075
 	[global::Cpp2ILInjected.Token(Token = "0x40018C0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private bool allowItemClicking;
 
-	// Token: 0x040013D4 RID: 5076
 	[global::Cpp2ILInjected.Token(Token = "0x40018C1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private float TitleScale;
 
-	// Token: 0x040013D5 RID: 5077
 	[global::Cpp2ILInjected.Token(Token = "0x40018C2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 	private float BackScale;
 
-	// Token: 0x040013D6 RID: 5078
 	[global::Cpp2ILInjected.Token(Token = "0x40018C3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	public float ScrollOffset;
 
-	// Token: 0x040013D7 RID: 5079
 	[global::Cpp2ILInjected.Token(Token = "0x40018C4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	private float ScrollMomentum;
 
-	// Token: 0x040013D8 RID: 5080
 	[global::Cpp2ILInjected.Token(Token = "0x40018C5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private int ScrollDragging;
 
-	// Token: 0x040013D9 RID: 5081
 	[global::Cpp2ILInjected.Token(Token = "0x40018C6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	private Microsoft.Xna.Framework.Vector2 DragOffset;
 
-	// Token: 0x040013DA RID: 5082
 	[global::Cpp2ILInjected.Token(Token = "0x40018C7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 	public int SelectedItem;
 
-	// Token: 0x040013DB RID: 5083
 	[global::Cpp2ILInjected.Token(Token = "0x40018C8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	public int SelectedItemId;
 
-	// Token: 0x040013DC RID: 5084
 	[global::Cpp2ILInjected.Token(Token = "0x40018C9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 	private Microsoft.Xna.Framework.Vector2 InGameWindowShift;
 
-	// Token: 0x040013DD RID: 5085
 	[global::Cpp2ILInjected.Token(Token = "0x40018CA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private List<bool> catButtonsActive;
 
-	// Token: 0x040013DE RID: 5086
 	[global::Cpp2ILInjected.Token(Token = "0x40018CB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private List<Achievement> _achievements;
 
-	// Token: 0x040013DF RID: 5087
 	[global::Cpp2ILInjected.Token(Token = "0x40018CC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	public List<Achievement> SortedAchievementsData;
 
-	// Token: 0x040013E0 RID: 5088
 	[global::Cpp2ILInjected.Token(Token = "0x40018CD")]
 	private static Microsoft.Xna.Framework.Graphics.Texture2D AchievementsIcons;
 
-	// Token: 0x040013E1 RID: 5089
 	[global::Cpp2ILInjected.Token(Token = "0x40018CE")]
 	private static Microsoft.Xna.Framework.Graphics.Texture2D AchievementsCategories;
 
-	// Token: 0x040013E2 RID: 5090
 	[global::Cpp2ILInjected.Token(Token = "0x40018CF")]
 	private static Microsoft.Xna.Framework.Graphics.Texture2D AchievementsIconBorder;
 
-	// Token: 0x040013E3 RID: 5091
 	[global::Cpp2ILInjected.Token(Token = "0x40018D0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private string _tooltip;
 
-	// Token: 0x040013E4 RID: 5092
 	[global::Cpp2ILInjected.Token(Token = "0x40018D1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	private bool _tooltipShow;
 
-	// Token: 0x040013E5 RID: 5093
 	[global::Cpp2ILInjected.Token(Token = "0x40018D2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x8C")]
 	private Microsoft.Xna.Framework.Vector2 _tooltipLocation;
 
-	// Token: 0x040013E6 RID: 5094
 	[global::Cpp2ILInjected.Token(Token = "0x40018D3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 	private DateTime _tooltipTime;
 
-	// Token: 0x040013E7 RID: 5095
 	[global::Cpp2ILInjected.Token(Token = "0x40018D4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 	private Microsoft.Xna.Framework.Vector2 startPoint;
 
-	// Token: 0x040013E8 RID: 5096
 	[global::Cpp2ILInjected.Token(Token = "0x40018D5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 	private float[] catScale;
 
-	// Token: 0x040013E9 RID: 5097
 	[global::Cpp2ILInjected.Token(Token = "0x40018D6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 	private bool displayFilters;
 
-	// Token: 0x040013EA RID: 5098
 	[global::Cpp2ILInjected.Token(Token = "0x40018D7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB4")]
 	private float filtersScale;
 
-	// Token: 0x040013EB RID: 5099
 	[global::Cpp2ILInjected.Token(Token = "0x40018D8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 	private int achievementOver;
 
-	// Token: 0x020007F6 RID: 2038
 	[global::Cpp2ILInjected.Token(Token = "0x2000257")]
 	public class AchievementFileData
 	{
-		// Token: 0x060048EE RID: 18670 RVA: 0x0002EF1F File Offset: 0x0002D11F
 		[global::Cpp2ILInjected.Token(Token = "0x6000D6A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9DA7CC", Offset = "0x9DA7CC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -818,7 +765,6 @@ public class GUIAchievementsMenu
 			throw null;
 		}
 
-		// Token: 0x04007CB7 RID: 31927
 		[global::Cpp2ILInjected.Token(Token = "0x40018D9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public string Name;

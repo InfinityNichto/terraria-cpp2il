@@ -1,9 +1,0 @@
-<map id="System.Resources.ResourceSet" name="System.Resources.ResourceSet">
-<area shape="rect" id="Node000001" title=" " alt="" coords="58,133,347,704"/>
-<area shape="rect" id="Node000004" href="$db/d7a/classSystem_1_1Resources_1_1RuntimeResourceSet.html" title=" " alt="" coords="44,752,361,1484"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,718,205,752,200,752,200,718"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,192,78"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,90,125,132,120,134,109,92"/>
-<area shape="rect" id="Node000003" href="$da/d15/classglobal_1_1SystemCollections_1_1IEnumerable.html" title=" " alt="" coords="217,5,399,85"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,99,286,134,281,132,291,98"/>
-</map>

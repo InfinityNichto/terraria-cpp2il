@@ -8,6 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Terraria.DataStructures;
+using Terraria.GameContent;
+using Terraria.GameContent.ObjectInteractions;
 using Terraria.GameContent.Tile_Entities;
 using Terraria.GameContent.UI;
 using Terraria.GameContent.UI.Chat;
@@ -21,18 +24,70 @@ using Terraria.UI;
 
 namespace Terraria.GameInput
 {
-	// Token: 0x020004B0 RID: 1200
 	[global::Cpp2ILInjected.Token(Token = "0x20006C5")]
 	public class PlayerInput
 	{
-		// Token: 0x17000667 RID: 1639
-		// (get) Token: 0x0600341F RID: 13343 RVA: 0x0002B4E4 File Offset: 0x000296E4
-		// (set) Token: 0x06003420 RID: 13344 RVA: 0x0002B4E7 File Offset: 0x000296E7
 		[global::Cpp2ILInjected.Token(Token = "0x170006EF")]
 		public static TriggersPack Triggers
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x6003979")]
 			[global::Cpp2ILInjected.Address(RVA = "0x144F920", Offset = "0x144F920", Length = "0x4C")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "UpdateViewZoomKeys", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player.SelectionRadial), Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player.SelectionRadial), Member = "ChangeBinding", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "Ghost", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UpdateDead", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TryInterruptingItemUsage", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "Update", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_ManageRightClickFeatures_ShieldRaise", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "HandleHotbar", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "OpenChest", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TestHighFPSIssues), Member = "Update", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileEntity), Member = "SetInteractionAnchor", MemberParameters = new object[]
+			{
+				typeof(Player),
+				typeof(int),
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput.SettingsForUI), Member = "TryRevertingToMouseMode", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "ResetInputsOnActiveStateChange", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "Initialize", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "UpdateInput", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "MouseInput", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "KeyboardInput", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "PostInput", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "HandleDpadSnap", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TriggersSet), Member = "CopyInto", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TriggersSet), Member = "CopyIntoDuringChat", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "DrawRadialCircular", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(Vector2),
+				typeof(Player.SelectionRadial),
+				typeof(Item[])
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "DrawRadialQuicks", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CaptureInterface), Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SmartCursorHelper), Member = "Step_Pickaxe_MineSolids", MemberParameters = new object[]
+			{
+				typeof(Player),
+				"Terraria.GameContent.SmartCursorHelper.SmartCursorUsageInfo",
+				typeof(List<int>),
+				typeof(ref int),
+				typeof(ref int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIColoredSlider), Member = "DrawSelf", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIVerticalSlider), Member = "DrawSelf", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 90)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
 			get
@@ -49,9 +104,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000668 RID: 1640
-		// (get) Token: 0x06003421 RID: 13345 RVA: 0x0002B4EA File Offset: 0x000296EA
-		// (set) Token: 0x06003422 RID: 13346 RVA: 0x0002B4ED File Offset: 0x000296ED
 		[global::Cpp2ILInjected.Token(Token = "0x170006F0")]
 		public static MouseState MouseInfo
 		{
@@ -76,9 +128,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000669 RID: 1641
-		// (get) Token: 0x06003423 RID: 13347 RVA: 0x0002B4F0 File Offset: 0x000296F0
-		// (set) Token: 0x06003424 RID: 13348 RVA: 0x0002B4F3 File Offset: 0x000296F3
 		[global::Cpp2ILInjected.Token(Token = "0x170006F1")]
 		public static MouseState MouseInfoOld
 		{
@@ -103,9 +152,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700066A RID: 1642
-		// (get) Token: 0x06003425 RID: 13349 RVA: 0x0002B4F6 File Offset: 0x000296F6
-		// (set) Token: 0x06003426 RID: 13350 RVA: 0x0002B4F9 File Offset: 0x000296F9
 		[global::Cpp2ILInjected.Token(Token = "0x170006F2")]
 		public static int MouseX
 		{
@@ -138,9 +184,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700066B RID: 1643
-		// (get) Token: 0x06003427 RID: 13351 RVA: 0x0002B4FC File Offset: 0x000296FC
-		// (set) Token: 0x06003428 RID: 13352 RVA: 0x0002B4FF File Offset: 0x000296FF
 		[global::Cpp2ILInjected.Token(Token = "0x170006F3")]
 		public static int MouseY
 		{
@@ -173,9 +216,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700066C RID: 1644
-		// (get) Token: 0x06003429 RID: 13353 RVA: 0x0002B502 File Offset: 0x00029702
-		// (set) Token: 0x0600342A RID: 13354 RVA: 0x0002B505 File Offset: 0x00029705
 		[global::Cpp2ILInjected.Token(Token = "0x170006F4")]
 		public static bool LockGamepadTileUseButton
 		{
@@ -201,9 +241,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700066D RID: 1645
-		// (get) Token: 0x0600342B RID: 13355 RVA: 0x0002B508 File Offset: 0x00029708
-		// (set) Token: 0x0600342C RID: 13356 RVA: 0x0002B50B File Offset: 0x0002970B
 		[global::Cpp2ILInjected.Token(Token = "0x170006F5")]
 		public static int PreUIX
 		{
@@ -225,9 +262,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700066E RID: 1646
-		// (get) Token: 0x0600342D RID: 13357 RVA: 0x0002B50E File Offset: 0x0002970E
-		// (set) Token: 0x0600342E RID: 13358 RVA: 0x0002B511 File Offset: 0x00029711
 		[global::Cpp2ILInjected.Token(Token = "0x170006F6")]
 		public static int PreUIY
 		{
@@ -249,9 +283,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700066F RID: 1647
-		// (get) Token: 0x0600342F RID: 13359 RVA: 0x0002B514 File Offset: 0x00029714
-		// (set) Token: 0x06003430 RID: 13360 RVA: 0x0002B517 File Offset: 0x00029717
 		[global::Cpp2ILInjected.Token(Token = "0x170006F7")]
 		public static int PreLockOnX
 		{
@@ -275,9 +306,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000670 RID: 1648
-		// (get) Token: 0x06003431 RID: 13361 RVA: 0x0002B51A File Offset: 0x0002971A
-		// (set) Token: 0x06003432 RID: 13362 RVA: 0x0002B51D File Offset: 0x0002971D
 		[global::Cpp2ILInjected.Token(Token = "0x170006F8")]
 		public static int PreLockOnY
 		{
@@ -301,9 +329,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000671 RID: 1649
-		// (get) Token: 0x06003433 RID: 13363 RVA: 0x0002B520 File Offset: 0x00029720
-		// (set) Token: 0x06003434 RID: 13364 RVA: 0x0002B523 File Offset: 0x00029723
 		[global::Cpp2ILInjected.Token(Token = "0x170006F9")]
 		public static int ScrollWheelValue
 		{
@@ -331,9 +356,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000672 RID: 1650
-		// (get) Token: 0x06003435 RID: 13365 RVA: 0x0002B526 File Offset: 0x00029726
-		// (set) Token: 0x06003436 RID: 13366 RVA: 0x0002B529 File Offset: 0x00029729
 		[global::Cpp2ILInjected.Token(Token = "0x170006FA")]
 		public static int ScrollWheelValueOld
 		{
@@ -357,9 +379,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000673 RID: 1651
-		// (get) Token: 0x06003437 RID: 13367 RVA: 0x0002B52C File Offset: 0x0002972C
-		// (set) Token: 0x06003438 RID: 13368 RVA: 0x0002B52F File Offset: 0x0002972F
 		[global::Cpp2ILInjected.Token(Token = "0x170006FB")]
 		public static int ScrollWheelDelta
 		{
@@ -388,9 +407,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1400003E RID: 62
-		// (add) Token: 0x06003439 RID: 13369 RVA: 0x0002B532 File Offset: 0x00029732
-		// (remove) Token: 0x0600343A RID: 13370 RVA: 0x0002B535 File Offset: 0x00029735
 		[global::Cpp2ILInjected.Token(Token = "0x14000044")]
 		public static event Action OnBindingChange
 		{
@@ -427,9 +443,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1400003F RID: 63
-		// (add) Token: 0x0600343B RID: 13371 RVA: 0x0002B538 File Offset: 0x00029738
-		// (remove) Token: 0x0600343C RID: 13372 RVA: 0x0002B53B File Offset: 0x0002973B
 		[global::Cpp2ILInjected.Token(Token = "0x14000045")]
 		public static event Action OnActionableInput
 		{
@@ -466,7 +479,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x0600343D RID: 13373 RVA: 0x0002B53E File Offset: 0x0002973E
 		[global::Cpp2ILInjected.Token(Token = "0x6003997")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145038C", Offset = "0x145038C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -476,8 +488,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x17000674 RID: 1652
-		// (get) Token: 0x0600343E RID: 13374 RVA: 0x0002B541 File Offset: 0x00029741
 		[global::Cpp2ILInjected.Token(Token = "0x170006FC")]
 		public static string ListeningTrigger
 		{
@@ -491,8 +501,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000675 RID: 1653
-		// (get) Token: 0x0600343F RID: 13375 RVA: 0x0002B544 File Offset: 0x00029744
 		[global::Cpp2ILInjected.Token(Token = "0x170006FD")]
 		public static bool CurrentlyRebinding
 		{
@@ -507,8 +515,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000676 RID: 1654
-		// (get) Token: 0x06003440 RID: 13376 RVA: 0x0002B547 File Offset: 0x00029747
 		[global::Cpp2ILInjected.Token(Token = "0x170006FE")]
 		public static bool InvisibleGamepadInMenus
 		{
@@ -534,8 +540,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000677 RID: 1655
-		// (get) Token: 0x06003441 RID: 13377 RVA: 0x0002B54A File Offset: 0x0002974A
 		[global::Cpp2ILInjected.Token(Token = "0x170006FF")]
 		public static PlayerInputProfile CurrentProfile
 		{
@@ -549,8 +553,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000678 RID: 1656
-		// (get) Token: 0x06003442 RID: 13378 RVA: 0x0002B54D File Offset: 0x0002974D
 		[global::Cpp2ILInjected.Token(Token = "0x17000700")]
 		public static KeyConfiguration ProfileGamepadUI
 		{
@@ -565,14 +567,114 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000679 RID: 1657
-		// (get) Token: 0x06003443 RID: 13379 RVA: 0x0002B550 File Offset: 0x00029750
 		[global::Cpp2ILInjected.Token(Token = "0x17000701")]
 		public static bool UsingGamepad
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x600399D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x14507FC", Offset = "0x14507FC", Length = "0x88")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "get_GamepadDisableCursorItemIcon", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "TryInteractingWithVoidLens", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "TryInteractingWithMoneyTrough", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "TryInteractingWithMoneyTrough2", MemberParameters = new object[] { typeof(Projectile) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "HoverOverNPCs", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawBuffIcon", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawInterface_18_DiagnoseVideo", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawInterface_14_EntityHealthBars", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "get_ShouldDrawInfoIconsHorizontally", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawCursor", MemberParameters = new object[]
+			{
+				typeof(Vector2),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DoDraw_UpdateCameraPosition", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ToggleInv", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ToggleCreativeMenu", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "QuickGrapple", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "SmartInteractLookup", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "SmartSelectLookup", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "Update", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheckWrapped", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TileInteractionsMouseOver", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "PlaceThing_Tiles_PlaceIt", MemberParameters = new object[]
+			{
+				typeof(bool),
+				typeof(TileObject),
+				typeof(int)
+			}, ReturnType = typeof(TileObject))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "PlaceThing_Tiles_CheckGamepadTorchUsability", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "DropItemFromExtractinator", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Lang), Member = "ToopltipProcessor", MemberParameters = new object[]
+			{
+				typeof(short),
+				typeof(string)
+			}, ReturnType = typeof(string))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput.SettingsForUI), Member = "get_ShowGamepadHints", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput.SettingsForUI), Member = "get_PushEquipmentAreaUp", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput.SettingsForUI), Member = "get_ShowGamepadCursor", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "get_IgnoreMouseInterface", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "UpdateInput", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SmartSelectGamepadPointer), Member = "ShouldBeUsed", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TriggersSet), Member = "ShouldLockTileUsage", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "get_NotUsingGamepad", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "DrawRadialCircular", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(Vector2),
+				typeof(Player.SelectionRadial),
+				typeof(Item[])
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "DrawRadialQuicks", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "DrawRadialDpad", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IngameFancyUI), Member = "Draw", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(GameTime)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InGameNotificationsTracker), Member = "DrawInGame", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DoorOpeningHelper), Member = "ShouldTryOpeningDoors", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SmartCursorHelper), Member = "Step_Pickaxe_MineSolids", MemberParameters = new object[]
+			{
+				typeof(Player),
+				"Terraria.GameContent.SmartCursorHelper.SmartCursorUsageInfo",
+				typeof(List<int>),
+				typeof(ref int),
+				typeof(ref int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AHoverInteractionChecker), Member = "AttemptInteraction", MemberParameters = new object[]
+			{
+				typeof(Player),
+				typeof(Rectangle)
+			}, ReturnType = typeof(AHoverInteractionChecker.HoverStatus))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WiresUI.WiresRadial), Member = "LineUpdate", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WiresUI.WiresRadial), Member = "FlowerUpdate", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WiresUI.WiresRadial), Member = "DrawLine", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WiresUI.WiresRadial), Member = "DrawFlower", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WiresUI.WiresRadial), Member = "DrawCursorArea", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIColoredSlider), Member = "DrawSelf", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIVerticalSlider), Member = "DrawSelf", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 67)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 3)]
 			get
@@ -581,8 +683,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700067A RID: 1658
-		// (get) Token: 0x06003444 RID: 13380 RVA: 0x0002B553 File Offset: 0x00029753
 		[global::Cpp2ILInjected.Token(Token = "0x17000702")]
 		public static bool UsingGamepadUI
 		{
@@ -598,8 +698,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700067B RID: 1659
-		// (get) Token: 0x06003445 RID: 13381 RVA: 0x0002B556 File Offset: 0x00029756
 		[global::Cpp2ILInjected.Token(Token = "0x17000703")]
 		public static bool IgnoreMouseInterface
 		{
@@ -650,8 +748,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700067C RID: 1660
-		// (get) Token: 0x06003446 RID: 13382 RVA: 0x0002B559 File Offset: 0x00029759
 		[global::Cpp2ILInjected.Token(Token = "0x17000704")]
 		public static bool SteamDeckIsUsed
 		{
@@ -665,7 +761,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x06003447 RID: 13383 RVA: 0x0002B55C File Offset: 0x0002975C
 		[global::Cpp2ILInjected.Token(Token = "0x60039A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14509D4", Offset = "0x14509D4", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -681,7 +776,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003448 RID: 13384 RVA: 0x0002B55F File Offset: 0x0002975F
 		[global::Cpp2ILInjected.Token(Token = "0x60039A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1450BA4", Offset = "0x1450BA4", Length = "0x2E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -702,7 +796,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003449 RID: 13385 RVA: 0x0002B562 File Offset: 0x00029762
 		[global::Cpp2ILInjected.Token(Token = "0x60039A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1450E84", Offset = "0x1450E84", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -718,7 +811,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600344A RID: 13386 RVA: 0x0002B565 File Offset: 0x00029765
 		[global::Cpp2ILInjected.Token(Token = "0x60039A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1450F1C", Offset = "0x1450F1C", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -730,8 +822,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x1700067D RID: 1661
-		// (get) Token: 0x0600344B RID: 13387 RVA: 0x0002B568 File Offset: 0x00029768
 		[global::Cpp2ILInjected.Token(Token = "0x17000705")]
 		public static bool ShouldFastUseItem
 		{
@@ -747,7 +837,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x0600344C RID: 13388 RVA: 0x0002B56B File Offset: 0x0002976B
 		[global::Cpp2ILInjected.Token(Token = "0x60039A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1451008", Offset = "0x1451008", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck", ReturnType = typeof(void))]
@@ -759,8 +848,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x1700067E RID: 1662
-		// (get) Token: 0x0600344D RID: 13389 RVA: 0x0002B56E File Offset: 0x0002976E
 		[global::Cpp2ILInjected.Token(Token = "0x17000706")]
 		public static bool InBuildingMode
 		{
@@ -774,8 +861,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x1700067F RID: 1663
-		// (get) Token: 0x0600344E RID: 13390 RVA: 0x0002B571 File Offset: 0x00029771
 		[global::Cpp2ILInjected.Token(Token = "0x17000707")]
 		public static int RealScreenWidth
 		{
@@ -789,8 +874,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x17000680 RID: 1664
-		// (get) Token: 0x0600344F RID: 13391 RVA: 0x0002B574 File Offset: 0x00029774
 		[global::Cpp2ILInjected.Token(Token = "0x17000708")]
 		public static int RealScreenHeight
 		{
@@ -804,7 +887,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x06003450 RID: 13392 RVA: 0x0002B577 File Offset: 0x00029777
 		[global::Cpp2ILInjected.Token(Token = "0x60039AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145116C", Offset = "0x145116C", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "Initialize", ReturnType = typeof(void))]
@@ -817,7 +899,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003451 RID: 13393 RVA: 0x0002B57A File Offset: 0x0002977A
 		[global::Cpp2ILInjected.Token(Token = "0x60039AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1451238", Offset = "0x1451238", Length = "0x3F4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "Initialize", ReturnType = typeof(void))]
@@ -845,8 +926,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x17000681 RID: 1665
-		// (get) Token: 0x06003452 RID: 13394 RVA: 0x0002B57D File Offset: 0x0002977D
 		[global::Cpp2ILInjected.Token(Token = "0x17000709")]
 		public static bool CursorIsBusy
 		{
@@ -864,7 +943,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x06003453 RID: 13395 RVA: 0x0002B580 File Offset: 0x00029780
 		[global::Cpp2ILInjected.Token(Token = "0x60039AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145162C", Offset = "0x145162C", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -875,7 +953,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003454 RID: 13396 RVA: 0x0002B583 File Offset: 0x00029783
 		[global::Cpp2ILInjected.Token(Token = "0x60039AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14516A4", Offset = "0x14516A4", Length = "0x578")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -916,7 +993,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003455 RID: 13397 RVA: 0x0002B586 File Offset: 0x00029786
 		[global::Cpp2ILInjected.Token(Token = "0x60039AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452C24", Offset = "0x1452C24", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DoDraw", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -938,7 +1014,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003456 RID: 13398 RVA: 0x0002B589 File Offset: 0x00029789
 		[global::Cpp2ILInjected.Token(Token = "0x60039B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452CE8", Offset = "0x1452CE8", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "UpdateInput", ReturnType = typeof(void))]
@@ -951,7 +1026,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003457 RID: 13399 RVA: 0x0002B58C File Offset: 0x0002978C
 		[global::Cpp2ILInjected.Token(Token = "0x60039B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452EA0", Offset = "0x1452EA0", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -965,7 +1039,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003458 RID: 13400 RVA: 0x0002B58F File Offset: 0x0002978F
 		[global::Cpp2ILInjected.Token(Token = "0x60039B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452D38", Offset = "0x1452D38", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "CacheZoomableValues", ReturnType = typeof(void))]
@@ -980,7 +1053,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003459 RID: 13401 RVA: 0x0002B592 File Offset: 0x00029792
 		[global::Cpp2ILInjected.Token(Token = "0x60039B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452E00", Offset = "0x1452E00", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "ClientInitialize", ReturnType = typeof(void))]
@@ -1000,8 +1072,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x17000682 RID: 1666
-		// (get) Token: 0x0600345A RID: 13402 RVA: 0x0002B595 File Offset: 0x00029795
 		[global::Cpp2ILInjected.Token(Token = "0x1700070A")]
 		public static Vector2 OriginalScreenSize
 		{
@@ -1022,7 +1092,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x0600345B RID: 13403 RVA: 0x0002B598 File Offset: 0x00029798
 		[global::Cpp2ILInjected.Token(Token = "0x60039B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452930", Offset = "0x1452930", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "UpdateInput", ReturnType = typeof(void))]
@@ -1036,7 +1105,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600345C RID: 13404 RVA: 0x0002B59B File Offset: 0x0002979B
 		[global::Cpp2ILInjected.Token(Token = "0x60039B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1451C1C", Offset = "0x1451C1C", Length = "0x5E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1064,7 +1132,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600345D RID: 13405 RVA: 0x0002B59E File Offset: 0x0002979E
 		[global::Cpp2ILInjected.Token(Token = "0x60039B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452204", Offset = "0x1452204", Length = "0x72C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1114,7 +1181,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600345E RID: 13406 RVA: 0x0002B5A1 File Offset: 0x000297A1
 		[global::Cpp2ILInjected.Token(Token = "0x60039B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1453744", Offset = "0x1453744", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1123,7 +1189,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600345F RID: 13407 RVA: 0x0002B5A4 File Offset: 0x000297A4
 		[global::Cpp2ILInjected.Token(Token = "0x60039B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1453748", Offset = "0x1453748", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1132,7 +1197,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003460 RID: 13408 RVA: 0x0002B5A7 File Offset: 0x000297A7
 		[global::Cpp2ILInjected.Token(Token = "0x60039BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452FC4", Offset = "0x1452FC4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1141,7 +1205,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003461 RID: 13409 RVA: 0x0002B5AA File Offset: 0x000297AA
 		[global::Cpp2ILInjected.Token(Token = "0x60039BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145373C", Offset = "0x145373C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1150,7 +1213,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003462 RID: 13410 RVA: 0x0002B5AD File Offset: 0x000297AD
 		[global::Cpp2ILInjected.Token(Token = "0x60039BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452A30", Offset = "0x1452A30", Length = "0x1F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1169,7 +1231,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003463 RID: 13411 RVA: 0x0002B5B0 File Offset: 0x000297B0
 		[global::Cpp2ILInjected.Token(Token = "0x60039BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1452FCC", Offset = "0x1452FCC", Length = "0x770")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1228,7 +1289,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003464 RID: 13412 RVA: 0x0002B5B3 File Offset: 0x000297B3
 		[global::Cpp2ILInjected.Token(Token = "0x60039BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145374C", Offset = "0x145374C", Length = "0x1A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1251,7 +1311,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003465 RID: 13413 RVA: 0x0002B5B6 File Offset: 0x000297B6
 		[global::Cpp2ILInjected.Token(Token = "0x60039BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14538EC", Offset = "0x14538EC", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1276,7 +1335,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003466 RID: 13414 RVA: 0x0002B5B9 File Offset: 0x000297B9
 		[global::Cpp2ILInjected.Token(Token = "0x60039C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1453A3C", Offset = "0x1453A3C", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1294,7 +1352,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003467 RID: 13415 RVA: 0x0002B5BC File Offset: 0x000297BC
 		[global::Cpp2ILInjected.Token(Token = "0x60039C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1453B28", Offset = "0x1453B28", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1303,7 +1360,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003468 RID: 13416 RVA: 0x0002B5BF File Offset: 0x000297BF
 		[global::Cpp2ILInjected.Token(Token = "0x60039C2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1453B2C", Offset = "0x1453B2C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ToggleInv", ReturnType = typeof(void))]
@@ -1314,7 +1370,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003469 RID: 13417 RVA: 0x0002B5C2 File Offset: 0x000297C2
 		[global::Cpp2ILInjected.Token(Token = "0x60039C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x144E638", Offset = "0x144E638", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LockOnHelper), Member = "SetLockPosition", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
@@ -1329,7 +1384,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600346A RID: 13418 RVA: 0x0002B5C5 File Offset: 0x000297C5
 		[global::Cpp2ILInjected.Token(Token = "0x60039C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x144E730", Offset = "0x144E730", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LockOnHelper), Member = "ResetLockPosition", ReturnType = typeof(void))]
@@ -1344,7 +1398,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600346B RID: 13419 RVA: 0x0002B5C8 File Offset: 0x000297C8
 		[global::Cpp2ILInjected.Token(Token = "0x60039C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1453B30", Offset = "0x1453B30", Length = "0x340")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1383,7 +1436,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600346C RID: 13420 RVA: 0x0002B5CB File Offset: 0x000297CB
 		[global::Cpp2ILInjected.Token(Token = "0x60039C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1453E70", Offset = "0x1453E70", Length = "0x17C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1398,7 +1450,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600346D RID: 13421 RVA: 0x0002B5CE File Offset: 0x000297CE
 		[global::Cpp2ILInjected.Token(Token = "0x60039C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1453FEC", Offset = "0x1453FEC", Length = "0x60A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1412,7 +1463,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600346E RID: 13422 RVA: 0x0002B5D1 File Offset: 0x000297D1
 		[global::Cpp2ILInjected.Token(Token = "0x60039C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A094", Offset = "0x145A094", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DoUpdate", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -1440,7 +1490,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600346F RID: 13423 RVA: 0x0002B5D4 File Offset: 0x000297D4
 		[global::Cpp2ILInjected.Token(Token = "0x60039C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A098", Offset = "0x145A098", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawInterface", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -1454,7 +1503,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003470 RID: 13424 RVA: 0x0002B5D7 File Offset: 0x000297D7
 		[global::Cpp2ILInjected.Token(Token = "0x60039CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A09C", Offset = "0x145A09C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DoUpdate", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -1475,7 +1523,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003471 RID: 13425 RVA: 0x0002B5DA File Offset: 0x000297DA
 		[global::Cpp2ILInjected.Token(Token = "0x60039CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A0A0", Offset = "0x145A0A0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1484,7 +1531,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003472 RID: 13426 RVA: 0x0002B5DD File Offset: 0x000297DD
 		[global::Cpp2ILInjected.Token(Token = "0x60039CC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A0A4", Offset = "0x145A0A4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DoUpdate_HandleInput", ReturnType = typeof(void))]
@@ -1498,7 +1544,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003473 RID: 13427 RVA: 0x0002B5E0 File Offset: 0x000297E0
 		[global::Cpp2ILInjected.Token(Token = "0x60039CD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A0A8", Offset = "0x145A0A8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawCapture", MemberParameters = new object[]
@@ -1513,7 +1558,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003474 RID: 13428 RVA: 0x0002B5E3 File Offset: 0x000297E3
 		[global::Cpp2ILInjected.Token(Token = "0x60039CE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A0AC", Offset = "0x145A0AC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Graphics.Capture.CaptureInterface.ModeEdgeSelection", Member = "Update", ReturnType = typeof(void))]
@@ -1527,7 +1571,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003475 RID: 13429 RVA: 0x0002B5E6 File Offset: 0x000297E6
 		[global::Cpp2ILInjected.Token(Token = "0x60039CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A0B0", Offset = "0x145A0B0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1536,7 +1579,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003476 RID: 13430 RVA: 0x0002B5E9 File Offset: 0x000297E9
 		[global::Cpp2ILInjected.Token(Token = "0x60039D0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A0B4", Offset = "0x145A0B4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1546,7 +1588,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003477 RID: 13431 RVA: 0x0002B5EC File Offset: 0x000297EC
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60039D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x145A0BC", Offset = "0x145A0BC", Length = "0x13F4")]
@@ -1564,173 +1605,131 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x040065CB RID: 26059
 		[global::Cpp2ILInjected.Token(Token = "0x40079E0")]
 		public static Vector2 RawMouseScale;
 
-		// Token: 0x040065CC RID: 26060
 		[global::Cpp2ILInjected.Token(Token = "0x40079E1")]
 		public static bool GrappleAndInteractAreShared;
 
-		// Token: 0x040065CD RID: 26061
 		[global::Cpp2ILInjected.Token(Token = "0x40079E2")]
 		public static SmartSelectGamepadPointer smartSelectPointer;
 
-		// Token: 0x040065CE RID: 26062
 		[global::Cpp2ILInjected.Token(Token = "0x40079E3")]
 		private static StringBuilder _invalidatorCheck;
 
-		// Token: 0x040065CF RID: 26063
 		[global::Cpp2ILInjected.Token(Token = "0x40079E4")]
 		private static StringBuilder ff;
 
-		// Token: 0x040065D0 RID: 26064
 		[global::Cpp2ILInjected.Token(Token = "0x40079E5")]
 		private static bool _lastActivityState;
 
-		// Token: 0x040065D1 RID: 26065
 		[global::Cpp2ILInjected.Token(Token = "0x40079E6")]
 		public static int ScrollWheelDeltaForUI;
 
-		// Token: 0x040065D2 RID: 26066
 		[global::Cpp2ILInjected.Token(Token = "0x40079E7")]
 		public static bool GamepadAllowScrolling;
 
-		// Token: 0x040065D3 RID: 26067
 		[global::Cpp2ILInjected.Token(Token = "0x40079E8")]
 		public static int GamepadScrollValue;
 
-		// Token: 0x040065D4 RID: 26068
 		[global::Cpp2ILInjected.Token(Token = "0x40079E9")]
 		public static Vector2 GamepadThumbstickLeft;
 
-		// Token: 0x040065D5 RID: 26069
 		[global::Cpp2ILInjected.Token(Token = "0x40079EA")]
 		public static Vector2 GamepadThumbstickRight;
 
-		// Token: 0x040065D6 RID: 26070
 		[global::Cpp2ILInjected.Token(Token = "0x40079EB")]
 		private static PlayerInput.FastUseItemMemory _fastUseMemory;
 
-		// Token: 0x040065D7 RID: 26071
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40079EC")]
 		private static Action OnBindingChange;
 
-		// Token: 0x040065D8 RID: 26072
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40079ED")]
 		private static Action OnActionableInput;
 
-		// Token: 0x040065D9 RID: 26073
 		[global::Cpp2ILInjected.Token(Token = "0x40079EE")]
 		private static string _listeningTrigger;
 
-		// Token: 0x040065DA RID: 26074
 		[global::Cpp2ILInjected.Token(Token = "0x40079EF")]
 		private static InputMode _listeningInputMode;
 
-		// Token: 0x040065DB RID: 26075
 		[global::Cpp2ILInjected.Token(Token = "0x40079F0")]
 		private static bool _canReleaseRebindingLock;
 
-		// Token: 0x040065DC RID: 26076
 		[global::Cpp2ILInjected.Token(Token = "0x40079F1")]
 		private static int _memoOfLastPoint;
 
-		// Token: 0x040065DD RID: 26077
 		[global::Cpp2ILInjected.Token(Token = "0x40079F2")]
 		public static int NavigatorRebindingLock;
 
-		// Token: 0x040065DE RID: 26078
 		[global::Cpp2ILInjected.Token(Token = "0x40079F3")]
 		public static string BlockedKey;
 
-		// Token: 0x040065DF RID: 26079
 		[global::Cpp2ILInjected.Token(Token = "0x40079F4")]
 		public static Dictionary<string, PlayerInputProfile> Profiles;
 
-		// Token: 0x040065E0 RID: 26080
 		[global::Cpp2ILInjected.Token(Token = "0x40079F5")]
 		public static Dictionary<string, PlayerInputProfile> OriginalProfiles;
 
-		// Token: 0x040065E1 RID: 26081
 		[global::Cpp2ILInjected.Token(Token = "0x40079F6")]
 		private static string _selectedProfile;
 
-		// Token: 0x040065E2 RID: 26082
 		[global::Cpp2ILInjected.Token(Token = "0x40079F7")]
 		private static PlayerInputProfile _currentProfile;
 
-		// Token: 0x040065E3 RID: 26083
 		[global::Cpp2ILInjected.Token(Token = "0x40079F8")]
 		public static InputMode CurrentInputMode;
 
-		// Token: 0x040065E4 RID: 26084
 		[global::Cpp2ILInjected.Token(Token = "0x40079F9")]
 		private static Microsoft.Xna.Framework.Input.Buttons[] ButtonsGamepad;
 
-		// Token: 0x040065E5 RID: 26085
 		[global::Cpp2ILInjected.Token(Token = "0x40079FA")]
 		public static bool UseSteamDeckIfPossible;
 
-		// Token: 0x040065E6 RID: 26086
 		[global::Cpp2ILInjected.Token(Token = "0x40079FB")]
 		public static List<string> MouseKeys;
 
-		// Token: 0x040065E7 RID: 26087
 		[global::Cpp2ILInjected.Token(Token = "0x40079FC")]
 		private static bool _InBuildingMode;
 
-		// Token: 0x040065E8 RID: 26088
 		[global::Cpp2ILInjected.Token(Token = "0x40079FD")]
 		private static int _UIPointForBuildingMode;
 
-		// Token: 0x040065E9 RID: 26089
 		[global::Cpp2ILInjected.Token(Token = "0x40079FE")]
 		public static bool WritingText;
 
-		// Token: 0x040065EA RID: 26090
 		[global::Cpp2ILInjected.Token(Token = "0x40079FF")]
 		private static int _originalMouseX;
 
-		// Token: 0x040065EB RID: 26091
 		[global::Cpp2ILInjected.Token(Token = "0x4007A00")]
 		private static int _originalMouseY;
 
-		// Token: 0x040065EC RID: 26092
 		[global::Cpp2ILInjected.Token(Token = "0x4007A01")]
 		private static int _originalLastMouseX;
 
-		// Token: 0x040065ED RID: 26093
 		[global::Cpp2ILInjected.Token(Token = "0x4007A02")]
 		private static int _originalLastMouseY;
 
-		// Token: 0x040065EE RID: 26094
 		[global::Cpp2ILInjected.Token(Token = "0x4007A03")]
 		private static int _originalScreenWidth;
 
-		// Token: 0x040065EF RID: 26095
 		[global::Cpp2ILInjected.Token(Token = "0x4007A04")]
 		private static int _originalScreenHeight;
 
-		// Token: 0x040065F0 RID: 26096
 		[global::Cpp2ILInjected.Token(Token = "0x4007A05")]
 		private static ZoomContext _currentWantedZoom;
 
-		// Token: 0x040065F1 RID: 26097
 		[global::Cpp2ILInjected.Token(Token = "0x4007A06")]
 		private static List<string> _buttonsLocked;
 
-		// Token: 0x040065F2 RID: 26098
 		[global::Cpp2ILInjected.Token(Token = "0x4007A07")]
 		private static int[] DpadSnapCooldown;
 
-		// Token: 0x0200094A RID: 2378
 		[global::Cpp2ILInjected.Token(Token = "0x20006C6")]
 		public class MiscSettingsTEMP
 		{
-			// Token: 0x06004CCF RID: 19663 RVA: 0x0002F942 File Offset: 0x0002DB42
 			[global::Cpp2ILInjected.Token(Token = "0x60039D2")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146D950", Offset = "0x146D950", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -1740,7 +1739,6 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x06004CD0 RID: 19664 RVA: 0x0002F945 File Offset: 0x0002DB45
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60039D3")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146D958", Offset = "0x146D958", Length = "0x4C")]
@@ -1751,18 +1749,13 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x04008AF4 RID: 35572
 			[global::Cpp2ILInjected.Token(Token = "0x4007A08")]
 			public static bool HotbarRadialShouldBeUsed;
 		}
 
-		// Token: 0x0200094B RID: 2379
 		[global::Cpp2ILInjected.Token(Token = "0x20006C7")]
 		public static class SettingsForUI
 		{
-			// Token: 0x170008A7 RID: 2215
-			// (get) Token: 0x06004CD1 RID: 19665 RVA: 0x0002F948 File Offset: 0x0002DB48
-			// (set) Token: 0x06004CD2 RID: 19666 RVA: 0x0002F94B File Offset: 0x0002DB4B
 			[global::Cpp2ILInjected.Token(Token = "0x1700070B")]
 			public static CursorMode CurrentCursorMode
 			{
@@ -1786,7 +1779,6 @@ namespace Terraria.GameInput
 				}
 			}
 
-			// Token: 0x06004CD3 RID: 19667 RVA: 0x0002F94E File Offset: 0x0002DB4E
 			[global::Cpp2ILInjected.Token(Token = "0x60039D6")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146DA38", Offset = "0x146DA38", Length = "0xA8")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput.SettingsForUI), Member = "TryRevertingToMouseMode", ReturnType = typeof(void))]
@@ -1797,8 +1789,6 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x170008A8 RID: 2216
-			// (get) Token: 0x06004CD4 RID: 19668 RVA: 0x0002F951 File Offset: 0x0002DB51
 			[global::Cpp2ILInjected.Token(Token = "0x1700070C")]
 			public static bool ShowGamepadHints
 			{
@@ -1819,8 +1809,6 @@ namespace Terraria.GameInput
 				}
 			}
 
-			// Token: 0x170008A9 RID: 2217
-			// (get) Token: 0x06004CD5 RID: 19669 RVA: 0x0002F954 File Offset: 0x0002DB54
 			[global::Cpp2ILInjected.Token(Token = "0x1700070D")]
 			public static bool AllowSecondaryGamepadAim
 			{
@@ -1835,8 +1823,6 @@ namespace Terraria.GameInput
 				}
 			}
 
-			// Token: 0x170008AA RID: 2218
-			// (get) Token: 0x06004CD6 RID: 19670 RVA: 0x0002F957 File Offset: 0x0002DB57
 			[global::Cpp2ILInjected.Token(Token = "0x1700070E")]
 			public static bool PushEquipmentAreaUp
 			{
@@ -1853,8 +1839,6 @@ namespace Terraria.GameInput
 				}
 			}
 
-			// Token: 0x170008AB RID: 2219
-			// (get) Token: 0x06004CD7 RID: 19671 RVA: 0x0002F95A File Offset: 0x0002DB5A
 			[global::Cpp2ILInjected.Token(Token = "0x1700070F")]
 			public static bool ShowGamepadCursor
 			{
@@ -1871,8 +1855,6 @@ namespace Terraria.GameInput
 				}
 			}
 
-			// Token: 0x170008AC RID: 2220
-			// (get) Token: 0x06004CD8 RID: 19672 RVA: 0x0002F95D File Offset: 0x0002DB5D
 			[global::Cpp2ILInjected.Token(Token = "0x17000710")]
 			public static bool HighlightThingsForMouse
 			{
@@ -1898,9 +1880,6 @@ namespace Terraria.GameInput
 				}
 			}
 
-			// Token: 0x170008AD RID: 2221
-			// (get) Token: 0x06004CD9 RID: 19673 RVA: 0x0002F960 File Offset: 0x0002DB60
-			// (set) Token: 0x06004CDA RID: 19674 RVA: 0x0002F963 File Offset: 0x0002DB63
 			[global::Cpp2ILInjected.Token(Token = "0x17000711")]
 			public static int FramesSinceLastTimeInMouseMode
 			{
@@ -1924,8 +1903,6 @@ namespace Terraria.GameInput
 				}
 			}
 
-			// Token: 0x170008AE RID: 2222
-			// (get) Token: 0x06004CDB RID: 19675 RVA: 0x0002F966 File Offset: 0x0002DB66
 			[global::Cpp2ILInjected.Token(Token = "0x17000712")]
 			public static bool PreventHighlightsForGamepad
 			{
@@ -1940,7 +1917,6 @@ namespace Terraria.GameInput
 				}
 			}
 
-			// Token: 0x06004CDC RID: 19676 RVA: 0x0002F969 File Offset: 0x0002DB69
 			[global::Cpp2ILInjected.Token(Token = "0x60039DF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146DF78", Offset = "0x146DF78", Length = "0xA0")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = "UpdateInput", ReturnType = typeof(void))]
@@ -1951,7 +1927,6 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x06004CDD RID: 19677 RVA: 0x0002F96C File Offset: 0x0002DB6C
 			[global::Cpp2ILInjected.Token(Token = "0x60039E0")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146E018", Offset = "0x146E018", Length = "0xB4")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1965,22 +1940,18 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x04008AF5 RID: 35573
 			[CompilerGenerated]
 			[global::Cpp2ILInjected.Token(Token = "0x4007A09")]
 			private static CursorMode <CurrentCursorMode>k__BackingField;
 
-			// Token: 0x04008AF6 RID: 35574
 			[CompilerGenerated]
 			[global::Cpp2ILInjected.Token(Token = "0x4007A0A")]
 			private static int <FramesSinceLastTimeInMouseMode>k__BackingField;
 		}
 
-		// Token: 0x0200094C RID: 2380
 		[global::Cpp2ILInjected.Token(Token = "0x20006C8")]
 		private struct FastUseItemMemory
 		{
-			// Token: 0x06004CDE RID: 19678 RVA: 0x0002F96F File Offset: 0x0002DB6F
 			[global::Cpp2ILInjected.Token(Token = "0x60039E1")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146E0CC", Offset = "0x146E0CC", Length = "0xB4")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1999,7 +1970,6 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x06004CDF RID: 19679 RVA: 0x0002F972 File Offset: 0x0002DB72
 			[global::Cpp2ILInjected.Token(Token = "0x60039E2")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146E188", Offset = "0x146E188", Length = "0x84")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2012,7 +1982,6 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x06004CE0 RID: 19680 RVA: 0x0002F975 File Offset: 0x0002DB75
 			[global::Cpp2ILInjected.Token(Token = "0x60039E3")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146E180", Offset = "0x146E180", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -2021,7 +1990,6 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x06004CE1 RID: 19681 RVA: 0x0002F978 File Offset: 0x0002DB78
 			[global::Cpp2ILInjected.Token(Token = "0x60039E4")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146E20C", Offset = "0x146E20C", Length = "0x98")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2034,7 +2002,6 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x06004CE2 RID: 19682 RVA: 0x0002F97B File Offset: 0x0002DB7B
 			[global::Cpp2ILInjected.Token(Token = "0x60039E5")]
 			[global::Cpp2ILInjected.Address(RVA = "0x146E2A4", Offset = "0x146E2A4", Length = "0xF0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -2049,27 +2016,22 @@ namespace Terraria.GameInput
 				throw null;
 			}
 
-			// Token: 0x04008AF7 RID: 35575
 			[global::Cpp2ILInjected.Token(Token = "0x4007A0B")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			private int _slot;
 
-			// Token: 0x04008AF8 RID: 35576
 			[global::Cpp2ILInjected.Token(Token = "0x4007A0C")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 			private int _itemType;
 
-			// Token: 0x04008AF9 RID: 35577
 			[global::Cpp2ILInjected.Token(Token = "0x4007A0D")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			private bool _shouldFastUse;
 
-			// Token: 0x04008AFA RID: 35578
 			[global::Cpp2ILInjected.Token(Token = "0x4007A0E")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x9")]
 			private bool _isMouseItem;
 
-			// Token: 0x04008AFB RID: 35579
 			[global::Cpp2ILInjected.Token(Token = "0x4007A0F")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private Player _player;

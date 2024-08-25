@@ -1,4 +1,0 @@
-var HoriRealArcadeProVKaiFightingStickMacNativeProfile_8cs =
-[
-    [ "InControl.NativeDeviceProfiles.HoriRealArcadeProVKaiFightingStickMacNativeProfile", "d1/df6/classInControl_1_1NativeDeviceProfiles_1_1HoriRealArcadeProVKaiFightingStickMacNativeProfile.html", "d1/df6/classInControl_1_1NativeDeviceProfiles_1_1HoriRealArcadeProVKaiFightingStickMacNativeProfile" ]
-];

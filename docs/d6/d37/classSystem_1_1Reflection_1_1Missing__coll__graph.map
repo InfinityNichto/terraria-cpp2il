@@ -1,9 +1,0 @@
-<map id="System.Reflection.Missing" name="System.Reflection.Missing">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,361,331,525"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="67,5,258,85"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,99,170,361,164,361,161,99"/>
-<area shape="rect" id="Node000003" href="$d3/dc0/classSystem_1_1Reflection_1_1Missing.html" title=" " alt="" coords="184,135,509,299"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="217,93,260,133,257,136,213,97"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,301,244,350,240,347,280,297"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="511,198,529,205,536,217,528,229,523,225,531,217,525,209,509,203"/>
-</map>

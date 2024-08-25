@@ -10,12 +10,9 @@ using Terraria.Utilities;
 
 namespace Terraria.IO
 {
-	// Token: 0x020003D1 RID: 977
 	[global::Cpp2ILInjected.Token(Token = "0x2000580")]
 	public class WorldFileData : FileData
 	{
-		// Token: 0x170005FF RID: 1535
-		// (get) Token: 0x06002FE5 RID: 12261 RVA: 0x0002A8F9 File Offset: 0x00028AF9
 		[global::Cpp2ILInjected.Token(Token = "0x1700067A")]
 		public string SeedText
 		{
@@ -28,8 +25,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x17000600 RID: 1536
-		// (get) Token: 0x06002FE6 RID: 12262 RVA: 0x0002A8FC File Offset: 0x00028AFC
 		[global::Cpp2ILInjected.Token(Token = "0x1700067B")]
 		public int Seed
 		{
@@ -42,8 +37,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x17000601 RID: 1537
-		// (get) Token: 0x06002FE7 RID: 12263 RVA: 0x0002A8FF File Offset: 0x00028AFF
 		[global::Cpp2ILInjected.Token(Token = "0x1700067C")]
 		public string WorldSizeName
 		{
@@ -71,9 +64,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x17000602 RID: 1538
-		// (get) Token: 0x06002FE8 RID: 12264 RVA: 0x0002A902 File Offset: 0x00028B02
-		// (set) Token: 0x06002FE9 RID: 12265 RVA: 0x0002A905 File Offset: 0x00028B05
 		[global::Cpp2ILInjected.Token(Token = "0x1700067D")]
 		public bool HasCrimson
 		{
@@ -125,8 +115,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x17000603 RID: 1539
-		// (get) Token: 0x06002FEA RID: 12266 RVA: 0x0002A908 File Offset: 0x00028B08
 		[global::Cpp2ILInjected.Token(Token = "0x1700067E")]
 		public bool HasValidSeed
 		{
@@ -149,8 +137,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x17000604 RID: 1540
-		// (get) Token: 0x06002FEB RID: 12267 RVA: 0x0002A90B File Offset: 0x00028B0B
 		[global::Cpp2ILInjected.Token(Token = "0x1700067F")]
 		public bool UseGuidAsMapName
 		{
@@ -167,7 +153,6 @@ namespace Terraria.IO
 			}
 		}
 
-		// Token: 0x06002FEC RID: 12268 RVA: 0x0002A90E File Offset: 0x00028B0E
 		[global::Cpp2ILInjected.Token(Token = "0x6003458")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135F6C0", Offset = "0x135F6C0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -176,7 +161,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FED RID: 12269 RVA: 0x0002A911 File Offset: 0x00028B11
 		[global::Cpp2ILInjected.Token(Token = "0x6003459")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135F6C8", Offset = "0x135F6C8", Length = "0x1D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -200,7 +184,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FEE RID: 12270 RVA: 0x0002A914 File Offset: 0x00028B14
 		[global::Cpp2ILInjected.Token(Token = "0x600345A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135F8A0", Offset = "0x135F8A0", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldSelectMenu), Member = "SelectAndHighlight", MemberParameters = new object[] { typeof(WorldFileData) }, ReturnType = typeof(void))]
@@ -215,7 +198,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FEF RID: 12271 RVA: 0x0002A917 File Offset: 0x00028B17
 		[global::Cpp2ILInjected.Token(Token = "0x600345B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135F91C", Offset = "0x135F91C", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile_OldConsole), Member = "GetAllMetadata", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(WorldFileData))]
@@ -255,7 +237,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FF0 RID: 12272 RVA: 0x0002A91A File Offset: 0x00028B1A
 		[global::Cpp2ILInjected.Token(Token = "0x600345C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135F9D8", Offset = "0x135F9D8", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -265,7 +246,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FF1 RID: 12273 RVA: 0x0002A91D File Offset: 0x00028B1D
 		[global::Cpp2ILInjected.Token(Token = "0x600345D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135FA34", Offset = "0x135FA34", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -298,7 +278,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FF2 RID: 12274 RVA: 0x0002A920 File Offset: 0x00028B20
 		[global::Cpp2ILInjected.Token(Token = "0x600345E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135FB30", Offset = "0x135FB30", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -339,7 +318,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FF3 RID: 12275 RVA: 0x0002A923 File Offset: 0x00028B23
 		[global::Cpp2ILInjected.Token(Token = "0x600345F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135FC7C", Offset = "0x135FC7C", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile), Member = "GetTutorialMetadata", ReturnType = typeof(WorldFileData))]
@@ -360,7 +338,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FF4 RID: 12276 RVA: 0x0002A926 File Offset: 0x00028B26
 		[global::Cpp2ILInjected.Token(Token = "0x6003460")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135FCC4", Offset = "0x135FCC4", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -394,7 +371,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FF5 RID: 12277 RVA: 0x0002A929 File Offset: 0x00028B29
 		[global::Cpp2ILInjected.Token(Token = "0x6003461")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135FDCC", Offset = "0x135FDCC", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWorldCreateMenu), Member = "CreateWorld", ReturnType = typeof(void))]
@@ -417,7 +393,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FF6 RID: 12278 RVA: 0x0002A92C File Offset: 0x00028B2C
 		[global::Cpp2ILInjected.Token(Token = "0x6003462")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135FE50", Offset = "0x135FE50", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -440,7 +415,6 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x06002FF7 RID: 12279 RVA: 0x0002A92F File Offset: 0x00028B2F
 		[global::Cpp2ILInjected.Token(Token = "0x6003463")]
 		[global::Cpp2ILInjected.Address(RVA = "0x135FF5C", Offset = "0x135FF5C", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -463,131 +437,105 @@ namespace Terraria.IO
 			throw null;
 		}
 
-		// Token: 0x0400338A RID: 13194
 		[global::Cpp2ILInjected.Token(Token = "0x4004131")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		public int _glitchFrameCounter;
 
-		// Token: 0x0400338B RID: 13195
 		[global::Cpp2ILInjected.Token(Token = "0x4004132")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		public int _glitchFrame;
 
-		// Token: 0x0400338C RID: 13196
 		[global::Cpp2ILInjected.Token(Token = "0x4004133")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		public int _glitchVariation;
 
-		// Token: 0x0400338D RID: 13197
 		[global::Cpp2ILInjected.Token(Token = "0x4004134")]
 		private const ulong GUID_IN_WORLD_FILE_VERSION = 777389080577UL;
 
-		// Token: 0x0400338E RID: 13198
 		[global::Cpp2ILInjected.Token(Token = "0x4004135")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		public bool CurrentSaveFormat;
 
-		// Token: 0x0400338F RID: 13199
 		[global::Cpp2ILInjected.Token(Token = "0x4004136")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		public DateTime CreationTime;
 
-		// Token: 0x04003390 RID: 13200
 		[global::Cpp2ILInjected.Token(Token = "0x4004137")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		public int WorldSizeX;
 
-		// Token: 0x04003391 RID: 13201
 		[global::Cpp2ILInjected.Token(Token = "0x4004138")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 		public int WorldSizeY;
 
-		// Token: 0x04003392 RID: 13202
 		[global::Cpp2ILInjected.Token(Token = "0x4004139")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		public ulong WorldGeneratorVersion;
 
-		// Token: 0x04003393 RID: 13203
 		[global::Cpp2ILInjected.Token(Token = "0x400413A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private string _seedText;
 
-		// Token: 0x04003394 RID: 13204
 		[global::Cpp2ILInjected.Token(Token = "0x400413B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		private int _seed;
 
-		// Token: 0x04003395 RID: 13205
 		[global::Cpp2ILInjected.Token(Token = "0x400413C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x74")]
 		public bool IsValid;
 
-		// Token: 0x04003396 RID: 13206
 		[global::Cpp2ILInjected.Token(Token = "0x400413D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		public Guid UniqueId;
 
-		// Token: 0x04003397 RID: 13207
 		[global::Cpp2ILInjected.Token(Token = "0x400413E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 		public LocalizedText _worldSizeName;
 
-		// Token: 0x04003398 RID: 13208
 		[global::Cpp2ILInjected.Token(Token = "0x400413F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		public int GameMode;
 
-		// Token: 0x04003399 RID: 13209
 		[global::Cpp2ILInjected.Token(Token = "0x4004140")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x94")]
 		public bool DrunkWorld;
 
-		// Token: 0x0400339A RID: 13210
 		[global::Cpp2ILInjected.Token(Token = "0x4004141")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x95")]
 		public bool NotTheBees;
 
-		// Token: 0x0400339B RID: 13211
 		[global::Cpp2ILInjected.Token(Token = "0x4004142")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x96")]
 		public bool ForTheWorthy;
 
-		// Token: 0x0400339C RID: 13212
 		[global::Cpp2ILInjected.Token(Token = "0x4004143")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x97")]
 		public bool Anniversary;
 
-		// Token: 0x0400339D RID: 13213
 		[global::Cpp2ILInjected.Token(Token = "0x4004144")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		public bool DontStarve;
 
-		// Token: 0x0400339E RID: 13214
 		[global::Cpp2ILInjected.Token(Token = "0x4004145")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x99")]
 		public bool RemixWorld;
 
-		// Token: 0x0400339F RID: 13215
 		[global::Cpp2ILInjected.Token(Token = "0x4004146")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x9A")]
 		public bool NoTrapsWorld;
 
-		// Token: 0x040033A0 RID: 13216
 		[global::Cpp2ILInjected.Token(Token = "0x4004147")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x9B")]
 		public bool ZenithWorld;
 
-		// Token: 0x040033A1 RID: 13217
 		[global::Cpp2ILInjected.Token(Token = "0x4004148")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x9C")]
 		public bool HasCorruption;
 
-		// Token: 0x040033A2 RID: 13218
 		[global::Cpp2ILInjected.Token(Token = "0x4004149")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x9D")]
 		public bool IsHardMode;
 
-		// Token: 0x040033A3 RID: 13219
 		[global::Cpp2ILInjected.Token(Token = "0x400414A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x9E")]
 		public bool DefeatedMoonlord;

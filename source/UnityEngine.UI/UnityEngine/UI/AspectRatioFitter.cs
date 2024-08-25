@@ -5,7 +5,6 @@ using UnityEngine.EventSystems;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x02000019 RID: 25
 	[DisallowMultipleComponent]
 	[RequireComponent(typeof(RectTransform))]
 	[AddComponentMenu("Layout/Aspect Ratio Fitter", 142)]
@@ -13,9 +12,6 @@ namespace UnityEngine.UI
 	[global::Cpp2ILInjected.Token(Token = "0x2000038")]
 	public class AspectRatioFitter : UIBehaviour, ILayoutSelfController, ILayoutController
 	{
-		// Token: 0x17000089 RID: 137
-		// (get) Token: 0x060001FE RID: 510 RVA: 0x00002623 File Offset: 0x00000823
-		// (set) Token: 0x060001FF RID: 511 RVA: 0x00002626 File Offset: 0x00000826
 		[global::Cpp2ILInjected.Token(Token = "0x17000098")]
 		public AspectRatioFitter.AspectMode aspectMode
 		{
@@ -42,9 +38,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x1700008A RID: 138
-		// (get) Token: 0x06000200 RID: 512 RVA: 0x00002629 File Offset: 0x00000829
-		// (set) Token: 0x06000201 RID: 513 RVA: 0x0000262C File Offset: 0x0000082C
 		[global::Cpp2ILInjected.Token(Token = "0x17000099")]
 		public float aspectRatio
 		{
@@ -71,8 +64,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x1700008B RID: 139
-		// (get) Token: 0x06000202 RID: 514 RVA: 0x0000262F File Offset: 0x0000082F
 		[global::Cpp2ILInjected.Token(Token = "0x1700009A")]
 		private RectTransform rectTransform
 		{
@@ -102,7 +93,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x06000203 RID: 515 RVA: 0x00002632 File Offset: 0x00000832
 		[global::Cpp2ILInjected.Token(Token = "0x6000243")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC6948", Offset = "0x1FC6948", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -112,7 +102,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000204 RID: 516 RVA: 0x00002635 File Offset: 0x00000835
 		[global::Cpp2ILInjected.Token(Token = "0x6000244")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC6958", Offset = "0x1FC6958", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -127,7 +116,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000205 RID: 517 RVA: 0x00002638 File Offset: 0x00000838
 		[global::Cpp2ILInjected.Token(Token = "0x6000245")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC69E4", Offset = "0x1FC69E4", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -140,7 +128,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000206 RID: 518 RVA: 0x0000263B File Offset: 0x0000083B
 		[global::Cpp2ILInjected.Token(Token = "0x6000246")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC6B24", Offset = "0x1FC6B24", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -154,7 +141,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000207 RID: 519 RVA: 0x0000263E File Offset: 0x0000083E
 		[global::Cpp2ILInjected.Token(Token = "0x6000247")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC6F7C", Offset = "0x1FC6F7C", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -169,7 +155,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000208 RID: 520 RVA: 0x00002641 File Offset: 0x00000841
 		[global::Cpp2ILInjected.Token(Token = "0x6000248")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC7008", Offset = "0x1FC7008", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -179,7 +164,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000209 RID: 521 RVA: 0x00002644 File Offset: 0x00000844
 		[global::Cpp2ILInjected.Token(Token = "0x6000249")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC701C", Offset = "0x1FC701C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallAnalysisNotSupported]
@@ -189,7 +173,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600020A RID: 522 RVA: 0x00002647 File Offset: 0x00000847
 		[global::Cpp2ILInjected.Token(Token = "0x600024A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC7020", Offset = "0x1FC7020", Length = "0x2E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -233,7 +216,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600020B RID: 523 RVA: 0x0000264A File Offset: 0x0000084A
 		[global::Cpp2ILInjected.Token(Token = "0x600024B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC7404", Offset = "0x1FC7404", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -250,7 +232,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600020C RID: 524 RVA: 0x0000264D File Offset: 0x0000084D
 		[global::Cpp2ILInjected.Token(Token = "0x600024C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC7300", Offset = "0x1FC7300", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -272,7 +253,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600020D RID: 525 RVA: 0x00002650 File Offset: 0x00000850
 		[global::Cpp2ILInjected.Token(Token = "0x600024D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC74F4", Offset = "0x1FC74F4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -281,7 +261,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600020E RID: 526 RVA: 0x00002653 File Offset: 0x00000853
 		[global::Cpp2ILInjected.Token(Token = "0x600024E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC74F8", Offset = "0x1FC74F8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -290,7 +269,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x0600020F RID: 527 RVA: 0x00002656 File Offset: 0x00000856
 		[global::Cpp2ILInjected.Token(Token = "0x600024F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC6834", Offset = "0x1FC6834", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -300,7 +278,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000210 RID: 528 RVA: 0x00002659 File Offset: 0x00000859
 		[global::Cpp2ILInjected.Token(Token = "0x6000250")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC6A34", Offset = "0x1FC6A34", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -318,7 +295,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000211 RID: 529 RVA: 0x0000265C File Offset: 0x0000085C
 		[global::Cpp2ILInjected.Token(Token = "0x6000251")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC6AFC", Offset = "0x1FC6AFC", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -328,7 +304,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000212 RID: 530 RVA: 0x0000265F File Offset: 0x0000085F
 		[global::Cpp2ILInjected.Token(Token = "0x6000252")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC74FC", Offset = "0x1FC74FC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -337,56 +312,44 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x040000BD RID: 189
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000122")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private AspectRatioFitter.AspectMode m_AspectMode;
 
-		// Token: 0x040000BE RID: 190
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000123")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private float m_AspectRatio;
 
-		// Token: 0x040000BF RID: 191
 		[global::Cpp2ILInjected.Token(Token = "0x4000124")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		[NonSerialized]
 		private RectTransform m_Rect;
 
-		// Token: 0x040000C0 RID: 192
 		[global::Cpp2ILInjected.Token(Token = "0x4000125")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private bool m_DelayedSetDirty;
 
-		// Token: 0x040000C1 RID: 193
 		[global::Cpp2ILInjected.Token(Token = "0x4000126")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x29")]
 		private bool m_DoesParentExist;
 
-		// Token: 0x040000C2 RID: 194
 		[global::Cpp2ILInjected.Token(Token = "0x4000127")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2A")]
 		private DrivenRectTransformTracker m_Tracker;
 
-		// Token: 0x0200009E RID: 158
 		[global::Cpp2ILInjected.Token(Token = "0x2000039")]
 		public enum AspectMode
 		{
-			// Token: 0x040002AF RID: 687
 			[global::Cpp2ILInjected.Token(Token = "0x4000129")]
 			None,
-			// Token: 0x040002B0 RID: 688
 			[global::Cpp2ILInjected.Token(Token = "0x400012A")]
 			WidthControlsHeight,
-			// Token: 0x040002B1 RID: 689
 			[global::Cpp2ILInjected.Token(Token = "0x400012B")]
 			HeightControlsWidth,
-			// Token: 0x040002B2 RID: 690
 			[global::Cpp2ILInjected.Token(Token = "0x400012C")]
 			FitInParent,
-			// Token: 0x040002B3 RID: 691
 			[global::Cpp2ILInjected.Token(Token = "0x400012D")]
 			EnvelopeParent
 		}

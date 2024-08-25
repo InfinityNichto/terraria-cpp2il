@@ -9,11 +9,9 @@ using Terraria.Localization;
 using Terraria.UI;
 using UnityEngine;
 
-// Token: 0x020000CE RID: 206
 [global::Cpp2ILInjected.Token(Token = "0x2000129")]
 public class GUIChest
 {
-	// Token: 0x060006B8 RID: 1720 RVA: 0x00022F6D File Offset: 0x0002116D
 	[global::Cpp2ILInjected.Token(Token = "0x60007AB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1324318", Offset = "0x1324318", Length = "0x168")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -40,7 +38,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006B9 RID: 1721 RVA: 0x00022F70 File Offset: 0x00021170
 	[global::Cpp2ILInjected.Token(Token = "0x60007AC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1324480", Offset = "0x1324480", Length = "0xA4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "LoadPageRegion", ReturnType = typeof(void))]
@@ -61,7 +58,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006BA RID: 1722 RVA: 0x00022F73 File Offset: 0x00021173
 	[global::Cpp2ILInjected.Token(Token = "0x60007AD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1324524", Offset = "0x1324524", Length = "0xE4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +77,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006BB RID: 1723 RVA: 0x00022F76 File Offset: 0x00021176
 	[global::Cpp2ILInjected.Token(Token = "0x60007AE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1324608", Offset = "0x1324608", Length = "0x1C0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,7 +98,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006BC RID: 1724 RVA: 0x00022F79 File Offset: 0x00021179
 	[global::Cpp2ILInjected.Token(Token = "0x60007AF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13247C8", Offset = "0x13247C8", Length = "0xE4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -131,8 +125,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x170000AB RID: 171
-	// (get) Token: 0x060006BD RID: 1725 RVA: 0x00022F7C File Offset: 0x0002117C
 	[global::Cpp2ILInjected.Token(Token = "0x170000D0")]
 	public bool collapsed
 	{
@@ -145,7 +137,6 @@ public class GUIChest
 		}
 	}
 
-	// Token: 0x060006BE RID: 1726 RVA: 0x00022F7F File Offset: 0x0002117F
 	[global::Cpp2ILInjected.Token(Token = "0x60007B1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13248B4", Offset = "0x13248B4", Length = "0x20C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -162,8 +153,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x170000AC RID: 172
-	// (get) Token: 0x060006BF RID: 1727 RVA: 0x00022F82 File Offset: 0x00021182
 	[global::Cpp2ILInjected.Token(Token = "0x170000D1")]
 	public bool HasFocus
 	{
@@ -196,7 +185,6 @@ public class GUIChest
 		}
 	}
 
-	// Token: 0x060006C0 RID: 1728 RVA: 0x00022F85 File Offset: 0x00021185
 	[global::Cpp2ILInjected.Token(Token = "0x60007B3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1324B48", Offset = "0x1324B48", Length = "0x240")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "DrawPageContent", ReturnType = typeof(void))]
@@ -218,7 +206,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006C1 RID: 1729 RVA: 0x00022F88 File Offset: 0x00021188
 	[global::Cpp2ILInjected.Token(Token = "0x60007B4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1325240", Offset = "0x1325240", Length = "0x544")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -253,7 +240,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006C2 RID: 1730 RVA: 0x00022F8B File Offset: 0x0002118B
 	[global::Cpp2ILInjected.Token(Token = "0x60007B5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1325784", Offset = "0x1325784", Length = "0x3D4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -283,7 +269,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006C3 RID: 1731 RVA: 0x00022F8E File Offset: 0x0002118E
 	[global::Cpp2ILInjected.Token(Token = "0x60007B6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1324D88", Offset = "0x1324D88", Length = "0xF0")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIChest), Member = "Draw", ReturnType = typeof(void))]
@@ -302,7 +287,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006C4 RID: 1732 RVA: 0x00022F91 File Offset: 0x00021191
 	[global::Cpp2ILInjected.Token(Token = "0x60007B7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x132523C", Offset = "0x132523C", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -311,7 +295,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006C5 RID: 1733 RVA: 0x00022F94 File Offset: 0x00021194
 	[global::Cpp2ILInjected.Token(Token = "0x60007B8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1325B58", Offset = "0x1325B58", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -322,7 +305,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006C6 RID: 1734 RVA: 0x00022F97 File Offset: 0x00021197
 	[global::Cpp2ILInjected.Token(Token = "0x60007B9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1325BA0", Offset = "0x1325BA0", Length = "0xA5C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -400,7 +382,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006C7 RID: 1735 RVA: 0x00022F9A File Offset: 0x0002119A
 	[global::Cpp2ILInjected.Token(Token = "0x60007BA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1326604", Offset = "0x1326604", Length = "0x4C0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -443,7 +424,6 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x060006C8 RID: 1736 RVA: 0x00022F9D File Offset: 0x0002119D
 	[global::Cpp2ILInjected.Token(Token = "0x60007BB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1324E78", Offset = "0x1324E78", Length = "0x3C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -491,127 +471,102 @@ public class GUIChest
 		throw null;
 	}
 
-	// Token: 0x0400042F RID: 1071
 	[global::Cpp2ILInjected.Token(Token = "0x4000633")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public float scrollOffset;
 
-	// Token: 0x04000430 RID: 1072
 	[global::Cpp2ILInjected.Token(Token = "0x4000634")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float scrollMomentum;
 
-	// Token: 0x04000431 RID: 1073
 	[global::Cpp2ILInjected.Token(Token = "0x4000635")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int scrollDragging;
 
-	// Token: 0x04000432 RID: 1074
 	[global::Cpp2ILInjected.Token(Token = "0x4000636")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private Microsoft.Xna.Framework.Vector2 dragOffset;
 
-	// Token: 0x04000433 RID: 1075
 	[global::Cpp2ILInjected.Token(Token = "0x4000637")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	public int itemSelected;
 
-	// Token: 0x04000434 RID: 1076
 	[global::Cpp2ILInjected.Token(Token = "0x4000638")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private int itemOver;
 
-	// Token: 0x04000435 RID: 1077
 	[global::Cpp2ILInjected.Token(Token = "0x4000639")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	private int itemDragStart;
 
-	// Token: 0x04000436 RID: 1078
 	[global::Cpp2ILInjected.Token(Token = "0x400063A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private int cursorOver;
 
-	// Token: 0x04000437 RID: 1079
 	[global::Cpp2ILInjected.Token(Token = "0x400063B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private int lastLang;
 
-	// Token: 0x04000438 RID: 1080
 	[global::Cpp2ILInjected.Token(Token = "0x400063C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	public string[] options;
 
-	// Token: 0x04000439 RID: 1081
 	[global::Cpp2ILInjected.Token(Token = "0x400063D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private int lastItemClicked;
 
-	// Token: 0x0400043A RID: 1082
 	[global::Cpp2ILInjected.Token(Token = "0x400063E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	private float doubleClickTimer;
 
-	// Token: 0x0400043B RID: 1083
 	[global::Cpp2ILInjected.Token(Token = "0x400063F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private bool rightClickHeld;
 
-	// Token: 0x0400043C RID: 1084
 	[global::Cpp2ILInjected.Token(Token = "0x4000640")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	private float LootButtonScale;
 
-	// Token: 0x0400043D RID: 1085
 	[global::Cpp2ILInjected.Token(Token = "0x4000641")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private bool canLoot;
 
-	// Token: 0x0400043E RID: 1086
 	[global::Cpp2ILInjected.Token(Token = "0x4000642")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x51")]
 	private bool canLootAll;
 
-	// Token: 0x0400043F RID: 1087
 	[global::Cpp2ILInjected.Token(Token = "0x4000643")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x52")]
 	private bool canDepositAll;
 
-	// Token: 0x04000440 RID: 1088
 	[global::Cpp2ILInjected.Token(Token = "0x4000644")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x53")]
 	public bool menuOpen;
 
-	// Token: 0x04000441 RID: 1089
 	[global::Cpp2ILInjected.Token(Token = "0x4000645")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 	private float menuButtonScale;
 
-	// Token: 0x04000442 RID: 1090
 	[global::Cpp2ILInjected.Token(Token = "0x4000646")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private float[] buttonScale;
 
-	// Token: 0x04000443 RID: 1091
 	[global::Cpp2ILInjected.Token(Token = "0x4000647")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private Rectangle menuRegion;
 
-	// Token: 0x04000444 RID: 1092
 	[global::Cpp2ILInjected.Token(Token = "0x4000648")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private Item[] dummySlots;
 
-	// Token: 0x04000445 RID: 1093
 	[global::Cpp2ILInjected.Token(Token = "0x4000649")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	private GUIItemGrid.GetItemScaleHandler itemScaleHandler;
 
-	// Token: 0x04000446 RID: 1094
 	[global::Cpp2ILInjected.Token(Token = "0x400064A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private GUIItemGrid.CursorOver itemOverHandler;
 
-	// Token: 0x04000447 RID: 1095
 	[global::Cpp2ILInjected.Token(Token = "0x400064B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	private GUIItemGrid.DrawItemHandler itemDrawHandler;

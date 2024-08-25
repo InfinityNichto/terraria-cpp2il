@@ -10,11 +10,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005FA RID: 1530
 	[global::Cpp2ILInjected.Token(Token = "0x20008F3")]
 	public class MahoganyTreeBiome : MicroBiome
 	{
-		// Token: 0x06003DA6 RID: 15782 RVA: 0x0002D026 File Offset: 0x0002B226
 		[global::Cpp2ILInjected.Token(Token = "0x600462D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7CFCC4", Offset = "0x7CFCC4", Length = "0x1994")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,7 +150,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003DA7 RID: 15783 RVA: 0x0002D029 File Offset: 0x0002B229
 		[global::Cpp2ILInjected.Token(Token = "0x600462E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D1658", Offset = "0x7D1658", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

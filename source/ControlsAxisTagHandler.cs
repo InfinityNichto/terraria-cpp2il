@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria.UI.Chat;
 
-// Token: 0x020000B0 RID: 176
 [global::Cpp2ILInjected.Token(Token = "0x20000F6")]
 public class ControlsAxisTagHandler : ITagHandler
 {
-	// Token: 0x060005B2 RID: 1458 RVA: 0x00022C5B File Offset: 0x00020E5B
 	[global::Cpp2ILInjected.Token(Token = "0x6000678")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD18428", Offset = "0xD18428", Length = "0x16C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +40,6 @@ public class ControlsAxisTagHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005B3 RID: 1459 RVA: 0x00022C5E File Offset: 0x00020E5E
 	[global::Cpp2ILInjected.Token(Token = "0x6000679")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD18594", Offset = "0xD18594", Length = "0x1C8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +177,6 @@ public class ControlsAxisTagHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005B4 RID: 1460 RVA: 0x00022C61 File Offset: 0x00020E61
 	[global::Cpp2ILInjected.Token(Token = "0x600067A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD188F4", Offset = "0xD188F4", Length = "0x10C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -205,7 +201,6 @@ public class ControlsAxisTagHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x060005B5 RID: 1461 RVA: 0x00022C64 File Offset: 0x00020E64
 	[global::Cpp2ILInjected.Token(Token = "0x600067B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xD18A94", Offset = "0xD18A94", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -215,11 +210,9 @@ public class ControlsAxisTagHandler : ITagHandler
 		throw null;
 	}
 
-	// Token: 0x020007A8 RID: 1960
 	[global::Cpp2ILInjected.Token(Token = "0x20000F7")]
 	public class ControlsAxisSnippet : TextSnippet
 	{
-		// Token: 0x06004899 RID: 18585 RVA: 0x0002EE80 File Offset: 0x0002D080
 		[global::Cpp2ILInjected.Token(Token = "0x600067C")]
 		[global::Cpp2ILInjected.Address(RVA = "0xD18A00", Offset = "0xD18A00", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlsAxisTagHandler), Member = "Parse", MemberParameters = new object[]
@@ -236,7 +229,6 @@ public class ControlsAxisTagHandler : ITagHandler
 			throw null;
 		}
 
-		// Token: 0x0600489A RID: 18586 RVA: 0x0002EE83 File Offset: 0x0002D083
 		[global::Cpp2ILInjected.Token(Token = "0x600067D")]
 		[global::Cpp2ILInjected.Address(RVA = "0xD1875C", Offset = "0xD1875C", Length = "0x198")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -305,7 +297,6 @@ public class ControlsAxisTagHandler : ITagHandler
 			throw null;
 		}
 
-		// Token: 0x0600489B RID: 18587 RVA: 0x0002EE86 File Offset: 0x0002D086
 		[global::Cpp2ILInjected.Token(Token = "0x600067E")]
 		[global::Cpp2ILInjected.Address(RVA = "0xD18C24", Offset = "0xD18C24", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -324,7 +315,6 @@ public class ControlsAxisTagHandler : ITagHandler
 			throw null;
 		}
 
-		// Token: 0x0600489C RID: 18588 RVA: 0x0002EE89 File Offset: 0x0002D089
 		[global::Cpp2ILInjected.Token(Token = "0x600067F")]
 		[global::Cpp2ILInjected.Address(RVA = "0xD18C44", Offset = "0xD18C44", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -333,7 +323,6 @@ public class ControlsAxisTagHandler : ITagHandler
 			throw null;
 		}
 
-		// Token: 0x04007972 RID: 31090
 		[global::Cpp2ILInjected.Token(Token = "0x40004F4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		private readonly GUIControllerInputButton.AxisControl _axisControl;

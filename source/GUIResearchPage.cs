@@ -12,11 +12,9 @@ using Terraria.Audio;
 using Terraria.Localization;
 using Terraria.UI;
 
-// Token: 0x020000FD RID: 253
 [global::Cpp2ILInjected.Token(Token = "0x200016C")]
 public class GUIResearchPage
 {
-	// Token: 0x06000944 RID: 2372 RVA: 0x00023711 File Offset: 0x00021911
 	[global::Cpp2ILInjected.Token(Token = "0x6000A44")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9840E0", Offset = "0x9840E0", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "LoadPageRegion", ReturnType = typeof(void))]
@@ -42,8 +40,6 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x170000E2 RID: 226
-	// (get) Token: 0x06000945 RID: 2373 RVA: 0x00023714 File Offset: 0x00021914
 	[global::Cpp2ILInjected.Token(Token = "0x17000109")]
 	public bool Collapsed
 	{
@@ -60,7 +56,6 @@ public class GUIResearchPage
 		}
 	}
 
-	// Token: 0x06000946 RID: 2374 RVA: 0x00023717 File Offset: 0x00021917
 	[global::Cpp2ILInjected.Token(Token = "0x6000A46")]
 	[global::Cpp2ILInjected.Address(RVA = "0x984228", Offset = "0x984228", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -69,7 +64,6 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x06000947 RID: 2375 RVA: 0x0002371A File Offset: 0x0002191A
 	[global::Cpp2ILInjected.Token(Token = "0x6000A47")]
 	[global::Cpp2ILInjected.Address(RVA = "0x984230", Offset = "0x984230", Length = "0x94")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -79,7 +73,6 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x06000948 RID: 2376 RVA: 0x0002371D File Offset: 0x0002191D
 	[global::Cpp2ILInjected.Token(Token = "0x6000A48")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9842C4", Offset = "0x9842C4", Length = "0x164")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -97,8 +90,6 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x170000E3 RID: 227
-	// (get) Token: 0x06000949 RID: 2377 RVA: 0x00023720 File Offset: 0x00021920
 	[global::Cpp2ILInjected.Token(Token = "0x1700010A")]
 	public bool HasFocus
 	{
@@ -122,7 +113,6 @@ public class GUIResearchPage
 		}
 	}
 
-	// Token: 0x0600094A RID: 2378 RVA: 0x00023723 File Offset: 0x00021923
 	[global::Cpp2ILInjected.Token(Token = "0x6000A4A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9844D8", Offset = "0x9844D8", Length = "0x3E4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -168,7 +158,6 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x0600094B RID: 2379 RVA: 0x00023726 File Offset: 0x00021926
 	[global::Cpp2ILInjected.Token(Token = "0x6000A4B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x984980", Offset = "0x984980", Length = "0x4A4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -251,8 +240,6 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x170000E4 RID: 228
-	// (get) Token: 0x0600094C RID: 2380 RVA: 0x00023729 File Offset: 0x00021929
 	[global::Cpp2ILInjected.Token(Token = "0x1700010B")]
 	public Item ResearchItem
 	{
@@ -270,7 +257,6 @@ public class GUIResearchPage
 		}
 	}
 
-	// Token: 0x0600094D RID: 2381 RVA: 0x0002372C File Offset: 0x0002192C
 	[global::Cpp2ILInjected.Token(Token = "0x6000A4D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x984E24", Offset = "0x984E24", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -281,7 +267,6 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x0600094E RID: 2382 RVA: 0x0002372F File Offset: 0x0002192F
 	[global::Cpp2ILInjected.Token(Token = "0x6000A4E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x984E6C", Offset = "0x984E6C", Length = "0x220")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -315,7 +300,6 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x0600094F RID: 2383 RVA: 0x00023732 File Offset: 0x00021932
 	[global::Cpp2ILInjected.Token(Token = "0x6000A4F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98508C", Offset = "0x98508C", Length = "0x470")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -377,7 +361,6 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x06000950 RID: 2384 RVA: 0x00023735 File Offset: 0x00021935
 	[global::Cpp2ILInjected.Token(Token = "0x6000A50")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9854FC", Offset = "0x9854FC", Length = "0xBC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -392,57 +375,46 @@ public class GUIResearchPage
 		throw null;
 	}
 
-	// Token: 0x04000774 RID: 1908
 	[global::Cpp2ILInjected.Token(Token = "0x4000A27")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float researchScale;
 
-	// Token: 0x04000775 RID: 1909
 	[global::Cpp2ILInjected.Token(Token = "0x4000A28")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private int refCost;
 
-	// Token: 0x04000776 RID: 1910
 	[global::Cpp2ILInjected.Token(Token = "0x4000A29")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public List<int> _researchItems;
 
-	// Token: 0x04000777 RID: 1911
 	[global::Cpp2ILInjected.Token(Token = "0x4000A2A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private Item _defaultItem;
 
-	// Token: 0x04000778 RID: 1912
 	[global::Cpp2ILInjected.Token(Token = "0x4000A2B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public int _selectedItem;
 
-	// Token: 0x04000779 RID: 1913
 	[global::Cpp2ILInjected.Token(Token = "0x4000A2C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	public float scrollOffset;
 
-	// Token: 0x0400077A RID: 1914
 	[global::Cpp2ILInjected.Token(Token = "0x4000A2D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private float scrollMomentum;
 
-	// Token: 0x0400077B RID: 1915
 	[global::Cpp2ILInjected.Token(Token = "0x4000A2E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private int scrollDragging;
 
-	// Token: 0x0400077C RID: 1916
 	[global::Cpp2ILInjected.Token(Token = "0x4000A2F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private Vector2 dragOffset;
 
-	// Token: 0x0400077D RID: 1917
 	[global::Cpp2ILInjected.Token(Token = "0x4000A30")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private int cursorOver;
 
-	// Token: 0x0400077E RID: 1918
 	[global::Cpp2ILInjected.Token(Token = "0x4000A31")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	private float reforgeActionScale;

@@ -9,11 +9,9 @@ using Terraria.Audio;
 using Terraria.Localization;
 using Terraria.UI;
 
-// Token: 0x020000DE RID: 222
 [global::Cpp2ILInjected.Token(Token = "0x2000141")]
 public class GUIEquipmentUtility
 {
-	// Token: 0x060007B0 RID: 1968 RVA: 0x00023255 File Offset: 0x00021455
 	[global::Cpp2ILInjected.Token(Token = "0x60008AA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FD2F0", Offset = "0x7FD2F0", Length = "0x7C8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +97,6 @@ public class GUIEquipmentUtility
 		throw null;
 	}
 
-	// Token: 0x060007B1 RID: 1969 RVA: 0x00023258 File Offset: 0x00021458
 	[global::Cpp2ILInjected.Token(Token = "0x60008AB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7FDAB8", Offset = "0x7FDAB8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]

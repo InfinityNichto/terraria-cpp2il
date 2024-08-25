@@ -11,12 +11,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent.Events
 {
-	// Token: 0x02000690 RID: 1680
 	[global::Cpp2ILInjected.Token(Token = "0x2000A50")]
 	public class LanternNight
 	{
-		// Token: 0x170007A4 RID: 1956
-		// (get) Token: 0x0600420A RID: 16906 RVA: 0x0002DCD4 File Offset: 0x0002BED4
 		[global::Cpp2ILInjected.Token(Token = "0x1700089B")]
 		public static bool LanternsUp
 		{
@@ -66,7 +63,6 @@ namespace Terraria.GameContent.Events
 			}
 		}
 
-		// Token: 0x0600420B RID: 16907 RVA: 0x0002DCD7 File Offset: 0x0002BED7
 		[global::Cpp2ILInjected.Token(Token = "0x6004DF7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CE5D8", Offset = "0x8CE5D8", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "UpdateTime_StartDay", MemberParameters = new object[] { typeof(ref bool) }, ReturnType = typeof(void))]
@@ -77,7 +73,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x0600420C RID: 16908 RVA: 0x0002DCDA File Offset: 0x0002BEDA
 		[global::Cpp2ILInjected.Token(Token = "0x6004DF8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CE634", Offset = "0x8CE634", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallAnalysisNotSupported]
@@ -88,7 +83,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x0600420D RID: 16909 RVA: 0x0002DCDD File Offset: 0x0002BEDD
 		[global::Cpp2ILInjected.Token(Token = "0x6004DF9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CE78C", Offset = "0x8CE78C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LanternNight), Member = "UpdateTime", ReturnType = typeof(void))]
@@ -99,7 +93,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x0600420E RID: 16910 RVA: 0x0002DCE0 File Offset: 0x0002BEE0
 		[global::Cpp2ILInjected.Token(Token = "0x6004DFA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CE7F8", Offset = "0x8CE7F8", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LanternNight), Member = "NaturalAttempt", ReturnType = typeof(void))]
@@ -111,7 +104,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x0600420F RID: 16911 RVA: 0x0002DCE3 File Offset: 0x0002BEE3
 		[global::Cpp2ILInjected.Token(Token = "0x6004DFB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CE8F0", Offset = "0x8CE8F0", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +115,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x06004210 RID: 16912 RVA: 0x0002DCE6 File Offset: 0x0002BEE6
 		[global::Cpp2ILInjected.Token(Token = "0x6004DFC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CE638", Offset = "0x8CE638", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -141,7 +132,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x06004211 RID: 16913 RVA: 0x0002DCE9 File Offset: 0x0002BEE9
 		[global::Cpp2ILInjected.Token(Token = "0x6004DFD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CE988", Offset = "0x8CE988", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -168,7 +158,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x06004212 RID: 16914 RVA: 0x0002DCEC File Offset: 0x0002BEEC
 		[global::Cpp2ILInjected.Token(Token = "0x6004DFE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CEA9C", Offset = "0x8CEA9C", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -181,7 +170,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x06004213 RID: 16915 RVA: 0x0002DCEF File Offset: 0x0002BEEF
 		[global::Cpp2ILInjected.Token(Token = "0x6004DFF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CEAEC", Offset = "0x8CEAEC", Length = "0x270")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -222,7 +210,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x06004214 RID: 16916 RVA: 0x0002DCF2 File Offset: 0x0002BEF2
 		[global::Cpp2ILInjected.Token(Token = "0x6004E00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8CED5C", Offset = "0x8CED5C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -232,23 +219,18 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x04006DF8 RID: 28152
 		[global::Cpp2ILInjected.Token(Token = "0x40086BE")]
 		public static bool ManualLanterns;
 
-		// Token: 0x04006DF9 RID: 28153
 		[global::Cpp2ILInjected.Token(Token = "0x40086BF")]
 		public static bool GenuineLanterns;
 
-		// Token: 0x04006DFA RID: 28154
 		[global::Cpp2ILInjected.Token(Token = "0x40086C0")]
 		public static bool NextNightIsLanternNight;
 
-		// Token: 0x04006DFB RID: 28155
 		[global::Cpp2ILInjected.Token(Token = "0x40086C1")]
 		public static int LanternNightsOnCooldown;
 
-		// Token: 0x04006DFC RID: 28156
 		[global::Cpp2ILInjected.Token(Token = "0x40086C2")]
 		private static bool _wasLanternNight;
 	}

@@ -4,20 +4,24 @@ using System.IO;
 using System.Text;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria.Chat.Commands;
 using Terraria.DataStructures;
+using Terraria.Enums;
+using Terraria.GameContent;
+using Terraria.GameContent.Events;
+using Terraria.GameContent.Golf;
+using Terraria.GameContent.Items;
 using Terraria.GameContent.NetModules;
 using Terraria.Initializers;
 using Terraria.Net;
 
 namespace Terraria.Localization
 {
-	// Token: 0x020003B8 RID: 952
 	[global::Cpp2ILInjected.Token(Token = "0x200055B")]
 	public class NetworkText
 	{
-		// Token: 0x06002EEC RID: 12012 RVA: 0x0002A617 File Offset: 0x00028817
 		[global::Cpp2ILInjected.Token(Token = "0x6003351")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133A6D4", Offset = "0x133A6D4", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -27,7 +31,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EED RID: 12013 RVA: 0x0002A61A File Offset: 0x0002881A
 		[global::Cpp2ILInjected.Token(Token = "0x6003352")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133A704", Offset = "0x133A704", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +52,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EEE RID: 12014 RVA: 0x0002A61D File Offset: 0x0002881D
 		[global::Cpp2ILInjected.Token(Token = "0x6003353")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133A88C", Offset = "0x133A88C", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetMessage), Member = "greetPlayer", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -69,7 +71,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EEF RID: 12015 RVA: 0x0002A620 File Offset: 0x00028820
 		[global::Cpp2ILInjected.Token(Token = "0x6003354")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133A82C", Offset = "0x133A82C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "TrySyncingMyPlayer", ReturnType = typeof(void))]
@@ -133,9 +134,176 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF0 RID: 12016 RVA: 0x0002A623 File Offset: 0x00028823
 		[global::Cpp2ILInjected.Token(Token = "0x6003355")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133A414", Offset = "0x133A414", Length = "0x8C")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "TeamOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "startDedInputCallBack", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "CheckForMoonEventsStartingTemporarySeasons", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "CheckForMoonEventsScoreDisplay", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "InvasionWarning", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "UpdateSlimeRainWarning", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MessageBuffer), Member = "ProcessData", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetMessage), Member = "SendData", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(NetworkText),
+			typeof(int),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetMessage), Member = "greetPlayer", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetMessage), Member = "SyncOnePlayer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Netplay), Member = "ServerUpdateFrame", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "GetTypeNetName", ReturnType = typeof(NetworkText))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "GetFullNetName", ReturnType = typeof(NetworkText))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "checkDead", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "NPCLoot", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "DoDeathEvents_CelebrateBossDeath", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "DoDeathEvents", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "CountKillForBannersAndDropThem", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnWOF", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnSkeletron", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnOnPlayer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnBoss", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "NewNPC", MemberParameters = new object[]
+		{
+			typeof(IEntitySource),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "UnlockOrExchangePet", MemberParameters = new object[]
+		{
+			typeof(ref bool),
+			typeof(int),
+			typeof(string),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UnityTeleport", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "HandleMovement", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RemoteClient), Member = "SpamUpdate", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Lang), Member = "CreateDeathMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(NetworkText))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Lang), Member = "GetInvasionWaveText", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(short[])
+		}, ReturnType = typeof(NetworkText))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "UnspawnTravelNPC", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SpawnTravelNPC", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SpawnTownNPC", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(TownNPCSpawnResult))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "meteor", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "FinaliseHardModeOnMainThread", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SmashAltar", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckOrb", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "StartImpendingDoom", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "MessageLunarApocalypse", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalizedText), Member = "ToNetworkText", MemberParameters = new object[] { typeof(object[]) }, ReturnType = typeof(NetworkText))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DeathCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PVPDeathCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AllDeathCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AllPVPDeathCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TeleportPylonsSystem), Member = "HandleTeleportRequest", MemberParameters = new object[]
+		{
+			typeof(TeleportPylonInfo),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemVariants), Member = ".cctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GolfHelper.ContactListener), Member = "PutBallInCup_TextAndEffects", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BirthdayParty), Member = "CheckNight", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BirthdayParty), Member = "NaturalAttempt", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BirthdayParty), Member = "UpdateTime", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DD2Event), Member = "StartInvasion", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DD2Event), Member = "WinInvasionInternal", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DD2Event), Member = "LoseInvasionMessage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DD2Event), Member = "CheckProgress", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DD2Event), Member = "FailureMessage", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 117)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(object), Member = ".ctor", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(NetworkText), Member = "ConvertSubstitutionsToNetworkText", MemberParameters = new object[] { typeof(object[]) }, ReturnType = typeof(NetworkText[]))]
@@ -145,7 +313,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF1 RID: 12017 RVA: 0x0002A626 File Offset: 0x00028826
 		[global::Cpp2ILInjected.Token(Token = "0x6003356")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133A918", Offset = "0x133A918", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -164,7 +331,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF2 RID: 12018 RVA: 0x0002A629 File Offset: 0x00028829
 		[global::Cpp2ILInjected.Token(Token = "0x6003357")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133A998", Offset = "0x133A998", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -195,7 +361,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF3 RID: 12019 RVA: 0x0002A62C File Offset: 0x0002882C
 		[global::Cpp2ILInjected.Token(Token = "0x6003358")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133A9E8", Offset = "0x133A9E8", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -206,7 +371,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF4 RID: 12020 RVA: 0x0002A62F File Offset: 0x0002882F
 		[global::Cpp2ILInjected.Token(Token = "0x6003359")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133AA58", Offset = "0x133AA58", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -231,7 +395,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF5 RID: 12021 RVA: 0x0002A632 File Offset: 0x00028832
 		[global::Cpp2ILInjected.Token(Token = "0x600335A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133AC00", Offset = "0x133AC00", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -244,7 +407,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF6 RID: 12022 RVA: 0x0002A635 File Offset: 0x00028835
 		[global::Cpp2ILInjected.Token(Token = "0x600335B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133AAFC", Offset = "0x133AAFC", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -258,7 +420,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF7 RID: 12023 RVA: 0x0002A638 File Offset: 0x00028838
 		[global::Cpp2ILInjected.Token(Token = "0x600335C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133ACE8", Offset = "0x133ACE8", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -268,7 +429,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF8 RID: 12024 RVA: 0x0002A63B File Offset: 0x0002883B
 		[global::Cpp2ILInjected.Token(Token = "0x600335D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133AD3C", Offset = "0x133AD3C", Length = "0x1B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -301,7 +461,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EF9 RID: 12025 RVA: 0x0002A63E File Offset: 0x0002883E
 		[global::Cpp2ILInjected.Token(Token = "0x600335E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133AEEC", Offset = "0x133AEEC", Length = "0x1E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -334,7 +493,6 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x06002EFA RID: 12026 RVA: 0x0002A641 File Offset: 0x00028841
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600335F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x133B0CC", Offset = "0x133B0CC", Length = "0x64")]
@@ -346,36 +504,28 @@ namespace Terraria.Localization
 			throw null;
 		}
 
-		// Token: 0x04003279 RID: 12921
 		[global::Cpp2ILInjected.Token(Token = "0x4003C2A")]
 		public static readonly NetworkText Empty;
 
-		// Token: 0x0400327A RID: 12922
 		[global::Cpp2ILInjected.Token(Token = "0x4003C2B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private NetworkText[] _substitutions;
 
-		// Token: 0x0400327B RID: 12923
 		[global::Cpp2ILInjected.Token(Token = "0x4003C2C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string _text;
 
-		// Token: 0x0400327C RID: 12924
 		[global::Cpp2ILInjected.Token(Token = "0x4003C2D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private NetworkText.Mode _mode;
 
-		// Token: 0x020008F3 RID: 2291
 		[global::Cpp2ILInjected.Token(Token = "0x200055C")]
 		private enum Mode : byte
 		{
-			// Token: 0x04008155 RID: 33109
 			[global::Cpp2ILInjected.Token(Token = "0x4003C2F")]
 			Literal,
-			// Token: 0x04008156 RID: 33110
 			[global::Cpp2ILInjected.Token(Token = "0x4003C30")]
 			Formattable,
-			// Token: 0x04008157 RID: 33111
 			[global::Cpp2ILInjected.Token(Token = "0x4003C31")]
 			LocalizationKey
 		}

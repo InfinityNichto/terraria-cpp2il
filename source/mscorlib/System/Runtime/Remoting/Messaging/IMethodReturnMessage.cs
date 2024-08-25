@@ -4,13 +4,10 @@ using Cpp2ILInjected;
 
 namespace System.Runtime.Remoting.Messaging
 {
-	// Token: 0x0200030B RID: 779
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20003B0")]
 	public interface IMethodReturnMessage : IMethodMessage, IMessage
 	{
-		// Token: 0x17000367 RID: 871
-		// (get) Token: 0x06001BE9 RID: 7145
 		[global::Cpp2ILInjected.Token(Token = "0x170003C1")]
 		global::System.Exception Exception
 		{
@@ -18,8 +15,6 @@ namespace System.Runtime.Remoting.Messaging
 			get;
 		}
 
-		// Token: 0x17000368 RID: 872
-		// (get) Token: 0x06001BEA RID: 7146
 		[global::Cpp2ILInjected.Token(Token = "0x170003C2")]
 		object[] OutArgs
 		{
@@ -27,8 +22,6 @@ namespace System.Runtime.Remoting.Messaging
 			get;
 		}
 
-		// Token: 0x17000369 RID: 873
-		// (get) Token: 0x06001BEB RID: 7147
 		[global::Cpp2ILInjected.Token(Token = "0x170003C3")]
 		object ReturnValue
 		{

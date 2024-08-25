@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Math.Prime
 {
-	// Token: 0x02000047 RID: 71
 	[global::Cpp2ILInjected.Token(Token = "0x2000068")]
 	public sealed class PrimalityTests
 	{
-		// Token: 0x0600026A RID: 618 RVA: 0x00003654 File Offset: 0x00001854
 		[global::Cpp2ILInjected.Token(Token = "0x60002F1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AA8754", Offset = "0x1AA8754", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -27,7 +25,6 @@ namespace Mono.Math.Prime
 			throw null;
 		}
 
-		// Token: 0x0600026B RID: 619 RVA: 0x00003657 File Offset: 0x00001857
 		[global::Cpp2ILInjected.Token(Token = "0x60002F2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AA88D8", Offset = "0x1AA88D8", Length = "0x280")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

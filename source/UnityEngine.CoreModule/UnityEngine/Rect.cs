@@ -7,23 +7,80 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200007A RID: 122
 	[NativeHeader("Runtime/Math/Rect.h")]
 	[NativeClass("Rectf", "template<typename T> class RectT; typedef RectT<float> Rectf;")]
 	[RequiredByNativeCode(Optional = true, GenerateProxy = true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000087")]
 	public struct Rect : IEquatable<Rect>, IFormattable
 	{
-		// Token: 0x06000244 RID: 580 RVA: 0x000024B2 File Offset: 0x000006B2
 		[global::Cpp2ILInjected.Token(Token = "0x6000252")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F780AC", Offset = "0x1F780AC", Length = "0xC")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "SimpleProfiler", Member = "OnGUI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISafeRegionEdit", Member = "DrawBacking", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIVirtualInputControllerEdit", Member = "DrawBacking", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UserManagement", Member = "UpdateViewPorts", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator.EditorMobileEmuEntry", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(int),
+			typeof(int),
+			typeof(float),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "GetViewportSafeRegion", ReturnType = typeof(Rect))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "GetSafeArea", ReturnType = typeof(Rect))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "SetSafeArea", MemberParameters = new object[] { typeof(Rect) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAUICameraSettings", Member = "GetViewportSafeRegion", ReturnType = typeof(Rect))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchStickControl", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchSwipeControl", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchTrackControl", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "UpdateScreenSize", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "PercentToWorldRect", MemberParameters = new object[] { typeof(Rect) }, ReturnType = typeof(Rect))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "PixelToWorldRect", MemberParameters = new object[] { typeof(Rect) }, ReturnType = typeof(Rect))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TestInputManager", Member = "OnGUI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TestInputManager", Member = "DrawUnityInputDebugger", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Clipping", Member = "FindCullAndClipWorldRect", MemberParameters = new object[]
+		{
+			"System.Collections.Generic.List`1<RectMask2D>",
+			typeof(ref bool)
+		}, ReturnType = typeof(Rect))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.RectangularVertexClipper", Member = "GetCanvasRect", MemberParameters = new object[]
+		{
+			typeof(RectTransform),
+			"UnityEngine.Canvas"
+		}, ReturnType = typeof(Rect))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.RawImage", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.RectMask2D", Member = "get_rootCanvasRect", ReturnType = typeof(Rect))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayoutEntry", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			"UnityEngine.GUIStyle"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayoutEntry", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			"UnityEngine.GUIStyle",
+			"UnityEngine.GUILayoutOption[]"
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayoutEntry", Member = ".cctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayoutUtility", Member = ".cctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "TouchExample.CubeController", Member = "OnGUI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MultiplayerWithBindingsExample.PlayerManager", Member = "OnGUI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "MultiplayerBasicExample.PlayerManager", Member = "OnGUI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "BindingsExample.BindingsExample", Member = "OnGUI", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 81)]
 		public Rect(float x, float y, float width, float height)
 		{
 			throw null;
 		}
 
-		// Token: 0x06000245 RID: 581 RVA: 0x000024B5 File Offset: 0x000006B5
 		[global::Cpp2ILInjected.Token(Token = "0x6000253")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F780B8", Offset = "0x1F780B8", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAWorldCameraSettings", Member = "ApplyCamera", ReturnType = typeof(void))]
@@ -40,8 +97,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x1700007E RID: 126
-		// (get) Token: 0x06000246 RID: 582 RVA: 0x000024B8 File Offset: 0x000006B8
 		[global::Cpp2ILInjected.Token(Token = "0x17000080")]
 		public static Rect zero
 		{
@@ -61,7 +116,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000247 RID: 583 RVA: 0x000024BB File Offset: 0x000006BB
 		[global::Cpp2ILInjected.Token(Token = "0x6000255")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F780D8", Offset = "0x1F780D8", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayout", Member = "BeginArea", MemberParameters = new object[]
@@ -76,9 +130,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x1700007F RID: 127
-		// (get) Token: 0x06000248 RID: 584 RVA: 0x000024BE File Offset: 0x000006BE
-		// (set) Token: 0x06000249 RID: 585 RVA: 0x000024C1 File Offset: 0x000006C1
 		[global::Cpp2ILInjected.Token(Token = "0x17000081")]
 		public float x
 		{
@@ -139,9 +190,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000080 RID: 128
-		// (get) Token: 0x0600024A RID: 586 RVA: 0x000024C4 File Offset: 0x000006C4
-		// (set) Token: 0x0600024B RID: 587 RVA: 0x000024C7 File Offset: 0x000006C7
 		[global::Cpp2ILInjected.Token(Token = "0x17000082")]
 		public float y
 		{
@@ -197,8 +245,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000081 RID: 129
-		// (get) Token: 0x0600024C RID: 588 RVA: 0x000024CA File Offset: 0x000006CA
 		[global::Cpp2ILInjected.Token(Token = "0x17000083")]
 		public Vector2 position
 		{
@@ -218,8 +264,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000082 RID: 130
-		// (get) Token: 0x0600024D RID: 589 RVA: 0x000024CD File Offset: 0x000006CD
 		[global::Cpp2ILInjected.Token(Token = "0x17000084")]
 		public Vector2 center
 		{
@@ -244,8 +288,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000083 RID: 131
-		// (get) Token: 0x0600024E RID: 590 RVA: 0x000024D0 File Offset: 0x000006D0
 		[global::Cpp2ILInjected.Token(Token = "0x17000085")]
 		public Vector2 min
 		{
@@ -264,8 +306,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000084 RID: 132
-		// (get) Token: 0x0600024F RID: 591 RVA: 0x000024D3 File Offset: 0x000006D3
 		[global::Cpp2ILInjected.Token(Token = "0x17000086")]
 		public Vector2 max
 		{
@@ -284,14 +324,86 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000085 RID: 133
-		// (get) Token: 0x06000250 RID: 592 RVA: 0x000024D6 File Offset: 0x000006D6
-		// (set) Token: 0x06000251 RID: 593 RVA: 0x000024D9 File Offset: 0x000006D9
 		[global::Cpp2ILInjected.Token(Token = "0x17000087")]
 		public float width
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x600025E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F7816C", Offset = "0x1F7816C", Length = "0x8")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InterfaceProfile_Layout", Member = "get_MinVerticalResolution", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISafeRegionEdit", Member = "DrawBacking", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIVirtualInputControllerEdit", Member = "DrawBacking", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "IsSafeAreaValid", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "GetViewportSafeRegion", ReturnType = typeof(Rect))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "GetSafeArea", ReturnType = typeof(Rect))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "SetSafeArea", MemberParameters = new object[] { typeof(Rect) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ScreenshotSetup", Member = "get_EmulationEntry", ReturnType = "DeviceVPPICalculator.EditorMobileEmuEntry")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAUICameraSettings", Member = "GetMinResolution", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAUICameraSettings", Member = "get_NativeWidth", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAUICameraSettings", Member = "GetViewportSafeRegion", ReturnType = typeof(Rect))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAUICameraSettings", Member = "ApplyCamera", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAWorldCameraSettings", Member = "get_MaxPixelScale", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAWorldCameraSettings", Member = "get_MinPixelScale", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAWorldCameraSettings", Member = "get_NativeWidth", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "TouchCameraIsValid", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "PercentToWorldRect", MemberParameters = new object[] { typeof(Rect) }, ReturnType = typeof(Rect))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "PixelToWorldRect", MemberParameters = new object[] { typeof(Rect) }, ReturnType = typeof(Rect))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchSprite", Member = "ScaleSpriteInPixels", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(SpriteRenderer),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "DoMeshGeneration", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "DoLegacyMeshGeneration", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "OnPopulateMesh", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "PreserveSpriteAspectRatio", MemberParameters = new object[]
+			{
+				typeof(ref Rect),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GetDrawingDimensions", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(Vector4))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "SetNativeSize", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GenerateSprite", MemberParameters = new object[]
+			{
+				"UnityEngine.UI.VertexHelper",
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GenerateSlicedSprite", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GenerateTiledSprite", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "IsRaycastLocationValid", MemberParameters = new object[]
+			{
+				typeof(Vector2),
+				typeof(Camera)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "MapCoordinate", MemberParameters = new object[]
+			{
+				typeof(Vector2),
+				typeof(Rect)
+			}, ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.AspectRatioFitter", Member = "UpdateRect", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.GridLayoutGroup", Member = "CalculateLayoutInputVertical", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.RawImage", Member = "SetNativeSize", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.RawImage", Member = "OnPopulateMesh", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Scrollbar", Member = "UpdateDrag", MemberParameters = new object[] { "UnityEngine.EventSystems.PointerEventData" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ScrollRect", Member = "UpdateCachedData", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUIWordWrapSizer", Member = "CalcHeight", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayoutUtility", Member = "LayoutSingleGroup", MemberParameters = new object[] { "UnityEngine.GUILayoutGroup" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayout", Member = "BeginArea", MemberParameters = new object[]
+			{
+				typeof(Rect),
+				"UnityEngine.GUIContent",
+				"UnityEngine.GUIStyle"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUIScrollGroup", Member = "SetVertical", MemberParameters = new object[]
+			{
+				typeof(float),
+				typeof(float)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.TextGenerator", Member = "GetPreferredWidth", MemberParameters = new object[]
+			{
+				typeof(string),
+				"UnityEngine.TextGenerationSettings"
+			}, ReturnType = typeof(float))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 56)]
 			get
 			{
@@ -331,14 +443,81 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000086 RID: 134
-		// (get) Token: 0x06000252 RID: 594 RVA: 0x000024DC File Offset: 0x000006DC
-		// (set) Token: 0x06000253 RID: 595 RVA: 0x000024DF File Offset: 0x000006DF
 		[global::Cpp2ILInjected.Token(Token = "0x17000088")]
 		public float height
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x6000260")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F7817C", Offset = "0x1F7817C", Length = "0x8")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InterfaceProfile_Layout", Member = "get_MinVerticalResolution", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUISafeRegionEdit", Member = "DrawBacking", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIVirtualInputControllerEdit", Member = "DrawBacking", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "GetDefaultVerticalResolution", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "UpdatePixelScale", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "IsSafeAreaValid", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "GetSafeArea", ReturnType = typeof(Rect))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DeviceVPPICalculator", Member = "SetSafeArea", MemberParameters = new object[] { typeof(Rect) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "ScreenshotSetup", Member = "get_EmulationEntry", ReturnType = "DeviceVPPICalculator.EditorMobileEmuEntry")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAUICameraSettings", Member = "GetMinResolution", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAUICameraSettings", Member = "get_NativeHeight", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAUICameraSettings", Member = "ApplyCamera", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAWorldCameraSettings", Member = "get_MaxPixelScale", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAWorldCameraSettings", Member = "get_MinPixelScale", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "XNAWorldCameraSettings", Member = "get_NativeHeight", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Main", Member = "DoDraw_UpdateCameraPosition", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "TouchCameraIsValid", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "PercentToWorldRect", MemberParameters = new object[] { typeof(Rect) }, ReturnType = typeof(Rect))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchManager", Member = "PixelToWorldRect", MemberParameters = new object[] { typeof(Rect) }, ReturnType = typeof(Rect))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TouchSprite", Member = "ScaleSpriteInPixels", MemberParameters = new object[]
+			{
+				typeof(GameObject),
+				typeof(SpriteRenderer),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "Show", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "DoMeshGeneration", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "DoLegacyMeshGeneration", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Graphic", Member = "OnPopulateMesh", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "PreserveSpriteAspectRatio", MemberParameters = new object[]
+			{
+				typeof(ref Rect),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GetDrawingDimensions", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(Vector4))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "SetNativeSize", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GenerateSprite", MemberParameters = new object[]
+			{
+				"UnityEngine.UI.VertexHelper",
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GenerateSlicedSprite", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GenerateTiledSprite", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "IsRaycastLocationValid", MemberParameters = new object[]
+			{
+				typeof(Vector2),
+				typeof(Camera)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "MapCoordinate", MemberParameters = new object[]
+			{
+				typeof(Vector2),
+				typeof(Rect)
+			}, ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.AspectRatioFitter", Member = "UpdateRect", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.RawImage", Member = "SetNativeSize", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.RawImage", Member = "OnPopulateMesh", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Scrollbar", Member = "UpdateDrag", MemberParameters = new object[] { "UnityEngine.EventSystems.PointerEventData" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ScrollRect", Member = "UpdateCachedData", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayoutUtility", Member = "LayoutSingleGroup", MemberParameters = new object[] { "UnityEngine.GUILayoutGroup" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.GUILayout", Member = "BeginArea", MemberParameters = new object[]
+			{
+				typeof(Rect),
+				"UnityEngine.GUIContent",
+				"UnityEngine.GUIStyle"
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.TextGenerator", Member = "GetPreferredHeight", MemberParameters = new object[]
+			{
+				typeof(string),
+				"UnityEngine.TextGenerationSettings"
+			}, ReturnType = typeof(float))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 59)]
 			get
 			{
@@ -373,13 +552,58 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000087 RID: 135
-		// (get) Token: 0x06000254 RID: 596 RVA: 0x000024E2 File Offset: 0x000006E2
 		[global::Cpp2ILInjected.Token(Token = "0x17000089")]
 		public Vector2 size
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x6000262")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F7818C", Offset = "0x1F7818C", Length = "0x8")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RectTransform), Member = "GetParentSize", ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Dropdown", Member = "Show", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "set_sprite", MemberParameters = new object[] { typeof(Sprite) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GenerateTiledSprite", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "GetAdjustedBorders", MemberParameters = new object[]
+			{
+				typeof(Vector4),
+				typeof(Rect)
+			}, ReturnType = typeof(Vector4))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "get_preferredWidth", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "get_preferredHeight", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "MapCoordinate", MemberParameters = new object[]
+			{
+				typeof(Vector2),
+				typeof(Rect)
+			}, ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "UpdateLabel", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "SetDrawRangeToContainCaretPosition", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "get_preferredHeight", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.AspectRatioFitter", Member = "GetParentSize", ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.GridLayoutGroup", Member = "SetCellsAlongAxis", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.HorizontalOrVerticalLayoutGroup", Member = "SetChildrenAlongAxis", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.LayoutGroup", Member = "GetStartOffset", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(float)
+			}, ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Scrollbar", Member = "UpdateDrag", MemberParameters = new object[] { "UnityEngine.EventSystems.PointerEventData" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ScrollRect", Member = "SetLayoutHorizontal", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ScrollRect", Member = "SetLayoutVertical", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ScrollRect", Member = "UpdateBounds", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Selectable", Member = "GetPointOnRectEdge", MemberParameters = new object[]
+			{
+				typeof(RectTransform),
+				typeof(Vector2)
+			}, ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Slider", Member = "UpdateDrag", MemberParameters = new object[]
+			{
+				"UnityEngine.EventSystems.PointerEventData",
+				typeof(Camera)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Text", Member = "OnPopulateMesh", MemberParameters = new object[] { "UnityEngine.UI.VertexHelper" }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Text", Member = "get_preferredHeight", ReturnType = typeof(float))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 42)]
 			get
 			{
@@ -387,9 +611,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000088 RID: 136
-		// (get) Token: 0x06000255 RID: 597 RVA: 0x000024E5 File Offset: 0x000006E5
-		// (set) Token: 0x06000256 RID: 598 RVA: 0x000024E8 File Offset: 0x000006E8
 		[global::Cpp2ILInjected.Token(Token = "0x1700008A")]
 		public float xMin
 		{
@@ -450,9 +671,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000089 RID: 137
-		// (get) Token: 0x06000257 RID: 599 RVA: 0x000024EB File Offset: 0x000006EB
-		// (set) Token: 0x06000258 RID: 600 RVA: 0x000024EE File Offset: 0x000006EE
 		[global::Cpp2ILInjected.Token(Token = "0x1700008B")]
 		public float yMin
 		{
@@ -509,9 +727,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x1700008A RID: 138
-		// (get) Token: 0x06000259 RID: 601 RVA: 0x000024F1 File Offset: 0x000006F1
-		// (set) Token: 0x0600025A RID: 602 RVA: 0x000024F4 File Offset: 0x000006F4
 		[global::Cpp2ILInjected.Token(Token = "0x1700008C")]
 		public float xMax
 		{
@@ -576,9 +791,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x1700008B RID: 139
-		// (get) Token: 0x0600025B RID: 603 RVA: 0x000024F7 File Offset: 0x000006F7
-		// (set) Token: 0x0600025C RID: 604 RVA: 0x000024FA File Offset: 0x000006FA
 		[global::Cpp2ILInjected.Token(Token = "0x1700008D")]
 		public float yMax
 		{
@@ -634,7 +846,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x0600025D RID: 605 RVA: 0x000024FD File Offset: 0x000006FD
 		[global::Cpp2ILInjected.Token(Token = "0x600026B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F781EC", Offset = "0x1F781EC", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -664,7 +875,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600025E RID: 606 RVA: 0x00002500 File Offset: 0x00000700
 		[global::Cpp2ILInjected.Token(Token = "0x600026C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78230", Offset = "0x1F78230", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -685,7 +895,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600025F RID: 607 RVA: 0x00002503 File Offset: 0x00000703
 		[global::Cpp2ILInjected.Token(Token = "0x600026D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78274", Offset = "0x1F78274", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -695,7 +904,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000260 RID: 608 RVA: 0x00002506 File Offset: 0x00000706
 		[global::Cpp2ILInjected.Token(Token = "0x600026E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F782A0", Offset = "0x1F782A0", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -705,7 +913,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000261 RID: 609 RVA: 0x00002509 File Offset: 0x00000709
 		[global::Cpp2ILInjected.Token(Token = "0x600026F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F782EC", Offset = "0x1F782EC", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -721,7 +928,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000262 RID: 610 RVA: 0x0000250C File Offset: 0x0000070C
 		[global::Cpp2ILInjected.Token(Token = "0x6000270")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78380", Offset = "0x1F78380", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -735,7 +941,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000263 RID: 611 RVA: 0x0000250F File Offset: 0x0000070F
 		[global::Cpp2ILInjected.Token(Token = "0x6000271")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F783B4", Offset = "0x1F783B4", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -746,7 +951,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000264 RID: 612 RVA: 0x00002512 File Offset: 0x00000712
 		[global::Cpp2ILInjected.Token(Token = "0x6000272")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F783E8", Offset = "0x1F783E8", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -756,7 +960,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000265 RID: 613 RVA: 0x00002515 File Offset: 0x00000715
 		[global::Cpp2ILInjected.Token(Token = "0x6000273")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78470", Offset = "0x1F78470", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -767,7 +970,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000266 RID: 614 RVA: 0x00002518 File Offset: 0x00000718
 		[global::Cpp2ILInjected.Token(Token = "0x6000274")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F784EC", Offset = "0x1F784EC", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -777,7 +979,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000267 RID: 615 RVA: 0x0000251B File Offset: 0x0000071B
 		[global::Cpp2ILInjected.Token(Token = "0x6000275")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7858C", Offset = "0x1F7858C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -786,7 +987,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000268 RID: 616 RVA: 0x0000251E File Offset: 0x0000071E
 		[global::Cpp2ILInjected.Token(Token = "0x6000276")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78598", Offset = "0x1F78598", Length = "0x1FC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -809,25 +1009,21 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x040002F0 RID: 752
 		[NativeName("x")]
 		[global::Cpp2ILInjected.Token(Token = "0x400031B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private float m_XMin;
 
-		// Token: 0x040002F1 RID: 753
 		[NativeName("y")]
 		[global::Cpp2ILInjected.Token(Token = "0x400031C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		private float m_YMin;
 
-		// Token: 0x040002F2 RID: 754
 		[NativeName("width")]
 		[global::Cpp2ILInjected.Token(Token = "0x400031D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private float m_Width;
 
-		// Token: 0x040002F3 RID: 755
 		[NativeName("height")]
 		[global::Cpp2ILInjected.Token(Token = "0x400031E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]

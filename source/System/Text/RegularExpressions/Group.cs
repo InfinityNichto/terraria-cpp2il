@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Text.RegularExpressions
 {
-	// Token: 0x02000056 RID: 86
 	[global::Cpp2ILInjected.Token(Token = "0x20000A7")]
 	[Serializable]
 	public class Group : Capture
 	{
-		// Token: 0x06000264 RID: 612 RVA: 0x000034E2 File Offset: 0x000016E2
 		[global::Cpp2ILInjected.Token(Token = "0x60002ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EA8918", Offset = "0x1EA8918", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -23,8 +21,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x1700009F RID: 159
-		// (get) Token: 0x06000265 RID: 613 RVA: 0x000034E5 File Offset: 0x000016E5
 		[global::Cpp2ILInjected.Token(Token = "0x170000A1")]
 		public bool Success
 		{
@@ -52,7 +48,6 @@ namespace System.Text.RegularExpressions
 			}
 		}
 
-		// Token: 0x06000266 RID: 614 RVA: 0x000034E8 File Offset: 0x000016E8
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60002EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EA89A0", Offset = "0x1EA89A0", Length = "0xF4")]
@@ -64,7 +59,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x06000267 RID: 615 RVA: 0x000034EB File Offset: 0x000016EB
 		[global::Cpp2ILInjected.Token(Token = "0x60002F0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EA8A94", Offset = "0x1EA8A94", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -74,26 +68,21 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x0400015D RID: 349
 		[global::Cpp2ILInjected.Token(Token = "0x4000286")]
 		internal static readonly Group s_emptyGroup;
 
-		// Token: 0x0400015E RID: 350
 		[global::Cpp2ILInjected.Token(Token = "0x4000287")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		internal readonly int[] _caps;
 
-		// Token: 0x0400015F RID: 351
 		[global::Cpp2ILInjected.Token(Token = "0x4000288")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		internal int _capcount;
 
-		// Token: 0x04000160 RID: 352
 		[global::Cpp2ILInjected.Token(Token = "0x4000289")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		internal CaptureCollection _capcoll;
 
-		// Token: 0x04000161 RID: 353
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400028A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]

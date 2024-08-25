@@ -5,11 +5,9 @@ using Terraria.GameContent.Biomes;
 
 namespace Terraria.WorldBuilding
 {
-	// Token: 0x02000366 RID: 870
 	[global::Cpp2ILInjected.Token(Token = "0x20004E4")]
 	public abstract class MicroBiome : GenStructure
 	{
-		// Token: 0x06002C53 RID: 11347 RVA: 0x00029F1E File Offset: 0x0002811E
 		[global::Cpp2ILInjected.Token(Token = "0x6003059")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FAF14", Offset = "0x12FAF14", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CampsiteBiome), Member = ".ctor", ReturnType = typeof(void))]

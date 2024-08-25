@@ -1,9 +1,0 @@
-<map id="System.Net.ScatterGatherBuffers" name="System.Net.ScatterGatherBuffers">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,493,228,747"/>
-<area shape="rect" id="Node000002" href="$d2/da3/classSystem_1_1Net_1_1ScatterGatherBuffers.html" title=" " alt="" coords="187,163,409,416"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,417,196,480,192,478,226,415"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="411,260,429,271,436,289,433,302,426,311,422,307,428,299,431,290,425,274,408,264"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="48,5,79,71"/>
-<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="63,71,58,163,50,290,51,345,58,416,71,477,66,478,53,416,45,345,45,290,53,163,58,71"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="81,54,177,156,173,159,77,57"/>
-</map>

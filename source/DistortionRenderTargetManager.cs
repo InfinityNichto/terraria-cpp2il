@@ -6,12 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria.GameContent.Shaders;
 using UnityEngine;
 
-// Token: 0x0200024A RID: 586
 [global::Cpp2ILInjected.Token(Token = "0x2000304")]
 public class DistortionRenderTargetManager : MonoBehaviour
 {
-	// Token: 0x1700017B RID: 379
-	// (get) Token: 0x06001093 RID: 4243 RVA: 0x00024C9B File Offset: 0x00022E9B
 	[global::Cpp2ILInjected.Token(Token = "0x170001A3")]
 	public static DistortionRenderTargetManager Instance
 	{
@@ -40,7 +37,6 @@ public class DistortionRenderTargetManager : MonoBehaviour
 		}
 	}
 
-	// Token: 0x06001094 RID: 4244 RVA: 0x00024C9E File Offset: 0x00022E9E
 	[global::Cpp2ILInjected.Token(Token = "0x60011E5")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA70EB4", Offset = "0xA70EB4", Length = "0x2D8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +81,6 @@ public class DistortionRenderTargetManager : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x06001095 RID: 4245 RVA: 0x00024CA1 File Offset: 0x00022EA1
 	[global::Cpp2ILInjected.Token(Token = "0x60011E6")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA7122C", Offset = "0xA7122C", Length = "0x20")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WaterShaderData), Member = "PreDraw", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -101,7 +96,6 @@ public class DistortionRenderTargetManager : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x06001096 RID: 4246 RVA: 0x00024CA4 File Offset: 0x00022EA4
 	[global::Cpp2ILInjected.Token(Token = "0x60011E7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA7139C", Offset = "0xA7139C", Length = "0x8C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +114,6 @@ public class DistortionRenderTargetManager : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x06001097 RID: 4247 RVA: 0x00024CA7 File Offset: 0x00022EA7
 	[global::Cpp2ILInjected.Token(Token = "0x60011E8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA7124C", Offset = "0xA7124C", Length = "0xF0")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DistortionRenderTargetManager), Member = "ClearRenderTarget", ReturnType = typeof(void))]
@@ -145,7 +138,6 @@ public class DistortionRenderTargetManager : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x06001098 RID: 4248 RVA: 0x00024CAA File Offset: 0x00022EAA
 	[global::Cpp2ILInjected.Token(Token = "0x60011E9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA7133C", Offset = "0xA7133C", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DistortionRenderTargetManager), Member = "ClearRenderTarget", ReturnType = typeof(void))]
@@ -159,7 +151,6 @@ public class DistortionRenderTargetManager : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x06001099 RID: 4249 RVA: 0x00024CAD File Offset: 0x00022EAD
 	[global::Cpp2ILInjected.Token(Token = "0x60011EA")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA71428", Offset = "0xA71428", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -169,31 +160,25 @@ public class DistortionRenderTargetManager : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x04001BB0 RID: 7088
 	[global::Cpp2ILInjected.Token(Token = "0x400216A")]
 	public static DistortionRenderTargetManager _instance;
 
-	// Token: 0x04001BB1 RID: 7089
 	[global::Cpp2ILInjected.Token(Token = "0x400216B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private Camera cameraObject;
 
-	// Token: 0x04001BB2 RID: 7090
 	[global::Cpp2ILInjected.Token(Token = "0x400216C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public RenderTexture DistortionTarget;
 
-	// Token: 0x04001BB3 RID: 7091
 	[global::Cpp2ILInjected.Token(Token = "0x400216D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public RenderTexture DistortionTargetSwap;
 
-	// Token: 0x04001BB4 RID: 7092
 	[global::Cpp2ILInjected.Token(Token = "0x400216E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public Microsoft.Xna.Framework.Graphics.Texture2D GameDistortionTarget;
 
-	// Token: 0x04001BB5 RID: 7093
 	[global::Cpp2ILInjected.Token(Token = "0x400216F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	public Microsoft.Xna.Framework.Graphics.Texture2D GameDistortionTargetSwap;

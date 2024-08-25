@@ -6,7 +6,6 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine.Audio
 {
-	// Token: 0x02000009 RID: 9
 	[NativeHeader("Modules/Audio/Public/ScriptBindings/AudioMixer.bindings.h")]
 	[ExcludeFromPreset]
 	[NativeHeader("Modules/Audio/Public/AudioMixer.h")]
@@ -14,7 +13,6 @@ namespace UnityEngine.Audio
 	[global::Cpp2ILInjected.Token(Token = "0x200000D")]
 	public class AudioMixer : Object
 	{
-		// Token: 0x06000019 RID: 25
 		[NativeMethod("AudioMixerBindings::FindMatchingGroups", IsFreeFunction = true, HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000026")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F69A60", Offset = "0x1F69A60", Length = "0x44")]

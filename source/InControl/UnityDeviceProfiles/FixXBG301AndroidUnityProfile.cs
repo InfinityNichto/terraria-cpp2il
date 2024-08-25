@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x02000087 RID: 135
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000094")]
 	public class FixXBG301AndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000592 RID: 1426 RVA: 0x000030E3 File Offset: 0x000012E3
 		[global::Cpp2ILInjected.Token(Token = "0x60005AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19CAEA8", Offset = "0x19CAEA8", Length = "0x940")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000593 RID: 1427 RVA: 0x000030E6 File Offset: 0x000012E6
 		[global::Cpp2ILInjected.Token(Token = "0x60005B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19CB7E8", Offset = "0x19CB7E8", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

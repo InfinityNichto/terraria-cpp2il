@@ -11,12 +11,9 @@ using Terraria.Graphics.Renderers;
 
 namespace Terraria.Graphics
 {
-	// Token: 0x020004DC RID: 1244
 	[global::Cpp2ILInjected.Token(Token = "0x2000731")]
 	public class Camera
 	{
-		// Token: 0x170006D1 RID: 1745
-		// (get) Token: 0x06003689 RID: 13961 RVA: 0x0002BBE0 File Offset: 0x00029DE0
 		[global::Cpp2ILInjected.Token(Token = "0x1700076C")]
 		public Vector2 UnscaledPosition
 		{
@@ -83,8 +80,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006D2 RID: 1746
-		// (get) Token: 0x0600368A RID: 13962 RVA: 0x0002BBE3 File Offset: 0x00029DE3
 		[global::Cpp2ILInjected.Token(Token = "0x1700076D")]
 		public Vector2 UnscaledSize
 		{
@@ -124,8 +119,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006D3 RID: 1747
-		// (get) Token: 0x0600368B RID: 13963 RVA: 0x0002BBE6 File Offset: 0x00029DE6
 		[global::Cpp2ILInjected.Token(Token = "0x1700076E")]
 		public Vector2 ScaledPosition
 		{
@@ -159,8 +152,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006D4 RID: 1748
-		// (get) Token: 0x0600368C RID: 13964 RVA: 0x0002BBE9 File Offset: 0x00029DE9
 		[global::Cpp2ILInjected.Token(Token = "0x1700076F")]
 		public Vector2 ScaledSize
 		{
@@ -191,8 +182,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006D5 RID: 1749
-		// (get) Token: 0x0600368D RID: 13965 RVA: 0x0002BBEC File Offset: 0x00029DEC
 		[global::Cpp2ILInjected.Token(Token = "0x17000770")]
 		public RasterizerState Rasterizer
 		{
@@ -206,8 +195,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006D6 RID: 1750
-		// (get) Token: 0x0600368E RID: 13966 RVA: 0x0002BBEF File Offset: 0x00029DEF
 		[global::Cpp2ILInjected.Token(Token = "0x17000771")]
 		public SamplerState Sampler
 		{
@@ -232,8 +219,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006D7 RID: 1751
-		// (get) Token: 0x0600368F RID: 13967 RVA: 0x0002BBF2 File Offset: 0x00029DF2
 		[global::Cpp2ILInjected.Token(Token = "0x17000772")]
 		public SpriteViewMatrix GameViewMatrix
 		{
@@ -247,8 +232,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006D8 RID: 1752
-		// (get) Token: 0x06003690 RID: 13968 RVA: 0x0002BBF5 File Offset: 0x00029DF5
 		[global::Cpp2ILInjected.Token(Token = "0x17000773")]
 		public SpriteBatch SpriteBatch
 		{
@@ -262,8 +245,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006D9 RID: 1753
-		// (get) Token: 0x06003691 RID: 13969 RVA: 0x0002BBF8 File Offset: 0x00029DF8
 		[global::Cpp2ILInjected.Token(Token = "0x17000774")]
 		public Vector2 Center
 		{
@@ -292,7 +273,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x06003692 RID: 13970 RVA: 0x0002BBFB File Offset: 0x00029DFB
 		[global::Cpp2ILInjected.Token(Token = "0x6003CF3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1498DB0", Offset = "0x1498DB0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalUserGameState), Member = ".ctor", ReturnType = typeof(void))]

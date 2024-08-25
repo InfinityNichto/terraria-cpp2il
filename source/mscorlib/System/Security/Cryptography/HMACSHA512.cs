@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000243 RID: 579
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002E0")]
 	public class HMACSHA512 : HMAC
 	{
-		// Token: 0x0600169D RID: 5789 RVA: 0x00018485 File Offset: 0x00016685
 		[global::Cpp2ILInjected.Token(Token = "0x60018B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFECE0", Offset = "0x1AFECE0", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CryptoConfig), Member = "CreateFromName", MemberParameters = new object[]
@@ -26,7 +24,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600169E RID: 5790 RVA: 0x00018488 File Offset: 0x00016688
 		[global::Cpp2ILInjected.Token(Token = "0x60018B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFED44", Offset = "0x1AFED44", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,8 +39,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x17000248 RID: 584
-		// (get) Token: 0x0600169F RID: 5791 RVA: 0x0001848B File Offset: 0x0001668B
 		[global::Cpp2ILInjected.Token(Token = "0x1700029E")]
 		private int BlockSize
 		{
@@ -57,9 +52,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000249 RID: 585
-		// (get) Token: 0x060016A0 RID: 5792 RVA: 0x0001848E File Offset: 0x0001668E
-		// (set) Token: 0x060016A1 RID: 5793 RVA: 0x00018491 File Offset: 0x00016691
 		[global::Cpp2ILInjected.Token(Token = "0x1700029F")]
 		public bool ProduceLegacyHmacValues
 		{
@@ -81,7 +73,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x040009DF RID: 2527
 		[global::Cpp2ILInjected.Token(Token = "0x4000CB9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x61")]
 		private bool m_useLegacyBlockSize;

@@ -19,17 +19,16 @@ using Terraria.GameContent.Creative;
 using Terraria.GameContent.Drawing;
 using Terraria.GameContent.ItemDropRules;
 using Terraria.GameContent.Liquid;
+using Terraria.GameContent.NetModules;
 using Terraria.Graphics.Effects;
 using Terraria.Initializers;
 using Terraria.IO;
 using Terraria.Utilities;
 using UnityEngine;
 
-// Token: 0x02000212 RID: 530
 [global::Cpp2ILInjected.Token(Token = "0x20002B8")]
 public class LocalUser
 {
-	// Token: 0x06000EEB RID: 3819 RVA: 0x000247BE File Offset: 0x000229BE
 	[global::Cpp2ILInjected.Token(Token = "0x600101B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3D198", Offset = "0xA3D198", Length = "0x758")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +89,6 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x06000EEC RID: 3820 RVA: 0x000247C1 File Offset: 0x000229C1
 	[global::Cpp2ILInjected.Token(Token = "0x600101C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3E994", Offset = "0xA3E994", Length = "0x45C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -131,9 +129,40 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x06000EED RID: 3821 RVA: 0x000247C4 File Offset: 0x000229C4
 	[global::Cpp2ILInjected.Token(Token = "0x600101D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3F14C", Offset = "0xA3F14C", Length = "0x88")]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CacheFileManager), Member = "FileUpload", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINetPlayStatusMenu), Member = "QuitCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenPostProcessor), Member = "OnRenderImage", MemberParameters = new object[]
+	{
+		typeof(RenderTexture),
+		typeof(RenderTexture)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "RunServerCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Netplay), Member = "TcpLocalClientLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Netplay), Member = "TcpClientLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Netplay), Member = "ServerLoop", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "worldGenCallback", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SaveAndQuitCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "playWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "joinLocalWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "FinaliseOnMainThread", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "saveAndPlayCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "saveToonWhilePlayingCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "serverLoadWorldCallBack", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "smCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile), Member = "renameWorldCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetCreativePowersModule), Member = "Deserialize", MemberParameters = new object[]
+	{
+		typeof(BinaryReader),
+		typeof(int)
+	}, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetCreativePowerPermissionsModule), Member = "Deserialize", MemberParameters = new object[]
+	{
+		typeof(BinaryReader),
+		typeof(int)
+	}, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowerManager), Member = "SyncSplitScreenPlayer", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 21)]
 	[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 6)]
 	public void LoadThreadstate()
@@ -141,7 +170,6 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x06000EEE RID: 3822 RVA: 0x000247C7 File Offset: 0x000229C7
 	[global::Cpp2ILInjected.Token(Token = "0x600101E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3EDF0", Offset = "0xA3EDF0", Length = "0x35C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -200,7 +228,6 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x06000EEF RID: 3823 RVA: 0x000247CA File Offset: 0x000229CA
 	[global::Cpp2ILInjected.Token(Token = "0x600101F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3F1D4", Offset = "0xA3F1D4", Length = "0x58")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XNAUnityRunner), Member = "OnApplicationPause", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
@@ -224,7 +251,6 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x06000EF0 RID: 3824 RVA: 0x000247CD File Offset: 0x000229CD
 	[global::Cpp2ILInjected.Token(Token = "0x6001020")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3F22C", Offset = "0xA3F22C", Length = "0xAF4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -284,7 +310,6 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x06000EF1 RID: 3825 RVA: 0x000247D0 File Offset: 0x000229D0
 	[global::Cpp2ILInjected.Token(Token = "0x6001021")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3FE18", Offset = "0xA3FE18", Length = "0x6BC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -336,9 +361,6 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x17000164 RID: 356
-	// (get) Token: 0x06000EF3 RID: 3827 RVA: 0x000247D6 File Offset: 0x000229D6
-	// (set) Token: 0x06000EF2 RID: 3826 RVA: 0x000247D3 File Offset: 0x000229D3
 	[global::Cpp2ILInjected.Token(Token = "0x1700018C")]
 	public Rect ViewportRegion
 	{
@@ -361,7 +383,6 @@ public class LocalUser
 		}
 	}
 
-	// Token: 0x06000EF4 RID: 3828 RVA: 0x000247D9 File Offset: 0x000229D9
 	[global::Cpp2ILInjected.Token(Token = "0x6001024")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA40540", Offset = "0xA40540", Length = "0x78")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalUser), Member = "GetWorldCamera", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(Camera))]
@@ -380,7 +401,6 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x06000EF5 RID: 3829 RVA: 0x000247DC File Offset: 0x000229DC
 	[global::Cpp2ILInjected.Token(Token = "0x6001025")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3E748", Offset = "0xA3E748", Length = "0x24C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -403,7 +423,6 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x06000EF6 RID: 3830 RVA: 0x000247DF File Offset: 0x000229DF
 	[global::Cpp2ILInjected.Token(Token = "0x6001026")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3E4FC", Offset = "0xA3E4FC", Length = "0x24C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -426,7 +445,6 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x06000EF7 RID: 3831 RVA: 0x000247E2 File Offset: 0x000229E2
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6001027")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA405B8", Offset = "0xA405B8", Length = "0x84")]
@@ -439,145 +457,115 @@ public class LocalUser
 		throw null;
 	}
 
-	// Token: 0x04001874 RID: 6260
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA0")]
 	private static byte[] _cryptoKey;
 
-	// Token: 0x04001875 RID: 6261
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA1")]
 	public static LocalUser Active;
 
-	// Token: 0x04001876 RID: 6262
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public SkyManager SkyManager;
 
-	// Token: 0x04001877 RID: 6263
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public FilterManager FilterManager;
 
-	// Token: 0x04001878 RID: 6264
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public OverlayManager OverlayManager;
 
-	// Token: 0x04001879 RID: 6265
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private bool usingKeyboardMouse;
 
-	// Token: 0x0400187A RID: 6266
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public ControllerDevice ActiveController;
 
-	// Token: 0x0400187B RID: 6267
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	public GUIInstance GUIInstance;
 
-	// Token: 0x0400187C RID: 6268
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	public CursorManager cursorManager;
 
-	// Token: 0x0400187D RID: 6269
 	[global::Cpp2ILInjected.Token(Token = "0x4001DA9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	public ControllerActionManager controllerActionManager;
 
-	// Token: 0x0400187E RID: 6270
 	[global::Cpp2ILInjected.Token(Token = "0x4001DAA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	public GUIInputRegionManager guiInputRegionManager;
 
-	// Token: 0x0400187F RID: 6271
 	[global::Cpp2ILInjected.Token(Token = "0x4001DAB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	public MPSessionManager mpSessionManager;
 
-	// Token: 0x04001880 RID: 6272
 	[global::Cpp2ILInjected.Token(Token = "0x4001DAC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	public XNAUIInputLayer xnaUIInputLayer;
 
-	// Token: 0x04001881 RID: 6273
 	[global::Cpp2ILInjected.Token(Token = "0x4001DAD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	public FileManager fileManager;
 
-	// Token: 0x04001882 RID: 6274
 	[global::Cpp2ILInjected.Token(Token = "0x4001DAE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	public LiquidRenderer liquidRenderer;
 
-	// Token: 0x04001883 RID: 6275
 	[global::Cpp2ILInjected.Token(Token = "0x4001DAF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	public int UserIndex;
 
-	// Token: 0x04001884 RID: 6276
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	public PlatformUser UserId;
 
-	// Token: 0x04001885 RID: 6277
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 	public IPlatformAwardNotifier PlatformAwards;
 
-	// Token: 0x04001886 RID: 6278
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 	public PersistentUserData PersistentUserData;
 
-	// Token: 0x04001887 RID: 6279
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 	public XNAUICameraSettings UICameraSettings;
 
-	// Token: 0x04001888 RID: 6280
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 	public XNAWorldCameraSettings WorldCameraSettings;
 
-	// Token: 0x04001889 RID: 6281
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 	public LocalUserGameState GameState;
 
-	// Token: 0x0400188A RID: 6282
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 	public LocalUserXNAState XNAState;
 
-	// Token: 0x0400188B RID: 6283
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xC0")]
 	public InterfaceProfile_Layout[] CustomProfiles;
 
-	// Token: 0x0400188C RID: 6284
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB8")]
 	private static Camera _worldCam2;
 
-	// Token: 0x0400188D RID: 6285
 	[global::Cpp2ILInjected.Token(Token = "0x4001DB9")]
 	private static Camera _worldCam3;
 
-	// Token: 0x0400188E RID: 6286
 	[global::Cpp2ILInjected.Token(Token = "0x4001DBA")]
 	private static Camera _worldCam4;
 
-	// Token: 0x0400188F RID: 6287
 	[global::Cpp2ILInjected.Token(Token = "0x4001DBB")]
 	private static Camera _uiCam2;
 
-	// Token: 0x04001890 RID: 6288
 	[global::Cpp2ILInjected.Token(Token = "0x4001DBC")]
 	private static Camera _uiCam3;
 
-	// Token: 0x04001891 RID: 6289
 	[global::Cpp2ILInjected.Token(Token = "0x4001DBD")]
 	private static Camera _uiCam4;
 }

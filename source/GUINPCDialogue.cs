@@ -17,11 +17,9 @@ using Terraria.UI;
 using Terraria.UI.Chat;
 using Terraria.Utilities;
 
-// Token: 0x020000F4 RID: 244
 [global::Cpp2ILInjected.Token(Token = "0x200015E")]
 public class GUINPCDialogue
 {
-	// Token: 0x0600088E RID: 2190 RVA: 0x000234EF File Offset: 0x000216EF
 	[global::Cpp2ILInjected.Token(Token = "0x600098E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x960D50", Offset = "0x960D50", Length = "0x88")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x0600088F RID: 2191 RVA: 0x000234F2 File Offset: 0x000216F2
 	[global::Cpp2ILInjected.Token(Token = "0x600098F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x960DD8", Offset = "0x960DD8", Length = "0x1B0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +57,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000890 RID: 2192 RVA: 0x000234F5 File Offset: 0x000216F5
 	[global::Cpp2ILInjected.Token(Token = "0x6000990")]
 	[global::Cpp2ILInjected.Address(RVA = "0x961DFC", Offset = "0x961DFC", Length = "0x100")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = "CloseNonPageDialogues", ReturnType = typeof(void))]
@@ -81,7 +77,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000891 RID: 2193 RVA: 0x000234F8 File Offset: 0x000216F8
 	[global::Cpp2ILInjected.Token(Token = "0x6000991")]
 	[global::Cpp2ILInjected.Address(RVA = "0x961EFC", Offset = "0x961EFC", Length = "0x220")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -96,7 +91,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000892 RID: 2194 RVA: 0x000234FB File Offset: 0x000216FB
 	[global::Cpp2ILInjected.Token(Token = "0x6000992")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96211C", Offset = "0x96211C", Length = "0x5C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "UpdateText", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -108,7 +102,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000893 RID: 2195 RVA: 0x000234FE File Offset: 0x000216FE
 	[global::Cpp2ILInjected.Token(Token = "0x6000993")]
 	[global::Cpp2ILInjected.Address(RVA = "0x961438", Offset = "0x961438", Length = "0x9C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -205,7 +198,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000894 RID: 2196 RVA: 0x00023501 File Offset: 0x00021701
 	[global::Cpp2ILInjected.Token(Token = "0x6000994")]
 	[global::Cpp2ILInjected.Address(RVA = "0x962178", Offset = "0x962178", Length = "0x16A0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -232,7 +224,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000895 RID: 2197 RVA: 0x00023504 File Offset: 0x00021704
 	[global::Cpp2ILInjected.Token(Token = "0x6000995")]
 	[global::Cpp2ILInjected.Address(RVA = "0x963878", Offset = "0x963878", Length = "0x88")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -246,7 +237,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000896 RID: 2198 RVA: 0x00023507 File Offset: 0x00021707
 	[global::Cpp2ILInjected.Token(Token = "0x6000996")]
 	[global::Cpp2ILInjected.Address(RVA = "0x963900", Offset = "0x963900", Length = "0x80")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -259,7 +249,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000897 RID: 2199 RVA: 0x0002350A File Offset: 0x0002170A
 	[global::Cpp2ILInjected.Token(Token = "0x6000997")]
 	[global::Cpp2ILInjected.Address(RVA = "0x963980", Offset = "0x963980", Length = "0x16C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "Draw", ReturnType = typeof(void))]
@@ -285,7 +274,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000898 RID: 2200 RVA: 0x0002350D File Offset: 0x0002170D
 	[global::Cpp2ILInjected.Token(Token = "0x6000998")]
 	[global::Cpp2ILInjected.Address(RVA = "0x963AEC", Offset = "0x963AEC", Length = "0x219C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -400,7 +388,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x06000899 RID: 2201 RVA: 0x00023510 File Offset: 0x00021710
 	[global::Cpp2ILInjected.Token(Token = "0x6000999")]
 	[global::Cpp2ILInjected.Address(RVA = "0x965C88", Offset = "0x965C88", Length = "0xDC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUINPCDialogue), Member = "Draw", ReturnType = typeof(void))]
@@ -423,7 +410,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x0600089A RID: 2202 RVA: 0x00023513 File Offset: 0x00021713
 	[global::Cpp2ILInjected.Token(Token = "0x600099A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x963818", Offset = "0x963818", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -451,7 +437,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x0600089B RID: 2203 RVA: 0x00023516 File Offset: 0x00021716
 	[global::Cpp2ILInjected.Token(Token = "0x600099B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x965D64", Offset = "0x965D64", Length = "0xA68")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -540,7 +525,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x0600089C RID: 2204 RVA: 0x00023519 File Offset: 0x00021719
 	[global::Cpp2ILInjected.Token(Token = "0x600099C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9667CC", Offset = "0x9667CC", Length = "0x5C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -610,7 +594,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x0600089D RID: 2205 RVA: 0x0002351C File Offset: 0x0002171C
 	[global::Cpp2ILInjected.Token(Token = "0x600099D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x966D90", Offset = "0x966D90", Length = "0xC80")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -710,7 +693,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x0600089E RID: 2206 RVA: 0x0002351F File Offset: 0x0002171F
 	[global::Cpp2ILInjected.Token(Token = "0x600099E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x967A10", Offset = "0x967A10", Length = "0x898")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -765,8 +747,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x170000CE RID: 206
-	// (get) Token: 0x0600089F RID: 2207 RVA: 0x00023522 File Offset: 0x00021722
 	[global::Cpp2ILInjected.Token(Token = "0x170000F5")]
 	private string DisplayString
 	{
@@ -795,7 +775,6 @@ public class GUINPCDialogue
 		}
 	}
 
-	// Token: 0x060008A0 RID: 2208 RVA: 0x00023525 File Offset: 0x00021725
 	[global::Cpp2ILInjected.Token(Token = "0x60009A0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9682A8", Offset = "0x9682A8", Length = "0xD04")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -926,7 +905,6 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x060008A1 RID: 2209 RVA: 0x00023528 File Offset: 0x00021728
 	[global::Cpp2ILInjected.Token(Token = "0x60009A1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x968FAC", Offset = "0x968FAC", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -939,52 +917,42 @@ public class GUINPCDialogue
 		throw null;
 	}
 
-	// Token: 0x040006D6 RID: 1750
 	[global::Cpp2ILInjected.Token(Token = "0x400095C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float CachedLayoutSize;
 
-	// Token: 0x040006D7 RID: 1751
 	[global::Cpp2ILInjected.Token(Token = "0x400095D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float CachedLayoutWrapSize;
 
-	// Token: 0x040006D8 RID: 1752
 	[global::Cpp2ILInjected.Token(Token = "0x400095E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int CachedMinTextHeight;
 
-	// Token: 0x040006D9 RID: 1753
 	[global::Cpp2ILInjected.Token(Token = "0x400095F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private Vector2 CachedTextSize;
 
-	// Token: 0x040006DA RID: 1754
 	[global::Cpp2ILInjected.Token(Token = "0x4000960")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private string CachedTextValue;
 
-	// Token: 0x040006DB RID: 1755
 	[global::Cpp2ILInjected.Token(Token = "0x4000961")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private string CachedTextMultilineValue;
 
-	// Token: 0x040006DC RID: 1756
 	[global::Cpp2ILInjected.Token(Token = "0x4000962")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private string textBlinker;
 
-	// Token: 0x040006DD RID: 1757
 	[global::Cpp2ILInjected.Token(Token = "0x4000963")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	public int NumberOfOptions;
 
-	// Token: 0x040006DE RID: 1758
 	[global::Cpp2ILInjected.Token(Token = "0x4000964")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	public bool ShowHappiness;
 
-	// Token: 0x040006DF RID: 1759
 	[global::Cpp2ILInjected.Token(Token = "0x4000965")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	public GUIControllerNPCDialogue _controller;

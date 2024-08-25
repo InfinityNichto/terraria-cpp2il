@@ -1,4 +1,0 @@
-var NativeContainerSupportsMinMaxWriteRestrictionAttribute_8cs =
-[
-    [ "Unity.Collections.LowLevel.Unsafe.NativeContainerSupportsMinMaxWriteRestrictionAttribute", "d5/d49/classUnity_1_1Collections_1_1LowLevel_1_1Unsafe_1_1NativeContainerSupportsMinMaxWriteRestrictionAttribute.html", "d5/d49/classUnity_1_1Collections_1_1LowLevel_1_1Unsafe_1_1NativeContainerSupportsMinMaxWriteRestrictionAttribute" ]
-];

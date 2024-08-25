@@ -4,10 +4,14 @@ using System.IO;
 using System.Threading;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria.Chat.Commands;
+using Terraria.DataStructures;
+using Terraria.Enums;
 using Terraria.GameContent;
 using Terraria.GameContent.Events;
+using Terraria.GameContent.Golf;
 using Terraria.GameContent.NetModules;
 using Terraria.GameContent.UI.Chat;
 using Terraria.Localization;
@@ -15,11 +19,9 @@ using Terraria.Net;
 
 namespace Terraria.Chat
 {
-	// Token: 0x0200052A RID: 1322
 	[global::Cpp2ILInjected.Token(Token = "0x2000794")]
 	public static class ChatHelper
 	{
-		// Token: 0x060038DA RID: 14554 RVA: 0x0002C26A File Offset: 0x0002A46A
 		[global::Cpp2ILInjected.Token(Token = "0x6003F7D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x747A70", Offset = "0x747A70", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +45,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038DB RID: 14555 RVA: 0x0002C26D File Offset: 0x0002A46D
 		[global::Cpp2ILInjected.Token(Token = "0x6003F7E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x747CFC", Offset = "0x747CFC", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "TeamOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -78,7 +79,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038DC RID: 14556 RVA: 0x0002C270 File Offset: 0x0002A470
 		[global::Cpp2ILInjected.Token(Token = "0x6003F7F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x747D6C", Offset = "0x747D6C", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -113,9 +113,164 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038DD RID: 14557 RVA: 0x0002C273 File Offset: 0x0002A473
 		[global::Cpp2ILInjected.Token(Token = "0x6003F80")]
 		[global::Cpp2ILInjected.Address(RVA = "0x747EB8", Offset = "0x747EB8", Length = "0x70")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "startDedInputCallBack", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "startPumpkinMoon", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "startSnowMoon", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "InvasionWarning", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "UpdateTime_StartNight", MemberParameters = new object[] { typeof(ref bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "UpdateTime_StartDay", MemberParameters = new object[] { typeof(ref bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "UpdateSlimeRainWarning", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MessageBuffer), Member = "ProcessData", MemberParameters = new object[]
+		{
+			typeof(byte[]),
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetMessage), Member = "SendData", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(NetworkText),
+			typeof(int),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NetMessage), Member = "SyncOnePlayer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "checkDead", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "CheckProgressFrostMoon", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "CheckProgressPumpkinMoon", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "NPCLoot", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "DoDeathEvents_CelebrateBossDeath", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "DoDeathEvents", MemberParameters = new object[] { typeof(Player) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "CountKillForBannersAndDropThem", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnWOF", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnSkeletron", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnOnPlayer", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SpawnBoss", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "NewNPC", MemberParameters = new object[]
+		{
+			typeof(IEntitySource),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(float),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "UnlockOrExchangePet", MemberParameters = new object[]
+		{
+			typeof(ref bool),
+			typeof(int),
+			typeof(string),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "KillMe", MemberParameters = new object[]
+		{
+			typeof(PlayerDeathReason),
+			typeof(double),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UnityTeleport", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "HandleMovement", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "UnspawnTravelNPC", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SpawnTravelNPC", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SpawnTownNPC", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(TownNPCSpawnResult))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "meteor", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "FinaliseHardModeOnMainThread", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SmashAltar", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckOrb", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "BroadcastText", MemberParameters = new object[]
+		{
+			typeof(NetworkText),
+			typeof(Color)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DeathCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PVPDeathCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AllDeathCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AllPVPDeathCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EmoteCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RollCommand), Member = "ProcessIncomingMessage", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(byte)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GolfHelper.ContactListener), Member = "PutBallInCup_TextAndEffects", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 65)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 2)]
 		public static void BroadcastChatMessage(NetworkText text, Color color, int excludedPlayer = -1)
@@ -123,7 +278,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038DE RID: 14558 RVA: 0x0002C276 File Offset: 0x0002A476
 		[global::Cpp2ILInjected.Token(Token = "0x6003F81")]
 		[global::Cpp2ILInjected.Address(RVA = "0x747F28", Offset = "0x747F28", Length = "0x188")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -164,7 +318,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038DF RID: 14559 RVA: 0x0002C279 File Offset: 0x0002A479
 		[global::Cpp2ILInjected.Token(Token = "0x6003F82")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7480B0", Offset = "0x7480B0", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -175,7 +328,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038E0 RID: 14560 RVA: 0x0002C27C File Offset: 0x0002A47C
 		[global::Cpp2ILInjected.Token(Token = "0x6003F83")]
 		[global::Cpp2ILInjected.Address(RVA = "0x748120", Offset = "0x748120", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "Draw", ReturnType = typeof(void))]
@@ -188,7 +340,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038E1 RID: 14561 RVA: 0x0002C27F File Offset: 0x0002A47F
 		[global::Cpp2ILInjected.Token(Token = "0x6003F84")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7481B0", Offset = "0x7481B0", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChatHelper), Member = "PlatformCheckedMessage", MemberParameters = new object[]
@@ -229,7 +380,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038E2 RID: 14562 RVA: 0x0002C282 File Offset: 0x0002A482
 		[global::Cpp2ILInjected.Token(Token = "0x6003F85")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7484D8", Offset = "0x7484D8", Length = "0x1A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -260,7 +410,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038E3 RID: 14563 RVA: 0x0002C285 File Offset: 0x0002A485
 		[global::Cpp2ILInjected.Token(Token = "0x6003F86")]
 		[global::Cpp2ILInjected.Address(RVA = "0x747BA8", Offset = "0x747BA8", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -310,7 +459,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038E4 RID: 14564 RVA: 0x0002C288 File Offset: 0x0002A488
 		[global::Cpp2ILInjected.Token(Token = "0x6003F87")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7483B0", Offset = "0x7483B0", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -337,7 +485,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038E5 RID: 14565 RVA: 0x0002C28B File Offset: 0x0002A48B
 		[global::Cpp2ILInjected.Token(Token = "0x6003F88")]
 		[global::Cpp2ILInjected.Address(RVA = "0x748744", Offset = "0x748744", Length = "0x284")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -365,7 +512,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038E6 RID: 14566 RVA: 0x0002C28E File Offset: 0x0002A48E
 		[global::Cpp2ILInjected.Token(Token = "0x6003F89")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7489C8", Offset = "0x7489C8", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -383,7 +529,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038E7 RID: 14567 RVA: 0x0002C291 File Offset: 0x0002A491
 		[global::Cpp2ILInjected.Token(Token = "0x6003F8A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x748334", Offset = "0x748334", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChatHelper), Member = "DisplayCheckedMessage", MemberParameters = new object[]
@@ -406,7 +551,6 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x060038E8 RID: 14568 RVA: 0x0002C294 File Offset: 0x0002A494
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003F8B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x748A58", Offset = "0x748A58", Length = "0x8C")]
@@ -418,15 +562,12 @@ namespace Terraria.Chat
 			throw null;
 		}
 
-		// Token: 0x04006890 RID: 26768
 		[global::Cpp2ILInjected.Token(Token = "0x4007DB9")]
 		private static List<Tuple<string, Color>> _cachedMessages;
 
-		// Token: 0x02000976 RID: 2422
 		[global::Cpp2ILInjected.Token(Token = "0x2000795")]
 		public class ChatRequest
 		{
-			// Token: 0x06004D7C RID: 19836 RVA: 0x0002FAC5 File Offset: 0x0002DCC5
 			[global::Cpp2ILInjected.Token(Token = "0x6003F8C")]
 			[global::Cpp2ILInjected.Address(RVA = "0x748678", Offset = "0x748678", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -436,43 +577,34 @@ namespace Terraria.Chat
 				throw null;
 			}
 
-			// Token: 0x04008BDE RID: 35806
 			[global::Cpp2ILInjected.Token(Token = "0x4007DBA")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public PlatformUser LocalUser;
 
-			// Token: 0x04008BDF RID: 35807
 			[global::Cpp2ILInjected.Token(Token = "0x4007DBB")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			public PlatformUser SendingUser;
 
-			// Token: 0x04008BE0 RID: 35808
 			[global::Cpp2ILInjected.Token(Token = "0x4007DBC")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 			public ChatHelper.ChatRequest.ChatRequestCallback Callback;
 
-			// Token: 0x04008BE1 RID: 35809
 			[global::Cpp2ILInjected.Token(Token = "0x4007DBD")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 			public string message;
 
-			// Token: 0x04008BE2 RID: 35810
 			[global::Cpp2ILInjected.Token(Token = "0x4007DBE")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 			public Color color;
 
-			// Token: 0x04008BE3 RID: 35811
 			[global::Cpp2ILInjected.Token(Token = "0x4007DBF")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 			public byte messageAuthor;
 
-			// Token: 0x04008BE4 RID: 35812
 			[global::Cpp2ILInjected.Token(Token = "0x4007DC0")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x45")]
 			public bool result;
 
-			// Token: 0x02000BA9 RID: 2985
-			// (Invoke) Token: 0x06005419 RID: 21529
 			[global::Cpp2ILInjected.Token(Token = "0x2000796")]
 			public delegate void ChatRequestCallback(bool result, ChatHelper.ChatRequest request);
 		}

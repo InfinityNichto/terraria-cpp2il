@@ -9,11 +9,9 @@ using Terraria;
 using Terraria.Audio;
 using UnityEngine;
 
-// Token: 0x020001CC RID: 460
 [global::Cpp2ILInjected.Token(Token = "0x2000265")]
 public class GUILowMemorySetttings
 {
-	// Token: 0x06000C99 RID: 3225 RVA: 0x00024110 File Offset: 0x00022310
 	[global::Cpp2ILInjected.Token(Token = "0x6000DB6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E4754", Offset = "0x9E4754", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -27,7 +25,6 @@ public class GUILowMemorySetttings
 		throw null;
 	}
 
-	// Token: 0x06000C9A RID: 3226 RVA: 0x00024113 File Offset: 0x00022313
 	[global::Cpp2ILInjected.Token(Token = "0x6000DB7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E4818", Offset = "0x9E4818", Length = "0x288")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +81,6 @@ public class GUILowMemorySetttings
 		throw null;
 	}
 
-	// Token: 0x06000C9B RID: 3227 RVA: 0x00024116 File Offset: 0x00022316
 	[global::Cpp2ILInjected.Token(Token = "0x6000DB8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E4AA0", Offset = "0x9E4AA0", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -95,27 +91,22 @@ public class GUILowMemorySetttings
 		throw null;
 	}
 
-	// Token: 0x0400145E RID: 5214
 	[global::Cpp2ILInjected.Token(Token = "0x4001957")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool WarningDisplayed;
 
-	// Token: 0x0400145F RID: 5215
 	[global::Cpp2ILInjected.Token(Token = "0x4001958")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private Action ContinueCallback;
 
-	// Token: 0x04001460 RID: 5216
 	[global::Cpp2ILInjected.Token(Token = "0x4001959")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float scale0;
 
-	// Token: 0x04001461 RID: 5217
 	[global::Cpp2ILInjected.Token(Token = "0x400195A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private float scale1;
 
-	// Token: 0x04001462 RID: 5218
 	[global::Cpp2ILInjected.Token(Token = "0x400195B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private float scale2;

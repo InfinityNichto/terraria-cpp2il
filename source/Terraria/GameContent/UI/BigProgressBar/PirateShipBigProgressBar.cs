@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.GameContent.UI.BigProgressBar
 {
-	// Token: 0x02000708 RID: 1800
 	[global::Cpp2ILInjected.Token(Token = "0x2000AF6")]
 	public class PirateShipBigProgressBar : IBigProgressBar
 	{
-		// Token: 0x060045BF RID: 17855 RVA: 0x0002E7B1 File Offset: 0x0002C9B1
 		[global::Cpp2ILInjected.Token(Token = "0x6005232")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93AD80", Offset = "0x93AD80", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BigProgressBarSystem), Member = ".cctor", ReturnType = typeof(void))]
@@ -26,7 +24,6 @@ namespace Terraria.GameContent.UI.BigProgressBar
 			throw null;
 		}
 
-		// Token: 0x060045C0 RID: 17856 RVA: 0x0002E7B4 File Offset: 0x0002C9B4
 		[global::Cpp2ILInjected.Token(Token = "0x6005233")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93AE58", Offset = "0x93AE58", Length = "0x228")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +46,6 @@ namespace Terraria.GameContent.UI.BigProgressBar
 			throw null;
 		}
 
-		// Token: 0x060045C1 RID: 17857 RVA: 0x0002E7B7 File Offset: 0x0002C9B7
 		[global::Cpp2ILInjected.Token(Token = "0x6005234")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93B140", Offset = "0x93B140", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +75,6 @@ namespace Terraria.GameContent.UI.BigProgressBar
 			throw null;
 		}
 
-		// Token: 0x060045C2 RID: 17858 RVA: 0x0002E7BA File Offset: 0x0002C9BA
 		[global::Cpp2ILInjected.Token(Token = "0x6005235")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93B080", Offset = "0x93B080", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -92,17 +87,14 @@ namespace Terraria.GameContent.UI.BigProgressBar
 			throw null;
 		}
 
-		// Token: 0x04007124 RID: 28964
 		[global::Cpp2ILInjected.Token(Token = "0x4008A76")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private BigProgressBarCache _cache;
 
-		// Token: 0x04007125 RID: 28965
 		[global::Cpp2ILInjected.Token(Token = "0x4008A77")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private NPC _referenceDummy;
 
-		// Token: 0x04007126 RID: 28966
 		[global::Cpp2ILInjected.Token(Token = "0x4008A78")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private HashSet<int> ValidIds;

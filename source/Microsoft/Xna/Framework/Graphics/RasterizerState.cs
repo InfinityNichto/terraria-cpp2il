@@ -5,13 +5,9 @@ using Terraria.UI;
 
 namespace Microsoft.Xna.Framework.Graphics
 {
-	// Token: 0x020002D0 RID: 720
 	[global::Cpp2ILInjected.Token(Token = "0x20003A1")]
 	public class RasterizerState : GraphicsResource
 	{
-		// Token: 0x17000308 RID: 776
-		// (get) Token: 0x0600174C RID: 5964 RVA: 0x0002604E File Offset: 0x0002424E
-		// (set) Token: 0x0600174D RID: 5965 RVA: 0x00026051 File Offset: 0x00024251
 		[global::Cpp2ILInjected.Token(Token = "0x17000333")]
 		public CullMode CullMode
 		{
@@ -33,9 +29,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000309 RID: 777
-		// (get) Token: 0x0600174E RID: 5966 RVA: 0x00026054 File Offset: 0x00024254
-		// (set) Token: 0x0600174F RID: 5967 RVA: 0x00026057 File Offset: 0x00024257
 		[global::Cpp2ILInjected.Token(Token = "0x17000334")]
 		public float DepthBias
 		{
@@ -56,9 +49,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700030A RID: 778
-		// (get) Token: 0x06001750 RID: 5968 RVA: 0x0002605A File Offset: 0x0002425A
-		// (set) Token: 0x06001751 RID: 5969 RVA: 0x0002605D File Offset: 0x0002425D
 		[global::Cpp2ILInjected.Token(Token = "0x17000335")]
 		public FillMode FillMode
 		{
@@ -79,9 +69,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700030B RID: 779
-		// (get) Token: 0x06001752 RID: 5970 RVA: 0x00026060 File Offset: 0x00024260
-		// (set) Token: 0x06001753 RID: 5971 RVA: 0x00026063 File Offset: 0x00024263
 		[global::Cpp2ILInjected.Token(Token = "0x17000336")]
 		public bool MultiSampleAntiAlias
 		{
@@ -102,9 +89,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700030C RID: 780
-		// (get) Token: 0x06001754 RID: 5972 RVA: 0x00026066 File Offset: 0x00024266
-		// (set) Token: 0x06001755 RID: 5973 RVA: 0x00026069 File Offset: 0x00024269
 		[global::Cpp2ILInjected.Token(Token = "0x17000337")]
 		public bool ScissorTestEnable
 		{
@@ -126,9 +110,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700030D RID: 781
-		// (get) Token: 0x06001756 RID: 5974 RVA: 0x0002606C File Offset: 0x0002426C
-		// (set) Token: 0x06001757 RID: 5975 RVA: 0x0002606F File Offset: 0x0002426F
 		[global::Cpp2ILInjected.Token(Token = "0x17000338")]
 		public float SlopeScaleDepthBias
 		{
@@ -149,9 +130,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700030E RID: 782
-		// (get) Token: 0x06001758 RID: 5976 RVA: 0x00026072 File Offset: 0x00024272
-		// (set) Token: 0x06001759 RID: 5977 RVA: 0x00026075 File Offset: 0x00024275
 		[global::Cpp2ILInjected.Token(Token = "0x17000339")]
 		public bool DepthClipEnable
 		{
@@ -172,7 +150,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x0600175A RID: 5978 RVA: 0x00026078 File Offset: 0x00024278
 		[global::Cpp2ILInjected.Token(Token = "0x60018D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC52D4", Offset = "0xAC52D4", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -186,7 +163,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600175B RID: 5979 RVA: 0x0002607B File Offset: 0x0002427B
 		[global::Cpp2ILInjected.Token(Token = "0x60018D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC5148", Offset = "0xAC5148", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RasterizerState), Member = "set_CullMode", MemberParameters = new object[] { typeof(CullMode) }, ReturnType = typeof(void))]
@@ -205,7 +181,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600175C RID: 5980 RVA: 0x0002607E File Offset: 0x0002427E
 		[global::Cpp2ILInjected.Token(Token = "0x60018D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC5364", Offset = "0xAC5364", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RasterizerState), Member = ".ctor", MemberParameters = new object[]
@@ -223,7 +198,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600175D RID: 5981 RVA: 0x00026081 File Offset: 0x00024281
 		[global::Cpp2ILInjected.Token(Token = "0x60018D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC53E0", Offset = "0xAC53E0", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -233,7 +207,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600175E RID: 5982 RVA: 0x00026084 File Offset: 0x00024284
 		[global::Cpp2ILInjected.Token(Token = "0x60018DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC5414", Offset = "0xAC5414", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -245,7 +218,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x0600175F RID: 5983 RVA: 0x00026087 File Offset: 0x00024287
 		[global::Cpp2ILInjected.Token(Token = "0x60018DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC5470", Offset = "0xAC5470", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -256,7 +228,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x06001760 RID: 5984 RVA: 0x0002608A File Offset: 0x0002428A
 		[global::Cpp2ILInjected.Token(Token = "0x60018DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC5578", Offset = "0xAC5578", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GraphicsDevice), Member = "Setup", ReturnType = typeof(void))]
@@ -268,55 +239,44 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x040020B4 RID: 8372
 		[global::Cpp2ILInjected.Token(Token = "0x4002710")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private readonly bool _defaultStateObject;
 
-		// Token: 0x040020B5 RID: 8373
 		[global::Cpp2ILInjected.Token(Token = "0x4002711")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		private CullMode _cullMode;
 
-		// Token: 0x040020B6 RID: 8374
 		[global::Cpp2ILInjected.Token(Token = "0x4002712")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private float _depthBias;
 
-		// Token: 0x040020B7 RID: 8375
 		[global::Cpp2ILInjected.Token(Token = "0x4002713")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		private FillMode _fillMode;
 
-		// Token: 0x040020B8 RID: 8376
 		[global::Cpp2ILInjected.Token(Token = "0x4002714")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private bool _multiSampleAntiAlias;
 
-		// Token: 0x040020B9 RID: 8377
 		[global::Cpp2ILInjected.Token(Token = "0x4002715")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x41")]
 		private bool _scissorTestEnable;
 
-		// Token: 0x040020BA RID: 8378
 		[global::Cpp2ILInjected.Token(Token = "0x4002716")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		private float _slopeScaleDepthBias;
 
-		// Token: 0x040020BB RID: 8379
 		[global::Cpp2ILInjected.Token(Token = "0x4002717")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private bool _depthClipEnable;
 
-		// Token: 0x040020BC RID: 8380
 		[global::Cpp2ILInjected.Token(Token = "0x4002718")]
 		public static readonly RasterizerState CullClockwise;
 
-		// Token: 0x040020BD RID: 8381
 		[global::Cpp2ILInjected.Token(Token = "0x4002719")]
 		public static readonly RasterizerState CullCounterClockwise;
 
-		// Token: 0x040020BE RID: 8382
 		[global::Cpp2ILInjected.Token(Token = "0x400271A")]
 		public static readonly RasterizerState CullNone;
 	}

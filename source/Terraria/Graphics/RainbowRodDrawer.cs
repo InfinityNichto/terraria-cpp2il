@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.Graphics
 {
-	// Token: 0x020004E7 RID: 1255
 	[global::Cpp2ILInjected.Token(Token = "0x200073F")]
 	public struct RainbowRodDrawer
 	{
-		// Token: 0x060036C8 RID: 14024 RVA: 0x0002BC9D File Offset: 0x00029E9D
 		[global::Cpp2ILInjected.Token(Token = "0x6003D32")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149E574", Offset = "0x149E574", Length = "0x3E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -75,7 +73,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036C9 RID: 14025 RVA: 0x0002BCA0 File Offset: 0x00029EA0
 		[global::Cpp2ILInjected.Token(Token = "0x6003D33")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149E954", Offset = "0x149E954", Length = "0x160")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -110,7 +107,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036CA RID: 14026 RVA: 0x0002BCA3 File Offset: 0x00029EA3
 		[global::Cpp2ILInjected.Token(Token = "0x6003D34")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149EAB4", Offset = "0x149EAB4", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -133,7 +129,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036CB RID: 14027 RVA: 0x0002BCA6 File Offset: 0x00029EA6
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003D35")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149EB48", Offset = "0x149EB48", Length = "0x6C")]
@@ -145,7 +140,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x04006739 RID: 26425
 		[global::Cpp2ILInjected.Token(Token = "0x4007C1E")]
 		private static VertexStrip _vertexStrip;
 	}

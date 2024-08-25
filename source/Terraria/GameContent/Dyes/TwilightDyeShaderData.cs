@@ -9,11 +9,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent.Dyes
 {
-	// Token: 0x02000584 RID: 1412
 	[global::Cpp2ILInjected.Token(Token = "0x200081E")]
 	public class TwilightDyeShaderData : ArmorShaderData
 	{
-		// Token: 0x06003B93 RID: 15251 RVA: 0x0002CA50 File Offset: 0x0002AC50
 		[global::Cpp2ILInjected.Token(Token = "0x60042AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x79733C", Offset = "0x79733C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DyeInitializer), Member = "LoadArmorDyes", ReturnType = typeof(void))]
@@ -28,7 +26,6 @@ namespace Terraria.GameContent.Dyes
 			throw null;
 		}
 
-		// Token: 0x06003B94 RID: 15252 RVA: 0x0002CA53 File Offset: 0x0002AC53
 		[global::Cpp2ILInjected.Token(Token = "0x60042AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x797344", Offset = "0x797344", Length = "0x1D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -8,15 +8,12 @@ using Terraria.GameContent.Generation;
 
 namespace Terraria.WorldBuilding
 {
-	// Token: 0x02000362 RID: 866
 	[global::Cpp2ILInjected.Token(Token = "0x20004D9")]
 	public abstract class GenShape : GenBase
 	{
-		// Token: 0x06002C4B RID: 11339
 		[global::Cpp2ILInjected.Token(Token = "0x600303E")]
 		public abstract bool Perform(Point origin, GenAction action);
 
-		// Token: 0x06002C4C RID: 11340 RVA: 0x00029F0C File Offset: 0x0002810C
 		[global::Cpp2ILInjected.Token(Token = "0x600303F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F8854", Offset = "0x12F8854", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ModShapes.All), Member = "Perform", MemberParameters = new object[]
@@ -99,7 +96,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C4D RID: 11341 RVA: 0x00029F0F File Offset: 0x0002810F
 		[global::Cpp2ILInjected.Token(Token = "0x6003040")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F9B8C", Offset = "0x12F9B8C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MiningExplosivesBiome), Member = "Place", MemberParameters = new object[]
@@ -113,7 +109,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C4E RID: 11342 RVA: 0x00029F12 File Offset: 0x00028112
 		[global::Cpp2ILInjected.Token(Token = "0x6003041")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F9B94", Offset = "0x12F9B94", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -122,7 +117,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C4F RID: 11343 RVA: 0x00029F15 File Offset: 0x00028115
 		[global::Cpp2ILInjected.Token(Token = "0x6003042")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F8638", Offset = "0x12F8638", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ShapeBranch), Member = ".ctor", ReturnType = typeof(void))]
@@ -153,12 +147,10 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x040030D1 RID: 12497
 		[global::Cpp2ILInjected.Token(Token = "0x40039D9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ShapeData _outputData;
 
-		// Token: 0x040030D2 RID: 12498
 		[global::Cpp2ILInjected.Token(Token = "0x40039DA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		protected bool _quitOnFail;

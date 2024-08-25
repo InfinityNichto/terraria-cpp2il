@@ -9,11 +9,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006B8 RID: 1720
 	[global::Cpp2ILInjected.Token(Token = "0x2000A92")]
 	public class PowerStripUIElement : UIElement
 	{
-		// Token: 0x060043B0 RID: 17328 RVA: 0x0002E1B7 File Offset: 0x0002C3B7
 		[global::Cpp2ILInjected.Token(Token = "0x6004FEA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x902E98", Offset = "0x902E98", Length = "0x364")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,12 +59,10 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04006FA4 RID: 28580
 		[global::Cpp2ILInjected.Token(Token = "0x40088CC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private List<UIElement> _buttonsBySorting;
 
-		// Token: 0x04006FA5 RID: 28581
 		[global::Cpp2ILInjected.Token(Token = "0x40088CD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private string _gamepadPointGroupname;

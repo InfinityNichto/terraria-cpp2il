@@ -9,12 +9,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.InteropServices
 {
-	// Token: 0x020003A5 RID: 933
 	[ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x200044F")]
 	public struct GCHandle
 	{
-		// Token: 0x06001F53 RID: 8019 RVA: 0x00019CE5 File Offset: 0x00017EE5
 		[global::Cpp2ILInjected.Token(Token = "0x6002194")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70ABC", Offset = "0x1B70ABC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -23,7 +21,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F54 RID: 8020 RVA: 0x00019CE8 File Offset: 0x00017EE8
 		[global::Cpp2ILInjected.Token(Token = "0x6002195")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70AC4", Offset = "0x1B70AC4", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -33,7 +30,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F55 RID: 8021 RVA: 0x00019CEB File Offset: 0x00017EEB
 		[global::Cpp2ILInjected.Token(Token = "0x6002196")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70B2C", Offset = "0x1B70B2C", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -44,8 +40,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x170003FE RID: 1022
-		// (get) Token: 0x06001F56 RID: 8022 RVA: 0x00019CEE File Offset: 0x00017EEE
 		[global::Cpp2ILInjected.Token(Token = "0x1700045C")]
 		public bool IsAllocated
 		{
@@ -84,9 +78,6 @@ namespace System.Runtime.InteropServices
 			}
 		}
 
-		// Token: 0x170003FF RID: 1023
-		// (get) Token: 0x06001F57 RID: 8023 RVA: 0x00019CF1 File Offset: 0x00017EF1
-		// (set) Token: 0x06001F58 RID: 8024 RVA: 0x00019CF4 File Offset: 0x00017EF4
 		[global::Cpp2ILInjected.Token(Token = "0x1700045D")]
 		public object Target
 		{
@@ -160,7 +151,6 @@ namespace System.Runtime.InteropServices
 			}
 		}
 
-		// Token: 0x06001F59 RID: 8025 RVA: 0x00019CF7 File Offset: 0x00017EF7
 		[global::Cpp2ILInjected.Token(Token = "0x600219A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70C88", Offset = "0x1B70C88", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -195,7 +185,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F5A RID: 8026 RVA: 0x00019CFA File Offset: 0x00017EFA
 		[global::Cpp2ILInjected.Token(Token = "0x600219B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70D6C", Offset = "0x1B70D6C", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.OSSpecificSynchronizationContext), Member = "Post", MemberParameters = new object[]
@@ -229,7 +218,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F5B RID: 8027 RVA: 0x00019CFD File Offset: 0x00017EFD
 		[global::Cpp2ILInjected.Token(Token = "0x600219C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70DC0", Offset = "0x1B70DC0", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -281,7 +269,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F5C RID: 8028 RVA: 0x00019D00 File Offset: 0x00017F00
 		[global::Cpp2ILInjected.Token(Token = "0x600219D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70E28", Offset = "0x1B70E28", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "AutoPinner", Member = "Dispose", ReturnType = typeof(void))]
@@ -336,7 +323,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F5D RID: 8029 RVA: 0x00019D03 File Offset: 0x00017F03
 		[global::Cpp2ILInjected.Token(Token = "0x600219E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70F04", Offset = "0x1B70F04", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -345,7 +331,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F5E RID: 8030 RVA: 0x00019D06 File Offset: 0x00017F06
 		[global::Cpp2ILInjected.Token(Token = "0x600219F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70F08", Offset = "0x1B70F08", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GCHandle), Member = "FromIntPtr", MemberParameters = new object[] { typeof(global::System.IntPtr) }, ReturnType = typeof(GCHandle))]
@@ -391,7 +376,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F5F RID: 8031
 		[global::Cpp2ILInjected.Token(Token = "0x60021A0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70FF0", Offset = "0x1B70FF0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -399,7 +383,6 @@ namespace System.Runtime.InteropServices
 		[MethodImpl(4096)]
 		private static extern bool CheckCurrentDomain(global::System.IntPtr handle);
 
-		// Token: 0x06001F60 RID: 8032
 		[global::Cpp2ILInjected.Token(Token = "0x60021A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70C5C", Offset = "0x1B70C5C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -407,7 +390,6 @@ namespace System.Runtime.InteropServices
 		[MethodImpl(4096)]
 		private static extern object GetTarget(global::System.IntPtr handle);
 
-		// Token: 0x06001F61 RID: 8033
 		[global::Cpp2ILInjected.Token(Token = "0x60021A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70BA0", Offset = "0x1B70BA0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -415,7 +397,6 @@ namespace System.Runtime.InteropServices
 		[MethodImpl(4096)]
 		private static extern global::System.IntPtr GetTargetHandle(object obj, global::System.IntPtr handle, GCHandleType type);
 
-		// Token: 0x06001F62 RID: 8034
 		[global::Cpp2ILInjected.Token(Token = "0x60021A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70F00", Offset = "0x1B70F00", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -423,7 +404,6 @@ namespace System.Runtime.InteropServices
 		[MethodImpl(4096)]
 		private static extern void FreeHandle(global::System.IntPtr handle);
 
-		// Token: 0x06001F63 RID: 8035
 		[global::Cpp2ILInjected.Token(Token = "0x60021A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70D68", Offset = "0x1B70D68", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -431,7 +411,6 @@ namespace System.Runtime.InteropServices
 		[MethodImpl(4096)]
 		private static extern global::System.IntPtr GetAddrOfPinnedObject(global::System.IntPtr handle);
 
-		// Token: 0x06001F64 RID: 8036 RVA: 0x00019D09 File Offset: 0x00017F09
 		[global::Cpp2ILInjected.Token(Token = "0x60021A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70FF4", Offset = "0x1B70FF4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -445,7 +424,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F65 RID: 8037 RVA: 0x00019D0C File Offset: 0x00017F0C
 		[global::Cpp2ILInjected.Token(Token = "0x60021A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70FFC", Offset = "0x1B70FFC", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -461,7 +439,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F66 RID: 8038 RVA: 0x00019D0F File Offset: 0x00017F0F
 		[global::Cpp2ILInjected.Token(Token = "0x60021A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B7107C", Offset = "0x1B7107C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -471,7 +448,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F67 RID: 8039 RVA: 0x00019D12 File Offset: 0x00017F12
 		[global::Cpp2ILInjected.Token(Token = "0x60021A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B71084", Offset = "0x1B71084", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.OSSpecificSynchronizationContext), Member = "InvocationEntry", MemberParameters = new object[] { typeof(global::System.IntPtr) }, ReturnType = typeof(void))]
@@ -494,7 +470,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F68 RID: 8040 RVA: 0x00019D15 File Offset: 0x00017F15
 		[global::Cpp2ILInjected.Token(Token = "0x60021A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B71088", Offset = "0x1B71088", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.OSSpecificSynchronizationContext), Member = "Post", MemberParameters = new object[]
@@ -521,7 +496,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x04000F8E RID: 3982
 		[global::Cpp2ILInjected.Token(Token = "0x4001283")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private global::System.IntPtr handle;

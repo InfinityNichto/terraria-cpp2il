@@ -3,11 +3,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using UnityEngine;
 
-// Token: 0x02000242 RID: 578
 [global::Cpp2ILInjected.Token(Token = "0x20002FB")]
 public static class AnimatorExtensions
 {
-	// Token: 0x06001066 RID: 4198 RVA: 0x00024C14 File Offset: 0x00022E14
 	[global::Cpp2ILInjected.Token(Token = "0x60011B5")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E2F4", Offset = "0xA6E2F4", Length = "0x80")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,7 +23,6 @@ public static class AnimatorExtensions
 		throw null;
 	}
 
-	// Token: 0x06001067 RID: 4199 RVA: 0x00024C17 File Offset: 0x00022E17
 	[global::Cpp2ILInjected.Token(Token = "0x60011B6")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E374", Offset = "0xA6E374", Length = "0x78")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,7 +35,6 @@ public static class AnimatorExtensions
 		throw null;
 	}
 
-	// Token: 0x06001068 RID: 4200 RVA: 0x00024C1A File Offset: 0x00022E1A
 	[global::Cpp2ILInjected.Token(Token = "0x60011B7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E3EC", Offset = "0xA6E3EC", Length = "0xC8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

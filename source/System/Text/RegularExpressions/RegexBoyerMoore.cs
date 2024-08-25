@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Text.RegularExpressions
 {
-	// Token: 0x0200005E RID: 94
 	[global::Cpp2ILInjected.Token(Token = "0x20000B3")]
 	internal sealed class RegexBoyerMoore
 	{
-		// Token: 0x060002ED RID: 749 RVA: 0x00003677 File Offset: 0x00001877
 		[global::Cpp2ILInjected.Token(Token = "0x6000388")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EAE298", Offset = "0x1EAE298", Length = "0x3F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060002EE RID: 750 RVA: 0x0000367A File Offset: 0x0000187A
 		[global::Cpp2ILInjected.Token(Token = "0x6000389")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EAE690", Offset = "0x1EAE690", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +57,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060002EF RID: 751 RVA: 0x0000367D File Offset: 0x0000187D
 		[global::Cpp2ILInjected.Token(Token = "0x600038A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EAE794", Offset = "0x1EAE794", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +72,6 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x060002F0 RID: 752 RVA: 0x00003680 File Offset: 0x00001880
 		[global::Cpp2ILInjected.Token(Token = "0x600038B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EAE7E8", Offset = "0x1EAE7E8", Length = "0x26C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -88,47 +83,38 @@ namespace System.Text.RegularExpressions
 			throw null;
 		}
 
-		// Token: 0x04000192 RID: 402
 		[global::Cpp2ILInjected.Token(Token = "0x40002CC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public readonly int[] Positive;
 
-		// Token: 0x04000193 RID: 403
 		[global::Cpp2ILInjected.Token(Token = "0x40002CD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public readonly int[] NegativeASCII;
 
-		// Token: 0x04000194 RID: 404
 		[global::Cpp2ILInjected.Token(Token = "0x40002CE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public readonly int[][] NegativeUnicode;
 
-		// Token: 0x04000195 RID: 405
 		[global::Cpp2ILInjected.Token(Token = "0x40002CF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public readonly string Pattern;
 
-		// Token: 0x04000196 RID: 406
 		[global::Cpp2ILInjected.Token(Token = "0x40002D0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		public readonly int LowASCII;
 
-		// Token: 0x04000197 RID: 407
 		[global::Cpp2ILInjected.Token(Token = "0x40002D1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		public readonly int HighASCII;
 
-		// Token: 0x04000198 RID: 408
 		[global::Cpp2ILInjected.Token(Token = "0x40002D2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		public readonly bool RightToLeft;
 
-		// Token: 0x04000199 RID: 409
 		[global::Cpp2ILInjected.Token(Token = "0x40002D3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x39")]
 		public readonly bool CaseInsensitive;
 
-		// Token: 0x0400019A RID: 410
 		[global::Cpp2ILInjected.Token(Token = "0x40002D4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private readonly CultureInfo _culture;

@@ -13,11 +13,9 @@ using Terraria.Initializers;
 using Terraria.Localization;
 using Terraria.UI;
 
-// Token: 0x020000E7 RID: 231
 [global::Cpp2ILInjected.Token(Token = "0x200014C")]
 public class GUIInventorySplitStack
 {
-	// Token: 0x0600080F RID: 2063 RVA: 0x00023372 File Offset: 0x00021572
 	[global::Cpp2ILInjected.Token(Token = "0x6000909")]
 	[global::Cpp2ILInjected.Address(RVA = "0x915E88", Offset = "0x915E88", Length = "0x140")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -37,7 +35,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000810 RID: 2064 RVA: 0x00023375 File Offset: 0x00021575
 	[global::Cpp2ILInjected.Token(Token = "0x600090A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x91A060", Offset = "0x91A060", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Initializers.AssetInitializer.<LoadAssetsWhileInInitialBlackScreen_InSteps>d__3", Member = "MoveNext", ReturnType = typeof(bool))]
@@ -50,7 +47,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000811 RID: 2065 RVA: 0x00023378 File Offset: 0x00021578
 	[global::Cpp2ILInjected.Token(Token = "0x600090B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x91A124", Offset = "0x91A124", Length = "0x98")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +61,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000812 RID: 2066 RVA: 0x0002337B File Offset: 0x0002157B
 	[global::Cpp2ILInjected.Token(Token = "0x600090C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x91A1BC", Offset = "0x91A1BC", Length = "0xAC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInventorySplitStack), Member = "Open", ReturnType = typeof(void))]
@@ -84,7 +79,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000813 RID: 2067 RVA: 0x0002337E File Offset: 0x0002157E
 	[global::Cpp2ILInjected.Token(Token = "0x600090D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x91A268", Offset = "0x91A268", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -93,7 +87,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000814 RID: 2068 RVA: 0x00023381 File Offset: 0x00021581
 	[global::Cpp2ILInjected.Token(Token = "0x600090E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x914680", Offset = "0x914680", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "OnCategoryOpened", MemberParameters = new object[] { typeof(GUIPageIcons.Category) }, ReturnType = typeof(void))]
@@ -105,7 +98,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000815 RID: 2069 RVA: 0x00023384 File Offset: 0x00021584
 	[global::Cpp2ILInjected.Token(Token = "0x600090F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x91A270", Offset = "0x91A270", Length = "0x184")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -131,7 +123,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000816 RID: 2070 RVA: 0x00023387 File Offset: 0x00021587
 	[global::Cpp2ILInjected.Token(Token = "0x6000910")]
 	[global::Cpp2ILInjected.Address(RVA = "0x91A3F4", Offset = "0x91A3F4", Length = "0xBC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -157,7 +148,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000817 RID: 2071 RVA: 0x0002338A File Offset: 0x0002158A
 	[global::Cpp2ILInjected.Token(Token = "0x6000911")]
 	[global::Cpp2ILInjected.Address(RVA = "0x91A4B0", Offset = "0x91A4B0", Length = "0x13C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -185,7 +175,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000818 RID: 2072 RVA: 0x0002338D File Offset: 0x0002158D
 	[global::Cpp2ILInjected.Token(Token = "0x6000912")]
 	[global::Cpp2ILInjected.Address(RVA = "0x91A5EC", Offset = "0x91A5EC", Length = "0x8DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -264,7 +253,6 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x06000819 RID: 2073 RVA: 0x00023390 File Offset: 0x00021590
 	[global::Cpp2ILInjected.Token(Token = "0x6000913")]
 	[global::Cpp2ILInjected.Address(RVA = "0x91AEC8", Offset = "0x91AEC8", Length = "0x484")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -339,70 +327,56 @@ public class GUIInventorySplitStack
 		throw null;
 	}
 
-	// Token: 0x0400061E RID: 1566
 	[global::Cpp2ILInjected.Token(Token = "0x4000879")]
 	public static Texture2D SplitStackIcon;
 
-	// Token: 0x0400061F RID: 1567
 	[global::Cpp2ILInjected.Token(Token = "0x400087A")]
 	public static Texture2D SplitStackIconOpen;
 
-	// Token: 0x04000620 RID: 1568
 	[global::Cpp2ILInjected.Token(Token = "0x400087B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public GUIInputRegionExclusive PickingInterceptor;
 
-	// Token: 0x04000621 RID: 1569
 	[global::Cpp2ILInjected.Token(Token = "0x400087C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private bool open;
 
-	// Token: 0x04000622 RID: 1570
 	[global::Cpp2ILInjected.Token(Token = "0x400087D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float splitSlider;
 
-	// Token: 0x04000623 RID: 1571
 	[global::Cpp2ILInjected.Token(Token = "0x400087E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private GUISlider.DragState dragState;
 
-	// Token: 0x04000624 RID: 1572
 	[global::Cpp2ILInjected.Token(Token = "0x400087F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private Item ItemToSplit;
 
-	// Token: 0x04000625 RID: 1573
 	[global::Cpp2ILInjected.Token(Token = "0x4000880")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private Item SplitItem;
 
-	// Token: 0x04000626 RID: 1574
 	[global::Cpp2ILInjected.Token(Token = "0x4000881")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private float splitScale;
 
-	// Token: 0x04000627 RID: 1575
 	[global::Cpp2ILInjected.Token(Token = "0x4000882")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 	private float itemScale;
 
-	// Token: 0x04000628 RID: 1576
 	[global::Cpp2ILInjected.Token(Token = "0x4000883")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private float mainScale;
 
-	// Token: 0x04000629 RID: 1577
 	[global::Cpp2ILInjected.Token(Token = "0x4000884")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private DateTime lastSplitTime;
 
-	// Token: 0x0400062A RID: 1578
 	[global::Cpp2ILInjected.Token(Token = "0x4000885")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private Vector2 lastSplitPosition;
 
-	// Token: 0x0400062B RID: 1579
 	[global::Cpp2ILInjected.Token(Token = "0x4000886")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	public GUITransactionButton.InputState splitButtonState;

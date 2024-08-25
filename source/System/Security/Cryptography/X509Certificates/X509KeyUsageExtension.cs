@@ -6,11 +6,9 @@ using Mono.Security;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000BD RID: 189
 	[global::Cpp2ILInjected.Token(Token = "0x200011B")]
 	public sealed class X509KeyUsageExtension : X509Extension
 	{
-		// Token: 0x06000604 RID: 1540 RVA: 0x00003F5F File Offset: 0x0000215F
 		[global::Cpp2ILInjected.Token(Token = "0x60006AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD694", Offset = "0x1EDD694", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509Certificate2), Member = "CreateCustomExtensionIfAny", MemberParameters = new object[] { typeof(Oid) }, ReturnType = typeof(X509Extension))]
@@ -27,7 +25,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000605 RID: 1541 RVA: 0x00003F62 File Offset: 0x00002162
 		[global::Cpp2ILInjected.Token(Token = "0x60006B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD730", Offset = "0x1EDD730", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AsnEncodedData), Member = "KeyUsageExtension", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(string))]
@@ -45,7 +42,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000606 RID: 1542 RVA: 0x00003F65 File Offset: 0x00002165
 		[global::Cpp2ILInjected.Token(Token = "0x60006B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD96C", Offset = "0x1EDD96C", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,8 +60,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x1700016B RID: 363
-		// (get) Token: 0x06000607 RID: 1543 RVA: 0x00003F68 File Offset: 0x00002168
 		[global::Cpp2ILInjected.Token(Token = "0x17000173")]
 		public X509KeyUsageFlags KeyUsages
 		{
@@ -94,7 +88,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x06000608 RID: 1544 RVA: 0x00003F6B File Offset: 0x0000216B
 		[global::Cpp2ILInjected.Token(Token = "0x60006B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDDBD8", Offset = "0x1EDDBD8", Length = "0x1CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +113,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000609 RID: 1545 RVA: 0x00003F6E File Offset: 0x0000216E
 		[global::Cpp2ILInjected.Token(Token = "0x60006B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDDA44", Offset = "0x1EDDA44", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -130,7 +122,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x0600060A RID: 1546 RVA: 0x00003F71 File Offset: 0x00002171
 		[global::Cpp2ILInjected.Token(Token = "0x60006B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDD7F8", Offset = "0x1EDD7F8", Length = "0x174")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -149,7 +140,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x0600060B RID: 1547 RVA: 0x00003F74 File Offset: 0x00002174
 		[global::Cpp2ILInjected.Token(Token = "0x60006B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDDA54", Offset = "0x1EDDA54", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -170,7 +160,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x0600060C RID: 1548 RVA: 0x00003F77 File Offset: 0x00002177
 		[global::Cpp2ILInjected.Token(Token = "0x60006B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDDDA4", Offset = "0x1EDDDA4", Length = "0x520")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -197,24 +186,19 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x040003C5 RID: 965
 		[global::Cpp2ILInjected.Token(Token = "0x400052F")]
 		internal const string oid = "2.5.29.15";
 
-		// Token: 0x040003C6 RID: 966
 		[global::Cpp2ILInjected.Token(Token = "0x4000530")]
 		internal const string friendlyName = "Key Usage";
 
-		// Token: 0x040003C7 RID: 967
 		[global::Cpp2ILInjected.Token(Token = "0x4000531")]
 		internal const X509KeyUsageFlags all = X509KeyUsageFlags.EncipherOnly | X509KeyUsageFlags.CrlSign | X509KeyUsageFlags.KeyCertSign | X509KeyUsageFlags.KeyAgreement | X509KeyUsageFlags.DataEncipherment | X509KeyUsageFlags.KeyEncipherment | X509KeyUsageFlags.NonRepudiation | X509KeyUsageFlags.DigitalSignature | X509KeyUsageFlags.DecipherOnly;
 
-		// Token: 0x040003C8 RID: 968
 		[global::Cpp2ILInjected.Token(Token = "0x4000532")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private X509KeyUsageFlags _keyUsages;
 
-		// Token: 0x040003C9 RID: 969
 		[global::Cpp2ILInjected.Token(Token = "0x4000533")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private AsnDecodeStatus _status;

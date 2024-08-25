@@ -6,11 +6,9 @@ using Mono.Security.X509;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000BE RID: 190
 	[global::Cpp2ILInjected.Token(Token = "0x200011C")]
 	public sealed class X509Store : IDisposable
 	{
-		// Token: 0x0600060D RID: 1549 RVA: 0x00003F7A File Offset: 0x0000217A
 		[global::Cpp2ILInjected.Token(Token = "0x60006B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDE2C4", Offset = "0x1EDE2C4", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -28,8 +26,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x1700016C RID: 364
-		// (get) Token: 0x0600060E RID: 1550 RVA: 0x00003F7D File Offset: 0x0000217D
 		[global::Cpp2ILInjected.Token(Token = "0x17000174")]
 		public X509Certificate2Collection Certificates
 		{
@@ -48,8 +44,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x1700016D RID: 365
-		// (get) Token: 0x0600060F RID: 1551 RVA: 0x00003F80 File Offset: 0x00002180
 		[global::Cpp2ILInjected.Token(Token = "0x17000175")]
 		private X509Stores Factory
 		{
@@ -65,8 +59,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x1700016E RID: 366
-		// (get) Token: 0x06000610 RID: 1552 RVA: 0x00003F83 File Offset: 0x00002183
 		[global::Cpp2ILInjected.Token(Token = "0x17000176")]
 		internal X509Store Store
 		{
@@ -79,7 +71,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x06000611 RID: 1553 RVA: 0x00003F86 File Offset: 0x00002186
 		[global::Cpp2ILInjected.Token(Token = "0x60006BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDE498", Offset = "0x1EDE498", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509ChainImplMono), Member = "Reset", ReturnType = typeof(void))]
@@ -90,7 +81,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000612 RID: 1554 RVA: 0x00003F89 File Offset: 0x00002189
 		[global::Cpp2ILInjected.Token(Token = "0x60006BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDE4B4", Offset = "0x1EDE4B4", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -100,7 +90,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x06000613 RID: 1555 RVA: 0x00003F8C File Offset: 0x0000218C
 		[global::Cpp2ILInjected.Token(Token = "0x60006BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDE4D0", Offset = "0x1EDE4D0", Length = "0x38C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -143,27 +132,22 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x040003CA RID: 970
 		[global::Cpp2ILInjected.Token(Token = "0x4000534")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string _name;
 
-		// Token: 0x040003CB RID: 971
 		[global::Cpp2ILInjected.Token(Token = "0x4000535")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private StoreLocation _location;
 
-		// Token: 0x040003CC RID: 972
 		[global::Cpp2ILInjected.Token(Token = "0x4000536")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private X509Certificate2Collection list;
 
-		// Token: 0x040003CD RID: 973
 		[global::Cpp2ILInjected.Token(Token = "0x4000537")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private OpenFlags _flags;
 
-		// Token: 0x040003CE RID: 974
 		[global::Cpp2ILInjected.Token(Token = "0x4000538")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private X509Store store;

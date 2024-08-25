@@ -7,14 +7,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Converters
 {
-	// Token: 0x020000C0 RID: 192
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x2000107")]
 	public class IsoDateTimeConverter : DateTimeConverterBase
 	{
-		// Token: 0x170001AA RID: 426
-		// (get) Token: 0x0600092B RID: 2347 RVA: 0x00003B69 File Offset: 0x00001D69
-		// (set) Token: 0x0600092C RID: 2348 RVA: 0x00003B6C File Offset: 0x00001D6C
 		[global::Cpp2ILInjected.Token(Token = "0x170001D7")]
 		public DateTimeStyles DateTimeStyles
 		{
@@ -34,9 +30,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x170001AB RID: 427
-		// (get) Token: 0x0600092D RID: 2349 RVA: 0x00003B6F File Offset: 0x00001D6F
-		// (set) Token: 0x0600092E RID: 2350 RVA: 0x00003B72 File Offset: 0x00001D72
 		[global::Cpp2ILInjected.Token(Token = "0x170001D8")]
 		public string DateTimeFormat
 		{
@@ -58,9 +51,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x170001AC RID: 428
-		// (get) Token: 0x0600092F RID: 2351 RVA: 0x00003B75 File Offset: 0x00001D75
-		// (set) Token: 0x06000930 RID: 2352 RVA: 0x00003B78 File Offset: 0x00001D78
 		[global::Cpp2ILInjected.Token(Token = "0x170001D9")]
 		public CultureInfo Culture
 		{
@@ -95,7 +85,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x06000931 RID: 2353 RVA: 0x00003B7B File Offset: 0x00001D7B
 		[global::Cpp2ILInjected.Token(Token = "0x6000A6D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2A6B4", Offset = "0x1D2A6B4", Length = "0x210")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +117,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x06000932 RID: 2354 RVA: 0x00003B7E File Offset: 0x00001D7E
 		[global::Cpp2ILInjected.Token(Token = "0x6000A6E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2A8C4", Offset = "0x1D2A8C4", Length = "0x4A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -184,7 +172,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x06000933 RID: 2355 RVA: 0x00003B81 File Offset: 0x00001D81
 		[global::Cpp2ILInjected.Token(Token = "0x6000A6F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2AD68", Offset = "0x1D2AD68", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -194,21 +181,17 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x040002EF RID: 751
 		[global::Cpp2ILInjected.Token(Token = "0x4000409")]
 		private const string DefaultDateTimeFormat = "yyyy'-'MM'-'dd'T'HH':'mm':'ss.FFFFFFFK";
 
-		// Token: 0x040002F0 RID: 752
 		[global::Cpp2ILInjected.Token(Token = "0x400040A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private DateTimeStyles _dateTimeStyles;
 
-		// Token: 0x040002F1 RID: 753
 		[global::Cpp2ILInjected.Token(Token = "0x400040B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string _dateTimeFormat;
 
-		// Token: 0x040002F2 RID: 754
 		[global::Cpp2ILInjected.Token(Token = "0x400040C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private CultureInfo _culture;

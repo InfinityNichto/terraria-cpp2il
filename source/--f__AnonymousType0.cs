@@ -5,13 +5,10 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Terraria.DataStructures;
 
-// Token: 0x02000002 RID: 2
 [CompilerGenerated]
 [global::Cpp2ILInjected.Token(Token = "0x2000002")]
 internal sealed class <>f__AnonymousType0<<Count>j__TPar>
 {
-	// Token: 0x17000001 RID: 1
-	// (get) Token: 0x06000001 RID: 1 RVA: 0x00021B8D File Offset: 0x0001FD8D
 	[global::Cpp2ILInjected.Token(Token = "0x17000001")]
 	public <Count>j__TPar Count
 	{
@@ -25,7 +22,6 @@ internal sealed class <>f__AnonymousType0<<Count>j__TPar>
 		}
 	}
 
-	// Token: 0x06000002 RID: 2 RVA: 0x00021B90 File Offset: 0x0001FD90
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x6000002")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B45F8", Offset = "0x15B45F8", Length = "0x28")]
@@ -40,7 +36,6 @@ internal sealed class <>f__AnonymousType0<<Count>j__TPar>
 		throw null;
 	}
 
-	// Token: 0x06000003 RID: 3 RVA: 0x00021B93 File Offset: 0x0001FD93
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x6000003")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B4620", Offset = "0x15B4620", Length = "0x84")]
@@ -53,7 +48,6 @@ internal sealed class <>f__AnonymousType0<<Count>j__TPar>
 		throw null;
 	}
 
-	// Token: 0x06000004 RID: 4 RVA: 0x00021B96 File Offset: 0x0001FD96
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x6000004")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B46A4", Offset = "0x15B46A4", Length = "0x44")]
@@ -65,7 +59,6 @@ internal sealed class <>f__AnonymousType0<<Count>j__TPar>
 		throw null;
 	}
 
-	// Token: 0x06000005 RID: 5 RVA: 0x00021B99 File Offset: 0x0001FD99
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x6000005")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B46E8", Offset = "0x15B46E8", Length = "0xD8")]
@@ -84,7 +77,6 @@ internal sealed class <>f__AnonymousType0<<Count>j__TPar>
 		throw null;
 	}
 
-	// Token: 0x04000001 RID: 1
 	[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 	[global::Cpp2ILInjected.Token(Token = "0x4000001")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]

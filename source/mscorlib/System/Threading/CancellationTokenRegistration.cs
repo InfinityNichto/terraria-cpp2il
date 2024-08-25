@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading
 {
-	// Token: 0x0200017D RID: 381
 	[global::Cpp2ILInjected.Token(Token = "0x20001D0")]
 	public readonly struct CancellationTokenRegistration : global::System.IEquatable<CancellationTokenRegistration>, global::System.IDisposable
 	{
-		// Token: 0x06000FCE RID: 4046 RVA: 0x000171BF File Offset: 0x000153BF
 		[global::Cpp2ILInjected.Token(Token = "0x6001103")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9654C", Offset = "0x1C9654C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -18,7 +16,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FCF RID: 4047 RVA: 0x000171C2 File Offset: 0x000153C2
 		[global::Cpp2ILInjected.Token(Token = "0x6001104")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C96558", Offset = "0x1C96558", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FD0 RID: 4048 RVA: 0x000171C5 File Offset: 0x000153C5
 		[global::Cpp2ILInjected.Token(Token = "0x6001105")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C965D4", Offset = "0x1C965D4", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +66,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FD1 RID: 4049 RVA: 0x000171C8 File Offset: 0x000153C8
 		[global::Cpp2ILInjected.Token(Token = "0x6001106")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C966E0", Offset = "0x1C966E0", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -82,7 +77,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FD2 RID: 4050 RVA: 0x000171CB File Offset: 0x000153CB
 		[global::Cpp2ILInjected.Token(Token = "0x6001107")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C96770", Offset = "0x1C96770", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -94,7 +88,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FD3 RID: 4051 RVA: 0x000171CE File Offset: 0x000153CE
 		[global::Cpp2ILInjected.Token(Token = "0x6001108")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C967F0", Offset = "0x1C967F0", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -106,12 +99,10 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x04000728 RID: 1832
 		[global::Cpp2ILInjected.Token(Token = "0x4000929")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly CancellationCallbackInfo m_callbackInfo;
 
-		// Token: 0x04000729 RID: 1833
 		[global::Cpp2ILInjected.Token(Token = "0x400092A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private readonly SparselyPopulatedArrayAddInfo<CancellationCallbackInfo> m_registrationInfo;

@@ -10,11 +10,9 @@ using UnityEngine;
 
 namespace Terraria.GameContent.Metadata
 {
-	// Token: 0x020005B3 RID: 1459
 	[global::Cpp2ILInjected.Token(Token = "0x2000856")]
 	public static class TileMaterials
 	{
-		// Token: 0x06003C20 RID: 15392 RVA: 0x0002CBD6 File Offset: 0x0002ADD6
 		[global::Cpp2ILInjected.Token(Token = "0x6004357")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A1338", Offset = "0x7A1338", Length = "0x310")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +34,6 @@ namespace Terraria.GameContent.Metadata
 			throw null;
 		}
 
-		// Token: 0x06003C21 RID: 15393 RVA: 0x0002CBD9 File Offset: 0x0002ADD9
 		[global::Cpp2ILInjected.Token(Token = "0x6004358")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A1A1C", Offset = "0x15A1A1C", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -50,7 +47,6 @@ namespace Terraria.GameContent.Metadata
 			throw null;
 		}
 
-		// Token: 0x06003C22 RID: 15394 RVA: 0x0002CBDC File Offset: 0x0002ADDC
 		[global::Cpp2ILInjected.Token(Token = "0x6004359")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A1648", Offset = "0x7A1648", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileMaterials), Member = ".cctor", ReturnType = typeof(void))]
@@ -61,7 +57,6 @@ namespace Terraria.GameContent.Metadata
 			throw null;
 		}
 
-		// Token: 0x06003C23 RID: 15395 RVA: 0x0002CBDF File Offset: 0x0002ADDF
 		[global::Cpp2ILInjected.Token(Token = "0x600435A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7A16DC", Offset = "0x7A16DC", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GolfHelper.ContactListener), Member = "OnCollision", MemberParameters = new object[]
@@ -92,11 +87,9 @@ namespace Terraria.GameContent.Metadata
 			throw null;
 		}
 
-		// Token: 0x04006B58 RID: 27480
 		[global::Cpp2ILInjected.Token(Token = "0x4008166")]
 		private static Dictionary<string, TileMaterial> _materialsByName;
 
-		// Token: 0x04006B59 RID: 27481
 		[global::Cpp2ILInjected.Token(Token = "0x4008167")]
 		private static readonly TileMaterial[] MaterialsByTileId;
 	}

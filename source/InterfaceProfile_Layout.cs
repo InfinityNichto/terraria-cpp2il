@@ -12,13 +12,11 @@ using Terraria.Audio;
 using Terraria.DataStructures;
 using UnityEngine;
 
-// Token: 0x02000156 RID: 342
 [JsonObject(MemberSerialization.OptIn)]
 [global::Cpp2ILInjected.Token(Token = "0x20001DB")]
 [Serializable]
 public class InterfaceProfile_Layout
 {
-	// Token: 0x06000B05 RID: 2821 RVA: 0x00023C54 File Offset: 0x00021E54
 	[global::Cpp2ILInjected.Token(Token = "0x6000C18")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B6E2C", Offset = "0x9B6E2C", Length = "0x90")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InterfaceStyles_Layout), Member = "SetActiveLayout", MemberParameters = new object[] { typeof(InterfaceProfile_Layout) }, ReturnType = typeof(void))]
@@ -34,8 +32,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x1700012D RID: 301
-	// (get) Token: 0x06000B06 RID: 2822 RVA: 0x00023C57 File Offset: 0x00021E57
 	[global::Cpp2ILInjected.Token(Token = "0x17000154")]
 	public int MinVerticalResolution
 	{
@@ -68,7 +64,6 @@ public class InterfaceProfile_Layout
 		}
 	}
 
-	// Token: 0x06000B07 RID: 2823 RVA: 0x00023C5A File Offset: 0x00021E5A
 	[global::Cpp2ILInjected.Token(Token = "0x6000C1A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B74A0", Offset = "0x9B74A0", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +79,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B08 RID: 2824 RVA: 0x00023C5D File Offset: 0x00021E5D
 	[global::Cpp2ILInjected.Token(Token = "0x6000C1B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B758C", Offset = "0x9B758C", Length = "0x12C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +94,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B09 RID: 2825 RVA: 0x00023C60 File Offset: 0x00021E60
 	[global::Cpp2ILInjected.Token(Token = "0x6000C1C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B76B8", Offset = "0x9B76B8", Length = "0x124")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,10 +107,33 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B0A RID: 2826 RVA: 0x00023C63 File Offset: 0x00021E63
 	[global::Cpp2ILInjected.Token(Token = "0x6000C1D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B341C", Offset = "0x9B341C", Length = "0x200")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerBuff), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHotbarRadial), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerCrafting4Page), Member = "GetMenuItemCount", ReturnType = typeof(int))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerItemDuplication4Page), Member = "GetMenuItemCount", ReturnType = typeof(int))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageContentController), Member = "get_ParentGrouping", ReturnType = typeof(GUIPageIconGrouping))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBuffs), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBuilderAccToggles), Member = "IsOverBuilderTools", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHotbar), Member = "GetRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHotbar), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "DrawFilter", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "set_SelectedCategory", MemberParameters = new object[] { typeof(GUIPageIcons.Category) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "DrawLeftMenuButton", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearch), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearch), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIRubbleMaker), Member = "IsOverInventoryOpenButton", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "IsOverGroupRegion", MemberParameters = new object[]
+	{
+		typeof(GUIPageIconGrouping),
+		typeof(Point)
+	}, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RightSideHUDAnchorUpdator), Member = "Update", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InterfaceProfile_Layout), Member = "AddAvailable", MemberParameters = new object[] { typeof(GUIPageIcons.Category) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InterfaceStyles_Layout), Member = "SetActiveLayout", MemberParameters = new object[] { typeof(InterfaceProfile_Layout) }, ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 29)]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(GUIPageIconGrouping), Member = "InteractionCategory", MemberParameters = new object[] { typeof(GUIPageIcons.Category) }, ReturnType = typeof(bool))]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(List<object>), Member = "get_Item", MemberParameters = new object[] { typeof(int) }, ReturnType = "T")]
@@ -128,7 +144,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B0B RID: 2827 RVA: 0x00023C66 File Offset: 0x00021E66
 	[global::Cpp2ILInjected.Token(Token = "0x6000C1E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B77DC", Offset = "0x9B77DC", Length = "0x98")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "DrawFilter", ReturnType = typeof(void))]
@@ -146,7 +161,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B0C RID: 2828 RVA: 0x00023C69 File Offset: 0x00021E69
 	[global::Cpp2ILInjected.Token(Token = "0x6000C1F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B7874", Offset = "0x9B7874", Length = "0x154")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -186,7 +200,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B0D RID: 2829 RVA: 0x00023C6C File Offset: 0x00021E6C
 	[global::Cpp2ILInjected.Token(Token = "0x6000C20")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B79C8", Offset = "0x9B79C8", Length = "0x2A0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -211,7 +224,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B0E RID: 2830 RVA: 0x00023C6F File Offset: 0x00021E6F
 	[global::Cpp2ILInjected.Token(Token = "0x6000C21")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B7C68", Offset = "0x9B7C68", Length = "0xE0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -235,7 +247,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B0F RID: 2831 RVA: 0x00023C72 File Offset: 0x00021E72
 	[global::Cpp2ILInjected.Token(Token = "0x6000C22")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B7D48", Offset = "0x9B7D48", Length = "0xB0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -255,7 +266,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B10 RID: 2832 RVA: 0x00023C75 File Offset: 0x00021E75
 	[global::Cpp2ILInjected.Token(Token = "0x6000C23")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B7DF8", Offset = "0x9B7DF8", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InterfaceProfile_Layout), Member = "CopyGroupList", MemberParameters = new object[]
@@ -272,7 +282,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B11 RID: 2833 RVA: 0x00023C78 File Offset: 0x00021E78
 	[global::Cpp2ILInjected.Token(Token = "0x6000C24")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B7EE4", Offset = "0x9B7EE4", Length = "0x1A4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -297,7 +306,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B12 RID: 2834 RVA: 0x00023C7B File Offset: 0x00021E7B
 	[global::Cpp2ILInjected.Token(Token = "0x6000C25")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B8088", Offset = "0x9B8088", Length = "0x350")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -330,7 +338,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B13 RID: 2835 RVA: 0x00023C7E File Offset: 0x00021E7E
 	[global::Cpp2ILInjected.Token(Token = "0x6000C26")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B83D8", Offset = "0x9B83D8", Length = "0x1FC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -347,7 +354,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B14 RID: 2836 RVA: 0x00023C81 File Offset: 0x00021E81
 	[global::Cpp2ILInjected.Token(Token = "0x6000C27")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B85D4", Offset = "0x9B85D4", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -365,7 +371,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B15 RID: 2837 RVA: 0x00023C84 File Offset: 0x00021E84
 	[global::Cpp2ILInjected.Token(Token = "0x6000C28")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B8670", Offset = "0x9B8670", Length = "0x3FC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -390,7 +395,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B16 RID: 2838 RVA: 0x00023C87 File Offset: 0x00021E87
 	[global::Cpp2ILInjected.Token(Token = "0x6000C29")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B9088", Offset = "0x9B9088", Length = "0x180")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -411,7 +415,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B17 RID: 2839 RVA: 0x00023C8A File Offset: 0x00021E8A
 	[global::Cpp2ILInjected.Token(Token = "0x6000C2A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B9208", Offset = "0x9B9208", Length = "0x100")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -425,7 +428,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B18 RID: 2840 RVA: 0x00023C8D File Offset: 0x00021E8D
 	[global::Cpp2ILInjected.Token(Token = "0x6000C2B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B333C", Offset = "0x9B333C", Length = "0xE0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -448,7 +450,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B19 RID: 2841 RVA: 0x00023C90 File Offset: 0x00021E90
 	[global::Cpp2ILInjected.Token(Token = "0x6000C2C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B9308", Offset = "0x9B9308", Length = "0x6EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -472,7 +473,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B1A RID: 2842 RVA: 0x00023C93 File Offset: 0x00021E93
 	[global::Cpp2ILInjected.Token(Token = "0x6000C2D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B8A6C", Offset = "0x9B8A6C", Length = "0x61C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -510,7 +510,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B1B RID: 2843 RVA: 0x00023C96 File Offset: 0x00021E96
 	[global::Cpp2ILInjected.Token(Token = "0x6000C2E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B99F4", Offset = "0x9B99F4", Length = "0xD0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -524,7 +523,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B1C RID: 2844 RVA: 0x00023C99 File Offset: 0x00021E99
 	[global::Cpp2ILInjected.Token(Token = "0x6000C2F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B9AC4", Offset = "0x9B9AC4", Length = "0x2E8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -549,7 +547,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B1D RID: 2845 RVA: 0x00023C9C File Offset: 0x00021E9C
 	[global::Cpp2ILInjected.Token(Token = "0x6000C30")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9B9DAC", Offset = "0x9B9DAC", Length = "0x984")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -605,7 +602,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B1E RID: 2846 RVA: 0x00023C9F File Offset: 0x00021E9F
 	[global::Cpp2ILInjected.Token(Token = "0x6000C31")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9BA730", Offset = "0x9BA730", Length = "0x938")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -643,7 +639,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B1F RID: 2847 RVA: 0x00023CA2 File Offset: 0x00021EA2
 	[global::Cpp2ILInjected.Token(Token = "0x6000C32")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9BB068", Offset = "0x9BB068", Length = "0x1EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -662,7 +657,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B20 RID: 2848 RVA: 0x00023CA5 File Offset: 0x00021EA5
 	[global::Cpp2ILInjected.Token(Token = "0x6000C33")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9BB254", Offset = "0x9BB254", Length = "0x208")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -681,7 +675,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B21 RID: 2849 RVA: 0x00023CA8 File Offset: 0x00021EA8
 	[global::Cpp2ILInjected.Token(Token = "0x6000C34")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9BB45C", Offset = "0x9BB45C", Length = "0x1F0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -700,7 +693,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B22 RID: 2850 RVA: 0x00023CAB File Offset: 0x00021EAB
 	[global::Cpp2ILInjected.Token(Token = "0x6000C35")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9BB64C", Offset = "0x9BB64C", Length = "0x1F0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -719,7 +711,6 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x06000B23 RID: 2851 RVA: 0x00023CAE File Offset: 0x00021EAE
 	[global::Cpp2ILInjected.Token(Token = "0x6000C36")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9BB83C", Offset = "0x9BB83C", Length = "0xDC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = ".ctor", ReturnType = typeof(void))]
@@ -738,41 +729,34 @@ public class InterfaceProfile_Layout
 		throw null;
 	}
 
-	// Token: 0x04000D06 RID: 3334
 	[JsonProperty(null)]
 	[global::Cpp2ILInjected.Token(Token = "0x4001109")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public string ProfileName;
 
-	// Token: 0x04000D07 RID: 3335
 	[JsonProperty("Resolution")]
 	[global::Cpp2ILInjected.Token(Token = "0x400110A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public int VerticalResolution;
 
-	// Token: 0x04000D08 RID: 3336
 	[global::Cpp2ILInjected.Token(Token = "0x400110B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private Microsoft.Xna.Framework.Vector2 _minResolution;
 
-	// Token: 0x04000D09 RID: 3337
 	[global::Cpp2ILInjected.Token(Token = "0x400110C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private bool forceEquipmentExpanded;
 
-	// Token: 0x04000D0A RID: 3338
 	[JsonProperty("Collapsed")]
 	[global::Cpp2ILInjected.Token(Token = "0x400110D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public Dictionary<GUIPageIcons.Category, bool> GroupsCollapsed;
 
-	// Token: 0x04000D0B RID: 3339
 	[JsonProperty("Left")]
 	[global::Cpp2ILInjected.Token(Token = "0x400110E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public List<GUIPageIconGrouping> LeftGroupings;
 
-	// Token: 0x04000D0C RID: 3340
 	[JsonProperty("Right")]
 	[global::Cpp2ILInjected.Token(Token = "0x400110F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]

@@ -12,11 +12,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006EA RID: 1770
 	[global::Cpp2ILInjected.Token(Token = "0x2000AD3")]
 	public class UIVerticalSlider : UISliderBase
 	{
-		// Token: 0x06004532 RID: 17714 RVA: 0x0002E631 File Offset: 0x0002C831
 		[global::Cpp2ILInjected.Token(Token = "0x6005195")]
 		[global::Cpp2ILInjected.Address(RVA = "0x930434", Offset = "0x930434", Length = "0x1F8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CreativePowersHelper), Member = "CreateSlider", MemberParameters = new object[]
@@ -43,7 +41,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004533 RID: 17715 RVA: 0x0002E634 File Offset: 0x0002C834
 		[global::Cpp2ILInjected.Token(Token = "0x6005196")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93062C", Offset = "0x93062C", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +70,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004534 RID: 17716 RVA: 0x0002E637 File Offset: 0x0002C837
 		[global::Cpp2ILInjected.Token(Token = "0x6005197")]
 		[global::Cpp2ILInjected.Address(RVA = "0x930814", Offset = "0x930814", Length = "0x598")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -154,63 +150,51 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x040070C7 RID: 28871
 		[global::Cpp2ILInjected.Token(Token = "0x4008A13")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x144")]
 		public float FillPercent;
 
-		// Token: 0x040070C8 RID: 28872
 		[global::Cpp2ILInjected.Token(Token = "0x4008A14")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		public Color FilledColor;
 
-		// Token: 0x040070C9 RID: 28873
 		[global::Cpp2ILInjected.Token(Token = "0x4008A15")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14C")]
 		public Color EmptyColor;
 
-		// Token: 0x040070CA RID: 28874
 		[global::Cpp2ILInjected.Token(Token = "0x4008A16")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private Func<float> _getSliderValue;
 
-		// Token: 0x040070CB RID: 28875
 		[global::Cpp2ILInjected.Token(Token = "0x4008A17")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x158")]
 		private Action<float> _slideKeyboardAction;
 
-		// Token: 0x040070CC RID: 28876
 		[global::Cpp2ILInjected.Token(Token = "0x4008A18")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x160")]
 		private Func<float, Color> _blipFunc;
 
-		// Token: 0x040070CD RID: 28877
 		[global::Cpp2ILInjected.Token(Token = "0x4008A19")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x168")]
 		private Action _slideGamepadAction;
 
-		// Token: 0x040070CE RID: 28878
 		[global::Cpp2ILInjected.Token(Token = "0x4008A1A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x170")]
 		private bool _isReallyMouseOvered;
 
-		// Token: 0x040070CF RID: 28879
 		[global::Cpp2ILInjected.Token(Token = "0x4008A1B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x171")]
 		private bool _soundedUsage;
 
-		// Token: 0x040070D0 RID: 28880
 		[global::Cpp2ILInjected.Token(Token = "0x4008A1C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x172")]
 		private bool _alreadyHovered;
 
-		// Token: 0x02000AC5 RID: 2757
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000AD4")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x0600528F RID: 21135 RVA: 0x000308F3 File Offset: 0x0002EAF3
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x6005198")]
 			[global::Cpp2ILInjected.Address(RVA = "0x930DAC", Offset = "0x930DAC", Length = "0x5C")]
@@ -222,7 +206,6 @@ namespace Terraria.GameContent.UI.Elements
 				throw null;
 			}
 
-			// Token: 0x06005290 RID: 21136 RVA: 0x000308F6 File Offset: 0x0002EAF6
 			[global::Cpp2ILInjected.Token(Token = "0x6005199")]
 			[global::Cpp2ILInjected.Address(RVA = "0x930E08", Offset = "0x930E08", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -232,7 +215,6 @@ namespace Terraria.GameContent.UI.Elements
 				throw null;
 			}
 
-			// Token: 0x06005291 RID: 21137 RVA: 0x000308F9 File Offset: 0x0002EAF9
 			[global::Cpp2ILInjected.Token(Token = "0x600519A")]
 			[global::Cpp2ILInjected.Address(RVA = "0x930E10", Offset = "0x930E10", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -241,7 +223,6 @@ namespace Terraria.GameContent.UI.Elements
 				throw null;
 			}
 
-			// Token: 0x06005292 RID: 21138 RVA: 0x000308FC File Offset: 0x0002EAFC
 			[global::Cpp2ILInjected.Token(Token = "0x600519B")]
 			[global::Cpp2ILInjected.Address(RVA = "0x930E18", Offset = "0x930E18", Length = "0x4")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -250,15 +231,12 @@ namespace Terraria.GameContent.UI.Elements
 				throw null;
 			}
 
-			// Token: 0x04008F58 RID: 36696
 			[global::Cpp2ILInjected.Token(Token = "0x4008A1D")]
 			public static readonly UIVerticalSlider.<>c <>9;
 
-			// Token: 0x04008F59 RID: 36697
 			[global::Cpp2ILInjected.Token(Token = "0x4008A1E")]
 			public static Func<float> <>9__10_0;
 
-			// Token: 0x04008F5A RID: 36698
 			[global::Cpp2ILInjected.Token(Token = "0x4008A1F")]
 			public static Action<float> <>9__10_1;
 		}

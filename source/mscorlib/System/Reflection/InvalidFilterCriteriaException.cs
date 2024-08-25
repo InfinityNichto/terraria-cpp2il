@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Reflection
 {
-	// Token: 0x02000418 RID: 1048
 	[global::Cpp2ILInjected.Token(Token = "0x20004D7")]
 	[global::System.Serializable]
 	public class InvalidFilterCriteriaException : global::System.ApplicationException
 	{
-		// Token: 0x06002114 RID: 8468 RVA: 0x0001A189 File Offset: 0x00018389
 		[global::Cpp2ILInjected.Token(Token = "0x60023AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B81DA4", Offset = "0x1B81DA4", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,7 +24,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002115 RID: 8469 RVA: 0x0001A18C File Offset: 0x0001838C
 		[global::Cpp2ILInjected.Token(Token = "0x60023AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B81E04", Offset = "0x1B81E04", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -66,7 +63,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002116 RID: 8470 RVA: 0x0001A18F File Offset: 0x0001838F
 		[global::Cpp2ILInjected.Token(Token = "0x60023B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B81E2C", Offset = "0x1B81E2C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +77,6 @@ namespace System.Reflection
 			throw null;
 		}
 
-		// Token: 0x06002117 RID: 8471 RVA: 0x0001A192 File Offset: 0x00018392
 		[global::Cpp2ILInjected.Token(Token = "0x60023B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B81E50", Offset = "0x1B81E50", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

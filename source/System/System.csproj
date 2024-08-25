@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC5}</ProjectGuid>
+    <ProjectGuid>{2AA0DBF3-B16B-40FC-9062-FF973C3070A5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>System</RootNamespace>
@@ -945,19 +945,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Mono.Security\Mono.Security.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DABF}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C30709F}</Project>
       <Name>Mono.Security</Name>
     </ProjectReference>
     <ProjectReference Include="..\mscorlib\mscorlib.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC0}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A0}</Project>
       <Name>mscorlib</Name>
     </ProjectReference>
     <ProjectReference Include="..\System.Configuration\System.Configuration.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC3}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A3}</Project>
       <Name>System.Configuration</Name>
     </ProjectReference>
     <ProjectReference Include="..\System.Xml\System.Xml.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC8}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A8}</Project>
       <Name>System.Xml</Name>
     </ProjectReference>
   </ItemGroup>

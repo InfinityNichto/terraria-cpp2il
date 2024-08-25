@@ -10,11 +10,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.CaveHouse
 {
-	// Token: 0x02000611 RID: 1553
 	[global::Cpp2ILInjected.Token(Token = "0x2000916")]
 	public class WoodHouseBuilder : HouseBuilder
 	{
-		// Token: 0x06003E2C RID: 15916 RVA: 0x0002D1B8 File Offset: 0x0002B3B8
 		[global::Cpp2ILInjected.Token(Token = "0x60046D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x80ED60", Offset = "0x80ED60", Length = "0x158")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -37,7 +35,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E2D RID: 15917 RVA: 0x0002D1BB File Offset: 0x0002B3BB
 		[global::Cpp2ILInjected.Token(Token = "0x60046D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x80EEB8", Offset = "0x80EEB8", Length = "0x6D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -105,7 +102,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E2E RID: 15918 RVA: 0x0002D1BE File Offset: 0x0002B3BE
 		[global::Cpp2ILInjected.Token(Token = "0x60046D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x80F58C", Offset = "0x80F58C", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -119,7 +115,6 @@ namespace Terraria.GameContent.Biomes.CaveHouse
 			throw null;
 		}
 
-		// Token: 0x06003E2F RID: 15919 RVA: 0x0002D1C1 File Offset: 0x0002B3C1
 		[global::Cpp2ILInjected.Token(Token = "0x60046D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x80F5A8", Offset = "0x80F5A8", Length = "0x38C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

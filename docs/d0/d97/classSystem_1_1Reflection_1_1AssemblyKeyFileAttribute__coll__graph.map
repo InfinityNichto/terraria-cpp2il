@@ -1,9 +1,0 @@
-<map id="System.Reflection.AssemblyKeyFileAttribute" name="System.Reflection.AssemblyKeyFileAttribute">
-<area shape="rect" id="Node000001" title=" " alt="" coords="43,261,243,356"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,173,199"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,211,128,260,123,262,104,212"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="197,133,325,199"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,200,194,251,190,247,233,197"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="236,5,287,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="264,85,264,133,259,133,259,85"/>
-</map>

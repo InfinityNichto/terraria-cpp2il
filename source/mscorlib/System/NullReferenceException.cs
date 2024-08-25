@@ -9,12 +9,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x020000B2 RID: 178
 	[global::Cpp2ILInjected.Token(Token = "0x20000E2")]
 	[global::System.Serializable]
 	public class NullReferenceException : global::System.SystemException
 	{
-		// Token: 0x060007A5 RID: 1957 RVA: 0x00015B66 File Offset: 0x00013D66
 		[global::Cpp2ILInjected.Token(Token = "0x600084A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C37768", Offset = "0x1C37768", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +39,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060007A6 RID: 1958 RVA: 0x00015B69 File Offset: 0x00013D69
 		[global::Cpp2ILInjected.Token(Token = "0x600084B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C377C4", Offset = "0x1C377C4", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +59,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060007A7 RID: 1959 RVA: 0x00015B6C File Offset: 0x00013D6C
 		[global::Cpp2ILInjected.Token(Token = "0x600084C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C377E8", Offset = "0x1C377E8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

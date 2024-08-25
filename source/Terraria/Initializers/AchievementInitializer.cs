@@ -11,11 +11,9 @@ using Terraria.Localization;
 
 namespace Terraria.Initializers
 {
-	// Token: 0x020003D2 RID: 978
 	[global::Cpp2ILInjected.Token(Token = "0x2000581")]
 	public class AchievementInitializer
 	{
-		// Token: 0x06002FF8 RID: 12280 RVA: 0x0002A932 File Offset: 0x00028B32
 		[global::Cpp2ILInjected.Token(Token = "0x6003464")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1360064", Offset = "0x1360064", Length = "0x4E18")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -110,7 +108,6 @@ namespace Terraria.Initializers
 			throw null;
 		}
 
-		// Token: 0x06002FF9 RID: 12281 RVA: 0x0002A935 File Offset: 0x00028B35
 		[global::Cpp2ILInjected.Token(Token = "0x6003465")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1364E7C", Offset = "0x1364E7C", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -135,7 +132,6 @@ namespace Terraria.Initializers
 			throw null;
 		}
 
-		// Token: 0x06002FFA RID: 12282 RVA: 0x0002A938 File Offset: 0x00028B38
 		[global::Cpp2ILInjected.Token(Token = "0x6003466")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1364F94", Offset = "0x1364F94", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

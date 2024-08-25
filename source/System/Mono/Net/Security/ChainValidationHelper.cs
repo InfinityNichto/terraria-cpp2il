@@ -12,11 +12,9 @@ using Mono.Security.Interface;
 
 namespace Mono.Net.Security
 {
-	// Token: 0x0200001A RID: 26
 	[global::Cpp2ILInjected.Token(Token = "0x2000055")]
 	internal class ChainValidationHelper : ICertificateValidator
 	{
-		// Token: 0x06000080 RID: 128 RVA: 0x00002FAB File Offset: 0x000011AB
 		[global::Cpp2ILInjected.Token(Token = "0x60000E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D497DC", Offset = "0x1D497DC", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -40,7 +38,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000081 RID: 129 RVA: 0x00002FAE File Offset: 0x000011AE
 		[global::Cpp2ILInjected.Token(Token = "0x60000E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D49B1C", Offset = "0x1D49B1C", Length = "0x84")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MonoTlsStream), Member = ".ctor", MemberParameters = new object[]
@@ -63,7 +60,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000082 RID: 130 RVA: 0x00002FB1 File Offset: 0x000011B1
 		[global::Cpp2ILInjected.Token(Token = "0x60000E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D498BC", Offset = "0x1D498BC", Length = "0x260")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,7 +94,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000083 RID: 131 RVA: 0x00002FB4 File Offset: 0x000011B4
 		[global::Cpp2ILInjected.Token(Token = "0x60000E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D49CBC", Offset = "0x1D49CBC", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChainValidationHelper), Member = ".ctor", MemberParameters = new object[]
@@ -123,7 +118,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000084 RID: 132 RVA: 0x00002FB7 File Offset: 0x000011B7
 		[global::Cpp2ILInjected.Token(Token = "0x60000E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D49E4C", Offset = "0x1D49E4C", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -134,8 +128,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x17000022 RID: 34
-		// (get) Token: 0x06000085 RID: 133 RVA: 0x00002FBA File Offset: 0x000011BA
 		[global::Cpp2ILInjected.Token(Token = "0x17000022")]
 		public MonoTlsSettings Settings
 		{
@@ -148,7 +140,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x06000086 RID: 134 RVA: 0x00002FBD File Offset: 0x000011BD
 		[global::Cpp2ILInjected.Token(Token = "0x60000EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D49E90", Offset = "0x1D49E90", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -158,7 +149,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000087 RID: 135 RVA: 0x00002FC0 File Offset: 0x000011C0
 		[global::Cpp2ILInjected.Token(Token = "0x60000EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D49ECC", Offset = "0x1D49ECC", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -183,7 +173,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000088 RID: 136 RVA: 0x00002FC3 File Offset: 0x000011C3
 		[global::Cpp2ILInjected.Token(Token = "0x60000ED")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D49FA0", Offset = "0x1D49FA0", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -211,7 +200,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x06000089 RID: 137 RVA: 0x00002FC6 File Offset: 0x000011C6
 		[global::Cpp2ILInjected.Token(Token = "0x60000EE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4A07C", Offset = "0x1D4A07C", Length = "0x3F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -254,7 +242,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x0600008A RID: 138 RVA: 0x00002FC9 File Offset: 0x000011C9
 		[global::Cpp2ILInjected.Token(Token = "0x60000EF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4A46C", Offset = "0x1D4A46C", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -282,47 +269,38 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x04000035 RID: 53
 		[global::Cpp2ILInjected.Token(Token = "0x40000C5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly WeakReference<SslStream> owner;
 
-		// Token: 0x04000036 RID: 54
 		[global::Cpp2ILInjected.Token(Token = "0x40000C6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly MonoTlsSettings settings;
 
-		// Token: 0x04000037 RID: 55
 		[global::Cpp2ILInjected.Token(Token = "0x40000C7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private readonly MobileTlsProvider provider;
 
-		// Token: 0x04000038 RID: 56
 		[global::Cpp2ILInjected.Token(Token = "0x40000C8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private readonly ServerCertValidationCallback certValidationCallback;
 
-		// Token: 0x04000039 RID: 57
 		[global::Cpp2ILInjected.Token(Token = "0x40000C9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private readonly LocalCertSelectionCallback certSelectionCallback;
 
-		// Token: 0x0400003A RID: 58
 		[global::Cpp2ILInjected.Token(Token = "0x40000CA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private readonly MonoTlsStream tlsStream;
 
-		// Token: 0x0400003B RID: 59
 		[global::Cpp2ILInjected.Token(Token = "0x40000CB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private readonly HttpWebRequest request;
 
-		// Token: 0x020003A3 RID: 931
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000056")]
 		private sealed class <>c__DisplayClass11_0
 		{
-			// Token: 0x06001D09 RID: 7433 RVA: 0x0000800F File Offset: 0x0000620F
 			[global::Cpp2ILInjected.Token(Token = "0x60000F0")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D49E44", Offset = "0x1D49E44", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -332,7 +310,6 @@ namespace Mono.Net.Security
 				throw null;
 			}
 
-			// Token: 0x06001D0A RID: 7434 RVA: 0x00008012 File Offset: 0x00006212
 			[global::Cpp2ILInjected.Token(Token = "0x60000F1")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D4A520", Offset = "0x1D4A520", Length = "0x150")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -352,7 +329,6 @@ namespace Mono.Net.Security
 				throw null;
 			}
 
-			// Token: 0x04001041 RID: 4161
 			[global::Cpp2ILInjected.Token(Token = "0x40000CC")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public MonoTlsSettings settings;

@@ -7,11 +7,9 @@ using Mono.Unity;
 
 namespace System.Security.Cryptography.X509Certificates
 {
-	// Token: 0x020000B6 RID: 182
 	[global::Cpp2ILInjected.Token(Token = "0x2000114")]
 	public sealed class X509ChainPolicy
 	{
-		// Token: 0x060005D3 RID: 1491 RVA: 0x00003ECC File Offset: 0x000020CC
 		[global::Cpp2ILInjected.Token(Token = "0x600067E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ED8FF4", Offset = "0x1ED8FF4", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509ChainImplUnityTls), Member = ".ctor", MemberParameters = new object[]
@@ -27,8 +25,6 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x1700015D RID: 349
-		// (get) Token: 0x060005D4 RID: 1492 RVA: 0x00003ECF File Offset: 0x000020CF
 		[global::Cpp2ILInjected.Token(Token = "0x17000165")]
 		public X509Certificate2Collection ExtraStore
 		{
@@ -50,8 +46,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x1700015E RID: 350
-		// (get) Token: 0x060005D5 RID: 1493 RVA: 0x00003ED2 File Offset: 0x000020D2
 		[global::Cpp2ILInjected.Token(Token = "0x17000166")]
 		public X509RevocationFlag RevocationFlag
 		{
@@ -64,9 +58,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x1700015F RID: 351
-		// (get) Token: 0x060005D6 RID: 1494 RVA: 0x00003ED5 File Offset: 0x000020D5
-		// (set) Token: 0x060005D7 RID: 1495 RVA: 0x00003ED8 File Offset: 0x000020D8
 		[global::Cpp2ILInjected.Token(Token = "0x17000167")]
 		public X509RevocationMode RevocationMode
 		{
@@ -90,9 +81,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x17000160 RID: 352
-		// (get) Token: 0x060005D8 RID: 1496 RVA: 0x00003EDB File Offset: 0x000020DB
-		// (set) Token: 0x060005D9 RID: 1497 RVA: 0x00003EDE File Offset: 0x000020DE
 		[global::Cpp2ILInjected.Token(Token = "0x17000168")]
 		public X509VerificationFlags VerificationFlags
 		{
@@ -116,8 +104,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x17000161 RID: 353
-		// (get) Token: 0x060005DA RID: 1498 RVA: 0x00003EE1 File Offset: 0x000020E1
 		[global::Cpp2ILInjected.Token(Token = "0x17000169")]
 		public DateTime VerificationTime
 		{
@@ -130,7 +116,6 @@ namespace System.Security.Cryptography.X509Certificates
 			}
 		}
 
-		// Token: 0x060005DB RID: 1499 RVA: 0x00003EE4 File Offset: 0x000020E4
 		[global::Cpp2ILInjected.Token(Token = "0x6000686")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EDBBF8", Offset = "0x1EDBBF8", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(X509ChainImplMono), Member = ".ctor", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
@@ -144,47 +129,38 @@ namespace System.Security.Cryptography.X509Certificates
 			throw null;
 		}
 
-		// Token: 0x040003B4 RID: 948
 		[global::Cpp2ILInjected.Token(Token = "0x400051E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private OidCollection apps;
 
-		// Token: 0x040003B5 RID: 949
 		[global::Cpp2ILInjected.Token(Token = "0x400051F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private OidCollection cert;
 
-		// Token: 0x040003B6 RID: 950
 		[global::Cpp2ILInjected.Token(Token = "0x4000520")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private X509CertificateCollection store;
 
-		// Token: 0x040003B7 RID: 951
 		[global::Cpp2ILInjected.Token(Token = "0x4000521")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private X509Certificate2Collection store2;
 
-		// Token: 0x040003B8 RID: 952
 		[global::Cpp2ILInjected.Token(Token = "0x4000522")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private X509RevocationFlag rflag;
 
-		// Token: 0x040003B9 RID: 953
 		[global::Cpp2ILInjected.Token(Token = "0x4000523")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		private X509RevocationMode mode;
 
-		// Token: 0x040003BA RID: 954
 		[global::Cpp2ILInjected.Token(Token = "0x4000524")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private TimeSpan timeout;
 
-		// Token: 0x040003BB RID: 955
 		[global::Cpp2ILInjected.Token(Token = "0x4000525")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private X509VerificationFlags vflags;
 
-		// Token: 0x040003BC RID: 956
 		[global::Cpp2ILInjected.Token(Token = "0x4000526")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private DateTime vtime;

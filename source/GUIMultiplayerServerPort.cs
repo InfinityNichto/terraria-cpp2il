@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Audio;
 using Terraria;
 using Terraria.Audio;
 
-// Token: 0x020001D5 RID: 469
 [global::Cpp2ILInjected.Token(Token = "0x2000270")]
 public class GUIMultiplayerServerPort
 {
-	// Token: 0x06000CE5 RID: 3301 RVA: 0x000241F4 File Offset: 0x000223F4
 	[global::Cpp2ILInjected.Token(Token = "0x6000E04")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9F0520", Offset = "0x9F0520", Length = "0x444")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +63,6 @@ public class GUIMultiplayerServerPort
 		throw null;
 	}
 
-	// Token: 0x06000CE6 RID: 3302 RVA: 0x000241F7 File Offset: 0x000223F7
 	[global::Cpp2ILInjected.Token(Token = "0x6000E05")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9F0964", Offset = "0x9F0964", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -76,12 +73,10 @@ public class GUIMultiplayerServerPort
 		throw null;
 	}
 
-	// Token: 0x040014A7 RID: 5287
 	[global::Cpp2ILInjected.Token(Token = "0x40019B1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private bool editingServerPort;
 
-	// Token: 0x040014A8 RID: 5288
 	[global::Cpp2ILInjected.Token(Token = "0x40019B2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private string editGetIP;

@@ -5,13 +5,11 @@ using UnityEngine;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000A2 RID: 162
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000AF")]
 	public class PlayStation4TouchpadAndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060005C9 RID: 1481 RVA: 0x00003188 File Offset: 0x00001388
 		[global::Cpp2ILInjected.Token(Token = "0x60005E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19D9C08", Offset = "0x19D9C08", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,7 +23,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005CA RID: 1482 RVA: 0x0000318B File Offset: 0x0000138B
 		[global::Cpp2ILInjected.Token(Token = "0x60005E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19D9DE4", Offset = "0x19D9DE4", Length = "0x1070")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +57,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005CB RID: 1483 RVA: 0x0000318E File Offset: 0x0000138E
 		[global::Cpp2ILInjected.Token(Token = "0x60005E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19DAE54", Offset = "0x19DAE54", Length = "0x1058")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -4,17 +4,20 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using ReLogic.Utilities;
 using Terraria.GameContent;
+using Terraria.GameContent.Biomes;
 using Terraria.GameContent.NetModules;
+using Terraria.GameContent.Tile_Entities;
+using Terraria.IO;
 using Terraria.ObjectData;
+using Terraria.WorldBuilding;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x0200044D RID: 1101
 	[global::Cpp2ILInjected.Token(Token = "0x2000649")]
 	public struct Point16
 	{
-		// Token: 0x060031BF RID: 12735 RVA: 0x0002AE6F File Offset: 0x0002906F
 		[global::Cpp2ILInjected.Token(Token = "0x60036DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D0CC", Offset = "0x141D0CC", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -24,17 +27,206 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031C0 RID: 12736 RVA: 0x0002AE72 File Offset: 0x00029072
 		[global::Cpp2ILInjected.Token(Token = "0x60036DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D0DC", Offset = "0x141D0DC", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIRubbleMaker), Member = "SetupPreview", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile_OldConsole), Member = "LoadChests", MemberParameters = new object[] { typeof(BinaryReader) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile_OldConsole), Member = "LoadSigns", MemberParameters = new object[] { typeof(BinaryReader) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile_OldSwitch), Member = "LoadChests", MemberParameters = new object[] { typeof(BinaryReader) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile_OldSwitch), Member = "LoadSigns", MemberParameters = new object[] { typeof(BinaryReader) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Chest), Member = "AfterPlacement_Hook", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Animation), Member = "NewTemporaryAnimation", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(ushort),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Animation), Member = "GetTemporaryFrame", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Framing), Member = "Initialize", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Framing), Member = "Add8WayLookup", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(short),
+			typeof(short),
+			typeof(short),
+			typeof(short),
+			typeof(short),
+			typeof(short)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Framing), Member = "Add8WayLookup", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(short),
+			typeof(short)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Framing), Member = "AddWallFrameLookup", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(short),
+			typeof(short),
+			typeof(short),
+			typeof(short),
+			typeof(short),
+			typeof(short),
+			typeof(short),
+			typeof(short)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Mount.<>c__DisplayClass141_0", Member = "<DrillSmartCursor_Walls>b__0", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mount), Member = "DrillSmartCursor_Blocks", MemberParameters = new object[]
+		{
+			typeof(Player),
+			"Terraria.Mount.DrillMountData"
+		}, ReturnType = typeof(Point16))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mount), Member = "DrillSmartCursor_Walls", MemberParameters = new object[]
+		{
+			typeof(Player),
+			"Terraria.Mount.DrillMountData"
+		}, ReturnType = typeof(Point16))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileObject), Member = "CanPlace", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(ref TileObject),
+			typeof(bool),
+			typeof(int?)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Utils), Member = "ToTileCoordinates16", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(Point16))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Utils), Member = "ToTileCoordinates16", MemberParameters = new object[] { typeof(Vector2D) }, ReturnType = typeof(Point16))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "SkipWire", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "PokeLogicGate", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "TripWire", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "CheckLogicGate", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "HitWire", MemberParameters = new object[]
+		{
+			typeof(DoubleStack<Point16>),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "HitWireSingle", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "SetupStatueList", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ShapeData), Member = "Add", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ShapeData), Member = "Remove", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ShapeData), Member = "Contains", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileObjectData), Member = "Initialize", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileObjectData), Member = "OriginToTopLeft", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ref Point16)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile), Member = "LoadChests", MemberParameters = new object[] { typeof(BinaryReader) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldFile), Member = "LoadSigns", MemberParameters = new object[] { typeof(BinaryReader) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEDisplayDoll), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEFoodPlatter), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEHatRack), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEItemFrame), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TELogicSensor), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TETeleportationPylon), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TETrainingDummy), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEWeaponsRack), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GraniteBiome), Member = "CleanupTiles", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(Rectangle)
+		}, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 195)]
 		public Point16(int X, int Y)
 		{
 			throw null;
 		}
 
-		// Token: 0x060031C1 RID: 12737 RVA: 0x0002AE75 File Offset: 0x00029075
 		[global::Cpp2ILInjected.Token(Token = "0x60036DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D0E8", Offset = "0x141D0E8", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -54,7 +246,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031C2 RID: 12738 RVA: 0x0002AE78 File Offset: 0x00029078
 		[global::Cpp2ILInjected.Token(Token = "0x60036DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D0F4", Offset = "0x141D0F4", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,7 +255,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031C3 RID: 12739 RVA: 0x0002AE7B File Offset: 0x0002907B
 		[global::Cpp2ILInjected.Token(Token = "0x60036E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D10C", Offset = "0x141D10C", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -74,7 +264,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031C4 RID: 12740 RVA: 0x0002AE7E File Offset: 0x0002907E
 		[global::Cpp2ILInjected.Token(Token = "0x60036E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D12C", Offset = "0x141D12C", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +273,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031C5 RID: 12741 RVA: 0x0002AE81 File Offset: 0x00029081
 		[global::Cpp2ILInjected.Token(Token = "0x60036E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D158", Offset = "0x141D158", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -113,7 +301,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031C6 RID: 12742 RVA: 0x0002AE84 File Offset: 0x00029084
 		[global::Cpp2ILInjected.Token(Token = "0x60036E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D168", Offset = "0x141D168", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +310,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031C7 RID: 12743 RVA: 0x0002AE87 File Offset: 0x00029087
 		[global::Cpp2ILInjected.Token(Token = "0x60036E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D178", Offset = "0x141D178", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -134,7 +320,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031C8 RID: 12744 RVA: 0x0002AE8A File Offset: 0x0002908A
 		[global::Cpp2ILInjected.Token(Token = "0x60036E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D210", Offset = "0x141D210", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -144,7 +329,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031C9 RID: 12745 RVA: 0x0002AE8D File Offset: 0x0002908D
 		[global::Cpp2ILInjected.Token(Token = "0x60036E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D224", Offset = "0x141D224", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -161,7 +345,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060031CA RID: 12746 RVA: 0x0002AE90 File Offset: 0x00029090
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60036E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D2C4", Offset = "0x141D2C4", Length = "0x58")]
@@ -172,21 +355,17 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x040063FE RID: 25598
 		[global::Cpp2ILInjected.Token(Token = "0x40077EE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public readonly short X;
 
-		// Token: 0x040063FF RID: 25599
 		[global::Cpp2ILInjected.Token(Token = "0x40077EF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2")]
 		public readonly short Y;
 
-		// Token: 0x04006400 RID: 25600
 		[global::Cpp2ILInjected.Token(Token = "0x40077F0")]
 		public static Point16 Zero;
 
-		// Token: 0x04006401 RID: 25601
 		[global::Cpp2ILInjected.Token(Token = "0x40077F1")]
 		public static Point16 NegativeOne;
 	}

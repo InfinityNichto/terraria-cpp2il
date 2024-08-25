@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000C7 RID: 199
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000D4")]
 	public class NexusPlayerMacUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000618 RID: 1560 RVA: 0x00003275 File Offset: 0x00001475
 		[global::Cpp2ILInjected.Token(Token = "0x6000635")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F0120", Offset = "0x19F0120", Length = "0x810")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000619 RID: 1561 RVA: 0x00003278 File Offset: 0x00001478
 		[global::Cpp2ILInjected.Token(Token = "0x6000636")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F0930", Offset = "0x19F0930", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

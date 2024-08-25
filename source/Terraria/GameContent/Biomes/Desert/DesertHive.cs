@@ -9,11 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.Desert
 {
-	// Token: 0x02000602 RID: 1538
 	[global::Cpp2ILInjected.Token(Token = "0x2000901")]
 	public static class DesertHive
 	{
-		// Token: 0x06003DD0 RID: 15824 RVA: 0x0002D0A4 File Offset: 0x0002B2A4
 		[global::Cpp2ILInjected.Token(Token = "0x600466C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D7564", Offset = "0x7D7564", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DesertBiome), Member = "Place", MemberParameters = new object[]
@@ -34,7 +32,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DD1 RID: 15825 RVA: 0x0002D0A7 File Offset: 0x0002B2A7
 		[global::Cpp2ILInjected.Token(Token = "0x600466D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D75F0", Offset = "0x7D75F0", Length = "0x1CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +65,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DD2 RID: 15826 RVA: 0x0002D0AA File Offset: 0x0002B2AA
 		[global::Cpp2ILInjected.Token(Token = "0x600466E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D7D5C", Offset = "0x7D7D5C", Length = "0xB34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -155,7 +151,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DD3 RID: 15827 RVA: 0x0002D0AD File Offset: 0x0002B2AD
 		[global::Cpp2ILInjected.Token(Token = "0x600466F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D77BC", Offset = "0x7D77BC", Length = "0x5A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -199,11 +194,9 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x02000A09 RID: 2569
 		[global::Cpp2ILInjected.Token(Token = "0x2000902")]
 		private struct Block
 		{
-			// Token: 0x06004F6E RID: 20334 RVA: 0x0003006E File Offset: 0x0002E26E
 			[global::Cpp2ILInjected.Token(Token = "0x6004670")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7D8890", Offset = "0x7D8890", Length = "0x30")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -217,32 +210,26 @@ namespace Terraria.GameContent.Biomes.Desert
 				throw null;
 			}
 
-			// Token: 0x04008D22 RID: 36130
 			[global::Cpp2ILInjected.Token(Token = "0x400827F")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public Vector2D Position;
 		}
 
-		// Token: 0x02000A0A RID: 2570
 		[global::Cpp2ILInjected.Token(Token = "0x2000903")]
 		private struct Cluster
 		{
-			// Token: 0x04008D23 RID: 36131
 			[global::Cpp2ILInjected.Token(Token = "0x4008280")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public int Offset;
 
-			// Token: 0x04008D24 RID: 36132
 			[global::Cpp2ILInjected.Token(Token = "0x4008281")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 			public int Count;
 		}
 
-		// Token: 0x02000A0B RID: 2571
 		[global::Cpp2ILInjected.Token(Token = "0x2000904")]
 		private class ClusterGroup
 		{
-			// Token: 0x06004F6F RID: 20335 RVA: 0x00030071 File Offset: 0x0002E271
 			[global::Cpp2ILInjected.Token(Token = "0x6004671")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7D88C0", Offset = "0x7D88C0", Length = "0x30")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -252,7 +239,6 @@ namespace Terraria.GameContent.Biomes.Desert
 				throw null;
 			}
 
-			// Token: 0x06004F70 RID: 20336 RVA: 0x00030074 File Offset: 0x0002E274
 			[global::Cpp2ILInjected.Token(Token = "0x6004672")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7D7588", Offset = "0x7D7588", Length = "0x68")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DesertHive), Member = "Place", MemberParameters = new object[] { typeof(DesertDescription) }, ReturnType = typeof(void))]
@@ -265,7 +251,6 @@ namespace Terraria.GameContent.Biomes.Desert
 				throw null;
 			}
 
-			// Token: 0x06004F71 RID: 20337 RVA: 0x00030077 File Offset: 0x0002E277
 			[global::Cpp2ILInjected.Token(Token = "0x6004673")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7D9784", Offset = "0x7D9784", Length = "0x208")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -299,7 +284,6 @@ namespace Terraria.GameContent.Biomes.Desert
 				throw null;
 			}
 
-			// Token: 0x06004F72 RID: 20338 RVA: 0x0003007A File Offset: 0x0002E27A
 			[global::Cpp2ILInjected.Token(Token = "0x6004674")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7D998C", Offset = "0x7D998C", Length = "0x1FC")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -317,7 +301,6 @@ namespace Terraria.GameContent.Biomes.Desert
 				throw null;
 			}
 
-			// Token: 0x06004F73 RID: 20339 RVA: 0x0003007D File Offset: 0x0002E27D
 			[global::Cpp2ILInjected.Token(Token = "0x6004675")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7D88F0", Offset = "0x7D88F0", Length = "0xE94")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -377,36 +360,29 @@ namespace Terraria.GameContent.Biomes.Desert
 				throw null;
 			}
 
-			// Token: 0x04008D25 RID: 36133
 			[global::Cpp2ILInjected.Token(Token = "0x4008282")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public readonly int Width;
 
-			// Token: 0x04008D26 RID: 36134
 			[global::Cpp2ILInjected.Token(Token = "0x4008283")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 			public readonly int Height;
 
-			// Token: 0x04008D27 RID: 36135
 			[global::Cpp2ILInjected.Token(Token = "0x4008284")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public Vector2D[] Points;
 
-			// Token: 0x04008D28 RID: 36136
 			[global::Cpp2ILInjected.Token(Token = "0x4008285")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			public DesertHive.Cluster[] Clusters;
 		}
 
-		// Token: 0x02000A0C RID: 2572
 		[Flags]
 		[global::Cpp2ILInjected.Token(Token = "0x2000905")]
 		private enum PostPlacementEffect : byte
 		{
-			// Token: 0x04008D2A RID: 36138
 			[global::Cpp2ILInjected.Token(Token = "0x4008287")]
 			None = 0,
-			// Token: 0x04008D2B RID: 36139
 			[global::Cpp2ILInjected.Token(Token = "0x4008288")]
 			Smooth = 1
 		}

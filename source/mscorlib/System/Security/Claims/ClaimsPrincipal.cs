@@ -12,13 +12,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Claims
 {
-	// Token: 0x02000292 RID: 658
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000330")]
 	[global::System.Serializable]
 	public class ClaimsPrincipal : global::System.Security.Principal.IPrincipal
 	{
-		// Token: 0x0600197A RID: 6522 RVA: 0x00018C9E File Offset: 0x00016E9E
 		[global::Cpp2ILInjected.Token(Token = "0x6001B9D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B22FEC", Offset = "0x1B22FEC", Length = "0x368")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -30,8 +28,6 @@ namespace System.Security.Claims
 			throw null;
 		}
 
-		// Token: 0x170002C9 RID: 713
-		// (get) Token: 0x0600197B RID: 6523 RVA: 0x00018CA1 File Offset: 0x00016EA1
 		[global::Cpp2ILInjected.Token(Token = "0x17000321")]
 		public static global::System.Func<ClaimsPrincipal> ClaimsPrincipalSelector
 		{
@@ -45,7 +41,6 @@ namespace System.Security.Claims
 			}
 		}
 
-		// Token: 0x0600197C RID: 6524 RVA: 0x00018CA4 File Offset: 0x00016EA4
 		[global::Cpp2ILInjected.Token(Token = "0x6001B9F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1F0A8", Offset = "0x1B1F0A8", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Principal.GenericPrincipal), Member = ".ctor", MemberParameters = new object[]
@@ -62,7 +57,6 @@ namespace System.Security.Claims
 			throw null;
 		}
 
-		// Token: 0x0600197D RID: 6525 RVA: 0x00018CA7 File Offset: 0x00016EA7
 		[global::Cpp2ILInjected.Token(Token = "0x6001BA0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B233AC", Offset = "0x1B233AC", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -75,7 +69,6 @@ namespace System.Security.Claims
 			throw null;
 		}
 
-		// Token: 0x0600197E RID: 6526 RVA: 0x00018CAA File Offset: 0x00016EAA
 		[global::System.Runtime.Serialization.OnSerializing]
 		[global::Cpp2ILInjected.Token(Token = "0x6001BA1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B235F0", Offset = "0x1B235F0", Length = "0x5C")]
@@ -87,7 +80,6 @@ namespace System.Security.Claims
 			throw null;
 		}
 
-		// Token: 0x0600197F RID: 6527 RVA: 0x00018CAD File Offset: 0x00016EAD
 		[global::System.Runtime.Serialization.OnDeserialized]
 		[global::Cpp2ILInjected.Token(Token = "0x6001BA2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B24018", Offset = "0x1B24018", Length = "0x60")]
@@ -99,7 +91,6 @@ namespace System.Security.Claims
 			throw null;
 		}
 
-		// Token: 0x06001980 RID: 6528 RVA: 0x00018CB0 File Offset: 0x00016EB0
 		[global::Cpp2ILInjected.Token(Token = "0x6001BA3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B234A8", Offset = "0x1B234A8", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -120,7 +111,6 @@ namespace System.Security.Claims
 			throw null;
 		}
 
-		// Token: 0x06001981 RID: 6529 RVA: 0x00018CB3 File Offset: 0x00016EB3
 		[global::Cpp2ILInjected.Token(Token = "0x6001BA4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B24078", Offset = "0x1B24078", Length = "0x6C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -165,7 +155,6 @@ namespace System.Security.Claims
 			throw null;
 		}
 
-		// Token: 0x06001982 RID: 6530 RVA: 0x00018CB6 File Offset: 0x00016EB6
 		[global::Cpp2ILInjected.Token(Token = "0x6001BA5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B2364C", Offset = "0x1B2364C", Length = "0x9CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -207,7 +196,6 @@ namespace System.Security.Claims
 			throw null;
 		}
 
-		// Token: 0x06001983 RID: 6531 RVA: 0x00018CB9 File Offset: 0x00016EB9
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001BA6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B24738", Offset = "0x1B24738", Length = "0xD0")]
@@ -223,30 +211,25 @@ namespace System.Security.Claims
 			throw null;
 		}
 
-		// Token: 0x04000B33 RID: 2867
 		[global::System.Runtime.Serialization.OptionalField(VersionAdded = 2)]
 		[global::Cpp2ILInjected.Token(Token = "0x4000E13")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string m_version;
 
-		// Token: 0x04000B34 RID: 2868
 		[global::System.Runtime.Serialization.OptionalField(VersionAdded = 2)]
 		[global::Cpp2ILInjected.Token(Token = "0x4000E14")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string m_serializedClaimsIdentities;
 
-		// Token: 0x04000B35 RID: 2869
 		[global::Cpp2ILInjected.Token(Token = "0x4000E15")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		[global::System.NonSerialized]
 		private global::System.Collections.Generic.List<ClaimsIdentity> m_identities;
 
-		// Token: 0x04000B36 RID: 2870
 		[global::Cpp2ILInjected.Token(Token = "0x4000E16")]
 		[global::System.NonSerialized]
 		private static global::System.Func<global::System.Collections.Generic.IEnumerable<ClaimsIdentity>, ClaimsIdentity> s_identitySelector;
 
-		// Token: 0x04000B37 RID: 2871
 		[global::Cpp2ILInjected.Token(Token = "0x4000E17")]
 		[global::System.NonSerialized]
 		private static global::System.Func<ClaimsPrincipal> s_principalSelector;

@@ -5,12 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Security.Cryptography
 {
-	// Token: 0x0200002D RID: 45
 	[global::Cpp2ILInjected.Token(Token = "0x2000043")]
 	internal sealed class KeyBuilder
 	{
-		// Token: 0x17000011 RID: 17
-		// (get) Token: 0x060000EA RID: 234 RVA: 0x00014885 File Offset: 0x00012A85
 		[global::Cpp2ILInjected.Token(Token = "0x17000019")]
 		private static global::System.Security.Cryptography.RandomNumberGenerator Rng
 		{
@@ -27,7 +24,6 @@ namespace Mono.Security.Cryptography
 			}
 		}
 
-		// Token: 0x060000EB RID: 235 RVA: 0x00014888 File Offset: 0x00012A88
 		[global::Cpp2ILInjected.Token(Token = "0x600012D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB8BB8", Offset = "0x1AB8BB8", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +45,6 @@ namespace Mono.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060000EC RID: 236 RVA: 0x0001488B File Offset: 0x00012A8B
 		[global::Cpp2ILInjected.Token(Token = "0x600012E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AB8C20", Offset = "0x1AB8C20", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +63,6 @@ namespace Mono.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x04000091 RID: 145
 		[global::Cpp2ILInjected.Token(Token = "0x400013E")]
 		private static global::System.Security.Cryptography.RandomNumberGenerator rng;
 	}

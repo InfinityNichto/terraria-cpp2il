@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000AB RID: 171
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000B8")]
 	public class AppleTVWirelessControllerUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060005DC RID: 1500 RVA: 0x000031C1 File Offset: 0x000013C1
 		[global::Cpp2ILInjected.Token(Token = "0x60005F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19E02C8", Offset = "0x19E02C8", Length = "0x8A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005DD RID: 1501 RVA: 0x000031C4 File Offset: 0x000013C4
 		[global::Cpp2ILInjected.Token(Token = "0x60005FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19E0B68", Offset = "0x19E0B68", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -10,11 +10,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.GameContent.UI
 {
-	// Token: 0x02000699 RID: 1689
 	[global::Cpp2ILInjected.Token(Token = "0x2000A5B")]
 	public class CustomCurrencySingleCoin : CustomCurrencySystem
 	{
-		// Token: 0x0600426C RID: 17004 RVA: 0x0002DDFA File Offset: 0x0002BFFA
 		[global::Cpp2ILInjected.Token(Token = "0x6004E64")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8DF384", Offset = "0x8DF384", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -38,7 +36,6 @@ namespace Terraria.GameContent.UI
 			throw null;
 		}
 
-		// Token: 0x0600426D RID: 17005 RVA: 0x0002DDFD File Offset: 0x0002BFFD
 		[global::Cpp2ILInjected.Token(Token = "0x6004E65")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8DF430", Offset = "0x8DF430", Length = "0x2E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -58,7 +55,6 @@ namespace Terraria.GameContent.UI
 			throw null;
 		}
 
-		// Token: 0x0600426E RID: 17006 RVA: 0x0002DE00 File Offset: 0x0002C000
 		[global::Cpp2ILInjected.Token(Token = "0x6004E66")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8DF718", Offset = "0x8DF718", Length = "0x50C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +116,6 @@ namespace Terraria.GameContent.UI
 			throw null;
 		}
 
-		// Token: 0x0600426F RID: 17007 RVA: 0x0002DE03 File Offset: 0x0002C003
 		[global::Cpp2ILInjected.Token(Token = "0x6004E67")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8DFC24", Offset = "0x8DFC24", Length = "0x2D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -143,17 +138,14 @@ namespace Terraria.GameContent.UI
 			throw null;
 		}
 
-		// Token: 0x04006E24 RID: 28196
 		[global::Cpp2ILInjected.Token(Token = "0x40086F6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public float CurrencyDrawScale;
 
-		// Token: 0x04006E25 RID: 28197
 		[global::Cpp2ILInjected.Token(Token = "0x40086F7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public string CurrencyTextKey;
 
-		// Token: 0x04006E26 RID: 28198
 		[global::Cpp2ILInjected.Token(Token = "0x40086F8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		public Color CurrencyTextColor;

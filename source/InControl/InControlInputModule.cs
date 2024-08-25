@@ -8,14 +8,10 @@ using UnityEngine.Serialization;
 
 namespace InControl
 {
-	// Token: 0x02000036 RID: 54
 	[AddComponentMenu("Event/InControl Input Module")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000038")]
 	public class InControlInputModule : PointerInputModule
 	{
-		// Token: 0x170000E6 RID: 230
-		// (get) Token: 0x060002A7 RID: 679 RVA: 0x00002840 File Offset: 0x00000A40
-		// (set) Token: 0x060002A8 RID: 680 RVA: 0x00002843 File Offset: 0x00000A43
 		[global::Cpp2ILInjected.Token(Token = "0x170000E6")]
 		public PlayerAction SubmitAction
 		{
@@ -37,9 +33,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000E7 RID: 231
-		// (get) Token: 0x060002A9 RID: 681 RVA: 0x00002846 File Offset: 0x00000A46
-		// (set) Token: 0x060002AA RID: 682 RVA: 0x00002849 File Offset: 0x00000A49
 		[global::Cpp2ILInjected.Token(Token = "0x170000E7")]
 		public PlayerAction CancelAction
 		{
@@ -61,9 +54,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000E8 RID: 232
-		// (get) Token: 0x060002AB RID: 683 RVA: 0x0000284C File Offset: 0x00000A4C
-		// (set) Token: 0x060002AC RID: 684 RVA: 0x0000284F File Offset: 0x00000A4F
 		[global::Cpp2ILInjected.Token(Token = "0x170000E8")]
 		public PlayerTwoAxisAction MoveAction
 		{
@@ -85,7 +75,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x060002AD RID: 685 RVA: 0x00002852 File Offset: 0x00000A52
 		[global::Cpp2ILInjected.Token(Token = "0x60002AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1992A54", Offset = "0x1992A54", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +88,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002AE RID: 686 RVA: 0x00002855 File Offset: 0x00000A55
 		[global::Cpp2ILInjected.Token(Token = "0x60002AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1992AF0", Offset = "0x1992AF0", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -109,7 +97,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002AF RID: 687 RVA: 0x00002858 File Offset: 0x00000A58
 		[global::Cpp2ILInjected.Token(Token = "0x60002B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1992B20", Offset = "0x1992B20", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -120,7 +107,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002B0 RID: 688 RVA: 0x0000285B File Offset: 0x00000A5B
 		[global::Cpp2ILInjected.Token(Token = "0x60002B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1992B50", Offset = "0x1992B50", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -137,7 +123,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002B1 RID: 689 RVA: 0x0000285E File Offset: 0x00000A5E
 		[global::Cpp2ILInjected.Token(Token = "0x60002B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1992F90", Offset = "0x1992F90", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -160,7 +145,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002B2 RID: 690 RVA: 0x00002861 File Offset: 0x00000A61
 		[global::Cpp2ILInjected.Token(Token = "0x60002B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1993054", Offset = "0x1993054", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -174,7 +158,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002B3 RID: 691 RVA: 0x00002864 File Offset: 0x00000A64
 		[global::Cpp2ILInjected.Token(Token = "0x60002B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1993580", Offset = "0x1993580", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -202,7 +185,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002B4 RID: 692 RVA: 0x00002867 File Offset: 0x00000A67
 		[global::Cpp2ILInjected.Token(Token = "0x60002B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19933A8", Offset = "0x19933A8", Length = "0x1D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -225,7 +207,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002B5 RID: 693 RVA: 0x0000286A File Offset: 0x00000A6A
 		[global::Cpp2ILInjected.Token(Token = "0x60002B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19931F4", Offset = "0x19931F4", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -255,7 +236,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002B6 RID: 694 RVA: 0x0000286D File Offset: 0x00000A6D
 		[global::Cpp2ILInjected.Token(Token = "0x60002B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1993DFC", Offset = "0x1993DFC", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -277,7 +257,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002B7 RID: 695 RVA: 0x00002870 File Offset: 0x00000A70
 		[global::Cpp2ILInjected.Token(Token = "0x60002B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1993EF8", Offset = "0x1993EF8", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -294,7 +273,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002B8 RID: 696 RVA: 0x00002873 File Offset: 0x00000A73
 		[global::Cpp2ILInjected.Token(Token = "0x60002B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1992C44", Offset = "0x1992C44", Length = "0x234")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -317,9 +295,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x170000E9 RID: 233
-		// (get) Token: 0x060002BA RID: 698 RVA: 0x00002879 File Offset: 0x00000A79
-		// (set) Token: 0x060002B9 RID: 697 RVA: 0x00002876 File Offset: 0x00000A76
 		[global::Cpp2ILInjected.Token(Token = "0x170000E9")]
 		public InputDevice Device
 		{
@@ -345,8 +320,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000EA RID: 234
-		// (get) Token: 0x060002BB RID: 699 RVA: 0x0000287C File Offset: 0x00000A7C
 		[global::Cpp2ILInjected.Token(Token = "0x170000EA")]
 		private InputControl SubmitButton
 		{
@@ -361,8 +334,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000EB RID: 235
-		// (get) Token: 0x060002BC RID: 700 RVA: 0x0000287F File Offset: 0x00000A7F
 		[global::Cpp2ILInjected.Token(Token = "0x170000EB")]
 		private InputControl CancelButton
 		{
@@ -377,7 +348,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x060002BD RID: 701 RVA: 0x00002882 File Offset: 0x00000A82
 		[global::Cpp2ILInjected.Token(Token = "0x60002BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1993DC4", Offset = "0x1993DC4", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -388,8 +358,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x170000EC RID: 236
-		// (get) Token: 0x060002BE RID: 702 RVA: 0x00002885 File Offset: 0x00000A85
 		[global::Cpp2ILInjected.Token(Token = "0x170000EC")]
 		private bool VectorIsPressed
 		{
@@ -406,8 +374,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000ED RID: 237
-		// (get) Token: 0x060002BF RID: 703 RVA: 0x00002888 File Offset: 0x00000A88
 		[global::Cpp2ILInjected.Token(Token = "0x170000ED")]
 		private bool VectorIsReleased
 		{
@@ -423,8 +389,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000EE RID: 238
-		// (get) Token: 0x060002C0 RID: 704 RVA: 0x0000288B File Offset: 0x00000A8B
 		[global::Cpp2ILInjected.Token(Token = "0x170000EE")]
 		private bool VectorHasChanged
 		{
@@ -438,8 +402,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000EF RID: 239
-		// (get) Token: 0x060002C1 RID: 705 RVA: 0x0000288E File Offset: 0x00000A8E
 		[global::Cpp2ILInjected.Token(Token = "0x170000EF")]
 		private bool VectorWasPressed
 		{
@@ -457,8 +419,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000F0 RID: 240
-		// (get) Token: 0x060002C2 RID: 706 RVA: 0x00002891 File Offset: 0x00000A91
 		[global::Cpp2ILInjected.Token(Token = "0x170000F0")]
 		private bool SubmitWasPressed
 		{
@@ -472,8 +432,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000F1 RID: 241
-		// (get) Token: 0x060002C3 RID: 707 RVA: 0x00002894 File Offset: 0x00000A94
 		[global::Cpp2ILInjected.Token(Token = "0x170000F1")]
 		private bool SubmitWasReleased
 		{
@@ -487,8 +445,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000F2 RID: 242
-		// (get) Token: 0x060002C4 RID: 708 RVA: 0x00002897 File Offset: 0x00000A97
 		[global::Cpp2ILInjected.Token(Token = "0x170000F2")]
 		private bool CancelWasPressed
 		{
@@ -502,8 +458,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000F3 RID: 243
-		// (get) Token: 0x060002C5 RID: 709 RVA: 0x0000289A File Offset: 0x00000A9A
 		[global::Cpp2ILInjected.Token(Token = "0x170000F3")]
 		private bool MouseHasMoved
 		{
@@ -517,8 +471,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000F4 RID: 244
-		// (get) Token: 0x060002C6 RID: 710 RVA: 0x0000289D File Offset: 0x00000A9D
 		[global::Cpp2ILInjected.Token(Token = "0x170000F4")]
 		private bool MouseButtonIsPressed
 		{
@@ -532,7 +484,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x060002C7 RID: 711 RVA: 0x000028A0 File Offset: 0x00000AA0
 		[global::Cpp2ILInjected.Token(Token = "0x60002C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19930B8", Offset = "0x19930B8", Length = "0x13C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -555,7 +506,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002C8 RID: 712 RVA: 0x000028A3 File Offset: 0x00000AA3
 		[global::Cpp2ILInjected.Token(Token = "0x60002C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19936B0", Offset = "0x19936B0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -565,7 +515,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002C9 RID: 713 RVA: 0x000028A6 File Offset: 0x00000AA6
 		[global::Cpp2ILInjected.Token(Token = "0x60002CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1994158", Offset = "0x1994158", Length = "0x27C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -587,7 +536,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002CA RID: 714 RVA: 0x000028A9 File Offset: 0x00000AA9
 		[global::Cpp2ILInjected.Token(Token = "0x60002CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19943D4", Offset = "0x19943D4", Length = "0x62C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -636,7 +584,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060002CB RID: 715 RVA: 0x000028AC File Offset: 0x00000AAC
 		[global::Cpp2ILInjected.Token(Token = "0x60002CC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19936B8", Offset = "0x19936B8", Length = "0x6EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -683,145 +630,116 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x04000282 RID: 642
 		[global::Cpp2ILInjected.Token(Token = "0x4000289")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		public InControlInputModule.Button submitButton;
 
-		// Token: 0x04000283 RID: 643
 		[global::Cpp2ILInjected.Token(Token = "0x400028A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x64")]
 		public InControlInputModule.Button cancelButton;
 
-		// Token: 0x04000284 RID: 644
 		[Range(0.1f, 0.9f)]
 		[global::Cpp2ILInjected.Token(Token = "0x400028B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		public float analogMoveThreshold;
 
-		// Token: 0x04000285 RID: 645
 		[global::Cpp2ILInjected.Token(Token = "0x400028C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x6C")]
 		public float moveRepeatFirstDuration;
 
-		// Token: 0x04000286 RID: 646
 		[global::Cpp2ILInjected.Token(Token = "0x400028D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		public float moveRepeatDelayDuration;
 
-		// Token: 0x04000287 RID: 647
 		[FormerlySerializedAs("allowMobileDevice")]
 		[global::Cpp2ILInjected.Token(Token = "0x400028E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x74")]
 		public bool forceModuleActive;
 
-		// Token: 0x04000288 RID: 648
 		[global::Cpp2ILInjected.Token(Token = "0x400028F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x75")]
 		public bool allowMouseInput;
 
-		// Token: 0x04000289 RID: 649
 		[global::Cpp2ILInjected.Token(Token = "0x4000290")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x76")]
 		public bool focusOnMouseHover;
 
-		// Token: 0x0400028A RID: 650
 		[global::Cpp2ILInjected.Token(Token = "0x4000291")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x77")]
 		public bool allowTouchInput;
 
-		// Token: 0x0400028B RID: 651
 		[global::Cpp2ILInjected.Token(Token = "0x4000292")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		private InputDevice inputDevice;
 
-		// Token: 0x0400028C RID: 652
 		[global::Cpp2ILInjected.Token(Token = "0x4000293")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 		private Vector3 thisMousePosition;
 
-		// Token: 0x0400028D RID: 653
 		[global::Cpp2ILInjected.Token(Token = "0x4000294")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8C")]
 		private Vector3 lastMousePosition;
 
-		// Token: 0x0400028E RID: 654
 		[global::Cpp2ILInjected.Token(Token = "0x4000295")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		private Vector2 thisVectorState;
 
-		// Token: 0x0400028F RID: 655
 		[global::Cpp2ILInjected.Token(Token = "0x4000296")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 		private Vector2 lastVectorState;
 
-		// Token: 0x04000290 RID: 656
 		[global::Cpp2ILInjected.Token(Token = "0x4000297")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 		private bool thisSubmitState;
 
-		// Token: 0x04000291 RID: 657
 		[global::Cpp2ILInjected.Token(Token = "0x4000298")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA9")]
 		private bool lastSubmitState;
 
-		// Token: 0x04000292 RID: 658
 		[global::Cpp2ILInjected.Token(Token = "0x4000299")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xAA")]
 		private bool thisCancelState;
 
-		// Token: 0x04000293 RID: 659
 		[global::Cpp2ILInjected.Token(Token = "0x400029A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xAB")]
 		private bool lastCancelState;
 
-		// Token: 0x04000294 RID: 660
 		[global::Cpp2ILInjected.Token(Token = "0x400029B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xAC")]
 		private bool moveWasRepeated;
 
-		// Token: 0x04000295 RID: 661
 		[global::Cpp2ILInjected.Token(Token = "0x400029C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 		private float nextMoveRepeatTime;
 
-		// Token: 0x04000296 RID: 662
 		[global::Cpp2ILInjected.Token(Token = "0x400029D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 		private TwoAxisInputControl direction;
 
-		// Token: 0x04000297 RID: 663
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400029E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC0")]
 		private PlayerAction <SubmitAction>k__BackingField;
 
-		// Token: 0x04000298 RID: 664
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400029F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC8")]
 		private PlayerAction <CancelAction>k__BackingField;
 
-		// Token: 0x04000299 RID: 665
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40002A0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xD0")]
 		private PlayerTwoAxisAction <MoveAction>k__BackingField;
 
-		// Token: 0x020001EC RID: 492
 		[global::Cpp2ILInjected.Token(Token = "0x2000039")]
 		public enum Button
 		{
-			// Token: 0x040003DA RID: 986
 			[global::Cpp2ILInjected.Token(Token = "0x40002A2")]
 			Action1 = 19,
-			// Token: 0x040003DB RID: 987
 			[global::Cpp2ILInjected.Token(Token = "0x40002A3")]
 			Action2,
-			// Token: 0x040003DC RID: 988
 			[global::Cpp2ILInjected.Token(Token = "0x40002A4")]
 			Action3,
-			// Token: 0x040003DD RID: 989
 			[global::Cpp2ILInjected.Token(Token = "0x40002A5")]
 			Action4
 		}

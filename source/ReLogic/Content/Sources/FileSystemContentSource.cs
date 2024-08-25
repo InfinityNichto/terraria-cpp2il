@@ -8,13 +8,9 @@ using Terraria.IO;
 
 namespace ReLogic.Content.Sources
 {
-	// Token: 0x0200074B RID: 1867
 	[global::Cpp2ILInjected.Token(Token = "0x2000B4D")]
 	public class FileSystemContentSource : IContentSource
 	{
-		// Token: 0x17000820 RID: 2080
-		// (get) Token: 0x06004761 RID: 18273 RVA: 0x0002EBD7 File Offset: 0x0002CDD7
-		// (set) Token: 0x06004762 RID: 18274 RVA: 0x0002EBDA File Offset: 0x0002CDDA
 		[global::Cpp2ILInjected.Token(Token = "0x17000925")]
 		public IContentValidator ContentValidator
 		{
@@ -36,8 +32,6 @@ namespace ReLogic.Content.Sources
 			}
 		}
 
-		// Token: 0x17000821 RID: 2081
-		// (get) Token: 0x06004763 RID: 18275 RVA: 0x0002EBDD File Offset: 0x0002CDDD
 		[global::Cpp2ILInjected.Token(Token = "0x17000926")]
 		public int FileCount
 		{
@@ -52,7 +46,6 @@ namespace ReLogic.Content.Sources
 			}
 		}
 
-		// Token: 0x06004764 RID: 18276 RVA: 0x0002EBE0 File Offset: 0x0002CDE0
 		[global::Cpp2ILInjected.Token(Token = "0x6005422")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9477E8", Offset = "0x9477E8", Length = "0x18C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +69,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004765 RID: 18277 RVA: 0x0002EBE3 File Offset: 0x0002CDE3
 		[global::Cpp2ILInjected.Token(Token = "0x6005423")]
 		[global::Cpp2ILInjected.Address(RVA = "0x947AD8", Offset = "0x947AD8", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -88,7 +80,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004766 RID: 18278 RVA: 0x0002EBE6 File Offset: 0x0002CDE6
 		[global::Cpp2ILInjected.Token(Token = "0x6005424")]
 		[global::Cpp2ILInjected.Address(RVA = "0x947B48", Offset = "0x947B48", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -110,7 +101,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004767 RID: 18279 RVA: 0x0002EBE9 File Offset: 0x0002CDE9
 		[global::Cpp2ILInjected.Token(Token = "0x6005425")]
 		[global::Cpp2ILInjected.Address(RVA = "0x947C2C", Offset = "0x947C2C", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +123,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004768 RID: 18280 RVA: 0x0002EBEC File Offset: 0x0002CDEC
 		[global::Cpp2ILInjected.Token(Token = "0x6005426")]
 		[global::Cpp2ILInjected.Address(RVA = "0x947974", Offset = "0x947974", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -169,7 +158,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x06004769 RID: 18281 RVA: 0x0002EBEF File Offset: 0x0002CDEF
 		[global::Cpp2ILInjected.Token(Token = "0x6005427")]
 		[global::Cpp2ILInjected.Address(RVA = "0x947D54", Offset = "0x947D54", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -183,7 +171,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x0600476A RID: 18282 RVA: 0x0002EBF2 File Offset: 0x0002CDF2
 		[global::Cpp2ILInjected.Token(Token = "0x6005428")]
 		[global::Cpp2ILInjected.Address(RVA = "0x947D5C", Offset = "0x947D5C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -193,7 +180,6 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x0600476B RID: 18283 RVA: 0x0002EBF5 File Offset: 0x0002CDF5
 		[global::Cpp2ILInjected.Token(Token = "0x6005429")]
 		[global::Cpp2ILInjected.Address(RVA = "0x947D64", Offset = "0x947D64", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -203,23 +189,19 @@ namespace ReLogic.Content.Sources
 			throw null;
 		}
 
-		// Token: 0x04007372 RID: 29554
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008D14")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private IContentValidator <ContentValidator>k__BackingField;
 
-		// Token: 0x04007373 RID: 29555
 		[global::Cpp2ILInjected.Token(Token = "0x4008D15")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly string _basePath;
 
-		// Token: 0x04007374 RID: 29556
 		[global::Cpp2ILInjected.Token(Token = "0x4008D16")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private readonly Dictionary<string, string> _nameToAbsolutePath;
 
-		// Token: 0x04007375 RID: 29557
 		[global::Cpp2ILInjected.Token(Token = "0x4008D17")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private readonly RejectedAssetCollection _rejections;

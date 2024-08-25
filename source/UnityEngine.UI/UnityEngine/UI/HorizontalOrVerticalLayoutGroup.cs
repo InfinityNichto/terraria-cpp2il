@@ -5,14 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x0200001E RID: 30
 	[ExecuteAlways]
 	[global::Cpp2ILInjected.Token(Token = "0x2000045")]
 	public abstract class HorizontalOrVerticalLayoutGroup : LayoutGroup
 	{
-		// Token: 0x1700009F RID: 159
-		// (get) Token: 0x06000256 RID: 598 RVA: 0x0000272B File Offset: 0x0000092B
-		// (set) Token: 0x06000257 RID: 599 RVA: 0x0000272E File Offset: 0x0000092E
 		[global::Cpp2ILInjected.Token(Token = "0x170000AE")]
 		public float spacing
 		{
@@ -38,9 +34,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000A0 RID: 160
-		// (get) Token: 0x06000258 RID: 600 RVA: 0x00002731 File Offset: 0x00000931
-		// (set) Token: 0x06000259 RID: 601 RVA: 0x00002734 File Offset: 0x00000934
 		[global::Cpp2ILInjected.Token(Token = "0x170000AF")]
 		public bool childForceExpandWidth
 		{
@@ -62,9 +55,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000A1 RID: 161
-		// (get) Token: 0x0600025A RID: 602 RVA: 0x00002737 File Offset: 0x00000937
-		// (set) Token: 0x0600025B RID: 603 RVA: 0x0000273A File Offset: 0x0000093A
 		[global::Cpp2ILInjected.Token(Token = "0x170000B0")]
 		public bool childForceExpandHeight
 		{
@@ -86,9 +76,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000A2 RID: 162
-		// (get) Token: 0x0600025C RID: 604 RVA: 0x0000273D File Offset: 0x0000093D
-		// (set) Token: 0x0600025D RID: 605 RVA: 0x00002740 File Offset: 0x00000940
 		[global::Cpp2ILInjected.Token(Token = "0x170000B1")]
 		public bool childControlWidth
 		{
@@ -110,9 +97,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000A3 RID: 163
-		// (get) Token: 0x0600025E RID: 606 RVA: 0x00002743 File Offset: 0x00000943
-		// (set) Token: 0x0600025F RID: 607 RVA: 0x00002746 File Offset: 0x00000946
 		[global::Cpp2ILInjected.Token(Token = "0x170000B2")]
 		public bool childControlHeight
 		{
@@ -134,9 +118,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000A4 RID: 164
-		// (get) Token: 0x06000260 RID: 608 RVA: 0x00002749 File Offset: 0x00000949
-		// (set) Token: 0x06000261 RID: 609 RVA: 0x0000274C File Offset: 0x0000094C
 		[global::Cpp2ILInjected.Token(Token = "0x170000B3")]
 		public bool childScaleWidth
 		{
@@ -158,9 +139,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000A5 RID: 165
-		// (get) Token: 0x06000262 RID: 610 RVA: 0x0000274F File Offset: 0x0000094F
-		// (set) Token: 0x06000263 RID: 611 RVA: 0x00002752 File Offset: 0x00000952
 		[global::Cpp2ILInjected.Token(Token = "0x170000B4")]
 		public bool childScaleHeight
 		{
@@ -182,9 +160,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x170000A6 RID: 166
-		// (get) Token: 0x06000264 RID: 612 RVA: 0x00002755 File Offset: 0x00000955
-		// (set) Token: 0x06000265 RID: 613 RVA: 0x00002758 File Offset: 0x00000958
 		[global::Cpp2ILInjected.Token(Token = "0x170000B5")]
 		public bool reverseArrangement
 		{
@@ -206,7 +181,6 @@ namespace UnityEngine.UI
 			}
 		}
 
-		// Token: 0x06000266 RID: 614 RVA: 0x0000275B File Offset: 0x0000095B
 		[global::Cpp2ILInjected.Token(Token = "0x60002A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC9548", Offset = "0x1FC9548", Length = "0x288")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -242,7 +216,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000267 RID: 615 RVA: 0x0000275E File Offset: 0x0000095E
 		[global::Cpp2ILInjected.Token(Token = "0x60002A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC97E8", Offset = "0x1FC97E8", Length = "0x600")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -300,7 +273,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000268 RID: 616 RVA: 0x00002761 File Offset: 0x00000961
 		[global::Cpp2ILInjected.Token(Token = "0x60002A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCA114", Offset = "0x1FCA114", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -329,7 +301,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000269 RID: 617 RVA: 0x00002764 File Offset: 0x00000964
 		[global::Cpp2ILInjected.Token(Token = "0x60002A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FC951C", Offset = "0x1FC951C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -339,49 +310,41 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x040000DC RID: 220
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000165")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		protected float m_Spacing;
 
-		// Token: 0x040000DD RID: 221
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000166")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 		protected bool m_ChildForceExpandWidth;
 
-		// Token: 0x040000DE RID: 222
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000167")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5D")]
 		protected bool m_ChildForceExpandHeight;
 
-		// Token: 0x040000DF RID: 223
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000168")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5E")]
 		protected bool m_ChildControlWidth;
 
-		// Token: 0x040000E0 RID: 224
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000169")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5F")]
 		protected bool m_ChildControlHeight;
 
-		// Token: 0x040000E1 RID: 225
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400016A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		protected bool m_ChildScaleWidth;
 
-		// Token: 0x040000E2 RID: 226
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400016B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x61")]
 		protected bool m_ChildScaleHeight;
 
-		// Token: 0x040000E3 RID: 227
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400016C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x62")]

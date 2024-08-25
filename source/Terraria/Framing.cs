@@ -3,18 +3,20 @@ using System.Runtime.CompilerServices;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
 using Terraria.DataStructures;
+using Terraria.Enums;
 using Terraria.GameContent;
 using Terraria.GameContent.Drawing;
+using Terraria.GameContent.Events;
+using Terraria.GameContent.Tile_Entities;
 using Terraria.Utilities;
 
 namespace Terraria
 {
-	// Token: 0x0200032D RID: 813
 	[global::Cpp2ILInjected.Token(Token = "0x2000431")]
 	public class Framing
 	{
-		// Token: 0x060025FE RID: 9726 RVA: 0x00028C49 File Offset: 0x00026E49
 		[global::Cpp2ILInjected.Token(Token = "0x6002812")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D17BC", Offset = "0x10D17BC", Length = "0xBAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -64,7 +66,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x060025FF RID: 9727 RVA: 0x00028C4C File Offset: 0x00026E4C
 		[global::Cpp2ILInjected.Token(Token = "0x6002813")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D282C", Offset = "0x10D282C", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Framing), Member = "SelfFrame8Way", MemberParameters = new object[]
@@ -82,7 +83,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002600 RID: 9728 RVA: 0x00028C4F File Offset: 0x00026E4F
 		[global::Cpp2ILInjected.Token(Token = "0x6002814")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D2368", Offset = "0x10D2368", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -99,7 +99,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002601 RID: 9729 RVA: 0x00028C52 File Offset: 0x00026E52
 		[global::Cpp2ILInjected.Token(Token = "0x6002815")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D24EC", Offset = "0x10D24EC", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -116,7 +115,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002602 RID: 9730 RVA: 0x00028C55 File Offset: 0x00026E55
 		[global::Cpp2ILInjected.Token(Token = "0x6002816")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D2664", Offset = "0x10D2664", Length = "0x1C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +131,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002603 RID: 9731 RVA: 0x00028C58 File Offset: 0x00026E58
 		[global::Cpp2ILInjected.Token(Token = "0x6002817")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D288C", Offset = "0x10D288C", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -151,7 +148,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002604 RID: 9732 RVA: 0x00028C5B File Offset: 0x00026E5B
 		[global::Cpp2ILInjected.Token(Token = "0x6002818")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D29A8", Offset = "0x10D29A8", Length = "0x538")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -193,7 +189,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002605 RID: 9733 RVA: 0x00028C5E File Offset: 0x00026E5E
 		[global::Cpp2ILInjected.Token(Token = "0x6002819")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D2FD4", Offset = "0x10D2FD4", Length = "0x5D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -262,7 +257,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002606 RID: 9734 RVA: 0x00028C61 File Offset: 0x00026E61
 		[global::Cpp2ILInjected.Token(Token = "0x600281A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D35A8", Offset = "0x10D35A8", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -287,7 +281,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002607 RID: 9735 RVA: 0x00028C64 File Offset: 0x00026E64
 		[global::Cpp2ILInjected.Token(Token = "0x600281B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D3644", Offset = "0x10D3644", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfo), Member = "BuildInfoAccs", ReturnType = typeof(void))]
@@ -340,7 +333,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002608 RID: 9736 RVA: 0x00028C67 File Offset: 0x00026E67
 		[global::Cpp2ILInjected.Token(Token = "0x600281C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D365C", Offset = "0x10D365C", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -355,9 +347,429 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002609 RID: 9737 RVA: 0x00028C6A File Offset: 0x00026E6A
 		[global::Cpp2ILInjected.Token(Token = "0x600281D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D2EE0", Offset = "0x10D2EE0", Length = "0xEC")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Chest), Member = "Unlock", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Chest), Member = "Lock", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Chest), Member = "NearOtherChests", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HitTile), Member = "DrawFreshAnimations", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_007_TownEntities", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_007_TownEntities_GetWalkPrediction", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(bool),
+			typeof(int),
+			typeof(int),
+			typeof(ref bool),
+			typeof(ref bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "NPCCanStickToWalls", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_003_Fighters", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_110_Betsy", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_107_ImprovedWalkers", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "FindFrame", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UseQuickMineCartHook", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "UseQuickMineCartSnapHook", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "QuickMinecart", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "QuickMinecartSnap", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "QuickGrapple", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TileInteractionsUse", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TryLandingOnDetonator", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "PlaceThing_LockChest", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "DamageTileWithShovel", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(Item),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TryPlacingAGolfBallNearANearbyTee", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "CheckForGoodTeleportationSpot", MemberParameters = new object[]
+		{
+			typeof(ref bool),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(Player.RandomTeleportationAttemptSettings)
+		}, ReturnType = typeof(Vector2))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_016", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "CreateGroundExplosion", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_001", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_026", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_066", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_135_OgreStomp", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "CreateImpactExplosion", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Vector2),
+			typeof(ref Point),
+			typeof(ref Point),
+			typeof(int),
+			typeof(ref bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Kill", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Collision), Member = "GetWaterLineIterate", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ref float)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Framing), Member = "SelfFrame8Way", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(Tile),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Framing), Member = "GetTileSafely", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(Tile))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Framing), Member = "GetTileSafely", MemberParameters = new object[] { typeof(Point) }, ReturnType = typeof(Tile))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Framing), Member = "GetTileSafely", MemberParameters = new object[] { typeof(Point16) }, ReturnType = typeof(Tile))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mount), Member = "EmitGolfCartWheelDust", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(Vector2)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileObject), Member = "Place", MemberParameters = new object[] { typeof(TileObject) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileObject), Member = "CanPlace", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(ref TileObject),
+			typeof(bool),
+			typeof(int?)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileObject), Member = "DrawPreview", MemberParameters = new object[]
+		{
+			typeof(SpriteBatch),
+			typeof(TileObjectPreviewData),
+			typeof(Vector2)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Wiring), Member = "CheckLogicGate", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "IsTileALeafyTreeTop", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "Check2xX", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ushort)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "ToggleGemLock", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckOasisPlant", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckSuper", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "Check2x2", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "Place2x2", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ushort),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "ShiftTrapdoor", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckTallGate", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "ShiftTallGate", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "GetTopLeftAndStyles", MemberParameters = new object[]
+		{
+			typeof(ref int),
+			typeof(ref int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(Point))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckTileFrames", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckTileAnchors", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(int),
+			typeof(AnchorType)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CanPlaceSink", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ushort),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckStinkbugBlocker", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckGnome", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "PlaceUnderwaterPlant", MemberParameters = new object[]
+		{
+			typeof(ushort),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CanUnderwaterPlantGrowHere", MemberParameters = new object[]
+		{
+			typeof(ushort),
+			typeof(int),
+			typeof(int),
+			typeof(bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckUnderwaterPlant", MemberParameters = new object[]
+		{
+			typeof(ushort),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "CheckLilyPad", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "ReplaceTile", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ushort),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "GetVineTop", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "GetTreeBottom", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ref int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "KillTile", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "UpdateWorld_UndergroundTile", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerSittingHelper), Member = "GetSittingTargetInfo", MemberParameters = new object[]
+		{
+			typeof(Player),
+			typeof(int),
+			typeof(int),
+			typeof(ref int),
+			typeof(ref Vector2),
+			typeof(ref Vector2),
+			typeof(ref ExtraSeatInfo)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerSleepingHelper), Member = "GetSleepingTargetInfo", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(ref int),
+			typeof(ref Vector2),
+			typeof(ref Vector2)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TeleportPylonsSystem), Member = "HandleTeleportRequest", MemberParameters = new object[]
+		{
+			typeof(TeleportPylonInfo),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEDisplayDoll), Member = "Framing_CheckTile", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEDisplayDoll), Member = "Draw", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEHatRack), Member = "Framing_CheckTile", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEHatRack), Member = "Draw", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TETeleportationPylon), Member = "Framing_CheckTile", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TEWeaponsRack), Member = "Framing_CheckTile", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileDrawing), Member = "GetTileDrawData", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(TileDrawInfo),
+			typeof(ushort),
+			typeof(ref short),
+			typeof(ref short),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref SpriteEffects),
+			typeof(ref Texture2D),
+			typeof(ref Rectangle),
+			typeof(ref Color)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileDrawing), Member = "GetTileDrawData", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(bool),
+			typeof(ushort),
+			typeof(ref short),
+			typeof(ref short),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref SpriteEffects),
+			typeof(ref Texture2D),
+			typeof(ref Rectangle),
+			typeof(ref Color)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TileDrawing), Member = "GetTileDrawData", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(Tile),
+			typeof(ushort),
+			typeof(ref short),
+			typeof(ref short),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref int),
+			typeof(ref SpriteEffects),
+			typeof(ref Texture2D),
+			typeof(ref Rectangle),
+			typeof(ref Color)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CultistRitual), Member = "CheckFloor", MemberParameters = new object[]
+		{
+			typeof(Vector2),
+			typeof(ref Point[])
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DD2Event), Member = "SummonCrystalDirect", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(int),
+			typeof(int)
+		}, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 181)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(WorldGen), Member = "InWorld", MemberParameters = new object[]
 		{
@@ -376,7 +788,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600260A RID: 9738 RVA: 0x00028C6D File Offset: 0x00026E6D
 		[global::Cpp2ILInjected.Token(Token = "0x600281E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10D367C", Offset = "0x10D367C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -386,43 +797,33 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x04002CEB RID: 11499
 		[global::Cpp2ILInjected.Token(Token = "0x400340C")]
 		private static Point16[][] selfFrame8WayLookup;
 
-		// Token: 0x04002CEC RID: 11500
 		[global::Cpp2ILInjected.Token(Token = "0x400340D")]
 		private static Point16[][] wallFrameLookup;
 
-		// Token: 0x04002CED RID: 11501
 		[global::Cpp2ILInjected.Token(Token = "0x400340E")]
 		private static Point16 frameSize8Way;
 
-		// Token: 0x04002CEE RID: 11502
 		[global::Cpp2ILInjected.Token(Token = "0x400340F")]
 		private static Point16 wallFrameSize;
 
-		// Token: 0x04002CEF RID: 11503
 		[global::Cpp2ILInjected.Token(Token = "0x4003410")]
 		private static Framing.BlockStyle[] blockStyleLookup;
 
-		// Token: 0x04002CF0 RID: 11504
 		[global::Cpp2ILInjected.Token(Token = "0x4003411")]
 		private static int[][] phlebasTileFrameNumberLookup;
 
-		// Token: 0x04002CF1 RID: 11505
 		[global::Cpp2ILInjected.Token(Token = "0x4003412")]
 		private static int[][] lazureTileFrameNumberLookup;
 
-		// Token: 0x04002CF2 RID: 11506
 		[global::Cpp2ILInjected.Token(Token = "0x4003413")]
 		private static int[][] centerWallFrameLookup;
 
-		// Token: 0x0200085E RID: 2142
 		[global::Cpp2ILInjected.Token(Token = "0x2000432")]
 		private struct BlockStyle
 		{
-			// Token: 0x060049DF RID: 18911 RVA: 0x0002F16E File Offset: 0x0002D36E
 			[global::Cpp2ILInjected.Token(Token = "0x600281F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x10D2640", Offset = "0x10D2640", Length = "0x24")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -431,7 +832,6 @@ namespace Terraria
 				throw null;
 			}
 
-			// Token: 0x060049E0 RID: 18912 RVA: 0x0002F171 File Offset: 0x0002D371
 			[global::Cpp2ILInjected.Token(Token = "0x6002820")]
 			[global::Cpp2ILInjected.Address(RVA = "0x10D2FCC", Offset = "0x10D2FCC", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -440,22 +840,18 @@ namespace Terraria
 				throw null;
 			}
 
-			// Token: 0x04007ED7 RID: 32471
 			[global::Cpp2ILInjected.Token(Token = "0x4003414")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public bool top;
 
-			// Token: 0x04007ED8 RID: 32472
 			[global::Cpp2ILInjected.Token(Token = "0x4003415")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x1")]
 			public bool bottom;
 
-			// Token: 0x04007ED9 RID: 32473
 			[global::Cpp2ILInjected.Token(Token = "0x4003416")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x2")]
 			public bool left;
 
-			// Token: 0x04007EDA RID: 32474
 			[global::Cpp2ILInjected.Token(Token = "0x4003417")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x3")]
 			public bool right;

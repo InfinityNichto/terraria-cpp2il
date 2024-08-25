@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x02000095 RID: 149
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000A2")]
 	public class MadCatzCTRLRAndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060005AE RID: 1454 RVA: 0x00003137 File Offset: 0x00001337
 		[global::Cpp2ILInjected.Token(Token = "0x60005CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19D2898", Offset = "0x19D2898", Length = "0x810")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005AF RID: 1455 RVA: 0x0000313A File Offset: 0x0000133A
 		[global::Cpp2ILInjected.Token(Token = "0x60005CC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19D30A8", Offset = "0x19D30A8", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

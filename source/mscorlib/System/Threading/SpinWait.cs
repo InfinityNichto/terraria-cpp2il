@@ -8,12 +8,9 @@ using Internal.Runtime.Augments;
 
 namespace System.Threading
 {
-	// Token: 0x0200017A RID: 378
 	[global::Cpp2ILInjected.Token(Token = "0x20001CD")]
 	public struct SpinWait
 	{
-		// Token: 0x17000158 RID: 344
-		// (get) Token: 0x06000FC3 RID: 4035 RVA: 0x0001719E File Offset: 0x0001539E
 		[global::Cpp2ILInjected.Token(Token = "0x1700018E")]
 		public int Count
 		{
@@ -26,8 +23,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x17000159 RID: 345
-		// (get) Token: 0x06000FC4 RID: 4036 RVA: 0x000171A1 File Offset: 0x000153A1
 		[global::Cpp2ILInjected.Token(Token = "0x1700018F")]
 		public bool NextSpinWillYield
 		{
@@ -53,7 +48,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x06000FC5 RID: 4037 RVA: 0x000171A4 File Offset: 0x000153A4
 		[global::Cpp2ILInjected.Token(Token = "0x60010FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C960C0", Offset = "0x1C960C0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ThreadPoolWorkQueue.QueueSegment), Member = "TryDequeue", MemberParameters = new object[] { typeof(ref IThreadPoolWorkItem) }, ReturnType = typeof(bool))]
@@ -93,7 +87,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FC6 RID: 4038 RVA: 0x000171A7 File Offset: 0x000153A7
 		[global::Cpp2ILInjected.Token(Token = "0x60010FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C95D6C", Offset = "0x1C95D6C", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -112,7 +105,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FC7 RID: 4039 RVA: 0x000171AA File Offset: 0x000153AA
 		[global::Cpp2ILInjected.Token(Token = "0x60010FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C961DC", Offset = "0x1C961DC", Length = "0x1A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -151,7 +143,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FC8 RID: 4040 RVA: 0x000171AD File Offset: 0x000153AD
 		[global::Cpp2ILInjected.Token(Token = "0x60010FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C96380", Offset = "0x1C96380", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Collections.Concurrent.BlockingCollection`1", Member = "TryAddWithNoTimeValidation", MemberParameters = new object[]
@@ -166,7 +157,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FC9 RID: 4041 RVA: 0x000171B0 File Offset: 0x000153B0
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60010FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C96388", Offset = "0x1C96388", Length = "0x84")]
@@ -178,11 +168,9 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x04000723 RID: 1827
 		[global::Cpp2ILInjected.Token(Token = "0x4000924")]
 		internal static readonly int SpinCountforSpinBeforeWait;
 
-		// Token: 0x04000724 RID: 1828
 		[global::Cpp2ILInjected.Token(Token = "0x4000925")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private int _count;

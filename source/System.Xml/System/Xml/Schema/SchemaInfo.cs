@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x02000103 RID: 259
 	[global::Cpp2ILInjected.Token(Token = "0x2000133")]
 	internal class SchemaInfo : IDtdInfo
 	{
-		// Token: 0x060009EE RID: 2542 RVA: 0x00004C0D File Offset: 0x00002E0D
 		[global::Cpp2ILInjected.Token(Token = "0x6000A85")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCB74C", Offset = "0x1DCB74C", Length = "0x1A4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DtdParser), Member = "Initialize", MemberParameters = new object[] { typeof(IDtdParserAdapter) }, ReturnType = typeof(void))]
@@ -24,8 +22,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x170002CE RID: 718
-		// (set) Token: 0x060009EF RID: 2543 RVA: 0x00004C10 File Offset: 0x00002E10
 		[global::Cpp2ILInjected.Token(Token = "0x170002F4")]
 		public XmlQualifiedName DocTypeName
 		{
@@ -38,8 +34,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002CF RID: 719
-		// (set) Token: 0x060009F0 RID: 2544 RVA: 0x00004C13 File Offset: 0x00002E13
 		[global::Cpp2ILInjected.Token(Token = "0x170002F5")]
 		internal string InternalDtdSubset
 		{
@@ -52,8 +46,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002D0 RID: 720
-		// (get) Token: 0x060009F1 RID: 2545 RVA: 0x00004C16 File Offset: 0x00002E16
 		[global::Cpp2ILInjected.Token(Token = "0x170002F6")]
 		internal Dictionary<XmlQualifiedName, SchemaElementDecl> ElementDecls
 		{
@@ -66,8 +58,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002D1 RID: 721
-		// (get) Token: 0x060009F2 RID: 2546 RVA: 0x00004C19 File Offset: 0x00002E19
 		[global::Cpp2ILInjected.Token(Token = "0x170002F7")]
 		internal Dictionary<XmlQualifiedName, SchemaElementDecl> UndeclaredElementDecls
 		{
@@ -80,8 +70,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002D2 RID: 722
-		// (get) Token: 0x060009F3 RID: 2547 RVA: 0x00004C1C File Offset: 0x00002E1C
 		[global::Cpp2ILInjected.Token(Token = "0x170002F8")]
 		internal Dictionary<XmlQualifiedName, SchemaEntity> GeneralEntities
 		{
@@ -109,8 +97,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002D3 RID: 723
-		// (get) Token: 0x060009F4 RID: 2548 RVA: 0x00004C1F File Offset: 0x00002E1F
 		[global::Cpp2ILInjected.Token(Token = "0x170002F9")]
 		internal Dictionary<XmlQualifiedName, SchemaEntity> ParameterEntities
 		{
@@ -138,9 +124,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002D4 RID: 724
-		// (get) Token: 0x060009F5 RID: 2549 RVA: 0x00004C22 File Offset: 0x00002E22
-		// (set) Token: 0x060009F6 RID: 2550 RVA: 0x00004C25 File Offset: 0x00002E25
 		[global::Cpp2ILInjected.Token(Token = "0x170002FA")]
 		internal SchemaType SchemaType
 		{
@@ -160,8 +143,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002D5 RID: 725
-		// (get) Token: 0x060009F7 RID: 2551 RVA: 0x00004C28 File Offset: 0x00002E28
 		[global::Cpp2ILInjected.Token(Token = "0x170002FB")]
 		internal Dictionary<string, SchemaNotation> Notations
 		{
@@ -189,7 +170,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x060009F8 RID: 2552 RVA: 0x00004C2B File Offset: 0x00002E2B
 		[global::Cpp2ILInjected.Token(Token = "0x6000A8F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCBA88", Offset = "0x1DCBA88", Length = "0x198")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -205,8 +185,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x170002D6 RID: 726
-		// (get) Token: 0x060009F9 RID: 2553 RVA: 0x00004C2E File Offset: 0x00002E2E
 		[global::Cpp2ILInjected.Token(Token = "0x170002FC")]
 		private bool System.Xml.IDtdInfo.HasDefaultAttributes
 		{
@@ -219,8 +197,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002D7 RID: 727
-		// (get) Token: 0x060009FA RID: 2554 RVA: 0x00004C31 File Offset: 0x00002E31
 		[global::Cpp2ILInjected.Token(Token = "0x170002FD")]
 		private bool System.Xml.IDtdInfo.HasNonCDataAttributes
 		{
@@ -233,7 +209,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x060009FB RID: 2555 RVA: 0x00004C34 File Offset: 0x00002E34
 		[global::Cpp2ILInjected.Token(Token = "0x6000A92")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCBC30", Offset = "0x1DCBC30", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -253,7 +228,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x060009FC RID: 2556 RVA: 0x00004C37 File Offset: 0x00002E37
 		[global::Cpp2ILInjected.Token(Token = "0x6000A93")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DCBCEC", Offset = "0x1DCBCEC", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -270,8 +244,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x170002D8 RID: 728
-		// (get) Token: 0x060009FD RID: 2557 RVA: 0x00004C3A File Offset: 0x00002E3A
 		[global::Cpp2ILInjected.Token(Token = "0x170002FE")]
 		private XmlQualifiedName System.Xml.IDtdInfo.Name
 		{
@@ -284,8 +256,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170002D9 RID: 729
-		// (get) Token: 0x060009FE RID: 2558 RVA: 0x00004C3D File Offset: 0x00002E3D
 		[global::Cpp2ILInjected.Token(Token = "0x170002FF")]
 		private string System.Xml.IDtdInfo.InternalDtdSubset
 		{
@@ -298,67 +268,54 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x040003C4 RID: 964
 		[global::Cpp2ILInjected.Token(Token = "0x400054C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Dictionary<XmlQualifiedName, SchemaElementDecl> elementDecls;
 
-		// Token: 0x040003C5 RID: 965
 		[global::Cpp2ILInjected.Token(Token = "0x400054D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Dictionary<XmlQualifiedName, SchemaElementDecl> undeclaredElementDecls;
 
-		// Token: 0x040003C6 RID: 966
 		[global::Cpp2ILInjected.Token(Token = "0x400054E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Dictionary<XmlQualifiedName, SchemaEntity> generalEntities;
 
-		// Token: 0x040003C7 RID: 967
 		[global::Cpp2ILInjected.Token(Token = "0x400054F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private Dictionary<XmlQualifiedName, SchemaEntity> parameterEntities;
 
-		// Token: 0x040003C8 RID: 968
 		[global::Cpp2ILInjected.Token(Token = "0x4000550")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private XmlQualifiedName docTypeName;
 
-		// Token: 0x040003C9 RID: 969
 		[global::Cpp2ILInjected.Token(Token = "0x4000551")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private string internalDtdSubset;
 
-		// Token: 0x040003CA RID: 970
 		[global::Cpp2ILInjected.Token(Token = "0x4000552")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private bool hasNonCDataAttributes;
 
-		// Token: 0x040003CB RID: 971
 		[global::Cpp2ILInjected.Token(Token = "0x4000553")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x41")]
 		private bool hasDefaultAttributes;
 
-		// Token: 0x040003CC RID: 972
 		[global::Cpp2ILInjected.Token(Token = "0x4000554")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		private Dictionary<string, bool> targetNamespaces;
 
-		// Token: 0x040003CD RID: 973
 		[global::Cpp2ILInjected.Token(Token = "0x4000555")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		private Dictionary<XmlQualifiedName, SchemaAttDef> attributeDecls;
 
-		// Token: 0x040003CE RID: 974
 		[global::Cpp2ILInjected.Token(Token = "0x4000556")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private SchemaType schemaType;
 
-		// Token: 0x040003CF RID: 975
 		[global::Cpp2ILInjected.Token(Token = "0x4000557")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private Dictionary<XmlQualifiedName, SchemaElementDecl> elementDeclsByType;
 
-		// Token: 0x040003D0 RID: 976
 		[global::Cpp2ILInjected.Token(Token = "0x4000558")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private Dictionary<string, SchemaNotation> notations;

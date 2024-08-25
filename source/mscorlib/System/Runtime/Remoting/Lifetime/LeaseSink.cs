@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Lifetime
 {
-	// Token: 0x020002C1 RID: 705
 	[global::Cpp2ILInjected.Token(Token = "0x2000362")]
 	internal class LeaseSink : global::System.Runtime.Remoting.Messaging.IMessageSink
 	{
-		// Token: 0x06001AA4 RID: 6820 RVA: 0x00018FD7 File Offset: 0x000171D7
 		[global::Cpp2ILInjected.Token(Token = "0x6001CCD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B39410", Offset = "0x1B39410", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,7 +17,6 @@ namespace System.Runtime.Remoting.Lifetime
 			throw null;
 		}
 
-		// Token: 0x06001AA5 RID: 6821 RVA: 0x00018FDA File Offset: 0x000171DA
 		[global::Cpp2ILInjected.Token(Token = "0x6001CCE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B39438", Offset = "0x1B39438", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -31,7 +28,6 @@ namespace System.Runtime.Remoting.Lifetime
 			throw null;
 		}
 
-		// Token: 0x06001AA6 RID: 6822 RVA: 0x00018FDD File Offset: 0x000171DD
 		[global::Cpp2ILInjected.Token(Token = "0x6001CCF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B39774", Offset = "0x1B39774", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +39,6 @@ namespace System.Runtime.Remoting.Lifetime
 			throw null;
 		}
 
-		// Token: 0x06001AA7 RID: 6823 RVA: 0x00018FE0 File Offset: 0x000171E0
 		[global::Cpp2ILInjected.Token(Token = "0x6001CD0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B394E8", Offset = "0x1B394E8", Length = "0x28C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -66,7 +61,6 @@ namespace System.Runtime.Remoting.Lifetime
 			throw null;
 		}
 
-		// Token: 0x04000BB1 RID: 2993
 		[global::Cpp2ILInjected.Token(Token = "0x4000E95")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private global::System.Runtime.Remoting.Messaging.IMessageSink _nextSink;

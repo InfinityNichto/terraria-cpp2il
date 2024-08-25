@@ -5,13 +5,11 @@ using UnityEngine;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000A0 RID: 160
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000AD")]
 	public class PlayStation4AndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060005C4 RID: 1476 RVA: 0x00003179 File Offset: 0x00001379
 		[global::Cpp2ILInjected.Token(Token = "0x60005E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19D7FDC", Offset = "0x19D7FDC", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,7 +23,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005C5 RID: 1477 RVA: 0x0000317C File Offset: 0x0000137C
 		[global::Cpp2ILInjected.Token(Token = "0x60005E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19D81B8", Offset = "0x19D81B8", Length = "0x10DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +57,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005C6 RID: 1478 RVA: 0x0000317F File Offset: 0x0000137F
 		[global::Cpp2ILInjected.Token(Token = "0x60005E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19D9294", Offset = "0x19D9294", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

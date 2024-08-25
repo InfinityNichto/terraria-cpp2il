@@ -1,9 +1,0 @@
-<map id="ReLogic.Utilities.SlotId" name="ReLogic.Utilities.SlotId">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,648,212,1041"/>
-<area shape="rect" id="Node000002" href="$db/dce/structReLogic_1_1Utilities_1_1SlotId.html" title=" " alt="" coords="164,192,371,585"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,586,185,633,180,631,196,585"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="372,349,390,363,397,389,394,406,386,419,382,416,389,404,392,389,386,366,369,353"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="44,5,83,71"/>
-<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="64,71,58,192,50,389,50,475,58,585,64,631,59,632,53,586,45,475,44,389,53,192,59,71"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="84,69,158,195,153,198,79,72"/>
-</map>

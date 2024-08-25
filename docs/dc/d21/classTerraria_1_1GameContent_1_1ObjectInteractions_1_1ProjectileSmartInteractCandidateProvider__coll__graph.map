@@ -1,9 +1,0 @@
-<map id="Terraria.GameContent.ObjectInteractions.ProjectileSmartInteractCandidateProvider" name="Terraria.GameContent.ObjectInteractions.ProjectileSmartInteractCandidateProvider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="11,469,288,677"/>
-<area shape="rect" id="Node000002" href="$da/ddc/interfaceTerraria_1_1GameContent_1_1ObjectInteractions_1_1ISmartInteractCandidateProvider.html" title=" " alt="" coords="5,5,283,149"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,163,151,469,146,469,142,163"/>
-<area shape="rect" id="Node000003" href="$d9/d6c/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1ProjectileSmartInteractCandidateProvider.html" title=" " alt="" coords="165,199,443,407"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="205,159,232,197,228,200,201,162"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,408,219,456,215,454,242,406"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="444,280,462,289,469,302,467,312,459,318,456,315,462,309,464,303,458,293,442,285"/>
-</map>

@@ -8,14 +8,12 @@ using UnityEngine.Internal;
 
 namespace UnityEngine
 {
-	// Token: 0x02000086 RID: 134
 	[NativeHeader("Runtime/Input/KeyboardOnScreen.h")]
 	[NativeConditional("ENABLE_ONSCREEN_KEYBOARD")]
 	[NativeHeader("Runtime/Export/TouchScreenKeyboard/TouchScreenKeyboard.bindings.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000093")]
 	public class TouchScreenKeyboard
 	{
-		// Token: 0x06000281 RID: 641
 		[FreeFunction("TouchScreenKeyboard_Destroy", IsThreadSafe = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x600028F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78CC0", Offset = "0x1F78CC0", Length = "0x3C")]
@@ -24,7 +22,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void Internal_Destroy(IntPtr ptr);
 
-		// Token: 0x06000282 RID: 642 RVA: 0x00002551 File Offset: 0x00000751
 		[global::Cpp2ILInjected.Token(Token = "0x6000290")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78CFC", Offset = "0x1F78CFC", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +39,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000283 RID: 643 RVA: 0x00002554 File Offset: 0x00000754
 		[global::Cpp2ILInjected.Token(Token = "0x6000291")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78DC8", Offset = "0x1F78DC8", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -55,7 +51,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000284 RID: 644 RVA: 0x00002557 File Offset: 0x00000757
 		[global::Cpp2ILInjected.Token(Token = "0x6000292")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78E5C", Offset = "0x1F78E5C", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +75,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000285 RID: 645
 		[FreeFunction("TouchScreenKeyboard_InternalConstructorHelper")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000293")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F78FB8", Offset = "0x1F78FB8", Length = "0x54")]
@@ -89,8 +83,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern IntPtr TouchScreenKeyboard_InternalConstructorHelper(ref TouchScreenKeyboard_InternalConstructorHelperArguments arguments, string text, string textPlaceholder);
 
-		// Token: 0x17000095 RID: 149
-		// (get) Token: 0x06000286 RID: 646 RVA: 0x0000255A File Offset: 0x0000075A
 		[global::Cpp2ILInjected.Token(Token = "0x17000097")]
 		public static bool isSupported
 		{
@@ -116,8 +108,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000096 RID: 150
-		// (get) Token: 0x06000287 RID: 647 RVA: 0x0000255D File Offset: 0x0000075D
 		[global::Cpp2ILInjected.Token(Token = "0x17000098")]
 		internal static bool disableInPlaceEditing
 		{
@@ -132,8 +122,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000097 RID: 151
-		// (get) Token: 0x06000288 RID: 648 RVA: 0x00002560 File Offset: 0x00000760
 		[global::Cpp2ILInjected.Token(Token = "0x17000099")]
 		public static bool isInPlaceEditingAllowed
 		{
@@ -150,7 +138,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000289 RID: 649
 		[FreeFunction("TouchScreenKeyboard_IsInplaceEditingAllowed")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000297")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F79118", Offset = "0x1F79118", Length = "0x28")]
@@ -159,7 +146,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern bool IsInPlaceEditingAllowed();
 
-		// Token: 0x0600028A RID: 650 RVA: 0x00002563 File Offset: 0x00000763
 		[global::Cpp2ILInjected.Token(Token = "0x6000298")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F79140", Offset = "0x1F79140", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DrKeyboard_Touch", Member = ".ctor", MemberParameters = new object[]
@@ -191,9 +177,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x17000098 RID: 152
-		// (get) Token: 0x0600028B RID: 651
-		// (set) Token: 0x0600028C RID: 652
 		[global::Cpp2ILInjected.Token(Token = "0x1700009A")]
 		public extern string text
 		{
@@ -224,8 +207,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000099 RID: 153
-		// (set) Token: 0x0600028D RID: 653
 		[global::Cpp2ILInjected.Token(Token = "0x1700009B")]
 		public static extern bool hideInput
 		{
@@ -239,9 +220,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700009A RID: 154
-		// (get) Token: 0x0600028E RID: 654
-		// (set) Token: 0x0600028F RID: 655
 		[global::Cpp2ILInjected.Token(Token = "0x1700009C")]
 		public extern bool active
 		{
@@ -267,8 +245,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700009B RID: 155
-		// (get) Token: 0x06000290 RID: 656
 		[global::Cpp2ILInjected.Token(Token = "0x1700009D")]
 		public extern TouchScreenKeyboard.Status status
 		{
@@ -285,8 +261,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700009C RID: 156
-		// (set) Token: 0x06000291 RID: 657
 		[global::Cpp2ILInjected.Token(Token = "0x1700009E")]
 		public extern int characterLimit
 		{
@@ -300,8 +274,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700009D RID: 157
-		// (get) Token: 0x06000292 RID: 658
 		[global::Cpp2ILInjected.Token(Token = "0x1700009F")]
 		public extern bool canGetSelection
 		{
@@ -315,8 +287,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700009E RID: 158
-		// (get) Token: 0x06000293 RID: 659
 		[global::Cpp2ILInjected.Token(Token = "0x170000A0")]
 		public extern bool canSetSelection
 		{
@@ -330,9 +300,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700009F RID: 159
-		// (get) Token: 0x06000294 RID: 660 RVA: 0x00002566 File Offset: 0x00000766
-		// (set) Token: 0x06000295 RID: 661 RVA: 0x00002569 File Offset: 0x00000769
 		[global::Cpp2ILInjected.Token(Token = "0x170000A1")]
 		public RangeInt selection
 		{
@@ -363,7 +330,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000296 RID: 662
 		[global::Cpp2ILInjected.Token(Token = "0x60002A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7947C", Offset = "0x1F7947C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -371,7 +337,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void GetSelection(out int start, out int length);
 
-		// Token: 0x06000297 RID: 663
 		[global::Cpp2ILInjected.Token(Token = "0x60002A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F795AC", Offset = "0x1F795AC", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -379,32 +344,25 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void SetSelection(int start, int length);
 
-		// Token: 0x04000305 RID: 773
 		[global::Cpp2ILInjected.Token(Token = "0x4000330")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		[NonSerialized]
 		internal IntPtr m_Ptr;
 
-		// Token: 0x04000306 RID: 774
 		[CompilerGenerated]
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[global::Cpp2ILInjected.Token(Token = "0x4000331")]
 		private static bool <disableInPlaceEditing>k__BackingField;
 
-		// Token: 0x0200016D RID: 365
 		[global::Cpp2ILInjected.Token(Token = "0x2000094")]
 		public enum Status
 		{
-			// Token: 0x0400065C RID: 1628
 			[global::Cpp2ILInjected.Token(Token = "0x4000333")]
 			Visible,
-			// Token: 0x0400065D RID: 1629
 			[global::Cpp2ILInjected.Token(Token = "0x4000334")]
 			Done,
-			// Token: 0x0400065E RID: 1630
 			[global::Cpp2ILInjected.Token(Token = "0x4000335")]
 			Canceled,
-			// Token: 0x0400065F RID: 1631
 			[global::Cpp2ILInjected.Token(Token = "0x4000336")]
 			LostFocus
 		}

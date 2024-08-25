@@ -8,12 +8,10 @@ using Mono.Xml;
 
 namespace System.Runtime.Remoting
 {
-	// Token: 0x0200029A RID: 666
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000338")]
 	public class ActivatedClientTypeEntry : TypeEntry
 	{
-		// Token: 0x0600198E RID: 6542 RVA: 0x00018CD1 File Offset: 0x00016ED1
 		[global::Cpp2ILInjected.Token(Token = "0x6001BB1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B24A94", Offset = "0x1B24A94", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -40,8 +38,6 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x170002CB RID: 715
-		// (get) Token: 0x0600198F RID: 6543 RVA: 0x00018CD4 File Offset: 0x00016ED4
 		[global::Cpp2ILInjected.Token(Token = "0x17000323")]
 		public string ApplicationUrl
 		{
@@ -54,8 +50,6 @@ namespace System.Runtime.Remoting
 			}
 		}
 
-		// Token: 0x170002CC RID: 716
-		// (get) Token: 0x06001990 RID: 6544 RVA: 0x00018CD7 File Offset: 0x00016ED7
 		[global::Cpp2ILInjected.Token(Token = "0x17000324")]
 		public global::System.Runtime.Remoting.Contexts.IContextAttribute[] ContextAttributes
 		{
@@ -68,8 +62,6 @@ namespace System.Runtime.Remoting
 			}
 		}
 
-		// Token: 0x170002CD RID: 717
-		// (get) Token: 0x06001991 RID: 6545 RVA: 0x00018CDA File Offset: 0x00016EDA
 		[global::Cpp2ILInjected.Token(Token = "0x17000325")]
 		public global::System.Type ObjectType
 		{
@@ -82,7 +74,6 @@ namespace System.Runtime.Remoting
 			}
 		}
 
-		// Token: 0x06001992 RID: 6546 RVA: 0x00018CDD File Offset: 0x00016EDD
 		[global::Cpp2ILInjected.Token(Token = "0x6001BB5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B24BDC", Offset = "0x1B24BDC", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -97,12 +88,10 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x04000B39 RID: 2873
 		[global::Cpp2ILInjected.Token(Token = "0x4000E19")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string applicationUrl;
 
-		// Token: 0x04000B3A RID: 2874
 		[global::Cpp2ILInjected.Token(Token = "0x4000E1A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private global::System.Type obj_type;

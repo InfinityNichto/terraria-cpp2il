@@ -8,13 +8,9 @@ using Terraria;
 using Terraria.Graphics.Effects;
 using UnityEngine;
 
-// Token: 0x0200024B RID: 587
 [global::Cpp2ILInjected.Token(Token = "0x2000305")]
 public class ScreenPostProcessor : MonoBehaviour
 {
-	// Token: 0x1700017C RID: 380
-	// (get) Token: 0x0600109A RID: 4250 RVA: 0x00024CB0 File Offset: 0x00022EB0
-	// (set) Token: 0x0600109B RID: 4251 RVA: 0x00024CB3 File Offset: 0x00022EB3
 	[global::Cpp2ILInjected.Token(Token = "0x170001A4")]
 	public static bool Enabled
 	{
@@ -44,8 +40,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		}
 	}
 
-	// Token: 0x1700017D RID: 381
-	// (get) Token: 0x0600109C RID: 4252 RVA: 0x00024CB6 File Offset: 0x00022EB6
 	[global::Cpp2ILInjected.Token(Token = "0x170001A5")]
 	public static List<ScreenPostProcessor> Instances
 	{
@@ -61,8 +55,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		}
 	}
 
-	// Token: 0x1700017E RID: 382
-	// (get) Token: 0x0600109D RID: 4253 RVA: 0x00024CB9 File Offset: 0x00022EB9
 	[global::Cpp2ILInjected.Token(Token = "0x170001A6")]
 	public static List<ScreenPostProcessor> UIInstances
 	{
@@ -78,9 +70,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		}
 	}
 
-	// Token: 0x1700017F RID: 383
-	// (get) Token: 0x0600109E RID: 4254 RVA: 0x00024CBC File Offset: 0x00022EBC
-	// (set) Token: 0x0600109F RID: 4255 RVA: 0x00024CBF File Offset: 0x00022EBF
 	[global::Cpp2ILInjected.Token(Token = "0x170001A7")]
 	public static List<Filter> Filters
 	{
@@ -109,7 +98,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		}
 	}
 
-	// Token: 0x060010A0 RID: 4256 RVA: 0x00024CC2 File Offset: 0x00022EC2
 	[global::Cpp2ILInjected.Token(Token = "0x60011F1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA71600", Offset = "0xA71600", Length = "0x84")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +116,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x060010A1 RID: 4257 RVA: 0x00024CC5 File Offset: 0x00022EC5
 	[global::Cpp2ILInjected.Token(Token = "0x60011F2")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA716D4", Offset = "0xA716D4", Length = "0x1AC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -147,7 +134,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x060010A2 RID: 4258 RVA: 0x00024CC8 File Offset: 0x00022EC8
 	[global::Cpp2ILInjected.Token(Token = "0x60011F3")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA718CC", Offset = "0xA718CC", Length = "0x24C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,9 +152,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x17000180 RID: 384
-	// (get) Token: 0x060010A3 RID: 4259 RVA: 0x00024CCB File Offset: 0x00022ECB
-	// (set) Token: 0x060010A4 RID: 4260 RVA: 0x00024CCE File Offset: 0x00022ECE
 	[global::Cpp2ILInjected.Token(Token = "0x170001A8")]
 	private static int countUpdate
 	{
@@ -193,9 +176,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		}
 	}
 
-	// Token: 0x17000181 RID: 385
-	// (get) Token: 0x060010A5 RID: 4261 RVA: 0x00024CD1 File Offset: 0x00022ED1
-	// (set) Token: 0x060010A6 RID: 4262 RVA: 0x00024CD4 File Offset: 0x00022ED4
 	[global::Cpp2ILInjected.Token(Token = "0x170001A9")]
 	private static int renderCheck
 	{
@@ -223,7 +203,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		}
 	}
 
-	// Token: 0x060010A7 RID: 4263 RVA: 0x00024CD7 File Offset: 0x00022ED7
 	[global::Cpp2ILInjected.Token(Token = "0x60011F8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA71BB4", Offset = "0xA71BB4", Length = "0x3C0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -258,7 +237,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x060010A8 RID: 4264 RVA: 0x00024CDA File Offset: 0x00022EDA
 	[global::Cpp2ILInjected.Token(Token = "0x60011F9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA71F74", Offset = "0xA71F74", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -268,7 +246,6 @@ public class ScreenPostProcessor : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x060010A9 RID: 4265 RVA: 0x00024CDD File Offset: 0x00022EDD
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x60011FA")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA71F7C", Offset = "0xA71F7C", Length = "0x128")]
@@ -280,43 +257,34 @@ public class ScreenPostProcessor : MonoBehaviour
 		throw null;
 	}
 
-	// Token: 0x04001BB6 RID: 7094
 	[global::Cpp2ILInjected.Token(Token = "0x4002170")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int order;
 
-	// Token: 0x04001BB7 RID: 7095
 	[global::Cpp2ILInjected.Token(Token = "0x4002171")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private Filter filter;
 
-	// Token: 0x04001BB8 RID: 7096
 	[global::Cpp2ILInjected.Token(Token = "0x4002172")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private bool setActive;
 
-	// Token: 0x04001BB9 RID: 7097
 	[global::Cpp2ILInjected.Token(Token = "0x4002173")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public LocalUser User;
 
-	// Token: 0x04001BBA RID: 7098
 	[global::Cpp2ILInjected.Token(Token = "0x4002174")]
 	private static int MainTexId;
 
-	// Token: 0x04001BBB RID: 7099
 	[global::Cpp2ILInjected.Token(Token = "0x4002175")]
 	private static int SecTexId;
 
-	// Token: 0x04001BBC RID: 7100
 	[global::Cpp2ILInjected.Token(Token = "0x4002176")]
 	private static int ThirdTexId;
 
-	// Token: 0x04001BBD RID: 7101
 	[global::Cpp2ILInjected.Token(Token = "0x4002177")]
 	private static int ForthTexId;
 
-	// Token: 0x04001BBE RID: 7102
 	[global::Cpp2ILInjected.Token(Token = "0x4002178")]
 	private static int _imageSize1Id;
 }

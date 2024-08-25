@@ -8,12 +8,10 @@ using Mono.Security.Cryptography;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000272 RID: 626
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x200030F")]
 	public class CryptoConfig
 	{
-		// Token: 0x0600185D RID: 6237 RVA: 0x0001899B File Offset: 0x00016B9B
 		[global::Cpp2ILInjected.Token(Token = "0x6001A77")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1301C", Offset = "0x1B1301C", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -24,9 +22,31 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600185E RID: 6238 RVA: 0x0001899E File Offset: 0x00016B9E
 		[global::Cpp2ILInjected.Token(Token = "0x6001A78")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B071F4", Offset = "0x1B071F4", Length = "0x58")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Aes), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(Aes))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AsymmetricAlgorithm), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(AsymmetricAlgorithm))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DES), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(DES))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DSA), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(DSA))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HMAC), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(HMAC))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(KeyedHashAlgorithm), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(KeyedHashAlgorithm))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MD5), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(MD5))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PasswordDeriveBytes), Member = "set_HashName", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RandomNumberGenerator), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(RandomNumberGenerator))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RC2), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(RC2))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Rijndael), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(Rijndael))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RIPEMD160), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(RIPEMD160))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RSA), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(RSA))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SHA1), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(SHA1))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SHA256), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(SHA256))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SHA384), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(SHA384))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SHA512), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(SHA512))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SignatureDescription), Member = "CreateDeformatter", MemberParameters = new object[] { typeof(AsymmetricAlgorithm) }, ReturnType = typeof(AsymmetricSignatureDeformatter))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SignatureDescription), Member = "CreateFormatter", MemberParameters = new object[] { typeof(AsymmetricAlgorithm) }, ReturnType = typeof(AsymmetricSignatureFormatter))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SignatureDescription), Member = "CreateDigest", ReturnType = typeof(HashAlgorithm))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SymmetricAlgorithm), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(SymmetricAlgorithm))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TripleDES), Member = "Create", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(TripleDES))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CryptoConfigForwarder), Member = "CreateFromName", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(object))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 23)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(CryptoConfig), Member = "CreateFromName", MemberParameters = new object[]
 		{
@@ -39,7 +59,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x0600185F RID: 6239 RVA: 0x000189A1 File Offset: 0x00016BA1
 		[global::Cpp2ILInjected.Token(Token = "0x6001A79")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B13054", Offset = "0x1B13054", Length = "0x1EA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +139,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001860 RID: 6240 RVA: 0x000189A4 File Offset: 0x00016BA4
 		[global::Cpp2ILInjected.Token(Token = "0x6001A7A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B14FC8", Offset = "0x1B14FC8", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -130,7 +148,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001861 RID: 6241 RVA: 0x000189A7 File Offset: 0x00016BA7
 		[global::Cpp2ILInjected.Token(Token = "0x6001A7B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1501C", Offset = "0x1B1501C", Length = "0x7B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -171,7 +188,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001862 RID: 6242 RVA: 0x000189AA File Offset: 0x00016BAA
 		[global::Cpp2ILInjected.Token(Token = "0x6001A7C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B157CC", Offset = "0x1B157CC", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CryptoConfig), Member = "AddAlgorithm", MemberParameters = new object[]
@@ -187,7 +203,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001863 RID: 6243 RVA: 0x000189AD File Offset: 0x00016BAD
 		[global::Cpp2ILInjected.Token(Token = "0x6001A7D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B158CC", Offset = "0x1B158CC", Length = "0x354")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -230,7 +245,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001864 RID: 6244 RVA: 0x000189B0 File Offset: 0x00016BB0
 		[global::Cpp2ILInjected.Token(Token = "0x6001A7E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B15C20", Offset = "0x1B15C20", Length = "0x380")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -283,7 +297,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001865 RID: 6245 RVA: 0x000189B3 File Offset: 0x00016BB3
 		[global::Cpp2ILInjected.Token(Token = "0x6001A7F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B15FA0", Offset = "0x1B15FA0", Length = "0x170")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -298,8 +311,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x1700028C RID: 652
-		// (get) Token: 0x06001866 RID: 6246 RVA: 0x000189B6 File Offset: 0x00016BB6
 		[global::System.MonoLimitation("nothing is FIPS certified so it never make sense to restrict to this (empty) subset")]
 		[global::Cpp2ILInjected.Token(Token = "0x170002E2")]
 		public static bool AllowOnlyFipsAlgorithms
@@ -322,7 +333,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x06001867 RID: 6247 RVA: 0x000189B9 File Offset: 0x00016BB9
 		[global::Cpp2ILInjected.Token(Token = "0x6001A81")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16110", Offset = "0x1B16110", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -332,7 +342,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001868 RID: 6248 RVA: 0x000189BC File Offset: 0x00016BBC
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001A82")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B16118", Offset = "0x1B16118", Length = "0x70")]
@@ -344,11 +353,9 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x04000AA7 RID: 2727
 		[global::Cpp2ILInjected.Token(Token = "0x4000D81")]
 		private static readonly object lockObject;
 
-		// Token: 0x04000AA8 RID: 2728
 		[global::Cpp2ILInjected.Token(Token = "0x4000D82")]
 		private static global::System.Collections.Generic.Dictionary<string, global::System.Type> algorithms;
 	}

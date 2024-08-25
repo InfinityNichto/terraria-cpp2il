@@ -7,11 +7,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent.Shaders
 {
-	// Token: 0x02000587 RID: 1415
 	[global::Cpp2ILInjected.Token(Token = "0x2000821")]
 	public class BloodMoonScreenShaderData : ScreenShaderData
 	{
-		// Token: 0x06003B9A RID: 15258 RVA: 0x0002CA65 File Offset: 0x0002AC65
 		[global::Cpp2ILInjected.Token(Token = "0x60042B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7979C0", Offset = "0x7979C0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenEffectInitializer), Member = "Load", ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace Terraria.GameContent.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003B9B RID: 15259 RVA: 0x0002CA68 File Offset: 0x0002AC68
 		[global::Cpp2ILInjected.Token(Token = "0x60042B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7979C8", Offset = "0x7979C8", Length = "0x1F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -7,11 +7,9 @@ using Microsoft.Win32.SafeHandles;
 
 namespace System.IO
 {
-	// Token: 0x02000495 RID: 1173
 	[global::Cpp2ILInjected.Token(Token = "0x200056A")]
 	internal static class MonoIO
 	{
-		// Token: 0x0600268C RID: 9868 RVA: 0x0001B08C File Offset: 0x0001928C
 		[global::Cpp2ILInjected.Token(Token = "0x60029A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE1B8", Offset = "0x1BCE1B8", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +58,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600268D RID: 9869 RVA: 0x0001B08F File Offset: 0x0001928F
 		[global::Cpp2ILInjected.Token(Token = "0x60029A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCAAA4", Offset = "0x1BCAAA4", Length = "0x6C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -148,7 +145,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600268E RID: 9870
 		[global::Cpp2ILInjected.Token(Token = "0x60029A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE2E0", Offset = "0x1BCE2E0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Directory), Member = "InsecureGetCurrentDirectory", ReturnType = typeof(string))]
@@ -157,7 +153,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		public static extern string GetCurrentDirectory(out MonoIOError error);
 
-		// Token: 0x0600268F RID: 9871
 		[global::Cpp2ILInjected.Token(Token = "0x60029A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE2E4", Offset = "0x1BCE2E4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -165,7 +160,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private unsafe static extern bool SetFileAttributes(char* path, FileAttributes attrs, out MonoIOError error);
 
-		// Token: 0x06002690 RID: 9872 RVA: 0x0001B092 File Offset: 0x00019292
 		[global::Cpp2ILInjected.Token(Token = "0x60029A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE2E8", Offset = "0x1BCE2E8", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(File), Member = "SetAttributes", MemberParameters = new object[]
@@ -181,7 +175,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002691 RID: 9873
 		[global::Cpp2ILInjected.Token(Token = "0x60029AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE364", Offset = "0x1BCE364", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -189,7 +182,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private static extern MonoFileType GetFileType(global::System.IntPtr handle, out MonoIOError error);
 
-		// Token: 0x06002692 RID: 9874 RVA: 0x0001B095 File Offset: 0x00019295
 		[global::Cpp2ILInjected.Token(Token = "0x60029AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCB168", Offset = "0x1BCB168", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -221,7 +213,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002693 RID: 9875
 		[global::Cpp2ILInjected.Token(Token = "0x60029AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE368", Offset = "0x1BCE368", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -229,7 +220,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private unsafe static extern global::System.IntPtr Open(char* filename, FileMode mode, FileAccess access, FileShare share, FileOptions options, out MonoIOError error);
 
-		// Token: 0x06002694 RID: 9876 RVA: 0x0001B098 File Offset: 0x00019298
 		[global::Cpp2ILInjected.Token(Token = "0x60029AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCA990", Offset = "0x1BCA990", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileStream), Member = ".ctor", MemberParameters = new object[]
@@ -250,7 +240,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002695 RID: 9877
 		[global::Cpp2ILInjected.Token(Token = "0x60029AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE36C", Offset = "0x1BCE36C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -258,7 +247,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private static extern bool Cancel_internal(global::System.IntPtr handle, out MonoIOError error);
 
-		// Token: 0x06002696 RID: 9878 RVA: 0x0001B09B File Offset: 0x0001929B
 		[global::Cpp2ILInjected.Token(Token = "0x60029AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE370", Offset = "0x1BCE370", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -272,7 +260,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x06002697 RID: 9879
 		[global::Cpp2ILInjected.Token(Token = "0x60029B0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCDEB0", Offset = "0x1BCDEB0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Microsoft.Win32.SafeHandles.SafeFileHandle), Member = "ReleaseHandle", ReturnType = typeof(bool))]
@@ -288,7 +275,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		public static extern bool Close(global::System.IntPtr handle, out MonoIOError error);
 
-		// Token: 0x06002698 RID: 9880
 		[global::Cpp2ILInjected.Token(Token = "0x60029B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE480", Offset = "0x1BCE480", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -296,7 +282,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private static extern int Read(global::System.IntPtr handle, byte[] dest, int dest_offset, int count, out MonoIOError error);
 
-		// Token: 0x06002699 RID: 9881 RVA: 0x0001B09E File Offset: 0x0001929E
 		[global::Cpp2ILInjected.Token(Token = "0x60029B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCDF44", Offset = "0x1BCDF44", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -316,7 +301,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600269A RID: 9882
 		[global::Cpp2ILInjected.Token(Token = "0x60029B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE484", Offset = "0x1BCE484", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -324,7 +308,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private static extern int Write(global::System.IntPtr handle, [global::System.Runtime.InteropServices.In] byte[] src, int src_offset, int count, out MonoIOError error);
 
-		// Token: 0x0600269B RID: 9883 RVA: 0x0001B0A1 File Offset: 0x000192A1
 		[global::Cpp2ILInjected.Token(Token = "0x60029B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCCD0C", Offset = "0x1BCCD0C", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -344,7 +327,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600269C RID: 9884
 		[global::Cpp2ILInjected.Token(Token = "0x60029B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE488", Offset = "0x1BCE488", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -352,7 +334,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private static extern long Seek(global::System.IntPtr handle, long offset, SeekOrigin origin, out MonoIOError error);
 
-		// Token: 0x0600269D RID: 9885 RVA: 0x0001B0A4 File Offset: 0x000192A4
 		[global::Cpp2ILInjected.Token(Token = "0x60029B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCB528", Offset = "0x1BCB528", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -387,7 +368,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0600269E RID: 9886
 		[global::Cpp2ILInjected.Token(Token = "0x60029B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE48C", Offset = "0x1BCE48C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -395,7 +375,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private static extern long GetLength(global::System.IntPtr handle, out MonoIOError error);
 
-		// Token: 0x0600269F RID: 9887 RVA: 0x0001B0A7 File Offset: 0x000192A7
 		[global::Cpp2ILInjected.Token(Token = "0x60029B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCB7E4", Offset = "0x1BCB7E4", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -409,7 +388,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x060026A0 RID: 9888
 		[global::Cpp2ILInjected.Token(Token = "0x60029B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE490", Offset = "0x1BCE490", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -417,7 +395,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private static extern bool SetLength(global::System.IntPtr handle, long length, out MonoIOError error);
 
-		// Token: 0x060026A1 RID: 9889 RVA: 0x0001B0AA File Offset: 0x000192AA
 		[global::Cpp2ILInjected.Token(Token = "0x60029BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCD960", Offset = "0x1BCD960", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -431,8 +408,6 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x17000577 RID: 1399
-		// (get) Token: 0x060026A2 RID: 9890
 		[global::Cpp2ILInjected.Token(Token = "0x170005FF")]
 		public static extern global::System.IntPtr ConsoleOutput
 		{
@@ -447,8 +422,6 @@ namespace System.IO
 			get;
 		}
 
-		// Token: 0x17000578 RID: 1400
-		// (get) Token: 0x060026A3 RID: 9891
 		[global::Cpp2ILInjected.Token(Token = "0x17000600")]
 		public static extern global::System.IntPtr ConsoleInput
 		{
@@ -463,8 +436,6 @@ namespace System.IO
 			get;
 		}
 
-		// Token: 0x17000579 RID: 1401
-		// (get) Token: 0x060026A4 RID: 9892
 		[global::Cpp2ILInjected.Token(Token = "0x17000601")]
 		public static extern global::System.IntPtr ConsoleError
 		{
@@ -478,7 +449,6 @@ namespace System.IO
 			get;
 		}
 
-		// Token: 0x060026A5 RID: 9893
 		[global::Cpp2ILInjected.Token(Token = "0x60029BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE4A0", Offset = "0x1BCE4A0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Diagnostics.Process", Member = "CreatePipe", MemberParameters = new object[]
@@ -492,7 +462,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		public static extern bool CreatePipe(out global::System.IntPtr read_handle, out global::System.IntPtr write_handle, out MonoIOError error);
 
-		// Token: 0x060026A6 RID: 9894
 		[global::Cpp2ILInjected.Token(Token = "0x60029BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE4A4", Offset = "0x1BCE4A4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Win32.NativeMethods", Member = "DuplicateHandle", MemberParameters = new object[]
@@ -526,8 +495,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		public static extern bool DuplicateHandle(global::System.IntPtr source_process_handle, global::System.IntPtr source_handle, global::System.IntPtr target_process_handle, out global::System.IntPtr target_handle, int access, int inherit, int options, out MonoIOError error);
 
-		// Token: 0x1700057A RID: 1402
-		// (get) Token: 0x060026A7 RID: 9895
 		[global::Cpp2ILInjected.Token(Token = "0x17000602")]
 		public static extern char VolumeSeparatorChar
 		{
@@ -539,8 +506,6 @@ namespace System.IO
 			get;
 		}
 
-		// Token: 0x1700057B RID: 1403
-		// (get) Token: 0x060026A8 RID: 9896
 		[global::Cpp2ILInjected.Token(Token = "0x17000603")]
 		public static extern char DirectorySeparatorChar
 		{
@@ -552,8 +517,6 @@ namespace System.IO
 			get;
 		}
 
-		// Token: 0x1700057C RID: 1404
-		// (get) Token: 0x060026A9 RID: 9897
 		[global::Cpp2ILInjected.Token(Token = "0x17000604")]
 		public static extern char AltDirectorySeparatorChar
 		{
@@ -565,8 +528,6 @@ namespace System.IO
 			get;
 		}
 
-		// Token: 0x1700057D RID: 1405
-		// (get) Token: 0x060026AA RID: 9898
 		[global::Cpp2ILInjected.Token(Token = "0x17000605")]
 		public static extern char PathSeparator
 		{
@@ -578,7 +539,6 @@ namespace System.IO
 			get;
 		}
 
-		// Token: 0x060026AB RID: 9899
 		[global::Cpp2ILInjected.Token(Token = "0x60029C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE2DC", Offset = "0x1BCE2DC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -586,7 +546,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		private static extern void DumpHandles();
 
-		// Token: 0x060026AC RID: 9900
 		[global::Cpp2ILInjected.Token(Token = "0x60029C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE4B8", Offset = "0x1BCE4B8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -594,7 +553,6 @@ namespace System.IO
 		[MethodImpl(4096)]
 		public static extern bool RemapPath(string path, out string newPath);
 
-		// Token: 0x060026AD RID: 9901 RVA: 0x0001B0AD File Offset: 0x000192AD
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60029C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BCE4BC", Offset = "0x1BCE4BC", Length = "0x88")]
@@ -608,11 +566,9 @@ namespace System.IO
 			throw null;
 		}
 
-		// Token: 0x0400130B RID: 4875
 		[global::Cpp2ILInjected.Token(Token = "0x4001657")]
 		public static readonly global::System.IntPtr InvalidHandle;
 
-		// Token: 0x0400130C RID: 4876
 		[global::Cpp2ILInjected.Token(Token = "0x4001658")]
 		private static bool dump_handles;
 	}

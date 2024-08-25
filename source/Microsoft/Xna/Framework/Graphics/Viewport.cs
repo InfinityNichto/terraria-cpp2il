@@ -5,14 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Xna.Framework.Graphics
 {
-	// Token: 0x020002DA RID: 730
 	[DataContract]
 	[global::Cpp2ILInjected.Token(Token = "0x20003AD")]
 	public struct Viewport
 	{
-		// Token: 0x1700032A RID: 810
-		// (get) Token: 0x060017B2 RID: 6066 RVA: 0x00026180 File Offset: 0x00024380
-		// (set) Token: 0x060017B3 RID: 6067 RVA: 0x00026183 File Offset: 0x00024383
 		[DataMember]
 		[global::Cpp2ILInjected.Token(Token = "0x17000355")]
 		public int Height
@@ -33,9 +29,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700032B RID: 811
-		// (get) Token: 0x060017B4 RID: 6068 RVA: 0x00026186 File Offset: 0x00024386
-		// (set) Token: 0x060017B5 RID: 6069 RVA: 0x00026189 File Offset: 0x00024389
 		[DataMember]
 		[global::Cpp2ILInjected.Token(Token = "0x17000356")]
 		public float MaxDepth
@@ -56,9 +49,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700032C RID: 812
-		// (get) Token: 0x060017B6 RID: 6070 RVA: 0x0002618C File Offset: 0x0002438C
-		// (set) Token: 0x060017B7 RID: 6071 RVA: 0x0002618F File Offset: 0x0002438F
 		[DataMember]
 		[global::Cpp2ILInjected.Token(Token = "0x17000357")]
 		public float MinDepth
@@ -79,9 +69,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700032D RID: 813
-		// (get) Token: 0x060017B8 RID: 6072 RVA: 0x00026192 File Offset: 0x00024392
-		// (set) Token: 0x060017B9 RID: 6073 RVA: 0x00026195 File Offset: 0x00024395
 		[DataMember]
 		[global::Cpp2ILInjected.Token(Token = "0x17000358")]
 		public int Width
@@ -102,9 +89,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700032E RID: 814
-		// (get) Token: 0x060017BA RID: 6074 RVA: 0x00026198 File Offset: 0x00024398
-		// (set) Token: 0x060017BB RID: 6075 RVA: 0x0002619B File Offset: 0x0002439B
 		[DataMember]
 		[global::Cpp2ILInjected.Token(Token = "0x17000359")]
 		public int Y
@@ -125,9 +109,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x1700032F RID: 815
-		// (get) Token: 0x060017BC RID: 6076 RVA: 0x0002619E File Offset: 0x0002439E
-		// (set) Token: 0x060017BD RID: 6077 RVA: 0x000261A1 File Offset: 0x000243A1
 		[DataMember]
 		[global::Cpp2ILInjected.Token(Token = "0x1700035A")]
 		public int X
@@ -148,8 +129,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000330 RID: 816
-		// (get) Token: 0x060017BE RID: 6078 RVA: 0x000261A4 File Offset: 0x000243A4
 		[global::Cpp2ILInjected.Token(Token = "0x1700035B")]
 		public float AspectRatio
 		{
@@ -163,9 +142,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000331 RID: 817
-		// (get) Token: 0x060017BF RID: 6079 RVA: 0x000261A7 File Offset: 0x000243A7
-		// (set) Token: 0x060017C0 RID: 6080 RVA: 0x000261AA File Offset: 0x000243AA
 		[global::Cpp2ILInjected.Token(Token = "0x1700035C")]
 		public Rectangle Bounds
 		{
@@ -193,8 +169,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x17000332 RID: 818
-		// (get) Token: 0x060017C1 RID: 6081 RVA: 0x000261AD File Offset: 0x000243AD
 		[global::Cpp2ILInjected.Token(Token = "0x1700035D")]
 		public Rectangle TitleSafeArea
 		{
@@ -215,7 +189,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			}
 		}
 
-		// Token: 0x060017C2 RID: 6082 RVA: 0x000261B0 File Offset: 0x000243B0
 		[global::Cpp2ILInjected.Token(Token = "0x6001942")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC75DC", Offset = "0xAC75DC", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GraphicsDevice), Member = "Setup", ReturnType = typeof(void))]
@@ -225,7 +198,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060017C3 RID: 6083 RVA: 0x000261B3 File Offset: 0x000243B3
 		[global::Cpp2ILInjected.Token(Token = "0x6001943")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC75F4", Offset = "0xAC75F4", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -234,7 +206,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060017C4 RID: 6084 RVA: 0x000261B6 File Offset: 0x000243B6
 		[global::Cpp2ILInjected.Token(Token = "0x6001944")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC7604", Offset = "0xAC7604", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -243,7 +214,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060017C5 RID: 6085 RVA: 0x000261B9 File Offset: 0x000243B9
 		[global::Cpp2ILInjected.Token(Token = "0x6001945")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC7624", Offset = "0xAC7624", Length = "0x300")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -264,7 +234,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060017C6 RID: 6086 RVA: 0x000261BC File Offset: 0x000243BC
 		[global::Cpp2ILInjected.Token(Token = "0x6001946")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC7950", Offset = "0xAC7950", Length = "0x330")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -286,7 +255,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060017C7 RID: 6087 RVA: 0x000261BF File Offset: 0x000243BF
 		[global::Cpp2ILInjected.Token(Token = "0x6001947")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC7924", Offset = "0xAC7924", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -296,7 +264,6 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x060017C8 RID: 6088 RVA: 0x000261C2 File Offset: 0x000243C2
 		[global::Cpp2ILInjected.Token(Token = "0x6001948")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC7C80", Offset = "0xAC7C80", Length = "0x2E4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -309,32 +276,26 @@ namespace Microsoft.Xna.Framework.Graphics
 			throw null;
 		}
 
-		// Token: 0x04002133 RID: 8499
 		[global::Cpp2ILInjected.Token(Token = "0x4002793")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private int x;
 
-		// Token: 0x04002134 RID: 8500
 		[global::Cpp2ILInjected.Token(Token = "0x4002794")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		private int y;
 
-		// Token: 0x04002135 RID: 8501
 		[global::Cpp2ILInjected.Token(Token = "0x4002795")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private int width;
 
-		// Token: 0x04002136 RID: 8502
 		[global::Cpp2ILInjected.Token(Token = "0x4002796")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 		private int height;
 
-		// Token: 0x04002137 RID: 8503
 		[global::Cpp2ILInjected.Token(Token = "0x4002797")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private float minDepth;
 
-		// Token: 0x04002138 RID: 8504
 		[global::Cpp2ILInjected.Token(Token = "0x4002798")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private float maxDepth;

@@ -10,12 +10,9 @@ using Terraria.Utilities;
 
 namespace Terraria.Graphics.Renderers
 {
-	// Token: 0x02000501 RID: 1281
 	[global::Cpp2ILInjected.Token(Token = "0x200075D")]
 	public class LegacyPlayerRenderer : IPlayerRenderer
 	{
-		// Token: 0x170006F1 RID: 1777
-		// (get) Token: 0x06003783 RID: 14211 RVA: 0x0002BEB0 File Offset: 0x0002A0B0
 		[global::Cpp2ILInjected.Token(Token = "0x1700078C")]
 		public static SamplerState MountedSamplerState
 		{
@@ -35,7 +32,6 @@ namespace Terraria.Graphics.Renderers
 			}
 		}
 
-		// Token: 0x06003784 RID: 14212 RVA: 0x0002BEB3 File Offset: 0x0002A0B3
 		[global::Cpp2ILInjected.Token(Token = "0x6003DFB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A8468", Offset = "0x14A8468", Length = "0x3AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +59,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x06003785 RID: 14213 RVA: 0x0002BEB6 File Offset: 0x0002A0B6
 		[global::Cpp2ILInjected.Token(Token = "0x6003DFC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A954C", Offset = "0x14A954C", Length = "0x28C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +115,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x06003786 RID: 14214 RVA: 0x0002BEB9 File Offset: 0x0002A0B9
 		[global::Cpp2ILInjected.Token(Token = "0x6003DFD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A97D8", Offset = "0x14A97D8", Length = "0x678")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -169,7 +163,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x06003787 RID: 14215 RVA: 0x0002BEBC File Offset: 0x0002A0BC
 		[global::Cpp2ILInjected.Token(Token = "0x6003DFE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A9E50", Offset = "0x14A9E50", Length = "0x2A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -215,7 +208,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x06003788 RID: 14216 RVA: 0x0002BEBF File Offset: 0x0002A0BF
 		[global::Cpp2ILInjected.Token(Token = "0x6003DFF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AA570", Offset = "0x14AA570", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -230,7 +222,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x06003789 RID: 14217 RVA: 0x0002BEC2 File Offset: 0x0002A0C2
 		[global::Cpp2ILInjected.Token(Token = "0x6003E00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AA0F0", Offset = "0x14AA0F0", Length = "0x480")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -303,7 +294,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x0600378A RID: 14218 RVA: 0x0002BEC5 File Offset: 0x0002A0C5
 		[global::Cpp2ILInjected.Token(Token = "0x6003E01")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A8814", Offset = "0x14A8814", Length = "0xD38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -410,7 +400,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x0600378B RID: 14219 RVA: 0x0002BEC8 File Offset: 0x0002A0C8
 		[global::Cpp2ILInjected.Token(Token = "0x6003E02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AAA44", Offset = "0x14AAA44", Length = "0x414")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -457,7 +446,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x0600378C RID: 14220 RVA: 0x0002BECB File Offset: 0x0002A0CB
 		[global::Cpp2ILInjected.Token(Token = "0x6003E03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AA5F8", Offset = "0x14AA5F8", Length = "0x44C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -524,7 +512,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x0600378D RID: 14221 RVA: 0x0002BECE File Offset: 0x0002A0CE
 		[global::Cpp2ILInjected.Token(Token = "0x6003E04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AAE58", Offset = "0x14AAE58", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = ".cctor", ReturnType = typeof(void))]
@@ -537,7 +524,6 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x0600378E RID: 14222 RVA: 0x0002BED1 File Offset: 0x0002A0D1
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003E05")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14AAF10", Offset = "0x14AAF10", Length = "0x68")]
@@ -548,22 +534,18 @@ namespace Terraria.Graphics.Renderers
 			throw null;
 		}
 
-		// Token: 0x040067DC RID: 26588
 		[global::Cpp2ILInjected.Token(Token = "0x4007CC4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly DrawData[] _drawData;
 
-		// Token: 0x040067DD RID: 26589
 		[global::Cpp2ILInjected.Token(Token = "0x4007CC5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly List<int> _dust;
 
-		// Token: 0x040067DE RID: 26590
 		[global::Cpp2ILInjected.Token(Token = "0x4007CC6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private readonly List<int> _gore;
 
-		// Token: 0x040067DF RID: 26591
 		[global::Cpp2ILInjected.Token(Token = "0x4007CC7")]
 		private static Vector2[] OutlineOffsets;
 	}

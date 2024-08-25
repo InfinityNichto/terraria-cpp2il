@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Terraria.IO;
 using UnityEngine;
 
-// Token: 0x02000051 RID: 81
 [global::Cpp2ILInjected.Token(Token = "0x200007B")]
 public class GUIControllerMappingState
 {
-	// Token: 0x06000221 RID: 545 RVA: 0x000221B4 File Offset: 0x000203B4
 	[global::Cpp2ILInjected.Token(Token = "0x60002B7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x71D638", Offset = "0x71D638", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -20,7 +18,6 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x06000222 RID: 546 RVA: 0x000221B7 File Offset: 0x000203B7
 	[global::Cpp2ILInjected.Token(Token = "0x60002B8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x71D684", Offset = "0x71D684", Length = "0xA0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -31,7 +28,6 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x06000223 RID: 547 RVA: 0x000221BA File Offset: 0x000203BA
 	[global::Cpp2ILInjected.Token(Token = "0x60002B9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x71D724", Offset = "0x71D724", Length = "0x178")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +47,6 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x06000224 RID: 548 RVA: 0x000221BD File Offset: 0x000203BD
 	[global::Cpp2ILInjected.Token(Token = "0x60002BA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x717F44", Offset = "0x717F44", Length = "0x4BC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -75,7 +70,6 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x06000225 RID: 549 RVA: 0x000221C0 File Offset: 0x000203C0
 	[global::Cpp2ILInjected.Token(Token = "0x60002BB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x71D89C", Offset = "0x71D89C", Length = "0xD8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -89,7 +83,6 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x06000226 RID: 550 RVA: 0x000221C3 File Offset: 0x000203C3
 	[global::Cpp2ILInjected.Token(Token = "0x60002BC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x71D974", Offset = "0x71D974", Length = "0x5D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +126,6 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x06000227 RID: 551 RVA: 0x000221C6 File Offset: 0x000203C6
 	[global::Cpp2ILInjected.Token(Token = "0x60002BD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x71DF44", Offset = "0x71DF44", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -149,7 +141,6 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x06000228 RID: 552 RVA: 0x000221C9 File Offset: 0x000203C9
 	[global::Cpp2ILInjected.Token(Token = "0x60002BE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x71E008", Offset = "0x71E008", Length = "0x2E4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -178,7 +169,6 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x06000229 RID: 553 RVA: 0x000221CC File Offset: 0x000203CC
 	[global::Cpp2ILInjected.Token(Token = "0x60002BF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x71E2EC", Offset = "0x71E2EC", Length = "0x3F8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -215,7 +205,6 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x0600022A RID: 554 RVA: 0x000221CF File Offset: 0x000203CF
 	[global::Cpp2ILInjected.Token(Token = "0x60002C0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x71E6E4", Offset = "0x71E6E4", Length = "0x94")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerMappingStateTable), Member = ".ctor", ReturnType = typeof(void))]
@@ -227,22 +216,18 @@ public class GUIControllerMappingState
 		throw null;
 	}
 
-	// Token: 0x04000206 RID: 518
 	[global::Cpp2ILInjected.Token(Token = "0x4000318")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public ControllerActionButton.RequiredButtonState RequiredState;
 
-	// Token: 0x04000207 RID: 519
 	[global::Cpp2ILInjected.Token(Token = "0x4000319")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public ControllerActionButton[] ButtonBindings;
 
-	// Token: 0x04000208 RID: 520
 	[global::Cpp2ILInjected.Token(Token = "0x400031A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public ControllerActionButton[] AxisButtonBindings;
 
-	// Token: 0x04000209 RID: 521
 	[global::Cpp2ILInjected.Token(Token = "0x400031B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public ControllerActionAxis[] AxisBindings;

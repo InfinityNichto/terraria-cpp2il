@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.GameInput
 {
-	// Token: 0x020004B6 RID: 1206
 	[global::Cpp2ILInjected.Token(Token = "0x20006CE")]
 	public class SmartSelectGamepadPointer
 	{
-		// Token: 0x0600348B RID: 13451 RVA: 0x0002B628 File Offset: 0x00029828
 		[global::Cpp2ILInjected.Token(Token = "0x60039F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x146FFC8", Offset = "0x146FFC8", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheckWrapped", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -29,7 +27,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600348C RID: 13452 RVA: 0x0002B62B File Offset: 0x0002982B
 		[global::Cpp2ILInjected.Token(Token = "0x60039FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1470078", Offset = "0x1470078", Length = "0x290")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +46,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600348D RID: 13453 RVA: 0x0002B62E File Offset: 0x0002982E
 		[global::Cpp2ILInjected.Token(Token = "0x60039FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14704D0", Offset = "0x14704D0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -58,7 +54,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600348E RID: 13454 RVA: 0x0002B631 File Offset: 0x00029831
 		[global::Cpp2ILInjected.Token(Token = "0x60039FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14704D8", Offset = "0x14704D8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -67,7 +62,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600348F RID: 13455 RVA: 0x0002B634 File Offset: 0x00029834
 		[global::Cpp2ILInjected.Token(Token = "0x60039FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1470308", Offset = "0x1470308", Length = "0x1C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -127,7 +121,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x06003490 RID: 13456 RVA: 0x0002B637 File Offset: 0x00029837
 		[global::Cpp2ILInjected.Token(Token = "0x60039FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14704E0", Offset = "0x14704E0", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInput), Member = ".cctor", ReturnType = typeof(void))]
@@ -143,17 +136,14 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x04006612 RID: 26130
 		[global::Cpp2ILInjected.Token(Token = "0x4007A2F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Vector2 _size;
 
-		// Token: 0x04006613 RID: 26131
 		[global::Cpp2ILInjected.Token(Token = "0x4007A30")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Vector2 _center;
 
-		// Token: 0x04006614 RID: 26132
 		[global::Cpp2ILInjected.Token(Token = "0x4007A31")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Vector2 _distUniform;

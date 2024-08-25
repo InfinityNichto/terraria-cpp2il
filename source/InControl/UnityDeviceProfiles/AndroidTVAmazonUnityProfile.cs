@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x0200006B RID: 107
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000078")]
 	public class AndroidTVAmazonUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x0600055A RID: 1370 RVA: 0x0000303B File Offset: 0x0000123B
 		[global::Cpp2ILInjected.Token(Token = "0x6000577")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19BCFB4", Offset = "0x19BCFB4", Length = "0x818")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x0600055B RID: 1371 RVA: 0x0000303E File Offset: 0x0000123E
 		[global::Cpp2ILInjected.Token(Token = "0x6000578")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19BD7CC", Offset = "0x19BD7CC", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

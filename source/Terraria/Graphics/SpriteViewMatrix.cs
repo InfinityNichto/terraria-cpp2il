@@ -13,13 +13,9 @@ using Terraria.UI;
 
 namespace Terraria.Graphics
 {
-	// Token: 0x020004DE RID: 1246
 	[global::Cpp2ILInjected.Token(Token = "0x2000733")]
 	public class SpriteViewMatrix
 	{
-		// Token: 0x170006DA RID: 1754
-		// (get) Token: 0x06003697 RID: 13975 RVA: 0x0002BC0A File Offset: 0x00029E0A
-		// (set) Token: 0x06003698 RID: 13976 RVA: 0x0002BC0D File Offset: 0x00029E0D
 		[global::Cpp2ILInjected.Token(Token = "0x17000775")]
 		public Vector2 Zoom
 		{
@@ -46,8 +42,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006DB RID: 1755
-		// (get) Token: 0x06003699 RID: 13977 RVA: 0x0002BC10 File Offset: 0x00029E10
 		[global::Cpp2ILInjected.Token(Token = "0x17000776")]
 		public Vector2 Translation
 		{
@@ -64,8 +58,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006DC RID: 1756
-		// (get) Token: 0x0600369A RID: 13978 RVA: 0x0002BC13 File Offset: 0x00029E13
 		[global::Cpp2ILInjected.Token(Token = "0x17000777")]
 		public Matrix ZoomMatrix
 		{
@@ -95,8 +87,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006DD RID: 1757
-		// (get) Token: 0x0600369B RID: 13979 RVA: 0x0002BC16 File Offset: 0x00029E16
 		[global::Cpp2ILInjected.Token(Token = "0x17000778")]
 		public Matrix TransformationMatrix
 		{
@@ -130,8 +120,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006DE RID: 1758
-		// (get) Token: 0x0600369C RID: 13980 RVA: 0x0002BC19 File Offset: 0x00029E19
 		[global::Cpp2ILInjected.Token(Token = "0x17000779")]
 		public Matrix NormalizedTransformationmatrix
 		{
@@ -146,9 +134,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006DF RID: 1759
-		// (get) Token: 0x0600369D RID: 13981 RVA: 0x0002BC1C File Offset: 0x00029E1C
-		// (set) Token: 0x0600369E RID: 13982 RVA: 0x0002BC1F File Offset: 0x00029E1F
 		[global::Cpp2ILInjected.Token(Token = "0x1700077A")]
 		public SpriteEffects Effects
 		{
@@ -170,8 +155,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x170006E0 RID: 1760
-		// (get) Token: 0x0600369F RID: 13983 RVA: 0x0002BC22 File Offset: 0x00029E22
 		[global::Cpp2ILInjected.Token(Token = "0x1700077B")]
 		public Matrix EffectMatrix
 		{
@@ -195,7 +178,6 @@ namespace Terraria.Graphics
 			}
 		}
 
-		// Token: 0x060036A0 RID: 13984 RVA: 0x0002BC25 File Offset: 0x00029E25
 		[global::Cpp2ILInjected.Token(Token = "0x6003D01")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1499B04", Offset = "0x1499B04", Length = "0x20C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "LoadContent", ReturnType = typeof(void))]
@@ -212,7 +194,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036A1 RID: 13985 RVA: 0x0002BC28 File Offset: 0x00029E28
 		[global::Cpp2ILInjected.Token(Token = "0x6003D02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1499358", Offset = "0x1499358", Length = "0x690")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -276,7 +257,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036A2 RID: 13986 RVA: 0x0002BC2B File Offset: 0x00029E2B
 		[global::Cpp2ILInjected.Token(Token = "0x6003D03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1499D10", Offset = "0x1499D10", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -285,7 +265,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036A3 RID: 13987 RVA: 0x0002BC2E File Offset: 0x00029E2E
 		[global::Cpp2ILInjected.Token(Token = "0x6003D04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1499D2C", Offset = "0x1499D2C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -294,7 +273,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036A4 RID: 13988 RVA: 0x0002BC31 File Offset: 0x00029E31
 		[global::Cpp2ILInjected.Token(Token = "0x6003D05")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14992E0", Offset = "0x14992E0", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -310,57 +288,46 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x04006715 RID: 26389
 		[global::Cpp2ILInjected.Token(Token = "0x4007BF3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Vector2 _zoom;
 
-		// Token: 0x04006716 RID: 26390
 		[global::Cpp2ILInjected.Token(Token = "0x4007BF4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Vector2 _translation;
 
-		// Token: 0x04006717 RID: 26391
 		[global::Cpp2ILInjected.Token(Token = "0x4007BF5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private Matrix _zoomMatrix;
 
-		// Token: 0x04006718 RID: 26392
 		[global::Cpp2ILInjected.Token(Token = "0x4007BF6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private Matrix _transformationMatrix;
 
-		// Token: 0x04006719 RID: 26393
 		[global::Cpp2ILInjected.Token(Token = "0x4007BF7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 		private Matrix _normalizedTransformationMatrix;
 
-		// Token: 0x0400671A RID: 26394
 		[global::Cpp2ILInjected.Token(Token = "0x4007BF8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xE0")]
 		private SpriteEffects _effects;
 
-		// Token: 0x0400671B RID: 26395
 		[global::Cpp2ILInjected.Token(Token = "0x4007BF9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xE4")]
 		private Matrix _effectMatrix;
 
-		// Token: 0x0400671C RID: 26396
 		[global::Cpp2ILInjected.Token(Token = "0x4007BFA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x128")]
 		private GraphicsDevice _graphicsDevice;
 
-		// Token: 0x0400671D RID: 26397
 		[global::Cpp2ILInjected.Token(Token = "0x4007BFB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x130")]
 		private Viewport _viewport;
 
-		// Token: 0x0400671E RID: 26398
 		[global::Cpp2ILInjected.Token(Token = "0x4007BFC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private bool _overrideSystemViewport;
 
-		// Token: 0x0400671F RID: 26399
 		[global::Cpp2ILInjected.Token(Token = "0x4007BFD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x149")]
 		private bool _needsRebuild;

@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001AE RID: 430
 	[Preserve]
 	[NativeInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20001BB")]
 	public class PlayStation4MacNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x060007E6 RID: 2022 RVA: 0x000037DF File Offset: 0x000019DF
 		[global::Cpp2ILInjected.Token(Token = "0x6000803")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A3163C", Offset = "0x1A3163C", Length = "0xA10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060007E7 RID: 2023 RVA: 0x000037E2 File Offset: 0x000019E2
 		[global::Cpp2ILInjected.Token(Token = "0x6000804")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A3204C", Offset = "0x1A3204C", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

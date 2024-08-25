@@ -4,11 +4,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using UnityEngine;
 
-// Token: 0x02000247 RID: 583
 [global::Cpp2ILInjected.Token(Token = "0x2000300")]
 public static class TransformExtensions
 {
-	// Token: 0x06001077 RID: 4215 RVA: 0x00024C47 File Offset: 0x00022E47
 	[global::Cpp2ILInjected.Token(Token = "0x60011C6")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6EC8C", Offset = "0xA6EC8C", Length = "0xA8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -26,7 +24,6 @@ public static class TransformExtensions
 		throw null;
 	}
 
-	// Token: 0x06001078 RID: 4216 RVA: 0x00024C4A File Offset: 0x00022E4A
 	[global::Cpp2ILInjected.Token(Token = "0x60011C7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6ED34", Offset = "0xA6ED34", Length = "0x120")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +60,6 @@ public static class TransformExtensions
 		throw null;
 	}
 
-	// Token: 0x06001079 RID: 4217 RVA: 0x00024C4D File Offset: 0x00022E4D
 	[global::Cpp2ILInjected.Token(Token = "0x60011C8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6EE54", Offset = "0xA6EE54", Length = "0x8C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -82,7 +78,6 @@ public static class TransformExtensions
 		throw null;
 	}
 
-	// Token: 0x0600107A RID: 4218 RVA: 0x00024C50 File Offset: 0x00022E50
 	[global::Cpp2ILInjected.Token(Token = "0x60011C9")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E5E0", Offset = "0xA6E5E0", Length = "0xFC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -122,7 +117,6 @@ public static class TransformExtensions
 		throw null;
 	}
 
-	// Token: 0x0600107B RID: 4219 RVA: 0x00024C53 File Offset: 0x00022E53
 	[global::Cpp2ILInjected.Token(Token = "0x60011CA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15A1BB4", Offset = "0x15A1BB4", Length = "0x134")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -146,7 +140,6 @@ public static class TransformExtensions
 		throw null;
 	}
 
-	// Token: 0x0600107C RID: 4220 RVA: 0x00024C56 File Offset: 0x00022E56
 	[global::Cpp2ILInjected.Token(Token = "0x60011CB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15A1AB8", Offset = "0x15A1AB8", Length = "0xFC")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -165,7 +158,6 @@ public static class TransformExtensions
 		throw null;
 	}
 
-	// Token: 0x0600107D RID: 4221 RVA: 0x00024C59 File Offset: 0x00022E59
 	[global::Cpp2ILInjected.Token(Token = "0x60011CC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15A1CE8", Offset = "0x15A1CE8", Length = "0x130")]
 	[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -190,7 +182,6 @@ public static class TransformExtensions
 		throw null;
 	}
 
-	// Token: 0x0600107E RID: 4222 RVA: 0x00024C5C File Offset: 0x00022E5C
 	[global::Cpp2ILInjected.Token(Token = "0x60011CD")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E76C", Offset = "0xA6E76C", Length = "0x84")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -215,7 +206,6 @@ public static class TransformExtensions
 		throw null;
 	}
 
-	// Token: 0x0600107F RID: 4223 RVA: 0x00024C5F File Offset: 0x00022E5F
 	[global::Cpp2ILInjected.Token(Token = "0x60011CE")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA6E9C4", Offset = "0xA6E9C4", Length = "0xE4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TransformExtensions), Member = "GetPath", MemberParameters = new object[] { typeof(Transform) }, ReturnType = typeof(string))]

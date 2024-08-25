@@ -11,19 +11,42 @@ using Terraria;
 using Terraria.Audio;
 using Terraria.DataStructures;
 using Terraria.Localization;
+using Terraria.UI;
 using UnityEngine;
 
-// Token: 0x020000F6 RID: 246
 [global::Cpp2ILInjected.Token(Token = "0x2000161")]
 public class GUIPageIcons
 {
-	// Token: 0x170000D6 RID: 214
-	// (get) Token: 0x060008C9 RID: 2249 RVA: 0x000235A0 File Offset: 0x000217A0
 	[global::Cpp2ILInjected.Token(Token = "0x170000FD")]
 	public bool UseHorizontalPages
 	{
 		[global::Cpp2ILInjected.Token(Token = "0x60009C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x96DA7C", Offset = "0x96DA7C", Length = "0x28")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerCrafting), Member = "Activate", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerCrafting), Member = "get_MinColumns", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerCrafting), Member = "ClampPosition", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerItemDuplication), Member = "Activate", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerItemDuplication), Member = "get_MinColumns", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerItemDuplication), Member = "ClampPosition", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerShop), Member = "Activate", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerShop4Page), Member = "GetGrid", ReturnType = typeof(ItemGrid_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerDynamicGridNavigator), Member = "Navigate", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(GUIControllerItem))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerDynamicGridNavigator), Member = "get_MenuColumn", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerDynamicGridNavigator), Member = "GetNavigationOutDirs", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerDynamicGridNavigator), Member = "ClampPosition", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHousingMenu), Member = "UpdateHotbarScroll", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIShop), Member = "LoadPageRegion", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIShop), Member = "DrawSlots", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Chest_Layout), Member = "get_DisplayChestGrid", ReturnType = typeof(ItemGrid_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PageIconsExtended_Layout), Member = "GetDisplayGrid", MemberParameters = new object[]
+		{
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(DraggableItemGrid_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "GetValue", ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIToggleSetting), Member = "GetSelected", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Chest), Member = "SetupShop", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "SaveSettings", ReturnType = typeof(bool))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 23)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(GUIPageIcons), Member = "get_UsingTouchUI", ReturnType = typeof(bool))]
 		get
@@ -32,14 +55,54 @@ public class GUIPageIcons
 		}
 	}
 
-	// Token: 0x170000D7 RID: 215
-	// (get) Token: 0x060008CA RID: 2250 RVA: 0x000235A3 File Offset: 0x000217A3
 	[global::Cpp2ILInjected.Token(Token = "0x170000FE")]
 	public bool UsingTouchUI
 	{
 		[global::Cpp2ILInjected.Token(Token = "0x60009CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x96DAA4", Offset = "0x96DAA4", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfo), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBossBar), Member = "Draw", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float),
+			typeof(Microsoft.Xna.Framework.Graphics.Texture2D),
+			typeof(Rectangle),
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuide), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICrafting), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIDisplayDoll), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "DrawHeaders", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEvents), Member = "DrawInvasionInfo", MemberParameters = new object[]
+		{
+			typeof(Microsoft.Xna.Framework.Graphics.Color),
+			typeof(string),
+			typeof(string),
+			typeof(Microsoft.Xna.Framework.Graphics.Texture2D),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHatRack), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHousingMenu), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInventory), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemDuplication), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMap), Member = "DrawMap", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "GetRegion", ReturnType = typeof(Rectangle))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "GetUIScaleRegion", ReturnType = typeof(Rectangle))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "get_UseHorizontalPages", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "get_DisplayTouchOptions", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforge), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearchPage), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIShop), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BottomCentreHUDAnchorUpdator), Member = "Update", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RightSideHUDAnchorUpdator), Member = "Update", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Events_Layout), Member = "get_Instance", ReturnType = typeof(Events_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InterfaceProfile_Layout), Member = "get_MinVerticalResolution", ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InterfaceProfile_Layout), Member = "DrawEdit", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageGroupEdit), Member = "Draw", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 35)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(DrPlatform), Member = "IsCurrentPlatform", MemberParameters = new object[] { typeof(DrPlatform.DrPlatformType) }, ReturnType = typeof(bool))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(InterfaceStyles_Layout), Member = "get_Active", ReturnType = typeof(InterfaceProfile_Layout))]
@@ -55,13 +118,100 @@ public class GUIPageIcons
 		}
 	}
 
-	// Token: 0x170000D8 RID: 216
-	// (get) Token: 0x060008CB RID: 2251 RVA: 0x000235A6 File Offset: 0x000217A6
 	[global::Cpp2ILInjected.Token(Token = "0x170000FF")]
 	public bool DisplayTouchOptions
 	{
 		[global::Cpp2ILInjected.Token(Token = "0x60009CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x96DB4C", Offset = "0x96DB4C", Length = "0x7C")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBossBar), Member = "Draw", MemberParameters = new object[]
+		{
+			typeof(float),
+			typeof(float),
+			typeof(Microsoft.Xna.Framework.Graphics.Texture2D),
+			typeof(Rectangle),
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBuilderAccToggles), Member = "SetupLayout", ReturnType = typeof(TransactionButton_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuide), Member = "DrawGuideList", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuide), Member = "GuideItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuidePopup), Member = "MaterialItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICrafting), Member = "DrawCraftButton", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICrafting), Member = "CraftItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEmotesWindow), Member = "SetDisplayingEmotes", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "DrawArmourBonus", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHotbar), Member = "DrawHotbarItem", MemberParameters = new object[]
+		{
+			typeof(SpriteBatch),
+			typeof(ItemGrid_Layout),
+			typeof(Item[]),
+			typeof(int),
+			typeof(Microsoft.Xna.Framework.Vector2),
+			typeof(Microsoft.Xna.Framework.Graphics.Color),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHousingMenu), Member = "NPCOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInventory), Member = "LoadPageRegion", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemDuplication), Member = "DrawCraftButton", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemDuplication), Member = "CraftItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "LoadCategoryButtonIcon", MemberParameters = new object[] { typeof(TransactionButton_Layout) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "DrawFilter", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "DrawSearch", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "ChatSize", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(Microsoft.Xna.Framework.Vector2))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "ChatDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Microsoft.Xna.Framework.Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "DrawNotification", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "DrawOptions", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "DrawEditOptions", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "Draw", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforge), Member = "DrawReforge", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearch), Member = "DrawInventoryResearchBinding", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearchPage), Member = "DrawResearch", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearchPage), Member = "ResearchItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIRubbleMaker), Member = "PlayerMenuDisplayToggle", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIRubbleMaker), Member = "RubbleItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIShop), Member = "DrawPurchaseButton", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWiresUI), Member = "PlayerMenuDisplayToggle", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWiresUI), Member = "ClampPositionToScreen", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(Microsoft.Xna.Framework.Vector2))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWiresUI), Member = "ItemDraw", MemberParameters = new object[]
+		{
+			typeof(ItemGrid_Layout),
+			typeof(int),
+			typeof(Microsoft.Xna.Framework.Vector2),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWiresUI), Member = "CalculateRegion", ReturnType = typeof(Rectangle))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BuilderAccToggles_Layout), Member = "get_ToggleOptionsGrid", ReturnType = typeof(ItemGrid_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BottomCentreHUDAnchorUpdator), Member = "Update", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(RightSideHUDAnchorUpdator), Member = "Update", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Equipment_Layout), Member = "get_DisplaySetBonus", ReturnType = typeof(Button_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Equipment_Layout), Member = "get_DisplaySetBonusText", ReturnType = typeof(String_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Equipment_Layout), Member = "get_InfoToggleCollapsed", ReturnType = typeof(TransactionButton_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Equipment_Layout), Member = "get_InfoToggleExpanded", ReturnType = typeof(TransactionButton_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Equipment_Layout), Member = "get_LoadoutToggle", ReturnType = typeof(TransactionButton_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Equipment_Layout), Member = "get_DisplayInfoAccessories", ReturnType = typeof(ItemGrid_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Equipment_Layout), Member = "get_DisplayLoadouts", ReturnType = typeof(ItemGrid_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MultiplayerChat_Layout), Member = "get_Instance", ReturnType = typeof(MultiplayerChat_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MultiplayerChat_Layout), Member = "get_MiniChatInstance", ReturnType = typeof(MultiplayerChat_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PVPIcons_Layout), Member = "get_TeamGridLayout", ReturnType = typeof(ItemGrid_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PVPIcons_Layout), Member = "get_PVPIcon", ReturnType = typeof(TransactionButton_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PVPIcons_Layout), Member = "get_PlayerTeamIcon", ReturnType = typeof(TransactionButton_Layout))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputControllerEdit), Member = "TryMovingGroup", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawQuickStack", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawSort", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawDepositAll", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawChestSort", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawChestRestock", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawChestLootAll", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawChestRename", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawPlayerChat", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 84)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(GUIPageIcons), Member = "get_UsingTouchUI", ReturnType = typeof(bool))]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
@@ -71,7 +221,6 @@ public class GUIPageIcons
 		}
 	}
 
-	// Token: 0x060008CC RID: 2252 RVA: 0x000235A9 File Offset: 0x000217A9
 	[global::Cpp2ILInjected.Token(Token = "0x60009CC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96DBC8", Offset = "0x96DBC8", Length = "0x4F4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -106,7 +255,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008CD RID: 2253 RVA: 0x000235AC File Offset: 0x000217AC
 	[global::Cpp2ILInjected.Token(Token = "0x60009CD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96E428", Offset = "0x96E428", Length = "0x1EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,7 +284,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008CE RID: 2254 RVA: 0x000235AF File Offset: 0x000217AF
 	[global::Cpp2ILInjected.Token(Token = "0x60009CE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96E0BC", Offset = "0x96E0BC", Length = "0x36C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +313,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008CF RID: 2255 RVA: 0x000235B2 File Offset: 0x000217B2
 	[global::Cpp2ILInjected.Token(Token = "0x60009CF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96E614", Offset = "0x96E614", Length = "0xC34")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -257,10 +403,62 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008D0 RID: 2256 RVA: 0x000235B5 File Offset: 0x000217B5
 	[global::Cpp2ILInjected.Token(Token = "0x60009D0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96F248", Offset = "0x96F248", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHotbarRadial), Member = "Activate", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHotbarRadial), Member = "Navigate", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(GUIControllerItem))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerHotbarRadial), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerAmmo4Page), Member = "GetNavigationOutDirs", ReturnType = typeof(int))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerAmmo4Page), Member = "Navigate", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(GUIControllerItem))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerAmmo4Page), Member = "GetSelectedItemRegion", ReturnType = typeof(Rectangle))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIQuickActionButton), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(QuickActionButton_Layout.QuickActionControl),
+		typeof(QuickActionButton_Layout),
+		typeof(bool),
+		typeof(ref float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfoToggles), Member = "DrawToggles", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfoToggles), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBuilderAccToggles), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBuilderAccToggles), Member = "IsOverBuilderTools", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICraftGuidePopup), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentLoadout), Member = "DrawToggles", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentLoadout), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHotbar), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHotbar), Member = "SetItem", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHotbar), Member = "NextItem", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHotbar), Member = "PreviousItem", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHousingMenu), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInventory), Member = "GetSelectedItem", ReturnType = typeof(Item))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInventory), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "DrawFilter", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemFilter), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "GetControllerNavigateController", MemberParameters = new object[]
+	{
+		typeof(int),
+		typeof(int)
+	}, ReturnType = typeof(GUIControllerItem))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "DrawLeftMenuButton", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReforgePopup), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIResearch), Member = "IsOver", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIRubbleMaker), Member = "IsOverInventoryOpenButton", MemberParameters = new object[] { typeof(Microsoft.Xna.Framework.Vector2) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "Update", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(VirtualControllerInputState), Member = "get_SmartDigEnabled", ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(VirtualControllerInputState), Member = "get_AimAndUseEnabled", ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawSort", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawDepositAll", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawEquipButton", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawDepositButton", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawSellButton", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageOptions), Member = "DrawChestSort", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawPlayerChat", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "HoverOverNPCs", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawInterface_40_InteractItemIcon", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawInterface_7_TownNPCHouseBanners", ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 57)]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(InterfaceStyles_Layout), Member = "get_Active", ReturnType = typeof(InterfaceProfile_Layout))]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(InterfaceProfile_Layout), Member = "IsPageSelected", MemberParameters = new object[] { typeof(GUIPageIcons.Category) }, ReturnType = typeof(bool))]
@@ -270,7 +468,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008D1 RID: 2257 RVA: 0x000235B8 File Offset: 0x000217B8
 	[global::Cpp2ILInjected.Token(Token = "0x60009D1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96F2E4", Offset = "0x96F2E4", Length = "0x34")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -310,7 +507,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008D2 RID: 2258 RVA: 0x000235BB File Offset: 0x000217BB
 	[global::Cpp2ILInjected.Token(Token = "0x60009D2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96F328", Offset = "0x96F328", Length = "0x30")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -321,9 +517,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x170000D9 RID: 217
-	// (get) Token: 0x060008D3 RID: 2259 RVA: 0x000235BE File Offset: 0x000217BE
-	// (set) Token: 0x060008D4 RID: 2260 RVA: 0x000235C1 File Offset: 0x000217C1
 	[global::Cpp2ILInjected.Token(Token = "0x17000100")]
 	public GUIPageIcons.Category selectedLeft
 	{
@@ -355,9 +548,6 @@ public class GUIPageIcons
 		}
 	}
 
-	// Token: 0x170000DA RID: 218
-	// (get) Token: 0x060008D5 RID: 2261 RVA: 0x000235C4 File Offset: 0x000217C4
-	// (set) Token: 0x060008D6 RID: 2262 RVA: 0x000235C7 File Offset: 0x000217C7
 	[global::Cpp2ILInjected.Token(Token = "0x17000101")]
 	public GUIPageIcons.Category selectedRight
 	{
@@ -388,10 +578,42 @@ public class GUIPageIcons
 		}
 	}
 
-	// Token: 0x060008D7 RID: 2263 RVA: 0x000235CA File Offset: 0x000217CA
 	[global::Cpp2ILInjected.Token(Token = "0x60009D7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96FBC0", Offset = "0x96FBC0", Length = "0x1D4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIButtonBar), Member = "PerformAction", MemberParameters = new object[] { typeof(GUIButtonBar.Action) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMap), Member = "DrawMap", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "PageOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "UpdatePageStates", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "DrawLeftMenuButton", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "DrawSelectedPlayerTeamOnlyElements", MemberParameters = new object[]
+	{
+		typeof(bool),
+		typeof(bool)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReturnToTouch), Member = "Draw", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIReturnToTouch), Member = "DrawHUD", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettings), Member = "Draw", ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISettingsPauseMenu), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIZoom), Member = "ApplyPixelZoom", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MPSessionManager), Member = "UpdateUI", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TutorialStep_01_WelcomeDialogue), Member = "Update", ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DoUpdate", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "HoverOverNPCs", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "OpenClothesWindow", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MessageBuffer), Member = "ProcessData", MemberParameters = new object[]
+	{
+		typeof(byte[]),
+		typeof(int),
+		typeof(ref int)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TryOpeningFullscreenMap", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "TileInteractionsUse", MemberParameters = new object[]
+	{
+		typeof(int),
+		typeof(int)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IngameFancyUI), Member = "OpenAchievements", ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 22)]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(GUIControllerNavigationController), Member = "set_CurrentNavigationItem", MemberParameters = new object[] { typeof(GUIControllerItem) }, ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(GUIPageIcons), Member = "set_selectedLeft", MemberParameters = new object[] { typeof(GUIPageIcons.Category) }, ReturnType = typeof(void))]
@@ -412,7 +634,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008D8 RID: 2264 RVA: 0x000235CD File Offset: 0x000217CD
 	[global::Cpp2ILInjected.Token(Token = "0x60009D8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x970A98", Offset = "0x970A98", Length = "0x9E8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -478,7 +699,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008D9 RID: 2265 RVA: 0x000235D0 File Offset: 0x000217D0
 	[global::Cpp2ILInjected.Token(Token = "0x60009D9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x971480", Offset = "0x971480", Length = "0x198")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -492,7 +712,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008DA RID: 2266 RVA: 0x000235D3 File Offset: 0x000217D3
 	[global::Cpp2ILInjected.Token(Token = "0x60009DA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96FD94", Offset = "0x96FD94", Length = "0xD04")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -525,7 +744,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008DB RID: 2267 RVA: 0x000235D6 File Offset: 0x000217D6
 	[global::Cpp2ILInjected.Token(Token = "0x60009DB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x971618", Offset = "0x971618", Length = "0x268")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "UpdatePageStates", ReturnType = typeof(void))]
@@ -548,7 +766,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008DC RID: 2268 RVA: 0x000235D9 File Offset: 0x000217D9
 	[global::Cpp2ILInjected.Token(Token = "0x60009DC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x971880", Offset = "0x971880", Length = "0x128")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "Draw", ReturnType = typeof(void))]
@@ -568,7 +785,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008DD RID: 2269 RVA: 0x000235DC File Offset: 0x000217DC
 	[global::Cpp2ILInjected.Token(Token = "0x60009DD")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9719A8", Offset = "0x9719A8", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -577,7 +793,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008DE RID: 2270 RVA: 0x000235DF File Offset: 0x000217DF
 	[global::Cpp2ILInjected.Token(Token = "0x60009DE")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9719B0", Offset = "0x9719B0", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -587,7 +802,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008DF RID: 2271 RVA: 0x000235E2 File Offset: 0x000217E2
 	[global::Cpp2ILInjected.Token(Token = "0x60009DF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96F3A0", Offset = "0x96F3A0", Length = "0x2B0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -609,7 +823,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E0 RID: 2272 RVA: 0x000235E5 File Offset: 0x000217E5
 	[global::Cpp2ILInjected.Token(Token = "0x60009E0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96F650", Offset = "0x96F650", Length = "0x528")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -644,7 +857,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E1 RID: 2273 RVA: 0x000235E8 File Offset: 0x000217E8
 	[global::Cpp2ILInjected.Token(Token = "0x60009E1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9719FC", Offset = "0x9719FC", Length = "0x228")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -677,7 +889,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E2 RID: 2274 RVA: 0x000235EB File Offset: 0x000217EB
 	[global::Cpp2ILInjected.Token(Token = "0x60009E2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x971E98", Offset = "0x971E98", Length = "0x278")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -723,7 +934,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E3 RID: 2275 RVA: 0x000235EE File Offset: 0x000217EE
 	[global::Cpp2ILInjected.Token(Token = "0x60009E3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x972334", Offset = "0x972334", Length = "0x70C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -805,7 +1015,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E4 RID: 2276 RVA: 0x000235F1 File Offset: 0x000217F1
 	[global::Cpp2ILInjected.Token(Token = "0x60009E4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x972A40", Offset = "0x972A40", Length = "0x448")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -840,7 +1049,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E5 RID: 2277 RVA: 0x000235F4 File Offset: 0x000217F4
 	[global::Cpp2ILInjected.Token(Token = "0x60009E5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x972E88", Offset = "0x972E88", Length = "0x1D0")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerNavigationController), Member = "get_NavigationAxis", ReturnType = typeof(ControllerActionVector))]
@@ -881,7 +1089,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E6 RID: 2278 RVA: 0x000235F7 File Offset: 0x000217F7
 	[global::Cpp2ILInjected.Token(Token = "0x60009E6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x973058", Offset = "0x973058", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -891,7 +1098,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E7 RID: 2279 RVA: 0x000235FA File Offset: 0x000217FA
 	[global::Cpp2ILInjected.Token(Token = "0x60009E7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x96F318", Offset = "0x96F318", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -902,7 +1108,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E8 RID: 2280 RVA: 0x000235FD File Offset: 0x000217FD
 	[global::Cpp2ILInjected.Token(Token = "0x60009E8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x972324", Offset = "0x972324", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "PageDraw", MemberParameters = new object[]
@@ -918,7 +1123,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008E9 RID: 2281 RVA: 0x00023600 File Offset: 0x00021800
 	[global::Cpp2ILInjected.Token(Token = "0x60009E9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x972110", Offset = "0x972110", Length = "0x214")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -944,7 +1148,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008EA RID: 2282 RVA: 0x00023603 File Offset: 0x00021803
 	[global::Cpp2ILInjected.Token(Token = "0x60009EA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x973068", Offset = "0x973068", Length = "0x904")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1038,7 +1241,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008EB RID: 2283 RVA: 0x00023606 File Offset: 0x00021806
 	[global::Cpp2ILInjected.Token(Token = "0x60009EB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x971C24", Offset = "0x971C24", Length = "0x274")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1056,7 +1258,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008EC RID: 2284 RVA: 0x00023609 File Offset: 0x00021809
 	[global::Cpp2ILInjected.Token(Token = "0x60009EC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x97396C", Offset = "0x97396C", Length = "0xB0")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "DrawPageContent", ReturnType = typeof(void))]
@@ -1073,7 +1274,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008ED RID: 2285 RVA: 0x0002360C File Offset: 0x0002180C
 	[global::Cpp2ILInjected.Token(Token = "0x60009ED")]
 	[global::Cpp2ILInjected.Address(RVA = "0x973A1C", Offset = "0x973A1C", Length = "0x52C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1135,8 +1335,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x170000DB RID: 219
-	// (get) Token: 0x060008EE RID: 2286 RVA: 0x0002360F File Offset: 0x0002180F
 	[global::Cpp2ILInjected.Token(Token = "0x17000102")]
 	public bool PagePopupDisplayed
 	{
@@ -1158,7 +1356,6 @@ public class GUIPageIcons
 		}
 	}
 
-	// Token: 0x060008EF RID: 2287 RVA: 0x00023612 File Offset: 0x00021812
 	[global::Cpp2ILInjected.Token(Token = "0x60009EF")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9756E0", Offset = "0x9756E0", Length = "0x378")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1200,7 +1397,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008F0 RID: 2288 RVA: 0x00023615 File Offset: 0x00021815
 	[global::Cpp2ILInjected.Token(Token = "0x60009F0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x975A58", Offset = "0x975A58", Length = "0xC20")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1296,8 +1492,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x170000DC RID: 220
-	// (get) Token: 0x060008F1 RID: 2289 RVA: 0x00023618 File Offset: 0x00021818
 	[global::Cpp2ILInjected.Token(Token = "0x17000103")]
 	public bool LastActiveLeft
 	{
@@ -1319,7 +1513,6 @@ public class GUIPageIcons
 		}
 	}
 
-	// Token: 0x060008F2 RID: 2290 RVA: 0x0002361B File Offset: 0x0002181B
 	[global::Cpp2ILInjected.Token(Token = "0x60009F2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x976DD0", Offset = "0x976DD0", Length = "0x4E0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1345,7 +1538,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008F3 RID: 2291 RVA: 0x0002361E File Offset: 0x0002181E
 	[global::Cpp2ILInjected.Token(Token = "0x60009F3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9772B0", Offset = "0x9772B0", Length = "0x130")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1359,7 +1551,6 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x060008F4 RID: 2292 RVA: 0x00023621 File Offset: 0x00021821
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x60009F4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9773E0", Offset = "0x9773E0", Length = "0x170")]
@@ -1371,326 +1562,249 @@ public class GUIPageIcons
 		throw null;
 	}
 
-	// Token: 0x040006F2 RID: 1778
 	[global::Cpp2ILInjected.Token(Token = "0x4000983")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public GUIPageIcons.PageCollapseMode PageMode;
 
-	// Token: 0x040006F3 RID: 1779
 	[global::Cpp2ILInjected.Token(Token = "0x4000984")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	public GUIPageIcons.PageControlsType PageControls;
 
-	// Token: 0x040006F4 RID: 1780
 	[global::Cpp2ILInjected.Token(Token = "0x4000985")]
 	private static Microsoft.Xna.Framework.Graphics.Texture2D[] _categories;
 
-	// Token: 0x040006F5 RID: 1781
 	[global::Cpp2ILInjected.Token(Token = "0x4000986")]
 	private static Microsoft.Xna.Framework.Graphics.Texture2D[] _categoriesSelected;
 
-	// Token: 0x040006F6 RID: 1782
 	[global::Cpp2ILInjected.Token(Token = "0x4000987")]
 	private static Dictionary<int, Microsoft.Xna.Framework.Graphics.Texture2D> _npcIcons;
 
-	// Token: 0x040006F7 RID: 1783
 	[global::Cpp2ILInjected.Token(Token = "0x4000988")]
 	private static Dictionary<int, Microsoft.Xna.Framework.Graphics.Texture2D> _npcSelectedIcons;
 
-	// Token: 0x040006F8 RID: 1784
 	[global::Cpp2ILInjected.Token(Token = "0x4000989")]
 	private static Dictionary<int, Microsoft.Xna.Framework.Graphics.Texture2D> _npcShimmeredIcons;
 
-	// Token: 0x040006F9 RID: 1785
 	[global::Cpp2ILInjected.Token(Token = "0x400098A")]
 	private static Dictionary<int, Microsoft.Xna.Framework.Graphics.Texture2D> _npcShimmeredSelectedIcons;
 
-	// Token: 0x040006FA RID: 1786
 	[global::Cpp2ILInjected.Token(Token = "0x400098B")]
 	private static Dictionary<int, Microsoft.Xna.Framework.Graphics.Texture2D> _itemIcons;
 
-	// Token: 0x040006FB RID: 1787
 	[global::Cpp2ILInjected.Token(Token = "0x400098C")]
 	private static Dictionary<int, Microsoft.Xna.Framework.Graphics.Texture2D> _itemSelectedIcons;
 
-	// Token: 0x040006FC RID: 1788
 	[global::Cpp2ILInjected.Token(Token = "0x400098D")]
 	private static Microsoft.Xna.Framework.Graphics.Texture2D _menuClosed;
 
-	// Token: 0x040006FD RID: 1789
 	[global::Cpp2ILInjected.Token(Token = "0x400098E")]
 	public static Microsoft.Xna.Framework.Graphics.Texture2D _menuOpen;
 
-	// Token: 0x040006FE RID: 1790
 	[global::Cpp2ILInjected.Token(Token = "0x400098F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private GUIPageIcons.Category lastHoverLeft;
 
-	// Token: 0x040006FF RID: 1791
 	[global::Cpp2ILInjected.Token(Token = "0x4000990")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private GUIPageIcons.Category hoverLeft;
 
-	// Token: 0x04000700 RID: 1792
 	[global::Cpp2ILInjected.Token(Token = "0x4000991")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float TimeSinceLeftHoverChanged;
 
-	// Token: 0x04000701 RID: 1793
 	[global::Cpp2ILInjected.Token(Token = "0x4000992")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private float TimeSinceLeftChanged;
 
-	// Token: 0x04000702 RID: 1794
 	[global::Cpp2ILInjected.Token(Token = "0x4000993")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private float TimeSinceRightChanged;
 
-	// Token: 0x04000703 RID: 1795
 	[global::Cpp2ILInjected.Token(Token = "0x4000994")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	private GUIPageIcons.Category lastHoverRight;
 
-	// Token: 0x04000704 RID: 1796
 	[global::Cpp2ILInjected.Token(Token = "0x4000995")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private GUIPageIcons.Category hoverRight;
 
-	// Token: 0x04000705 RID: 1797
 	[global::Cpp2ILInjected.Token(Token = "0x4000996")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private float TimeSinceRightHoverChanged;
 
-	// Token: 0x04000706 RID: 1798
 	[global::Cpp2ILInjected.Token(Token = "0x4000997")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	public bool UseHorizontalInventory;
 
-	// Token: 0x04000707 RID: 1799
 	[global::Cpp2ILInjected.Token(Token = "0x4000998")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x39")]
 	public bool UseConsoleStyle;
 
-	// Token: 0x04000708 RID: 1800
 	[global::Cpp2ILInjected.Token(Token = "0x4000999")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3A")]
 	public bool EnableDoubleClick;
 
-	// Token: 0x04000709 RID: 1801
 	[global::Cpp2ILInjected.Token(Token = "0x400099A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3B")]
 	public bool UsePageLeftStyle;
 
-	// Token: 0x0400070A RID: 1802
 	[global::Cpp2ILInjected.Token(Token = "0x400099B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 	public bool leftMenuOpen;
 
-	// Token: 0x0400070B RID: 1803
 	[global::Cpp2ILInjected.Token(Token = "0x400099C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3D")]
 	private bool leftMenuTogglePressed;
 
-	// Token: 0x0400070C RID: 1804
 	[global::Cpp2ILInjected.Token(Token = "0x400099D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private DateTime LeftNavigationTick;
 
-	// Token: 0x0400070D RID: 1805
 	[global::Cpp2ILInjected.Token(Token = "0x400099E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private float leftMenuButtonScale;
 
-	// Token: 0x0400070E RID: 1806
 	[global::Cpp2ILInjected.Token(Token = "0x400099F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	private GUIPageIcons.Category _selectedLeft;
 
-	// Token: 0x0400070F RID: 1807
 	[global::Cpp2ILInjected.Token(Token = "0x40009A0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	public bool excludeFocus;
 
-	// Token: 0x04000710 RID: 1808
 	[global::Cpp2ILInjected.Token(Token = "0x40009A1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	public List<GUIPageIcons.Category> leftItems;
 
-	// Token: 0x04000711 RID: 1809
 	[global::Cpp2ILInjected.Token(Token = "0x40009A2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	public List<GUIPageIcons.Category> craftItems;
 
-	// Token: 0x04000712 RID: 1810
 	[global::Cpp2ILInjected.Token(Token = "0x40009A3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	public List<GUIPageIcons.Category> interactionItems;
 
-	// Token: 0x04000713 RID: 1811
 	[global::Cpp2ILInjected.Token(Token = "0x40009A4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	public List<GUIPageIcons.Category> equipmentItems;
 
-	// Token: 0x04000714 RID: 1812
 	[global::Cpp2ILInjected.Token(Token = "0x40009A5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	public bool rightMenuOpen;
 
-	// Token: 0x04000715 RID: 1813
 	[global::Cpp2ILInjected.Token(Token = "0x40009A6")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x7C")]
 	private float rightMenuButtonScale;
 
-	// Token: 0x04000716 RID: 1814
 	[global::Cpp2ILInjected.Token(Token = "0x40009A7")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private GUIPageIcons.Category _selectedRight;
 
-	// Token: 0x04000717 RID: 1815
 	[global::Cpp2ILInjected.Token(Token = "0x40009A8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x84")]
 	private GUIPageIcons.Category _selectedCrafting;
 
-	// Token: 0x04000718 RID: 1816
 	[global::Cpp2ILInjected.Token(Token = "0x40009A9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	private GUIPageIcons.Category _selectedInteraction;
 
-	// Token: 0x04000719 RID: 1817
 	[global::Cpp2ILInjected.Token(Token = "0x40009AA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x8C")]
 	private GUIPageIcons.Category _selectedEquipment;
 
-	// Token: 0x0400071A RID: 1818
 	[global::Cpp2ILInjected.Token(Token = "0x40009AB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 	private bool rightMenuTogglePressed;
 
-	// Token: 0x0400071B RID: 1819
 	[global::Cpp2ILInjected.Token(Token = "0x40009AC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 	private DateTime RightNavigationTick;
 
-	// Token: 0x0400071C RID: 1820
 	[global::Cpp2ILInjected.Token(Token = "0x40009AD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 	public List<GUIPageIcons.Category> rightItems;
 
-	// Token: 0x0400071D RID: 1821
 	[global::Cpp2ILInjected.Token(Token = "0x40009AE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 	public bool rightUseDuplication;
 
-	// Token: 0x0400071E RID: 1822
 	[global::Cpp2ILInjected.Token(Token = "0x40009AF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA9")]
 	public bool rightUseItemFilter;
 
-	// Token: 0x0400071F RID: 1823
 	[global::Cpp2ILInjected.Token(Token = "0x40009B0")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xAC")]
 	private Microsoft.Xna.Framework.Vector2 pageButtonRegionSize;
 
-	// Token: 0x04000720 RID: 1824
 	[global::Cpp2ILInjected.Token(Token = "0x40009B1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 	public GUIControllerItem lastActive;
 
-	// Token: 0x020007CC RID: 1996
 	[global::Cpp2ILInjected.Token(Token = "0x2000162")]
 	public enum PageControlsType
 	{
-		// Token: 0x04007A5C RID: 31324
 		[global::Cpp2ILInjected.Token(Token = "0x40009B3")]
 		Vertical,
-		// Token: 0x04007A5D RID: 31325
 		[global::Cpp2ILInjected.Token(Token = "0x40009B4")]
 		Bottom
 	}
 
-	// Token: 0x020007CD RID: 1997
 	[global::Cpp2ILInjected.Token(Token = "0x2000163")]
 	public enum PageCollapseMode
 	{
-		// Token: 0x04007A5F RID: 31327
 		[global::Cpp2ILInjected.Token(Token = "0x40009B6")]
 		CollapsedFullClosed,
-		// Token: 0x04007A60 RID: 31328
 		[global::Cpp2ILInjected.Token(Token = "0x40009B7")]
 		FullClosed,
-		// Token: 0x04007A61 RID: 31329
 		[global::Cpp2ILInjected.Token(Token = "0x40009B8")]
 		CollapsedFull,
-		// Token: 0x04007A62 RID: 31330
 		[global::Cpp2ILInjected.Token(Token = "0x40009B9")]
 		FullOnly
 	}
 
-	// Token: 0x020007CE RID: 1998
 	[global::Cpp2ILInjected.Token(Token = "0x2000164")]
 	public enum Category
 	{
-		// Token: 0x04007A64 RID: 31332
 		[global::Cpp2ILInjected.Token(Token = "0x40009BB")]
 		Crafting,
-		// Token: 0x04007A65 RID: 31333
 		[global::Cpp2ILInjected.Token(Token = "0x40009BC")]
 		CraftingGuide,
-		// Token: 0x04007A66 RID: 31334
 		[global::Cpp2ILInjected.Token(Token = "0x40009BD")]
 		Inventory,
-		// Token: 0x04007A67 RID: 31335
 		[global::Cpp2ILInjected.Token(Token = "0x40009BE")]
 		Chest,
-		// Token: 0x04007A68 RID: 31336
 		[global::Cpp2ILInjected.Token(Token = "0x40009BF")]
 		Shop,
-		// Token: 0x04007A69 RID: 31337
 		[global::Cpp2ILInjected.Token(Token = "0x40009C0")]
 		Housing,
-		// Token: 0x04007A6A RID: 31338
 		[global::Cpp2ILInjected.Token(Token = "0x40009C1")]
 		Equipment,
-		// Token: 0x04007A6B RID: 31339
 		[global::Cpp2ILInjected.Token(Token = "0x40009C2")]
 		PVP,
-		// Token: 0x04007A6C RID: 31340
 		[global::Cpp2ILInjected.Token(Token = "0x40009C3")]
 		Map,
-		// Token: 0x04007A6D RID: 31341
 		[global::Cpp2ILInjected.Token(Token = "0x40009C4")]
 		Reforge,
-		// Token: 0x04007A6E RID: 31342
 		[global::Cpp2ILInjected.Token(Token = "0x40009C5")]
 		HairStylist,
-		// Token: 0x04007A6F RID: 31343
 		[global::Cpp2ILInjected.Token(Token = "0x40009C6")]
 		Dresser,
-		// Token: 0x04007A70 RID: 31344
 		[global::Cpp2ILInjected.Token(Token = "0x40009C7")]
 		GrandDesignSettings,
-		// Token: 0x04007A71 RID: 31345
 		[global::Cpp2ILInjected.Token(Token = "0x40009C8")]
 		JourneyModeSettings,
-		// Token: 0x04007A72 RID: 31346
 		[global::Cpp2ILInjected.Token(Token = "0x40009C9")]
 		Chat,
-		// Token: 0x04007A73 RID: 31347
 		[global::Cpp2ILInjected.Token(Token = "0x40009CA")]
 		Duplicate,
-		// Token: 0x04007A74 RID: 31348
 		[global::Cpp2ILInjected.Token(Token = "0x40009CB")]
 		DisplayDoll,
-		// Token: 0x04007A75 RID: 31349
 		[global::Cpp2ILInjected.Token(Token = "0x40009CC")]
 		HatRack,
-		// Token: 0x04007A76 RID: 31350
 		[global::Cpp2ILInjected.Token(Token = "0x40009CD")]
 		Research,
-		// Token: 0x04007A77 RID: 31351
 		[global::Cpp2ILInjected.Token(Token = "0x40009CE")]
 		None,
-		// Token: 0x04007A78 RID: 31352
 		[global::Cpp2ILInjected.Token(Token = "0x40009CF")]
 		Count
 	}

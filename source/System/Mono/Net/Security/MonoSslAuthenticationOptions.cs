@@ -8,12 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Net.Security
 {
-	// Token: 0x0200001E RID: 30
 	[global::Cpp2ILInjected.Token(Token = "0x2000061")]
 	internal abstract class MonoSslAuthenticationOptions
 	{
-		// Token: 0x1700003D RID: 61
-		// (get) Token: 0x060000DB RID: 219
 		[global::Cpp2ILInjected.Token(Token = "0x1700003D")]
 		public abstract bool ServerMode
 		{
@@ -21,9 +18,6 @@ namespace Mono.Net.Security
 			get;
 		}
 
-		// Token: 0x1700003E RID: 62
-		// (get) Token: 0x060000DC RID: 220
-		// (set) Token: 0x060000DD RID: 221
 		[global::Cpp2ILInjected.Token(Token = "0x1700003E")]
 		public abstract SslProtocols EnabledSslProtocols
 		{
@@ -33,8 +27,6 @@ namespace Mono.Net.Security
 			set;
 		}
 
-		// Token: 0x1700003F RID: 63
-		// (set) Token: 0x060000DE RID: 222
 		[global::Cpp2ILInjected.Token(Token = "0x1700003F")]
 		public abstract EncryptionPolicy EncryptionPolicy
 		{
@@ -42,8 +34,6 @@ namespace Mono.Net.Security
 			set;
 		}
 
-		// Token: 0x17000040 RID: 64
-		// (set) Token: 0x060000DF RID: 223
 		[global::Cpp2ILInjected.Token(Token = "0x17000040")]
 		public abstract X509RevocationMode CertificateRevocationCheckMode
 		{
@@ -51,9 +41,6 @@ namespace Mono.Net.Security
 			set;
 		}
 
-		// Token: 0x17000041 RID: 65
-		// (get) Token: 0x060000E0 RID: 224
-		// (set) Token: 0x060000E1 RID: 225
 		[global::Cpp2ILInjected.Token(Token = "0x17000041")]
 		public abstract string TargetHost
 		{
@@ -63,9 +50,6 @@ namespace Mono.Net.Security
 			set;
 		}
 
-		// Token: 0x17000042 RID: 66
-		// (get) Token: 0x060000E2 RID: 226
-		// (set) Token: 0x060000E3 RID: 227
 		[global::Cpp2ILInjected.Token(Token = "0x17000042")]
 		public abstract X509Certificate ServerCertificate
 		{
@@ -75,9 +59,6 @@ namespace Mono.Net.Security
 			set;
 		}
 
-		// Token: 0x17000043 RID: 67
-		// (get) Token: 0x060000E4 RID: 228
-		// (set) Token: 0x060000E5 RID: 229
 		[global::Cpp2ILInjected.Token(Token = "0x17000043")]
 		public abstract X509CertificateCollection ClientCertificates
 		{
@@ -87,9 +68,6 @@ namespace Mono.Net.Security
 			set;
 		}
 
-		// Token: 0x17000044 RID: 68
-		// (get) Token: 0x060000E6 RID: 230
-		// (set) Token: 0x060000E7 RID: 231
 		[global::Cpp2ILInjected.Token(Token = "0x17000044")]
 		public abstract bool ClientCertificateRequired
 		{
@@ -99,8 +77,6 @@ namespace Mono.Net.Security
 			set;
 		}
 
-		// Token: 0x17000045 RID: 69
-		// (get) Token: 0x060000E8 RID: 232 RVA: 0x00003092 File Offset: 0x00001292
 		[global::Cpp2ILInjected.Token(Token = "0x17000045")]
 		internal ServerCertSelectionCallback ServerCertSelectionDelegate
 		{
@@ -114,7 +90,6 @@ namespace Mono.Net.Security
 			}
 		}
 
-		// Token: 0x060000E9 RID: 233 RVA: 0x00003095 File Offset: 0x00001295
 		[global::Cpp2ILInjected.Token(Token = "0x600015A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D4D3C8", Offset = "0x1D4D3C8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -124,7 +99,6 @@ namespace Mono.Net.Security
 			throw null;
 		}
 
-		// Token: 0x04000058 RID: 88
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000113")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]

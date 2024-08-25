@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000240 RID: 576
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002DD")]
 	public class HMACSHA1 : HMAC
 	{
-		// Token: 0x06001693 RID: 5779 RVA: 0x00018467 File Offset: 0x00016667
 		[global::Cpp2ILInjected.Token(Token = "0x60018AD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFE02C", Offset = "0x1AFE02C", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HMAC), Member = "Create", ReturnType = typeof(HMAC))]
@@ -33,7 +31,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001694 RID: 5780 RVA: 0x0001846A File Offset: 0x0001666A
 		[global::Cpp2ILInjected.Token(Token = "0x60018AE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFE950", Offset = "0x1AFE950", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Rfc2898DeriveBytes), Member = "OpenHmac", ReturnType = typeof(HMAC))]
@@ -43,7 +40,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001695 RID: 5781 RVA: 0x0001846D File Offset: 0x0001666D
 		[global::Cpp2ILInjected.Token(Token = "0x60018AF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFE958", Offset = "0x1AFE958", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HMACSHA1), Member = ".ctor", ReturnType = typeof(void))]

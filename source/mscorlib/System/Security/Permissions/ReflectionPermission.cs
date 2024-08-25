@@ -6,13 +6,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Permissions
 {
-	// Token: 0x02000215 RID: 533
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002AD")]
 	[global::System.Serializable]
 	public sealed class ReflectionPermission : CodeAccessPermission, IUnrestrictedPermission
 	{
-		// Token: 0x06001540 RID: 5440 RVA: 0x000180BF File Offset: 0x000162BF
 		[global::Cpp2ILInjected.Token(Token = "0x600174F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF0DA4", Offset = "0x1AF0DA4", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -28,7 +26,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x06001541 RID: 5441 RVA: 0x000180C2 File Offset: 0x000162C2
 		[global::Cpp2ILInjected.Token(Token = "0x6001750")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF0DE4", Offset = "0x1AF0DE4", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Serialization.JsonTypeReflector", Member = "get_DynamicCodeGeneration", ReturnType = typeof(bool))]
@@ -39,9 +36,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x17000208 RID: 520
-		// (get) Token: 0x06001542 RID: 5442 RVA: 0x000180C5 File Offset: 0x000162C5
-		// (set) Token: 0x06001543 RID: 5443 RVA: 0x000180C8 File Offset: 0x000162C8
 		[global::Cpp2ILInjected.Token(Token = "0x1700025E")]
 		public ReflectionPermissionFlag Flags
 		{
@@ -77,7 +71,6 @@ namespace System.Security.Permissions
 			}
 		}
 
-		// Token: 0x06001544 RID: 5444 RVA: 0x000180CB File Offset: 0x000162CB
 		[global::Cpp2ILInjected.Token(Token = "0x6001753")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF0ECC", Offset = "0x1AF0ECC", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -89,7 +82,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x06001545 RID: 5445 RVA: 0x000180CE File Offset: 0x000162CE
 		[global::Cpp2ILInjected.Token(Token = "0x6001754")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF0F34", Offset = "0x1AF0F34", Length = "0x174")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -110,7 +102,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x06001546 RID: 5446 RVA: 0x000180D1 File Offset: 0x000162D1
 		[global::Cpp2ILInjected.Token(Token = "0x6001755")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF10A8", Offset = "0x1AF10A8", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +114,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x06001547 RID: 5447 RVA: 0x000180D4 File Offset: 0x000162D4
 		[global::Cpp2ILInjected.Token(Token = "0x6001756")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF1240", Offset = "0x1AF1240", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -134,7 +124,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x06001548 RID: 5448 RVA: 0x000180D7 File Offset: 0x000162D7
 		[global::Cpp2ILInjected.Token(Token = "0x6001757")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF1230", Offset = "0x1AF1230", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -144,7 +133,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x06001549 RID: 5449 RVA: 0x000180DA File Offset: 0x000162DA
 		[global::Cpp2ILInjected.Token(Token = "0x6001758")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF1290", Offset = "0x1AF1290", Length = "0x1CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +154,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x0600154A RID: 5450 RVA: 0x000180DD File Offset: 0x000162DD
 		[global::Cpp2ILInjected.Token(Token = "0x6001759")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF145C", Offset = "0x1AF145C", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +167,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x0600154B RID: 5451 RVA: 0x000180E0 File Offset: 0x000162E0
 		[global::Cpp2ILInjected.Token(Token = "0x600175A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AF118C", Offset = "0x1AF118C", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -200,7 +186,6 @@ namespace System.Security.Permissions
 			throw null;
 		}
 
-		// Token: 0x04000948 RID: 2376
 		[global::Cpp2ILInjected.Token(Token = "0x4000BF0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ReflectionPermissionFlag flags;

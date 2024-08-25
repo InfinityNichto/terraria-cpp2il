@@ -6,12 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Newtonsoft.Json.Converters
 {
-	// Token: 0x020000D2 RID: 210
 	[global::Cpp2ILInjected.Token(Token = "0x2000119")]
 	internal class XContainerWrapper : XObjectWrapper
 	{
-		// Token: 0x170001E6 RID: 486
-		// (get) Token: 0x060009B3 RID: 2483 RVA: 0x00003C98 File Offset: 0x00001E98
 		[global::Cpp2ILInjected.Token(Token = "0x17000213")]
 		private XContainer Container
 		{
@@ -29,7 +26,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x060009B4 RID: 2484 RVA: 0x00003C9B File Offset: 0x00001E9B
 		[global::Cpp2ILInjected.Token(Token = "0x6000AF0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2CA18", Offset = "0x1D2CA18", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XDocumentWrapper), Member = "CreateElement", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(IXmlElement))]
@@ -56,8 +52,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x170001E7 RID: 487
-		// (get) Token: 0x060009B5 RID: 2485 RVA: 0x00003C9E File Offset: 0x00001E9E
 		[global::Cpp2ILInjected.Token(Token = "0x17000214")]
 		public override List<IXmlNode> ChildNodes
 		{
@@ -77,8 +71,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x170001E8 RID: 488
-		// (get) Token: 0x060009B6 RID: 2486 RVA: 0x00003CA1 File Offset: 0x00001EA1
 		[global::Cpp2ILInjected.Token(Token = "0x17000215")]
 		public override IXmlNode ParentNode
 		{
@@ -94,7 +86,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x060009B7 RID: 2487 RVA: 0x00003CA4 File Offset: 0x00001EA4
 		[global::Cpp2ILInjected.Token(Token = "0x6000AF3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2DAE0", Offset = "0x1D2DAE0", Length = "0x470")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -117,7 +108,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x060009B8 RID: 2488 RVA: 0x00003CA7 File Offset: 0x00001EA7
 		[global::Cpp2ILInjected.Token(Token = "0x6000AF4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2D8C8", Offset = "0x1D2D8C8", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -132,7 +122,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x040002FC RID: 764
 		[global::Cpp2ILInjected.Token(Token = "0x4000416")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private List<IXmlNode> _childNodes;

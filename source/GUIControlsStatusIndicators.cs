@@ -6,11 +6,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using Terraria.GameInput;
 
-// Token: 0x020000D5 RID: 213
 [global::Cpp2ILInjected.Token(Token = "0x2000135")]
 public class GUIControlsStatusIndicators
 {
-	// Token: 0x0600070F RID: 1807 RVA: 0x00023072 File Offset: 0x00021272
 	[global::Cpp2ILInjected.Token(Token = "0x6000809")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F1724", Offset = "0x13F1724", Length = "0x36C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +61,6 @@ public class GUIControlsStatusIndicators
 		throw null;
 	}
 
-	// Token: 0x06000710 RID: 1808 RVA: 0x00023075 File Offset: 0x00021275
 	[global::Cpp2ILInjected.Token(Token = "0x600080A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x13F1A90", Offset = "0x13F1A90", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]

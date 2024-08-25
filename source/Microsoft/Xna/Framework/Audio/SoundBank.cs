@@ -7,11 +7,9 @@ using Terraria.Audio;
 
 namespace Microsoft.Xna.Framework.Audio
 {
-	// Token: 0x020002F5 RID: 757
 	[global::Cpp2ILInjected.Token(Token = "0x20003CE")]
 	public class SoundBank
 	{
-		// Token: 0x060018E1 RID: 6369 RVA: 0x00026501 File Offset: 0x00024701
 		[global::Cpp2ILInjected.Token(Token = "0x6001A70")]
 		[global::Cpp2ILInjected.Address(RVA = "0xB49C74", Offset = "0xB49C74", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LegacyAudioSystem), Member = ".ctor", ReturnType = typeof(void))]
@@ -24,7 +22,6 @@ namespace Microsoft.Xna.Framework.Audio
 			throw null;
 		}
 
-		// Token: 0x060018E2 RID: 6370 RVA: 0x00026504 File Offset: 0x00024704
 		[global::Cpp2ILInjected.Token(Token = "0x6001A71")]
 		[global::Cpp2ILInjected.Address(RVA = "0xB49CF0", Offset = "0xB49CF0", Length = "0x170")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LegacyAudioSystem), Member = "LoadCue", MemberParameters = new object[]
@@ -53,7 +50,6 @@ namespace Microsoft.Xna.Framework.Audio
 			throw null;
 		}
 
-		// Token: 0x060018E3 RID: 6371 RVA: 0x00026507 File Offset: 0x00024707
 		[global::Cpp2ILInjected.Token(Token = "0x6001A72")]
 		[global::Cpp2ILInjected.Address(RVA = "0xB49E60", Offset = "0xB49E60", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LegacyAudioSystem), Member = "LoadCue", MemberParameters = new object[]
@@ -69,7 +65,6 @@ namespace Microsoft.Xna.Framework.Audio
 			throw null;
 		}
 
-		// Token: 0x0400216E RID: 8558
 		[global::Cpp2ILInjected.Token(Token = "0x40027DC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Dictionary<string, Cue> _cues;

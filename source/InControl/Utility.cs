@@ -9,11 +9,9 @@ using UnityEngine.SceneManagement;
 
 namespace InControl
 {
-	// Token: 0x02000064 RID: 100
 	[global::Cpp2ILInjected.Token(Token = "0x2000070")]
 	public static class Utility
 	{
-		// Token: 0x060004FF RID: 1279 RVA: 0x00002F2A File Offset: 0x0000112A
 		[global::Cpp2ILInjected.Token(Token = "0x6000517")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7568", Offset = "0x19B7568", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000500 RID: 1280 RVA: 0x00002F2D File Offset: 0x0000112D
 		[global::Cpp2ILInjected.Token(Token = "0x6000518")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7684", Offset = "0x19B7684", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchStickControl), Member = "DrawGizmos", ReturnType = typeof(void))]
@@ -52,7 +49,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000501 RID: 1281 RVA: 0x00002F30 File Offset: 0x00001130
 		[global::Cpp2ILInjected.Token(Token = "0x6000519")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7730", Offset = "0x19B7730", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -74,7 +70,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000502 RID: 1282 RVA: 0x00002F33 File Offset: 0x00001133
 		[global::Cpp2ILInjected.Token(Token = "0x600051A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B785C", Offset = "0x19B785C", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchSprite), Member = "DrawGizmos", MemberParameters = new object[]
@@ -95,7 +90,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000503 RID: 1283 RVA: 0x00002F36 File Offset: 0x00001136
 		[global::Cpp2ILInjected.Token(Token = "0x600051B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7910", Offset = "0x19B7910", Length = "0x13C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Utility), Member = "DrawRectGizmo", MemberParameters = new object[]
@@ -118,7 +112,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000504 RID: 1284 RVA: 0x00002F39 File Offset: 0x00001139
 		[global::Cpp2ILInjected.Token(Token = "0x600051C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7A4C", Offset = "0x19B7A4C", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchStickControl), Member = "DrawGizmos", ReturnType = typeof(void))]
@@ -133,7 +126,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000505 RID: 1285 RVA: 0x00002F3C File Offset: 0x0000113C
 		[global::Cpp2ILInjected.Token(Token = "0x600051D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7B00", Offset = "0x19B7B00", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Utility), Member = "DrawRectGizmo", MemberParameters = new object[]
@@ -153,7 +145,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000506 RID: 1286 RVA: 0x00002F3F File Offset: 0x0000113F
 		[global::Cpp2ILInjected.Token(Token = "0x600051E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7BB4", Offset = "0x19B7BB4", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchSprite), Member = "DrawGizmos", MemberParameters = new object[]
@@ -174,7 +165,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000507 RID: 1287 RVA: 0x00002F42 File Offset: 0x00001142
 		[global::Cpp2ILInjected.Token(Token = "0x600051F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7C68", Offset = "0x19B7C68", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -189,7 +179,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000508 RID: 1288 RVA: 0x00002F45 File Offset: 0x00001145
 		[global::Cpp2ILInjected.Token(Token = "0x6000520")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7CB0", Offset = "0x19B7CB0", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -200,7 +189,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000509 RID: 1289 RVA: 0x00002F48 File Offset: 0x00001148
 		[global::Cpp2ILInjected.Token(Token = "0x6000521")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7D50", Offset = "0x19B7D50", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -216,7 +204,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600050A RID: 1290 RVA: 0x00002F4B File Offset: 0x0000114B
 		[global::Cpp2ILInjected.Token(Token = "0x6000522")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7DB4", Offset = "0x19B7DB4", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -227,7 +214,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600050B RID: 1291 RVA: 0x00002F4E File Offset: 0x0000114E
 		[global::Cpp2ILInjected.Token(Token = "0x6000523")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7F40", Offset = "0x19B7F40", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -239,7 +225,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600050C RID: 1292 RVA: 0x00002F51 File Offset: 0x00001151
 		[global::Cpp2ILInjected.Token(Token = "0x6000524")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7F68", Offset = "0x19B7F68", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -260,7 +245,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600050D RID: 1293 RVA: 0x00002F54 File Offset: 0x00001154
 		[global::Cpp2ILInjected.Token(Token = "0x6000525")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7F8C", Offset = "0x19B7F8C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -272,7 +256,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600050E RID: 1294 RVA: 0x00002F57 File Offset: 0x00001157
 		[global::Cpp2ILInjected.Token(Token = "0x6000526")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7FB0", Offset = "0x19B7FB0", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -289,7 +272,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600050F RID: 1295 RVA: 0x00002F5A File Offset: 0x0000115A
 		[global::Cpp2ILInjected.Token(Token = "0x6000527")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7FC0", Offset = "0x19B7FC0", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -302,7 +284,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000510 RID: 1296 RVA: 0x00002F5D File Offset: 0x0000115D
 		[global::Cpp2ILInjected.Token(Token = "0x6000528")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B8040", Offset = "0x19B8040", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -315,7 +296,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000511 RID: 1297 RVA: 0x00002F60 File Offset: 0x00001160
 		[global::Cpp2ILInjected.Token(Token = "0x6000529")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B80D8", Offset = "0x19B80D8", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -344,7 +324,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000512 RID: 1298 RVA: 0x00002F63 File Offset: 0x00001163
 		[global::Cpp2ILInjected.Token(Token = "0x600052A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7EDC", Offset = "0x19B7EDC", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -364,7 +343,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000513 RID: 1299 RVA: 0x00002F66 File Offset: 0x00001166
 		[global::Cpp2ILInjected.Token(Token = "0x600052B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B80E8", Offset = "0x19B80E8", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -375,7 +353,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000514 RID: 1300 RVA: 0x00002F69 File Offset: 0x00001169
 		[global::Cpp2ILInjected.Token(Token = "0x600052C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7F08", Offset = "0x19B7F08", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -390,7 +367,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000515 RID: 1301 RVA: 0x00002F6C File Offset: 0x0000116C
 		[global::Cpp2ILInjected.Token(Token = "0x600052D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B81AC", Offset = "0x19B81AC", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -413,7 +389,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000516 RID: 1302 RVA: 0x00002F6F File Offset: 0x0000116F
 		[global::Cpp2ILInjected.Token(Token = "0x600052E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B7F30", Offset = "0x19B7F30", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -423,7 +398,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000517 RID: 1303 RVA: 0x00002F72 File Offset: 0x00001172
 		[global::Cpp2ILInjected.Token(Token = "0x600052F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B81D4", Offset = "0x19B81D4", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -445,7 +419,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000518 RID: 1304 RVA: 0x00002F75 File Offset: 0x00001175
 		[global::Cpp2ILInjected.Token(Token = "0x6000530")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B81F0", Offset = "0x19B81F0", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -455,7 +428,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000519 RID: 1305 RVA: 0x00002F78 File Offset: 0x00001178
 		[global::Cpp2ILInjected.Token(Token = "0x6000531")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B823C", Offset = "0x19B823C", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -467,7 +439,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600051A RID: 1306 RVA: 0x00002F7B File Offset: 0x0000117B
 		[global::Cpp2ILInjected.Token(Token = "0x6000532")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B8358", Offset = "0x19B8358", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -477,7 +448,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600051B RID: 1307 RVA: 0x00002F7E File Offset: 0x0000117E
 		[global::Cpp2ILInjected.Token(Token = "0x6000533")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B8364", Offset = "0x19B8364", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -492,7 +462,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600051C RID: 1308 RVA: 0x00002F81 File Offset: 0x00001181
 		[global::Cpp2ILInjected.Token(Token = "0x6000534")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B8370", Offset = "0x19B8370", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -517,7 +486,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600051D RID: 1309 RVA: 0x00002F84 File Offset: 0x00001184
 		[global::Cpp2ILInjected.Token(Token = "0x6000535")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B838C", Offset = "0x19B838C", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -542,7 +510,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600051E RID: 1310 RVA: 0x00002F87 File Offset: 0x00001187
 		[global::Cpp2ILInjected.Token(Token = "0x6000536")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B83A8", Offset = "0x19B83A8", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -586,7 +553,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600051F RID: 1311 RVA: 0x00002F8A File Offset: 0x0000118A
 		[global::Cpp2ILInjected.Token(Token = "0x6000537")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B8454", Offset = "0x19B8454", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerTwoAxisAction), Member = "Update", MemberParameters = new object[]
@@ -621,7 +587,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000520 RID: 1312 RVA: 0x00002F8D File Offset: 0x0000118D
 		[global::Cpp2ILInjected.Token(Token = "0x6000538")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A386C", Offset = "0x15A386C", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -634,7 +599,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000521 RID: 1313 RVA: 0x00002F90 File Offset: 0x00001190
 		[global::Cpp2ILInjected.Token(Token = "0x6000539")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A365C", Offset = "0x15A365C", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -653,7 +617,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000522 RID: 1314 RVA: 0x00002F93 File Offset: 0x00001193
 		[global::Cpp2ILInjected.Token(Token = "0x600053A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A3544", Offset = "0x15A3544", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -665,7 +628,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000523 RID: 1315 RVA: 0x00002F96 File Offset: 0x00001196
 		[global::Cpp2ILInjected.Token(Token = "0x600053B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x15A35C4", Offset = "0x15A35C4", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -691,7 +653,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000524 RID: 1316 RVA: 0x00002F99 File Offset: 0x00001199
 		[global::Cpp2ILInjected.Token(Token = "0x600053C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B84D0", Offset = "0x19B84D0", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Utility), Member = "ArrayResize", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[]
@@ -710,8 +671,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x17000165 RID: 357
-		// (get) Token: 0x06000525 RID: 1317 RVA: 0x00002F9C File Offset: 0x0000119C
 		[global::Cpp2ILInjected.Token(Token = "0x17000167")]
 		internal static bool Is32Bit
 		{
@@ -726,8 +685,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000166 RID: 358
-		// (get) Token: 0x06000526 RID: 1318 RVA: 0x00002F9F File Offset: 0x0000119F
 		[global::Cpp2ILInjected.Token(Token = "0x17000168")]
 		internal static bool Is64Bit
 		{
@@ -742,7 +699,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x06000527 RID: 1319 RVA: 0x00002FA2 File Offset: 0x000011A2
 		[global::Cpp2ILInjected.Token(Token = "0x600053F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B8534", Offset = "0x19B8534", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputManager), Member = "SetupInternal", ReturnType = typeof(bool))]
@@ -762,7 +718,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000528 RID: 1320 RVA: 0x00002FA5 File Offset: 0x000011A5
 		[global::Cpp2ILInjected.Token(Token = "0x6000540")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B85B0", Offset = "0x19B85B0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "get_IsSupportedOnThisPlatform", ReturnType = typeof(bool))]
@@ -772,7 +727,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000529 RID: 1321 RVA: 0x00002FA8 File Offset: 0x000011A8
 		[global::Cpp2ILInjected.Token(Token = "0x6000541")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B85B8", Offset = "0x19B85B8", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TestInputManager), Member = "Update", ReturnType = typeof(void))]
@@ -784,7 +738,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600052A RID: 1322 RVA: 0x00002FAB File Offset: 0x000011AB
 		[global::Cpp2ILInjected.Token(Token = "0x6000542")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B8610", Offset = "0x19B8610", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NativeInputDeviceManager), Member = "CheckPlatformSupport", MemberParameters = new object[] { typeof(ICollection<string>) }, ReturnType = typeof(bool))]
@@ -795,7 +748,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600052B RID: 1323 RVA: 0x00002FAE File Offset: 0x000011AE
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000543")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19B8650", Offset = "0x19B8650", Length = "0xEC")]
@@ -806,11 +758,9 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x040003AB RID: 939
 		[global::Cpp2ILInjected.Token(Token = "0x40003FB")]
 		public const float Epsilon = 1E-07f;
 
-		// Token: 0x040003AC RID: 940
 		[global::Cpp2ILInjected.Token(Token = "0x40003FC")]
 		private static readonly Vector2[] circleVertexList;
 	}

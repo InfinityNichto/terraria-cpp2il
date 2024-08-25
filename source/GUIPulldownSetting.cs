@@ -16,11 +16,9 @@ using Terraria.Localization;
 using Terraria.UI;
 using UnityEngine;
 
-// Token: 0x020001EE RID: 494
 [global::Cpp2ILInjected.Token(Token = "0x200028F")]
 public class GUIPulldownSetting : GUISettingEntry
 {
-	// Token: 0x06000E24 RID: 3620 RVA: 0x000245B1 File Offset: 0x000227B1
 	[global::Cpp2ILInjected.Token(Token = "0x6000F48")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA288A0", Offset = "0xA288A0", Length = "0x44")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerPulldownEntry), Member = ".ctor", MemberParameters = new object[] { typeof(GUISettingID) }, ReturnType = typeof(void))]
@@ -34,7 +32,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E25 RID: 3621 RVA: 0x000245B4 File Offset: 0x000227B4
 	[global::Cpp2ILInjected.Token(Token = "0x6000F49")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA288E4", Offset = "0xA288E4", Length = "0xB4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +48,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E26 RID: 3622 RVA: 0x000245B7 File Offset: 0x000227B7
 	[global::Cpp2ILInjected.Token(Token = "0x6000F4A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA28998", Offset = "0xA28998", Length = "0x28")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -61,7 +57,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E27 RID: 3623 RVA: 0x000245BA File Offset: 0x000227BA
 	[global::Cpp2ILInjected.Token(Token = "0x6000F4B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA289C0", Offset = "0xA289C0", Length = "0x280")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "Draw", ReturnType = typeof(void))]
@@ -83,7 +78,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E28 RID: 3624 RVA: 0x000245BD File Offset: 0x000227BD
 	[global::Cpp2ILInjected.Token(Token = "0x6000F4C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA28C40", Offset = "0xA28C40", Length = "0x31C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPulldownSetting), Member = "DrawFaceButtons", ReturnType = typeof(void))]
@@ -115,7 +109,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E29 RID: 3625 RVA: 0x000245C0 File Offset: 0x000227C0
 	[global::Cpp2ILInjected.Token(Token = "0x6000F4D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA28F5C", Offset = "0xA28F5C", Length = "0x8D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -200,7 +193,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E2A RID: 3626 RVA: 0x000245C3 File Offset: 0x000227C3
 	[global::Cpp2ILInjected.Token(Token = "0x6000F4E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2A84C", Offset = "0xA2A84C", Length = "0x1370")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -366,7 +358,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E2B RID: 3627 RVA: 0x000245C6 File Offset: 0x000227C6
 	[global::Cpp2ILInjected.Token(Token = "0x6000F4F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2DD64", Offset = "0xA2DD64", Length = "0xBC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -380,7 +371,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E2C RID: 3628 RVA: 0x000245C9 File Offset: 0x000227C9
 	[global::Cpp2ILInjected.Token(Token = "0x6000F50")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2DE20", Offset = "0xA2DE20", Length = "0x50")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -390,7 +380,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E2D RID: 3629 RVA: 0x000245CC File Offset: 0x000227CC
 	[global::Cpp2ILInjected.Token(Token = "0x6000F51")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2DE70", Offset = "0xA2DE70", Length = "0xF0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -412,7 +401,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E2E RID: 3630 RVA: 0x000245CF File Offset: 0x000227CF
 	[global::Cpp2ILInjected.Token(Token = "0x6000F52")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2982C", Offset = "0xA2982C", Length = "0x28C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -433,8 +421,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x17000162 RID: 354
-	// (get) Token: 0x06000E2F RID: 3631 RVA: 0x000245D2 File Offset: 0x000227D2
 	[global::Cpp2ILInjected.Token(Token = "0x1700018A")]
 	private static List<int> optionRedirection
 	{
@@ -448,7 +434,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		}
 	}
 
-	// Token: 0x06000E30 RID: 3632 RVA: 0x000245D5 File Offset: 0x000227D5
 	[global::Cpp2ILInjected.Token(Token = "0x6000F54")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA29AB8", Offset = "0xA29AB8", Length = "0xD48")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -475,7 +460,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E31 RID: 3633 RVA: 0x000245D8 File Offset: 0x000227D8
 	[global::Cpp2ILInjected.Token(Token = "0x6000F55")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2D0B4", Offset = "0xA2D0B4", Length = "0xCB0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -520,7 +504,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E32 RID: 3634 RVA: 0x000245DB File Offset: 0x000227DB
 	[global::Cpp2ILInjected.Token(Token = "0x6000F56")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2CBC8", Offset = "0xA2CBC8", Length = "0x4EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -538,7 +521,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E33 RID: 3635 RVA: 0x000245DE File Offset: 0x000227DE
 	[global::Cpp2ILInjected.Token(Token = "0x6000F57")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2DF60", Offset = "0xA2DF60", Length = "0x108")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -552,7 +534,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E34 RID: 3636 RVA: 0x000245E1 File Offset: 0x000227E1
 	[global::Cpp2ILInjected.Token(Token = "0x6000F58")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2BBBC", Offset = "0xA2BBBC", Length = "0x100C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -599,7 +580,6 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x06000E35 RID: 3637 RVA: 0x000245E4 File Offset: 0x000227E4
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000F59")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA2E068", Offset = "0xA2E068", Length = "0x94")]
@@ -615,67 +595,51 @@ public class GUIPulldownSetting : GUISettingEntry
 		throw null;
 	}
 
-	// Token: 0x04001650 RID: 5712
 	[global::Cpp2ILInjected.Token(Token = "0x4001B72")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private GUIPulldownSetting.ActivateOverlayCallback activateOverlayCallback;
 
-	// Token: 0x04001651 RID: 5713
 	[global::Cpp2ILInjected.Token(Token = "0x4001B73")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private GUIPulldownSetting.DeactivateOverlayCallback deactivateOverlayCallback;
 
-	// Token: 0x04001652 RID: 5714
 	[global::Cpp2ILInjected.Token(Token = "0x4001B74")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private GUIPulldownSetting.RegisterOverlay registerOverlayCallback;
 
-	// Token: 0x04001653 RID: 5715
 	[global::Cpp2ILInjected.Token(Token = "0x4001B75")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private float scale;
 
-	// Token: 0x04001654 RID: 5716
 	[global::Cpp2ILInjected.Token(Token = "0x4001B76")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 	private bool drawingOverlay;
 
-	// Token: 0x04001655 RID: 5717
 	[global::Cpp2ILInjected.Token(Token = "0x4001B77")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	public int selectedPosition;
 
-	// Token: 0x04001656 RID: 5718
 	[global::Cpp2ILInjected.Token(Token = "0x4001B78")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	private float _offset;
 
-	// Token: 0x04001657 RID: 5719
 	[global::Cpp2ILInjected.Token(Token = "0x4001B79")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	public bool displayOptions;
 
-	// Token: 0x04001658 RID: 5720
 	[global::Cpp2ILInjected.Token(Token = "0x4001B7A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private GUIInputRegionExclusive _optionsBlocker;
 
-	// Token: 0x04001659 RID: 5721
 	[global::Cpp2ILInjected.Token(Token = "0x4001B7B")]
 	private static int[] LanguageMappingIndices;
 
-	// Token: 0x02000802 RID: 2050
-	// (Invoke) Token: 0x060048F8 RID: 18680
 	[global::Cpp2ILInjected.Token(Token = "0x2000290")]
 	public delegate void ActivateOverlayCallback(GUIPulldownSetting overlayEntry, Rectangle overlayRegion, int selectedOption, float offset);
 
-	// Token: 0x02000803 RID: 2051
-	// (Invoke) Token: 0x060048FC RID: 18684
 	[global::Cpp2ILInjected.Token(Token = "0x2000291")]
 	public delegate void RegisterOverlay(GUIPulldownSetting overlayEntry, Rectangle overlayRegion);
 
-	// Token: 0x02000804 RID: 2052
-	// (Invoke) Token: 0x06004900 RID: 18688
 	[global::Cpp2ILInjected.Token(Token = "0x2000292")]
 	public delegate void DeactivateOverlayCallback();
 }

@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Diagnostics
 {
-	// Token: 0x02000070 RID: 112
 	[global::Cpp2ILInjected.Token(Token = "0x20000C8")]
 	public class CorrelationManager
 	{
-		// Token: 0x060003F4 RID: 1012 RVA: 0x00003980 File Offset: 0x00001B80
 		[global::Cpp2ILInjected.Token(Token = "0x6000494")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC49DC", Offset = "0x1EC49DC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,8 +18,6 @@ namespace System.Diagnostics
 			throw null;
 		}
 
-		// Token: 0x170000C0 RID: 192
-		// (get) Token: 0x060003F5 RID: 1013 RVA: 0x00003983 File Offset: 0x00001B83
 		[global::Cpp2ILInjected.Token(Token = "0x170000C6")]
 		public Stack LogicalOperationStack
 		{
@@ -35,7 +31,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x060003F6 RID: 1014 RVA: 0x00003986 File Offset: 0x00001B86
 		[global::Cpp2ILInjected.Token(Token = "0x6000496")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC49E8", Offset = "0x1EC49E8", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

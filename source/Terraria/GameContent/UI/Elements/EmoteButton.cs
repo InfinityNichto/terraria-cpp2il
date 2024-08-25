@@ -12,11 +12,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006B4 RID: 1716
 	[global::Cpp2ILInjected.Token(Token = "0x2000A8E")]
 	public class EmoteButton : UIElement
 	{
-		// Token: 0x06004398 RID: 17304 RVA: 0x0002E175 File Offset: 0x0002C375
 		[global::Cpp2ILInjected.Token(Token = "0x6004FD2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x901F10", Offset = "0x901F10", Length = "0x25C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +45,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x06004399 RID: 17305 RVA: 0x0002E178 File Offset: 0x0002C378
 		[global::Cpp2ILInjected.Token(Token = "0x6004FD3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90216C", Offset = "0x90216C", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +67,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600439A RID: 17306 RVA: 0x0002E17B File Offset: 0x0002C37B
 		[global::Cpp2ILInjected.Token(Token = "0x6004FD4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x902244", Offset = "0x902244", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +76,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600439B RID: 17307 RVA: 0x0002E17E File Offset: 0x0002C37E
 		[global::Cpp2ILInjected.Token(Token = "0x6004FD5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90225C", Offset = "0x90225C", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,7 +86,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600439C RID: 17308 RVA: 0x0002E181 File Offset: 0x0002C381
 		[global::Cpp2ILInjected.Token(Token = "0x6004FD6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x902278", Offset = "0x902278", Length = "0x470")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -162,7 +156,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600439D RID: 17309 RVA: 0x0002E184 File Offset: 0x0002C384
 		[global::Cpp2ILInjected.Token(Token = "0x6004FD7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9026E8", Offset = "0x9026E8", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -181,7 +174,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600439E RID: 17310 RVA: 0x0002E187 File Offset: 0x0002C387
 		[global::Cpp2ILInjected.Token(Token = "0x6004FD8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x902730", Offset = "0x902730", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -191,7 +183,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0600439F RID: 17311 RVA: 0x0002E18A File Offset: 0x0002C38A
 		[global::Cpp2ILInjected.Token(Token = "0x6004FD9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90274C", Offset = "0x90274C", Length = "0x1A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -232,27 +223,22 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04006F84 RID: 28548
 		[global::Cpp2ILInjected.Token(Token = "0x40088AC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private Asset<Texture2D> _texture;
 
-		// Token: 0x04006F85 RID: 28549
 		[global::Cpp2ILInjected.Token(Token = "0x40088AD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private Asset<Texture2D> _textureBorder;
 
-		// Token: 0x04006F86 RID: 28550
 		[global::Cpp2ILInjected.Token(Token = "0x40088AE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x158")]
 		private int _emoteIndex;
 
-		// Token: 0x04006F87 RID: 28551
 		[global::Cpp2ILInjected.Token(Token = "0x40088AF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x15C")]
 		private bool _hovered;
 
-		// Token: 0x04006F88 RID: 28552
 		[global::Cpp2ILInjected.Token(Token = "0x40088B0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x160")]
 		private int _frameCounter;

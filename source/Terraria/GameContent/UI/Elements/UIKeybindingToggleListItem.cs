@@ -10,11 +10,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006DB RID: 1755
 	[global::Cpp2ILInjected.Token(Token = "0x2000AC0")]
 	public class UIKeybindingToggleListItem : UIElement
 	{
-		// Token: 0x060044A8 RID: 17576 RVA: 0x0002E493 File Offset: 0x0002C693
 		[global::Cpp2ILInjected.Token(Token = "0x60050FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92AB38", Offset = "0x92AB38", Length = "0x294")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +34,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x060044A9 RID: 17577 RVA: 0x0002E496 File Offset: 0x0002C696
 		[global::Cpp2ILInjected.Token(Token = "0x60050FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x92ADCC", Offset = "0x92ADCC", Length = "0x5CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -113,33 +110,27 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x0400706D RID: 28781
 		[global::Cpp2ILInjected.Token(Token = "0x40089B6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x141")]
 		private Color _color;
 
-		// Token: 0x0400706E RID: 28782
 		[global::Cpp2ILInjected.Token(Token = "0x40089B7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]
 		private Func<string> _TextDisplayFunction;
 
-		// Token: 0x0400706F RID: 28783
 		[global::Cpp2ILInjected.Token(Token = "0x40089B8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x150")]
 		private Func<bool> _IsOnFunction;
 
-		// Token: 0x04007070 RID: 28784
 		[global::Cpp2ILInjected.Token(Token = "0x40089B9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x158")]
 		private Asset<Texture2D> _toggleTexture;
 
-		// Token: 0x02000AC1 RID: 2753
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000AC1")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06005281 RID: 21121 RVA: 0x000308D5 File Offset: 0x0002EAD5
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60050FF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x92B398", Offset = "0x92B398", Length = "0x5C")]
@@ -151,7 +142,6 @@ namespace Terraria.GameContent.UI.Elements
 				throw null;
 			}
 
-			// Token: 0x06005282 RID: 21122 RVA: 0x000308D8 File Offset: 0x0002EAD8
 			[global::Cpp2ILInjected.Token(Token = "0x6005100")]
 			[global::Cpp2ILInjected.Address(RVA = "0x92B3F4", Offset = "0x92B3F4", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -161,7 +151,6 @@ namespace Terraria.GameContent.UI.Elements
 				throw null;
 			}
 
-			// Token: 0x06005283 RID: 21123 RVA: 0x000308DB File Offset: 0x0002EADB
 			[global::Cpp2ILInjected.Token(Token = "0x6005101")]
 			[global::Cpp2ILInjected.Address(RVA = "0x92B3FC", Offset = "0x92B3FC", Length = "0x40")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -171,7 +160,6 @@ namespace Terraria.GameContent.UI.Elements
 				throw null;
 			}
 
-			// Token: 0x06005284 RID: 21124 RVA: 0x000308DE File Offset: 0x0002EADE
 			[global::Cpp2ILInjected.Token(Token = "0x6005102")]
 			[global::Cpp2ILInjected.Address(RVA = "0x92B43C", Offset = "0x92B43C", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -180,15 +168,12 @@ namespace Terraria.GameContent.UI.Elements
 				throw null;
 			}
 
-			// Token: 0x04008F55 RID: 36693
 			[global::Cpp2ILInjected.Token(Token = "0x40089BA")]
 			public static readonly UIKeybindingToggleListItem.<>c <>9;
 
-			// Token: 0x04008F56 RID: 36694
 			[global::Cpp2ILInjected.Token(Token = "0x40089BB")]
 			public static Func<string> <>9__4_0;
 
-			// Token: 0x04008F57 RID: 36695
 			[global::Cpp2ILInjected.Token(Token = "0x40089BC")]
 			public static Func<bool> <>9__4_1;
 		}

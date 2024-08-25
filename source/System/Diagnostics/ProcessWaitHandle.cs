@@ -8,11 +8,9 @@ using Microsoft.Win32.SafeHandles;
 
 namespace System.Diagnostics
 {
-	// Token: 0x02000083 RID: 131
 	[global::Cpp2ILInjected.Token(Token = "0x20000DE")]
 	internal class ProcessWaitHandle : WaitHandle
 	{
-		// Token: 0x06000481 RID: 1153 RVA: 0x00003B15 File Offset: 0x00001D15
 		[global::Cpp2ILInjected.Token(Token = "0x6000521")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1EC8198", Offset = "0x1EC8198", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Process), Member = "get_HasExited", ReturnType = typeof(bool))]

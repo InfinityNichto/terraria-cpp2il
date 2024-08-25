@@ -10,12 +10,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.GameContent.UI.Chat
 {
-	// Token: 0x020006F1 RID: 1777
 	[global::Cpp2ILInjected.Token(Token = "0x2000ADD")]
 	public class MobileChatMonitor : IChatMonitor
 	{
-		// Token: 0x170007DD RID: 2013
-		// (get) Token: 0x06004557 RID: 17751 RVA: 0x0002E688 File Offset: 0x0002C888
 		[global::Cpp2ILInjected.Token(Token = "0x170008DE")]
 		public int TextMaxLengthForScreen
 		{
@@ -30,7 +27,6 @@ namespace Terraria.GameContent.UI.Chat
 			}
 		}
 
-		// Token: 0x06004558 RID: 17752 RVA: 0x0002E68B File Offset: 0x0002C88B
 		[global::Cpp2ILInjected.Token(Token = "0x60051C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93380C", Offset = "0x93380C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -39,7 +35,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004559 RID: 17753 RVA: 0x0002E68E File Offset: 0x0002C88E
 		[global::Cpp2ILInjected.Token(Token = "0x60051C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x933810", Offset = "0x933810", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -53,7 +48,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x0600455A RID: 17754 RVA: 0x0002E691 File Offset: 0x0002C891
 		[global::Cpp2ILInjected.Token(Token = "0x60051C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x933908", Offset = "0x933908", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +59,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x0600455B RID: 17755 RVA: 0x0002E694 File Offset: 0x0002C894
 		[global::Cpp2ILInjected.Token(Token = "0x60051C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9339CC", Offset = "0x9339CC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -74,7 +67,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x0600455C RID: 17756 RVA: 0x0002E697 File Offset: 0x0002C897
 		[global::Cpp2ILInjected.Token(Token = "0x60051C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9339D4", Offset = "0x9339D4", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +77,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x0600455D RID: 17757 RVA: 0x0002E69A File Offset: 0x0002C89A
 		[global::Cpp2ILInjected.Token(Token = "0x60051C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x933A20", Offset = "0x933A20", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,7 +94,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x0600455E RID: 17758 RVA: 0x0002E69D File Offset: 0x0002C89D
 		[global::Cpp2ILInjected.Token(Token = "0x60051CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x933BBC", Offset = "0x933BBC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEmotesWindow), Member = "EmoteOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -113,7 +103,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x0600455F RID: 17759 RVA: 0x0002E6A0 File Offset: 0x0002C8A0
 		[global::Cpp2ILInjected.Token(Token = "0x60051CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x933BC4", Offset = "0x933BC4", Length = "0x2F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -167,7 +156,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004560 RID: 17760 RVA: 0x0002E6A3 File Offset: 0x0002C8A3
 		[global::Cpp2ILInjected.Token(Token = "0x60051CC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x933EB4", Offset = "0x933EB4", Length = "0x1B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -202,7 +190,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004561 RID: 17761 RVA: 0x0002E6A6 File Offset: 0x0002C8A6
 		[global::Cpp2ILInjected.Token(Token = "0x60051CD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93406C", Offset = "0x93406C", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -225,7 +212,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004562 RID: 17762 RVA: 0x0002E6A9 File Offset: 0x0002C8A9
 		[global::Cpp2ILInjected.Token(Token = "0x60051CE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x934124", Offset = "0x934124", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -247,7 +233,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004563 RID: 17763 RVA: 0x0002E6AC File Offset: 0x0002C8AC
 		[global::Cpp2ILInjected.Token(Token = "0x60051CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x934228", Offset = "0x934228", Length = "0x37C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -280,32 +265,26 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x040070EB RID: 28907
 		[global::Cpp2ILInjected.Token(Token = "0x4008A3C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public int numChatLines;
 
-		// Token: 0x040070EC RID: 28908
 		[global::Cpp2ILInjected.Token(Token = "0x4008A3D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public ChatLine[] chatLine;
 
-		// Token: 0x040070ED RID: 28909
 		[global::Cpp2ILInjected.Token(Token = "0x4008A3E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private int chatLength;
 
-		// Token: 0x040070EE RID: 28910
 		[global::Cpp2ILInjected.Token(Token = "0x4008A3F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private int showCount;
 
-		// Token: 0x040070EF RID: 28911
 		[global::Cpp2ILInjected.Token(Token = "0x4008A40")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private int startChatLine;
 
-		// Token: 0x040070F0 RID: 28912
 		[global::Cpp2ILInjected.Token(Token = "0x4008A41")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		public int numChatItems;

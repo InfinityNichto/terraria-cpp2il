@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.CompilerServices
 {
-	// Token: 0x020003D7 RID: 983
 	[global::Cpp2ILInjected.Token(Token = "0x2000489")]
 	public readonly struct ConfiguredTaskAwaitable
 	{
-		// Token: 0x06001FED RID: 8173 RVA: 0x00019E68 File Offset: 0x00018068
 		[global::Cpp2ILInjected.Token(Token = "0x6002249")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B74488", Offset = "0x1B74488", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.TaskToApm), Member = "InvokeCallbackWhenTaskCompletes", MemberParameters = new object[]
@@ -27,7 +25,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FEE RID: 8174 RVA: 0x00019E6B File Offset: 0x0001806B
 		[global::Cpp2ILInjected.Token(Token = "0x600224A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B744B0", Offset = "0x1B744B0", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,16 +33,13 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x04000FC3 RID: 4035
 		[global::Cpp2ILInjected.Token(Token = "0x40012C1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly ConfiguredTaskAwaitable.ConfiguredTaskAwaiter m_configuredTaskAwaiter;
 
-		// Token: 0x020005FD RID: 1533
 		[global::Cpp2ILInjected.Token(Token = "0x200048A")]
 		public readonly struct ConfiguredTaskAwaiter : ICriticalNotifyCompletion
 		{
-			// Token: 0x06004133 RID: 16691 RVA: 0x0001FE35 File Offset: 0x0001E035
 			[global::Cpp2ILInjected.Token(Token = "0x600224B")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B744A0", Offset = "0x1B744A0", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -54,13 +48,35 @@ namespace System.Runtime.CompilerServices
 				throw null;
 			}
 
-			// Token: 0x1700075D RID: 1885
-			// (get) Token: 0x06004134 RID: 16692 RVA: 0x0001FE38 File Offset: 0x0001E038
 			[global::Cpp2ILInjected.Token(Token = "0x17000475")]
 			public bool IsCompleted
 			{
 				[global::Cpp2ILInjected.Token(Token = "0x600224C")]
 				[global::Cpp2ILInjected.Address(RVA = "0x1B744BC", Offset = "0x1B744BC", Length = "0xC")]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.<FinishWriteAsync>d__57", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.AsyncProtocolRequest.<StartOperation>d__23", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.AsyncProtocolRequest.<ProcessOperation>d__24", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream.<InnerWrite>d__67", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MonoTlsStream.<CreateStream>d__18", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest.<CreateConnectionAsync>d__86", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest.<MyGetResponseAsync>d__243", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest.<GetResponseFromData>d__244", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest.<<GetRewriteHandler>b__271_0>d", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.MonoChunkStream.<FinishReading>d__8", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnection.<Connect>d__16", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnection.<CreateStream>d__18", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnection.<InitConnection>d__19", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnectionTunnel.<Initialize>d__42", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebOperation.<Run>d__58", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebReadStream.<ReadAsync>d__28", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<FinishWriting>d__31", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<WriteAsyncInner>d__33", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<ProcessWrite>d__34", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<Initialize>d__36", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<SetHeadersAsync>d__37", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<WriteRequestAsync>d__38", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<WriteChunkTrailer_inner>d__39", Member = "MoveNext", ReturnType = typeof(void))]
+				[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<WriteChunkTrailer>d__40", Member = "MoveNext", ReturnType = typeof(void))]
 				[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 27)]
 				[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.Threading.Tasks.Task), Member = "get_IsCompleted", ReturnType = typeof(bool))]
 				get
@@ -69,7 +85,6 @@ namespace System.Runtime.CompilerServices
 				}
 			}
 
-			// Token: 0x06004135 RID: 16693 RVA: 0x0001FE3B File Offset: 0x0001E03B
 			[global::Cpp2ILInjected.Token(Token = "0x600224D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B744C8", Offset = "0x1B744C8", Length = "0x14")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.TaskToApm), Member = "InvokeCallbackWhenTaskCompletes", MemberParameters = new object[]
@@ -91,7 +106,6 @@ namespace System.Runtime.CompilerServices
 				throw null;
 			}
 
-			// Token: 0x06004136 RID: 16694 RVA: 0x0001FE3E File Offset: 0x0001E03E
 			[global::Cpp2ILInjected.Token(Token = "0x600224E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B732FC", Offset = "0x1B732FC", Length = "0x14")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.ForceAsyncAwaiter), Member = "UnsafeOnCompleted", MemberParameters = new object[] { typeof(global::System.Action) }, ReturnType = typeof(void))]
@@ -109,10 +123,33 @@ namespace System.Runtime.CompilerServices
 				throw null;
 			}
 
-			// Token: 0x06004137 RID: 16695 RVA: 0x0001FE41 File Offset: 0x0001E041
 			[global::System.Diagnostics.StackTraceHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x600224F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B744DC", Offset = "0x1B744DC", Length = "0x8")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.<FinishWriteAsync>d__57", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.AsyncProtocolRequest.<StartOperation>d__23", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.AsyncProtocolRequest.<ProcessOperation>d__24", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream.<InnerWrite>d__67", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MonoTlsStream.<CreateStream>d__18", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.FtpWebRequest.<CreateConnectionAsync>d__86", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest.<MyGetResponseAsync>d__243", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest.<GetResponseFromData>d__244", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest.<<GetRewriteHandler>b__271_0>d", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.MonoChunkStream.<FinishReading>d__8", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnection.<Connect>d__16", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnection.<CreateStream>d__18", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnection.<InitConnection>d__19", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnectionTunnel.<Initialize>d__42", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebOperation.<Run>d__58", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebReadStream.<ReadAsync>d__28", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<FinishWriting>d__31", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<WriteAsyncInner>d__33", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<ProcessWrite>d__34", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<Initialize>d__36", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<SetHeadersAsync>d__37", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<WriteRequestAsync>d__38", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<WriteChunkTrailer_inner>d__39", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream.<WriteChunkTrailer>d__40", Member = "MoveNext", ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 27)]
 			[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(TaskAwaiter), Member = "ValidateEnd", MemberParameters = new object[] { typeof(global::System.Threading.Tasks.Task) }, ReturnType = typeof(void))]
 			public void GetResult()
@@ -120,12 +157,10 @@ namespace System.Runtime.CompilerServices
 				throw null;
 			}
 
-			// Token: 0x04001986 RID: 6534
 			[global::Cpp2ILInjected.Token(Token = "0x40012C2")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			internal readonly global::System.Threading.Tasks.Task m_task;
 
-			// Token: 0x04001987 RID: 6535
 			[global::Cpp2ILInjected.Token(Token = "0x40012C3")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			internal readonly bool m_continueOnCapturedContext;

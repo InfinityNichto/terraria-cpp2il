@@ -1,9 +1,0 @@
-<map id="Mono.SafeGPtrArrayHandle" name="Mono.SafeGPtrArrayHandle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,429,227,564"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,217,192,283"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,296,117,429,112,429,100,296"/>
-<area shape="rect" id="Node000003" href="$db/da3/structMono_1_1RuntimeGPtrArrayHandle.html" title=" " alt="" coords="217,133,458,367"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,369,192,419,188,415,232,365"/>
-<area shape="rect" id="Node000004" href="$de/df6/classMono_1_1RuntimeStructs.html" title=" " alt="" coords="260,5,415,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="340,71,340,117,335,117,335,71"/>
-</map>

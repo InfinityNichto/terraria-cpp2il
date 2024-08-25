@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x0200007E RID: 126
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x200008B")]
 	public class EasySmxEsm9101AndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000580 RID: 1408 RVA: 0x000030AD File Offset: 0x000012AD
 		[global::Cpp2ILInjected.Token(Token = "0x600059D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19C6780", Offset = "0x19C6780", Length = "0x8DC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000581 RID: 1409 RVA: 0x000030B0 File Offset: 0x000012B0
 		[global::Cpp2ILInjected.Token(Token = "0x600059E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19C705C", Offset = "0x19C705C", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

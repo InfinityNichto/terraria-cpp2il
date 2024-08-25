@@ -6,12 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono
 {
-	// Token: 0x02000005 RID: 5
 	[global::Cpp2ILInjected.Token(Token = "0x200000A")]
 	internal static class X509Pal
 	{
-		// Token: 0x17000006 RID: 6
-		// (get) Token: 0x06000012 RID: 18 RVA: 0x00002E70 File Offset: 0x00001070
 		[global::Cpp2ILInjected.Token(Token = "0x17000006")]
 		public static X509PalImpl Instance
 		{

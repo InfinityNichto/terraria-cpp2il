@@ -10,11 +10,9 @@ using Terraria.Audio;
 using Terraria.IO;
 using UnityEngine;
 
-// Token: 0x020001C4 RID: 452
 [global::Cpp2ILInjected.Token(Token = "0x200025A")]
 public class GUIDeletePlayer
 {
-	// Token: 0x06000C55 RID: 3157 RVA: 0x00024044 File Offset: 0x00022244
 	[global::Cpp2ILInjected.Token(Token = "0x6000D71")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DAE9C", Offset = "0x9DAE9C", Length = "0x398")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +79,6 @@ public class GUIDeletePlayer
 		throw null;
 	}
 
-	// Token: 0x06000C56 RID: 3158 RVA: 0x00024047 File Offset: 0x00022247
 	[global::Cpp2ILInjected.Token(Token = "0x6000D72")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DB234", Offset = "0x9DB234", Length = "0x144")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -110,7 +107,6 @@ public class GUIDeletePlayer
 		throw null;
 	}
 
-	// Token: 0x06000C57 RID: 3159 RVA: 0x0002404A File Offset: 0x0002224A
 	[global::Cpp2ILInjected.Token(Token = "0x6000D73")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DB378", Offset = "0x9DB378", Length = "0x74")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIDeletePlayer), Member = "Draw", ReturnType = typeof(void))]
@@ -131,7 +127,6 @@ public class GUIDeletePlayer
 		throw null;
 	}
 
-	// Token: 0x06000C58 RID: 3160 RVA: 0x0002404D File Offset: 0x0002224D
 	[global::Cpp2ILInjected.Token(Token = "0x6000D74")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9DB43C", Offset = "0x9DB43C", Length = "0x68")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -144,27 +139,22 @@ public class GUIDeletePlayer
 		throw null;
 	}
 
-	// Token: 0x040013F3 RID: 5107
 	[global::Cpp2ILInjected.Token(Token = "0x40018E1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float scale0;
 
-	// Token: 0x040013F4 RID: 5108
 	[global::Cpp2ILInjected.Token(Token = "0x40018E2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float scale1;
 
-	// Token: 0x040013F5 RID: 5109
 	[global::Cpp2ILInjected.Token(Token = "0x40018E3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float scale2;
 
-	// Token: 0x040013F6 RID: 5110
 	[global::Cpp2ILInjected.Token(Token = "0x40018E4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float titleScale;
 
-	// Token: 0x040013F7 RID: 5111
 	[global::Cpp2ILInjected.Token(Token = "0x40018E5")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private GUIControllerModalResponse _controller;

@@ -5,11 +5,9 @@ using UnityEngine.Android;
 
 namespace UnityEngine
 {
-	// Token: 0x02000009 RID: 9
 	[global::Cpp2ILInjected.Token(Token = "0x2000009")]
 	public class AndroidJavaClass : AndroidJavaObject
 	{
-		// Token: 0x060000A1 RID: 161 RVA: 0x0000222A File Offset: 0x0000042A
 		[global::Cpp2ILInjected.Token(Token = "0x60000A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F5D778", Offset = "0x1F5D778", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DrPlatform.Android", Member = "get_InstallSource", ReturnType = typeof(string))]
@@ -33,7 +31,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000A2 RID: 162 RVA: 0x0000222D File Offset: 0x0000042D
 		[global::Cpp2ILInjected.Token(Token = "0x60000A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F609C0", Offset = "0x1F609C0", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidJavaProxy), Member = ".ctor", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -61,7 +58,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000A3 RID: 163 RVA: 0x00002230 File Offset: 0x00000430
 		[global::Cpp2ILInjected.Token(Token = "0x60000A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F60264", Offset = "0x1F60264", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AndroidJavaObject), Member = "CloneReference", ReturnType = typeof(AndroidJavaObject))]

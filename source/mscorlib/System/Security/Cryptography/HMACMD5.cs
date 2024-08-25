@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x0200023E RID: 574
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002DB")]
 	public class HMACMD5 : HMAC
 	{
-		// Token: 0x0600168F RID: 5775 RVA: 0x0001845B File Offset: 0x0001665B
 		[global::Cpp2ILInjected.Token(Token = "0x60018A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFE5E4", Offset = "0x1AFE5E4", Length = "0x64")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CryptoConfig), Member = "CreateFromName", MemberParameters = new object[]
@@ -26,7 +24,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001690 RID: 5776 RVA: 0x0001845E File Offset: 0x0001665E
 		[global::Cpp2ILInjected.Token(Token = "0x60018AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFE648", Offset = "0x1AFE648", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.Protocol.Ntlm.ChallengeResponse2", Member = "Compute_NTLMv2", MemberParameters = new object[]

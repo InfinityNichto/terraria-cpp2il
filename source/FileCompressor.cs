@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Ionic.Zlib;
 using UnityEngine;
 
-// Token: 0x02000048 RID: 72
 [global::Cpp2ILInjected.Token(Token = "0x200006E")]
 public static class FileCompressor
 {
-	// Token: 0x060001D5 RID: 469 RVA: 0x000220D0 File Offset: 0x000202D0
 	[global::Cpp2ILInjected.Token(Token = "0x6000268")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70F514", Offset = "0x70F514", Length = "0xAC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FileCompressor), Member = "CompressFile", MemberParameters = new object[]
@@ -30,7 +28,6 @@ public static class FileCompressor
 		throw null;
 	}
 
-	// Token: 0x060001D6 RID: 470 RVA: 0x000220D3 File Offset: 0x000202D3
 	[global::Cpp2ILInjected.Token(Token = "0x6000269")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70F5C0", Offset = "0x70F5C0", Length = "0xBC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +48,6 @@ public static class FileCompressor
 		throw null;
 	}
 
-	// Token: 0x060001D7 RID: 471 RVA: 0x000220D6 File Offset: 0x000202D6
 	[global::Cpp2ILInjected.Token(Token = "0x600026A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70F67C", Offset = "0x70F67C", Length = "0x194")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +72,6 @@ public static class FileCompressor
 		throw null;
 	}
 
-	// Token: 0x060001D8 RID: 472 RVA: 0x000220D9 File Offset: 0x000202D9
 	[global::Cpp2ILInjected.Token(Token = "0x600026B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70F810", Offset = "0x70F810", Length = "0x168")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -104,7 +99,6 @@ public static class FileCompressor
 		throw null;
 	}
 
-	// Token: 0x060001D9 RID: 473 RVA: 0x000220DC File Offset: 0x000202DC
 	[global::Cpp2ILInjected.Token(Token = "0x600026C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70F978", Offset = "0x70F978", Length = "0xC8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -126,7 +120,6 @@ public static class FileCompressor
 		throw null;
 	}
 
-	// Token: 0x060001DA RID: 474 RVA: 0x000220DF File Offset: 0x000202DF
 	[global::Cpp2ILInjected.Token(Token = "0x600026D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70FA40", Offset = "0x70FA40", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -146,7 +139,6 @@ public static class FileCompressor
 		throw null;
 	}
 
-	// Token: 0x04000123 RID: 291
 	[global::Cpp2ILInjected.Token(Token = "0x400021A")]
 	public static bool Disable;
 }

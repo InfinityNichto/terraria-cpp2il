@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001D3 RID: 467
 	[Preserve]
 	[NativeInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20001E0")]
 	public class Xbox360WirelessWindowsNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x06000830 RID: 2096 RVA: 0x000038BD File Offset: 0x00001ABD
 		[global::Cpp2ILInjected.Token(Token = "0x600084D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19AB930", Offset = "0x19AB930", Length = "0xB84")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -26,7 +24,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000831 RID: 2097 RVA: 0x000038C0 File Offset: 0x00001AC0
 		[global::Cpp2ILInjected.Token(Token = "0x600084E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19AC4B4", Offset = "0x19AC4B4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

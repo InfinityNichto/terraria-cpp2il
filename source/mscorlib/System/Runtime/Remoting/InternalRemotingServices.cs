@@ -8,12 +8,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting
 {
-	// Token: 0x020002A3 RID: 675
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000341")]
 	public class InternalRemotingServices
 	{
-		// Token: 0x060019AF RID: 6575 RVA: 0x00018D25 File Offset: 0x00016F25
 		[global::Cpp2ILInjected.Token(Token = "0x6001BD2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B25110", Offset = "0x1B25110", Length = "0x4EC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -48,7 +46,6 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x060019B0 RID: 6576 RVA: 0x00018D28 File Offset: 0x00016F28
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001BD3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B255FC", Offset = "0x1B255FC", Length = "0x70")]
@@ -60,7 +57,6 @@ namespace System.Runtime.Remoting
 			throw null;
 		}
 
-		// Token: 0x04000B49 RID: 2889
 		[global::Cpp2ILInjected.Token(Token = "0x4000E29")]
 		private static global::System.Collections.Hashtable _soapAttributes;
 	}

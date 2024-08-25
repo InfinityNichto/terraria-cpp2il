@@ -1,9 +1,0 @@
-<map id="SaveSynchronisationOperation" name="SaveSynchronisationOperation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="350,5,646,496"/>
-<area shape="rect" id="Node000002" href="$da/dd5/classSaveSynchronisationOperation__ReceiveFile.html" title=" " alt="" coords="5,621,324,899"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,490,258,622,253,619,340,487"/>
-<area shape="rect" id="Node000003" href="$df/d8f/classSaveSynchronisationOperation__SendFile.html" title=" " alt="" coords="348,566,648,954"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="501,510,501,566,495,566,495,510"/>
-<area shape="rect" id="Node000004" href="$d2/da7/classSaveSynchronisationOperation__SendFileList.html" title=" " alt="" coords="672,544,991,976"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="656,487,692,543,688,545,651,490"/>
-</map>

@@ -8,12 +8,9 @@ using Terraria;
 
 namespace Telepathy
 {
-	// Token: 0x02000254 RID: 596
 	[global::Cpp2ILInjected.Token(Token = "0x2000312")]
 	public abstract class Common
 	{
-		// Token: 0x170001A6 RID: 422
-		// (get) Token: 0x0600110D RID: 4365 RVA: 0x00024E09 File Offset: 0x00023009
 		[global::Cpp2ILInjected.Token(Token = "0x170001CE")]
 		public int ReceiveQueueCount
 		{
@@ -29,7 +26,6 @@ namespace Telepathy
 			}
 		}
 
-		// Token: 0x0600110E RID: 4366 RVA: 0x00024E0C File Offset: 0x0002300C
 		[global::Cpp2ILInjected.Token(Token = "0x6001265")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA797FC", Offset = "0xA797FC", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationClient), Member = "Update", ReturnType = typeof(void))]
@@ -45,7 +41,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x0600110F RID: 4367 RVA: 0x00024E0F File Offset: 0x0002300F
 		[global::Cpp2ILInjected.Token(Token = "0x6001266")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA79854", Offset = "0xA79854", Length = "0x300")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -76,7 +71,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001110 RID: 4368 RVA: 0x00024E12 File Offset: 0x00023012
 		[global::Cpp2ILInjected.Token(Token = "0x6001267")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA79B54", Offset = "0xA79B54", Length = "0x220")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -112,7 +106,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001111 RID: 4369 RVA: 0x00024E15 File Offset: 0x00023015
 		[global::Cpp2ILInjected.Token(Token = "0x6001268")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA78564", Offset = "0xA78564", Length = "0x49C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -159,7 +152,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001112 RID: 4370 RVA: 0x00024E18 File Offset: 0x00023018
 		[global::Cpp2ILInjected.Token(Token = "0x6001269")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA79454", Offset = "0xA79454", Length = "0x350")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -188,7 +180,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001113 RID: 4371 RVA: 0x00024E1B File Offset: 0x0002301B
 		[global::Cpp2ILInjected.Token(Token = "0x600126A")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA7935C", Offset = "0xA7935C", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Server), Member = ".ctor", ReturnType = typeof(void))]
@@ -201,7 +192,6 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x06001114 RID: 4372 RVA: 0x00024E1E File Offset: 0x0002301E
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600126B")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA79D74", Offset = "0xA79D74", Length = "0x50")]
@@ -213,36 +203,29 @@ namespace Telepathy
 			throw null;
 		}
 
-		// Token: 0x04001C27 RID: 7207
 		[global::Cpp2ILInjected.Token(Token = "0x40021F7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		protected ConcurrentQueue<Message> receiveQueue;
 
-		// Token: 0x04001C28 RID: 7208
 		[global::Cpp2ILInjected.Token(Token = "0x40021F8")]
 		public static int messageQueueSizeWarning;
 
-		// Token: 0x04001C29 RID: 7209
 		[global::Cpp2ILInjected.Token(Token = "0x40021F9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public bool NoDelay;
 
-		// Token: 0x04001C2A RID: 7210
 		[global::Cpp2ILInjected.Token(Token = "0x40021FA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		public int MaxMessageSize;
 
-		// Token: 0x04001C2B RID: 7211
 		[global::Cpp2ILInjected.Token(Token = "0x40021FB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public int SendTimeout;
 
-		// Token: 0x04001C2C RID: 7212
 		[ThreadStatic]
 		[global::Cpp2ILInjected.Token(Token = "0x40021FC")]
 		private static byte[] header;
 
-		// Token: 0x04001C2D RID: 7213
 		[ThreadStatic]
 		[global::Cpp2ILInjected.Token(Token = "0x40021FD")]
 		private static byte[] payload;

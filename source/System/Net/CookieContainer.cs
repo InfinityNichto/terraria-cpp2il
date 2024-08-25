@@ -10,12 +10,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000174 RID: 372
 	[global::Cpp2ILInjected.Token(Token = "0x2000216")]
 	[Serializable]
 	public class CookieContainer
 	{
-		// Token: 0x06000BD1 RID: 3025 RVA: 0x00004FD3 File Offset: 0x000031D3
 		[global::Cpp2ILInjected.Token(Token = "0x6000D2C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F30BD4", Offset = "0x1F30BD4", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BD2 RID: 3026 RVA: 0x00004FD6 File Offset: 0x000031D6
 		[global::Cpp2ILInjected.Token(Token = "0x6000D2D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F30CC4", Offset = "0x1F30CC4", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,7 +56,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BD3 RID: 3027 RVA: 0x00004FD9 File Offset: 0x000031D9
 		[global::Cpp2ILInjected.Token(Token = "0x6000D2E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F30D54", Offset = "0x1F30D54", Length = "0x1AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -87,9 +83,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x170002A6 RID: 678
-		// (get) Token: 0x06000BD4 RID: 3028 RVA: 0x00004FDC File Offset: 0x000031DC
-		// (set) Token: 0x06000BD5 RID: 3029 RVA: 0x00004FDF File Offset: 0x000031DF
 		[global::Cpp2ILInjected.Token(Token = "0x170002C1")]
 		public int Capacity
 		{
@@ -122,8 +115,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002A7 RID: 679
-		// (get) Token: 0x06000BD6 RID: 3030 RVA: 0x00004FE2 File Offset: 0x000031E2
 		[global::Cpp2ILInjected.Token(Token = "0x170002C2")]
 		public int Count
 		{
@@ -136,9 +127,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002A8 RID: 680
-		// (get) Token: 0x06000BD7 RID: 3031 RVA: 0x00004FE5 File Offset: 0x000031E5
-		// (set) Token: 0x06000BD8 RID: 3032 RVA: 0x00004FE8 File Offset: 0x000031E8
 		[global::Cpp2ILInjected.Token(Token = "0x170002C3")]
 		public int MaxCookieSize
 		{
@@ -161,9 +149,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002A9 RID: 681
-		// (get) Token: 0x06000BD9 RID: 3033 RVA: 0x00004FEB File Offset: 0x000031EB
-		// (set) Token: 0x06000BDA RID: 3034 RVA: 0x00004FEE File Offset: 0x000031EE
 		[global::Cpp2ILInjected.Token(Token = "0x170002C4")]
 		public int PerDomainCapacity
 		{
@@ -187,7 +172,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000BDB RID: 3035 RVA: 0x00004FF1 File Offset: 0x000031F1
 		[global::Cpp2ILInjected.Token(Token = "0x6000D36")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3249C", Offset = "0x1F3249C", Length = "0x378")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -239,7 +223,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BDC RID: 3036 RVA: 0x00004FF4 File Offset: 0x000031F4
 		[global::Cpp2ILInjected.Token(Token = "0x6000D37")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F331A4", Offset = "0x1F331A4", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -270,7 +253,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BDD RID: 3037 RVA: 0x00004FF7 File Offset: 0x000031F7
 		[global::Cpp2ILInjected.Token(Token = "0x6000D38")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F32A3C", Offset = "0x1F32A3C", Length = "0x768")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -338,7 +320,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BDE RID: 3038 RVA: 0x00004FFA File Offset: 0x000031FA
 		[global::Cpp2ILInjected.Token(Token = "0x6000D39")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F31070", Offset = "0x1F31070", Length = "0x1310")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -397,7 +378,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BDF RID: 3039 RVA: 0x00004FFD File Offset: 0x000031FD
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F33888", Offset = "0x1F33888", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -417,7 +397,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE0 RID: 3040 RVA: 0x00005000 File Offset: 0x00003200
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F339D4", Offset = "0x1F339D4", Length = "0x2F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -431,7 +410,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE1 RID: 3041 RVA: 0x00005003 File Offset: 0x00003203
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F32814", Offset = "0x1F32814", Length = "0x228")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -481,7 +459,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE2 RID: 3042 RVA: 0x00005006 File Offset: 0x00003206
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F33CC4", Offset = "0x1F33CC4", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -514,7 +491,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE3 RID: 3043 RVA: 0x00005009 File Offset: 0x00003209
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F33DF8", Offset = "0x1F33DF8", Length = "0x3A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -549,7 +525,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE4 RID: 3044 RVA: 0x0000500C File Offset: 0x0000320C
 		[global::Cpp2ILInjected.Token(Token = "0x6000D3F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F34198", Offset = "0x1F34198", Length = "0x664")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -611,7 +586,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE5 RID: 3045 RVA: 0x0000500F File Offset: 0x0000320F
 		[global::Cpp2ILInjected.Token(Token = "0x6000D40")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F347FC", Offset = "0x1F347FC", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -627,7 +601,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE6 RID: 3046 RVA: 0x00005012 File Offset: 0x00003212
 		[global::Cpp2ILInjected.Token(Token = "0x6000D41")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F348BC", Offset = "0x1F348BC", Length = "0x478")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -679,7 +652,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE7 RID: 3047 RVA: 0x00005015 File Offset: 0x00003215
 		[global::Cpp2ILInjected.Token(Token = "0x6000D42")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F34D34", Offset = "0x1F34D34", Length = "0x788")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -720,7 +692,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE8 RID: 3048 RVA: 0x00005018 File Offset: 0x00003218
 		[global::Cpp2ILInjected.Token(Token = "0x6000D43")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F354D0", Offset = "0x1F354D0", Length = "0x1B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -753,7 +724,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BE9 RID: 3049 RVA: 0x0000501B File Offset: 0x0000321B
 		[global::Cpp2ILInjected.Token(Token = "0x6000D44")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F35688", Offset = "0x1F35688", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpWebRequest), Member = "GetHeaders", ReturnType = typeof(string))]
@@ -775,7 +745,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BEA RID: 3050 RVA: 0x0000501E File Offset: 0x0000321E
 		[global::Cpp2ILInjected.Token(Token = "0x6000D45")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F35754", Offset = "0x1F35754", Length = "0x384")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -802,7 +771,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BEB RID: 3051 RVA: 0x00005021 File Offset: 0x00003221
 		[global::Cpp2ILInjected.Token(Token = "0x6000D46")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F35AD8", Offset = "0x1F35AD8", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -825,7 +793,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000BEC RID: 3052 RVA: 0x00005024 File Offset: 0x00003224
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000D47")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F35BCC", Offset = "0x1F35BCC", Length = "0xB0")]
@@ -836,48 +803,38 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x040008D8 RID: 2264
 		[global::Cpp2ILInjected.Token(Token = "0x4000B44")]
 		public const int DefaultCookieLimit = 300;
 
-		// Token: 0x040008D9 RID: 2265
 		[global::Cpp2ILInjected.Token(Token = "0x4000B45")]
 		public const int DefaultPerDomainCookieLimit = 20;
 
-		// Token: 0x040008DA RID: 2266
 		[global::Cpp2ILInjected.Token(Token = "0x4000B46")]
 		public const int DefaultCookieLengthLimit = 4096;
 
-		// Token: 0x040008DB RID: 2267
 		[global::Cpp2ILInjected.Token(Token = "0x4000B47")]
 		private static readonly HeaderVariantInfo[] HeaderInfo;
 
-		// Token: 0x040008DC RID: 2268
 		[global::Cpp2ILInjected.Token(Token = "0x4000B48")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Hashtable m_domainTable;
 
-		// Token: 0x040008DD RID: 2269
 		[global::Cpp2ILInjected.Token(Token = "0x4000B49")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int m_maxCookieSize;
 
-		// Token: 0x040008DE RID: 2270
 		[global::Cpp2ILInjected.Token(Token = "0x4000B4A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private int m_maxCookies;
 
-		// Token: 0x040008DF RID: 2271
 		[global::Cpp2ILInjected.Token(Token = "0x4000B4B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private int m_maxCookiesPerDomain;
 
-		// Token: 0x040008E0 RID: 2272
 		[global::Cpp2ILInjected.Token(Token = "0x4000B4C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		private int m_count;
 
-		// Token: 0x040008E1 RID: 2273
 		[global::Cpp2ILInjected.Token(Token = "0x4000B4D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private string m_fqdnMyDomain;

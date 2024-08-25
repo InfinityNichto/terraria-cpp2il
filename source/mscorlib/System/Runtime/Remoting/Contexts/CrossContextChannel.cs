@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Contexts
 {
-	// Token: 0x020002C7 RID: 711
 	[global::Cpp2ILInjected.Token(Token = "0x2000369")]
 	internal class CrossContextChannel : global::System.Runtime.Remoting.Messaging.IMessageSink
 	{
-		// Token: 0x06001ADE RID: 6878 RVA: 0x0001907F File Offset: 0x0001727F
 		[global::Cpp2ILInjected.Token(Token = "0x6001D08")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3C6A4", Offset = "0x1B3C6A4", Length = "0x3B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -46,7 +44,6 @@ namespace System.Runtime.Remoting.Contexts
 			throw null;
 		}
 
-		// Token: 0x06001ADF RID: 6879 RVA: 0x00019082 File Offset: 0x00017282
 		[global::Cpp2ILInjected.Token(Token = "0x6001D09")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3CA58", Offset = "0x1B3CA58", Length = "0x420")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +77,6 @@ namespace System.Runtime.Remoting.Contexts
 			throw null;
 		}
 
-		// Token: 0x06001AE0 RID: 6880 RVA: 0x00019085 File Offset: 0x00017285
 		[global::Cpp2ILInjected.Token(Token = "0x6001D0A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3CEB4", Offset = "0x1B3CEB4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -90,11 +86,9 @@ namespace System.Runtime.Remoting.Contexts
 			throw null;
 		}
 
-		// Token: 0x020005ED RID: 1517
 		[global::Cpp2ILInjected.Token(Token = "0x200036A")]
 		private class ContextRestoreSink : global::System.Runtime.Remoting.Messaging.IMessageSink
 		{
-			// Token: 0x06004101 RID: 16641 RVA: 0x0001FDA5 File Offset: 0x0001DFA5
 			[global::Cpp2ILInjected.Token(Token = "0x6001D0B")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B3CE78", Offset = "0x1B3CE78", Length = "0x3C")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -104,7 +98,6 @@ namespace System.Runtime.Remoting.Contexts
 				throw null;
 			}
 
-			// Token: 0x06004102 RID: 16642 RVA: 0x0001FDA8 File Offset: 0x0001DFA8
 			[global::Cpp2ILInjected.Token(Token = "0x6001D0C")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B3CEBC", Offset = "0x1B3CEBC", Length = "0x2A4")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,7 +129,6 @@ namespace System.Runtime.Remoting.Contexts
 				throw null;
 			}
 
-			// Token: 0x06004103 RID: 16643 RVA: 0x0001FDAB File Offset: 0x0001DFAB
 			[global::Cpp2ILInjected.Token(Token = "0x6001D0D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B3D160", Offset = "0x1B3D160", Length = "0x38")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -147,17 +139,14 @@ namespace System.Runtime.Remoting.Contexts
 				throw null;
 			}
 
-			// Token: 0x0400196E RID: 6510
 			[global::Cpp2ILInjected.Token(Token = "0x4000EB3")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private global::System.Runtime.Remoting.Messaging.IMessageSink _next;
 
-			// Token: 0x0400196F RID: 6511
 			[global::Cpp2ILInjected.Token(Token = "0x4000EB4")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private Context _context;
 
-			// Token: 0x04001970 RID: 6512
 			[global::Cpp2ILInjected.Token(Token = "0x4000EB5")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private global::System.Runtime.Remoting.Messaging.IMessage _call;

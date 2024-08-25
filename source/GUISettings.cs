@@ -13,11 +13,9 @@ using Terraria.Initializers;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x02000101 RID: 257
 [global::Cpp2ILInjected.Token(Token = "0x2000170")]
 public class GUISettings
 {
-	// Token: 0x06000971 RID: 2417 RVA: 0x00023798 File Offset: 0x00021998
 	[global::Cpp2ILInjected.Token(Token = "0x6000A71")]
 	[global::Cpp2ILInjected.Address(RVA = "0x989E70", Offset = "0x989E70", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.Initializers.AssetInitializer.<LoadAssetsWhileInInitialBlackScreen_InSteps>d__3", Member = "MoveNext", ReturnType = typeof(bool))]
@@ -30,7 +28,6 @@ public class GUISettings
 		throw null;
 	}
 
-	// Token: 0x06000972 RID: 2418 RVA: 0x0002379B File Offset: 0x0002199B
 	[global::Cpp2ILInjected.Token(Token = "0x6000A72")]
 	[global::Cpp2ILInjected.Address(RVA = "0x989F34", Offset = "0x989F34", Length = "0x10C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MPSessionManager), Member = "UpdateUI", ReturnType = typeof(void))]
@@ -46,7 +43,6 @@ public class GUISettings
 		throw null;
 	}
 
-	// Token: 0x06000973 RID: 2419 RVA: 0x0002379E File Offset: 0x0002199E
 	[global::Cpp2ILInjected.Token(Token = "0x6000A73")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98A040", Offset = "0x98A040", Length = "0x16AC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -144,7 +140,6 @@ public class GUISettings
 		throw null;
 	}
 
-	// Token: 0x06000974 RID: 2420 RVA: 0x000237A1 File Offset: 0x000219A1
 	[global::Cpp2ILInjected.Token(Token = "0x6000A74")]
 	[global::Cpp2ILInjected.Address(RVA = "0x98B6EC", Offset = "0x98B6EC", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -155,30 +150,24 @@ public class GUISettings
 		throw null;
 	}
 
-	// Token: 0x040007A5 RID: 1957
 	[global::Cpp2ILInjected.Token(Token = "0x4000A58")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool Visible;
 
-	// Token: 0x040007A6 RID: 1958
 	[global::Cpp2ILInjected.Token(Token = "0x4000A59")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x11")]
 	public bool KeySwitch;
 
-	// Token: 0x040007A7 RID: 1959
 	[global::Cpp2ILInjected.Token(Token = "0x4000A5A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x12")]
 	public bool KeyRelease;
 
-	// Token: 0x040007A8 RID: 1960
 	[global::Cpp2ILInjected.Token(Token = "0x4000A5B")]
 	public static Microsoft.Xna.Framework.Graphics.Texture2D _settingsTexture;
 
-	// Token: 0x040007A9 RID: 1961
 	[global::Cpp2ILInjected.Token(Token = "0x4000A5C")]
 	private static Microsoft.Xna.Framework.Graphics.Texture2D _settingsSelectedTexture;
 
-	// Token: 0x040007AA RID: 1962
 	[global::Cpp2ILInjected.Token(Token = "0x4000A5D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float settingsButtonScale;

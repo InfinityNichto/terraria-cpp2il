@@ -23,13 +23,9 @@ using Unity.Collections.LowLevel.Unsafe;
 using Unity.IL2CPP.CompilerServices;
 using UnityEngine;
 
-// Token: 0x020000EF RID: 239
 [global::Cpp2ILInjected.Token(Token = "0x2000156")]
 public class GUIMap
 {
-	// Token: 0x170000C5 RID: 197
-	// (get) Token: 0x06000861 RID: 2145 RVA: 0x00023468 File Offset: 0x00021668
-	// (set) Token: 0x06000862 RID: 2146 RVA: 0x0002346B File Offset: 0x0002166B
 	[global::Cpp2ILInjected.Token(Token = "0x170000EA")]
 	public GUIMap.MinimapFrameStyle ActiveFrameStyle
 	{
@@ -61,7 +57,6 @@ public class GUIMap
 		}
 	}
 
-	// Token: 0x06000863 RID: 2147 RVA: 0x0002346E File Offset: 0x0002166E
 	[global::Cpp2ILInjected.Token(Token = "0x600095D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9508C8", Offset = "0x9508C8", Length = "0x168")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +72,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x06000864 RID: 2148 RVA: 0x00023471 File Offset: 0x00021671
 	[global::Cpp2ILInjected.Token(Token = "0x600095E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x950A30", Offset = "0x950A30", Length = "0xA8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -96,7 +90,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x06000865 RID: 2149 RVA: 0x00023474 File Offset: 0x00021674
 	[global::Cpp2ILInjected.Token(Token = "0x600095F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x950AD8", Offset = "0x950AD8", Length = "0x314")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -140,7 +133,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x06000866 RID: 2150 RVA: 0x00023477 File Offset: 0x00021677
 	[global::Cpp2ILInjected.Token(Token = "0x6000960")]
 	[global::Cpp2ILInjected.Address(RVA = "0x950780", Offset = "0x950780", Length = "0x148")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMap), Member = "set_ActiveFrameStyle", MemberParameters = new object[] { typeof(GUIMap.MinimapFrameStyle) }, ReturnType = typeof(void))]
@@ -161,7 +153,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x06000867 RID: 2151 RVA: 0x0002347A File Offset: 0x0002167A
 	[global::Cpp2ILInjected.Token(Token = "0x6000961")]
 	[global::Cpp2ILInjected.Address(RVA = "0x950DEC", Offset = "0x950DEC", Length = "0x88")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XNAWorldCameraSettings), Member = "ApplyCamera", ReturnType = typeof(void))]
@@ -174,7 +165,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x06000868 RID: 2152 RVA: 0x0002347D File Offset: 0x0002167D
 	[global::Cpp2ILInjected.Token(Token = "0x6000962")]
 	[global::Cpp2ILInjected.Address(RVA = "0x950E74", Offset = "0x950E74", Length = "0x22C")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIZoom), Member = "UpdatePinchZoom", ReturnType = typeof(void))]
@@ -200,7 +190,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x06000869 RID: 2153 RVA: 0x00023480 File Offset: 0x00021680
 	[global::Cpp2ILInjected.Token(Token = "0x6000963")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9510A0", Offset = "0x9510A0", Length = "0x13C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -214,7 +203,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x0600086A RID: 2154 RVA: 0x00023483 File Offset: 0x00021683
 	[Il2CppSetOption(/*Failed to decode CustomAttribute blob!*/)]
 	[Il2CppSetOption(/*Failed to decode CustomAttribute blob!*/)]
 	[global::Cpp2ILInjected.Token(Token = "0x6000964")]
@@ -263,7 +251,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x0600086B RID: 2155 RVA: 0x00023486 File Offset: 0x00021686
 	[global::Cpp2ILInjected.Token(Token = "0x6000965")]
 	[global::Cpp2ILInjected.Address(RVA = "0x951AEC", Offset = "0x951AEC", Length = "0x540")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -295,7 +282,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x0600086C RID: 2156 RVA: 0x00023489 File Offset: 0x00021689
 	[global::Cpp2ILInjected.Token(Token = "0x6000966")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95202C", Offset = "0x95202C", Length = "0x74")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DoDraw", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
@@ -307,7 +293,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x0600086D RID: 2157 RVA: 0x0002348C File Offset: 0x0002168C
 	[global::Cpp2ILInjected.Token(Token = "0x6000967")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9520C8", Offset = "0x9520C8", Length = "0x650")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -340,7 +325,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x0600086E RID: 2158 RVA: 0x0002348F File Offset: 0x0002168F
 	[global::Cpp2ILInjected.Token(Token = "0x6000968")]
 	[global::Cpp2ILInjected.Address(RVA = "0x952718", Offset = "0x952718", Length = "0x60")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMap), Member = "DrawMap", ReturnType = typeof(void))]
@@ -352,7 +336,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x0600086F RID: 2159 RVA: 0x00023492 File Offset: 0x00021692
 	[global::Cpp2ILInjected.Token(Token = "0x6000969")]
 	[global::Cpp2ILInjected.Address(RVA = "0x952778", Offset = "0x952778", Length = "0x905C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -797,7 +780,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x06000870 RID: 2160 RVA: 0x00023495 File Offset: 0x00021695
 	[global::Cpp2ILInjected.Token(Token = "0x600096A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95BA3C", Offset = "0x95BA3C", Length = "0x9CC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -846,8 +828,6 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x170000C6 RID: 198
-	// (get) Token: 0x06000871 RID: 2161 RVA: 0x00023498 File Offset: 0x00021698
 	[global::Cpp2ILInjected.Token(Token = "0x170000EB")]
 	private int WorldScreenWidth
 	{
@@ -866,8 +846,6 @@ public class GUIMap
 		}
 	}
 
-	// Token: 0x170000C7 RID: 199
-	// (get) Token: 0x06000872 RID: 2162 RVA: 0x0002349B File Offset: 0x0002169B
 	[global::Cpp2ILInjected.Token(Token = "0x170000EC")]
 	private int WorldScreenHeight
 	{
@@ -886,7 +864,6 @@ public class GUIMap
 		}
 	}
 
-	// Token: 0x06000873 RID: 2163 RVA: 0x0002349E File Offset: 0x0002169E
 	[global::Cpp2ILInjected.Token(Token = "0x600096D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x95C408", Offset = "0x95C408", Length = "0x98")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -900,229 +877,180 @@ public class GUIMap
 		throw null;
 	}
 
-	// Token: 0x0400069D RID: 1693
 	[global::Cpp2ILInjected.Token(Token = "0x400090A")]
 	private const int MapTextureDimensions = 256;
 
-	// Token: 0x0400069E RID: 1694
 	[global::Cpp2ILInjected.Token(Token = "0x400090B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private bool grabbedMap;
 
-	// Token: 0x0400069F RID: 1695
 	[global::Cpp2ILInjected.Token(Token = "0x400090C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private int activeX;
 
-	// Token: 0x040006A0 RID: 1696
 	[global::Cpp2ILInjected.Token(Token = "0x400090D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int activeY;
 
-	// Token: 0x040006A1 RID: 1697
 	[global::Cpp2ILInjected.Token(Token = "0x400090E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private Microsoft.Xna.Framework.Graphics.Texture2D[] mapTarget;
 
-	// Token: 0x040006A2 RID: 1698
 	[global::Cpp2ILInjected.Token(Token = "0x400090F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private bool[] mapDirty;
 
-	// Token: 0x040006A3 RID: 1699
 	[global::Cpp2ILInjected.Token(Token = "0x4000910")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private NativeArray<ushort>[] mapTextureData;
 
-	// Token: 0x040006A4 RID: 1700
 	[global::Cpp2ILInjected.Token(Token = "0x4000911")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private unsafe ushort*[] mapTextureDataPtr;
 
-	// Token: 0x040006A5 RID: 1701
 	[global::Cpp2ILInjected.Token(Token = "0x4000912")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	public bool miniMapEnabled;
 
-	// Token: 0x040006A6 RID: 1702
 	[global::Cpp2ILInjected.Token(Token = "0x4000913")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x41")]
 	private bool minimapPressed;
 
-	// Token: 0x040006A7 RID: 1703
 	[global::Cpp2ILInjected.Token(Token = "0x4000914")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x42")]
 	private bool mapPressed;
 
-	// Token: 0x040006A8 RID: 1704
 	[global::Cpp2ILInjected.Token(Token = "0x4000915")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x43")]
 	private bool mapPressedLast;
 
-	// Token: 0x040006A9 RID: 1705
 	[global::Cpp2ILInjected.Token(Token = "0x4000916")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	private bool mapZoomInPressed;
 
-	// Token: 0x040006AA RID: 1706
 	[global::Cpp2ILInjected.Token(Token = "0x4000917")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x45")]
 	private bool mapZoomOutPressed;
 
-	// Token: 0x040006AB RID: 1707
 	[global::Cpp2ILInjected.Token(Token = "0x4000918")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x46")]
 	private bool mapZoomResetPressed;
 
-	// Token: 0x040006AC RID: 1708
 	[global::Cpp2ILInjected.Token(Token = "0x4000919")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	public Microsoft.Xna.Framework.Graphics.Texture2D miniMapOpen;
 
-	// Token: 0x040006AD RID: 1709
 	[global::Cpp2ILInjected.Token(Token = "0x400091A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	public Microsoft.Xna.Framework.Graphics.Texture2D miniMapClosed;
 
-	// Token: 0x040006AE RID: 1710
 	[global::Cpp2ILInjected.Token(Token = "0x400091B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private float ZoomInButtonScale;
 
-	// Token: 0x040006AF RID: 1711
 	[global::Cpp2ILInjected.Token(Token = "0x400091C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 	private float ZoomOutButtonScale;
 
-	// Token: 0x040006B0 RID: 1712
 	[global::Cpp2ILInjected.Token(Token = "0x400091D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private float ZoomDefaultButtonScale;
 
-	// Token: 0x040006B1 RID: 1713
 	[global::Cpp2ILInjected.Token(Token = "0x400091E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x64")]
 	private float ToggleButtonScale;
 
-	// Token: 0x040006B2 RID: 1714
 	[global::Cpp2ILInjected.Token(Token = "0x400091F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private float MapButtonScale;
 
-	// Token: 0x040006B3 RID: 1715
 	[global::Cpp2ILInjected.Token(Token = "0x4000920")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x6C")]
 	private bool use565Map;
 
-	// Token: 0x040006B4 RID: 1716
 	[global::Cpp2ILInjected.Token(Token = "0x4000921")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private GUIMap.MinimapFrameStyle _activeFrameStyle;
 
-	// Token: 0x040006B5 RID: 1717
 	[global::Cpp2ILInjected.Token(Token = "0x4000922")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	public string BackingMiniTextureId;
 
-	// Token: 0x040006B6 RID: 1718
 	[global::Cpp2ILInjected.Token(Token = "0x4000923")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	public string BackingLargeTextureId;
 
-	// Token: 0x040006B7 RID: 1719
 	[global::Cpp2ILInjected.Token(Token = "0x4000924")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	private bool draggingSlider;
 
-	// Token: 0x040006B8 RID: 1720
 	[global::Cpp2ILInjected.Token(Token = "0x4000925")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x8C")]
 	private float ZoomValue;
 
-	// Token: 0x040006B9 RID: 1721
 	[global::Cpp2ILInjected.Token(Token = "0x4000926")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 	private float TinyScrollScale;
 
-	// Token: 0x040006BA RID: 1722
 	[global::Cpp2ILInjected.Token(Token = "0x4000927")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x94")]
 	private float TinyXOffset;
 
-	// Token: 0x040006BB RID: 1723
 	[global::Cpp2ILInjected.Token(Token = "0x4000928")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 	private float TinyYOffset;
 
-	// Token: 0x040006BC RID: 1724
 	[global::Cpp2ILInjected.Token(Token = "0x4000929")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x9C")]
 	private float TinyW;
 
-	// Token: 0x040006BD RID: 1725
 	[global::Cpp2ILInjected.Token(Token = "0x400092A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 	private float TinyH;
 
-	// Token: 0x040006BE RID: 1726
 	[global::Cpp2ILInjected.Token(Token = "0x400092B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 	private GUIControllerFullScreenMap _controller;
 
-	// Token: 0x040006BF RID: 1727
 	[global::Cpp2ILInjected.Token(Token = "0x400092C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB0")]
 	private DateTime _lastPingMouseDownTime;
 
-	// Token: 0x040006C0 RID: 1728
 	[global::Cpp2ILInjected.Token(Token = "0x400092D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 	private Microsoft.Xna.Framework.Vector2 _lastPingMousePosition;
 
-	// Token: 0x040006C1 RID: 1729
 	[global::Cpp2ILInjected.Token(Token = "0x400092E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0xC0")]
 	private int LastFrame;
 
-	// Token: 0x020007C8 RID: 1992
 	[global::Cpp2ILInjected.Token(Token = "0x2000157")]
 	public enum MinimapFrameStyle
 	{
-		// Token: 0x04007A38 RID: 31288
 		[global::Cpp2ILInjected.Token(Token = "0x4000930")]
 		Default,
-		// Token: 0x04007A39 RID: 31289
 		[global::Cpp2ILInjected.Token(Token = "0x4000931")]
 		Golden,
-		// Token: 0x04007A3A RID: 31290
 		[global::Cpp2ILInjected.Token(Token = "0x4000932")]
 		Remix,
-		// Token: 0x04007A3B RID: 31291
 		[global::Cpp2ILInjected.Token(Token = "0x4000933")]
 		Sticks,
-		// Token: 0x04007A3C RID: 31292
 		[global::Cpp2ILInjected.Token(Token = "0x4000934")]
 		StoneGold,
-		// Token: 0x04007A3D RID: 31293
 		[global::Cpp2ILInjected.Token(Token = "0x4000935")]
 		TwigLeaf,
-		// Token: 0x04007A3E RID: 31294
 		[global::Cpp2ILInjected.Token(Token = "0x4000936")]
 		Leaf,
-		// Token: 0x04007A3F RID: 31295
 		[global::Cpp2ILInjected.Token(Token = "0x4000937")]
 		Retro,
-		// Token: 0x04007A40 RID: 31296
 		[global::Cpp2ILInjected.Token(Token = "0x4000938")]
 		Valkyrie
 	}
 
-	// Token: 0x020007C9 RID: 1993
 	[CompilerGenerated]
 	[global::Cpp2ILInjected.Token(Token = "0x2000158")]
 	private sealed class <DrawToMap_Section_Sliced>d__41 : IEnumerator<object>, IEnumerator, IDisposable
 	{
-		// Token: 0x060048CD RID: 18637 RVA: 0x0002EEC8 File Offset: 0x0002D0C8
 		[DebuggerHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x600096E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9520A0", Offset = "0x9520A0", Length = "0x28")]
@@ -1133,7 +1061,6 @@ public class GUIMap
 			throw null;
 		}
 
-		// Token: 0x060048CE RID: 18638 RVA: 0x0002EECB File Offset: 0x0002D0CB
 		[DebuggerHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x600096F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x95C4A0", Offset = "0x95C4A0", Length = "0x4")]
@@ -1143,7 +1070,6 @@ public class GUIMap
 			throw null;
 		}
 
-		// Token: 0x060048CF RID: 18639 RVA: 0x0002EECE File Offset: 0x0002D0CE
 		[global::Cpp2ILInjected.Token(Token = "0x6000970")]
 		[global::Cpp2ILInjected.Address(RVA = "0x95C4A4", Offset = "0x95C4A4", Length = "0x250")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -1163,8 +1089,6 @@ public class GUIMap
 			throw null;
 		}
 
-		// Token: 0x17000845 RID: 2117
-		// (get) Token: 0x060048D0 RID: 18640 RVA: 0x0002EED1 File Offset: 0x0002D0D1
 		[global::Cpp2ILInjected.Token(Token = "0x170000ED")]
 		private object System.Collections.Generic.IEnumerator<System.Object>.Current
 		{
@@ -1178,7 +1102,6 @@ public class GUIMap
 			}
 		}
 
-		// Token: 0x060048D1 RID: 18641 RVA: 0x0002EED4 File Offset: 0x0002D0D4
 		[DebuggerHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x6000972")]
 		[global::Cpp2ILInjected.Address(RVA = "0x95C6FC", Offset = "0x95C6FC", Length = "0x38")]
@@ -1190,8 +1113,6 @@ public class GUIMap
 			throw null;
 		}
 
-		// Token: 0x17000846 RID: 2118
-		// (get) Token: 0x060048D2 RID: 18642 RVA: 0x0002EED7 File Offset: 0x0002D0D7
 		[global::Cpp2ILInjected.Token(Token = "0x170000EE")]
 		private object System.Collections.IEnumerator.Current
 		{
@@ -1205,57 +1126,46 @@ public class GUIMap
 			}
 		}
 
-		// Token: 0x04007A41 RID: 31297
 		[global::Cpp2ILInjected.Token(Token = "0x4000939")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private int <>1__state;
 
-		// Token: 0x04007A42 RID: 31298
 		[global::Cpp2ILInjected.Token(Token = "0x400093A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private object <>2__current;
 
-		// Token: 0x04007A43 RID: 31299
 		[global::Cpp2ILInjected.Token(Token = "0x400093B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public GUIMap <>4__this;
 
-		// Token: 0x04007A44 RID: 31300
 		[global::Cpp2ILInjected.Token(Token = "0x400093C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public int secX;
 
-		// Token: 0x04007A45 RID: 31301
 		[global::Cpp2ILInjected.Token(Token = "0x400093D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 		public int secY;
 
-		// Token: 0x04007A46 RID: 31302
 		[global::Cpp2ILInjected.Token(Token = "0x400093E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private int <xStart>5__2;
 
-		// Token: 0x04007A47 RID: 31303
 		[global::Cpp2ILInjected.Token(Token = "0x400093F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 		private int <xEnd>5__3;
 
-		// Token: 0x04007A48 RID: 31304
 		[global::Cpp2ILInjected.Token(Token = "0x4000940")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private int <yEnd>5__4;
 
-		// Token: 0x04007A49 RID: 31305
 		[global::Cpp2ILInjected.Token(Token = "0x4000941")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		private int <ty>5__5;
 
-		// Token: 0x04007A4A RID: 31306
 		[global::Cpp2ILInjected.Token(Token = "0x4000942")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private int <tx>5__6;
 
-		// Token: 0x04007A4B RID: 31307
 		[global::Cpp2ILInjected.Token(Token = "0x4000943")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		private int <chunkEndY>5__7;

@@ -11,11 +11,9 @@ using Terraria.GameInput;
 using Terraria.UI;
 using UnityEngine;
 
-// Token: 0x020001F3 RID: 499
 [global::Cpp2ILInjected.Token(Token = "0x2000297")]
 public class XNAUIInputLayer
 {
-	// Token: 0x06000E50 RID: 3664 RVA: 0x00024635 File Offset: 0x00022835
 	[global::Cpp2ILInjected.Token(Token = "0x6000F80")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA325B4", Offset = "0xA325B4", Length = "0x190")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalUser), Member = ".ctor", MemberParameters = new object[]
@@ -38,7 +36,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E51 RID: 3665 RVA: 0x00024638 File Offset: 0x00022838
 	[global::Cpp2ILInjected.Token(Token = "0x6000F81")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32744", Offset = "0xA32744", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIDraggableItemGrid), Member = "Draw", MemberParameters = new object[]
@@ -120,7 +117,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E52 RID: 3666 RVA: 0x0002463B File Offset: 0x0002283B
 	[global::Cpp2ILInjected.Token(Token = "0x6000F82")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3275C", Offset = "0xA3275C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -129,7 +125,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E53 RID: 3667 RVA: 0x0002463E File Offset: 0x0002283E
 	[global::Cpp2ILInjected.Token(Token = "0x6000F83")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32764", Offset = "0xA32764", Length = "0x1BC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -155,7 +150,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E54 RID: 3668 RVA: 0x00024641 File Offset: 0x00022841
 	[global::Cpp2ILInjected.Token(Token = "0x6000F84")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32920", Offset = "0xA32920", Length = "0x128")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -179,7 +173,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E55 RID: 3669 RVA: 0x00024644 File Offset: 0x00022844
 	[global::Cpp2ILInjected.Token(Token = "0x6000F85")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32A48", Offset = "0xA32A48", Length = "0x20")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "Update", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
@@ -190,7 +183,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E56 RID: 3670 RVA: 0x00024647 File Offset: 0x00022847
 	[global::Cpp2ILInjected.Token(Token = "0x6000F86")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32B78", Offset = "0xA32B78", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -199,7 +191,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E57 RID: 3671 RVA: 0x0002464A File Offset: 0x0002284A
 	[global::Cpp2ILInjected.Token(Token = "0x6000F87")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32B7C", Offset = "0xA32B7C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerNavigationController), Member = "UpdateUINavigation", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
@@ -225,7 +216,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E58 RID: 3672 RVA: 0x0002464D File Offset: 0x0002284D
 	[global::Cpp2ILInjected.Token(Token = "0x6000F88")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32B84", Offset = "0xA32B84", Length = "0x1C0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -242,8 +232,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x17000163 RID: 355
-	// (get) Token: 0x06000E59 RID: 3673 RVA: 0x00024650 File Offset: 0x00022850
 	[global::Cpp2ILInjected.Token(Token = "0x1700018B")]
 	public static float UITextAlpha
 	{
@@ -263,7 +251,6 @@ public class XNAUIInputLayer
 		}
 	}
 
-	// Token: 0x06000E5A RID: 3674 RVA: 0x00024653 File Offset: 0x00022853
 	[global::Cpp2ILInjected.Token(Token = "0x6000F8A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32E98", Offset = "0xA32E98", Length = "0x78")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -294,10 +281,184 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E5B RID: 3675 RVA: 0x00024656 File Offset: 0x00022856
 	[global::Cpp2ILInjected.Token(Token = "0x6000F8B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32D44", Offset = "0xA32D44", Length = "0xEC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPopoutMenu), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(PopoutMenu_Layout),
+		typeof(string[]),
+		typeof(ref bool),
+		typeof(ref float),
+		typeof(ref Rectangle)
+	}, ReturnType = typeof(int))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUITransactionButton), Member = "DrawBacking", MemberParameters = new object[]
+	{
+		typeof(TransactionButton_Layout),
+		typeof(Microsoft.Xna.Framework.Graphics.Texture2D),
+		typeof(Microsoft.Xna.Framework.Graphics.Texture2D),
+		typeof(Microsoft.Xna.Framework.Graphics.Color),
+		typeof(Microsoft.Xna.Framework.Graphics.Color),
+		typeof(Microsoft.Xna.Framework.Graphics.Texture2D),
+		typeof(Microsoft.Xna.Framework.Graphics.Color),
+		typeof(float),
+		typeof(bool)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUITransactionButton), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(TransactionButton_Layout),
+		typeof(GUITransactionButton.DrawItemHandler),
+		typeof(Microsoft.Xna.Framework.Vector2),
+		typeof(string),
+		typeof(bool),
+		typeof(ref float),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool)
+	}, ReturnType = typeof(GUITransactionButton.InputState))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUITransactionButton), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(TransactionButton_Layout),
+		typeof(Item),
+		typeof(string),
+		typeof(bool),
+		typeof(ref float),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool)
+	}, ReturnType = typeof(GUITransactionButton.InputState))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUITransactionButton), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(TransactionButton_Layout),
+		typeof(Microsoft.Xna.Framework.Graphics.Texture2D),
+		typeof(Rectangle),
+		typeof(Microsoft.Xna.Framework.Graphics.Texture2D),
+		typeof(Rectangle),
+		typeof(string),
+		typeof(bool),
+		typeof(ref float),
+		typeof(Microsoft.Xna.Framework.Graphics.Color?),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool)
+	}, ReturnType = typeof(GUITransactionButton.InputState))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAmmo), Member = "ItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBuffs), Member = "ItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIChest), Member = "ItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICoins), Member = "ItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUICrafting), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipment), Member = "ItemOver", MemberParameters = new object[]
+	{
+		typeof(Item[]),
+		typeof(int),
+		"GUIEquipment.EquipmentItemType",
+		typeof(int),
+		typeof(ref int)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEquipmentLoadout), Member = "DrawToggles", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHotbar), Member = "DrawHotbarItem", MemberParameters = new object[]
+	{
+		typeof(SpriteBatch),
+		typeof(ItemGrid_Layout),
+		typeof(Item[]),
+		typeof(int),
+		typeof(Microsoft.Xna.Framework.Vector2),
+		typeof(Microsoft.Xna.Framework.Graphics.Color),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIHousingMenu), Member = "NPCDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Microsoft.Xna.Framework.Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInventory), Member = "ItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInventory), Member = "DrawItem", MemberParameters = new object[]
+	{
+		typeof(SpriteBatch),
+		typeof(ItemGrid_Layout),
+		typeof(Item[]),
+		typeof(int),
+		typeof(Microsoft.Xna.Framework.Vector2),
+		typeof(Microsoft.Xna.Framework.Graphics.Color),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemDuplication), Member = "DrawCraftButton", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemDuplication), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIItemDuplication), Member = "CraftItemOver", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMouseItem), Member = "get_IsItemDropped", ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "Draw", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIconGrouping), Member = "PageDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Microsoft.Xna.Framework.Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPageIcons), Member = "ClickedOutOfRegion", MemberParameters = new object[]
+	{
+		typeof(Rectangle),
+		typeof(bool)
+	}, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "TeamDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Microsoft.Xna.Framework.Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPVPIcons), Member = "PlayerDraw", MemberParameters = new object[]
+	{
+		typeof(ItemGrid_Layout),
+		typeof(int),
+		typeof(Microsoft.Xna.Framework.Vector2),
+		typeof(float)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIRubbleMaker), Member = "DrawOverlay", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIWiresUI), Member = "DrawOverlay", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInterfaceEdit), Member = "DrawUITweaks", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XNAUIInputLayer), Member = "Update", MemberParameters = new object[] { typeof(float) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mouse), Member = "UpdateUICursorPoint", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mouse), Member = "PlatformGetState", MemberParameters = new object[] { typeof(GameWindow) }, ReturnType = typeof(MouseState))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "GetInputText", MemberParameters = new object[]
+	{
+		typeof(string),
+		typeof(Rectangle),
+		typeof(int),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool),
+		typeof(bool)
+	}, ReturnType = typeof(string))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawInterface_36_Cursor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DoDraw", MemberParameters = new object[] { typeof(GameTime) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "dropItemCheck", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "get_AltInUse", ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "get_ShiftInUse", ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "get_ControlInUse", ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "Draw", MemberParameters = new object[]
+	{
+		typeof(SpriteBatch),
+		typeof(Item[]),
+		typeof(int),
+		typeof(int),
+		typeof(Microsoft.Xna.Framework.Vector2),
+		typeof(Microsoft.Xna.Framework.Graphics.Color),
+		typeof(Microsoft.Xna.Framework.Graphics.Color)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "UpdateTooltipButton", MemberParameters = new object[] { typeof(TransactionButton_Layout) }, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemSlot), Member = "UpdateTooltipContext", MemberParameters = new object[]
+	{
+		typeof(int),
+		typeof(int)
+	}, ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControllerActionButton), Member = "GetButtonState", MemberParameters = new object[] { typeof(ControllerDevice) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControllerActionButton), Member = "GetButtonDown", MemberParameters = new object[] { typeof(ControllerDevice) }, ReturnType = typeof(bool))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControllerActionButton), Member = "GetButtonUp", MemberParameters = new object[] { typeof(ControllerDevice) }, ReturnType = typeof(bool))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 61)]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(GUIControllerNavigationController), Member = "get_UICursor", ReturnType = typeof(global::Cursor))]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(CursorManager), Member = "GetNumCursors", ReturnType = typeof(int))]
@@ -308,7 +469,6 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x06000E5C RID: 3676 RVA: 0x00024659 File Offset: 0x00022859
 	[global::Cpp2ILInjected.Token(Token = "0x6000F8C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA32A68", Offset = "0xA32A68", Length = "0x110")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -344,49 +504,39 @@ public class XNAUIInputLayer
 		throw null;
 	}
 
-	// Token: 0x04001704 RID: 5892
 	[global::Cpp2ILInjected.Token(Token = "0x4001C26")]
 	public static XNAUIInputLayer Instance;
 
-	// Token: 0x04001705 RID: 5893
 	[global::Cpp2ILInjected.Token(Token = "0x4001C27")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public CursorInputLayer _inputLayer;
 
-	// Token: 0x04001706 RID: 5894
 	[global::Cpp2ILInjected.Token(Token = "0x4001C28")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public CursorInputLayer _inputLayer2;
 
-	// Token: 0x04001707 RID: 5895
 	[global::Cpp2ILInjected.Token(Token = "0x4001C29")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public CursorInputLayer _worldInputLayer;
 
-	// Token: 0x04001708 RID: 5896
 	[global::Cpp2ILInjected.Token(Token = "0x4001C2A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public int UICrusorDraggingFromAxis;
 
-	// Token: 0x04001709 RID: 5897
 	[global::Cpp2ILInjected.Token(Token = "0x4001C2B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C")]
 	public bool UICrusorDragging;
 
-	// Token: 0x0400170A RID: 5898
 	[global::Cpp2ILInjected.Token(Token = "0x4001C2C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x2D")]
 	public bool HadUICursor;
 
-	// Token: 0x0400170B RID: 5899
 	[global::Cpp2ILInjected.Token(Token = "0x4001C2D")]
 	private const float TimeForUIMouseFade = 1f;
 
-	// Token: 0x0400170C RID: 5900
 	[global::Cpp2ILInjected.Token(Token = "0x4001C2E")]
 	private const float TimeForFullUIMouse = 1f;
 
-	// Token: 0x0400170D RID: 5901
 	[global::Cpp2ILInjected.Token(Token = "0x4001C2F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public float _timeWithoutUICursor;

@@ -11,11 +11,9 @@ using Terraria.Audio;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x02000112 RID: 274
 [global::Cpp2ILInjected.Token(Token = "0x2000189")]
 public class GUIKeyboardMappingEntry
 {
-	// Token: 0x06000A08 RID: 2568 RVA: 0x0002395D File Offset: 0x00021B5D
 	[global::Cpp2ILInjected.Token(Token = "0x6000B12")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A5F84", Offset = "0x9A5F84", Length = "0x15C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -46,7 +44,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x06000A09 RID: 2569 RVA: 0x00023960 File Offset: 0x00021B60
 	[global::Cpp2ILInjected.Token(Token = "0x6000B13")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A60E0", Offset = "0x9A60E0", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -56,7 +53,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x06000A0A RID: 2570 RVA: 0x00023963 File Offset: 0x00021B63
 	[global::Cpp2ILInjected.Token(Token = "0x6000B14")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A6174", Offset = "0x9A6174", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -65,7 +61,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x06000A0B RID: 2571 RVA: 0x00023966 File Offset: 0x00021B66
 	[global::Cpp2ILInjected.Token(Token = "0x6000B15")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A61F8", Offset = "0x9A61F8", Length = "0xF8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappings), Member = "SetCategory", MemberParameters = new object[] { typeof(KeyboardMappingsCategories_Layout.Category) }, ReturnType = typeof(void))]
@@ -94,9 +89,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x170000F5 RID: 245
-	// (get) Token: 0x06000A0C RID: 2572 RVA: 0x00023969 File Offset: 0x00021B69
-	// (set) Token: 0x06000A0D RID: 2573 RVA: 0x0002396C File Offset: 0x00021B6C
 	[global::Cpp2ILInjected.Token(Token = "0x1700011C")]
 	public KeyCode Binding
 	{
@@ -129,8 +121,6 @@ public class GUIKeyboardMappingEntry
 		}
 	}
 
-	// Token: 0x170000F6 RID: 246
-	// (get) Token: 0x06000A0E RID: 2574 RVA: 0x0002396F File Offset: 0x00021B6F
 	[global::Cpp2ILInjected.Token(Token = "0x1700011D")]
 	public bool HasMapping
 	{
@@ -145,7 +135,6 @@ public class GUIKeyboardMappingEntry
 		}
 	}
 
-	// Token: 0x06000A0F RID: 2575 RVA: 0x00023972 File Offset: 0x00021B72
 	[global::Cpp2ILInjected.Token(Token = "0x6000B19")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A6308", Offset = "0x9A6308", Length = "0x20")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -155,7 +144,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x06000A10 RID: 2576 RVA: 0x00023975 File Offset: 0x00021B75
 	[global::Cpp2ILInjected.Token(Token = "0x6000B1A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A6CA8", Offset = "0x9A6CA8", Length = "0xA0")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappingEntry), Member = "Draw", ReturnType = typeof(void))]
@@ -170,7 +158,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x06000A11 RID: 2577 RVA: 0x00023978 File Offset: 0x00021B78
 	[global::Cpp2ILInjected.Token(Token = "0x6000B1B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A6328", Offset = "0x9A6328", Length = "0x980")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -285,7 +272,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x06000A12 RID: 2578 RVA: 0x0002397B File Offset: 0x00021B7B
 	[global::Cpp2ILInjected.Token(Token = "0x6000B1C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A6F80", Offset = "0x9A6F80", Length = "0x50")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIKeyboardMappingOverlay), Member = "UpdateScroll", ReturnType = typeof(void))]
@@ -297,7 +283,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x06000A13 RID: 2579 RVA: 0x0002397E File Offset: 0x00021B7E
 	[global::Cpp2ILInjected.Token(Token = "0x6000B1D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A6FD0", Offset = "0x9A6FD0", Length = "0xD0")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -318,7 +303,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x06000A14 RID: 2580 RVA: 0x00023981 File Offset: 0x00021B81
 	[global::Cpp2ILInjected.Token(Token = "0x6000B1E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A6D64", Offset = "0x9A6D64", Length = "0x1C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -328,7 +312,6 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x06000A15 RID: 2581 RVA: 0x00023984 File Offset: 0x00021B84
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000B1F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9A70A0", Offset = "0x9A70A0", Length = "0x50")]
@@ -339,70 +322,56 @@ public class GUIKeyboardMappingEntry
 		throw null;
 	}
 
-	// Token: 0x04000877 RID: 2167
 	[global::Cpp2ILInjected.Token(Token = "0x4000B97")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private ControllerActionButton buttonAction;
 
-	// Token: 0x04000878 RID: 2168
 	[global::Cpp2ILInjected.Token(Token = "0x4000B98")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private ControllerActionVector axisAction;
 
-	// Token: 0x04000879 RID: 2169
 	[global::Cpp2ILInjected.Token(Token = "0x4000B99")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private int actionIndex;
 
-	// Token: 0x0400087A RID: 2170
 	[global::Cpp2ILInjected.Token(Token = "0x4000B9A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private KeyCode backupBinding;
 
-	// Token: 0x0400087B RID: 2171
 	[global::Cpp2ILInjected.Token(Token = "0x4000B9B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private readonly string localisationId;
 
-	// Token: 0x0400087C RID: 2172
 	[global::Cpp2ILInjected.Token(Token = "0x4000B9C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private float buttonScale;
 
-	// Token: 0x0400087D RID: 2173
 	[global::Cpp2ILInjected.Token(Token = "0x4000B9D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private float scale;
 
-	// Token: 0x0400087E RID: 2174
 	[global::Cpp2ILInjected.Token(Token = "0x4000B9E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private bool drawingOverlay;
 
-	// Token: 0x0400087F RID: 2175
 	[global::Cpp2ILInjected.Token(Token = "0x4000B9F")]
 	private static int LastButtonMapped;
 
-	// Token: 0x04000880 RID: 2176
 	[global::Cpp2ILInjected.Token(Token = "0x4000BA0")]
 	private static bool ignoreClick;
 
-	// Token: 0x04000881 RID: 2177
 	[global::Cpp2ILInjected.Token(Token = "0x4000BA1")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x39")]
 	public bool displayOptions;
 
-	// Token: 0x04000882 RID: 2178
 	[global::Cpp2ILInjected.Token(Token = "0x4000BA2")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private GUIInputRegionExclusive _optionsBlocker;
 
-	// Token: 0x04000883 RID: 2179
 	[global::Cpp2ILInjected.Token(Token = "0x4000BA3")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	public KeyboardMappingsCategories_Layout.Category Category;
 
-	// Token: 0x04000884 RID: 2180
 	[global::Cpp2ILInjected.Token(Token = "0x4000BA4")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	public int SortOrder;

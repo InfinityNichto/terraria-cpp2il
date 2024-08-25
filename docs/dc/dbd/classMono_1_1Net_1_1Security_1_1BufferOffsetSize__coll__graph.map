@@ -1,9 +1,0 @@
-<map id="Mono.Net.Security.BufferOffsetSize" name="Mono.Net.Security.BufferOffsetSize">
-<area shape="rect" id="Node000001" title=" " alt="" coords="17,163,207,312"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,70,43,103,54,138,59,147,54,149,50,140,38,105,30,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="97,5,127,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,71,115,146,109,146,109,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="201,5,244,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,72,210,105,196,140,190,150,185,147,191,137,205,104,214,70"/>
-</map>

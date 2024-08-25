@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000EF RID: 239
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000FC")]
 	public class EightBitdoSNES30WindowsUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000668 RID: 1640 RVA: 0x00003365 File Offset: 0x00001565
 		[global::Cpp2ILInjected.Token(Token = "0x6000685")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A099C4", Offset = "0x1A099C4", Length = "0x694")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,7 +23,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000669 RID: 1641 RVA: 0x00003368 File Offset: 0x00001568
 		[global::Cpp2ILInjected.Token(Token = "0x6000686")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A0A058", Offset = "0x1A0A058", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -1,7 +1,0 @@
-<map id="System.Diagnostics.Switch" name="System.Diagnostics.Switch">
-<area shape="rect" id="Node000001" title=" " alt="" coords="103,5,321,319"/>
-<area shape="rect" id="Node000002" href="$d4/db5/classSystem_1_1Diagnostics_1_1BooleanSwitch.html" title=" " alt="" coords="5,367,205,476"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,332,130,367,125,365,140,330"/>
-<area shape="rect" id="Node000003" href="$d5/dae/classSystem_1_1Diagnostics_1_1TraceSwitch.html" title=" " alt="" coords="229,367,411,476"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,330,300,365,295,367,280,332"/>
-</map>

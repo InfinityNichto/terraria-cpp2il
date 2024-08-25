@@ -6,13 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.Social.Steam
 {
-	// Token: 0x02000382 RID: 898
 	[global::Cpp2ILInjected.Token(Token = "0x2000511")]
 	public class CoreSocialModule : ISocialModule
 	{
-		// Token: 0x14000028 RID: 40
-		// (add) Token: 0x06002D13 RID: 11539 RVA: 0x0002A158 File Offset: 0x00028358
-		// (remove) Token: 0x06002D14 RID: 11540 RVA: 0x0002A15B File Offset: 0x0002835B
 		[global::Cpp2ILInjected.Token(Token = "0x1400002E")]
 		public static event Action OnTick
 		{
@@ -48,7 +44,6 @@ namespace Terraria.Social.Steam
 			}
 		}
 
-		// Token: 0x06002D15 RID: 11541 RVA: 0x0002A15E File Offset: 0x0002835E
 		[global::Cpp2ILInjected.Token(Token = "0x600314E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1304444", Offset = "0x1304444", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -57,7 +52,6 @@ namespace Terraria.Social.Steam
 			throw null;
 		}
 
-		// Token: 0x06002D16 RID: 11542 RVA: 0x0002A161 File Offset: 0x00028361
 		[global::Cpp2ILInjected.Token(Token = "0x600314F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1304448", Offset = "0x1304448", Length = "0x210")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -81,7 +75,6 @@ namespace Terraria.Social.Steam
 			throw null;
 		}
 
-		// Token: 0x06002D17 RID: 11543 RVA: 0x0002A164 File Offset: 0x00028364
 		[global::Cpp2ILInjected.Token(Token = "0x6003150")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1304658", Offset = "0x1304658", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CoreSocialModule), Member = "Pulse", ReturnType = typeof(void))]
@@ -94,7 +87,6 @@ namespace Terraria.Social.Steam
 			throw null;
 		}
 
-		// Token: 0x06002D18 RID: 11544 RVA: 0x0002A167 File Offset: 0x00028367
 		[global::Cpp2ILInjected.Token(Token = "0x6003151")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1304694", Offset = "0x1304694", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CoreSocialModule), Member = "Pulse", ReturnType = typeof(void))]
@@ -107,7 +99,6 @@ namespace Terraria.Social.Steam
 			throw null;
 		}
 
-		// Token: 0x06002D19 RID: 11545 RVA: 0x0002A16A File Offset: 0x0002836A
 		[global::Cpp2ILInjected.Token(Token = "0x6003152")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13046D0", Offset = "0x13046D0", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -119,7 +110,6 @@ namespace Terraria.Social.Steam
 			throw null;
 		}
 
-		// Token: 0x06002D1A RID: 11546 RVA: 0x0002A16D File Offset: 0x0002836D
 		[global::Cpp2ILInjected.Token(Token = "0x6003153")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1304728", Offset = "0x1304728", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -133,7 +123,6 @@ namespace Terraria.Social.Steam
 			throw null;
 		}
 
-		// Token: 0x06002D1B RID: 11547 RVA: 0x0002A170 File Offset: 0x00028370
 		[global::Cpp2ILInjected.Token(Token = "0x6003154")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13047B8", Offset = "0x13047B8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -142,7 +131,6 @@ namespace Terraria.Social.Steam
 			throw null;
 		}
 
-		// Token: 0x06002D1C RID: 11548 RVA: 0x0002A173 File Offset: 0x00028373
 		[global::Cpp2ILInjected.Token(Token = "0x6003155")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13047BC", Offset = "0x13047BC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -151,7 +139,6 @@ namespace Terraria.Social.Steam
 			throw null;
 		}
 
-		// Token: 0x06002D1D RID: 11549 RVA: 0x0002A176 File Offset: 0x00028376
 		[global::Cpp2ILInjected.Token(Token = "0x6003156")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13047C0", Offset = "0x13047C0", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -162,35 +149,28 @@ namespace Terraria.Social.Steam
 			throw null;
 		}
 
-		// Token: 0x040031B5 RID: 12725
 		[global::Cpp2ILInjected.Token(Token = "0x4003B11")]
 		private static CoreSocialModule _instance;
 
-		// Token: 0x040031B6 RID: 12726
 		[global::Cpp2ILInjected.Token(Token = "0x4003B12")]
 		public const int SteamAppId = 105600;
 
-		// Token: 0x040031B7 RID: 12727
 		[global::Cpp2ILInjected.Token(Token = "0x4003B13")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private bool IsSteamValid;
 
-		// Token: 0x040031B8 RID: 12728
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4003B14")]
 		private static Action OnTick;
 
-		// Token: 0x040031B9 RID: 12729
 		[global::Cpp2ILInjected.Token(Token = "0x4003B15")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private object _steamTickLock;
 
-		// Token: 0x040031BA RID: 12730
 		[global::Cpp2ILInjected.Token(Token = "0x4003B16")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private object _steamCallbackLock;
 
-		// Token: 0x040031BB RID: 12731
 		[global::Cpp2ILInjected.Token(Token = "0x4003B17")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private bool _skipPulsing;

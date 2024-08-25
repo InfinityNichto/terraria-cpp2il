@@ -6,12 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.GameInput
 {
-	// Token: 0x020004B1 RID: 1201
 	[global::Cpp2ILInjected.Token(Token = "0x20006C9")]
 	public class KeyConfiguration
 	{
-		// Token: 0x17000683 RID: 1667
-		// (get) Token: 0x06003478 RID: 13432 RVA: 0x0002B5EF File Offset: 0x000297EF
 		[global::Cpp2ILInjected.Token(Token = "0x17000713")]
 		public bool DoGrappleAndInteractShareTheSameKey
 		{
@@ -30,7 +27,6 @@ namespace Terraria.GameInput
 			}
 		}
 
-		// Token: 0x06003479 RID: 13433 RVA: 0x0002B5F2 File Offset: 0x000297F2
 		[global::Cpp2ILInjected.Token(Token = "0x60039E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x146E49C", Offset = "0x146E49C", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +45,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600347A RID: 13434 RVA: 0x0002B5F5 File Offset: 0x000297F5
 		[global::Cpp2ILInjected.Token(Token = "0x60039E8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x146E570", Offset = "0x146E570", Length = "0x250")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -67,7 +62,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600347B RID: 13435 RVA: 0x0002B5F8 File Offset: 0x000297F8
 		[global::Cpp2ILInjected.Token(Token = "0x60039E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x146E838", Offset = "0x146E838", Length = "0x194")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -83,7 +77,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600347C RID: 13436 RVA: 0x0002B5FB File Offset: 0x000297FB
 		[global::Cpp2ILInjected.Token(Token = "0x60039EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x146E9CC", Offset = "0x146E9CC", Length = "0x374")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -108,7 +101,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600347D RID: 13437 RVA: 0x0002B5FE File Offset: 0x000297FE
 		[global::Cpp2ILInjected.Token(Token = "0x60039EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x146ED40", Offset = "0x146ED40", Length = "0x408")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -137,7 +129,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x0600347E RID: 13438 RVA: 0x0002B601 File Offset: 0x00029801
 		[global::Cpp2ILInjected.Token(Token = "0x60039EC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x146F148", Offset = "0x146F148", Length = "0x7C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerInputProfile), Member = ".ctor", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -150,7 +141,6 @@ namespace Terraria.GameInput
 			throw null;
 		}
 
-		// Token: 0x040065F3 RID: 26099
 		[global::Cpp2ILInjected.Token(Token = "0x4007A10")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public Dictionary<TriggerNames, List<string>> KeyStatus;

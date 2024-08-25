@@ -14,11 +14,9 @@ using Terraria.IO;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x020001F5 RID: 501
 [global::Cpp2ILInjected.Token(Token = "0x2000299")]
 public class GUISaveSynchronisation_FileList
 {
-	// Token: 0x06000E64 RID: 3684 RVA: 0x00024671 File Offset: 0x00022871
 	[global::Cpp2ILInjected.Token(Token = "0x6000F94")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3391C", Offset = "0xA3391C", Length = "0x140")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E65 RID: 3685 RVA: 0x00024674 File Offset: 0x00022874
 	[global::Cpp2ILInjected.Token(Token = "0x6000F95")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA3464C", Offset = "0xA3464C", Length = "0xA6C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,7 +88,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E66 RID: 3686 RVA: 0x00024677 File Offset: 0x00022877
 	[global::Cpp2ILInjected.Token(Token = "0x6000F96")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA35AB0", Offset = "0xA35AB0", Length = "0x54")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_FileList), Member = "DrawPlayers", MemberParameters = new object[] { typeof(List<PlayerFileData>) }, ReturnType = typeof(void))]
@@ -105,7 +101,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E67 RID: 3687 RVA: 0x0002467A File Offset: 0x0002287A
 	[global::Cpp2ILInjected.Token(Token = "0x6000F97")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA35B1C", Offset = "0xA35B1C", Length = "0xDC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -122,7 +117,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E68 RID: 3688 RVA: 0x0002467D File Offset: 0x0002287D
 	[global::Cpp2ILInjected.Token(Token = "0x6000F98")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA35BF8", Offset = "0xA35BF8", Length = "0x194")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_FileList), Member = "PlayerDraw", MemberParameters = new object[]
@@ -169,7 +163,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E69 RID: 3689 RVA: 0x00024680 File Offset: 0x00022880
 	[global::Cpp2ILInjected.Token(Token = "0x6000F99")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA33A64", Offset = "0xA33A64", Length = "0x60C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -276,7 +269,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E6A RID: 3690 RVA: 0x00024683 File Offset: 0x00022883
 	[global::Cpp2ILInjected.Token(Token = "0x6000F9A")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA35D8C", Offset = "0xA35D8C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -285,7 +277,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E6B RID: 3691 RVA: 0x00024686 File Offset: 0x00022886
 	[global::Cpp2ILInjected.Token(Token = "0x6000F9B")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA35D94", Offset = "0xA35D94", Length = "0xE0")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -297,7 +288,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E6C RID: 3692 RVA: 0x00024689 File Offset: 0x00022889
 	[global::Cpp2ILInjected.Token(Token = "0x6000F9C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA35E74", Offset = "0xA35E74", Length = "0xEF8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -432,7 +422,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E6D RID: 3693 RVA: 0x0002468C File Offset: 0x0002288C
 	[global::Cpp2ILInjected.Token(Token = "0x6000F9D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA34070", Offset = "0xA34070", Length = "0x5DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -539,7 +528,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E6E RID: 3694 RVA: 0x0002468F File Offset: 0x0002288F
 	[global::Cpp2ILInjected.Token(Token = "0x6000F9E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA36D6C", Offset = "0xA36D6C", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -548,7 +536,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E6F RID: 3695 RVA: 0x00024692 File Offset: 0x00022892
 	[global::Cpp2ILInjected.Token(Token = "0x6000F9F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA36D74", Offset = "0xA36D74", Length = "0xE0")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -560,7 +547,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E70 RID: 3696 RVA: 0x00024695 File Offset: 0x00022895
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA0")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA36E54", Offset = "0xA36E54", Length = "0x1A4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUISaveSynchronisation_FileList), Member = "WorldDraw", MemberParameters = new object[]
@@ -602,7 +588,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E71 RID: 3697 RVA: 0x00024698 File Offset: 0x00022898
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA36FF8", Offset = "0xA36FF8", Length = "0x118")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -621,7 +606,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E72 RID: 3698 RVA: 0x0002469B File Offset: 0x0002289B
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA2")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA37110", Offset = "0xA37110", Length = "0xB28")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -737,7 +721,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E73 RID: 3699 RVA: 0x0002469E File Offset: 0x0002289E
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA3")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA37C38", Offset = "0xA37C38", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -747,7 +730,6 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x06000E74 RID: 3700 RVA: 0x000246A1 File Offset: 0x000228A1
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000FA4")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA37C40", Offset = "0xA37C40", Length = "0x1A8")]
@@ -765,96 +747,72 @@ public class GUISaveSynchronisation_FileList
 		throw null;
 	}
 
-	// Token: 0x0400170F RID: 5903
 	[global::Cpp2ILInjected.Token(Token = "0x4001C31")]
 	private const double DOUBLE_CLICK_TIME = 500.0;
 
-	// Token: 0x04001710 RID: 5904
 	[global::Cpp2ILInjected.Token(Token = "0x4001C32")]
 	private const float SINGLE_CLICK_DISTANCE = 30f;
 
-	// Token: 0x04001711 RID: 5905
 	[global::Cpp2ILInjected.Token(Token = "0x4001C33")]
 	private static GUIControllerSaveSynchronisation_FileListWorld _worldController;
 
-	// Token: 0x04001712 RID: 5906
 	[global::Cpp2ILInjected.Token(Token = "0x4001C34")]
 	private static GUIControllerSaveSynchronisation_FileListPlayer _playerController;
 
-	// Token: 0x04001713 RID: 5907
 	[global::Cpp2ILInjected.Token(Token = "0x4001C35")]
 	private static GUISaveSynchronisation_FileList.Filter CurrentFilter;
 
-	// Token: 0x04001714 RID: 5908
 	[global::Cpp2ILInjected.Token(Token = "0x4001C36")]
 	private static Microsoft.Xna.Framework.Vector2 CharacterOffset;
 
-	// Token: 0x04001715 RID: 5909
 	[global::Cpp2ILInjected.Token(Token = "0x4001C37")]
 	private static int playerOver;
 
-	// Token: 0x04001716 RID: 5910
 	[global::Cpp2ILInjected.Token(Token = "0x4001C38")]
 	public static List<PlayerFileData> SortedPlayerData;
 
-	// Token: 0x04001717 RID: 5911
 	[global::Cpp2ILInjected.Token(Token = "0x4001C39")]
 	public static int SelectedPlayerItem;
 
-	// Token: 0x04001718 RID: 5912
 	[global::Cpp2ILInjected.Token(Token = "0x4001C3A")]
 	public static float ScrollOffset;
 
-	// Token: 0x04001719 RID: 5913
 	[global::Cpp2ILInjected.Token(Token = "0x4001C3B")]
 	private static float ScrollMomentum;
 
-	// Token: 0x0400171A RID: 5914
 	[global::Cpp2ILInjected.Token(Token = "0x4001C3C")]
 	private static int ScrollDragging;
 
-	// Token: 0x0400171B RID: 5915
 	[global::Cpp2ILInjected.Token(Token = "0x4001C3D")]
 	private static Microsoft.Xna.Framework.Vector2 DragOffset;
 
-	// Token: 0x0400171C RID: 5916
 	[global::Cpp2ILInjected.Token(Token = "0x4001C3E")]
 	private static int worldOver;
 
-	// Token: 0x0400171D RID: 5917
 	[global::Cpp2ILInjected.Token(Token = "0x4001C3F")]
 	public static List<WorldFileData> SortedWorldData;
 
-	// Token: 0x0400171E RID: 5918
 	[global::Cpp2ILInjected.Token(Token = "0x4001C40")]
 	public static int SelectedWorldItem;
 
-	// Token: 0x0400171F RID: 5919
 	[global::Cpp2ILInjected.Token(Token = "0x4001C41")]
 	private static DateTime LastSelectTime;
 
-	// Token: 0x04001720 RID: 5920
 	[global::Cpp2ILInjected.Token(Token = "0x4001C42")]
 	private static DateTime LastTouchTime;
 
-	// Token: 0x04001721 RID: 5921
 	[global::Cpp2ILInjected.Token(Token = "0x4001C43")]
 	private static Microsoft.Xna.Framework.Vector2 LastTouchMouse;
 
-	// Token: 0x02000805 RID: 2053
 	[global::Cpp2ILInjected.Token(Token = "0x200029A")]
 	private enum Filter
 	{
-		// Token: 0x04007CED RID: 31981
 		[global::Cpp2ILInjected.Token(Token = "0x4001C45")]
 		LocalPlayers,
-		// Token: 0x04007CEE RID: 31982
 		[global::Cpp2ILInjected.Token(Token = "0x4001C46")]
 		LocalWorlds,
-		// Token: 0x04007CEF RID: 31983
 		[global::Cpp2ILInjected.Token(Token = "0x4001C47")]
 		ServerPlayers,
-		// Token: 0x04007CF0 RID: 31984
 		[global::Cpp2ILInjected.Token(Token = "0x4001C48")]
 		ServerWorlds
 	}

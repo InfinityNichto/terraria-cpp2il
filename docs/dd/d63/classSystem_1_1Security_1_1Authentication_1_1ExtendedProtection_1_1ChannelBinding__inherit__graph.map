@@ -1,7 +1,0 @@
-<map id="System.Security.Authentication.ExtendedProtection.ChannelBinding" name="System.Security.Authentication.ExtendedProtection.ChannelBinding">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,276,252,356"/>
-<area shape="rect" id="Node000002" href="$dc/d92/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeHandleZeroOrMinusOneIsInvalid.html" title=" " alt="" coords="22,133,235,228"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,241,131,276,126,276,126,241"/>
-<area shape="rect" id="Node000003" href="$d7/d82/classglobal_1_1SystemRuntime_1_1InteropServices_1_1SafeHandle.html" title=" " alt="" coords="25,5,232,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,99,131,133,126,133,126,99"/>
-</map>

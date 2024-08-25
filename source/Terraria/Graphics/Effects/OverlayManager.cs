@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.Graphics.Effects
 {
-	// Token: 0x02000520 RID: 1312
 	[global::Cpp2ILInjected.Token(Token = "0x2000789")]
 	public class OverlayManager : EffectManager<Overlay>
 	{
-		// Token: 0x06003872 RID: 14450 RVA: 0x0002C13E File Offset: 0x0002A33E
 		[global::Cpp2ILInjected.Token(Token = "0x6003F11")]
 		[global::Cpp2ILInjected.Address(RVA = "0x740978", Offset = "0x740978", Length = "0x194")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +30,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003873 RID: 14451 RVA: 0x0002C141 File Offset: 0x0002A341
 		[global::Cpp2ILInjected.Token(Token = "0x6003F12")]
 		[global::Cpp2ILInjected.Address(RVA = "0x741E8C", Offset = "0x741E8C", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -48,7 +45,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003874 RID: 14452 RVA: 0x0002C144 File Offset: 0x0002A344
 		[global::Cpp2ILInjected.Token(Token = "0x6003F13")]
 		[global::Cpp2ILInjected.Address(RVA = "0x742074", Offset = "0x742074", Length = "0x228")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -69,7 +65,6 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x06003875 RID: 14453 RVA: 0x0002C147 File Offset: 0x0002A347
 		[global::Cpp2ILInjected.Token(Token = "0x6003F14")]
 		[global::Cpp2ILInjected.Address(RVA = "0x74229C", Offset = "0x74229C", Length = "0x2DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -97,16 +92,13 @@ namespace Terraria.Graphics.Effects
 			throw null;
 		}
 
-		// Token: 0x04006868 RID: 26728
 		[global::Cpp2ILInjected.Token(Token = "0x4007D8E")]
 		private const float OPACITY_RATE = 1f;
 
-		// Token: 0x04006869 RID: 26729
 		[global::Cpp2ILInjected.Token(Token = "0x4007D8F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private LinkedList<Overlay>[] _activeOverlays;
 
-		// Token: 0x0400686A RID: 26730
 		[global::Cpp2ILInjected.Token(Token = "0x4007D90")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private int _overlayCount;

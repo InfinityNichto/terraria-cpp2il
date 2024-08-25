@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x0200009D RID: 157
 	[global::Cpp2ILInjected.Token(Token = "0x20000C7")]
 	internal class Positions
 	{
-		// Token: 0x0600078F RID: 1935 RVA: 0x00004511 File Offset: 0x00002711
 		[global::Cpp2ILInjected.Token(Token = "0x600081D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DB5330", Offset = "0x1DB5330", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +30,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x170001D1 RID: 465
 		[global::Cpp2ILInjected.Token(Token = "0x170001F5")]
 		public Position this[int pos]
 		{
@@ -67,8 +64,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x170001D2 RID: 466
-		// (get) Token: 0x06000791 RID: 1937 RVA: 0x00004517 File Offset: 0x00002717
 		[global::Cpp2ILInjected.Token(Token = "0x170001F6")]
 		public int Count
 		{
@@ -82,7 +77,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x06000792 RID: 1938 RVA: 0x0000451A File Offset: 0x0000271A
 		[global::Cpp2ILInjected.Token(Token = "0x6000820")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DB5458", Offset = "0x1DB5458", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ParticleContentValidator), Member = "Start", ReturnType = typeof(void))]
@@ -95,7 +89,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x040002B0 RID: 688
 		[global::Cpp2ILInjected.Token(Token = "0x4000422")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ArrayList positions;

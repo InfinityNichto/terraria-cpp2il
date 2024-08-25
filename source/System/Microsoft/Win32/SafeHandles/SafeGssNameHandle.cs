@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Win32.SafeHandles
 {
-	// Token: 0x0200002C RID: 44
 	[global::Cpp2ILInjected.Token(Token = "0x2000076")]
 	internal sealed class SafeGssNameHandle : SafeHandle
 	{
-		// Token: 0x0600013A RID: 314 RVA: 0x00003179 File Offset: 0x00001379
 		[global::Cpp2ILInjected.Token(Token = "0x60001C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9EECC", Offset = "0x1E9EECC", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -42,7 +40,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x0600013B RID: 315 RVA: 0x0000317C File Offset: 0x0000137C
 		[global::Cpp2ILInjected.Token(Token = "0x60001C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9EF80", Offset = "0x1E9EF80", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,8 +69,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x1700005D RID: 93
-		// (get) Token: 0x0600013C RID: 316 RVA: 0x0000317F File Offset: 0x0000137F
 		[global::Cpp2ILInjected.Token(Token = "0x1700005F")]
 		public override bool IsInvalid
 		{
@@ -92,7 +87,6 @@ namespace Microsoft.Win32.SafeHandles
 			}
 		}
 
-		// Token: 0x0600013D RID: 317 RVA: 0x00003182 File Offset: 0x00001382
 		[global::Cpp2ILInjected.Token(Token = "0x60001C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F088", Offset = "0x1E9F088", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

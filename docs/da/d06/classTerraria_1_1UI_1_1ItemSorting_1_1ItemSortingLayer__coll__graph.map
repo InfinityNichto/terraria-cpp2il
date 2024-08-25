@@ -1,7 +1,0 @@
-<map id="Terraria.UI.ItemSorting.ItemSortingLayer" name="Terraria.UI.ItemSorting.ItemSortingLayer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,284,371"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="35,27,86,93"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,92,103,161,98,163,71,94"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="110,5,347,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,116,191,163,186,161,205,114"/>
-</map>

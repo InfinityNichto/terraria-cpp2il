@@ -6,11 +6,9 @@ using UnityEngine.Pool;
 
 namespace UnityEngine.UI
 {
-	// Token: 0x0200002B RID: 43
 	[global::Cpp2ILInjected.Token(Token = "0x2000056")]
 	public class MaskUtilities
 	{
-		// Token: 0x060002F9 RID: 761 RVA: 0x000028E7 File Offset: 0x00000AE7
 		[global::Cpp2ILInjected.Token(Token = "0x6000353")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCF4C8", Offset = "0x1FCF4C8", Length = "0x24C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002FA RID: 762 RVA: 0x000028EA File Offset: 0x00000AEA
 		[global::Cpp2ILInjected.Token(Token = "0x6000354")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCDCBC", Offset = "0x1FCDCBC", Length = "0x248")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -60,7 +57,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002FB RID: 763 RVA: 0x000028ED File Offset: 0x00000AED
 		[global::Cpp2ILInjected.Token(Token = "0x6000355")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCE3DC", Offset = "0x1FCE3DC", Length = "0x18C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -88,7 +84,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002FC RID: 764 RVA: 0x000028F0 File Offset: 0x00000AF0
 		[global::Cpp2ILInjected.Token(Token = "0x6000356")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCE568", Offset = "0x1FCE568", Length = "0x26C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -117,7 +112,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002FD RID: 765 RVA: 0x000028F3 File Offset: 0x00000AF3
 		[global::Cpp2ILInjected.Token(Token = "0x6000357")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCF714", Offset = "0x1FCF714", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MaskUtilities), Member = "GetRectMaskForClippable", MemberParameters = new object[] { typeof(IClippable) }, ReturnType = typeof(RectMask2D))]
@@ -144,7 +138,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002FE RID: 766 RVA: 0x000028F6 File Offset: 0x00000AF6
 		[global::Cpp2ILInjected.Token(Token = "0x6000358")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCEF44", Offset = "0x1FCEF44", Length = "0x3F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -178,7 +171,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x060002FF RID: 767 RVA: 0x000028F9 File Offset: 0x00000AF9
 		[global::Cpp2ILInjected.Token(Token = "0x6000359")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCF85C", Offset = "0x1FCF85C", Length = "0x334")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -211,7 +203,6 @@ namespace UnityEngine.UI
 			throw null;
 		}
 
-		// Token: 0x06000300 RID: 768 RVA: 0x000028FC File Offset: 0x00000AFC
 		[global::Cpp2ILInjected.Token(Token = "0x600035A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FCFB90", Offset = "0x1FCFB90", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

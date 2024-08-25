@@ -9,13 +9,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000072 RID: 114
 	[global::System.Obsolete("System.CurrentSystemTimeZone has been deprecated.  Please investigate the use of System.TimeZoneInfo.Local instead.")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000099")]
 	[global::System.Serializable]
 	internal class CurrentSystemTimeZone : global::System.TimeZone
 	{
-		// Token: 0x060004F7 RID: 1271 RVA: 0x00015404 File Offset: 0x00013604
 		[global::Cpp2ILInjected.Token(Token = "0x6000591")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C15B64", Offset = "0x1C15B64", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZone), Member = "get_CurrentTimeZone", ReturnType = typeof(global::System.TimeZone))]
@@ -31,7 +29,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060004F8 RID: 1272 RVA: 0x00015407 File Offset: 0x00013607
 		[global::Cpp2ILInjected.Token(Token = "0x6000592")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C15C24", Offset = "0x1C15C24", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -53,7 +50,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060004F9 RID: 1273 RVA: 0x0001540A File Offset: 0x0001360A
 		[global::Cpp2ILInjected.Token(Token = "0x6000593")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C15EBC", Offset = "0x1C15EBC", Length = "0x26C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -84,7 +80,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060004FA RID: 1274 RVA: 0x0001540D File Offset: 0x0001360D
 		[global::Cpp2ILInjected.Token(Token = "0x6000594")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C16130", Offset = "0x1C16130", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -101,7 +96,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060004FB RID: 1275
 		[global::Cpp2ILInjected.Token(Token = "0x6000595")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C1620C", Offset = "0x1C1620C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.TimeZoneInfo), Member = "CreateAdjustmentRule", MemberParameters = new object[]
@@ -118,7 +112,6 @@ namespace System
 		[MethodImpl(4096)]
 		public static extern bool GetTimeZoneData(int year, out long[] data, out string[] names, out bool daylight_inverted);
 
-		// Token: 0x060004FC RID: 1276 RVA: 0x00015410 File Offset: 0x00013610
 		[global::Cpp2ILInjected.Token(Token = "0x6000596")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C15CF0", Offset = "0x1C15CF0", Length = "0x1CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,22 +129,18 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x04000138 RID: 312
 		[global::Cpp2ILInjected.Token(Token = "0x400021F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private long m_ticksOffset;
 
-		// Token: 0x04000139 RID: 313
 		[global::Cpp2ILInjected.Token(Token = "0x4000220")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string m_standardName;
 
-		// Token: 0x0400013A RID: 314
 		[global::Cpp2ILInjected.Token(Token = "0x4000221")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string m_daylightName;
 
-		// Token: 0x0400013B RID: 315
 		[global::Cpp2ILInjected.Token(Token = "0x4000222")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private readonly global::System.Collections.Hashtable m_CachedDaylightChanges;

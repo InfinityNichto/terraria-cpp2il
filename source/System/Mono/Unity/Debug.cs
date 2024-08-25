@@ -6,11 +6,9 @@ using Mono.Security.Interface;
 
 namespace Mono.Unity
 {
-	// Token: 0x0200000A RID: 10
 	[global::Cpp2ILInjected.Token(Token = "0x200000F")]
 	internal static class Debug
 	{
-		// Token: 0x06000025 RID: 37 RVA: 0x00002EA0 File Offset: 0x000010A0
 		[global::Cpp2ILInjected.Token(Token = "0x600003B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D41A78", Offset = "0x1D41A78", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Debug), Member = "CheckAndThrow", MemberParameters = new object[]
@@ -68,7 +66,6 @@ namespace Mono.Unity
 			throw null;
 		}
 
-		// Token: 0x06000026 RID: 38 RVA: 0x00002EA3 File Offset: 0x000010A3
 		[global::Cpp2ILInjected.Token(Token = "0x600003C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D41B10", Offset = "0x1D41B10", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UnityTlsContext), Member = "ProcessHandshake", ReturnType = typeof(bool))]

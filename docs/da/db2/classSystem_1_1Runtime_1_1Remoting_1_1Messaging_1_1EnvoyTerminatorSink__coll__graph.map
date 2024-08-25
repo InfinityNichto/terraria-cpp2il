@@ -1,9 +1,0 @@
-<map id="System.Runtime.Remoting.Messaging.EnvoyTerminatorSink" name="System.Runtime.Remoting.Messaging.EnvoyTerminatorSink">
-<area shape="rect" id="Node000001" title=" " alt="" coords="11,431,267,615"/>
-<area shape="rect" id="Node000002" href="$d4/d69/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMessageSink.html" title=" " alt="" coords="5,5,261,135"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,148,140,430,135,431,132,148"/>
-<area shape="rect" id="Node000003" href="$df/d59/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1EnvoyTerminatorSink.html" title=" " alt="" coords="155,184,411,368"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="190,145,218,182,214,186,186,148"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,370,203,418,198,415,227,367"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="412,255,430,263,437,276,435,284,428,290,424,286,430,281,432,276,426,267,410,260"/>
-</map>

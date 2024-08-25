@@ -4,7 +4,6 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine
 {
-	// Token: 0x02000053 RID: 83
 	[NativeHeader("Runtime/Camera/RenderSettings.h")]
 	[StaticAccessor("GetRenderSettings()", StaticAccessorType.Dot)]
 	[NativeHeader("Runtime/Graphics/QualitySettingsTypes.h")]

@@ -1,18 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Terraria.GameContent.Biomes;
+using Terraria.GameContent.Biomes.CaveHouse;
 using Terraria.GameContent.Biomes.Desert;
+using Terraria.GameContent.Events;
 using Terraria.GameContent.Generation;
+using Terraria.IO;
 
 namespace Terraria.WorldBuilding
 {
-	// Token: 0x0200036E RID: 878
 	[global::Cpp2ILInjected.Token(Token = "0x20004EF")]
 	public static class WorldUtils
 	{
-		// Token: 0x06002C86 RID: 11398 RVA: 0x00029FB7 File Offset: 0x000281B7
 		[global::Cpp2ILInjected.Token(Token = "0x6003094")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FEE9C", Offset = "0x12FEE9C", Length = "0x174")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SceneMetrics), Member = "ScanAndExportToMain", MemberParameters = new object[] { typeof(SceneMetricsScanSettings) }, ReturnType = typeof(void))]
@@ -42,9 +44,87 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C87 RID: 11399 RVA: 0x00029FBA File Offset: 0x000281BA
 		[global::Cpp2ILInjected.Token(Token = "0x6003095")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FF010", Offset = "0x12FF010", Length = "0x18")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "PlaceThing_Tiles_PlaceIt_StaffOfRegrowthCheck", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Terraria.WorldGen.<>c", Member = "<GenerateWorld>b__277_55", MemberParameters = new object[]
+		{
+			typeof(GenerationProgress),
+			typeof(GameConfiguration)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "smCallBack", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CampsiteBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CorruptionPitBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EnchantedSwordBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HiveBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HoneyPatchBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MahoganyTreeBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MiningExplosivesBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ThinIceBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AnthillEntrance), Member = "PlaceAt", MemberParameters = new object[]
+		{
+			typeof(DesertDescription),
+			typeof(Point),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChambersEntrance), Member = "PlaceAt", MemberParameters = new object[]
+		{
+			typeof(DesertDescription),
+			typeof(Point)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LarvaHoleEntrance), Member = "PlaceAt", MemberParameters = new object[]
+		{
+			typeof(DesertDescription),
+			typeof(Point),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DesertHouseBuilder), Member = "AgeRoom", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GraniteHouseBuilder), Member = "AgeRoom", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseBuilder), Member = "PlaceEmptyRooms", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseBuilder), Member = "PlaceStairs", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseBuilder), Member = "PlaceDoors", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseBuilder), Member = "PlacePlatforms", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseBuilder), Member = "PlaceSupportBeams", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseUtils), Member = "GetRoomSolidPrecentage", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(double))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseUtils), Member = "GetHouseType", MemberParameters = new object[] { typeof(IEnumerable<Rectangle>) }, ReturnType = typeof(HouseType))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(IceHouseBuilder), Member = "AgeRoom", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(JungleHouseBuilder), Member = "AgeRoom", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MarbleHouseBuilder), Member = "AgeRoom", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MushroomHouseBuilder), Member = "AgeRoom", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WoodHouseBuilder), Member = "AgeRoom", MemberParameters = new object[] { typeof(Rectangle) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WoodHouseBuilder), Member = "RainbowifyOnTenthAnniversaryWorlds", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 94)]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
 		public static bool Gen(Point origin, GenShape shape, GenAction action)
@@ -52,7 +132,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C88 RID: 11400 RVA: 0x00029FBD File Offset: 0x000281BD
 		[global::Cpp2ILInjected.Token(Token = "0x6003096")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FF028", Offset = "0x12FF028", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AnthillEntrance), Member = "PlaceAt", MemberParameters = new object[]
@@ -79,10 +158,77 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C89 RID: 11401 RVA: 0x00029FC0 File Offset: 0x000281C0
 		[global::Cpp2ILInjected.Token(Token = "0x6003097")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FF040", Offset = "0x12FF040", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "AI_109_DarkMage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Player), Member = "ItemCheck_Shoot", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(Item),
+			typeof(int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "CanHitWithOwnBody", MemberParameters = new object[] { typeof(Entity) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "Damage", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_137_LightningAura", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Projectile), Member = "AI_140_MonkStaffT1", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CampsiteBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CorruptionPitBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EnchantedSwordBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HoneyPatchBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MahoganyTreeBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MiningExplosivesBiome), Member = "Place", MemberParameters = new object[]
+		{
+			typeof(Point),
+			typeof(StructureMap)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseBuilder), Member = "CreateSupportBeamList", ReturnType = typeof(List<Rectangle>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseBuilder), Member = "FindVerticalExit", MemberParameters = new object[]
+		{
+			typeof(Rectangle),
+			typeof(bool),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseBuilder), Member = "FindSideExit", MemberParameters = new object[]
+		{
+			typeof(Rectangle),
+			typeof(bool),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseUtils), Member = "CreateRooms", MemberParameters = new object[] { typeof(Point) }, ReturnType = typeof(List<Rectangle>))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseUtils), Member = "FindRoom", MemberParameters = new object[] { typeof(Point) }, ReturnType = typeof(Rectangle))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HouseUtils), Member = "AreRoomsValid", MemberParameters = new object[]
+		{
+			typeof(IEnumerable<Rectangle>),
+			typeof(StructureMap),
+			typeof(HouseType)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DD2Event), Member = "RaiseGoblins", MemberParameters = new object[]
+		{
+			typeof(NPC),
+			typeof(Vector2)
+		}, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 33)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Point), Member = "op_Equality", MemberParameters = new object[]
 		{
@@ -95,7 +241,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C8A RID: 11402 RVA: 0x00029FC3 File Offset: 0x000281C3
 		[global::Cpp2ILInjected.Token(Token = "0x6003098")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F4798", Offset = "0x12F4798", Length = "0x120")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.ClearTile), Member = "Apply", MemberParameters = new object[]
@@ -145,7 +290,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C8B RID: 11403 RVA: 0x00029FC6 File Offset: 0x000281C6
 		[global::Cpp2ILInjected.Token(Token = "0x6003099")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F493C", Offset = "0x12F493C", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.ClearWall), Member = "Apply", MemberParameters = new object[]
@@ -174,7 +318,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C8C RID: 11404 RVA: 0x00029FC9 File Offset: 0x000281C9
 		[global::Cpp2ILInjected.Token(Token = "0x600309A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12F4C80", Offset = "0x12F4C80", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Actions.SetTile), Member = "Apply", MemberParameters = new object[]
@@ -231,7 +374,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C8D RID: 11405 RVA: 0x00029FCC File Offset: 0x000281CC
 		[global::Cpp2ILInjected.Token(Token = "0x600309B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FF108", Offset = "0x12FF108", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -246,7 +388,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C8E RID: 11406 RVA: 0x00029FCF File Offset: 0x000281CF
 		[global::Cpp2ILInjected.Token(Token = "0x600309C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FF160", Offset = "0x12FF160", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -277,7 +418,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C8F RID: 11407 RVA: 0x00029FD2 File Offset: 0x000281D2
 		[global::Cpp2ILInjected.Token(Token = "0x600309D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FF2D8", Offset = "0x12FF2D8", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -300,7 +440,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C90 RID: 11408 RVA: 0x00029FD5 File Offset: 0x000281D5
 		[global::Cpp2ILInjected.Token(Token = "0x600309E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FF394", Offset = "0x12FF394", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

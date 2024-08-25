@@ -10,11 +10,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Ionic.Zip
 {
-	// Token: 0x02000017 RID: 23
 	[global::Cpp2ILInjected.Token(Token = "0x2000017")]
 	internal static class SharedUtilities
 	{
-		// Token: 0x06000065 RID: 101 RVA: 0x00004FB7 File Offset: 0x000031B7
 		[global::Cpp2ILInjected.Token(Token = "0x6000065")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A45BF4", Offset = "0x1A45BF4", Length = "0x1D8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -36,7 +34,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000066 RID: 102 RVA: 0x00004FBA File Offset: 0x000031BA
 		[Conditional("NETCF")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000066")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A45DCC", Offset = "0x1A45DCC", Length = "0x10")]
@@ -69,7 +66,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000067 RID: 103 RVA: 0x00004FBD File Offset: 0x000031BD
 		[global::Cpp2ILInjected.Token(Token = "0x6000067")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A45DDC", Offset = "0x1A45DDC", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SharedUtilities), Member = "NormalizePathForUseInZipFile", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(string))]
@@ -92,7 +88,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000068 RID: 104 RVA: 0x00004FC0 File Offset: 0x000031C0
 		[global::Cpp2ILInjected.Token(Token = "0x6000068")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A45EE0", Offset = "0x1A45EE0", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -129,7 +124,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000069 RID: 105 RVA: 0x00004FC3 File Offset: 0x000031C3
 		[global::Cpp2ILInjected.Token(Token = "0x6000069")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A45FFC", Offset = "0x1A45FFC", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -139,7 +133,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600006A RID: 106 RVA: 0x00004FC6 File Offset: 0x000031C6
 		[global::Cpp2ILInjected.Token(Token = "0x600006A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A46018", Offset = "0x1A46018", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ZipCrypto), Member = "InitCipher", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -150,7 +143,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600006B RID: 107 RVA: 0x00004FC9 File Offset: 0x000031C9
 		[global::Cpp2ILInjected.Token(Token = "0x600006B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A46084", Offset = "0x1A46084", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ZipEntry), Member = "ReadDirEntry", MemberParameters = new object[]
@@ -165,7 +157,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600006C RID: 108 RVA: 0x00004FCC File Offset: 0x000031CC
 		[global::Cpp2ILInjected.Token(Token = "0x600006C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A460F8", Offset = "0x1A460F8", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -175,7 +166,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600006D RID: 109 RVA: 0x00004FCF File Offset: 0x000031CF
 		[global::Cpp2ILInjected.Token(Token = "0x600006D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A4611C", Offset = "0x1A4611C", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -202,7 +192,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600006E RID: 110 RVA: 0x00004FD2 File Offset: 0x000031D2
 		[global::Cpp2ILInjected.Token(Token = "0x600006E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A46334", Offset = "0x1A46334", Length = "0x24C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -223,7 +212,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600006F RID: 111 RVA: 0x00004FD5 File Offset: 0x000031D5
 		[global::Cpp2ILInjected.Token(Token = "0x600006F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A46580", Offset = "0x1A46580", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ZipEntry), Member = "HandlePK00Prefix", MemberParameters = new object[] { typeof(Stream) }, ReturnType = typeof(void))]
@@ -242,7 +230,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000070 RID: 112 RVA: 0x00004FD8 File Offset: 0x000031D8
 		[global::Cpp2ILInjected.Token(Token = "0x6000070")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A46204", Offset = "0x1A46204", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -262,7 +249,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000071 RID: 113 RVA: 0x00004FDB File Offset: 0x000031DB
 		[global::Cpp2ILInjected.Token(Token = "0x6000071")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A465EC", Offset = "0x1A465EC", Length = "0x238")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -281,7 +267,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000072 RID: 114 RVA: 0x00004FDE File Offset: 0x000031DE
 		[global::Cpp2ILInjected.Token(Token = "0x6000072")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A46824", Offset = "0x1A46824", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -317,7 +302,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000073 RID: 115 RVA: 0x00004FE1 File Offset: 0x000031E1
 		[global::Cpp2ILInjected.Token(Token = "0x6000073")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A46988", Offset = "0x1A46988", Length = "0x588")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -366,7 +350,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000074 RID: 116 RVA: 0x00004FE4 File Offset: 0x000031E4
 		[global::Cpp2ILInjected.Token(Token = "0x6000074")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A46F10", Offset = "0x1A46F10", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -389,7 +372,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000075 RID: 117 RVA: 0x00004FE7 File Offset: 0x000031E7
 		[global::Cpp2ILInjected.Token(Token = "0x6000075")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A46FC0", Offset = "0x1A46FC0", Length = "0x18C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -413,7 +395,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000076 RID: 118 RVA: 0x00004FEA File Offset: 0x000031EA
 		[global::Cpp2ILInjected.Token(Token = "0x6000076")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A4714C", Offset = "0x1A4714C", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SharedUtilities), Member = "CreateAndOpenUniqueTempFile", MemberParameters = new object[]
@@ -445,7 +426,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000077 RID: 119 RVA: 0x00004FED File Offset: 0x000031ED
 		[global::Cpp2ILInjected.Token(Token = "0x6000077")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A471E0", Offset = "0x1A471E0", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -460,7 +440,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000078 RID: 120 RVA: 0x00004FF0 File Offset: 0x000031F0
 		[global::Cpp2ILInjected.Token(Token = "0x6000078")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A472EC", Offset = "0x1A472EC", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -472,7 +451,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x06000079 RID: 121 RVA: 0x00004FF3 File Offset: 0x000031F3
 		[global::Cpp2ILInjected.Token(Token = "0x6000079")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A47380", Offset = "0x1A47380", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -483,7 +461,6 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x0600007A RID: 122 RVA: 0x00004FF6 File Offset: 0x000031F6
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600007A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A473D8", Offset = "0x1A473D8", Length = "0xF0")]
@@ -496,15 +473,12 @@ namespace Ionic.Zip
 			throw null;
 		}
 
-		// Token: 0x04000030 RID: 48
 		[global::Cpp2ILInjected.Token(Token = "0x4000030")]
 		private static Regex doubleDotRegex1;
 
-		// Token: 0x04000031 RID: 49
 		[global::Cpp2ILInjected.Token(Token = "0x4000031")]
 		private static Encoding ibm437;
 
-		// Token: 0x04000032 RID: 50
 		[global::Cpp2ILInjected.Token(Token = "0x4000032")]
 		private static Encoding utf8;
 	}

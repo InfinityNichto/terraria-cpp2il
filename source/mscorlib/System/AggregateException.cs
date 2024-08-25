@@ -14,13 +14,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x0200005C RID: 92
 	[global::System.Diagnostics.DebuggerDisplay("Count = {InnerExceptionCount}")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000081")]
 	[global::System.Serializable]
 	public class AggregateException : global::System.Exception
 	{
-		// Token: 0x06000322 RID: 802 RVA: 0x00014E97 File Offset: 0x00013097
 		[global::Cpp2ILInjected.Token(Token = "0x60003B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB4384", Offset = "0x1BB4384", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -32,7 +30,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000323 RID: 803 RVA: 0x00014E9A File Offset: 0x0001309A
 		[global::Cpp2ILInjected.Token(Token = "0x60003B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB4498", Offset = "0x1BB4498", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.CancellationTokenSource), Member = "ExecuteCallbackHandlers", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
@@ -43,7 +40,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000324 RID: 804 RVA: 0x00014E9D File Offset: 0x0001309D
 		[global::Cpp2ILInjected.Token(Token = "0x60003B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB45AC", Offset = "0x1BB45AC", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "GetExceptions", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(global::System.AggregateException))]
@@ -69,7 +65,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000325 RID: 805 RVA: 0x00014EA0 File Offset: 0x000130A0
 		[global::Cpp2ILInjected.Token(Token = "0x60003B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB44F0", Offset = "0x1BB44F0", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -85,7 +80,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000326 RID: 806 RVA: 0x00014EA3 File Offset: 0x000130A3
 		[global::Cpp2ILInjected.Token(Token = "0x60003B7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB4604", Offset = "0x1BB4604", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallAnalysisNotSupported]
@@ -95,7 +89,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000327 RID: 807 RVA: 0x00014EA6 File Offset: 0x000130A6
 		[global::Cpp2ILInjected.Token(Token = "0x60003B8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB4608", Offset = "0x1BB4608", Length = "0x3A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -121,7 +114,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000328 RID: 808 RVA: 0x00014EA9 File Offset: 0x000130A9
 		[global::Cpp2ILInjected.Token(Token = "0x60003B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB49D0", Offset = "0x1BB49D0", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.TaskExceptionHolder), Member = "CreateExceptionObject", MemberParameters = new object[]
@@ -136,7 +128,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000329 RID: 809 RVA: 0x00014EAC File Offset: 0x000130AC
 		[global::Cpp2ILInjected.Token(Token = "0x60003BA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB4A28", Offset = "0x1BB4A28", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.TaskExceptionHolder), Member = "Finalize", ReturnType = typeof(void))]
@@ -148,7 +139,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600032A RID: 810 RVA: 0x00014EAF File Offset: 0x000130AF
 		[global::Cpp2ILInjected.Token(Token = "0x60003BB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB4AE4", Offset = "0x1BB4AE4", Length = "0x410")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -167,7 +157,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600032B RID: 811 RVA: 0x00014EB2 File Offset: 0x000130B2
 		[global::Cpp2ILInjected.Token(Token = "0x60003BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB4EF4", Offset = "0x1BB4EF4", Length = "0x1D8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -191,7 +180,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600032C RID: 812 RVA: 0x00014EB5 File Offset: 0x000130B5
 		[global::Cpp2ILInjected.Token(Token = "0x60003BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB50CC", Offset = "0x1BB50CC", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -219,8 +207,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x1700003F RID: 63
-		// (get) Token: 0x0600032D RID: 813 RVA: 0x00014EB8 File Offset: 0x000130B8
 		[global::Cpp2ILInjected.Token(Token = "0x17000056")]
 		public global::System.Collections.ObjectModel.ReadOnlyCollection<global::System.Exception> InnerExceptions
 		{
@@ -233,7 +219,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x0600032E RID: 814 RVA: 0x00014EBB File Offset: 0x000130BB
 		[global::Cpp2ILInjected.Token(Token = "0x60003BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB5228", Offset = "0x1BB5228", Length = "0x39C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -252,8 +237,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x17000040 RID: 64
-		// (get) Token: 0x0600032F RID: 815 RVA: 0x00014EBE File Offset: 0x000130BE
 		[global::Cpp2ILInjected.Token(Token = "0x17000057")]
 		public override string Message
 		{
@@ -277,7 +260,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000330 RID: 816 RVA: 0x00014EC1 File Offset: 0x000130C1
 		[global::Cpp2ILInjected.Token(Token = "0x60003C1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BB5744", Offset = "0x1BB5744", Length = "0x20C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -301,7 +283,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x040000F9 RID: 249
 		[global::Cpp2ILInjected.Token(Token = "0x40001DA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private global::System.Collections.ObjectModel.ReadOnlyCollection<global::System.Exception> m_innerExceptions;

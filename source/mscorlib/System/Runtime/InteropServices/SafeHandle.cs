@@ -9,12 +9,10 @@ using Microsoft.Win32.SafeHandles;
 
 namespace System.Runtime.InteropServices
 {
-	// Token: 0x020003A4 RID: 932
 	[global::Cpp2ILInjected.Token(Token = "0x200044E")]
 	[StructLayout(0)]
 	public abstract class SafeHandle : global::System.Runtime.ConstrainedExecution.CriticalFinalizerObject, global::System.IDisposable
 	{
-		// Token: 0x06001F43 RID: 8003 RVA: 0x00019CBB File Offset: 0x00017EBB
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.MayFail)]
 		[global::Cpp2ILInjected.Token(Token = "0x6002184")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70690", Offset = "0x1B70690", Length = "0x98")]
@@ -46,7 +44,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F44 RID: 8004 RVA: 0x00019CBE File Offset: 0x00017EBE
 		[global::Cpp2ILInjected.Token(Token = "0x6002185")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70728", Offset = "0x1B70728", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -58,7 +55,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F45 RID: 8005 RVA: 0x00019CC1 File Offset: 0x00017EC1
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x6002186")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B707C8", Offset = "0x1B707C8", Length = "0x8")]
@@ -68,7 +64,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F46 RID: 8006 RVA: 0x00019CC4 File Offset: 0x00017EC4
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x6002187")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B707D0", Offset = "0x1B707D0", Length = "0x8")]
@@ -78,8 +73,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x170003FC RID: 1020
-		// (get) Token: 0x06001F47 RID: 8007 RVA: 0x00019CC7 File Offset: 0x00017EC7
 		[global::Cpp2ILInjected.Token(Token = "0x1700045A")]
 		public bool IsClosed
 		{
@@ -135,8 +128,6 @@ namespace System.Runtime.InteropServices
 			}
 		}
 
-		// Token: 0x170003FD RID: 1021
-		// (get) Token: 0x06001F48 RID: 8008
 		[global::Cpp2ILInjected.Token(Token = "0x1700045B")]
 		public abstract bool IsInvalid
 		{
@@ -145,7 +136,6 @@ namespace System.Runtime.InteropServices
 			get;
 		}
 
-		// Token: 0x06001F49 RID: 8009 RVA: 0x00019CCA File Offset: 0x00017ECA
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x600218A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B707E4", Offset = "0x1B707E4", Length = "0x10")]
@@ -164,7 +154,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F4A RID: 8010 RVA: 0x00019CCD File Offset: 0x00017ECD
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x600218B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B707F4", Offset = "0x1B707F4", Length = "0x10")]
@@ -199,7 +188,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F4B RID: 8011 RVA: 0x00019CD0 File Offset: 0x00017ED0
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x600218C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70804", Offset = "0x1B70804", Length = "0x1C")]
@@ -212,12 +200,10 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F4C RID: 8012
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x600218D")]
 		protected abstract bool ReleaseHandle();
 
-		// Token: 0x06001F4D RID: 8013 RVA: 0x00019CD3 File Offset: 0x00017ED3
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x600218E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B708D4", Offset = "0x1B708D4", Length = "0x84")]
@@ -243,11 +229,201 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F4E RID: 8014 RVA: 0x00019CD6 File Offset: 0x00017ED6
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.MayFail)]
 		[global::Cpp2ILInjected.Token(Token = "0x600218F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B6FC14", Offset = "0x1B6FC14", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::Interop.Sys), Member = "CopyFile", MemberParameters = new object[]
+		{
+			typeof(Microsoft.Win32.SafeHandles.SafeFileHandle),
+			typeof(Microsoft.Win32.SafeHandles.SafeFileHandle)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.WaitHandle), Member = "WaitOneNative", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(uint),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.WaitHandle), Member = "WaitMultiple", MemberParameters = new object[]
+		{
+			typeof(global::System.Threading.WaitHandle[]),
+			typeof(int),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.NativeEventCalls), Member = "SetEvent", MemberParameters = new object[] { typeof(Microsoft.Win32.SafeHandles.SafeWaitHandle) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.NativeEventCalls), Member = "ResetEvent", MemberParameters = new object[] { typeof(Microsoft.Win32.SafeHandles.SafeWaitHandle) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.RegisteredWaitHandle), Member = "Wait", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SafeBuffer), Member = "AcquirePointer", MemberParameters = new object[] { typeof(ref byte*) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "GetFileType", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(global::System.IO.MonoFileType))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "Cancel", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "Read", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "Write", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "Seek", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(long),
+			typeof(global::System.IO.SeekOrigin),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(long))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "GetLength", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(long))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "SetLength", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(long),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Win32.NativeMethods", Member = "DuplicateHandle", MemberParameters = new object[]
+		{
+			typeof(HandleRef),
+			typeof(SafeHandle),
+			typeof(HandleRef),
+			typeof(ref Microsoft.Win32.SafeHandles.SafeWaitHandle),
+			typeof(int),
+			typeof(bool),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Win32.NativeMethods", Member = "GetExitCodeProcess", MemberParameters = new object[]
+		{
+			"Microsoft.Win32.SafeHandles.SafeProcessHandle",
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Win32.NativeMethods", Member = "SetPriorityClass", MemberParameters = new object[]
+		{
+			"Microsoft.Win32.SafeHandles.SafeProcessHandle",
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Diagnostics.Process", Member = "ProcessName_internal", MemberParameters = new object[] { "Microsoft.Win32.SafeHandles.SafeProcessHandle" }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Available_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(ref int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "LocalEndPoint_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = "System.Net.SocketAddress")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Blocking_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(bool),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "RemoteEndPoint_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = "System.Net.SocketAddress")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Poll_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.Sockets.SelectMode",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Bind_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.SocketAddress",
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Listen_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Disconnect_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(bool),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "GetSocketOption_obj_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.Sockets.SocketOptionLevel",
+			"System.Net.Sockets.SocketOptionName",
+			typeof(ref object),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "SetSocketOption_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.Sockets.SocketOptionLevel",
+			"System.Net.Sockets.SocketOptionName",
+			typeof(object),
+			"System.Byte[]",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "IOControl_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(int),
+			"System.Byte[]",
+			"System.Byte[]",
+			typeof(ref int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Shutdown_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.Sockets.SocketShutdown",
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.SafeSocketHandle", Member = "RegisterForBlockingSyscall", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Security.SafeDeleteContext", Member = ".ctor", MemberParameters = new object[] { "System.Net.Security.SafeFreeCredentials" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Security.SafeCredentialReference", Member = ".ctor", MemberParameters = new object[] { "System.Net.Security.SafeFreeCredentials" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Security.SafeFreeNegoCredentials", Member = ".ctor", MemberParameters = new object[]
+		{
+			typeof(bool),
+			typeof(string),
+			typeof(string),
+			typeof(string)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.DeflateStreamNative", Member = "Flush", MemberParameters = new object[] { "System.IO.Compression.DeflateStreamNative.SafeDeflateStreamHandle" }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.DeflateStreamNative", Member = "ReadZStream", MemberParameters = new object[]
+		{
+			"System.IO.Compression.DeflateStreamNative.SafeDeflateStreamHandle",
+			typeof(global::System.IntPtr),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.DeflateStreamNative", Member = "WriteZStream", MemberParameters = new object[]
+		{
+			"System.IO.Compression.DeflateStreamNative.SafeDeflateStreamHandle",
+			typeof(global::System.IntPtr),
+			typeof(int)
+		}, ReturnType = typeof(int))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 38)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.Threading.Interlocked), Member = "CompareExchange", MemberParameters = new object[]
 		{
@@ -262,15 +438,198 @@ namespace System.Runtime.InteropServices
 		}, ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.InvalidOperationException), Member = ".ctor", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 7)]
-		public void DangerousAddRef(ref bool success)
+		public unsafe void DangerousAddRef(ref bool success)
 		{
 			throw null;
 		}
 
-		// Token: 0x06001F4F RID: 8015 RVA: 0x00019CD9 File Offset: 0x00017ED9
 		[global::System.Runtime.ConstrainedExecution.ReliabilityContract(global::System.Runtime.ConstrainedExecution.Consistency.WillNotCorruptState, global::System.Runtime.ConstrainedExecution.Cer.Success)]
 		[global::Cpp2ILInjected.Token(Token = "0x6002190")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B6FDB4", Offset = "0x1B6FDB4", Length = "0x8")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::Interop.Sys), Member = "CopyFile", MemberParameters = new object[]
+		{
+			typeof(Microsoft.Win32.SafeHandles.SafeFileHandle),
+			typeof(Microsoft.Win32.SafeHandles.SafeFileHandle)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.WaitHandle), Member = "WaitOneNative", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(uint),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.WaitHandle), Member = "WaitMultiple", MemberParameters = new object[]
+		{
+			typeof(global::System.Threading.WaitHandle[]),
+			typeof(int),
+			typeof(bool),
+			typeof(bool)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.NativeEventCalls), Member = "SetEvent", MemberParameters = new object[] { typeof(Microsoft.Win32.SafeHandles.SafeWaitHandle) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.NativeEventCalls), Member = "ResetEvent", MemberParameters = new object[] { typeof(Microsoft.Win32.SafeHandles.SafeWaitHandle) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.RegisteredWaitHandle), Member = "Wait", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.FileStream), Member = "Dispose", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "GetFileType", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(global::System.IO.MonoFileType))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "Cancel", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "Read", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "Write", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(byte[]),
+			typeof(int),
+			typeof(int),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "Seek", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(long),
+			typeof(global::System.IO.SeekOrigin),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(long))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "GetLength", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(long))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MonoIO), Member = "SetLength", MemberParameters = new object[]
+		{
+			typeof(SafeHandle),
+			typeof(long),
+			typeof(ref global::System.IO.MonoIOError)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Win32.NativeMethods", Member = "DuplicateHandle", MemberParameters = new object[]
+		{
+			typeof(HandleRef),
+			typeof(SafeHandle),
+			typeof(HandleRef),
+			typeof(ref Microsoft.Win32.SafeHandles.SafeWaitHandle),
+			typeof(int),
+			typeof(bool),
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Win32.NativeMethods", Member = "GetExitCodeProcess", MemberParameters = new object[]
+		{
+			"Microsoft.Win32.SafeHandles.SafeProcessHandle",
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Microsoft.Win32.NativeMethods", Member = "SetPriorityClass", MemberParameters = new object[]
+		{
+			"Microsoft.Win32.SafeHandles.SafeProcessHandle",
+			typeof(int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Diagnostics.Process", Member = "ProcessName_internal", MemberParameters = new object[] { "Microsoft.Win32.SafeHandles.SafeProcessHandle" }, ReturnType = typeof(string))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Available_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(ref int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "LocalEndPoint_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = "System.Net.SocketAddress")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Blocking_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(bool),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "RemoteEndPoint_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = "System.Net.SocketAddress")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Poll_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.Sockets.SelectMode",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Bind_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.SocketAddress",
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Listen_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Disconnect_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(bool),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "GetSocketOption_obj_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.Sockets.SocketOptionLevel",
+			"System.Net.Sockets.SocketOptionName",
+			typeof(ref object),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "SetSocketOption_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.Sockets.SocketOptionLevel",
+			"System.Net.Sockets.SocketOptionName",
+			typeof(object),
+			"System.Byte[]",
+			typeof(int),
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "IOControl_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			typeof(int),
+			"System.Byte[]",
+			"System.Byte[]",
+			typeof(ref int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "Shutdown_internal", MemberParameters = new object[]
+		{
+			"System.Net.Sockets.SafeSocketHandle",
+			"System.Net.Sockets.SocketShutdown",
+			typeof(ref int)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Security.SafeDeleteContext", Member = "ReleaseHandle", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Security.SafeCredentialReference", Member = "ReleaseHandle", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Security.SafeFreeNegoCredentials", Member = "ReleaseHandle", ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.DeflateStreamNative", Member = "Flush", MemberParameters = new object[] { "System.IO.Compression.DeflateStreamNative.SafeDeflateStreamHandle" }, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.DeflateStreamNative", Member = "ReadZStream", MemberParameters = new object[]
+		{
+			"System.IO.Compression.DeflateStreamNative.SafeDeflateStreamHandle",
+			typeof(global::System.IntPtr),
+			typeof(int)
+		}, ReturnType = typeof(int))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.DeflateStreamNative", Member = "WriteZStream", MemberParameters = new object[]
+		{
+			"System.IO.Compression.DeflateStreamNative.SafeDeflateStreamHandle",
+			typeof(global::System.IntPtr),
+			typeof(int)
+		}, ReturnType = typeof(int))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 65)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(SafeHandle), Member = "DangerousReleaseInternal", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
 		public void DangerousRelease()
@@ -278,7 +637,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F50 RID: 8016 RVA: 0x00019CDC File Offset: 0x00017EDC
 		[global::Cpp2ILInjected.Token(Token = "0x6002191")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70820", Offset = "0x1B70820", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -291,7 +649,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F51 RID: 8017 RVA: 0x00019CDF File Offset: 0x00017EDF
 		[global::Cpp2ILInjected.Token(Token = "0x6002192")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B708C0", Offset = "0x1B708C0", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -301,7 +658,6 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x06001F52 RID: 8018 RVA: 0x00019CE2 File Offset: 0x00017EE2
 		[global::Cpp2ILInjected.Token(Token = "0x6002193")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B70958", Offset = "0x1B70958", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -329,31 +685,25 @@ namespace System.Runtime.InteropServices
 			throw null;
 		}
 
-		// Token: 0x04000F88 RID: 3976
 		[global::Cpp2ILInjected.Token(Token = "0x400127D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		protected global::System.IntPtr handle;
 
-		// Token: 0x04000F89 RID: 3977
 		[global::Cpp2ILInjected.Token(Token = "0x400127E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private int _state;
 
-		// Token: 0x04000F8A RID: 3978
 		[global::Cpp2ILInjected.Token(Token = "0x400127F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private bool _ownsHandle;
 
-		// Token: 0x04000F8B RID: 3979
 		[global::Cpp2ILInjected.Token(Token = "0x4001280")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1D")]
 		private bool _fullyInitialized;
 
-		// Token: 0x04000F8C RID: 3980
 		[global::Cpp2ILInjected.Token(Token = "0x4001281")]
 		private const int RefCount_Mask = 2147483644;
 
-		// Token: 0x04000F8D RID: 3981
 		[global::Cpp2ILInjected.Token(Token = "0x4001282")]
 		private const int RefCount_One = 4;
 	}

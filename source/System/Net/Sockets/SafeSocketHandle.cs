@@ -10,11 +10,9 @@ using Microsoft.Win32.SafeHandles;
 
 namespace System.Net.Sockets
 {
-	// Token: 0x0200021A RID: 538
 	[global::Cpp2ILInjected.Token(Token = "0x2000309")]
 	internal sealed class SafeSocketHandle : SafeHandleMinusOneIsInvalid
 	{
-		// Token: 0x06001208 RID: 4616 RVA: 0x000061C4 File Offset: 0x000043C4
 		[global::Cpp2ILInjected.Token(Token = "0x6001441")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E34E18", Offset = "0x1E34E18", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Socket), Member = ".ctor", MemberParameters = new object[]
@@ -39,7 +37,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x06001209 RID: 4617 RVA: 0x000061C7 File Offset: 0x000043C7
 		[global::Cpp2ILInjected.Token(Token = "0x6001442")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E34EDC", Offset = "0x1E34EDC", Length = "0x578")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -89,7 +86,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x0600120A RID: 4618 RVA: 0x000061CA File Offset: 0x000043CA
 		[global::Cpp2ILInjected.Token(Token = "0x6001443")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E35454", Offset = "0x1E35454", Length = "0x140")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -171,7 +167,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x0600120B RID: 4619 RVA: 0x000061CD File Offset: 0x000043CD
 		[global::Cpp2ILInjected.Token(Token = "0x6001444")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E35594", Offset = "0x1E35594", Length = "0x1C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -262,7 +257,6 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x0600120C RID: 4620 RVA: 0x000061D0 File Offset: 0x000043D0
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001445")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E35754", Offset = "0x1E35754", Length = "0x94")]
@@ -279,22 +273,18 @@ namespace System.Net.Sockets
 			throw null;
 		}
 
-		// Token: 0x04000CE8 RID: 3304
 		[global::Cpp2ILInjected.Token(Token = "0x40010E1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private List<Thread> blocking_threads;
 
-		// Token: 0x04000CE9 RID: 3305
 		[global::Cpp2ILInjected.Token(Token = "0x40010E2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private Dictionary<Thread, StackTrace> threads_stacktraces;
 
-		// Token: 0x04000CEA RID: 3306
 		[global::Cpp2ILInjected.Token(Token = "0x40010E3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private bool in_cleanup;
 
-		// Token: 0x04000CEB RID: 3307
 		[global::Cpp2ILInjected.Token(Token = "0x40010E4")]
 		private static bool THROW_ON_ABORT_RETRIES;
 	}

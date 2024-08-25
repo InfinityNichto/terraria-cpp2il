@@ -8,11 +8,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using UnityEngine;
 
-// Token: 0x020000EE RID: 238
 [global::Cpp2ILInjected.Token(Token = "0x2000155")]
 public class GUIMana
 {
-	// Token: 0x06000856 RID: 2134 RVA: 0x00023447 File Offset: 0x00021647
 	[global::Cpp2ILInjected.Token(Token = "0x6000950")]
 	[global::Cpp2ILInjected.Address(RVA = "0x94E99C", Offset = "0x94E99C", Length = "0x234")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -46,8 +44,6 @@ public class GUIMana
 		throw null;
 	}
 
-	// Token: 0x170000C2 RID: 194
-	// (get) Token: 0x06000857 RID: 2135 RVA: 0x0002344A File Offset: 0x0002164A
 	[global::Cpp2ILInjected.Token(Token = "0x170000E7")]
 	public ItemGrid_Layout ManaGrid
 	{
@@ -65,8 +61,6 @@ public class GUIMana
 		}
 	}
 
-	// Token: 0x170000C3 RID: 195
-	// (get) Token: 0x06000858 RID: 2136 RVA: 0x0002344D File Offset: 0x0002164D
 	[global::Cpp2ILInjected.Token(Token = "0x170000E8")]
 	public String_Layout ManaTitle
 	{
@@ -83,8 +77,6 @@ public class GUIMana
 		}
 	}
 
-	// Token: 0x170000C4 RID: 196
-	// (get) Token: 0x06000859 RID: 2137 RVA: 0x00023450 File Offset: 0x00021650
 	[global::Cpp2ILInjected.Token(Token = "0x170000E9")]
 	public String_Layout ManaValue
 	{
@@ -101,7 +93,6 @@ public class GUIMana
 		}
 	}
 
-	// Token: 0x0600085A RID: 2138 RVA: 0x00023453 File Offset: 0x00021653
 	[global::Cpp2ILInjected.Token(Token = "0x6000954")]
 	[global::Cpp2ILInjected.Address(RVA = "0x94EE58", Offset = "0x94EE58", Length = "0x1C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -135,7 +126,6 @@ public class GUIMana
 		throw null;
 	}
 
-	// Token: 0x0600085B RID: 2139 RVA: 0x00023456 File Offset: 0x00021656
 	[global::Cpp2ILInjected.Token(Token = "0x6000955")]
 	[global::Cpp2ILInjected.Address(RVA = "0x94F01C", Offset = "0x94F01C", Length = "0xA0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -149,7 +139,6 @@ public class GUIMana
 		throw null;
 	}
 
-	// Token: 0x0600085C RID: 2140 RVA: 0x00023459 File Offset: 0x00021659
 	[global::Cpp2ILInjected.Token(Token = "0x6000956")]
 	[global::Cpp2ILInjected.Address(RVA = "0x94F0BC", Offset = "0x94F0BC", Length = "0xA0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -163,7 +152,6 @@ public class GUIMana
 		throw null;
 	}
 
-	// Token: 0x0600085D RID: 2141 RVA: 0x0002345C File Offset: 0x0002165C
 	[global::Cpp2ILInjected.Token(Token = "0x6000957")]
 	[global::Cpp2ILInjected.Address(RVA = "0x94F15C", Offset = "0x94F15C", Length = "0x4C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -173,7 +161,6 @@ public class GUIMana
 		throw null;
 	}
 
-	// Token: 0x0600085E RID: 2142 RVA: 0x0002345F File Offset: 0x0002165F
 	[global::Cpp2ILInjected.Token(Token = "0x6000958")]
 	[global::Cpp2ILInjected.Address(RVA = "0x94F1A8", Offset = "0x94F1A8", Length = "0x1EC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -203,7 +190,6 @@ public class GUIMana
 		throw null;
 	}
 
-	// Token: 0x0600085F RID: 2143 RVA: 0x00023462 File Offset: 0x00021662
 	[global::Cpp2ILInjected.Token(Token = "0x6000959")]
 	[global::Cpp2ILInjected.Address(RVA = "0x94F394", Offset = "0x94F394", Length = "0xD10")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -274,7 +260,6 @@ public class GUIMana
 		throw null;
 	}
 
-	// Token: 0x06000860 RID: 2144 RVA: 0x00023465 File Offset: 0x00021665
 	[global::Cpp2ILInjected.Token(Token = "0x600095A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9500A4", Offset = "0x9500A4", Length = "0x590")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -353,92 +338,74 @@ public class GUIMana
 		throw null;
 	}
 
-	// Token: 0x0400068B RID: 1675
 	[global::Cpp2ILInjected.Token(Token = "0x40008F8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private int starMana;
 
-	// Token: 0x0400068C RID: 1676
 	[global::Cpp2ILInjected.Token(Token = "0x40008F9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private int starCount;
 
-	// Token: 0x0400068D RID: 1677
 	[global::Cpp2ILInjected.Token(Token = "0x40008FA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int lastStarCount;
 
-	// Token: 0x0400068E RID: 1678
 	[global::Cpp2ILInjected.Token(Token = "0x40008FB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private CachedGridLayoutSettings LayoutCache;
 
-	// Token: 0x0400068F RID: 1679
 	[global::Cpp2ILInjected.Token(Token = "0x40008FC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private Rectangle StarsRegion;
 
-	// Token: 0x04000690 RID: 1680
 	[global::Cpp2ILInjected.Token(Token = "0x40008FD")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private Microsoft.Xna.Framework.Vector2 lastAnchorPoint;
 
-	// Token: 0x04000691 RID: 1681
 	[global::Cpp2ILInjected.Token(Token = "0x40008FE")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private Microsoft.Xna.Framework.Vector2 manaBackingSingleOffset;
 
-	// Token: 0x04000692 RID: 1682
 	[global::Cpp2ILInjected.Token(Token = "0x40008FF")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private Microsoft.Xna.Framework.Vector2 manaBackingTopOffset;
 
-	// Token: 0x04000693 RID: 1683
 	[global::Cpp2ILInjected.Token(Token = "0x4000900")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private Microsoft.Xna.Framework.Vector2 manaBackingBottomOffset;
 
-	// Token: 0x04000694 RID: 1684
 	[global::Cpp2ILInjected.Token(Token = "0x4000901")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	private Microsoft.Xna.Framework.Vector2 manaBackingMidOffset;
 
-	// Token: 0x04000695 RID: 1685
 	[global::Cpp2ILInjected.Token(Token = "0x4000902")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private Microsoft.Xna.Framework.Vector2 manaBackingLeftBarOffset;
 
-	// Token: 0x04000696 RID: 1686
 	[global::Cpp2ILInjected.Token(Token = "0x4000903")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 	private Microsoft.Xna.Framework.Vector2 manaBackingMidBarOffset;
 
-	// Token: 0x04000697 RID: 1687
 	[global::Cpp2ILInjected.Token(Token = "0x4000904")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 	private Microsoft.Xna.Framework.Vector2 manaBackingRightBarOffset;
 
-	// Token: 0x04000698 RID: 1688
 	[global::Cpp2ILInjected.Token(Token = "0x4000905")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 	private GUIItemGrid.CursorOver starOver;
 
-	// Token: 0x04000699 RID: 1689
 	[global::Cpp2ILInjected.Token(Token = "0x4000906")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 	private GUIItemGrid.GetItemScaleHandler starScale;
 
-	// Token: 0x0400069A RID: 1690
 	[global::Cpp2ILInjected.Token(Token = "0x4000907")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 	private GUIItemGrid.DrawItemHandler starDraw;
 
-	// Token: 0x0400069B RID: 1691
 	[global::Cpp2ILInjected.Token(Token = "0x4000908")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 	private float TimeSinceChange;
 
-	// Token: 0x0400069C RID: 1692
 	[global::Cpp2ILInjected.Token(Token = "0x4000909")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x94")]
 	private int LastValue;

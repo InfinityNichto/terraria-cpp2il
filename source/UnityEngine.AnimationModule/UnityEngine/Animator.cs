@@ -7,7 +7,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200000F RID: 15
 	[NativeHeader("Modules/Animation/Animator.h")]
 	[NativeHeader("Modules/Animation/ScriptBindings/Animator.bindings.h")]
 	[NativeHeader("Modules/Animation/ScriptBindings/AnimatorControllerParameter.bindings.h")]
@@ -15,7 +14,6 @@ namespace UnityEngine
 	[global::Cpp2ILInjected.Token(Token = "0x2000010")]
 	public class Animator : Behaviour
 	{
-		// Token: 0x06000008 RID: 8 RVA: 0x00002065 File Offset: 0x00000265
 		[global::Cpp2ILInjected.Token(Token = "0x600000A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F66B1C", Offset = "0x1F66B1C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Selectable", Member = "TriggerAnimation", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -26,7 +24,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000009 RID: 9 RVA: 0x00002068 File Offset: 0x00000268
 		[global::Cpp2ILInjected.Token(Token = "0x600000B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F66BA4", Offset = "0x1F66BA4", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Selectable", Member = "TriggerAnimation", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]
@@ -37,8 +34,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x17000003 RID: 3
-		// (get) Token: 0x0600000A RID: 10
 		[global::Cpp2ILInjected.Token(Token = "0x17000003")]
 		public extern AnimatorControllerParameter[] parameters
 		{
@@ -67,8 +62,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000004 RID: 4
-		// (get) Token: 0x0600000B RID: 11
 		[global::Cpp2ILInjected.Token(Token = "0x17000004")]
 		public extern int parameterCount
 		{
@@ -96,8 +89,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000005 RID: 5
-		// (get) Token: 0x0600000C RID: 12
 		[global::Cpp2ILInjected.Token(Token = "0x17000005")]
 		public extern bool hasBoundPlayables
 		{
@@ -111,7 +102,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x0600000D RID: 13
 		[NativeMethod(Name = "ScriptingStringToCRC32", IsThreadSafe = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x600000F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F66948", Offset = "0x1F66948", Length = "0x3C")]
@@ -120,7 +110,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern int StringToHash(string name);
 
-		// Token: 0x0600000E RID: 14
 		[FreeFunction(Name = "AnimatorBindings::SetTriggerString", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000010")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F66B60", Offset = "0x1F66B60", Length = "0x44")]
@@ -129,7 +118,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void SetTriggerString(string name);
 
-		// Token: 0x0600000F RID: 15
 		[FreeFunction(Name = "AnimatorBindings::ResetTriggerString", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x6000011")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F66BE8", Offset = "0x1F66BE8", Length = "0x44")]

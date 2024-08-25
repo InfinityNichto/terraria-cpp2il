@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Terraria;
 using Terraria.IO;
 
-// Token: 0x02000223 RID: 547
 [global::Cpp2ILInjected.Token(Token = "0x20002CF")]
 public class SaveSynchronisationState
 {
-	// Token: 0x06000F66 RID: 3942 RVA: 0x0002492F File Offset: 0x00022B2F
 	[global::Cpp2ILInjected.Token(Token = "0x600109E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA493BC", Offset = "0xA493BC", Length = "0xE8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationManager), Member = "Startup", ReturnType = typeof(void))]
@@ -25,7 +23,6 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x06000F67 RID: 3943 RVA: 0x00024932 File Offset: 0x00022B32
 	[global::Cpp2ILInjected.Token(Token = "0x600109F")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA49540", Offset = "0xA49540", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,7 +47,6 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x06000F68 RID: 3944 RVA: 0x00024935 File Offset: 0x00022B35
 	[global::Cpp2ILInjected.Token(Token = "0x60010A0")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA49E8C", Offset = "0xA49E8C", Length = "0xAC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationState), Member = "ProcessMessageResponse", MemberParameters = new object[]
@@ -65,7 +61,6 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x06000F69 RID: 3945 RVA: 0x00024938 File Offset: 0x00022B38
 	[global::Cpp2ILInjected.Token(Token = "0x60010A1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA49F38", Offset = "0xA49F38", Length = "0x18")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -93,7 +88,6 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x06000F6A RID: 3946 RVA: 0x0002493B File Offset: 0x00022B3B
 	[global::Cpp2ILInjected.Token(Token = "0x60010A2")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA49588", Offset = "0xA49588", Length = "0x440")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +114,6 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x06000F6B RID: 3947 RVA: 0x0002493E File Offset: 0x00022B3E
 	[global::Cpp2ILInjected.Token(Token = "0x60010A3")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA49F50", Offset = "0xA49F50", Length = "0x8D8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,7 +129,6 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x06000F6C RID: 3948 RVA: 0x00024941 File Offset: 0x00022B41
 	[global::Cpp2ILInjected.Token(Token = "0x60010A4")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA499C8", Offset = "0xA499C8", Length = "0x4C4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +158,6 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x06000F6D RID: 3949 RVA: 0x00024944 File Offset: 0x00022B44
 	[global::Cpp2ILInjected.Token(Token = "0x60010A5")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA494A4", Offset = "0xA494A4", Length = "0x9C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -185,7 +176,6 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x06000F6E RID: 3950 RVA: 0x00024947 File Offset: 0x00022B47
 	[global::Cpp2ILInjected.Token(Token = "0x60010A6")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA4A828", Offset = "0xA4A828", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationManager), Member = ".ctor", ReturnType = typeof(void))]
@@ -198,7 +188,6 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x06000F6F RID: 3951 RVA: 0x0002494A File Offset: 0x00022B4A
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x60010A7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA4A8EC", Offset = "0xA4A8EC", Length = "0x68")]
@@ -209,21 +198,17 @@ public class SaveSynchronisationState
 		throw null;
 	}
 
-	// Token: 0x04001A34 RID: 6708
 	[global::Cpp2ILInjected.Token(Token = "0x4001F7D")]
 	private static byte[] emptyMessageData;
 
-	// Token: 0x04001A35 RID: 6709
 	[global::Cpp2ILInjected.Token(Token = "0x4001F7E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool IsSynchronised;
 
-	// Token: 0x04001A36 RID: 6710
 	[global::Cpp2ILInjected.Token(Token = "0x4001F7F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	public List<PlayerFileData> playerFiles;
 
-	// Token: 0x04001A37 RID: 6711
 	[global::Cpp2ILInjected.Token(Token = "0x4001F80")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public List<WorldFileData> worldFiles;

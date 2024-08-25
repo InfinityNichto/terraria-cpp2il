@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x0200008B RID: 139
 	[global::Cpp2ILInjected.Token(Token = "0x20000B7")]
 	internal struct DateTimeRawInfo
 	{
-		// Token: 0x0600067D RID: 1661 RVA: 0x00015875 File Offset: 0x00013A75
 		[global::Cpp2ILInjected.Token(Token = "0x600071C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2DE04", Offset = "0x1C2DE04", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "TryParse", MemberParameters = new object[]
@@ -25,7 +23,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600067E RID: 1662 RVA: 0x00015878 File Offset: 0x00013A78
 		[global::Cpp2ILInjected.Token(Token = "0x600071D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2DE24", Offset = "0x1C2DE24", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -45,7 +42,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0600067F RID: 1663 RVA: 0x0001587B File Offset: 0x00013A7B
 		[global::Cpp2ILInjected.Token(Token = "0x600071E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C2DE3C", Offset = "0x1C2DE3C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.DateTimeParse), Member = "GetDayOfNN", MemberParameters = new object[]
@@ -162,47 +158,38 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x040001A4 RID: 420
 		[global::Cpp2ILInjected.Token(Token = "0x40002CF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private unsafe int* num;
 
-		// Token: 0x040001A5 RID: 421
 		[global::Cpp2ILInjected.Token(Token = "0x40002D0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		internal int numCount;
 
-		// Token: 0x040001A6 RID: 422
 		[global::Cpp2ILInjected.Token(Token = "0x40002D1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xC")]
 		internal int month;
 
-		// Token: 0x040001A7 RID: 423
 		[global::Cpp2ILInjected.Token(Token = "0x40002D2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal int year;
 
-		// Token: 0x040001A8 RID: 424
 		[global::Cpp2ILInjected.Token(Token = "0x40002D3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		internal int dayOfWeek;
 
-		// Token: 0x040001A9 RID: 425
 		[global::Cpp2ILInjected.Token(Token = "0x40002D4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		internal int era;
 
-		// Token: 0x040001AA RID: 426
 		[global::Cpp2ILInjected.Token(Token = "0x40002D5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		internal global::System.DateTimeParse.TM timeMark;
 
-		// Token: 0x040001AB RID: 427
 		[global::Cpp2ILInjected.Token(Token = "0x40002D6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		internal double fraction;
 
-		// Token: 0x040001AC RID: 428
 		[global::Cpp2ILInjected.Token(Token = "0x40002D7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		internal bool hasSameDateAndTimeSeparators;

@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001B9 RID: 441
 	[NativeInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20001C6")]
 	public class XboxOneMFiNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x060007FC RID: 2044 RVA: 0x00003821 File Offset: 0x00001A21
 		[global::Cpp2ILInjected.Token(Token = "0x6000819")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A377C8", Offset = "0x1A377C8", Length = "0xA90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -35,7 +33,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060007FD RID: 2045 RVA: 0x00003824 File Offset: 0x00001A24
 		[global::Cpp2ILInjected.Token(Token = "0x600081A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A38258", Offset = "0x1A38258", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

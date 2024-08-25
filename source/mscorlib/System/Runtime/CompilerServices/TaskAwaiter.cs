@@ -11,11 +11,9 @@ using Internal.Threading.Tasks.Tracing;
 
 namespace System.Runtime.CompilerServices
 {
-	// Token: 0x020003D5 RID: 981
 	[global::Cpp2ILInjected.Token(Token = "0x2000486")]
 	public readonly struct TaskAwaiter : ICriticalNotifyCompletion
 	{
-		// Token: 0x06001FE0 RID: 8160 RVA: 0x00019E41 File Offset: 0x00018041
 		[global::Cpp2ILInjected.Token(Token = "0x600223A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B73EE8", Offset = "0x1B73EE8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -24,8 +22,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x17000411 RID: 1041
-		// (get) Token: 0x06001FE1 RID: 8161 RVA: 0x00019E44 File Offset: 0x00018044
 		[global::Cpp2ILInjected.Token(Token = "0x17000473")]
 		public bool IsCompleted
 		{
@@ -43,7 +39,6 @@ namespace System.Runtime.CompilerServices
 			}
 		}
 
-		// Token: 0x06001FE2 RID: 8162 RVA: 0x00019E47 File Offset: 0x00018047
 		[global::Cpp2ILInjected.Token(Token = "0x600223C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B73D3C", Offset = "0x1B73D3C", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ValueTaskAwaiter<>), Member = "UnsafeOnCompleted", MemberParameters = new object[] { typeof(global::System.Action) }, ReturnType = typeof(void))]
@@ -60,7 +55,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FE3 RID: 8163 RVA: 0x00019E4A File Offset: 0x0001804A
 		[global::System.Diagnostics.StackTraceHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x600223D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B73FA4", Offset = "0x1B73FA4", Length = "0x8")]
@@ -82,7 +76,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FE4 RID: 8164 RVA: 0x00019E4D File Offset: 0x0001804D
 		[global::System.Diagnostics.StackTraceHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x600223E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B73FAC", Offset = "0x1B73FAC", Length = "0x44")]
@@ -104,7 +97,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FE5 RID: 8165 RVA: 0x00019E50 File Offset: 0x00018050
 		[global::System.Diagnostics.StackTraceHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x600223F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B73FF0", Offset = "0x1B73FF0", Length = "0x58")]
@@ -122,7 +114,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FE6 RID: 8166 RVA: 0x00019E53 File Offset: 0x00018053
 		[global::System.Diagnostics.StackTraceHidden]
 		[global::Cpp2ILInjected.Token(Token = "0x6002240")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B74048", Offset = "0x1B74048", Length = "0x114")]
@@ -141,7 +132,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FE7 RID: 8167 RVA: 0x00019E56 File Offset: 0x00018056
 		[global::Cpp2ILInjected.Token(Token = "0x6002241")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B73EFC", Offset = "0x1B73EFC", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ConfiguredValueTaskAwaitable.ConfiguredValueTaskAwaiter), Member = "UnsafeOnCompleted", MemberParameters = new object[] { typeof(global::System.Action) }, ReturnType = typeof(void))]
@@ -172,7 +162,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06001FE8 RID: 8168 RVA: 0x00019E59 File Offset: 0x00018059
 		[global::Cpp2ILInjected.Token(Token = "0x6002242")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B7415C", Offset = "0x1B7415C", Length = "0x1C4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TaskAwaiter), Member = "OnCompletedInternal", MemberParameters = new object[]
@@ -203,17 +192,14 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x04000FC1 RID: 4033
 		[global::Cpp2ILInjected.Token(Token = "0x40012BD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		internal readonly global::System.Threading.Tasks.Task m_task;
 
-		// Token: 0x020005FC RID: 1532
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000487")]
 		private sealed class <>c__DisplayClass11_0
 		{
-			// Token: 0x06004131 RID: 16689 RVA: 0x0001FE2F File Offset: 0x0001E02F
 			[global::Cpp2ILInjected.Token(Token = "0x6002243")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B74320", Offset = "0x1B74320", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -223,7 +209,6 @@ namespace System.Runtime.CompilerServices
 				throw null;
 			}
 
-			// Token: 0x06004132 RID: 16690 RVA: 0x0001FE32 File Offset: 0x0001E032
 			[global::Cpp2ILInjected.Token(Token = "0x6002244")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B74328", Offset = "0x1B74328", Length = "0x160")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -242,12 +227,10 @@ namespace System.Runtime.CompilerServices
 				throw null;
 			}
 
-			// Token: 0x04001984 RID: 6532
 			[global::Cpp2ILInjected.Token(Token = "0x40012BE")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public global::System.Threading.Tasks.Task task;
 
-			// Token: 0x04001985 RID: 6533
 			[global::Cpp2ILInjected.Token(Token = "0x40012BF")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			public global::System.Action continuation;

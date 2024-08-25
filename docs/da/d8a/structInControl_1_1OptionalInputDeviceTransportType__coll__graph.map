@@ -1,7 +1,0 @@
-<map id="InControl.OptionalInputDeviceTransportType" name="InControl.OptionalInputDeviceTransportType">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,283,925"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="55,5,97,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,71,89,117,84,117,78,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="122,5,305,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,71,205,117,200,117,206,71"/>
-</map>

@@ -6,11 +6,9 @@ using Mono.Security.Protocol.Ntlm;
 
 namespace Mono.Security.Cryptography
 {
-	// Token: 0x0200003B RID: 59
 	[global::Cpp2ILInjected.Token(Token = "0x2000056")]
 	public abstract class MD4 : HashAlgorithm
 	{
-		// Token: 0x060001F5 RID: 501 RVA: 0x000034FB File Offset: 0x000016FB
 		[global::Cpp2ILInjected.Token(Token = "0x600024B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9D658", Offset = "0x1A9D658", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,7 +18,6 @@ namespace Mono.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060001F6 RID: 502 RVA: 0x000034FE File Offset: 0x000016FE
 		[global::Cpp2ILInjected.Token(Token = "0x600024C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A98278", Offset = "0x1A98278", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ChallengeResponse), Member = "set_Password", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(void))]

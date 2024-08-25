@@ -4,12 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 using UnityEngine;
 using UnityEngine.SocialPlatforms;
 
-// Token: 0x02000026 RID: 38
 [global::Cpp2ILInjected.Token(Token = "0x2000040")]
 public class iOS_UserManager
 {
-	// Token: 0x1700003F RID: 63
-	// (get) Token: 0x060000E9 RID: 233 RVA: 0x00021E33 File Offset: 0x00020033
 	[global::Cpp2ILInjected.Token(Token = "0x17000064")]
 	public static string UserId
 	{
@@ -23,8 +20,6 @@ public class iOS_UserManager
 		}
 	}
 
-	// Token: 0x17000040 RID: 64
-	// (get) Token: 0x060000EA RID: 234 RVA: 0x00021E36 File Offset: 0x00020036
 	[global::Cpp2ILInjected.Token(Token = "0x17000065")]
 	public static string UserAlias
 	{
@@ -38,8 +33,6 @@ public class iOS_UserManager
 		}
 	}
 
-	// Token: 0x17000041 RID: 65
-	// (get) Token: 0x060000EB RID: 235 RVA: 0x00021E39 File Offset: 0x00020039
 	[global::Cpp2ILInjected.Token(Token = "0x17000066")]
 	public static bool AttemptingSignIn
 	{
@@ -54,8 +47,6 @@ public class iOS_UserManager
 		}
 	}
 
-	// Token: 0x17000042 RID: 66
-	// (get) Token: 0x060000EC RID: 236 RVA: 0x00021E3C File Offset: 0x0002003C
 	[global::Cpp2ILInjected.Token(Token = "0x17000067")]
 	public static DrPlatform.IOS.User.UserState LoginState
 	{
@@ -69,7 +60,6 @@ public class iOS_UserManager
 		}
 	}
 
-	// Token: 0x060000ED RID: 237 RVA: 0x00021E3F File Offset: 0x0002003F
 	[global::Cpp2ILInjected.Token(Token = "0x6000166")]
 	[global::Cpp2ILInjected.Address(RVA = "0x702B30", Offset = "0x702B30", Length = "0x120")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -86,7 +76,6 @@ public class iOS_UserManager
 		throw null;
 	}
 
-	// Token: 0x060000EE RID: 238 RVA: 0x00021E42 File Offset: 0x00020042
 	[global::Cpp2ILInjected.Token(Token = "0x6000167")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7048E8", Offset = "0x7048E8", Length = "0xE8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -102,7 +91,6 @@ public class iOS_UserManager
 		throw null;
 	}
 
-	// Token: 0x060000EF RID: 239 RVA: 0x00021E45 File Offset: 0x00020045
 	[global::Cpp2ILInjected.Token(Token = "0x6000168")]
 	[global::Cpp2ILInjected.Address(RVA = "0x702DE4", Offset = "0x702DE4", Length = "0x5C")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -112,7 +100,6 @@ public class iOS_UserManager
 		throw null;
 	}
 
-	// Token: 0x060000F0 RID: 240 RVA: 0x00021E48 File Offset: 0x00020048
 	[global::Cpp2ILInjected.Token(Token = "0x6000169")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70292C", Offset = "0x70292C", Length = "0x1AC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,7 +123,6 @@ public class iOS_UserManager
 		throw null;
 	}
 
-	// Token: 0x060000F1 RID: 241 RVA: 0x00021E4B File Offset: 0x0002004B
 	[global::Cpp2ILInjected.Token(Token = "0x600016A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x704D1C", Offset = "0x704D1C", Length = "0x568")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -165,7 +151,6 @@ public class iOS_UserManager
 		throw null;
 	}
 
-	// Token: 0x060000F2 RID: 242 RVA: 0x00021E4E File Offset: 0x0002004E
 	[global::Cpp2ILInjected.Token(Token = "0x600016B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7049D0", Offset = "0x7049D0", Length = "0x258")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -186,7 +171,6 @@ public class iOS_UserManager
 		throw null;
 	}
 
-	// Token: 0x060000F3 RID: 243 RVA: 0x00021E51 File Offset: 0x00020051
 	[global::Cpp2ILInjected.Token(Token = "0x600016C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x704CC4", Offset = "0x704CC4", Length = "0x58")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(iOS_UserManager), Member = "Update", ReturnType = typeof(void))]
@@ -197,9 +181,6 @@ public class iOS_UserManager
 		throw null;
 	}
 
-	// Token: 0x17000043 RID: 67
-	// (get) Token: 0x060000F4 RID: 244 RVA: 0x00021E54 File Offset: 0x00020054
-	// (set) Token: 0x060000F5 RID: 245 RVA: 0x00021E57 File Offset: 0x00020057
 	[global::Cpp2ILInjected.Token(Token = "0x17000068")]
 	public static bool EditorSignedIn
 	{
@@ -236,9 +217,6 @@ public class iOS_UserManager
 		}
 	}
 
-	// Token: 0x17000044 RID: 68
-	// (get) Token: 0x060000F6 RID: 246 RVA: 0x00021E5A File Offset: 0x0002005A
-	// (set) Token: 0x060000F7 RID: 247 RVA: 0x00021E5D File Offset: 0x0002005D
 	[global::Cpp2ILInjected.Token(Token = "0x17000069")]
 	public static string EditorUserId
 	{
@@ -272,9 +250,6 @@ public class iOS_UserManager
 		}
 	}
 
-	// Token: 0x17000045 RID: 69
-	// (get) Token: 0x060000F8 RID: 248 RVA: 0x00021E60 File Offset: 0x00020060
-	// (set) Token: 0x060000F9 RID: 249 RVA: 0x00021E63 File Offset: 0x00020063
 	[global::Cpp2ILInjected.Token(Token = "0x1700006A")]
 	public static string EditorUserAlias
 	{
@@ -308,9 +283,6 @@ public class iOS_UserManager
 		}
 	}
 
-	// Token: 0x17000046 RID: 70
-	// (get) Token: 0x060000FA RID: 250 RVA: 0x00021E66 File Offset: 0x00020066
-	// (set) Token: 0x060000FB RID: 251 RVA: 0x00021E69 File Offset: 0x00020069
 	[global::Cpp2ILInjected.Token(Token = "0x1700006B")]
 	public static float EditorSignInProcessTimeout
 	{
@@ -344,7 +316,6 @@ public class iOS_UserManager
 		}
 	}
 
-	// Token: 0x060000FC RID: 252 RVA: 0x00021E6C File Offset: 0x0002006C
 	[global::Cpp2ILInjected.Token(Token = "0x6000175")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7054A4", Offset = "0x7054A4", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -354,7 +325,6 @@ public class iOS_UserManager
 		throw null;
 	}
 
-	// Token: 0x060000FD RID: 253 RVA: 0x00021E6F File Offset: 0x0002006F
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000176")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7054AC", Offset = "0x7054AC", Length = "0x58")]
@@ -366,43 +336,33 @@ public class iOS_UserManager
 		throw null;
 	}
 
-	// Token: 0x040000B1 RID: 177
 	[global::Cpp2ILInjected.Token(Token = "0x4000100")]
 	public static bool EditorAttemptingSignIn;
 
-	// Token: 0x040000B2 RID: 178
 	[global::Cpp2ILInjected.Token(Token = "0x4000101")]
 	public static DateTime EditorSignInStart;
 
-	// Token: 0x040000B3 RID: 179
 	[global::Cpp2ILInjected.Token(Token = "0x4000102")]
 	private static string _userId;
 
-	// Token: 0x040000B4 RID: 180
 	[global::Cpp2ILInjected.Token(Token = "0x4000103")]
 	private static string _userAlias;
 
-	// Token: 0x040000B5 RID: 181
 	[global::Cpp2ILInjected.Token(Token = "0x4000104")]
 	private static bool _attemptedPassiveLogin;
 
-	// Token: 0x040000B6 RID: 182
 	[global::Cpp2ILInjected.Token(Token = "0x4000105")]
 	private static bool _requestedLogin;
 
-	// Token: 0x040000B7 RID: 183
 	[global::Cpp2ILInjected.Token(Token = "0x4000106")]
 	private static bool _attemptingSignIn;
 
-	// Token: 0x040000B8 RID: 184
 	[global::Cpp2ILInjected.Token(Token = "0x4000107")]
 	private static DrPlatform.IOS.User.UserState _loginState;
 
-	// Token: 0x040000B9 RID: 185
 	[global::Cpp2ILInjected.Token(Token = "0x4000108")]
 	private const string c_accountIdLastUserKey = "AccountId_LastUser";
 
-	// Token: 0x040000BA RID: 186
 	[global::Cpp2ILInjected.Token(Token = "0x4000109")]
 	private const string c_accountIdLastUserGameTag = "AccountGamerTag_LastUser";
 }

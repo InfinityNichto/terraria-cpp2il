@@ -6,12 +6,10 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine
 {
-	// Token: 0x02000008 RID: 8
 	[NativeHeader("Runtime/Input/InputBindings.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000008")]
 	public class Input
 	{
-		// Token: 0x06000010 RID: 16
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000010")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA0F08", Offset = "0x1FA0F08", Length = "0x3C")]
@@ -20,7 +18,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern bool GetKeyInt(KeyCode key);
 
-		// Token: 0x06000011 RID: 17
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000011")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA0F44", Offset = "0x1FA0F44", Length = "0x3C")]
@@ -29,7 +26,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern bool GetKeyString(string name);
 
-		// Token: 0x06000012 RID: 18
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000012")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA0F80", Offset = "0x1FA0F80", Length = "0x3C")]
@@ -38,7 +34,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern bool GetKeyDownInt(KeyCode key);
 
-		// Token: 0x06000013 RID: 19
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000013")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA0FBC", Offset = "0x1FA0FBC", Length = "0x3C")]
@@ -58,7 +53,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern float GetAxisRaw(string axisName);
 
-		// Token: 0x06000014 RID: 20
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000014")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA0FF8", Offset = "0x1FA0FF8", Length = "0x3C")]
@@ -68,7 +62,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern bool GetButtonDown(string buttonName);
 
-		// Token: 0x06000015 RID: 21
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000015")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA1034", Offset = "0x1FA1034", Length = "0x3C")]
@@ -91,7 +84,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern bool GetMouseButton(int button);
 
-		// Token: 0x06000016 RID: 22
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000016")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA1070", Offset = "0x1FA1070", Length = "0x3C")]
@@ -114,7 +106,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern bool GetMouseButtonDown(int button);
 
-		// Token: 0x06000017 RID: 23
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000017")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA10AC", Offset = "0x1FA10AC", Length = "0x3C")]
@@ -135,7 +126,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern bool GetMouseButtonUp(int button);
 
-		// Token: 0x06000018 RID: 24
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000018")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA10E8", Offset = "0x1FA10E8", Length = "0x28")]
@@ -146,7 +136,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern string[] GetJoystickNames();
 
-		// Token: 0x06000019 RID: 25 RVA: 0x00002077 File Offset: 0x00000277
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000019")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA1110", Offset = "0x1FA1110", Length = "0x70")]
@@ -165,7 +154,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600001A RID: 26 RVA: 0x0000207A File Offset: 0x0000027A
 		[global::Cpp2ILInjected.Token(Token = "0x600001A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA11C4", Offset = "0x1FA11C4", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "KeyboardInput", Member = "Update", ReturnType = typeof(void))]
@@ -190,7 +178,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600001B RID: 27 RVA: 0x0000207D File Offset: 0x0000027D
 		[global::Cpp2ILInjected.Token(Token = "0x600001B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA1200", Offset = "0x1FA1200", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.UnityInputDevice", Member = "ReadRawButtonState", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(bool))]
@@ -202,7 +189,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600001C RID: 28 RVA: 0x00002080 File Offset: 0x00000280
 		[global::Cpp2ILInjected.Token(Token = "0x600001C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA123C", Offset = "0x1FA123C", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "InControl.TestInputManager", Member = "Update", ReturnType = typeof(void))]
@@ -214,8 +200,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x1700000C RID: 12
-		// (set) Token: 0x0600001D RID: 29
 		[global::Cpp2ILInjected.Token(Token = "0x1700000C")]
 		public static extern bool simulateMouseWithTouches
 		{
@@ -230,8 +214,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700000D RID: 13
-		// (get) Token: 0x0600001E RID: 30
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x1700000D")]
 		public static extern string inputString
@@ -245,8 +227,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700000E RID: 14
-		// (get) Token: 0x0600001F RID: 31 RVA: 0x00002083 File Offset: 0x00000283
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x1700000E")]
 		public static Vector3 mousePosition
@@ -274,8 +254,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x1700000F RID: 15
-		// (get) Token: 0x06000020 RID: 32 RVA: 0x00002086 File Offset: 0x00000286
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x1700000F")]
 		public static Vector2 mouseScrollDelta
@@ -296,9 +274,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000010 RID: 16
-		// (get) Token: 0x06000021 RID: 33
-		// (set) Token: 0x06000022 RID: 34
 		[global::Cpp2ILInjected.Token(Token = "0x17000010")]
 		public static extern IMECompositionMode imeCompositionMode
 		{
@@ -327,8 +302,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000011 RID: 17
-		// (get) Token: 0x06000023 RID: 35
 		[global::Cpp2ILInjected.Token(Token = "0x17000011")]
 		public static extern string compositionString
 		{
@@ -342,9 +315,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000012 RID: 18
-		// (get) Token: 0x06000024 RID: 36 RVA: 0x00002089 File Offset: 0x00000289
-		// (set) Token: 0x06000025 RID: 37 RVA: 0x0000208C File Offset: 0x0000028C
 		[global::Cpp2ILInjected.Token(Token = "0x17000012")]
 		public static Vector2 compositionCursorPos
 		{
@@ -370,8 +340,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000013 RID: 19
-		// (get) Token: 0x06000026 RID: 38
 		[global::Cpp2ILInjected.Token(Token = "0x17000013")]
 		public static extern bool mousePresent
 		{
@@ -387,8 +355,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000014 RID: 20
-		// (get) Token: 0x06000027 RID: 39
 		[global::Cpp2ILInjected.Token(Token = "0x17000014")]
 		public static extern int touchCount
 		{
@@ -418,8 +384,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000015 RID: 21
-		// (get) Token: 0x06000028 RID: 40
 		[global::Cpp2ILInjected.Token(Token = "0x17000015")]
 		public static extern bool touchSupported
 		{
@@ -434,8 +398,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000016 RID: 22
-		// (get) Token: 0x06000029 RID: 41
 		[global::Cpp2ILInjected.Token(Token = "0x17000016")]
 		public static extern DeviceOrientation deviceOrientation
 		{
@@ -451,8 +413,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000017 RID: 23
-		// (get) Token: 0x0600002A RID: 42 RVA: 0x0000208F File Offset: 0x0000028F
 		[global::Cpp2ILInjected.Token(Token = "0x17000017")]
 		public static Touch[] touches
 		{
@@ -472,7 +432,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x0600002B RID: 43
 		[global::Cpp2ILInjected.Token(Token = "0x600002B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA1724", Offset = "0x1FA1724", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -480,7 +439,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		internal static extern bool CheckDisabled();
 
-		// Token: 0x0600002C RID: 44
 		[global::Cpp2ILInjected.Token(Token = "0x600002C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA1180", Offset = "0x1FA1180", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -488,7 +446,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void GetTouch_Injected(int index, out Touch ret);
 
-		// Token: 0x0600002D RID: 45
 		[global::Cpp2ILInjected.Token(Token = "0x600002D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA1328", Offset = "0x1FA1328", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -496,7 +453,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void get_mousePosition_Injected(out Vector3 ret);
 
-		// Token: 0x0600002E RID: 46
 		[global::Cpp2ILInjected.Token(Token = "0x600002E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA13A8", Offset = "0x1FA13A8", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -504,7 +460,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void get_mouseScrollDelta_Injected(out Vector2 ret);
 
-		// Token: 0x0600002F RID: 47
 		[global::Cpp2ILInjected.Token(Token = "0x600002F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA14B4", Offset = "0x1FA14B4", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -512,7 +467,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void get_compositionCursorPos_Injected(out Vector2 ret);
 
-		// Token: 0x06000030 RID: 48
 		[global::Cpp2ILInjected.Token(Token = "0x6000030")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA1530", Offset = "0x1FA1530", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

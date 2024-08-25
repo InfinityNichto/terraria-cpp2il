@@ -4,12 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Math.Prime.Generator
 {
-	// Token: 0x0200003B RID: 59
 	[global::Cpp2ILInjected.Token(Token = "0x2000056")]
 	internal abstract class PrimeGeneratorBase
 	{
-		// Token: 0x1700002B RID: 43
-		// (get) Token: 0x060001AB RID: 427 RVA: 0x00014AB0 File Offset: 0x00012CB0
 		[global::Cpp2ILInjected.Token(Token = "0x17000033")]
 		public virtual ConfidenceFactor Confidence
 		{
@@ -22,8 +19,6 @@ namespace Mono.Math.Prime.Generator
 			}
 		}
 
-		// Token: 0x1700002C RID: 44
-		// (get) Token: 0x060001AC RID: 428 RVA: 0x00014AB3 File Offset: 0x00012CB3
 		[global::Cpp2ILInjected.Token(Token = "0x17000034")]
 		public virtual PrimalityTest PrimalityTest
 		{
@@ -42,8 +37,6 @@ namespace Mono.Math.Prime.Generator
 			}
 		}
 
-		// Token: 0x1700002D RID: 45
-		// (get) Token: 0x060001AD RID: 429 RVA: 0x00014AB6 File Offset: 0x00012CB6
 		[global::Cpp2ILInjected.Token(Token = "0x17000035")]
 		public virtual int TrialDivisionBounds
 		{
@@ -56,11 +49,9 @@ namespace Mono.Math.Prime.Generator
 			}
 		}
 
-		// Token: 0x060001AE RID: 430
 		[global::Cpp2ILInjected.Token(Token = "0x600020A")]
 		public abstract BigInteger GenerateNewPrime(int bits);
 
-		// Token: 0x060001AF RID: 431 RVA: 0x00014AB9 File Offset: 0x00012CB9
 		[global::Cpp2ILInjected.Token(Token = "0x600020B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AC6280", Offset = "0x1AC6280", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

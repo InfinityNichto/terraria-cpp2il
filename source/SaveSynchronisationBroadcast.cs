@@ -6,11 +6,9 @@ using System.Threading;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 
-// Token: 0x0200021A RID: 538
 [global::Cpp2ILInjected.Token(Token = "0x20002C2")]
 public static class SaveSynchronisationBroadcast
 {
-	// Token: 0x06000F29 RID: 3881 RVA: 0x00024878 File Offset: 0x00022A78
 	[global::Cpp2ILInjected.Token(Token = "0x600105C")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA44098", Offset = "0xA44098", Length = "0x6F8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -47,7 +45,6 @@ public static class SaveSynchronisationBroadcast
 		throw null;
 	}
 
-	// Token: 0x06000F2A RID: 3882 RVA: 0x0002487B File Offset: 0x00022A7B
 	[global::Cpp2ILInjected.Token(Token = "0x600105D")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA44790", Offset = "0xA44790", Length = "0xD8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationManager), Member = "Startup", ReturnType = typeof(void))]
@@ -65,7 +62,6 @@ public static class SaveSynchronisationBroadcast
 		throw null;
 	}
 
-	// Token: 0x06000F2B RID: 3883 RVA: 0x0002487E File Offset: 0x00022A7E
 	[global::Cpp2ILInjected.Token(Token = "0x600105E")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA44868", Offset = "0xA44868", Length = "0xA8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SaveSynchronisationBroadcast), Member = "StartBroadCasting", ReturnType = typeof(void))]
@@ -79,11 +75,9 @@ public static class SaveSynchronisationBroadcast
 		throw null;
 	}
 
-	// Token: 0x04001A0B RID: 6667
 	[global::Cpp2ILInjected.Token(Token = "0x4001F40")]
 	private static UdpClient BroadcastClient;
 
-	// Token: 0x04001A0C RID: 6668
 	[global::Cpp2ILInjected.Token(Token = "0x4001F41")]
 	private static ManagedThread broadcastThread;
 }

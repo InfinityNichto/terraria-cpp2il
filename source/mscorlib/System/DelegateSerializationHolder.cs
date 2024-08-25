@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x0200012C RID: 300
 	[global::Cpp2ILInjected.Token(Token = "0x2000171")]
 	[global::System.Serializable]
 	internal class DelegateSerializationHolder : global::System.Runtime.Serialization.ISerializable, global::System.Runtime.Serialization.IObjectReference
 	{
-		// Token: 0x06000DFB RID: 3579 RVA: 0x00016CE2 File Offset: 0x00014EE2
 		[global::Cpp2ILInjected.Token(Token = "0x6000EE1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7D4E0", Offset = "0x1C7D4E0", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DFC RID: 3580 RVA: 0x00016CE5 File Offset: 0x00014EE5
 		[global::Cpp2ILInjected.Token(Token = "0x6000EE2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7D118", Offset = "0x1C7D118", Length = "0x21C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -68,7 +65,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DFD RID: 3581 RVA: 0x00016CE8 File Offset: 0x00014EE8
 		[global::Cpp2ILInjected.Token(Token = "0x6000EE3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7DA18", Offset = "0x1C7DA18", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -79,7 +75,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000DFE RID: 3582 RVA: 0x00016CEB File Offset: 0x00014EEB
 		[global::Cpp2ILInjected.Token(Token = "0x6000EE4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C7DA50", Offset = "0x1C7DA50", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -88,17 +83,14 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x040004A1 RID: 1185
 		[global::Cpp2ILInjected.Token(Token = "0x4000669")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private global::System.Delegate _delegate;
 
-		// Token: 0x02000598 RID: 1432
 		[global::Cpp2ILInjected.Token(Token = "0x2000172")]
 		[global::System.Serializable]
 		private class DelegateEntry
 		{
-			// Token: 0x06003FD3 RID: 16339 RVA: 0x0001FA33 File Offset: 0x0001DC33
 			[global::Cpp2ILInjected.Token(Token = "0x6000EE5")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C7D928", Offset = "0x1C7D928", Length = "0xF0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -115,7 +107,6 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x06003FD4 RID: 16340 RVA: 0x0001FA36 File Offset: 0x0001DC36
 			[global::Cpp2ILInjected.Token(Token = "0x6000EE6")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C7D6BC", Offset = "0x1C7D6BC", Length = "0x26C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -183,37 +174,30 @@ namespace System
 				throw null;
 			}
 
-			// Token: 0x0400186F RID: 6255
 			[global::Cpp2ILInjected.Token(Token = "0x400066A")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private string type;
 
-			// Token: 0x04001870 RID: 6256
 			[global::Cpp2ILInjected.Token(Token = "0x400066B")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private string assembly;
 
-			// Token: 0x04001871 RID: 6257
 			[global::Cpp2ILInjected.Token(Token = "0x400066C")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private object target;
 
-			// Token: 0x04001872 RID: 6258
 			[global::Cpp2ILInjected.Token(Token = "0x400066D")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			private string targetTypeAssembly;
 
-			// Token: 0x04001873 RID: 6259
 			[global::Cpp2ILInjected.Token(Token = "0x400066E")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 			private string targetTypeName;
 
-			// Token: 0x04001874 RID: 6260
 			[global::Cpp2ILInjected.Token(Token = "0x400066F")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 			private string methodName;
 
-			// Token: 0x04001875 RID: 6261
 			[global::Cpp2ILInjected.Token(Token = "0x4000670")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 			public global::System.DelegateSerializationHolder.DelegateEntry delegateEntry;

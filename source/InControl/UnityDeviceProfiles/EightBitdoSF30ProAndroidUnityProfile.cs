@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x02000083 RID: 131
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000090")]
 	public class EightBitdoSF30ProAndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x0600058A RID: 1418 RVA: 0x000030CB File Offset: 0x000012CB
 		[global::Cpp2ILInjected.Token(Token = "0x60005A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19C90C0", Offset = "0x19C90C0", Length = "0x7B0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x0600058B RID: 1419 RVA: 0x000030CE File Offset: 0x000012CE
 		[global::Cpp2ILInjected.Token(Token = "0x60005A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19C9870", Offset = "0x19C9870", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

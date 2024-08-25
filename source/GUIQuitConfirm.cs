@@ -8,11 +8,9 @@ using Terraria;
 using Terraria.Audio;
 using UnityEngine;
 
-// Token: 0x020001DF RID: 479
 [global::Cpp2ILInjected.Token(Token = "0x200027C")]
 public class GUIQuitConfirm
 {
-	// Token: 0x06000D47 RID: 3399 RVA: 0x0002431A File Offset: 0x0002251A
 	[global::Cpp2ILInjected.Token(Token = "0x6000E66")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9FFE80", Offset = "0x9FFE80", Length = "0x54")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMainMenu), Member = "Draw", ReturnType = typeof(void))]
@@ -24,7 +22,6 @@ public class GUIQuitConfirm
 		throw null;
 	}
 
-	// Token: 0x06000D48 RID: 3400 RVA: 0x0002431D File Offset: 0x0002251D
 	[global::Cpp2ILInjected.Token(Token = "0x6000E67")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9FFED4", Offset = "0x9FFED4", Length = "0x288")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -81,7 +78,6 @@ public class GUIQuitConfirm
 		throw null;
 	}
 
-	// Token: 0x06000D49 RID: 3401 RVA: 0x00024320 File Offset: 0x00022520
 	[global::Cpp2ILInjected.Token(Token = "0x6000E68")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA0015C", Offset = "0xA0015C", Length = "0x74")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIQuitConfirm), Member = "Draw", ReturnType = typeof(void))]
@@ -102,7 +98,6 @@ public class GUIQuitConfirm
 		throw null;
 	}
 
-	// Token: 0x06000D4A RID: 3402 RVA: 0x00024323 File Offset: 0x00022523
 	[global::Cpp2ILInjected.Token(Token = "0x6000E69")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA001D0", Offset = "0xA001D0", Length = "0x68")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -115,27 +110,22 @@ public class GUIQuitConfirm
 		throw null;
 	}
 
-	// Token: 0x04001530 RID: 5424
 	[global::Cpp2ILInjected.Token(Token = "0x4001A49")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private float statusScale;
 
-	// Token: 0x04001531 RID: 5425
 	[global::Cpp2ILInjected.Token(Token = "0x4001A4A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 	private float loadScale;
 
-	// Token: 0x04001532 RID: 5426
 	[global::Cpp2ILInjected.Token(Token = "0x4001A4B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private float backScale;
 
-	// Token: 0x04001533 RID: 5427
 	[global::Cpp2ILInjected.Token(Token = "0x4001A4C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private float titleScale;
 
-	// Token: 0x04001534 RID: 5428
 	[global::Cpp2ILInjected.Token(Token = "0x4001A4D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private GUIControllerModalResponse _controller;

@@ -6,12 +6,10 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000097 RID: 151
 	[RequiredByNativeCode]
 	[global::Cpp2ILInjected.Token(Token = "0x20000A5")]
 	internal class SetupCoroutine
 	{
-		// Token: 0x060002F9 RID: 761 RVA: 0x0000262C File Offset: 0x0000082C
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000307")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7B5D8", Offset = "0x1F7B5D8", Length = "0x148")]
@@ -34,7 +32,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060002FA RID: 762 RVA: 0x0000262F File Offset: 0x0000082F
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x6000308")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7B720", Offset = "0x1F7B720", Length = "0xD4")]

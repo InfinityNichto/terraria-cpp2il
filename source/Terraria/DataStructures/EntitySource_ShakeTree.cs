@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x0200045B RID: 1115
 	[global::Cpp2ILInjected.Token(Token = "0x2000657")]
 	public class EntitySource_ShakeTree : AEntitySource_Tile
 	{
-		// Token: 0x060031D8 RID: 12760 RVA: 0x0002AEBA File Offset: 0x000290BA
 		[global::Cpp2ILInjected.Token(Token = "0x60036F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x141D604", Offset = "0x141D604", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WorldGen), Member = "GetNPCSource_ShakeTree", MemberParameters = new object[]

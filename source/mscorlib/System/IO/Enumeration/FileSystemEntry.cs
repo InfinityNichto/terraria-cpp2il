@@ -6,12 +6,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.IO.Enumeration
 {
-	// Token: 0x0200049E RID: 1182
 	[global::System.Obsolete("Types with embedded references are not supported in this version of your compiler.", true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000574")]
 	public ref struct FileSystemEntry
 	{
-		// Token: 0x060026EC RID: 9964 RVA: 0x0001B167 File Offset: 0x00019367
 		[global::Cpp2ILInjected.Token(Token = "0x6002A09")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BD2AA4", Offset = "0x1BD2AA4", Length = "0x280")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -40,8 +38,6 @@ namespace System.IO.Enumeration
 			throw null;
 		}
 
-		// Token: 0x1700057E RID: 1406
-		// (get) Token: 0x060026ED RID: 9965 RVA: 0x0001B16A File Offset: 0x0001936A
 		[global::Cpp2ILInjected.Token(Token = "0x17000606")]
 		private global::System.ReadOnlySpan<char> FullPath
 		{
@@ -76,8 +72,6 @@ namespace System.IO.Enumeration
 			}
 		}
 
-		// Token: 0x1700057F RID: 1407
-		// (get) Token: 0x060026EE RID: 9966 RVA: 0x0001B16D File Offset: 0x0001936D
 		[global::Cpp2ILInjected.Token(Token = "0x17000607")]
 		public global::System.ReadOnlySpan<char> FileName
 		{
@@ -98,9 +92,6 @@ namespace System.IO.Enumeration
 			}
 		}
 
-		// Token: 0x17000580 RID: 1408
-		// (get) Token: 0x060026EF RID: 9967 RVA: 0x0001B170 File Offset: 0x00019370
-		// (set) Token: 0x060026F0 RID: 9968 RVA: 0x0001B173 File Offset: 0x00019373
 		[global::Cpp2ILInjected.Token(Token = "0x17000608")]
 		public global::System.ReadOnlySpan<char> Directory
 		{
@@ -122,9 +113,6 @@ namespace System.IO.Enumeration
 			}
 		}
 
-		// Token: 0x17000581 RID: 1409
-		// (get) Token: 0x060026F1 RID: 9969 RVA: 0x0001B176 File Offset: 0x00019376
-		// (set) Token: 0x060026F2 RID: 9970 RVA: 0x0001B179 File Offset: 0x00019379
 		[global::Cpp2ILInjected.Token(Token = "0x17000609")]
 		public global::System.ReadOnlySpan<char> RootDirectory
 		{
@@ -146,9 +134,6 @@ namespace System.IO.Enumeration
 			}
 		}
 
-		// Token: 0x17000582 RID: 1410
-		// (get) Token: 0x060026F3 RID: 9971 RVA: 0x0001B17C File Offset: 0x0001937C
-		// (set) Token: 0x060026F4 RID: 9972 RVA: 0x0001B17F File Offset: 0x0001937F
 		[global::Cpp2ILInjected.Token(Token = "0x1700060A")]
 		public global::System.ReadOnlySpan<char> OriginalRootDirectory
 		{
@@ -170,8 +155,6 @@ namespace System.IO.Enumeration
 			}
 		}
 
-		// Token: 0x17000583 RID: 1411
-		// (get) Token: 0x060026F5 RID: 9973 RVA: 0x0001B182 File Offset: 0x00019382
 		[global::Cpp2ILInjected.Token(Token = "0x1700060B")]
 		public FileAttributes Attributes
 		{
@@ -191,8 +174,6 @@ namespace System.IO.Enumeration
 			}
 		}
 
-		// Token: 0x17000584 RID: 1412
-		// (get) Token: 0x060026F6 RID: 9974 RVA: 0x0001B185 File Offset: 0x00019385
 		[global::Cpp2ILInjected.Token(Token = "0x1700060C")]
 		public bool IsDirectory
 		{
@@ -205,7 +186,6 @@ namespace System.IO.Enumeration
 			}
 		}
 
-		// Token: 0x060026F7 RID: 9975 RVA: 0x0001B188 File Offset: 0x00019388
 		[global::Cpp2ILInjected.Token(Token = "0x6002A14")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1BD2F8C", Offset = "0x1BD2F8C", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Enumeration.FileSystemEnumerableFactory.<>c", Member = "<UserFiles>b__3_0", MemberParameters = new object[] { typeof(ref FileSystemEntry) }, ReturnType = typeof(string))]
@@ -228,68 +208,56 @@ namespace System.IO.Enumeration
 			throw null;
 		}
 
-		// Token: 0x0400133C RID: 4924
 		[global::Cpp2ILInjected.Token(Token = "0x400168B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		internal global::Interop.Sys.DirectoryEntry _directoryEntry;
 
-		// Token: 0x0400133D RID: 4925
 		[global::Cpp2ILInjected.Token(Token = "0x400168C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private FileStatus _status;
 
-		// Token: 0x0400133E RID: 4926
 		[global::Cpp2ILInjected.Token(Token = "0x400168D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 		private global::System.Span<char> _pathBuffer;
 
-		// Token: 0x0400133F RID: 4927
 		[global::Cpp2ILInjected.Token(Token = "0x400168E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		private global::System.ReadOnlySpan<char> _fullPath;
 
-		// Token: 0x04001340 RID: 4928
 		[global::Cpp2ILInjected.Token(Token = "0x400168F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA8")]
 		private global::System.ReadOnlySpan<char> _fileName;
 
-		// Token: 0x04001341 RID: 4929
 		[global::System.Runtime.CompilerServices.FixedBuffer(typeof(char), 256)]
 		[global::Cpp2ILInjected.Token(Token = "0x4001690")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xB8")]
 		private FileSystemEntry.<_fileNameBuffer>e__FixedBuffer _fileNameBuffer;
 
-		// Token: 0x04001342 RID: 4930
 		[global::Cpp2ILInjected.Token(Token = "0x4001691")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2B8")]
 		private FileAttributes _initialAttributes;
 
-		// Token: 0x04001343 RID: 4931
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4001692")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2C0")]
 		private global::System.ReadOnlySpan<char> <Directory>k__BackingField;
 
-		// Token: 0x04001344 RID: 4932
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4001693")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2D0")]
 		private global::System.ReadOnlySpan<char> <RootDirectory>k__BackingField;
 
-		// Token: 0x04001345 RID: 4933
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4001694")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x2E0")]
 		private global::System.ReadOnlySpan<char> <OriginalRootDirectory>k__BackingField;
 
-		// Token: 0x02000620 RID: 1568
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::System.Runtime.CompilerServices.UnsafeValueType]
 		[global::Cpp2ILInjected.Token(Token = "0x2000575")]
 		[StructLayout(0, Size = 512)]
 		public struct <_fileNameBuffer>e__FixedBuffer
 		{
-			// Token: 0x040019D5 RID: 6613
 			[global::Cpp2ILInjected.Token(Token = "0x4001695")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public char FixedElementField;

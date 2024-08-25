@@ -7,11 +7,9 @@ using Terraria.Net;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x0200041F RID: 1055
 	[global::Cpp2ILInjected.Token(Token = "0x200061A")]
 	public static class BufferPool
 	{
-		// Token: 0x0600309F RID: 12447 RVA: 0x0002AB27 File Offset: 0x00028D27
 		[global::Cpp2ILInjected.Token(Token = "0x60035BC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DAFE0", Offset = "0x13DAFE0", Length = "0x38C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +39,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030A0 RID: 12448 RVA: 0x0002AB2A File Offset: 0x00028D2A
 		[global::Cpp2ILInjected.Token(Token = "0x60035BD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DB48C", Offset = "0x13DB48C", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -60,7 +57,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030A1 RID: 12449 RVA: 0x0002AB2D File Offset: 0x00028D2D
 		[global::Cpp2ILInjected.Token(Token = "0x60035BE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DB518", Offset = "0x13DB518", Length = "0x1C4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +75,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030A2 RID: 12450 RVA: 0x0002AB30 File Offset: 0x00028D30
 		[global::Cpp2ILInjected.Token(Token = "0x60035BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DB6E8", Offset = "0x13DB6E8", Length = "0x25C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,7 +98,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x060030A3 RID: 12451 RVA: 0x0002AB33 File Offset: 0x00028D33
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60035C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DB944", Offset = "0x13DB944", Length = "0x100")]
@@ -116,31 +110,24 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x040062A9 RID: 25257
 		[global::Cpp2ILInjected.Token(Token = "0x4007693")]
 		private const int SMALL_BUFFER_SIZE = 32;
 
-		// Token: 0x040062AA RID: 25258
 		[global::Cpp2ILInjected.Token(Token = "0x4007694")]
 		private const int MEDIUM_BUFFER_SIZE = 256;
 
-		// Token: 0x040062AB RID: 25259
 		[global::Cpp2ILInjected.Token(Token = "0x4007695")]
 		private const int LARGE_BUFFER_SIZE = 16384;
 
-		// Token: 0x040062AC RID: 25260
 		[global::Cpp2ILInjected.Token(Token = "0x4007696")]
 		private static object bufferLock;
 
-		// Token: 0x040062AD RID: 25261
 		[global::Cpp2ILInjected.Token(Token = "0x4007697")]
 		private static Queue<CachedBuffer> SmallBufferQueue;
 
-		// Token: 0x040062AE RID: 25262
 		[global::Cpp2ILInjected.Token(Token = "0x4007698")]
 		private static Queue<CachedBuffer> MediumBufferQueue;
 
-		// Token: 0x040062AF RID: 25263
 		[global::Cpp2ILInjected.Token(Token = "0x4007699")]
 		private static Queue<CachedBuffer> LargeBufferQueue;
 	}

@@ -8,14 +8,12 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000046 RID: 70
 	[NativeHeader("Runtime/Streaming/TextureStreamingManager.h")]
 	[UsedByNativeCode]
 	[NativeHeader("Runtime/Graphics/Texture.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x200004A")]
 	public class Texture : Object
 	{
-		// Token: 0x060000F5 RID: 245 RVA: 0x00002245 File Offset: 0x00000445
 		[global::Cpp2ILInjected.Token(Token = "0x60000FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6F250", Offset = "0x1F6F250", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Texture2D), Member = ".ctor", MemberParameters = new object[]
@@ -150,7 +148,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x060000F6 RID: 246
 		[global::Cpp2ILInjected.Token(Token = "0x60000FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6F2A8", Offset = "0x1F6F2A8", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -158,7 +155,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern int GetDataWidth();
 
-		// Token: 0x060000F7 RID: 247
 		[global::Cpp2ILInjected.Token(Token = "0x60000FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6F2E4", Offset = "0x1F6F2E4", Length = "0x3C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -166,9 +162,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern int GetDataHeight();
 
-		// Token: 0x1700002C RID: 44
-		// (get) Token: 0x060000F8 RID: 248 RVA: 0x00002248 File Offset: 0x00000448
-		// (set) Token: 0x060000F9 RID: 249 RVA: 0x0000224B File Offset: 0x0000044B
 		[global::Cpp2ILInjected.Token(Token = "0x1700002E")]
 		public virtual int width
 		{
@@ -191,9 +184,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x1700002D RID: 45
-		// (get) Token: 0x060000FA RID: 250 RVA: 0x0000224E File Offset: 0x0000044E
-		// (set) Token: 0x060000FB RID: 251 RVA: 0x00002251 File Offset: 0x00000451
 		[global::Cpp2ILInjected.Token(Token = "0x1700002F")]
 		public virtual int height
 		{
@@ -216,8 +206,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x1700002E RID: 46
-		// (get) Token: 0x060000FC RID: 252
 		[global::Cpp2ILInjected.Token(Token = "0x17000030")]
 		public virtual extern bool isReadable
 		{
@@ -229,9 +217,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700002F RID: 47
-		// (get) Token: 0x060000FD RID: 253
-		// (set) Token: 0x060000FE RID: 254
 		[global::Cpp2ILInjected.Token(Token = "0x17000031")]
 		public extern TextureWrapMode wrapMode
 		{
@@ -252,8 +237,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000030 RID: 48
-		// (set) Token: 0x060000FF RID: 255
 		[global::Cpp2ILInjected.Token(Token = "0x17000032")]
 		public extern FilterMode filterMode
 		{
@@ -267,8 +250,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000031 RID: 49
-		// (get) Token: 0x06000100 RID: 256 RVA: 0x00002254 File Offset: 0x00000454
 		[global::Cpp2ILInjected.Token(Token = "0x17000033")]
 		public Vector2 texelSize
 		{
@@ -285,7 +266,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000101 RID: 257 RVA: 0x00002257 File Offset: 0x00000457
 		[global::Cpp2ILInjected.Token(Token = "0x6000109")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6F598", Offset = "0x1F6F598", Length = "0x1B4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Texture2D), Member = "ValidateFormat", MemberParameters = new object[]
@@ -361,7 +341,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000102 RID: 258 RVA: 0x0000225A File Offset: 0x0000045A
 		[global::Cpp2ILInjected.Token(Token = "0x600010A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6F820", Offset = "0x1F6F820", Length = "0x1CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -447,7 +426,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000103 RID: 259 RVA: 0x0000225D File Offset: 0x0000045D
 		[global::Cpp2ILInjected.Token(Token = "0x600010B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6FA30", Offset = "0x1F6FA30", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Texture2D), Member = "SetPixel", MemberParameters = new object[]
@@ -481,7 +459,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000104 RID: 260 RVA: 0x00002260 File Offset: 0x00000460
 		[global::Cpp2ILInjected.Token(Token = "0x600010C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6FB40", Offset = "0x1F6FB40", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Texture2D), Member = "GetRawTextureData", MemberTypeParameters = new object[] { "T" }, ReturnType = "Unity.Collections.NativeArray`1<T>")]
@@ -493,7 +470,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000105 RID: 261 RVA: 0x00002263 File Offset: 0x00000463
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600010D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6FBA8", Offset = "0x1F6FBA8", Length = "0x4C")]
@@ -504,7 +480,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000106 RID: 262
 		[global::Cpp2ILInjected.Token(Token = "0x600010E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6F554", Offset = "0x1F6F554", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -512,7 +487,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_texelSize_Injected(out Vector2 ret);
 
-		// Token: 0x0400020C RID: 524
 		[global::Cpp2ILInjected.Token(Token = "0x4000211")]
 		public static readonly int GenerateAllMips;
 	}

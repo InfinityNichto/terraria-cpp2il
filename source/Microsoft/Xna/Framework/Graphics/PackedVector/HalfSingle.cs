@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Xna.Framework.Graphics.PackedVector
 {
-	// Token: 0x020002E0 RID: 736
 	[global::Cpp2ILInjected.Token(Token = "0x20003B3")]
 	public struct HalfSingle : IPackedVector<ushort>, IPackedVector, IEquatable<HalfSingle>
 	{
-		// Token: 0x0600180B RID: 6155 RVA: 0x0002628B File Offset: 0x0002448B
 		[global::Cpp2ILInjected.Token(Token = "0x600198B")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9414", Offset = "0xAC9414", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -19,9 +17,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x17000338 RID: 824
-		// (get) Token: 0x0600180C RID: 6156 RVA: 0x0002628E File Offset: 0x0002448E
-		// (set) Token: 0x0600180D RID: 6157 RVA: 0x00026291 File Offset: 0x00024491
 		[CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000363")]
 		public ushort PackedValue
@@ -44,7 +39,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			}
 		}
 
-		// Token: 0x0600180E RID: 6158 RVA: 0x00026294 File Offset: 0x00024494
 		[global::Cpp2ILInjected.Token(Token = "0x600198E")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9448", Offset = "0xAC9448", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -54,7 +48,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x0600180F RID: 6159 RVA: 0x00026297 File Offset: 0x00024497
 		[global::Cpp2ILInjected.Token(Token = "0x600198F")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC94C4", Offset = "0xAC94C4", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -65,7 +58,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x06001810 RID: 6160 RVA: 0x0002629A File Offset: 0x0002449A
 		[global::Cpp2ILInjected.Token(Token = "0x6001990")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC94E0", Offset = "0xAC94E0", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -83,7 +75,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x06001811 RID: 6161 RVA: 0x0002629D File Offset: 0x0002449D
 		[global::Cpp2ILInjected.Token(Token = "0x6001991")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9520", Offset = "0xAC9520", Length = "0x104")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +91,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x06001812 RID: 6162 RVA: 0x000262A0 File Offset: 0x000244A0
 		[global::Cpp2ILInjected.Token(Token = "0x6001992")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9634", Offset = "0xAC9634", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -110,7 +100,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x06001813 RID: 6163 RVA: 0x000262A3 File Offset: 0x000244A3
 		[global::Cpp2ILInjected.Token(Token = "0x6001993")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9644", Offset = "0xAC9644", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -122,7 +111,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x06001814 RID: 6164 RVA: 0x000262A6 File Offset: 0x000244A6
 		[global::Cpp2ILInjected.Token(Token = "0x6001994")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9668", Offset = "0xAC9668", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -132,7 +120,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x06001815 RID: 6165 RVA: 0x000262A9 File Offset: 0x000244A9
 		[global::Cpp2ILInjected.Token(Token = "0x6001995")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9624", Offset = "0xAC9624", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -142,7 +129,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x06001816 RID: 6166 RVA: 0x000262AC File Offset: 0x000244AC
 		[global::Cpp2ILInjected.Token(Token = "0x6001996")]
 		[global::Cpp2ILInjected.Address(RVA = "0xAC9670", Offset = "0xAC9670", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -152,7 +138,6 @@ namespace Microsoft.Xna.Framework.Graphics.PackedVector
 			throw null;
 		}
 
-		// Token: 0x0400213E RID: 8510
 		[global::Cpp2ILInjected.Token(Token = "0x400279E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private ushort packedValue;

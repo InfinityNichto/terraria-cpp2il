@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading
 {
-	// Token: 0x02000181 RID: 385
 	[global::Cpp2ILInjected.Token(Token = "0x20001D9")]
 	internal class SparselyPopulatedArray<T> where T : class
 	{
-		// Token: 0x06000FF1 RID: 4081 RVA: 0x00017228 File Offset: 0x00015428
 		[global::Cpp2ILInjected.Token(Token = "0x600112F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x186EDBC", Offset = "0x186EDBC", Length = "0x68")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -28,8 +26,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x17000161 RID: 353
-		// (get) Token: 0x06000FF2 RID: 4082 RVA: 0x0001722B File Offset: 0x0001542B
 		[global::Cpp2ILInjected.Token(Token = "0x17000197")]
 		internal SparselyPopulatedArrayFragment<T> Tail
 		{
@@ -45,7 +41,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x06000FF3 RID: 4083 RVA: 0x0001722E File Offset: 0x0001542E
 		[global::Cpp2ILInjected.Token(Token = "0x6001131")]
 		[global::Cpp2ILInjected.Address(RVA = "0x186EE3C", Offset = "0x186EE3C", Length = "0x1E4")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -64,12 +59,10 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x0400073C RID: 1852
 		[global::Cpp2ILInjected.Token(Token = "0x4000943")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly SparselyPopulatedArrayFragment<T> _head;
 
-		// Token: 0x0400073D RID: 1853
 		[global::Cpp2ILInjected.Token(Token = "0x4000944")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private SparselyPopulatedArrayFragment<T> _tail;

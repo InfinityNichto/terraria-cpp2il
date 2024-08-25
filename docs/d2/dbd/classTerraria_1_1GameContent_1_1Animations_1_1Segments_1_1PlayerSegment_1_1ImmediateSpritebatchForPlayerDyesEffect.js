@@ -1,6 +1,0 @@
-var classTerraria_1_1GameContent_1_1Animations_1_1Segments_1_1PlayerSegment_1_1ImmediateSpritebatchForPlayerDyesEffect =
-[
-    [ "ImmediateSpritebatchForPlayerDyesEffect", "d2/dbd/classTerraria_1_1GameContent_1_1Animations_1_1Segments_1_1PlayerSegment_1_1ImmediateSpritebatchForPlayerDyesEffect_a9ade675c140855799c146b729aa61fb6.html#a9ade675c140855799c146b729aa61fb6", null ],
-    [ "AfterDrawing", "d2/dbd/classTerraria_1_1GameContent_1_1Animations_1_1Segments_1_1PlayerSegment_1_1ImmediateSpritebatchForPlayerDyesEffect_abf937e23bbc68579b6856aaab0912a59.html#abf937e23bbc68579b6856aaab0912a59", null ],
-    [ "BeforeDrawing", "d2/dbd/classTerraria_1_1GameContent_1_1Animations_1_1Segments_1_1PlayerSegment_1_1ImmediateSpritebatchForPlayerDyesEffect_a4692ecc835831c6f68efde134a7c7a59.html#a4692ecc835831c6f68efde134a7c7a59", null ]
-];

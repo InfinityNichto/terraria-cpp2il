@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Mono.Security.Interface
 {
-	// Token: 0x02000032 RID: 50
 	[global::Cpp2ILInjected.Token(Token = "0x200004D")]
 	public static class MonoTlsProviderFactory
 	{
-		// Token: 0x060001AC RID: 428 RVA: 0x00003420 File Offset: 0x00001620
 		[global::Cpp2ILInjected.Token(Token = "0x6000202")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A9B698", Offset = "0x1A9B698", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

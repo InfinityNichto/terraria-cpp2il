@@ -6,12 +6,10 @@ using Mono.Security.Cryptography;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000249 RID: 585
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002E6")]
 	public abstract class MD5 : HashAlgorithm
 	{
-		// Token: 0x060016C8 RID: 5832 RVA: 0x000184F1 File Offset: 0x000166F1
 		[global::Cpp2ILInjected.Token(Token = "0x60018E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFFDC8", Offset = "0x1AFFDC8", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MD5CryptoServiceProvider), Member = ".ctor", ReturnType = typeof(void))]
@@ -22,7 +20,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060016C9 RID: 5833 RVA: 0x000184F4 File Offset: 0x000166F4
 		[global::Cpp2ILInjected.Token(Token = "0x60018E3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFFDE8", Offset = "0x1AFFDE8", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mono.Security.Cryptography.KeyPairPersistence), Member = "get_ContainerName", ReturnType = typeof(string))]
@@ -46,7 +43,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060016CA RID: 5834 RVA: 0x000184F7 File Offset: 0x000166F7
 		[global::Cpp2ILInjected.Token(Token = "0x60018E4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1AFFE3C", Offset = "0x1AFFE3C", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

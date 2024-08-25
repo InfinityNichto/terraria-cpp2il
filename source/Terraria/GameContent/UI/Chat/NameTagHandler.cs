@@ -7,11 +7,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.GameContent.UI.Chat
 {
-	// Token: 0x020006F4 RID: 1780
 	[global::Cpp2ILInjected.Token(Token = "0x2000AE1")]
 	public class NameTagHandler : ITagHandler
 	{
-		// Token: 0x06004575 RID: 17781 RVA: 0x0002E6E2 File Offset: 0x0002C8E2
 		[global::Cpp2ILInjected.Token(Token = "0x60051E5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x93619C", Offset = "0x93619C", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -38,7 +36,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004576 RID: 17782 RVA: 0x0002E6E5 File Offset: 0x0002C8E5
 		[global::Cpp2ILInjected.Token(Token = "0x60051E6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9362E0", Offset = "0x9362E0", Length = "0xD8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIMultiplayerChat), Member = "Draw", ReturnType = typeof(void))]
@@ -65,7 +62,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004577 RID: 17783 RVA: 0x0002E6E8 File Offset: 0x0002C8E8
 		[global::Cpp2ILInjected.Token(Token = "0x60051E7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9363B8", Offset = "0x9363B8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

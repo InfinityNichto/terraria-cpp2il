@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading
 {
-	// Token: 0x0200016B RID: 363
 	[global::Cpp2ILInjected.Token(Token = "0x20001BD")]
 	public sealed class ManualResetEvent : EventWaitHandle
 	{
-		// Token: 0x06000F87 RID: 3975 RVA: 0x000170FC File Offset: 0x000152FC
 		[global::Cpp2ILInjected.Token(Token = "0x60010B9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C93F38", Offset = "0x1C93F38", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "DrPlatform.User", Member = ".cctor", ReturnType = typeof(void))]

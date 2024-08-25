@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x0200010C RID: 268
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x2000119")]
 	public class SteelSeriesFreeWindowsUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060006A2 RID: 1698 RVA: 0x00003413 File Offset: 0x00001613
 		[global::Cpp2ILInjected.Token(Token = "0x60006BF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A1B71C", Offset = "0x1A1B71C", Length = "0x888")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -37,7 +35,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060006A3 RID: 1699 RVA: 0x00003416 File Offset: 0x00001616
 		[global::Cpp2ILInjected.Token(Token = "0x60006C0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A1BFA4", Offset = "0x1A1BFA4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -1,8 +1,0 @@
-<map id="System.ComponentModel.INestedSite" name="System.ComponentModel.INestedSite">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,307,267,372"/>
-<area shape="rect" id="Node000002" href="$d4/d32/interfaceSystem_1_1ComponentModel_1_1ISite.html" title=" " alt="" coords="108,133,295,259"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,273,153,308,148,305,165,270"/>
-<area shape="rect" id="Node000003" href="$d7/d65/interfaceSystem_1_1IServiceProvider.html" title=" " alt="" coords="33,5,239,85"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="110,99,99,134,89,196,92,223,99,258,107,283,118,305,113,308,102,285,93,259,86,224,84,196,93,133,105,97"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,97,177,132,172,134,156,99"/>
-</map>

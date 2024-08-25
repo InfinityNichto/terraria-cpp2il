@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel.Design
 {
-	// Token: 0x020002F8 RID: 760
 	[global::Cpp2ILInjected.Token(Token = "0x200040B")]
 	public class DesigntimeLicenseContextSerializer
 	{
-		// Token: 0x06001929 RID: 6441 RVA: 0x00007505 File Offset: 0x00005705
 		[global::Cpp2ILInjected.Token(Token = "0x6001C07")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E8BC78", Offset = "0x1E8BC78", Length = "0x1DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

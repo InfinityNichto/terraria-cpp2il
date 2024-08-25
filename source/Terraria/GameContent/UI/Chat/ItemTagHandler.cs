@@ -9,11 +9,9 @@ using Terraria.UI.Chat;
 
 namespace Terraria.GameContent.UI.Chat
 {
-	// Token: 0x020006F3 RID: 1779
 	[global::Cpp2ILInjected.Token(Token = "0x2000ADF")]
 	public class ItemTagHandler : ITagHandler
 	{
-		// Token: 0x0600456F RID: 17775 RVA: 0x0002E6D0 File Offset: 0x0002C8D0
 		[global::Cpp2ILInjected.Token(Token = "0x60051DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x934F0C", Offset = "0x934F0C", Length = "0x5E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -173,7 +171,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004570 RID: 17776 RVA: 0x0002E6D3 File Offset: 0x0002C8D3
 		[global::Cpp2ILInjected.Token(Token = "0x60051DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9354F4", Offset = "0x9354F4", Length = "0x29C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -204,7 +201,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004571 RID: 17777 RVA: 0x0002E6D6 File Offset: 0x0002C8D6
 		[global::Cpp2ILInjected.Token(Token = "0x60051DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x935790", Offset = "0x935790", Length = "0x390")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -253,7 +249,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004572 RID: 17778 RVA: 0x0002E6D9 File Offset: 0x0002C8D9
 		[global::Cpp2ILInjected.Token(Token = "0x60051DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x935BB8", Offset = "0x935BB8", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -285,7 +280,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004573 RID: 17779 RVA: 0x0002E6DC File Offset: 0x0002C8DC
 		[global::Cpp2ILInjected.Token(Token = "0x60051DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x935CD0", Offset = "0x935CD0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -295,7 +289,6 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x06004574 RID: 17780 RVA: 0x0002E6DF File Offset: 0x0002C8DF
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60051E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x935CD8", Offset = "0x935CD8", Length = "0x70")]
@@ -307,15 +300,12 @@ namespace Terraria.GameContent.UI.Chat
 			throw null;
 		}
 
-		// Token: 0x040070F6 RID: 28918
 		[global::Cpp2ILInjected.Token(Token = "0x4008A47")]
 		private static Item displayItem;
 
-		// Token: 0x02000AC8 RID: 2760
 		[global::Cpp2ILInjected.Token(Token = "0x2000AE0")]
 		private class ItemSnippet : TextSnippet
 		{
-			// Token: 0x06005298 RID: 21144 RVA: 0x0003090E File Offset: 0x0002EB0E
 			[global::Cpp2ILInjected.Token(Token = "0x60051E1")]
 			[global::Cpp2ILInjected.Address(RVA = "0x935B20", Offset = "0x935B20", Length = "0x98")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ItemTagHandler), Member = "Terraria.UI.Chat.ITagHandler.Parse", MemberParameters = new object[]
@@ -333,7 +323,6 @@ namespace Terraria.GameContent.UI.Chat
 				throw null;
 			}
 
-			// Token: 0x06005299 RID: 21145 RVA: 0x00030911 File Offset: 0x0002EB11
 			[global::Cpp2ILInjected.Token(Token = "0x60051E2")]
 			[global::Cpp2ILInjected.Address(RVA = "0x935D48", Offset = "0x935D48", Length = "0xB8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -356,7 +345,6 @@ namespace Terraria.GameContent.UI.Chat
 				throw null;
 			}
 
-			// Token: 0x0600529A RID: 21146 RVA: 0x00030914 File Offset: 0x0002EB14
 			[global::Cpp2ILInjected.Token(Token = "0x60051E3")]
 			[global::Cpp2ILInjected.Address(RVA = "0x935E00", Offset = "0x935E00", Length = "0x394")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -405,7 +393,6 @@ namespace Terraria.GameContent.UI.Chat
 				throw null;
 			}
 
-			// Token: 0x0600529B RID: 21147 RVA: 0x00030917 File Offset: 0x0002EB17
 			[global::Cpp2ILInjected.Token(Token = "0x60051E4")]
 			[global::Cpp2ILInjected.Address(RVA = "0x936194", Offset = "0x936194", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -414,7 +401,6 @@ namespace Terraria.GameContent.UI.Chat
 				throw null;
 			}
 
-			// Token: 0x04008F5D RID: 36701
 			[global::Cpp2ILInjected.Token(Token = "0x4008A48")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 			private Item _item;

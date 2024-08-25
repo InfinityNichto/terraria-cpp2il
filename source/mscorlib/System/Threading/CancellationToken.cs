@@ -1,24 +1,161 @@
 ﻿using System;
 using System.Diagnostics;
+using System.IO;
 using System.Runtime.CompilerServices;
+using System.Runtime.ExceptionServices;
+using System.Security.Cryptography;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Threading
 {
-	// Token: 0x02000177 RID: 375
 	[global::System.Diagnostics.DebuggerDisplay("IsCancellationRequested = {IsCancellationRequested}")]
 	[global::Cpp2ILInjected.Token(Token = "0x20001C9")]
 	public readonly struct CancellationToken
 	{
-		// Token: 0x17000151 RID: 337
-		// (get) Token: 0x06000F9C RID: 3996 RVA: 0x00017129 File Offset: 0x00015329
 		[global::Cpp2ILInjected.Token(Token = "0x17000187")]
 		public static CancellationToken None
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x60010CE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C94604", Offset = "0x1C94604", Length = "0x8")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.CryptoStream), Member = "BeginRead", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(global::System.AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(global::System.IAsyncResult))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.CryptoStream), Member = "BeginWrite", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(global::System.AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(global::System.IAsyncResult))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.ReadWriteTask", Member = ".ctor", MemberParameters = new object[]
+			{
+				typeof(bool),
+				typeof(bool),
+				typeof(global::System.Func<object, int>),
+				typeof(object),
+				typeof(global::System.IO.Stream),
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(global::System.AsyncCallback)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Stream), Member = "ReadAsync", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task<int>))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Stream), Member = "WriteAsync", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "AuthenticateAsClient", MemberParameters = new object[]
+			{
+				typeof(string),
+				"System.Security.Cryptography.X509Certificates.X509CertificateCollection",
+				"System.Security.Authentication.SslProtocols",
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "AuthenticateAsServer", MemberParameters = new object[]
+			{
+				typeof(global::System.Security.Cryptography.X509Certificates.X509Certificate),
+				typeof(bool),
+				"System.Security.Authentication.SslProtocols",
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "AuthenticateAsClientAsync", MemberParameters = new object[]
+			{
+				typeof(string),
+				"System.Security.Cryptography.X509Certificates.X509CertificateCollection",
+				"System.Security.Authentication.SslProtocols",
+				typeof(bool)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "Read", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Net.Security.MobileAuthenticatedStream", Member = "Write", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.ServicePointScheduler.AsyncManualResetEvent", Member = "Set", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnectionStream", Member = "Read", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnectionStream", Member = "BeginRead", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int),
+				typeof(global::System.AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(global::System.IAsyncResult))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnectionStream", Member = "BeginWrite", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int),
+				typeof(global::System.AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(global::System.IAsyncResult))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebOperation", Member = "ThrowIfDisposed", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebOperation", Member = "ThrowIfClosedOrDisposed", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebReadStream", Member = "Read", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebReadStream", Member = "BeginRead", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int),
+				typeof(global::System.AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(global::System.IAsyncResult))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs", Member = "InvokeContinuation", MemberParameters = new object[]
+			{
+				"System.Action`1<Object>",
+				typeof(object),
+				typeof(bool)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.ComponentModel.BackgroundWorker", Member = "RunWorkerAsync", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Collections.Concurrent.BlockingCollection`1", Member = "Take", ReturnType = "T")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.GZipStream", Member = "BeginRead", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int),
+				typeof(global::System.AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(global::System.IAsyncResult))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Compression.GZipStream", Member = "BeginWrite", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int),
+				typeof(global::System.AsyncCallback),
+				typeof(object)
+			}, ReturnType = typeof(global::System.IAsyncResult))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 23)]
 			get
 			{
@@ -26,14 +163,174 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x17000152 RID: 338
-		// (get) Token: 0x06000F9D RID: 3997 RVA: 0x0001712C File Offset: 0x0001532C
 		[global::Cpp2ILInjected.Token(Token = "0x17000188")]
 		public bool IsCancellationRequested
 		{
 			[global::Cpp2ILInjected.Token(Token = "0x60010CF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C9460C", Offset = "0x1C9460C", Length = "0x2C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Threading.Tasks.Task.DelayPromise", Member = "Complete", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "AssignCancellationToken", MemberParameters = new object[]
+			{
+				typeof(CancellationToken),
+				typeof(global::System.Threading.Tasks.Task),
+				typeof(global::System.Threading.Tasks.TaskContinuation)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "get_IsCancellationRequested", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "ContinueWithCore", MemberParameters = new object[]
+			{
+				typeof(global::System.Threading.Tasks.Task),
+				typeof(global::System.Threading.Tasks.TaskScheduler),
+				typeof(CancellationToken),
+				typeof(global::System.Threading.Tasks.TaskContinuationOptions)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "FromCancellation", MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "FromCancellation", MemberTypeParameters = new object[] { "TResult" }, MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = "System.Threading.Tasks.Task`1<TResult>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "Run", MemberParameters = new object[]
+			{
+				typeof(global::System.Func<global::System.Threading.Tasks.Task>),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "Run", MemberTypeParameters = new object[] { "TResult" }, MemberParameters = new object[]
+			{
+				"System.Func`1<Task`1<TResult>>",
+				typeof(CancellationToken)
+			}, ReturnType = "System.Threading.Tasks.Task`1<TResult>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Threading.Tasks.Task), Member = "Delay", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Security.Cryptography.CryptoStream), Member = "FlushAsync", MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "FlushAsync", MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "ReadAsync", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task<int>))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "ReadAsync", MemberParameters = new object[]
+			{
+				typeof(global::System.Memory<byte>),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask<int>))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "WriteAsync", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.MemoryStream), Member = "WriteAsync", MemberParameters = new object[]
+			{
+				typeof(global::System.ReadOnlyMemory<byte>),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "FlushAsync", MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "ReadAsync", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task<int>))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "ReadAsync", MemberParameters = new object[]
+			{
+				typeof(global::System.Memory<byte>),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask<int>))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "WriteAsync", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.UnmanagedMemoryStream), Member = "WriteAsync", MemberParameters = new object[]
+			{
+				typeof(global::System.ReadOnlyMemory<byte>),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.NullStream", Member = "FlushAsync", MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.NullStream", Member = "WriteAsync", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.Stream.NullStream", Member = "WriteAsync", MemberParameters = new object[]
+			{
+				typeof(global::System.ReadOnlyMemory<byte>),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Stream), Member = "ReadAsync", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task<int>))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.IO.Stream), Member = "WriteAsync", MemberParameters = new object[]
+			{
+				typeof(byte[]),
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebConnectionStream", Member = "FlushAsync", MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebOperation", Member = "CheckDisposed", MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = typeof(global::System.Runtime.ExceptionServices.ExceptionDispatchInfo))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebOperation", Member = "ThrowIfDisposed", MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebOperation", Member = "ThrowIfClosedOrDisposed", MemberParameters = new object[] { typeof(CancellationToken) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebRequestStream", Member = "WriteAsync", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebResponseStream.<ReadAsync>d__40", Member = "MoveNext", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebResponseStream", Member = "ProcessRead", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = "System.Threading.Tasks.Task`1<Int32>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "ReceiveAsync", MemberParameters = new object[]
+			{
+				"System.Memory`1<Byte>",
+				"System.Net.Sockets.SocketFlags",
+				typeof(bool),
+				typeof(CancellationToken)
+			}, ReturnType = "System.Threading.Tasks.ValueTask`1<Int32>")]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.Sockets.Socket", Member = "SendAsyncForNetworkStream", MemberParameters = new object[]
+			{
+				"System.ReadOnlyMemory`1<Byte>",
+				"System.Net.Sockets.SocketFlags",
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.ValueTask))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Collections.Concurrent.BlockingCollection`1", Member = "TryAddWithNoTimeValidation", MemberParameters = new object[]
+			{
+				"T",
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Collections.Concurrent.BlockingCollection`1", Member = "TryTakeWithNoTimeValidation", MemberParameters = new object[]
+			{
+				"T&",
+				typeof(int),
+				typeof(CancellationToken),
+				typeof(CancellationTokenSource)
+			}, ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.IO.ChunkedMemoryStream", Member = "WriteAsync", MemberParameters = new object[]
+			{
+				"System.Byte[]",
+				typeof(int),
+				typeof(int),
+				typeof(CancellationToken)
+			}, ReturnType = typeof(global::System.Threading.Tasks.Task))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 39)]
 			[global::Cpp2ILInjected.CallAnalysis.CallsUnknownMethods(Count = 1)]
 			get
@@ -42,8 +339,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x17000153 RID: 339
-		// (get) Token: 0x06000F9E RID: 3998 RVA: 0x0001712F File Offset: 0x0001532F
 		[global::Cpp2ILInjected.Token(Token = "0x17000189")]
 		public bool CanBeCanceled
 		{
@@ -83,7 +378,6 @@ namespace System.Threading
 			}
 		}
 
-		// Token: 0x06000F9F RID: 3999 RVA: 0x00017132 File Offset: 0x00015332
 		[global::Cpp2ILInjected.Token(Token = "0x60010D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94664", Offset = "0x1C94664", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -92,7 +386,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA0 RID: 4000 RVA: 0x00017135 File Offset: 0x00015335
 		[global::Cpp2ILInjected.Token(Token = "0x60010D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C9466C", Offset = "0x1C9466C", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c", Member = "<.cctor>b__4_0", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
@@ -106,7 +399,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA1 RID: 4001 RVA: 0x00017138 File Offset: 0x00015338
 		[global::Cpp2ILInjected.Token(Token = "0x60010D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C946E0", Offset = "0x1C946E0", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -126,7 +418,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA2 RID: 4002 RVA: 0x0001713B File Offset: 0x0001533B
 		[global::Cpp2ILInjected.Token(Token = "0x60010D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C948F4", Offset = "0x1C948F4", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -154,7 +445,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA3 RID: 4003 RVA: 0x0001713E File Offset: 0x0001533E
 		[global::Cpp2ILInjected.Token(Token = "0x60010D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C947C8", Offset = "0x1C947C8", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -198,7 +488,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA4 RID: 4004 RVA: 0x00017141 File Offset: 0x00015341
 		[global::Cpp2ILInjected.Token(Token = "0x60010D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94C28", Offset = "0x1C94C28", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -208,7 +497,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA5 RID: 4005 RVA: 0x00017144 File Offset: 0x00015344
 		[global::Cpp2ILInjected.Token(Token = "0x60010D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94C38", Offset = "0x1C94C38", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -219,7 +507,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA6 RID: 4006 RVA: 0x00017147 File Offset: 0x00015347
 		[global::Cpp2ILInjected.Token(Token = "0x60010D8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94CB0", Offset = "0x1C94CB0", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -229,7 +516,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA7 RID: 4007 RVA: 0x0001714A File Offset: 0x0001534A
 		[global::Cpp2ILInjected.Token(Token = "0x60010D9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94D1C", Offset = "0x1C94D1C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -240,7 +526,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA8 RID: 4008 RVA: 0x0001714D File Offset: 0x0001534D
 		[global::Cpp2ILInjected.Token(Token = "0x60010DA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94D28", Offset = "0x1C94D28", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -251,7 +536,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FA9 RID: 4009 RVA: 0x00017150 File Offset: 0x00015350
 		[global::Cpp2ILInjected.Token(Token = "0x60010DB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94D34", Offset = "0x1C94D34", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -310,7 +594,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FAA RID: 4010 RVA: 0x00017153 File Offset: 0x00015353
 		[global::Cpp2ILInjected.Token(Token = "0x60010DC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94D6C", Offset = "0x1C94D6C", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CancellationToken), Member = "ThrowIfCancellationRequested", ReturnType = typeof(void))]
@@ -326,7 +609,6 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x06000FAB RID: 4011 RVA: 0x00017156 File Offset: 0x00015356
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60010DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C94DC4", Offset = "0x1C94DC4", Length = "0xC4")]
@@ -342,22 +624,18 @@ namespace System.Threading
 			throw null;
 		}
 
-		// Token: 0x04000718 RID: 1816
 		[global::Cpp2ILInjected.Token(Token = "0x4000918")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private readonly CancellationTokenSource _source;
 
-		// Token: 0x04000719 RID: 1817
 		[global::Cpp2ILInjected.Token(Token = "0x4000919")]
 		private static readonly global::System.Action<object> s_actionToActionObjShunt;
 
-		// Token: 0x020005A0 RID: 1440
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x20001CA")]
 		[global::System.Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06004012 RID: 16402 RVA: 0x0001FAED File Offset: 0x0001DCED
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60010DE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C94E88", Offset = "0x1C94E88", Length = "0x5C")]
@@ -369,7 +647,6 @@ namespace System.Threading
 				throw null;
 			}
 
-			// Token: 0x06004013 RID: 16403 RVA: 0x0001FAF0 File Offset: 0x0001DCF0
 			[global::Cpp2ILInjected.Token(Token = "0x60010DF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C94EE4", Offset = "0x1C94EE4", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -379,7 +656,6 @@ namespace System.Threading
 				throw null;
 			}
 
-			// Token: 0x06004014 RID: 16404 RVA: 0x0001FAF3 File Offset: 0x0001DCF3
 			[global::Cpp2ILInjected.Token(Token = "0x60010E0")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1C94EEC", Offset = "0x1C94EEC", Length = "0x68")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -390,7 +666,6 @@ namespace System.Threading
 				throw null;
 			}
 
-			// Token: 0x0400188B RID: 6283
 			[global::Cpp2ILInjected.Token(Token = "0x400091A")]
 			public static readonly CancellationToken.<>c <>9;
 		}

@@ -1,7 +1,0 @@
-<map id="System.Net.HttpListenerBasicIdentity" name="System.Net.HttpListenerBasicIdentity">
-<area shape="rect" id="Node000001" title=" " alt="" coords="44,509,253,639"/>
-<area shape="rect" id="Node000002" href="$de/dee/classSystem_1_1Security_1_1Principal_1_1GenericIdentity.html" title=" " alt="" coords="5,133,292,461"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,475,151,509,146,509,146,475"/>
-<area shape="rect" id="Node000003" href="$d5/dd1/classglobal_1_1SystemSecurity_1_1Claims_1_1ClaimsIdentity.html" title=" " alt="" coords="63,5,234,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,99,151,133,146,133,146,99"/>
-</map>

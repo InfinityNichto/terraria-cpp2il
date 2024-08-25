@@ -7,11 +7,9 @@ using ReLogic.Content;
 
 namespace Terraria.GameContent.Events
 {
-	// Token: 0x02000696 RID: 1686
 	[global::Cpp2ILInjected.Token(Token = "0x2000A58")]
 	public class ScreenObstruction
 	{
-		// Token: 0x06004240 RID: 16960 RVA: 0x0002DD76 File Offset: 0x0002BF76
 		[global::Cpp2ILInjected.Token(Token = "0x6004E38")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8D47C0", Offset = "0x8D47C0", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -30,7 +28,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x06004241 RID: 16961 RVA: 0x0002DD79 File Offset: 0x0002BF79
 		[global::Cpp2ILInjected.Token(Token = "0x6004E39")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8D4884", Offset = "0x8D4884", Length = "0x65C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,7 +88,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x06004242 RID: 16962 RVA: 0x0002DD7C File Offset: 0x0002BF7C
 		[global::Cpp2ILInjected.Token(Token = "0x6004E3A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8D4EE0", Offset = "0x8D4EE0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -101,7 +97,6 @@ namespace Terraria.GameContent.Events
 			throw null;
 		}
 
-		// Token: 0x04006E11 RID: 28177
 		[global::Cpp2ILInjected.Token(Token = "0x40086E3")]
 		public static float screenObstruction;
 	}

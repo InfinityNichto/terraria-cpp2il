@@ -6,7 +6,6 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine
 {
-	// Token: 0x02000002 RID: 2
 	[NativeHeader("Modules/UI/RectTransformUtil.h")]
 	[NativeHeader("Runtime/Transform/RectTransform.h")]
 	[StaticAccessor("UI", StaticAccessorType.DoubleColon)]
@@ -15,7 +14,6 @@ namespace UnityEngine
 	[global::Cpp2ILInjected.Token(Token = "0x2000002")]
 	public sealed class RectTransformUtility
 	{
-		// Token: 0x06000001 RID: 1 RVA: 0x00002050 File Offset: 0x00000250
 		[global::Cpp2ILInjected.Token(Token = "0x6000001")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEF8E8", Offset = "0x1FEF8E8", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -27,7 +25,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000002 RID: 2 RVA: 0x00002053 File Offset: 0x00000253
 		[global::Cpp2ILInjected.Token(Token = "0x6000002")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEF9E8", Offset = "0x1FEF9E8", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -39,7 +36,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000003 RID: 3 RVA: 0x00002056 File Offset: 0x00000256
 		[global::Cpp2ILInjected.Token(Token = "0x6000003")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEFADC", Offset = "0x1FEFADC", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -57,7 +53,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000004 RID: 4 RVA: 0x00002059 File Offset: 0x00000259
 		[global::Cpp2ILInjected.Token(Token = "0x6000004")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEFBE0", Offset = "0x1FEFBE0", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "OnDrag", MemberParameters = new object[] { "UnityEngine.EventSystems.PointerEventData" }, ReturnType = typeof(void))]
@@ -76,7 +71,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000005 RID: 5 RVA: 0x0000205C File Offset: 0x0000025C
 		[global::Cpp2ILInjected.Token(Token = "0x6000005")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEFCB4", Offset = "0x1FEFCB4", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.GraphicRaycaster", Member = "Raycast", MemberParameters = new object[]
@@ -106,7 +100,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000006 RID: 6 RVA: 0x0000205F File Offset: 0x0000025F
 		[global::Cpp2ILInjected.Token(Token = "0x6000006")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEFD60", Offset = "0x1FEFD60", Length = "0x2E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -149,7 +142,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000007 RID: 7 RVA: 0x00002062 File Offset: 0x00000262
 		[global::Cpp2ILInjected.Token(Token = "0x6000007")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF016C", Offset = "0x1FF016C", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Image", Member = "IsRaycastLocationValid", MemberParameters = new object[]
@@ -186,7 +178,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000008 RID: 8 RVA: 0x00002065 File Offset: 0x00000265
 		[global::Cpp2ILInjected.Token(Token = "0x6000008")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0044", Offset = "0x1FF0044", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -215,7 +206,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000009 RID: 9 RVA: 0x00002068 File Offset: 0x00000268
 		[global::Cpp2ILInjected.Token(Token = "0x6000009")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0264", Offset = "0x1FF0264", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "GenerateCaret", MemberParameters = new object[]
@@ -236,7 +226,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000A RID: 10 RVA: 0x0000206B File Offset: 0x0000026B
 		[global::Cpp2ILInjected.Token(Token = "0x600000A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF030C", Offset = "0x1FF030C", Length = "0x2B4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -293,7 +282,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000B RID: 11 RVA: 0x0000206E File Offset: 0x0000026E
 		[global::Cpp2ILInjected.Token(Token = "0x600000B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF05C0", Offset = "0x1FF05C0", Length = "0x244")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -348,7 +336,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000C RID: 12 RVA: 0x00002071 File Offset: 0x00000271
 		[global::Cpp2ILInjected.Token(Token = "0x600000C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0804", Offset = "0x1FF0804", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -357,7 +344,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000D RID: 13 RVA: 0x00002074 File Offset: 0x00000274
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600000D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF0814", Offset = "0x1FF0814", Length = "0x68")]
@@ -368,7 +354,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000E RID: 14
 		[global::Cpp2ILInjected.Token(Token = "0x600000E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEF98C", Offset = "0x1FEF98C", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -376,7 +361,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void PixelAdjustPoint_Injected(ref Vector2 point, Transform elementTransform, Canvas canvas, out Vector2 ret);
 
-		// Token: 0x0600000F RID: 15
 		[global::Cpp2ILInjected.Token(Token = "0x600000F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEFA88", Offset = "0x1FEFA88", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -384,7 +368,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void PixelAdjustRect_Injected(RectTransform rectTransform, Canvas canvas, out Rect ret);
 
-		// Token: 0x06000010 RID: 16
 		[global::Cpp2ILInjected.Token(Token = "0x6000010")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FEFB84", Offset = "0x1FEFB84", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -392,7 +375,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern bool PointInRectangle_Injected(ref Vector2 screenPoint, RectTransform rect, Camera cam, ref Vector4 offset);
 
-		// Token: 0x04000001 RID: 1
 		[global::Cpp2ILInjected.Token(Token = "0x4000001")]
 		private static readonly Vector3[] s_Corners;
 	}

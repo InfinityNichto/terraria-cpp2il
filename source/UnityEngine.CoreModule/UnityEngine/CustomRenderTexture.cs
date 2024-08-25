@@ -5,7 +5,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x0200004D RID: 77
 	[NativeHeader("Runtime/Graphics/CustomRenderTexture.h")]
 	[UsedByNativeCode]
 	[global::Cpp2ILInjected.Token(Token = "0x2000051")]

@@ -11,11 +11,9 @@ using Terraria.Audio;
 using Terraria.Localization;
 using Terraria.UI;
 
-// Token: 0x020000C7 RID: 199
 [global::Cpp2ILInjected.Token(Token = "0x2000121")]
 public class GUIAccessoryInfoToggles
 {
-	// Token: 0x0600064A RID: 1610 RVA: 0x00022E23 File Offset: 0x00021023
 	[global::Cpp2ILInjected.Token(Token = "0x600073D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1107B94", Offset = "0x1107B94", Length = "0x94")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfoToggles), Member = "DrawToggles", ReturnType = typeof(void))]
@@ -28,7 +26,6 @@ public class GUIAccessoryInfoToggles
 		throw null;
 	}
 
-	// Token: 0x0600064B RID: 1611 RVA: 0x00022E26 File Offset: 0x00021026
 	[global::Cpp2ILInjected.Token(Token = "0x600073E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1107C28", Offset = "0x1107C28", Length = "0x1A4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +53,6 @@ public class GUIAccessoryInfoToggles
 		throw null;
 	}
 
-	// Token: 0x0600064C RID: 1612 RVA: 0x00022E29 File Offset: 0x00021029
 	[global::Cpp2ILInjected.Token(Token = "0x600073F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1107DCC", Offset = "0x1107DCC", Length = "0x8BC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -139,7 +135,6 @@ public class GUIAccessoryInfoToggles
 		throw null;
 	}
 
-	// Token: 0x0600064D RID: 1613 RVA: 0x00022E2C File Offset: 0x0002102C
 	[global::Cpp2ILInjected.Token(Token = "0x6000740")]
 	[global::Cpp2ILInjected.Address(RVA = "0x110886C", Offset = "0x110886C", Length = "0x12C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -157,7 +152,6 @@ public class GUIAccessoryInfoToggles
 		throw null;
 	}
 
-	// Token: 0x0600064E RID: 1614 RVA: 0x00022E2F File Offset: 0x0002102F
 	[global::Cpp2ILInjected.Token(Token = "0x6000741")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1108688", Offset = "0x1108688", Length = "0x1E4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIAccessoryInfoToggles), Member = "DrawToggles", ReturnType = typeof(void))]
@@ -196,7 +190,6 @@ public class GUIAccessoryInfoToggles
 		throw null;
 	}
 
-	// Token: 0x0600064F RID: 1615 RVA: 0x00022E32 File Offset: 0x00021032
 	[global::Cpp2ILInjected.Token(Token = "0x6000742")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1108998", Offset = "0x1108998", Length = "0x48")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -207,7 +200,6 @@ public class GUIAccessoryInfoToggles
 		throw null;
 	}
 
-	// Token: 0x06000650 RID: 1616 RVA: 0x00022E35 File Offset: 0x00021035
 	[global::Cpp2ILInjected.Token(Token = "0x6000743")]
 	[global::Cpp2ILInjected.Address(RVA = "0x11089E0", Offset = "0x11089E0", Length = "0x2C8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -259,7 +251,6 @@ public class GUIAccessoryInfoToggles
 		throw null;
 	}
 
-	// Token: 0x06000651 RID: 1617 RVA: 0x00022E38 File Offset: 0x00021038
 	[global::Cpp2ILInjected.Token(Token = "0x6000744")]
 	[global::Cpp2ILInjected.Address(RVA = "0x1108CA8", Offset = "0x1108CA8", Length = "0x83C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -326,7 +317,6 @@ public class GUIAccessoryInfoToggles
 		throw null;
 	}
 
-	// Token: 0x06000652 RID: 1618 RVA: 0x00022E3B File Offset: 0x0002103B
 	[global::Cpp2ILInjected.Token(Token = "0x6000745")]
 	[global::Cpp2ILInjected.Address(RVA = "0x11094E4", Offset = "0x11094E4", Length = "0x10")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -337,27 +327,22 @@ public class GUIAccessoryInfoToggles
 		throw null;
 	}
 
-	// Token: 0x040003B0 RID: 944
 	[global::Cpp2ILInjected.Token(Token = "0x40005A8")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public bool Expanded;
 
-	// Token: 0x040003B1 RID: 945
 	[global::Cpp2ILInjected.Token(Token = "0x40005A9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private GUIInputRegionExclusive pickingInterceptor;
 
-	// Token: 0x040003B2 RID: 946
 	[global::Cpp2ILInjected.Token(Token = "0x40005AA")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float buttonScale;
 
-	// Token: 0x040003B3 RID: 947
 	[global::Cpp2ILInjected.Token(Token = "0x40005AB")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private int accOver;
 
-	// Token: 0x040003B4 RID: 948
 	[global::Cpp2ILInjected.Token(Token = "0x40005AC")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private float HideShowButtonScale;

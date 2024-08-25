@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Authentication.ExtendedProtection
 {
-	// Token: 0x0200008B RID: 139
 	[global::Cpp2ILInjected.Token(Token = "0x20000E6")]
 	[Serializable]
 	public class ServiceNameCollection : ReadOnlyCollectionBase
 	{
-		// Token: 0x0600049E RID: 1182 RVA: 0x00003B66 File Offset: 0x00001D66
 		[global::Cpp2ILInjected.Token(Token = "0x600053E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECC7E0", Offset = "0x1ECC7E0", Length = "0x36C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +30,6 @@ namespace System.Security.Authentication.ExtendedProtection
 			throw null;
 		}
 
-		// Token: 0x0600049F RID: 1183 RVA: 0x00003B69 File Offset: 0x00001D69
 		[global::Cpp2ILInjected.Token(Token = "0x600053F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECCB4C", Offset = "0x1ECCB4C", Length = "0xB4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ServiceNameCollection), Member = ".ctor", MemberParameters = new object[] { typeof(ICollection) }, ReturnType = typeof(void))]
@@ -52,7 +49,6 @@ namespace System.Security.Authentication.ExtendedProtection
 			throw null;
 		}
 
-		// Token: 0x060004A0 RID: 1184 RVA: 0x00003B6C File Offset: 0x00001D6C
 		[global::Cpp2ILInjected.Token(Token = "0x6000540")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECCF94", Offset = "0x1ECCF94", Length = "0x32C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +73,6 @@ namespace System.Security.Authentication.ExtendedProtection
 			throw null;
 		}
 
-		// Token: 0x060004A1 RID: 1185 RVA: 0x00003B6F File Offset: 0x00001D6F
 		[global::Cpp2ILInjected.Token(Token = "0x6000541")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECCC00", Offset = "0x1ECCC00", Length = "0x394")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -142,7 +137,6 @@ namespace System.Security.Authentication.ExtendedProtection
 			throw null;
 		}
 
-		// Token: 0x060004A2 RID: 1186 RVA: 0x00003B72 File Offset: 0x00001D72
 		[global::Cpp2ILInjected.Token(Token = "0x6000542")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1ECD2C0", Offset = "0x1ECD2C0", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

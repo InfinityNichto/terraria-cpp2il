@@ -1,9 +1,0 @@
-<map id="System.MonoListItem" name="System.MonoListItem">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,261,161,327"/>
-<area shape="rect" id="Node000002" href="$de/d43/classSystem_1_1MonoListItem.html" title=" " alt="" coords="101,133,257,199"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,201,120,250,115,246,153,197"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="258,152,276,156,284,166,275,176,272,172,279,166,273,161,257,157"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="32,5,87,71"/>
-<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="56,71,51,130,54,198,67,245,61,247,49,199,45,130,51,70"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="89,67,140,120,136,123,85,70"/>
-</map>

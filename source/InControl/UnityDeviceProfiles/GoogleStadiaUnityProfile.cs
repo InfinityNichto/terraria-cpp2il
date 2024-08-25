@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000D7 RID: 215
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000E4")]
 	public class GoogleStadiaUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x06000638 RID: 1592 RVA: 0x000032D5 File Offset: 0x000014D5
 		[global::Cpp2ILInjected.Token(Token = "0x6000655")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F85F0", Offset = "0x19F85F0", Length = "0x864")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +34,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x06000639 RID: 1593 RVA: 0x000032D8 File Offset: 0x000014D8
 		[global::Cpp2ILInjected.Token(Token = "0x6000656")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19F8E54", Offset = "0x19F8E54", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

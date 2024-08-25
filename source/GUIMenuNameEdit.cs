@@ -6,13 +6,9 @@ using Microsoft.Xna.Framework.Audio;
 using Terraria;
 using Terraria.Audio;
 
-// Token: 0x020001CE RID: 462
 [global::Cpp2ILInjected.Token(Token = "0x2000267")]
 public class GUIMenuNameEdit
 {
-	// Token: 0x17000150 RID: 336
-	// (get) Token: 0x06000CA0 RID: 3232 RVA: 0x00024125 File Offset: 0x00022325
-	// (set) Token: 0x06000CA1 RID: 3233 RVA: 0x00024128 File Offset: 0x00022328
 	[global::Cpp2ILInjected.Token(Token = "0x17000177")]
 	public bool Enabled
 	{
@@ -37,8 +33,6 @@ public class GUIMenuNameEdit
 		}
 	}
 
-	// Token: 0x17000151 RID: 337
-	// (get) Token: 0x06000CA2 RID: 3234 RVA: 0x0002412B File Offset: 0x0002232B
 	[global::Cpp2ILInjected.Token(Token = "0x17000178")]
 	public string Name
 	{
@@ -51,7 +45,6 @@ public class GUIMenuNameEdit
 		}
 	}
 
-	// Token: 0x06000CA3 RID: 3235 RVA: 0x0002412E File Offset: 0x0002232E
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC0")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E60E0", Offset = "0x9E60E0", Length = "0xBC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIPlayerSelectMenu), Member = "OpenNameEdit", ReturnType = typeof(void))]
@@ -73,7 +66,6 @@ public class GUIMenuNameEdit
 		throw null;
 	}
 
-	// Token: 0x06000CA4 RID: 3236 RVA: 0x00024131 File Offset: 0x00022331
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E619C", Offset = "0x9E619C", Length = "0x1A8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -118,7 +110,6 @@ public class GUIMenuNameEdit
 		throw null;
 	}
 
-	// Token: 0x06000CA5 RID: 3237 RVA: 0x00024134 File Offset: 0x00022334
 	[global::Cpp2ILInjected.Token(Token = "0x6000DC2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9E6344", Offset = "0x9E6344", Length = "0x8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIInstance), Member = ".ctor", ReturnType = typeof(void))]
@@ -129,12 +120,10 @@ public class GUIMenuNameEdit
 		throw null;
 	}
 
-	// Token: 0x0400146B RID: 5227
 	[global::Cpp2ILInjected.Token(Token = "0x4001964")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	private string _editedName;
 
-	// Token: 0x0400146C RID: 5228
 	[global::Cpp2ILInjected.Token(Token = "0x4001965")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private bool _enabled;

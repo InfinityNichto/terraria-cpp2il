@@ -12,11 +12,9 @@ using Terraria.Utilities;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x0200055C RID: 1372
 	[global::Cpp2ILInjected.Token(Token = "0x20007E1")]
 	public static class LucyAxeMessage
 	{
-		// Token: 0x06003A05 RID: 14853 RVA: 0x0002C5B2 File Offset: 0x0002A7B2
 		[global::Cpp2ILInjected.Token(Token = "0x60040F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x774FC4", Offset = "0x774FC4", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -32,7 +30,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A06 RID: 14854 RVA: 0x0002C5B5 File Offset: 0x0002A7B5
 		[global::Cpp2ILInjected.Token(Token = "0x60040F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77506C", Offset = "0x77506C", Length = "0xF0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "Initialize_AlmostEverything", ReturnType = typeof(void))]
@@ -55,7 +52,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A07 RID: 14855 RVA: 0x0002C5B8 File Offset: 0x0002A7B8
 		[global::Cpp2ILInjected.Token(Token = "0x60040F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77515C", Offset = "0x77515C", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -67,7 +63,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A08 RID: 14856 RVA: 0x0002C5BB File Offset: 0x0002A7BB
 		[global::Cpp2ILInjected.Token(Token = "0x60040F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775288", Offset = "0x775288", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +74,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A09 RID: 14857 RVA: 0x0002C5BE File Offset: 0x0002A7BE
 		[global::Cpp2ILInjected.Token(Token = "0x60040F8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775344", Offset = "0x775344", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -106,7 +100,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A0A RID: 14858 RVA: 0x0002C5C1 File Offset: 0x0002A7C1
 		[global::Cpp2ILInjected.Token(Token = "0x60040F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775650", Offset = "0x775650", Length = "0x180")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -135,7 +128,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A0B RID: 14859 RVA: 0x0002C5C4 File Offset: 0x0002A7C4
 		[global::Cpp2ILInjected.Token(Token = "0x60040FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7751EC", Offset = "0x7751EC", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LucyAxeMessage), Member = "Create", MemberParameters = new object[]
@@ -161,7 +153,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A0C RID: 14860 RVA: 0x0002C5C7 File Offset: 0x0002A7C7
 		[global::Cpp2ILInjected.Token(Token = "0x60040FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7757F4", Offset = "0x7757F4", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LucyAxeMessage), Member = "ItemSlot_OnItemTransferred", MemberParameters = new object[] { typeof(ItemSlot.ItemTransferInfo) }, ReturnType = typeof(void))]
@@ -180,7 +171,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A0D RID: 14861 RVA: 0x0002C5CA File Offset: 0x0002A7CA
 		[global::Cpp2ILInjected.Token(Token = "0x60040FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7757D0", Offset = "0x7757D0", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -190,7 +180,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A0E RID: 14862 RVA: 0x0002C5CD File Offset: 0x0002A7CD
 		[global::Cpp2ILInjected.Token(Token = "0x60040FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775864", Offset = "0x775864", Length = "0x114")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -219,7 +208,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A0F RID: 14863 RVA: 0x0002C5D0 File Offset: 0x0002A7D0
 		[global::Cpp2ILInjected.Token(Token = "0x60040FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775494", Offset = "0x775494", Length = "0x1BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -285,7 +273,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A10 RID: 14864 RVA: 0x0002C5D3 File Offset: 0x0002A7D3
 		[global::Cpp2ILInjected.Token(Token = "0x60040FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775B24", Offset = "0x775B24", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LucyAxeMessage), Member = "Create", MemberParameters = new object[]
@@ -302,7 +289,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A11 RID: 14865 RVA: 0x0002C5D6 File Offset: 0x0002A7D6
 		[global::Cpp2ILInjected.Token(Token = "0x6004100")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775B78", Offset = "0x775B78", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MessageBuffer), Member = "ProcessData", MemberParameters = new object[]
@@ -330,7 +316,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A12 RID: 14866 RVA: 0x0002C5D9 File Offset: 0x0002A7D9
 		[global::Cpp2ILInjected.Token(Token = "0x6004101")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775AB0", Offset = "0x775AB0", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LucyAxeMessage), Member = "Create", MemberParameters = new object[]
@@ -358,7 +343,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A13 RID: 14867 RVA: 0x0002C5DC File Offset: 0x0002A7DC
 		[global::Cpp2ILInjected.Token(Token = "0x6004102")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775978", Offset = "0x775978", Length = "0x138")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LucyAxeMessage), Member = "Create", MemberParameters = new object[]
@@ -402,7 +386,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A14 RID: 14868 RVA: 0x0002C5DF File Offset: 0x0002A7DF
 		[global::Cpp2ILInjected.Token(Token = "0x6004103")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775C18", Offset = "0x775C18", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LucyAxeMessage), Member = "SpawnPopupText", MemberParameters = new object[]
@@ -425,7 +408,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A15 RID: 14869 RVA: 0x0002C5E2 File Offset: 0x0002A7E2
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6004104")]
 		[global::Cpp2ILInjected.Address(RVA = "0x775CC8", Offset = "0x775CC8", Length = "0x68")]
@@ -436,40 +418,29 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x04006925 RID: 26917
 		[global::Cpp2ILInjected.Token(Token = "0x4007EB0")]
 		private static byte _variation;
 
-		// Token: 0x04006926 RID: 26918
 		[global::Cpp2ILInjected.Token(Token = "0x4007EB1")]
 		private static int[] _messageCooldownsByType;
 
-		// Token: 0x02000990 RID: 2448
 		[global::Cpp2ILInjected.Token(Token = "0x20007E2")]
 		public enum MessageSource
 		{
-			// Token: 0x04008C41 RID: 35905
 			[global::Cpp2ILInjected.Token(Token = "0x4007EB3")]
 			Idle,
-			// Token: 0x04008C42 RID: 35906
 			[global::Cpp2ILInjected.Token(Token = "0x4007EB4")]
 			Storage,
-			// Token: 0x04008C43 RID: 35907
 			[global::Cpp2ILInjected.Token(Token = "0x4007EB5")]
 			ThrownAway,
-			// Token: 0x04008C44 RID: 35908
 			[global::Cpp2ILInjected.Token(Token = "0x4007EB6")]
 			PickedUp,
-			// Token: 0x04008C45 RID: 35909
 			[global::Cpp2ILInjected.Token(Token = "0x4007EB7")]
 			ChoppedTree,
-			// Token: 0x04008C46 RID: 35910
 			[global::Cpp2ILInjected.Token(Token = "0x4007EB8")]
 			ChoppedGemTree,
-			// Token: 0x04008C47 RID: 35911
 			[global::Cpp2ILInjected.Token(Token = "0x4007EB9")]
 			ChoppedCactus,
-			// Token: 0x04008C48 RID: 35912
 			[global::Cpp2ILInjected.Token(Token = "0x4007EBA")]
 			Count
 		}

@@ -5,12 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Diagnostics
 {
-	// Token: 0x02000073 RID: 115
 	[global::Cpp2ILInjected.Token(Token = "0x20000CB")]
 	public sealed class Trace
 	{
-		// Token: 0x170000C2 RID: 194
-		// (get) Token: 0x060003FD RID: 1021 RVA: 0x0000399B File Offset: 0x00001B9B
 		[global::Cpp2ILInjected.Token(Token = "0x170000C8")]
 		public static TraceListenerCollection Listeners
 		{
@@ -30,8 +27,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x170000C3 RID: 195
-		// (get) Token: 0x060003FE RID: 1022 RVA: 0x0000399E File Offset: 0x00001B9E
 		[global::Cpp2ILInjected.Token(Token = "0x170000C9")]
 		public static bool AutoFlush
 		{
@@ -51,8 +46,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x170000C4 RID: 196
-		// (get) Token: 0x060003FF RID: 1023 RVA: 0x000039A1 File Offset: 0x00001BA1
 		[global::Cpp2ILInjected.Token(Token = "0x170000CA")]
 		public static CorrelationManager CorrelationManager
 		{
@@ -69,7 +62,6 @@ namespace System.Diagnostics
 			}
 		}
 
-		// Token: 0x04000253 RID: 595
 		[global::Cpp2ILInjected.Token(Token = "0x4000394")]
 		private static CorrelationManager correlationManager;
 	}

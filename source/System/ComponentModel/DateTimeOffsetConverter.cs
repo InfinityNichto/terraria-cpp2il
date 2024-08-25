@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x020002DE RID: 734
 	[global::Cpp2ILInjected.Token(Token = "0x20003DE")]
 	public class DateTimeOffsetConverter : TypeConverter
 	{
-		// Token: 0x060017C1 RID: 6081 RVA: 0x000070FD File Offset: 0x000052FD
 		[global::Cpp2ILInjected.Token(Token = "0x6001A2A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E63FF4", Offset = "0x1E63FF4", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -28,7 +26,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060017C2 RID: 6082 RVA: 0x00007100 File Offset: 0x00005300
 		[global::Cpp2ILInjected.Token(Token = "0x6001A2B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E64124", Offset = "0x1E64124", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -44,7 +41,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060017C3 RID: 6083 RVA: 0x00007103 File Offset: 0x00005303
 		[global::Cpp2ILInjected.Token(Token = "0x6001A2C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E64254", Offset = "0x1E64254", Length = "0x34C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,7 +68,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060017C4 RID: 6084 RVA: 0x00007106 File Offset: 0x00005306
 		[global::Cpp2ILInjected.Token(Token = "0x6001A2D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E6460C", Offset = "0x1E6460C", Length = "0x9CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -145,7 +140,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x060017C5 RID: 6085 RVA: 0x00007109 File Offset: 0x00005309
 		[global::Cpp2ILInjected.Token(Token = "0x6001A2E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E64FD8", Offset = "0x1E64FD8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

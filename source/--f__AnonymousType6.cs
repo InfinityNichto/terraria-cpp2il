@@ -5,13 +5,10 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using Terraria.GameContent.UI.States;
 
-// Token: 0x02000008 RID: 8
 [CompilerGenerated]
 [global::Cpp2ILInjected.Token(Token = "0x2000008")]
 internal sealed class <>f__AnonymousType6<<Percent>j__TPar>
 {
-	// Token: 0x1700000B RID: 11
-	// (get) Token: 0x06000023 RID: 35 RVA: 0x00021BF3 File Offset: 0x0001FDF3
 	[global::Cpp2ILInjected.Token(Token = "0x1700000B")]
 	public <Percent>j__TPar Percent
 	{
@@ -25,7 +22,6 @@ internal sealed class <>f__AnonymousType6<<Percent>j__TPar>
 		}
 	}
 
-	// Token: 0x06000024 RID: 36 RVA: 0x00021BF6 File Offset: 0x0001FDF6
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x6000024")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B5CD4", Offset = "0x15B5CD4", Length = "0x28")]
@@ -38,7 +34,6 @@ internal sealed class <>f__AnonymousType6<<Percent>j__TPar>
 		throw null;
 	}
 
-	// Token: 0x06000025 RID: 37 RVA: 0x00021BF9 File Offset: 0x0001FDF9
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x6000025")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B5CFC", Offset = "0x15B5CFC", Length = "0x84")]
@@ -51,7 +46,6 @@ internal sealed class <>f__AnonymousType6<<Percent>j__TPar>
 		throw null;
 	}
 
-	// Token: 0x06000026 RID: 38 RVA: 0x00021BFC File Offset: 0x0001FDFC
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x6000026")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B5D80", Offset = "0x15B5D80", Length = "0x44")]
@@ -63,7 +57,6 @@ internal sealed class <>f__AnonymousType6<<Percent>j__TPar>
 		throw null;
 	}
 
-	// Token: 0x06000027 RID: 39 RVA: 0x00021BFF File Offset: 0x0001FDFF
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x6000027")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B5DC4", Offset = "0x15B5DC4", Length = "0xC8")]
@@ -82,7 +75,6 @@ internal sealed class <>f__AnonymousType6<<Percent>j__TPar>
 		throw null;
 	}
 
-	// Token: 0x0400000B RID: 11
 	[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 	[global::Cpp2ILInjected.Token(Token = "0x400000B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]

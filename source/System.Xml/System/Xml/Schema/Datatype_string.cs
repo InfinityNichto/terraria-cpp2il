@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Schema
 {
-	// Token: 0x020000B8 RID: 184
 	[global::Cpp2ILInjected.Token(Token = "0x20000E4")]
 	internal class Datatype_string : Datatype_anySimpleType
 	{
-		// Token: 0x06000817 RID: 2071 RVA: 0x0000469D File Offset: 0x0000289D
 		[global::Cpp2ILInjected.Token(Token = "0x60008AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBE48C", Offset = "0x1DBE48C", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -18,8 +16,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x17000200 RID: 512
-		// (get) Token: 0x06000818 RID: 2072 RVA: 0x000046A0 File Offset: 0x000028A0
 		[global::Cpp2ILInjected.Token(Token = "0x17000226")]
 		internal override XmlSchemaWhiteSpace BuiltInWhitespaceFacet
 		{
@@ -32,8 +28,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x17000201 RID: 513
-		// (get) Token: 0x06000819 RID: 2073 RVA: 0x000046A3 File Offset: 0x000028A3
 		[global::Cpp2ILInjected.Token(Token = "0x17000227")]
 		internal override FacetsChecker FacetsChecker
 		{
@@ -47,8 +41,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x17000202 RID: 514
-		// (get) Token: 0x0600081A RID: 2074 RVA: 0x000046A6 File Offset: 0x000028A6
 		[global::Cpp2ILInjected.Token(Token = "0x17000228")]
 		public override XmlTypeCode TypeCode
 		{
@@ -61,8 +53,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x17000203 RID: 515
-		// (get) Token: 0x0600081B RID: 2075 RVA: 0x000046A9 File Offset: 0x000028A9
 		[global::Cpp2ILInjected.Token(Token = "0x17000229")]
 		public override XmlTokenizedType TokenizedType
 		{
@@ -75,7 +65,6 @@ namespace System.Xml.Schema
 			}
 		}
 
-		// Token: 0x0600081C RID: 2076 RVA: 0x000046AC File Offset: 0x000028AC
 		[global::Cpp2ILInjected.Token(Token = "0x60008B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBE508", Offset = "0x1DBE508", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -86,7 +75,6 @@ namespace System.Xml.Schema
 			throw null;
 		}
 
-		// Token: 0x0600081D RID: 2077 RVA: 0x000046AF File Offset: 0x000028AF
 		[global::Cpp2ILInjected.Token(Token = "0x60008B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1DBE5D0", Offset = "0x1DBE5D0", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DatatypeImplementation), Member = ".cctor", ReturnType = typeof(void))]

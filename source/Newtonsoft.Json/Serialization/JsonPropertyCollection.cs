@@ -10,12 +10,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Serialization
 {
-	// Token: 0x0200007F RID: 127
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000A3")]
 	public class JsonPropertyCollection : KeyedCollection<string, JsonProperty>
 	{
-		// Token: 0x06000577 RID: 1399 RVA: 0x0000308C File Offset: 0x0000128C
 		[global::Cpp2ILInjected.Token(Token = "0x60005DD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CE6648", Offset = "0x1CE6648", Length = "0x160")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -44,7 +42,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000578 RID: 1400 RVA: 0x0000308F File Offset: 0x0000128F
 		[global::Cpp2ILInjected.Token(Token = "0x60005DE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CEF138", Offset = "0x1CEF138", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +50,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x06000579 RID: 1401 RVA: 0x00003092 File Offset: 0x00001292
 		[global::Cpp2ILInjected.Token(Token = "0x60005DF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CE67E8", Offset = "0x1CE67E8", Length = "0x214")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -93,7 +89,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x0600057A RID: 1402 RVA: 0x00003095 File Offset: 0x00001295
 		[global::Cpp2ILInjected.Token(Token = "0x60005E0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CE67A8", Offset = "0x1CE67A8", Length = "0x40")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DefaultContractResolver), Member = "CreateConstructorParameters", MemberParameters = new object[]
@@ -127,7 +122,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x0600057B RID: 1403 RVA: 0x00003098 File Offset: 0x00001298
 		[global::Cpp2ILInjected.Token(Token = "0x60005E1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CEF228", Offset = "0x1CEF228", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -143,7 +137,6 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x0600057C RID: 1404 RVA: 0x0000309B File Offset: 0x0000129B
 		[global::Cpp2ILInjected.Token(Token = "0x60005E2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CEF140", Offset = "0x1CEF140", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -167,12 +160,10 @@ namespace Newtonsoft.Json.Serialization
 			throw null;
 		}
 
-		// Token: 0x0400024E RID: 590
 		[global::Cpp2ILInjected.Token(Token = "0x40002AD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private readonly Type _type;
 
-		// Token: 0x0400024F RID: 591
 		[global::Cpp2ILInjected.Token(Token = "0x40002AE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private readonly List<JsonProperty> _list;

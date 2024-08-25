@@ -8,7 +8,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000005 RID: 5
 	[RequireComponent(typeof(RectTransform))]
 	[NativeHeader("Modules/UI/Canvas.h")]
 	[NativeHeader("Modules/UI/CanvasManager.h")]
@@ -17,9 +16,6 @@ namespace UnityEngine
 	[global::Cpp2ILInjected.Token(Token = "0x2000005")]
 	public sealed class Canvas : Behaviour
 	{
-		// Token: 0x14000001 RID: 1
-		// (add) Token: 0x0600002F RID: 47 RVA: 0x0000208F File Offset: 0x0000028F
-		// (remove) Token: 0x06000030 RID: 48 RVA: 0x00002092 File Offset: 0x00000292
 		[global::Cpp2ILInjected.Token(Token = "0x14000001")]
 		public static event Canvas.WillRenderCanvases preWillRenderCanvases
 		{
@@ -57,9 +53,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x14000002 RID: 2
-		// (add) Token: 0x06000031 RID: 49 RVA: 0x00002095 File Offset: 0x00000295
-		// (remove) Token: 0x06000032 RID: 50 RVA: 0x00002098 File Offset: 0x00000298
 		[global::Cpp2ILInjected.Token(Token = "0x14000002")]
 		public static event Canvas.WillRenderCanvases willRenderCanvases
 		{
@@ -96,8 +89,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000008 RID: 8
-		// (get) Token: 0x06000033 RID: 51
 		[global::Cpp2ILInjected.Token(Token = "0x17000008")]
 		public extern RenderMode renderMode
 		{
@@ -124,8 +115,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000009 RID: 9
-		// (get) Token: 0x06000034 RID: 52
 		[global::Cpp2ILInjected.Token(Token = "0x17000009")]
 		public extern bool isRootCanvas
 		{
@@ -140,9 +129,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700000A RID: 10
-		// (get) Token: 0x06000035 RID: 53
-		// (set) Token: 0x06000036 RID: 54
 		[global::Cpp2ILInjected.Token(Token = "0x1700000A")]
 		public extern float scaleFactor
 		{
@@ -169,9 +155,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700000B RID: 11
-		// (get) Token: 0x06000037 RID: 55
-		// (set) Token: 0x06000038 RID: 56
 		[global::Cpp2ILInjected.Token(Token = "0x1700000B")]
 		public extern float referencePixelsPerUnit
 		{
@@ -197,8 +180,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700000C RID: 12
-		// (get) Token: 0x06000039 RID: 57
 		[global::Cpp2ILInjected.Token(Token = "0x1700000C")]
 		public extern bool pixelPerfect
 		{
@@ -212,8 +193,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700000D RID: 13
-		// (get) Token: 0x0600003A RID: 58
 		[global::Cpp2ILInjected.Token(Token = "0x1700000D")]
 		public extern int renderOrder
 		{
@@ -226,9 +205,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x1700000E RID: 14
-		// (get) Token: 0x0600003B RID: 59
-		// (set) Token: 0x0600003C RID: 60
 		[global::Cpp2ILInjected.Token(Token = "0x1700000E")]
 		public extern bool overrideSorting
 		{
@@ -257,9 +233,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x1700000F RID: 15
-		// (get) Token: 0x0600003D RID: 61
-		// (set) Token: 0x0600003E RID: 62
 		[global::Cpp2ILInjected.Token(Token = "0x1700000F")]
 		public extern int sortingOrder
 		{
@@ -282,8 +255,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000010 RID: 16
-		// (get) Token: 0x0600003F RID: 63
 		[global::Cpp2ILInjected.Token(Token = "0x17000010")]
 		public extern int targetDisplay
 		{
@@ -302,9 +273,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000011 RID: 17
-		// (get) Token: 0x06000040 RID: 64
-		// (set) Token: 0x06000041 RID: 65
 		[global::Cpp2ILInjected.Token(Token = "0x17000011")]
 		public extern int sortingLayerID
 		{
@@ -327,8 +295,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000012 RID: 18
-		// (get) Token: 0x06000042 RID: 66
 		[global::Cpp2ILInjected.Token(Token = "0x17000012")]
 		public extern Canvas rootCanvas
 		{
@@ -344,8 +310,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000013 RID: 19
-		// (get) Token: 0x06000043 RID: 67 RVA: 0x0000209B File Offset: 0x0000029B
 		[global::Cpp2ILInjected.Token(Token = "0x17000013")]
 		public Vector2 renderingDisplaySize
 		{
@@ -361,8 +325,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000014 RID: 20
-		// (get) Token: 0x06000044 RID: 68 RVA: 0x0000209E File Offset: 0x0000029E
 		[global::Cpp2ILInjected.Token(Token = "0x17000014")]
 		internal static Action<int> externBeginRenderOverlays
 		{
@@ -377,8 +339,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000015 RID: 21
-		// (get) Token: 0x06000045 RID: 69 RVA: 0x000020A1 File Offset: 0x000002A1
 		[global::Cpp2ILInjected.Token(Token = "0x17000015")]
 		internal static Action<int, int> externRenderOverlaysBefore
 		{
@@ -393,8 +353,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000016 RID: 22
-		// (get) Token: 0x06000046 RID: 70 RVA: 0x000020A4 File Offset: 0x000002A4
 		[global::Cpp2ILInjected.Token(Token = "0x17000016")]
 		internal static Action<int> externEndRenderOverlays
 		{
@@ -409,8 +367,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000017 RID: 23
-		// (get) Token: 0x06000047 RID: 71
 		[NativeProperty("Camera", false, TargetType.Function)]
 		[global::Cpp2ILInjected.Token(Token = "0x17000017")]
 		public extern Camera worldCamera
@@ -430,7 +386,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x06000048 RID: 72
 		[FreeFunction("UI::GetDefaultUIMaterial")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000048")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1BF0", Offset = "0x1FF1BF0", Length = "0x28")]
@@ -440,7 +395,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern Material GetDefaultCanvasMaterial();
 
-		// Token: 0x06000049 RID: 73
 		[FreeFunction("UI::GetETC1SupportedCanvasMaterial")]
 		[global::Cpp2ILInjected.Token(Token = "0x6000049")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1C18", Offset = "0x1FF1C18", Length = "0x28")]
@@ -450,7 +404,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		public static extern Material GetETC1SupportedCanvasMaterial();
 
-		// Token: 0x0600004A RID: 74 RVA: 0x000020A7 File Offset: 0x000002A7
 		[global::Cpp2ILInjected.Token(Token = "0x600004A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1C40", Offset = "0x1FF1C40", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.ScrollRect", Member = "EnsureLayoutHasRebuilt", ReturnType = typeof(void))]
@@ -462,7 +415,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600004B RID: 75 RVA: 0x000020AA File Offset: 0x000002AA
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600004B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1C50", Offset = "0x1FF1C50", Length = "0x64")]
@@ -474,7 +426,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600004C RID: 76 RVA: 0x000020AD File Offset: 0x000002AD
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600004C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1CB4", Offset = "0x1FF1CB4", Length = "0x64")]
@@ -486,7 +437,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600004D RID: 77 RVA: 0x000020B0 File Offset: 0x000002B0
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600004D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1D18", Offset = "0x1FF1D18", Length = "0x6C")]
@@ -497,7 +447,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600004E RID: 78 RVA: 0x000020B3 File Offset: 0x000002B3
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600004E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1D84", Offset = "0x1FF1D84", Length = "0x74")]
@@ -508,7 +457,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600004F RID: 79 RVA: 0x000020B6 File Offset: 0x000002B6
 		[RequiredByNativeCode]
 		[global::Cpp2ILInjected.Token(Token = "0x600004F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1DF8", Offset = "0x1FF1DF8", Length = "0x6C")]
@@ -519,7 +467,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000050 RID: 80 RVA: 0x000020B9 File Offset: 0x000002B9
 		[global::Cpp2ILInjected.Token(Token = "0x6000050")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1E64", Offset = "0x1FF1E64", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -529,7 +476,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000051 RID: 81
 		[global::Cpp2ILInjected.Token(Token = "0x6000051")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FF1A98", Offset = "0x1FF1A98", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -537,38 +483,31 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_renderingDisplaySize_Injected(out Vector2 ret);
 
-		// Token: 0x04000007 RID: 7
 		[CompilerGenerated]
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[global::Cpp2ILInjected.Token(Token = "0x4000007")]
 		private static Canvas.WillRenderCanvases preWillRenderCanvases;
 
-		// Token: 0x04000008 RID: 8
 		[CompilerGenerated]
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[global::Cpp2ILInjected.Token(Token = "0x4000008")]
 		private static Canvas.WillRenderCanvases willRenderCanvases;
 
-		// Token: 0x04000009 RID: 9
 		[CompilerGenerated]
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[global::Cpp2ILInjected.Token(Token = "0x4000009")]
 		private static Action<int> <externBeginRenderOverlays>k__BackingField;
 
-		// Token: 0x0400000A RID: 10
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400000A")]
 		private static Action<int, int> <externRenderOverlaysBefore>k__BackingField;
 
-		// Token: 0x0400000B RID: 11
 		[CompilerGenerated]
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[global::Cpp2ILInjected.Token(Token = "0x400000B")]
 		private static Action<int> <externEndRenderOverlays>k__BackingField;
 
-		// Token: 0x02000015 RID: 21
-		// (Invoke) Token: 0x06000069 RID: 105
 		[global::Cpp2ILInjected.Token(Token = "0x2000006")]
 		public delegate void WillRenderCanvases();
 	}

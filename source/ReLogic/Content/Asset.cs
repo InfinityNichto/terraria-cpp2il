@@ -2,17 +2,21 @@
 using System.Runtime.CompilerServices;
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
 using ReLogic.Content.Sources;
+using Terraria;
+using Terraria.DataStructures;
+using Terraria.GameContent.Bestiary;
+using Terraria.GameContent.UI.Elements;
+using Terraria.Graphics.Light;
+using Terraria.Graphics.Shaders;
 
 namespace ReLogic.Content
 {
-	// Token: 0x02000739 RID: 1849
 	[global::Cpp2ILInjected.Token(Token = "0x2000B39")]
 	public sealed class Asset<T> : IAsset, IDisposable where T : class
 	{
-		// Token: 0x1700080A RID: 2058
-		// (get) Token: 0x06004704 RID: 18180 RVA: 0x0002EB0E File Offset: 0x0002CD0E
-		// (set) Token: 0x06004705 RID: 18181 RVA: 0x0002EB11 File Offset: 0x0002CD11
 		[global::Cpp2ILInjected.Token(Token = "0x1700090F")]
 		public string Name
 		{
@@ -36,8 +40,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x1700080B RID: 2059
-		// (get) Token: 0x06004706 RID: 18182 RVA: 0x0002EB14 File Offset: 0x0002CD14
 		[global::Cpp2ILInjected.Token(Token = "0x17000910")]
 		public bool IsLoaded
 		{
@@ -45,6 +47,70 @@ namespace ReLogic.Content
 			[global::Cpp2ILInjected.Address(RVA = "0x17F4EDC", Offset = "0x17F4EDC", Length = "0x28")]
 			[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(NPC),
+				typeof(bool),
+				typeof(Vector2)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawNPCDirect", MemberParameters = new object[]
+			{
+				typeof(SpriteBatch),
+				typeof(NPC),
+				typeof(bool),
+				typeof(Vector2),
+				typeof(LightMap),
+				typeof(ref Rectangle)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Main), Member = "DrawUnderworldBackgroudLayer", MemberParameters = new object[]
+			{
+				typeof(bool),
+				typeof(Vector2),
+				typeof(float),
+				typeof(int)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "SetDefaults", MemberParameters = new object[]
+			{
+				typeof(int),
+				typeof(NPCSpawnParams)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "FindFrame", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = "get_Width", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = "get_Height", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = "get_AABBRectangle", ReturnType = typeof(Rectangle))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = "Update", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = "Gore_UpdateSail", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Gore), Member = "NewGore", MemberParameters = new object[]
+			{
+				typeof(Vector2),
+				typeof(Vector2),
+				typeof(int),
+				typeof(float)
+			}, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Utils), Member = "Width", MemberParameters = new object[] { typeof(Asset<Texture2D>) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Utils), Member = "Height", MemberParameters = new object[] { typeof(Asset<Texture2D>) }, ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Utils), Member = "Frame", MemberParameters = new object[]
+			{
+				typeof(Asset<Texture2D>),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int),
+				typeof(int)
+			}, ReturnType = typeof(Rectangle))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Utils), Member = "Size", MemberParameters = new object[] { typeof(Asset<Texture2D>) }, ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_21_Head_TheFace", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PlayerDrawLayers), Member = "DrawPlayer_27_HeldItem", MemberParameters = new object[] { typeof(ref PlayerDrawSet) }, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ScreenShaderData), Member = "Apply", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UnlockableNPCEntryIcon), Member = "Update", MemberParameters = new object[]
+			{
+				typeof(BestiaryUICollectionInfo),
+				typeof(Rectangle),
+				typeof(EntryIconDrawSettings)
+			}, ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(UIGenProgressBar), Member = "DrawSelf", MemberParameters = new object[] { typeof(SpriteBatch) }, ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 32)]
 			get
 			{
@@ -52,9 +118,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x1700080C RID: 2060
-		// (get) Token: 0x06004707 RID: 18183 RVA: 0x0002EB17 File Offset: 0x0002CD17
-		// (set) Token: 0x06004708 RID: 18184 RVA: 0x0002EB1A File Offset: 0x0002CD1A
 		[global::Cpp2ILInjected.Token(Token = "0x17000911")]
 		public AssetState State
 		{
@@ -78,9 +141,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x1700080D RID: 2061
-		// (get) Token: 0x06004709 RID: 18185 RVA: 0x0002EB1D File Offset: 0x0002CD1D
-		// (set) Token: 0x0600470A RID: 18186 RVA: 0x0002EB20 File Offset: 0x0002CD20
 		[global::Cpp2ILInjected.Token(Token = "0x17000912")]
 		public bool IsDisposed
 		{
@@ -104,9 +164,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x1700080E RID: 2062
-		// (get) Token: 0x0600470B RID: 18187 RVA: 0x0002EB23 File Offset: 0x0002CD23
-		// (set) Token: 0x0600470C RID: 18188 RVA: 0x0002EB26 File Offset: 0x0002CD26
 		[global::Cpp2ILInjected.Token(Token = "0x17000913")]
 		public IContentSource Source
 		{
@@ -130,9 +187,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x1700080F RID: 2063
-		// (get) Token: 0x0600470D RID: 18189 RVA: 0x0002EB29 File Offset: 0x0002CD29
-		// (set) Token: 0x0600470E RID: 18190 RVA: 0x0002EB2C File Offset: 0x0002CD2C
 		[global::Cpp2ILInjected.Token(Token = "0x17000914")]
 		public T Value
 		{
@@ -156,7 +210,6 @@ namespace ReLogic.Content
 			}
 		}
 
-		// Token: 0x0600470F RID: 18191 RVA: 0x0002EB2F File Offset: 0x0002CD2F
 		[global::Cpp2ILInjected.Token(Token = "0x60053C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F4F48", Offset = "0x17F4F48", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -168,7 +221,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004710 RID: 18192 RVA: 0x0002EB32 File Offset: 0x0002CD32
 		[global::Cpp2ILInjected.Token(Token = "0x60053C9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F5000", Offset = "0x17F5000", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -181,7 +233,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004711 RID: 18193 RVA: 0x0002EB35 File Offset: 0x0002CD35
 		[global::Cpp2ILInjected.Token(Token = "0x60053CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F505C", Offset = "0x17F505C", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -193,7 +244,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004712 RID: 18194 RVA: 0x0002EB38 File Offset: 0x0002CD38
 		[global::Cpp2ILInjected.Token(Token = "0x60053CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F50CC", Offset = "0x17F50CC", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -205,7 +255,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004713 RID: 18195 RVA: 0x0002EB3B File Offset: 0x0002CD3B
 		[global::Cpp2ILInjected.Token(Token = "0x60053CC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F51E8", Offset = "0x17F51E8", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -218,7 +267,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004714 RID: 18196 RVA: 0x0002EB3E File Offset: 0x0002CD3E
 		[global::Cpp2ILInjected.Token(Token = "0x60053CD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F5360", Offset = "0x17F5360", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -229,7 +277,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004715 RID: 18197 RVA: 0x0002EB41 File Offset: 0x0002CD41
 		[global::Cpp2ILInjected.Token(Token = "0x60053CE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F5378", Offset = "0x17F5378", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -241,7 +288,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004716 RID: 18198 RVA: 0x0002EB44 File Offset: 0x0002CD44
 		[global::Cpp2ILInjected.Token(Token = "0x60053CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F54E4", Offset = "0x17F54E4", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -252,7 +298,6 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x06004717 RID: 18199 RVA: 0x0002EB47 File Offset: 0x0002CD47
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60053D0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F54FC", Offset = "0x17F54FC", Length = "0x128")]
@@ -265,35 +310,29 @@ namespace ReLogic.Content
 			throw null;
 		}
 
-		// Token: 0x04007351 RID: 29521
 		[global::Cpp2ILInjected.Token(Token = "0x4008CF0")]
 		public static readonly Asset<T> Empty;
 
-		// Token: 0x04007352 RID: 29522
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008CF1")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private string <Name>k__BackingField;
 
-		// Token: 0x04007353 RID: 29523
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008CF2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private AssetState <State>k__BackingField;
 
-		// Token: 0x04007354 RID: 29524
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008CF3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private bool <IsDisposed>k__BackingField;
 
-		// Token: 0x04007355 RID: 29525
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008CF4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private IContentSource <Source>k__BackingField;
 
-		// Token: 0x04007356 RID: 29526
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008CF5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]

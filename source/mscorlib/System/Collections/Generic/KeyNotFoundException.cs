@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections.Generic
 {
-	// Token: 0x0200051F RID: 1311
 	[global::Cpp2ILInjected.Token(Token = "0x2000637")]
 	[global::System.Serializable]
 	public class KeyNotFoundException : global::System.SystemException
 	{
-		// Token: 0x06002C2A RID: 11306 RVA: 0x0001BFE0 File Offset: 0x0001A1E0
 		[global::Cpp2ILInjected.Token(Token = "0x600309B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C14F40", Offset = "0x1C14F40", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -33,7 +31,6 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x06002C2B RID: 11307 RVA: 0x0001BFE3 File Offset: 0x0001A1E3
 		[global::Cpp2ILInjected.Token(Token = "0x600309C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C14F9C", Offset = "0x1C14F9C", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -49,7 +46,6 @@ namespace System.Collections.Generic
 			throw null;
 		}
 
-		// Token: 0x06002C2C RID: 11308 RVA: 0x0001BFE6 File Offset: 0x0001A1E6
 		[global::Cpp2ILInjected.Token(Token = "0x600309D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C14FC0", Offset = "0x1C14FC0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.ObjectModel;
 using System.Runtime.CompilerServices;
 using System.Threading;
 using Cpp2ILInjected;
@@ -8,12 +9,9 @@ using UnityEngine.SceneManagement;
 
 namespace InControl
 {
-	// Token: 0x02000062 RID: 98
 	[global::Cpp2ILInjected.Token(Token = "0x200006D")]
 	public abstract class SingletonMonoBehavior<TComponent> : MonoBehaviour where TComponent : MonoBehaviour
 	{
-		// Token: 0x17000161 RID: 353
-		// (get) Token: 0x060004EF RID: 1263 RVA: 0x00002EFA File Offset: 0x000010FA
 		[global::Cpp2ILInjected.Token(Token = "0x17000163")]
 		public static TComponent Instance
 		{
@@ -21,6 +19,26 @@ namespace InControl
 			[global::Cpp2ILInjected.Address(RVA = "0x1865910", Offset = "0x1865910", Length = "0x50C")]
 			[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Controller.ControllerActionManager", Member = ".ctor", ReturnType = typeof(void))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_Touches", ReturnType = typeof(ReadOnlyCollection<Touch>))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_TouchCount", ReturnType = typeof(int))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "GetTouch", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(Touch))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "GetTouchByFingerId", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(Touch))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "ScreenToWorldPoint", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "ViewToWorldPoint", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "ScreenToViewPoint", MemberParameters = new object[] { typeof(Vector2) }, ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_Camera", ReturnType = typeof(Camera))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_Device", ReturnType = typeof(InputDevice))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_ViewSize", ReturnType = typeof(Vector3))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_PercentToWorld", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_HalfPercentToWorld", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_PixelToWorld", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_HalfPixelToWorld", ReturnType = typeof(float))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_ScreenSize", ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_HalfScreenSize", ReturnType = typeof(Vector2))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_ControlsShowGizmos", ReturnType = typeof(TouchManager.GizmoShowOption))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "get_ControlsEnabled", ReturnType = typeof(bool))]
+			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TouchManager), Member = "set_ControlsEnabled", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(void))]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 20)]
 			[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(Monitor), Member = "Enter", MemberParameters = new object[]
 			{
@@ -49,8 +67,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000162 RID: 354
-		// (get) Token: 0x060004F0 RID: 1264 RVA: 0x00002EFD File Offset: 0x000010FD
 		[global::Cpp2ILInjected.Token(Token = "0x17000164")]
 		protected bool EnforceSingleton
 		{
@@ -71,8 +87,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000163 RID: 355
-		// (get) Token: 0x060004F1 RID: 1265 RVA: 0x00002F00 File Offset: 0x00001100
 		[global::Cpp2ILInjected.Token(Token = "0x17000165")]
 		protected bool IsTheSingleton
 		{
@@ -95,8 +109,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000164 RID: 356
-		// (get) Token: 0x060004F2 RID: 1266 RVA: 0x00002F03 File Offset: 0x00001103
 		[global::Cpp2ILInjected.Token(Token = "0x17000166")]
 		protected bool IsNotTheSingleton
 		{
@@ -130,7 +142,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x060004F3 RID: 1267 RVA: 0x00002F06 File Offset: 0x00001106
 		[global::Cpp2ILInjected.Token(Token = "0x6000507")]
 		[global::Cpp2ILInjected.Address(RVA = "0x18661A8", Offset = "0x18661A8", Length = "0x2CC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -142,7 +153,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060004F4 RID: 1268 RVA: 0x00002F09 File Offset: 0x00001109
 		[global::Cpp2ILInjected.Token(Token = "0x6000508")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1866474", Offset = "0x1866474", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -154,7 +164,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060004F5 RID: 1269 RVA: 0x00002F0C File Offset: 0x0000110C
 		[global::Cpp2ILInjected.Token(Token = "0x6000509")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1866514", Offset = "0x1866514", Length = "0x538")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -170,7 +179,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060004F6 RID: 1270 RVA: 0x00002F0F File Offset: 0x0000110F
 		[global::Cpp2ILInjected.Token(Token = "0x600050A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1866A4C", Offset = "0x1866A4C", Length = "0x1BC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -189,7 +197,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060004F7 RID: 1271 RVA: 0x00002F12 File Offset: 0x00001112
 		[global::Cpp2ILInjected.Token(Token = "0x600050B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1866C08", Offset = "0x1866C08", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -202,7 +209,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x060004F8 RID: 1272 RVA: 0x00002F15 File Offset: 0x00001115
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600050C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1866C10", Offset = "0x1866C10", Length = "0xAC")]
@@ -215,29 +221,23 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x040003A5 RID: 933
 		[global::Cpp2ILInjected.Token(Token = "0x40003F2")]
 		private static TComponent instance;
 
-		// Token: 0x040003A6 RID: 934
 		[global::Cpp2ILInjected.Token(Token = "0x40003F3")]
 		private static bool hasInstance;
 
-		// Token: 0x040003A7 RID: 935
 		[global::Cpp2ILInjected.Token(Token = "0x40003F4")]
 		private static int instanceId;
 
-		// Token: 0x040003A8 RID: 936
 		[global::Cpp2ILInjected.Token(Token = "0x40003F5")]
 		private static readonly object lockObject;
 
-		// Token: 0x020001F5 RID: 501
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x200006E")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06000864 RID: 2148 RVA: 0x00003959 File Offset: 0x00001B59
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x600050D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x15B0264", Offset = "0x15B0264", Length = "0xEC")]
@@ -250,7 +250,6 @@ namespace InControl
 				throw null;
 			}
 
-			// Token: 0x06000865 RID: 2149 RVA: 0x0000395C File Offset: 0x00001B5C
 			[global::Cpp2ILInjected.Token(Token = "0x600050E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x15B0350", Offset = "0x15B0350", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -261,7 +260,6 @@ namespace InControl
 				throw null;
 			}
 
-			// Token: 0x06000866 RID: 2150 RVA: 0x0000395F File Offset: 0x00001B5F
 			[global::Cpp2ILInjected.Token(Token = "0x600050F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x15B0358", Offset = "0x15B0358", Length = "0x54")]
 			[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -274,7 +272,6 @@ namespace InControl
 				throw null;
 			}
 
-			// Token: 0x06000867 RID: 2151 RVA: 0x00003962 File Offset: 0x00001B62
 			[global::Cpp2ILInjected.Token(Token = "0x6000510")]
 			[global::Cpp2ILInjected.Address(RVA = "0x15B03AC", Offset = "0x15B03AC", Length = "0x80")]
 			[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -287,15 +284,12 @@ namespace InControl
 				throw null;
 			}
 
-			// Token: 0x0400041F RID: 1055
 			[global::Cpp2ILInjected.Token(Token = "0x40003F6")]
 			public static readonly SingletonMonoBehavior<TComponent>.<>c <>9;
 
-			// Token: 0x04000420 RID: 1056
 			[global::Cpp2ILInjected.Token(Token = "0x40003F7")]
 			public static Comparison<TComponent> <>9__12_0;
 
-			// Token: 0x04000421 RID: 1057
 			[global::Cpp2ILInjected.Token(Token = "0x40003F8")]
 			public static Func<TComponent, bool> <>9__14_0;
 		}

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Messaging
 {
-	// Token: 0x02000318 RID: 792
 	[global::Cpp2ILInjected.Token(Token = "0x20003BE")]
 	internal class ServerContextTerminatorSink : IMessageSink
 	{
-		// Token: 0x06001C73 RID: 7283 RVA: 0x00019499 File Offset: 0x00017699
 		[global::Cpp2ILInjected.Token(Token = "0x6001EAC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B4EAB4", Offset = "0x1B4EAB4", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -22,7 +20,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x06001C74 RID: 7284 RVA: 0x0001949C File Offset: 0x0001769C
 		[global::Cpp2ILInjected.Token(Token = "0x6001EAD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B4EBB4", Offset = "0x1B4EBB4", Length = "0x10B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +31,6 @@ namespace System.Runtime.Remoting.Messaging
 			throw null;
 		}
 
-		// Token: 0x06001C75 RID: 7285 RVA: 0x0001949F File Offset: 0x0001769F
 		[global::Cpp2ILInjected.Token(Token = "0x6001EAE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B3B5EC", Offset = "0x1B3B5EC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

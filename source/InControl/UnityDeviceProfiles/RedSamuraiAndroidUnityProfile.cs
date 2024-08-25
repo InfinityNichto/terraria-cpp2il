@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.UnityDeviceProfiles
 {
-	// Token: 0x020000A3 RID: 163
 	[Preserve]
 	[UnityInputDeviceProfile]
 	[global::Cpp2ILInjected.Token(Token = "0x20000B0")]
 	public class RedSamuraiAndroidUnityProfile : InputDeviceProfile
 	{
-		// Token: 0x060005CC RID: 1484 RVA: 0x00003191 File Offset: 0x00001391
 		[global::Cpp2ILInjected.Token(Token = "0x60005E9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19DBEAC", Offset = "0x19DBEAC", Length = "0x874")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -35,7 +33,6 @@ namespace InControl.UnityDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060005CD RID: 1485 RVA: 0x00003194 File Offset: 0x00001394
 		[global::Cpp2ILInjected.Token(Token = "0x60005EA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19DC720", Offset = "0x19DC720", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

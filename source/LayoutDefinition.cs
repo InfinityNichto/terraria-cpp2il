@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using UnityEngine;
 
-// Token: 0x020001B0 RID: 432
 [global::Cpp2ILInjected.Token(Token = "0x200023F")]
 public class LayoutDefinition
 {
-	// Token: 0x06000C01 RID: 3073 RVA: 0x00023F48 File Offset: 0x00022148
 	[global::Cpp2ILInjected.Token(Token = "0x6000D1B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D26A0", Offset = "0x9D26A0", Length = "0x1D0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +49,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C02 RID: 3074 RVA: 0x00023F4B File Offset: 0x0002214B
 	[global::Cpp2ILInjected.Token(Token = "0x6000D1C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D28D8", Offset = "0x9D28D8", Length = "0x26C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -91,7 +88,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C03 RID: 3075 RVA: 0x00023F4E File Offset: 0x0002214E
 	[global::Cpp2ILInjected.Token(Token = "0x6000D1D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D2B44", Offset = "0x9D2B44", Length = "0x4BC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -113,7 +109,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C04 RID: 3076 RVA: 0x00023F51 File Offset: 0x00022151
 	[global::Cpp2ILInjected.Token(Token = "0x6000D1E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D28A4", Offset = "0x9D28A4", Length = "0x34")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -129,7 +124,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C05 RID: 3077 RVA: 0x00023F54 File Offset: 0x00022154
 	[global::Cpp2ILInjected.Token(Token = "0x6000D1F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D408C", Offset = "0x9D408C", Length = "0xC4")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -158,7 +152,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C06 RID: 3078 RVA: 0x00023F57 File Offset: 0x00022157
 	[global::Cpp2ILInjected.Token(Token = "0x6000D20")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D3034", Offset = "0x9D3034", Length = "0x1058")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -214,7 +207,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C07 RID: 3079 RVA: 0x00023F5A File Offset: 0x0002215A
 	[global::Cpp2ILInjected.Token(Token = "0x6000D21")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D3000", Offset = "0x9D3000", Length = "0x34")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -230,7 +222,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C08 RID: 3080 RVA: 0x00023F5D File Offset: 0x0002215D
 	[global::Cpp2ILInjected.Token(Token = "0x6000D22")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D4150", Offset = "0x9D4150", Length = "0xF38")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -316,7 +307,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C09 RID: 3081 RVA: 0x00023F60 File Offset: 0x00022160
 	[global::Cpp2ILInjected.Token(Token = "0x6000D23")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D2870", Offset = "0x9D2870", Length = "0x34")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -332,7 +322,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C0A RID: 3082 RVA: 0x00023F63 File Offset: 0x00022163
 	[global::Cpp2ILInjected.Token(Token = "0x6000D24")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D5088", Offset = "0x9D5088", Length = "0x33C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -387,9 +376,33 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C0B RID: 3083 RVA: 0x00023F66 File Offset: 0x00022166
 	[global::Cpp2ILInjected.Token(Token = "0x6000D25")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9CAB98", Offset = "0x9CAB98", Length = "0x8")]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AccessoryInfo_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Achievements_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AchievementToast_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Bestiary_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BossBar_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BottomCentreHUDAnchor_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Buffs_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BuilderAccToggles_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ButtonBar_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ClothesWindow_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControllerDisconnected_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControllerHardwareProfile_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControllerMappings_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TransactionButtonStyleDefinitions), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlsBanner_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlsStatusIndicators_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ControlsTutorial_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(CraftGuidePopup_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Debug_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Events_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HairWindow_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Hearts_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Hotbar_Layout), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PageControllerLayoutDefinition<>), Member = ".ctor", ReturnType = typeof(void))]
+	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Settings), Member = ".ctor", ReturnType = typeof(void))]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 25)]
 	[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(object), Member = ".ctor", ReturnType = typeof(void))]
 	public LayoutDefinition()
@@ -397,7 +410,6 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x06000C0C RID: 3084 RVA: 0x00023F69 File Offset: 0x00022169
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6000D26")]
 	[global::Cpp2ILInjected.Address(RVA = "0x9D53C4", Offset = "0x9D53C4", Length = "0x114")]
@@ -411,20 +423,16 @@ public class LayoutDefinition
 		throw null;
 	}
 
-	// Token: 0x04001324 RID: 4900
 	[global::Cpp2ILInjected.Token(Token = "0x40017D9")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public string name;
 
-	// Token: 0x04001325 RID: 4901
 	[global::Cpp2ILInjected.Token(Token = "0x40017DA")]
 	private static List<LayoutDefinition> UIDefinitions;
 
-	// Token: 0x04001326 RID: 4902
 	[global::Cpp2ILInjected.Token(Token = "0x40017DB")]
 	private static Dictionary<Type, bool> typesEncountered;
 
-	// Token: 0x04001327 RID: 4903
 	[global::Cpp2ILInjected.Token(Token = "0x40017DC")]
 	private static StringBuilder output;
 }

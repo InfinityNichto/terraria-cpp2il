@@ -9,12 +9,10 @@ using Newtonsoft.Json.Utilities;
 
 namespace Newtonsoft.Json.Converters
 {
-	// Token: 0x020000B0 RID: 176
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20000F6")]
 	public class BinaryConverter : JsonConverter
 	{
-		// Token: 0x060008C9 RID: 2249 RVA: 0x00003A46 File Offset: 0x00001C46
 		[global::Cpp2ILInjected.Token(Token = "0x60009FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D24D24", Offset = "0x1D24D24", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -25,7 +23,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x060008CA RID: 2250 RVA: 0x00003A49 File Offset: 0x00001C49
 		[global::Cpp2ILInjected.Token(Token = "0x60009FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D24D6C", Offset = "0x1D24D6C", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BinaryConverter), Member = "WriteJson", MemberParameters = new object[]
@@ -61,7 +58,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x060008CB RID: 2251 RVA: 0x00003A4C File Offset: 0x00001C4C
 		[global::Cpp2ILInjected.Token(Token = "0x6000A00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D24ED0", Offset = "0x1D24ED0", Length = "0x170")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BinaryConverter), Member = "GetByteArray", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(byte[]))]
@@ -87,7 +83,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x060008CC RID: 2252 RVA: 0x00003A4F File Offset: 0x00001C4F
 		[global::Cpp2ILInjected.Token(Token = "0x6000A01")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D25040", Offset = "0x1D25040", Length = "0x2F4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -121,7 +116,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x060008CD RID: 2253 RVA: 0x00003A52 File Offset: 0x00001C52
 		[global::Cpp2ILInjected.Token(Token = "0x6000A02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D25334", Offset = "0x1D25334", Length = "0x274")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -158,7 +152,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x060008CE RID: 2254 RVA: 0x00003A55 File Offset: 0x00001C55
 		[global::Cpp2ILInjected.Token(Token = "0x6000A03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D255A8", Offset = "0x1D255A8", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -173,7 +166,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x060008CF RID: 2255 RVA: 0x00003A58 File Offset: 0x00001C58
 		[global::Cpp2ILInjected.Token(Token = "0x6000A04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D255F4", Offset = "0x1D255F4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -183,15 +175,12 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x040002DE RID: 734
 		[global::Cpp2ILInjected.Token(Token = "0x40003F2")]
 		private const string BinaryTypeName = "System.Data.Linq.Binary";
 
-		// Token: 0x040002DF RID: 735
 		[global::Cpp2ILInjected.Token(Token = "0x40003F3")]
 		private const string BinaryToArrayName = "ToArray";
 
-		// Token: 0x040002E0 RID: 736
 		[global::Cpp2ILInjected.Token(Token = "0x40003F4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ReflectionObject _reflectionObject;

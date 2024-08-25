@@ -1,9 +1,0 @@
-<map id="Terraria.GameContent.Personalities.IShopPersonalityTrait" name="Terraria.GameContent.Personalities.IShopPersonalityTrait">
-<area shape="rect" id="Node000001" title=" " alt="" coords="323,5,572,115"/>
-<area shape="rect" id="Node000002" href="$d0/d46/classTerraria_1_1GameContent_1_1Personalities_1_1AllPersonalitiesModifier.html" title=" " alt="" coords="5,276,284,455"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,125,297,165,247,220,203,278,199,274,243,216,294,161,343,121"/>
-<area shape="rect" id="Node000003" href="$d3/db5/classTerraria_1_1GameContent_1_1Personalities_1_1BiomePreferenceListTrait.html" title=" " alt="" coords="308,163,587,568"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="450,128,450,163,445,163,445,128"/>
-<area shape="rect" id="Node000004" href="$d0/dd1/classTerraria_1_1GameContent_1_1Personalities_1_1NPCPreferenceTrait.html" title=" " alt="" coords="611,291,860,440"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="553,121,601,161,654,224,697,289,693,292,650,227,597,165,550,125"/>
-</map>

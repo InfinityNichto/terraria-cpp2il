@@ -5,11 +5,9 @@ using UnityEngine;
 
 namespace InterfaceMovement
 {
-	// Token: 0x0200000A RID: 10
 	[global::Cpp2ILInjected.Token(Token = "0x200000A")]
 	public class Button : MonoBehaviour
 	{
-		// Token: 0x06000039 RID: 57 RVA: 0x000020F8 File Offset: 0x000002F8
 		[global::Cpp2ILInjected.Token(Token = "0x6000039")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198F2F0", Offset = "0x198F2F0", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,7 +18,6 @@ namespace InterfaceMovement
 			throw null;
 		}
 
-		// Token: 0x0600003A RID: 58 RVA: 0x000020FB File Offset: 0x000002FB
 		[global::Cpp2ILInjected.Token(Token = "0x600003A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198F340", Offset = "0x198F340", Length = "0x148")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +40,6 @@ namespace InterfaceMovement
 			throw null;
 		}
 
-		// Token: 0x0600003B RID: 59 RVA: 0x000020FE File Offset: 0x000002FE
 		[global::Cpp2ILInjected.Token(Token = "0x600003B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198F488", Offset = "0x198F488", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,27 +49,22 @@ namespace InterfaceMovement
 			throw null;
 		}
 
-		// Token: 0x04000022 RID: 34
 		[global::Cpp2ILInjected.Token(Token = "0x4000022")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Renderer cachedRenderer;
 
-		// Token: 0x04000023 RID: 35
 		[global::Cpp2ILInjected.Token(Token = "0x4000023")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public Button up;
 
-		// Token: 0x04000024 RID: 36
 		[global::Cpp2ILInjected.Token(Token = "0x4000024")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public Button down;
 
-		// Token: 0x04000025 RID: 37
 		[global::Cpp2ILInjected.Token(Token = "0x4000025")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		public Button left;
 
-		// Token: 0x04000026 RID: 38
 		[global::Cpp2ILInjected.Token(Token = "0x4000026")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		public Button right;

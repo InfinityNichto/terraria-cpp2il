@@ -9,12 +9,9 @@ using Terraria.Localization;
 
 namespace Terraria
 {
-	// Token: 0x0200031E RID: 798
 	[global::Cpp2ILInjected.Token(Token = "0x200041C")]
 	public class PopupText
 	{
-		// Token: 0x1700051E RID: 1310
-		// (get) Token: 0x06002400 RID: 9216 RVA: 0x0002864F File Offset: 0x0002684F
 		[global::Cpp2ILInjected.Token(Token = "0x17000552")]
 		public bool notActuallyAnItem
 		{
@@ -28,8 +25,6 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x1700051F RID: 1311
-		// (get) Token: 0x06002401 RID: 9217 RVA: 0x00028652 File Offset: 0x00026852
 		[global::Cpp2ILInjected.Token(Token = "0x17000553")]
 		public static float TargetScale
 		{
@@ -46,7 +41,6 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x06002402 RID: 9218 RVA: 0x00028655 File Offset: 0x00026855
 		[global::Cpp2ILInjected.Token(Token = "0x60025F9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C1C60", Offset = "0x10C1C60", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,7 +53,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002403 RID: 9219 RVA: 0x00028658 File Offset: 0x00026858
 		[global::Cpp2ILInjected.Token(Token = "0x60025FA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C1D6C", Offset = "0x10C1D6C", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -69,7 +62,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002404 RID: 9220 RVA: 0x0002865B File Offset: 0x0002685B
 		[global::Cpp2ILInjected.Token(Token = "0x60025FB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C1D94", Offset = "0x10C1D94", Length = "0x218")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -101,7 +93,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002405 RID: 9221 RVA: 0x0002865E File Offset: 0x0002685E
 		[global::Cpp2ILInjected.Token(Token = "0x60025FC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C20C4", Offset = "0x10C20C4", Length = "0x2F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -141,7 +132,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002406 RID: 9222 RVA: 0x00028661 File Offset: 0x00026861
 		[global::Cpp2ILInjected.Token(Token = "0x60025FD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C23B4", Offset = "0x10C23B4", Length = "0x994")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -252,7 +242,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002407 RID: 9223 RVA: 0x00028664 File Offset: 0x00026864
 		[global::Cpp2ILInjected.Token(Token = "0x60025FE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C2D48", Offset = "0x10C2D48", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -281,7 +270,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002408 RID: 9224 RVA: 0x00028667 File Offset: 0x00026867
 		[global::Cpp2ILInjected.Token(Token = "0x60025FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C1FAC", Offset = "0x10C1FAC", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -313,7 +301,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002409 RID: 9225 RVA: 0x0002866A File Offset: 0x0002686A
 		[global::Cpp2ILInjected.Token(Token = "0x6002600")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C3398", Offset = "0x10C3398", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -326,7 +313,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600240A RID: 9226 RVA: 0x0002866D File Offset: 0x0002686D
 		[global::Cpp2ILInjected.Token(Token = "0x6002601")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C2DD4", Offset = "0x10C2DD4", Length = "0x2DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -363,7 +349,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600240B RID: 9227 RVA: 0x00028670 File Offset: 0x00026870
 		[global::Cpp2ILInjected.Token(Token = "0x6002602")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C30B0", Offset = "0x10C30B0", Length = "0x2E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -400,7 +385,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600240C RID: 9228 RVA: 0x00028673 File Offset: 0x00026873
 		[global::Cpp2ILInjected.Token(Token = "0x6002603")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C3458", Offset = "0x10C3458", Length = "0x71C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -453,7 +437,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600240D RID: 9229 RVA: 0x00028676 File Offset: 0x00026876
 		[global::Cpp2ILInjected.Token(Token = "0x6002604")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C3B74", Offset = "0x10C3B74", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -467,7 +450,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600240E RID: 9230 RVA: 0x00028679 File Offset: 0x00026879
 		[global::Cpp2ILInjected.Token(Token = "0x6002605")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C3C48", Offset = "0x10C3C48", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -480,7 +462,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x0600240F RID: 9231 RVA: 0x0002867C File Offset: 0x0002687C
 		[global::Cpp2ILInjected.Token(Token = "0x6002606")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C3D40", Offset = "0x10C3D40", Length = "0x18")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(LocalUser), Member = "SetupState", ReturnType = typeof(void))]
@@ -492,7 +473,6 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x06002410 RID: 9232 RVA: 0x0002867F File Offset: 0x0002687F
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6002607")]
 		[global::Cpp2ILInjected.Address(RVA = "0x10C3D58", Offset = "0x10C3D58", Length = "0x54")]
@@ -503,129 +483,103 @@ namespace Terraria
 			throw null;
 		}
 
-		// Token: 0x04002BE0 RID: 11232
 		[global::Cpp2ILInjected.Token(Token = "0x40032F5")]
 		public static int activeTime;
 
-		// Token: 0x04002BE1 RID: 11233
 		[global::Cpp2ILInjected.Token(Token = "0x40032F6")]
 		public static int numActive;
 
-		// Token: 0x04002BE2 RID: 11234
 		[global::Cpp2ILInjected.Token(Token = "0x40032F7")]
 		public static int sonarText;
 
-		// Token: 0x04002BE3 RID: 11235
 		[global::Cpp2ILInjected.Token(Token = "0x40032F8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public Vector2 position;
 
-		// Token: 0x04002BE4 RID: 11236
 		[global::Cpp2ILInjected.Token(Token = "0x40032F9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public Vector2 velocity;
 
-		// Token: 0x04002BE5 RID: 11237
 		[global::Cpp2ILInjected.Token(Token = "0x40032FA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public float alpha;
 
-		// Token: 0x04002BE6 RID: 11238
 		[global::Cpp2ILInjected.Token(Token = "0x40032FB")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		public int alphaDir;
 
-		// Token: 0x04002BE7 RID: 11239
 		[global::Cpp2ILInjected.Token(Token = "0x40032FC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public string name;
 
-		// Token: 0x04002BE8 RID: 11240
 		[global::Cpp2ILInjected.Token(Token = "0x40032FD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		public long stack;
 
-		// Token: 0x04002BE9 RID: 11241
 		[global::Cpp2ILInjected.Token(Token = "0x40032FE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		public float scale;
 
-		// Token: 0x04002BEA RID: 11242
 		[global::Cpp2ILInjected.Token(Token = "0x40032FF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 		public float rotation;
 
-		// Token: 0x04002BEB RID: 11243
 		[global::Cpp2ILInjected.Token(Token = "0x4003300")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		public Color color;
 
-		// Token: 0x04002BEC RID: 11244
 		[global::Cpp2ILInjected.Token(Token = "0x4003301")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 		public bool active;
 
-		// Token: 0x04002BED RID: 11245
 		[global::Cpp2ILInjected.Token(Token = "0x4003302")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 		public int lifeTime;
 
-		// Token: 0x04002BEE RID: 11246
 		[global::Cpp2ILInjected.Token(Token = "0x4003303")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 		public bool NoStack;
 
-		// Token: 0x04002BEF RID: 11247
 		[global::Cpp2ILInjected.Token(Token = "0x4003304")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4D")]
 		public bool coinText;
 
-		// Token: 0x04002BF0 RID: 11248
 		[global::Cpp2ILInjected.Token(Token = "0x4003305")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 		public long coinValue;
 
-		// Token: 0x04002BF1 RID: 11249
 		[global::Cpp2ILInjected.Token(Token = "0x4003306")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		public bool expert;
 
-		// Token: 0x04002BF2 RID: 11250
 		[global::Cpp2ILInjected.Token(Token = "0x4003307")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x59")]
 		public bool master;
 
-		// Token: 0x04002BF3 RID: 11251
 		[global::Cpp2ILInjected.Token(Token = "0x4003308")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5A")]
 		public bool sonar;
 
-		// Token: 0x04002BF4 RID: 11252
 		[global::Cpp2ILInjected.Token(Token = "0x4003309")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 		public PopupTextContext context;
 
-		// Token: 0x04002BF5 RID: 11253
 		[global::Cpp2ILInjected.Token(Token = "0x400330A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		public int npcNetID;
 
-		// Token: 0x04002BF6 RID: 11254
 		[global::Cpp2ILInjected.Token(Token = "0x400330B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x64")]
 		public bool freeAdvanced;
 
-		// Token: 0x04002BF7 RID: 11255
 		[global::Cpp2ILInjected.Token(Token = "0x400330C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private Vector2 cachedSize;
 
-		// Token: 0x04002BF8 RID: 11256
 		[global::Cpp2ILInjected.Token(Token = "0x400330D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		private string cachedName;
 
-		// Token: 0x04002BF9 RID: 11257
 		[global::Cpp2ILInjected.Token(Token = "0x400330E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		private long cachedStack;

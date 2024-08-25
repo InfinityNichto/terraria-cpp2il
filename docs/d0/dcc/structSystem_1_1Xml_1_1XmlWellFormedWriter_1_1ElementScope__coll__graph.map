@@ -1,9 +1,0 @@
-<map id="System.Xml.XmlWellFormedWriter.ElementScope" name="System.Xml.XmlWellFormedWriter.ElementScope">
-<area shape="rect" id="Node000001" title=" " alt="" coords="22,177,251,356"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,71,34,111,48,152,54,162,49,165,44,154,29,112,21,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="111,5,162,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,71,139,161,134,161,134,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="233,5,312,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,71,263,112,246,155,239,165,235,163,241,152,258,111,266,70"/>
-</map>

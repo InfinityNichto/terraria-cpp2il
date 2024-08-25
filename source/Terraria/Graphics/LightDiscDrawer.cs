@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Terraria.Graphics
 {
-	// Token: 0x020004E5 RID: 1253
 	[global::Cpp2ILInjected.Token(Token = "0x200073D")]
 	public struct LightDiscDrawer
 	{
-		// Token: 0x060036C0 RID: 14016 RVA: 0x0002BC85 File Offset: 0x00029E85
 		[global::Cpp2ILInjected.Token(Token = "0x6003D2A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149DA68", Offset = "0x149DA68", Length = "0x300")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +61,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036C1 RID: 14017 RVA: 0x0002BC88 File Offset: 0x00029E88
 		[global::Cpp2ILInjected.Token(Token = "0x6003D2B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149DD68", Offset = "0x149DD68", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -84,7 +81,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036C2 RID: 14018 RVA: 0x0002BC8B File Offset: 0x00029E8B
 		[global::Cpp2ILInjected.Token(Token = "0x6003D2C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149DE18", Offset = "0x149DE18", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -93,7 +89,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x060036C3 RID: 14019 RVA: 0x0002BC8E File Offset: 0x00029E8E
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003D2D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x149DE20", Offset = "0x149DE20", Length = "0x6C")]
@@ -105,7 +100,6 @@ namespace Terraria.Graphics
 			throw null;
 		}
 
-		// Token: 0x04006736 RID: 26422
 		[global::Cpp2ILInjected.Token(Token = "0x4007C1B")]
 		private static VertexStrip _vertexStrip;
 	}

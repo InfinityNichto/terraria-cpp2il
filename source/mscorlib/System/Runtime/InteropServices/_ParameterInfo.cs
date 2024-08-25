@@ -3,7 +3,6 @@ using Cpp2ILInjected;
 
 namespace System.Runtime.InteropServices
 {
-	// Token: 0x020003AC RID: 940
 	[global::System.CLSCompliant(false)]
 	[Guid("993634C4-E47A-32CC-BE08-85F567DC27D6")]
 	[InterfaceType(ComInterfaceType.InterfaceIsIUnknown)]

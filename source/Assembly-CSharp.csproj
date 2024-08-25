@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DABB}</ProjectGuid>
+    <ProjectGuid>{2AA0DBF3-B16B-40FC-9062-FF973C30709B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Assembly-CSharp</RootNamespace>
@@ -1942,55 +1942,55 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\InControl\InControl.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DABC}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C30709C}</Project>
       <Name>InControl</Name>
     </ProjectReference>
     <ProjectReference Include="..\Ionic.Zip.CF\Ionic.Zip.CF.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DABE}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C30709E}</Project>
       <Name>Ionic.Zip.CF</Name>
     </ProjectReference>
     <ProjectReference Include="..\mscorlib\mscorlib.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC0}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A0}</Project>
       <Name>mscorlib</Name>
     </ProjectReference>
     <ProjectReference Include="..\NaughtyAttributes.Core\NaughtyAttributes.Core.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC1}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A1}</Project>
       <Name>NaughtyAttributes.Core</Name>
     </ProjectReference>
     <ProjectReference Include="..\Newtonsoft.Json\Newtonsoft.Json.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC2}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A2}</Project>
       <Name>Newtonsoft.Json</Name>
     </ProjectReference>
     <ProjectReference Include="..\System.Core\System.Core.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC4}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A4}</Project>
       <Name>System.Core</Name>
     </ProjectReference>
     <ProjectReference Include="..\System.Runtime.Serialization\System.Runtime.Serialization.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC7}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A7}</Project>
       <Name>System.Runtime.Serialization</Name>
     </ProjectReference>
     <ProjectReference Include="..\System\System.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC5}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A5}</Project>
       <Name>System</Name>
     </ProjectReference>
     <ProjectReference Include="..\UnityEngine.AndroidJNIModule\UnityEngine.AndroidJNIModule.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DACA}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070AA}</Project>
       <Name>UnityEngine.AndroidJNIModule</Name>
     </ProjectReference>
     <ProjectReference Include="..\UnityEngine.AnimationModule\UnityEngine.AnimationModule.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DACB}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070AB}</Project>
       <Name>UnityEngine.AnimationModule</Name>
     </ProjectReference>
     <ProjectReference Include="..\UnityEngine.AudioModule\UnityEngine.AudioModule.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DACC}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070AC}</Project>
       <Name>UnityEngine.AudioModule</Name>
     </ProjectReference>
     <ProjectReference Include="..\UnityEngine.CoreModule\UnityEngine.CoreModule.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DACD}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070AD}</Project>
       <Name>UnityEngine.CoreModule</Name>
     </ProjectReference>
     <ProjectReference Include="..\UnityEngine.InputLegacyModule\UnityEngine.InputLegacyModule.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAD1}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070B1}</Project>
       <Name>UnityEngine.InputLegacyModule</Name>
     </ProjectReference>
   </ItemGroup>

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000134 RID: 308
 	[global::Cpp2ILInjected.Token(Token = "0x20001BB")]
 	internal class HttpProtocolUtils
 	{
-		// Token: 0x060009A4 RID: 2468 RVA: 0x00004967 File Offset: 0x00002B67
 		[global::Cpp2ILInjected.Token(Token = "0x6000AB3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F10378", Offset = "0x1F10378", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,7 +17,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009A5 RID: 2469 RVA: 0x0000496A File Offset: 0x00002B6A
 		[global::Cpp2ILInjected.Token(Token = "0x6000AB4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F10380", Offset = "0x1F10380", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -36,7 +33,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x060009A6 RID: 2470 RVA: 0x0000496D File Offset: 0x00002B6D
 		[global::Cpp2ILInjected.Token(Token = "0x6000AB5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F10400", Offset = "0x1F10400", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(HttpWebRequest), Member = "SetDateHeaderHelper", MemberParameters = new object[]

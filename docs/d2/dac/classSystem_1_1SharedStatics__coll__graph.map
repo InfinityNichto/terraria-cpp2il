@@ -1,9 +1,0 @@
-<map id="System.SharedStatics" name="System.SharedStatics">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,395,241,593"/>
-<area shape="rect" id="Node000002" href="$d1/d79/classSystem_1_1SharedStatics.html" title=" " alt="" coords="145,133,381,332"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,333,187,381,182,379,208,331"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="383,209,401,218,408,232,405,242,398,249,394,245,401,239,403,233,397,222,380,214"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="51,5,118,71"/>
-<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="84,71,79,134,73,233,74,276,79,332,89,379,83,380,74,332,68,277,68,233,74,133,79,71"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="116,69,163,119,159,123,112,73"/>
-</map>

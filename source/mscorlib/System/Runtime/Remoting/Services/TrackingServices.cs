@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Remoting.Services
 {
-	// Token: 0x020002B8 RID: 696
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000358")]
 	public class TrackingServices
 	{
-		// Token: 0x06001A66 RID: 6758 RVA: 0x00018F35 File Offset: 0x00017135
 		[global::Cpp2ILInjected.Token(Token = "0x6001C8B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B334A4", Offset = "0x1B334A4", Length = "0x2E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -30,7 +28,6 @@ namespace System.Runtime.Remoting.Services
 			throw null;
 		}
 
-		// Token: 0x06001A67 RID: 6759 RVA: 0x00018F38 File Offset: 0x00017138
 		[global::Cpp2ILInjected.Token(Token = "0x6001C8C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B33784", Offset = "0x1B33784", Length = "0x2E0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -53,7 +50,6 @@ namespace System.Runtime.Remoting.Services
 			throw null;
 		}
 
-		// Token: 0x06001A68 RID: 6760 RVA: 0x00018F3B File Offset: 0x0001713B
 		[global::Cpp2ILInjected.Token(Token = "0x6001C8D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B33A64", Offset = "0x1B33A64", Length = "0x2D4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,7 +68,6 @@ namespace System.Runtime.Remoting.Services
 			throw null;
 		}
 
-		// Token: 0x06001A69 RID: 6761 RVA: 0x00018F3E File Offset: 0x0001713E
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6001C8E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B33D38", Offset = "0x1B33D38", Length = "0x70")]
@@ -84,7 +79,6 @@ namespace System.Runtime.Remoting.Services
 			throw null;
 		}
 
-		// Token: 0x04000B96 RID: 2966
 		[global::Cpp2ILInjected.Token(Token = "0x4000E7A")]
 		private static global::System.Collections.ArrayList _handlers;
 	}

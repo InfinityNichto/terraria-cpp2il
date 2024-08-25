@@ -1,9 +1,0 @@
-<map id="System.Xml.XmlTextReader" name="System.Xml.XmlTextReader">
-<area shape="rect" id="Node000001" title=" " alt="" coords="102,949,362,1631"/>
-<area shape="rect" id="Node000002" href="$d9/d0a/classSystem_1_1Xml_1_1XmlReader.html" title=" " alt="" coords="5,119,227,901"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,915,184,949,179,950,174,916"/>
-<area shape="rect" id="Node000003" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="55,5,177,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,84,119,119,113,119,113,84"/>
-<area shape="rect" id="Node000004" href="$d7/dc1/interfaceSystem_1_1Xml_1_1IXmlNamespaceResolver.html" title=" " alt="" coords="251,453,445,567"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="340,582,285,949,280,949,335,581"/>
-</map>

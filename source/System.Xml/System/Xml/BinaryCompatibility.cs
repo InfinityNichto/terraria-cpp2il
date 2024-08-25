@@ -4,12 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml
 {
-	// Token: 0x02000088 RID: 136
 	[global::Cpp2ILInjected.Token(Token = "0x20000B2")]
 	internal static class BinaryCompatibility
 	{
-		// Token: 0x170001AE RID: 430
-		// (get) Token: 0x06000733 RID: 1843 RVA: 0x00004439 File Offset: 0x00002639
 		[global::Cpp2ILInjected.Token(Token = "0x170001D2")]
 		public static bool TargetsAtLeast_Desktop_V4_5_2
 		{

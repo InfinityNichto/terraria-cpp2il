@@ -10,11 +10,9 @@ using Terraria.GameContent.Bestiary;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x0200056C RID: 1388
 	[global::Cpp2ILInjected.Token(Token = "0x20007FA")]
 	public class TownNPCProfiles
 	{
-		// Token: 0x06003A92 RID: 14994 RVA: 0x0002C759 File Offset: 0x0002A959
 		[global::Cpp2ILInjected.Token(Token = "0x600418A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77F9FC", Offset = "0x77F9FC", Length = "0x60")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIQuickActionButton), Member = "CanInteract", MemberParameters = new object[]
@@ -62,7 +60,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A93 RID: 14995 RVA: 0x0002C75C File Offset: 0x0002A95C
 		[global::Cpp2ILInjected.Token(Token = "0x600418B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77FA5C", Offset = "0x77FA5C", Length = "0x19C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TownNPCProfiles), Member = ".ctor", ReturnType = typeof(void))]
@@ -86,7 +83,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A94 RID: 14996 RVA: 0x0002C75F File Offset: 0x0002A95F
 		[global::Cpp2ILInjected.Token(Token = "0x600418C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77FE90", Offset = "0x77FE90", Length = "0x194")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TownNPCProfiles), Member = ".ctor", ReturnType = typeof(void))]
@@ -109,7 +105,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A95 RID: 14997 RVA: 0x0002C762 File Offset: 0x0002A962
 		[global::Cpp2ILInjected.Token(Token = "0x600418D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x780308", Offset = "0x780308", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +123,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A96 RID: 14998 RVA: 0x0002C765 File Offset: 0x0002A965
 		[global::Cpp2ILInjected.Token(Token = "0x600418E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x780430", Offset = "0x780430", Length = "0xFA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TownNPCProfiles), Member = ".cctor", ReturnType = typeof(void))]
@@ -176,7 +170,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A97 RID: 14999 RVA: 0x0002C768 File Offset: 0x0002A968
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600418F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7815F4", Offset = "0x7815F4", Length = "0x168")]
@@ -193,36 +186,28 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x04006AB5 RID: 27317
 		[global::Cpp2ILInjected.Token(Token = "0x400806D")]
 		private const string DefaultNPCFileFolderPath = "Images/TownNPCs/";
 
-		// Token: 0x04006AB6 RID: 27318
 		[global::Cpp2ILInjected.Token(Token = "0x400806E")]
 		private const string ShimmeredNPCFileFolderPath = "Images/TownNPCs/Shimmered/";
 
-		// Token: 0x04006AB7 RID: 27319
 		[global::Cpp2ILInjected.Token(Token = "0x400806F")]
 		private static readonly int[] CatHeadIDs;
 
-		// Token: 0x04006AB8 RID: 27320
 		[global::Cpp2ILInjected.Token(Token = "0x4008070")]
 		private static readonly int[] DogHeadIDs;
 
-		// Token: 0x04006AB9 RID: 27321
 		[global::Cpp2ILInjected.Token(Token = "0x4008071")]
 		private static readonly int[] BunnyHeadIDs;
 
-		// Token: 0x04006ABA RID: 27322
 		[global::Cpp2ILInjected.Token(Token = "0x4008072")]
 		private static readonly int[] SlimeHeadIDs;
 
-		// Token: 0x04006ABB RID: 27323
 		[global::Cpp2ILInjected.Token(Token = "0x4008073")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Dictionary<int, ITownNPCProfile> _townNPCProfiles;
 
-		// Token: 0x04006ABC RID: 27324
 		[global::Cpp2ILInjected.Token(Token = "0x4008074")]
 		public static TownNPCProfiles Instance;
 	}

@@ -8,11 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Serialization
 {
-	// Token: 0x0200032E RID: 814
 	[global::Cpp2ILInjected.Token(Token = "0x20003D5")]
 	public sealed class SerializationObjectManager
 	{
-		// Token: 0x06001CBE RID: 7358 RVA: 0x00019547 File Offset: 0x00017747
 		[global::Cpp2ILInjected.Token(Token = "0x6001EFA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B51E10", Offset = "0x1B51E10", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.ObjectWriter), Member = ".ctor", MemberParameters = new object[]
@@ -31,7 +29,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CBF RID: 7359 RVA: 0x0001954A File Offset: 0x0001774A
 		[global::Cpp2ILInjected.Token(Token = "0x6001EFB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B51EA4", Offset = "0x1B51EA4", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo), Member = "InitSerialize", MemberParameters = new object[]
@@ -64,7 +61,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CC0 RID: 7360 RVA: 0x0001954D File Offset: 0x0001774D
 		[global::Cpp2ILInjected.Token(Token = "0x6001EFC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B52038", Offset = "0x1B52038", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.ObjectWriter), Member = "Serialize", MemberParameters = new object[]
@@ -81,7 +77,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CC1 RID: 7361 RVA: 0x00019550 File Offset: 0x00017750
 		[global::Cpp2ILInjected.Token(Token = "0x6001EFD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B51FAC", Offset = "0x1B51FAC", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SerializationObjectManager), Member = "RegisterObject", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(void))]
@@ -100,17 +95,14 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x04000C97 RID: 3223
 		[global::Cpp2ILInjected.Token(Token = "0x4000F88")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly global::System.Collections.Generic.Dictionary<object, object> _objectSeenTable;
 
-		// Token: 0x04000C98 RID: 3224
 		[global::Cpp2ILInjected.Token(Token = "0x4000F89")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private readonly StreamingContext _context;
 
-		// Token: 0x04000C99 RID: 3225
 		[global::Cpp2ILInjected.Token(Token = "0x4000F8A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private SerializationEventHandler _onSerializedHandler;

@@ -5,12 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Newtonsoft.Json.Converters
 {
-	// Token: 0x020000D1 RID: 209
 	[global::Cpp2ILInjected.Token(Token = "0x2000118")]
 	internal class XProcessingInstructionWrapper : XObjectWrapper
 	{
-		// Token: 0x170001E3 RID: 483
-		// (get) Token: 0x060009AE RID: 2478 RVA: 0x00003C89 File Offset: 0x00001E89
 		[global::Cpp2ILInjected.Token(Token = "0x17000210")]
 		private XProcessingInstruction ProcessingInstruction
 		{
@@ -28,7 +25,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x060009AF RID: 2479 RVA: 0x00003C8C File Offset: 0x00001E8C
 		[global::Cpp2ILInjected.Token(Token = "0x6000AEB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D2D40C", Offset = "0x1D2D40C", Length = "0x6C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XDocumentWrapper), Member = "CreateProcessingInstruction", MemberParameters = new object[]
@@ -45,8 +41,6 @@ namespace Newtonsoft.Json.Converters
 			throw null;
 		}
 
-		// Token: 0x170001E4 RID: 484
-		// (get) Token: 0x060009B0 RID: 2480 RVA: 0x00003C8F File Offset: 0x00001E8F
 		[global::Cpp2ILInjected.Token(Token = "0x17000211")]
 		public override string LocalName
 		{
@@ -60,9 +54,6 @@ namespace Newtonsoft.Json.Converters
 			}
 		}
 
-		// Token: 0x170001E5 RID: 485
-		// (get) Token: 0x060009B1 RID: 2481 RVA: 0x00003C92 File Offset: 0x00001E92
-		// (set) Token: 0x060009B2 RID: 2482 RVA: 0x00003C95 File Offset: 0x00001E95
 		[global::Cpp2ILInjected.Token(Token = "0x17000212")]
 		public override string Value
 		{

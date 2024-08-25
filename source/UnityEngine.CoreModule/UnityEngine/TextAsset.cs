@@ -9,13 +9,10 @@ using UnityEngine.Bindings;
 
 namespace UnityEngine
 {
-	// Token: 0x0200009A RID: 154
 	[NativeHeader("Runtime/Scripting/TextAsset.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x20000A8")]
 	public class TextAsset : Object
 	{
-		// Token: 0x170000AC RID: 172
-		// (get) Token: 0x060002FD RID: 765
 		[global::Cpp2ILInjected.Token(Token = "0x170000AE")]
 		public extern byte[] bytes
 		{
@@ -34,8 +31,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x170000AD RID: 173
-		// (get) Token: 0x060002FE RID: 766 RVA: 0x00002638 File Offset: 0x00000838
 		[global::Cpp2ILInjected.Token(Token = "0x170000AF")]
 		public string text
 		{
@@ -56,7 +51,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x060002FF RID: 767 RVA: 0x0000263B File Offset: 0x0000083B
 		[global::Cpp2ILInjected.Token(Token = "0x600030D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7BA6C", Offset = "0x1F7BA6C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -66,7 +60,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000300 RID: 768 RVA: 0x0000263E File Offset: 0x0000083E
 		[global::Cpp2ILInjected.Token(Token = "0x600030E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F7B87C", Offset = "0x1F7B87C", Length = "0x1F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,11 +70,9 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0200016E RID: 366
 		[global::Cpp2ILInjected.Token(Token = "0x20000A9")]
 		private static class EncodingUtility
 		{
-			// Token: 0x060006C2 RID: 1730 RVA: 0x00002F92 File Offset: 0x00001192
 			[global::Cpp2ILInjected.Token(Token = "0x600030F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F7BA70", Offset = "0x1F7BA70", Length = "0x31C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,11 +114,9 @@ namespace UnityEngine
 				throw null;
 			}
 
-			// Token: 0x04000660 RID: 1632
 			[global::Cpp2ILInjected.Token(Token = "0x4000366")]
 			internal static readonly KeyValuePair<byte[], Encoding>[] encodingLookup;
 
-			// Token: 0x04000661 RID: 1633
 			[global::Cpp2ILInjected.Token(Token = "0x4000367")]
 			internal static readonly Encoding targetEncoding;
 		}

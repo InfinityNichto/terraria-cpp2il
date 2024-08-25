@@ -9,11 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.Linq
 {
-	// Token: 0x02000006 RID: 6
 	[global::Cpp2ILInjected.Token(Token = "0x2000006")]
 	public abstract class XContainer : XNode
 	{
-		// Token: 0x06000018 RID: 24 RVA: 0x00002095 File Offset: 0x00000295
 		[global::Cpp2ILInjected.Token(Token = "0x6000018")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D69E90", Offset = "0x1D69E90", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -23,7 +21,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000019 RID: 25 RVA: 0x00002098 File Offset: 0x00000298
 		[global::Cpp2ILInjected.Token(Token = "0x6000019")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D69E98", Offset = "0x1D69E98", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -39,8 +36,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x17000008 RID: 8
-		// (get) Token: 0x0600001A RID: 26 RVA: 0x0000209B File Offset: 0x0000029B
 		[global::Cpp2ILInjected.Token(Token = "0x17000008")]
 		public XNode LastNode
 		{
@@ -57,7 +52,6 @@ namespace System.Xml.Linq
 			}
 		}
 
-		// Token: 0x0600001B RID: 27 RVA: 0x0000209E File Offset: 0x0000029E
 		[global::Cpp2ILInjected.Token(Token = "0x600001B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6A1B0", Offset = "0x1D6A1B0", Length = "0x4CC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -79,7 +73,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600001C RID: 28 RVA: 0x000020A1 File Offset: 0x000002A1
 		[global::Cpp2ILInjected.Token(Token = "0x600001C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6AEE0", Offset = "0x1D6AEE0", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Newtonsoft.Json.Converters.XContainerWrapper", Member = "get_ChildNodes", ReturnType = "System.Collections.Generic.List`1<IXmlNode>")]
@@ -92,7 +85,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600001D RID: 29 RVA: 0x000020A4 File Offset: 0x000002A4
 		[global::Cpp2ILInjected.Token(Token = "0x600001D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6AF84", Offset = "0x1D6AF84", Length = "0x28C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -117,7 +109,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600001E RID: 30 RVA: 0x000020A7 File Offset: 0x000002A7
 		[global::Cpp2ILInjected.Token(Token = "0x600001E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B348", Offset = "0x1D6B348", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -126,7 +117,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600001F RID: 31 RVA: 0x000020AA File Offset: 0x000002AA
 		[global::Cpp2ILInjected.Token(Token = "0x600001F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B34C", Offset = "0x1D6B34C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -135,7 +125,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000020 RID: 32 RVA: 0x000020AD File Offset: 0x000002AD
 		[global::Cpp2ILInjected.Token(Token = "0x6000020")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6A6EC", Offset = "0x1D6A6EC", Length = "0x4A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -154,7 +143,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000021 RID: 33 RVA: 0x000020B0 File Offset: 0x000002B0
 		[global::Cpp2ILInjected.Token(Token = "0x6000021")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6AB94", Offset = "0x1D6AB94", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -167,7 +155,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000022 RID: 34 RVA: 0x000020B3 File Offset: 0x000002B3
 		[global::Cpp2ILInjected.Token(Token = "0x6000022")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B350", Offset = "0x1D6B350", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +167,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000023 RID: 35 RVA: 0x000020B6 File Offset: 0x000002B6
 		[global::Cpp2ILInjected.Token(Token = "0x6000023")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6AC1C", Offset = "0x1D6AC1C", Length = "0x244")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -213,7 +199,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000024 RID: 36 RVA: 0x000020B9 File Offset: 0x000002B9
 		[global::Cpp2ILInjected.Token(Token = "0x6000024")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B3D8", Offset = "0x1D6B3D8", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -232,7 +217,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000025 RID: 37 RVA: 0x000020BC File Offset: 0x000002BC
 		[global::Cpp2ILInjected.Token(Token = "0x6000025")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B51C", Offset = "0x1D6B51C", Length = "0x10C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(XContainer), Member = "AddNode", MemberParameters = new object[] { typeof(XNode) }, ReturnType = typeof(void))]
@@ -256,7 +240,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000026 RID: 38 RVA: 0x000020BF File Offset: 0x000002BF
 		[global::Cpp2ILInjected.Token(Token = "0x6000026")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D69FC4", Offset = "0x1D69FC4", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -271,7 +254,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000027 RID: 39 RVA: 0x000020C2 File Offset: 0x000002C2
 		[global::Cpp2ILInjected.Token(Token = "0x6000027")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B718", Offset = "0x1D6B718", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -283,7 +265,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000028 RID: 40 RVA: 0x000020C5 File Offset: 0x000002C5
 		[global::Cpp2ILInjected.Token(Token = "0x6000028")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B2A4", Offset = "0x1D6B2A4", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -300,7 +281,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x06000029 RID: 41 RVA: 0x000020C8 File Offset: 0x000002C8
 		[global::Cpp2ILInjected.Token(Token = "0x6000029")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D689E4", Offset = "0x1D689E4", Length = "0x3F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -330,7 +310,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600002A RID: 42 RVA: 0x000020CB File Offset: 0x000002CB
 		[global::Cpp2ILInjected.Token(Token = "0x600002A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B7F4", Offset = "0x1D6B7F4", Length = "0x1A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -353,7 +332,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600002B RID: 43 RVA: 0x000020CE File Offset: 0x000002CE
 		[global::Cpp2ILInjected.Token(Token = "0x600002B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B210", Offset = "0x1D6B210", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -364,7 +342,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600002C RID: 44 RVA: 0x000020D1 File Offset: 0x000002D1
 		[global::Cpp2ILInjected.Token(Token = "0x600002C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B99C", Offset = "0x1D6B99C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -373,7 +350,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600002D RID: 45 RVA: 0x000020D4 File Offset: 0x000002D4
 		[global::Cpp2ILInjected.Token(Token = "0x600002D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B9A0", Offset = "0x1D6B9A0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -382,7 +358,6 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x0600002E RID: 46 RVA: 0x000020D7 File Offset: 0x000002D7
 		[global::Cpp2ILInjected.Token(Token = "0x600002E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1D6B9A4", Offset = "0x1D6B9A4", Length = "0x134")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -395,17 +370,14 @@ namespace System.Xml.Linq
 			throw null;
 		}
 
-		// Token: 0x04000005 RID: 5
 		[global::Cpp2ILInjected.Token(Token = "0x4000005")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		internal object content;
 
-		// Token: 0x02000027 RID: 39
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000007")]
 		private sealed class <Nodes>d__18 : IEnumerable<XNode>, IEnumerable, IEnumerator<XNode>, IDisposable, IEnumerator
 		{
-			// Token: 0x060000C6 RID: 198 RVA: 0x00002296 File Offset: 0x00000496
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x600002F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D6AF50", Offset = "0x1D6AF50", Length = "0x34")]
@@ -417,7 +389,6 @@ namespace System.Xml.Linq
 				throw null;
 			}
 
-			// Token: 0x060000C7 RID: 199 RVA: 0x00002299 File Offset: 0x00000499
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x6000030")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D6BAD8", Offset = "0x1D6BAD8", Length = "0x4")]
@@ -427,7 +398,6 @@ namespace System.Xml.Linq
 				throw null;
 			}
 
-			// Token: 0x060000C8 RID: 200 RVA: 0x0000229C File Offset: 0x0000049C
 			[global::Cpp2ILInjected.Token(Token = "0x6000031")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D6BADC", Offset = "0x1D6BADC", Length = "0x80")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -438,8 +408,6 @@ namespace System.Xml.Linq
 				throw null;
 			}
 
-			// Token: 0x17000026 RID: 38
-			// (get) Token: 0x060000C9 RID: 201 RVA: 0x0000229F File Offset: 0x0000049F
 			[global::Cpp2ILInjected.Token(Token = "0x17000009")]
 			private XNode System.Collections.Generic.IEnumerator<System.Xml.Linq.XNode>.Current
 			{
@@ -453,7 +421,6 @@ namespace System.Xml.Linq
 				}
 			}
 
-			// Token: 0x060000CA RID: 202 RVA: 0x000022A2 File Offset: 0x000004A2
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x6000033")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D6BB64", Offset = "0x1D6BB64", Length = "0x38")]
@@ -465,8 +432,6 @@ namespace System.Xml.Linq
 				throw null;
 			}
 
-			// Token: 0x17000027 RID: 39
-			// (get) Token: 0x060000CB RID: 203 RVA: 0x000022A5 File Offset: 0x000004A5
 			[global::Cpp2ILInjected.Token(Token = "0x1700000A")]
 			private object System.Collections.IEnumerator.Current
 			{
@@ -480,7 +445,6 @@ namespace System.Xml.Linq
 				}
 			}
 
-			// Token: 0x060000CC RID: 204 RVA: 0x000022A8 File Offset: 0x000004A8
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x6000035")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D6BBA4", Offset = "0x1D6BBA4", Length = "0x9C")]
@@ -495,7 +459,6 @@ namespace System.Xml.Linq
 				throw null;
 			}
 
-			// Token: 0x060000CD RID: 205 RVA: 0x000022AB File Offset: 0x000004AB
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x6000036")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1D6BC40", Offset = "0x1D6BC40", Length = "0x4")]
@@ -506,27 +469,22 @@ namespace System.Xml.Linq
 				throw null;
 			}
 
-			// Token: 0x0400004B RID: 75
 			[global::Cpp2ILInjected.Token(Token = "0x4000006")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private int <>1__state;
 
-			// Token: 0x0400004C RID: 76
 			[global::Cpp2ILInjected.Token(Token = "0x4000007")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private XNode <>2__current;
 
-			// Token: 0x0400004D RID: 77
 			[global::Cpp2ILInjected.Token(Token = "0x4000008")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private int <>l__initialThreadId;
 
-			// Token: 0x0400004E RID: 78
 			[global::Cpp2ILInjected.Token(Token = "0x4000009")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			public XContainer <>4__this;
 
-			// Token: 0x0400004F RID: 79
 			[global::Cpp2ILInjected.Token(Token = "0x400000A")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 			private XNode <n>5__2;

@@ -7,11 +7,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.WorldBuilding
 {
-	// Token: 0x0200036A RID: 874
 	[global::Cpp2ILInjected.Token(Token = "0x20004E9")]
 	public class TileFont
 	{
-		// Token: 0x06002C6E RID: 11374 RVA: 0x00029F6F File Offset: 0x0002816F
 		[global::Cpp2ILInjected.Token(Token = "0x600307A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FC80C", Offset = "0x12FC80C", Length = "0x144")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,7 +48,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C6F RID: 11375 RVA: 0x00029F72 File Offset: 0x00028172
 		[global::Cpp2ILInjected.Token(Token = "0x600307B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FC950", Offset = "0x12FC950", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -80,7 +77,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C70 RID: 11376 RVA: 0x00029F75 File Offset: 0x00028175
 		[global::Cpp2ILInjected.Token(Token = "0x600307C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FCB38", Offset = "0x12FCB38", Length = "0x1C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +119,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C71 RID: 11377 RVA: 0x00029F78 File Offset: 0x00028178
 		[global::Cpp2ILInjected.Token(Token = "0x600307D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FCD00", Offset = "0x12FCD00", Length = "0x1A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -159,7 +154,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C72 RID: 11378 RVA: 0x00029F7B File Offset: 0x0002817B
 		[global::Cpp2ILInjected.Token(Token = "0x600307E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FCEA8", Offset = "0x12FCEA8", Length = "0x1A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -195,7 +189,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C73 RID: 11379 RVA: 0x00029F7E File Offset: 0x0002817E
 		[global::Cpp2ILInjected.Token(Token = "0x600307F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FD050", Offset = "0x12FD050", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -205,7 +198,6 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x06002C74 RID: 11380 RVA: 0x00029F81 File Offset: 0x00028181
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6003080")]
 		[global::Cpp2ILInjected.Address(RVA = "0x12FD058", Offset = "0x12FD058", Length = "0x118C")]
@@ -227,15 +219,12 @@ namespace Terraria.WorldBuilding
 			throw null;
 		}
 
-		// Token: 0x04003174 RID: 12660
 		[global::Cpp2ILInjected.Token(Token = "0x4003A8F")]
 		private static readonly Dictionary<char, byte[]> MicroFont;
 
-		// Token: 0x020008D1 RID: 2257
 		[global::Cpp2ILInjected.Token(Token = "0x20004EA")]
 		public struct DrawMode
 		{
-			// Token: 0x06004BBB RID: 19387 RVA: 0x0002F6C6 File Offset: 0x0002D8C6
 			[global::Cpp2ILInjected.Token(Token = "0x6003081")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12FE1E4", Offset = "0x12FE1E4", Length = "0x10")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -245,7 +234,6 @@ namespace Terraria.WorldBuilding
 				throw null;
 			}
 
-			// Token: 0x06004BBC RID: 19388 RVA: 0x0002F6C9 File Offset: 0x0002D8C9
 			[global::Cpp2ILInjected.Token(Token = "0x6003082")]
 			[global::Cpp2ILInjected.Address(RVA = "0x12FE1F4", Offset = "0x12FE1F4", Length = "0x14")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -255,17 +243,14 @@ namespace Terraria.WorldBuilding
 				throw null;
 			}
 
-			// Token: 0x040080C2 RID: 32962
 			[global::Cpp2ILInjected.Token(Token = "0x4003A90")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public readonly ushort ForegroundTile;
 
-			// Token: 0x040080C3 RID: 32963
 			[global::Cpp2ILInjected.Token(Token = "0x4003A91")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x2")]
 			public readonly ushort BackgroundTile;
 
-			// Token: 0x040080C4 RID: 32964
 			[global::Cpp2ILInjected.Token(Token = "0x4003A92")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 			public readonly bool HasBackground;

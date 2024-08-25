@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-// Token: 0x020000BF RID: 191
 [global::Cpp2ILInjected.Token(Token = "0x2000113")]
 public static class GUIProgressBar
 {
-	// Token: 0x060005FD RID: 1533 RVA: 0x00022D3C File Offset: 0x00020F3C
 	[global::Cpp2ILInjected.Token(Token = "0x60006E7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF68060", Offset = "0xF68060", Length = "0x314")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -89,7 +87,6 @@ public static class GUIProgressBar
 		throw null;
 	}
 
-	// Token: 0x060005FE RID: 1534 RVA: 0x00022D3F File Offset: 0x00020F3F
 	[global::Cpp2ILInjected.Token(Token = "0x60006E8")]
 	[global::Cpp2ILInjected.Address(RVA = "0xF68374", Offset = "0xF68374", Length = "0x2AC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -4,11 +4,9 @@ using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 using UnityEngine;
 
-// Token: 0x02000039 RID: 57
 [global::Cpp2ILInjected.Token(Token = "0x200005D")]
 public static class SimpleProfiler
 {
-	// Token: 0x06000162 RID: 354 RVA: 0x00021F9E File Offset: 0x0002019E
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001F1")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A304", Offset = "0x70A304", Length = "0x138")]
@@ -22,7 +20,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x06000163 RID: 355 RVA: 0x00021FA1 File Offset: 0x000201A1
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001F2")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A4C8", Offset = "0x70A4C8", Length = "0x94")]
@@ -35,7 +32,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x06000164 RID: 356 RVA: 0x00021FA4 File Offset: 0x000201A4
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001F3")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A564", Offset = "0x70A564", Length = "0x130")]
@@ -54,7 +50,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x06000165 RID: 357 RVA: 0x00021FA7 File Offset: 0x000201A7
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001F4")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A6C8", Offset = "0x70A6C8", Length = "0x74")]
@@ -66,7 +61,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x06000166 RID: 358 RVA: 0x00021FAA File Offset: 0x000201AA
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001F5")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A73C", Offset = "0x70A73C", Length = "0x4")]
@@ -76,7 +70,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x06000167 RID: 359 RVA: 0x00021FAD File Offset: 0x000201AD
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001F6")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A740", Offset = "0x70A740", Length = "0xA4")]
@@ -88,7 +81,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x06000168 RID: 360 RVA: 0x00021FB0 File Offset: 0x000201B0
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001F7")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A7E4", Offset = "0x70A7E4", Length = "0xDC")]
@@ -106,7 +98,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x06000169 RID: 361 RVA: 0x00021FB3 File Offset: 0x000201B3
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001F8")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A8C0", Offset = "0x70A8C0", Length = "0x4")]
@@ -116,7 +107,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x0600016A RID: 362 RVA: 0x00021FB6 File Offset: 0x000201B6
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001F9")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70A8C4", Offset = "0x70A8C4", Length = "0x310")]
@@ -140,7 +130,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x0600016B RID: 363 RVA: 0x00021FB9 File Offset: 0x000201B9
 	[Conditional("UNITYPROFILING")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001FA")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70ABD4", Offset = "0x70ABD4", Length = "0x4")]
@@ -150,7 +139,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x0600016C RID: 364 RVA: 0x00021FBC File Offset: 0x000201BC
 	[Conditional("UNITYPROFILING")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001FB")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70ABD8", Offset = "0x70ABD8", Length = "0x4")]
@@ -160,7 +148,6 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x0600016D RID: 365 RVA: 0x00021FBF File Offset: 0x000201BF
 	[Conditional("SIMPLEPROFILER")]
 	[global::Cpp2ILInjected.Token(Token = "0x60001FC")]
 	[global::Cpp2ILInjected.Address(RVA = "0x70ABDC", Offset = "0x70ABDC", Length = "0x45C")]
@@ -205,43 +192,33 @@ public static class SimpleProfiler
 		throw null;
 	}
 
-	// Token: 0x040000F1 RID: 241
 	[global::Cpp2ILInjected.Token(Token = "0x40001E4")]
 	public static bool DisplayStats;
 
-	// Token: 0x040000F2 RID: 242
 	[global::Cpp2ILInjected.Token(Token = "0x40001E5")]
 	private static int NextFrame;
 
-	// Token: 0x040000F3 RID: 243
 	[global::Cpp2ILInjected.Token(Token = "0x40001E6")]
 	private static string[] FrameSampleTypes;
 
-	// Token: 0x040000F4 RID: 244
 	[global::Cpp2ILInjected.Token(Token = "0x40001E7")]
 	private static SimpleProfilerFrameData[] FrameData;
 
-	// Token: 0x040000F5 RID: 245
 	[global::Cpp2ILInjected.Token(Token = "0x40001E8")]
 	private static SimpleProfilerFrameData CurrentFrameData;
 
-	// Token: 0x040000F6 RID: 246
 	[global::Cpp2ILInjected.Token(Token = "0x40001E9")]
 	private static SimpleProfilerFrameData LastFrameData;
 
-	// Token: 0x040000F7 RID: 247
 	[global::Cpp2ILInjected.Token(Token = "0x40001EA")]
 	private static DateTime FrameTimeStart;
 
-	// Token: 0x040000F8 RID: 248
 	[global::Cpp2ILInjected.Token(Token = "0x40001EB")]
 	private static DateTime FrameTimeEnd;
 
-	// Token: 0x040000F9 RID: 249
 	[global::Cpp2ILInjected.Token(Token = "0x40001EC")]
 	private static SimpleProfilerSampleFrame AvailableFrames;
 
-	// Token: 0x040000FA RID: 250
 	[global::Cpp2ILInjected.Token(Token = "0x40001ED")]
 	private static SimpleProfilerSampleFrame CurrentFrames;
 }

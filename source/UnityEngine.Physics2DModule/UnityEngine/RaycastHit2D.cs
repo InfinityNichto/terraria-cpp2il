@@ -6,15 +6,12 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000003 RID: 3
 	[RequiredByNativeCode(Optional = true, GenerateProxy = true)]
 	[NativeClass("RaycastHit2D", "struct RaycastHit2D;")]
 	[NativeHeader("Runtime/Interfaces/IPhysics2D.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000003")]
 	public struct RaycastHit2D
 	{
-		// Token: 0x17000001 RID: 1
-		// (get) Token: 0x06000002 RID: 2 RVA: 0x00002053 File Offset: 0x00000253
 		[global::Cpp2ILInjected.Token(Token = "0x17000001")]
 		public Vector2 point
 		{
@@ -28,8 +25,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000002 RID: 2
-		// (get) Token: 0x06000003 RID: 3 RVA: 0x00002056 File Offset: 0x00000256
 		[global::Cpp2ILInjected.Token(Token = "0x17000002")]
 		public Vector2 normal
 		{
@@ -43,8 +38,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000003 RID: 3
-		// (get) Token: 0x06000004 RID: 4 RVA: 0x00002059 File Offset: 0x00000259
 		[global::Cpp2ILInjected.Token(Token = "0x17000003")]
 		public float distance
 		{
@@ -58,8 +51,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000004 RID: 4
-		// (get) Token: 0x06000005 RID: 5 RVA: 0x0000205C File Offset: 0x0000025C
 		[global::Cpp2ILInjected.Token(Token = "0x17000004")]
 		public Collider2D collider
 		{
@@ -76,37 +67,31 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x04000002 RID: 2
 		[NativeName("centroid")]
 		[global::Cpp2ILInjected.Token(Token = "0x4000002")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private Vector2 m_Centroid;
 
-		// Token: 0x04000003 RID: 3
 		[NativeName("point")]
 		[global::Cpp2ILInjected.Token(Token = "0x4000003")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private Vector2 m_Point;
 
-		// Token: 0x04000004 RID: 4
 		[NativeName("normal")]
 		[global::Cpp2ILInjected.Token(Token = "0x4000004")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private Vector2 m_Normal;
 
-		// Token: 0x04000005 RID: 5
 		[NativeName("distance")]
 		[global::Cpp2ILInjected.Token(Token = "0x4000005")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private float m_Distance;
 
-		// Token: 0x04000006 RID: 6
 		[NativeName("fraction")]
 		[global::Cpp2ILInjected.Token(Token = "0x4000006")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		private float m_Fraction;
 
-		// Token: 0x04000007 RID: 7
 		[NativeName("collider")]
 		[global::Cpp2ILInjected.Token(Token = "0x4000007")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]

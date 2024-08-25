@@ -5,11 +5,9 @@ using Mono.Security.Cryptography;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x0200027D RID: 637
 	[global::Cpp2ILInjected.Token(Token = "0x200031A")]
 	internal class TripleDESTransform : Mono.Security.Cryptography.SymmetricTransform
 	{
-		// Token: 0x060018D5 RID: 6357 RVA: 0x00018AF7 File Offset: 0x00016CF7
 		[global::Cpp2ILInjected.Token(Token = "0x6001AEF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1C610", Offset = "0x1B1C610", Length = "0x310")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +54,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060018D6 RID: 6358 RVA: 0x00018AFA File Offset: 0x00016CFA
 		[global::Cpp2ILInjected.Token(Token = "0x6001AF0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1C9C8", Offset = "0x1B1C9C8", Length = "0x124")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -78,7 +75,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060018D7 RID: 6359 RVA: 0x00018AFD File Offset: 0x00016CFD
 		[global::Cpp2ILInjected.Token(Token = "0x6001AF1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B1C920", Offset = "0x1B1C920", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TripleDESTransform), Member = ".ctor", MemberParameters = new object[]
@@ -97,32 +93,26 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x04000ADB RID: 2779
 		[global::Cpp2ILInjected.Token(Token = "0x4000DB5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 		private DESTransform E1;
 
-		// Token: 0x04000ADC RID: 2780
 		[global::Cpp2ILInjected.Token(Token = "0x4000DB6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 		private DESTransform D2;
 
-		// Token: 0x04000ADD RID: 2781
 		[global::Cpp2ILInjected.Token(Token = "0x4000DB7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x68")]
 		private DESTransform E3;
 
-		// Token: 0x04000ADE RID: 2782
 		[global::Cpp2ILInjected.Token(Token = "0x4000DB8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x70")]
 		private DESTransform D1;
 
-		// Token: 0x04000ADF RID: 2783
 		[global::Cpp2ILInjected.Token(Token = "0x4000DB9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x78")]
 		private DESTransform E2;
 
-		// Token: 0x04000AE0 RID: 2784
 		[global::Cpp2ILInjected.Token(Token = "0x4000DBA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 		private DESTransform D3;

@@ -10,11 +10,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000187 RID: 391
 	[global::Cpp2ILInjected.Token(Token = "0x2000230")]
 	internal class BufferedReadStream : WebReadStream
 	{
-		// Token: 0x06000CAE RID: 3246 RVA: 0x00005252 File Offset: 0x00003452
 		[global::Cpp2ILInjected.Token(Token = "0x6000E15")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3EECC", Offset = "0x1F3EECC", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.WebResponseStream.<ReadAllAsync>d__48", Member = "MoveNext", ReturnType = typeof(void))]
@@ -30,7 +28,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CAF RID: 3247 RVA: 0x00005255 File Offset: 0x00003455
 		[global::Cpp2ILInjected.Token(Token = "0x6000E16")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3EEF4", Offset = "0x1F3EEF4", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -44,7 +41,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CB0 RID: 3248 RVA: 0x00005258 File Offset: 0x00003458
 		[global::Cpp2ILInjected.Token(Token = "0x6000E17")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3F01C", Offset = "0x1F3F01C", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -69,18 +65,15 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0400091A RID: 2330
 		[global::Cpp2ILInjected.Token(Token = "0x4000BB2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 		private readonly BufferOffsetSize readBuffer;
 
-		// Token: 0x0200040D RID: 1037
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000231")]
 		[StructLayout(3)]
 		private struct <ProcessReadAsync>d__2 : IAsyncStateMachine
 		{
-			// Token: 0x06001E06 RID: 7686 RVA: 0x000082E5 File Offset: 0x000064E5
 			[global::Cpp2ILInjected.Token(Token = "0x6000E18")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F3F0A4", Offset = "0x1F3F0A4", Length = "0x290")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -114,7 +107,6 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x06001E07 RID: 7687 RVA: 0x000082E8 File Offset: 0x000064E8
 			[DebuggerHidden]
 			[global::Cpp2ILInjected.Token(Token = "0x6000E19")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1F3F334", Offset = "0x1F3F334", Length = "0x58")]
@@ -126,42 +118,34 @@ namespace System.Net
 				throw null;
 			}
 
-			// Token: 0x04001221 RID: 4641
 			[global::Cpp2ILInjected.Token(Token = "0x4000BB3")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public int <>1__state;
 
-			// Token: 0x04001222 RID: 4642
 			[global::Cpp2ILInjected.Token(Token = "0x4000BB4")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 			public AsyncTaskMethodBuilder<int> <>t__builder;
 
-			// Token: 0x04001223 RID: 4643
 			[global::Cpp2ILInjected.Token(Token = "0x4000BB5")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			public CancellationToken cancellationToken;
 
-			// Token: 0x04001224 RID: 4644
 			[global::Cpp2ILInjected.Token(Token = "0x4000BB6")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			public BufferedReadStream <>4__this;
 
-			// Token: 0x04001225 RID: 4645
 			[global::Cpp2ILInjected.Token(Token = "0x4000BB7")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 			public int size;
 
-			// Token: 0x04001226 RID: 4646
 			[global::Cpp2ILInjected.Token(Token = "0x4000BB8")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 			public byte[] buffer;
 
-			// Token: 0x04001227 RID: 4647
 			[global::Cpp2ILInjected.Token(Token = "0x4000BB9")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 			public int offset;
 
-			// Token: 0x04001228 RID: 4648
 			[global::Cpp2ILInjected.Token(Token = "0x4000BBA")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 			private ConfiguredTaskAwaitable<int>.ConfiguredTaskAwaiter <>u__1;

@@ -1,9 +1,0 @@
-<map id="UnityEngine.AddComponentMenu" name="UnityEngine.AddComponentMenu">
-<area shape="rect" id="Node000001" title=" " alt="" coords="271,1389,505,1504"/>
-<area shape="rect" id="Node000002" href="$d1/d05/classSystem_1_1Attribute.html" title=" " alt="" coords="5,5,339,1327"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,1298,353,1326,372,1388,367,1390,348,1327,340,1299"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="363,633,413,699"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="391,699,391,1373,385,1373,385,699"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="569,633,599,699"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="596,698,622,816,634,898,641,990,640,1087,628,1185,616,1233,601,1280,581,1324,557,1367,540,1387,520,1403,517,1399,537,1383,552,1364,577,1322,596,1278,611,1231,623,1184,635,1086,636,990,629,899,617,817,591,699"/>
-</map>

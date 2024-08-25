@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d9/da0/classSystem_1_1Text_1_1RegularExpressions_1_1Capture.html" title=" " alt="" coords="5,5,244,45"/>
-<area shape="rect" id="Node000001" href="$df/d3e/classSystem_1_1Text_1_1RegularExpressions_1_1Group.html" title=" " alt="" coords="292,5,531,45"/>
-<area shape="poly" id="edge3702_Node000000_Node000001" title=" " alt="" coords="258,23,292,23,292,28,258,28"/>
-<area shape="rect" id="Node000002" href="$db/d2a/classSystem_1_1Text_1_1RegularExpressions_1_1Match.html" title=" " alt="" coords="579,5,817,45"/>
-<area shape="poly" id="edge3703_Node000001_Node000002" title=" " alt="" coords="545,23,578,23,578,28,545,28"/>
-<area shape="rect" id="Node000003" href="$d3/d48/classSystem_1_1Text_1_1RegularExpressions_1_1MatchSparse.html" title=" " alt="" coords="865,5,1104,45"/>
-<area shape="poly" id="edge3704_Node000002_Node000003" title=" " alt="" coords="831,23,865,23,865,28,831,28"/>
-</map>

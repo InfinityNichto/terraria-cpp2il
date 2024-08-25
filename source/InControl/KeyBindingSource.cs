@@ -6,13 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl
 {
-	// Token: 0x0200000A RID: 10
 	[global::Cpp2ILInjected.Token(Token = "0x200000A")]
 	public class KeyBindingSource : BindingSource
 	{
-		// Token: 0x1700000F RID: 15
-		// (get) Token: 0x06000031 RID: 49 RVA: 0x000020FC File Offset: 0x000002FC
-		// (set) Token: 0x06000032 RID: 50 RVA: 0x000020FF File Offset: 0x000002FF
 		[global::Cpp2ILInjected.Token(Token = "0x1700000F")]
 		public KeyCombo Control
 		{
@@ -35,7 +31,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x06000033 RID: 51 RVA: 0x00002102 File Offset: 0x00000302
 		[global::Cpp2ILInjected.Token(Token = "0x6000033")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197A6B0", Offset = "0x197A6B0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -45,7 +40,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000034 RID: 52 RVA: 0x00002105 File Offset: 0x00000305
 		[global::Cpp2ILInjected.Token(Token = "0x6000034")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197A6B8", Offset = "0x197A6B8", Length = "0x30")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -55,7 +49,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000035 RID: 53 RVA: 0x00002108 File Offset: 0x00000308
 		[global::Cpp2ILInjected.Token(Token = "0x6000035")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197A6E8", Offset = "0x197A6E8", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,7 +65,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000036 RID: 54 RVA: 0x0000210B File Offset: 0x0000030B
 		[global::Cpp2ILInjected.Token(Token = "0x6000036")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197A7D8", Offset = "0x197A7D8", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -82,7 +74,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000037 RID: 55 RVA: 0x0000210E File Offset: 0x0000030E
 		[global::Cpp2ILInjected.Token(Token = "0x6000037")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197A800", Offset = "0x197A800", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -93,8 +84,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x17000010 RID: 16
-		// (get) Token: 0x06000038 RID: 56 RVA: 0x00002111 File Offset: 0x00000311
 		[global::Cpp2ILInjected.Token(Token = "0x17000010")]
 		public override string Name
 		{
@@ -109,8 +98,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000011 RID: 17
-		// (get) Token: 0x06000039 RID: 57 RVA: 0x00002114 File Offset: 0x00000314
 		[global::Cpp2ILInjected.Token(Token = "0x17000011")]
 		public override string DeviceName
 		{
@@ -124,8 +111,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000012 RID: 18
-		// (get) Token: 0x0600003A RID: 58 RVA: 0x00002117 File Offset: 0x00000317
 		[global::Cpp2ILInjected.Token(Token = "0x17000012")]
 		public override InputDeviceClass DeviceClass
 		{
@@ -138,8 +123,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000013 RID: 19
-		// (get) Token: 0x0600003B RID: 59 RVA: 0x0000211A File Offset: 0x0000031A
 		[global::Cpp2ILInjected.Token(Token = "0x17000013")]
 		public override InputDeviceStyle DeviceStyle
 		{
@@ -152,7 +135,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x0600003C RID: 60 RVA: 0x0000211D File Offset: 0x0000031D
 		[global::Cpp2ILInjected.Token(Token = "0x600003C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197AB70", Offset = "0x197AB70", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -163,7 +145,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600003D RID: 61 RVA: 0x00002120 File Offset: 0x00000320
 		[global::Cpp2ILInjected.Token(Token = "0x600003D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197AC68", Offset = "0x197AC68", Length = "0xCC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -174,7 +155,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0600003E RID: 62 RVA: 0x00002123 File Offset: 0x00000323
 		[global::Cpp2ILInjected.Token(Token = "0x600003E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197AD34", Offset = "0x197AD34", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -185,8 +165,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x17000014 RID: 20
-		// (get) Token: 0x0600003F RID: 63 RVA: 0x00002126 File Offset: 0x00000326
 		[global::Cpp2ILInjected.Token(Token = "0x17000014")]
 		public override BindingSourceType BindingSourceType
 		{
@@ -199,7 +177,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x06000040 RID: 64 RVA: 0x00002129 File Offset: 0x00000329
 		[global::Cpp2ILInjected.Token(Token = "0x6000040")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197ADE0", Offset = "0x197ADE0", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -214,7 +191,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000041 RID: 65 RVA: 0x0000212C File Offset: 0x0000032C
 		[global::Cpp2ILInjected.Token(Token = "0x6000041")]
 		[global::Cpp2ILInjected.Address(RVA = "0x197AF3C", Offset = "0x197AF3C", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -225,7 +201,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x040000A5 RID: 165
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40000A5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]

@@ -5,14 +5,10 @@ using UnityEngine;
 
 namespace InControl
 {
-	// Token: 0x02000020 RID: 32
 	[global::Cpp2ILInjected.Token(Token = "0x2000021")]
 	[Serializable]
 	public struct InputControlSource
 	{
-		// Token: 0x17000060 RID: 96
-		// (get) Token: 0x0600015B RID: 347 RVA: 0x0000245F File Offset: 0x0000065F
-		// (set) Token: 0x0600015C RID: 348 RVA: 0x00002462 File Offset: 0x00000662
 		[global::Cpp2ILInjected.Token(Token = "0x17000060")]
 		public InputControlSourceType SourceType
 		{
@@ -32,9 +28,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x17000061 RID: 97
-		// (get) Token: 0x0600015D RID: 349 RVA: 0x00002465 File Offset: 0x00000665
-		// (set) Token: 0x0600015E RID: 350 RVA: 0x00002468 File Offset: 0x00000668
 		[global::Cpp2ILInjected.Token(Token = "0x17000061")]
 		public int Index
 		{
@@ -54,16 +47,43 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x0600015F RID: 351 RVA: 0x0000246B File Offset: 0x0000066B
 		[global::Cpp2ILInjected.Token(Token = "0x600015F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1986738", Offset = "0x1986738", Length = "0x8")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerHardwareProfileEntry", Member = "RemapToAnalogue", MemberParameters = new object[]
+		{
+			typeof(int),
+			typeof(float),
+			typeof(float)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "GUIControllerHardwareProfileEntry", Member = "RemapToButton", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "Button", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlSource))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "Analog", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlSource))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickLeftMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickRightMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickUpMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickDownMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickUpMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftStickDownMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickLeftMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickRightMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickUpMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickDownMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickUpMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightStickDownMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "LeftTriggerMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "RightTriggerMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadLeftMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadRightMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadUpMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadDownMapping", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadUpMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = "DPadDownMapping2", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(InputControlMapping))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 24)]
 		public InputControlSource(InputControlSourceType sourceType, int index)
 		{
 			throw null;
 		}
 
-		// Token: 0x06000160 RID: 352 RVA: 0x0000246E File Offset: 0x0000066E
 		[global::Cpp2ILInjected.Token(Token = "0x6000160")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1986740", Offset = "0x1986740", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(InputDeviceProfile), Member = ".cctor", ReturnType = typeof(void))]
@@ -73,7 +93,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000161 RID: 353 RVA: 0x00002471 File Offset: 0x00000671
 		[global::Cpp2ILInjected.Token(Token = "0x6000161")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198674C", Offset = "0x198674C", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -97,7 +116,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000162 RID: 354 RVA: 0x00002474 File Offset: 0x00000674
 		[global::Cpp2ILInjected.Token(Token = "0x6000162")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19867D8", Offset = "0x19867D8", Length = "0xF8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +141,6 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x06000163 RID: 355 RVA: 0x00002477 File Offset: 0x00000677
 		[global::Cpp2ILInjected.Token(Token = "0x6000163")]
 		[global::Cpp2ILInjected.Address(RVA = "0x19868D0", Offset = "0x19868D0", Length = "0x1A4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -136,13 +153,11 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x0400013B RID: 315
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400013F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private InputControlSourceType sourceType;
 
-		// Token: 0x0400013C RID: 316
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000140")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]

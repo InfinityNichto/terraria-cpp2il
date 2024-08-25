@@ -5,11 +5,9 @@ using Terraria.Social.Base;
 
 namespace Terraria.Social.Discord
 {
-	// Token: 0x0200038A RID: 906
 	[global::Cpp2ILInjected.Token(Token = "0x2000525")]
 	public class DiscordJoinToServerRequest : UserJoinToServerRequest, IEquatable<DiscordJoinToServerRequest>
 	{
-		// Token: 0x06002D50 RID: 11600 RVA: 0x0002A1FA File Offset: 0x000283FA
 		[global::Cpp2ILInjected.Token(Token = "0x60031A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1329E2C", Offset = "0x1329E2C", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -24,7 +22,6 @@ namespace Terraria.Social.Discord
 			throw null;
 		}
 
-		// Token: 0x06002D51 RID: 11601 RVA: 0x0002A1FD File Offset: 0x000283FD
 		[global::Cpp2ILInjected.Token(Token = "0x60031AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132A2DC", Offset = "0x132A2DC", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +38,6 @@ namespace Terraria.Social.Discord
 			throw null;
 		}
 
-		// Token: 0x06002D52 RID: 11602 RVA: 0x0002A200 File Offset: 0x00028400
 		[global::Cpp2ILInjected.Token(Token = "0x60031AB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132A350", Offset = "0x132A350", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -61,7 +57,6 @@ namespace Terraria.Social.Discord
 			throw null;
 		}
 
-		// Token: 0x06002D53 RID: 11603 RVA: 0x0002A203 File Offset: 0x00028403
 		[global::Cpp2ILInjected.Token(Token = "0x60031AC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x132A42C", Offset = "0x132A42C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -75,7 +70,6 @@ namespace Terraria.Social.Discord
 			throw null;
 		}
 
-		// Token: 0x040031CD RID: 12749
 		[global::Cpp2ILInjected.Token(Token = "0x4003B58")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private DateTime _expirationTime;

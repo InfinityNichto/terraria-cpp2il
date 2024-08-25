@@ -7,12 +7,10 @@ using Mono.Security.Cryptography;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x0200025C RID: 604
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20002F9")]
 	public abstract class SHA1 : HashAlgorithm
 	{
-		// Token: 0x060017B0 RID: 6064 RVA: 0x000187A0 File Offset: 0x000169A0
 		[global::Cpp2ILInjected.Token(Token = "0x60019CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0D4E8", Offset = "0x1B0D4E8", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(SHA1CryptoServiceProvider), Member = ".ctor", ReturnType = typeof(void))]
@@ -23,7 +21,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060017B1 RID: 6065 RVA: 0x000187A3 File Offset: 0x000169A3
 		[global::Cpp2ILInjected.Token(Token = "0x60019CB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0B698", Offset = "0x1B0B698", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Mono.Security.Cryptography.PKCS1), Member = "CreateFromName", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(HashAlgorithm))]
@@ -65,7 +62,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060017B2 RID: 6066 RVA: 0x000187A6 File Offset: 0x000169A6
 		[global::Cpp2ILInjected.Token(Token = "0x60019CC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B0D508", Offset = "0x1B0D508", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

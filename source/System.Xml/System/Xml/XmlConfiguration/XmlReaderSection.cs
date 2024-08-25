@@ -5,13 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Xml.XmlConfiguration
 {
-	// Token: 0x02000096 RID: 150
 	[EditorBrowsable(EditorBrowsableState.Never)]
 	[global::Cpp2ILInjected.Token(Token = "0x20000C0")]
 	public sealed class XmlReaderSection
 	{
-		// Token: 0x170001CA RID: 458
-		// (get) Token: 0x0600076D RID: 1901 RVA: 0x000044AB File Offset: 0x000026AB
 		[global::Cpp2ILInjected.Token(Token = "0x170001EE")]
 		internal static bool ProhibitDefaultUrlResolver
 		{
@@ -43,8 +40,6 @@ namespace System.Xml.XmlConfiguration
 			}
 		}
 
-		// Token: 0x170001CB RID: 459
-		// (get) Token: 0x0600076E RID: 1902 RVA: 0x000044AE File Offset: 0x000026AE
 		[global::Cpp2ILInjected.Token(Token = "0x170001EF")]
 		internal static bool CollapseWhiteSpaceIntoEmptyString
 		{

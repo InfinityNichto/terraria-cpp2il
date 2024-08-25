@@ -1,7 +1,0 @@
-<map id="System.Runtime.Remoting.Channels.SinkProviderData" name="System.Runtime.Remoting.Channels.SinkProviderData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,211,292"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="29,5,80,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,71,54,97,59,123,61,132,56,133,53,125,49,97,49,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="118,5,205,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,72,136,133,131,131,149,70"/>
-</map>

@@ -7,13 +7,10 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria.UI;
 
-// Token: 0x0200000C RID: 12
 [CompilerGenerated]
 [global::Cpp2ILInjected.Token(Token = "0x200000C")]
 internal sealed class <>f__AnonymousType10<<DisplayName>j__TPar, <FullId>j__TPar>
 {
-	// Token: 0x17000013 RID: 19
-	// (get) Token: 0x0600003B RID: 59 RVA: 0x00021C3B File Offset: 0x0001FE3B
 	[global::Cpp2ILInjected.Token(Token = "0x17000013")]
 	public <DisplayName>j__TPar DisplayName
 	{
@@ -27,8 +24,6 @@ internal sealed class <>f__AnonymousType10<<DisplayName>j__TPar, <FullId>j__TPar
 		}
 	}
 
-	// Token: 0x17000014 RID: 20
-	// (get) Token: 0x0600003C RID: 60 RVA: 0x00021C3E File Offset: 0x0001FE3E
 	[global::Cpp2ILInjected.Token(Token = "0x17000014")]
 	public <FullId>j__TPar FullId
 	{
@@ -42,7 +37,6 @@ internal sealed class <>f__AnonymousType10<<DisplayName>j__TPar, <FullId>j__TPar
 		}
 	}
 
-	// Token: 0x0600003D RID: 61 RVA: 0x00021C41 File Offset: 0x0001FE41
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x600003D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B4990", Offset = "0x15B4990", Length = "0x2C")]
@@ -65,7 +59,6 @@ internal sealed class <>f__AnonymousType10<<DisplayName>j__TPar, <FullId>j__TPar
 		throw null;
 	}
 
-	// Token: 0x0600003E RID: 62 RVA: 0x00021C44 File Offset: 0x0001FE44
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x600003E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B49BC", Offset = "0x15B49BC", Length = "0xB4")]
@@ -78,7 +71,6 @@ internal sealed class <>f__AnonymousType10<<DisplayName>j__TPar, <FullId>j__TPar
 		throw null;
 	}
 
-	// Token: 0x0600003F RID: 63 RVA: 0x00021C47 File Offset: 0x0001FE47
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x600003F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B4A70", Offset = "0x15B4A70", Length = "0x88")]
@@ -90,7 +82,6 @@ internal sealed class <>f__AnonymousType10<<DisplayName>j__TPar, <FullId>j__TPar
 		throw null;
 	}
 
-	// Token: 0x06000040 RID: 64 RVA: 0x00021C4A File Offset: 0x0001FE4A
 	[DebuggerHidden]
 	[global::Cpp2ILInjected.Token(Token = "0x6000040")]
 	[global::Cpp2ILInjected.Address(RVA = "0x15B4AF8", Offset = "0x15B4AF8", Length = "0x104")]
@@ -109,13 +100,11 @@ internal sealed class <>f__AnonymousType10<<DisplayName>j__TPar, <FullId>j__TPar
 		throw null;
 	}
 
-	// Token: 0x04000013 RID: 19
 	[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 	[global::Cpp2ILInjected.Token(Token = "0x4000013")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 	private readonly <DisplayName>j__TPar <DisplayName>i__Field;
 
-	// Token: 0x04000014 RID: 20
 	[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 	[global::Cpp2ILInjected.Token(Token = "0x4000014")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]

@@ -1,7 +1,0 @@
-<map id="System.Net.Sockets.SocketAsyncResult" name="System.Net.Sockets.SocketAsyncResult">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,620,292,1347"/>
-<area shape="rect" id="Node000002" href="$d4/dd5/classSystem_1_1IOAsyncResult.html" title=" " alt="" coords="15,193,282,572"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,586,151,620,146,620,146,586"/>
-<area shape="rect" id="Node000003" href="$df/dd5/interfaceSystem_1_1IAsyncResult.html" title=" " alt="" coords="35,5,262,145"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,159,151,193,146,193,146,159"/>
-</map>

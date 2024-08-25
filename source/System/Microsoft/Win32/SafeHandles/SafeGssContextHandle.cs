@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Win32.SafeHandles
 {
-	// Token: 0x0200002E RID: 46
 	[global::Cpp2ILInjected.Token(Token = "0x2000078")]
 	internal sealed class SafeGssContextHandle : SafeHandle
 	{
-		// Token: 0x06000142 RID: 322 RVA: 0x00003191 File Offset: 0x00001391
 		[global::Cpp2ILInjected.Token(Token = "0x60001C8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F4A8", Offset = "0x1E9F4A8", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NegotiateStreamPal), Member = "GssInitSecurityContext", MemberParameters = new object[]
@@ -37,8 +35,6 @@ namespace Microsoft.Win32.SafeHandles
 			throw null;
 		}
 
-		// Token: 0x1700005F RID: 95
-		// (get) Token: 0x06000143 RID: 323 RVA: 0x00003194 File Offset: 0x00001394
 		[global::Cpp2ILInjected.Token(Token = "0x17000061")]
 		public override bool IsInvalid
 		{
@@ -57,7 +53,6 @@ namespace Microsoft.Win32.SafeHandles
 			}
 		}
 
-		// Token: 0x06000144 RID: 324 RVA: 0x00003197 File Offset: 0x00001397
 		[global::Cpp2ILInjected.Token(Token = "0x60001CA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E9F554", Offset = "0x1E9F554", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

@@ -6,12 +6,9 @@ using Terraria.Enums;
 
 namespace Terraria.DataStructures
 {
-	// Token: 0x0200043C RID: 1084
 	[global::Cpp2ILInjected.Token(Token = "0x2000637")]
 	public struct NPCAimedTarget
 	{
-		// Token: 0x17000619 RID: 1561
-		// (get) Token: 0x06003115 RID: 12565 RVA: 0x0002AC71 File Offset: 0x00028E71
 		[global::Cpp2ILInjected.Token(Token = "0x1700069B")]
 		public bool Invalid
 		{
@@ -36,8 +33,6 @@ namespace Terraria.DataStructures
 			}
 		}
 
-		// Token: 0x1700061A RID: 1562
-		// (get) Token: 0x06003116 RID: 12566 RVA: 0x0002AC74 File Offset: 0x00028E74
 		[global::Cpp2ILInjected.Token(Token = "0x1700069C")]
 		public Vector2 Center
 		{
@@ -93,8 +88,6 @@ namespace Terraria.DataStructures
 			}
 		}
 
-		// Token: 0x1700061B RID: 1563
-		// (get) Token: 0x06003117 RID: 12567 RVA: 0x0002AC77 File Offset: 0x00028E77
 		[global::Cpp2ILInjected.Token(Token = "0x1700069D")]
 		public Vector2 Size
 		{
@@ -113,7 +106,6 @@ namespace Terraria.DataStructures
 			}
 		}
 
-		// Token: 0x06003118 RID: 12568 RVA: 0x0002AC7A File Offset: 0x00028E7A
 		[global::Cpp2ILInjected.Token(Token = "0x6003635")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DD07C", Offset = "0x13DD07C", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "GetTargetData", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(NPCAimedTarget))]
@@ -124,7 +116,6 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x06003119 RID: 12569 RVA: 0x0002AC7D File Offset: 0x00028E7D
 		[global::Cpp2ILInjected.Token(Token = "0x6003636")]
 		[global::Cpp2ILInjected.Address(RVA = "0x13DD0CC", Offset = "0x13DD0CC", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NPC), Member = "GetTargetData", MemberParameters = new object[] { typeof(bool) }, ReturnType = typeof(NPCAimedTarget))]
@@ -136,32 +127,26 @@ namespace Terraria.DataStructures
 			throw null;
 		}
 
-		// Token: 0x04006308 RID: 25352
 		[global::Cpp2ILInjected.Token(Token = "0x40076F2")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public NPCTargetType Type;
 
-		// Token: 0x04006309 RID: 25353
 		[global::Cpp2ILInjected.Token(Token = "0x40076F3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		public Rectangle Hitbox;
 
-		// Token: 0x0400630A RID: 25354
 		[global::Cpp2ILInjected.Token(Token = "0x40076F4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public int Width;
 
-		// Token: 0x0400630B RID: 25355
 		[global::Cpp2ILInjected.Token(Token = "0x40076F5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public int Height;
 
-		// Token: 0x0400630C RID: 25356
 		[global::Cpp2ILInjected.Token(Token = "0x40076F6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		public Vector2 Position;
 
-		// Token: 0x0400630D RID: 25357
 		[global::Cpp2ILInjected.Token(Token = "0x40076F7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		public Vector2 Velocity;

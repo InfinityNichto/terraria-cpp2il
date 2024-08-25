@@ -7,12 +7,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x02000100 RID: 256
 	[global::Cpp2ILInjected.Token(Token = "0x2000132")]
 	[global::System.Serializable]
 	public class MissingMemberException : global::System.MemberAccessException
 	{
-		// Token: 0x06000B36 RID: 2870 RVA: 0x00016595 File Offset: 0x00014795
 		[global::Cpp2ILInjected.Token(Token = "0x6000BDE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C56720", Offset = "0x1C56720", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -34,7 +32,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B37 RID: 2871 RVA: 0x00016598 File Offset: 0x00014798
 		[global::Cpp2ILInjected.Token(Token = "0x6000BDF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C566B0", Offset = "0x1C566B0", Length = "0x24")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -53,7 +50,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B38 RID: 2872 RVA: 0x0001659B File Offset: 0x0001479B
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C56780", Offset = "0x1C56780", Length = "0x184")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MissingMethodException), Member = ".ctor", MemberParameters = new object[]
@@ -80,7 +76,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x06000B39 RID: 2873 RVA: 0x0001659E File Offset: 0x0001479E
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C56B44", Offset = "0x1C56B44", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -102,8 +97,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x170000EC RID: 236
-		// (get) Token: 0x06000B3A RID: 2874 RVA: 0x000165A1 File Offset: 0x000147A1
 		[global::Cpp2ILInjected.Token(Token = "0x17000107")]
 		public override string Message
 		{
@@ -136,7 +129,6 @@ namespace System
 			}
 		}
 
-		// Token: 0x06000B3B RID: 2875 RVA: 0x000165A4 File Offset: 0x000147A4
 		[global::Cpp2ILInjected.Token(Token = "0x6000BE3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C56CA8", Offset = "0x1C56CA8", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -146,17 +138,14 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x0400037C RID: 892
 		[global::Cpp2ILInjected.Token(Token = "0x40004CE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		protected string ClassName;
 
-		// Token: 0x0400037D RID: 893
 		[global::Cpp2ILInjected.Token(Token = "0x40004CF")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		protected string MemberName;
 
-		// Token: 0x0400037E RID: 894
 		[global::Cpp2ILInjected.Token(Token = "0x40004D0")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 		protected byte[] Signature;

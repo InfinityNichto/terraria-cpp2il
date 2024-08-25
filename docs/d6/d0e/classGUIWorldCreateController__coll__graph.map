@@ -1,9 +1,0 @@
-<map id="GUIWorldCreateController" name="GUIWorldCreateController">
-<area shape="rect" id="Node000001" title=" " alt="" coords="121,296,387,744"/>
-<area shape="rect" id="Node000002" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="5,5,215,160"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,172,183,295,178,297,137,174"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="239,50,269,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,116,257,279,251,279,251,116"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="406,50,449,115"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="429,116,421,189,413,231,401,273,395,287,390,285,395,271,407,230,416,188,423,115"/>
-</map>

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Ionic.BZip2
 {
-	// Token: 0x0200002D RID: 45
 	[global::Cpp2ILInjected.Token(Token = "0x2000034")]
 	internal class BitWriter
 	{
-		// Token: 0x0600028B RID: 651 RVA: 0x0000561A File Offset: 0x0000381A
 		[global::Cpp2ILInjected.Token(Token = "0x600029F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A62618", Offset = "0x1A62618", Length = "0x28")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -19,8 +17,6 @@ namespace Ionic.BZip2
 			throw null;
 		}
 
-		// Token: 0x170000B6 RID: 182
-		// (get) Token: 0x0600028C RID: 652 RVA: 0x0000561D File Offset: 0x0000381D
 		[global::Cpp2ILInjected.Token(Token = "0x170000B8")]
 		public byte RemainingBits
 		{
@@ -34,8 +30,6 @@ namespace Ionic.BZip2
 			}
 		}
 
-		// Token: 0x170000B7 RID: 183
-		// (get) Token: 0x0600028D RID: 653 RVA: 0x00005620 File Offset: 0x00003820
 		[global::Cpp2ILInjected.Token(Token = "0x170000B9")]
 		public int NumRemainingBits
 		{
@@ -48,8 +42,6 @@ namespace Ionic.BZip2
 			}
 		}
 
-		// Token: 0x170000B8 RID: 184
-		// (get) Token: 0x0600028E RID: 654 RVA: 0x00005623 File Offset: 0x00003823
 		[global::Cpp2ILInjected.Token(Token = "0x170000BA")]
 		public int TotalBytesWrittenOut
 		{
@@ -62,7 +54,6 @@ namespace Ionic.BZip2
 			}
 		}
 
-		// Token: 0x0600028F RID: 655 RVA: 0x00005626 File Offset: 0x00003826
 		[global::Cpp2ILInjected.Token(Token = "0x60002A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A62660", Offset = "0x1A62660", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +64,6 @@ namespace Ionic.BZip2
 			throw null;
 		}
 
-		// Token: 0x06000290 RID: 656 RVA: 0x00005629 File Offset: 0x00003829
 		[global::Cpp2ILInjected.Token(Token = "0x60002A4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A626A8", Offset = "0x1A626A8", Length = "0x8C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -103,7 +93,6 @@ namespace Ionic.BZip2
 			throw null;
 		}
 
-		// Token: 0x06000291 RID: 657 RVA: 0x0000562C File Offset: 0x0000382C
 		[global::Cpp2ILInjected.Token(Token = "0x60002A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A62734", Offset = "0x1A62734", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -117,7 +106,6 @@ namespace Ionic.BZip2
 			throw null;
 		}
 
-		// Token: 0x06000292 RID: 658 RVA: 0x0000562F File Offset: 0x0000382F
 		[global::Cpp2ILInjected.Token(Token = "0x60002A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A62740", Offset = "0x1A62740", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(BZip2Compressor), Member = "CompressAndWrite", ReturnType = typeof(void))]
@@ -133,7 +121,6 @@ namespace Ionic.BZip2
 			throw null;
 		}
 
-		// Token: 0x06000293 RID: 659 RVA: 0x00005632 File Offset: 0x00003832
 		[global::Cpp2ILInjected.Token(Token = "0x60002A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A62794", Offset = "0x1A62794", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -147,7 +134,6 @@ namespace Ionic.BZip2
 			throw null;
 		}
 
-		// Token: 0x06000294 RID: 660 RVA: 0x00005635 File Offset: 0x00003835
 		[global::Cpp2ILInjected.Token(Token = "0x60002A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A627A0", Offset = "0x1A627A0", Length = "0x4C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -163,22 +149,18 @@ namespace Ionic.BZip2
 			throw null;
 		}
 
-		// Token: 0x04000137 RID: 311
 		[global::Cpp2ILInjected.Token(Token = "0x400014B")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private uint accumulator;
 
-		// Token: 0x04000138 RID: 312
 		[global::Cpp2ILInjected.Token(Token = "0x400014C")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private int nAccumulatedBits;
 
-		// Token: 0x04000139 RID: 313
 		[global::Cpp2ILInjected.Token(Token = "0x400014D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private Stream output;
 
-		// Token: 0x0400013A RID: 314
 		[global::Cpp2ILInjected.Token(Token = "0x400014E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private int totalBytesWrittenOut;

@@ -9,15 +9,12 @@ using Mono.Unity;
 
 namespace Mono.Security.Cryptography
 {
-	// Token: 0x0200003E RID: 62
 	[global::Cpp2ILInjected.Token(Token = "0x2000059")]
 	public sealed class PKCS8
 	{
-		// Token: 0x02000071 RID: 113
 		[global::Cpp2ILInjected.Token(Token = "0x200005A")]
 		public class PrivateKeyInfo
 		{
-			// Token: 0x060002D9 RID: 729 RVA: 0x0000379E File Offset: 0x0000199E
 			[global::Cpp2ILInjected.Token(Token = "0x6000266")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1A9F0C0", Offset = "0x1A9F0C0", Length = "0x68")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PKCS12), Member = "Pkcs8ShroudedKeyBagSafeBag", MemberParameters = new object[]
@@ -40,7 +37,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002DA RID: 730 RVA: 0x000037A1 File Offset: 0x000019A1
 			[global::Cpp2ILInjected.Token(Token = "0x6000267")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1A9F128", Offset = "0x1A9F128", Length = "0x28")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PKCS12), Member = "get_Keys", ReturnType = typeof(ArrayList))]
@@ -66,9 +62,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x170000BE RID: 190
-			// (get) Token: 0x060002DB RID: 731 RVA: 0x000037A4 File Offset: 0x000019A4
-			// (set) Token: 0x060002DC RID: 732 RVA: 0x000037A7 File Offset: 0x000019A7
 			[global::Cpp2ILInjected.Token(Token = "0x170000B1")]
 			public string Algorithm
 			{
@@ -88,9 +81,6 @@ namespace Mono.Security.Cryptography
 				}
 			}
 
-			// Token: 0x170000BF RID: 191
-			// (get) Token: 0x060002DD RID: 733 RVA: 0x000037AA File Offset: 0x000019AA
-			// (set) Token: 0x060002DE RID: 734 RVA: 0x000037AD File Offset: 0x000019AD
 			[global::Cpp2ILInjected.Token(Token = "0x170000B2")]
 			public byte[] PrivateKey
 			{
@@ -141,7 +131,6 @@ namespace Mono.Security.Cryptography
 				}
 			}
 
-			// Token: 0x060002DF RID: 735 RVA: 0x000037B0 File Offset: 0x000019B0
 			[global::Cpp2ILInjected.Token(Token = "0x600026C")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1A9F150", Offset = "0x1A9F150", Length = "0x220")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -158,7 +147,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002E0 RID: 736 RVA: 0x000037B3 File Offset: 0x000019B3
 			[global::Cpp2ILInjected.Token(Token = "0x600026D")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1A9F4E4", Offset = "0x1A9F4E4", Length = "0x454")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -187,7 +175,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002E1 RID: 737 RVA: 0x000037B6 File Offset: 0x000019B6
 			[global::Cpp2ILInjected.Token(Token = "0x600026E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1A9F938", Offset = "0x1A9F938", Length = "0x8C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -212,7 +199,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002E2 RID: 738 RVA: 0x000037B9 File Offset: 0x000019B9
 			[global::Cpp2ILInjected.Token(Token = "0x600026F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1A9F9C4", Offset = "0x1A9F9C4", Length = "0x98")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -238,7 +224,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002E3 RID: 739 RVA: 0x000037BC File Offset: 0x000019BC
 			[global::Cpp2ILInjected.Token(Token = "0x6000270")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1A9FA5C", Offset = "0x1A9FA5C", Length = "0x380")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -280,7 +265,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002E4 RID: 740 RVA: 0x000037BF File Offset: 0x000019BF
 			[global::Cpp2ILInjected.Token(Token = "0x6000271")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1A9FDDC", Offset = "0x1A9FDDC", Length = "0x1F0")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -310,7 +294,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002E5 RID: 741 RVA: 0x000037C2 File Offset: 0x000019C2
 			[global::Cpp2ILInjected.Token(Token = "0x6000272")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1A9FFCC", Offset = "0x1A9FFCC", Length = "0x11C")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -346,7 +329,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002E6 RID: 742 RVA: 0x000037C5 File Offset: 0x000019C5
 			[global::Cpp2ILInjected.Token(Token = "0x6000273")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1AA00E8", Offset = "0x1AA00E8", Length = "0x44")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -368,7 +350,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002E7 RID: 743 RVA: 0x000037C8 File Offset: 0x000019C8
 			[global::Cpp2ILInjected.Token(Token = "0x6000274")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1AA012C", Offset = "0x1AA012C", Length = "0x114")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -393,32 +374,26 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x040002C2 RID: 706
 			[global::Cpp2ILInjected.Token(Token = "0x4000263")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private int _version;
 
-			// Token: 0x040002C3 RID: 707
 			[global::Cpp2ILInjected.Token(Token = "0x4000264")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private string _algorithm;
 
-			// Token: 0x040002C4 RID: 708
 			[global::Cpp2ILInjected.Token(Token = "0x4000265")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private byte[] _key;
 
-			// Token: 0x040002C5 RID: 709
 			[global::Cpp2ILInjected.Token(Token = "0x4000266")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			private ArrayList _list;
 		}
 
-		// Token: 0x02000072 RID: 114
 		[global::Cpp2ILInjected.Token(Token = "0x200005B")]
 		public class EncryptedPrivateKeyInfo
 		{
-			// Token: 0x060002E8 RID: 744 RVA: 0x000037CB File Offset: 0x000019CB
 			[global::Cpp2ILInjected.Token(Token = "0x6000275")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1AA0240", Offset = "0x1AA0240", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PKCS12), Member = "Pkcs8ShroudedKeyBagSafeBag", MemberParameters = new object[]
@@ -433,7 +408,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002E9 RID: 745 RVA: 0x000037CE File Offset: 0x000019CE
 			[global::Cpp2ILInjected.Token(Token = "0x6000276")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1AA0248", Offset = "0x1AA0248", Length = "0x2C")]
 			[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(PKCS12), Member = "get_Keys", ReturnType = typeof(ArrayList))]
@@ -453,9 +427,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x170000C0 RID: 192
-			// (get) Token: 0x060002EA RID: 746 RVA: 0x000037D1 File Offset: 0x000019D1
-			// (set) Token: 0x060002EB RID: 747 RVA: 0x000037D4 File Offset: 0x000019D4
 			[global::Cpp2ILInjected.Token(Token = "0x170000B3")]
 			public string Algorithm
 			{
@@ -475,9 +446,6 @@ namespace Mono.Security.Cryptography
 				}
 			}
 
-			// Token: 0x170000C1 RID: 193
-			// (get) Token: 0x060002EC RID: 748 RVA: 0x000037D7 File Offset: 0x000019D7
-			// (set) Token: 0x060002ED RID: 749 RVA: 0x000037DA File Offset: 0x000019DA
 			[global::Cpp2ILInjected.Token(Token = "0x170000B4")]
 			public byte[] EncryptedData
 			{
@@ -516,8 +484,6 @@ namespace Mono.Security.Cryptography
 				}
 			}
 
-			// Token: 0x170000C2 RID: 194
-			// (get) Token: 0x060002EE RID: 750 RVA: 0x000037DD File Offset: 0x000019DD
 			[global::Cpp2ILInjected.Token(Token = "0x170000B5")]
 			public byte[] Salt
 			{
@@ -549,9 +515,6 @@ namespace Mono.Security.Cryptography
 				}
 			}
 
-			// Token: 0x170000C3 RID: 195
-			// (get) Token: 0x060002EF RID: 751 RVA: 0x000037E0 File Offset: 0x000019E0
-			// (set) Token: 0x060002F0 RID: 752 RVA: 0x000037E3 File Offset: 0x000019E3
 			[global::Cpp2ILInjected.Token(Token = "0x170000B6")]
 			public int IterationCount
 			{
@@ -582,7 +545,6 @@ namespace Mono.Security.Cryptography
 				}
 			}
 
-			// Token: 0x060002F1 RID: 753 RVA: 0x000037E6 File Offset: 0x000019E6
 			[global::Cpp2ILInjected.Token(Token = "0x600027E")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1AA0274", Offset = "0x1AA0274", Length = "0x274")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -600,7 +562,6 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x060002F2 RID: 754 RVA: 0x000037E9 File Offset: 0x000019E9
 			[global::Cpp2ILInjected.Token(Token = "0x600027F")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1AA0714", Offset = "0x1AA0714", Length = "0x1C4")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -626,22 +587,18 @@ namespace Mono.Security.Cryptography
 				throw null;
 			}
 
-			// Token: 0x040002C6 RID: 710
 			[global::Cpp2ILInjected.Token(Token = "0x4000267")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			private string _algorithm;
 
-			// Token: 0x040002C7 RID: 711
 			[global::Cpp2ILInjected.Token(Token = "0x4000268")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 			private byte[] _salt;
 
-			// Token: 0x040002C8 RID: 712
 			[global::Cpp2ILInjected.Token(Token = "0x4000269")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 			private int _iterations;
 
-			// Token: 0x040002C9 RID: 713
 			[global::Cpp2ILInjected.Token(Token = "0x400026A")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 			private byte[] _data;

@@ -9,11 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes
 {
-	// Token: 0x020005F3 RID: 1523
 	[global::Cpp2ILInjected.Token(Token = "0x20008E9")]
 	public class DesertBiome : MicroBiome
 	{
-		// Token: 0x06003D7B RID: 15739 RVA: 0x0002CFA5 File Offset: 0x0002B1A5
 		[global::Cpp2ILInjected.Token(Token = "0x60045F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C697C", Offset = "0x7C697C", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -50,7 +48,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D7C RID: 15740 RVA: 0x0002CFA8 File Offset: 0x0002B1A8
 		[global::Cpp2ILInjected.Token(Token = "0x60045F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C6B4C", Offset = "0x7C6B4C", Length = "0x9C")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(DesertBiome), Member = "Place", MemberParameters = new object[]
@@ -70,7 +67,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D7D RID: 15741 RVA: 0x0002CFAB File Offset: 0x0002B1AB
 		[global::Cpp2ILInjected.Token(Token = "0x60045F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C6BE8", Offset = "0x7C6BE8", Length = "0x15C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +96,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x06003D7E RID: 15742 RVA: 0x0002CFAE File Offset: 0x0002B1AE
 		[global::Cpp2ILInjected.Token(Token = "0x60045F7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7C6D44", Offset = "0x7C6D44", Length = "0x1C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +106,6 @@ namespace Terraria.GameContent.Biomes
 			throw null;
 		}
 
-		// Token: 0x04006BF6 RID: 27638
 		[JsonProperty("ChanceOfEntrance")]
 		[global::Cpp2ILInjected.Token(Token = "0x400824F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]

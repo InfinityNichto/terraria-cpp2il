@@ -6,11 +6,9 @@ using Terraria;
 using Terraria.Utilities;
 using UnityEngine;
 
-// Token: 0x02000221 RID: 545
 [global::Cpp2ILInjected.Token(Token = "0x20002CD")]
 public class SaveSynchronisationOperation_SendFile : SaveSynchronisationOperation
 {
-	// Token: 0x06000F58 RID: 3928 RVA: 0x00024905 File Offset: 0x00022B05
 	[global::Cpp2ILInjected.Token(Token = "0x6001090")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA44C08", Offset = "0xA44C08", Length = "0x2DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -52,7 +50,6 @@ public class SaveSynchronisationOperation_SendFile : SaveSynchronisationOperatio
 		throw null;
 	}
 
-	// Token: 0x06000F59 RID: 3929 RVA: 0x00024908 File Offset: 0x00022B08
 	[global::Cpp2ILInjected.Token(Token = "0x6001091")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA476EC", Offset = "0xA476EC", Length = "0x468")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -73,7 +70,6 @@ public class SaveSynchronisationOperation_SendFile : SaveSynchronisationOperatio
 		throw null;
 	}
 
-	// Token: 0x06000F5A RID: 3930 RVA: 0x0002490B File Offset: 0x00022B0B
 	[global::Cpp2ILInjected.Token(Token = "0x6001092")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA47C68", Offset = "0xA47C68", Length = "0x130")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -96,7 +92,6 @@ public class SaveSynchronisationOperation_SendFile : SaveSynchronisationOperatio
 		throw null;
 	}
 
-	// Token: 0x06000F5B RID: 3931 RVA: 0x0002490E File Offset: 0x00022B0E
 	[global::Cpp2ILInjected.Token(Token = "0x6001093")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA47B54", Offset = "0xA47B54", Length = "0x114")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -121,7 +116,6 @@ public class SaveSynchronisationOperation_SendFile : SaveSynchronisationOperatio
 		throw null;
 	}
 
-	// Token: 0x06000F5C RID: 3932 RVA: 0x00024911 File Offset: 0x00022B11
 	[global::Cpp2ILInjected.Token(Token = "0x6001094")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA47D98", Offset = "0xA47D98", Length = "0xBC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -137,7 +131,6 @@ public class SaveSynchronisationOperation_SendFile : SaveSynchronisationOperatio
 		throw null;
 	}
 
-	// Token: 0x06000F5D RID: 3933 RVA: 0x00024914 File Offset: 0x00022B14
 	// Note: this type is marked as 'beforefieldinit'.
 	[global::Cpp2ILInjected.Token(Token = "0x6001095")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA47E54", Offset = "0xA47E54", Length = "0x68")]
@@ -148,37 +141,30 @@ public class SaveSynchronisationOperation_SendFile : SaveSynchronisationOperatio
 		throw null;
 	}
 
-	// Token: 0x04001A28 RID: 6696
 	[global::Cpp2ILInjected.Token(Token = "0x4001F71")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private string filename;
 
-	// Token: 0x04001A29 RID: 6697
 	[global::Cpp2ILInjected.Token(Token = "0x4001F72")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	private byte[] fileDataToSend;
 
-	// Token: 0x04001A2A RID: 6698
 	[global::Cpp2ILInjected.Token(Token = "0x4001F73")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	private int sendOffset;
 
-	// Token: 0x04001A2B RID: 6699
 	[global::Cpp2ILInjected.Token(Token = "0x4001F74")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x34")]
 	private int pendingChunks;
 
-	// Token: 0x04001A2C RID: 6700
 	[global::Cpp2ILInjected.Token(Token = "0x4001F75")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private int mapFilesOffset;
 
-	// Token: 0x04001A2D RID: 6701
 	[global::Cpp2ILInjected.Token(Token = "0x4001F76")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private string[] mapFiles;
 
-	// Token: 0x04001A2E RID: 6702
 	[global::Cpp2ILInjected.Token(Token = "0x4001F77")]
 	private static byte[] fileDataBuffer;
 }

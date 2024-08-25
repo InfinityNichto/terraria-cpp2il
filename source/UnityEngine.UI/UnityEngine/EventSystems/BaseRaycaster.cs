@@ -6,16 +6,12 @@ using UnityEngine.UI;
 
 namespace UnityEngine.EventSystems
 {
-	// Token: 0x0200006D RID: 109
 	[global::Cpp2ILInjected.Token(Token = "0x20000BC")]
 	public abstract class BaseRaycaster : UIBehaviour
 	{
-		// Token: 0x0600062D RID: 1581
 		[global::Cpp2ILInjected.Token(Token = "0x60006C9")]
 		public abstract void Raycast(PointerEventData eventData, List<RaycastResult> resultAppendList);
 
-		// Token: 0x170001AE RID: 430
-		// (get) Token: 0x0600062E RID: 1582
 		[global::Cpp2ILInjected.Token(Token = "0x170001C5")]
 		public abstract Camera eventCamera
 		{
@@ -23,8 +19,6 @@ namespace UnityEngine.EventSystems
 			get;
 		}
 
-		// Token: 0x170001AF RID: 431
-		// (get) Token: 0x0600062F RID: 1583 RVA: 0x0000322C File Offset: 0x0000142C
 		[Obsolete("Please use sortOrderPriority and renderOrderPriority", false)]
 		[global::Cpp2ILInjected.Token(Token = "0x170001C6")]
 		public virtual int priority
@@ -38,8 +32,6 @@ namespace UnityEngine.EventSystems
 			}
 		}
 
-		// Token: 0x170001B0 RID: 432
-		// (get) Token: 0x06000630 RID: 1584 RVA: 0x0000322F File Offset: 0x0000142F
 		[global::Cpp2ILInjected.Token(Token = "0x170001C7")]
 		public virtual int sortOrderPriority
 		{
@@ -53,8 +45,6 @@ namespace UnityEngine.EventSystems
 			}
 		}
 
-		// Token: 0x170001B1 RID: 433
-		// (get) Token: 0x06000631 RID: 1585 RVA: 0x00003232 File Offset: 0x00001432
 		[global::Cpp2ILInjected.Token(Token = "0x170001C8")]
 		public virtual int renderOrderPriority
 		{
@@ -68,8 +58,6 @@ namespace UnityEngine.EventSystems
 			}
 		}
 
-		// Token: 0x170001B2 RID: 434
-		// (get) Token: 0x06000632 RID: 1586 RVA: 0x00003235 File Offset: 0x00001435
 		[global::Cpp2ILInjected.Token(Token = "0x170001C9")]
 		public BaseRaycaster rootRaycaster
 		{
@@ -94,7 +82,6 @@ namespace UnityEngine.EventSystems
 			}
 		}
 
-		// Token: 0x06000633 RID: 1587 RVA: 0x00003238 File Offset: 0x00001438
 		[global::Cpp2ILInjected.Token(Token = "0x60006CF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FED574", Offset = "0x1FED574", Length = "0x260")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -108,7 +95,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x06000634 RID: 1588 RVA: 0x0000323B File Offset: 0x0000143B
 		[global::Cpp2ILInjected.Token(Token = "0x60006D0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FED7D4", Offset = "0x1FED7D4", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -119,7 +105,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x06000635 RID: 1589 RVA: 0x0000323E File Offset: 0x0000143E
 		[global::Cpp2ILInjected.Token(Token = "0x60006D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FED828", Offset = "0x1FED828", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -130,7 +115,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x06000636 RID: 1590 RVA: 0x00003241 File Offset: 0x00001441
 		[global::Cpp2ILInjected.Token(Token = "0x60006D2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FED87C", Offset = "0x1FED87C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -139,7 +123,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x06000637 RID: 1591 RVA: 0x00003244 File Offset: 0x00001444
 		[global::Cpp2ILInjected.Token(Token = "0x60006D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FED888", Offset = "0x1FED888", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -148,7 +131,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x06000638 RID: 1592 RVA: 0x00003247 File Offset: 0x00001447
 		[global::Cpp2ILInjected.Token(Token = "0x60006D4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FED894", Offset = "0x1FED894", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GraphicRaycaster), Member = ".ctor", ReturnType = typeof(void))]
@@ -159,7 +141,6 @@ namespace UnityEngine.EventSystems
 			throw null;
 		}
 
-		// Token: 0x04000223 RID: 547
 		[global::Cpp2ILInjected.Token(Token = "0x4000317")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private BaseRaycaster m_RootRaycaster;

@@ -7,11 +7,9 @@ using Terraria.Initializers;
 
 namespace Terraria.GameContent.Achievements
 {
-	// Token: 0x02000656 RID: 1622
 	[global::Cpp2ILInjected.Token(Token = "0x20009B0")]
 	public class ProgressionEventCondition : AchievementCondition
 	{
-		// Token: 0x06003F77 RID: 16247 RVA: 0x0002D542 File Offset: 0x0002B742
 		[global::Cpp2ILInjected.Token(Token = "0x6004964")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82DC88", Offset = "0x82DC88", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ProgressionEventCondition), Member = "Create", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(ProgressionEventCondition))]
@@ -31,7 +29,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F78 RID: 16248 RVA: 0x0002D545 File Offset: 0x0002B745
 		[global::Cpp2ILInjected.Token(Token = "0x6004965")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82DFEC", Offset = "0x82DFEC", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(ProgressionEventCondition), Member = "Create", MemberParameters = new object[] { typeof(int[]) }, ReturnType = typeof(ProgressionEventCondition))]
@@ -50,7 +47,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F79 RID: 16249 RVA: 0x0002D548 File Offset: 0x0002B748
 		[global::Cpp2ILInjected.Token(Token = "0x6004966")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E094", Offset = "0x82E094", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -63,7 +59,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F7A RID: 16250 RVA: 0x0002D54B File Offset: 0x0002B74B
 		[global::Cpp2ILInjected.Token(Token = "0x6004967")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82DD64", Offset = "0x82DD64", Length = "0x288")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -90,7 +85,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F7B RID: 16251 RVA: 0x0002D54E File Offset: 0x0002B74E
 		[global::Cpp2ILInjected.Token(Token = "0x6004968")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E168", Offset = "0x82E168", Length = "0x1C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -106,7 +100,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F7C RID: 16252 RVA: 0x0002D551 File Offset: 0x0002B751
 		[global::Cpp2ILInjected.Token(Token = "0x6004969")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E328", Offset = "0x82E328", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -117,7 +110,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F7D RID: 16253 RVA: 0x0002D554 File Offset: 0x0002B754
 		[global::Cpp2ILInjected.Token(Token = "0x600496A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E380", Offset = "0x82E380", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AchievementInitializer), Member = "Load", ReturnType = typeof(void))]
@@ -129,7 +121,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F7E RID: 16254 RVA: 0x0002D557 File Offset: 0x0002B757
 		[global::Cpp2ILInjected.Token(Token = "0x600496B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E3D8", Offset = "0x82E3D8", Length = "0xE8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -141,7 +132,6 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x06003F7F RID: 16255 RVA: 0x0002D55A File Offset: 0x0002B75A
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x600496C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82E4C0", Offset = "0x82E4C0", Length = "0x8C")]
@@ -153,19 +143,15 @@ namespace Terraria.GameContent.Achievements
 			throw null;
 		}
 
-		// Token: 0x04006CB9 RID: 27833
 		[global::Cpp2ILInjected.Token(Token = "0x400844B")]
 		private const string Identifier = "PROGRESSION_EVENT";
 
-		// Token: 0x04006CBA RID: 27834
 		[global::Cpp2ILInjected.Token(Token = "0x400844C")]
 		private static Dictionary<int, List<ProgressionEventCondition>> _listeners;
 
-		// Token: 0x04006CBB RID: 27835
 		[global::Cpp2ILInjected.Token(Token = "0x400844D")]
 		private static bool _isListenerHooked;
 
-		// Token: 0x04006CBC RID: 27836
 		[global::Cpp2ILInjected.Token(Token = "0x400844E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private int[] _eventIDs;

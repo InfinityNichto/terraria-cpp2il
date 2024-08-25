@@ -13,12 +13,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.Serialization
 {
-	// Token: 0x02000330 RID: 816
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x20003D7")]
 	public static class FormatterServices
 	{
-		// Token: 0x06001CC6 RID: 7366 RVA: 0x0001955F File Offset: 0x0001775F
 		[global::Cpp2ILInjected.Token(Token = "0x6001F02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B521A8", Offset = "0x1B521A8", Length = "0x16C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -31,7 +29,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CC7 RID: 7367 RVA: 0x00019562 File Offset: 0x00017762
 		[global::Cpp2ILInjected.Token(Token = "0x6001F03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B52314", Offset = "0x1B52314", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +40,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CC8 RID: 7368 RVA: 0x00019565 File Offset: 0x00017765
 		[global::Cpp2ILInjected.Token(Token = "0x6001F04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B52468", Offset = "0x1B52468", Length = "0x10")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -53,7 +49,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CC9 RID: 7369 RVA: 0x00019568 File Offset: 0x00017768
 		[global::Cpp2ILInjected.Token(Token = "0x6001F05")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B52478", Offset = "0x1B52478", Length = "0x660")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -98,7 +93,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CCA RID: 7370 RVA: 0x0001956B File Offset: 0x0001776B
 		[global::Cpp2ILInjected.Token(Token = "0x6001F06")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B52AD8", Offset = "0x1B52AD8", Length = "0x3BC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -149,7 +143,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CCB RID: 7371 RVA: 0x0001956E File Offset: 0x0001776E
 		[global::Cpp2ILInjected.Token(Token = "0x6001F07")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B52F1C", Offset = "0x1B52F1C", Length = "0x25C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +173,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CCC RID: 7372 RVA: 0x00019571 File Offset: 0x00017771
 		[global::Cpp2ILInjected.Token(Token = "0x6001F08")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53180", Offset = "0x1B53180", Length = "0x1A4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -204,7 +196,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CCD RID: 7373 RVA: 0x00019574 File Offset: 0x00017774
 		[global::Cpp2ILInjected.Token(Token = "0x6001F09")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53324", Offset = "0x1B53324", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -214,7 +205,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CCE RID: 7374 RVA: 0x00019577 File Offset: 0x00017777
 		[global::Cpp2ILInjected.Token(Token = "0x6001F0A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B5332C", Offset = "0x1B5332C", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -223,7 +213,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CCF RID: 7375 RVA: 0x0001957A File Offset: 0x0001777A
 		[global::Cpp2ILInjected.Token(Token = "0x6001F0B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53334", Offset = "0x1B53334", Length = "0xA8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo), Member = "InitSerialize", MemberParameters = new object[]
@@ -264,7 +253,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD0 RID: 7376 RVA: 0x0001957D File Offset: 0x0001777D
 		[global::Cpp2ILInjected.Token(Token = "0x6001F0C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B533DC", Offset = "0x1B533DC", Length = "0x1D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -304,7 +292,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD1 RID: 7377 RVA: 0x00019580 File Offset: 0x00017780
 		[global::Cpp2ILInjected.Token(Token = "0x6001F0D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53650", Offset = "0x1B53650", Length = "0x2A8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -345,7 +332,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD2 RID: 7378 RVA: 0x00019583 File Offset: 0x00017783
 		[global::Cpp2ILInjected.Token(Token = "0x6001F0E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B538F8", Offset = "0x1B538F8", Length = "0x314")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -381,7 +367,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD3 RID: 7379 RVA: 0x00019586 File Offset: 0x00017786
 		[global::Cpp2ILInjected.Token(Token = "0x6001F0F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53C80", Offset = "0x1B53C80", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Runtime.Serialization.Formatters.Binary.ObjectReader), Member = "FastBindToType", MemberParameters = new object[]
@@ -413,7 +398,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD4 RID: 7380 RVA: 0x00019589 File Offset: 0x00017789
 		[global::Cpp2ILInjected.Token(Token = "0x6001F10")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53D10", Offset = "0x1B53D10", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Reflection.MemberInfoSerializationHolder), Member = ".ctor", MemberParameters = new object[]
@@ -428,7 +412,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD5 RID: 7381 RVA: 0x0001958C File Offset: 0x0001778C
 		[global::Cpp2ILInjected.Token(Token = "0x6001F11")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53D18", Offset = "0x1B53D18", Length = "0xD4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -441,7 +424,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD6 RID: 7382 RVA: 0x0001958F File Offset: 0x0001778F
 		[global::Cpp2ILInjected.Token(Token = "0x6001F12")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53DEC", Offset = "0x1B53DEC", Length = "0x154")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -456,7 +438,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD7 RID: 7383 RVA: 0x00019592 File Offset: 0x00017792
 		[global::Cpp2ILInjected.Token(Token = "0x6001F13")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53F40", Offset = "0x1B53F40", Length = "0x78")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(FormatterServices), Member = "GetClrTypeFullNameForArray", MemberParameters = new object[] { typeof(global::System.Type) }, ReturnType = typeof(string))]
@@ -471,7 +452,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD8 RID: 7384 RVA: 0x00019595 File Offset: 0x00017795
 		[global::Cpp2ILInjected.Token(Token = "0x6001F14")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B53FB8", Offset = "0x1B53FB8", Length = "0x218")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -493,7 +473,6 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x06001CD9 RID: 7385 RVA: 0x00019598 File Offset: 0x00017798
 		[global::Cpp2ILInjected.Token(Token = "0x6001F15")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B541D0", Offset = "0x1B541D0", Length = "0x23C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -519,32 +498,25 @@ namespace System.Runtime.Serialization
 			throw null;
 		}
 
-		// Token: 0x04000C9D RID: 3229
 		[global::Cpp2ILInjected.Token(Token = "0x4000F8E")]
 		internal static global::System.Collections.Concurrent.ConcurrentDictionary<MemberHolder, global::System.Reflection.MemberInfo[]> m_MemberInfoTable;
 
-		// Token: 0x04000C9E RID: 3230
 		[global::Cpp2ILInjected.Token(Token = "0x4000F8F")]
 		private static bool unsafeTypeForwardersIsEnabled;
 
-		// Token: 0x04000C9F RID: 3231
 		[global::Cpp2ILInjected.Token(Token = "0x4000F90")]
 		private static bool unsafeTypeForwardersIsEnabledInitialized;
 
-		// Token: 0x04000CA0 RID: 3232
 		[global::Cpp2ILInjected.Token(Token = "0x4000F91")]
 		private static readonly global::System.Type[] advancedTypes;
 
-		// Token: 0x04000CA1 RID: 3233
 		[global::Cpp2ILInjected.Token(Token = "0x4000F92")]
 		private static global::System.Reflection.Binder s_binder;
 
-		// Token: 0x020005F2 RID: 1522
 		[global::System.Runtime.CompilerServices.CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x20003D8")]
 		private sealed class <>c__DisplayClass9_0
 		{
-			// Token: 0x06004113 RID: 16659 RVA: 0x0001FDDB File Offset: 0x0001DFDB
 			[global::Cpp2ILInjected.Token(Token = "0x6001F16")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B53178", Offset = "0x1B53178", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -554,7 +526,6 @@ namespace System.Runtime.Serialization
 				throw null;
 			}
 
-			// Token: 0x06004114 RID: 16660 RVA: 0x0001FDDE File Offset: 0x0001DFDE
 			[global::Cpp2ILInjected.Token(Token = "0x6001F17")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1B5440C", Offset = "0x1B5440C", Length = "0xAC")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -566,7 +537,6 @@ namespace System.Runtime.Serialization
 				throw null;
 			}
 
-			// Token: 0x04001979 RID: 6521
 			[global::Cpp2ILInjected.Token(Token = "0x4000F93")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public global::System.Type type;

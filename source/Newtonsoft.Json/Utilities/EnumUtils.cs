@@ -13,12 +13,10 @@ using Newtonsoft.Json.Shims;
 
 namespace Newtonsoft.Json.Utilities
 {
-	// Token: 0x02000052 RID: 82
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x2000065")]
 	internal static class EnumUtils
 	{
-		// Token: 0x06000375 RID: 885 RVA: 0x00002AD7 File Offset: 0x00000CD7
 		[global::Cpp2ILInjected.Token(Token = "0x60003A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD72CC", Offset = "0x1CD72CC", Length = "0x400")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,28 +57,24 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x06000376 RID: 886 RVA: 0x00002ADA File Offset: 0x00000CDA
 		[global::Cpp2ILInjected.Token(Token = "0x60003A2")]
 		public static IList<T> GetFlagsValues<T>(T value) where T : struct
 		{
 			throw null;
 		}
 
-		// Token: 0x06000377 RID: 887 RVA: 0x00002ADD File Offset: 0x00000CDD
 		[global::Cpp2ILInjected.Token(Token = "0x60003A3")]
 		public static IList<EnumValue<ulong>> GetNamesAndValues<T>() where T : struct
 		{
 			throw null;
 		}
 
-		// Token: 0x06000378 RID: 888 RVA: 0x00002AE0 File Offset: 0x00000CE0
 		[global::Cpp2ILInjected.Token(Token = "0x60003A4")]
 		public static IList<EnumValue<TUnderlyingType>> GetNamesAndValues<TUnderlyingType>(Type enumType) where TUnderlyingType : struct
 		{
 			throw null;
 		}
 
-		// Token: 0x06000379 RID: 889 RVA: 0x00002AE3 File Offset: 0x00000CE3
 		[global::Cpp2ILInjected.Token(Token = "0x60003A5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CCA848", Offset = "0x1CCA848", Length = "0x4F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -111,7 +105,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x0600037A RID: 890 RVA: 0x00002AE6 File Offset: 0x00000CE6
 		[global::Cpp2ILInjected.Token(Token = "0x60003A6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD76CC", Offset = "0x1CD76CC", Length = "0x4E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -141,7 +134,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x0600037B RID: 891 RVA: 0x00002AE9 File Offset: 0x00000CE9
 		[global::Cpp2ILInjected.Token(Token = "0x60003A7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD7BB0", Offset = "0x1CD7BB0", Length = "0x234")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -184,7 +176,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x0600037C RID: 892 RVA: 0x00002AEC File Offset: 0x00000CEC
 		[global::Cpp2ILInjected.Token(Token = "0x60003A8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD7E54", Offset = "0x1CD7E54", Length = "0x1B0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -211,7 +202,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x0600037D RID: 893 RVA: 0x00002AEF File Offset: 0x00000CEF
 		[global::Cpp2ILInjected.Token(Token = "0x60003A9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD7DE4", Offset = "0x1CD7DE4", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -229,7 +219,6 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x0600037E RID: 894 RVA: 0x00002AF2 File Offset: 0x00000CF2
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60003AA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CD81D0", Offset = "0x1CD81D0", Length = "0xDC")]
@@ -246,17 +235,14 @@ namespace Newtonsoft.Json.Utilities
 			throw null;
 		}
 
-		// Token: 0x040001B5 RID: 437
 		[global::Cpp2ILInjected.Token(Token = "0x40001EA")]
 		private static readonly ThreadSafeStore<Type, BidirectionalDictionary<string, string>> EnumMemberNamesPerType;
 
-		// Token: 0x02000105 RID: 261
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000066")]
 		[Serializable]
 		private sealed class <>c
 		{
-			// Token: 0x06000AB2 RID: 2738 RVA: 0x00003F92 File Offset: 0x00002192
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60003AB")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD82AC", Offset = "0x1CD82AC", Length = "0x5C")]
@@ -268,7 +254,6 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x06000AB3 RID: 2739 RVA: 0x00003F95 File Offset: 0x00002195
 			[global::Cpp2ILInjected.Token(Token = "0x60003AC")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD8308", Offset = "0x1CD8308", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -278,7 +263,6 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x06000AB4 RID: 2740 RVA: 0x00003F98 File Offset: 0x00002198
 			[global::Cpp2ILInjected.Token(Token = "0x60003AD")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD8310", Offset = "0x1CD8310", Length = "0x8")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -287,7 +271,6 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x06000AB5 RID: 2741 RVA: 0x00003F9B File Offset: 0x0000219B
 			[global::Cpp2ILInjected.Token(Token = "0x60003AE")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD8318", Offset = "0x1CD8318", Length = "0xC")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -297,7 +280,6 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x06000AB6 RID: 2742 RVA: 0x00003F9E File Offset: 0x0000219E
 			[global::Cpp2ILInjected.Token(Token = "0x60003AF")]
 			[global::Cpp2ILInjected.Address(RVA = "0x1CD8324", Offset = "0x1CD8324", Length = "0xC")]
 			[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -307,30 +289,24 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x04000399 RID: 921
 			[global::Cpp2ILInjected.Token(Token = "0x40001EB")]
 			public static readonly EnumUtils.<>c <>9;
 
-			// Token: 0x0400039A RID: 922
 			[global::Cpp2ILInjected.Token(Token = "0x40001EC")]
 			public static Func<EnumMemberAttribute, string> <>9__1_0;
 
-			// Token: 0x0400039B RID: 923
 			[global::Cpp2ILInjected.Token(Token = "0x40001ED")]
 			public static Func<FieldInfo, bool> <>9__5_0;
 
-			// Token: 0x0400039C RID: 924
 			[global::Cpp2ILInjected.Token(Token = "0x40001EE")]
 			public static Func<FieldInfo, bool> <>9__6_0;
 		}
 
-		// Token: 0x02000106 RID: 262
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x2000067")]
 		[Serializable]
 		private sealed class <>c__2<T> where T : struct
 		{
-			// Token: 0x06000AB7 RID: 2743 RVA: 0x00003FA1 File Offset: 0x000021A1
 			// Note: this type is marked as 'beforefieldinit'.
 			[global::Cpp2ILInjected.Token(Token = "0x60003B0")]
 			static <>c__2()
@@ -338,25 +314,21 @@ namespace Newtonsoft.Json.Utilities
 				throw null;
 			}
 
-			// Token: 0x06000AB8 RID: 2744 RVA: 0x00003FA4 File Offset: 0x000021A4
 			[global::Cpp2ILInjected.Token(Token = "0x60003B1")]
 			public <>c__2()
 			{
 				throw null;
 			}
 
-			// Token: 0x06000AB9 RID: 2745 RVA: 0x00003FA7 File Offset: 0x000021A7
 			[global::Cpp2ILInjected.Token(Token = "0x60003B2")]
 			internal bool <GetFlagsValues>b__2_0(EnumValue<ulong> v)
 			{
 				throw null;
 			}
 
-			// Token: 0x0400039D RID: 925
 			[global::Cpp2ILInjected.Token(Token = "0x40001EF")]
 			public static readonly EnumUtils.<>c__2<T> <>9;
 
-			// Token: 0x0400039E RID: 926
 			[global::Cpp2ILInjected.Token(Token = "0x40001F0")]
 			public static Func<EnumValue<ulong>, bool> <>9__2_0;
 		}

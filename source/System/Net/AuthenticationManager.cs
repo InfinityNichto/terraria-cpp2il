@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000184 RID: 388
 	[global::Cpp2ILInjected.Token(Token = "0x200022D")]
 	public class AuthenticationManager
 	{
-		// Token: 0x06000C92 RID: 3218 RVA: 0x0000520A File Offset: 0x0000340A
 		[global::Cpp2ILInjected.Token(Token = "0x6000DF9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CEE0", Offset = "0x1F3CEE0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -21,7 +19,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C93 RID: 3219 RVA: 0x0000520D File Offset: 0x0000340D
 		[global::Cpp2ILInjected.Token(Token = "0x6000DFA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3CEE8", Offset = "0x1F3CEE8", Length = "0x258")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,9 +56,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x170002D0 RID: 720
-		// (get) Token: 0x06000C94 RID: 3220 RVA: 0x00005210 File Offset: 0x00003410
-		// (set) Token: 0x06000C95 RID: 3221 RVA: 0x00005213 File Offset: 0x00003413
 		[global::Cpp2ILInjected.Token(Token = "0x170002EB")]
 		public static ICredentialPolicy CredentialPolicy
 		{
@@ -83,7 +77,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000C96 RID: 3222 RVA: 0x00005216 File Offset: 0x00003416
 		[global::Cpp2ILInjected.Token(Token = "0x6000DFD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3D204", Offset = "0x1F3D204", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(AuthenticationManager), Member = "get_CustomTargetNameDictionary", ReturnType = typeof(StringDictionary))]
@@ -95,8 +88,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x170002D1 RID: 721
-		// (get) Token: 0x06000C97 RID: 3223 RVA: 0x00005219 File Offset: 0x00003419
 		[MonoTODO]
 		[global::Cpp2ILInjected.Token(Token = "0x170002EC")]
 		public static StringDictionary CustomTargetNameDictionary
@@ -112,8 +103,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002D2 RID: 722
-		// (get) Token: 0x06000C98 RID: 3224 RVA: 0x0000521C File Offset: 0x0000341C
 		[global::Cpp2ILInjected.Token(Token = "0x170002ED")]
 		public static IEnumerator RegisteredModules
 		{
@@ -128,8 +117,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x170002D3 RID: 723
-		// (get) Token: 0x06000C99 RID: 3225 RVA: 0x0000521F File Offset: 0x0000341F
 		[MonoTODO]
 		[global::Cpp2ILInjected.Token(Token = "0x170002EE")]
 		internal static bool OSSupportsExtendedProtection
@@ -143,7 +130,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000C9A RID: 3226 RVA: 0x00005222 File Offset: 0x00003422
 		[global::Cpp2ILInjected.Token(Token = "0x6000E01")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3D2FC", Offset = "0x1F3D2FC", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -161,7 +147,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C9B RID: 3227 RVA: 0x00005225 File Offset: 0x00003425
 		[global::Cpp2ILInjected.Token(Token = "0x6000E02")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3D424", Offset = "0x1F3D424", Length = "0x100")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Net.HttpWebRequest.AuthorizationState", Member = "CheckAuthorization", MemberParameters = new object[]
@@ -178,7 +163,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C9C RID: 3228 RVA: 0x00005228 File Offset: 0x00003428
 		[global::Cpp2ILInjected.Token(Token = "0x6000E03")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3D524", Offset = "0x1F3D524", Length = "0x4D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -196,7 +180,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C9D RID: 3229 RVA: 0x0000522B File Offset: 0x0000342B
 		[global::Cpp2ILInjected.Token(Token = "0x6000E04")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3D9F4", Offset = "0x1F3D9F4", Length = "0x51C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -216,7 +199,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C9E RID: 3230 RVA: 0x0000522E File Offset: 0x0000342E
 		[global::Cpp2ILInjected.Token(Token = "0x6000E05")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3DF10", Offset = "0x1F3DF10", Length = "0x1FC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -239,7 +221,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000C9F RID: 3231 RVA: 0x00005231 File Offset: 0x00003431
 		[global::Cpp2ILInjected.Token(Token = "0x6000E06")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3E5DC", Offset = "0x1F3E5DC", Length = "0x11C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -256,7 +237,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CA0 RID: 3232 RVA: 0x00005234 File Offset: 0x00003434
 		[global::Cpp2ILInjected.Token(Token = "0x6000E07")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3E6F8", Offset = "0x1F3E6F8", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -272,7 +252,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CA1 RID: 3233 RVA: 0x00005237 File Offset: 0x00003437
 		[global::Cpp2ILInjected.Token(Token = "0x6000E08")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3E10C", Offset = "0x1F3E10C", Length = "0x4D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -300,7 +279,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000CA2 RID: 3234 RVA: 0x0000523A File Offset: 0x0000343A
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6000E09")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F3E79C", Offset = "0x1F3E79C", Length = "0x70")]
@@ -312,15 +290,12 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x04000917 RID: 2327
 		[global::Cpp2ILInjected.Token(Token = "0x4000BAF")]
 		private static ArrayList modules;
 
-		// Token: 0x04000918 RID: 2328
 		[global::Cpp2ILInjected.Token(Token = "0x4000BB0")]
 		private static object locker;
 
-		// Token: 0x04000919 RID: 2329
 		[global::Cpp2ILInjected.Token(Token = "0x4000BB1")]
 		private static ICredentialPolicy credential_policy;
 	}

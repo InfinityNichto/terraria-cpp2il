@@ -7,7 +7,6 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000042 RID: 66
 	[RequireComponent(typeof(Transform))]
 	[UsedByNativeCode]
 	[NativeHeader("Runtime/Graphics/Renderer.h")]
@@ -15,7 +14,6 @@ namespace UnityEngine
 	[global::Cpp2ILInjected.Token(Token = "0x2000045")]
 	public class Renderer : Component
 	{
-		// Token: 0x06000098 RID: 152
 		[FreeFunction(Name = "RendererScripting::GetMaterial", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60000A0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6D1C0", Offset = "0x1F6D1C0", Length = "0x3C")]
@@ -24,7 +22,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern Material GetMaterial();
 
-		// Token: 0x06000099 RID: 153
 		[FreeFunction(Name = "RendererScripting::GetSharedMaterial", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60000A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6D1FC", Offset = "0x1F6D1FC", Length = "0x3C")]
@@ -33,7 +30,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern Material GetSharedMaterial();
 
-		// Token: 0x0600009A RID: 154
 		[FreeFunction(Name = "RendererScripting::SetMaterial", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60000A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6D238", Offset = "0x1F6D238", Length = "0x44")]
@@ -42,7 +38,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void SetMaterial(Material m);
 
-		// Token: 0x0600009B RID: 155
 		[FreeFunction(Name = "RendererScripting::SetMaterialArray", HasExplicitThis = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x60000A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F6D27C", Offset = "0x1F6D27C", Length = "0x44")]
@@ -51,8 +46,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void SetMaterialArray([NotNull("ArgumentNullException")] Material[] m);
 
-		// Token: 0x1700001F RID: 31
-		// (get) Token: 0x0600009C RID: 156
 		[global::Cpp2ILInjected.Token(Token = "0x17000021")]
 		public extern int sortingLayerID
 		{
@@ -65,9 +58,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000020 RID: 32
-		// (get) Token: 0x0600009D RID: 157
-		// (set) Token: 0x0600009E RID: 158
 		[global::Cpp2ILInjected.Token(Token = "0x17000022")]
 		public extern int sortingOrder
 		{
@@ -92,8 +82,6 @@ namespace UnityEngine
 			set;
 		}
 
-		// Token: 0x17000021 RID: 33
-		// (set) Token: 0x0600009F RID: 159 RVA: 0x00002185 File Offset: 0x00000385
 		[global::Cpp2ILInjected.Token(Token = "0x17000023")]
 		public Material[] materials
 		{
@@ -118,9 +106,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000022 RID: 34
-		// (get) Token: 0x060000A0 RID: 160 RVA: 0x00002188 File Offset: 0x00000388
-		// (set) Token: 0x060000A1 RID: 161 RVA: 0x0000218B File Offset: 0x0000038B
 		[global::Cpp2ILInjected.Token(Token = "0x17000024")]
 		public Material material
 		{
@@ -160,9 +145,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000023 RID: 35
-		// (get) Token: 0x060000A2 RID: 162 RVA: 0x0000218E File Offset: 0x0000038E
-		// (set) Token: 0x060000A3 RID: 163 RVA: 0x00002191 File Offset: 0x00000391
 		[global::Cpp2ILInjected.Token(Token = "0x17000025")]
 		public Material sharedMaterial
 		{

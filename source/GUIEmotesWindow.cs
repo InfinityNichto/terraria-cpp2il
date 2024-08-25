@@ -18,11 +18,9 @@ using Terraria.Initializers;
 using Terraria.Localization;
 using UnityEngine;
 
-// Token: 0x020000DB RID: 219
 [global::Cpp2ILInjected.Token(Token = "0x200013C")]
 public class GUIEmotesWindow
 {
-	// Token: 0x06000766 RID: 1894 RVA: 0x00023177 File Offset: 0x00021377
 	[global::Cpp2ILInjected.Token(Token = "0x6000860")]
 	[global::Cpp2ILInjected.Address(RVA = "0x726A80", Offset = "0x726A80", Length = "0x208")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -41,7 +39,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000767 RID: 1895 RVA: 0x0002317A File Offset: 0x0002137A
 	[global::Cpp2ILInjected.Token(Token = "0x6000861")]
 	[global::Cpp2ILInjected.Address(RVA = "0x726C88", Offset = "0x726C88", Length = "0x16C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -70,7 +67,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000768 RID: 1896 RVA: 0x0002317D File Offset: 0x0002137D
 	[global::Cpp2ILInjected.Token(Token = "0x6000862")]
 	[global::Cpp2ILInjected.Address(RVA = "0x726ED4", Offset = "0x726ED4", Length = "0xD4")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIVirtualInputController), Member = "SecondaryUpdateCursor", MemberParameters = new object[] { typeof(global::Cursor) }, ReturnType = typeof(void))]
@@ -87,7 +83,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000769 RID: 1897 RVA: 0x00023180 File Offset: 0x00021380
 	[global::Cpp2ILInjected.Token(Token = "0x6000863")]
 	[global::Cpp2ILInjected.Address(RVA = "0x726DF4", Offset = "0x726DF4", Length = "0xE0")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -108,7 +103,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x0600076A RID: 1898 RVA: 0x00023183 File Offset: 0x00021383
 	[global::Cpp2ILInjected.Token(Token = "0x6000864")]
 	[global::Cpp2ILInjected.Address(RVA = "0x726FA8", Offset = "0x726FA8", Length = "0xA4C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +114,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x0600076B RID: 1899 RVA: 0x00023186 File Offset: 0x00021386
 	[global::Cpp2ILInjected.Token(Token = "0x6000865")]
 	[global::Cpp2ILInjected.Address(RVA = "0x7279F4", Offset = "0x7279F4", Length = "0x254")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -132,7 +125,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x0600076C RID: 1900 RVA: 0x00023189 File Offset: 0x00021389
 	[global::Cpp2ILInjected.Token(Token = "0x6000866")]
 	[global::Cpp2ILInjected.Address(RVA = "0x727C48", Offset = "0x727C48", Length = "0x840")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -144,7 +136,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x0600076D RID: 1901 RVA: 0x0002318C File Offset: 0x0002138C
 	[global::Cpp2ILInjected.Token(Token = "0x6000867")]
 	[global::Cpp2ILInjected.Address(RVA = "0x728488", Offset = "0x728488", Length = "0x840")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -156,7 +147,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x0600076E RID: 1902 RVA: 0x0002318F File Offset: 0x0002138F
 	[global::Cpp2ILInjected.Token(Token = "0x6000868")]
 	[global::Cpp2ILInjected.Address(RVA = "0x728CC8", Offset = "0x728CC8", Length = "0xAA8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -168,7 +158,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x0600076F RID: 1903 RVA: 0x00023192 File Offset: 0x00021392
 	[global::Cpp2ILInjected.Token(Token = "0x6000869")]
 	[global::Cpp2ILInjected.Address(RVA = "0x729770", Offset = "0x729770", Length = "0x5A8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -180,7 +169,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000770 RID: 1904 RVA: 0x00023195 File Offset: 0x00021395
 	[global::Cpp2ILInjected.Token(Token = "0x600086A")]
 	[global::Cpp2ILInjected.Address(RVA = "0x729D18", Offset = "0x729D18", Length = "0xC98")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -193,7 +181,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000771 RID: 1905 RVA: 0x00023198 File Offset: 0x00021398
 	[global::Cpp2ILInjected.Token(Token = "0x600086B")]
 	[global::Cpp2ILInjected.Address(RVA = "0x72A9B0", Offset = "0x72A9B0", Length = "0x270")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -234,7 +221,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000772 RID: 1906 RVA: 0x0002319B File Offset: 0x0002139B
 	[global::Cpp2ILInjected.Token(Token = "0x600086C")]
 	[global::Cpp2ILInjected.Address(RVA = "0x72AC20", Offset = "0x72AC20", Length = "0xC8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEmotesWindow), Member = "Draw", ReturnType = typeof(void))]
@@ -256,7 +242,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000773 RID: 1907 RVA: 0x0002319E File Offset: 0x0002139E
 	[global::Cpp2ILInjected.Token(Token = "0x600086D")]
 	[global::Cpp2ILInjected.Address(RVA = "0x72ACE8", Offset = "0x72ACE8", Length = "0x1D8")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIEmotesWindow), Member = "Draw", ReturnType = typeof(void))]
@@ -298,7 +283,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000774 RID: 1908 RVA: 0x000231A1 File Offset: 0x000213A1
 	[global::Cpp2ILInjected.Token(Token = "0x600086E")]
 	[global::Cpp2ILInjected.Address(RVA = "0x72AEC0", Offset = "0x72AEC0", Length = "0x714")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -365,7 +349,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000775 RID: 1909 RVA: 0x000231A4 File Offset: 0x000213A4
 	[global::Cpp2ILInjected.Token(Token = "0x600086F")]
 	[global::Cpp2ILInjected.Address(RVA = "0x72B5D4", Offset = "0x72B5D4", Length = "0x44")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -375,7 +358,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000776 RID: 1910 RVA: 0x000231A7 File Offset: 0x000213A7
 	[global::Cpp2ILInjected.Token(Token = "0x6000870")]
 	[global::Cpp2ILInjected.Address(RVA = "0x72B618", Offset = "0x72B618", Length = "0x37C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -433,7 +415,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000777 RID: 1911 RVA: 0x000231AA File Offset: 0x000213AA
 	[global::Cpp2ILInjected.Token(Token = "0x6000871")]
 	[global::Cpp2ILInjected.Address(RVA = "0x72B994", Offset = "0x72B994", Length = "0x84C")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -496,7 +477,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000778 RID: 1912 RVA: 0x000231AD File Offset: 0x000213AD
 	[global::Cpp2ILInjected.Token(Token = "0x6000872")]
 	[global::Cpp2ILInjected.Address(RVA = "0x72C1E0", Offset = "0x72C1E0", Length = "0xF8")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -524,7 +504,6 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x06000779 RID: 1913 RVA: 0x000231B0 File Offset: 0x000213B0
 	[global::Cpp2ILInjected.Token(Token = "0x6000873")]
 	[global::Cpp2ILInjected.Address(RVA = "0x72C2D8", Offset = "0x72C2D8", Length = "0x88")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -538,137 +517,107 @@ public class GUIEmotesWindow
 		throw null;
 	}
 
-	// Token: 0x040004F1 RID: 1265
 	[global::Cpp2ILInjected.Token(Token = "0x4000734")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 	public List<int> _emoteEntries;
 
-	// Token: 0x040004F2 RID: 1266
 	[global::Cpp2ILInjected.Token(Token = "0x4000735")]
 	private static Asset<Microsoft.Xna.Framework.Graphics.Texture2D> _emoteTexture;
 
-	// Token: 0x040004F3 RID: 1267
 	[global::Cpp2ILInjected.Token(Token = "0x4000736")]
 	private static Asset<Microsoft.Xna.Framework.Graphics.Texture2D> _emoteTextureBorder;
 
-	// Token: 0x040004F4 RID: 1268
 	[global::Cpp2ILInjected.Token(Token = "0x4000737")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 	private int _frameCounter;
 
-	// Token: 0x040004F5 RID: 1269
 	[global::Cpp2ILInjected.Token(Token = "0x4000738")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	private GUIEmotesWindow.Category CurrentSelection;
 
-	// Token: 0x040004F6 RID: 1270
 	[global::Cpp2ILInjected.Token(Token = "0x4000739")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	private float TimeSinceItemChange;
 
-	// Token: 0x040004F7 RID: 1271
 	[global::Cpp2ILInjected.Token(Token = "0x400073A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	private int emoteOver;
 
-	// Token: 0x040004F8 RID: 1272
 	[global::Cpp2ILInjected.Token(Token = "0x400073B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 	public bool DisplayingEmotes;
 
-	// Token: 0x040004F9 RID: 1273
 	[global::Cpp2ILInjected.Token(Token = "0x400073C")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 	public GUIInputRegionExclusive PickingInterceptor;
 
-	// Token: 0x040004FA RID: 1274
 	[global::Cpp2ILInjected.Token(Token = "0x400073D")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 	private float EmotesCloseScale;
 
-	// Token: 0x040004FB RID: 1275
 	[global::Cpp2ILInjected.Token(Token = "0x400073E")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x3C")]
 	private float emotesGeneralScale;
 
-	// Token: 0x040004FC RID: 1276
 	[global::Cpp2ILInjected.Token(Token = "0x400073F")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x40")]
 	private float emotesRPSScale;
 
-	// Token: 0x040004FD RID: 1277
 	[global::Cpp2ILInjected.Token(Token = "0x4000740")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x44")]
 	private float emotesItemsScale;
 
-	// Token: 0x040004FE RID: 1278
 	[global::Cpp2ILInjected.Token(Token = "0x4000741")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x48")]
 	private float emotesBiomesAndEventsScale;
 
-	// Token: 0x040004FF RID: 1279
 	[global::Cpp2ILInjected.Token(Token = "0x4000742")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4C")]
 	private float emotesTownNPCsScale;
 
-	// Token: 0x04000500 RID: 1280
 	[global::Cpp2ILInjected.Token(Token = "0x4000743")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x50")]
 	private float emotesCrittersScale;
 
-	// Token: 0x04000501 RID: 1281
 	[global::Cpp2ILInjected.Token(Token = "0x4000744")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x54")]
 	private float emotesBossesScale;
 
-	// Token: 0x04000502 RID: 1282
 	[global::Cpp2ILInjected.Token(Token = "0x4000745")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x58")]
 	public float emoteScrollOffset;
 
-	// Token: 0x04000503 RID: 1283
 	[global::Cpp2ILInjected.Token(Token = "0x4000746")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x5C")]
 	private float emoteScrollMomentum;
 
-	// Token: 0x04000504 RID: 1284
 	[global::Cpp2ILInjected.Token(Token = "0x4000747")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x60")]
 	private int emoteScrollDragging;
 
-	// Token: 0x04000505 RID: 1285
 	[global::Cpp2ILInjected.Token(Token = "0x4000748")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x64")]
 	private Microsoft.Xna.Framework.Vector2 emoteDragOffset;
 
-	// Token: 0x04000506 RID: 1286
 	[global::Cpp2ILInjected.Token(Token = "0x4000749")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x6C")]
 	private float TitleScale;
 
-	// Token: 0x020007C2 RID: 1986
 	[global::Cpp2ILInjected.Token(Token = "0x200013D")]
 	public enum Category
 	{
-		// Token: 0x04007A0E RID: 31246
 		[global::Cpp2ILInjected.Token(Token = "0x400074B")]
 		General,
-		// Token: 0x04007A0F RID: 31247
 		[global::Cpp2ILInjected.Token(Token = "0x400074C")]
 		RPS,
-		// Token: 0x04007A10 RID: 31248
 		[global::Cpp2ILInjected.Token(Token = "0x400074D")]
 		Items,
-		// Token: 0x04007A11 RID: 31249
 		[global::Cpp2ILInjected.Token(Token = "0x400074E")]
 		BiomesAndEvents,
-		// Token: 0x04007A12 RID: 31250
 		[global::Cpp2ILInjected.Token(Token = "0x400074F")]
 		TownNPCs,
-		// Token: 0x04007A13 RID: 31251
 		[global::Cpp2ILInjected.Token(Token = "0x4000750")]
 		Critters,
-		// Token: 0x04007A14 RID: 31252
 		[global::Cpp2ILInjected.Token(Token = "0x4000751")]
 		Bosses
 	}

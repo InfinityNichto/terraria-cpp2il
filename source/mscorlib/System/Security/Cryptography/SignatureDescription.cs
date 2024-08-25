@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Security.Cryptography
 {
-	// Token: 0x02000264 RID: 612
 	[global::System.Runtime.InteropServices.ComVisible(true)]
 	[global::Cpp2ILInjected.Token(Token = "0x2000301")]
 	public class SignatureDescription
 	{
-		// Token: 0x060017F8 RID: 6136 RVA: 0x00018878 File Offset: 0x00016A78
 		[global::Cpp2ILInjected.Token(Token = "0x6001A12")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B105C8", Offset = "0x1B105C8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,7 +18,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x060017F9 RID: 6137 RVA: 0x0001887B File Offset: 0x00016A7B
 		[global::Cpp2ILInjected.Token(Token = "0x6001A13")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B105D0", Offset = "0x1B105D0", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -33,9 +30,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x17000278 RID: 632
-		// (get) Token: 0x060017FA RID: 6138 RVA: 0x0001887E File Offset: 0x00016A7E
-		// (set) Token: 0x060017FB RID: 6139 RVA: 0x00018881 File Offset: 0x00016A81
 		[global::Cpp2ILInjected.Token(Token = "0x170002CE")]
 		public string KeyAlgorithm
 		{
@@ -55,9 +49,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x17000279 RID: 633
-		// (get) Token: 0x060017FC RID: 6140 RVA: 0x00018884 File Offset: 0x00016A84
-		// (set) Token: 0x060017FD RID: 6141 RVA: 0x00018887 File Offset: 0x00016A87
 		[global::Cpp2ILInjected.Token(Token = "0x170002CF")]
 		public string DigestAlgorithm
 		{
@@ -77,9 +68,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x1700027A RID: 634
-		// (get) Token: 0x060017FE RID: 6142 RVA: 0x0001888A File Offset: 0x00016A8A
-		// (set) Token: 0x060017FF RID: 6143 RVA: 0x0001888D File Offset: 0x00016A8D
 		[global::Cpp2ILInjected.Token(Token = "0x170002D0")]
 		public string FormatterAlgorithm
 		{
@@ -99,9 +87,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x1700027B RID: 635
-		// (get) Token: 0x06001800 RID: 6144 RVA: 0x00018890 File Offset: 0x00016A90
-		// (set) Token: 0x06001801 RID: 6145 RVA: 0x00018893 File Offset: 0x00016A93
 		[global::Cpp2ILInjected.Token(Token = "0x170002D1")]
 		public string DeformatterAlgorithm
 		{
@@ -121,7 +106,6 @@ namespace System.Security.Cryptography
 			}
 		}
 
-		// Token: 0x06001802 RID: 6146 RVA: 0x00018896 File Offset: 0x00016A96
 		[global::Cpp2ILInjected.Token(Token = "0x6001A1C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B10740", Offset = "0x1B10740", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -134,7 +118,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001803 RID: 6147 RVA: 0x00018899 File Offset: 0x00016A99
 		[global::Cpp2ILInjected.Token(Token = "0x6001A1D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B10808", Offset = "0x1B10808", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -147,7 +130,6 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x06001804 RID: 6148 RVA: 0x0001889C File Offset: 0x00016A9C
 		[global::Cpp2ILInjected.Token(Token = "0x6001A1E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B108D0", Offset = "0x1B108D0", Length = "0xA4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -159,22 +141,18 @@ namespace System.Security.Cryptography
 			throw null;
 		}
 
-		// Token: 0x04000A4C RID: 2636
 		[global::Cpp2ILInjected.Token(Token = "0x4000D26")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private string _strKey;
 
-		// Token: 0x04000A4D RID: 2637
 		[global::Cpp2ILInjected.Token(Token = "0x4000D27")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string _strDigest;
 
-		// Token: 0x04000A4E RID: 2638
 		[global::Cpp2ILInjected.Token(Token = "0x4000D28")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private string _strFormatter;
 
-		// Token: 0x04000A4F RID: 2639
 		[global::Cpp2ILInjected.Token(Token = "0x4000D29")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private string _strDeformatter;

@@ -6,11 +6,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net
 {
-	// Token: 0x02000119 RID: 281
 	[global::Cpp2ILInjected.Token(Token = "0x20001A0")]
 	internal static class NclUtilities
 	{
-		// Token: 0x06000967 RID: 2407 RVA: 0x000048D4 File Offset: 0x00002AD4
 		[global::Cpp2ILInjected.Token(Token = "0x6000A76")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0E300", Offset = "0x1F0E300", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,8 +23,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000211 RID: 529
-		// (get) Token: 0x06000968 RID: 2408 RVA: 0x000048D7 File Offset: 0x00002AD7
 		[global::Cpp2ILInjected.Token(Token = "0x1700021C")]
 		internal static bool HasShutdownStarted
 		{
@@ -42,7 +38,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x06000969 RID: 2409 RVA: 0x000048DA File Offset: 0x00002ADA
 		[global::Cpp2ILInjected.Token(Token = "0x6000A78")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0E35C", Offset = "0x1F0E35C", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -52,7 +47,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600096A RID: 2410 RVA: 0x000048DD File Offset: 0x00002ADD
 		[global::Cpp2ILInjected.Token(Token = "0x6000A79")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0E3B4", Offset = "0x1F0E3B4", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,8 +56,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000212 RID: 530
-		// (get) Token: 0x0600096B RID: 2411 RVA: 0x000048E0 File Offset: 0x00002AE0
 		[global::Cpp2ILInjected.Token(Token = "0x1700021D")]
 		internal static ContextCallback ContextRelativeDemandCallback
 		{
@@ -82,7 +74,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x0600096C RID: 2412 RVA: 0x000048E3 File Offset: 0x00002AE3
 		[global::Cpp2ILInjected.Token(Token = "0x6000A7B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0E4C8", Offset = "0x1F0E4C8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -91,7 +82,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600096D RID: 2413 RVA: 0x000048E6 File Offset: 0x00002AE6
 		[global::Cpp2ILInjected.Token(Token = "0x6000A7C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0E4CC", Offset = "0x1F0E4CC", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -107,7 +97,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600096E RID: 2414 RVA: 0x000048E9 File Offset: 0x00002AE9
 		[global::Cpp2ILInjected.Token(Token = "0x6000A7D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0E55C", Offset = "0x1F0E55C", Length = "0xC0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -120,7 +109,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x0600096F RID: 2415 RVA: 0x000048EC File Offset: 0x00002AEC
 		[global::Cpp2ILInjected.Token(Token = "0x6000A7E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0E61C", Offset = "0x1F0E61C", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -137,7 +125,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x06000970 RID: 2416 RVA: 0x000048EF File Offset: 0x00002AEF
 		[global::Cpp2ILInjected.Token(Token = "0x6000A7F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1F0EAEC", Offset = "0x1F0EAEC", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(NclUtilities), Member = "get_LocalAddresses", ReturnType = typeof(IPAddress[]))]
@@ -150,8 +137,6 @@ namespace System.Net
 			throw null;
 		}
 
-		// Token: 0x17000213 RID: 531
-		// (get) Token: 0x06000971 RID: 2417 RVA: 0x000048F2 File Offset: 0x00002AF2
 		[global::Cpp2ILInjected.Token(Token = "0x1700021E")]
 		internal static IPAddress[] LocalAddresses
 		{
@@ -181,8 +166,6 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x17000214 RID: 532
-		// (get) Token: 0x06000972 RID: 2418 RVA: 0x000048F5 File Offset: 0x00002AF5
 		[global::Cpp2ILInjected.Token(Token = "0x1700021F")]
 		private static object LocalAddressesLock
 		{
@@ -204,23 +187,18 @@ namespace System.Net
 			}
 		}
 
-		// Token: 0x04000639 RID: 1593
 		[global::Cpp2ILInjected.Token(Token = "0x4000852")]
 		private static ContextCallback s_ContextRelativeDemandCallback;
 
-		// Token: 0x0400063A RID: 1594
 		[global::Cpp2ILInjected.Token(Token = "0x4000853")]
 		private static IPAddress[] _LocalAddresses;
 
-		// Token: 0x0400063B RID: 1595
 		[global::Cpp2ILInjected.Token(Token = "0x4000854")]
 		private static object _LocalAddressesLock;
 
-		// Token: 0x0400063C RID: 1596
 		[global::Cpp2ILInjected.Token(Token = "0x4000855")]
 		private const int HostNameBufferLength = 256;
 
-		// Token: 0x0400063D RID: 1597
 		[global::Cpp2ILInjected.Token(Token = "0x4000856")]
 		internal static string _LocalDomainName;
 	}

@@ -9,14 +9,12 @@ using UnityEngine.Scripting;
 
 namespace UnityEngine
 {
-	// Token: 0x02000005 RID: 5
 	[UsedByNativeCode]
 	[NativeHeader("Modules/TextRendering/TextGenerator.h")]
 	[global::Cpp2ILInjected.Token(Token = "0x2000005")]
 	[StructLayout(0)]
 	public sealed class TextGenerator : IDisposable
 	{
-		// Token: 0x06000004 RID: 4 RVA: 0x00002059 File Offset: 0x00000259
 		[global::Cpp2ILInjected.Token(Token = "0x6000004")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4678", Offset = "0x1FA4678", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "get_cachedInputTextGenerator", ReturnType = typeof(TextGenerator))]
@@ -28,7 +26,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000005 RID: 5 RVA: 0x0000205C File Offset: 0x0000025C
 		[global::Cpp2ILInjected.Token(Token = "0x6000005")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4680", Offset = "0x1FA4680", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -44,7 +41,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000006 RID: 6 RVA: 0x0000205F File Offset: 0x0000025F
 		[global::Cpp2ILInjected.Token(Token = "0x6000006")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA47F4", Offset = "0x1FA47F4", Length = "0x110")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -56,7 +52,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000007 RID: 7 RVA: 0x00002062 File Offset: 0x00000262
 		[global::Cpp2ILInjected.Token(Token = "0x6000007")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4904", Offset = "0x1FA4904", Length = "0xA0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -72,8 +67,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x17000001 RID: 1
-		// (get) Token: 0x06000008 RID: 8 RVA: 0x00002065 File Offset: 0x00000265
 		[global::Cpp2ILInjected.Token(Token = "0x17000001")]
 		public int characterCountVisible
 		{
@@ -100,7 +93,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x06000009 RID: 9 RVA: 0x00002068 File Offset: 0x00000268
 		[global::Cpp2ILInjected.Token(Token = "0x6000009")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4A60", Offset = "0x1FA4A60", Length = "0x28C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -128,7 +120,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000A RID: 10 RVA: 0x0000206B File Offset: 0x0000026B
 		[global::Cpp2ILInjected.Token(Token = "0x600000A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4D28", Offset = "0x1FA4D28", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.Text", Member = "FontTextureChanged", ReturnType = typeof(void))]
@@ -139,7 +130,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000B RID: 11 RVA: 0x0000206E File Offset: 0x0000026E
 		[global::Cpp2ILInjected.Token(Token = "0x600000B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4D30", Offset = "0x1FA4D30", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -149,7 +139,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000C RID: 12 RVA: 0x00002071 File Offset: 0x00000271
 		[global::Cpp2ILInjected.Token(Token = "0x600000C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4DB8", Offset = "0x1FA4DB8", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -159,7 +148,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000D RID: 13 RVA: 0x00002074 File Offset: 0x00000274
 		[global::Cpp2ILInjected.Token(Token = "0x600000D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4E40", Offset = "0x1FA4E40", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -169,7 +157,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000E RID: 14 RVA: 0x00002077 File Offset: 0x00000277
 		[global::Cpp2ILInjected.Token(Token = "0x600000E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4EC8", Offset = "0x1FA4EC8", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -189,7 +176,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600000F RID: 15 RVA: 0x0000207A File Offset: 0x0000027A
 		[global::Cpp2ILInjected.Token(Token = "0x600000F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4FE4", Offset = "0x1FA4FE4", Length = "0x70")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "get_preferredHeight", ReturnType = typeof(float))]
@@ -208,7 +194,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000010 RID: 16 RVA: 0x0000207D File Offset: 0x0000027D
 		[global::Cpp2ILInjected.Token(Token = "0x6000010")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA5054", Offset = "0x1FA5054", Length = "0x190")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "UnityEngine.UI.InputField", Member = "UpdateLabel", ReturnType = typeof(void))]
@@ -231,7 +216,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000011 RID: 17 RVA: 0x00002080 File Offset: 0x00000280
 		[global::Cpp2ILInjected.Token(Token = "0x6000011")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4F3C", Offset = "0x1FA4F3C", Length = "0x50")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -247,7 +231,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000012 RID: 18 RVA: 0x00002083 File Offset: 0x00000283
 		[global::Cpp2ILInjected.Token(Token = "0x6000012")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA51E4", Offset = "0x1FA51E4", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TextGenerator), Member = "GetPreferredWidth", MemberParameters = new object[]
@@ -289,7 +272,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x06000013 RID: 19 RVA: 0x00002086 File Offset: 0x00000286
 		[global::Cpp2ILInjected.Token(Token = "0x6000013")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA5274", Offset = "0x1FA5274", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -329,8 +311,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x17000002 RID: 2
-		// (get) Token: 0x06000014 RID: 20 RVA: 0x00002089 File Offset: 0x00000289
 		[global::Cpp2ILInjected.Token(Token = "0x17000002")]
 		public IList<UIVertex> verts
 		{
@@ -346,8 +326,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000003 RID: 3
-		// (get) Token: 0x06000015 RID: 21 RVA: 0x0000208C File Offset: 0x0000028C
 		[global::Cpp2ILInjected.Token(Token = "0x17000003")]
 		public IList<UICharInfo> characters
 		{
@@ -384,8 +362,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000004 RID: 4
-		// (get) Token: 0x06000016 RID: 22 RVA: 0x0000208F File Offset: 0x0000028F
 		[global::Cpp2ILInjected.Token(Token = "0x17000004")]
 		public IList<UILineInfo> lines
 		{
@@ -442,8 +418,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000005 RID: 5
-		// (get) Token: 0x06000017 RID: 23 RVA: 0x00002092 File Offset: 0x00000292
 		[global::Cpp2ILInjected.Token(Token = "0x17000005")]
 		public Rect rectExtents
 		{
@@ -469,8 +443,6 @@ namespace UnityEngine
 			}
 		}
 
-		// Token: 0x17000006 RID: 6
-		// (get) Token: 0x06000018 RID: 24
 		[global::Cpp2ILInjected.Token(Token = "0x17000006")]
 		public extern int characterCount
 		{
@@ -487,8 +459,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x17000007 RID: 7
-		// (get) Token: 0x06000019 RID: 25
 		[global::Cpp2ILInjected.Token(Token = "0x17000007")]
 		public extern int lineCount
 		{
@@ -527,7 +497,6 @@ namespace UnityEngine
 			get;
 		}
 
-		// Token: 0x0600001A RID: 26
 		[NativeMethod(IsThreadSafe = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x600001A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA47CC", Offset = "0x1FA47CC", Length = "0x28")]
@@ -536,7 +505,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern IntPtr Internal_Create();
 
-		// Token: 0x0600001B RID: 27
 		[NativeMethod(IsThreadSafe = true)]
 		[global::Cpp2ILInjected.Token(Token = "0x600001B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA49A4", Offset = "0x1FA49A4", Length = "0x3C")]
@@ -545,7 +513,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private static extern void Internal_Destroy(IntPtr ptr);
 
-		// Token: 0x0600001C RID: 28 RVA: 0x00002095 File Offset: 0x00000295
 		[global::Cpp2ILInjected.Token(Token = "0x600001C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA56BC", Offset = "0x1FA56BC", Length = "0x14C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -579,7 +546,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600001D RID: 29 RVA: 0x00002098 File Offset: 0x00000298
 		[global::Cpp2ILInjected.Token(Token = "0x600001D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA537C", Offset = "0x1FA537C", Length = "0x1AC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TextGenerator), Member = "PopulateAlways", MemberParameters = new object[]
@@ -624,7 +590,6 @@ namespace UnityEngine
 			throw null;
 		}
 
-		// Token: 0x0600001E RID: 30
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x600001E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4E84", Offset = "0x1FA4E84", Length = "0x44")]
@@ -633,7 +598,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void GetVerticesInternal(object vertices);
 
-		// Token: 0x0600001F RID: 31
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x600001F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4D74", Offset = "0x1FA4D74", Length = "0x44")]
@@ -642,7 +606,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void GetCharactersInternal(object characters);
 
-		// Token: 0x06000020 RID: 32
 		[NativeThrows]
 		[global::Cpp2ILInjected.Token(Token = "0x6000020")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA4DFC", Offset = "0x1FA4DFC", Length = "0x44")]
@@ -651,7 +614,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void GetLinesInternal(object lines);
 
-		// Token: 0x06000021 RID: 33
 		[global::Cpp2ILInjected.Token(Token = "0x6000021")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA563C", Offset = "0x1FA563C", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -659,7 +621,6 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern void get_rectExtents_Injected(out Rect ret);
 
-		// Token: 0x06000022 RID: 34
 		[global::Cpp2ILInjected.Token(Token = "0x6000022")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA5808", Offset = "0x1FA5808", Length = "0x130")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -667,57 +628,46 @@ namespace UnityEngine
 		[MethodImpl(4096)]
 		private extern bool Populate_Internal_Injected(string str, Font font, ref Color color, int fontSize, float scaleFactor, float lineSpacing, FontStyle style, bool richText, bool resizeTextForBestFit, int resizeTextMinSize, int resizeTextMaxSize, int verticalOverFlow, int horizontalOverflow, bool updateBounds, TextAnchor anchor, float extentsX, float extentsY, float pivotX, float pivotY, bool generateOutOfBounds, bool alignByGeometry, out uint error);
 
-		// Token: 0x0400001D RID: 29
 		[global::Cpp2ILInjected.Token(Token = "0x400001D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal IntPtr m_Ptr;
 
-		// Token: 0x0400001E RID: 30
 		[global::Cpp2ILInjected.Token(Token = "0x400001E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string m_LastString;
 
-		// Token: 0x0400001F RID: 31
 		[global::Cpp2ILInjected.Token(Token = "0x400001F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private TextGenerationSettings m_LastSettings;
 
-		// Token: 0x04000020 RID: 32
 		[global::Cpp2ILInjected.Token(Token = "0x4000020")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x80")]
 		private bool m_HasGenerated;
 
-		// Token: 0x04000021 RID: 33
 		[global::Cpp2ILInjected.Token(Token = "0x4000021")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x84")]
 		private TextGenerationError m_LastValid;
 
-		// Token: 0x04000022 RID: 34
 		[global::Cpp2ILInjected.Token(Token = "0x4000022")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x88")]
 		private readonly List<UIVertex> m_Verts;
 
-		// Token: 0x04000023 RID: 35
 		[global::Cpp2ILInjected.Token(Token = "0x4000023")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x90")]
 		private readonly List<UICharInfo> m_Characters;
 
-		// Token: 0x04000024 RID: 36
 		[global::Cpp2ILInjected.Token(Token = "0x4000024")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x98")]
 		private readonly List<UILineInfo> m_Lines;
 
-		// Token: 0x04000025 RID: 37
 		[global::Cpp2ILInjected.Token(Token = "0x4000025")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA0")]
 		private bool m_CachedVerts;
 
-		// Token: 0x04000026 RID: 38
 		[global::Cpp2ILInjected.Token(Token = "0x4000026")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA1")]
 		private bool m_CachedCharacters;
 
-		// Token: 0x04000027 RID: 39
 		[global::Cpp2ILInjected.Token(Token = "0x4000027")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0xA2")]
 		private bool m_CachedLines;

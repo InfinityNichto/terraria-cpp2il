@@ -1,9 +1,0 @@
-<map id="System.Runtime.Serialization.FixupHolder" name="System.Runtime.Serialization.FixupHolder">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,216,243"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="11,5,53,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,70,60,108,65,118,61,121,55,110,39,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="83,5,138,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,71,113,117,108,117,108,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="219,5,250,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,72,208,111,197,123,193,120,203,108,223,69"/>
-</map>

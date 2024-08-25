@@ -1,9 +1,0 @@
-<map id="Mono.Net.Security.MonoSslAuthenticationOptions" name="Mono.Net.Security.MonoSslAuthenticationOptions">
-<area shape="rect" id="Node000001" title=" " alt="" coords="307,5,556,353"/>
-<area shape="rect" id="Node000002" href="$dd/d3b/classMono_1_1Net_1_1Security_1_1MonoSslClientAuthenticationOptions.html" title=" " alt="" coords="5,416,273,808"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,366,274,417,269,414,304,363"/>
-<area shape="rect" id="Node000003" href="$d3/db3/classMono_1_1Net_1_1Security_1_1MonoSslServerAuthenticationOptions.html" title=" " alt="" coords="297,416,565,808"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="434,367,434,416,429,416,429,367"/>
-<area shape="rect" id="Node000004" href="$d1/d00/classMono_1_1Net_1_1Security_1_1MonoSslAuthenticationOptions.html" title=" " alt="" coords="589,431,839,793"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="555,364,598,429,593,432,550,366"/>
-</map>

@@ -10,11 +10,9 @@ using Terraria.Localization;
 
 namespace Terraria.GameContent.Bestiary
 {
-	// Token: 0x02000620 RID: 1568
 	[global::Cpp2ILInjected.Token(Token = "0x2000943")]
 	public class UnlockableNPCEntryIcon : IEntryIcon
 	{
-		// Token: 0x06003E87 RID: 16007 RVA: 0x0002D2B4 File Offset: 0x0002B4B4
 		[global::Cpp2ILInjected.Token(Token = "0x600479B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x819C4C", Offset = "0x819C4C", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -43,7 +41,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E88 RID: 16008 RVA: 0x0002D2B7 File Offset: 0x0002B4B7
 		[global::Cpp2ILInjected.Token(Token = "0x600479C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81AA60", Offset = "0x81AA60", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -62,7 +59,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E89 RID: 16009 RVA: 0x0002D2BA File Offset: 0x0002B4BA
 		[global::Cpp2ILInjected.Token(Token = "0x600479D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81AAD4", Offset = "0x81AAD4", Length = "0x418")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -85,7 +81,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E8A RID: 16010 RVA: 0x0002D2BD File Offset: 0x0002B4BD
 		[global::Cpp2ILInjected.Token(Token = "0x600479E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81AEEC", Offset = "0x81AEEC", Length = "0x214")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -130,7 +125,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E8B RID: 16011 RVA: 0x0002D2C0 File Offset: 0x0002B4C0
 		[global::Cpp2ILInjected.Token(Token = "0x600479F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81B100", Offset = "0x81B100", Length = "0x300")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -166,7 +160,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E8C RID: 16012 RVA: 0x0002D2C3 File Offset: 0x0002B4C3
 		[global::Cpp2ILInjected.Token(Token = "0x60047A0")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81B400", Offset = "0x81B400", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -184,7 +177,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E8D RID: 16013 RVA: 0x0002D2C6 File Offset: 0x0002B4C6
 		[global::Cpp2ILInjected.Token(Token = "0x60047A1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81B45C", Offset = "0x81B45C", Length = "0x380")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -227,7 +219,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E8E RID: 16014 RVA: 0x0002D2C9 File Offset: 0x0002B4C9
 		[global::Cpp2ILInjected.Token(Token = "0x60047A2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81B7DC", Offset = "0x81B7DC", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -241,7 +232,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003E8F RID: 16015 RVA: 0x0002D2CC File Offset: 0x0002B4CC
 		[global::Cpp2ILInjected.Token(Token = "0x60047A3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x81B894", Offset = "0x81B894", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -251,37 +241,30 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x04006C4F RID: 27727
 		[global::Cpp2ILInjected.Token(Token = "0x400836E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private int lastFrameVisualsUpdated;
 
-		// Token: 0x04006C50 RID: 27728
 		[global::Cpp2ILInjected.Token(Token = "0x400836F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private int _npcNetId;
 
-		// Token: 0x04006C51 RID: 27729
 		[global::Cpp2ILInjected.Token(Token = "0x4008370")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private NPC _npcCache;
 
-		// Token: 0x04006C52 RID: 27730
 		[global::Cpp2ILInjected.Token(Token = "0x4008371")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		private bool _firstUpdateDone;
 
-		// Token: 0x04006C53 RID: 27731
 		[global::Cpp2ILInjected.Token(Token = "0x4008372")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		private Asset<Texture2D> _customTexture;
 
-		// Token: 0x04006C54 RID: 27732
 		[global::Cpp2ILInjected.Token(Token = "0x4008373")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private Vector2 _positionOffsetCache;
 
-		// Token: 0x04006C55 RID: 27733
 		[global::Cpp2ILInjected.Token(Token = "0x4008374")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x38")]
 		private string _overrideNameKey;

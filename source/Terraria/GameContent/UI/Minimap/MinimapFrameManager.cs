@@ -10,11 +10,9 @@ using Terraria.IO;
 
 namespace Terraria.GameContent.UI.Minimap
 {
-	// Token: 0x020006B2 RID: 1714
 	[global::Cpp2ILInjected.Token(Token = "0x2000A8C")]
 	public class MinimapFrameManager : SelectionHolder<MinimapFrame>
 	{
-		// Token: 0x0600438E RID: 17294 RVA: 0x0002E157 File Offset: 0x0002C357
 		[global::Cpp2ILInjected.Token(Token = "0x6004FC8")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9013E8", Offset = "0x9013E8", Length = "0xB0")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -30,7 +28,6 @@ namespace Terraria.GameContent.UI.Minimap
 			throw null;
 		}
 
-		// Token: 0x0600438F RID: 17295 RVA: 0x0002E15A File Offset: 0x0002C35A
 		[global::Cpp2ILInjected.Token(Token = "0x6004FC9")]
 		[global::Cpp2ILInjected.Address(RVA = "0x901498", Offset = "0x901498", Length = "0x5C")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -45,7 +42,6 @@ namespace Terraria.GameContent.UI.Minimap
 			throw null;
 		}
 
-		// Token: 0x06004390 RID: 17296 RVA: 0x0002E15D File Offset: 0x0002C35D
 		[global::Cpp2ILInjected.Token(Token = "0x6004FCA")]
 		[global::Cpp2ILInjected.Address(RVA = "0x9014F4", Offset = "0x9014F4", Length = "0x674")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -69,7 +65,6 @@ namespace Terraria.GameContent.UI.Minimap
 			throw null;
 		}
 
-		// Token: 0x06004391 RID: 17297 RVA: 0x0002E160 File Offset: 0x0002C360
 		[global::Cpp2ILInjected.Token(Token = "0x6004FCB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x901B68", Offset = "0x901B68", Length = "0xF4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(MinimapFrameManager), Member = "PopulateOptionsAndLoadContent", MemberParameters = new object[] { typeof(AssetRequestMode) }, ReturnType = typeof(void))]
@@ -87,7 +82,6 @@ namespace Terraria.GameContent.UI.Minimap
 			throw null;
 		}
 
-		// Token: 0x06004392 RID: 17298 RVA: 0x0002E163 File Offset: 0x0002C363
 		[global::Cpp2ILInjected.Token(Token = "0x6004FCC")]
 		[global::Cpp2ILInjected.Address(RVA = "0x901E8C", Offset = "0x901E8C", Length = "0x34")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -98,7 +92,6 @@ namespace Terraria.GameContent.UI.Minimap
 			throw null;
 		}
 
-		// Token: 0x06004393 RID: 17299 RVA: 0x0002E166 File Offset: 0x0002C366
 		[global::Cpp2ILInjected.Token(Token = "0x6004FCD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x901EC0", Offset = "0x901EC0", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -108,7 +101,6 @@ namespace Terraria.GameContent.UI.Minimap
 			throw null;
 		}
 
-		// Token: 0x06004394 RID: 17300 RVA: 0x0002E169 File Offset: 0x0002C369
 		[global::Cpp2ILInjected.Token(Token = "0x6004FCE")]
 		[global::Cpp2ILInjected.Address(RVA = "0x901EC8", Offset = "0x901EC8", Length = "0x48")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

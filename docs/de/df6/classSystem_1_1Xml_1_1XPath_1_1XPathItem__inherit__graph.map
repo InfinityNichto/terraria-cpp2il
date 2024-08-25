@@ -1,9 +1,0 @@
-<map id="System.Xml.XPath.XPathItem" name="System.Xml.XPath.XPathItem">
-<area shape="rect" id="Node000001" title=" " alt="" coords="183,5,401,315"/>
-<area shape="rect" id="Node000002" href="$de/d04/classSystem_1_1Xml_1_1Schema_1_1XmlAtomicValue.html" title=" " alt="" coords="5,423,283,1281"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,329,239,423,233,422,254,328"/>
-<area shape="rect" id="Node000003" href="$db/d27/classSystem_1_1Xml_1_1XPath_1_1XPathNavigator.html" title=" " alt="" coords="307,363,573,1341"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="330,327,338,362,333,363,325,328"/>
-<area shape="rect" id="Node000004" href="$d7/d17/classMS_1_1Internal_1_1Xml_1_1Cache_1_1XPathDocumentNavigator.html" title=" " alt="" coords="308,1389,572,1965"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,1355,443,1389,437,1389,437,1355"/>
-</map>

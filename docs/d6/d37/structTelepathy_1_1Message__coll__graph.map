@@ -1,9 +1,0 @@
-<map id="Telepathy.Message" name="Telepathy.Message">
-<area shape="rect" id="Node000001" title=" " alt="" coords="46,133,254,228"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,70,37,90,48,108,59,120,55,124,44,111,33,92,25,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="79,5,221,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,71,153,117,147,117,147,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="246,5,289,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,72,240,111,230,123,226,120,236,108,256,70"/>
-</map>

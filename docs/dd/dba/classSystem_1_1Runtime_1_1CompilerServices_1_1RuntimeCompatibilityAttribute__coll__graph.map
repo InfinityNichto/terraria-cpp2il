@@ -1,9 +1,0 @@
-<map id="System.Runtime.CompilerServices.RuntimeCompatibilityAttribute" name="System.Runtime.CompilerServices.RuntimeCompatibilityAttribute">
-<area shape="rect" id="Node000001" title=" " alt="" coords="35,261,279,341"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,173,199"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,210,140,260,135,262,109,212"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="197,133,440,199"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,201,219,253,216,249,279,197"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="297,5,340,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="321,85,321,133,316,133,316,85"/>
-</map>

@@ -5,12 +5,10 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Text
 {
-	// Token: 0x020001E4 RID: 484
 	[global::Cpp2ILInjected.Token(Token = "0x2000269")]
 	[global::System.Serializable]
 	public abstract class Encoder
 	{
-		// Token: 0x06001313 RID: 4883 RVA: 0x00017A89 File Offset: 0x00015C89
 		[global::Cpp2ILInjected.Token(Token = "0x60014CD")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB3A10", Offset = "0x1CB3A10", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(EncoderNLS), Member = ".ctor", MemberParameters = new object[] { typeof(Encoding) }, ReturnType = typeof(void))]
@@ -35,8 +33,6 @@ namespace System.Text
 			throw null;
 		}
 
-		// Token: 0x170001CD RID: 461
-		// (get) Token: 0x06001314 RID: 4884 RVA: 0x00017A8C File Offset: 0x00015C8C
 		[global::Cpp2ILInjected.Token(Token = "0x17000210")]
 		public EncoderFallback Fallback
 		{
@@ -49,8 +45,6 @@ namespace System.Text
 			}
 		}
 
-		// Token: 0x170001CE RID: 462
-		// (get) Token: 0x06001315 RID: 4885 RVA: 0x00017A8F File Offset: 0x00015C8F
 		[global::Cpp2ILInjected.Token(Token = "0x17000211")]
 		public unsafe EncoderFallbackBuffer FallbackBuffer
 		{
@@ -149,8 +143,6 @@ namespace System.Text
 			}
 		}
 
-		// Token: 0x170001CF RID: 463
-		// (get) Token: 0x06001316 RID: 4886 RVA: 0x00017A92 File Offset: 0x00015C92
 		[global::Cpp2ILInjected.Token(Token = "0x17000212")]
 		internal unsafe bool InternalHasFallbackBuffer
 		{
@@ -206,7 +198,6 @@ namespace System.Text
 			}
 		}
 
-		// Token: 0x06001317 RID: 4887 RVA: 0x00017A95 File Offset: 0x00015C95
 		[global::Cpp2ILInjected.Token(Token = "0x60014D1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB3A20", Offset = "0x1CB3A20", Length = "0xE4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -217,11 +208,9 @@ namespace System.Text
 			throw null;
 		}
 
-		// Token: 0x06001318 RID: 4888
 		[global::Cpp2ILInjected.Token(Token = "0x60014D2")]
 		public abstract int GetByteCount(char[] chars, int index, int count, bool flush);
 
-		// Token: 0x06001319 RID: 4889 RVA: 0x00017A98 File Offset: 0x00015C98
 		[global::System.CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x60014D3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB3B04", Offset = "0x1CB3B04", Length = "0x144")]
@@ -243,11 +232,9 @@ namespace System.Text
 			throw null;
 		}
 
-		// Token: 0x0600131A RID: 4890
 		[global::Cpp2ILInjected.Token(Token = "0x60014D4")]
 		public abstract int GetBytes(char[] chars, int charIndex, int charCount, byte[] bytes, int byteIndex, bool flush);
 
-		// Token: 0x0600131B RID: 4891 RVA: 0x00017A9B File Offset: 0x00015C9B
 		[global::System.CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x60014D5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB3C48", Offset = "0x1CB3C48", Length = "0x1E8")]
@@ -269,7 +256,6 @@ namespace System.Text
 			throw null;
 		}
 
-		// Token: 0x0600131C RID: 4892 RVA: 0x00017A9E File Offset: 0x00015C9E
 		[global::Cpp2ILInjected.Token(Token = "0x60014D6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB3E30", Offset = "0x1CB3E30", Length = "0x2DC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -291,7 +277,6 @@ namespace System.Text
 			throw null;
 		}
 
-		// Token: 0x0600131D RID: 4893 RVA: 0x00017AA1 File Offset: 0x00015CA1
 		[global::System.CLSCompliant(false)]
 		[global::Cpp2ILInjected.Token(Token = "0x60014D7")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1CB410C", Offset = "0x1CB410C", Length = "0x220")]
@@ -314,12 +299,10 @@ namespace System.Text
 			throw null;
 		}
 
-		// Token: 0x04000890 RID: 2192
 		[global::Cpp2ILInjected.Token(Token = "0x4000AFC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		internal EncoderFallback _fallback;
 
-		// Token: 0x04000891 RID: 2193
 		[global::Cpp2ILInjected.Token(Token = "0x4000AFD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		internal EncoderFallbackBuffer _fallbackBuffer;

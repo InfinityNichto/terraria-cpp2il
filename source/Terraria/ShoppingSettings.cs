@@ -4,12 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria
 {
-	// Token: 0x02000323 RID: 803
 	[global::Cpp2ILInjected.Token(Token = "0x2000423")]
 	public struct ShoppingSettings
 	{
-		// Token: 0x17000527 RID: 1319
-		// (get) Token: 0x06002562 RID: 9570 RVA: 0x00028A75 File Offset: 0x00026C75
 		[global::Cpp2ILInjected.Token(Token = "0x1700055B")]
 		public static ShoppingSettings NotInShop
 		{
@@ -29,12 +26,10 @@ namespace Terraria
 			}
 		}
 
-		// Token: 0x04002C7D RID: 11389
 		[global::Cpp2ILInjected.Token(Token = "0x4003399")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		public double PriceAdjustment;
 
-		// Token: 0x04002C7E RID: 11390
 		[global::Cpp2ILInjected.Token(Token = "0x400339A")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		public string HappinessReport;

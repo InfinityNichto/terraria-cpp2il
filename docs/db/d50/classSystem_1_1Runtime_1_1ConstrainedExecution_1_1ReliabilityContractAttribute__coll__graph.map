@@ -1,9 +1,0 @@
-<map id="System.Runtime.ConstrainedExecution.ReliabilityContractAttribute" name="System.Runtime.ConstrainedExecution.ReliabilityContractAttribute">
-<area shape="rect" id="Node000001" title=" " alt="" coords="161,148,426,257"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,173,78"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,84,224,146,221,150,140,89"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="198,5,389,85"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,86,296,132,291,132,291,86"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="413,13,563,78"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="463,80,415,126,396,140,393,136,412,122,459,76"/>
-</map>

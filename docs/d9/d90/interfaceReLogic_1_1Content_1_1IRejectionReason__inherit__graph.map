@@ -1,7 +1,0 @@
-<map id="ReLogic.Content.IRejectionReason" name="ReLogic.Content.IRejectionReason">
-<area shape="rect" id="Node000001" title=" " alt="" coords="191,5,381,85"/>
-<area shape="rect" id="Node000002" href="$d1/d9d/classReLogic_1_1Content_1_1ContentRejectionFromFailedLoad__ByAssetExtensionType.html" title=" " alt="" coords="5,171,276,285"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,98,188,172,184,169,244,95"/>
-<area shape="rect" id="Node000003" href="$d4/dce/classTerraria_1_1GameContent_1_1ContentRejectionFromSize.html" title=" " alt="" coords="300,133,565,323"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="329,95,358,131,354,135,324,98"/>
-</map>

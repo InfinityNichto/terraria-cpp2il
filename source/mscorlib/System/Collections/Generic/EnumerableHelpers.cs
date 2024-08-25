@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections.Generic
 {
-	// Token: 0x02000525 RID: 1317
 	[global::Cpp2ILInjected.Token(Token = "0x200063E")]
 	internal static class EnumerableHelpers
 	{
-		// Token: 0x06002C73 RID: 11379 RVA: 0x0001C0BB File Offset: 0x0001A2BB
 		[global::Cpp2ILInjected.Token(Token = "0x60030EB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1587DB4", Offset = "0x1587DB4", Length = "0x1C0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]

@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x02000264 RID: 612
 	[global::Cpp2ILInjected.Token(Token = "0x2000358")]
 	public class CollectionChangeEventArgs : EventArgs
 	{
-		// Token: 0x0600141C RID: 5148 RVA: 0x00006791 File Offset: 0x00004991
 		[global::Cpp2ILInjected.Token(Token = "0x600165E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E4069C", Offset = "0x1E4069C", Length = "0x74")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -20,8 +18,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x170004F2 RID: 1266
-		// (get) Token: 0x0600141D RID: 5149 RVA: 0x00006794 File Offset: 0x00004994
 		[global::Cpp2ILInjected.Token(Token = "0x1700051B")]
 		public virtual CollectionChangeAction Action
 		{
@@ -35,8 +31,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x170004F3 RID: 1267
-		// (get) Token: 0x0600141E RID: 5150 RVA: 0x00006797 File Offset: 0x00004997
 		[global::Cpp2ILInjected.Token(Token = "0x1700051C")]
 		public virtual object Element
 		{
@@ -50,13 +44,11 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x04000DD9 RID: 3545
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40011DC")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private readonly CollectionChangeAction <Action>k__BackingField;
 
-		// Token: 0x04000DDA RID: 3546
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40011DD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]

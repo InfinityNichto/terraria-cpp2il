@@ -8,13 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Microsoft.Xna.Framework.Input
 {
-	// Token: 0x0200028E RID: 654
 	[global::Cpp2ILInjected.Token(Token = "0x200034F")]
 	public struct JoystickState
 	{
-		// Token: 0x17000239 RID: 569
-		// (get) Token: 0x0600145E RID: 5214 RVA: 0x000257A2 File Offset: 0x000239A2
-		// (set) Token: 0x0600145F RID: 5215 RVA: 0x000257A5 File Offset: 0x000239A5
 		[global::Cpp2ILInjected.Token(Token = "0x17000261")]
 		public bool IsConnected
 		{
@@ -36,9 +32,6 @@ namespace Microsoft.Xna.Framework.Input
 			}
 		}
 
-		// Token: 0x1700023A RID: 570
-		// (get) Token: 0x06001460 RID: 5216 RVA: 0x000257A8 File Offset: 0x000239A8
-		// (set) Token: 0x06001461 RID: 5217 RVA: 0x000257AB File Offset: 0x000239AB
 		[global::Cpp2ILInjected.Token(Token = "0x17000262")]
 		public int[] Axes
 		{
@@ -60,9 +53,6 @@ namespace Microsoft.Xna.Framework.Input
 			}
 		}
 
-		// Token: 0x1700023B RID: 571
-		// (get) Token: 0x06001462 RID: 5218 RVA: 0x000257AE File Offset: 0x000239AE
-		// (set) Token: 0x06001463 RID: 5219 RVA: 0x000257B1 File Offset: 0x000239B1
 		[global::Cpp2ILInjected.Token(Token = "0x17000263")]
 		public ButtonState[] Buttons
 		{
@@ -84,9 +74,6 @@ namespace Microsoft.Xna.Framework.Input
 			}
 		}
 
-		// Token: 0x1700023C RID: 572
-		// (get) Token: 0x06001464 RID: 5220 RVA: 0x000257B4 File Offset: 0x000239B4
-		// (set) Token: 0x06001465 RID: 5221 RVA: 0x000257B7 File Offset: 0x000239B7
 		[global::Cpp2ILInjected.Token(Token = "0x17000264")]
 		public JoystickHat[] Hats
 		{
@@ -108,7 +95,6 @@ namespace Microsoft.Xna.Framework.Input
 			}
 		}
 
-		// Token: 0x06001466 RID: 5222 RVA: 0x000257BA File Offset: 0x000239BA
 		[global::Cpp2ILInjected.Token(Token = "0x60015C3")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9B278", Offset = "0xA9B278", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,7 +122,6 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x06001467 RID: 5223 RVA: 0x000257BD File Offset: 0x000239BD
 		[global::Cpp2ILInjected.Token(Token = "0x60015C4")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9B348", Offset = "0xA9B348", Length = "0x38")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -151,7 +136,6 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x06001468 RID: 5224 RVA: 0x000257C0 File Offset: 0x000239C0
 		[global::Cpp2ILInjected.Token(Token = "0x60015C5")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9B380", Offset = "0xA9B380", Length = "0x90")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -167,7 +151,6 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x06001469 RID: 5225 RVA: 0x000257C3 File Offset: 0x000239C3
 		[global::Cpp2ILInjected.Token(Token = "0x60015C6")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9B410", Offset = "0xA9B410", Length = "0x108")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -177,7 +160,6 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x0600146A RID: 5226 RVA: 0x000257C6 File Offset: 0x000239C6
 		[global::Cpp2ILInjected.Token(Token = "0x60015C7")]
 		[global::Cpp2ILInjected.Address(RVA = "0xA9B518", Offset = "0xA9B518", Length = "0x354")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -207,25 +189,21 @@ namespace Microsoft.Xna.Framework.Input
 			throw null;
 		}
 
-		// Token: 0x04001D54 RID: 7508
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400232E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private bool <IsConnected>k__BackingField;
 
-		// Token: 0x04001D55 RID: 7509
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x400232F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private int[] <Axes>k__BackingField;
 
-		// Token: 0x04001D56 RID: 7510
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4002330")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ButtonState[] <Buttons>k__BackingField;
 
-		// Token: 0x04001D57 RID: 7511
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4002331")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]

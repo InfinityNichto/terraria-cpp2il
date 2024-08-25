@@ -7,11 +7,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Runtime.CompilerServices
 {
-	// Token: 0x020003DC RID: 988
 	[global::Cpp2ILInjected.Token(Token = "0x2000490")]
 	public struct AsyncTaskMethodBuilder<TResult>
 	{
-		// Token: 0x06002002 RID: 8194 RVA: 0x00019EA7 File Offset: 0x000180A7
 		[global::Cpp2ILInjected.Token(Token = "0x6002267")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F57E8", Offset = "0x17F57E8", Length = "0xC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -28,7 +26,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06002003 RID: 8195 RVA: 0x00019EAA File Offset: 0x000180AA
 		[global::System.Diagnostics.DebuggerStepThrough]
 		[global::Cpp2ILInjected.Token(Token = "0x6002268")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B91C0", Offset = "0x14B91C0", Length = "0x104")]
@@ -46,7 +43,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06002004 RID: 8196 RVA: 0x00019EAD File Offset: 0x000180AD
 		[global::Cpp2ILInjected.Token(Token = "0x6002269")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F57F4", Offset = "0x17F57F4", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -59,7 +55,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06002005 RID: 8197 RVA: 0x00019EB0 File Offset: 0x000180B0
 		[global::Cpp2ILInjected.Token(Token = "0x600226A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14B9014", Offset = "0x14B9014", Length = "0x1AC")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -91,8 +86,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x17000415 RID: 1045
-		// (get) Token: 0x06002006 RID: 8198 RVA: 0x00019EB3 File Offset: 0x000180B3
 		[global::Cpp2ILInjected.Token(Token = "0x17000479")]
 		public global::System.Threading.Tasks.Task<TResult> Task
 		{
@@ -117,7 +110,6 @@ namespace System.Runtime.CompilerServices
 			}
 		}
 
-		// Token: 0x06002007 RID: 8199 RVA: 0x00019EB6 File Offset: 0x000180B6
 		[global::Cpp2ILInjected.Token(Token = "0x600226C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F58A4", Offset = "0x17F58A4", Length = "0x200")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -143,7 +135,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06002008 RID: 8200 RVA: 0x00019EB9 File Offset: 0x000180B9
 		[global::Cpp2ILInjected.Token(Token = "0x600226D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F5AA4", Offset = "0x17F5AA4", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -155,7 +146,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x06002009 RID: 8201 RVA: 0x00019EBC File Offset: 0x000180BC
 		[global::Cpp2ILInjected.Token(Token = "0x600226E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F5AE8", Offset = "0x17F5AE8", Length = "0x164")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -179,7 +169,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x0600200A RID: 8202 RVA: 0x00019EBF File Offset: 0x000180BF
 		[global::Cpp2ILInjected.Token(Token = "0x600226F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F5C4C", Offset = "0x17F5C4C", Length = "0x248")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -191,7 +180,6 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x0600200B RID: 8203 RVA: 0x00019EC2 File Offset: 0x000180C2
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x6002270")]
 		[global::Cpp2ILInjected.Address(RVA = "0x17F5E94", Offset = "0x17F5E94", Length = "0x104")]
@@ -204,16 +192,13 @@ namespace System.Runtime.CompilerServices
 			throw null;
 		}
 
-		// Token: 0x04000FCA RID: 4042
 		[global::Cpp2ILInjected.Token(Token = "0x40012CC")]
 		internal static readonly global::System.Threading.Tasks.Task<TResult> s_defaultResultTask;
 
-		// Token: 0x04000FCB RID: 4043
 		[global::Cpp2ILInjected.Token(Token = "0x40012CD")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private AsyncMethodBuilderCore m_coreState;
 
-		// Token: 0x04000FCC RID: 4044
 		[global::Cpp2ILInjected.Token(Token = "0x40012CE")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private global::System.Threading.Tasks.Task<TResult> m_task;

@@ -5,11 +5,9 @@ using Microsoft.Xna.Framework;
 
 namespace Terraria.GameContent
 {
-	// Token: 0x02000567 RID: 1383
 	[global::Cpp2ILInjected.Token(Token = "0x20007F2")]
 	public class TeleportHelpers
 	{
-		// Token: 0x06003A79 RID: 14969 RVA: 0x0002C70E File Offset: 0x0002A90E
 		[global::Cpp2ILInjected.Token(Token = "0x600416D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77AF90", Offset = "0x77AF90", Length = "0x43C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +60,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A7A RID: 14970 RVA: 0x0002C711 File Offset: 0x0002A911
 		[global::Cpp2ILInjected.Token(Token = "0x600416E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77B840", Offset = "0x77B840", Length = "0x1AC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -88,7 +85,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A7B RID: 14971 RVA: 0x0002C714 File Offset: 0x0002A914
 		[global::Cpp2ILInjected.Token(Token = "0x600416F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77B3CC", Offset = "0x77B3CC", Length = "0x474")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(TeleportHelpers), Member = "RequestMagicConchTeleportPosition", MemberParameters = new object[]
@@ -149,7 +145,6 @@ namespace Terraria.GameContent
 			throw null;
 		}
 
-		// Token: 0x06003A7C RID: 14972 RVA: 0x0002C717 File Offset: 0x0002A917
 		[global::Cpp2ILInjected.Token(Token = "0x6004170")]
 		[global::Cpp2ILInjected.Address(RVA = "0x77B9EC", Offset = "0x77B9EC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

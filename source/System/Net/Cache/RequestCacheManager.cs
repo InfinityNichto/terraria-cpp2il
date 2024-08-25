@@ -5,11 +5,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Net.Cache
 {
-	// Token: 0x020001FD RID: 509
 	[global::Cpp2ILInjected.Token(Token = "0x20002E2")]
 	internal sealed class RequestCacheManager
 	{
-		// Token: 0x060010FA RID: 4346 RVA: 0x00005EE5 File Offset: 0x000040E5
 		[global::Cpp2ILInjected.Token(Token = "0x60012F3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E21094", Offset = "0x1E21094", Length = "0x1F0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -25,7 +23,6 @@ namespace System.Net.Cache
 			throw null;
 		}
 
-		// Token: 0x060010FB RID: 4347 RVA: 0x00005EE8 File Offset: 0x000040E8
 		[global::Cpp2ILInjected.Token(Token = "0x60012F4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E213FC", Offset = "0x1E213FC", Length = "0x200")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(WebRequest), Member = "set_DefaultCachePolicy", MemberParameters = new object[] { typeof(RequestCachePolicy) }, ReturnType = typeof(void))]
@@ -43,7 +40,6 @@ namespace System.Net.Cache
 			throw null;
 		}
 
-		// Token: 0x060010FC RID: 4348 RVA: 0x00005EEB File Offset: 0x000040EB
 		[global::Cpp2ILInjected.Token(Token = "0x60012F5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E21284", Offset = "0x1E21284", Length = "0x178")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -67,7 +63,6 @@ namespace System.Net.Cache
 			throw null;
 		}
 
-		// Token: 0x060010FD RID: 4349 RVA: 0x00005EEE File Offset: 0x000040EE
 		// Note: this type is marked as 'beforefieldinit'.
 		[global::Cpp2ILInjected.Token(Token = "0x60012F6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E2160C", Offset = "0x1E2160C", Length = "0xB0")]
@@ -79,23 +74,18 @@ namespace System.Net.Cache
 			throw null;
 		}
 
-		// Token: 0x04000B99 RID: 2969
 		[global::Cpp2ILInjected.Token(Token = "0x4000F6D")]
 		private static RequestCachingSectionInternal s_CacheConfigSettings;
 
-		// Token: 0x04000B9A RID: 2970
 		[global::Cpp2ILInjected.Token(Token = "0x4000F6E")]
 		private static readonly RequestCacheBinding s_BypassCacheBinding;
 
-		// Token: 0x04000B9B RID: 2971
 		[global::Cpp2ILInjected.Token(Token = "0x4000F6F")]
 		private static RequestCacheBinding s_DefaultGlobalBinding;
 
-		// Token: 0x04000B9C RID: 2972
 		[global::Cpp2ILInjected.Token(Token = "0x4000F70")]
 		private static RequestCacheBinding s_DefaultHttpBinding;
 
-		// Token: 0x04000B9D RID: 2973
 		[global::Cpp2ILInjected.Token(Token = "0x4000F71")]
 		private static RequestCacheBinding s_DefaultFtpBinding;
 	}

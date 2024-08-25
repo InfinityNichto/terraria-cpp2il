@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Globalization;
 using System.Numerics;
 using System.Runtime;
@@ -8,11 +9,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System
 {
-	// Token: 0x020000C9 RID: 201
 	[global::Cpp2ILInjected.Token(Token = "0x20000FB")]
 	internal static class SpanHelpers
 	{
-		// Token: 0x060008C0 RID: 2240 RVA: 0x00015EB1 File Offset: 0x000140B1
 		[global::Cpp2ILInjected.Token(Token = "0x6000968")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C48138", Offset = "0x1C48138", Length = "0x80")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -29,7 +28,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008C1 RID: 2241 RVA: 0x00015EB4 File Offset: 0x000140B4
 		[global::Cpp2ILInjected.Token(Token = "0x6000969")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C481B8", Offset = "0x1C481B8", Length = "0x298")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -59,10 +57,136 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008C2 RID: 2242 RVA: 0x00015EB7 File Offset: 0x000140B7
 		[global::Cpp2ILInjected.Token(Token = "0x600096A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C48450", Offset = "0x1C48450", Length = "0x1C8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "EqualsHelper", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "Equals", MemberParameters = new object[] { typeof(object) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "Equals", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "Equals", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.StringComparison)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "Equals", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "Equals", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(string),
+			typeof(global::System.StringComparison)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "StartsWith", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(global::System.StringComparison)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "MakeSeparatorList", MemberParameters = new object[]
+		{
+			typeof(string),
+			typeof(ref global::System.Collections.Generic.ValueListBuilder<int>)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "MakeSeparatorList", MemberParameters = new object[]
+		{
+			typeof(string[]),
+			typeof(ref global::System.Collections.Generic.ValueListBuilder<int>),
+			typeof(ref global::System.Collections.Generic.ValueListBuilder<int>)
+		}, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(string), Member = "StartsWithOrdinalUnchecked", MemberParameters = new object[] { typeof(string) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(double), Member = "TryParse", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref double)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "EqualsOrdinal", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.ReadOnlySpan<char>)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "EndsWith", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.StringComparison)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "SequenceEqual", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { "System.ReadOnlySpan`1<T>", "System.ReadOnlySpan`1<T>" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "StartsWith", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { "System.ReadOnlySpan`1<T>", "System.ReadOnlySpan`1<T>" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "EndsWith", MemberTypeParameters = new object[] { "T" }, MemberParameters = new object[] { "System.ReadOnlySpan`1<T>", "System.ReadOnlySpan`1<T>" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "TryParseInt32IntegerStyle", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref int),
+			typeof(ref bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "TryParseInt64IntegerStyle", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref long),
+			typeof(ref bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "TryParseUInt32IntegerStyle", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref uint),
+			typeof(ref bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "TryParseUInt64IntegerStyle", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref ulong),
+			typeof(ref bool)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "ParseDouble", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo)
+		}, ReturnType = typeof(double))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.Number), Member = "ParseSingle", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo)
+		}, ReturnType = typeof(float))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(float), Member = "TryParse", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.NumberStyles),
+			typeof(global::System.Globalization.NumberFormatInfo),
+			typeof(ref float)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.SpanHelpers), Member = "EndsWithCultureHelper", MemberParameters = new object[]
+		{
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.ReadOnlySpan<char>),
+			typeof(global::System.Globalization.CompareInfo)
+		}, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanRawInfo", Member = "FullAppCompatMatch", MemberParameters = new object[] { typeof(global::System.Globalization.TimeSpanFormat.FormatLiterals) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanRawInfo", Member = "PartialAppCompatMatch", MemberParameters = new object[] { typeof(global::System.Globalization.TimeSpanFormat.FormatLiterals) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanRawInfo", Member = "FullMatch", MemberParameters = new object[] { typeof(global::System.Globalization.TimeSpanFormat.FormatLiterals) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanRawInfo", Member = "FullDMatch", MemberParameters = new object[] { typeof(global::System.Globalization.TimeSpanFormat.FormatLiterals) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanRawInfo", Member = "FullHMMatch", MemberParameters = new object[] { typeof(global::System.Globalization.TimeSpanFormat.FormatLiterals) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanRawInfo", Member = "FullDHMMatch", MemberParameters = new object[] { typeof(global::System.Globalization.TimeSpanFormat.FormatLiterals) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanRawInfo", Member = "FullHMSMatch", MemberParameters = new object[] { typeof(global::System.Globalization.TimeSpanFormat.FormatLiterals) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanRawInfo", Member = "FullDHMSMatch", MemberParameters = new object[] { typeof(global::System.Globalization.TimeSpanFormat.FormatLiterals) }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Globalization.TimeSpanParse.TimeSpanRawInfo", Member = "FullHMSFMatch", MemberParameters = new object[] { typeof(global::System.Globalization.TimeSpanFormat.FormatLiterals) }, ReturnType = typeof(bool))]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 74)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.IntPtr), Member = "op_Explicit", MemberParameters = new object[] { typeof(int) }, ReturnType = typeof(global::System.IntPtr))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(global::System.IntPtr), Member = "op_Explicit", MemberParameters = new object[] { typeof(void*) }, ReturnType = typeof(global::System.IntPtr))]
@@ -93,7 +217,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008C3 RID: 2243 RVA: 0x00015EBA File Offset: 0x000140BA
 		[global::Cpp2ILInjected.Token(Token = "0x600096B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C48618", Offset = "0x1C48618", Length = "0x4D0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -175,7 +298,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008C4 RID: 2244 RVA: 0x00015EBD File Offset: 0x000140BD
 		[global::Cpp2ILInjected.Token(Token = "0x600096C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C48AE8", Offset = "0x1C48AE8", Length = "0x73C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -198,7 +320,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008C5 RID: 2245 RVA: 0x00015EC0 File Offset: 0x000140C0
 		[global::Cpp2ILInjected.Token(Token = "0x600096D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C49224", Offset = "0x1C49224", Length = "0x6E4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -220,7 +341,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008C6 RID: 2246 RVA: 0x00015EC3 File Offset: 0x000140C3
 		[global::Cpp2ILInjected.Token(Token = "0x600096E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C49908", Offset = "0x1C49908", Length = "0x1C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -233,7 +353,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008C7 RID: 2247 RVA: 0x00015EC6 File Offset: 0x000140C6
 		[global::Cpp2ILInjected.Token(Token = "0x600096F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C49AC8", Offset = "0x1C49AC8", Length = "0x20")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -244,7 +363,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008C8 RID: 2248 RVA: 0x00015EC9 File Offset: 0x000140C9
 		[global::Cpp2ILInjected.Token(Token = "0x6000970")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C49AE8", Offset = "0x1C49AE8", Length = "0x1C0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -257,7 +375,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008C9 RID: 2249 RVA: 0x00015ECC File Offset: 0x000140CC
 		[global::Cpp2ILInjected.Token(Token = "0x6000971")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C49CA8", Offset = "0x1C49CA8", Length = "0x2C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -268,7 +385,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008CA RID: 2250 RVA: 0x00015ECF File Offset: 0x000140CF
 		[global::Cpp2ILInjected.Token(Token = "0x6000972")]
 		[global::Cpp2ILInjected.Address(RVA = "0x159D754", Offset = "0x159D754", Length = "0x2F0")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -287,7 +403,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008CB RID: 2251 RVA: 0x00015ED2 File Offset: 0x000140D2
 		[global::Cpp2ILInjected.Token(Token = "0x6000973")]
 		[global::Cpp2ILInjected.Address(RVA = "0x159E534", Offset = "0x159E534", Length = "0x98")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -298,7 +413,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008CC RID: 2252 RVA: 0x00015ED5 File Offset: 0x000140D5
 		[global::Cpp2ILInjected.Token(Token = "0x6000974")]
 		[global::Cpp2ILInjected.Address(RVA = "0x159E664", Offset = "0x159E664", Length = "0x380")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -316,7 +430,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008CD RID: 2253 RVA: 0x00015ED8 File Offset: 0x000140D8
 		[global::Cpp2ILInjected.Token(Token = "0x6000975")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C49CD4", Offset = "0x1C49CD4", Length = "0x1F8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsInvalidInstructions]
@@ -346,7 +459,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008CE RID: 2254 RVA: 0x00015EDB File Offset: 0x000140DB
 		[global::Cpp2ILInjected.Token(Token = "0x6000976")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C49ECC", Offset = "0x1C49ECC", Length = "0x118")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(global::System.MemoryExtensions), Member = "EndsWith", MemberParameters = new object[]
@@ -368,7 +480,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008CF RID: 2255 RVA: 0x00015EDE File Offset: 0x000140DE
 		[global::Cpp2ILInjected.Token(Token = "0x6000977")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C49FE4", Offset = "0x1C49FE4", Length = "0xE0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -391,7 +502,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008D0 RID: 2256 RVA: 0x00015EE1 File Offset: 0x000140E1
 		[global::Cpp2ILInjected.Token(Token = "0x6000978")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C4A0C4", Offset = "0x1C4A0C4", Length = "0x1E8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -413,7 +523,6 @@ namespace System
 			throw null;
 		}
 
-		// Token: 0x060008D1 RID: 2257 RVA: 0x00015EE4 File Offset: 0x000140E4
 		[global::Cpp2ILInjected.Token(Token = "0x6000979")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C4A2AC", Offset = "0x1C4A2AC", Length = "0x150")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

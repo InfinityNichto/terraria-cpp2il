@@ -7,11 +7,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Generation
 {
-	// Token: 0x020005E3 RID: 1507
 	[global::Cpp2ILInjected.Token(Token = "0x20008D0")]
 	public class ActionGrass : GenAction
 	{
-		// Token: 0x06003D21 RID: 15649 RVA: 0x0002CEA3 File Offset: 0x0002B0A3
 		[global::Cpp2ILInjected.Token(Token = "0x6004593")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BC384", Offset = "0x7BC384", Length = "0x224")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -51,7 +49,6 @@ namespace Terraria.GameContent.Generation
 			throw null;
 		}
 
-		// Token: 0x06003D22 RID: 15650 RVA: 0x0002CEA6 File Offset: 0x0002B0A6
 		[global::Cpp2ILInjected.Token(Token = "0x6004594")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7BC5A8", Offset = "0x7BC5A8", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

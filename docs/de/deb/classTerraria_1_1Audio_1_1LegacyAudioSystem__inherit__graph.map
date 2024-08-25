@@ -1,8 +1,0 @@
-<map id="Terraria.Audio.LegacyAudioSystem" name="Terraria.Audio.LegacyAudioSystem">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,648,328,1383"/>
-<area shape="rect" id="Node000002" href="$df/d21/interfaceTerraria_1_1Audio_1_1IAudioSystem.html" title=" " alt="" coords="105,119,428,600"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,614,225,648,220,648,225,613"/>
-<area shape="rect" id="Node000003" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="105,5,228,71"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="120,82,106,100,96,120,75,183,60,248,51,315,47,383,51,518,67,647,62,648,45,518,41,383,45,315,55,248,70,182,91,118,102,97,116,79"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,83,194,117,189,119,178,85"/>
-</map>

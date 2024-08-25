@@ -7,14 +7,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace Terraria.Properties
 {
-	// Token: 0x0200039D RID: 925
 	[GeneratedCode("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "10.0.0.0")]
 	[CompilerGenerated]
 	[global::Cpp2ILInjected.Token(Token = "0x200053B")]
 	internal sealed partial class Settings : ApplicationSettingsBase
 	{
-		// Token: 0x170005BA RID: 1466
-		// (get) Token: 0x06002DF4 RID: 11764 RVA: 0x0002A34D File Offset: 0x0002854D
 		[global::Cpp2ILInjected.Token(Token = "0x17000635")]
 		public static Settings Default
 		{

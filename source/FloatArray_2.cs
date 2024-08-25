@@ -2,11 +2,9 @@
 using Cpp2ILInjected;
 using Cpp2ILInjected.CallAnalysis;
 
-// Token: 0x0200000F RID: 15
 [global::Cpp2ILInjected.Token(Token = "0x200000F")]
 public struct FloatArray_2
 {
-	// Token: 0x17000017 RID: 23
 	[global::Cpp2ILInjected.Token(Token = "0x17000017")]
 	public float this[int index]
 	{
@@ -28,8 +26,6 @@ public struct FloatArray_2
 		}
 	}
 
-	// Token: 0x17000018 RID: 24
-	// (get) Token: 0x0600004B RID: 75 RVA: 0x00021C6B File Offset: 0x0001FE6B
 	[global::Cpp2ILInjected.Token(Token = "0x17000018")]
 	public int Length
 	{
@@ -42,12 +38,10 @@ public struct FloatArray_2
 		}
 	}
 
-	// Token: 0x04000021 RID: 33
 	[global::Cpp2ILInjected.Token(Token = "0x4000021")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 	private float val0;
 
-	// Token: 0x04000022 RID: 34
 	[global::Cpp2ILInjected.Token(Token = "0x4000022")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 	private float val1;

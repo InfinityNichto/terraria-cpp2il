@@ -5,14 +5,43 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.Collections
 {
-	// Token: 0x020004FD RID: 1277
 	[global::Cpp2ILInjected.Token(Token = "0x20005F5")]
 	[global::System.Serializable]
 	public abstract class CollectionBase : IList, ICollection, IEnumerable
 	{
-		// Token: 0x06002A85 RID: 10885 RVA: 0x0001BB54 File Offset: 0x00019D54
 		[global::Cpp2ILInjected.Token(Token = "0x6002DFB")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C08AE0", Offset = "0x1C08AE0", Length = "0x60")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509Certificate2Collection", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509Certificate2Collection", Member = ".ctor", MemberParameters = new object[] { "System.Security.Cryptography.X509Certificates.X509Certificate2Collection" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509Certificate2Collection", Member = "Find", MemberParameters = new object[]
+		{
+			"System.Security.Cryptography.X509Certificates.X509FindType",
+			typeof(object),
+			typeof(bool)
+		}, ReturnType = "System.Security.Cryptography.X509Certificates.X509Certificate2Collection")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509CertificateCollection", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509CertificateCollection", Member = ".ctor", MemberParameters = new object[] { "System.Security.Cryptography.X509Certificates.X509CertificateCollection" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509ChainImplMono", Member = "get_Roots", ReturnType = "System.Security.Cryptography.X509Certificates.X509Certificate2Collection")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509ChainImplMono", Member = "get_CertificateAuthorities", ReturnType = "System.Security.Cryptography.X509Certificates.X509Certificate2Collection")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509ChainImplMono", Member = "get_CertificateCollection", ReturnType = "System.Security.Cryptography.X509Certificates.X509Certificate2Collection")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509ChainPolicy", Member = "get_ExtraStore", ReturnType = "System.Security.Cryptography.X509Certificates.X509Certificate2Collection")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XmlSchemaObjectCollection", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XmlSchemaSequence", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Xml.Schema.XmlSchemaSimpleTypeRestriction", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509CertificateBuilder", Member = ".ctor", MemberParameters = new object[] { typeof(byte) }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509CertificateCollection", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509CertificateCollection", Member = ".ctor", MemberParameters = new object[] { "Mono.Security.X509.X509Certificate[]" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509CertificateCollection", Member = ".ctor", MemberParameters = new object[] { "Mono.Security.X509.X509CertificateCollection" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Chain", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Chain", Member = ".ctor", MemberParameters = new object[] { "Mono.Security.X509.X509CertificateCollection" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Chain", Member = "get_TrustAnchors", ReturnType = "Mono.Security.X509.X509CertificateCollection")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Chain", Member = "Build", MemberParameters = new object[] { "Mono.Security.X509.X509Certificate" }, ReturnType = typeof(bool))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509ExtensionCollection", Member = ".ctor", ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509ExtensionCollection", Member = ".ctor", MemberParameters = new object[] { "Mono.Security.ASN1" }, ReturnType = typeof(void))]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509Store", Member = "BuildCertificatesCollection", MemberParameters = new object[] { typeof(string) }, ReturnType = "Mono.Security.X509.X509CertificateCollection")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509StoreManager", Member = "get_IntermediateCACertificates", ReturnType = "Mono.Security.X509.X509CertificateCollection")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509StoreManager", Member = "get_TrustedRootCertificates", ReturnType = "Mono.Security.X509.X509CertificateCollection")]
+		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "Mono.Security.X509.X509StoreManager", Member = "get_UntrustedCertificates", ReturnType = "Mono.Security.X509.X509CertificateCollection")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 26)]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(object), Member = ".ctor", ReturnType = typeof(void))]
 		[global::Cpp2ILInjected.CallAnalysis.Calls(Type = typeof(ArrayList), Member = ".ctor", ReturnType = typeof(void))]
@@ -22,8 +51,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x1700067A RID: 1658
-		// (get) Token: 0x06002A86 RID: 10886 RVA: 0x0001BB57 File Offset: 0x00019D57
 		[global::Cpp2ILInjected.Token(Token = "0x17000719")]
 		protected ArrayList InnerList
 		{
@@ -36,8 +63,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x1700067B RID: 1659
-		// (get) Token: 0x06002A87 RID: 10887 RVA: 0x0001BB5A File Offset: 0x00019D5A
 		[global::Cpp2ILInjected.Token(Token = "0x1700071A")]
 		protected IList List
 		{
@@ -51,8 +76,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x1700067C RID: 1660
-		// (get) Token: 0x06002A88 RID: 10888 RVA: 0x0001BB5D File Offset: 0x00019D5D
 		[global::Cpp2ILInjected.Token(Token = "0x1700071B")]
 		public int Count
 		{
@@ -94,7 +117,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x06002A89 RID: 10889 RVA: 0x0001BB60 File Offset: 0x00019D60
 		[global::Cpp2ILInjected.Token(Token = "0x6002DFF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C08BF0", Offset = "0x1C08BF0", Length = "0x44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -116,7 +138,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A8A RID: 10890 RVA: 0x0001BB63 File Offset: 0x00019D63
 		[global::Cpp2ILInjected.Token(Token = "0x6002E00")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C08C34", Offset = "0x1C08C34", Length = "0x1B8")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -132,8 +153,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x1700067D RID: 1661
-		// (get) Token: 0x06002A8B RID: 10891 RVA: 0x0001BB66 File Offset: 0x00019D66
 		[global::Cpp2ILInjected.Token(Token = "0x1700071C")]
 		private bool System.Collections.IList.IsReadOnly
 		{
@@ -147,8 +166,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x1700067E RID: 1662
-		// (get) Token: 0x06002A8C RID: 10892 RVA: 0x0001BB69 File Offset: 0x00019D69
 		[global::Cpp2ILInjected.Token(Token = "0x1700071D")]
 		private bool System.Collections.IList.IsFixedSize
 		{
@@ -162,8 +179,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x1700067F RID: 1663
-		// (get) Token: 0x06002A8D RID: 10893 RVA: 0x0001BB6C File Offset: 0x00019D6C
 		[global::Cpp2ILInjected.Token(Token = "0x1700071E")]
 		private bool System.Collections.ICollection.IsSynchronized
 		{
@@ -177,8 +192,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x17000680 RID: 1664
-		// (get) Token: 0x06002A8E RID: 10894 RVA: 0x0001BB6F File Offset: 0x00019D6F
 		[global::Cpp2ILInjected.Token(Token = "0x1700071F")]
 		private object System.Collections.ICollection.SyncRoot
 		{
@@ -192,7 +205,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x06002A8F RID: 10895 RVA: 0x0001BB72 File Offset: 0x00019D72
 		[global::Cpp2ILInjected.Token(Token = "0x6002E05")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C08E3C", Offset = "0x1C08E3C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -202,9 +214,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x17000681 RID: 1665
-		// (get) Token: 0x06002A90 RID: 10896 RVA: 0x0001BB75 File Offset: 0x00019D75
-		// (set) Token: 0x06002A91 RID: 10897 RVA: 0x0001BB78 File Offset: 0x00019D78
 		[global::Cpp2ILInjected.Token(Token = "0x17000720")]
 		private object System.Collections.IList.Item
 		{
@@ -238,7 +247,6 @@ namespace System.Collections
 			}
 		}
 
-		// Token: 0x06002A92 RID: 10898 RVA: 0x0001BB7B File Offset: 0x00019D7B
 		[global::Cpp2ILInjected.Token(Token = "0x6002E08")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C090C4", Offset = "0x1C090C4", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -248,7 +256,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A93 RID: 10899 RVA: 0x0001BB7E File Offset: 0x00019D7E
 		[global::Cpp2ILInjected.Token(Token = "0x6002E09")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C090D8", Offset = "0x1C090D8", Length = "0x128")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -259,7 +266,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A94 RID: 10900 RVA: 0x0001BB81 File Offset: 0x00019D81
 		[global::Cpp2ILInjected.Token(Token = "0x6002E0A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C09200", Offset = "0x1C09200", Length = "0x180")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -271,7 +277,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A95 RID: 10901 RVA: 0x0001BB84 File Offset: 0x00019D84
 		[global::Cpp2ILInjected.Token(Token = "0x6002E0B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C09380", Offset = "0x1C09380", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -281,7 +286,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A96 RID: 10902 RVA: 0x0001BB87 File Offset: 0x00019D87
 		[global::Cpp2ILInjected.Token(Token = "0x6002E0C")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C09394", Offset = "0x1C09394", Length = "0x198")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -297,7 +301,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A97 RID: 10903 RVA: 0x0001BB8A File Offset: 0x00019D8A
 		[global::Cpp2ILInjected.Token(Token = "0x6002E0D")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0952C", Offset = "0x1C0952C", Length = "0x14")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = "System.Security.Cryptography.X509Certificates.X509ChainImplMono", Member = "ProcessCrlExtensions", MemberParameters = new object[] { "Mono.Security.X509.X509Crl" }, ReturnType = typeof(bool))]
@@ -309,7 +312,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A98 RID: 10904 RVA: 0x0001BB8D File Offset: 0x00019D8D
 		[global::Cpp2ILInjected.Token(Token = "0x6002E0E")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C09540", Offset = "0x1C09540", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -318,7 +320,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A99 RID: 10905 RVA: 0x0001BB90 File Offset: 0x00019D90
 		[global::Cpp2ILInjected.Token(Token = "0x6002E0F")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C09544", Offset = "0x1C09544", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -327,7 +328,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A9A RID: 10906 RVA: 0x0001BB93 File Offset: 0x00019D93
 		[global::Cpp2ILInjected.Token(Token = "0x6002E10")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C09548", Offset = "0x1C09548", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -336,7 +336,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A9B RID: 10907 RVA: 0x0001BB96 File Offset: 0x00019D96
 		[global::Cpp2ILInjected.Token(Token = "0x6002E11")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C0954C", Offset = "0x1C0954C", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -345,7 +344,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A9C RID: 10908 RVA: 0x0001BB99 File Offset: 0x00019D99
 		[global::Cpp2ILInjected.Token(Token = "0x6002E12")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C09550", Offset = "0x1C09550", Length = "0x54")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -356,7 +354,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A9D RID: 10909 RVA: 0x0001BB9C File Offset: 0x00019D9C
 		[global::Cpp2ILInjected.Token(Token = "0x6002E13")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C095A4", Offset = "0x1C095A4", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -365,7 +362,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A9E RID: 10910 RVA: 0x0001BB9F File Offset: 0x00019D9F
 		[global::Cpp2ILInjected.Token(Token = "0x6002E14")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C095A8", Offset = "0x1C095A8", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -374,7 +370,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002A9F RID: 10911 RVA: 0x0001BBA2 File Offset: 0x00019DA2
 		[global::Cpp2ILInjected.Token(Token = "0x6002E15")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C095AC", Offset = "0x1C095AC", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -383,7 +378,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x06002AA0 RID: 10912 RVA: 0x0001BBA5 File Offset: 0x00019DA5
 		[global::Cpp2ILInjected.Token(Token = "0x6002E16")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1C095B0", Offset = "0x1C095B0", Length = "0x4")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -392,7 +386,6 @@ namespace System.Collections
 			throw null;
 		}
 
-		// Token: 0x040015BB RID: 5563
 		[global::Cpp2ILInjected.Token(Token = "0x40019B9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private ArrayList _list;

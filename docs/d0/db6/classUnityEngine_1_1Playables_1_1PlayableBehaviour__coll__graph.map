@@ -1,7 +1,0 @@
-<map id="UnityEngine.Playables.PlayableBehaviour" name="UnityEngine.Playables.PlayableBehaviour">
-<area shape="rect" id="Node000001" title=" " alt="" coords="113,391,377,812"/>
-<area shape="rect" id="Node000002" href="$d3/d45/interfaceUnityEngine_1_1Playables_1_1IPlayableBehaviour.html" title=" " alt="" coords="5,5,269,343"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,356,195,390,189,391,181,357"/>
-<area shape="rect" id="Node000003" href="$d0/d50/interfaceSystem_1_1ICloneable.html" title=" " alt="" coords="293,141,413,207"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="345,221,301,391,296,390,339,219"/>
-</map>

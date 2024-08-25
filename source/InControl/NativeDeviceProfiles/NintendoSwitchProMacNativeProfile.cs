@@ -4,13 +4,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace InControl.NativeDeviceProfiles
 {
-	// Token: 0x020001AC RID: 428
 	[NativeInputDeviceProfile]
 	[Preserve]
 	[global::Cpp2ILInjected.Token(Token = "0x20001B9")]
 	public class NintendoSwitchProMacNativeProfile : InputDeviceProfile
 	{
-		// Token: 0x060007E2 RID: 2018 RVA: 0x000037D3 File Offset: 0x000019D3
 		[global::Cpp2ILInjected.Token(Token = "0x60007FF")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A2FF80", Offset = "0x1A2FF80", Length = "0xC44")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -27,7 +25,6 @@ namespace InControl.NativeDeviceProfiles
 			throw null;
 		}
 
-		// Token: 0x060007E3 RID: 2019 RVA: 0x000037D6 File Offset: 0x000019D6
 		[global::Cpp2ILInjected.Token(Token = "0x6000800")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1A30BC4", Offset = "0x1A30BC4", Length = "0x58")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

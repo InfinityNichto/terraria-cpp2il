@@ -9,11 +9,9 @@ using Terraria.WorldBuilding;
 
 namespace Terraria.GameContent.Biomes.Desert
 {
-	// Token: 0x02000600 RID: 1536
 	[global::Cpp2ILInjected.Token(Token = "0x20008FE")]
 	public static class ChambersEntrance
 	{
-		// Token: 0x06003DB9 RID: 15801 RVA: 0x0002D05F File Offset: 0x0002B25F
 		[global::Cpp2ILInjected.Token(Token = "0x6004654")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D5F08", Offset = "0x7D5F08", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -46,7 +44,6 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x06003DBA RID: 15802 RVA: 0x0002D062 File Offset: 0x0002B262
 		[global::Cpp2ILInjected.Token(Token = "0x6004655")]
 		[global::Cpp2ILInjected.Address(RVA = "0x7D5FCC", Offset = "0x7D5FCC", Length = "0xD9C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -153,11 +150,9 @@ namespace Terraria.GameContent.Biomes.Desert
 			throw null;
 		}
 
-		// Token: 0x02000A08 RID: 2568
 		[global::Cpp2ILInjected.Token(Token = "0x20008FF")]
 		private struct PathConnection
 		{
-			// Token: 0x06004F6D RID: 20333 RVA: 0x0003006B File Offset: 0x0002E26B
 			[global::Cpp2ILInjected.Token(Token = "0x6004656")]
 			[global::Cpp2ILInjected.Address(RVA = "0x7D6D68", Offset = "0x7D6D68", Length = "0x50")]
 			[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -172,12 +167,10 @@ namespace Terraria.GameContent.Biomes.Desert
 				throw null;
 			}
 
-			// Token: 0x04008D20 RID: 36128
 			[global::Cpp2ILInjected.Token(Token = "0x4008272")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 			public readonly Vector2D Position;
 
-			// Token: 0x04008D21 RID: 36129
 			[global::Cpp2ILInjected.Token(Token = "0x4008273")]
 			[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 			public readonly double Direction;

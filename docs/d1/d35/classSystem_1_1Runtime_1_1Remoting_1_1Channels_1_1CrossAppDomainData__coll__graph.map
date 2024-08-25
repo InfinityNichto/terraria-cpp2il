@@ -1,9 +1,0 @@
-<map id="System.Runtime.Remoting.Channels.CrossAppDomainData" name="System.Runtime.Remoting.Channels.CrossAppDomainData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="34,133,255,248"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,60,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,70,60,108,68,119,64,122,56,111,38,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="129,5,160,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,71,147,117,142,117,142,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="231,5,282,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,72,230,111,221,122,217,119,225,108,244,69"/>
-</map>

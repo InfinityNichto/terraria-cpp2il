@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 using Microsoft.Xna.Framework;
 using Terraria;
 
-// Token: 0x0200008B RID: 139
 [global::Cpp2ILInjected.Token(Token = "0x20000C4")]
 public class GUIControllerEquipment : GUIPageContentController
 {
-	// Token: 0x06000426 RID: 1062 RVA: 0x000227B7 File Offset: 0x000209B7
 	[global::Cpp2ILInjected.Token(Token = "0x60004C0")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA8C514", Offset = "0xA8C514", Length = "0xC")]
 	[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIControllerEquipment4Page), Member = ".ctor", ReturnType = typeof(void))]
@@ -20,7 +18,6 @@ public class GUIControllerEquipment : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x06000427 RID: 1063 RVA: 0x000227BA File Offset: 0x000209BA
 	[global::Cpp2ILInjected.Token(Token = "0x60004C1")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA8C520", Offset = "0xA8C520", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -29,7 +26,6 @@ public class GUIControllerEquipment : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x06000428 RID: 1064 RVA: 0x000227BD File Offset: 0x000209BD
 	[global::Cpp2ILInjected.Token(Token = "0x60004C2")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA8C524", Offset = "0xA8C524", Length = "0x4")]
 	[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -38,7 +34,6 @@ public class GUIControllerEquipment : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x06000429 RID: 1065 RVA: 0x000227C0 File Offset: 0x000209C0
 	[global::Cpp2ILInjected.Token(Token = "0x60004C3")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA8C528", Offset = "0xA8C528", Length = "0x1DC")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -52,8 +47,6 @@ public class GUIControllerEquipment : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x17000060 RID: 96
-	// (get) Token: 0x0600042A RID: 1066 RVA: 0x000227C3 File Offset: 0x000209C3
 	[global::Cpp2ILInjected.Token(Token = "0x17000085")]
 	private int MinColumnAccesories
 	{
@@ -70,8 +63,6 @@ public class GUIControllerEquipment : GUIPageContentController
 		}
 	}
 
-	// Token: 0x17000061 RID: 97
-	// (get) Token: 0x0600042B RID: 1067 RVA: 0x000227C6 File Offset: 0x000209C6
 	[global::Cpp2ILInjected.Token(Token = "0x17000086")]
 	private int MinRowLastColumnAccesories
 	{
@@ -87,7 +78,6 @@ public class GUIControllerEquipment : GUIPageContentController
 		}
 	}
 
-	// Token: 0x0600042C RID: 1068 RVA: 0x000227C9 File Offset: 0x000209C9
 	[global::Cpp2ILInjected.Token(Token = "0x60004C6")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA8C7F4", Offset = "0xA8C7F4", Length = "0x90")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +90,6 @@ public class GUIControllerEquipment : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x0600042D RID: 1069 RVA: 0x000227CC File Offset: 0x000209CC
 	[global::Cpp2ILInjected.Token(Token = "0x60004C7")]
 	[global::Cpp2ILInjected.Address(RVA = "0xA8C884", Offset = "0xA8C884", Length = "0x370")]
 	[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -136,22 +125,18 @@ public class GUIControllerEquipment : GUIPageContentController
 		throw null;
 	}
 
-	// Token: 0x040002D4 RID: 724
 	[global::Cpp2ILInjected.Token(Token = "0x4000458")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 	public int itemRow;
 
-	// Token: 0x040002D5 RID: 725
 	[global::Cpp2ILInjected.Token(Token = "0x4000459")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 	public int itemColumn;
 
-	// Token: 0x040002D6 RID: 726
 	[global::Cpp2ILInjected.Token(Token = "0x400045A")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 	public bool inAccessories;
 
-	// Token: 0x040002D7 RID: 727
 	[global::Cpp2ILInjected.Token(Token = "0x400045B")]
 	[global::Cpp2ILInjected.FieldOffset(Offset = "0x25")]
 	public bool inLoadout;

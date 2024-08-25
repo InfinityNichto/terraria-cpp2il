@@ -10,13 +10,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.UI.Elements
 {
-	// Token: 0x020006C5 RID: 1733
 	[global::Cpp2ILInjected.Token(Token = "0x2000AA7")]
 	public class UIBestiaryNPCEntryPortrait : UIElement
 	{
-		// Token: 0x170007C2 RID: 1986
-		// (get) Token: 0x06004414 RID: 17428 RVA: 0x0002E2DD File Offset: 0x0002C4DD
-		// (set) Token: 0x06004415 RID: 17429 RVA: 0x0002E2E0 File Offset: 0x0002C4E0
 		[global::Cpp2ILInjected.Token(Token = "0x170008C3")]
 		public BestiaryEntry Entry
 		{
@@ -38,7 +34,6 @@ namespace Terraria.GameContent.UI.Elements
 			}
 		}
 
-		// Token: 0x06004416 RID: 17430 RVA: 0x0002E2E3 File Offset: 0x0002C4E3
 		[global::Cpp2ILInjected.Token(Token = "0x6005063")]
 		[global::Cpp2ILInjected.Address(RVA = "0x90D86C", Offset = "0x90D86C", Length = "0x624")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -77,7 +72,6 @@ namespace Terraria.GameContent.UI.Elements
 			throw null;
 		}
 
-		// Token: 0x04006FE1 RID: 28641
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4008921")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x148")]

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC0}</ProjectGuid>
+    <ProjectGuid>{2AA0DBF3-B16B-40FC-9062-FF973C3070A0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>mscorlib</RootNamespace>
@@ -47,7 +47,6 @@
     <Compile Include="Cpp2ILInjected\CallAnalysis\ContainsInvalidInstructionsAttribute.cs" />
     <Compile Include="Cpp2ILInjected\CallAnalysis\ContainsUnimplementedInstructionsAttribute.cs" />
     <Compile Include="Cpp2ILInjected\CallAnalysis\DeduplicatedMethodAttribute.cs" />
-    <Compile Include="Cpp2ILInjected\CppNativeMethods.cs" />
     <Compile Include="Cpp2ILInjected\FieldOffsetAttribute.cs" />
     <Compile Include="Cpp2ILInjected\TokenAttribute.cs" />
     <Compile Include="Internal\Cryptography\Helpers.cs" />
@@ -1408,7 +1407,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="mscorlib.csproj">
-      <Project>{1619364F-CFCB-42DA-A4A5-8DFA2CF9DAC0}</Project>
+      <Project>{2AA0DBF3-B16B-40FC-9062-FF973C3070A0}</Project>
       <Name>mscorlib</Name>
     </ProjectReference>
   </ItemGroup>

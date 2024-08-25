@@ -8,12 +8,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.ComponentModel
 {
-	// Token: 0x02000270 RID: 624
 	[global::Cpp2ILInjected.Token(Token = "0x2000366")]
 	public class DecimalConverter : BaseNumberConverter
 	{
-		// Token: 0x170004FF RID: 1279
-		// (get) Token: 0x06001468 RID: 5224 RVA: 0x00006869 File Offset: 0x00004A69
 		[global::Cpp2ILInjected.Token(Token = "0x17000528")]
 		internal override bool AllowHex
 		{
@@ -26,8 +23,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x17000500 RID: 1280
-		// (get) Token: 0x06001469 RID: 5225 RVA: 0x0000686C File Offset: 0x00004A6C
 		[global::Cpp2ILInjected.Token(Token = "0x17000529")]
 		internal override Type TargetType
 		{
@@ -42,7 +37,6 @@ namespace System.ComponentModel
 			}
 		}
 
-		// Token: 0x0600146A RID: 5226 RVA: 0x0000686F File Offset: 0x00004A6F
 		[global::Cpp2ILInjected.Token(Token = "0x60016B1")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E485AC", Offset = "0x1E485AC", Length = "0xC8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -63,7 +57,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600146B RID: 5227 RVA: 0x00006872 File Offset: 0x00004A72
 		[global::Cpp2ILInjected.Token(Token = "0x60016B2")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E48674", Offset = "0x1E48674", Length = "0x300")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -100,7 +93,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600146C RID: 5228 RVA: 0x00006875 File Offset: 0x00004A75
 		[global::Cpp2ILInjected.Token(Token = "0x60016B3")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E48974", Offset = "0x1E48974", Length = "0xEC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -117,7 +109,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600146D RID: 5229 RVA: 0x00006878 File Offset: 0x00004A78
 		[global::Cpp2ILInjected.Token(Token = "0x60016B4")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E48A60", Offset = "0x1E48A60", Length = "0xAC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -134,7 +125,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600146E RID: 5230 RVA: 0x0000687B File Offset: 0x00004A7B
 		[global::Cpp2ILInjected.Token(Token = "0x60016B5")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E48B0C", Offset = "0x1E48B0C", Length = "0xD0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -150,7 +140,6 @@ namespace System.ComponentModel
 			throw null;
 		}
 
-		// Token: 0x0600146F RID: 5231 RVA: 0x0000687E File Offset: 0x00004A7E
 		[global::Cpp2ILInjected.Token(Token = "0x60016B6")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1E48BDC", Offset = "0x1E48BDC", Length = "0x8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]

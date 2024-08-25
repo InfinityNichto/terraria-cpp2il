@@ -1,9 +1,0 @@
-<map id="System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.Entry" name="System.Collections.Generic.Dictionary&lt; TKey, TValue &gt;.Entry">
-<area shape="rect" id="Node000001" title=" " alt="" coords="33,148,230,243"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,70,36,97,48,123,57,134,53,138,44,125,31,99,23,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="108,5,155,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,71,134,131,129,131,129,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="179,5,238,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,72,178,125,173,135,168,132,173,123,195,70"/>
-</map>

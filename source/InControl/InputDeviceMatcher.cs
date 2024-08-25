@@ -6,14 +6,10 @@ using UnityEngine;
 
 namespace InControl
 {
-	// Token: 0x02000031 RID: 49
 	[global::Cpp2ILInjected.Token(Token = "0x2000033")]
 	[Serializable]
 	public struct InputDeviceMatcher
 	{
-		// Token: 0x170000C9 RID: 201
-		// (get) Token: 0x06000251 RID: 593 RVA: 0x0000273E File Offset: 0x0000093E
-		// (set) Token: 0x06000252 RID: 594 RVA: 0x00002741 File Offset: 0x00000941
 		[global::Cpp2ILInjected.Token(Token = "0x170000C9")]
 		public OptionalUInt16 VendorID
 		{
@@ -33,9 +29,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000CA RID: 202
-		// (get) Token: 0x06000253 RID: 595 RVA: 0x00002744 File Offset: 0x00000944
-		// (set) Token: 0x06000254 RID: 596 RVA: 0x00002747 File Offset: 0x00000947
 		[global::Cpp2ILInjected.Token(Token = "0x170000CA")]
 		public OptionalUInt16 ProductID
 		{
@@ -55,9 +48,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000CB RID: 203
-		// (get) Token: 0x06000255 RID: 597 RVA: 0x0000274A File Offset: 0x0000094A
-		// (set) Token: 0x06000256 RID: 598 RVA: 0x0000274D File Offset: 0x0000094D
 		[global::Cpp2ILInjected.Token(Token = "0x170000CB")]
 		public OptionalUInt32 VersionNumber
 		{
@@ -77,9 +67,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000CC RID: 204
-		// (get) Token: 0x06000257 RID: 599 RVA: 0x00002750 File Offset: 0x00000950
-		// (set) Token: 0x06000258 RID: 600 RVA: 0x00002753 File Offset: 0x00000953
 		[global::Cpp2ILInjected.Token(Token = "0x170000CC")]
 		public OptionalInputDeviceDriverType DriverType
 		{
@@ -99,9 +86,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000CD RID: 205
-		// (get) Token: 0x06000259 RID: 601 RVA: 0x00002756 File Offset: 0x00000956
-		// (set) Token: 0x0600025A RID: 602 RVA: 0x00002759 File Offset: 0x00000959
 		[global::Cpp2ILInjected.Token(Token = "0x170000CD")]
 		public OptionalInputDeviceTransportType TransportType
 		{
@@ -121,9 +105,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000CE RID: 206
-		// (get) Token: 0x0600025B RID: 603 RVA: 0x0000275C File Offset: 0x0000095C
-		// (set) Token: 0x0600025C RID: 604 RVA: 0x0000275F File Offset: 0x0000095F
 		[global::Cpp2ILInjected.Token(Token = "0x170000CE")]
 		public string NameLiteral
 		{
@@ -143,9 +124,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x170000CF RID: 207
-		// (get) Token: 0x0600025D RID: 605 RVA: 0x00002762 File Offset: 0x00000962
-		// (set) Token: 0x0600025E RID: 606 RVA: 0x00002765 File Offset: 0x00000965
 		[global::Cpp2ILInjected.Token(Token = "0x170000CF")]
 		public string NamePattern
 		{
@@ -165,7 +143,6 @@ namespace InControl
 			}
 		}
 
-		// Token: 0x0600025F RID: 607 RVA: 0x00002768 File Offset: 0x00000968
 		[global::Cpp2ILInjected.Token(Token = "0x6000260")]
 		[global::Cpp2ILInjected.Address(RVA = "0x198AE58", Offset = "0x198AE58", Length = "0x11A0")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -198,45 +175,38 @@ namespace InControl
 			throw null;
 		}
 
-		// Token: 0x04000247 RID: 583
 		[Hexadecimal]
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400024E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x0")]
 		private OptionalUInt16 vendorID;
 
-		// Token: 0x04000248 RID: 584
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x400024F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x4")]
 		private OptionalUInt16 productID;
 
-		// Token: 0x04000249 RID: 585
 		[SerializeField]
 		[Hexadecimal]
 		[global::Cpp2ILInjected.Token(Token = "0x4000250")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x8")]
 		private OptionalUInt32 versionNumber;
 
-		// Token: 0x0400024A RID: 586
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000251")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		private OptionalInputDeviceDriverType driverType;
 
-		// Token: 0x0400024B RID: 587
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000252")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		private OptionalInputDeviceTransportType transportType;
 
-		// Token: 0x0400024C RID: 588
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000253")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		private string nameLiteral;
 
-		// Token: 0x0400024D RID: 589
 		[SerializeField]
 		[global::Cpp2ILInjected.Token(Token = "0x4000254")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]

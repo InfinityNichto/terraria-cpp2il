@@ -11,11 +11,9 @@ using Terraria.Initializers;
 
 namespace Terraria.Graphics.Shaders
 {
-	// Token: 0x020004EE RID: 1262
 	[global::Cpp2ILInjected.Token(Token = "0x2000749")]
 	public class HairShaderDataSet
 	{
-		// Token: 0x060036FE RID: 14078 RVA: 0x0002BD3F File Offset: 0x00029F3F
 		[global::Cpp2ILInjected.Token(Token = "0x6003D71")]
 		[global::Cpp2ILInjected.Address(RVA = "0x158B25C", Offset = "0x158B25C", Length = "0x12C")]
 		[global::Cpp2ILInjected.CallAnalysis.DeduplicatedMethod]
@@ -35,7 +33,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x060036FF RID: 14079 RVA: 0x0002BD42 File Offset: 0x00029F42
 		[global::Cpp2ILInjected.Token(Token = "0x6003D72")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A15F0", Offset = "0x14A15F0", Length = "0x140")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -62,7 +59,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003700 RID: 14080 RVA: 0x0002BD45 File Offset: 0x00029F45
 		[global::Cpp2ILInjected.Token(Token = "0x6003D73")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A1730", Offset = "0x14A1730", Length = "0x160")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -93,7 +89,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003701 RID: 14081 RVA: 0x0002BD48 File Offset: 0x00029F48
 		[global::Cpp2ILInjected.Token(Token = "0x6003D74")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A1890", Offset = "0x14A1890", Length = "0xBC")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -107,7 +102,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003702 RID: 14082 RVA: 0x0002BD4B File Offset: 0x00029F4B
 		[global::Cpp2ILInjected.Token(Token = "0x6003D75")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A194C", Offset = "0x14A194C", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(Item), Member = "SetDefaults", MemberParameters = new object[]
@@ -127,7 +121,6 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x06003703 RID: 14083 RVA: 0x0002BD4E File Offset: 0x00029F4E
 		[global::Cpp2ILInjected.Token(Token = "0x6003D76")]
 		[global::Cpp2ILInjected.Address(RVA = "0x14A0B58", Offset = "0x14A0B58", Length = "0xC4")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GameShaders), Member = ".cctor", ReturnType = typeof(void))]
@@ -141,17 +134,14 @@ namespace Terraria.Graphics.Shaders
 			throw null;
 		}
 
-		// Token: 0x04006765 RID: 26469
 		[global::Cpp2ILInjected.Token(Token = "0x4007C4D")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		protected List<HairShaderData> _shaderData;
 
-		// Token: 0x04006766 RID: 26470
 		[global::Cpp2ILInjected.Token(Token = "0x4007C4E")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		protected Dictionary<int, short> _shaderLookupDictionary;
 
-		// Token: 0x04006767 RID: 26471
 		[global::Cpp2ILInjected.Token(Token = "0x4007C4F")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		protected byte _shaderDataCount;

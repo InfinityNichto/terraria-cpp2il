@@ -4,11 +4,9 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace System.IO
 {
-	// Token: 0x02000478 RID: 1144
 	[global::Cpp2ILInjected.Token(Token = "0x200053E")]
 	internal static class StreamHelpers
 	{
-		// Token: 0x060024E5 RID: 9445 RVA: 0x0001ABBB File Offset: 0x00018DBB
 		[global::Cpp2ILInjected.Token(Token = "0x6002789")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1B98020", Offset = "0x1B98020", Length = "0x21C")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]

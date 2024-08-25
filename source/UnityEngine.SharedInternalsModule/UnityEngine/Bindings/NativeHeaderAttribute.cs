@@ -6,14 +6,11 @@ using Cpp2ILInjected.CallAnalysis;
 
 namespace UnityEngine.Bindings
 {
-	// Token: 0x0200000C RID: 12
 	[VisibleToOtherModules]
 	[AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct | AttributeTargets.Enum | AttributeTargets.Method | AttributeTargets.Property | AttributeTargets.Field | AttributeTargets.Parameter | AttributeTargets.ReturnValue, AllowMultiple = true)]
 	[global::Cpp2ILInjected.Token(Token = "0x200000C")]
 	internal class NativeHeaderAttribute : Attribute
 	{
-		// Token: 0x17000007 RID: 7
-		// (set) Token: 0x06000013 RID: 19 RVA: 0x00002086 File Offset: 0x00000286
 		[global::Cpp2ILInjected.Token(Token = "0x17000007")]
 		public string Header
 		{
@@ -27,7 +24,6 @@ namespace UnityEngine.Bindings
 			}
 		}
 
-		// Token: 0x06000014 RID: 20 RVA: 0x00002089 File Offset: 0x00000289
 		[global::Cpp2ILInjected.Token(Token = "0x6000014")]
 		[global::Cpp2ILInjected.Address(RVA = "0x1FA3B50", Offset = "0x1FA3B50", Length = "0xFC")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -49,7 +45,6 @@ namespace UnityEngine.Bindings
 			throw null;
 		}
 
-		// Token: 0x04000009 RID: 9
 		[DebuggerBrowsable(DebuggerBrowsableState.Never)]
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x4000009")]

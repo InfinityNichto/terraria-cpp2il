@@ -11,11 +11,9 @@ using Terraria.UI;
 
 namespace Terraria.GameContent.Bestiary
 {
-	// Token: 0x02000646 RID: 1606
 	[global::Cpp2ILInjected.Token(Token = "0x200096E")]
 	public class NPCStatsReportInfoElement : IBestiaryInfoElement, IUpdateBeforeSorting
 	{
-		// Token: 0x06003F12 RID: 16146 RVA: 0x0002D425 File Offset: 0x0002B625
 		[global::Cpp2ILInjected.Token(Token = "0x6004831")]
 		[global::Cpp2ILInjected.Address(RVA = "0x819ADC", Offset = "0x819ADC", Length = "0xDC")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = ".ctor", ReturnType = typeof(void))]
@@ -34,9 +32,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x1400004F RID: 79
-		// (add) Token: 0x06003F13 RID: 16147 RVA: 0x0002D428 File Offset: 0x0002B628
-		// (remove) Token: 0x06003F14 RID: 16148 RVA: 0x0002D42B File Offset: 0x0002B62B
 		[global::Cpp2ILInjected.Token(Token = "0x14000055")]
 		public event NPCStatsReportInfoElement.StatAdjustmentStep OnRefreshStats
 		{
@@ -73,7 +68,6 @@ namespace Terraria.GameContent.Bestiary
 			}
 		}
 
-		// Token: 0x06003F15 RID: 16149 RVA: 0x0002D42E File Offset: 0x0002B62E
 		[global::Cpp2ILInjected.Token(Token = "0x6004834")]
 		[global::Cpp2ILInjected.Address(RVA = "0x820774", Offset = "0x820774", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CalledBy(Type = typeof(GUIBestiary), Member = "RefreshSelectedStats", ReturnType = typeof(void))]
@@ -89,7 +83,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F16 RID: 16150 RVA: 0x0002D431 File Offset: 0x0002B631
 		[global::Cpp2ILInjected.Token(Token = "0x6004835")]
 		[global::Cpp2ILInjected.Address(RVA = "0x820808", Offset = "0x820808", Length = "0x94")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -104,7 +97,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F17 RID: 16151 RVA: 0x0002D434 File Offset: 0x0002B634
 		[global::Cpp2ILInjected.Token(Token = "0x6004836")]
 		[global::Cpp2ILInjected.Address(RVA = "0x8205B4", Offset = "0x8205B4", Length = "0x88")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -123,7 +115,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F18 RID: 16152 RVA: 0x0002D437 File Offset: 0x0002B637
 		[global::Cpp2ILInjected.Token(Token = "0x6004837")]
 		[global::Cpp2ILInjected.Address(RVA = "0x82089C", Offset = "0x82089C", Length = "0x1434")]
 		[global::Cpp2ILInjected.CallAnalysis.ContainsUnimplementedInstructions]
@@ -194,7 +185,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F19 RID: 16153 RVA: 0x0002D43A File Offset: 0x0002B63A
 		[global::Cpp2ILInjected.Token(Token = "0x6004838")]
 		[global::Cpp2ILInjected.Address(RVA = "0x821CD0", Offset = "0x821CD0", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -216,7 +206,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F1A RID: 16154 RVA: 0x0002D43D File Offset: 0x0002B63D
 		[global::Cpp2ILInjected.Token(Token = "0x6004839")]
 		[global::Cpp2ILInjected.Address(RVA = "0x821D88", Offset = "0x821D88", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -238,7 +227,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F1B RID: 16155 RVA: 0x0002D440 File Offset: 0x0002B640
 		[global::Cpp2ILInjected.Token(Token = "0x600483A")]
 		[global::Cpp2ILInjected.Address(RVA = "0x821E40", Offset = "0x821E40", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -260,7 +248,6 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x06003F1C RID: 16156 RVA: 0x0002D443 File Offset: 0x0002B643
 		[global::Cpp2ILInjected.Token(Token = "0x600483B")]
 		[global::Cpp2ILInjected.Address(RVA = "0x821EF8", Offset = "0x821EF8", Length = "0xB8")]
 		[global::Cpp2ILInjected.CallAnalysis.CallerCount(Count = 0)]
@@ -282,49 +269,39 @@ namespace Terraria.GameContent.Bestiary
 			throw null;
 		}
 
-		// Token: 0x04006C8C RID: 27788
 		[global::Cpp2ILInjected.Token(Token = "0x40083B3")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x10")]
 		public int NpcId;
 
-		// Token: 0x04006C8D RID: 27789
 		[global::Cpp2ILInjected.Token(Token = "0x40083B4")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x14")]
 		public int Damage;
 
-		// Token: 0x04006C8E RID: 27790
 		[global::Cpp2ILInjected.Token(Token = "0x40083B5")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x18")]
 		public int LifeMax;
 
-		// Token: 0x04006C8F RID: 27791
 		[global::Cpp2ILInjected.Token(Token = "0x40083B6")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x1C")]
 		public float MonetaryValue;
 
-		// Token: 0x04006C90 RID: 27792
 		[global::Cpp2ILInjected.Token(Token = "0x40083B7")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x20")]
 		public int Defense;
 
-		// Token: 0x04006C91 RID: 27793
 		[global::Cpp2ILInjected.Token(Token = "0x40083B8")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x24")]
 		public float KnockbackResist;
 
-		// Token: 0x04006C92 RID: 27794
 		[global::Cpp2ILInjected.Token(Token = "0x40083B9")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x28")]
 		public NPC _instance;
 
-		// Token: 0x04006C93 RID: 27795
 		[CompilerGenerated]
 		[global::Cpp2ILInjected.Token(Token = "0x40083BA")]
 		[global::Cpp2ILInjected.FieldOffset(Offset = "0x30")]
 		private NPCStatsReportInfoElement.StatAdjustmentStep OnRefreshStats;
 
-		// Token: 0x02000A28 RID: 2600
-		// (Invoke) Token: 0x06004FDD RID: 20445
 		[global::Cpp2ILInjected.Token(Token = "0x200096F")]
 		public delegate void StatAdjustmentStep(NPCStatsReportInfoElement element);
 	}
