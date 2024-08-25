@@ -1,0 +1,16 @@
+<map id="UnityEngine.UI.MaskableGraphic.CullStateChangedEvent" name="UnityEngine.UI.MaskableGraphic.CullStateChangedEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2801,236,2881"/>
+<area shape="rect" id="Node000002" href="$d7/d26/classUnityEngine_1_1Events_1_1UnityEvent.html" title=" " alt="" coords="11,1871,230,2752"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,2766,123,2801,118,2801,118,2766"/>
+<area shape="rect" id="Node000003" href="$d3/d6a/classUnityEngine_1_1Events_1_1UnityEventBase.html" title=" " alt="" coords="105,140,387,863"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,877,127,912,112,1034,101,1157,88,1407,87,1649,93,1870,87,1870,81,1649,83,1407,95,1157,107,1033,122,912,128,876"/>
+<area shape="rect" id="Node000005" href="$d7/d26/classUnityEngine_1_1Events_1_1UnityEvent.html" title=" " alt="" coords="137,912,355,1808"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="213,877,213,912,207,912,208,877"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="231,877,231,912,225,912,225,877"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="249,877,249,912,243,912,243,877"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="267,877,267,912,261,912,261,877"/>
+<area shape="poly" id="edge9_Node000005_Node000003" title=" " alt="" coords="284,877,285,912,279,912,279,877"/>
+<area shape="rect" id="Node000004" href="$dc/d06/interfaceUnityEngine_1_1ISerializationCallbackReceiver.html" title=" " alt="" coords="140,5,352,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,105,249,140,243,140,243,105"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="188,1822,181,1871,176,1870,183,1822"/>
+</map>

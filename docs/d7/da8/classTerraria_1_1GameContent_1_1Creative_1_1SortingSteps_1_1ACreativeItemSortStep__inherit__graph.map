@@ -1,0 +1,33 @@
+<map id="Terraria.GameContent.Creative.SortingSteps.ACreativeItemSortStep" name="Terraria.GameContent.Creative.SortingSteps.ACreativeItemSortStep">
+<area shape="rect" id="Node000001" title=" " alt="" coords="484,699,733,868"/>
+<area shape="rect" id="Node000009" href="$d5/d6b/classTerraria_1_1GameContent_1_1Creative_1_1SortingSteps_1_1AStepByFittingFilter.html" title=" " alt="" coords="245,917,474,1101"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="507,879,463,919,459,915,504,875"/>
+<area shape="rect" id="Node000013" href="$dc/d91/classTerraria_1_1GameContent_1_1Creative_1_1SortingSteps_1_1Alphabetical.html" title=" " alt="" coords="499,935,719,1084"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="611,882,611,934,606,934,606,882"/>
+<area shape="rect" id="Node000014" href="$d9/d65/classTerraria_1_1GameContent_1_1Creative_1_1SortingSteps_1_1ByCreativeSortingId.html" title=" " alt="" coords="743,935,973,1084"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="714,875,778,933,774,937,710,879"/>
+<area shape="rect" id="Node000002" href="$dd/d2d/interfaceTerraria_1_1GameContent_1_1Creative_1_1ICreativeItemSortStep.html" title=" " alt="" coords="441,584,600,649"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,660,566,697,561,700,542,663"/>
+<area shape="rect" id="Node000003" href="$d0/db8/interfaceTerraria_1_1DataStructures_1_1IEntrySortStep.html" title=" " alt="" coords="296,469,511,535"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="405,548,412,598,419,624,431,648,456,680,486,708,482,712,452,684,426,651,414,626,407,600,400,549"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,542,490,582,486,586,444,546"/>
+<area shape="rect" id="Node000004" href="$d0/db8/interfaceTerraria_1_1DataStructures_1_1IEntrySortStep.html" title=" " alt="" coords="332,327,547,407"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="428,420,414,470,409,469,423,419"/>
+<area shape="rect" id="Node000005" href="$dd/d58/interfaceSystem_1_1Collections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="387,148,553,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="465,227,448,327,443,326,460,226"/>
+<area shape="rect" id="Node000006" href="$dd/d58/interfaceSystem_1_1Collections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="498,5,695,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="551,97,537,111,501,150,497,146,533,107,547,93"/>
+<area shape="rect" id="Node000007" href="$dd/d58/interfaceSystem_1_1Collections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="535,469,701,535"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="598,99,595,237,595,303,604,393,615,469,610,470,599,394,590,303,590,237,593,99"/>
+<area shape="rect" id="Node000008" href="$dd/d58/interfaceSystem_1_1Collections_1_1Generic_1_1IComparer.html" title=" " alt="" coords="656,237,823,303"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="631,96,721,236,717,239,627,98"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="619,548,614,699,609,698,614,548"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="583,547,550,586,546,582,579,544"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="742,316,742,437,742,618,740,640,733,662,710,700,706,697,728,660,734,639,737,618,737,437,737,316"/>
+<area shape="rect" id="Node000010" href="$d0/de8/classTerraria_1_1GameContent_1_1Creative_1_1SortingSteps_1_1Blocks.html" title=" " alt="" coords="5,1151,225,1300"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="247,1112,201,1152,198,1148,244,1108"/>
+<area shape="rect" id="Node000011" href="$d3/da1/classTerraria_1_1GameContent_1_1Creative_1_1SortingSteps_1_1PlacableObjects.html" title=" " alt="" coords="249,1151,469,1300"/>
+<area shape="poly" id="edge14_Node000009_Node000011" title=" " alt="" coords="362,1115,362,1151,357,1151,357,1115"/>
+<area shape="rect" id="Node000012" href="$d7/d9a/classTerraria_1_1GameContent_1_1Creative_1_1SortingSteps_1_1Walls.html" title=" " alt="" coords="493,1151,713,1300"/>
+<area shape="poly" id="edge15_Node000009_Node000012" title=" " alt="" coords="475,1108,521,1148,517,1152,472,1112"/>
+</map>

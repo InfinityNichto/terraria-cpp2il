@@ -1,0 +1,15 @@
+<map id="System.Security.Util.TokenizerStream" name="System.Security.Util.TokenizerStream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,305,273,615"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,141,36,206"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,206,39,242,52,280,57,289,52,292,48,282,34,244,24,207"/>
+<area shape="rect" id="Node000003" href="$da/dfe/classSystem_1_1Security_1_1Util_1_1TokenizerShortBlock.html" title=" " alt="" coords="59,133,270,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,214,167,289,162,289,162,214"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="271,159,289,164,297,173,288,183,284,179,291,173,286,168,270,164"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="141,5,188,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="167,71,167,117,162,117,162,71"/>
+<area shape="rect" id="Node000005" href="$d8/d8b/classSystem_1_1Security_1_1Util_1_1TokenizerStringBlock.html" title=" " alt="" coords="383,133,594,213"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="446,216,287,355,283,351,443,212"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="595,159,613,164,621,173,612,183,608,179,615,173,610,168,594,164"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="463,5,514,71"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="491,71,491,117,486,117,486,71"/>
+</map>

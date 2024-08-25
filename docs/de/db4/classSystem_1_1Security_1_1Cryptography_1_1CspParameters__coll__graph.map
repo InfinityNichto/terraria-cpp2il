@@ -1,0 +1,27 @@
+<map id="System.Security.Cryptography.CspParameters" name="System.Security.Cryptography.CspParameters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="293,1279,611,1925"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="65,13,95,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,79,42,254,25,385,12,535,9,699,19,869,30,954,46,1038,67,1121,95,1200,130,1273,176,1342,229,1405,283,1461,279,1465,225,1408,172,1345,126,1276,90,1202,62,1122,41,1040,25,955,13,870,4,699,7,535,19,384,37,253,70,78"/>
+<area shape="rect" id="Node000005" href="$d0/d1e/classSystem_1_1Security_1_1SecureString.html" title=" " alt="" coords="201,557,405,792"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="98,68,110,83,130,101,149,113,166,125,184,147,209,194,231,244,264,347,285,449,298,540,293,541,280,450,259,348,226,245,204,196,179,149,163,129,146,117,127,105,106,87,93,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="429,642,480,707"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="457,708,456,1263,450,1263,452,708"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="591,642,657,707"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="629,708,633,802,632,938,622,1096,612,1177,597,1255,595,1263,590,1262,592,1254,607,1176,617,1095,627,938,627,802,624,708"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="303,792,303,892,308,1008,319,1132,337,1254,339,1262,334,1263,332,1255,314,1133,303,1009,298,892,297,792"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="120,13,307,78"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="222,92,289,557,284,557,217,92"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="331,13,373,78"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="346,79,340,110,326,223,317,337,307,541,302,541,311,337,321,222,335,109,341,78"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="413,13,456,78"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="431,79,333,542,328,541,425,78"/>
+<area shape="rect" id="Node000009" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="682,148,1014,1201"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="777,1203,754,1256,727,1306,696,1355,624,1444,620,1441,691,1352,723,1304,750,1254,772,1201"/>
+<area shape="poly" id="edge13_Node000009_Node000009" title=" " alt="" coords="1017,591,1034,625,1041,675,1037,714,1026,745,1021,743,1032,713,1035,675,1029,627,1012,594"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="543,5,734,85"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="659,98,684,175,679,177,654,99"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="758,5,938,85"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="851,99,851,148,845,148,845,99"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="963,13,1125,78"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="1037,79,1020,133,1015,132,1032,77"/>
+</map>

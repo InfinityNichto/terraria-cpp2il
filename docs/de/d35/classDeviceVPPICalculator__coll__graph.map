@@ -1,0 +1,33 @@
+<map id="DeviceVPPICalculator" name="DeviceVPPICalculator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="258,2211,493,2679"/>
+<area shape="poly" id="edge17_Node000001_Node000001" title=" " alt="" coords="495,2399,512,2416,519,2445,516,2465,508,2480,503,2477,511,2463,514,2445,508,2419,491,2402"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,1688,137,1753"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,1754,56,1834,50,1944,52,2005,59,2067,73,2128,95,2186,124,2236,162,2282,203,2323,247,2358,243,2363,200,2327,158,2285,120,2239,90,2188,68,2129,54,2068,47,2005,44,1944,51,1833,62,1753"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="217,1688,259,1753"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,1754,226,1831,220,1939,223,2063,230,2125,242,2186,255,2228,250,2229,237,2187,225,2126,217,2063,214,1939,221,1831,230,1753"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="354,642,397,707"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="378,707,378,2194,373,2194,373,707"/>
+<area shape="rect" id="Node000005" href="$d1/d43/structUnityEngine_1_1Rect.html" title=" " alt="" coords="551,1308,757,2133"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="372,708,360,797,355,923,358,993,368,1064,385,1134,411,1200,430,1228,451,1246,476,1260,505,1282,520,1293,533,1306,545,1325,540,1328,529,1310,517,1297,502,1286,473,1265,448,1250,426,1232,406,1203,380,1136,363,1065,353,993,350,923,355,797,367,707"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="553,2083,534,2134,502,2208,497,2206,529,2132,548,2081"/>
+<area shape="rect" id="Node000006" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="421,642,581,707"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="510,721,596,1307,591,1308,505,722"/>
+<area shape="rect" id="Node000007" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="660,13,835,78"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="665,87,627,115,596,150,562,213,536,282,518,353,507,423,499,551,501,642,495,642,493,551,502,423,513,352,531,280,557,211,592,146,624,111,662,83"/>
+<area shape="rect" id="Node000010" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="866,642,1085,707"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="803,85,831,114,855,147,888,213,914,283,935,355,950,425,969,552,977,641,971,642,964,552,945,426,929,356,909,285,883,215,850,149,827,117,799,89"/>
+<area shape="rect" id="Node000008" href="$d7/dfc/interfaceSystem_1_1IFormattable.html" title=" " alt="" coords="605,627,841,722"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="722,736,684,1308,679,1307,717,735"/>
+<area shape="rect" id="Node000009" href="$d4/dee/classUnityEngine_1_1AnimationCurve.html" title=" " alt="" coords="869,1495,1082,1947"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="888,1948,835,2045,805,2091,772,2135,711,2201,643,2263,574,2318,508,2364,505,2360,571,2313,640,2259,707,2198,768,2132,801,2088,831,2042,883,1946"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="978,721,978,1495,973,1495,973,721"/>
+<area shape="rect" id="Node000011" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="1109,148,1441,1201"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="1127,1202,1047,1480,1042,1478,1122,1201"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="1444,591,1461,625,1468,675,1464,714,1453,745,1448,743,1459,713,1463,675,1456,627,1439,594"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="971,5,1161,85"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1086,98,1112,175,1107,177,1081,99"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1185,5,1365,85"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="1278,99,1278,148,1273,148,1273,99"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1390,13,1553,78"/>
+<area shape="poly" id="edge15_Node000011_Node000014" title=" " alt="" coords="1464,79,1447,133,1442,132,1459,77"/>
+</map>

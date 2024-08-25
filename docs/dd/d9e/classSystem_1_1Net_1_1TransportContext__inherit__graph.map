@@ -1,0 +1,7 @@
+<map id="System.Net.TransportContext" name="System.Net.TransportContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,5,407,155"/>
+<area shape="rect" id="Node000002" href="$dd/d31/classSystem_1_1Net_1_1CachedTransportContext.html" title=" " alt="" coords="5,203,271,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,168,194,204,189,200,216,164"/>
+<area shape="rect" id="Node000003" href="$d3/d57/classSystem_1_1Net_1_1HttpListenerRequest_1_1Context.html" title=" " alt="" coords="295,210,560,339"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="348,164,381,208,377,211,344,167"/>
+</map>

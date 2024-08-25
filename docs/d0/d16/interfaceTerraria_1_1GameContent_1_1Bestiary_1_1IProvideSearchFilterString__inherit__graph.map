@@ -1,0 +1,21 @@
+<map id="Terraria.GameContent.Bestiary.IProvideSearchFilterString" name="Terraria.GameContent.Bestiary.IProvideSearchFilterString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="844,5,1092,100"/>
+<area shape="rect" id="Node000002" href="$d5/d58/classTerraria_1_1GameContent_1_1Bestiary_1_1BossBestiaryInfoElement.html" title=" " alt="" coords="5,344,253,493"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="830,60,679,68,514,84,436,96,366,111,309,129,267,150,244,169,224,191,191,241,166,294,149,344,144,343,161,292,186,238,220,188,240,165,264,146,307,124,365,106,435,91,514,79,679,63,830,55"/>
+<area shape="rect" id="Node000003" href="$d4/daa/classTerraria_1_1GameContent_1_1Bestiary_1_1FilterProviderInfoElement.html" title=" " alt="" coords="277,148,525,689"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="831,74,746,87,661,105,588,126,560,138,539,150,528,160,524,156,536,146,557,133,586,121,660,100,745,82,830,68"/>
+<area shape="rect" id="Node000006" href="$d7/d92/classTerraria_1_1GameContent_1_1Bestiary_1_1ItemDropBestiaryInfoElement.html" title=" " alt="" coords="549,302,797,535"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="860,110,834,129,811,150,782,185,757,224,717,303,712,301,753,221,778,182,807,146,831,124,857,105"/>
+<area shape="rect" id="Node000007" href="$d5/db2/classTerraria_1_1GameContent_1_1Bestiary_1_1ItemFromCatchingNPCBestiaryInfoElement.html" title=" " alt="" coords="821,337,1115,501"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="971,114,971,336,965,336,965,114"/>
+<area shape="rect" id="Node000008" href="$d6/d49/classTerraria_1_1GameContent_1_1Bestiary_1_1NamePlateInfoElement.html" title=" " alt="" coords="1140,309,1388,528"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1080,105,1106,124,1130,146,1160,183,1187,224,1228,308,1224,310,1182,227,1156,187,1126,150,1103,128,1076,109"/>
+<area shape="rect" id="Node000009" href="$d7/d11/classTerraria_1_1GameContent_1_1Bestiary_1_1RareSpawnBestiaryInfoElement.html" title=" " alt="" coords="1412,319,1660,518"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1106,68,1192,82,1277,100,1351,121,1380,133,1402,146,1439,183,1470,226,1494,272,1512,318,1507,320,1489,275,1465,229,1435,186,1398,150,1378,138,1349,126,1276,105,1191,87,1105,74"/>
+<area shape="rect" id="Node000010" href="$d0/d5e/classTerraria_1_1GameContent_1_1Bestiary_1_1SearchAliasInfoElement.html" title=" " alt="" coords="1684,337,1932,501"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1106,55,1258,63,1423,79,1502,91,1572,106,1631,124,1674,146,1716,186,1749,234,1774,286,1791,335,1786,337,1769,288,1745,237,1712,189,1670,150,1629,129,1571,111,1501,96,1423,84,1257,68,1106,60"/>
+<area shape="rect" id="Node000004" href="$dc/d5a/classTerraria_1_1GameContent_1_1Bestiary_1_1SpawnConditionBestiaryInfoElement.html" title=" " alt="" coords="123,772,381,1040"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="317,704,296,772,291,771,312,702"/>
+<area shape="rect" id="Node000005" href="$d0/d2b/classTerraria_1_1GameContent_1_1Bestiary_1_1SpawnConditionBestiaryOverlayInfoElement.html" title=" " alt="" coords="405,737,696,1075"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="491,702,502,736,497,738,486,703"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="System.Security.Cryptography.SymmetricAlgorithm" name="System.Security.Cryptography.SymmetricAlgorithm">
+<area shape="rect" id="Node000001" title=" " alt="" coords="455,429,707,1071"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,225,192,290"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,299,223,404,342,524,457,633,453,637,338,527,219,407,130,303"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="246,5,277,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,71,245,126,237,197,238,275,244,314,255,351,290,429,337,502,391,569,446,627,442,631,387,572,333,505,286,431,249,353,239,315,233,275,231,196,239,125,250,70"/>
+<area shape="rect" id="Node000005" href="$dd/d3b/classSystem_1_1Security_1_1Cryptography_1_1KeySizes.html" title=" " alt="" coords="401,163,631,352"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="279,51,395,150,392,154,275,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="655,225,697,290"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="673,291,649,414,644,413,667,290"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="495,353,492,376,490,413,484,413,487,376,490,352"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="733,225,825,290"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="771,291,732,406,716,447,711,445,727,404,766,290"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="849,225,951,290"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="890,292,866,346,834,407,779,494,719,578,715,575,774,491,830,404,861,344,885,289"/>
+</map>

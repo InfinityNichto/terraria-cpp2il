@@ -1,0 +1,18 @@
+<map id="Mono.RuntimeStructs.GenericParamInfo" name="Mono.RuntimeStructs.GenericParamInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="459,1279,667,1359"/>
+<area shape="rect" id="Node000002" href="$de/df6/classMono_1_1RuntimeStructs.html" title=" " alt="" coords="5,642,160,707"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,708,72,802,71,865,75,933,85,1004,104,1075,133,1141,152,1171,174,1200,201,1226,232,1247,265,1266,300,1280,373,1301,443,1311,442,1317,372,1306,299,1285,263,1270,229,1252,198,1230,170,1203,147,1174,128,1143,99,1076,80,1005,69,934,66,865,67,802,75,707"/>
+<area shape="rect" id="Node000003" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="185,148,517,1201"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,1200,529,1254,533,1263,529,1265,524,1256,502,1203"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="519,591,537,625,543,675,539,714,528,745,523,743,534,713,538,675,532,627,514,594"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="46,5,237,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="161,98,187,175,182,177,156,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="261,5,441,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="353,99,353,148,348,148,348,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="465,13,628,78"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="539,79,522,133,517,132,534,77"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="610,642,665,707"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="640,708,634,916,622,1058,601,1202,585,1263,580,1262,596,1201,617,1058,628,916,635,708"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="691,642,730,707"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="717,708,722,795,723,919,719,989,711,1061,698,1133,680,1202,661,1239,634,1269,630,1266,657,1236,675,1200,693,1132,706,1060,714,988,717,919,717,795,711,708"/>
+</map>

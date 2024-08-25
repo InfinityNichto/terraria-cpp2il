@@ -1,0 +1,35 @@
+<map id="Terraria.GameContent.Biomes.CaveHouseBiome" name="Terraria.GameContent.Biomes.CaveHouseBiome">
+<area shape="rect" id="Node000001" title=" " alt="" coords="873,564,1104,848"/>
+<area shape="rect" id="Node000002" href="$da/d53/classTerraria_1_1WorldBuilding_1_1MicroBiome.html" title=" " alt="" coords="57,429,174,494"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,497,187,499,278,532,372,563,559,614,733,654,874,682,873,688,732,660,558,620,370,568,276,537,185,504,181,502"/>
+<area shape="rect" id="Node000003" href="$dd/dae/classTerraria_1_1WorldBuilding_1_1GenStructure.html" title=" " alt="" coords="19,244,212,344"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,358,118,429,113,429,113,358"/>
+<area shape="rect" id="Node000004" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="5,5,225,195"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,208,118,244,113,244,113,208"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,429,390,494"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="383,492,403,499,859,657,857,662,401,504,381,497"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="959,261,1018,327"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="945,298,854,301,729,312,589,334,519,350,451,370,391,398,338,431,335,426,388,393,449,366,517,345,588,328,729,307,853,296,945,293"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="414,429,627,494"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="946,301,884,307,806,320,722,340,640,370,594,398,554,431,551,426,591,394,638,366,721,335,805,315,883,302,945,295"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="651,429,854,494"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="947,312,892,336,836,370,804,399,777,430,773,427,800,396,832,366,890,332,945,307"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="878,429,1099,494"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="991,340,991,428,986,428,986,340"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1123,429,1342,494"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="1032,304,1097,327,1131,345,1164,366,1193,395,1217,427,1212,430,1189,399,1160,370,1129,349,1095,332,1030,309"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1366,429,1609,494"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="1032,295,1098,301,1182,314,1274,334,1363,366,1413,394,1455,426,1452,431,1410,398,1361,370,1272,339,1181,319,1097,306,1031,300"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1633,429,1849,494"/>
+<area shape="poly" id="edge17_Node000012_Node000006" title=" " alt="" coords="1032,295,1158,303,1325,318,1489,339,1557,351,1607,366,1661,393,1707,426,1704,431,1658,398,1605,370,1555,356,1488,344,1324,323,1158,309,1031,300"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="583,492,860,635,858,640,580,496"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="785,492,864,573,860,576,782,496"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="991,494,991,548,986,548,986,494"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="1203,496,1118,581,1114,577,1199,492"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="1424,496,1120,644,1118,639,1421,492"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="1644,497,1621,504,1121,665,1119,660,1620,499,1642,492"/>
+<area shape="rect" id="Node000013" href="$d7/dee/classTerraria_1_1GameContent_1_1Biomes_1_1CaveHouse_1_1HouseBuilderContext.html" title=" " alt="" coords="1873,421,2104,501"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="1874,500,1861,504,1458,604,1121,679,1120,674,1456,599,1860,499,1873,495"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1973,261,2004,327"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="1991,327,1991,405,1986,405,1986,327"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Ionic.Zip.ZipConstants" name="Ionic.Zip.ZipConstants">
+<area shape="rect" id="Node000001" title=" " alt="" coords="218,207,378,272"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="24,71,23,98,27,127,36,156,52,181,75,195,112,208,202,225,201,230,110,213,73,200,48,185,31,158,22,129,18,98,18,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="283,5,313,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,71,301,190,295,190,295,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="528,5,583,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="561,71,560,98,556,129,546,158,528,185,506,199,474,210,395,228,394,222,473,205,504,194,524,181,541,156,550,127,555,98,555,71"/>
+</map>

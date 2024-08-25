@@ -1,0 +1,11 @@
+<map id="System.Net.CachedTransportContext" name="System.Net.CachedTransportContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,491,285,635"/>
+<area shape="rect" id="Node000002" href="$de/d7a/classSystem_1_1Net_1_1TransportContext.html" title=" " alt="" coords="5,279,256,428"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,441,147,490,142,491,137,442"/>
+<area shape="rect" id="Node000003" href="$d2/d06/classSystem_1_1Security_1_1Authentication_1_1ExtendedProtection_1_1ChannelBinding.html" title=" " alt="" coords="281,313,527,393"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,396,253,482,249,478,355,391"/>
+<area shape="rect" id="Node000004" href="$dc/d92/classMicrosoft_1_1Win32_1_1SafeHandles_1_1SafeHandleZeroOrMinusOneIsInvalid.html" title=" " alt="" coords="297,135,511,229"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="407,243,407,313,401,313,401,243"/>
+<area shape="rect" id="Node000005" href="$d7/d82/classglobal_1_1SystemRuntime_1_1InteropServices_1_1SafeHandle.html" title=" " alt="" coords="301,5,507,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,99,407,134,401,134,401,99"/>
+</map>

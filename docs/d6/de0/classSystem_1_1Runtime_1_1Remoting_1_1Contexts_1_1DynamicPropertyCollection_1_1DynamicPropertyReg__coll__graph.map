@@ -1,0 +1,7 @@
+<map id="System.Runtime.Remoting.Contexts.DynamicPropertyCollection.DynamicPropertyReg" name="System.Runtime.Remoting.Contexts.DynamicPropertyCollection.DynamicPropertyReg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="98,256,357,351"/>
+<area shape="rect" id="Node000002" href="$d8/d91/interfaceSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1IDynamicProperty.html" title=" " alt="" coords="5,59,199,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,138,192,241,188,244,124,141"/>
+<area shape="rect" id="Node000003" href="$d3/d09/interfaceSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1IDynamicMessageSink.html" title=" " alt="" coords="223,5,485,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,195,267,244,263,241,293,192"/>
+</map>

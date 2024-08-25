@@ -1,0 +1,19 @@
+<map id="System.IAsyncResult" name="System.IAsyncResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="447,5,674,145"/>
+<area shape="rect" id="Node000002" href="$d4/dd5/classSystem_1_1IOAsyncResult.html" title=" " alt="" coords="21,487,287,865"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,112,365,146,332,168,304,195,279,227,257,261,221,335,195,412,177,487,172,486,190,410,216,333,252,258,275,224,300,192,329,164,362,141,433,107"/>
+<area shape="rect" id="Node000004" href="$d7/d4a/classSystem_1_1Net_1_1HttpStreamAsyncResult.html" title=" " alt="" coords="314,486,541,866"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="545,159,472,486,467,485,540,158"/>
+<area shape="rect" id="Node000005" href="$db/d9f/classSystem_1_1Net_1_1LazyAsyncResult.html" title=" " alt="" coords="565,193,823,1159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="582,158,589,192,584,194,576,159"/>
+<area shape="rect" id="Node000009" href="$d9/d92/classSystem_1_1Net_1_1ListenerAsyncResult.html" title=" " alt="" coords="847,360,1074,992"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="688,101,728,117,768,136,805,161,837,192,866,229,890,270,909,314,925,359,920,361,904,316,885,273,861,232,833,195,802,165,765,141,726,121,686,106"/>
+<area shape="rect" id="Node000003" href="$dd/d07/classSystem_1_1Net_1_1Sockets_1_1SocketAsyncResult.html" title=" " alt="" coords="5,1207,292,1933"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,879,154,1206,148,1206,150,879"/>
+<area shape="rect" id="Node000006" href="$da/d0f/classSystem_1_1Net_1_1Base64Stream_1_1ReadAsyncResult.html" title=" " alt="" coords="316,1371,557,1769"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="564,1138,496,1372,491,1370,559,1136"/>
+<area shape="rect" id="Node000007" href="$df/d00/classSystem_1_1Net_1_1Base64Stream_1_1WriteAsyncResult.html" title=" " alt="" coords="581,1364,815,1776"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="699,1172,700,1364,694,1364,694,1172"/>
+<area shape="rect" id="Node000008" href="$d3/db6/classSystem_1_1Net_1_1ContextAwareResult.html" title=" " alt="" coords="839,1238,1117,1902"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="829,1131,838,1158,864,1237,859,1239,833,1159,824,1133"/>
+</map>

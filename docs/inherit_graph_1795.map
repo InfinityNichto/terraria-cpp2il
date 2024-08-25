@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$da/db0/interfaceSystem_1_1Net_1_1IAuthenticationModule.html" title=" " alt="" coords="5,73,207,113"/>
+<area shape="rect" id="Node000001" href="$d2/d90/classMono_1_1Http_1_1NtlmClient.html" title=" " alt="" coords="264,5,428,31"/>
+<area shape="poly" id="edge3551_Node000000_Node000001" title=" " alt="" coords="174,66,254,39,294,28,295,33,255,45,176,71"/>
+<area shape="rect" id="Node000002" href="$dd/d14/classSystem_1_1Net_1_1BasicClient.html" title=" " alt="" coords="259,55,433,80"/>
+<area shape="poly" id="edge3552_Node000000_Node000002" title=" " alt="" coords="220,78,258,74,259,79,221,83"/>
+<area shape="rect" id="Node000003" href="$d4/d89/classSystem_1_1Net_1_1DigestClient.html" title=" " alt="" coords="255,104,437,129"/>
+<area shape="poly" id="edge3553_Node000000_Node000003" title=" " alt="" coords="221,101,255,105,254,110,220,107"/>
+<area shape="rect" id="Node000004" href="$db/d8a/classSystem_1_1Net_1_1NtlmClient.html" title=" " alt="" coords="260,153,432,179"/>
+<area shape="poly" id="edge3554_Node000000_Node000004" title=" " alt="" coords="181,114,255,138,299,151,297,156,254,143,179,119"/>
+</map>

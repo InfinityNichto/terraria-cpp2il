@@ -1,0 +1,17 @@
+<map id="UnityEngine.AndroidReflection" name="UnityEngine.AndroidReflection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,1517,353,2067"/>
+<area shape="rect" id="Node000002" href="$de/d0e/classUnityEngine_1_1GlobalJavaObjectRef.html" title=" " alt="" coords="9,1282,245,1437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,1437,131,1493,133,1501,127,1502,126,1494,122,1437"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="74,642,117,707"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,708,89,799,85,930,87,1084,99,1240,104,1266,98,1267,94,1240,81,1084,80,930,84,798,90,707"/>
+<area shape="rect" id="Node000004" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1201"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="321,1202,313,1349,298,1494,297,1502,292,1501,293,1493,308,1349,316,1201"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="200,1202,187,1241,177,1268,172,1266,182,1239,195,1201"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="478,591,496,625,503,675,499,714,488,745,483,743,493,713,497,675,491,627,474,594"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="120,98,146,175,141,177,115,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="499,79,482,133,477,132,494,77"/>
+</map>

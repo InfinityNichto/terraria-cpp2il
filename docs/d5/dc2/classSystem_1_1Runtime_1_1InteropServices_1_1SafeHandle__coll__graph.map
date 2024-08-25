@@ -1,0 +1,20 @@
+<map id="System.Runtime.InteropServices.SafeHandle" name="System.Runtime.InteropServices.SafeHandle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="457,1293,691,1756"/>
+<area shape="rect" id="Node000002" href="$dc/dcc/classglobal_1_1SystemRuntime_1_1ConstrainedExecution_1_1CriticalFinalizerObject.html" title=" " alt="" coords="5,627,172,722"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,736,92,830,105,950,117,1014,135,1079,158,1141,187,1200,214,1240,244,1278,314,1348,387,1407,458,1456,455,1460,384,1412,310,1352,240,1282,209,1243,182,1203,153,1143,130,1080,112,1016,100,951,87,831,84,736"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,642,383,707"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,721,308,811,328,932,357,1067,398,1200,426,1268,460,1334,455,1337,421,1270,393,1202,352,1068,322,933,303,812,292,722"/>
+<area shape="rect" id="Node000004" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="408,148,740,1201"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="577,1202,577,1277,571,1277,571,1202"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="742,591,760,625,767,675,763,714,752,745,747,743,757,713,761,675,755,627,738,594"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="269,5,460,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="384,98,410,175,405,177,379,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="484,5,664,85"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="577,99,577,148,571,148,571,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="689,13,851,78"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="763,79,746,133,741,132,758,77"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="833,642,864,707"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="856,707,865,795,869,919,866,990,859,1062,845,1133,824,1202,782,1266,703,1369,699,1365,778,1263,820,1200,840,1132,853,1061,861,989,864,919,860,795,851,708"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="929,642,971,707"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="960,707,977,807,984,875,988,951,985,1032,975,1114,955,1195,923,1271,903,1303,880,1332,826,1385,766,1430,706,1466,704,1462,763,1426,822,1381,876,1329,899,1299,918,1268,950,1193,970,1113,980,1032,982,952,979,876,972,808,955,708"/>
+</map>

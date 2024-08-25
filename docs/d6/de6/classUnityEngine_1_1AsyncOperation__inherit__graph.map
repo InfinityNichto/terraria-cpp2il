@@ -1,0 +1,7 @@
+<map id="UnityEngine.AsyncOperation" name="UnityEngine.AsyncOperation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,231,313"/>
+<area shape="rect" id="Node000003" href="$d8/dda/classUnityEngine_1_1ResourceRequest.html" title=" " alt="" coords="13,361,223,487"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,327,121,361,115,361,115,327"/>
+<area shape="rect" id="Node000002" href="$de/dfc/classUnityEngine_1_1YieldInstruction.html" title=" " alt="" coords="48,5,188,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,84,121,119,115,119,115,84"/>
+</map>

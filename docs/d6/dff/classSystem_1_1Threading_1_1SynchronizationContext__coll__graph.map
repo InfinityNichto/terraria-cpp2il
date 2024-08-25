@@ -1,0 +1,30 @@
+<map id="System.Threading.SynchronizationContext" name="System.Threading.SynchronizationContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,5697,304,6252"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,4265,240,4331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,4331,159,5681,154,5681,121,4331"/>
+<area shape="rect" id="Node000003" href="$da/d1b/classSystem_1_1Type.html" title=" " alt="" coords="263,3020,721,5576"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,5521,255,5577,232,5682,227,5681,249,5575,261,5520"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="723,4119,733,4153,741,4195,747,4298,742,4390,728,4462,723,4461,737,4390,742,4298,736,4196,728,4155,718,4120"/>
+<area shape="rect" id="Node000004" href="$d8/d11/classglobal_1_1SystemReflection_1_1MemberInfo.html" title=" " alt="" coords="11,2041,187,2121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,2135,109,2270,124,2460,154,2679,175,2790,201,2898,214,2933,227,2958,241,2984,255,3019,266,3056,261,3058,249,3021,236,2986,222,2961,209,2935,196,2899,170,2791,149,2680,119,2461,103,2270,97,2135"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="211,2049,290,2114"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="252,2114,250,2253,250,2470,257,2729,275,2996,275,3003,270,3004,269,2996,252,2730,245,2470,245,2253,247,2114"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="417,2049,460,2114"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="441,2114,437,2923,437,2996,438,3004,432,3004,432,2996,432,2923,436,2114"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="502,2049,557,2114"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="532,2114,520,2996,520,3004,515,3004,515,2996,526,2114"/>
+<area shape="rect" id="Node000008" href="$d0/d8f/structSystem_1_1RuntimeTypeHandle.html" title=" " alt="" coords="581,1264,931,2899"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="661,2899,649,3004,644,3003,656,2899"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="597,5,787,85"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="696,99,725,1201,727,1264,722,1264,720,1201,691,99"/>
+<area shape="rect" id="Node000010" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="734,148,1066,1201"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="712,98,736,172,731,174,707,99"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="849,1202,844,1248,839,1247,843,1202"/>
+<area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="1068,591,1086,625,1093,675,1089,714,1078,745,1073,743,1083,713,1087,675,1081,627,1064,594"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="811,5,991,85"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="904,99,904,148,898,148,899,99"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1016,13,1179,78"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="1090,79,1073,133,1068,132,1085,77"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="955,2049,1005,2114"/>
+<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="984,2114,988,2240,987,2434,975,2665,963,2783,945,2899,903,3101,850,3304,791,3503,729,3692,723,3690,786,3502,845,3303,898,3100,940,2898,958,2783,970,2664,982,2434,982,2241,979,2114"/>
+</map>

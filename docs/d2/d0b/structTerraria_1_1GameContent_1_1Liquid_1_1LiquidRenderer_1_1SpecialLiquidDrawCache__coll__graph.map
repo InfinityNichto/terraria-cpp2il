@@ -1,0 +1,17 @@
+<map id="Terraria.GameContent.Liquid.LiquidRenderer.SpecialLiquidDrawCache" name="Terraria.GameContent.Liquid.LiquidRenderer.SpecialLiquidDrawCache">
+<area shape="rect" id="Node000001" title=" " alt="" coords="448,1276,723,1356"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="68,5,98,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,71,49,290,30,449,15,623,9,797,13,958,22,1029,34,1091,52,1143,75,1182,97,1202,129,1220,171,1237,219,1251,326,1276,432,1294,432,1299,325,1281,218,1257,169,1242,127,1225,94,1206,70,1186,47,1145,29,1092,16,1029,8,958,3,797,10,622,25,449,43,289,75,71"/>
+<area shape="rect" id="Node000003" href="$d3/dd6/structMicrosoft_1_1Xna_1_1Framework_1_1Rectangle.html" title=" " alt="" coords="110,177,333,1184"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="93,71,112,161,107,162,87,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="335,1176,362,1215,393,1250,413,1267,435,1280,432,1285,410,1271,389,1254,358,1218,331,1179"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="336,589,345,604,353,624,360,681,356,726,345,758,340,757,351,725,354,681,348,625,341,606,331,592"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="498,648,585,713"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="543,714,536,921,528,1208,526,1231,528,1251,533,1261,529,1264,523,1253,520,1231,523,1208,530,921,538,713"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="627,648,670,713"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="654,713,660,807,662,941,658,1018,651,1097,639,1176,622,1253,619,1262,614,1260,617,1251,634,1175,646,1096,653,1017,656,941,655,807,649,714"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="768,648,811,713"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="800,713,818,813,825,880,827,955,822,1033,808,1111,783,1185,765,1221,744,1254,732,1267,728,1264,740,1250,761,1218,778,1183,803,1109,817,1032,821,955,819,881,813,814,795,714"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="864,648,907,713"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="897,713,917,815,925,883,928,958,923,1037,909,1115,881,1188,862,1222,838,1254,823,1266,800,1277,740,1294,739,1289,798,1272,820,1261,835,1250,858,1219,877,1186,904,1113,918,1036,923,958,920,884,912,815,892,714"/>
+</map>

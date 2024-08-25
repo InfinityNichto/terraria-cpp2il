@@ -1,0 +1,22 @@
+<map id="UnityEngine.Android.AndroidAssetPacks" name="UnityEngine.Android.AndroidAssetPacks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2869,207,2964"/>
+<area shape="rect" id="Node000002" href="$d7/d2b/classUnityEngine_1_1AndroidJavaObject.html" title=" " alt="" coords="103,1496,357,2792"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,2792,119,2853,113,2852,123,2792"/>
+<area shape="rect" id="Node000003" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="81,1309,203,1374"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,1387,161,1495,156,1496,144,1388"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="230,642,273,707"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="241,709,206,802,159,938,110,1098,71,1265,52,1380,38,1499,28,1618,22,1738,19,1976,28,2204,43,2414,62,2597,98,2852,93,2853,57,2598,38,2414,22,2204,14,1976,16,1738,22,1618,32,1498,47,1379,66,1263,105,1097,154,936,201,800,236,707"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,708,242,1480,237,1480,248,708"/>
+<area shape="rect" id="Node000005" href="$de/d0e/classUnityEngine_1_1GlobalJavaObjectRef.html" title=" " alt="" coords="409,1264,645,1419"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="252,708,253,798,263,925,275,995,293,1066,318,1135,351,1200,373,1229,399,1256,395,1259,369,1233,346,1203,313,1138,288,1068,270,996,258,926,247,798,247,708"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="501,1420,366,1785,361,1783,496,1418"/>
+<area shape="rect" id="Node000006" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="361,148,693,1201"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="530,1202,530,1248,525,1248,525,1202"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="696,591,713,625,720,675,716,714,705,745,700,743,711,713,715,675,708,627,691,594"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="223,5,413,85"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="338,98,364,175,359,177,333,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="437,5,617,85"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="530,99,530,148,525,148,525,99"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="642,13,805,78"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="716,79,699,133,694,132,711,77"/>
+</map>

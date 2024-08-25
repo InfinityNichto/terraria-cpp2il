@@ -1,0 +1,16 @@
+<map id="System.Xml.Schema.LeafRangeNode" name="System.Xml.Schema.LeafRangeNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,719,553,824"/>
+<area shape="rect" id="Node000002" href="$db/d7b/classSystem_1_1Xml_1_1Schema_1_1LeafNode.html" title=" " alt="" coords="5,355,297,539"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,548,311,640,379,717,375,720,307,643,230,551"/>
+<area shape="rect" id="Node000003" href="$db/de8/classSystem_1_1Xml_1_1Schema_1_1SyntaxTreeNode.html" title=" " alt="" coords="31,5,271,189"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,203,154,354,149,354,149,203"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="305,65,336,130"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="311,131,286,190,211,341,206,339,281,188,306,129"/>
+<area shape="rect" id="Node000006" href="$d0/d7a/classSystem_1_1Xml_1_1Schema_1_1BitSet.html" title=" " alt="" coords="321,252,528,641"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="333,129,364,235,359,237,328,131"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="553,414,619,479"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="588,480,583,525,573,581,555,641,526,696,516,708,512,705,521,693,550,639,568,580,578,524,582,479"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="427,641,427,702,422,702,422,641"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="405,65,444,130"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="427,130,427,236,422,236,422,130"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Ionic.Zlib.Tree" name="Ionic.Zlib.Tree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="325,399,578,643"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="70,5,100,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,63,45,110,19,173,11,207,8,241,13,274,26,305,52,340,82,371,117,399,154,423,233,461,310,487,308,492,230,466,151,427,114,403,79,375,48,344,22,308,8,276,3,241,6,206,14,171,40,108,67,60"/>
+<area shape="rect" id="Node000005" href="$d2/d06/classIonic_1_1Zlib_1_1StaticTree.html" title=" " alt="" coords="164,177,358,307"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="103,55,197,163,193,166,99,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="613,209,664,275"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="619,276,545,386,541,383,615,274"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="404,5,451,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="453,49,479,67,499,93,513,128,522,165,527,240,520,314,505,383,500,382,515,313,522,240,517,166,508,130,495,96,475,71,450,53"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="406,53,375,72,346,97,320,129,299,164,294,161,316,126,342,93,372,67,403,49"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="307,305,361,384,357,387,303,309"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="360,221,378,228,385,242,382,251,376,257,372,253,378,248,380,242,374,232,358,226"/>
+</map>

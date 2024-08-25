@@ -1,0 +1,16 @@
+<map id="UnityEngine.Rendering.BatchRendererGroup" name="UnityEngine.Rendering.BatchRendererGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="152,1529,468,1732"/>
+<area shape="rect" id="Node000002" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,1202,303,1467,305,1513,300,1513,298,1467,295,1202"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="478,591,496,625,503,675,499,714,488,745,483,743,493,713,497,675,491,627,474,594"/>
+<area shape="rect" id="Node000006" href="$d6/d8b/classUnityEngine_1_1Rendering_1_1BatchRendererGroup.html" title=" " alt="" coords="428,1264,744,1467"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="479,1089,542,1248,537,1250,474,1091"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,98,146,175,141,177,115,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="499,79,482,133,477,132,494,77"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="483,1469,429,1520,425,1516,479,1465"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="746,1343,763,1352,771,1365,768,1374,761,1380,758,1376,764,1371,765,1366,760,1356,743,1348"/>
+</map>

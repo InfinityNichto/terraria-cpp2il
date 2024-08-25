@@ -1,0 +1,17 @@
+<map id="GUIReturnToTouch" name="GUIReturnToTouch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="377,460,662,615"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="73,50,115,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,117,44,174,29,210,17,248,10,287,9,326,17,362,35,396,55,414,84,432,165,463,262,489,361,509,360,514,261,494,163,468,82,437,51,419,30,399,12,364,4,326,5,286,12,247,24,208,40,172,71,114"/>
+<area shape="rect" id="Node000003" href="$db/d77/classGUIInputRegionExclusive.html" title=" " alt="" coords="148,235,392,385"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="118,110,204,221,200,224,113,113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="348,383,404,434,418,447,414,451,400,438,345,387"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="393,289,411,297,419,310,416,319,409,325,406,321,411,316,413,310,408,301,391,294"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="498,277,541,343"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="522,343,522,444,517,444,517,343"/>
+<area shape="rect" id="Node000005" href="$d0/d44/classGUIControllerModalResponse.html" title=" " alt="" coords="686,223,915,397"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="694,400,629,452,625,448,691,395"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="916,288,934,296,942,310,939,319,932,325,929,321,935,316,937,310,931,300,914,293"/>
+<area shape="rect" id="Node000006" href="$d1/d1a/interfaceGUIControllerItem.html" title=" " alt="" coords="500,5,709,160"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="603,160,590,312,581,385,571,437,568,445,563,444,566,435,576,384,585,312,597,160"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="682,169,727,221,723,224,678,172"/>
+</map>

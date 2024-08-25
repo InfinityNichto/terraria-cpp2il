@@ -1,0 +1,14 @@
+<map id="Terraria.GameContent.Animations.Actions.Players.Wait" name="Terraria.GameContent.Animations.Actions.Players.Wait">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,588,424,772"/>
+<area shape="rect" id="Node000002" href="$d7/d4a/interfaceTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1Players_1_1IPlayerAction.html" title=" " alt="" coords="146,445,317,525"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,537,272,587,268,589,249,539"/>
+<area shape="rect" id="Node000003" href="$d1/d86/interfaceTerraria_1_1GameContent_1_1Animations_1_1IAnimationSegmentAction.html" title=" " alt="" coords="20,232,229,396"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="116,410,120,468,126,497,136,524,159,560,187,592,183,596,154,563,132,527,121,498,115,469,111,410"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,406,209,444,205,447,181,409"/>
+<area shape="rect" id="Node000004" href="$d1/d86/interfaceTerraria_1_1GameContent_1_1Animations_1_1IAnimationSegmentAction.html" title=" " alt="" coords="5,5,244,169"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,183,127,232,122,232,122,183"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="341,453,372,518"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="350,519,341,550,334,573,329,571,335,549,344,518"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="417,453,459,518"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="432,519,411,565,404,576,400,573,406,563,427,517"/>
+</map>

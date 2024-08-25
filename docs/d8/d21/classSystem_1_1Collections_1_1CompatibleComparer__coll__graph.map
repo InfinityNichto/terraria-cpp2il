@@ -1,0 +1,9 @@
+<map id="System.Collections.CompatibleComparer" name="System.Collections.CompatibleComparer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,168,464,401"/>
+<area shape="rect" id="Node000002" href="$d6/de3/interfaceSystem_1_1Collections_1_1IEqualityComparer.html" title=" " alt="" coords="5,5,219,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,114,236,172,233,176,172,117"/>
+<area shape="rect" id="Node000003" href="$d2/d31/interfaceSystem_1_1Collections_1_1IHashCodeProvider.html" title=" " alt="" coords="243,15,456,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,96,352,151,347,151,347,96"/>
+<area shape="rect" id="Node000004" href="$da/dff/interfaceSystem_1_1Collections_1_1IComparer.html" title=" " alt="" coords="480,15,691,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="547,98,478,163,474,159,543,94"/>
+</map>

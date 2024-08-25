@@ -1,0 +1,11 @@
+<map id="System.Configuration.ConfigurationSectionGroup" name="System.Configuration.ConfigurationSectionGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="342,5,587,85"/>
+<area shape="rect" id="Node000002" href="$d1/d2b/classSystem_1_1Configuration_1_1ApplicationSettingsGroup.html" title=" " alt="" coords="5,262,236,342"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,90,288,110,249,135,216,165,188,198,144,263,139,260,183,195,213,161,246,131,285,106,328,85"/>
+<area shape="rect" id="Node000003" href="$d7/d6b/classSystem_1_1Configuration_1_1UserSettingsGroup.html" title=" " alt="" coords="260,262,448,342"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="445,99,373,263,368,261,440,97"/>
+<area shape="rect" id="Node000004" href="$de/dfd/classSystem_1_1Net_1_1Configuration_1_1MailSettingsSectionGroup.html" title=" " alt="" coords="472,262,679,342"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="490,97,561,261,556,263,485,99"/>
+<area shape="rect" id="Node000005" href="$d3/d91/classSystem_1_1Net_1_1Configuration_1_1NetSectionGroup.html" title=" " alt="" coords="703,133,939,471"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="601,82,649,104,693,131,704,140,701,144,690,136,646,108,599,87"/>
+</map>

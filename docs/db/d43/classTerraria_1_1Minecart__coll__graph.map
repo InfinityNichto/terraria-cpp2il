@@ -1,0 +1,19 @@
+<map id="Terraria.Minecart" name="Terraria.Minecart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="391,1460,711,2628"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="34,731,65,796"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,797,26,905,16,981,10,1066,9,1157,14,1251,28,1345,53,1435,81,1502,116,1567,155,1630,198,1690,290,1800,381,1894,377,1898,286,1804,193,1693,150,1633,111,1570,77,1504,48,1437,23,1346,9,1252,3,1157,5,1065,11,980,21,904,40,796"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="319,133,362,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="321,192,292,230,269,277,230,420,206,543,194,654,194,759,204,864,220,976,270,1250,291,1355,320,1460,352,1563,388,1663,383,1664,347,1565,314,1461,286,1356,264,1251,215,977,198,864,189,759,189,654,200,543,225,419,264,275,288,227,317,189"/>
+<area shape="rect" id="Node000004" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="429,276,673,1251"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="364,195,389,232,412,275,425,305,420,307,407,277,384,235,360,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="554,1251,554,1443,548,1443,548,1251"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="676,678,685,692,693,711,700,763,696,805,685,835,680,833,691,803,694,763,688,713,681,695,671,681"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="470,133,632,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="554,212,554,276,548,276,548,212"/>
+<area shape="rect" id="Node000006" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="464,5,638,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="554,85,554,133,548,133,548,85"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="803,731,846,796"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="827,796,822,989,812,1119,794,1251,760,1407,718,1562,713,1561,755,1406,788,1250,807,1119,817,989,822,796"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="889,731,936,796"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="917,796,921,904,919,1063,914,1155,904,1249,889,1345,867,1437,838,1525,803,1612,763,1696,721,1776,717,1774,758,1694,798,1610,833,1523,862,1435,883,1344,899,1249,908,1154,914,1063,916,904,912,796"/>
+</map>

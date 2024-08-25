@@ -1,0 +1,7 @@
+<map id="ReLogic.Content.IContentValidator" name="ReLogic.Content.IContentValidator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="144,5,352,129"/>
+<area shape="rect" id="Node000002" href="$db/d80/classTerraria_1_1GameContent_1_1VanillaContentValidator.html" title=" " alt="" coords="5,192,243,449"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,143,189,193,185,191,209,141"/>
+<area shape="rect" id="Node000003" href="$d4/d5c/interfaceReLogic_1_1Content_1_1IContentValidator.html" title=" " alt="" coords="267,259,477,383"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,140,344,257,339,260,282,143"/>
+</map>

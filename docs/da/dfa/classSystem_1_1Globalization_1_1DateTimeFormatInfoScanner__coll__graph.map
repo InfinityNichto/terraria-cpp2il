@@ -1,0 +1,9 @@
+<map id="System.Globalization.DateTimeFormatInfoScanner" name="System.Globalization.DateTimeFormatInfoScanner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1055,284,1899"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="101,5,188,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,71,139,148,133,385,133,570,139,992,140,1038,134,1038,134,992,128,570,128,385,134,148,139,71"/>
+<area shape="rect" id="Node000003" href="$df/d86/classSystem_1_1Globalization_1_1DateTimeFormatInfoScanner.html" title=" " alt="" coords="255,148,533,992"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="178,69,209,105,238,147,249,167,245,170,233,149,205,108,174,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,993,268,1040,262,1038,275,992"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="535,498,546,510,553,527,560,570,556,604,546,629,541,627,551,602,555,570,548,528,541,513,531,501"/>
+</map>

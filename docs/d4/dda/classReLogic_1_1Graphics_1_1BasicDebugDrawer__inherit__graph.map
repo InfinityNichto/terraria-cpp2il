@@ -1,0 +1,7 @@
+<map id="ReLogic.Graphics.BasicDebugDrawer" name="ReLogic.Graphics.BasicDebugDrawer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,197,340,644"/>
+<area shape="rect" id="Node000002" href="$d2/d39/interfaceReLogic_1_1Graphics_1_1IDebugDrawer.html" title=" " alt="" coords="5,5,239,149"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,162,160,197,155,198,144,163"/>
+<area shape="rect" id="Node000003" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="263,45,386,110"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="314,124,292,198,287,196,309,123"/>
+</map>

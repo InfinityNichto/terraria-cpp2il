@@ -1,0 +1,17 @@
+<map id="System.ComponentModel.IBindingListView" name="System.ComponentModel.IBindingListView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="149,1095,401,1284"/>
+<area shape="rect" id="Node000002" href="$d7/df1/interfaceSystem_1_1ComponentModel_1_1IBindingList.html" title=" " alt="" coords="69,633,319,1047"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,1059,256,1094,251,1095,243,1061"/>
+<area shape="rect" id="Node000003" href="$dd/d26/interfaceSystem_1_1Collections_1_1IList.html" title=" " alt="" coords="59,301,255,585"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="70,599,59,634,28,751,17,800,10,847,9,892,16,938,32,989,59,1045,77,1072,99,1095,151,1133,147,1138,95,1099,72,1075,54,1048,27,991,11,940,4,892,4,846,11,799,23,750,54,633,65,597"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,599,177,633,172,633,169,600"/>
+<area shape="rect" id="Node000004" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="203,119,369,253"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="305,267,330,413,351,608,356,716,356,827,349,939,334,1047,321,1095,315,1094,329,1046,344,938,351,827,351,716,346,608,325,414,300,268"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="290,267,286,416,280,501,269,586,259,634,254,633,263,585,274,501,281,415,285,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,267,231,302,226,300,244,264"/>
+<area shape="rect" id="Node000005" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="235,5,457,71"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="385,80,404,118,412,155,412,185,405,253,404,375,409,479,419,656,419,740,412,830,394,931,363,1048,343,1095,338,1093,358,1046,389,930,407,830,414,740,414,656,403,479,399,375,399,253,407,185,407,156,399,120,380,83"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="371,82,383,118,389,156,391,186,383,254,366,352,342,451,313,546,282,634,277,632,308,545,337,450,361,351,378,253,385,186,384,156,378,119,366,84"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="237,80,212,98,192,120,170,162,155,207,148,255,145,301,140,301,142,254,150,206,165,160,188,117,209,94,234,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="330,84,316,120,311,118,325,82"/>
+</map>

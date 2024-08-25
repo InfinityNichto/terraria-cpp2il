@@ -1,0 +1,13 @@
+<map id="Unity.ThrowStub" name="Unity.ThrowStub">
+<area shape="rect" id="Node000001" title=" " alt="" coords="332,495,561,679"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,257,219,337"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,347,187,396,232,443,281,483,333,518,330,523,278,487,229,447,183,399,144,350"/>
+<area shape="rect" id="Node000003" href="$d2/d0c/classSystem_1_1ObjectDisposedException.html" title=" " alt="" coords="242,148,651,445"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="431,459,432,494,427,494,426,459"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="449,459,449,494,444,494,444,459"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="467,459,466,494,461,494,462,459"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="257,5,476,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="386,98,402,147,397,149,381,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="500,13,551,78"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="518,79,501,133,496,131,513,77"/>
+</map>

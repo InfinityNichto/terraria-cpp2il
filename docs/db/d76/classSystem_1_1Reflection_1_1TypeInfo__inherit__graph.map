@@ -1,0 +1,11 @@
+<map id="System.Reflection.TypeInfo" name="System.Reflection.TypeInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="446,119,637,199"/>
+<area shape="rect" id="Node000003" href="$dc/d61/classSystem_1_1Reflection_1_1Emit_1_1EnumBuilder.html" title=" " alt="" coords="5,257,347,1685"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="435,195,395,218,361,248,349,263,345,260,357,245,391,213,432,190"/>
+<area shape="rect" id="Node000004" href="$d6/dfb/classSystem_1_1Reflection_1_1Emit_1_1GenericTypeParameterBuilder.html" title=" " alt="" coords="371,257,712,1685"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="544,213,544,256,539,256,539,213"/>
+<area shape="rect" id="Node000005" href="$d7/d07/classSystem_1_1Reflection_1_1Emit_1_1TypeBuilder.html" title=" " alt="" coords="736,247,1077,1695"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="651,190,691,213,726,245,738,260,734,263,722,248,688,218,648,195"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="471,5,612,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,85,544,118,539,118,539,85"/>
+</map>

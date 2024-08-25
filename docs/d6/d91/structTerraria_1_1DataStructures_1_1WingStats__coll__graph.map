@@ -1,0 +1,15 @@
+<map id="Terraria.DataStructures.WingStats" name="Terraria.DataStructures.WingStats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,448,391,656"/>
+<area shape="rect" id="Node000002" href="$df/dd3/structTerraria_1_1DataStructures_1_1WingStats.html" title=" " alt="" coords="353,177,661,385"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,387,354,438,351,434,402,384"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="663,259,681,267,688,281,685,290,678,297,675,293,681,287,683,282,677,271,661,264"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="20,71,17,132,19,212,32,300,45,343,62,384,95,434,91,437,57,387,40,345,27,301,14,213,11,132,15,71"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="38,52,100,102,141,129,186,151,226,162,259,164,293,165,335,175,339,176,337,181,333,180,292,170,259,169,225,167,184,156,139,133,97,106,35,56"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="158,5,201,71"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="171,72,156,131,141,209,136,297,139,342,147,385,165,432,159,434,142,386,134,342,131,297,136,208,150,130,166,70"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="202,53,356,165,352,170,199,57"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="661,5,703,71"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="705,42,745,60,766,74,782,93,810,144,822,174,830,208,830,246,821,288,799,335,764,387,729,424,689,455,645,481,598,502,550,519,501,531,407,547,406,542,500,526,549,514,596,497,643,476,686,451,726,420,760,384,795,332,816,287,825,245,824,209,817,176,805,146,777,96,762,78,743,64,703,47"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="662,62,632,96,582,165,578,162,628,93,658,59"/>
+</map>

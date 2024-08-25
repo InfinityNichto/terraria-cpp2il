@@ -1,0 +1,9 @@
+<map id="System.Text.RegularExpressions.Group" name="System.Text.RegularExpressions.Group">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,372,236,665"/>
+<area shape="rect" id="Node000003" href="$db/d2a/classSystem_1_1Text_1_1RegularExpressions_1_1Match.html" title=" " alt="" coords="5,713,236,1552"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,679,123,713,118,713,118,679"/>
+<area shape="rect" id="Node000002" href="$d9/da0/classSystem_1_1Text_1_1RegularExpressions_1_1Capture.html" title=" " alt="" coords="10,5,231,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,338,123,372,118,372,118,338"/>
+<area shape="rect" id="Node000004" href="$d3/d48/classSystem_1_1Text_1_1RegularExpressions_1_1MatchSparse.html" title=" " alt="" coords="5,1600,236,1788"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,1565,123,1600,118,1600,118,1565"/>
+</map>

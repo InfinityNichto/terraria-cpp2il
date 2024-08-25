@@ -1,0 +1,16 @@
+<map id="Mono.RuntimeStructs.RemoteClass" name="Mono.RuntimeStructs.RemoteClass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="543,1293,752,1373"/>
+<area shape="rect" id="Node000002" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,1200,511,1268,531,1285,527,1289,507,1271,455,1203"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="478,591,496,625,503,675,499,714,488,745,483,743,493,713,497,675,491,627,474,594"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,98,146,175,141,177,115,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="499,79,482,133,477,132,494,77"/>
+<area shape="rect" id="Node000006" href="$de/df6/classMono_1_1RuntimeStructs.html" title=" " alt="" coords="570,642,725,707"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="650,708,650,1277,645,1277,645,708"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="752,642,791,707"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="782,707,800,808,808,876,811,953,809,1034,799,1116,778,1196,744,1271,736,1283,731,1280,740,1268,773,1194,793,1115,804,1033,806,953,802,877,795,809,776,708"/>
+</map>

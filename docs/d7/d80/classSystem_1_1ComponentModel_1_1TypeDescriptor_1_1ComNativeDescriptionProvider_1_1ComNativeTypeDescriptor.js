@@ -1,0 +1,18 @@
+var classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor =
+[
+    [ "ComNativeTypeDescriptor", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a637a87d280192a227b55f87d0b18baa6.html#a637a87d280192a227b55f87d0b18baa6", null ],
+    [ "GetAttributes", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_aa3dd83c5ee642a3018c4e2e291a217e4.html#aa3dd83c5ee642a3018c4e2e291a217e4", null ],
+    [ "GetClassName", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a50ab663ea8c1a072cb6bafcb0642b3f2.html#a50ab663ea8c1a072cb6bafcb0642b3f2", null ],
+    [ "GetComponentName", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a649ea21df724135e770cf6fa854ff1da.html#a649ea21df724135e770cf6fa854ff1da", null ],
+    [ "GetConverter", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_af0665c66073a6586a7bf9b8d16e4d58d.html#af0665c66073a6586a7bf9b8d16e4d58d", null ],
+    [ "GetDefaultEvent", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a2c8ace74e6d466bae8f77119c0bbe58f.html#a2c8ace74e6d466bae8f77119c0bbe58f", null ],
+    [ "GetDefaultProperty", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_ad47fed635d86bb909885c36ca12f25be.html#ad47fed635d86bb909885c36ca12f25be", null ],
+    [ "GetEditor", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_ada93cdf3f22e40ae7f33d8cdde412cb5.html#ada93cdf3f22e40ae7f33d8cdde412cb5", null ],
+    [ "GetEvents", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a41501e1e21afba7def98cf3ffcd79c76.html#a41501e1e21afba7def98cf3ffcd79c76", null ],
+    [ "GetEvents", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a2147b70dd72b4e2516057ae112f94ba0.html#a2147b70dd72b4e2516057ae112f94ba0", null ],
+    [ "GetProperties", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a2e6d9201f9a5e3356b99250620ece9d7.html#a2e6d9201f9a5e3356b99250620ece9d7", null ],
+    [ "GetProperties", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a7dd4f9496bfdfea998865d654ef85eda.html#a7dd4f9496bfdfea998865d654ef85eda", null ],
+    [ "GetPropertyOwner", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a23b72763bd1ac2ab544730f23a4834bc.html#a23b72763bd1ac2ab544730f23a4834bc", null ],
+    [ "_handler", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_a429b85277b1ac53d03ae276e805135aa.html#a429b85277b1ac53d03ae276e805135aa", null ],
+    [ "_instance", "d7/d80/classSystem_1_1ComponentModel_1_1TypeDescriptor_1_1ComNativeDescriptionProvider_1_1ComNativeTypeDescriptor_ad249edb01f06a1e1e4c72684be271798.html#ad249edb01f06a1e1e4c72684be271798", null ]
+];

@@ -1,0 +1,27 @@
+<map id="Terraria.DataStructures.EntitySource_OnHit_ByProjectileSourceID" name="Terraria.DataStructures.EntitySource_OnHit_ByProjectileSourceID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="364,2121,590,2275"/>
+<area shape="rect" id="Node000002" href="$d0/d0b/classTerraria_1_1DataStructures_1_1AEntitySource__OnHit.html" title=" " alt="" coords="284,1977,452,2072"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,2082,431,2119,426,2122,402,2085"/>
+<area shape="rect" id="Node000003" href="$d9/d62/interfaceTerraria_1_1DataStructures_1_1IEntitySource.html" title=" " alt="" coords="134,1603,234,1669"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,1682,196,1729,207,1785,224,1843,249,1899,278,1940,312,1975,308,1979,273,1943,244,1901,219,1845,202,1786,191,1730,184,1682"/>
+<area shape="rect" id="Node000004" href="$df/df6/classTerraria_1_1Entity.html" title=" " alt="" coords="258,1372,478,1900"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="370,1900,370,1961,365,1961,365,1900"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="630,731,660,796"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="648,796,648,1027,642,1186,630,1348,603,1562,567,1773,500,2106,495,2105,562,1772,597,1562,625,1348,637,1186,643,1027,643,796"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="657,796,675,883,683,940,686,1003,684,1069,673,1134,652,1196,636,1225,618,1252,608,1261,598,1266,578,1267,558,1267,539,1277,526,1293,520,1309,516,1327,509,1349,487,1396,482,1394,504,1347,511,1326,515,1307,521,1290,535,1273,557,1262,578,1262,597,1260,605,1257,614,1249,632,1222,647,1194,668,1133,679,1068,681,1003,678,941,670,884,651,797"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="120,731,162,796"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="137,796,121,899,116,968,115,1044,121,1124,137,1203,165,1279,184,1314,207,1346,216,1354,226,1358,237,1362,248,1370,249,1371,245,1374,245,1374,234,1366,224,1363,214,1359,203,1350,180,1316,160,1281,132,1205,116,1124,110,1044,110,968,116,898,131,796"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="38,731,81,796"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="52,797,26,902,15,972,9,1049,11,1129,24,1208,35,1245,51,1281,71,1315,95,1346,111,1359,127,1365,162,1363,201,1359,222,1361,245,1370,243,1375,221,1366,201,1364,162,1368,126,1370,108,1364,91,1350,66,1318,46,1284,30,1247,19,1209,5,1129,4,1049,10,971,21,900,47,796"/>
+<area shape="rect" id="Node000008" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="187,276,431,1251"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="306,1251,313,1348,314,1355,308,1356,308,1348,300,1251"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="434,678,444,692,451,711,458,763,454,805,443,835,438,833,449,803,452,763,446,713,439,695,429,681"/>
+<area shape="rect" id="Node000009" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="144,133,306,199"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="234,212,243,275,238,276,229,213"/>
+<area shape="rect" id="Node000010" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="138,5,312,71"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="228,85,228,133,222,133,222,85"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="330,133,373,199"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="352,199,348,260,342,259,347,199"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="561,731,604,796"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="588,796,593,898,595,1034,591,1103,583,1165,570,1217,551,1252,536,1264,521,1269,490,1266,459,1263,445,1267,431,1276,420,1304,408,1356,402,1355,414,1302,427,1273,442,1262,458,1258,490,1261,520,1264,534,1259,547,1249,565,1215,578,1164,586,1102,589,1034,588,899,582,796"/>
+</map>

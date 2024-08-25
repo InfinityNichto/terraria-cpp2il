@@ -1,0 +1,31 @@
+<map id="Terraria.GameContent.UI.Elements.UIPanel" name="Terraria.GameContent.UI.Elements.UIPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="765,1556,1028,1928"/>
+<area shape="rect" id="Node000004" href="$dc/d56/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIAchievementListItem.html" title=" " alt="" coords="5,1977,289,2860"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="753,1768,643,1795,522,1837,462,1864,405,1897,351,1935,303,1979,292,1991,288,1988,299,1975,348,1931,402,1893,460,1860,520,1832,641,1789,751,1762"/>
+<area shape="rect" id="Node000005" href="$d4/d41/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIBestiaryEntryInfoPage.html" title=" " alt="" coords="313,2141,608,2696"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="756,1842,684,1905,651,1941,622,1979,575,2058,538,2142,533,2140,570,2055,617,1976,647,1938,680,1901,752,1838"/>
+<area shape="rect" id="Node000006" href="$d7/da6/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIBestiaryFilteringOptionsGrid.html" title=" " alt="" coords="632,2009,887,2829"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="859,1942,845,2009,840,2008,854,1941"/>
+<area shape="rect" id="Node000007" href="$d6/ddf/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIBestiaryInfoItemLine.html" title=" " alt="" coords="911,2183,1160,2654"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="940,1941,990,2183,985,2184,935,1942"/>
+<area shape="rect" id="Node000008" href="$dd/d90/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIBestiarySortingOptionsGrid.html" title=" " alt="" coords="1184,2243,1455,2595"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1041,1838,1112,1902,1145,1938,1174,1976,1211,2039,1242,2107,1267,2175,1286,2242,1281,2243,1262,2177,1237,2109,1206,2042,1169,1979,1140,1941,1108,1905,1037,1842"/>
+<area shape="rect" id="Node000009" href="$da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel.html" title=" " alt="" coords="1479,2145,1685,2693"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1042,1763,1148,1790,1205,1809,1262,1833,1319,1860,1373,1893,1423,1932,1468,1976,1496,2013,1520,2055,1539,2099,1554,2144,1549,2145,1534,2100,1515,2057,1492,2016,1464,1979,1420,1936,1370,1898,1316,1865,1260,1837,1203,1814,1146,1795,1041,1768"/>
+<area shape="rect" id="Node000002" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="757,140,1036,1507"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="899,1521,899,1556,894,1556,894,1521"/>
+<area shape="rect" id="Node000003" href="$d3/ddf/interfaceSystem_1_1IComparable.html" title=" " alt="" coords="798,5,995,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="899,104,899,139,894,139,894,104"/>
+<area shape="rect" id="Node000010" href="$d2/d50/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIResourcePackInfoButton.html" title=" " alt="" coords="880,3087,1169,3321"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1557,2707,1542,2750,1522,2790,1498,2828,1468,2862,1433,2888,1397,2899,1363,2902,1328,2899,1293,2895,1257,2896,1221,2904,1184,2925,1146,2959,1114,3000,1087,3044,1066,3088,1061,3086,1083,3042,1109,2997,1142,2956,1180,2920,1219,2899,1257,2890,1293,2890,1328,2893,1363,2896,1396,2894,1430,2883,1464,2858,1493,2825,1517,2788,1537,2747,1552,2705"/>
+<area shape="rect" id="Node000011" href="$d1/d97/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UISelectableTextPanel.html" title=" " alt="" coords="1194,3073,1455,3335"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1515,2707,1469,2861,1428,2970,1386,3073,1381,3071,1423,2968,1463,2859,1510,2705"/>
+<area shape="rect" id="Node000012" href="$da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel.html" title=" " alt="" coords="1479,2923,1685,3485"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="1585,2707,1585,2922,1579,2922,1579,2707"/>
+<area shape="rect" id="Node000014" href="$da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel.html" title=" " alt="" coords="1709,2923,1914,3485"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="1668,2706,1732,2921,1727,2923,1663,2707"/>
+<area shape="rect" id="Node000015" href="$da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel.html" title=" " alt="" coords="1938,2923,2143,3485"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="1695,2563,1813,2732,1873,2826,1928,2921,1940,2944,1936,2947,1924,2924,1869,2829,1809,2734,1691,2566"/>
+<area shape="rect" id="Node000013" href="$d5/dec/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextBox.html" title=" " alt="" coords="1479,3535,1685,3923"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1585,3499,1585,3535,1579,3535,1579,3499"/>
+</map>

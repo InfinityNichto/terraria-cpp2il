@@ -1,0 +1,27 @@
+<map id="Terraria.GameContent.Skies.MartianSky" name="Terraria.GameContent.Skies.MartianSky">
+<area shape="rect" id="Node000001" title=" " alt="" coords="371,1315,571,1637"/>
+<area shape="rect" id="Node000002" href="$d7/da8/classTerraria_1_1Graphics_1_1Effects_1_1CustomSky.html" title=" " alt="" coords="60,543,276,807"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,821,197,928,222,1048,258,1172,281,1232,308,1289,337,1336,372,1380,368,1383,333,1340,303,1292,276,1234,253,1173,217,1049,192,929,177,822"/>
+<area shape="rect" id="Node000007" href="$da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky.html" title=" " alt="" coords="371,929,571,1252"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="272,817,297,850,372,953,368,956,293,854,268,820"/>
+<area shape="rect" id="Node000003" href="$d1/d23/classTerraria_1_1Graphics_1_1Effects_1_1GameEffect.html" title=" " alt="" coords="41,133,226,363"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,376,160,543,155,543,141,377"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="40,70,56,108,60,117,55,120,51,110,35,72"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="347,5,389,71"/>
+<area shape="poly" id="edge16_Node000001_Node000005" title=" " alt="" coords="360,72,338,151,330,198,327,247,327,1092,331,1145,341,1198,357,1249,376,1298,371,1300,351,1251,336,1199,325,1146,321,1092,321,247,325,198,333,149,354,70"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="347,46,288,62,255,77,226,97,201,122,197,118,222,93,253,72,286,57,345,40"/>
+<area shape="poly" id="edge13_Node000007_Node000005" title=" " alt="" coords="373,71,398,408,420,653,447,905,448,913,442,913,441,906,415,654,393,409,367,71"/>
+<area shape="rect" id="Node000008" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom.html" title=" " alt="" coords="595,499,800,852"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="390,39,465,50,566,70,664,97,702,113,727,131,761,172,784,211,798,250,804,289,803,330,798,374,779,475,777,483,772,482,773,474,792,373,798,330,798,290,793,251,779,214,757,175,724,135,699,118,662,102,565,75,464,56,389,45"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="73,5,172,71"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="126,71,127,109,127,117,122,117,121,109,120,71"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="473,1252,473,1299,468,1299,468,1252"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="572,1056,590,1069,597,1091,594,1105,587,1116,582,1113,590,1103,592,1091,586,1072,569,1061"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="713,852,712,946,704,1049,686,1153,672,1204,654,1253,623,1313,584,1367,579,1364,619,1310,650,1251,667,1202,680,1152,698,1048,707,946,707,852"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="603,854,569,916,564,913,599,851"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="682,215,713,281"/>
+<area shape="poly" id="edge15_Node000001_Node000009" title=" " alt="" coords="699,281,704,322,711,343,722,361,734,370,748,372,763,375,778,385,798,412,807,437,815,498,855,714,871,805,880,890,880,973,865,1058,834,1150,784,1253,744,1308,695,1355,641,1395,587,1426,584,1422,638,1390,691,1351,740,1305,779,1251,830,1148,860,1057,874,972,875,890,866,806,850,715,809,499,802,438,793,414,774,389,761,380,747,378,732,375,718,364,706,345,699,323,693,281"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="684,264,644,300,591,354,539,423,516,460,498,500,482,550,469,603,454,711,450,816,453,913,447,913,444,816,449,710,464,602,477,549,494,498,512,458,534,420,587,351,640,296,680,260"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="700,281,700,482,695,482,695,281"/>
+</map>

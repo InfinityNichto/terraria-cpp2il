@@ -1,0 +1,23 @@
+<map id="DrKeyboard_Stadia" name="DrKeyboard_Stadia">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,2372,430,2511"/>
+<area shape="rect" id="Node000002" href="$d0/d4e/classDrKeyboard__Touch.html" title=" " alt="" coords="159,2119,475,2323"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,2336,319,2371,314,2371,314,2336"/>
+<area shape="rect" id="Node000003" href="$db/de4/classDrKeyboard__Base.html" title=" " alt="" coords="5,1531,279,1789"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,1802,288,2118,283,2119,184,1803"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="318,13,361,78"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="342,78,321,2102,315,2102,336,78"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="358,642,569,707"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="351,91,460,641,454,642,346,92"/>
+<area shape="rect" id="Node000005" href="$d0/da9/classUnityEngine_1_1TouchScreenKeyboard.html" title=" " alt="" coords="355,1264,745,2056"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="387,2057,368,2104,363,2102,382,2055"/>
+<area shape="rect" id="Node000006" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="595,148,927,1201"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="651,1202,641,1248,635,1247,645,1201"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="929,591,947,625,953,675,949,714,938,745,933,743,944,713,948,675,942,627,924,594"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="457,5,648,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="572,98,597,172,592,174,567,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="672,5,852,85"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="765,99,764,148,759,148,759,99"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="877,13,1039,78"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="951,79,934,133,928,132,946,77"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="469,707,516,1247,511,1248,463,708"/>
+</map>

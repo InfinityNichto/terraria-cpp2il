@@ -1,0 +1,23 @@
+<map id="UnityEngine.Rendering.ScriptableRenderContext" name="UnityEngine.Rendering.ScriptableRenderContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,1457,480,1824"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,237,215,317"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,331,117,510,135,775,151,926,174,1084,204,1241,243,1394,265,1456,260,1458,238,1395,199,1242,169,1084,146,927,130,775,112,510,107,331"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="132,5,307,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,76,104,96,91,130,87,167,91,204,99,237,94,238,86,205,82,167,85,129,100,93,119,73"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="190,141,382,206"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="297,79,307,94,312,117,306,141,301,140,306,117,302,96,292,82"/>
+<area shape="rect" id="Node000004" href="$d5/db5/structUnityEngine_1_1Rendering_1_1ShaderTagId.html" title=" " alt="" coords="253,776,465,960"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="362,960,362,1441,357,1441,357,960"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="293,219,352,776,347,776,288,220"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="407,141,437,206"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="422,206,372,760,366,759,416,206"/>
+<area shape="rect" id="Node000007" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="545,341,877,1395"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="548,1295,483,1434,478,1444,474,1441,478,1432,543,1293"/>
+<area shape="poly" id="edge11_Node000007_Node000007" title=" " alt="" coords="880,784,897,818,904,868,900,908,889,938,884,936,895,906,899,868,892,820,875,787"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="461,133,652,213"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="571,226,596,341,591,342,566,227"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="676,133,856,213"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="765,227,756,341,750,341,759,227"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="881,141,1043,206"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="953,207,885,394,880,392,948,205"/>
+</map>

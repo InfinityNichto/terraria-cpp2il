@@ -1,0 +1,21 @@
+<map id="System.IO.DirectoryInfo" name="System.IO.DirectoryInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,1715,559,2021"/>
+<area shape="rect" id="Node000002" href="$d7/d41/classSystem_1_1IO_1_1FileSystemInfo.html" title=" " alt="" coords="207,971,609,1665"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="411,1679,411,1714,405,1714,405,1679"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,530,208,610"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,622,222,878,260,969,255,971,218,880,122,624"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="233,530,423,610"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="336,623,373,970,368,971,331,624"/>
+<area shape="rect" id="Node000005" href="$d0/d86/structSystem_1_1IO_1_1FileStatus.html" title=" " alt="" coords="447,261,761,879"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="526,879,506,955,501,954,521,878"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="763,517,781,538,787,570,784,593,775,610,770,608,779,591,782,570,776,541,759,521"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="427,133,458,199"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="443,198,447,237,449,245,443,246,441,238,438,199"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="717,133,899,199"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="794,200,770,248,765,245,790,198"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="604,5,647,71"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="624,71,619,134,613,245,608,245,613,133,619,71"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="660,60,764,131,761,135,657,64"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="887,537,937,603"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="918,603,920,658,916,729,904,806,892,844,877,880,826,964,763,1041,694,1111,623,1172,620,1168,691,1107,759,1037,822,961,872,877,887,842,899,805,911,728,914,658,912,603"/>
+</map>

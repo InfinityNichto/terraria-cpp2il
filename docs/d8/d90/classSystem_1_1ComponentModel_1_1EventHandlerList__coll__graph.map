@@ -1,0 +1,26 @@
+<map id="System.ComponentModel.EventHandlerList" name="System.ComponentModel.EventHandlerList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,896,328,1184"/>
+<area shape="rect" id="Node000002" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="263,13,386,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,58,205,69,158,87,115,113,97,130,81,150,56,193,37,239,23,286,13,335,9,384,8,435,18,536,39,636,68,731,101,818,136,895,131,897,96,820,63,733,34,637,13,537,3,435,4,384,8,334,17,285,32,237,51,191,77,146,93,126,112,109,156,82,203,64,249,53"/>
+<area shape="rect" id="Node000003" href="$d9/da3/classSystem_1_1ComponentModel_1_1EventHandlerList.html" title=" " alt="" coords="91,148,328,436"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="306,92,279,149,274,147,301,89"/>
+<area shape="rect" id="Node000004" href="$d3/d9f/classSystem_1_1ComponentModel_1_1Component.html" title=" " alt="" coords="350,499,611,833"/>
+<area shape="poly" id="edge10_Node000004_Node000002" title=" " alt="" coords="373,86,397,114,416,147,435,210,451,298,472,498,467,499,445,299,430,211,411,149,392,117,369,89"/>
+<area shape="rect" id="Node000007" href="$d5/dbe/interfaceSystem_1_1ComponentModel_1_1IComponent.html" title=" " alt="" coords="476,259,570,325"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="400,67,432,84,460,108,485,144,503,184,515,224,522,258,517,260,510,226,498,186,481,146,456,111,429,88,397,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,436,212,880,207,880,207,436"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="330,262,348,273,355,292,352,304,345,314,341,310,348,302,350,292,344,277,327,266"/>
+<area shape="poly" id="edge14_Node000004_Node000003" title=" " alt="" coords="259,435,281,473,309,510,340,544,336,548,305,513,277,476,255,437"/>
+<area shape="poly" id="edge15_Node000001_Node000004" title=" " alt="" coords="361,835,325,884,321,881,357,832"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="357,500,322,451,326,448,361,497"/>
+<area shape="rect" id="Node000005" href="$d9/d0e/classSystem_1_1MarshalByRefObject.html" title=" " alt="" coords="748,210,1018,374"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="788,385,732,438,613,547,609,543,728,434,785,381"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="668,13,722,78"/>
+<area shape="poly" id="edge11_Node000004_Node000006" title=" " alt="" coords="672,80,651,112,632,149,618,191,610,227,605,291,601,356,595,393,584,437,568,484,563,483,579,435,590,392,596,355,600,291,605,226,613,189,627,147,646,109,668,77"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="721,76,813,195,809,198,717,80"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="521,339,502,499,497,498,515,338"/>
+<area shape="rect" id="Node000008" href="$d4/d32/interfaceSystem_1_1ComponentModel_1_1ISite.html" title=" " alt="" coords="1042,229,1257,355"/>
+<area shape="poly" id="edge12_Node000004_Node000008" title=" " alt="" coords="1111,356,1075,399,1031,438,933,501,827,553,723,595,628,627,626,622,721,590,825,548,930,496,1028,434,1071,396,1106,353"/>
+<area shape="rect" id="Node000009" href="$d7/d65/interfaceSystem_1_1IServiceProvider.html" title=" " alt="" coords="1047,5,1252,85"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="1152,99,1152,229,1147,229,1147,99"/>
+</map>

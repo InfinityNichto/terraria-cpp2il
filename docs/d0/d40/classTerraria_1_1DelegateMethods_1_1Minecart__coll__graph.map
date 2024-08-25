@@ -1,0 +1,13 @@
+<map id="Terraria.DelegateMethods.Minecart" name="Terraria.DelegateMethods.Minecart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,1313,381,1965"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,276,249,1251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,1251,215,1297,209,1298,202,1252"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="252,679,262,693,269,712,276,763,272,804,262,834,257,832,267,803,271,763,264,713,257,696,248,682"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="46,133,209,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,212,130,276,125,276,125,212"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="40,5,215,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,85,130,133,125,133,125,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="313,133,355,199"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="349,198,360,235,369,276,402,548,410,659,412,763,409,867,400,978,369,1251,362,1298,356,1297,363,1250,395,977,404,866,407,763,405,660,397,549,363,276,355,236,343,200"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="326,200,257,396,252,394,321,198"/>
+</map>

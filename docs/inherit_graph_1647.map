@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,73,160,113"/>
+<area shape="rect" id="Node000001" href="$d1/d9c/classInControl_1_1BindingSource.html" title=" " alt="" coords="208,80,387,105"/>
+<area shape="poly" id="edge3515_Node000000_Node000001" title=" " alt="" coords="174,90,208,90,208,95,174,95"/>
+<area shape="rect" id="Node000002" href="$d8/da4/classInControl_1_1DeviceBindingSource.html" title=" " alt="" coords="443,5,666,31"/>
+<area shape="poly" id="edge3516_Node000001_Node000002" title=" " alt="" coords="341,72,434,39,481,28,482,33,435,45,343,77"/>
+<area shape="rect" id="Node000003" href="$db/dbc/classInControl_1_1KeyBindingSource.html" title=" " alt="" coords="453,55,656,80"/>
+<area shape="poly" id="edge3517_Node000001_Node000003" title=" " alt="" coords="400,80,453,75,453,80,401,85"/>
+<area shape="rect" id="Node000004" href="$dd/ddb/classInControl_1_1MouseBindingSource.html" title=" " alt="" coords="444,104,665,129"/>
+<area shape="poly" id="edge3518_Node000001_Node000004" title=" " alt="" coords="401,100,444,104,443,109,400,105"/>
+<area shape="rect" id="Node000005" href="$da/d99/classInControl_1_1UnknownDeviceBindingSource.html" title=" " alt="" coords="435,154,675,194"/>
+<area shape="poly" id="edge3519_Node000001_Node000005" title=" " alt="" coords="347,108,435,138,480,151,478,156,434,143,345,113"/>
+</map>

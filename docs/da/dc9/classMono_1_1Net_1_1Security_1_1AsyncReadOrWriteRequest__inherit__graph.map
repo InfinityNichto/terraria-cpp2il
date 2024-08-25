@@ -1,0 +1,9 @@
+<map id="Mono.Net.Security.AsyncReadOrWriteRequest" name="Mono.Net.Security.AsyncReadOrWriteRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,679,366,912"/>
+<area shape="rect" id="Node000003" href="$d9/d99/classMono_1_1Net_1_1Security_1_1AsyncReadRequest.html" title=" " alt="" coords="5,960,236,1133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,925,167,961,162,959,180,923"/>
+<area shape="rect" id="Node000004" href="$d3/dfa/classMono_1_1Net_1_1Security_1_1AsyncWriteRequest.html" title=" " alt="" coords="260,960,491,1133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="315,923,334,959,329,961,311,925"/>
+<area shape="rect" id="Node000002" href="$d6/d05/classMono_1_1Net_1_1Security_1_1AsyncProtocolRequest.html" title=" " alt="" coords="119,5,375,631"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,645,250,678,245,678,245,645"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="InControl.Internal.CodeWriter" name="InControl.Internal.CodeWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,1604,237,1967"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,856,87,921"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,922,35,1031,27,1194,27,1288,31,1385,40,1484,55,1580,57,1588,52,1589,50,1580,35,1484,26,1386,22,1288,22,1194,29,1030,40,921"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,13,169,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,78,150,236,140,983,138,1587,132,1587,135,983,145,236,150,78"/>
+<area shape="rect" id="Node000004" href="$d6/d11/classSystem_1_1Text_1_1StringBuilder.html" title=" " alt="" coords="211,236,543,1541"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="163,78,194,211,209,272,204,273,189,213,158,79"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,1506,191,1589,186,1587,208,1505"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="545,787,555,805,563,828,569,889,565,938,554,976,548,974,560,937,564,889,558,830,550,807,540,789"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="212,5,403,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="314,99,326,236,320,236,309,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="427,13,470,78"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="429,74,416,87,400,98,388,111,366,164,349,221,344,219,361,163,384,108,396,94,412,83,425,70"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="503,13,554,78"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="526,79,502,212,501,220,495,219,497,212,520,78"/>
+</map>

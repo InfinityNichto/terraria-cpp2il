@@ -1,0 +1,13 @@
+<map id="System.IO.StreamWriter" name="System.IO.StreamWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="138,1104,415,2373"/>
+<area shape="rect" id="Node000005" href="$d4/d51/classSystem_1_1IO_1_1CStreamWriter.html" title=" " alt="" coords="5,2421,271,2823"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="177,2387,172,2422,167,2421,172,2387"/>
+<area shape="rect" id="Node000006" href="$d5/daa/classSystem_1_1IO_1_1UnexceptionalStreamWriter.html" title=" " alt="" coords="295,2481,535,2763"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="381,2387,396,2480,391,2481,376,2387"/>
+<area shape="rect" id="Node000002" href="$d8/d05/classSystem_1_1IO_1_1TextWriter.html" title=" " alt="" coords="160,133,393,1056"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,1069,279,1104,274,1104,274,1069"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="66,5,269,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,98,187,132,182,133,175,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="293,13,479,78"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="380,92,371,134,366,132,374,91"/>
+</map>

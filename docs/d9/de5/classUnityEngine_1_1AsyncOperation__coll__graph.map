@@ -1,0 +1,18 @@
+<map id="UnityEngine.AsyncOperation" name="UnityEngine.AsyncOperation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,1264,448,1404"/>
+<area shape="rect" id="Node000002" href="$de/dfc/classUnityEngine_1_1YieldInstruction.html" title=" " alt="" coords="5,642,145,707"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,722,71,815,79,939,89,1006,105,1073,128,1139,159,1200,188,1237,224,1269,221,1273,184,1241,154,1203,123,1141,100,1075,84,1007,74,939,66,815,69,721"/>
+<area shape="rect" id="Node000003" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="169,148,501,1201"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,1201,338,1248,333,1248,333,1201"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="504,591,521,625,528,675,524,714,513,745,508,743,519,713,523,675,516,627,499,594"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="31,5,221,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="146,98,172,175,167,177,141,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="245,5,425,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="338,99,338,148,333,148,333,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="450,13,613,78"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="524,79,507,133,502,132,519,77"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="595,635,787,715"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="696,715,697,809,693,870,685,937,671,1006,650,1076,622,1142,584,1203,559,1231,529,1255,464,1293,462,1288,526,1251,555,1227,580,1200,617,1140,645,1074,666,1005,679,936,687,870,691,809,691,715"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="664,13,719,78"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="694,92,694,634,689,634,689,92"/>
+</map>

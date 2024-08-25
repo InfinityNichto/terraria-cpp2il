@@ -1,0 +1,39 @@
+<map id="source/Terraria/GameContent" name="source/Terraria/GameContent">
+<area shape="rect" id="node2" href="dir_0f828374221786b7400c8746c63d376d.html" title="Achievements" alt="" coords="2176,81,2291,106"/>
+<area shape="rect" id="node3" href="dir_cda3399b0f5cc46b8d44432c1af53fb6.html" title="Ambience" alt="" coords="2065,81,2151,106"/>
+<area shape="rect" id="node4" href="dir_adf2a01b2160610f4f9503f88d1a1e71.html" title="Animations" alt="" coords="1944,81,2040,106"/>
+<area shape="rect" id="node5" href="dir_1fd2c2d33128d25415743fc58ffaaa5d.html" title="Bestiary" alt="" coords="1843,81,1919,106"/>
+<area shape="rect" id="node7" href="dir_83ff65b87974f49c9c76e7849b2eef4d.html" title="CaveHouse" alt="" coords="3867,81,3963,106"/>
+<area shape="rect" id="node8" href="dir_7706c969110b41092639bce9b111eb59.html" title="Desert" alt="" coords="3777,81,3842,106"/>
+<area shape="rect" id="node9" href="dir_c27eefb41178234a506bc3bca5636d7d.html" title="Creative" alt="" coords="1741,81,1819,106"/>
+<area shape="rect" id="node10" href="dir_d80ce0a4f6e76f3a4b03a15e5e4026fe.html" title="Drawing" alt="" coords="1641,81,1717,106"/>
+<area shape="rect" id="node11" href="dir_bac030b3c899dd9b5beedf13b74ce7b1.html" title="Dyes" alt="" coords="1562,81,1617,106"/>
+<area shape="rect" id="node12" href="dir_993fb2745020bba8511c00268b9e18da.html" title="Events" alt="" coords="1471,81,1537,106"/>
+<area shape="rect" id="node13" href="dir_ae5c02fec7541a5edfa878a53a6ab822.html" title="Generation" alt="" coords="1351,81,1446,106"/>
+<area shape="rect" id="node14" href="dir_c066266b0b85ea672ab87dfc6f0a7668.html" title="Golf" alt="" coords="1278,81,1327,106"/>
+<area shape="rect" id="node15" href="dir_fb23d69c0969e18cf6d706209fe5b6d7.html" title="ItemDropRules" alt="" coords="1135,81,1254,106"/>
+<area shape="rect" id="node16" href="dir_8d5bca9ecb3458db972632c4d865a129.html" title="Items" alt="" coords="1052,81,1111,106"/>
+<area shape="rect" id="node17" href="dir_0bfe4fe2bbdda28c4ff91e13ef639ffa.html" title="Liquid" alt="" coords="967,81,1028,106"/>
+<area shape="rect" id="node19" href="dir_00357a44501a5ba505d33e606d03c5b0.html" title="LootSimulatorConditionSetter\lTypes" alt="" coords="3385,73,3599,113"/>
+<area shape="rect" id="node20" href="dir_cea7781bc7b962929ddb2732fbdac1c1.html" title="Metadata" alt="" coords="858,81,942,106"/>
+<area shape="rect" id="node21" href="dir_423f76c26f271d01b9c3af0d0c3b7f75.html" title="NetModules" alt="" coords="734,81,834,106"/>
+<area shape="rect" id="node22" href="dir_2371156271a3d2bbd952815ac4507806.html" title="ObjectInteractions" alt="" coords="568,81,709,106"/>
+<area shape="rect" id="node23" href="dir_fcd62f5e3e428a343d029a866ff5d634.html" title="Personalities" alt="" coords="437,81,544,106"/>
+<area shape="rect" id="node24" href="dir_b2645b10f57fb9b7edfad3609774a100.html" title="Prefixes" alt="" coords="339,81,413,106"/>
+<area shape="rect" id="node25" href="dir_2b8cb8d72abac67c027aa81ce2061f33.html" title="RGB" alt="" coords="264,81,315,106"/>
+<area shape="rect" id="node26" href="dir_0518a15a7a85f1568af6da12943584e1.html" title="Shaders" alt="" coords="165,81,240,106"/>
+<area shape="rect" id="node28" href="dir_5f4ff36ddb4d06483209cb10fcacfaa0.html" title="CreditsRoll" alt="" coords="3176,81,3269,106"/>
+<area shape="rect" id="node29" href="dir_a81385d06c90f25f2ce7274aef4b093e.html" title="Tile_Entities" alt="" coords="38,81,141,106"/>
+<area shape="rect" id="node31" href="dir_6b0e5b57650f8e076100d0668c9d0107.html" title="BigProgressBar" alt="" coords="2959,81,3081,106"/>
+<area shape="rect" id="node32" href="dir_66673832370b5488bcf1a4790cd95d4a.html" title="Chat" alt="" coords="2883,81,2935,106"/>
+<area shape="rect" id="node33" href="dir_7ca9ebc228f20cfaa087157a34e919d8.html" title="Elements" alt="" coords="2776,81,2859,106"/>
+<area shape="rect" id="node34" href="dir_2057e47d87f2f8b44ec08cca827ae867.html" title="Minimap" alt="" coords="2673,81,2751,106"/>
+<area shape="rect" id="node35" href="dir_e11a9685b9f03c6069d19161fc1b9c17.html" title="ResourceSets" alt="" coords="2538,81,2649,106"/>
+<area shape="rect" id="node36" href="dir_17b9b33edff036f4377e48d25ed444f9.html" title="States" alt="" coords="2451,81,2514,106"/>
+<area shape="rect" id="clust3" href="dir_3239883e0779ef97835f0cb75923a33e.html" alt="" coords="3765,70,4069,117"/>
+<area shape="rect" id="clust4" href="dir_e00aebb3a0bca3ade9f117a71ec20e87.html" alt="" coords="3373,63,3755,124"/>
+<area shape="rect" id="clust5" href="dir_1effab0c90a47c33cabf25b95d1b3835.html" alt="" coords="3165,70,3363,117"/>
+<area shape="rect" id="clust6" href="dir_645b67f381bcb843d2acf16b3fa48e1e.html" alt="" coords="2440,70,3155,117"/>
+<area shape="rect" id="clust2" href="dir_6dedf965e0b93ddd0979ebc41b5c0fd3.html" alt="" coords="27,52,4080,135"/>
+<area shape="rect" id="clust1" href="dir_0336ab59ad111b623958e2293efe8027.html" title="Terraria" alt="" coords="16,16,4091,145"/>
+</map>

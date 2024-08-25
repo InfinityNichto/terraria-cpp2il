@@ -1,0 +1,5 @@
+<map id="Terraria.GameContent.UI.Chat.MobileChatMonitor" name="Terraria.GameContent.UI.Chat.MobileChatMonitor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,347,243,943"/>
+<area shape="rect" id="Node000002" href="$d3/daa/interfaceTerraria_1_1GameContent_1_1UI_1_1Chat_1_1IChatMonitor.html" title=" " alt="" coords="21,5,227,299"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,312,127,346,121,346,121,312"/>
+</map>

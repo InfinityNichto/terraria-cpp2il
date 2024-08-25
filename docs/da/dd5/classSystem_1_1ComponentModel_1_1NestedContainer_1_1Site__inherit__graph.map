@@ -1,0 +1,12 @@
+<map id="System.ComponentModel.NestedContainer.Site" name="System.ComponentModel.NestedContainer.Site">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,420,269,733"/>
+<area shape="rect" id="Node000002" href="$d5/d06/interfaceSystem_1_1ComponentModel_1_1INestedSite.html" title=" " alt="" coords="82,307,214,372"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,386,151,420,145,420,145,386"/>
+<area shape="rect" id="Node000003" href="$d4/d32/interfaceSystem_1_1ComponentModel_1_1ISite.html" title=" " alt="" coords="145,133,332,259"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="241,273,237,322,229,373,216,420,211,419,224,371,232,322,236,272"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,272,171,308,166,305,189,269"/>
+<area shape="rect" id="Node000004" href="$d7/d65/interfaceSystem_1_1IServiceProvider.html" title=" " alt="" coords="5,5,211,85"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="95,99,82,155,71,224,67,298,73,372,85,419,80,421,68,372,62,298,66,223,77,154,90,98"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="116,99,136,258,144,306,139,307,131,259,111,100"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="153,94,186,131,182,135,149,98"/>
+</map>

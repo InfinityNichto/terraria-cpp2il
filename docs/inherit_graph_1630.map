@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d3/ddf/interfaceSystem_1_1IComparable.html" title=" " alt="" coords="18,5,185,45"/>
+<area shape="rect" id="Node000001" href="$db/df1/classMicrosoft_1_1Xna_1_1Framework_1_1GameComponent.html" title=" " alt="" coords="245,69,437,109"/>
+<area shape="poly" id="edge3445_Node000000_Node000001" title=" " alt="" coords="191,46,267,67,265,72,190,52"/>
+<area shape="rect" id="Node000002" href="$df/d13/classMicrosoft_1_1Xna_1_1Framework_1_1DrawableGameComponent.html" title=" " alt="" coords="485,101,684,141"/>
+<area shape="poly" id="edge3446_Node000001_Node000002" title=" " alt="" coords="451,101,485,106,485,111,450,106"/>
+<area shape="rect" id="Node000003" href="$d2/d6f/interfaceMicrosoft_1_1Xna_1_1Framework_1_1IDrawable.html" title=" " alt="" coords="245,133,437,173"/>
+<area shape="poly" id="edge3447_Node000003_Node000002" title=" " alt="" coords="450,136,485,132,485,137,451,142"/>
+<area shape="rect" id="Node000004" href="$d8/d49/interfaceMicrosoft_1_1Xna_1_1Framework_1_1IGameComponent.html" title=" " alt="" coords="5,69,197,109"/>
+<area shape="poly" id="edge3448_Node000004_Node000001" title=" " alt="" coords="211,87,245,87,245,92,211,92"/>
+<area shape="rect" id="Node000005" href="$d2/dbd/interfaceMicrosoft_1_1Xna_1_1Framework_1_1IUpdateable.html" title=" " alt="" coords="5,133,197,173"/>
+<area shape="poly" id="edge3449_Node000005_Node000001" title=" " alt="" coords="190,127,265,107,267,112,191,132"/>
+</map>

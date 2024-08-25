@@ -1,0 +1,7 @@
+<map id="Terraria.GameContent.UI.Elements.UIProgressBar.UIInnerProgressBar" name="Terraria.GameContent.UI.Elements.UIProgressBar.UIInnerProgressBar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="34,1553,255,1683"/>
+<area shape="rect" id="Node000002" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="5,139,284,1505"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,1519,147,1553,142,1553,142,1519"/>
+<area shape="rect" id="Node000003" href="$d3/ddf/interfaceSystem_1_1IComparable.html" title=" " alt="" coords="46,5,243,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,104,147,139,142,139,142,104"/>
+</map>

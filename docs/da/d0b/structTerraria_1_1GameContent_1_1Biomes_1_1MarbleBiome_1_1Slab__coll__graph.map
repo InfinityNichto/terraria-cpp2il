@@ -1,0 +1,16 @@
+<map id="Terraria.GameContent.Biomes.MarbleBiome.Slab" name="Terraria.GameContent.Biomes.MarbleBiome.Slab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,867,397,1045"/>
+<area shape="rect" id="Node000002" href="$d9/dd8/classTerraria_1_1GameContent_1_1Biomes_1_1MarbleBiome.html" title=" " alt="" coords="55,521,275,804"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,803,242,850,237,852,218,805"/>
+<area shape="poly" id="edge6_Node000002_Node000002" title=" " alt="" coords="276,632,294,644,301,662,299,675,291,685,287,681,294,673,296,663,290,647,274,637"/>
+<area shape="rect" id="Node000003" href="$da/d53/classTerraria_1_1WorldBuilding_1_1MicroBiome.html" title=" " alt="" coords="57,393,174,459"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,471,138,521,132,522,122,473"/>
+<area shape="rect" id="Node000004" href="$dd/dae/classTerraria_1_1WorldBuilding_1_1GenStructure.html" title=" " alt="" coords="19,244,212,344"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,358,118,393,113,393,113,358"/>
+<area shape="rect" id="Node000005" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="5,5,225,195"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="118,208,118,244,113,244,113,208"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="199,393,229,459"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="210,459,200,506,195,504,205,458"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="374,630,417,695"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="393,696,382,748,364,805,343,853,338,851,360,803,377,747,388,695"/>
+</map>

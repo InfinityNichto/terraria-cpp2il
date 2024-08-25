@@ -1,0 +1,12 @@
+<map id="UnityEngine.ILogHandler" name="UnityEngine.ILogHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="360,5,579,149"/>
+<area shape="rect" id="Node000002" href="$d4/d45/classUnityEngine_1_1DebugLogHandler.html" title=" " alt="" coords="5,212,243,475"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,149,256,214,245,224,241,219,253,210,347,145"/>
+<area shape="rect" id="Node000003" href="$d6/db2/interfaceUnityEngine_1_1ILogger.html" title=" " alt="" coords="267,251,467,435"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="439,163,405,252,400,250,434,161"/>
+<area shape="rect" id="Node000004" href="$d9/d4f/classUnityEngine_1_1Logger.html" title=" " alt="" coords="325,524,544,1035"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="479,163,481,212,486,343,481,475,477,524,472,524,476,475,481,343,476,212,473,163"/>
+<area shape="rect" id="Node000005" href="$df/dc5/interfaceUnityEngine_1_1ILogHandler.html" title=" " alt="" coords="541,264,760,423"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="528,159,599,262,594,265,524,162"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="386,448,397,524,392,524,380,449"/>
+</map>

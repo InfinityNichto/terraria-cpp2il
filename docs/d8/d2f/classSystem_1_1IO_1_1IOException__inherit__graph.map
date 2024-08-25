@@ -1,0 +1,17 @@
+<map id="System.IO.IOException" name="System.IO.IOException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1053,119,1354,381"/>
+<area shape="rect" id="Node000003" href="$d2/ddd/classSystem_1_1IO_1_1DirectoryNotFoundException.html" title=" " alt="" coords="5,553,407,732"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1039,265,900,283,740,314,658,336,575,362,495,394,419,432,379,458,341,488,276,555,272,551,337,484,376,453,417,427,493,389,574,357,656,331,739,309,899,277,1038,259"/>
+<area shape="rect" id="Node000004" href="$d3/d7a/classSystem_1_1IO_1_1DriveNotFoundException.html" title=" " alt="" coords="431,561,840,725"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1042,324,947,373,854,431,777,495,709,562,705,558,773,491,851,427,944,369,1039,319"/>
+<area shape="rect" id="Node000005" href="$d2/da2/classSystem_1_1IO_1_1EndOfStreamException.html" title=" " alt="" coords="865,553,1166,732"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1137,395,1060,554,1056,552,1132,393"/>
+<area shape="rect" id="Node000006" href="$d3/dba/classSystem_1_1IO_1_1FileLoadException.html" title=" " alt="" coords="1191,432,1592,853"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1274,393,1293,431,1288,433,1270,395"/>
+<area shape="rect" id="Node000007" href="$d4/d0e/classSystem_1_1IO_1_1FileNotFoundException.html" title=" " alt="" coords="1616,429,2025,856"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1368,306,1488,359,1549,391,1606,427,1617,435,1614,439,1603,432,1546,396,1486,364,1366,311"/>
+<area shape="rect" id="Node000008" href="$d2/de5/classSystem_1_1IO_1_1PathTooLongException.html" title=" " alt="" coords="2050,553,2351,732"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1368,251,1519,264,1604,276,1693,293,1783,316,1872,346,1958,382,2039,427,2074,453,2105,485,2155,552,2151,555,2101,488,2071,457,2037,432,1956,387,1870,351,1781,321,1692,299,1603,281,1518,269,1368,256"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1091,5,1315,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1206,84,1206,119,1201,119,1201,84"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="System.Runtime.Serialization.SerializationEntry" name="System.Runtime.Serialization.SerializationEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,5639,453,5783"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="45,2049,96,2114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,2114,88,2469,113,2996,122,3202,127,3390,127,3726,122,4022,118,4297,124,4571,133,4713,147,4862,168,5021,196,5191,232,5375,277,5575,292,5623,287,5624,272,5577,227,5376,191,5192,163,5022,142,4863,128,4714,119,4571,113,4297,116,4022,122,3726,122,3390,117,3202,108,2996,83,2469,69,2114"/>
+<area shape="rect" id="Node000004" href="$da/d1b/classSystem_1_1Type.html" title=" " alt="" coords="409,3020,866,5576"/>
+<area shape="poly" id="edge16_Node000004_Node000002" title=" " alt="" coords="64,2115,48,2180,30,2272,15,2385,8,2510,9,2576,15,2641,24,2706,39,2770,60,2832,88,2890,122,2945,164,2994,182,3003,208,3007,276,3006,344,3004,372,3008,392,3018,399,3024,395,3028,389,3022,371,3013,344,3009,276,3011,208,3013,180,3009,161,2998,118,2948,83,2893,55,2834,34,2772,19,2707,9,2642,4,2576,3,2510,10,2384,25,2272,43,2179,59,2114"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="311,2049,366,2114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,2114,335,5622,329,5622,336,2114"/>
+<area shape="poly" id="edge8_Node000004_Node000003" title=" " alt="" coords="341,2114,350,2433,363,2663,385,2898,409,3080,404,3081,380,2899,358,2663,345,2434,336,2114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="411,5518,393,5577,375,5625,370,5623,388,5575,406,5516"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="868,4123,879,4157,886,4197,893,4298,888,4388,874,4458,868,4457,882,4387,887,4298,881,4198,873,4158,863,4124"/>
+<area shape="rect" id="Node000005" href="$d8/d11/classglobal_1_1SystemReflection_1_1MemberInfo.html" title=" " alt="" coords="395,2041,571,2121"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="489,2135,551,3020,545,3020,484,2135"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="595,2049,674,2114"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="637,2114,638,3003,633,3003,632,2114"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="801,2049,844,2114"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="825,2114,820,2470,811,2729,796,2996,795,3004,790,3004,791,2996,806,2729,815,2470,820,2114"/>
+<area shape="rect" id="Node000008" href="$d0/d8f/structSystem_1_1RuntimeTypeHandle.html" title=" " alt="" coords="868,1264,1217,2899"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="900,2899,882,2996,871,3057,866,3056,877,2996,895,2898"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="885,5,1075,85"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="984,99,1012,1201,1014,1264,1009,1264,1007,1201,978,99"/>
+<area shape="rect" id="Node000010" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="1022,148,1354,1201"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="1000,98,1024,172,1019,174,995,99"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="1136,1202,1131,1248,1126,1247,1131,1202"/>
+<area shape="poly" id="edge15_Node000010_Node000010" title=" " alt="" coords="1356,591,1374,625,1381,675,1377,714,1366,745,1361,743,1371,713,1375,675,1369,627,1352,594"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1099,5,1279,85"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="1192,99,1192,148,1186,148,1186,99"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1304,13,1467,78"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="1378,79,1361,133,1356,132,1373,77"/>
+</map>

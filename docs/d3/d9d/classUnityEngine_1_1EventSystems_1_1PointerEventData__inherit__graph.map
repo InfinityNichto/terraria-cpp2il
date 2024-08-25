@@ -1,0 +1,7 @@
+<map id="UnityEngine.EventSystems.PointerEventData" name="UnityEngine.EventSystems.PointerEventData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,376,239,1147"/>
+<area shape="rect" id="Node000002" href="$df/d2a/classUnityEngine_1_1EventSystems_1_1BaseEventData.html" title=" " alt="" coords="9,179,235,328"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,342,125,376,119,376,119,342"/>
+<area shape="rect" id="Node000003" href="$db/dff/classUnityEngine_1_1EventSystems_1_1AbstractEventData.html" title=" " alt="" coords="41,5,203,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,144,125,178,119,178,119,144"/>
+</map>

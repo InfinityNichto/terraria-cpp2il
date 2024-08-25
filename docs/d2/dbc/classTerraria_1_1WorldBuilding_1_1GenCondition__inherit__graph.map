@@ -1,0 +1,17 @@
+<map id="Terraria.WorldBuilding.GenCondition" name="Terraria.WorldBuilding.GenCondition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="676,243,863,556"/>
+<area shape="rect" id="Node000003" href="$dd/dbc/classTerraria_1_1WorldBuilding_1_1Conditions_1_1Continue.html" title=" " alt="" coords="5,611,240,726"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="664,442,472,516,253,606,237,614,235,609,251,602,470,511,662,437"/>
+<area shape="rect" id="Node000004" href="$d4/dfd/classTerraria_1_1WorldBuilding_1_1Conditions_1_1HasLava.html" title=" " alt="" coords="264,611,499,726"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="666,475,465,613,462,609,663,470"/>
+<area shape="rect" id="Node000005" href="$de/d6f/classTerraria_1_1WorldBuilding_1_1Conditions_1_1IsSolid.html" title=" " alt="" coords="523,611,757,726"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="690,570,670,612,665,610,686,567"/>
+<area shape="rect" id="Node000006" href="$d0/dbe/classTerraria_1_1WorldBuilding_1_1Conditions_1_1IsTile.html" title=" " alt="" coords="781,604,1016,733"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="853,567,870,603,865,605,848,569"/>
+<area shape="rect" id="Node000007" href="$d2/d95/classTerraria_1_1WorldBuilding_1_1Conditions_1_1MysticSnake.html" title=" " alt="" coords="1040,611,1275,726"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="875,470,1077,609,1074,613,872,475"/>
+<area shape="rect" id="Node000008" href="$df/df6/classTerraria_1_1WorldBuilding_1_1Conditions_1_1NotNull.html" title=" " alt="" coords="1299,611,1533,726"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="876,437,1069,511,1288,602,1304,609,1302,614,1286,606,1067,516,874,442"/>
+<area shape="rect" id="Node000002" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="659,5,879,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="772,208,772,243,767,243,767,208"/>
+</map>

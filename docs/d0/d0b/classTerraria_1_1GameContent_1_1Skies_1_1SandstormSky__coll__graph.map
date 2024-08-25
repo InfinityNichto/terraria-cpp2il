@@ -1,0 +1,20 @@
+<map id="Terraria.GameContent.Skies.SandstormSky" name="Terraria.GameContent.Skies.SandstormSky">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,951,428,1273"/>
+<area shape="rect" id="Node000002" href="$d7/da8/classTerraria_1_1Graphics_1_1Effects_1_1CustomSky.html" title=" " alt="" coords="99,637,315,901"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,913,274,949,269,951,256,915"/>
+<area shape="rect" id="Node000003" href="$d1/d23/classTerraria_1_1Graphics_1_1Effects_1_1GameEffect.html" title=" " alt="" coords="92,269,277,498"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,511,202,637,197,637,189,512"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="38,5,80,71"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="54,71,29,209,17,307,9,419,10,540,21,663,32,725,47,785,66,844,89,900,114,941,145,978,180,1012,216,1041,213,1045,176,1016,141,982,110,944,85,903,61,846,42,786,27,726,16,664,4,540,4,419,12,307,24,208,49,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="72,70,110,182,136,252,131,254,105,184,67,72"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="356,5,399,71"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="379,71,339,934,334,934,374,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="357,48,318,66,297,80,280,96,228,254,223,252,275,93,294,76,315,62,355,43"/>
+<area shape="rect" id="Node000007" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom.html" title=" " alt="" coords="415,207,620,560"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="393,70,442,190,437,192,388,72"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="127,5,226,71"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="179,71,180,183,182,252,177,252,175,183,174,71"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="487,561,448,739,399,927,396,936,391,934,394,926,443,737,482,560"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="502,5,533,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="520,71,520,190,515,190,515,71"/>
+</map>

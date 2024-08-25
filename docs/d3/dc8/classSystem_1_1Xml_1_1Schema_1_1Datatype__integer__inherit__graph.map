@@ -1,0 +1,35 @@
+<map id="System.Xml.Schema.Datatype_integer" name="System.Xml.Schema.Datatype_integer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,3612,706,3785"/>
+<area shape="rect" id="Node000006" href="$d2/d38/classSystem_1_1Xml_1_1Schema_1_1Datatype__long.html" title=" " alt="" coords="131,3833,379,4240"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="492,3797,382,3910,378,3906,488,3793"/>
+<area shape="rect" id="Node000010" href="$d3/d6c/classSystem_1_1Xml_1_1Schema_1_1Datatype__nonNegativeInteger.html" title=" " alt="" coords="466,3937,701,4136"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="586,3799,586,3937,581,3937,581,3799"/>
+<area shape="rect" id="Node000016" href="$d8/d5c/classSystem_1_1Xml_1_1Schema_1_1Datatype__nonPositiveInteger.html" title=" " alt="" coords="759,3937,987,4136"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="680,3794,715,3832,800,3935,796,3939,711,3835,676,3797"/>
+<area shape="rect" id="Node000002" href="$da/d07/classSystem_1_1Xml_1_1Schema_1_1Datatype__decimal.html" title=" " alt="" coords="454,3073,713,3564"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="586,3578,586,3612,581,3612,581,3578"/>
+<area shape="rect" id="Node000003" href="$d4/dd4/classSystem_1_1Xml_1_1Schema_1_1Datatype__anySimpleType.html" title=" " alt="" coords="454,2520,713,3025"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="586,3039,586,3073,581,3073,581,3039"/>
+<area shape="rect" id="Node000004" href="$d5/d91/classSystem_1_1Xml_1_1Schema_1_1DatatypeImplementation.html" title=" " alt="" coords="405,589,761,2472"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="586,2486,586,2520,581,2520,581,2486"/>
+<area shape="rect" id="Node000005" href="$d0/d13/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaDatatype.html" title=" " alt="" coords="443,5,724,541"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="586,555,586,589,581,589,581,555"/>
+<area shape="rect" id="Node000007" href="$df/d60/classSystem_1_1Xml_1_1Schema_1_1Datatype__int.html" title=" " alt="" coords="7,4303,253,4709"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="200,4254,187,4303,182,4302,195,4253"/>
+<area shape="rect" id="Node000008" href="$dc/d1d/classSystem_1_1Xml_1_1Schema_1_1Datatype__short.html" title=" " alt="" coords="7,4779,253,5201"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="133,4723,133,4779,127,4779,127,4723"/>
+<area shape="rect" id="Node000009" href="$d1/d56/classSystem_1_1Xml_1_1Schema_1_1Datatype__byte.html" title=" " alt="" coords="5,5271,255,5677"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="133,5214,133,5271,127,5271,127,5214"/>
+<area shape="rect" id="Node000011" href="$d1/dd2/classSystem_1_1Xml_1_1Schema_1_1Datatype__positiveInteger.html" title=" " alt="" coords="277,4407,500,4605"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="540,4150,432,4407,427,4405,535,4148"/>
+<area shape="rect" id="Node000012" href="$d4/dab/classSystem_1_1Xml_1_1Schema_1_1Datatype__unsignedLong.html" title=" " alt="" coords="525,4288,770,4724"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="601,4149,620,4287,615,4288,596,4150"/>
+<area shape="rect" id="Node000013" href="$d3/d4c/classSystem_1_1Xml_1_1Schema_1_1Datatype__unsignedInt.html" title=" " alt="" coords="525,4772,770,5208"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="650,4737,650,4772,645,4772,645,4737"/>
+<area shape="rect" id="Node000014" href="$d7/d65/classSystem_1_1Xml_1_1Schema_1_1Datatype__unsignedShort.html" title=" " alt="" coords="525,5256,770,5692"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="650,5221,650,5256,645,5256,645,5221"/>
+<area shape="rect" id="Node000015" href="$db/d11/classSystem_1_1Xml_1_1Schema_1_1Datatype__unsignedByte.html" title=" " alt="" coords="525,5740,770,6176"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="650,5705,650,5740,645,5740,645,5705"/>
+<area shape="rect" id="Node000017" href="$d2/dfa/classSystem_1_1Xml_1_1Schema_1_1Datatype__negativeInteger.html" title=" " alt="" coords="795,4407,1017,4605"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="883,4150,902,4406,896,4407,878,4150"/>
+</map>

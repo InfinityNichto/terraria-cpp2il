@@ -1,0 +1,17 @@
+<map id="System.Reflection.RuntimeAssembly.UnmanagedMemoryStreamForModule" name="System.Reflection.RuntimeAssembly.UnmanagedMemoryStreamForModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="158,973,418,1132"/>
+<area shape="rect" id="Node000002" href="$d8/d59/classglobal_1_1SystemIO_1_1UnmanagedMemoryStream.html" title=" " alt="" coords="161,546,373,626"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,640,287,973,282,973,266,640"/>
+<area shape="rect" id="Node000003" href="$d1/dd0/classSystem_1_1Reflection_1_1Module.html" title=" " alt="" coords="397,261,798,911"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="399,894,386,912,353,961,349,958,382,909,394,891"/>
+<area shape="rect" id="Node000004" href="$d7/da4/interfaceSystem_1_1Reflection_1_1ICustomAttributeProvider.html" title=" " alt="" coords="5,5,264,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,184,386,259,398,272,394,276,382,263,274,188"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="289,55,479,135"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="409,146,459,260,454,262,404,148"/>
+<area shape="rect" id="Node000006" href="$d3/d4d/classglobal_1_1SystemRuntime_1_1InteropServices_1_1__Module.html" title=" " alt="" coords="504,55,691,135"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="600,148,600,261,595,261,595,148"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="715,62,893,127"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="793,129,743,247,738,245,788,127"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="935,62,1073,127"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="997,128,978,182,948,239,884,323,812,401,808,398,879,320,943,236,973,180,992,127"/>
+</map>

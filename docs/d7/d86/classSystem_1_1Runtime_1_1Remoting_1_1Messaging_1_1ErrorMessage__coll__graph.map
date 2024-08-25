@@ -1,0 +1,14 @@
+<map id="System.Runtime.Remoting.Messaging.ErrorMessage" name="System.Runtime.Remoting.Messaging.ErrorMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,547,366,851"/>
+<area shape="rect" id="Node000002" href="$d7/df4/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMethodCallMessage.html" title=" " alt="" coords="81,419,231,484"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,496,191,546,186,547,169,498"/>
+<area shape="rect" id="Node000003" href="$d6/dbf/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMethodMessage.html" title=" " alt="" coords="146,135,347,369"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="248,383,247,484,246,546,240,546,241,484,243,383"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,383,173,419,168,417,185,381"/>
+<area shape="rect" id="Node000004" href="$d0/d5e/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMessage.html" title=" " alt="" coords="5,5,211,85"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="92,99,71,176,54,273,50,326,50,379,57,432,71,483,90,526,116,567,111,570,85,529,65,485,52,433,45,380,44,326,48,273,66,175,87,98"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="112,99,118,223,136,369,148,418,143,419,131,370,113,223,106,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,95,170,133,166,136,140,98"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="307,419,357,484"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="323,485,305,532,300,530,318,483"/>
+</map>

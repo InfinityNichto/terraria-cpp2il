@@ -1,0 +1,7 @@
+<map id="TutorialStep_04_CraftDoorAndChair" name="TutorialStep_04_CraftDoorAndChair">
+<area shape="rect" id="Node000001" title=" " alt="" coords="87,465,320,739"/>
+<area shape="rect" id="Node000002" href="$d9/d7b/classTutorialStep.html" title=" " alt="" coords="5,5,239,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,372,180,465,174,466,156,373"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="263,149,306,215"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,216,254,359,236,450,231,449,249,358,276,215"/>
+</map>

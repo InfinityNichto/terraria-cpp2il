@@ -1,0 +1,9 @@
+<map id="System.Gen2GcCallback" name="System.Gen2GcCallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,163,373,376"/>
+<area shape="rect" id="Node000002" href="$dc/dcc/classglobal_1_1SystemRuntime_1_1ConstrainedExecution_1_1CriticalFinalizerObject.html" title=" " alt="" coords="5,5,172,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,109,185,161,181,164,136,112"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="196,13,352,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,93,277,146,271,146,271,93"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="377,20,446,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="393,87,353,150,348,147,389,84"/>
+</map>

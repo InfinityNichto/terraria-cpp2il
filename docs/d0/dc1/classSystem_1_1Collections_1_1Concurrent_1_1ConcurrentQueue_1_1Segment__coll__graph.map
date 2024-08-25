@@ -1,0 +1,16 @@
+<map id="System.Collections.Concurrent.ConcurrentQueue&lt; T &gt;.Segment" name="System.Collections.Concurrent.ConcurrentQueue&lt; T &gt;.Segment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,557,281,732"/>
+<area shape="rect" id="Node000002" href="$d9/df6/classSystem_1_1Collections_1_1Concurrent_1_1ConcurrentQueue_1_1Segment.html" title=" " alt="" coords="214,305,456,480"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,482,232,545,228,542,272,479"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="457,370,475,378,482,392,480,402,473,408,469,405,475,399,477,393,471,382,455,375"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="136,5,166,71"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="137,51,84,89,55,117,32,149,16,184,9,213,9,243,15,281,31,350,54,419,108,542,103,544,49,421,26,352,10,282,4,243,4,212,11,182,27,147,51,113,80,85,134,46"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="168,47,220,86,249,114,274,147,293,180,307,216,326,289,321,290,302,218,288,183,270,149,245,118,217,90,165,51"/>
+<area shape="rect" id="Node000004" href="$dc/d64/structSystem_1_1Collections_1_1Concurrent_1_1PaddedHeadAndTail.html" title=" " alt="" coords="42,148,260,228"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="154,71,154,131,148,131,148,71"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="132,229,115,266,103,306,94,354,92,392,95,431,103,479,119,541,114,543,98,481,90,431,87,393,89,354,98,305,110,264,127,227"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="170,227,185,254,204,280,214,292,210,295,200,283,181,257,166,229"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="526,155,568,221"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="570,199,598,220,611,234,621,251,634,268,650,281,667,294,680,311,684,335,675,369,650,416,604,482,574,515,540,543,502,567,461,587,378,616,298,633,297,628,377,611,459,582,499,562,536,539,570,511,600,478,645,413,670,367,679,335,675,313,663,298,647,286,630,272,617,253,607,238,594,224,567,203"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="526,201,483,222,438,254,401,294,397,291,435,250,481,218,524,196"/>
+</map>

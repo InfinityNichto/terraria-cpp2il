@@ -1,0 +1,17 @@
+<map id="Newtonsoft.Json.Linq.JEnumerable&lt; T &gt;" name="Newtonsoft.Json.Linq.JEnumerable&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,520,420,779"/>
+<area shape="rect" id="Node000002" href="$d7/d5d/interfaceNewtonsoft_1_1Json_1_1Linq_1_1IJEnumerable.html" title=" " alt="" coords="75,377,245,457"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,468,216,519,212,521,185,471"/>
+<area shape="rect" id="Node000003" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="153,263,413,328"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="285,342,285,520,280,520,280,342"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="298,328,304,352,310,428,307,504,302,504,305,428,299,352,293,329"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,339,202,379,198,375,239,336"/>
+<area shape="rect" id="Node000004" href="$d2/d2c/interfaceSystem_1_1Collections_1_1Generic_1_1IEnumerable.html" title=" " alt="" coords="153,120,413,200"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="285,214,285,263,280,263,280,214"/>
+<area shape="rect" id="Node000005" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="5,5,227,71"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="74,83,50,118,43,138,40,159,40,419,42,443,49,466,72,509,107,546,147,578,144,582,103,550,68,512,44,468,37,444,35,419,35,158,38,137,45,116,69,80"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="120,84,128,195,143,328,153,377,147,378,137,328,122,196,115,84"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="173,77,230,118,227,122,169,81"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="463,385,697,450"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="541,452,435,534,431,530,538,448"/>
+</map>

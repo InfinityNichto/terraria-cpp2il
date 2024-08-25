@@ -1,0 +1,14 @@
+<map id="Mono.Security.Cryptography.ARC4Managed" name="Mono.Security.Cryptography.ARC4Managed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="230,1225,502,1969"/>
+<area shape="rect" id="Node000002" href="$d0/d5c/classMono_1_1Security_1_1Cryptography_1_1RC4.html" title=" " alt="" coords="111,1003,293,1177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,1190,248,1224,243,1226,232,1191"/>
+<area shape="rect" id="Node000003" href="$d7/d9e/classSystem_1_1Security_1_1Cryptography_1_1SymmetricAlgorithm.html" title=" " alt="" coords="5,119,257,955"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,968,194,1002,188,1003,184,969"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="173,5,359,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,84,247,119,242,118,251,83"/>
+<area shape="rect" id="Node000005" href="$d3/dac/interfaceSystem_1_1Security_1_1Cryptography_1_1ICryptoTransform.html" title=" " alt="" coords="282,413,522,661"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="281,83,371,412,366,413,276,85"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="400,675,381,1225,376,1225,395,674"/>
+<area shape="rect" id="Node000006" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="403,1057,526,1123"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="458,1137,441,1226,436,1225,453,1136"/>
+</map>

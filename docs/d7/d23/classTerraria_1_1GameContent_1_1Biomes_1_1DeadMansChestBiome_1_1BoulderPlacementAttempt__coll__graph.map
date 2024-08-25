@@ -1,0 +1,13 @@
+<map id="Terraria.GameContent.Biomes.DeadMansChestBiome.BoulderPlacementAttempt" name="Terraria.GameContent.Biomes.DeadMansChestBiome.BoulderPlacementAttempt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,603,375,727"/>
+<area shape="rect" id="Node000002" href="$d5/d8f/structMicrosoft_1_1Xna_1_1Framework_1_1Point.html" title=" " alt="" coords="5,276,212,540"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,539,198,587,193,589,170,541"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="213,378,231,389,239,408,236,420,228,430,224,426,231,418,233,408,227,393,211,383"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="29,133,189,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,213,111,276,106,276,106,213"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="21,5,196,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,85,111,133,106,133,106,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="279,133,309,199"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="306,199,321,262,334,348,338,396,337,445,332,494,321,541,297,590,292,588,315,539,326,493,332,445,332,396,329,349,316,264,301,200"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="281,189,222,264,218,261,276,186"/>
+</map>

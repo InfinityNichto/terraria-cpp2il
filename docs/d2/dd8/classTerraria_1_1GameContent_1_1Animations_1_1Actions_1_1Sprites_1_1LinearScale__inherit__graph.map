@@ -1,0 +1,12 @@
+<map id="Terraria.GameContent.Animations.Actions.Sprites.LinearScale" name="Terraria.GameContent.Animations.Actions.Sprites.LinearScale">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,937,246,1101"/>
+<area shape="rect" id="Node000002" href="$d3/df5/classTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1Sprites_1_1AScale.html" title=" " alt="" coords="5,575,248,888"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,902,129,937,124,937,124,902"/>
+<area shape="rect" id="Node000003" href="$d5/d50/interfaceTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1Sprites_1_1ISpriteAction.html" title=" " alt="" coords="148,445,313,525"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,539,196,575,191,573,206,537"/>
+<area shape="rect" id="Node000004" href="$d1/d86/interfaceTerraria_1_1GameContent_1_1Animations_1_1IAnimationSegmentAction.html" title=" " alt="" coords="22,232,231,396"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="129,410,129,575,124,575,124,410"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,406,209,444,204,447,181,409"/>
+<area shape="rect" id="Node000005" href="$d1/d86/interfaceTerraria_1_1GameContent_1_1Animations_1_1IAnimationSegmentAction.html" title=" " alt="" coords="7,5,246,169"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="129,183,129,232,124,232,124,183"/>
+</map>

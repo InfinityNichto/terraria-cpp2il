@@ -1,0 +1,12 @@
+<map id="UnityEngine.SceneManagement.SceneManager" name="UnityEngine.SceneManagement.SceneManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,320,515,908"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,170,203,250"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,249,217,377,212,380,127,252"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="191,5,281,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,52,140,68,123,81,109,96,101,113,97,132,98,170,92,170,91,131,96,111,104,93,119,77,137,64,176,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="227,163,511,257"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="295,58,320,73,341,93,359,126,368,162,363,163,354,128,337,96,317,77,293,63"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="372,257,372,303,367,303,367,257"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="536,177,579,243"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="546,244,522,297,518,306,513,304,518,295,541,242"/>
+</map>

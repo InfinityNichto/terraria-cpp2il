@@ -1,0 +1,27 @@
+<map id="Terraria.GameContent.Creative.CreativePowers.FreezeWindDirectionAndStrength" name="Terraria.GameContent.Creative.CreativePowers.FreezeWindDirectionAndStrength">
+<area shape="rect" id="Node000001" title=" " alt="" coords="740,1084,997,1401"/>
+<area shape="rect" id="Node000002" href="$d9/d2e/classTerraria_1_1GameContent_1_1Creative_1_1CreativePowers_1_1ASharedTogglePower.html" title=" " alt="" coords="605,464,855,1035"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="816,1047,827,1083,822,1085,811,1048"/>
+<area shape="rect" id="Node000003" href="$d4/d69/interfaceTerraria_1_1GameContent_1_1Creative_1_1ICreativePower.html" title=" " alt="" coords="5,133,255,401"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,399,268,399,443,539,607,659,603,664,439,543,264,403,264,403"/>
+<area shape="rect" id="Node000004" href="$d5/dea/interfaceTerraria_1_1GameContent_1_1IOnPlayerJoining.html" title=" " alt="" coords="279,227,443,307"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="397,317,456,400,607,593,603,597,452,403,393,320"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="467,235,604,300"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="551,299,611,447,606,449,546,301"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="508,5,563,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="538,84,538,234,533,234,533,84"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="629,235,831,300"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="733,300,733,447,727,447,727,300"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="705,5,755,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="733,84,733,234,727,234,727,84"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="856,227,1055,307"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="939,309,864,469,859,467,935,306"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1079,227,1277,307"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1153,309,1115,356,1068,403,1035,427,997,443,962,450,932,450,903,452,870,466,868,461,902,447,932,445,962,444,996,437,1032,422,1064,399,1111,353,1149,306"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1301,235,1425,300"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1356,301,1333,354,1314,381,1292,403,1257,425,1225,434,1150,443,1092,446,1014,446,935,451,900,457,870,467,868,462,898,452,934,445,1014,441,1091,441,1150,437,1224,429,1255,420,1288,399,1310,377,1328,351,1351,299"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1342,5,1385,71"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1366,84,1366,234,1361,234,1361,84"/>
+<area shape="rect" id="Node000013" href="$d7/d20/interfaceTerraria_1_1GameContent_1_1IPersistentPerWorldContent.html" title=" " alt="" coords="879,650,1136,849"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="979,862,916,1085,911,1083,973,861"/>
+</map>

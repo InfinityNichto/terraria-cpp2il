@@ -1,0 +1,15 @@
+<map id="System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs" name="System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="323,1617,628,2495"/>
+<area shape="rect" id="Node000002" href="$dd/ddd/classSystem_1_1Net_1_1Sockets_1_1SocketAsyncEventArgs.html" title=" " alt="" coords="80,424,319,1568"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,1532,334,1567,347,1617,342,1618,329,1569,319,1533"/>
+<area shape="rect" id="Node000003" href="$d2/d76/classSystem_1_1EventArgs.html" title=" " alt="" coords="5,133,207,233"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,247,136,424,131,424,111,247"/>
+<area shape="rect" id="Node000004" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="231,151,354,216"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,230,268,424,262,423,285,230"/>
+<area shape="rect" id="Node000005" href="$d1/dc0/interfaceSystem_1_1Threading_1_1Tasks_1_1Sources_1_1IValueTaskSource.html" title=" " alt="" coords="343,825,607,1167"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="478,1181,478,1617,473,1617,473,1181"/>
+<area shape="rect" id="Node000006" href="$d1/dc0/interfaceSystem_1_1Threading_1_1Tasks_1_1Sources_1_1IValueTaskSource.html" title=" " alt="" coords="631,825,895,1167"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="722,1181,622,1569,608,1618,603,1616,617,1567,717,1179"/>
+<area shape="rect" id="Node000007" href="$d1/dc0/interfaceSystem_1_1Threading_1_1Tasks_1_1Sources_1_1IValueTaskSource.html" title=" " alt="" coords="631,5,895,361"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="766,375,766,825,761,825,761,375"/>
+</map>

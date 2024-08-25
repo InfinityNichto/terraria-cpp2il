@@ -1,0 +1,18 @@
+<map id="System.Runtime.InteropServices.CriticalHandle" name="System.Runtime.InteropServices.CriticalHandle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,1264,487,1577"/>
+<area shape="rect" id="Node000002" href="$dc/dcc/classglobal_1_1SystemRuntime_1_1ConstrainedExecution_1_1CriticalFinalizerObject.html" title=" " alt="" coords="5,627,172,722"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,735,98,828,113,947,141,1076,162,1140,187,1200,219,1255,258,1305,254,1309,215,1258,182,1203,157,1141,136,1077,108,948,93,829,87,736"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,642,383,707"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,721,357,1263,352,1264,292,722"/>
+<area shape="rect" id="Node000004" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="408,148,740,1201"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="433,1203,421,1248,416,1247,428,1201"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="742,591,760,625,767,675,763,714,752,745,747,743,757,713,761,675,755,627,738,594"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="269,5,460,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="384,98,410,175,405,177,379,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="484,5,664,85"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="577,99,577,148,571,148,571,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="689,13,851,78"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="763,79,746,133,741,132,758,77"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="834,642,877,707"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="866,707,883,799,890,861,893,928,890,999,879,1071,858,1139,824,1203,794,1241,758,1275,718,1304,676,1330,588,1369,503,1396,502,1391,586,1364,673,1325,715,1300,755,1271,790,1238,820,1200,853,1137,873,1069,884,999,887,928,885,861,878,800,861,708"/>
+</map>

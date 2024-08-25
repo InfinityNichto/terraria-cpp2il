@@ -1,0 +1,18 @@
+<map id="System.Collections.ArrayList" name="System.Collections.ArrayList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,633,337,1320"/>
+<area shape="rect" id="Node000006" href="$da/de0/classSystem_1_1Collections_1_1ArrayList_1_1IListWrapper.html" title=" " alt="" coords="5,1368,223,1984"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="175,1334,170,1368,164,1367,170,1333"/>
+<area shape="rect" id="Node000007" href="$dc/d30/classSystem_1_1Collections_1_1ArrayList_1_1ReadOnlyArrayList.html" title=" " alt="" coords="247,1368,464,1984"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="299,1333,304,1367,299,1368,293,1334"/>
+<area shape="rect" id="Node000002" href="$dd/d26/interfaceSystem_1_1Collections_1_1IList.html" title=" " alt="" coords="68,301,264,585"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,598,193,633,187,633,183,599"/>
+<area shape="rect" id="Node000003" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="161,119,328,253"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="272,266,278,301,286,383,289,468,283,633,278,633,283,468,281,384,273,302,266,267"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,267,212,302,207,300,218,266"/>
+<area shape="rect" id="Node000004" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="13,5,234,71"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="110,85,84,177,58,301,49,371,45,443,47,515,58,585,72,638,90,691,134,792,129,795,85,693,67,640,53,586,42,515,40,443,44,370,52,300,78,175,105,83"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="131,84,154,301,148,301,125,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="160,79,192,117,187,120,156,83"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="340,411,520,476"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="416,490,339,698,334,696,411,488"/>
+</map>

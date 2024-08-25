@@ -1,0 +1,9 @@
+<map id="System.Net.ServicePointScheduler.AsyncManualResetEvent" name="System.Net.ServicePointScheduler.AsyncManualResetEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1067,248,1291"/>
+<area shape="rect" id="Node000002" href="$de/d5f/classSystem_1_1Threading_1_1Tasks_1_1TaskCompletionSource.html" title=" " alt="" coords="9,583,244,1004"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,1004,129,1050,124,1050,124,1004"/>
+<area shape="rect" id="Node000003" href="$de/d5f/classSystem_1_1Threading_1_1Tasks_1_1TaskCompletionSource.html" title=" " alt="" coords="9,133,244,520"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,534,129,582,124,582,124,534"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="35,5,218,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,71,129,117,124,117,124,71"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="System.Reflection.PropertyInfo" name="System.Reflection.PropertyInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,761,541,1475"/>
+<area shape="rect" id="Node000004" href="$db/d6e/classSystem_1_1Reflection_1_1Emit_1_1PropertyBuilder.html" title=" " alt="" coords="5,2035,355,2633"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="313,1489,229,2035,223,2034,307,1488"/>
+<area shape="rect" id="Node000005" href="$d0/db4/classSystem_1_1Reflection_1_1RuntimePropertyInfo.html" title=" " alt="" coords="379,1523,728,3145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="426,1488,431,1522,426,1523,421,1488"/>
+<area shape="rect" id="Node000002" href="$d5/d20/classSystem_1_1Reflection_1_1MemberInfo.html" title=" " alt="" coords="237,232,496,713"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,727,369,761,364,761,364,727"/>
+<area shape="rect" id="Node000003" href="$d7/da4/interfaceSystem_1_1Reflection_1_1ICustomAttributeProvider.html" title=" " alt="" coords="237,5,496,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,198,369,232,364,232,364,198"/>
+</map>

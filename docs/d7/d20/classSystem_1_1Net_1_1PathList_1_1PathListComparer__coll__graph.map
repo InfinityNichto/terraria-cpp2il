@@ -1,0 +1,27 @@
+<map id="System.Net.PathList.PathListComparer" name="System.Net.PathList.PathListComparer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,1657,371,1792"/>
+<area shape="rect" id="Node000002" href="$da/dff/interfaceSystem_1_1Collections_1_1IComparer.html" title=" " alt="" coords="149,1472,302,1552"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,1565,243,1657,237,1658,228,1566"/>
+<area shape="rect" id="Node000003" href="$df/d76/classSystem_1_1Net_1_1PathList.html" title=" " alt="" coords="327,1429,548,1595"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="365,1597,320,1647,316,1643,361,1593"/>
+<area shape="rect" id="Node000004" href="$d3/dab/classSystem_1_1Collections_1_1SortedList.html" title=" " alt="" coords="317,651,558,1367"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="440,1367,440,1413,435,1413,435,1367"/>
+<area shape="poly" id="edge14_Node000004_Node000004" title=" " alt="" coords="560,944,570,955,578,969,585,1009,581,1038,571,1061,567,1058,576,1037,579,1009,573,971,566,958,556,948"/>
+<area shape="rect" id="Node000005" href="$d7/d23/interfaceSystem_1_1Collections_1_1IDictionary.html" title=" " alt="" coords="77,304,272,559"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="240,570,319,742,314,744,235,572"/>
+<area shape="rect" id="Node000006" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="154,120,321,255"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="274,267,287,303,305,374,315,430,337,558,357,650,352,651,332,559,310,431,300,375,281,305,269,268"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="219,269,210,305,205,303,214,268"/>
+<area shape="rect" id="Node000007" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="5,5,227,71"/>
+<area shape="poly" id="edge9_Node000004_Node000007" title=" " alt="" coords="102,84,74,174,61,231,50,293,44,359,43,427,51,493,68,558,89,609,115,658,178,751,249,834,318,903,314,907,245,837,174,754,111,661,84,611,63,560,46,494,38,427,38,359,45,292,56,229,69,172,97,83"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="123,84,144,254,152,303,147,304,139,255,118,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="153,80,184,118,180,121,149,83"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="347,399,527,464"/>
+<area shape="poly" id="edge10_Node000004_Node000008" title=" " alt="" coords="440,478,440,650,435,650,435,478"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="551,399,606,464"/>
+<area shape="poly" id="edge11_Node000004_Node000009" title=" " alt="" coords="573,465,541,583,528,635,523,634,536,582,567,464"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="630,399,661,464"/>
+<area shape="poly" id="edge12_Node000004_Node000010" title=" " alt="" coords="646,464,638,540,619,627,595,696,567,764,562,762,590,694,613,626,632,539,641,464"/>
+<area shape="rect" id="Node000011" href="$da/dff/interfaceSystem_1_1Collections_1_1IComparer.html" title=" " alt="" coords="684,391,895,471"/>
+<area shape="poly" id="edge13_Node000004_Node000011" title=" " alt="" coords="772,473,686,628,569,815,565,812,682,625,767,470"/>
+</map>

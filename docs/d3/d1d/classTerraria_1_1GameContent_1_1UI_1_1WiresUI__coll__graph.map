@@ -1,0 +1,6 @@
+<map id="Terraria.GameContent.UI.WiresUI" name="Terraria.GameContent.UI.WiresUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,203,337"/>
+<area shape="rect" id="Node000002" href="$d1/d06/classTerraria_1_1GameContent_1_1UI_1_1WiresUI.html" title=" " alt="" coords="5,5,203,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,140,107,186,101,186,101,140"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="204,54,222,60,229,72,227,81,220,86,217,82,222,78,224,73,219,64,202,59"/>
+</map>

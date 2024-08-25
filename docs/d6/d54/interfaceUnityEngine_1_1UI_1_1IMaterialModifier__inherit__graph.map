@@ -1,0 +1,13 @@
+<map id="UnityEngine.UI.IMaterialModifier" name="UnityEngine.UI.IMaterialModifier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,5,379,100"/>
+<area shape="rect" id="Node000002" href="$d9/d42/classUnityEngine_1_1UI_1_1Mask.html" title=" " alt="" coords="5,369,247,753"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,114,182,369,177,368,249,113"/>
+<area shape="rect" id="Node000003" href="$d5/d12/classUnityEngine_1_1UI_1_1MaskableGraphic.html" title=" " alt="" coords="271,148,552,973"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="288,113,298,147,293,149,283,114"/>
+<area shape="rect" id="Node000004" href="$d0/dd8/classUnityEngine_1_1UI_1_1Image.html" title=" " alt="" coords="17,1021,277,2987"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="300,987,293,1022,280,1086,275,1085,287,1021,295,986"/>
+<area shape="rect" id="Node000005" href="$da/d66/classUnityEngine_1_1UI_1_1RawImage.html" title=" " alt="" coords="301,1887,521,2121"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="414,987,414,1886,409,1886,409,987"/>
+<area shape="rect" id="Node000006" href="$d6/def/classUnityEngine_1_1UI_1_1Text.html" title=" " alt="" coords="545,1603,787,2405"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="529,986,537,1021,588,1316,627,1603,621,1604,582,1317,531,1022,524,987"/>
+</map>

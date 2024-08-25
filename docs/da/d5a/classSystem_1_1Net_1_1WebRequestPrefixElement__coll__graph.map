@@ -1,0 +1,31 @@
+<map id="System.Net.WebRequestPrefixElement" name="System.Net.WebRequestPrefixElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,5639,493,5768"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="53,2049,104,2114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,2114,73,2469,68,2996,62,3179,48,3487,31,3875,16,4304,8,4730,9,4929,13,5112,22,5274,36,5408,56,5510,68,5547,82,5575,113,5611,153,5639,196,5661,241,5676,239,5681,194,5665,150,5643,110,5614,78,5577,63,5549,51,5511,31,5409,17,5274,8,5113,4,4930,3,4730,11,4304,26,3875,43,3486,57,3179,62,2996,67,2469,75,2114"/>
+<area shape="rect" id="Node000004" href="$da/d1b/classSystem_1_1Type.html" title=" " alt="" coords="146,3020,603,5576"/>
+<area shape="poly" id="edge16_Node000004_Node000002" title=" " alt="" coords="74,2115,50,2257,38,2360,30,2477,28,2605,35,2737,55,2868,70,2933,89,2995,97,3007,107,3019,142,3098,137,3100,103,3021,93,3010,84,2997,65,2934,49,2869,30,2737,23,2605,25,2477,33,2359,45,2256,69,2114"/>
+<area shape="rect" id="Node000003" href="$db/de5/interfaceSystem_1_1Net_1_1IWebRequestCreate.html" title=" " alt="" coords="746,4265,968,4331"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="868,4330,886,4412,907,4535,925,4689,933,4863,931,4955,925,5049,913,5143,894,5237,868,5328,833,5416,790,5500,737,5578,714,5602,689,5623,632,5656,571,5678,510,5693,509,5688,569,5673,630,5651,686,5618,711,5598,732,5574,785,5497,828,5414,863,5326,889,5235,907,5142,920,5049,926,4955,928,4863,920,4689,902,4536,880,4413,863,4332"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="377,5576,377,5623,372,5623,372,5576"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="606,4123,616,4157,623,4197,630,4298,625,4388,611,4458,606,4457,620,4387,624,4298,618,4198,611,4158,601,4124"/>
+<area shape="rect" id="Node000005" href="$d8/d11/classglobal_1_1SystemReflection_1_1MemberInfo.html" title=" " alt="" coords="146,2041,322,2121"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="243,2135,276,2466,314,2922,321,3020,316,3020,309,2923,271,2467,238,2135"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="347,2049,426,2114"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="389,2114,378,2923,378,3004,373,3004,373,2923,383,2114"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="541,2049,584,2114"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="565,2114,560,2470,552,2729,536,2996,535,3004,530,3004,530,2996,546,2729,555,2470,560,2114"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="643,2049,698,2114"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="673,2114,663,2470,648,2730,622,2996,608,3107,603,3106,617,2996,642,2730,658,2470,668,2114"/>
+<area shape="rect" id="Node000009" href="$d0/d8f/structSystem_1_1RuntimeTypeHandle.html" title=" " alt="" coords="722,1264,1072,2899"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="725,2887,700,2997,610,3373,604,3372,695,2995,720,2886"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="738,5,928,85"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="837,99,866,1201,869,1264,863,1264,861,1201,832,99"/>
+<area shape="rect" id="Node000011" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="875,148,1207,1201"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="853,98,878,172,872,174,848,99"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="990,1202,985,1248,980,1247,985,1202"/>
+<area shape="poly" id="edge15_Node000011_Node000011" title=" " alt="" coords="1210,591,1227,625,1234,675,1230,714,1219,745,1214,743,1225,713,1228,675,1222,627,1205,594"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="952,5,1132,85"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1045,99,1045,148,1040,148,1040,99"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1157,13,1320,78"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="1231,79,1214,133,1209,132,1226,77"/>
+</map>

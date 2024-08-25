@@ -1,0 +1,9 @@
+<map id="System.Xml.XmlAutoDetectWriter" name="System.Xml.XmlAutoDetectWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,1732,275,2925"/>
+<area shape="rect" id="Node000002" href="$d2/dd1/classSystem_1_1Xml_1_1XmlRawWriter.html" title=" " alt="" coords="5,717,291,1684"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,1697,151,1732,145,1732,145,1697"/>
+<area shape="rect" id="Node000003" href="$df/d80/classSystem_1_1Xml_1_1XmlWriter.html" title=" " alt="" coords="19,119,277,669"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,683,151,717,145,717,145,683"/>
+<area shape="rect" id="Node000004" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="87,5,209,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,84,151,119,145,119,145,84"/>
+</map>

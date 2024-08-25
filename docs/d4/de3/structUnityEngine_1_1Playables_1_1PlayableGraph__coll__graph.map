@@ -1,0 +1,14 @@
+<map id="UnityEngine.Playables.PlayableGraph" name="UnityEngine.Playables.PlayableGraph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="340,1264,560,1344"/>
+<area shape="rect" id="Node000002" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,1201,440,1247,435,1248,425,1202"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="478,591,496,625,503,675,499,714,488,745,483,743,493,713,497,675,491,627,474,594"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,98,146,175,141,177,115,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="499,79,482,133,477,132,494,77"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="569,642,608,707"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="597,707,609,796,614,922,611,992,602,1064,586,1135,560,1203,543,1230,521,1255,517,1251,539,1227,556,1200,581,1134,597,1063,606,992,609,922,603,797,592,708"/>
+</map>

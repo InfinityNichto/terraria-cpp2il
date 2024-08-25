@@ -1,0 +1,7 @@
+<map id="Terraria.GameInput.TriggersSet" name="Terraria.GameInput.TriggersSet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,251,617"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="23,5,65,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,71,48,124,49,131,44,132,43,124,40,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="198,5,229,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,72,193,133,188,132,203,70"/>
+</map>

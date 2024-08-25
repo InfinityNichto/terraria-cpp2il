@@ -1,0 +1,30 @@
+<map id="UnityEngine.RequireComponent" name="UnityEngine.RequireComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="82,5668,305,5748"/>
+<area shape="rect" id="Node000002" href="$d1/d05/classSystem_1_1Attribute.html" title=" " alt="" coords="5,3637,339,4959"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,4972,195,5668,190,5668,180,4972"/>
+<area shape="rect" id="Node000003" href="$da/d1b/classSystem_1_1Type.html" title=" " alt="" coords="363,3020,821,5576"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="366,5555,353,5577,317,5623,274,5660,270,5656,313,5619,348,5575,361,5553"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="823,4121,833,4155,841,4196,847,4298,842,4389,828,4459,823,4458,837,4388,842,4298,836,4197,828,4156,818,4122"/>
+<area shape="rect" id="Node000004" href="$d8/d11/classglobal_1_1SystemReflection_1_1MemberInfo.html" title=" " alt="" coords="111,2041,287,2121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,2135,209,2270,225,2460,255,2679,275,2790,301,2898,313,2933,326,2958,340,2984,353,3019,366,3062,361,3063,348,3021,335,2986,322,2961,308,2935,296,2899,270,2791,249,2680,220,2461,204,2270,197,2135"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="311,2049,390,2114"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="352,2114,350,2253,350,2470,357,2729,375,2996,375,3003,370,3004,369,2996,352,2730,345,2470,345,2253,347,2114"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="517,2049,560,2114"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="541,2114,537,2923,537,2996,538,3004,532,3004,532,2996,532,2923,536,2114"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="602,2049,657,2114"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="632,2114,620,2996,620,3004,615,3004,615,2996,626,2114"/>
+<area shape="rect" id="Node000008" href="$d0/d8f/structSystem_1_1RuntimeTypeHandle.html" title=" " alt="" coords="681,1264,1031,2899"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="761,2899,749,3004,744,3003,756,2899"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="697,5,887,85"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="796,99,825,1201,827,1264,822,1264,820,1201,791,99"/>
+<area shape="rect" id="Node000010" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="834,148,1166,1201"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="812,98,836,172,831,174,807,99"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="949,1202,944,1248,939,1247,943,1202"/>
+<area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="1168,591,1186,625,1193,675,1189,714,1178,745,1173,743,1183,713,1187,675,1181,627,1164,594"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="911,5,1091,85"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1004,99,1004,148,998,148,999,99"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1116,13,1279,78"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="1190,79,1173,133,1168,132,1185,77"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1055,2049,1105,2114"/>
+<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="1084,2114,1088,2240,1087,2434,1075,2665,1063,2783,1045,2899,1003,3101,950,3304,891,3503,829,3692,823,3690,886,3502,945,3303,998,3100,1040,2898,1058,2783,1070,2664,1082,2434,1082,2241,1079,2114"/>
+</map>

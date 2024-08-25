@@ -1,0 +1,17 @@
+<map id="Terraria.Chat.ChatMessage" name="Terraria.Chat.ChatMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,761,459,1109"/>
+<area shape="rect" id="Node000002" href="$df/d1d/structTerraria_1_1Chat_1_1ChatCommandId.html" title=" " alt="" coords="69,465,273,699"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,698,203,736,207,746,202,748,198,738,185,700"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,5,228,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,47,144,58,103,75,64,100,48,116,35,135,18,172,10,212,9,253,15,294,26,335,41,375,79,450,75,452,36,377,21,337,10,295,4,253,4,211,13,171,30,132,44,113,61,96,101,70,142,53,177,42"/>
+<area shape="rect" id="Node000004" href="$df/d1d/structTerraria_1_1Chat_1_1ChatCommandId.html" title=" " alt="" coords="98,133,308,352"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="206,71,206,117,200,117,200,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="292,376,400,441"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="242,56,286,88,306,108,323,132,337,163,346,196,356,264,357,327,353,376,348,376,352,326,351,264,341,198,331,165,318,135,302,112,282,92,239,61"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="170,366,168,376,164,465,159,465,163,376,165,365"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="348,442,341,745,335,745,342,442"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="472,549,624,615"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="531,616,450,749,446,746,527,614"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="527,210,570,275"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="551,289,551,549,546,549,546,289"/>
+</map>

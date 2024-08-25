@@ -1,0 +1,13 @@
+<map id="System.Security.Cryptography.X509Certificates.X509Extension" name="System.Security.Cryptography.X509Certificates.X509Extension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="515,629,777,848"/>
+<area shape="rect" id="Node000003" href="$d9/db2/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509BasicConstraintsExtension.html" title=" " alt="" coords="5,999,321,1506"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="504,790,459,811,415,835,373,864,335,898,294,946,260,1001,255,998,290,943,331,894,369,860,412,831,457,806,502,785"/>
+<area shape="rect" id="Node000004" href="$df/d3f/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509EnhancedKeyUsageExtension.html" title=" " alt="" coords="345,1084,635,1421"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="611,862,544,1084,539,1083,606,861"/>
+<area shape="rect" id="Node000005" href="$d7/d6c/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509KeyUsageExtension.html" title=" " alt="" coords="659,1027,945,1479"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="686,861,736,1025,731,1027,681,862"/>
+<area shape="rect" id="Node000006" href="$d9/df0/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509SubjectKeyIdentifierExtension.html" title=" " alt="" coords="970,896,1263,1609"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="790,785,835,805,879,831,922,860,960,894,972,907,968,911,956,898,919,864,877,835,832,810,788,790"/>
+<area shape="rect" id="Node000002" href="$d8/d9b/classSystem_1_1Security_1_1Cryptography_1_1AsnEncodedData.html" title=" " alt="" coords="515,5,777,581"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="649,596,649,629,643,629,643,596"/>
+</map>

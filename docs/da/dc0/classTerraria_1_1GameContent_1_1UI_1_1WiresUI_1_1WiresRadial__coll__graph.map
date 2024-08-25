@@ -1,0 +1,15 @@
+<map id="Terraria.GameContent.UI.WiresUI.WiresRadial" name="Terraria.GameContent.UI.WiresUI.WiresRadial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="294,1328,513,1607"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,276,249,1251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1135,319,1303,323,1312,318,1314,314,1305,247,1137"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="252,678,262,692,270,711,276,763,272,805,262,835,257,833,267,803,271,763,264,713,257,695,248,681"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="46,133,209,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,212,130,276,125,276,125,212"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="40,5,215,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,85,130,133,125,133,125,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="313,133,355,199"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="348,198,359,235,369,276,379,365,388,481,399,764,404,1061,406,1312,401,1312,399,1061,393,764,382,481,374,365,363,276,354,236,343,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="326,200,257,396,252,394,321,198"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="518,731,561,796"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="543,797,543,877,539,991,527,1121,516,1187,502,1251,482,1313,477,1311,497,1250,511,1186,521,1120,534,990,538,877,538,797"/>
+</map>

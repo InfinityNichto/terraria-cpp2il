@@ -1,0 +1,15 @@
+<map id="Mono.Security.Cryptography.MD2" name="Mono.Security.Cryptography.MD2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,1479,384,1604"/>
+<area shape="rect" id="Node000006" href="$d8/d25/classMono_1_1Security_1_1Cryptography_1_1MD2Managed.html" title=" " alt="" coords="167,1652,371,2253"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="265,1618,264,1652,259,1652,260,1618"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="279,1618,280,1652,275,1652,274,1618"/>
+<area shape="rect" id="Node000002" href="$d2/d1c/classSystem_1_1Security_1_1Cryptography_1_1HashAlgorithm.html" title=" " alt="" coords="5,415,269,1431"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,1444,259,1478,254,1479,246,1445"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="44,5,231,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,83,87,120,69,191,57,265,52,340,51,415,46,414,47,339,52,264,64,190,81,118,100,81"/>
+<area shape="rect" id="Node000004" href="$d3/dac/interfaceSystem_1_1Security_1_1Cryptography_1_1ICryptoTransform.html" title=" " alt="" coords="96,119,336,367"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="157,83,171,117,166,119,152,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="203,381,199,415,194,414,197,380"/>
+<area shape="rect" id="Node000005" href="$d4/d14/classglobal_1_1SystemSecurity_1_1Cryptography_1_1HashAlgorithm.html" title=" " alt="" coords="294,883,509,963"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="393,977,285,1479,280,1478,388,976"/>
+</map>

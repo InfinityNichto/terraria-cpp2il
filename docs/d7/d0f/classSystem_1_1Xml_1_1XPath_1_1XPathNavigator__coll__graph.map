@@ -1,0 +1,17 @@
+<map id="System.Xml.XPath.XPathNavigator" name="System.Xml.XPath.XPathNavigator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="428,541,693,1381"/>
+<area shape="rect" id="Node000002" href="$de/db8/classSystem_1_1Xml_1_1XPath_1_1XPathItem.html" title=" " alt="" coords="5,155,223,464"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,474,430,765,426,768,225,477"/>
+<area shape="rect" id="Node000003" href="$d0/d50/interfaceSystem_1_1ICloneable.html" title=" " alt="" coords="247,277,367,342"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,354,430,619,425,621,322,356"/>
+<area shape="rect" id="Node000004" href="$d7/dc1/interfaceSystem_1_1Xml_1_1IXmlNamespaceResolver.html" title=" " alt="" coords="392,252,585,367"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="499,380,517,541,512,542,494,381"/>
+<area shape="rect" id="Node000005" href="$dc/dff/classSystem_1_1Xml_1_1XPath_1_1XPathNavigatorKeyComparer.html" title=" " alt="" coords="609,227,872,391"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="721,392,684,526,679,525,716,391"/>
+<area shape="rect" id="Node000006" href="$d6/de3/interfaceSystem_1_1Collections_1_1IEqualityComparer.html" title=" " alt="" coords="634,5,847,105"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="743,119,743,227,738,227,738,119"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="897,277,939,342"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="921,343,914,403,903,436,887,466,876,475,864,479,854,483,842,490,804,530,768,574,704,667,700,664,764,571,800,527,839,486,851,478,863,474,873,471,883,462,899,434,909,402,916,342"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="972,277,1003,342"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="991,342,986,424,977,472,960,518,909,611,845,697,776,774,708,841,704,838,772,771,841,693,904,608,956,516,972,471,981,423,986,342"/>
+</map>

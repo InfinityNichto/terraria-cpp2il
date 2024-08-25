@@ -1,0 +1,14 @@
+<map id="System.Security.Permissions.SecurityPermission" name="System.Security.Permissions.SecurityPermission">
+<area shape="rect" id="Node000001" title=" " alt="" coords="319,981,539,1423"/>
+<area shape="rect" id="Node000002" href="$da/d78/classSystem_1_1Security_1_1CodeAccessPermission.html" title=" " alt="" coords="5,269,319,919"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="312,930,334,980,330,982,308,932"/>
+<area shape="rect" id="Node000003" href="$dc/d96/interfaceSystem_1_1Security_1_1IPermission.html" title=" " alt="" coords="183,120,395,220"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,234,262,270,257,268,268,232"/>
+<area shape="rect" id="Node000004" href="$d1/d18/interfaceSystem_1_1Security_1_1ISecurityEncodable.html" title=" " alt="" coords="67,5,257,71"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="165,84,165,269,159,269,159,84"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,79,243,118,239,122,201,83"/>
+<area shape="rect" id="Node000005" href="$db/d2d/interfaceSystem_1_1Security_1_1Permissions_1_1IUnrestrictedPermission.html" title=" " alt="" coords="343,561,514,627"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="431,641,431,981,426,981,426,641"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="539,561,705,627"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="616,627,529,919,513,967,508,965,523,918,611,626"/>
+</map>

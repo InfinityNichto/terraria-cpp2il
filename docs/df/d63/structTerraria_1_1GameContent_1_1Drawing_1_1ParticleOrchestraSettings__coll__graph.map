@@ -1,0 +1,16 @@
+<map id="Terraria.GameContent.Drawing.ParticleOrchestraSettings" name="Terraria.GameContent.Drawing.ParticleOrchestraSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="313,1328,531,1457"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="33,276,277,1251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,1250,292,1302,303,1316,299,1319,288,1306,255,1253"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="280,678,290,692,298,711,304,763,300,805,290,835,285,833,295,803,299,763,292,713,285,695,276,681"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="11,133,174,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,212,107,275,101,276,95,213"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,85,95,133,90,133,90,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,133,241,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="219,199,212,260,207,259,213,199"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="407,731,437,796"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="425,796,425,1311,419,1311,419,796"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="555,731,598,796"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="587,796,602,888,608,950,611,1019,608,1092,598,1166,579,1238,550,1305,542,1317,538,1314,545,1303,574,1236,593,1165,603,1091,605,1019,603,951,597,889,581,797"/>
+</map>

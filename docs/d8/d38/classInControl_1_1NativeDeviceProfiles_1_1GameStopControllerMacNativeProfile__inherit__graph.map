@@ -1,0 +1,7 @@
+<map id="InControl.NativeDeviceProfiles.GameStopControllerMacNativeProfile" name="InControl.NativeDeviceProfiles.GameStopControllerMacNativeProfile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1596,263,1711"/>
+<area shape="rect" id="Node000002" href="$df/df8/classInControl_1_1NativeDeviceProfiles_1_1Xbox360DriverMacNativeProfile.html" title=" " alt="" coords="11,1463,257,1548"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,1562,137,1596,131,1596,131,1562"/>
+<area shape="rect" id="Node000003" href="$d0/de3/classInControl_1_1InputDeviceProfile.html" title=" " alt="" coords="9,5,259,1415"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,1429,137,1463,131,1463,131,1429"/>
+</map>

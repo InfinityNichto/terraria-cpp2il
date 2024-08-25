@@ -1,0 +1,7 @@
+<map id="Microsoft.Xna.Framework.GameWindow" name="Microsoft.Xna.Framework.GameWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,279,651"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="51,13,102,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,78,95,131,90,132,80,79"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="126,5,291,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,86,195,132,190,131,199,85"/>
+</map>

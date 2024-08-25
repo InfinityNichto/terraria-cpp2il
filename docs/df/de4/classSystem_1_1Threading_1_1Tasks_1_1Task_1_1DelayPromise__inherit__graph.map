@@ -1,0 +1,18 @@
+<map id="System.Threading.Tasks.Task&lt; TResult &gt;.DelayPromise" name="System.Threading.Tasks.Task&lt; TResult &gt;.DelayPromise">
+<area shape="rect" id="Node000001" title=" " alt="" coords="425,9487,650,9671"/>
+<area shape="rect" id="Node000002" href="$da/d81/classSystem_1_1Threading_1_1Tasks_1_1Task.html" title=" " alt="" coords="318,4820,757,9437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="540,9451,540,9487,535,9487,535,9451"/>
+<area shape="rect" id="Node000003" href="$d6/d20/interfaceSystem_1_1Threading_1_1IThreadPoolWorkItem.html" title=" " alt="" coords="28,5,258,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,119,131,155,80,855,43,1448,18,1970,9,2457,14,2943,36,3465,75,4058,131,4757,166,5092,212,5432,264,5766,321,6086,316,6087,259,5767,206,5432,161,5092,126,4758,69,4058,31,3465,9,2943,3,2457,13,1970,37,1448,75,854,126,154,130,118"/>
+<area shape="rect" id="Node000006" href="$da/d81/classSystem_1_1Threading_1_1Tasks_1_1Task.html" title=" " alt="" coords="140,155,578,4757"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="151,119,155,154,149,155,146,119"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="354,23,548,88"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="535,94,568,120,594,153,604,186,613,241,628,407,638,642,644,934,646,1643,639,2445,626,3249,612,3962,594,4757,593,4820,588,4820,588,4757,606,3962,621,3248,634,2445,641,1643,639,934,633,642,623,407,608,241,599,188,589,156,564,123,532,98"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="452,102,450,154,445,154,447,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="572,23,759,88"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="669,102,671,708,671,1840,662,3267,652,4019,638,4757,636,4820,631,4820,632,4757,647,4018,657,3267,666,1840,666,708,663,102"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="656,102,650,130,581,527,576,526,645,129,651,101"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="450,4771,452,4820,447,4820,445,4771"/>
+<area shape="rect" id="Node000007" href="$d6/d9c/classTask.html" title=" " alt="" coords="287,23,330,88"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="312,102,313,154,308,154,307,102"/>
+</map>

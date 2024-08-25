@@ -1,0 +1,7 @@
+<map id="Terraria.WorldBuilding.Actions.Count" name="Terraria.WorldBuilding.Actions.Count">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,569,222,713"/>
+<area shape="rect" id="Node000002" href="$db/d55/classTerraria_1_1WorldBuilding_1_1GenAction.html" title=" " alt="" coords="5,243,225,521"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,535,118,569,113,569,113,535"/>
+<area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="5,5,225,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,208,118,243,113,243,113,208"/>
+</map>

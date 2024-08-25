@@ -1,0 +1,33 @@
+<map id="System.ComponentModel.DelegatingTypeDescriptionProvider" name="System.ComponentModel.DelegatingTypeDescriptionProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="408,5639,673,6148"/>
+<area shape="rect" id="Node000002" href="$d2/d95/classSystem_1_1ComponentModel_1_1TypeDescriptionProvider.html" title=" " alt="" coords="216,3957,481,4639"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,4652,513,5638,507,5639,389,4653"/>
+<area shape="rect" id="Node000003" href="$d2/d95/classSystem_1_1ComponentModel_1_1TypeDescriptionProvider.html" title=" " alt="" coords="5,1733,271,2430"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,2430,317,3940,312,3940,168,2431"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="273,1947,283,1970,291,2000,297,2081,293,2151,280,2200,275,2199,288,2150,292,2081,286,2001,278,1972,268,1949"/>
+<area shape="rect" id="Node000004" href="$da/d1b/classSystem_1_1Type.html" title=" " alt="" coords="592,3020,1049,5576"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="599,5577,591,5623,585,5622,594,5576"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="1052,4123,1062,4157,1070,4197,1076,4298,1071,4388,1057,4458,1052,4457,1066,4387,1071,4298,1064,4198,1057,4158,1047,4124"/>
+<area shape="rect" id="Node000005" href="$d8/d11/classglobal_1_1SystemReflection_1_1MemberInfo.html" title=" " alt="" coords="445,2041,621,2121"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="541,2134,635,2898,651,3019,646,3020,630,2899,536,2135"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="645,2049,724,2114"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="686,2114,673,2442,661,2923,660,3004,655,3004,655,2923,668,2442,681,2114"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="799,2049,842,2114"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="823,2114,823,3003,818,3003,818,2114"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="884,2049,939,2114"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="914,2114,913,2469,909,2729,902,2996,902,3004,896,3004,897,2996,904,2729,908,2469,909,2114"/>
+<area shape="rect" id="Node000009" href="$d0/d8f/structSystem_1_1RuntimeTypeHandle.html" title=" " alt="" coords="963,1264,1313,2899"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="1024,2899,1009,3004,1003,3003,1018,2898"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="979,5,1169,85"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1078,99,1107,1201,1109,1264,1104,1264,1102,1201,1073,99"/>
+<area shape="rect" id="Node000011" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="1116,148,1448,1201"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="1094,98,1118,172,1113,174,1089,99"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="1231,1202,1226,1248,1221,1247,1225,1202"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="1450,591,1468,625,1475,675,1471,714,1460,745,1455,743,1465,713,1469,675,1463,627,1446,594"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1193,5,1373,85"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1286,99,1286,148,1280,148,1281,99"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1398,13,1561,78"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="1472,79,1455,133,1450,132,1467,77"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1337,2049,1387,2114"/>
+<area shape="poly" id="edge17_Node000004_Node000014" title=" " alt="" coords="1367,2114,1371,2241,1372,2435,1368,2547,1359,2665,1346,2784,1327,2899,1275,3123,1209,3346,1135,3563,1058,3765,1053,3763,1130,3561,1204,3345,1270,3121,1322,2898,1341,2783,1354,2665,1362,2547,1366,2435,1366,2241,1361,2114"/>
+</map>

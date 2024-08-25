@@ -1,0 +1,11 @@
+<map id="Interop.Sys.DirectoryEntry" name="Interop.Sys.DirectoryEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1169,232,1264"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,587,55,653"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,653,20,741,15,865,18,935,25,1006,39,1077,61,1144,66,1154,61,1156,56,1146,34,1078,20,1007,12,935,10,865,15,740,25,653"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="103,587,134,653"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,653,121,1153,116,1153,116,653"/>
+<area shape="rect" id="Node000004" href="$d0/d19/classInterop_1_1Sys.html" title=" " alt="" coords="158,133,431,1107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,1108,225,1147,216,1159,212,1156,220,1144,241,1106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="273,5,316,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="297,71,297,117,292,117,292,71"/>
+</map>

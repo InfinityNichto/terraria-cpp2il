@@ -1,0 +1,9 @@
+<map id="System.ComponentModel.CancelEventArgs" name="System.ComponentModel.CancelEventArgs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,153,344,303"/>
+<area shape="rect" id="Node000003" href="$d6/dc3/classSystem_1_1ComponentModel_1_1DoWorkEventArgs.html" title=" " alt="" coords="5,365,209,520"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,316,153,366,149,364,177,314"/>
+<area shape="rect" id="Node000004" href="$d8/de1/classSystem_1_1Configuration_1_1SettingChangingEventArgs.html" title=" " alt="" coords="234,351,469,535"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,313,301,349,296,352,276,316"/>
+<area shape="rect" id="Node000002" href="$d2/d76/classSystem_1_1EventArgs.html" title=" " alt="" coords="128,5,329,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,119,231,153,226,153,226,119"/>
+</map>

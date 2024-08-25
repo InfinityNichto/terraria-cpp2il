@@ -1,0 +1,9 @@
+<map id="Terraria.Net.Sockets.SocialSocket" name="Terraria.Net.Sockets.SocialSocket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,573,353,1295"/>
+<area shape="rect" id="Node000002" href="$d4/dcd/interfaceTerraria_1_1Net_1_1Sockets_1_1ISocket.html" title=" " alt="" coords="5,133,277,511"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,524,175,573,169,573,163,524"/>
+<area shape="rect" id="Node000003" href="$d2/d92/classTerraria_1_1Net_1_1RemoteAddress.html" title=" " alt="" coords="301,259,499,385"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="384,386,332,558,327,557,379,384"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="352,5,448,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="403,71,403,243,397,243,397,71"/>
+</map>

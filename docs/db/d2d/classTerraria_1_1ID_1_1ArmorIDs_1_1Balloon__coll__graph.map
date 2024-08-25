@@ -1,0 +1,7 @@
+<map id="Terraria.ID.ArmorIDs.Balloon" name="Terraria.ID.ArmorIDs.Balloon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,280,245,584"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,71,23,156,26,206,35,255,37,264,32,265,29,257,20,206,18,156,23,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="223,5,254,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,71,231,156,212,257,210,265,204,263,207,255,226,155,234,70"/>
+</map>

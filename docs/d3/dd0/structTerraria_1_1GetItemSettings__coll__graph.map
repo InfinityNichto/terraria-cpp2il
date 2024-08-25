@@ -1,0 +1,14 @@
+<map id="Terraria.GetItemSettings" name="Terraria.GetItemSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,713,481,927"/>
+<area shape="rect" id="Node000002" href="$d4/dc6/structTerraria_1_1GetItemSettings.html" title=" " alt="" coords="190,291,481,504"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,504,338,697,333,697,333,504"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="482,372,500,382,507,397,505,407,498,415,494,412,500,405,502,398,496,385,480,376"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,133,182,199"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="141,182,114,200,85,225,56,256,35,292,15,349,8,397,15,445,35,503,63,558,99,610,140,658,183,700,179,704,136,661,95,614,58,561,30,505,10,446,3,397,9,348,30,290,52,253,81,221,111,196,138,178"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="184,194,247,276,243,279,180,197"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="591,133,759,199"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="761,194,776,206,788,221,801,234,815,242,830,251,840,268,843,296,834,341,811,409,771,505,749,547,721,587,688,623,652,655,575,712,497,756,494,751,572,707,649,651,684,619,716,583,744,545,766,503,806,407,829,340,837,296,835,269,826,255,813,247,797,238,784,224,772,210,758,198"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="611,201,569,225,483,283,480,279,566,220,608,197"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="648,5,703,71"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="678,85,678,133,673,133,673,85"/>
+</map>

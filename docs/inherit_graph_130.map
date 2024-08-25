@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$de/d7b/classglobal_1_1SystemRuntime_1_1Remoting_1_1Messaging_1_1IMessageSink.html" title=" " alt="" coords="5,141,247,181"/>
+<area shape="rect" id="Node000001" href="$d0/d41/classSystem_1_1Runtime_1_1Remoting_1_1Channels_1_1CrossAppDomainSink.html" title=" " alt="" coords="295,5,522,45"/>
+<area shape="poly" id="edge2468_Node000000_Node000001" title=" " alt="" coords="164,131,223,92,294,55,325,43,327,48,296,60,226,97,167,136"/>
+<area shape="rect" id="Node000002" href="$d1/dc9/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1CrossContextChannel.html" title=" " alt="" coords="297,69,521,109"/>
+<area shape="poly" id="edge2469_Node000000_Node000002" title=" " alt="" coords="218,135,329,107,330,112,219,141"/>
+<area shape="rect" id="Node000003" href="$d8/d27/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1CrossContextChannel_1_1ContextRestoreSink.html" title=" " alt="" coords="295,134,523,189"/>
+<area shape="poly" id="edge2470_Node000000_Node000003" title=" " alt="" coords="260,159,294,159,294,164,260,164"/>
+<area shape="rect" id="Node000004" href="$d2/d2e/classSystem_1_1Runtime_1_1Remoting_1_1DisposerReplySink.html" title=" " alt="" coords="308,213,509,253"/>
+<area shape="poly" id="edge2471_Node000000_Node000004" title=" " alt="" coords="219,182,330,211,329,216,218,187"/>
+<area shape="rect" id="Node000005" href="$d8/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1LeaseSink.html" title=" " alt="" coords="308,277,509,317"/>
+<area shape="poly" id="edge2472_Node000000_Node000005" title=" " alt="" coords="167,187,226,226,296,263,327,275,325,280,294,268,223,230,164,191"/>
+</map>

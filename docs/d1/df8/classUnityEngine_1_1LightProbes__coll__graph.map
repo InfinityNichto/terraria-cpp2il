@@ -1,0 +1,20 @@
+<map id="UnityEngine.LightProbes" name="UnityEngine.LightProbes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="561,2633,803,2777"/>
+<area shape="rect" id="Node000002" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="442,1279,727,2556"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="668,2569,676,2633,671,2633,663,2570"/>
+<area shape="rect" id="Node000003" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,1201,443,1262,437,1263,424,1202"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="478,591,496,625,503,675,499,714,488,745,483,743,493,713,497,675,491,627,474,594"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,98,146,175,141,177,115,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="499,79,482,133,477,132,494,77"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="569,642,600,707"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="587,708,587,1263,582,1263,582,708"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="777,642,827,707"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="812,707,828,805,835,872,838,946,835,1024,825,1104,806,1182,775,1256,767,1265,758,1269,750,1273,743,1280,738,1287,734,1284,739,1277,747,1269,756,1265,764,1261,770,1253,801,1181,820,1103,830,1024,833,946,829,872,823,806,807,708"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="752,1885,807,1950"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="783,1950,785,2052,783,2203,770,2379,758,2469,742,2557,723,2619,718,2617,737,2555,753,2468,765,2378,777,2203,780,2052,778,1950"/>
+</map>

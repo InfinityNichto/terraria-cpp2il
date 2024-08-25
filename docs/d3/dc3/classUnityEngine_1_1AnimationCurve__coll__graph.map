@@ -1,0 +1,16 @@
+<map id="UnityEngine.AnimationCurve" name="UnityEngine.AnimationCurve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="165,1264,378,1716"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="13,642,231,707"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,720,233,1263,227,1264,128,721"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="5,13,180,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,92,123,642,118,642,92,92"/>
+<area shape="rect" id="Node000004" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="313,148,645,1201"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="347,1202,336,1249,330,1247,342,1201"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="648,591,665,625,672,675,668,714,657,745,652,743,663,713,667,675,660,627,643,594"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="204,5,395,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,98,331,147,326,148,312,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="419,5,599,85"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="509,99,507,148,501,147,504,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="623,13,786,78"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="696,79,653,197,648,195,691,77"/>
+</map>

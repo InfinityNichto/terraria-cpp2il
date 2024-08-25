@@ -1,0 +1,16 @@
+<map id="System.Security.Principal.WindowsImpersonationContext" name="System.Security.Principal.WindowsImpersonationContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,1264,499,1552"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,642,192,707"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,721,109,812,126,934,139,1001,157,1069,179,1136,206,1200,234,1247,268,1292,264,1295,230,1250,202,1203,174,1138,152,1071,134,1002,121,935,104,813,97,721"/>
+<area shape="rect" id="Node000003" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="217,148,549,1201"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="385,1202,385,1247,380,1247,380,1202"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="551,591,569,625,575,675,571,714,560,745,555,743,566,713,570,675,564,627,546,594"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="78,5,269,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="193,98,219,175,214,177,188,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="293,5,473,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="385,99,385,148,380,148,380,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="497,13,660,78"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="571,79,554,133,549,132,566,77"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="643,642,685,707"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="673,707,685,797,691,923,688,994,678,1066,660,1136,633,1203,610,1240,581,1275,548,1305,515,1333,511,1328,545,1301,577,1271,605,1237,628,1200,655,1134,673,1065,682,993,686,923,680,798,668,708"/>
+</map>

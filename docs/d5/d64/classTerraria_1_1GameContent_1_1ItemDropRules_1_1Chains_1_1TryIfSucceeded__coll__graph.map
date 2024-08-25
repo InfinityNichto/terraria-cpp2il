@@ -1,0 +1,11 @@
+<map id="Terraria.GameContent.ItemDropRules.Chains.TryIfSucceeded" name="Terraria.GameContent.ItemDropRules.Chains.TryIfSucceeded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="262,591,535,799"/>
+<area shape="rect" id="Node000002" href="$dd/daa/interfaceTerraria_1_1GameContent_1_1ItemDropRules_1_1IItemDropRuleChainAttempt.html" title=" " alt="" coords="5,330,259,489"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,497,304,589,300,592,213,501"/>
+<area shape="rect" id="Node000003" href="$de/dd1/interfaceTerraria_1_1GameContent_1_1ItemDropRules_1_1IItemDropRule.html" title=" " alt="" coords="283,291,514,528"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="401,528,401,574,396,574,396,528"/>
+<area shape="rect" id="Node000004" href="$de/dd1/interfaceTerraria_1_1GameContent_1_1ItemDropRules_1_1IItemDropRule.html" title=" " alt="" coords="283,5,514,228"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,242,401,290,396,290,396,242"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="539,377,581,442"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="559,443,547,503,536,536,521,568,515,578,510,575,516,565,531,534,541,501,554,442"/>
+</map>

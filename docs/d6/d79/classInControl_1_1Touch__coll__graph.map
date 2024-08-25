@@ -1,0 +1,23 @@
+<map id="InControl.Touch" name="InControl.Touch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="440,1221,675,1445"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="8,685,38,750"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="20,750,10,837,8,894,10,956,18,1020,34,1083,59,1143,96,1196,117,1213,148,1230,231,1261,328,1287,425,1307,424,1312,327,1292,229,1266,146,1235,114,1218,92,1199,55,1145,29,1085,13,1021,5,956,3,894,5,837,15,750"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="95,685,186,750"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,750,136,819,141,909,148,958,159,1007,177,1055,200,1099,222,1128,247,1156,304,1205,366,1246,427,1278,425,1283,363,1250,301,1209,243,1160,218,1132,195,1101,172,1057,154,1009,143,959,135,909,131,819,134,750"/>
+<area shape="rect" id="Node000004" href="$d2/d53/structUnityEngine_1_1Vector2.html" title=" " alt="" coords="210,335,417,1100"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="420,978,510,1205,505,1207,415,980"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="419,643,429,654,437,671,444,717,440,753,430,778,425,777,435,752,438,717,432,673,425,657,415,646"/>
+<area shape="rect" id="Node000005" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="38,148,200,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="146,224,174,276,200,334,213,366,208,368,195,336,169,278,142,226"/>
+<area shape="rect" id="Node000006" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="32,5,206,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="122,84,122,148,116,148,116,84"/>
+<area shape="rect" id="Node000007" href="$d7/dfc/interfaceSystem_1_1IFormattable.html" title=" " alt="" coords="225,133,461,228"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="342,242,337,335,332,334,337,242"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="551,148,594,213"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="596,204,611,226,623,251,626,281,623,311,624,446,629,561,640,756,642,850,638,951,627,1064,607,1198,605,1206,600,1205,602,1197,622,1064,633,950,636,850,634,756,623,561,619,446,618,311,621,281,618,253,607,229,592,207"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="552,195,516,219,481,254,452,297,427,343,422,341,448,294,477,250,513,215,550,191"/>
+<area shape="rect" id="Node000009" href="$d7/d2d/classulong.html" title=" " alt="" coords="852,685,903,750"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="884,750,888,817,886,907,881,956,871,1006,857,1055,836,1101,807,1146,771,1187,731,1224,690,1256,687,1252,728,1220,767,1184,802,1143,831,1099,852,1053,866,1005,876,956,881,907,883,817,879,750"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="941,685,1022,750"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="990,750,998,836,1000,893,997,955,989,1019,973,1083,948,1144,913,1199,891,1223,866,1244,811,1277,751,1301,692,1317,691,1312,749,1296,809,1272,863,1239,888,1219,909,1196,944,1141,968,1081,983,1018,992,954,994,893,993,836,984,751"/>
+</map>

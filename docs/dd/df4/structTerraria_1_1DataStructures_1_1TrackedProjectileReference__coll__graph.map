@@ -1,0 +1,20 @@
+<map id="Terraria.DataStructures.TrackedProjectileReference" name="Terraria.DataStructures.TrackedProjectileReference">
+<area shape="rect" id="Node000001" title=" " alt="" coords="382,261,682,797"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,197,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,197,371,390,368,394,137,201"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="409,5,439,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,41,345,43,282,50,215,67,182,80,152,97,133,114,119,135,114,132,129,111,149,92,180,75,213,62,281,45,345,37,395,36"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="221,133,421,199"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="396,50,360,67,343,80,329,96,322,114,320,133,315,133,317,113,324,93,339,76,357,63,394,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="446,133,618,199"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="453,52,478,70,502,93,524,132,519,134,498,96,475,74,450,57"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="643,133,795,199"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="454,38,497,41,551,50,608,67,663,92,684,110,702,131,698,135,681,114,660,97,607,72,550,56,496,47,453,43"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="342,197,376,255,371,258,337,200"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="535,199,535,245,529,245,529,199"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="705,200,680,248,675,246,700,197"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="819,133,1026,199"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="890,201,696,380,693,376,887,197"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="901,5,944,71"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="925,85,925,133,920,133,920,85"/>
+</map>

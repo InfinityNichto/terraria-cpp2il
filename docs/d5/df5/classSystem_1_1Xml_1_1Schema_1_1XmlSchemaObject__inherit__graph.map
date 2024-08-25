@@ -1,0 +1,39 @@
+<map id="System.Xml.Schema.XmlSchemaObject" name="System.Xml.Schema.XmlSchemaObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="795,5,1026,233"/>
+<area shape="rect" id="Node000002" href="$d4/da0/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaAnnotated.html" title=" " alt="" coords="795,281,1026,361"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="913,247,913,281,908,281,908,247"/>
+<area shape="rect" id="Node000003" href="$df/d68/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaAnyAttribute.html" title=" " alt="" coords="286,611,517,815"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="782,342,708,354,634,370,571,389,530,411,490,454,460,505,437,559,421,611,416,610,432,557,455,503,486,451,526,407,569,384,633,365,707,349,781,336"/>
+<area shape="rect" id="Node000004" href="$d2/d53/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaAttribute.html" title=" " alt="" coords="541,673,771,753"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="828,371,805,390,785,411,741,477,707,549,683,617,667,673,662,672,678,616,702,547,736,475,781,408,801,386,825,367"/>
+<area shape="rect" id="Node000005" href="$d4/dc9/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaParticle.html" title=" " alt="" coords="795,598,1026,827"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="913,375,913,598,908,598,908,375"/>
+<area shape="rect" id="Node000013" href="$dc/d5e/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaSimpleTypeContent.html" title=" " alt="" coords="1452,673,1695,753"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="990,366,1508,670,1506,675,987,370"/>
+<area shape="rect" id="Node000017" href="$d4/de1/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaType.html" title=" " alt="" coords="2117,409,2398,1016"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="1040,328,1209,340,1400,358,1579,380,1652,393,1707,407,1819,449,1928,501,2029,557,2118,611,2115,616,2027,562,1926,506,1817,454,1706,412,1651,398,1578,385,1400,363,1208,346,1040,333"/>
+<area shape="rect" id="Node000006" href="$d1/de6/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaAny.html" title=" " alt="" coords="5,1235,261,1444"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="891,841,875,889,853,938,823,982,784,1018,750,1040,717,1054,684,1062,652,1065,590,1059,529,1045,468,1031,406,1024,375,1026,342,1033,309,1046,275,1066,236,1101,204,1143,180,1189,162,1236,157,1234,175,1187,200,1140,232,1097,272,1062,307,1041,341,1028,374,1021,407,1019,469,1025,530,1040,591,1054,652,1060,683,1057,715,1049,748,1035,781,1014,819,978,848,935,870,888,886,839"/>
+<area shape="rect" id="Node000007" href="$d0/dc2/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaElement.html" title=" " alt="" coords="286,1299,517,1379"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="889,841,873,889,850,936,821,981,784,1018,751,1038,718,1047,686,1047,655,1043,625,1039,594,1039,562,1047,530,1066,503,1090,481,1119,446,1182,423,1246,410,1300,405,1299,418,1245,441,1180,477,1116,500,1087,526,1062,560,1042,593,1034,625,1034,656,1038,687,1042,717,1041,749,1033,781,1014,817,977,846,934,868,887,884,840"/>
+<area shape="rect" id="Node000008" href="$d6/dab/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaGroupBase.html" title=" " alt="" coords="541,1292,771,1387"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="862,841,677,1293,672,1291,857,839"/>
+<area shape="rect" id="Node000011" href="$dc/dbd/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaGroupRef.html" title=" " alt="" coords="795,1299,1026,1379"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="913,841,913,1299,908,1299,908,841"/>
+<area shape="rect" id="Node000012" href="$de/d59/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaParticle_1_1EmptyParticle.html" title=" " alt="" coords="1050,1299,1281,1379"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="965,839,1152,1298,1147,1300,960,841"/>
+<area shape="rect" id="Node000009" href="$df/de1/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaChoice.html" title=" " alt="" coords="413,1663,643,1792"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="639,1400,552,1663,547,1662,634,1399"/>
+<area shape="rect" id="Node000010" href="$de/d1a/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaSequence.html" title=" " alt="" coords="667,1663,898,1792"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="678,1399,764,1662,759,1663,673,1400"/>
+<area shape="rect" id="Node000014" href="$d3/d6a/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaSimpleTypeList.html" title=" " alt="" coords="1305,1230,1559,1449"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1564,767,1459,1230,1454,1229,1559,766"/>
+<area shape="rect" id="Node000015" href="$d7/d6f/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaSimpleTypeRestriction.html" title=" " alt="" coords="1584,1272,1845,1407"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="1588,766,1702,1271,1697,1273,1583,767"/>
+<area shape="rect" id="Node000016" href="$da/dcd/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaSimpleTypeUnion.html" title=" " alt="" coords="1870,1299,2101,1379"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="1622,761,1736,893,1800,976,1860,1063,1895,1125,1927,1190,1973,1298,1968,1300,1922,1192,1891,1128,1855,1065,1796,979,1732,896,1618,765"/>
+<area shape="rect" id="Node000018" href="$d3/d06/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaComplexType.html" title=" " alt="" coords="2125,1064,2390,1615"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="2260,1030,2260,1064,2255,1064,2255,1030"/>
+<area shape="rect" id="Node000019" href="$d4/dc2/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaSimpleType.html" title=" " alt="" coords="2414,1275,2647,1404"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="2398,1028,2505,1273,2500,1275,2393,1030"/>
+</map>

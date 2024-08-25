@@ -1,0 +1,7 @@
+<map id="Terraria.GameContent.Bestiary.NPCStatsReportInfoElement" name="Terraria.GameContent.Bestiary.NPCStatsReportInfoElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,133,370,695"/>
+<area shape="rect" id="Node000002" href="$d9/d8f/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiaryInfoElement.html" title=" " alt="" coords="5,5,231,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,97,149,132,144,134,132,99"/>
+<area shape="rect" id="Node000003" href="$dd/d40/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IUpdateBeforeSorting.html" title=" " alt="" coords="255,13,461,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="346,92,332,134,327,132,341,91"/>
+</map>

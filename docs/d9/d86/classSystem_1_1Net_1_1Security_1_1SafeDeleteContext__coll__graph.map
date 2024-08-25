@@ -1,0 +1,25 @@
+<map id="System.Net.Security.SafeDeleteContext" name="System.Net.Security.SafeDeleteContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="466,1963,693,2092"/>
+<area shape="rect" id="Node000002" href="$d5/db0/classSystem_1_1Runtime_1_1InteropServices_1_1SafeHandle.html" title=" " alt="" coords="457,1293,691,1741"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="579,1755,581,1962,576,1962,574,1755"/>
+<area shape="rect" id="Node000011" href="$dc/d2a/classSystem_1_1Net_1_1Security_1_1SafeFreeCredentials.html" title=" " alt="" coords="595,1791,774,1900"/>
+<area shape="poly" id="edge12_Node000011_Node000002" title=" " alt="" coords="657,1753,669,1790,664,1791,652,1755"/>
+<area shape="rect" id="Node000003" href="$dc/dcc/classglobal_1_1SystemRuntime_1_1ConstrainedExecution_1_1CriticalFinalizerObject.html" title=" " alt="" coords="5,627,172,722"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,736,92,831,105,951,117,1015,134,1079,157,1141,187,1200,214,1240,244,1277,314,1346,387,1404,458,1450,455,1455,384,1408,310,1350,240,1281,209,1243,182,1203,152,1144,129,1081,112,1016,99,951,86,831,84,736"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,642,383,707"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="297,721,308,811,327,932,357,1067,398,1200,426,1267,460,1332,455,1334,421,1269,393,1202,351,1068,322,933,302,812,292,722"/>
+<area shape="rect" id="Node000005" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="408,148,740,1201"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="577,1201,577,1277,571,1277,571,1201"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="742,591,760,625,767,675,763,714,752,745,747,743,757,713,761,675,755,627,738,594"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="269,5,460,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="384,98,410,175,405,177,379,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="484,5,664,85"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="577,99,577,148,571,148,571,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="689,13,851,78"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="763,79,746,133,741,132,758,77"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="833,642,864,707"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="856,707,865,795,870,920,867,990,859,1062,845,1133,824,1202,782,1265,703,1365,699,1362,778,1262,820,1200,840,1132,854,1061,861,989,864,920,860,795,851,708"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="929,642,971,707"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="960,707,977,807,985,876,988,952,986,1033,976,1115,956,1195,923,1271,903,1302,880,1331,826,1383,766,1427,706,1462,704,1457,763,1422,822,1379,876,1328,899,1299,918,1268,950,1193,971,1114,981,1032,983,952,979,876,972,808,955,708"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="655,1902,627,1950,623,1947,651,1899"/>
+</map>

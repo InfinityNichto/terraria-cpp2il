@@ -1,0 +1,10 @@
+<map id="System.ComponentModel.TypeDescriptor.ComNativeDescriptionProvider" name="System.ComponentModel.TypeDescriptor.ComNativeDescriptionProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,1525,483,1713"/>
+<area shape="rect" id="Node000002" href="$d2/d95/classSystem_1_1ComponentModel_1_1TypeDescriptionProvider.html" title=" " alt="" coords="5,780,271,1463"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,1448,284,1462,312,1524,307,1526,280,1464,274,1450"/>
+<area shape="rect" id="Node000003" href="$d2/d95/classSystem_1_1ComponentModel_1_1TypeDescriptionProvider.html" title=" " alt="" coords="5,5,271,703"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,703,141,763,135,763,135,703"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="273,292,291,316,297,354,294,382,284,404,279,402,289,381,292,354,286,318,269,295"/>
+<area shape="rect" id="Node000004" href="$d8/d66/interfaceSystem_1_1ComponentModel_1_1IComNativeDescriptorHandler.html" title=" " alt="" coords="295,839,547,1403"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="383,1404,368,1509,363,1508,378,1403"/>
+</map>

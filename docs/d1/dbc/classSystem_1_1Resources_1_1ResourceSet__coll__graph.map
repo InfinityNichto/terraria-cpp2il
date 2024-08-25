@@ -1,0 +1,13 @@
+<map id="System.Resources.ResourceSet" name="System.Resources.ResourceSet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="181,327,470,828"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,192,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,90,45,112,34,136,25,167,22,192,25,218,34,248,62,306,98,361,139,411,182,456,178,460,135,415,94,364,58,309,30,250,19,219,16,192,20,166,30,134,41,109,56,87"/>
+<area shape="rect" id="Node000004" href="$d7/d54/interfaceSystem_1_1Resources_1_1IResourceReader.html" title=" " alt="" coords="45,135,334,249"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="128,88,156,133,152,136,123,91"/>
+<area shape="rect" id="Node000003" href="$da/d15/classglobal_1_1SystemCollections_1_1IEnumerable.html" title=" " alt="" coords="249,5,431,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="347,99,349,135,350,230,348,326,342,326,345,230,344,135,342,99"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="291,97,250,136,246,132,288,93"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,248,234,310,229,312,207,250"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="410,159,497,225"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="445,226,416,312,411,310,440,224"/>
+</map>

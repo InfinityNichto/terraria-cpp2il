@@ -1,0 +1,32 @@
+<map id="System.Reflection.ExceptionHandlingClause" name="System.Reflection.ExceptionHandlingClause">
+<area shape="rect" id="Node000001" title=" " alt="" coords="771,5697,976,5797"/>
+<area shape="rect" id="Node000002" href="$da/d1b/classSystem_1_1Type.html" title=" " alt="" coords="258,3020,715,5576"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="718,5553,784,5672,792,5683,787,5686,779,5675,713,5555"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="718,4119,728,4153,736,4195,742,4298,737,4390,723,4462,718,4461,732,4390,737,4298,730,4196,723,4155,713,4120"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classglobal_1_1SystemReflection_1_1MemberInfo.html" title=" " alt="" coords="5,2041,181,2121"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,2134,135,2457,163,2676,196,2898,261,3255,255,3256,191,2899,157,2677,130,2458,96,2135"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="206,2049,285,2114"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,2114,245,2253,245,2470,252,2729,269,2996,270,3003,265,3004,264,2996,246,2730,239,2470,239,2253,242,2114"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="412,2049,455,2114"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="436,2114,432,2923,432,2996,432,3004,427,3004,427,2996,427,2923,430,2114"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="497,2049,551,2114"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="526,2114,515,2996,515,3004,509,3004,509,2996,521,2114"/>
+<area shape="rect" id="Node000007" href="$d0/d8f/structSystem_1_1RuntimeTypeHandle.html" title=" " alt="" coords="576,1264,925,2899"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="656,2899,643,3004,638,3003,651,2899"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="591,5,782,85"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="691,99,720,1201,722,1264,717,1264,715,1201,685,99"/>
+<area shape="rect" id="Node000009" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="729,148,1061,1201"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="706,98,731,172,726,174,701,99"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="843,1202,839,1248,833,1247,838,1202"/>
+<area shape="poly" id="edge13_Node000009_Node000009" title=" " alt="" coords="1063,591,1081,625,1087,675,1083,714,1072,745,1067,743,1078,713,1082,675,1076,627,1058,594"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="806,5,986,85"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="899,99,898,148,893,148,893,99"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1011,13,1173,78"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="1085,79,1068,133,1062,132,1080,77"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="949,2049,1000,2114"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="982,2114,997,2243,1003,2335,1006,2440,1003,2553,993,2670,972,2787,940,2900,920,2937,897,2962,872,2986,849,3021,782,3169,723,3323,718,3321,777,3167,844,3019,868,2983,893,2959,916,2934,935,2898,967,2786,987,2669,998,2553,1001,2440,998,2335,992,2244,977,2115"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="858,4265,889,4331"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="876,4331,876,5681,871,5681,871,4331"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="913,4265,1143,4331"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="1040,4330,1061,4414,1088,4541,1114,4701,1132,4885,1136,4983,1135,5084,1129,5186,1117,5288,1098,5389,1071,5488,1036,5584,990,5675,982,5687,978,5684,986,5672,1031,5582,1066,5486,1093,5388,1112,5287,1124,5186,1130,5084,1131,4984,1127,4886,1109,4702,1083,4542,1056,4416,1035,4332"/>
+</map>

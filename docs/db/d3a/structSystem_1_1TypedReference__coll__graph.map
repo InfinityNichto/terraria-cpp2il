@@ -1,0 +1,16 @@
+<map id="System.TypedReference" name="System.TypedReference">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,2961,449,3253"/>
+<area shape="rect" id="Node000002" href="$d0/d8f/structSystem_1_1RuntimeTypeHandle.html" title=" " alt="" coords="5,1264,355,2899"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,2899,277,2945,272,2945,267,2899"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="85,5,275,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,99,183,1264,177,1264,177,99"/>
+<area shape="rect" id="Node000004" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="223,148,555,1201"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="200,98,226,175,221,177,195,99"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="436,1201,451,1577,453,1787,451,2005,443,2229,427,2456,403,2680,369,2899,358,2946,353,2945,364,2898,398,2679,422,2455,437,2229,446,2005,448,1787,446,1577,430,1202"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="314,1202,307,1248,301,1247,308,1201"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="558,591,575,625,582,675,578,714,567,745,562,743,573,713,577,675,570,627,553,594"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="299,5,479,85"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="392,99,392,148,387,148,387,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="504,13,667,78"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="578,79,561,133,556,132,573,77"/>
+</map>

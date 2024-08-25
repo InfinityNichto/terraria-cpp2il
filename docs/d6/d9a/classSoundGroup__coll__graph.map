@@ -1,0 +1,21 @@
+<map id="SoundGroup" name="SoundGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2776,225,2841"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="82,642,133,707"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,707,118,2759,112,2759,105,707"/>
+<area shape="rect" id="Node000004" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="163,1279,449,2556"/>
+<area shape="poly" id="edge10_Node000004_Node000002" title=" " alt="" coords="110,707,117,936,128,1094,147,1254,163,1345,158,1346,142,1255,123,1094,112,936,105,708"/>
+<area shape="rect" id="Node000003" href="$d7/d98/classUnityEngine_1_1Audio_1_1AudioMixerGroup.html" title=" " alt="" coords="166,2633,377,2713"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,2715,166,2767,163,2763,224,2711"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="279,2570,276,2633,270,2633,273,2570"/>
+<area shape="rect" id="Node000005" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="164,148,496,1201"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="322,1201,321,1262,316,1262,317,1201"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="498,591,516,625,523,675,519,714,508,745,503,743,513,713,517,675,511,627,494,594"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="25,5,216,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="140,98,166,175,161,177,135,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="240,5,420,85"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="333,99,333,148,327,148,327,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="445,13,607,78"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="519,79,502,133,497,132,514,77"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="589,642,620,707"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="609,708,612,794,611,917,602,1059,593,1131,581,1202,556,1301,527,1401,457,1591,452,1589,522,1399,551,1300,575,1201,588,1130,597,1058,606,917,606,794,604,708"/>
+</map>

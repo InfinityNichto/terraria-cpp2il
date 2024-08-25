@@ -1,0 +1,11 @@
+<map id="System.Net.FixedSizeReadStream" name="System.Net.FixedSizeReadStream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="102,2979,330,3236"/>
+<area shape="rect" id="Node000002" href="$d5/d86/classSystem_1_1Net_1_1WebReadStream.html" title=" " alt="" coords="91,2059,341,2931"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,2944,219,2978,213,2978,213,2944"/>
+<area shape="rect" id="Node000003" href="$d6/dc1/classSystem_1_1IO_1_1Stream.html" title=" " alt="" coords="29,133,403,2011"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,2025,219,2059,213,2059,213,2025"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,208,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,99,119,133,113,133,110,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="232,13,419,78"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="323,92,319,133,313,133,318,92"/>
+</map>

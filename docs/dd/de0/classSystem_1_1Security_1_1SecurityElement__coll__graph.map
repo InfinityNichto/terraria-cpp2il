@@ -1,0 +1,9 @@
+<map id="System.Security.SecurityElement" name="System.Security.SecurityElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,221,239,1000"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,56,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,70,60,205,55,206,33,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="81,5,167,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,71,127,205,121,205,121,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="207,5,249,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,71,200,206,195,205,220,70"/>
+</map>

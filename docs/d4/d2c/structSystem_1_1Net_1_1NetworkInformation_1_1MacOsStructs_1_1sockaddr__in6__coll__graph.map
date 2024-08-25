@@ -1,0 +1,12 @@
+<map id="System.Net.NetworkInformation.MacOsStructs.sockaddr_in6" name="System.Net.NetworkInformation.MacOsStructs.sockaddr_in6">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,291,449,371"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,5,54,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="23,71,14,103,9,140,11,178,17,196,25,212,61,250,105,278,154,299,204,313,202,318,152,304,103,283,58,254,21,215,12,198,6,179,3,140,9,102,18,70"/>
+<area shape="rect" id="Node000005" href="$dc/d97/structSystem_1_1Net_1_1NetworkInformation_1_1MacOsStructs_1_1in6__addr.html" title=" " alt="" coords="127,133,357,213"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="56,51,168,122,165,127,53,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="381,141,436,206"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="396,207,362,277,357,275,391,205"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="477,141,516,206"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="492,207,481,239,461,268,445,283,441,279,457,265,476,236,487,205"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="257,213,282,265,289,276,284,279,277,268,252,215"/>
+</map>

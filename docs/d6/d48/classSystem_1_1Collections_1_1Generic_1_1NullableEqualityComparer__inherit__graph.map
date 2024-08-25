@@ -1,0 +1,13 @@
+<map id="System.Collections.Generic.NullableEqualityComparer&lt; T &gt;" name="System.Collections.Generic.NullableEqualityComparer&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,1203,266,1505"/>
+<area shape="rect" id="Node000002" href="$df/df3/classSystem_1_1Collections_1_1Generic_1_1EqualityComparer.html" title=" " alt="" coords="23,767,286,1153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,1167,157,1202,152,1202,152,1167"/>
+<area shape="rect" id="Node000003" href="$df/df3/classSystem_1_1Collections_1_1Generic_1_1EqualityComparer.html" title=" " alt="" coords="23,303,286,704"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="157,718,157,766,152,766,152,718"/>
+<area shape="rect" id="Node000004" href="$dc/d67/interfaceSystem_1_1Collections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="5,168,187,253"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,266,117,302,112,303,104,267"/>
+<area shape="rect" id="Node000005" href="$dc/d67/interfaceSystem_1_1Collections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="211,168,392,253"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="277,267,258,304,253,301,272,264"/>
+<area shape="rect" id="Node000006" href="$dc/d67/interfaceSystem_1_1Collections_1_1Generic_1_1IEqualityComparer.html" title=" " alt="" coords="203,5,400,105"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="304,119,304,168,299,168,299,119"/>
+</map>

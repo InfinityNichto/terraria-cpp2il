@@ -1,0 +1,19 @@
+<map id="System.Net.Cache.RequestCacheManager" name="System.Net.Cache.RequestCacheManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,611,401,795"/>
+<area shape="rect" id="Node000002" href="$dc/da1/classSystem_1_1Net_1_1Cache_1_1RequestCachingSectionInternal.html" title=" " alt="" coords="5,367,247,447"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,446,214,585,218,595,213,597,209,588,142,449"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="71,158,114,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,223,120,351,115,352,95,224"/>
+<area shape="rect" id="Node000004" href="$d8/dbf/classSystem_1_1Net_1_1Cache_1_1RequestCacheBinding.html" title=" " alt="" coords="287,311,575,504"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="407,505,391,547,371,588,365,598,360,595,366,585,386,545,402,503"/>
+<area shape="rect" id="Node000005" href="$d4/dc2/classSystem_1_1Net_1_1Cache_1_1RequestCache.html" title=" " alt="" coords="139,151,329,231"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="268,229,316,285,327,297,323,300,312,288,264,233"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="213,5,255,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="237,71,237,134,231,134,231,71"/>
+<area shape="rect" id="Node000007" href="$d3/d4b/classSystem_1_1Net_1_1Cache_1_1RequestCacheValidator.html" title=" " alt="" coords="353,151,544,231"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="448,231,443,294,438,294,443,231"/>
+<area shape="rect" id="Node000008" href="$d5/d69/classSystem_1_1Net_1_1Cache_1_1RequestCachePolicy.html" title=" " alt="" coords="569,133,771,248"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="619,250,578,289,564,302,560,298,575,285,615,246"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="599,5,741,71"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="673,71,673,117,667,117,667,71"/>
+</map>

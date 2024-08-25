@@ -1,0 +1,7 @@
+<map id="System.Collections.ArrayList.ArrayListEnumeratorSimple" name="System.Collections.ArrayList.ArrayListEnumeratorSimple">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,139,275,448"/>
+<area shape="rect" id="Node000002" href="$dd/dfa/interfaceSystem_1_1Collections_1_1IEnumerator.html" title=" " alt="" coords="5,5,143,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,103,110,137,105,139,92,105"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="167,15,347,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,95,225,140,220,138,237,93"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="System.Threading.Semaphore" name="System.Threading.Semaphore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="429,2409,678,2676"/>
+<area shape="rect" id="Node000002" href="$db/d04/classSystem_1_1Threading_1_1WaitHandle.html" title=" " alt="" coords="373,1396,733,2360"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="556,2373,556,2409,551,2409,551,2373"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,635,208,715"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,728,130,819,153,937,183,1069,223,1200,256,1290,294,1379,376,1551,371,1554,289,1381,251,1292,217,1202,178,1071,147,938,125,820,111,729"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="232,642,419,707"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="336,720,465,1395,459,1396,331,721"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="443,642,474,707"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="461,708,461,981,466,1174,479,1372,479,1379,474,1380,473,1372,461,1174,455,981,455,708"/>
+<area shape="rect" id="Node000006" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="498,148,830,1201"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="637,1202,623,1372,622,1380,617,1380,617,1372,632,1201"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="832,591,850,625,857,675,853,714,842,745,837,743,847,713,851,675,845,627,828,594"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="359,5,550,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="474,98,500,175,495,177,469,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="574,5,754,85"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="667,99,667,148,661,148,661,99"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="779,13,941,78"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="853,79,836,133,831,132,848,77"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="923,642,978,707"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="955,707,958,794,956,918,944,1060,932,1132,915,1202,881,1302,839,1402,793,1498,744,1588,739,1585,788,1495,834,1400,876,1301,909,1201,926,1131,938,1059,951,918,953,794,950,708"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1040,642,1083,707"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="1070,707,1084,820,1089,900,1091,989,1088,1084,1077,1183,1057,1280,1025,1373,1000,1425,971,1475,902,1570,826,1655,748,1729,744,1726,822,1651,898,1566,966,1472,996,1422,1020,1371,1052,1279,1072,1182,1083,1084,1086,989,1084,900,1078,821,1064,708"/>
+</map>

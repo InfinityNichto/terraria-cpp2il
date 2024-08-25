@@ -1,0 +1,15 @@
+<map id="System.Net.FtpMethodInfo" name="System.Net.FtpMethodInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="422,484,664,757"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="124,5,175,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,59,84,97,65,122,51,149,22,225,13,258,9,289,9,320,16,351,29,384,50,420,84,460,123,495,167,524,214,548,263,567,313,583,407,603,406,609,311,588,262,572,212,553,164,529,120,499,80,464,46,423,25,387,11,353,4,321,3,289,8,257,17,223,46,147,61,119,81,94,122,56"/>
+<area shape="rect" id="Node000005" href="$d5/d9c/classSystem_1_1Net_1_1FtpMethodInfo.html" title=" " alt="" coords="172,148,413,421"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="170,69,207,132,202,135,166,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="671,5,770,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="724,71,723,137,717,225,702,324,690,374,675,422,653,470,648,468,670,420,685,373,697,323,711,225,717,137,718,71"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="672,70,429,209,426,204,669,65"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="422,5,541,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="529,69,564,103,580,124,592,147,605,186,614,227,619,310,611,393,596,469,591,468,606,392,613,310,609,228,600,188,587,149,576,127,560,107,525,73"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="459,72,410,136,405,133,455,69"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="396,420,433,469,429,472,392,423"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="414,256,432,267,440,284,437,297,430,305,425,302,432,294,434,285,428,270,412,260"/>
+</map>

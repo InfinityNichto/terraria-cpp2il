@@ -1,0 +1,29 @@
+<map id="System.Xml.Schema.Datatype_token" name="System.Xml.Schema.Datatype_token">
+<area shape="rect" id="Node000001" title=" " alt="" coords="251,3596,493,3725"/>
+<area shape="rect" id="Node000007" href="$d1/df1/classSystem_1_1Xml_1_1Schema_1_1Datatype__NMTOKEN.html" title=" " alt="" coords="5,3773,219,3903"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="267,3735,208,3775,205,3771,264,3731"/>
+<area shape="rect" id="Node000009" href="$db/d22/classSystem_1_1Xml_1_1Schema_1_1Datatype__Name.html" title=" " alt="" coords="243,3798,501,3878"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="375,3739,375,3798,369,3798,369,3739"/>
+<area shape="rect" id="Node000014" href="$d3/d4e/classSystem_1_1Xml_1_1Schema_1_1Datatype__language.html" title=" " alt="" coords="525,3791,739,3885"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="479,3731,565,3788,562,3793,476,3735"/>
+<area shape="rect" id="Node000002" href="$da/d53/classSystem_1_1Xml_1_1Schema_1_1Datatype__normalizedString.html" title=" " alt="" coords="251,3433,493,3548"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,3562,375,3596,369,3596,369,3562"/>
+<area shape="rect" id="Node000003" href="$dc/d2f/classSystem_1_1Xml_1_1Schema_1_1Datatype__string.html" title=" " alt="" coords="243,3073,501,3385"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,3399,375,3433,369,3433,369,3399"/>
+<area shape="rect" id="Node000004" href="$d4/dd4/classSystem_1_1Xml_1_1Schema_1_1Datatype__anySimpleType.html" title=" " alt="" coords="243,2520,501,3025"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="375,3039,375,3073,369,3073,369,3039"/>
+<area shape="rect" id="Node000005" href="$d5/d91/classSystem_1_1Xml_1_1Schema_1_1DatatypeImplementation.html" title=" " alt="" coords="194,589,550,2472"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="375,2486,375,2520,369,2520,369,2486"/>
+<area shape="rect" id="Node000006" href="$d0/d13/classSystem_1_1Xml_1_1Schema_1_1XmlSchemaDatatype.html" title=" " alt="" coords="231,5,513,541"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="375,555,375,589,369,589,369,555"/>
+<area shape="rect" id="Node000008" href="$db/dd4/classSystem_1_1Xml_1_1Schema_1_1Datatype__ENUMERATION.html" title=" " alt="" coords="5,3990,219,4085"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="115,3917,115,3990,109,3990,109,3917"/>
+<area shape="rect" id="Node000010" href="$d4/df8/classSystem_1_1Xml_1_1Schema_1_1Datatype__NCName.html" title=" " alt="" coords="249,3951,495,4124"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="375,3892,375,3950,369,3950,369,3892"/>
+<area shape="rect" id="Node000011" href="$d8/d9e/classSystem_1_1Xml_1_1Schema_1_1Datatype__ENTITY.html" title=" " alt="" coords="17,4172,231,4301"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="255,4134,206,4174,202,4170,252,4130"/>
+<area shape="rect" id="Node000012" href="$d8/d3d/classSystem_1_1Xml_1_1Schema_1_1Datatype__ID.html" title=" " alt="" coords="255,4179,489,4294"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="375,4138,375,4179,369,4179,369,4138"/>
+<area shape="rect" id="Node000013" href="$db/d0d/classSystem_1_1Xml_1_1Schema_1_1Datatype__IDREF.html" title=" " alt="" coords="513,4172,727,4301"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="492,4130,542,4170,538,4174,489,4134"/>
+</map>

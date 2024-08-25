@@ -1,0 +1,8 @@
+<map id="GUIQuickActionButton" name="GUIQuickActionButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,280,421,1885"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="424,957,434,981,442,1010,448,1083,443,1145,431,1194,426,1192,438,1144,443,1083,436,1011,429,982,419,959"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="107,5,149,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,71,129,155,132,256,132,264,127,264,127,256,124,155,125,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="257,5,343,71"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="300,71,284,264,279,263,295,71"/>
+</map>

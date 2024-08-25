@@ -1,0 +1,17 @@
+<map id="UnityEngine.UI.RectMask2D" name="UnityEngine.UI.RectMask2D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,3819,509,4600"/>
+<area shape="rect" id="Node000002" href="$d4/d88/classUnityEngine_1_1EventSystems_1_1UIBehaviour.html" title=" " alt="" coords="23,3357,273,3771"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,3783,264,3871,259,3873,226,3784"/>
+<area shape="rect" id="Node000003" href="$d7/d59/classUnityEngine_1_1MonoBehaviour.html" title=" " alt="" coords="15,2181,281,3309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,3323,151,3357,145,3357,145,3323"/>
+<area shape="rect" id="Node000004" href="$d5/dca/classUnityEngine_1_1Behaviour.html" title=" " alt="" coords="53,2048,243,2133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,2147,151,2181,145,2181,145,2147"/>
+<area shape="rect" id="Node000005" href="$d7/ddf/classUnityEngine_1_1Component.html" title=" " alt="" coords="19,1455,277,2000"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="151,2014,151,2048,145,2048,145,2014"/>
+<area shape="rect" id="Node000006" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="5,5,291,1407"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="151,1420,151,1454,145,1454,145,1420"/>
+<area shape="rect" id="Node000007" href="$d8/dc6/interfaceUnityEngine_1_1UI_1_1IClipper.html" title=" " alt="" coords="297,3531,473,3597"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="388,3610,388,3818,383,3818,383,3610"/>
+<area shape="rect" id="Node000008" href="$d7/daa/interfaceUnityEngine_1_1ICanvasRaycastFilter.html" title=" " alt="" coords="498,3524,755,3604"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="610,3618,512,3878,507,3876,605,3616"/>
+</map>

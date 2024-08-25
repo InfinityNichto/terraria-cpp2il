@@ -1,0 +1,13 @@
+<map id="Terraria.Audio.SoundStyle" name="Terraria.Audio.SoundStyle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,637,375,887"/>
+<area shape="rect" id="Node000002" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom.html" title=" " alt="" coords="5,207,211,560"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,559,186,612,190,621,185,623,182,614,161,561"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="41,5,71,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="57,71,56,123,60,182,61,190,56,191,55,183,51,123,51,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="139,5,181,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="158,71,140,191,134,190,153,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="235,351,277,416"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="259,416,259,621,253,621,253,416"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="350,351,434,416"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="395,416,390,507,381,561,365,614,361,623,356,621,360,612,376,560,385,506,390,416"/>
+</map>

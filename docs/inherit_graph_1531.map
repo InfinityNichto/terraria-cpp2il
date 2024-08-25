@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d0/d2c/classSystem_1_1Configuration_1_1ConfigurationSectionGroup.html" title=" " alt="" coords="5,101,259,141"/>
+<area shape="rect" id="Node000001" href="$d1/d2b/classSystem_1_1Configuration_1_1ApplicationSettingsGroup.html" title=" " alt="" coords="307,5,545,45"/>
+<area shape="poly" id="edge3420_Node000000_Node000001" title=" " alt="" coords="196,94,306,55,346,43,348,48,307,60,198,99"/>
+<area shape="rect" id="Node000002" href="$d7/d6b/classSystem_1_1Configuration_1_1UserSettingsGroup.html" title=" " alt="" coords="328,69,524,109"/>
+<area shape="poly" id="edge3421_Node000000_Node000002" title=" " alt="" coords="272,103,328,97,328,103,273,109"/>
+<area shape="rect" id="Node000003" href="$de/dfd/classSystem_1_1Net_1_1Configuration_1_1MailSettingsSectionGroup.html" title=" " alt="" coords="329,133,523,173"/>
+<area shape="poly" id="edge3422_Node000000_Node000003" title=" " alt="" coords="273,134,330,140,329,146,272,139"/>
+<area shape="rect" id="Node000004" href="$d3/d91/classSystem_1_1Net_1_1Configuration_1_1NetSectionGroup.html" title=" " alt="" coords="329,197,523,237"/>
+<area shape="poly" id="edge3423_Node000000_Node000004" title=" " alt="" coords="198,144,307,183,348,195,346,200,306,188,196,149"/>
+</map>

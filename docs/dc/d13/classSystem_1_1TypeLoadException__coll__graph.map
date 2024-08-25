@@ -1,0 +1,11 @@
+<map id="System.TypeLoadException" name="System.TypeLoadException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,177,602,553"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,229,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,87,236,175,232,179,153,90"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="254,5,445,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="360,98,373,177,368,178,355,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="469,13,520,78"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="475,79,458,110,441,162,436,161,454,108,470,77"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="583,13,614,78"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="596,79,587,116,572,154,567,164,562,162,567,152,582,114,591,78"/>
+</map>

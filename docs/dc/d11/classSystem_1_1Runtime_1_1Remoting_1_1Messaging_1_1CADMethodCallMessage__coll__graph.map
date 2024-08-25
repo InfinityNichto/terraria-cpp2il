@@ -1,0 +1,16 @@
+<map id="System.Runtime.Remoting.Messaging.CADMethodCallMessage" name="System.Runtime.Remoting.Messaging.CADMethodCallMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,1020,418,1239"/>
+<area shape="rect" id="Node000002" href="$d8/df4/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1CADMessageBase.html" title=" " alt="" coords="33,291,339,957"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,970,268,1019,263,1020,253,971"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,141,60,206"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="43,206,61,266,63,274,58,276,55,267,38,207"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="93,141,135,206"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="116,206,118,266,119,274,114,275,113,267,110,206"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="264,5,295,71"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="277,71,244,275,239,274,272,70"/>
+<area shape="rect" id="Node000006" href="$dd/d9c/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1CADArgHolder.html" title=" " alt="" coords="399,133,592,213"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="296,47,420,123,417,127,293,51"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="438,216,394,251,353,292,352,295,347,291,349,289,390,247,434,211"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="363,591,414,657"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="390,657,381,789,370,873,354,958,340,1005,335,1004,349,957,365,873,376,789,385,657"/>
+</map>

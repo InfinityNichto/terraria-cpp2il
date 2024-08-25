@@ -1,0 +1,9 @@
+<map id="Terraria.WorldBuilding.WorldGenRange" name="Terraria.WorldBuilding.WorldGenRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,429,237,633"/>
+<area shape="rect" id="Node000002" href="$dd/dd7/classTerraria_1_1WorldBuilding_1_1WorldGenRange.html" title=" " alt="" coords="161,148,393,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,354,188,416,184,413,218,351"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="395,225,413,234,420,250,417,260,410,268,406,264,413,258,415,250,409,238,393,230"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="62,5,93,71"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="77,71,71,148,64,250,65,295,71,352,84,413,78,414,65,352,59,295,59,250,65,148,71,70"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="95,54,172,134,168,138,91,57"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="System.Net.WebClient" name="System.Net.WebClient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,808,479,3492"/>
+<area shape="rect" id="Node000002" href="$d3/d9f/classSystem_1_1ComponentModel_1_1Component.html" title=" " alt="" coords="204,351,420,760"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,774,315,808,309,808,309,774"/>
+<area shape="rect" id="Node000003" href="$d9/d0e/classSystem_1_1MarshalByRefObject.html" title=" " alt="" coords="5,119,275,303"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,314,212,349,207,352,189,316"/>
+<area shape="rect" id="Node000004" href="$d5/dbe/interfaceSystem_1_1ComponentModel_1_1IComponent.html" title=" " alt="" coords="349,178,443,243"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="388,257,365,351,359,350,382,256"/>
+<area shape="rect" id="Node000005" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="292,5,415,71"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="346,84,340,119,328,235,321,350,315,350,323,235,335,118,341,84"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="367,84,391,177,386,179,362,85"/>
+</map>

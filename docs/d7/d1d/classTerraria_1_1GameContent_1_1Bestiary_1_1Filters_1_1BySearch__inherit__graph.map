@@ -1,0 +1,16 @@
+<map id="Terraria.GameContent.Bestiary.Filters.BySearch" name="Terraria.GameContent.Bestiary.Filters.BySearch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,584,293,843"/>
+<area shape="rect" id="Node000002" href="$d2/d73/interfaceTerraria_1_1GameContent_1_1Bestiary_1_1IBestiaryEntryFilter.html" title=" " alt="" coords="105,462,265,527"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,541,187,584,182,584,182,541"/>
+<area shape="rect" id="Node000003" href="$d1/dfd/interfaceTerraria_1_1DataStructures_1_1IEntryFilter.html" title=" " alt="" coords="5,237,220,392"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="94,406,89,469,90,502,95,534,112,583,107,584,90,535,85,503,83,469,89,405"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,404,174,461,169,463,146,406"/>
+<area shape="rect" id="Node000004" href="$d1/dfd/interfaceTerraria_1_1DataStructures_1_1IEntryFilter.html" title=" " alt="" coords="5,5,220,175"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,189,115,237,110,237,110,189"/>
+<area shape="rect" id="Node000005" href="$de/d3a/interfaceTerraria_1_1DataStructures_1_1ISearchFilter.html" title=" " alt="" coords="289,455,502,535"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="349,547,295,602,292,599,346,543"/>
+<area shape="rect" id="Node000006" href="$de/d3a/interfaceTerraria_1_1DataStructures_1_1ISearchFilter.html" title=" " alt="" coords="311,267,479,362"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="398,376,398,455,393,455,393,376"/>
+<area shape="rect" id="Node000007" href="$d1/dfd/interfaceTerraria_1_1DataStructures_1_1IEntryFilter.html" title=" " alt="" coords="288,13,503,167"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="398,181,398,267,393,267,393,181"/>
+</map>

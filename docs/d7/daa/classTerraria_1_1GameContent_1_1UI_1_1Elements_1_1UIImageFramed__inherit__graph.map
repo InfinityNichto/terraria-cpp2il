@@ -1,0 +1,9 @@
+<map id="Terraria.GameContent.UI.Elements.UIImageFramed" name="Terraria.GameContent.UI.Elements.UIImageFramed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,1553,387,1935"/>
+<area shape="rect" id="Node000002" href="$d7/d72/classTerraria_1_1UI_1_1UIElement.html" title=" " alt="" coords="5,139,284,1505"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,1519,232,1553,227,1553,223,1520"/>
+<area shape="rect" id="Node000003" href="$d3/ddf/interfaceSystem_1_1IComparable.html" title=" " alt="" coords="46,5,243,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,104,147,139,142,139,142,104"/>
+<area shape="rect" id="Node000004" href="$d5/dd5/interfaceTerraria_1_1GameContent_1_1UI_1_1Elements_1_1IColorable.html" title=" " alt="" coords="309,789,410,855"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,869,339,1139,322,1321,299,1506,292,1554,287,1553,294,1505,317,1320,334,1138,354,868"/>
+</map>

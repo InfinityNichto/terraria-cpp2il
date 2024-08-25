@@ -1,0 +1,14 @@
+<map id="System.Net.FileWebResponse" name="System.Net.FileWebResponse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="398,857,703,1537"/>
+<area shape="rect" id="Node000002" href="$d9/d91/classSystem_1_1Net_1_1WebResponse.html" title=" " alt="" coords="207,237,513,809"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,822,457,856,452,858,442,823"/>
+<area shape="rect" id="Node000003" href="$d9/d0e/classSystem_1_1MarshalByRefObject.html" title=" " alt="" coords="5,5,275,189"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,200,214,236,210,238,191,203"/>
+<area shape="rect" id="Node000004" href="$d6/d2f/interfaceSystem_1_1Runtime_1_1Serialization_1_1ISerializable.html" title=" " alt="" coords="446,50,655,145"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="553,158,553,857,548,857,548,158"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="527,159,491,238,486,236,522,156"/>
+<area shape="rect" id="Node000005" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="299,65,421,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="363,144,363,237,357,237,357,144"/>
+<area shape="rect" id="Node000006" href="$d3/d16/interfaceSystem_1_1Net_1_1ICloseEx.html" title=" " alt="" coords="589,483,793,563"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="682,577,624,858,619,857,677,576"/>
+</map>

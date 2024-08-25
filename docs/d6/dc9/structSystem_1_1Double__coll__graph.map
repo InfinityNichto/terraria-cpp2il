@@ -1,0 +1,17 @@
+<map id="System.Double" name="System.Double">
+<area shape="rect" id="Node000001" title=" " alt="" coords="578,251,934,2033"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,200,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,88,580,841,575,843,126,91"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="225,13,415,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="340,90,580,693,575,695,335,92"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="440,13,635,78"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="549,91,581,250,575,251,544,92"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="659,5,853,85"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="759,99,759,250,753,250,753,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="878,5,1058,85"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="960,100,931,251,926,250,955,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1083,13,1309,78"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1181,92,937,699,932,697,1176,90"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1333,13,1392,78"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1347,80,944,806,940,804,1343,77"/>
+</map>

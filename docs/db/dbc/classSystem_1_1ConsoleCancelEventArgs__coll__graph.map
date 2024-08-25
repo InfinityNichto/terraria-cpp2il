@@ -1,0 +1,11 @@
+<map id="System.ConsoleCancelEventArgs" name="System.ConsoleCancelEventArgs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,261,419,376"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,133,183,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,205,226,259,222,263,147,209"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="207,133,397,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="305,199,305,245,299,245,299,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="421,133,537,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="444,201,383,253,379,249,440,197"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="458,5,501,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="482,85,482,133,477,133,477,85"/>
+</map>

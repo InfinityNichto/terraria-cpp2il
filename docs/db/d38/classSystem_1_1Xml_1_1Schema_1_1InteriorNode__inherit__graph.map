@@ -1,0 +1,15 @@
+<map id="System.Xml.Schema.InteriorNode" name="System.Xml.Schema.InteriorNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="529,237,821,461"/>
+<area shape="rect" id="Node000003" href="$d2/d8b/classSystem_1_1Xml_1_1Schema_1_1ChoiceNode.html" title=" " alt="" coords="5,509,297,737"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="518,413,414,459,310,512,299,518,296,513,307,507,411,454,515,408"/>
+<area shape="rect" id="Node000004" href="$dc/df4/classSystem_1_1Xml_1_1Schema_1_1PlusNode.html" title=" " alt="" coords="321,566,536,681"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="567,473,482,568,478,564,563,470"/>
+<area shape="rect" id="Node000005" href="$d3/d34/classSystem_1_1Xml_1_1Schema_1_1QmarkNode.html" title=" " alt="" coords="560,566,791,681"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="678,475,678,566,673,566,673,475"/>
+<area shape="rect" id="Node000006" href="$d2/d25/classSystem_1_1Xml_1_1Schema_1_1SequenceNode.html" title=" " alt="" coords="815,541,1107,705"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="804,469,877,539,874,543,800,473"/>
+<area shape="rect" id="Node000007" href="$d7/dc2/classSystem_1_1Xml_1_1Schema_1_1StarNode.html" title=" " alt="" coords="1131,566,1345,681"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="835,387,905,410,978,437,1051,469,1121,507,1157,534,1190,564,1186,568,1154,538,1118,512,1049,474,976,442,903,415,834,393"/>
+<area shape="rect" id="Node000002" href="$db/de8/classSystem_1_1Xml_1_1Schema_1_1SyntaxTreeNode.html" title=" " alt="" coords="555,5,795,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="678,203,678,237,673,237,673,203"/>
+</map>

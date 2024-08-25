@@ -1,0 +1,9 @@
+<map id="System.Globalization.InternalCodePageDataItem" name="System.Globalization.InternalCodePageDataItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,148,297,228"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,60,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,70,46,97,60,122,79,139,75,143,56,126,41,100,33,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="175,5,213,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,71,197,131,191,131,191,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="246,5,297,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,72,244,125,238,136,233,133,240,123,261,70"/>
+</map>

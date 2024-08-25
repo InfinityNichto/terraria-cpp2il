@@ -1,0 +1,9 @@
+<map id="System.TimeZoneInfo.AdjustmentRule" name="System.TimeZoneInfo.AdjustmentRule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,148,571,1593"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,231,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,112,147,147,142,149,132,114"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="255,13,445,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="353,106,353,148,347,148,347,106"/>
+<area shape="rect" id="Node000004" href="$d0/d59/classglobal_1_1SystemRuntime_1_1Serialization_1_1IDeserializationCallback.html" title=" " alt="" coords="470,5,683,100"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="563,114,553,149,548,147,558,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="InControl.InputControlState" name="InControl.InputControlState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,228,456"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="55,5,98,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,71,81,124,82,131,76,132,75,124,73,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,5,178,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,71,145,132,140,132,149,70"/>
+</map>

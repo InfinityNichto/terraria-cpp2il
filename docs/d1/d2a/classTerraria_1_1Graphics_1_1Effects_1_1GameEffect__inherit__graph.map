@@ -1,0 +1,37 @@
+<map id="Terraria.Graphics.Effects.GameEffect" name="Terraria.Graphics.Effects.GameEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2540,5,2725,309"/>
+<area shape="rect" id="Node000002" href="$d7/da8/classTerraria_1_1Graphics_1_1Effects_1_1CustomSky.html" title=" " alt="" coords="1689,402,1905,681"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2529,209,1906,493,1904,488,2526,204"/>
+<area shape="rect" id="Node000016" href="$de/d0d/classTerraria_1_1Graphics_1_1Effects_1_1Filter.html" title=" " alt="" coords="2506,357,2759,725"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2635,323,2635,357,2630,357,2630,323"/>
+<area shape="rect" id="Node000017" href="$d4/d6f/classTerraria_1_1Graphics_1_1Effects_1_1Overlay.html" title=" " alt="" coords="3073,432,3259,651"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2738,231,3075,472,3072,476,2735,235"/>
+<area shape="rect" id="Node000003" href="$da/db7/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky.html" title=" " alt="" coords="5,848,236,1339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1675,548,1346,563,1139,579,923,600,712,630,520,668,435,691,361,716,299,744,250,775,216,809,189,849,184,846,212,806,247,771,296,740,359,711,434,686,519,663,711,624,922,595,1139,573,1346,558,1675,543"/>
+<area shape="rect" id="Node000004" href="$df/d18/classTerraria_1_1GameContent_1_1Skies_1_1BlizzardSky.html" title=" " alt="" coords="261,902,461,1285"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1675,551,1390,572,1214,589,1033,612,856,642,697,678,627,700,565,723,514,748,474,775,448,802,426,833,408,867,394,903,389,901,403,865,422,830,444,799,471,771,511,743,563,718,625,695,695,673,855,636,1032,607,1214,584,1389,566,1675,546"/>
+<area shape="rect" id="Node000005" href="$d5/d43/classTerraria_1_1GameContent_1_1Skies_1_1CreditsRollSky.html" title=" " alt="" coords="485,823,722,1364"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1675,557,1444,586,1307,607,1166,632,1030,661,907,695,806,733,767,754,736,775,712,798,691,824,687,821,708,795,732,771,764,749,804,728,905,690,1028,656,1165,627,1306,602,1443,581,1675,552"/>
+<area shape="rect" id="Node000006" href="$d6/d62/classTerraria_1_1GameContent_1_1Skies_1_1LanternSky.html" title=" " alt="" coords="747,788,1047,1399"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1675,555,1537,576,1458,593,1376,615,1292,644,1210,680,1132,723,1061,775,1045,790,1042,786,1058,771,1129,719,1208,675,1290,639,1374,610,1457,587,1536,570,1674,549"/>
+<area shape="rect" id="Node000007" href="$da/dfe/classTerraria_1_1GameContent_1_1Skies_1_1MartianSky.html" title=" " alt="" coords="1071,882,1271,1305"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1676,571,1581,599,1476,642,1424,669,1374,700,1327,735,1285,775,1248,826,1220,883,1216,881,1244,823,1281,772,1324,731,1371,695,1422,664,1474,637,1579,594,1675,565"/>
+<area shape="rect" id="Node000008" href="$d2/d02/classTerraria_1_1GameContent_1_1Skies_1_1MoonLordSky.html" title=" " alt="" coords="1295,845,1522,1342"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1680,629,1604,696,1568,734,1536,775,1494,846,1490,843,1532,772,1564,731,1600,692,1676,625"/>
+<area shape="rect" id="Node000009" href="$d9/dd1/classTerraria_1_1GameContent_1_1Skies_1_1NebulaSky.html" title=" " alt="" coords="1546,773,1773,1413"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1761,695,1742,774,1737,772,1756,694"/>
+<area shape="rect" id="Node000010" href="$de/d96/classTerraria_1_1GameContent_1_1Skies_1_1PartySky.html" title=" " alt="" coords="1797,810,2071,1377"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1837,693,1866,809,1861,810,1832,695"/>
+<area shape="rect" id="Node000011" href="$db/d69/classTerraria_1_1GameContent_1_1Skies_1_1SandstormSky.html" title=" " alt="" coords="2094,902,2294,1285"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1918,614,2006,685,2048,726,2084,772,2121,834,2149,901,2144,903,2116,836,2080,775,2044,730,2002,689,1914,618"/>
+<area shape="rect" id="Node000012" href="$d7/d59/classTerraria_1_1GameContent_1_1Skies_1_1SlimeSky.html" title=" " alt="" coords="2318,865,2518,1322"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="1919,566,2013,595,2117,638,2169,665,2219,696,2266,731,2308,772,2341,815,2366,863,2362,866,2336,818,2304,775,2263,735,2216,700,2167,669,2115,642,2012,600,1917,571"/>
+<area shape="rect" id="Node000013" href="$df/d48/classTerraria_1_1GameContent_1_1Skies_1_1SolarSky.html" title=" " alt="" coords="2542,791,2787,1396"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="1919,548,2058,567,2137,584,2220,606,2304,635,2385,672,2462,717,2532,771,2549,789,2545,792,2528,775,2459,722,2383,677,2302,640,2219,611,2136,589,2057,572,1918,553"/>
+<area shape="rect" id="Node000014" href="$de/df7/classTerraria_1_1GameContent_1_1Skies_1_1StardustSky.html" title=" " alt="" coords="2811,791,3038,1396"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="1919,576,2182,648,2338,687,2494,723,2542,729,2583,730,2657,725,2691,725,2726,731,2762,745,2801,771,2820,788,2816,792,2798,775,2760,750,2725,736,2691,730,2657,730,2583,735,2541,735,2494,728,2337,693,2181,653,1918,581"/>
+<area shape="rect" id="Node000015" href="$d5/d65/classTerraria_1_1GameContent_1_1Skies_1_1VortexSky.html" title=" " alt="" coords="3062,795,3289,1391"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="1918,579,2181,653,2337,691,2494,723,2549,728,2618,729,2781,727,2863,728,2939,735,3003,748,3030,758,3052,771,3076,793,3073,797,3048,775,3028,763,3002,753,2938,740,2862,734,2781,732,2618,734,2549,733,2494,728,2336,696,2180,658,1917,584"/>
+<area shape="rect" id="Node000018" href="$db/d3b/classTerraria_1_1Graphics_1_1Effects_1_1SimpleOverlay.html" title=" " alt="" coords="3313,853,3598,1333"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="3241,661,3303,772,3344,852,3339,854,3298,775,3236,664"/>
+</map>

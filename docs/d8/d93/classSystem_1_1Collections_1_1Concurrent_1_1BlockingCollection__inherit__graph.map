@@ -1,0 +1,20 @@
+<map id="System.Collections.Concurrent.BlockingCollection&lt; T &gt;" name="System.Collections.Concurrent.BlockingCollection&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,497,556,1533"/>
+<area shape="rect" id="Node000008" href="$d9/d7f/classSystem_1_1Collections_1_1Concurrent_1_1BlockingCollection.html" title=" " alt="" coords="207,1596,556,2632"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="384,1547,384,1596,379,1596,379,1547"/>
+<area shape="rect" id="Node000002" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="5,5,227,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,84,124,200,126,325,131,379,144,447,173,548,209,648,204,650,168,550,139,449,125,380,121,325,119,200,114,84"/>
+<area shape="rect" id="Node000007" href="$d0/d3a/interfaceSystem_1_1Collections_1_1Generic_1_1IReadOnlyCollection.html" title=" " alt="" coords="134,120,343,200"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="160,78,201,118,197,122,156,82"/>
+<area shape="rect" id="Node000003" href="$d4/da3/interfaceSystem_1_1Collections_1_1IEnumerable.html" title=" " alt="" coords="271,5,492,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="384,85,384,497,379,497,379,85"/>
+<area shape="rect" id="Node000004" href="$d8/dc8/interfaceSystem_1_1Collections_1_1ICollection.html" title=" " alt="" coords="402,224,569,359"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="402,82,460,223,455,225,397,85"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="335,81,287,122,283,118,332,77"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="462,373,460,383,438,498,433,497,455,382,457,371"/>
+<area shape="rect" id="Node000005" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="469,383,592,448"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="522,462,513,498,508,497,517,461"/>
+<area shape="rect" id="Node000006" href="$d0/d3a/interfaceSystem_1_1Collections_1_1Generic_1_1IReadOnlyCollection.html" title=" " alt="" coords="153,383,337,448"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="258,461,266,497,261,498,253,462"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="243,214,247,383,242,383,237,214"/>
+</map>

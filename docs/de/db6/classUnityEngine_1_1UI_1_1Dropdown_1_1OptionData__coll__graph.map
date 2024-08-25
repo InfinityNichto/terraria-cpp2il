@@ -1,0 +1,21 @@
+<map id="UnityEngine.UI.Dropdown.OptionData" name="UnityEngine.UI.Dropdown.OptionData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,3399,191,3603"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="65,642,115,707"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,708,100,3382,95,3382,87,708"/>
+<area shape="rect" id="Node000004" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="146,1279,431,2556"/>
+<area shape="poly" id="edge10_Node000004_Node000002" title=" " alt="" coords="93,707,100,936,111,1094,130,1254,145,1345,140,1346,125,1255,106,1094,94,936,87,708"/>
+<area shape="rect" id="Node000003" href="$dc/d72/classUnityEngine_1_1Sprite.html" title=" " alt="" coords="140,2619,384,3336"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,3337,137,3384,132,3382,147,3335"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="275,2570,274,2618,268,2618,270,2570"/>
+<area shape="rect" id="Node000005" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="147,148,479,1201"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="305,1201,304,1262,299,1262,300,1201"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="481,591,499,625,505,675,501,714,490,745,485,743,496,713,500,675,494,627,476,594"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="8,5,199,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="123,98,149,175,144,177,118,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="223,5,403,85"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="315,99,315,148,310,148,310,99"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="427,13,590,78"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="501,79,484,133,479,132,496,77"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="572,642,603,707"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="592,708,594,794,594,917,585,1059,576,1131,563,1202,539,1301,509,1401,440,1591,435,1589,504,1399,534,1300,558,1201,570,1130,579,1058,588,917,589,794,586,708"/>
+</map>

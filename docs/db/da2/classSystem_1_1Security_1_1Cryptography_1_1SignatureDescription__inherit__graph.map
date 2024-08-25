@@ -1,0 +1,15 @@
+<map id="System.Security.Cryptography.SignatureDescription" name="System.Security.Cryptography.SignatureDescription">
+<area shape="rect" id="Node000001" title=" " alt="" coords="346,5,582,393"/>
+<area shape="rect" id="Node000002" href="$d1/dce/classSystem_1_1Security_1_1Cryptography_1_1DSASignatureDescription.html" title=" " alt="" coords="234,505,446,585"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="392,407,357,506,352,504,387,405"/>
+<area shape="rect" id="Node000003" href="$d1/d96/classSystem_1_1Security_1_1Cryptography_1_1RSAPKCS1SignatureDescription.html" title=" " alt="" coords="470,441,706,649"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="541,405,553,440,548,442,536,407"/>
+<area shape="rect" id="Node000004" href="$d9/d5c/classSystem_1_1Security_1_1Cryptography_1_1RSAPKCS1SHA1SignatureDescription.html" title=" " alt="" coords="5,705,283,785"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="459,651,458,652,415,671,379,681,295,700,271,707,270,702,294,695,377,676,413,666,456,647,457,647"/>
+<area shape="rect" id="Node000005" href="$d1/d79/classSystem_1_1Security_1_1Cryptography_1_1RSAPKCS1SHA256SignatureDescription.html" title=" " alt="" coords="307,697,576,792"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="505,662,478,699,474,696,501,659"/>
+<area shape="rect" id="Node000006" href="$d9/d6a/classSystem_1_1Security_1_1Cryptography_1_1RSAPKCS1SHA384SignatureDescription.html" title=" " alt="" coords="600,697,869,792"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="675,659,702,696,698,699,671,662"/>
+<area shape="rect" id="Node000007" href="$d8/df3/classSystem_1_1Security_1_1Cryptography_1_1RSAPKCS1SHA512SignatureDescription.html" title=" " alt="" coords="893,697,1163,792"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="720,603,926,695,924,700,718,608"/>
+</map>

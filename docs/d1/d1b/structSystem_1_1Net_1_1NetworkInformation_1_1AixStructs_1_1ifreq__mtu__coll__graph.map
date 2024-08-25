@@ -1,0 +1,9 @@
+<map id="System.Net.NetworkInformation.AixStructs.ifreq_mtu" name="System.Net.NetworkInformation.AixStructs.ifreq_mtu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,276,235,356"/>
+<area shape="rect" id="Node000002" href="$d2/d37/structSystem_1_1Net_1_1NetworkInformation_1_1AixStructs_1_1ifreq__mtu.html" title=" " alt="" coords="152,133,381,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,216,174,267,171,263,224,212"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="382,159,400,164,408,173,399,183,395,179,403,173,397,169,381,165"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="63,5,94,71"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="74,72,66,137,67,175,72,213,90,261,85,262,67,214,61,176,61,137,69,71"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="96,48,200,122,197,126,93,52"/>
+</map>

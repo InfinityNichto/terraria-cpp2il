@@ -1,0 +1,28 @@
+<map id="GUILicenseCheck" name="GUILicenseCheck">
+<area shape="rect" id="Node000001" title=" " alt="" coords="423,2869,626,2995"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="247,642,290,707"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,708,215,828,153,1021,121,1140,89,1271,60,1412,36,1561,19,1715,10,1874,10,2035,23,2195,50,2353,69,2430,92,2506,119,2580,151,2652,188,2723,230,2790,265,2831,310,2863,359,2887,408,2905,407,2910,357,2892,307,2867,262,2835,225,2794,183,2725,146,2655,114,2582,87,2507,64,2431,44,2354,18,2195,5,2035,4,1874,13,1715,31,1560,55,1411,84,1269,116,1138,148,1019,210,826,254,707"/>
+<area shape="rect" id="Node000005" href="$d7/d2b/classUnityEngine_1_1AndroidJavaObject.html" title=" " alt="" coords="240,1496,495,2792"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="271,708,270,998,275,1206,285,1419,289,1479,284,1479,279,1419,269,1206,265,998,266,708"/>
+<area shape="rect" id="Node000007" href="$de/d0e/classUnityEngine_1_1GlobalJavaObjectRef.html" title=" " alt="" coords="427,1264,663,1419"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="270,708,270,798,282,925,294,995,312,1066,337,1135,370,1200,391,1229,416,1254,412,1258,387,1232,365,1203,332,1137,307,1068,289,996,276,925,265,798,265,708"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="519,2111,549,2177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="536,2177,529,2816,528,2852,523,2852,523,2816,531,2177"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="583,2111,634,2177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="616,2176,627,2289,633,2456,630,2552,622,2651,606,2750,582,2846,579,2855,574,2853,577,2845,601,2749,617,2650,625,2551,628,2456,622,2289,610,2177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="441,2791,461,2844,465,2854,460,2856,456,2846,436,2793"/>
+<area shape="rect" id="Node000006" href="$d6/d32/interfaceSystem_1_1IDisposable.html" title=" " alt="" coords="687,1309,810,1374"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="713,1386,677,1421,641,1451,600,1474,573,1482,550,1482,530,1484,509,1498,497,1511,493,1508,506,1494,528,1479,550,1477,573,1476,598,1470,638,1447,674,1417,710,1382"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="528,1420,510,1497,501,1536,496,1535,505,1495,523,1418"/>
+<area shape="rect" id="Node000008" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="379,148,711,1201"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="547,1202,547,1248,542,1248,542,1202"/>
+<area shape="poly" id="edge13_Node000008_Node000008" title=" " alt="" coords="713,591,731,625,737,675,733,714,723,745,718,743,728,713,732,675,726,627,709,594"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="240,5,431,85"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="355,98,381,175,376,177,350,99"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="455,5,635,85"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="547,99,547,148,542,148,542,99"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="659,13,822,78"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="733,79,717,133,711,132,728,77"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="721,2111,763,2177"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="753,2177,774,2295,783,2377,787,2469,783,2566,769,2664,756,2712,740,2759,720,2804,695,2847,671,2873,642,2894,639,2890,668,2870,691,2844,715,2802,735,2757,751,2711,764,2663,778,2566,782,2469,778,2378,769,2296,747,2177"/>
+</map>

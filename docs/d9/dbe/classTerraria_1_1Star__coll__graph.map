@@ -1,0 +1,17 @@
+<map id="Terraria.Star" name="Terraria.Star">
+<area shape="rect" id="Node000001" title=" " alt="" coords="363,1343,553,1577"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,276,249,1251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1209,279,1265,310,1317,353,1370,349,1374,305,1320,274,1267,247,1211"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="252,678,262,692,270,711,276,763,272,805,262,835,257,833,267,803,271,763,264,713,257,695,248,681"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="46,133,209,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,212,130,276,125,276,125,212"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="40,5,215,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,85,130,133,125,133,125,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="313,133,355,199"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="348,198,369,275,390,423,400,548,403,659,401,762,399,977,405,1103,419,1250,431,1326,426,1327,414,1251,399,1103,394,977,396,762,397,659,395,548,384,423,363,277,343,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="326,200,257,396,252,394,321,198"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="531,731,561,796"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="548,796,541,989,531,1119,514,1251,498,1327,493,1326,509,1250,526,1119,536,989,543,796"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="619,731,662,796"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="649,796,662,889,668,1022,665,1097,655,1173,638,1248,611,1320,592,1352,567,1381,563,1378,587,1349,606,1318,633,1247,650,1172,660,1096,663,1022,656,889,644,796"/>
+</map>

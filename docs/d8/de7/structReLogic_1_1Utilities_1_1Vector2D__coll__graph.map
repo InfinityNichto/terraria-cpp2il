@@ -1,0 +1,14 @@
+<map id="ReLogic.Utilities.Vector2D" name="ReLogic.Utilities.Vector2D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,1407,506,2416"/>
+<area shape="rect" id="Node000002" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="367,133,539,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="538,203,587,240,609,263,626,289,661,362,689,430,711,494,726,555,736,613,742,670,742,726,739,781,722,894,696,1014,627,1301,605,1384,576,1467,544,1549,509,1626,504,1624,539,1547,571,1466,600,1383,621,1299,690,1013,717,893,734,780,737,725,736,670,731,614,721,556,705,495,684,432,656,364,622,292,605,266,584,244,535,208"/>
+<area shape="rect" id="Node000005" href="$de/d1e/structReLogic_1_1Utilities_1_1Vector2D.html" title=" " alt="" coords="185,291,506,1300"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="448,213,435,291,429,290,443,212"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="366,5,541,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,85,456,133,451,133,451,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="207,133,265,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,181,173,197,133,221,95,253,66,292,49,333,35,383,17,502,9,640,10,788,19,937,32,1078,49,1201,67,1299,88,1379,115,1459,146,1537,180,1612,175,1614,141,1540,110,1461,83,1381,61,1301,43,1202,27,1078,13,937,5,788,4,640,11,501,30,382,44,332,62,289,91,249,130,217,170,193,205,176"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="244,198,257,274,252,275,239,199"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="348,1300,348,1390,343,1390,343,1300"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="508,712,518,727,526,746,533,795,529,835,518,864,513,863,524,833,527,795,521,747,514,729,504,715"/>
+</map>

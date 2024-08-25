@@ -1,0 +1,15 @@
+<map id="System.Net.WebRequest" name="System.Net.WebRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="319,239,624,2160"/>
+<area shape="rect" id="Node000004" href="$d9/d42/classSystem_1_1Net_1_1FileWebRequest.html" title=" " alt="" coords="5,2737,311,3993"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,2174,325,2210,249,2738,244,2737,319,2209,325,2173"/>
+<area shape="rect" id="Node000005" href="$d9/d60/classSystem_1_1Net_1_1FtpWebRequest.html" title=" " alt="" coords="335,2640,608,4091"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="474,2174,474,2640,469,2640,469,2174"/>
+<area shape="rect" id="Node000006" href="$d6/d82/classSystem_1_1Net_1_1HttpWebRequest.html" title=" " alt="" coords="633,2209,1011,4521"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="629,2156,637,2209,632,2210,624,2157"/>
+<area shape="rect" id="Node000002" href="$d9/d0e/classSystem_1_1MarshalByRefObject.html" title=" " alt="" coords="205,5,474,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,203,359,238,353,239,349,203"/>
+<area shape="rect" id="Node000003" href="$d6/d2f/interfaceSystem_1_1Runtime_1_1Serialization_1_1ISerializable.html" title=" " alt="" coords="499,50,708,145"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="599,159,589,239,584,238,594,158"/>
+<area shape="rect" id="Node000007" href="$d6/d82/classSystem_1_1Net_1_1HttpWebRequest.html" title=" " alt="" coords="633,4584,1011,6867"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="825,4535,825,4584,819,4584,819,4535"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEngine.AnimatorStateInfo" name="UnityEngine.AnimatorStateInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,192,221,257"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,5,73,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,71,51,118,54,143,61,167,67,178,62,180,56,169,49,144,46,118,49,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="148,5,191,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,72,157,118,143,169,139,178,134,176,137,167,152,117,162,71"/>
+</map>

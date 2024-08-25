@@ -1,0 +1,57 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d2/d20/interfaceNewtonsoft_1_1Json_1_1Converters_1_1IXmlNode.html" title=" " alt="" coords="5,362,212,402"/>
+<area shape="rect" id="Node000001" href="$d3/ddc/interfaceNewtonsoft_1_1Json_1_1Converters_1_1IXmlDeclaration.html" title=" " alt="" coords="260,53,467,93"/>
+<area shape="poly" id="edge3141_Node000000_Node000001" title=" " alt="" coords="117,348,136,296,166,233,206,167,231,137,258,109,288,91,291,95,262,114,235,140,211,170,171,235,141,299,122,350"/>
+<area shape="rect" id="Node000002" href="$df/d5b/classNewtonsoft_1_1Json_1_1Converters_1_1XDeclarationWrapper.html" title=" " alt="" coords="524,40,731,80"/>
+<area shape="poly" id="edge3153_Node000000_Node000002" title=" " alt="" coords="110,348,122,280,147,193,166,149,191,107,221,69,259,39,297,19,339,8,382,3,426,4,508,17,576,37,574,42,507,22,425,9,382,9,340,13,299,24,261,43,225,73,195,110,171,152,152,195,127,281,116,349"/>
+<area shape="rect" id="Node000011" href="$d4/da0/classNewtonsoft_1_1Json_1_1Converters_1_1XmlDeclarationWrapper.html" title=" " alt="" coords="524,104,731,144"/>
+<area shape="poly" id="edge3167_Node000000_Node000011" title=" " alt="" coords="120,348,139,304,169,252,209,201,232,179,259,160,290,144,323,131,392,115,461,109,524,110,524,115,461,114,393,121,325,136,292,149,261,164,236,183,213,204,174,255,144,306,124,350"/>
+<area shape="rect" id="Node000008" href="$d9/d65/interfaceNewtonsoft_1_1Json_1_1Converters_1_1IXmlDocument.html" title=" " alt="" coords="260,218,467,258"/>
+<area shape="poly" id="edge3144_Node000000_Node000008" title=" " alt="" coords="144,351,197,313,259,275,300,256,303,261,261,279,200,317,147,356"/>
+<area shape="rect" id="Node000007" href="$d4/d96/classNewtonsoft_1_1Json_1_1Converters_1_1XDocumentWrapper.html" title=" " alt="" coords="788,218,995,258"/>
+<area shape="poly" id="edge3155_Node000000_Node000007" title=" " alt="" coords="124,349,145,312,176,272,214,233,259,204,302,191,359,185,426,184,500,187,653,201,788,219,787,224,653,206,500,192,426,189,359,190,303,196,261,209,217,237,180,275,150,315,128,351"/>
+<area shape="rect" id="Node000009" href="$df/d9f/classNewtonsoft_1_1Json_1_1Converters_1_1XmlDocumentWrapper.html" title=" " alt="" coords="524,276,731,316"/>
+<area shape="poly" id="edge3169_Node000000_Node000009" title=" " alt="" coords="161,354,208,334,259,318,327,306,397,297,524,291,524,297,397,303,328,311,261,323,210,339,163,359"/>
+<area shape="rect" id="Node000013" href="$d5/ddd/interfaceNewtonsoft_1_1Json_1_1Converters_1_1IXmlDocumentType.html" title=" " alt="" coords="260,562,467,602"/>
+<area shape="poly" id="edge3147_Node000000_Node000013" title=" " alt="" coords="134,412,188,477,223,511,261,541,297,560,294,564,259,546,220,515,184,480,130,415"/>
+<area shape="rect" id="Node000014" href="$df/df7/classNewtonsoft_1_1Json_1_1Converters_1_1XDocumentTypeWrapper.html" title=" " alt="" coords="524,562,731,602"/>
+<area shape="poly" id="edge3154_Node000000_Node000014" title=" " alt="" coords="122,414,141,462,170,517,210,571,234,594,261,612,289,625,314,631,337,633,359,631,407,622,466,612,542,600,543,605,467,617,408,627,360,637,337,639,313,637,287,630,259,617,231,598,206,574,165,520,136,464,117,416"/>
+<area shape="rect" id="Node000012" href="$dc/d3c/classNewtonsoft_1_1Json_1_1Converters_1_1XmlDocumentTypeWrapper.html" title=" " alt="" coords="524,498,731,538"/>
+<area shape="poly" id="edge3168_Node000000_Node000012" title=" " alt="" coords="139,410,192,458,225,480,261,497,327,516,396,525,463,528,524,527,524,532,463,533,395,530,326,521,259,502,223,484,189,462,136,414"/>
+<area shape="rect" id="Node000016" href="$d8/d03/interfaceNewtonsoft_1_1Json_1_1Converters_1_1IXmlElement.html" title=" " alt="" coords="260,448,467,488"/>
+<area shape="poly" id="edge3150_Node000000_Node000016" title=" " alt="" coords="183,404,304,445,302,450,181,409"/>
+<area shape="rect" id="Node000017" href="$da/d14/classNewtonsoft_1_1Json_1_1Converters_1_1XElementWrapper.html" title=" " alt="" coords="788,626,995,666"/>
+<area shape="poly" id="edge3156_Node000000_Node000017" title=" " alt="" coords="121,415,139,478,168,561,209,650,234,694,262,734,320,806,371,858,399,879,431,897,516,932,578,953,631,963,656,963,681,958,709,948,739,932,773,906,802,873,825,836,845,797,871,722,884,666,889,667,876,724,850,799,830,839,806,876,776,909,741,936,711,953,683,963,656,968,630,969,577,958,514,937,429,902,396,883,367,862,316,810,258,737,230,696,205,653,163,563,134,480,116,416"/>
+<area shape="rect" id="Node000015" href="$de/d02/classNewtonsoft_1_1Json_1_1Converters_1_1XmlElementWrapper.html" title=" " alt="" coords="524,384,731,424"/>
+<area shape="poly" id="edge3170_Node000000_Node000015" title=" " alt="" coords="226,384,524,397,524,402,226,390"/>
+<area shape="rect" id="Node000003" href="$da/d7c/classNewtonsoft_1_1Json_1_1Converters_1_1XObjectWrapper.html" title=" " alt="" coords="260,684,467,724"/>
+<area shape="poly" id="edge3157_Node000000_Node000003" title=" " alt="" coords="123,414,142,466,171,531,211,597,235,628,262,656,280,670,301,681,298,686,277,675,258,660,231,632,207,600,166,533,137,468,118,416"/>
+<area shape="rect" id="Node000010" href="$db/d3a/classNewtonsoft_1_1Json_1_1Converters_1_1XmlNodeWrapper.html" title=" " alt="" coords="260,333,467,373"/>
+<area shape="poly" id="edge3171_Node000000_Node000010" title=" " alt="" coords="225,366,259,362,260,367,226,371"/>
+<area shape="poly" id="edge3142_Node000001_Node000002" title=" " alt="" coords="480,64,524,62,524,67,481,70"/>
+<area shape="poly" id="edge3143_Node000001_Node000011" title=" " alt="" coords="481,93,524,101,523,106,480,98"/>
+<area shape="poly" id="edge3145_Node000008_Node000007" title=" " alt="" coords="481,236,788,236,788,241,481,241"/>
+<area shape="poly" id="edge3146_Node000008_Node000009" title=" " alt="" coords="470,259,535,273,534,278,469,264"/>
+<area shape="poly" id="edge3148_Node000013_Node000014" title=" " alt="" coords="481,580,524,580,524,585,481,585"/>
+<area shape="poly" id="edge3149_Node000013_Node000012" title=" " alt="" coords="459,556,544,536,545,541,460,562"/>
+<area shape="poly" id="edge3151_Node000016_Node000017" title=" " alt="" coords="480,449,542,447,609,450,677,462,741,484,788,514,828,552,859,592,881,624,876,627,855,595,824,556,785,518,739,489,675,467,608,455,542,452,480,454"/>
+<area shape="poly" id="edge3152_Node000016_Node000015" title=" " alt="" coords="459,442,544,421,545,426,460,447"/>
+<area shape="poly" id="edge3163_Node000003_Node000002" title=" " alt="" coords="409,673,440,646,464,613,473,591,478,565,483,501,480,348,478,269,481,196,491,135,500,110,513,90,526,78,529,82,517,93,505,112,496,136,486,197,483,269,485,348,489,501,484,566,478,593,469,615,444,650,412,677"/>
+<area shape="poly" id="edge3164_Node000003_Node000014" title=" " alt="" coords="430,676,465,656,488,634,498,623,513,612,539,600,542,605,516,617,502,627,492,637,468,660,432,680"/>
+<area shape="rect" id="Node000004" href="$d7/d87/classNewtonsoft_1_1Json_1_1Converters_1_1XAttributeWrapper.html" title=" " alt="" coords="524,690,731,730"/>
+<area shape="poly" id="edge3158_Node000003_Node000004" title=" " alt="" coords="481,704,524,705,524,710,481,709"/>
+<area shape="rect" id="Node000005" href="$d1/d0b/classNewtonsoft_1_1Json_1_1Converters_1_1XCommentWrapper.html" title=" " alt="" coords="524,754,731,794"/>
+<area shape="poly" id="edge3159_Node000003_Node000005" title=" " alt="" coords="453,725,552,752,551,757,451,730"/>
+<area shape="rect" id="Node000006" href="$d2/d4d/classNewtonsoft_1_1Json_1_1Converters_1_1XContainerWrapper.html" title=" " alt="" coords="524,626,731,666"/>
+<area shape="poly" id="edge3160_Node000003_Node000006" title=" " alt="" coords="469,678,534,664,535,669,470,683"/>
+<area shape="rect" id="Node000018" href="$da/d23/classNewtonsoft_1_1Json_1_1Converters_1_1XProcessingInstructionWrapper.html" title=" " alt="" coords="515,818,740,858"/>
+<area shape="poly" id="edge3165_Node000003_Node000018" title=" " alt="" coords="401,730,454,768,516,804,546,816,544,821,514,809,451,773,398,734"/>
+<area shape="rect" id="Node000019" href="$d3/d3c/classNewtonsoft_1_1Json_1_1Converters_1_1XTextWrapper.html" title=" " alt="" coords="524,882,731,922"/>
+<area shape="poly" id="edge3166_Node000003_Node000019" title=" " alt="" coords="387,733,440,802,476,838,516,868,539,880,537,885,513,872,472,842,436,805,383,737"/>
+<area shape="poly" id="edge3161_Node000006_Node000007" title=" " alt="" coords="733,617,738,612,776,571,807,524,831,473,850,421,875,326,885,258,891,259,880,327,855,423,836,475,811,526,780,574,742,616,736,621"/>
+<area shape="poly" id="edge3162_Node000006_Node000017" title=" " alt="" coords="745,644,788,644,788,649,745,649"/>
+<area shape="poly" id="edge3172_Node000010_Node000011" title=" " alt="" coords="400,322,465,268,603,142,607,146,468,272,403,326"/>
+<area shape="poly" id="edge3174_Node000010_Node000009" title=" " alt="" coords="469,327,534,313,535,318,470,333"/>
+<area shape="poly" id="edge3173_Node000010_Node000012" title=" " alt="" coords="410,378,596,496,593,500,407,383"/>
+<area shape="poly" id="edge3175_Node000010_Node000015" title=" " alt="" coords="481,373,524,381,523,386,480,378"/>
+</map>

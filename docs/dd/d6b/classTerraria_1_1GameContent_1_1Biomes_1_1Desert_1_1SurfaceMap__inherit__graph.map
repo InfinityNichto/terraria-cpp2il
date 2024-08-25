@@ -1,0 +1,5 @@
+<map id="Terraria.GameContent.Biomes.Desert.SurfaceMap" name="Terraria.GameContent.Biomes.Desert.SurfaceMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,5,221,255"/>
+<area shape="rect" id="Node000002" href="$d2/dbe/classTerraria_1_1GameContent_1_1Biomes_1_1Desert_1_1SurfaceMap.html" title=" " alt="" coords="5,317,223,567"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,268,117,317,111,317,111,268"/>
+</map>

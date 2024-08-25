@@ -1,0 +1,14 @@
+<map id="System.ComponentModel.RecommendedAsConfigurableAttribute" name="System.ComponentModel.RecommendedAsConfigurableAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,1813,431,2017"/>
+<area shape="rect" id="Node000002" href="$d1/d05/classSystem_1_1Attribute.html" title=" " alt="" coords="5,133,339,1455"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,1468,57,1533,67,1597,81,1660,101,1720,126,1768,158,1811,154,1815,121,1771,96,1722,76,1661,62,1598,52,1534,47,1469"/>
+<area shape="rect" id="Node000005" href="$d1/de8/classSystem_1_1ComponentModel_1_1RecommendedAsConfigurableAttribute.html" title=" " alt="" coords="111,1517,431,1721"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="255,1468,261,1517,256,1517,250,1469"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="398,761,666,827"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="544,826,580,974,598,1080,612,1202,616,1332,607,1466,596,1533,581,1598,560,1662,533,1723,516,1751,495,1778,446,1823,442,1819,491,1774,511,1748,528,1720,555,1660,576,1597,591,1532,602,1465,611,1332,606,1202,593,1081,574,975,539,827"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="528,827,505,933,466,1089,415,1272,353,1456,333,1503,328,1501,348,1454,410,1270,461,1088,500,932,523,826"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="511,5,553,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="535,84,535,761,529,761,529,84"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="273,1722,273,1797,268,1797,268,1722"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="432,1597,450,1606,457,1619,455,1628,448,1635,444,1631,450,1625,452,1620,446,1609,430,1602"/>
+</map>

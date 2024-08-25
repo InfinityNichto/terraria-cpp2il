@@ -1,0 +1,12 @@
+<map id="UnityEngine.NativeClassAttribute" name="UnityEngine.NativeClassAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="357,1517,589,1667"/>
+<area shape="rect" id="Node000002" href="$d1/d05/classSystem_1_1Attribute.html" title=" " alt="" coords="5,133,339,1455"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,1443,353,1453,374,1485,398,1515,394,1519,369,1489,348,1456,343,1445"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="363,761,584,827"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="476,827,476,1500,471,1500,471,827"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="555,5,605,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="542,52,509,69,494,81,482,96,460,139,442,184,429,231,420,279,411,376,413,472,422,563,437,644,466,761,461,762,431,645,417,564,407,473,405,376,414,278,424,230,437,182,455,137,478,93,490,78,506,65,540,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="609,761,765,827"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="619,56,640,72,657,93,678,138,695,184,718,281,730,379,731,475,727,566,717,646,697,762,692,761,712,646,721,565,726,475,724,379,713,282,690,186,673,140,652,96,636,76,616,60"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="693,827,700,942,701,1023,696,1113,686,1210,667,1308,637,1404,596,1495,589,1506,584,1503,591,1492,632,1402,661,1307,680,1209,691,1113,695,1023,695,942,688,827"/>
+</map>

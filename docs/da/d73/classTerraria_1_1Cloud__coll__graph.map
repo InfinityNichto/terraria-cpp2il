@@ -1,0 +1,23 @@
+<map id="Terraria.Cloud" name="Terraria.Cloud">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,1372,671,1612"/>
+<area shape="rect" id="Node000002" href="$dd/da4/structMicrosoft_1_1Xna_1_1Framework_1_1Vector2.html" title=" " alt="" coords="5,335,249,1309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1246,283,1298,319,1346,349,1376,383,1403,456,1445,453,1449,380,1407,345,1380,315,1350,278,1301,247,1249"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="252,738,262,752,269,771,276,822,272,863,262,892,257,891,267,861,271,822,264,772,257,754,248,741"/>
+<area shape="rect" id="Node000003" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="46,133,209,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,212,130,334,125,334,125,212"/>
+<area shape="rect" id="Node000004" href="$d6/d43/interfaceSystem_1_1IEquatable.html" title=" " alt="" coords="40,5,215,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,85,130,133,125,133,125,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="313,133,355,199"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="345,198,350,222,361,278,369,334,374,430,375,550,372,827,373,969,380,1102,394,1218,404,1267,418,1308,437,1346,461,1381,456,1384,432,1349,413,1310,399,1268,389,1219,374,1103,368,969,367,827,370,550,369,430,363,335,356,279,345,223,339,199"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="327,200,257,420,252,419,321,198"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="557,133,599,199"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="568,200,546,262,529,335,508,482,494,607,487,718,485,821,489,925,498,1036,529,1309,536,1355,531,1356,523,1310,493,1036,484,925,480,821,481,718,489,607,503,482,523,334,541,260,563,198"/>
+<area shape="rect" id="Node000009" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom.html" title=" " alt="" coords="594,645,799,999"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="586,198,664,629,659,629,581,199"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="929,789,1025,855"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="982,855,986,939,981,1055,973,1120,959,1186,939,1250,912,1311,893,1340,869,1367,842,1390,813,1411,750,1444,688,1467,686,1462,748,1439,810,1406,839,1386,866,1363,889,1337,908,1308,934,1248,954,1184,967,1119,975,1055,980,939,977,855"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="784,133,815,199"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="817,189,831,222,835,247,835,266,831,311,841,815,841,979,838,1127,829,1243,822,1284,814,1310,789,1349,758,1383,723,1412,687,1437,684,1432,720,1408,754,1379,785,1346,809,1308,817,1282,824,1242,833,1127,836,979,836,815,826,311,830,266,830,247,826,223,812,192"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="786,183,770,202,758,224,726,324,705,429,695,533,691,629,686,629,689,532,700,428,720,323,753,222,766,199,782,180"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="666,999,598,1356,593,1355,661,998"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="System.Reflection.RuntimePropertyInfo" name="System.Reflection.RuntimePropertyInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="152,1523,501,3145"/>
+<area shape="rect" id="Node000002" href="$d2/d9d/classSystem_1_1Reflection_1_1PropertyInfo.html" title=" " alt="" coords="5,761,355,1475"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,1488,231,1522,226,1523,222,1489"/>
+<area shape="rect" id="Node000003" href="$d5/d20/classSystem_1_1Reflection_1_1MemberInfo.html" title=" " alt="" coords="51,232,309,713"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,727,183,761,177,761,177,727"/>
+<area shape="rect" id="Node000004" href="$d7/da4/interfaceSystem_1_1Reflection_1_1ICustomAttributeProvider.html" title=" " alt="" coords="51,5,309,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="183,198,183,232,177,232,177,198"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="379,1078,570,1158"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="471,1172,428,1523,423,1522,466,1171"/>
+</map>

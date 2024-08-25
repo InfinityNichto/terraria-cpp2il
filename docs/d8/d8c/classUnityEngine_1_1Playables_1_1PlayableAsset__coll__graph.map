@@ -1,0 +1,20 @@
+<map id="UnityEngine.Playables.PlayableAsset" name="UnityEngine.Playables.PlayableAsset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,2888,701,3195"/>
+<area shape="rect" id="Node000002" href="$da/d87/classUnityEngine_1_1ScriptableObject.html" title=" " alt="" coords="439,2605,730,2839"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="587,2853,587,2888,582,2888,582,2853"/>
+<area shape="rect" id="Node000003" href="$d6/d8b/classUnityEngine_1_1Object.html" title=" " alt="" coords="442,1279,727,2556"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="587,2570,587,2605,582,2605,582,2570"/>
+<area shape="rect" id="Node000004" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="144,148,476,1201"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="429,1201,443,1262,437,1263,424,1202"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="478,591,496,625,503,675,499,714,488,745,483,743,493,713,497,675,491,627,474,594"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,196,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="120,98,146,175,141,177,115,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="220,5,400,85"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="313,99,313,148,307,148,307,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="425,13,587,78"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="499,79,482,133,477,132,494,77"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="569,642,600,707"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="587,708,587,1263,582,1263,582,708"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="777,642,827,707"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="806,708,806,801,804,937,795,1095,775,1255,757,1352,734,1450,729,1449,752,1351,770,1254,789,1094,799,936,801,801,800,708"/>
+</map>

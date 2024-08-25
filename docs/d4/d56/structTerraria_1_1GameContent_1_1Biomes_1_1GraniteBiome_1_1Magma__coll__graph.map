@@ -1,0 +1,7 @@
+<map id="Terraria.GameContent.Biomes.GraniteBiome.Magma" name="Terraria.GameContent.Biomes.GraniteBiome.Magma">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,279,376"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="57,5,115,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,71,90,124,92,132,87,133,85,124,81,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,5,221,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,72,178,132,173,131,189,70"/>
+</map>

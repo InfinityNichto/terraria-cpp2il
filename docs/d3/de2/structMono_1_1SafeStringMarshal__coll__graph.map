@@ -1,0 +1,16 @@
+<map id="Mono.SafeStringMarshal" name="Mono.SafeStringMarshal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="142,1264,341,1497"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,642,192,707"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,720,207,1201,220,1263,214,1265,201,1202,105,721"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="216,642,267,707"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,708,244,1247,239,1247,239,708"/>
+<area shape="rect" id="Node000004" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="291,148,623,1201"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="299,1202,284,1249,279,1247,293,1201"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="626,591,643,625,650,675,646,714,635,745,630,743,641,713,645,675,638,627,621,594"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="153,5,343,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="268,98,294,175,289,177,263,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="367,5,547,85"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="460,99,460,148,455,148,455,99"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="572,13,735,78"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="646,79,629,133,624,132,641,77"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="System.Security.Cryptography.X509Certificates.X509Certificate2" name="System.Security.Cryptography.X509Certificates.X509Certificate2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="198,1357,447,2405"/>
+<area shape="rect" id="Node000002" href="$dc/d5f/classSystem_1_1Security_1_1Cryptography_1_1X509Certificates_1_1X509Certificate.html" title=" " alt="" coords="157,148,489,1309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,1323,325,1357,320,1357,320,1323"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,20,192,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,98,159,227,154,229,111,99"/>
+<area shape="rect" id="Node000004" href="$d0/d59/classglobal_1_1SystemRuntime_1_1Serialization_1_1IDeserializationCallback.html" title=" " alt="" coords="216,5,429,100"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="325,114,325,148,320,148,320,114"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="454,13,645,93"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="534,107,491,235,486,233,529,105"/>
+</map>

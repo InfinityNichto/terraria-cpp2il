@@ -1,0 +1,7 @@
+<map id="Terraria.GameContent.Skies.MartianSky" name="Terraria.GameContent.Skies.MartianSky">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,655,213,1077"/>
+<area shape="rect" id="Node000002" href="$d7/da8/classTerraria_1_1Graphics_1_1Effects_1_1CustomSky.html" title=" " alt="" coords="5,343,221,607"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,621,116,655,111,655,111,621"/>
+<area shape="rect" id="Node000003" href="$d1/d23/classTerraria_1_1Graphics_1_1Effects_1_1GameEffect.html" title=" " alt="" coords="21,5,206,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,308,116,342,111,342,111,308"/>
+</map>

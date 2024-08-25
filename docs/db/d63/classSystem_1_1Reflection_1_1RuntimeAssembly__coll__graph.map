@@ -1,0 +1,30 @@
+<map id="System.Reflection.RuntimeAssembly" name="System.Reflection.RuntimeAssembly">
+<area shape="rect" id="Node000001" title=" " alt="" coords="764,2024,1165,3335"/>
+<area shape="rect" id="Node000002" href="$d5/d6c/classSystem_1_1Reflection_1_1Assembly.html" title=" " alt="" coords="5,247,407,1888"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,1874,420,1887,496,2035,584,2179,676,2314,766,2435,762,2438,672,2317,579,2182,492,2037,416,1889,410,1876"/>
+<area shape="rect" id="Node000003" href="$d7/da4/interfaceSystem_1_1Reflection_1_1ICustomAttributeProvider.html" title=" " alt="" coords="77,5,335,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="209,198,209,246,203,246,203,198"/>
+<area shape="rect" id="Node000010" href="$d5/d6c/classSystem_1_1Reflection_1_1Assembly.html" title=" " alt="" coords="431,247,832,1888"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="348,183,392,216,420,245,433,264,428,267,416,248,388,220,345,187"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="587,55,777,135"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="632,146,575,186,552,198,530,205,491,211,455,221,438,232,420,249,409,261,405,258,416,245,435,227,453,216,490,206,529,199,550,193,573,182,629,141"/>
+<area shape="rect" id="Node000006" href="$db/db4/structSystem_1_1IntPtr.html" title=" " alt="" coords="935,541,1267,1594"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="791,137,828,158,864,183,897,212,925,245,968,313,1003,386,1031,462,1054,539,1049,541,1026,464,998,388,963,316,921,248,893,216,860,187,825,163,789,142"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="682,149,677,247,671,246,677,149"/>
+<area shape="rect" id="Node000005" href="$d3/d6a/classglobal_1_1SystemRuntime_1_1InteropServices_1_1__Assembly.html" title=" " alt="" coords="359,55,562,135"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="448,149,421,247,409,289,404,288,415,246,443,147"/>
+<area shape="poly" id="edge14_Node000010_Node000005" title=" " alt="" coords="473,148,490,246,485,247,467,149"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1059,1595,1024,2008,1019,2007,1054,1594"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="1269,941,1279,964,1287,992,1293,1067,1289,1131,1276,1179,1271,1178,1284,1130,1288,1067,1282,993,1274,965,1264,943"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="912,55,1092,135"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1010,149,1050,540,1045,541,1005,149"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1117,62,1279,127"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="1197,128,1158,525,1152,524,1192,127"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="856,1035,911,1100"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="888,1100,926,1888,932,2008,927,2008,921,1888,882,1100"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="743,1888,766,1999,768,2008,763,2009,761,2001,738,1889"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1361,1035,1403,1100"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="1388,1100,1397,1228,1402,1424,1399,1537,1390,1655,1375,1773,1351,1889,1317,2003,1275,2116,1227,2226,1175,2329,1171,2327,1222,2223,1270,2114,1312,2001,1346,1887,1370,1773,1385,1654,1393,1537,1396,1424,1392,1228,1383,1100"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1463,1035,1514,1100"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="1496,1100,1514,1245,1522,1350,1526,1470,1524,1600,1513,1735,1491,1871,1475,1937,1455,2001,1431,2064,1402,2126,1334,2246,1257,2358,1178,2457,1174,2454,1253,2354,1329,2243,1397,2124,1426,2062,1450,1999,1470,1935,1486,1870,1508,1735,1519,1600,1521,1470,1517,1350,1509,1245,1491,1101"/>
+</map>

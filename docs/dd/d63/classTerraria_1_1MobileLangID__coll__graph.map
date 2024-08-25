@@ -1,0 +1,7 @@
+<map id="Terraria.MobileLangID" name="Terraria.MobileLangID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,309,232,575"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,55,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,71,23,168,26,227,36,285,38,293,33,294,31,286,21,227,18,168,25,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="191,5,222,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,71,200,168,192,227,180,286,178,294,173,293,175,285,187,226,195,167,203,71"/>
+</map>

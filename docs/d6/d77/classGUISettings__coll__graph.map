@@ -1,0 +1,9 @@
+<map id="GUISettings" name="GUISettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,163,249,303"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,70,40,104,54,137,61,148,57,151,50,140,35,106,28,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="106,5,193,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,71,152,146,147,146,147,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="328,5,371,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="349,72,340,106,322,140,296,167,265,188,262,183,292,162,318,137,335,105,344,70"/>
+</map>

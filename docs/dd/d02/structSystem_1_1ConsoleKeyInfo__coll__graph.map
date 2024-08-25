@@ -1,0 +1,9 @@
+<map id="System.ConsoleKeyInfo" name="System.ConsoleKeyInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,133,267,352"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,70,75,117,70,120,43,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="73,5,215,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,71,147,117,141,117,141,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="240,5,419,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,73,257,123,253,119,298,69"/>
+</map>

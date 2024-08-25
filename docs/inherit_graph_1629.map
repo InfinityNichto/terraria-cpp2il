@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$df/dd5/interfaceSystem_1_1IAsyncResult.html" title=" " alt="" coords="5,110,164,135"/>
+<area shape="rect" id="Node000001" href="$d4/dd5/classSystem_1_1IOAsyncResult.html" title=" " alt="" coords="235,17,405,42"/>
+<area shape="poly" id="edge3437_Node000000_Node000001" title=" " alt="" coords="120,101,211,59,269,40,271,45,213,64,122,106"/>
+<area shape="rect" id="Node000003" href="$d7/d4a/classSystem_1_1Net_1_1HttpStreamAsyncResult.html" title=" " alt="" coords="212,73,428,113"/>
+<area shape="poly" id="edge3439_Node000000_Node000003" title=" " alt="" coords="177,108,211,104,212,109,178,114"/>
+<area shape="rect" id="Node000004" href="$db/d9f/classSystem_1_1Net_1_1LazyAsyncResult.html" title=" " alt="" coords="214,138,426,163"/>
+<area shape="poly" id="edge3440_Node000000_Node000004" title=" " alt="" coords="178,131,214,135,214,141,177,136"/>
+<area shape="rect" id="Node000008" href="$d9/d92/classSystem_1_1Net_1_1ListenerAsyncResult.html" title=" " alt="" coords="223,188,417,228"/>
+<area shape="poly" id="edge3444_Node000000_Node000008" title=" " alt="" coords="128,138,213,172,252,185,250,190,211,177,126,143"/>
+<area shape="rect" id="Node000002" href="$dd/d07/classSystem_1_1Net_1_1Sockets_1_1SocketAsyncResult.html" title=" " alt="" coords="494,5,693,45"/>
+<area shape="poly" id="edge3438_Node000001_Node000002" title=" " alt="" coords="418,25,494,24,494,29,418,31"/>
+<area shape="rect" id="Node000005" href="$da/d0f/classSystem_1_1Net_1_1Base64Stream_1_1ReadAsyncResult.html" title=" " alt="" coords="493,69,694,109"/>
+<area shape="poly" id="edge3441_Node000004_Node000005" title=" " alt="" coords="390,132,503,107,504,112,391,138"/>
+<area shape="rect" id="Node000006" href="$df/d00/classSystem_1_1Net_1_1Base64Stream_1_1WriteAsyncResult.html" title=" " alt="" coords="493,133,694,173"/>
+<area shape="poly" id="edge3442_Node000004_Node000006" title=" " alt="" coords="440,149,492,150,492,155,440,154"/>
+<area shape="rect" id="Node000007" href="$d3/db6/classSystem_1_1Net_1_1ContextAwareResult.html" title=" " alt="" coords="476,198,711,223"/>
+<area shape="poly" id="edge3443_Node000004_Node000007" title=" " alt="" coords="391,164,477,183,534,195,533,201,475,188,390,169"/>
+</map>

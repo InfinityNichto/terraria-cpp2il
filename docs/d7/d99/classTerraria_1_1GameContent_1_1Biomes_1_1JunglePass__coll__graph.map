@@ -1,0 +1,12 @@
+<map id="Terraria.GameContent.Biomes.JunglePass" name="Terraria.GameContent.Biomes.JunglePass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="237,485,490,872"/>
+<area shape="rect" id="Node000002" href="$dd/deb/classTerraria_1_1WorldBuilding_1_1GenPass.html" title=" " alt="" coords="131,257,409,436"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,448,311,485,306,486,296,450"/>
+<area shape="rect" id="Node000003" href="$d4/dd6/classTerraria_1_1WorldBuilding_1_1GenBase.html" title=" " alt="" coords="5,5,225,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="184,205,216,256,212,259,180,208"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="250,67,301,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="277,133,275,240,270,240,272,133"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="386,67,445,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="420,133,425,257,429,347,429,386,425,436,420,470,415,469,419,436,424,386,424,347,419,257,414,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="399,134,333,244,329,242,394,131"/>
+</map>

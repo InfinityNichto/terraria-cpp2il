@@ -1,0 +1,23 @@
+<map id="System.Decimal" name="System.Decimal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="921,221,1237,1772"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,20,200,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,93,923,841,919,845,144,97"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="224,20,419,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,95,922,797,918,800,353,98"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="443,20,634,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="566,96,923,719,918,721,561,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="659,13,853,93"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="776,105,923,533,918,535,771,107"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="878,13,1058,93"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="977,106,990,221,985,222,972,107"/>
+<area shape="rect" id="Node000007" href="$d0/d59/classglobal_1_1SystemRuntime_1_1Serialization_1_1IDeserializationCallback.html" title=" " alt="" coords="1083,5,1296,100"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1185,114,1172,221,1167,221,1180,113"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1320,20,1547,85"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1419,100,1239,576,1234,575,1414,98"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1571,20,1677,85"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1608,87,1247,710,1243,707,1603,85"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1701,20,1731,85"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1709,87,1691,140,1665,199,1568,363,1460,523,1351,671,1249,800,1245,796,1347,668,1456,520,1564,360,1660,196,1686,138,1704,85"/>
+<area shape="rect" id="Node000011" href="$d7/d2d/classulong.html" title=" " alt="" coords="1763,20,1813,85"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1784,86,1768,140,1742,199,1689,289,1630,378,1501,548,1370,702,1250,831,1246,827,1367,698,1497,545,1625,375,1684,286,1738,196,1763,138,1778,85"/>
+</map>

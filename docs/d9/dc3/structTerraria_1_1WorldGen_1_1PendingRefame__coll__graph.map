@@ -1,0 +1,7 @@
+<map id="Terraria.WorldGen.PendingRefame" name="Terraria.WorldGen.PendingRefame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,192,243"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,5,46,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="28,71,27,104,34,138,40,148,36,151,30,140,22,105,22,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="145,5,188,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,72,140,140,135,150,130,147,135,138,157,70"/>
+</map>

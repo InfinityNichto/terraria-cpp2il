@@ -1,0 +1,28 @@
+<map id="System.Runtime.Remoting.Messaging.MessageDictionary.DictionaryEnumerator" name="System.Runtime.Remoting.Messaging.MessageDictionary.DictionaryEnumerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="301,1249,586,1473"/>
+<area shape="rect" id="Node000002" href="$dd/d9a/classglobal_1_1SystemCollections_1_1IDictionaryEnumerator.html" title=" " alt="" coords="5,777,188,857"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,870,112,938,129,1020,158,1106,178,1147,201,1185,248,1237,302,1281,299,1285,244,1241,197,1188,173,1149,153,1108,124,1021,107,939,98,871"/>
+<area shape="rect" id="Node000003" href="$d3/d6c/classglobal_1_1SystemCollections_1_1IEnumerator.html" title=" " alt="" coords="212,777,395,857"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="319,869,417,1249,412,1250,314,871"/>
+<area shape="rect" id="Node000004" href="$dc/d5d/classSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1MessageDictionary.html" title=" " alt="" coords="624,447,913,1187"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="626,1091,568,1188,536,1237,532,1234,564,1185,622,1088"/>
+<area shape="rect" id="Node000005" href="$d4/d58/classglobal_1_1SystemCollections_1_1IDictionary.html" title=" " alt="" coords="1252,219,1435,299"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1344,314,1339,343,1330,373,1316,401,1294,425,1262,439,1218,444,1110,439,1002,433,959,437,927,449,915,458,912,454,925,444,958,432,1002,427,1110,433,1218,438,1261,434,1291,420,1311,398,1325,371,1334,342,1339,313"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classglobal_1_1SystemCollections_1_1ICollection.html" title=" " alt="" coords="471,219,653,299"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="586,311,624,407,639,446,634,447,620,409,581,313"/>
+<area shape="rect" id="Node000007" href="$da/d15/classglobal_1_1SystemCollections_1_1IEnumerable.html" title=" " alt="" coords="677,219,860,299"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="771,313,771,446,766,446,766,313"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="360,227,447,292"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="407,292,441,1233,436,1233,402,292"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="418,291,460,383,470,404,485,421,506,430,525,432,546,433,568,444,615,490,611,494,564,449,544,439,525,437,504,435,482,425,466,407,456,385,413,293"/>
+<area shape="rect" id="Node000009" href="$d6/dbf/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMethodMessage.html" title=" " alt="" coords="884,135,1085,384"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="939,385,921,432,916,430,934,383"/>
+<area shape="rect" id="Node000010" href="$d0/d5e/interfaceSystem_1_1Runtime_1_1Remoting_1_1Messaging_1_1IMessage.html" title=" " alt="" coords="882,5,1087,85"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="987,99,987,135,982,135,982,99"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1110,227,1161,292"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="1136,293,1125,340,1115,364,1100,386,1080,403,1061,412,1013,425,988,431,967,433,948,436,928,449,927,449,923,445,924,445,946,431,966,427,987,426,1012,420,1059,407,1077,399,1096,382,1110,361,1120,338,1130,292"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1185,227,1227,292"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="1211,292,1210,324,1204,360,1191,395,1168,425,1148,435,1122,439,1057,440,987,440,955,443,928,451,927,446,954,438,987,435,1057,435,1122,434,1147,429,1164,421,1186,393,1199,359,1204,324,1205,292"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="937,784,968,849"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="963,849,975,917,981,1006,978,1054,969,1101,953,1147,928,1188,897,1223,860,1254,820,1279,778,1300,689,1331,603,1350,601,1344,687,1326,775,1295,818,1274,857,1249,893,1220,924,1185,948,1145,964,1100,972,1053,976,1006,970,917,958,850"/>
+</map>

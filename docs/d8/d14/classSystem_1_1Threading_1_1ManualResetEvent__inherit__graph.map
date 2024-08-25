@@ -1,0 +1,11 @@
+<map id="System.Threading.ManualResetEvent" name="System.Threading.ManualResetEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,1676,327,1771"/>
+<area shape="rect" id="Node000002" href="$d7/d8c/classSystem_1_1Threading_1_1EventWaitHandle.html" title=" " alt="" coords="82,1459,350,1628"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,1642,219,1676,213,1676,213,1642"/>
+<area shape="rect" id="Node000003" href="$db/d04/classSystem_1_1Threading_1_1WaitHandle.html" title=" " alt="" coords="36,133,396,1411"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,1424,219,1459,213,1459,213,1424"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,208,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,99,122,133,117,133,112,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="232,13,419,78"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="321,92,315,134,310,133,316,91"/>
+</map>
